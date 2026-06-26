@@ -2,6 +2,8 @@ import time
 import json
 import re
 import subprocess
+import os
+import requests
 import undetected_chromedriver as uc
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -135,10 +137,19 @@ def scrape_cryptopanic(num_items=30, output_file="cryptopanic_news.json"):
         driver.quit()
 
     # Save to JSON
-    with open(output_file, "w", encoding="utf-8") as f:
-        json.dump(collected[:num_items], f, indent=2, ensure_ascii=False)
+    # with open(output_file, "w", encoding="utf-8") as f:
+    #     json.dump(collected[:num_items], f, indent=2, ensure_ascii=False)
 
-    print(f"Scraping complete. Saved {len(collected[:num_items])} items to {output_file}")
+    # print(f"Scraping complete. Saved {len(collected[:num_items])} items to {output_file}")
+
+    # Push to API endpoint
+    api_url = os.environ.get("NEWS_API_URL", "https://binance-autopost1.onrender.com/api/news")
+    print(f"Sending news payload to API endpoint: {api_url}")
+    try:
+        response = requests.post(api_url, json=collected[:num_items], headers={"Content-Type": "application/json"}, timeout=10)
+        print(f"API Response: Status {response.status_code}, Body: {response.text}")
+    except Exception as e:
+        print(f"Failed to send news to API endpoint: {e}")
 
 if __name__ == "__main__":
     scrape_cryptopanic(num_items=30)

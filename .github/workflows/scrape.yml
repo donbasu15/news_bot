@@ -1,9 +1,7 @@
 name: Scrape CryptoPanic News
 
 on:
-  schedule:
-    - cron: '*/25 * * * *' # Runs every 25 minutes
-  workflow_dispatch: # Allows manual run from GitHub Actions tab
+  workflow_dispatch: # Allows manual and API triggers
 
 jobs:
   scrape:
@@ -16,8 +14,8 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
-          cache: 'pip' # Speeds up subsequent runs by caching dependencies
+          python-version: "3.11"
+          cache: "pip" # Speeds up subsequent runs by caching dependencies
 
       - name: Install dependencies
         run: |
@@ -26,11 +24,3 @@ jobs:
 
       - name: Run Scraper
         run: python main.py
-
-      - name: Commit and Push JSON Data
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add cryptopanic_news.json
-          git commit -m "Auto-update news: $(date)" || exit 0
-          git push
