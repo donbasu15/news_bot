@@ -143,7 +143,7 @@ def scrape_cryptopanic(num_items=30, output_file="cryptopanic_news.json"):
     # print(f"Scraping complete. Saved {len(collected[:num_items])} items to {output_file}")
 
     # Push to API endpoint
-    api_url = os.environ.get("NEWS_API_URL", "https://binance-autopost1.onrender.com/api/news")
+    api_url = os.environ.get("NEWS_API_URL", "https://binance-autopost.onrender.com/api/news")
     print(f"Sending news payload to API endpoint: {api_url}")
     try:
         response = requests.post(api_url, json=collected[:num_items], headers={"Content-Type": "application/json"}, timeout=10)
