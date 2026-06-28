@@ -1,5 +1,40 @@
 [
   {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/32939597/Source",
+    "source": "@wublockchain",
+    "published": "Sun Jun 28 2026 15:36:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "GoMining Says It Mined Bitcoin Block Using Stratum V2 Job Declaration \n\nGoMining announced it mined a Bitcoin block with DMND mining pool using Stratum V2’s Job Declaration, allowing the miner, rather than the pool, to build the block template and prioritize GoBTC Pay",
+    "link": "https://cryptopanic.com/news/32939596/GoMining-Says-It-Mined-Bitcoin-Block-Using-Stratum-V2-Job-Declaration-GoMining-announced-it-mined-a-Bitcoin-block-with-DMND-mining-pool-using-Stratum-V2s-Job-Declaration-allowing-the-miner-rather-than-the-pool-to-build-the-block-template-and-prioritize-GoBTC-Pay",
+    "source": "@wublockchain",
+    "published": "Sun Jun 28 2026 15:35:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "WILD: Oracle is about to see its largest monthly drop ever.",
+    "link": "https://cryptopanic.com/news/32939598/WILD-Oracle-is-about-to-see-its-largest-monthly-drop-ever",
+    "source": "@cointelegraph",
+    "published": "Sun Jun 28 2026 15:30:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Strategy's Saylor Defies Critics With New 'More Charts' Post as Bitcoin Battles for $60,000",
+    "link": "https://cryptopanic.com/news/32939546/Strategys-Saylor-Defies-Critics-With-New-More-Charts-Post-as-Bitcoin-Battles-for-60000",
+    "source": "u.today",
+    "published": "Sun Jun 28 2026 15:14:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: Bitcoin-backed mortgages are live, Fannie Mae just issued its first",
+    "link": "https://cryptopanic.com/news/32939551/INTEL-Bitcoin-backed-mortgages-are-live-Fannie-Mae-just-issued-its-first",
+    "source": "@solidintel_x",
+    "published": "Sun Jun 28 2026 15:07:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Etherlink Suspends EVM Bridge Transfers After Attack Attempts",
     "link": "https://cryptopanic.com/news/32939500/Etherlink-Suspends-EVM-Bridge-Transfers-After-Attack-Attempts",
     "source": "coincu.com",
@@ -14,16 +49,16 @@
     "sentiment": "neutral"
   },
   {
-    "title": "$959 Million Dogecoin OI in 24 Hours: Is There Hope for Recovery?",
-    "link": "https://cryptopanic.com/news/32939484/959-Million-Dogecoin-OI-in-24-Hours-Is-There-Hope-for-Recovery",
-    "source": "u.today",
+    "title": "Stellar just landed institutional tokenized gold and is putting its own treasury behind it\n\n@matrixdock, Asia's largest real-world asset platform, expanded its tokenized gold token XAUm to @StellarOrg, backed 1:1 by LBMA-accredited bullion. The Stellar Development Foundation is",
+    "link": "https://cryptopanic.com/news/32939532/Stellar-just-landed-institutional-tokenized-gold-and-is-putting-its-own-treasury-behind-it-matrixdock-Asias-largest-real-world-asset-platform-expanded-its-tokenized-gold-token-XAUm-to-StellarOrg-backed-11-by-LBMA-accredited-bullion-The-Stellar-Development-Foundation-is",
+    "source": "@bscnews",
     "published": "Sun Jun 28 2026 14:45:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Stellar just landed institutional tokenized gold and is putting its own treasury behind it\n\n@matrixdock, Asia's largest real-world asset platform, expanded its tokenized gold token XAUm to @StellarOrg, backed 1:1 by LBMA-accredited bullion. The Stellar Development Foundation is",
-    "link": "https://cryptopanic.com/news/32939532/Stellar-just-landed-institutional-tokenized-gold-and-is-putting-its-own-treasury-behind-it-matrixdock-Asias-largest-real-world-asset-platform-expanded-its-tokenized-gold-token-XAUm-to-StellarOrg-backed-11-by-LBMA-accredited-bullion-The-Stellar-Development-Foundation-is",
-    "source": "@bscnews",
+    "title": "$959 Million Dogecoin OI in 24 Hours: Is There Hope for Recovery?",
+    "link": "https://cryptopanic.com/news/32939484/959-Million-Dogecoin-OI-in-24-Hours-Is-There-Hope-for-Recovery",
+    "source": "u.today",
     "published": "Sun Jun 28 2026 14:45:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/32939246/Dogecoin-Price-Prediction-0078-Breakout-or-Longs-Shakeout",
     "source": "coinpaper.com",
     "published": "Sun Jun 28 2026 13:03:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Michael Saylor Hints at More Bitcoin Buys as Portfolio Drops",
-    "link": "https://cryptopanic.com/news/32939375/Michael-Saylor-Hints-at-More-Bitcoin-Buys-as-Portfolio-Drops",
-    "source": "cryptodnes.bg",
-    "published": "Sun Jun 28 2026 13:02:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Future Cyberpunk Imagined Is Here: How Much Did It Get Right?",
-    "link": "https://cryptopanic.com/news/32939249/The-Future-Cyberpunk-Imagined-Is-Here-How-Much-Did-It-Get-Right",
-    "source": "decrypt.co",
-    "published": "Sun Jun 28 2026 13:01:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The past year, about ~50% of the top 50 coins have outperformed $BTC.\n\nThis is actually one of the highest levels we've seen since the 2021 top.\n\nI think this is due to a lot of coins having had a very bad final bull market year and generally selling off a ton already throughout",
-    "link": "https://cryptopanic.com/news/32939330/The-past-year-about-50-of-the-top-50-coins-have-outperformed-BTC-This-is-actually-one-of-the-highest-levels-weve-seen-since-the-2021-top-I-think-this-is-due-to-a-lot-of-coins-having-had-a-very-bad-final-bull-market-year-and-generally-selling-off-a-ton-already-throughout",
-    "source": "@daancrypto",
-    "published": "Sun Jun 28 2026 13:01:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Crypto Market Only Trusts One Token Right Now",
-    "link": "https://cryptopanic.com/news/32939260/The-Crypto-Market-Only-Trusts-One-Token-Right-Now",
-    "source": "MilkRoadYoutube",
-    "published": "Sun Jun 28 2026 13:00:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "consistency >>>>",
-    "link": "https://cryptopanic.com/news/32939313/consistency-gtgtgtgt",
-    "source": "@coinmarketcap",
-    "published": "Sun Jun 28 2026 13:00:10 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
