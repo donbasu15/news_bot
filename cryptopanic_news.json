@@ -1,51 +1,30 @@
 [
   {
-    "title": "Ethereum News: Ethereum’s pERC-20 Proposal Would Make Token Transfers Private by Default",
-    "link": "https://cryptopanic.com/news/32838319/Ethereum-News-Ethereums-pERC-20-Proposal-Would-Make-Token-Transfers-Private-by-Default",
-    "source": "cryptonews.com",
-    "published": "Thu Jun 11 2026 11:45:19 GMT+0000 (Coordinated Universal Time)",
+    "title": "Etherlink Suspends EVM Bridge Transfers After Attack Attempts",
+    "link": "https://cryptopanic.com/news/32939500/Etherlink-Suspends-EVM-Bridge-Transfers-After-Attack-Attempts",
+    "source": "coincu.com",
+    "published": "Sun Jun 28 2026 15:03:47 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Joe Lubin Sees Ethereum Going All-In on ZK Proofs",
-    "link": "https://cryptopanic.com/news/32838153/Joe-Lubin-Sees-Ethereum-Going-All-In-on-ZK-Proofs",
-    "source": "techgaged.com",
-    "published": "Thu Jun 11 2026 11:20:00 GMT+0000 (Coordinated Universal Time)",
+    "title": "Wall Street Picks XRP, XLM & POL, But Holders May Not Get Paid",
+    "link": "https://cryptopanic.com/news/32939504/Wall-Street-Picks-XRP-XLM-amp-POL-But-Holders-May-Not-Get-Paid",
+    "source": "dailycoin.com",
+    "published": "Sun Jun 28 2026 15:02:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "U.K. To Allow Mutual Funds 10% Exposure To Crypto",
-    "link": "https://cryptopanic.com/news/32827035/UK-To-Allow-Mutual-Funds-10-Exposure-To-Crypto",
-    "source": "cryptoprowl.com",
-    "published": "Tue Jun 09 2026 20:12:00 GMT+0000 (Coordinated Universal Time)",
+    "title": "$959 Million Dogecoin OI in 24 Hours: Is There Hope for Recovery?",
+    "link": "https://cryptopanic.com/news/32939484/959-Million-Dogecoin-OI-in-24-Hours-Is-There-Hope-for-Recovery",
+    "source": "u.today",
+    "published": "Sun Jun 28 2026 14:45:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Why Charles Hoskinson thinks Cardano is the ‘only ecosystem’ that can run the world",
-    "link": "https://cryptopanic.com/news/32825352/Why-Charles-Hoskinson-thinks-Cardano-is-the-only-ecosystem-that-can-run-the-world",
-    "source": "ambcrypto.com",
-    "published": "Tue Jun 09 2026 15:00:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ADA crash: Cardano founder Charles Hoskinson announces a break",
-    "link": "https://cryptopanic.com/news/32797610/ADA-crash-Cardano-founder-Charles-Hoskinson-announces-a-break",
-    "source": "cryptovalleyjournal.com",
-    "published": "Thu Jun 04 2026 14:36:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum quietly released a major update that could reshape its future",
-    "link": "https://cryptopanic.com/news/32783718/Ethereum-quietly-released-a-major-update-that-could-reshape-its-future",
-    "source": "techgaged.com",
-    "published": "Tue Jun 02 2026 14:57:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Vitalik Buterin Just Drew a New Roadmap for Ethereum",
-    "link": "https://cryptopanic.com/news/32737282/Vitalik-Buterin-Just-Drew-a-New-Roadmap-for-Ethereum",
-    "source": "techgaged.com",
-    "published": "Mon May 25 2026 10:25:00 GMT+0000 (Coordinated Universal Time)",
+    "title": "Stellar just landed institutional tokenized gold and is putting its own treasury behind it\n\n@matrixdock, Asia's largest real-world asset platform, expanded its tokenized gold token XAUm to @StellarOrg, backed 1:1 by LBMA-accredited bullion. The Stellar Development Foundation is",
+    "link": "https://cryptopanic.com/news/32939532/Stellar-just-landed-institutional-tokenized-gold-and-is-putting-its-own-treasury-behind-it-matrixdock-Asias-largest-real-world-asset-platform-expanded-its-tokenized-gold-token-XAUm-to-StellarOrg-backed-11-by-LBMA-accredited-bullion-The-Stellar-Development-Foundation-is",
+    "source": "@bscnews",
+    "published": "Sun Jun 28 2026 14:45:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -53,6 +32,13 @@
     "link": "https://cryptopanic.com/news/32939456/US-Spot-Bitcoin-ETFs-Log-179-Billion-Weekly-Net-Outflows",
     "source": "newsbtc.com",
     "published": "Sun Jun 28 2026 14:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Swifties Storm Prediction Markets: Over $4 Million Wagered on Taylor Swift’s Wedding",
+    "link": "https://cryptopanic.com/news/32939518/Swifties-Storm-Prediction-Markets-Over-4-Million-Wagered-on-Taylor-Swifts-Wedding",
+    "source": "beincrypto.com",
+    "published": "Sun Jun 28 2026 14:38:52 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -74,6 +60,13 @@
     "link": "https://cryptopanic.com/news/32939462/Money-was-meant-to-be-a-Tool-NOT-Your-Savior",
     "source": "SimplyBitcoin",
     "published": "Sun Jun 28 2026 14:30:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "GasFree Wallet without TronLink?",
+    "link": "https://cryptopanic.com/news/32939537/GasFree-Wallet-without-TronLink",
+    "source": "r/tronix",
+    "published": "Sun Jun 28 2026 14:29:43 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -116,6 +109,13 @@
     "link": "https://cryptopanic.com/news/32939395/SAYLOR-Were-gonna-need-more-charts-Why-did-he-use-the-word-charts",
     "source": "@cointelegraph",
     "published": "Sun Jun 28 2026 14:06:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tron Energy Hub - Nile Testnet - Looking for Feedback",
+    "link": "https://cryptopanic.com/news/32939536/Tron-Energy-Hub-Nile-Testnet-Looking-for-Feedback",
+    "source": "r/tronix",
+    "published": "Sun Jun 28 2026 14:02:21 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
