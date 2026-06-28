@@ -6,6 +6,8 @@ on:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Check out repository
@@ -24,3 +26,11 @@ jobs:
 
       - name: Run Scraper
         run: python main.py
+
+      - name: Commit and Push JSON Data
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add cryptopanic_news.json
+          git commit -m "Auto-update news: $(date)" || exit 0
+          git push
