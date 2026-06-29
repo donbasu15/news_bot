@@ -1,5 +1,54 @@
 [
   {
+    "title": "Saylor Was Supposed to Trigger a Bitcoin Death Spiral. He Just Did the Opposite...",
+    "link": "https://cryptopanic.com/news/32946624/Saylor-Was-Supposed-to-Trigger-a-Bitcoin-Death-Spiral-He-Just-Did-the-Opposite",
+    "source": "SimplyBitcoin",
+    "published": "Mon Jun 29 2026 21:14:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "13 billion USD loss: Strategy launches Digital Credit Framework",
+    "link": "https://cryptopanic.com/news/32946558/13-billion-USD-loss-Strategy-launches-Digital-Credit-Framework",
+    "source": "cryptovalleyjournal.com",
+    "published": "Mon Jun 29 2026 21:06:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: @JPMorgan expands its Kinexys blockchain platform to 8 currencies, adding AUD, HKD, JPY, CNY and SGD for 24/7 institutional cross-border settlement, having processed $4T in transactions since launch.",
+    "link": "https://cryptopanic.com/news/32946603/NEW-JPMorgan-expands-its-Kinexys-blockchain-platform-to-8-currencies-adding-AUD-HKD-JPY-CNY-and-SGD-for-247-institutional-cross-border-settlement-having-processed-4T-in-transactions-since-launch",
+    "source": "@coindesk",
+    "published": "Mon Jun 29 2026 21:05:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Loopring shuts down DEX – What went wrong for Ethereum’s L2 pioneer?",
+    "link": "https://cryptopanic.com/news/32946528/Loopring-shuts-down-DEX-What-went-wrong-for-Ethereums-L2-pioneer",
+    "source": "ambcrypto.com",
+    "published": "Mon Jun 29 2026 21:00:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Bybit CEO Ben Zhou says reports of an immediate EEA service halt are inaccurate, noting Bybit-eu has been MiCAR compliant for a year.",
+    "link": "https://cryptopanic.com/news/32946604/UPDATE-Bybit-CEO-Ben-Zhou-says-reports-of-an-immediate-EEA-service-halt-are-inaccurate-noting-Bybit-eu-has-been-MiCAR-compliant-for-a-year",
+    "source": "@cointelegraph",
+    "published": "Mon Jun 29 2026 21:00:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "OG Crypto Investor SOLD HIS BITCOIN For AI",
+    "link": "https://cryptopanic.com/news/32946529/OG-Crypto-Investor-SOLD-HIS-BITCOIN-For-AI",
+    "source": "AnthonyPompliano",
+    "published": "Mon Jun 29 2026 21:00:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇺🇦 Ukraine has placed seized crypto under state management for the first time, transferring $8.3M in USDT to asset-recovery agency ARMA from an alleged ransomware hacker's wallets.",
+    "link": "https://cryptopanic.com/news/32946601/LATEST-Ukraine-has-placed-seized-crypto-under-state-management-for-the-first-time-transferring-83M-in-USDT-to-asset-recovery-agency-ARMA-from-an-alleged-ransomware-hackers-wallets",
+    "source": "@coinmarketcap",
+    "published": "Mon Jun 29 2026 20:47:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "MSTR Soars After $1.25B BTC Announcement – But Here’s What Nobody Sees",
     "link": "https://cryptopanic.com/news/32946512/MSTR-Soars-After-125B-BTC-Announcement-But-Heres-What-Nobody-Sees",
     "source": "BTCSessions",
@@ -18,6 +67,13 @@
     "link": "https://cryptopanic.com/news/32946487/14B-onchain-is-the-real-milestone-here-And-Ondos-the-standout-billions-in-AUM-paired-with-15000-wallets-Most-tokenizers-land-on-one-side-or-the-other-Ondo-sits-on-both",
     "source": "@bscnews",
     "published": "Mon Jun 29 2026 20:37:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/32946602/Source",
+    "source": "@wublockchain",
+    "published": "Mon Jun 29 2026 20:32:32 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -98,16 +154,16 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Tommy Robinson ‘feels like a wanker’ for shilling son’s crypto token",
-    "link": "https://cryptopanic.com/news/32946379/Tommy-Robinson-feels-like-a-wanker-for-shilling-sons-crypto-token",
-    "source": "protos.com",
+    "title": "Does anybody know what this thing does?",
+    "link": "https://cryptopanic.com/news/32946483/Does-anybody-know-what-this-thing-does",
+    "source": "@bscnews",
     "published": "Mon Jun 29 2026 20:13:43 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Does anybody know what this thing does?",
-    "link": "https://cryptopanic.com/news/32946483/Does-anybody-know-what-this-thing-does",
-    "source": "@bscnews",
+    "title": "Tommy Robinson ‘feels like a wanker’ for shilling son’s crypto token",
+    "link": "https://cryptopanic.com/news/32946379/Tommy-Robinson-feels-like-a-wanker-for-shilling-sons-crypto-token",
+    "source": "protos.com",
     "published": "Mon Jun 29 2026 20:13:43 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -151,62 +207,6 @@
     "link": "https://cryptopanic.com/news/32946480/BTC-Had-its-first-close-below-the-Weekly-200MA-since-October-2023-Now-arrived-right-at-the-618-Fibonacci-retracement-level-from-the-entire-move-up-If-we-see-some-bottom-formationconsolidation-around-this-area-that-could-make-for-a-good-setup-along-the-lines-I-think-But-a",
     "source": "@daancrypto",
     "published": "Mon Jun 29 2026 20:01:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Canton Network: Can CC absorb its latest $3.11M token unlock?",
-    "link": "https://cryptopanic.com/news/32946346/Canton-Network-Can-CC-absorb-its-latest-311M-token-unlock",
-    "source": "ambcrypto.com",
-    "published": "Mon Jun 29 2026 20:00:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "@AleoHQ Read more",
-    "link": "https://cryptopanic.com/news/32946413/AleoHQ-Read-more",
-    "source": "@cointelegraph",
-    "published": "Mon Jun 29 2026 20:00:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ INSIGHT: Public blockchains made payments verifiable, but they also made business activity easier to track.\n\n@AleoHQ says zero-knowledge infrastructure can help companies prove transactions happened without exposing payroll, vendor payments or treasury flows.",
-    "link": "https://cryptopanic.com/news/32946412/INSIGHT-Public-blockchains-made-payments-verifiable-but-they-also-made-business-activity-easier-to-track-AleoHQ-says-zero-knowledge-infrastructure-can-help-companies-prove-transactions-happened-without-exposing-payroll-vendor-payments-or-treasury-flows",
-    "source": "@cointelegraph",
-    "published": "Mon Jun 29 2026 20:00:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: Strategy has authorised to sell even more $BTC.\n\nThe company known for saying “never sell your Bitcoin” famous has just authorised sales of up to $1.25B $BTC and now has a BTC Monetisation Program to fund reserves and dividends.",
-    "link": "https://cryptopanic.com/news/32946321/BREAKING-Strategy-has-authorised-to-sell-even-more-BTC-The-company-known-for-saying-never-sell-your-Bitcoin-famous-has-just-authorised-sales-of-up-to-125B-BTC-and-now-has-a-BTC-Monetisation-Program-to-fund-reserves-and-dividends",
-    "source": "@realallincrypto",
-    "published": "Mon Jun 29 2026 20:00:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Comcast will split into two publicly traded companies through a spinoff of NBCUniversal and Sky, separating its cash-generating broadband arm from a media and entertainment business under pressure from streaming rivals and industry consolidation",
-    "link": "https://cryptopanic.com/news/32946320/Comcast-will-split-into-two-publicly-traded-companies-through-a-spinoff-of-NBCUniversal-and-Sky-separating-its-cash-generating-broadband-arm-from-a-media-and-entertainment-business-under-pressure-from-streaming-rivals-and-industry-consolidation",
-    "source": "@reutersbiz",
-    "published": "Mon Jun 29 2026 20:00:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Price Prediction for July 2026: Can Buyers Finally Break the Downtrend?",
-    "link": "https://cryptopanic.com/news/32946509/XRP-Price-Prediction-for-July-2026-Can-Buyers-Finally-Break-the-Downtrend",
-    "source": "beincrypto.com",
-    "published": "Mon Jun 29 2026 20:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Smart Money is Leaving Nvidia for This AI Chip Stock",
-    "link": "https://cryptopanic.com/news/32946508/Smart-Money-is-Leaving-Nvidia-for-This-AI-Chip-Stock",
-    "source": "beincrypto.com",
-    "published": "Mon Jun 29 2026 20:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BNY makes USDC the first stablecoin on its custody platform\n\nOne of the world's biggest custodians is opening up to stablecoins. BNY (@BNYglobal), which oversees $59.3 trillion in assets, has made Circle's @USDC the first stablecoin on its Digital Asset Custody platform.",
-    "link": "https://cryptopanic.com/news/32946325/BNY-makes-USDC-the-first-stablecoin-on-its-custody-platform-One-of-the-worlds-biggest-custodians-is-opening-up-to-stablecoins-BNY-BNYglobal-which-oversees-593-trillion-in-assets-has-made-Circles-USDC-the-first-stablecoin-on-its-Digital-Asset-Custody-platform",
-    "source": "@bscnews",
-    "published": "Mon Jun 29 2026 19:59:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
