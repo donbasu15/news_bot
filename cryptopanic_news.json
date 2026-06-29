@@ -1,9 +1,100 @@
 [
   {
+    "title": "MiCA July 1 Deadline: Zero CASP Licenses in Italy and What It Means",
+    "link": "https://cryptopanic.com/news/32943485/MiCA-July-1-Deadline-Zero-CASP-Licenses-in-Italy-and-What-It-Means",
+    "source": "spaziocrypto.com",
+    "published": "Mon Jun 29 2026 11:36:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Price Risks Crash to $42,000 as Analyst Sees 2022 Pattern Repeat",
+    "link": "https://cryptopanic.com/news/32943437/Bitcoin-Price-Risks-Crash-to-42000-as-Analyst-Sees-2022-Pattern-Repeat",
+    "source": "coinpaper.com",
+    "published": "Mon Jun 29 2026 11:35:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: Trump says Iran requested a meeting, with talks set to take place tomorrow in Doha",
+    "link": "https://cryptopanic.com/news/32943521/INTEL-Trump-says-Iran-requested-a-meeting-with-talks-set-to-take-place-tomorrow-in-Doha",
+    "source": "@solidintel_x",
+    "published": "Mon Jun 29 2026 11:33:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hyperliquid allocates $10M grant to devs as USDH gives way to USDC",
+    "link": "https://cryptopanic.com/news/32943413/Hyperliquid-allocates-10M-grant-to-devs-as-USDH-gives-way-to-USDC",
+    "source": "cryptopolitan.com",
+    "published": "Mon Jun 29 2026 11:32:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SpaceX $SPCX is headed to the Nasdaq 100 on Monday, July 7. \n\nThis means that Elon's company shares will soon be added to popular index-tracking funds like the Invesco QQQ Trust.",
+    "link": "https://cryptopanic.com/news/32943393/SpaceX-SPCX-is-headed-to-the-Nasdaq-100-on-Monday-July-7-This-means-that-Elons-company-shares-will-soon-be-added-to-popular-index-tracking-funds-like-the-Invesco-QQQ-Trust",
+    "source": "@bscnews",
+    "published": "Mon Jun 29 2026 11:30:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "FundBank becomes IRACE Digital in bid to bridge traditional finance and crypto",
+    "link": "https://cryptopanic.com/news/32943522/FundBank-becomes-IRACE-Digital-in-bid-to-bridge-traditional-finance-and-crypto",
+    "source": "coindesk.com",
+    "published": "Mon Jun 29 2026 11:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Dogecoin Open Interest Hits $959M Amid Selloff",
+    "link": "https://cryptopanic.com/news/32943384/Dogecoin-Open-Interest-Hits-959M-Amid-Selloff",
+    "source": "catenaa.com",
+    "published": "Mon Jun 29 2026 11:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Price Risks Crash to $42,000 as Analyst Sees 2022 Pattern Repeat",
+    "link": "https://cryptopanic.com/news/32943382/Bitcoin-Price-Risks-Crash-to-42000-as-Analyst-Sees-2022-Pattern-Repeat",
+    "source": "coinpaper.com",
+    "published": "Mon Jun 29 2026 11:28:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Clend Lets You Borrow USDC and JPYC Against 25+ Cryptos",
+    "link": "https://cryptopanic.com/news/32943385/Clend-Lets-You-Borrow-USDC-and-JPYC-Against-25-Cryptos",
+    "source": "cryptonews.com",
+    "published": "Mon Jun 29 2026 11:25:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "We sat down with @joechalom to talk all things Ethereum, ETHLabs, and what he thinks needs to be done to tell the story of crypto better",
+    "link": "https://cryptopanic.com/news/32943395/We-sat-down-with-joechalom-to-talk-all-things-Ethereum-ETHLabs-and-what-he-thinks-needs-to-be-done-to-tell-the-story-of-crypto-better",
+    "source": "@decryptmedia",
+    "published": "Mon Jun 29 2026 11:25:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP price prediction after active addresses spike over 70% in 2 weeks",
+    "link": "https://cryptopanic.com/news/32943314/XRP-price-prediction-after-active-addresses-spike-over-70-in-2-weeks",
+    "source": "finbold.com",
+    "published": "Mon Jun 29 2026 11:19:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Stablecoin Flows Go Quiet: A Structural Market View",
+    "link": "https://cryptopanic.com/news/32943333/Stablecoin-Flows-Go-Quiet-A-Structural-Market-View",
+    "source": "coindoo.com",
+    "published": "Mon Jun 29 2026 11:18:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "This XRP ETF Milestone Could Be a Turning Point",
     "link": "https://cryptopanic.com/news/32943295/This-XRP-ETF-Milestone-Could-Be-a-Turning-Point",
     "source": "techgaged.com",
     "published": "Mon Jun 29 2026 11:13:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bank Of Thailand Set To Finalize Baht-Backed Stablecoin Framework\n\nThe Bank of Thailand (BoT) nears completion of its 1:1 baht-backed stablecoin design study, signaling a definitive move toward a regulated digital currency. \n\nGovernor Vitai Ratanakorn confirmed that the framework",
+    "link": "https://cryptopanic.com/news/32943392/Bank-Of-Thailand-Set-To-Finalize-Baht-Backed-Stablecoin-Framework-The-Bank-of-Thailand-BoT-nears-completion-of-its-11-baht-backed-stablecoin-design-study-signaling-a-definitive-move-toward-a-regulated-digital-currency-Governor-Vitai-Ratanakorn-confirmed-that-the-framework",
+    "source": "@bscnews",
+    "published": "Mon Jun 29 2026 11:13:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -42,6 +133,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "INTEL: BlackRock deposits 7,432 bitcoin:native worth $446M to Coinbase Prime, marking its largest single day net Bitcoin outflow on record",
+    "link": "https://cryptopanic.com/news/32943520/INTEL-BlackRock-deposits-7432-bitcoinnative-worth-446M-to-Coinbase-Prime-marking-its-largest-single-day-net-Bitcoin-outflow-on-record",
+    "source": "@solidintel_x",
+    "published": "Mon Jun 29 2026 11:05:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST:  Samson Mow says Bitcoin’s bottom is in, arguing the four-year halving cycle has accelerated.",
     "link": "https://cryptopanic.com/news/32943278/LATEST-Samson-Mow-says-Bitcoins-bottom-is-in-arguing-the-four-year-halving-cycle-has-accelerated",
     "source": "@coinmarketcap",
@@ -53,6 +151,13 @@
     "link": "https://cryptopanic.com/news/32943334/Bitcoin-hovers-below-60000-as-crypto-braces-for-a-pivotal-week",
     "source": "coindesk.com",
     "published": "Mon Jun 29 2026 11:03:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BlackRock just deposited 7,432 $BTC($446M) to Coinbase Prime.\n\nThis is #BlackRock's largest single-day net $BTC outflow ever.",
+    "link": "https://cryptopanic.com/news/32943519/BlackRock-just-deposited-7432-BTC446M-to-Coinbase-Prime-This-is-BlackRocks-largest-single-day-net-BTC-outflow-ever",
+    "source": "@lookonchain",
+    "published": "Mon Jun 29 2026 11:01:41 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -91,122 +196,17 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Bybit and OKX Users are Rotating from USDT to Bitcoin\n\n@Bybit_Official and @OKX report a significant increase in user-held $BTC reserves, with both exchanges recording double-digit percentage growth in June.\n\nData compiled by @WuBlockchain shows Bybit users' $BTC balances reached",
+    "link": "https://cryptopanic.com/news/32943391/Bybit-and-OKX-Users-are-Rotating-from-USDT-to-Bitcoin-Bybit_Official-and-OKX-report-a-significant-increase-in-user-held-BTC-reserves-with-both-exchanges-recording-double-digit-percentage-growth-in-June-Data-compiled-by-WuBlockchain-shows-Bybit-users-BTC-balances-reached",
+    "source": "@bscnews",
+    "published": "Mon Jun 29 2026 10:50:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin News: Bitcoin Is Showing Its First Real Bottoming Signal — But One Signal Is Not the Same as a Bottom",
     "link": "https://cryptopanic.com/news/32943158/Bitcoin-News-Bitcoin-Is-Showing-Its-First-Real-Bottoming-Signal-But-One-Signal-Is-Not-the-Same-as-a-Bottom",
     "source": "square.binance.com",
     "published": "Mon Jun 29 2026 10:48:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ukraine Takes $8.3M in Seized Crypto Under State Management in a First",
-    "link": "https://cryptopanic.com/news/32943117/Ukraine-Takes-83M-in-Seized-Crypto-Under-State-Management-in-a-First",
-    "source": "decrypt.co",
-    "published": "Mon Jun 29 2026 10:48:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto News: The Most Important Crypto Week of the Summer Starts Now — MiCA Goes Live, Jobs Data Lands, and Warsh Speaks",
-    "link": "https://cryptopanic.com/news/32943157/Crypto-News-The-Most-Important-Crypto-Week-of-the-Summer-Starts-Now-MiCA-Goes-Live-Jobs-Data-Lands-and-Warsh-Speaks",
-    "source": "square.binance.com",
-    "published": "Mon Jun 29 2026 10:45:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AI | Samsung, SK Hynix at Center of South Korea's AI Drive",
-    "link": "https://cryptopanic.com/news/32943156/AI-Samsung-SK-Hynix-at-Center-of-South-Koreas-AI-Drive",
-    "source": "square.binance.com",
-    "published": "Mon Jun 29 2026 10:44:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Dogecoin Price Prediction: DOGE Bulls Defend Support as Bears Eye $0.065",
-    "link": "https://cryptopanic.com/news/32943066/Dogecoin-Price-Prediction-DOGE-Bulls-Defend-Support-as-Bears-Eye-0065",
-    "source": "coinpaper.com",
-    "published": "Mon Jun 29 2026 10:43:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nigerian Government Seeks Advisers for Planned Eurobond Offering",
-    "link": "https://cryptopanic.com/news/32943155/Nigerian-Government-Seeks-Advisers-for-Planned-Eurobond-Offering",
-    "source": "square.binance.com",
-    "published": "Mon Jun 29 2026 10:42:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Two Massive Crypto Hacks May Have One Mastermind",
-    "link": "https://cryptopanic.com/news/32943076/Two-Massive-Crypto-Hacks-May-Have-One-Mastermind",
-    "source": "techgaged.com",
-    "published": "Mon Jun 29 2026 10:42:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "STOCKS | Top 10 A-Share Stocks by Main Fund Net Inflow and Outflow as of 10:40 (UTC+8) on June 29, 2026",
-    "link": "https://cryptopanic.com/news/32943154/STOCKS-Top-10-A-Share-Stocks-by-Main-Fund-Net-Inflow-and-Outflow-as-of-1040-UTC8-on-June-29-2026",
-    "source": "square.binance.com",
-    "published": "Mon Jun 29 2026 10:41:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto News Today: Iran De-escalation Is Lifting Stocks — Bitcoin Is Not Following, and the On-Chain Data Explains Why",
-    "link": "https://cryptopanic.com/news/32943153/Crypto-News-Today-Iran-De-escalation-Is-Lifting-Stocks-Bitcoin-Is-Not-Following-and-the-On-Chain-Data-Explains-Why",
-    "source": "square.binance.com",
-    "published": "Mon Jun 29 2026 10:41:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Former Ripple CTO downplays risks of front-running attacks on XRPL",
-    "link": "https://cryptopanic.com/news/32943075/Former-Ripple-CTO-downplays-risks-of-front-running-attacks-on-XRPL",
-    "source": "finbold.com",
-    "published": "Mon Jun 29 2026 10:40:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Recession Is Coming. Should Crypto Holders Worry?",
-    "link": "https://cryptopanic.com/news/32943115/Recession-Is-Coming-Should-Crypto-Holders-Worry",
-    "source": "CoinGecko",
-    "published": "Mon Jun 29 2026 10:40:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum Price Prediction: Ethereum’s $1,500 Fight Could Set Up a $6K Run",
-    "link": "https://cryptopanic.com/news/32943060/Ethereum-Price-Prediction-Ethereums-1500-Fight-Could-Set-Up-a-6K-Run",
-    "source": "coinpaper.com",
-    "published": "Mon Jun 29 2026 10:40:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "PRECIOUS METALS | Gold Held Back by Real Rates and Strong Dollar, Analysts See Long-Term Bull Trend",
-    "link": "https://cryptopanic.com/news/32943152/PRECIOUS-METALS-Gold-Held-Back-by-Real-Rates-and-Strong-Dollar-Analysts-See-Long-Term-Bull-Trend",
-    "source": "square.binance.com",
-    "published": "Mon Jun 29 2026 10:39:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana’s ANSEM spikes 18,000% amid market selloff, What’s happening?",
-    "link": "https://cryptopanic.com/news/32943095/Solanas-ANSEM-spikes-18000-amid-market-selloff-Whats-happening",
-    "source": "cryptopolitan.com",
-    "published": "Mon Jun 29 2026 10:37:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Vitalik Buterin calls obfuscation cryptography’s ‘final boss,’ but says current approaches remain wildly impractical",
-    "link": "https://cryptopanic.com/news/32943062/Vitalik-Buterin-calls-obfuscation-cryptographys-final-boss-but-says-current-approaches-remain-wildly-impractical",
-    "source": "theblock.co",
-    "published": "Mon Jun 29 2026 10:36:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Price Prediction: Bitcoin’s Make-or-Break Moment Is Here",
-    "link": "https://cryptopanic.com/news/32943040/Bitcoin-Price-Prediction-Bitcoins-Make-or-Break-Moment-Is-Here",
-    "source": "coinpaper.com",
-    "published": "Mon Jun 29 2026 10:35:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "STOCKS | Regina Miracle International FY Profit Attributable to Owners Rises 53.9%",
-    "link": "https://cryptopanic.com/news/32943151/STOCKS-Regina-Miracle-International-FY-Profit-Attributable-to-Owners-Rises-539",
-    "source": "square.binance.com",
-    "published": "Mon Jun 29 2026 10:35:13 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
