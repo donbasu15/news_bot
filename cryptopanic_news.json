@@ -1,5 +1,40 @@
 [
   {
+    "title": "Dutch Prosecutors Seek to Bankrupt Crypto Platform Knaken After Funds Frozen",
+    "link": "https://cryptopanic.com/news/32951545/Dutch-Prosecutors-Seek-to-Bankrupt-Crypto-Platform-Knaken-After-Funds-Frozen",
+    "source": "decrypt.co",
+    "published": "Tue Jun 30 2026 15:50:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "zerohash Launches Portfolio Strategies for Crypto Wealth Platforms",
+    "link": "https://cryptopanic.com/news/32951550/zerohash-Launches-Portfolio-Strategies-for-Crypto-Wealth-Platforms",
+    "source": "cryptoprowl.com",
+    "published": "Tue Jun 30 2026 15:50:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "FCA finalizes UK crypto rules as firms face 2027 access deadline",
+    "link": "https://cryptopanic.com/news/32951478/FCA-finalizes-UK-crypto-rules-as-firms-face-2027-access-deadline",
+    "source": "cryptoslate.com",
+    "published": "Tue Jun 30 2026 15:45:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MicroStrategy’s New Bitcoin Sale Authorization Puts Altcoin Traders On Edge",
+    "link": "https://cryptopanic.com/news/32951484/MicroStrategys-New-Bitcoin-Sale-Authorization-Puts-Altcoin-Traders-On-Edge",
+    "source": "newsbtc.com",
+    "published": "Tue Jun 30 2026 15:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: MiCA's July 1 deadline could leave over 10 million crypto users without a platform as 80% of Europe's 3,000+ unlicensed exchanges face shutdown.",
+    "link": "https://cryptopanic.com/news/32951555/LATEST-MiCAs-July-1-deadline-could-leave-over-10-million-crypto-users-without-a-platform-as-80-of-Europes-3000-unlicensed-exchanges-face-shutdown",
+    "source": "@coindesk",
+    "published": "Tue Jun 30 2026 15:41:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "BTC Relative Weakness Intensifies",
     "link": "https://cryptopanic.com/news/32951467/BTC-Relative-Weakness-Intensifies",
     "source": "TheChartGuys",
@@ -21,6 +56,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "LATEST:  Ark Invest added $43.5M across crypto-linked stocks over three trading days, including Coinbase, Circle, Bullish and Robinhood.",
+    "link": "https://cryptopanic.com/news/32951553/LATEST-Ark-Invest-added-435M-across-crypto-linked-stocks-over-three-trading-days-including-Coinbase-Circle-Bullish-and-Robinhood",
+    "source": "@coinmarketcap",
+    "published": "Tue Jun 30 2026 15:25:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "100+ of the largest financial entities in the world are partnering to support Open USD, a new stablecoin launching later this year.",
     "link": "https://cryptopanic.com/news/32951495/100-of-the-largest-financial-entities-in-the-world-are-partnering-to-support-Open-USD-a-new-stablecoin-launching-later-this-year",
     "source": "@stackersatoshi",
@@ -39,6 +81,20 @@
     "link": "https://cryptopanic.com/news/32951456/Ripple-to-Use-New-Stablecoin-Backed-by-Mastercard-BlackRock-and-Google",
     "source": "u.today",
     "published": "Tue Jun 30 2026 15:21:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Demand Builds On-Chain Even as Price Sinks to 19-Month Low",
+    "link": "https://cryptopanic.com/news/32951542/XRP-Demand-Builds-On-Chain-Even-as-Price-Sinks-to-19-Month-Low",
+    "source": "beincrypto.com",
+    "published": "Tue Jun 30 2026 15:20:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇪🇺 LATEST: Jack Maller's Strike secures full MiCA authorization for Europe.",
+    "link": "https://cryptopanic.com/news/32951556/LATEST-Jack-Mallers-Strike-secures-full-MiCA-authorization-for-Europe",
+    "source": "@cointelegraph",
+    "published": "Tue Jun 30 2026 15:18:16 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -151,62 +207,6 @@
     "link": "https://cryptopanic.com/news/32951257/BIS-Warns-Dollar-Stablecoins-Could-Undermine-Emerging-Economies",
     "source": "coinpaprika.com",
     "published": "Tue Jun 30 2026 15:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Pyth Welcomes NASDAQ TotalView, Bringing Full Depth-of-Book Data to Onchain Markets",
-    "link": "https://cryptopanic.com/news/32950374/Pyth-Welcomes-NASDAQ-TotalView-Bringing-Full-Depth-of-Book-Data-to-Onchain-Markets",
-    "source": "solanafloor.com",
-    "published": "Tue Jun 30 2026 15:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Visa, Stripe, Coinbase and more join Open USD stablecoin that shares reserve revenue",
-    "link": "https://cryptopanic.com/news/32951244/Visa-Stripe-Coinbase-and-more-join-Open-USD-stablecoin-that-shares-reserve-revenue",
-    "source": "theblock.co",
-    "published": "Tue Jun 30 2026 14:57:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Wintermute: Crypto Market Looks More Like Late-Stage Bear Market\n\nWintermute said in its latest report that the crypto selloff was driven by the fading AI trade, Nasdaq weakness, a stronger dollar and higher-for-longer rate expectations. BTC fell 5.9% this week, briefly breaking",
-    "link": "https://cryptopanic.com/news/32951355/Wintermute-Crypto-Market-Looks-More-Like-Late-Stage-Bear-Market-Wintermute-said-in-its-latest-report-that-the-crypto-selloff-was-driven-by-the-fading-AI-trade-Nasdaq-weakness-a-stronger-dollar-and-higher-for-longer-rate-expectations-BTC-fell-59-this-week-briefly-breaking",
-    "source": "@wublockchain",
-    "published": "Tue Jun 30 2026 14:54:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: ️ New York Life Investment Management is partnering with Centrifuge to tokenize its US High Yield Corporate Bond Strategy, with subscriptions settled in USDC.",
-    "link": "https://cryptopanic.com/news/32951351/LATEST-New-York-Life-Investment-Management-is-partnering-with-Centrifuge-to-tokenize-its-US-High-Yield-Corporate-Bond-Strategy-with-subscriptions-settled-in-USDC",
-    "source": "@coinmarketcap",
-    "published": "Tue Jun 30 2026 14:53:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The large coinbase discount for bitcoin:native indicates that there continues to be heavy US-based spot selling.",
-    "link": "https://cryptopanic.com/news/32951250/The-large-coinbase-discount-for-bitcoinnative-indicates-that-there-continues-to-be-heavy-US-based-spot-selling",
-    "source": "@stackersatoshi",
-    "published": "Tue Jun 30 2026 14:51:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Major financial firms including Visa, Mastercard, BlackRock, Coinbase, and American Express to launch joint crypto stablecoin called $OUSD.",
-    "link": "https://cryptopanic.com/news/32951248/JUST-IN-Major-financial-firms-including-Visa-Mastercard-BlackRock-Coinbase-and-American-Express-to-launch-joint-crypto-stablecoin-called-OUSD",
-    "source": "@watcherguru",
-    "published": "Tue Jun 30 2026 14:50:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tom Lee Says Crypto Is 'Not Really Broken', But Missing Bitcoin's Best Days Can Break Your Balance",
-    "link": "https://cryptopanic.com/news/32951297/Tom-Lee-Says-Crypto-Is-Not-Really-Broken-But-Missing-Bitcoins-Best-Days-Can-Break-Your-Balance",
-    "source": "feeds2.benzinga.com",
-    "published": "Tue Jun 30 2026 14:50:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "OKX AI unveils marketplace for agents to find work and get paid in stablecoins",
-    "link": "https://cryptopanic.com/news/32951204/OKX-AI-unveils-marketplace-for-agents-to-find-work-and-get-paid-in-stablecoins",
-    "source": "theblock.co",
-    "published": "Tue Jun 30 2026 14:49:01 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
