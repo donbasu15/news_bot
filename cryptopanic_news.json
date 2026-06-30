@@ -1,9 +1,121 @@
 [
   {
+    "title": "Ethereum News: Ethereum’s pERC-20 Proposal Would Make Token Transfers Private by Default",
+    "link": "https://cryptopanic.com/news/32838319/Ethereum-News-Ethereums-pERC-20-Proposal-Would-Make-Token-Transfers-Private-by-Default",
+    "source": "cryptonews.com",
+    "published": "Thu Jun 11 2026 11:45:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Joe Lubin Sees Ethereum Going All-In on ZK Proofs",
+    "link": "https://cryptopanic.com/news/32838153/Joe-Lubin-Sees-Ethereum-Going-All-In-on-ZK-Proofs",
+    "source": "techgaged.com",
+    "published": "Thu Jun 11 2026 11:20:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "U.K. To Allow Mutual Funds 10% Exposure To Crypto",
+    "link": "https://cryptopanic.com/news/32827035/UK-To-Allow-Mutual-Funds-10-Exposure-To-Crypto",
+    "source": "cryptoprowl.com",
+    "published": "Tue Jun 09 2026 20:12:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Why Charles Hoskinson thinks Cardano is the ‘only ecosystem’ that can run the world",
+    "link": "https://cryptopanic.com/news/32825352/Why-Charles-Hoskinson-thinks-Cardano-is-the-only-ecosystem-that-can-run-the-world",
+    "source": "ambcrypto.com",
+    "published": "Tue Jun 09 2026 15:00:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ADA crash: Cardano founder Charles Hoskinson announces a break",
+    "link": "https://cryptopanic.com/news/32797610/ADA-crash-Cardano-founder-Charles-Hoskinson-announces-a-break",
+    "source": "cryptovalleyjournal.com",
+    "published": "Thu Jun 04 2026 14:36:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum quietly released a major update that could reshape its future",
+    "link": "https://cryptopanic.com/news/32783718/Ethereum-quietly-released-a-major-update-that-could-reshape-its-future",
+    "source": "techgaged.com",
+    "published": "Tue Jun 02 2026 14:57:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Vitalik Buterin Just Drew a New Roadmap for Ethereum",
+    "link": "https://cryptopanic.com/news/32737282/Vitalik-Buterin-Just-Drew-a-New-Roadmap-for-Ethereum",
+    "source": "techgaged.com",
+    "published": "Mon May 25 2026 10:25:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Everything Points To THIS DATE for The Bitcoin Bull Market Global Liquidity Is Exploding",
+    "link": "https://cryptopanic.com/news/32949029/Everything-Points-To-THIS-DATE-for-The-Bitcoin-Bull-Market-Global-Liquidity-Is-Exploding",
+    "source": "TheModernInvestor",
+    "published": "Tue Jun 30 2026 09:05:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: JPMorgan expands Kinexys to 8 currencies, adding AUD, HKD, JPY, CNY and SGD.",
+    "link": "https://cryptopanic.com/news/32949050/NEW-JPMorgan-expands-Kinexys-to-8-currencies-adding-AUD-HKD-JPY-CNY-and-SGD",
+    "source": "@cointelegraph",
+    "published": "Tue Jun 30 2026 09:03:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: The UK's FCA finalizes its crypto regulatory framework covering capital requirements, market abuse rules and stablecoin standards, with mandatory authorization required by October 2027.",
+    "link": "https://cryptopanic.com/news/32949049/JUST-IN-The-UKs-FCA-finalizes-its-crypto-regulatory-framework-covering-capital-requirements-market-abuse-rules-and-stablecoin-standards-with-mandatory-authorization-required-by-October-2027",
+    "source": "@coindesk",
+    "published": "Tue Jun 30 2026 09:00:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Guess the token:",
+    "link": "https://cryptopanic.com/news/32949045/Guess-the-token",
+    "source": "@coinmarketcap",
+    "published": "Tue Jun 30 2026 09:00:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Strategy Halts Bitcoin Buying, Pivots to Cash and Buybacks",
+    "link": "https://cryptopanic.com/news/32948978/Strategy-Halts-Bitcoin-Buying-Pivots-to-Cash-and-Buybacks",
+    "source": "coinpaprika.com",
+    "published": "Tue Jun 30 2026 09:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Benchmark sees over 500% upside in Strategy, reiterates $570 target on new capital framework",
+    "link": "https://cryptopanic.com/news/32948977/Benchmark-sees-over-500-upside-in-Strategy-reiterates-570-target-on-new-capital-framework",
+    "source": "theblock.co",
+    "published": "Tue Jun 30 2026 08:57:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "FCA cuts stablecoin capital requirement to 1 percent",
+    "link": "https://cryptopanic.com/news/32948968/FCA-cuts-stablecoin-capital-requirement-to-1-percent",
+    "source": "cryptovalleyjournal.com",
+    "published": "Tue Jun 30 2026 08:54:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: ️ Ripple has proposed a lending protocol for the XRP Ledger that would let institutions borrow against tokenized assets.",
+    "link": "https://cryptopanic.com/news/32949044/LATEST-Ripple-has-proposed-a-lending-protocol-for-the-XRP-Ledger-that-would-let-institutions-borrow-against-tokenized-assets",
+    "source": "@coinmarketcap",
+    "published": "Tue Jun 30 2026 08:49:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Sentiment is at is lowest. My confidence is at its peak! |=|",
     "link": "https://cryptopanic.com/news/32948974/Sentiment-is-at-is-lowest-My-confidence-is-at-its-peak",
     "source": "r/hedera",
     "published": "Tue Jun 30 2026 08:48:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MiCA Deadline Pushes More European Crypto Founders Toward the UAE's Friendlier Regulatory Environment\n\nMore European crypto founders are exploring the UAE as the EU’s MiCA deadline approaches, with firms lacking authorization set to lose access to EU clients after July 1.",
+    "link": "https://cryptopanic.com/news/32949046/MiCA-Deadline-Pushes-More-European-Crypto-Founders-Toward-the-UAEs-Friendlier-Regulatory-Environment-More-European-crypto-founders-are-exploring-the-UAE-as-the-EUs-MiCA-deadline-approaches-with-firms-lacking-authorization-set-to-lose-access-to-EU-clients-after-July-1",
+    "source": "@wublockchain",
+    "published": "Tue Jun 30 2026 08:42:48 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -63,15 +175,22 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Read more",
-    "link": "https://cryptopanic.com/news/32948829/Read-more",
-    "source": "@cointelegraph",
-    "published": "Tue Jun 30 2026 08:20:15 GMT+0000 (Coordinated Universal Time)",
+    "title": "Japanese Yen Falls to Four-Decade Low as Tokyo Signals Decisive Action",
+    "link": "https://cryptopanic.com/news/32949047/Japanese-Yen-Falls-to-Four-Decade-Low-as-Tokyo-Signals-Decisive-Action",
+    "source": "beincrypto.com",
+    "published": "Tue Jun 30 2026 08:20:43 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
     "title": "🇦🇺 LATEST: Australia’s crypto Travel Rule takes effect July 1.\n\nLocal exchanges will collect sender, recipient and platform details for all crypto transfers, with no minimum threshold.",
     "link": "https://cryptopanic.com/news/32948830/LATEST-Australias-crypto-Travel-Rule-takes-effect-July-1-Local-exchanges-will-collect-sender-recipient-and-platform-details-for-all-crypto-transfers-with-no-minimum-threshold",
+    "source": "@cointelegraph",
+    "published": "Tue Jun 30 2026 08:20:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Read more",
+    "link": "https://cryptopanic.com/news/32948829/Read-more",
     "source": "@cointelegraph",
     "published": "Tue Jun 30 2026 08:20:15 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
@@ -88,125 +207,6 @@
     "link": "https://cryptopanic.com/news/32948825/LATEST-BNY-now-lets-institutional-clients-custody-mint-and-redeem-Circles-USDC-through-its-Digital-Asset-Custody-platform-with-more-stablecoins-to-follow",
     "source": "@coinmarketcap",
     "published": "Tue Jun 30 2026 08:13:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple is part of the bigger plan to dollarise the world $XRP",
-    "link": "https://cryptopanic.com/news/32948933/Ripple-is-part-of-the-bigger-plan-to-dollarise-the-world-XRP",
-    "source": "@realallincrypto",
-    "published": "Tue Jun 30 2026 08:09:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Will XRP Crash Help It Survive? FOMO Recorded for First Time in Ages",
-    "link": "https://cryptopanic.com/news/32948800/Will-XRP-Crash-Help-It-Survive-FOMO-Recorded-for-First-Time-in-Ages",
-    "source": "u.today",
-    "published": "Tue Jun 30 2026 08:05:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "MARKETS: $XRP holds above $1 as active addresses jump 72% in two weeks and open interest drops to its lowest since July 2025, but remains capped below $1.10 resistance.",
-    "link": "https://cryptopanic.com/news/32948827/MARKETS-XRP-holds-above-1-as-active-addresses-jump-72-in-two-weeks-and-open-interest-drops-to-its-lowest-since-July-2025-but-remains-capped-below-110-resistance",
-    "source": "@coindesk",
-    "published": "Tue Jun 30 2026 08:04:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Ledger Makes Big Compliant Lending Push\n\nThe $XRP Ledger Foundation announced a partnership with VS1 Finance to build an open-source reference app for permissioned, compliant lending on the XRP Ledger. \n\nThe app will use native XRPL primitives like Credentials, Permissioned",
-    "link": "https://cryptopanic.com/news/32948936/XRP-Ledger-Makes-Big-Compliant-Lending-Push-The-XRP-Ledger-Foundation-announced-a-partnership-with-VS1-Finance-to-build-an-open-source-reference-app-for-permissioned-compliant-lending-on-the-XRP-Ledger-The-app-will-use-native-XRPL-primitives-like-Credentials-Permissioned",
-    "source": "@bscnews",
-    "published": "Tue Jun 30 2026 08:04:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JPMorgan Says Crypto Regulatory Clarity Matters Only If 'Paired With Durable Safeguards,' Flags Stablecoin Yield Risks",
-    "link": "https://cryptopanic.com/news/32948809/JPMorgan-Says-Crypto-Regulatory-Clarity-Matters-Only-If-Paired-With-Durable-Safeguards-Flags-Stablecoin-Yield-Risks",
-    "source": "feeds2.benzinga.com",
-    "published": "Tue Jun 30 2026 08:03:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ NEW: X launches hosted MCP, letting agents connect Grok, Cursor and other MCP-compatible AI tools to the X API with no setup.",
-    "link": "https://cryptopanic.com/news/32948828/NEW-X-launches-hosted-MCP-letting-agents-connect-Grok-Cursor-and-other-MCP-compatible-AI-tools-to-the-X-API-with-no-setup",
-    "source": "@cointelegraph",
-    "published": "Tue Jun 30 2026 08:00:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$LINK BRINGING TOGETHER 50+ BANKS AND 16 COUNTRIES THROUGH PROJECT PANGEA\n\nChainlink’s Project Pangea is huge, 52 banks including 37 European banks through Qivalis.\n\nWho are now targeting Korea, one of the world’s major FX markets, to unlock T+0 cross-border settlement!",
-    "link": "https://cryptopanic.com/news/32948931/LINK-BRINGING-TOGETHER-50-BANKS-AND-16-COUNTRIES-THROUGH-PROJECT-PANGEA-Chainlinks-Project-Pangea-is-huge-52-banks-including-37-European-banks-through-Qivalis-Who-are-now-targeting-Korea-one-of-the-worlds-major-FX-markets-to-unlock-T0-cross-border-settlement",
-    "source": "@realallincrypto",
-    "published": "Tue Jun 30 2026 08:00:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Michael Saylor’s Strategy Boosts US Dollar Reserves, Unveils ‘Bitcoin Monetization Program’",
-    "link": "https://cryptopanic.com/news/32948749/Michael-Saylors-Strategy-Boosts-US-Dollar-Reserves-Unveils-Bitcoin-Monetization-Program",
-    "source": "dailyhodl.com",
-    "published": "Tue Jun 30 2026 08:00:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Remittix Wraps Up June With Platform Demo, Airdrop Rollout, and Website Migration Ahead of RTX Launch",
-    "link": "https://cryptopanic.com/news/32948703/Remittix-Wraps-Up-June-With-Platform-Demo-Airdrop-Rollout-and-Website-Migration-Ahead-of-RTX-Launch",
-    "source": "theholycoins.com",
-    "published": "Tue Jun 30 2026 08:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "European users are switching to @okx in record numbers in the final hours before the July 1 MiCA deadline. The first global exchange to secure a full MiCA licence, OKX has €10 million up for grabs in 8% flat deposit matches. Hours left to switch.",
-    "link": "https://cryptopanic.com/news/32948674/European-users-are-switching-to-okx-in-record-numbers-in-the-final-hours-before-the-July-1-MiCA-deadline-The-first-global-exchange-to-secure-a-full-MiCA-licence-OKX-has-10-million-up-for-grabs-in-8-flat-deposit-matches-Hours-left-to-switch",
-    "source": "@bscnews",
-    "published": "Tue Jun 30 2026 07:46:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Complete breakdown ⤵️",
-    "link": "https://cryptopanic.com/news/32948630/Complete-breakdown",
-    "source": "@cryptoquant_com",
-    "published": "Tue Jun 30 2026 07:46:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "No Dry Powder, No Real Rally\n\n“In this kind of environment, any bounce that does appear is more likely a short-term technical reaction than the beginning of a trend reversal.” – By Sunny Mom",
-    "link": "https://cryptopanic.com/news/32948629/No-Dry-Powder-No-Real-Rally-In-this-kind-of-environment-any-bounce-that-does-appear-is-more-likely-a-short-term-technical-reaction-than-the-beginning-of-a-trend-reversal-By-Sunny-Mom",
-    "source": "@cryptoquant_com",
-    "published": "Tue Jun 30 2026 07:39:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇺🇸 JPMorgan's payments and digital assets heads argue \"regulatory clarity matters only if paired with durable safeguards,\" saying innovation and safeguards \"must advance together.\"",
-    "link": "https://cryptopanic.com/news/32948628/LATEST-JPMorgans-payments-and-digital-assets-heads-argue-regulatory-clarity-matters-only-if-paired-with-durable-safeguards-saying-innovation-and-safeguards-must-advance-together",
-    "source": "@coinmarketcap",
-    "published": "Tue Jun 30 2026 07:37:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "MidChains (@MidChains_) CEO Basil Al Askari said that “at least one” sovereign wealth fund is accumulating spot Bitcoin while the price is down, with another potentially set to begin buying in the coming weeks.\n\n“It sends a very clear signal to let’s say other institutions that",
-    "link": "https://cryptopanic.com/news/32948632/MidChains-MidChains_-CEO-Basil-Al-Askari-said-that-at-least-one-sovereign-wealth-fund-is-accumulating-spot-Bitcoin-while-the-price-is-down-with-another-potentially-set-to-begin-buying-in-the-coming-weeks-It-sends-a-very-clear-signal-to-lets-say-other-institutions-that",
-    "source": "@cointelegraph",
-    "published": "Tue Jun 30 2026 07:36:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tesla Stock Surges 8% After FSD v14 Lite Update Launches",
-    "link": "https://cryptopanic.com/news/32948873/Tesla-Stock-Surges-8-After-FSD-v14-Lite-Update-Launches",
-    "source": "beincrypto.com",
-    "published": "Tue Jun 30 2026 07:35:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana Institute Pushes Back On Warren Over CLARITY Act\n\nSen. Elizabeth Warren shared a Wall Street Journal report alleging adversaries exploit crypto to move billions in illicit funds. \n\nThe report claims CoinEx became a major hub for Iranian transactions, with over $3.84",
-    "link": "https://cryptopanic.com/news/32948673/Solana-Institute-Pushes-Back-On-Warren-Over-CLARITY-Act-Sen-Elizabeth-Warren-shared-a-Wall-Street-Journal-report-alleging-adversaries-exploit-crypto-to-move-billions-in-illicit-funds-The-report-claims-CoinEx-became-a-major-hub-for-Iranian-transactions-with-over-384",
-    "source": "@bscnews",
-    "published": "Tue Jun 30 2026 07:33:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "WATCH: Shell has unveiled a small electric concept car that it says can recharge in under 10 minutes, using a special cooling fluid to help stop the battery from overheating",
-    "link": "https://cryptopanic.com/news/32948672/WATCH-Shell-has-unveiled-a-small-electric-concept-car-that-it-says-can-recharge-in-under-10-minutes-using-a-special-cooling-fluid-to-help-stop-the-battery-from-overheating",
-    "source": "@reutersbiz",
-    "published": "Tue Jun 30 2026 07:30:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
