@@ -1,51 +1,44 @@
 [
   {
-    "title": "Ethereum News: Ethereum’s pERC-20 Proposal Would Make Token Transfers Private by Default",
-    "link": "https://cryptopanic.com/news/32838319/Ethereum-News-Ethereums-pERC-20-Proposal-Would-Make-Token-Transfers-Private-by-Default",
-    "source": "cryptonews.com",
-    "published": "Thu Jun 11 2026 11:45:19 GMT+0000 (Coordinated Universal Time)",
+    "title": "Australia's Crypto Travel Rule Takes Effect in July",
+    "link": "https://cryptopanic.com/news/32949182/Australias-Crypto-Travel-Rule-Takes-Effect-in-July",
+    "source": "coincu.com",
+    "published": "Tue Jun 30 2026 09:40:23 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Joe Lubin Sees Ethereum Going All-In on ZK Proofs",
-    "link": "https://cryptopanic.com/news/32838153/Joe-Lubin-Sees-Ethereum-Going-All-In-on-ZK-Proofs",
-    "source": "techgaged.com",
-    "published": "Thu Jun 11 2026 11:20:00 GMT+0000 (Coordinated Universal Time)",
+    "title": "Ripple is Set to Become Asia’s Crypto Powerhouse — Here’s Why",
+    "link": "https://cryptopanic.com/news/32949166/Ripple-is-Set-to-Become-Asias-Crypto-Powerhouse-Heres-Why",
+    "source": "coinpaper.com",
+    "published": "Tue Jun 30 2026 09:35:01 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "U.K. To Allow Mutual Funds 10% Exposure To Crypto",
-    "link": "https://cryptopanic.com/news/32827035/UK-To-Allow-Mutual-Funds-10-Exposure-To-Crypto",
-    "source": "cryptoprowl.com",
-    "published": "Tue Jun 09 2026 20:12:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why Charles Hoskinson thinks Cardano is the ‘only ecosystem’ that can run the world",
-    "link": "https://cryptopanic.com/news/32825352/Why-Charles-Hoskinson-thinks-Cardano-is-the-only-ecosystem-that-can-run-the-world",
+    "title": "NanoBit’s crypto scam ends in a $5.52M SEC victory – Here’s how",
+    "link": "https://cryptopanic.com/news/32949148/NanoBits-crypto-scam-ends-in-a-552M-SEC-victory-Heres-how",
     "source": "ambcrypto.com",
-    "published": "Tue Jun 09 2026 15:00:21 GMT+0000 (Coordinated Universal Time)",
+    "published": "Tue Jun 30 2026 09:30:12 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "ADA crash: Cardano founder Charles Hoskinson announces a break",
-    "link": "https://cryptopanic.com/news/32797610/ADA-crash-Cardano-founder-Charles-Hoskinson-announces-a-break",
-    "source": "cryptovalleyjournal.com",
-    "published": "Thu Jun 04 2026 14:36:30 GMT+0000 (Coordinated Universal Time)",
+    "title": "LBank Deepens AFA Partnership Amid Global Expansion",
+    "link": "https://cryptopanic.com/news/32949130/LBank-Deepens-AFA-Partnership-Amid-Global-Expansion",
+    "source": "catenaa.com",
+    "published": "Tue Jun 30 2026 09:30:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Ethereum quietly released a major update that could reshape its future",
-    "link": "https://cryptopanic.com/news/32783718/Ethereum-quietly-released-a-major-update-that-could-reshape-its-future",
-    "source": "techgaged.com",
-    "published": "Tue Jun 02 2026 14:57:20 GMT+0000 (Coordinated Universal Time)",
+    "title": "Kalshi hit with 14-day restraining order in Michigan, blocking sports prediction markets in state",
+    "link": "https://cryptopanic.com/news/32949106/Kalshi-hit-with-14-day-restraining-order-in-Michigan-blocking-sports-prediction-markets-in-state",
+    "source": "theblock.co",
+    "published": "Tue Jun 30 2026 09:23:07 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Vitalik Buterin Just Drew a New Roadmap for Ethereum",
-    "link": "https://cryptopanic.com/news/32737282/Vitalik-Buterin-Just-Drew-a-New-Roadmap-for-Ethereum",
-    "source": "techgaged.com",
-    "published": "Mon May 25 2026 10:25:00 GMT+0000 (Coordinated Universal Time)",
+    "title": "'47 Ronin' Director Gets 30 Months for Spending Netflix's $11M on Dogecoin",
+    "link": "https://cryptopanic.com/news/32949169/47-Ronin-Director-Gets-30-Months-for-Spending-Netflixs-11M-on-Dogecoin",
+    "source": "decrypt.co",
+    "published": "Tue Jun 30 2026 09:20:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -53,6 +46,13 @@
     "link": "https://cryptopanic.com/news/32949029/Everything-Points-To-THIS-DATE-for-The-Bitcoin-Bull-Market-Global-Liquidity-Is-Exploding",
     "source": "TheModernInvestor",
     "published": "Tue Jun 30 2026 09:05:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Shiba Inu Reclaims Crypto Top 30\n\nShiba Inu has returned to the top 30 cryptocurrencies by market capitalization as exchange reserves continued to decline.\n\nCryptoQuant data shows nearly 781 billion $SHIB left exchanges between June 25 and June 29. \n\nExchange reserves fell to",
+    "link": "https://cryptopanic.com/news/32949131/Shiba-Inu-Reclaims-Crypto-Top-30-Shiba-Inu-has-returned-to-the-top-30-cryptocurrencies-by-market-capitalization-as-exchange-reserves-continued-to-decline-CryptoQuant-data-shows-nearly-781-billion-SHIB-left-exchanges-between-June-25-and-June-29-Exchange-reserves-fell-to",
+    "source": "@bscnews",
+    "published": "Tue Jun 30 2026 09:04:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -67,6 +67,13 @@
     "link": "https://cryptopanic.com/news/32949049/JUST-IN-The-UKs-FCA-finalizes-its-crypto-regulatory-framework-covering-capital-requirements-market-abuse-rules-and-stablecoin-standards-with-mandatory-authorization-required-by-October-2027",
     "source": "@coindesk",
     "published": "Tue Jun 30 2026 09:00:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MORE HUGE $XLM NEWS!\n\nCircle’s CCTP is now live on $XLM, letting native USDC move across @StellarOrg and major chains.\n\nThis turns Stellar into a serious cross-chain payments rail by connecting USDC, MoneyGram, Crossmint and real-world settlement.",
+    "link": "https://cryptopanic.com/news/32949129/MORE-HUGE-XLM-NEWS-Circles-CCTP-is-now-live-on-XLM-letting-native-USDC-move-across-StellarOrg-and-major-chains-This-turns-Stellar-into-a-serious-cross-chain-payments-rail-by-connecting-USDC-MoneyGram-Crossmint-and-real-world-settlement",
+    "source": "@realallincrypto",
+    "published": "Tue Jun 30 2026 09:00:28 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -95,6 +102,13 @@
     "link": "https://cryptopanic.com/news/32948968/FCA-cuts-stablecoin-capital-requirement-to-1-percent",
     "source": "cryptovalleyjournal.com",
     "published": "Tue Jun 30 2026 08:54:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Damage is done as far as $MSTR is concerned, yesterdays move is counter trend, it's going lower IMO",
+    "link": "https://cryptopanic.com/news/32949128/Damage-is-done-as-far-as-MSTR-is-concerned-yesterdays-move-is-counter-trend-its-going-lower-IMO",
+    "source": "@realallincrypto",
+    "published": "Tue Jun 30 2026 08:52:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/32948829/Read-more",
     "source": "@cointelegraph",
     "published": "Tue Jun 30 2026 08:20:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Every ecosystem talks about builders. The strongest ones keep producing them. \n\nBig congratulations to the six teams completing the third Sui (@SuiNetwork) Hydropower Fellowship.\n\nLooking forward to seeing these ideas become real products.",
-    "link": "https://cryptopanic.com/news/32948938/Every-ecosystem-talks-about-builders-The-strongest-ones-keep-producing-them-Big-congratulations-to-the-six-teams-completing-the-third-Sui-SuiNetwork-Hydropower-Fellowship-Looking-forward-to-seeing-these-ideas-become-real-products",
-    "source": "@bscnews",
-    "published": "Tue Jun 30 2026 08:16:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  BNY now lets institutional clients custody, mint, and redeem Circle's USDC through its Digital Asset Custody platform, with more stablecoins to follow.",
-    "link": "https://cryptopanic.com/news/32948825/LATEST-BNY-now-lets-institutional-clients-custody-mint-and-redeem-Circles-USDC-through-its-Digital-Asset-Custody-platform-with-more-stablecoins-to-follow",
-    "source": "@coinmarketcap",
-    "published": "Tue Jun 30 2026 08:13:10 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
