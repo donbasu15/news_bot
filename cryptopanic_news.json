@@ -1,5 +1,26 @@
 [
   {
+    "title": "U.S. senators seek to block foreign adversaries from AI technology in new bill",
+    "link": "https://cryptopanic.com/news/32953534/US-senators-seek-to-block-foreign-adversaries-from-AI-technology-in-new-bill",
+    "source": "coindesk.com",
+    "published": "Tue Jun 30 2026 23:02:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SVB: Bitcoin Lending Rebounds as Banks and Institutional Capital Enter the Market",
+    "link": "https://cryptopanic.com/news/32953474/SVB-Bitcoin-Lending-Rebounds-as-Banks-and-Institutional-Capital-Enter-the-Market",
+    "source": "btcusa.com",
+    "published": "Tue Jun 30 2026 23:01:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Meituan open-sources 1.6-trillion-parameter LongCat-2.0 AI model trained on Chinese chips",
+    "link": "https://cryptopanic.com/news/32953512/Meituan-open-sources-16-trillion-parameter-LongCat-20-AI-model-trained-on-Chinese-chips",
+    "source": "cryptopolitan.com",
+    "published": "Tue Jun 30 2026 23:01:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Trump Discloses at Least $1.4 Billion in Crypto Income, Renewing Conflict-of-Interest Concerns\n\nAccording to Bloomberg, U.S. President Donald Trump disclosed in his latest annual financial filing that he earned at least $1.4 billion from cryptocurrency-related businesses in 2025,",
     "link": "https://cryptopanic.com/news/32953433/Trump-Discloses-at-Least-14-Billion-in-Crypto-Income-Renewing-Conflict-of-Interest-Concerns-According-to-Bloomberg-US-President-Donald-Trump-disclosed-in-his-latest-annual-financial-filing-that-he-earned-at-least-14-billion-from-cryptocurrency-related-businesses-in-2025",
     "source": "@wublockchain",
@@ -7,10 +28,10 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Trump Discloses Over $1.2 Billion in Crypto Earnings, $50M in Bitcoin Holdings",
-    "link": "https://cryptopanic.com/news/32953456/Trump-Discloses-Over-12-Billion-in-Crypto-Earnings-50M-in-Bitcoin-Holdings",
-    "source": "@decryptmedia",
-    "published": "Tue Jun 30 2026 22:47:30 GMT+0000 (Coordinated Universal Time)",
+    "title": "🇺🇸 President Trump's disclosed cryptocurrency wallet holdings:\n\n• Bitcoin: $100,000,000+\n• Ethereum: $55,000,000+\n• WLFI Token: $50,000,000+\n• Stablecoin / Digital-Dollar: $5,000,000+\n• LINK, AAVE, ENA, MOVE, ONDO: $1,500,000+",
+    "link": "https://cryptopanic.com/news/32953521/President-Trumps-disclosed-cryptocurrency-wallet-holdings-Bitcoin-100000000-Ethereum-55000000-WLFI-Token-50000000-Stablecoin-Digital-Dollar-5000000-LINK-AAVE-ENA-MOVE-ONDO-1500000",
+    "source": "@watcherguru",
+    "published": "Tue Jun 30 2026 22:45:29 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -186,27 +207,6 @@
     "link": "https://cryptopanic.com/news/32953158/Euroclear-sues-Russian-central-bank-over-220-billion-damages-claim",
     "source": "@reutersbiz",
     "published": "Tue Jun 30 2026 21:30:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Riot Platforms moved 500 $BTC to NYDIG Custody, valued at about $29.48M, per Onchain Lens.",
-    "link": "https://cryptopanic.com/news/32953261/UPDATE-Riot-Platforms-moved-500-BTC-to-NYDIG-Custody-valued-at-about-2948M-per-Onchain-Lens",
-    "source": "@cointelegraph",
-    "published": "Tue Jun 30 2026 21:30:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: U.S. President Donald Trump reported over $1 billion in revenue last year from crypto-related activities, including $635 million in royalties from his memecoin business and over $500 million from token sales tied to World Liberty Financial. He also disclosed stakes in",
-    "link": "https://cryptopanic.com/news/32953259/JUST-IN-US-President-Donald-Trump-reported-over-1-billion-in-revenue-last-year-from-crypto-related-activities-including-635-million-in-royalties-from-his-memecoin-business-and-over-500-million-from-token-sales-tied-to-World-Liberty-Financial-He-also-disclosed-stakes-in",
-    "source": "@coindesk",
-    "published": "Tue Jun 30 2026 21:28:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  MetaMask has launched yield-paying Money Accounts on Monad, bundling stablecoin yield, payments, and trading into a single self-custody account.",
-    "link": "https://cryptopanic.com/news/32953255/LATEST-MetaMask-has-launched-yield-paying-Money-Accounts-on-Monad-bundling-stablecoin-yield-payments-and-trading-into-a-single-self-custody-account",
-    "source": "@coinmarketcap",
-    "published": "Tue Jun 30 2026 21:25:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
