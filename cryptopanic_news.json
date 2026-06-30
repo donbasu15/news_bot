@@ -1,5 +1,82 @@
 [
   {
+    "title": "Expect More Crypto Volatility Ahead, Warns Jefferies",
+    "link": "https://cryptopanic.com/news/32952443/Expect-More-Crypto-Volatility-Ahead-Warns-Jefferies",
+    "source": "cryptoprowl.com",
+    "published": "Tue Jun 30 2026 18:35:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Analyst Doubles Down On ‘Boring’ Utility Alts Like XLM & HBAR",
+    "link": "https://cryptopanic.com/news/32952413/Analyst-Doubles-Down-On-Boring-Utility-Alts-Like-XLM-amp-HBAR",
+    "source": "dailycoin.com",
+    "published": "Tue Jun 30 2026 18:34:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Visa And Mastercard Launch New Stablecoin",
+    "link": "https://cryptopanic.com/news/32952435/Visa-And-Mastercard-Launch-New-Stablecoin",
+    "source": "cryptoprowl.com",
+    "published": "Tue Jun 30 2026 18:34:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UK Halves Stablecoin Capital to 1%: A Direct Challenge to MiCA",
+    "link": "https://cryptopanic.com/news/32952390/UK-Halves-Stablecoin-Capital-to-1-A-Direct-Challenge-to-MiCA",
+    "source": "spaziocrypto.com",
+    "published": "Tue Jun 30 2026 18:31:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Will the Bitcoin Strategic Reserve Be A Game Changer?!",
+    "link": "https://cryptopanic.com/news/32952441/Will-the-Bitcoin-Strategic-Reserve-Be-A-Game-Changer",
+    "source": "SimplyBitcoin",
+    "published": "Tue Jun 30 2026 18:30:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "How Michael Saylor replaced ‘bitcoin’ with ‘credit’",
+    "link": "https://cryptopanic.com/news/32952368/How-Michael-Saylor-replaced-bitcoin-with-credit",
+    "source": "protos.com",
+    "published": "Tue Jun 30 2026 18:28:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NFTX Teases v4 Relaunch With New Whitepaper",
+    "link": "https://cryptopanic.com/news/32952358/NFTX-Teases-v4-Relaunch-With-New-Whitepaper",
+    "source": "bankless.com",
+    "published": "Tue Jun 30 2026 18:20:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SEC Seeks Public Comment on Novel ETFs, Including Crypto Asset Funds",
+    "link": "https://cryptopanic.com/news/32952356/SEC-Seeks-Public-Comment-on-Novel-ETFs-Including-Crypto-Asset-Funds",
+    "source": "cryptomegaphone.com",
+    "published": "Tue Jun 30 2026 18:20:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Stripe, Visa, BlackRock Back New Open USD Stablecoin In Bid To Challenge Tether, Circle",
+    "link": "https://cryptopanic.com/news/32952411/Stripe-Visa-BlackRock-Back-New-Open-USD-Stablecoin-In-Bid-To-Challenge-Tether-Circle",
+    "source": "feeds2.benzinga.com",
+    "published": "Tue Jun 30 2026 18:18:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Top 13 Telegram play-to-earn games in June 2026",
+    "link": "https://cryptopanic.com/news/32952354/Top-13-Telegram-play-to-earn-games-in-June-2026",
+    "source": "ambcrypto.com",
+    "published": "Tue Jun 30 2026 18:18:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Bitcoin is currently below the 200 weekly moving average, which historically has been a great buying opportunity \n\nBuy the dip!",
+    "link": "https://cryptopanic.com/news/32952470/JUST-IN-Bitcoin-is-currently-below-the-200-weekly-moving-average-which-historically-has-been-a-great-buying-opportunity-Buy-the-dip",
+    "source": "@bitcoinmagazine",
+    "published": "Tue Jun 30 2026 18:17:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Empery Digital pivots from Bitcoin treasury with $65 million AI data center deal",
     "link": "https://cryptopanic.com/news/32952362/Empery-Digital-pivots-from-Bitcoin-treasury-with-65-million-AI-data-center-deal",
     "source": "cryptopolitan.com",
@@ -7,10 +84,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Bitcoin Slips To $58,000 While Ethereum, XRP, Dogecoin Tumble More Than 3% On Continued Institutional Selling",
+    "link": "https://cryptopanic.com/news/32952364/Bitcoin-Slips-To-58000-While-Ethereum-XRP-Dogecoin-Tumble-More-Than-3-On-Continued-Institutional-Selling",
+    "source": "feeds2.benzinga.com",
+    "published": "Tue Jun 30 2026 18:13:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "ENS DAO governance reform proposal devolves into drama",
     "link": "https://cryptopanic.com/news/32952361/ENS-DAO-governance-reform-proposal-devolves-into-drama",
     "source": "cryptopolitan.com",
     "published": "Tue Jun 30 2026 18:12:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "New XRP wallets surge as price clings to $1\n\nThe XRP Ledger added 4,941 new wallets in a single day, its biggest growth spike in 14 weeks, per @SantimentData.\n\nIt came whilst $XRP sits at $1.03, barely above a 19-month low, and social mood is flipping hard: 3.7 positive comments",
+    "link": "https://cryptopanic.com/news/32952382/New-XRP-wallets-surge-as-price-clings-to-1-The-XRP-Ledger-added-4941-new-wallets-in-a-single-day-its-biggest-growth-spike-in-14-weeks-per-SantimentData-It-came-whilst-XRP-sits-at-103-barely-above-a-19-month-low-and-social-mood-is-flipping-hard-37-positive-comments",
+    "source": "@bscnews",
+    "published": "Tue Jun 30 2026 18:04:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -25,6 +116,13 @@
     "link": "https://cryptopanic.com/news/32952318/INSIGHT-Crypto-firms-have-spent-189M-on-the-2026-US-midterms-surpassing-their-2024-total-political-spending",
     "source": "@cointelegraph",
     "published": "Tue Jun 30 2026 18:00:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "With OpenUSD launching and $XLM involved…\n\nIs there a better network for it to land on?\n\nThese examples show how giants like MoneyGram, PayPal, Visa, Wirex, U.S. Bank, PwC and even Circle have ALL Chose @StellarOrg! \n\n$XLM is becoming the stablecoin payments chain.",
+    "link": "https://cryptopanic.com/news/32952381/With-OpenUSD-launching-and-XLM-involved-Is-there-a-better-network-for-it-to-land-on-These-examples-show-how-giants-like-MoneyGram-PayPal-Visa-Wirex-US-Bank-PwC-and-even-Circle-have-ALL-Chose-StellarOrg-XLM-is-becoming-the-stablecoin-payments-chain",
+    "source": "@realallincrypto",
+    "published": "Tue Jun 30 2026 18:00:09 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -77,6 +175,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "SEC giving novel ETFs a rethink as it opens comment period on overhauling U.S. rules",
+    "link": "https://cryptopanic.com/news/32952442/SEC-giving-novel-ETFs-a-rethink-as-it-opens-comment-period-on-overhauling-US-rules",
+    "source": "coindesk.com",
+    "published": "Tue Jun 30 2026 17:51:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Sharplink Bought 10,000 ETH, 2 Million SBET: What's Going On?",
     "link": "https://cryptopanic.com/news/32952276/Sharplink-Bought-10000-ETH-2-Million-SBET-Whats-Going-On",
     "source": "feeds2.benzinga.com",
@@ -102,111 +207,6 @@
     "link": "https://cryptopanic.com/news/32952272/Why-Is-Circle-Internet-Group-Stock-Falling-On-Tuesday",
     "source": "feeds2.benzinga.com",
     "published": "Tue Jun 30 2026 17:45:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Live chart ⤵️",
-    "link": "https://cryptopanic.com/news/32952315/Live-chart",
-    "source": "@cryptoquant_com",
-    "published": "Tue Jun 30 2026 17:45:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BoE's Bailey sees no rush to act on interest rates",
-    "link": "https://cryptopanic.com/news/32952201/BoEs-Bailey-sees-no-rush-to-act-on-interest-rates",
-    "source": "@reutersbiz",
-    "published": "Tue Jun 30 2026 17:45:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Binance adds Anchorage Digital to its triparty banking network for institutional traders",
-    "link": "https://cryptopanic.com/news/32952242/Binance-adds-Anchorage-Digital-to-its-triparty-banking-network-for-institutional-traders",
-    "source": "cryptopolitan.com",
-    "published": "Tue Jun 30 2026 17:45:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "We called for stronger cash reserves last week.\n\nToday, Strategy responded with $1.25B in authorized BTC monetization, lifting reserve capacity to $3.8B and ~25.9 months of coverage.\n\nDespite the authorization to sell bitcoin, the framework strengthens the balance sheet.",
-    "link": "https://cryptopanic.com/news/32952314/We-called-for-stronger-cash-reserves-last-week-Today-Strategy-responded-with-125B-in-authorized-BTC-monetization-lifting-reserve-capacity-to-38B-and-259-months-of-coverage-Despite-the-authorization-to-sell-bitcoin-the-framework-strengthens-the-balance-sheet",
-    "source": "@cryptoquant_com",
-    "published": "Tue Jun 30 2026 17:44:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Dozens of Major Companies Become Open USD Launch Partners",
-    "link": "https://cryptopanic.com/news/32952166/Dozens-of-Major-Companies-Become-Open-USD-Launch-Partners",
-    "source": "bankless.com",
-    "published": "Tue Jun 30 2026 17:42:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "FCA Publishes Final Crypto Rules as UK Advances Comprehensive Regulatory Regime",
-    "link": "https://cryptopanic.com/news/32952165/FCA-Publishes-Final-Crypto-Rules-as-UK-Advances-Comprehensive-Regulatory-Regime",
-    "source": "cryptomegaphone.com",
-    "published": "Tue Jun 30 2026 17:41:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AI firm tied to bankrupt crypto lender files for Nasdaq listing",
-    "link": "https://cryptopanic.com/news/32952274/AI-firm-tied-to-bankrupt-crypto-lender-files-for-Nasdaq-listing",
-    "source": "thestreet.com",
-    "published": "Tue Jun 30 2026 17:40:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Circle Stock Dives as Coinbase, BlackRock and Visa Back Open USD Stablecoin",
-    "link": "https://cryptopanic.com/news/32952164/Circle-Stock-Dives-as-Coinbase-BlackRock-and-Visa-Back-Open-USD-Stablecoin",
-    "source": "decrypt.co",
-    "published": "Tue Jun 30 2026 17:38:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UK splits its stablecoin rulebook in two\n\nThe Bank of England (@bankofengland) and @TheFCA published their joint oversight plan for sterling stablecoins today. Two tiers. Smaller issuers answer to the FCA alone. Systemic ones get the Bank of England on top.\n\nCoins like",
-    "link": "https://cryptopanic.com/news/32952206/UK-splits-its-stablecoin-rulebook-in-two-The-Bank-of-England-bankofengland-and-TheFCA-published-their-joint-oversight-plan-for-sterling-stablecoins-today-Two-tiers-Smaller-issuers-answer-to-the-FCA-alone-Systemic-ones-get-the-Bank-of-England-on-top-Coins-like",
-    "source": "@bscnews",
-    "published": "Tue Jun 30 2026 17:36:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BlackRock cools on emerging markets, sees value in euro government debt",
-    "link": "https://cryptopanic.com/news/32952199/BlackRock-cools-on-emerging-markets-sees-value-in-euro-government-debt",
-    "source": "@reutersbiz",
-    "published": "Tue Jun 30 2026 17:31:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why the altcoin market remains under pressure—and what could spark a recovery",
-    "link": "https://cryptopanic.com/news/32952110/Why-the-altcoin-market-remains-under-pressureand-what-could-spark-a-recovery",
-    "source": "ambcrypto.com",
-    "published": "Tue Jun 30 2026 17:30:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INSIGHT: Peter Schiff says $STRC’s 15% yield could force Strategy to raise dividends and sell more $BTC sooner.",
-    "link": "https://cryptopanic.com/news/32952092/INSIGHT-Peter-Schiff-says-STRCs-15-yield-could-force-Strategy-to-raise-dividends-and-sell-more-BTC-sooner",
-    "source": "@cointelegraph",
-    "published": "Tue Jun 30 2026 17:30:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Jack Mallers’ Strike clears MiCA hurdle as Binance leads Europe exit",
-    "link": "https://cryptopanic.com/news/32952155/Jack-Mallers-Strike-clears-MiCA-hurdle-as-Binance-leads-Europe-exit",
-    "source": "cryptopolitan.com",
-    "published": "Tue Jun 30 2026 17:27:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SpaceX Dominates as Tokenized Pre-IPO Trading Volume Surges 1,060%: CoinGecko",
-    "link": "https://cryptopanic.com/news/32952114/SpaceX-Dominates-as-Tokenized-Pre-IPO-Trading-Volume-Surges-1060-CoinGecko",
-    "source": "cryptopotato.com",
-    "published": "Tue Jun 30 2026 17:25:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "After China, OpenAI Chips Away at Nvidia: So Why is NVDA Stock Up?",
-    "link": "https://cryptopanic.com/news/32952234/After-China-OpenAI-Chips-Away-at-Nvidia-So-Why-is-NVDA-Stock-Up",
-    "source": "beincrypto.com",
-    "published": "Tue Jun 30 2026 17:22:04 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
