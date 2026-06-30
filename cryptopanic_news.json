@@ -1,9 +1,100 @@
 [
   {
+    "title": "SEC closes NanoBit fraud case with $5 million in penalties after default judgment",
+    "link": "https://cryptopanic.com/news/32950763/SEC-closes-NanoBit-fraud-case-with-5-million-in-penalties-after-default-judgment",
+    "source": "cryptopolitan.com",
+    "published": "Tue Jun 30 2026 13:40:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "️ LATEST: Many platforms reach the end of the road on July 1st. \n\n@OKX is MiCA-authorised and already building Europe's next milestones.\n\nEligible users can access an 8% deposit bonus through its €10M rewards pool.",
+    "link": "https://cryptopanic.com/news/32950762/LATEST-Many-platforms-reach-the-end-of-the-road-on-July-1st-OKX-is-MiCA-authorised-and-already-building-Europes-next-milestones-Eligible-users-can-access-an-8-deposit-bonus-through-its-10M-rewards-pool",
+    "source": "@cointelegraph",
+    "published": "Tue Jun 30 2026 13:35:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Solana Surges On Record Meme & RWA Activity",
+    "link": "https://cryptopanic.com/news/32950729/Solana-Surges-On-Record-Meme-RWA-Activity",
+    "source": "cryptoprowl.com",
+    "published": "Tue Jun 30 2026 13:32:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Is 'Canary In The Coal Mine For Liquidity', Could Fall Below $50,000 Expert Warns",
+    "link": "https://cryptopanic.com/news/32950735/Bitcoin-Is-Canary-In-The-Coal-Mine-For-Liquidity-Could-Fall-Below-50000-Expert-Warns",
+    "source": "feeds2.benzinga.com",
+    "published": "Tue Jun 30 2026 13:31:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Brad Garlinghouse Takes Aim At Strategy’s Debt-Fueled Bitcoin Play",
+    "link": "https://cryptopanic.com/news/32950580/Brad-Garlinghouse-Takes-Aim-At-Strategys-Debt-Fueled-Bitcoin-Play",
+    "source": "newsbtc.com",
+    "published": "Tue Jun 30 2026 13:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Securitize Lists on NYSE as SECZ: Backed by $400M Raise and BlackRock BUIDL",
+    "link": "https://cryptopanic.com/news/32950695/Securitize-Lists-on-NYSE-as-SECZ-Backed-by-400M-Raise-and-BlackRock-BUIDL",
+    "source": "cryptonews.com",
+    "published": "Tue Jun 30 2026 13:29:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BREAKING: Dozens of financial firms including @Visa, @Stripe, @Mastercard, @BlackRock and @Coinbase are launching a new stablecoin called $OUSD, sharing revenue among partners, per Bloomberg.",
+    "link": "https://cryptopanic.com/news/32950757/BREAKING-Dozens-of-financial-firms-including-Visa-Stripe-Mastercard-BlackRock-and-Coinbase-are-launching-a-new-stablecoin-called-OUSD-sharing-revenue-among-partners-per-Bloomberg",
+    "source": "@coindesk",
+    "published": "Tue Jun 30 2026 13:28:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Apple pushes iOS 26.5.2 with ~30 security patches across iPhone, iPad, and Mac",
+    "link": "https://cryptopanic.com/news/32950696/Apple-pushes-iOS-2652-with-30-security-patches-across-iPhone-iPad-and-Mac",
+    "source": "cryptopolitan.com",
+    "published": "Tue Jun 30 2026 13:27:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SHIB Reserves Hit All-Time Lows; Liquidity Crunch Coming?",
+    "link": "https://cryptopanic.com/news/32950559/SHIB-Reserves-Hit-All-Time-Lows-Liquidity-Crunch-Coming",
+    "source": "dailycoin.com",
+    "published": "Tue Jun 30 2026 13:25:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: Dozens of financial firms, including Visa, Mastercard, Stripe, BlackRock and Coinbase, are reportedly launching a new stablecoin, OUSD, with revenue shared among partners",
+    "link": "https://cryptopanic.com/news/32950565/INTEL-Dozens-of-financial-firms-including-Visa-Mastercard-Stripe-BlackRock-and-Coinbase-are-reportedly-launching-a-new-stablecoin-OUSD-with-revenue-shared-among-partners",
+    "source": "@solidintel_x",
+    "published": "Tue Jun 30 2026 13:24:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ripple will unlock 1 billion XRP tomorrow",
+    "link": "https://cryptopanic.com/news/32950534/Ripple-will-unlock-1-billion-XRP-tomorrow",
+    "source": "finbold.com",
+    "published": "Tue Jun 30 2026 13:16:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Nasdaq selects Pyth to distribute Nasdaq TotalView market data, bringing depth-of-book and order imbalance data to onchain and software-native markets.",
+    "link": "https://cryptopanic.com/news/32950760/JUST-IN-Nasdaq-selects-Pyth-to-distribute-Nasdaq-TotalView-market-data-bringing-depth-of-book-and-order-imbalance-data-to-onchain-and-software-native-markets",
+    "source": "@cointelegraph",
+    "published": "Tue Jun 30 2026 13:15:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "EU opens in-depth state aid probe into 2017 capital injection for Post Danmark",
     "link": "https://cryptopanic.com/news/32950478/EU-opens-in-depth-state-aid-probe-into-2017-capital-injection-for-Post-Danmark",
     "source": "@reutersbiz",
     "published": "Tue Jun 30 2026 13:15:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$1.06 Break: Why XRP Is Suddenly Facing 30% Downside Risk",
+    "link": "https://cryptopanic.com/news/32950578/106-Break-Why-XRP-Is-Suddenly-Facing-30-Downside-Risk",
+    "source": "u.today",
+    "published": "Tue Jun 30 2026 13:15:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -35,10 +126,31 @@
     "sentiment": "neutral"
   },
   {
+    "title": "LATEST: 🇺🇸 TD Cowen says the CLARITY Act passing before November's midterm elections is \"far from assured,\" with July 24 a key deadline before the House leaves for August recess.",
+    "link": "https://cryptopanic.com/news/32950753/LATEST-TD-Cowen-says-the-CLARITY-Act-passing-before-Novembers-midterm-elections-is-far-from-assured-with-July-24-a-key-deadline-before-the-House-leaves-for-August-recess",
+    "source": "@coinmarketcap",
+    "published": "Tue Jun 30 2026 13:05:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MiCA Regulations and Binance EU Exit [Ft. NGRAVE and Storm Partners] #CHAINREACTION",
+    "link": "https://cryptopanic.com/news/32950759/MiCA-Regulations-and-Binance-EU-Exit-Ft-NGRAVE-and-Storm-Partners-CHAINREACTION",
+    "source": "@cointelegraph",
+    "published": "Tue Jun 30 2026 13:02:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "UK housebuilders face potential lawsuit over alleged anti-competitive conduct",
     "link": "https://cryptopanic.com/news/32950476/UK-housebuilders-face-potential-lawsuit-over-alleged-anti-competitive-conduct",
     "source": "@reutersbiz",
     "published": "Tue Jun 30 2026 13:01:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: StarkWare releases Starknet’s post-quantum roadmap, outlining a three-phase plan to make the network quantum-secure before Q-day.",
+    "link": "https://cryptopanic.com/news/32950758/LATEST-StarkWare-releases-Starknets-post-quantum-roadmap-outlining-a-three-phase-plan-to-make-the-network-quantum-secure-before-Q-day",
+    "source": "@cointelegraph",
+    "published": "Tue Jun 30 2026 13:00:46 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -53,6 +165,13 @@
     "link": "https://cryptopanic.com/news/32950480/CRYPTO-FIRMS-LEAVING-EU-FOR-DUBAI-A-Dubai-lawyer-says-shes-getting-120-setup-inquiries-from-Europe-as-Dubai-is-becoming-cryptos-escape-valve-This-is-due-to-the-EUs-MiCA-deadline-forcing-unlicensed-firms-to-cut-off-EU-clients-from-July-1",
     "source": "@realallincrypto",
     "published": "Tue Jun 30 2026 13:00:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Nasdaq expands distribution of its market data into blockchain infrastructure",
+    "link": "https://cryptopanic.com/news/32950555/Nasdaq-expands-distribution-of-its-market-data-into-blockchain-infrastructure",
+    "source": "coindesk.com",
+    "published": "Tue Jun 30 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -88,125 +207,6 @@
     "link": "https://cryptopanic.com/news/32950359/Open-Interest-explained-We-made-the-derivatives-data-easier-to-read-A-clear-tooltip-on-what-Open-Interest-means-Less-jargon-more-context-Helps-you-read-perps-and-futures-at-a-glance-45",
     "source": "@coinmarketcap",
     "published": "Tue Jun 30 2026 12:50:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Buy Buttons on your Watchlist\n\nGo from tracking to trading without leaving your list.\n  Buy straight from the watchlist on web\n  Fewer clicks between idea and action\n  Routed to a partner exchange\n\n3/5",
-    "link": "https://cryptopanic.com/news/32950357/Buy-Buttons-on-your-Watchlist-Go-from-tracking-to-trading-without-leaving-your-list-Buy-straight-from-the-watchlist-on-web-Fewer-clicks-between-idea-and-action-Routed-to-a-partner-exchange-35",
-    "source": "@coinmarketcap",
-    "published": "Tue Jun 30 2026 12:49:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Predict.​fun is live\n\nA third major prediction market joins the tracker, next to Polymarket and Kalshi.\n  Compare odds across more sources\n  More events in one place\n  A fuller read on where the crowd leans\n\n2/5",
-    "link": "https://cryptopanic.com/news/32950356/Predictfun-is-live-A-third-major-prediction-market-joins-the-tracker-next-to-Polymarket-and-Kalshi-Compare-odds-across-more-sources-More-events-in-one-place-A-fuller-read-on-where-the-crowd-leans-25",
-    "source": "@coinmarketcap",
-    "published": "Tue Jun 30 2026 12:49:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ZetaChain terminates cross-chain services to pursue AI memory infrastructure",
-    "link": "https://cryptopanic.com/news/32950373/ZetaChain-terminates-cross-chain-services-to-pursue-AI-memory-infrastructure",
-    "source": "cryptopolitan.com",
-    "published": "Tue Jun 30 2026 12:48:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "KuCoin Alpha has listed Ansem Token\n\n@Kucoincom officially lists the $ANSEM token in its Alpha Zone. \n\nThe listing features an ANSEM/USDT pair, providing a new liquidity gateway for the early-stage innovation token as retail demand for high-velocity Solana assets remains",
-    "link": "https://cryptopanic.com/news/32950481/KuCoin-Alpha-has-listed-Ansem-Token-Kucoincom-officially-lists-the-ANSEM-token-in-its-Alpha-Zone-The-listing-features-an-ANSEMUSDT-pair-providing-a-new-liquidity-gateway-for-the-early-stage-innovation-token-as-retail-demand-for-high-velocity-Solana-assets-remains",
-    "source": "@bscnews",
-    "published": "Tue Jun 30 2026 12:47:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Price Under Pressure: Strategy’s Digital Credit Capital Framework Might Sell Some BTC",
-    "link": "https://cryptopanic.com/news/32950364/Bitcoin-Price-Under-Pressure-Strategys-Digital-Credit-Capital-Framework-Might-Sell-Some-BTC",
-    "source": "coinspeaker.com",
-    "published": "Tue Jun 30 2026 12:45:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BlackRock’s IBIT Sees $300M Outflow As Bitcoin ETF Rebalancing Deepens",
-    "link": "https://cryptopanic.com/news/32950328/BlackRocks-IBIT-Sees-300M-Outflow-As-Bitcoin-ETF-Rebalancing-Deepens",
-    "source": "newsbtc.com",
-    "published": "Tue Jun 30 2026 12:45:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The yen slumped to levels not seen since 1986, stoking worries that direct intervention from Tokyo was around the corner, while the dollar backed away from 13-month highs ahead of jobs data that could influence the US rate outlook",
-    "link": "https://cryptopanic.com/news/32950475/The-yen-slumped-to-levels-not-seen-since-1986-stoking-worries-that-direct-intervention-from-Tokyo-was-around-the-corner-while-the-dollar-backed-away-from-13-month-highs-ahead-of-jobs-data-that-could-influence-the-US-rate-outlook",
-    "source": "@reutersbiz",
-    "published": "Tue Jun 30 2026 12:45:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AVAX treasury company tells the SEC it might not survive the year",
-    "link": "https://cryptopanic.com/news/32950302/AVAX-treasury-company-tells-the-SEC-it-might-not-survive-the-year",
-    "source": "protos.com",
-    "published": "Tue Jun 30 2026 12:44:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "3 Stocks to Watch as the MiCA Deadline Reshapes EU Digital Assets",
-    "link": "https://cryptopanic.com/news/32950542/3-Stocks-to-Watch-as-the-MiCA-Deadline-Reshapes-EU-Digital-Assets",
-    "source": "beincrypto.com",
-    "published": "Tue Jun 30 2026 12:43:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Second-Largest Ethereum Treasury Company SharpLink Buys 10,000 ETH, Holdings Reach 886,725 ETH\n\nSharpLink (Nasdaq: SBET), the second-largest Ethereum treasury company, said it bought 10,000 ETH at an average price of about $1,611, bringing its total holdings to 886,725 ETH as of",
-    "link": "https://cryptopanic.com/news/32950361/Second-Largest-Ethereum-Treasury-Company-SharpLink-Buys-10000-ETH-Holdings-Reach-886725-ETH-SharpLink-Nasdaq-SBET-the-second-largest-Ethereum-treasury-company-said-it-bought-10000-ETH-at-an-average-price-of-about-1611-bringing-its-total-holdings-to-886725-ETH-as-of",
-    "source": "@wublockchain",
-    "published": "Tue Jun 30 2026 12:42:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Join the very first DeFi BUILD IT OR KILL IT SHOW. \n\nThe Era of DeFi Dominance Is Coming. Now what?\n\n️ Featuring John Adam Khandjian of @Changelly_team and top Web3 advisor @AramMughalyan.\n\nWhat to expect during the event:\n• Top Web3 speakers = industry leaders and builders",
-    "link": "https://cryptopanic.com/news/32950363/Join-the-very-first-DeFi-BUILD-IT-OR-KILL-IT-SHOW-The-Era-of-DeFi-Dominance-Is-Coming-Now-what-Featuring-John-Adam-Khandjian-of-Changelly_team-and-top-Web3-advisor-AramMughalyan-What-to-expect-during-the-event-Top-Web3-speakers-industry-leaders-and-builders",
-    "source": "@cointelegraph",
-    "published": "Tue Jun 30 2026 12:40:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto Trading Prop Firm vs. Traditional Prop Firm: What has Changed for Traders in 2026",
-    "link": "https://cryptopanic.com/news/32950290/Crypto-Trading-Prop-Firm-vs-Traditional-Prop-Firm-What-has-Changed-for-Traders-in-2026",
-    "source": "cryptopotato.com",
-    "published": "Tue Jun 30 2026 12:34:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Robert Kiyosaki predicts ETH to hit $95,000 after ‘biggest bubble in history’",
-    "link": "https://cryptopanic.com/news/32950270/Robert-Kiyosaki-predicts-ETH-to-hit-95000-after-biggest-bubble-in-history",
-    "source": "finbold.com",
-    "published": "Tue Jun 30 2026 12:34:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "What is Next for Bitcoin’s Price? Experts Share Key Near-Term Expectations",
-    "link": "https://cryptopanic.com/news/32950278/What-is-Next-for-Bitcoins-Price-Experts-Share-Key-Near-Term-Expectations",
-    "source": "zycrypto.com",
-    "published": "Tue Jun 30 2026 12:33:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Billionaire Investor Grantham Says Bitcoin Will Fade 'Not With A Bang, But A Whimper'",
-    "link": "https://cryptopanic.com/news/32950322/Billionaire-Investor-Grantham-Says-Bitcoin-Will-Fade-Not-With-A-Bang-But-A-Whimper",
-    "source": "feeds2.benzinga.com",
-    "published": "Tue Jun 30 2026 12:31:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "TD Cowen slashes Strategy target to $260 on bitcoin outlook, calls new capital framework ‘constructive’",
-    "link": "https://cryptopanic.com/news/32950212/TD-Cowen-slashes-Strategy-target-to-260-on-bitcoin-outlook-calls-new-capital-framework-constructive",
-    "source": "theblock.co",
-    "published": "Tue Jun 30 2026 12:31:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nifty IT Falls Over 2% as Infosys, LTIMindtree and TCS Lead Sector Sell-Off",
-    "link": "https://cryptopanic.com/news/32950350/Nifty-IT-Falls-Over-2-as-Infosys-LTIMindtree-and-TCS-Lead-Sector-Sell-Off",
-    "source": "sfctoday.com",
-    "published": "Tue Jun 30 2026 12:30:44 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
