@@ -1,9 +1,177 @@
 [
   {
+    "title": "If you invested $1,000 at the start of 2026 in a Robert Kiyosaki portfolio, you’d now have this much",
+    "link": "https://cryptopanic.com/news/32950119/If-you-invested-1000-at-the-start-of-2026-in-a-Robert-Kiyosaki-portfolio-youd-now-have-this-much",
+    "source": "finbold.com",
+    "published": "Tue Jun 30 2026 12:14:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Morning Minute: A Change of Strategy",
+    "link": "https://cryptopanic.com/news/32950113/Morning-Minute-A-Change-of-Strategy",
+    "source": "decrypt.co",
+    "published": "Tue Jun 30 2026 12:13:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Grayscale Sees Bitcoin Near Cycle Low Under Bullish Scenario",
+    "link": "https://cryptopanic.com/news/32950094/Grayscale-Sees-Bitcoin-Near-Cycle-Low-Under-Bullish-Scenario",
+    "source": "zycrypto.com",
+    "published": "Tue Jun 30 2026 12:12:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Strategy Authorizes $1.25B Bitcoin Sales",
+    "link": "https://cryptopanic.com/news/32950071/Strategy-Authorizes-125B-Bitcoin-Sales",
+    "source": "dailycoin.com",
+    "published": "Tue Jun 30 2026 12:05:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Proception settles Tesla trade secret lawsuit, raises $11M for robotic hand development",
+    "link": "https://cryptopanic.com/news/32950086/Proception-settles-Tesla-trade-secret-lawsuit-raises-11M-for-robotic-hand-development",
+    "source": "cryptopolitan.com",
+    "published": "Tue Jun 30 2026 12:04:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MiCA-Authorized Exchanges: The Full CASP List for July 2026",
+    "link": "https://cryptopanic.com/news/32950022/MiCA-Authorized-Exchanges-The-Full-CASP-List-for-July-2026",
+    "source": "spaziocrypto.com",
+    "published": "Tue Jun 30 2026 12:03:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NU7-rc0 went live on testnet on May 22, 2026, testing 25-second blocks and doubled Orchard throughput. \n\nThe deeper architecture, including oblivious sync, is a later target. \n\nTachyon drew universal support across every constituency in the February NU7 poll.",
+    "link": "https://cryptopanic.com/news/32950109/NU7-rc0-went-live-on-testnet-on-May-22-2026-testing-25-second-blocks-and-doubled-Orchard-throughput-The-deeper-architecture-including-oblivious-sync-is-a-later-target-Tachyon-drew-universal-support-across-every-constituency-in-the-February-NU7-poll",
+    "source": "@coindesk",
+    "published": "Tue Jun 30 2026 12:02:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Full report from @CoinDesk Research, commissioned by @genzcash",
+    "link": "https://cryptopanic.com/news/32950108/Full-report-from-CoinDesk-Research-commissioned-by-genzcash",
+    "source": "@coindesk",
+    "published": "Tue Jun 30 2026 12:02:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Project Tachyon, led by Sean Bowe, restructures the state model in three parts: wallets carry a recursive proof of their own balance, nodes keep nullifiers for a recent window then prune the rest, and payment secrets move off-chain. \n\nDecoupled from history, block size and",
+    "link": "https://cryptopanic.com/news/32950105/Project-Tachyon-led-by-Sean-Bowe-restructures-the-state-model-in-three-parts-wallets-carry-a-recursive-proof-of-their-own-balance-nodes-keep-nullifiers-for-a-recent-window-then-prune-the-rest-and-payment-secrets-move-off-chain-Decoupled-from-history-block-size-and",
+    "source": "@coindesk",
+    "published": "Tue Jun 30 2026 12:02:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "RESEARCH: @Zcash is rebuilding how a shielded chain stores state, and the throughput gains follow from that rather than the other way around. \n\nToday a private wallet finds its own funds by trial-decrypting the chain's encrypted outputs one by one. \n\nThat cost grows with every",
+    "link": "https://cryptopanic.com/news/32950104/RESEARCH-Zcash-is-rebuilding-how-a-shielded-chain-stores-state-and-the-throughput-gains-follow-from-that-rather-than-the-other-way-around-Today-a-private-wallet-finds-its-own-funds-by-trial-decrypting-the-chains-encrypted-outputs-one-by-one-That-cost-grows-with-every",
+    "source": "@coindesk",
+    "published": "Tue Jun 30 2026 12:02:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "This is the trap that caps private chains. On a transparent chain, more adoption funds better indexers and explorers. \n\nUnder the legacy shielded model, more adoption means more encrypted data for every wallet to scan, so sync slows for everyone. \n\nThroughput sits around 20 tx/s.",
+    "link": "https://cryptopanic.com/news/32950101/This-is-the-trap-that-caps-private-chains-On-a-transparent-chain-more-adoption-funds-better-indexers-and-explorers-Under-the-legacy-shielded-model-more-adoption-means-more-encrypted-data-for-every-wallet-to-scan-so-sync-slows-for-everyone-Throughput-sits-around-20-txs",
+    "source": "@coindesk",
+    "published": "Tue Jun 30 2026 12:02:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Wall Street Giant BNY Bets Bigger on USDC",
+    "link": "https://cryptopanic.com/news/32949989/Wall-Street-Giant-BNY-Bets-Bigger-on-USDC",
+    "source": "techgaged.com",
+    "published": "Tue Jun 30 2026 12:00:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MSTR Teeters Below $95, But Benchmark Targets Record $570 Share Price",
+    "link": "https://cryptopanic.com/news/32950107/MSTR-Teeters-Below-95-But-Benchmark-Targets-Record-570-Share-Price",
+    "source": "feeds2.benzinga.com",
+    "published": "Tue Jun 30 2026 12:00:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Humanity jumps 18% as Open Interest climbs – Can H extend its recovery?",
+    "link": "https://cryptopanic.com/news/32950004/Humanity-jumps-18-as-Open-Interest-climbs-Can-H-extend-its-recovery",
+    "source": "ambcrypto.com",
+    "published": "Tue Jun 30 2026 12:00:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: HYPE spot ETFs recorded $164.06M in net inflows in June.",
+    "link": "https://cryptopanic.com/news/32950111/UPDATE-HYPE-spot-ETFs-recorded-16406M-in-net-inflows-in-June",
+    "source": "@cointelegraph",
+    "published": "Tue Jun 30 2026 12:00:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "How to get through a Bitcoin Bear Market!",
+    "link": "https://cryptopanic.com/news/32950090/How-to-get-through-a-Bitcoin-Bear-Market",
+    "source": "SimplyBitcoin",
+    "published": "Tue Jun 30 2026 12:00:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "New York Life makes first tokenized move partnering with Centrifuge on high-yield corporate bond strategy",
+    "link": "https://cryptopanic.com/news/32949988/New-York-Life-makes-first-tokenized-move-partnering-with-Centrifuge-on-high-yield-corporate-bond-strategy",
+    "source": "theblock.co",
+    "published": "Tue Jun 30 2026 12:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin’s USD/JPY Correlation Flips The Carry Trade Story On Its Head",
+    "link": "https://cryptopanic.com/news/32949986/Bitcoins-USDJPY-Correlation-Flips-The-Carry-Trade-Story-On-Its-Head",
+    "source": "newsbtc.com",
+    "published": "Tue Jun 30 2026 12:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "World’s biggest clearinghouse didn’t need to XRP to go round the clock",
+    "link": "https://cryptopanic.com/news/32949987/Worlds-biggest-clearinghouse-didnt-need-to-XRP-to-go-round-the-clock",
+    "source": "protos.com",
+    "published": "Tue Jun 30 2026 11:58:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ripple CTO Emeritus David Schwartz Unveils New Proposal to Eliminate Front-Running on XRP Ledger",
+    "link": "https://cryptopanic.com/news/32949977/Ripple-CTO-Emeritus-David-Schwartz-Unveils-New-Proposal-to-Eliminate-Front-Running-on-XRP-Ledger",
+    "source": "coinpaper.com",
+    "published": "Tue Jun 30 2026 11:56:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Binance Lists Microsoft and Meta Stocks Amid $347 Billion RWA Surge",
+    "link": "https://cryptopanic.com/news/32950092/Binance-Lists-Microsoft-and-Meta-Stocks-Amid-347-Billion-RWA-Surge",
+    "source": "u.today",
+    "published": "Tue Jun 30 2026 11:55:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇦🇪 UAE-based Goldman Lampe Private Bank purchases €120 million of Bitcoin \n\n“Bitcoin continues to demonstrate remarkable resilience as a store of value and strategic asset,” said the bank.",
+    "link": "https://cryptopanic.com/news/32949975/JUST-IN-UAE-based-Goldman-Lampe-Private-Bank-purchases-120-million-of-Bitcoin-Bitcoin-continues-to-demonstrate-remarkable-resilience-as-a-store-of-value-and-strategic-asset-said-the-bank",
+    "source": "@bitcoinmagazine",
+    "published": "Tue Jun 30 2026 11:55:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin’s quiet $59,000-$60,000 range is starting to look dangerous",
+    "link": "https://cryptopanic.com/news/32950141/Bitcoins-quiet-59000-60000-range-is-starting-to-look-dangerous",
+    "source": "coindesk.com",
+    "published": "Tue Jun 30 2026 11:55:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "84% of Binance Altcoins Fall Below 200-Day Moving Average as Market Weakness Continues",
     "link": "https://cryptopanic.com/news/32949960/84-of-Binance-Altcoins-Fall-Below-200-Day-Moving-Average-as-Market-Weakness-Continues",
     "source": "coinpaper.com",
     "published": "Tue Jun 30 2026 11:51:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: ️ BIS warns that AI \"exuberance,\" fueled by debt and elevated valuations, risks \"major financial consequences\" if investor optimism fades or central banks tighten policy to curb inflation.",
+    "link": "https://cryptopanic.com/news/32950100/LATEST-BIS-warns-that-AI-exuberance-fueled-by-debt-and-elevated-valuations-risks-major-financial-consequences-if-investor-optimism-fades-or-central-banks-tighten-policy-to-curb-inflation",
+    "source": "@coinmarketcap",
+    "published": "Tue Jun 30 2026 11:49:10 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -28,185 +196,17 @@
     "sentiment": "neutral"
   },
   {
+    "title": "🇪🇺 UPDATE: Today is the last day before the EU’s MiCA deadline.\n\n244 crypto firms are now authorized across the EEA, with OKX leading at 9 of 10 MiCA services authorized.\n\nIs your go-to exchange MiCA-authorized yet?",
+    "link": "https://cryptopanic.com/news/32950110/UPDATE-Today-is-the-last-day-before-the-EUs-MiCA-deadline-244-crypto-firms-are-now-authorized-across-the-EEA-with-OKX-leading-at-9-of-10-MiCA-services-authorized-Is-your-go-to-exchange-MiCA-authorized-yet",
+    "source": "@cointelegraph",
+    "published": "Tue Jun 30 2026 11:43:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "BlackRock Transfers About $344M in Bitcoin and Ether to Coinbase Prime",
     "link": "https://cryptopanic.com/news/32949897/BlackRock-Transfers-About-344M-in-Bitcoin-and-Ether-to-Coinbase-Prime",
     "source": "coincu.com",
     "published": "Tue Jun 30 2026 11:42:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Strategy Sold $1.15 Billion in Its Own Stock to Avoid Selling Bitcoin",
-    "link": "https://cryptopanic.com/news/32949872/Strategy-Sold-115-Billion-in-Its-Own-Stock-to-Avoid-Selling-Bitcoin",
-    "source": "dailycoinpost.com",
-    "published": "Tue Jun 30 2026 11:39:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana Price Prediction: SOL Eyes $95 Breakout but $63 Pullback Risk Stays",
-    "link": "https://cryptopanic.com/news/32949870/Solana-Price-Prediction-SOL-Eyes-95-Breakout-but-63-Pullback-Risk-Stays",
-    "source": "coinpaper.com",
-    "published": "Tue Jun 30 2026 11:39:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Which Blockchain Keeps Users Coming Back? The Data Reveals the Winner",
-    "link": "https://cryptopanic.com/news/32949880/Which-Blockchain-Keeps-Users-Coming-Back-The-Data-Reveals-the-Winner",
-    "source": "techgaged.com",
-    "published": "Tue Jun 30 2026 11:37:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Kaspa Leads Market Performance Ahead Of Toccata Programmability Hard Fork\n\n$KAS is the top-performing major cryptocurrency today, rallying 8.7% over the past 24 hours amid the upcoming \"Toccata\" hard fork.\n\nDaily trading volume has surged nearly 100% to $22.2M, with significant",
-    "link": "https://cryptopanic.com/news/32949928/Kaspa-Leads-Market-Performance-Ahead-Of-Toccata-Programmability-Hard-Fork-KAS-is-the-top-performing-major-cryptocurrency-today-rallying-87-over-the-past-24-hours-amid-the-upcoming-Toccata-hard-fork-Daily-trading-volume-has-surged-nearly-100-to-222M-with-significant",
-    "source": "@bscnews",
-    "published": "Tue Jun 30 2026 11:36:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum Price Prediction: $1,400 Test Could Decide the Next Big Reversal",
-    "link": "https://cryptopanic.com/news/32949862/Ethereum-Price-Prediction-1400-Test-Could-Decide-the-Next-Big-Reversal",
-    "source": "coinpaper.com",
-    "published": "Tue Jun 30 2026 11:34:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Flirts With Falling Below $1 Despite Record Network Growth: What Is Going On?",
-    "link": "https://cryptopanic.com/news/32949957/XRP-Flirts-With-Falling-Below-1-Despite-Record-Network-Growth-What-Is-Going-On",
-    "source": "feeds2.benzinga.com",
-    "published": "Tue Jun 30 2026 11:33:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Price Prediction: $58K Trap Could Come Before the Next Bounce",
-    "link": "https://cryptopanic.com/news/32949800/Bitcoin-Price-Prediction-58K-Trap-Could-Come-Before-the-Next-Bounce",
-    "source": "coinpaper.com",
-    "published": "Tue Jun 30 2026 11:31:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Indonesia's Crypto Crackdown Meets OECD's Asian Regulatory Gap Report",
-    "link": "https://cryptopanic.com/news/32949767/Indonesias-Crypto-Crackdown-Meets-OECDs-Asian-Regulatory-Gap-Report",
-    "source": "www.blockhead.co",
-    "published": "Tue Jun 30 2026 11:30:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Strategy Clears $2B Buyback, Eyes BTC Sales",
-    "link": "https://cryptopanic.com/news/32949768/Strategy-Clears-2B-Buyback-Eyes-BTC-Sales",
-    "source": "catenaa.com",
-    "published": "Tue Jun 30 2026 11:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JPMorgan delivers verdict on crypto's most popular product",
-    "link": "https://cryptopanic.com/news/32949963/JPMorgan-delivers-verdict-on-cryptos-most-popular-product",
-    "source": "thestreet.com",
-    "published": "Tue Jun 30 2026 11:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "A Look Inside Saylor’s Bitcoin Monetization Program: Strategy Files to Sell $1.25B in BTC",
-    "link": "https://cryptopanic.com/news/32949780/A-Look-Inside-Saylors-Bitcoin-Monetization-Program-Strategy-Files-to-Sell-125B-in-BTC",
-    "source": "cryptonews.com",
-    "published": "Tue Jun 30 2026 11:25:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "STOCKS | US Stocks Poised for Best Quarter in Six Years as Dollar Rises, Yen Hits 1986 Low",
-    "link": "https://cryptopanic.com/news/32949861/STOCKS-US-Stocks-Poised-for-Best-Quarter-in-Six-Years-as-Dollar-Rises-Yen-Hits-1986-Low",
-    "source": "square.binance.com",
-    "published": "Tue Jun 30 2026 11:23:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "New York Life makes tokenization debut with onchain high-yield bond fund with Centrifuge",
-    "link": "https://cryptopanic.com/news/32949978/New-York-Life-makes-tokenization-debut-with-onchain-high-yield-bond-fund-with-Centrifuge",
-    "source": "coindesk.com",
-    "published": "Tue Jun 30 2026 11:20:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: Ripple proposes XRPL Lending Protocol, letting institutions borrow against tokenized assets onchain.",
-    "link": "https://cryptopanic.com/news/32949779/LATEST-Ripple-proposes-XRPL-Lending-Protocol-letting-institutions-borrow-against-tokenized-assets-onchain",
-    "source": "@cointelegraph",
-    "published": "Tue Jun 30 2026 11:19:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin $4.4 billion supply overhang emerges as institutional demand wilts",
-    "link": "https://cryptopanic.com/news/32949871/Bitcoin-44-billion-supply-overhang-emerges-as-institutional-demand-wilts",
-    "source": "coindesk.com",
-    "published": "Tue Jun 30 2026 11:18:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "PRECIOUS METALS | Shanghai Futures Exchange Adjusts Gold Futures Limits And Margin Requirements",
-    "link": "https://cryptopanic.com/news/32949860/PRECIOUS-METALS-Shanghai-Futures-Exchange-Adjusts-Gold-Futures-Limits-And-Margin-Requirements",
-    "source": "square.binance.com",
-    "published": "Tue Jun 30 2026 11:16:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "STOCKS | Yuanjie Technology Shares Jump 75.32% as Company Flags Demand Risks",
-    "link": "https://cryptopanic.com/news/32949859/STOCKS-Yuanjie-Technology-Shares-Jump-7532-as-Company-Flags-Demand-Risks",
-    "source": "square.binance.com",
-    "published": "Tue Jun 30 2026 11:15:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "STOCKS | S&P 500 Futures Extend Gains to 0.2% at Intraday High",
-    "link": "https://cryptopanic.com/news/32949858/STOCKS-SP-500-Futures-Extend-Gains-to-02-at-Intraday-High",
-    "source": "square.binance.com",
-    "published": "Tue Jun 30 2026 11:15:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "This tool (@BrighterData) was created by two of my friends @tradingjip & @sergio_tesla_. They let me use their service and made a referral code (DAAN) which gives you a 25% discount on your first month.\n\nI primarily want to help them gain some extra recognition and I will be",
-    "link": "https://cryptopanic.com/news/32949927/This-tool-BrighterData-was-created-by-two-of-my-friends-tradingjip-amp-sergio_tesla_-They-let-me-use-their-service-and-made-a-referral-code-DAAN-which-gives-you-a-25-discount-on-your-first-month-I-primarily-want-to-help-them-gain-some-extra-recognition-and-I-will-be",
-    "source": "@daancrypto",
-    "published": "Tue Jun 30 2026 11:15:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Capital Advisors CEO Says July ‘Power Rally’ Incoming For Stocks – Here’s Why",
-    "link": "https://cryptopanic.com/news/32949762/Capital-Advisors-CEO-Says-July-Power-Rally-Incoming-For-Stocks-Heres-Why",
-    "source": "dailyhodl.com",
-    "published": "Tue Jun 30 2026 11:15:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "PRECIOUS METALS | Juhe Materials Says Precious Metals Costs Are A Major Part Of Production Expenses",
-    "link": "https://cryptopanic.com/news/32949857/PRECIOUS-METALS-Juhe-Materials-Says-Precious-Metals-Costs-Are-A-Major-Part-Of-Production-Expenses",
-    "source": "square.binance.com",
-    "published": "Tue Jun 30 2026 11:15:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Tests $60,000 As Futures Volume Thins And Liquidity Tightens",
-    "link": "https://cryptopanic.com/news/32949714/Bitcoin-Tests-60000-As-Futures-Volume-Thins-And-Liquidity-Tightens",
-    "source": "newsbtc.com",
-    "published": "Tue Jun 30 2026 11:15:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP's Network Growth Explodes as FOMO Buyers Defend the Key $1 Zone",
-    "link": "https://cryptopanic.com/news/32949731/XRPs-Network-Growth-Explodes-as-FOMO-Buyers-Defend-the-Key-1-Zone",
-    "source": "coinpaper.com",
-    "published": "Tue Jun 30 2026 11:14:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$BTC Looking at the weekly data statistics for bearish weeks, you can see the heatmap of what to expect roughly for this week if the high of the week is in.\n\nThis data set is using the price action from every weekly candle over the past 2 years.\n\nThis changes of course if you'd",
-    "link": "https://cryptopanic.com/news/32949926/BTC-Looking-at-the-weekly-data-statistics-for-bearish-weeks-you-can-see-the-heatmap-of-what-to-expect-roughly-for-this-week-if-the-high-of-the-week-is-in-This-data-set-is-using-the-price-action-from-every-weekly-candle-over-the-past-2-years-This-changes-of-course-if-youd",
-    "source": "@daancrypto",
-    "published": "Tue Jun 30 2026 11:14:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "This is the bullish weekly scenario/heatmap for $BTC.\n\nAs you can see it is on the lower bound of what a bullish week generally looks like, which means another break of the current low would make this bullish scenario/bias less likely. \n\nIn that case we'd look back at the chart",
-    "link": "https://cryptopanic.com/news/32949925/This-is-the-bullish-weekly-scenarioheatmap-for-BTC-As-you-can-see-it-is-on-the-lower-bound-of-what-a-bullish-week-generally-looks-like-which-means-another-break-of-the-current-low-would-make-this-bullish-scenariobias-less-likely-In-that-case-wed-look-back-at-the-chart",
-    "source": "@daancrypto",
-    "published": "Tue Jun 30 2026 11:14:16 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
