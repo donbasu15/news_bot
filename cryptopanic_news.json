@@ -1,5 +1,33 @@
 [
   {
+    "title": "Bank of England flags AI agents as financial stability risk, calls for global regulatory response",
+    "link": "https://cryptopanic.com/news/32954967/Bank-of-England-flags-AI-agents-as-financial-stability-risk-calls-for-global-regulatory-response",
+    "source": "cryptopolitan.com",
+    "published": "Wed Jul 01 2026 05:01:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Gita Gopinath Says Stablecoins Held in 'Most Anonymous Form' — Warns Crypto Law Will Only Have 'Modest Effect' in Preventing Unlawful Activity",
+    "link": "https://cryptopanic.com/news/32954993/Gita-Gopinath-Says-Stablecoins-Held-in-Most-Anonymous-Form-Warns-Crypto-Law-Will-Only-Have-Modest-Effect-in-Preventing-Unlawful-Activity",
+    "source": "feeds2.benzinga.com",
+    "published": "Wed Jul 01 2026 05:01:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BNY Opens Its Custody Engine to Circle's USDC",
+    "link": "https://cryptopanic.com/news/32954909/BNY-Opens-Its-Custody-Engine-to-Circles-USDC",
+    "source": "coinpaprika.com",
+    "published": "Wed Jul 01 2026 05:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Google Launches Dedicated Finance App With AI Investment Tools",
+    "link": "https://cryptopanic.com/news/32954901/Google-Launches-Dedicated-Finance-App-With-AI-Investment-Tools",
+    "source": "catenaa.com",
+    "published": "Wed Jul 01 2026 05:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Visa, Stripe, BlackRock Among 140 Firms Backing New Open USD Stablecoin",
     "link": "https://cryptopanic.com/news/32954818/Visa-Stripe-BlackRock-Among-140-Firms-Backing-New-Open-USD-Stablecoin",
     "source": "www.blockhead.co",
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/32954725/Trader-Loses-50000-USDC-After-Buying-and-Selling-247-Million-TJR-Following-Livestream-Denial",
     "source": "square.binance.com",
     "published": "Wed Jul 01 2026 04:03:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "KKR, SK Inc. Form Korea Renewable Energy Venture Valued at 2 Trillion Won",
-    "link": "https://cryptopanic.com/news/32954724/KKR-SK-Inc-Form-Korea-Renewable-Energy-Venture-Valued-at-2-Trillion-Won",
-    "source": "square.binance.com",
-    "published": "Wed Jul 01 2026 04:02:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Circle-Backed Arc Joins Chainlink Scale Program\n\nCircle (@circle)-backed Arc (@arc) has joined the Chainlink (@chainlink) Scale program, expanding developer access to enterprise grade blockchain infrastructure.\n\nBuilders on Arc can now use CCIP, Data Streams, Data Feeds and Proof",
-    "link": "https://cryptopanic.com/news/32954466/Circle-Backed-Arc-Joins-Chainlink-Scale-Program-Circle-circle-backed-Arc-arc-has-joined-the-Chainlink-chainlink-Scale-program-expanding-developer-access-to-enterprise-grade-blockchain-infrastructure-Builders-on-Arc-can-now-use-CCIP-Data-Streams-Data-Feeds-and-Proof",
-    "source": "@bscnews",
-    "published": "Wed Jul 01 2026 04:01:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Spot bitcoin:native ETF holders continue to dump their coins with -$2.41B of net outflows over the past 9 days.",
-    "link": "https://cryptopanic.com/news/32954749/Spot-bitcoinnative-ETF-holders-continue-to-dump-their-coins-with-241B-of-net-outflows-over-the-past-9-days",
-    "source": "@stackersatoshi",
-    "published": "Wed Jul 01 2026 04:00:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Circle minted another 1B $USDC on Solana, bringing a total of 64.25B $USDC minted in 2026.",
-    "link": "https://cryptopanic.com/news/32954383/UPDATE-Circle-minted-another-1B-USDC-on-Solana-bringing-a-total-of-6425B-USDC-minted-in-2026",
-    "source": "@cointelegraph",
-    "published": "Wed Jul 01 2026 04:00:18 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
