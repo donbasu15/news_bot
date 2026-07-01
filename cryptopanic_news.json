@@ -1,51 +1,9 @@
 [
   {
-    "title": "Bitcoin loses over 26,000 millionaire addresses in first half of 2026",
-    "link": "https://cryptopanic.com/news/32956246/Bitcoin-loses-over-26000-millionaire-addresses-in-first-half-of-2026",
-    "source": "finbold.com",
-    "published": "Wed Jul 01 2026 08:56:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum News: Ethereum’s pERC-20 Proposal Would Make Token Transfers Private by Default",
-    "link": "https://cryptopanic.com/news/32838319/Ethereum-News-Ethereums-pERC-20-Proposal-Would-Make-Token-Transfers-Private-by-Default",
-    "source": "cryptonews.com",
-    "published": "Thu Jun 11 2026 11:45:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Joe Lubin Sees Ethereum Going All-In on ZK Proofs",
-    "link": "https://cryptopanic.com/news/32838153/Joe-Lubin-Sees-Ethereum-Going-All-In-on-ZK-Proofs",
-    "source": "techgaged.com",
-    "published": "Thu Jun 11 2026 11:20:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "U.K. To Allow Mutual Funds 10% Exposure To Crypto",
-    "link": "https://cryptopanic.com/news/32827035/UK-To-Allow-Mutual-Funds-10-Exposure-To-Crypto",
-    "source": "cryptoprowl.com",
-    "published": "Tue Jun 09 2026 20:12:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why Charles Hoskinson thinks Cardano is the ‘only ecosystem’ that can run the world",
-    "link": "https://cryptopanic.com/news/32825352/Why-Charles-Hoskinson-thinks-Cardano-is-the-only-ecosystem-that-can-run-the-world",
-    "source": "ambcrypto.com",
-    "published": "Tue Jun 09 2026 15:00:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ADA crash: Cardano founder Charles Hoskinson announces a break",
-    "link": "https://cryptopanic.com/news/32797610/ADA-crash-Cardano-founder-Charles-Hoskinson-announces-a-break",
-    "source": "cryptovalleyjournal.com",
-    "published": "Thu Jun 04 2026 14:36:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum quietly released a major update that could reshape its future",
-    "link": "https://cryptopanic.com/news/32783718/Ethereum-quietly-released-a-major-update-that-could-reshape-its-future",
-    "source": "techgaged.com",
-    "published": "Tue Jun 02 2026 14:57:20 GMT+0000 (Coordinated Universal Time)",
+    "title": "Standard Chartered Projects 33x Surge For Morpho Amid RWA Integration\n\nStandard Chartered officially initiates coverage of $MORPHO, issuing a long-term price target of $60 by the end of 2030. \n\nThis projection represents a 33x increase in valuation from current market levels,",
+    "link": "https://cryptopanic.com/news/32959239/Standard-Chartered-Projects-33x-Surge-For-Morpho-Amid-RWA-Integration-Standard-Chartered-officially-initiates-coverage-of-MORPHO-issuing-a-long-term-price-target-of-60-by-the-end-of-2030-This-projection-represents-a-33x-increase-in-valuation-from-current-market-levels",
+    "source": "@bscnews",
+    "published": "Wed Jul 01 2026 15:48:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -56,10 +14,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Forward Industries Shares Spike as Leading Solana Treasury Adds $38 Million in SOL",
+    "link": "https://cryptopanic.com/news/32959240/Forward-Industries-Shares-Spike-as-Leading-Solana-Treasury-Adds-38-Million-in-SOL",
+    "source": "@decryptmedia",
+    "published": "Wed Jul 01 2026 15:39:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "NEW: The EU is reviewing MiCA for updates just as it takes full effect today, with stablecoin rules and cross-border equivalence the standout areas flagged for revision.",
     "link": "https://cryptopanic.com/news/32959163/NEW-The-EU-is-reviewing-MiCA-for-updates-just-as-it-takes-full-effect-today-with-stablecoin-rules-and-cross-border-equivalence-the-standout-areas-flagged-for-revision",
     "source": "@coindesk",
     "published": "Wed Jul 01 2026 15:38:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$BTC - All major liquidity clusters below have been taken. But obviously the trend remains down and in a trending environment there's no guarantee that any levels left behind are taken out.\n\nBut if BTC starts ranging between this $58K-$61K area and were to eventually break",
+    "link": "https://cryptopanic.com/news/32959235/BTC-All-major-liquidity-clusters-below-have-been-taken-But-obviously-the-trend-remains-down-and-in-a-trending-environment-theres-no-guarantee-that-any-levels-left-behind-are-taken-out-But-if-BTC-starts-ranging-between-this-58K-61K-area-and-were-to-eventually-break",
+    "source": "@daancrypto",
+    "published": "Wed Jul 01 2026 15:37:07 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -105,6 +77,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "$BTQ is evolving beyond post-quantum cryptography with its acquisition of QPerfect, positioning itself as a broader quantum infrastructure play.\n\nThe deal adds quantum emulation, digital twins, and quantum control capabilities, allowing quantum systems to be modeled, tested, and",
+    "link": "https://cryptopanic.com/news/32959238/BTQ-is-evolving-beyond-post-quantum-cryptography-with-its-acquisition-of-QPerfect-positioning-itself-as-a-broader-quantum-infrastructure-play-The-deal-adds-quantum-emulation-digital-twins-and-quantum-control-capabilities-allowing-quantum-systems-to-be-modeled-tested-and",
+    "source": "@bscnews",
+    "published": "Wed Jul 01 2026 15:30:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Analyst warns $70 million in Bitcoin longs face risk if price hits $50,000",
     "link": "https://cryptopanic.com/news/32959148/Analyst-warns-70-million-in-Bitcoin-longs-face-risk-if-price-hits-50000",
     "source": "thestreet.com",
@@ -112,15 +91,22 @@
     "sentiment": "neutral"
   },
   {
-    "title": "🇫🇷 LATEST: €5.3T French banking giant Crédit Agricole launches EURXT, a euro-pegged stablecoin on Ethereum.",
-    "link": "https://cryptopanic.com/news/32959166/LATEST-53T-French-banking-giant-Credit-Agricole-launches-EURXT-a-euro-pegged-stablecoin-on-Ethereum",
-    "source": "@cointelegraph",
-    "published": "Wed Jul 01 2026 15:20:15 GMT+0000 (Coordinated Universal Time)",
+    "title": "There's so much hype around @world_xyz launch right now, and rightfully so... \n\nHowever, is Prediction Market the missing piece on Solana?",
+    "link": "https://cryptopanic.com/news/32959237/Theres-so-much-hype-around-world_xyz-launch-right-now-and-rightfully-so-However-is-Prediction-Market-the-missing-piece-on-Solana",
+    "source": "@bscnews",
+    "published": "Wed Jul 01 2026 15:23:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
     "title": "Read more",
     "link": "https://cryptopanic.com/news/32959165/Read-more",
+    "source": "@cointelegraph",
+    "published": "Wed Jul 01 2026 15:20:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇫🇷 LATEST: €5.3T French banking giant Crédit Agricole launches EURXT, a euro-pegged stablecoin on Ethereum.",
+    "link": "https://cryptopanic.com/news/32959166/LATEST-53T-French-banking-giant-Credit-Agricole-launches-EURXT-a-euro-pegged-stablecoin-on-Ethereum",
     "source": "@cointelegraph",
     "published": "Wed Jul 01 2026 15:20:15 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
@@ -140,6 +126,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Cantor says bitcoin bear market may be entering final stretch",
+    "link": "https://cryptopanic.com/news/32959187/Cantor-says-bitcoin-bear-market-may-be-entering-final-stretch",
+    "source": "coindesk.com",
+    "published": "Wed Jul 01 2026 15:11:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Tradeweb Facilitates Landmark On-Chain U.S. Treasuries Transaction On Canton Network\n\n@Tradeweb executes the first real-time transaction of tokenized U.S. Treasuries against tokenized cash ($USDCx) on the @CantonNetwork. \n\nThe trade involved @FranklnTempletn transferring a",
     "link": "https://cryptopanic.com/news/32959006/Tradeweb-Facilitates-Landmark-On-Chain-US-Treasuries-Transaction-On-Canton-Network-Tradeweb-executes-the-first-real-time-transaction-of-tokenized-US-Treasuries-against-tokenized-cash-USDCx-on-the-CantonNetwork-The-trade-involved-FranklnTempletn-transferring-a",
     "source": "@bscnews",
@@ -151,6 +144,13 @@
     "link": "https://cryptopanic.com/news/32958975/Forward-Industries-Shares-Spike-as-Leading-Solana-Treasury-Adds-38-Million-in-SOL",
     "source": "decrypt.co",
     "published": "Wed Jul 01 2026 15:09:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Goliath Ventures CEO pleads guilty in $400 million crypto Ponzi case",
+    "link": "https://cryptopanic.com/news/32959186/Goliath-Ventures-CEO-pleads-guilty-in-400-million-crypto-Ponzi-case",
+    "source": "coindesk.com",
+    "published": "Wed Jul 01 2026 15:06:22 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
