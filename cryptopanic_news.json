@@ -1,5 +1,12 @@
 [
   {
+    "title": "JUST IN: 🇬🇧 Robinhood to launch crypto trading in UK.",
+    "link": "https://cryptopanic.com/news/32960474/JUST-IN-Robinhood-to-launch-crypto-trading-in-UK",
+    "source": "@watcherguru",
+    "published": "Wed Jul 01 2026 19:48:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Claude Fable 5 is back today with a new jailbreak classifier and a bug bounty to keep it that way.",
     "link": "https://cryptopanic.com/news/32960434/Claude-Fable-5-is-back-today-with-a-new-jailbreak-classifier-and-a-bug-bounty-to-keep-it-that-way",
     "source": "@bscnews",
@@ -11,6 +18,20 @@
     "link": "https://cryptopanic.com/news/32960366/From-Wall-Street-to-Washington-Cryptos-Influence-Reaches-New-Heights-with-Ripple-Coinbase-Leading-the-Charge",
     "source": "coinpaper.com",
     "published": "Wed Jul 01 2026 19:34:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Anthropic officially relaunches Claude Fable 5 worldwide.",
+    "link": "https://cryptopanic.com/news/32960473/JUST-IN-Anthropic-officially-relaunches-Claude-Fable-5-worldwide",
+    "source": "@watcherguru",
+    "published": "Wed Jul 01 2026 19:33:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 Public company Hyperscale Data buys 49.249 BTC worth $2.9 million",
+    "link": "https://cryptopanic.com/news/32960471/JUST-IN-Public-company-Hyperscale-Data-buys-49249-BTC-worth-29-million",
+    "source": "@bitcoinmagazine",
+    "published": "Wed Jul 01 2026 19:31:43 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -32,6 +53,13 @@
     "link": "https://cryptopanic.com/news/32960433/Robinhood-just-turned-on-its-own-blockchain-RobinhoodCrypto-Chain-went-live-on-mainnet-today-a-Layer-2-built-on-Arbitrum-purpose-built-for-tokenized-real-world-assets-Tokenized-Stock-Tokens-are-now-tradable-247-through-Robinhood-Wallet-in-120-countries-with-those-shares",
     "source": "@bscnews",
     "published": "Wed Jul 01 2026 19:27:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Binance stock trading surpasses $1 billion in assets under management in 30 days after launch.",
+    "link": "https://cryptopanic.com/news/32960472/JUST-IN-Binance-stock-trading-surpasses-1-billion-in-assets-under-management-in-30-days-after-launch",
+    "source": "@watcherguru",
+    "published": "Wed Jul 01 2026 19:20:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/32960131/Cryptos-Biggest-Bull-Run-Is-Still-Ahead-w-Roger-Bayston",
     "source": "MilkRoadYoutube",
     "published": "Wed Jul 01 2026 18:45:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Robinhood Chain goes live on mainnet alongside 24/7 tokenized stocks, Lighter perps and planned crypto agentic trading",
-    "link": "https://cryptopanic.com/news/32960102/Robinhood-Chain-goes-live-on-mainnet-alongside-247-tokenized-stocks-Lighter-perps-and-planned-crypto-agentic-trading",
-    "source": "theblock.co",
-    "published": "Wed Jul 01 2026 18:45:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: Robinhood launches L2 blockchain \"Robinhood Chain.\"",
-    "link": "https://cryptopanic.com/news/32960282/BREAKING-Robinhood-launches-L2-blockchain-Robinhood-Chain",
-    "source": "@watcherguru",
-    "published": "Wed Jul 01 2026 18:44:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BitMine, Sharplink and Joe Lubin Accelerate Wall Street Ethereum Push With Nonprofit Launch",
-    "link": "https://cryptopanic.com/news/32960076/BitMine-Sharplink-and-Joe-Lubin-Accelerate-Wall-Street-Ethereum-Push-With-Nonprofit-Launch",
-    "source": "decrypt.co",
-    "published": "Wed Jul 01 2026 18:40:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Reclaims Key $60,000 Level As Analysts Flash Buy Signals Across BTC, Ethereum, XRP, Solana",
-    "link": "https://cryptopanic.com/news/32960123/Bitcoin-Reclaims-Key-60000-Level-As-Analysts-Flash-Buy-Signals-Across-BTC-Ethereum-XRP-Solana",
-    "source": "feeds2.benzinga.com",
-    "published": "Wed Jul 01 2026 18:36:45 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
