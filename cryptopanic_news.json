@@ -1,9 +1,51 @@
 [
   {
+    "title": "Idea: @elonmusk should launch and airdrop @Grok ($GROK) token to all X users proportional to usage.",
+    "link": "https://cryptopanic.com/news/32954177/Idea-elonmusk-should-launch-and-airdrop-Grok-GROK-token-to-all-X-users-proportional-to-usage",
+    "source": "@bscnews",
+    "published": "Wed Jul 01 2026 02:33:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Breaking: Nothing",
+    "link": "https://cryptopanic.com/news/32954176/Breaking-Nothing",
+    "source": "@bscnews",
+    "published": "Wed Jul 01 2026 02:26:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: Microsoft plans to cut under 2.5% of its workforce as early as next week, hitting sales, consulting, and Xbox roles, per Business Insider.",
+    "link": "https://cryptopanic.com/news/32954121/NEW-Microsoft-plans-to-cut-under-25-of-its-workforce-as-early-as-next-week-hitting-sales-consulting-and-Xbox-roles-per-Business-Insider",
+    "source": "@cointelegraph",
+    "published": "Wed Jul 01 2026 02:20:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Binance has integrated with Anchorage Digital's Atlas platform, giving eligible institutional clients a custody-separated way to access Binance liquidity.",
+    "link": "https://cryptopanic.com/news/32954118/LATEST-Binance-has-integrated-with-Anchorage-Digitals-Atlas-platform-giving-eligible-institutional-clients-a-custody-separated-way-to-access-Binance-liquidity",
+    "source": "@coinmarketcap",
+    "published": "Wed Jul 01 2026 02:17:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BEARISH: About 84% of altcoins on Binance are underperforming below the 200-DMA, per CryptoQuant.",
+    "link": "https://cryptopanic.com/news/32954120/BEARISH-About-84-of-altcoins-on-Binance-are-underperforming-below-the-200-DMA-per-CryptoQuant",
+    "source": "@cointelegraph",
+    "published": "Wed Jul 01 2026 02:00:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "BTC Revolt?! Who Removed The Guardrail?",
     "link": "https://cryptopanic.com/news/32954053/BTC-Revolt-Who-Removed-The-Guardrail",
     "source": "SimplyBitcoin",
     "published": "Wed Jul 01 2026 02:00:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: Dubai braces for a wave of European crypto founders fleeing ahead of MiCA's July 1 deadline, with inquiries up to 120+ a week.",
+    "link": "https://cryptopanic.com/news/32954119/NEW-Dubai-braces-for-a-wave-of-European-crypto-founders-fleeing-ahead-of-MiCAs-July-1-deadline-with-inquiries-up-to-120-a-week",
+    "source": "@coindesk",
+    "published": "Wed Jul 01 2026 02:00:01 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -165,48 +207,6 @@
     "link": "https://cryptopanic.com/news/32953707/JUST-IN-Anthropic-says-the-Department-of-Commerce-has-lifted-export-controls-on-Claude-Fable-5-and-Mythos-5-with-access-restoration-starting-tomorrow",
     "source": "@cointelegraph",
     "published": "Wed Jul 01 2026 00:03:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP wallet growth hits 3-month high – Why are bears still in control?",
-    "link": "https://cryptopanic.com/news/32953664/XRP-wallet-growth-hits-3-month-high-Why-are-bears-still-in-control",
-    "source": "ambcrypto.com",
-    "published": "Wed Jul 01 2026 00:00:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Gentlemen, start your engines. ️",
-    "link": "https://cryptopanic.com/news/32953750/Gentlemen-start-your-engines",
-    "source": "@bscnews",
-    "published": "Tue Jun 30 2026 23:58:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Anthropic confirms it will restore access to Fable 5 models tomorrow.",
-    "link": "https://cryptopanic.com/news/32953646/UPDATE-Anthropic-confirms-it-will-restore-access-to-Fable-5-models-tomorrow",
-    "source": "@watcherguru",
-    "published": "Tue Jun 30 2026 23:58:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 President Trump made over $500,000,000 from the sale of tokens created by his family's crypto company.",
-    "link": "https://cryptopanic.com/news/32953645/JUST-IN-President-Trump-made-over-500000000-from-the-sale-of-tokens-created-by-his-familys-crypto-company",
-    "source": "@watcherguru",
-    "published": "Tue Jun 30 2026 23:53:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 US government officially lifts worldwide export restrictions on Anthropic's Claude Fable 5 AI model.",
-    "link": "https://cryptopanic.com/news/32953644/JUST-IN-US-government-officially-lifts-worldwide-export-restrictions-on-Anthropics-Claude-Fable-5-AI-model",
-    "source": "@watcherguru",
-    "published": "Tue Jun 30 2026 23:43:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: UK crypto investors sue Binance and founder CZ for £150M, alleging the exchange sold unauthorized risky derivatives to nearly 1,700 retail traders, FT reports.",
-    "link": "https://cryptopanic.com/news/32953706/LATEST-UK-crypto-investors-sue-Binance-and-founder-CZ-for-150M-alleging-the-exchange-sold-unauthorized-risky-derivatives-to-nearly-1700-retail-traders-FT-reports",
-    "source": "@cointelegraph",
-    "published": "Tue Jun 30 2026 23:40:14 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
