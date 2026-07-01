@@ -1,9 +1,65 @@
 [
   {
+    "title": "Can Solana’s strong network demand offset July’s token unlock pressure?",
+    "link": "https://cryptopanic.com/news/32960482/Can-Solanas-strong-network-demand-offset-Julys-token-unlock-pressure",
+    "source": "ambcrypto.com",
+    "published": "Wed Jul 01 2026 20:00:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: The Winklevoss twins have made around $1.7B from Bitcoin since 2015, and still hold over $300M in $BTC, per Arkham.",
+    "link": "https://cryptopanic.com/news/32960580/UPDATE-The-Winklevoss-twins-have-made-around-17B-from-Bitcoin-since-2015-and-still-hold-over-300M-in-BTC-per-Arkham",
+    "source": "@cointelegraph",
+    "published": "Wed Jul 01 2026 20:00:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trump's $50M BTC Cold Storage Move Nobody Saw Coming",
+    "link": "https://cryptopanic.com/news/32960573/Trumps-50M-BTC-Cold-Storage-Move-Nobody-Saw-Coming",
+    "source": "BTCSessions",
+    "published": "Wed Jul 01 2026 19:54:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "President Trump disclosed more than $1 billion in crypto-related income and holdings, Circle CEO Jeremy Allaire defends USDC amid concerns over the Open USD network, and Anthropic restores access to its Claude Fable 5 and Mythos 5 AI models.\n\n@jennsanasie has what you need to",
+    "link": "https://cryptopanic.com/news/32960578/President-Trump-disclosed-more-than-1-billion-in-crypto-related-income-and-holdings-Circle-CEO-Jeremy-Allaire-defends-USDC-amid-concerns-over-the-Open-USD-network-and-Anthropic-restores-access-to-its-Claude-Fable-5-and-Mythos-5-AI-models-jennsanasie-has-what-you-need-to",
+    "source": "@coindesk",
+    "published": "Wed Jul 01 2026 19:53:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Forward Industries gains nearly 20% riding 500K SOL acquisition momentum",
+    "link": "https://cryptopanic.com/news/32960463/Forward-Industries-gains-nearly-20-riding-500K-SOL-acquisition-momentum",
+    "source": "cryptopolitan.com",
+    "published": "Wed Jul 01 2026 19:53:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ripple, Coinbase, and Gemini among top donors in 2026 midterms",
+    "link": "https://cryptopanic.com/news/32960570/Ripple-Coinbase-and-Gemini-among-top-donors-in-2026-midterms",
+    "source": "thestreet.com",
+    "published": "Wed Jul 01 2026 19:48:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: 🇬🇧 Robinhood to launch crypto trading in UK.",
     "link": "https://cryptopanic.com/news/32960474/JUST-IN-Robinhood-to-launch-crypto-trading-in-UK",
     "source": "@watcherguru",
     "published": "Wed Jul 01 2026 19:48:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Ark Invest bought $75M+ in crypto-related shares during June's selloff, including $44M in Coinbase, $25M in Circle, and $8.2M in Bullish.",
+    "link": "https://cryptopanic.com/news/32960574/LATEST-Ark-Invest-bought-75M-in-crypto-related-shares-during-Junes-selloff-including-44M-in-Coinbase-25M-in-Circle-and-82M-in-Bullish",
+    "source": "@coinmarketcap",
+    "published": "Wed Jul 01 2026 19:47:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Elon Musk Sends SpaceX Shares Lower With Two-Word AI Device Denial",
+    "link": "https://cryptopanic.com/news/32960560/Elon-Musk-Sends-SpaceX-Shares-Lower-With-Two-Word-AI-Device-Denial",
+    "source": "beincrypto.com",
+    "published": "Wed Jul 01 2026 19:41:19 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -77,6 +133,20 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Standard Chartered Backs Morpho, Then Robinhood Puts It to Work",
+    "link": "https://cryptopanic.com/news/32960559/Standard-Chartered-Backs-Morpho-Then-Robinhood-Puts-It-to-Work",
+    "source": "beincrypto.com",
+    "published": "Wed Jul 01 2026 19:12:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Nike Stock Hits a 12-Year Low as an Earnings Loophole Masks Weak Sales",
+    "link": "https://cryptopanic.com/news/32960558/Nike-Stock-Hits-a-12-Year-Low-as-an-Earnings-Loophole-Masks-Weak-Sales",
+    "source": "beincrypto.com",
+    "published": "Wed Jul 01 2026 19:12:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST: 🇰🇷 South Korea's FSC is warning investors to avoid assets with sudden, unexplained price spikes after referring two individuals to prosecution for alleged crypto market manipulation.",
     "link": "https://cryptopanic.com/news/32960339/LATEST-South-Koreas-FSC-is-warning-investors-to-avoid-assets-with-sudden-unexplained-price-spikes-after-referring-two-individuals-to-prosecution-for-alleged-crypto-market-manipulation",
     "source": "@coinmarketcap",
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/32960185/Taiwan-Passes-Crypto-Law-Ending-the-Sectors-Legal-Uncertainty",
     "source": "coinpaprika.com",
     "published": "Wed Jul 01 2026 19:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Robinhood Launches Robinhood Chain Layer 2 Mainnet",
-    "link": "https://cryptopanic.com/news/32960184/Robinhood-Launches-Robinhood-Chain-Layer-2-Mainnet",
-    "source": "coincu.com",
-    "published": "Wed Jul 01 2026 18:58:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "What is your highest conviction trade for the 2nd half of 2026?",
-    "link": "https://cryptopanic.com/news/32960284/What-is-your-highest-conviction-trade-for-the-2nd-half-of-2026",
-    "source": "@stackersatoshi",
-    "published": "Wed Jul 01 2026 18:57:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Forward Industries just widened its Solana lead\n\n@FWDind's shares jumped more than 17% Wednesday after the Nasdaq company said it bought over 500,000 SOL during its fiscal third quarter, which ended June 30.\n\nTotal holdings now sit at 7.55 million $SOL, worth about $576 million.",
-    "link": "https://cryptopanic.com/news/32960177/Forward-Industries-just-widened-its-Solana-lead-FWDinds-shares-jumped-more-than-17-Wednesday-after-the-Nasdaq-company-said-it-bought-over-500000-SOL-during-its-fiscal-third-quarter-which-ended-June-30-Total-holdings-now-sit-at-755-million-SOL-worth-about-576-million",
-    "source": "@bscnews",
-    "published": "Wed Jul 01 2026 18:56:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$BTC Has tapped its .618 Fibonacci retracement from the entire bull market cycle. This level has some confluence with the lows from the Summer 2024 consolidation.\n\nPrevious cycles often saw some relief in the form of a wick around similar area's. But we do know this cycle has",
-    "link": "https://cryptopanic.com/news/32960171/BTC-Has-tapped-its-618-Fibonacci-retracement-from-the-entire-bull-market-cycle-This-level-has-some-confluence-with-the-lows-from-the-Summer-2024-consolidation-Previous-cycles-often-saw-some-relief-in-the-form-of-a-wick-around-similar-areas-But-we-do-know-this-cycle-has",
-    "source": "@daancrypto",
-    "published": "Wed Jul 01 2026 18:55:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump-Backed American Bitcoin Hits New Low Price Ahead of Reverse Stock Split",
-    "link": "https://cryptopanic.com/news/32960164/Trump-Backed-American-Bitcoin-Hits-New-Low-Price-Ahead-of-Reverse-Stock-Split",
-    "source": "decrypt.co",
-    "published": "Wed Jul 01 2026 18:53:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tokenized Trading Card Gachas Blow Past $300M in June",
-    "link": "https://cryptopanic.com/news/32960133/Tokenized-Trading-Card-Gachas-Blow-Past-300M-in-June",
-    "source": "bankless.com",
-    "published": "Wed Jul 01 2026 18:51:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SJ Yoon of @Official_Upbit says Korea's crypto market remains remarkably active even during downturns.\n\nShe notes crypto trading volume reached $1.5 trillion last year, while 25 million Koreans have exchange accounts in a country of roughly 52 million people.\n\nThank you to",
-    "link": "https://cryptopanic.com/news/32960341/SJ-Yoon-of-Official_Upbit-says-Koreas-crypto-market-remains-remarkably-active-even-during-downturns-She-notes-crypto-trading-volume-reached-15-trillion-last-year-while-25-million-Koreans-have-exchange-accounts-in-a-country-of-roughly-52-million-people-Thank-you-to",
-    "source": "@coindesk",
-    "published": "Wed Jul 01 2026 18:51:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LEAKED: Donald Trumps Bitcoin Holdings Have Been Revealed! (YOU WONT BELIEVE) | EP 1538",
-    "link": "https://cryptopanic.com/news/32959242/LEAKED-Donald-Trumps-Bitcoin-Holdings-Have-Been-Revealed-YOU-WONT-BELIEVE-EP-1538",
-    "source": "SimplyBitcoin",
-    "published": "Wed Jul 01 2026 18:49:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum Institutional plans institutional adoption push in ecosystem-backed launch",
-    "link": "https://cryptopanic.com/news/32960181/Ethereum-Institutional-plans-institutional-adoption-push-in-ecosystem-backed-launch",
-    "source": "cryptopolitan.com",
-    "published": "Wed Jul 01 2026 18:47:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto’s Biggest Bull Run Is Still Ahead w/ Roger Bayston",
-    "link": "https://cryptopanic.com/news/32960131/Cryptos-Biggest-Bull-Run-Is-Still-Ahead-w-Roger-Bayston",
-    "source": "MilkRoadYoutube",
-    "published": "Wed Jul 01 2026 18:45:14 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
