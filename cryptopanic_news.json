@@ -1,5 +1,117 @@
 [
   {
+    "title": "Bitcoin loses over 26,000 millionaire addresses in first half of 2026",
+    "link": "https://cryptopanic.com/news/32956246/Bitcoin-loses-over-26000-millionaire-addresses-in-first-half-of-2026",
+    "source": "finbold.com",
+    "published": "Wed Jul 01 2026 08:56:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum News: Ethereum’s pERC-20 Proposal Would Make Token Transfers Private by Default",
+    "link": "https://cryptopanic.com/news/32838319/Ethereum-News-Ethereums-pERC-20-Proposal-Would-Make-Token-Transfers-Private-by-Default",
+    "source": "cryptonews.com",
+    "published": "Thu Jun 11 2026 11:45:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Joe Lubin Sees Ethereum Going All-In on ZK Proofs",
+    "link": "https://cryptopanic.com/news/32838153/Joe-Lubin-Sees-Ethereum-Going-All-In-on-ZK-Proofs",
+    "source": "techgaged.com",
+    "published": "Thu Jun 11 2026 11:20:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "U.K. To Allow Mutual Funds 10% Exposure To Crypto",
+    "link": "https://cryptopanic.com/news/32827035/UK-To-Allow-Mutual-Funds-10-Exposure-To-Crypto",
+    "source": "cryptoprowl.com",
+    "published": "Tue Jun 09 2026 20:12:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Why Charles Hoskinson thinks Cardano is the ‘only ecosystem’ that can run the world",
+    "link": "https://cryptopanic.com/news/32825352/Why-Charles-Hoskinson-thinks-Cardano-is-the-only-ecosystem-that-can-run-the-world",
+    "source": "ambcrypto.com",
+    "published": "Tue Jun 09 2026 15:00:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ADA crash: Cardano founder Charles Hoskinson announces a break",
+    "link": "https://cryptopanic.com/news/32797610/ADA-crash-Cardano-founder-Charles-Hoskinson-announces-a-break",
+    "source": "cryptovalleyjournal.com",
+    "published": "Thu Jun 04 2026 14:36:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum quietly released a major update that could reshape its future",
+    "link": "https://cryptopanic.com/news/32783718/Ethereum-quietly-released-a-major-update-that-could-reshape-its-future",
+    "source": "techgaged.com",
+    "published": "Tue Jun 02 2026 14:57:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Institutional Launches as Ecosystem's New Wall Street Liaison",
+    "link": "https://cryptopanic.com/news/32959991/Ethereum-Institutional-Launches-as-Ecosystems-New-Wall-Street-Liaison",
+    "source": "bankless.com",
+    "published": "Wed Jul 01 2026 18:14:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Reform UK pulls crypto bill from website amid Christopher Harborne ‘gift’ scandal",
+    "link": "https://cryptopanic.com/news/32959983/Reform-UK-pulls-crypto-bill-from-website-amid-Christopher-Harborne-gift-scandal",
+    "source": "protos.com",
+    "published": "Wed Jul 01 2026 18:11:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$LINK AGAIN POWERING ONE OF THE LARGEST PLAYERS IN FINANCE!\n\n@chainlink is bringing Fidelity’s tokenised fund data onchain as Theo invests thBILL reserves into FILQ.\n\n@Fidelity manages more money than the GDP of most countries, and they need $LINK!",
+    "link": "https://cryptopanic.com/news/32959986/LINK-AGAIN-POWERING-ONE-OF-THE-LARGEST-PLAYERS-IN-FINANCE-chainlink-is-bringing-Fidelitys-tokenised-fund-data-onchain-as-Theo-invests-thBILL-reserves-into-FILQ-Fidelity-manages-more-money-than-the-GDP-of-most-countries-and-they-need-LINK",
+    "source": "@realallincrypto",
+    "published": "Wed Jul 01 2026 18:00:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "‘Ashamed of him’ – OKX CEO slams CZ as Binance gets hit with $200M UK class lawsuit",
+    "link": "https://cryptopanic.com/news/32959938/Ashamed-of-him-OKX-CEO-slams-CZ-as-Binance-gets-hit-with-200M-UK-class-lawsuit",
+    "source": "ambcrypto.com",
+    "published": "Wed Jul 01 2026 18:00:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "US Private Sector Adds 98,000 Jobs In June, Less Than Expected",
+    "link": "https://cryptopanic.com/news/32959933/US-Private-Sector-Adds-98000-Jobs-In-June-Less-Than-Expected",
+    "source": "catenaa.com",
+    "published": "Wed Jul 01 2026 18:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Citi just got a lot less bullish on crypto\n\nThe bank slashed its 12-month bitcoin target to $82,000 from $112,000. Ether's target fell to $2,240 from $3,175. Second downgrade from Citi this year.\n\nThe reasoning: ETF demand collapsed. @Citi now models zero net inflows over the",
+    "link": "https://cryptopanic.com/news/32959987/Citi-just-got-a-lot-less-bullish-on-crypto-The-bank-slashed-its-12-month-bitcoin-target-to-82000-from-112000-Ethers-target-fell-to-2240-from-3175-Second-downgrade-from-Citi-this-year-The-reasoning-ETF-demand-collapsed-Citi-now-models-zero-net-inflows-over-the",
+    "source": "@bscnews",
+    "published": "Wed Jul 01 2026 17:56:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇹🇼 Taiwan has passed its first crypto law, requiring VASPs and stablecoin issuers to obtain FSC approval, with fraud and market manipulation punishable by up to 10 years in prison.",
+    "link": "https://cryptopanic.com/news/32959924/LATEST-Taiwan-has-passed-its-first-crypto-law-requiring-VASPs-and-stablecoin-issuers-to-obtain-FSC-approval-with-fraud-and-market-manipulation-punishable-by-up-to-10-years-in-prison",
+    "source": "@coinmarketcap",
+    "published": "Wed Jul 01 2026 17:55:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Streamex Launches Tokenized Gold Security GLDY for Brokerage Accounts",
+    "link": "https://cryptopanic.com/news/32959921/Streamex-Launches-Tokenized-Gold-Security-GLDY-for-Brokerage-Accounts",
+    "source": "coincu.com",
+    "published": "Wed Jul 01 2026 17:55:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Price Prediction: Pressure is Still On Unless Bulls Reclaim $1.16",
+    "link": "https://cryptopanic.com/news/32959917/XRP-Price-Prediction-Pressure-is-Still-On-Unless-Bulls-Reclaim-116",
+    "source": "coinpaper.com",
+    "published": "Wed Jul 01 2026 17:54:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "INSIGHT: Circle CEO Jeremy Allaire fires back at $OUSD arguing consortium stablecoins have a \"dismal\" track record, that giving away all reserve income \"starves infrastructure,\" and that $USDC handled 80% of all dollar stablecoin transactions in Q1.",
     "link": "https://cryptopanic.com/news/32959931/INSIGHT-Circle-CEO-Jeremy-Allaire-fires-back-at-OUSD-arguing-consortium-stablecoins-have-a-dismal-track-record-that-giving-away-all-reserve-income-starves-infrastructure-and-that-USDC-handled-80-of-all-dollar-stablecoin-transactions-in-Q1",
     "source": "@coindesk",
@@ -49,6 +161,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Crédit Agricole Launches EURXT Euro Stablecoin for Institutions",
+    "link": "https://cryptopanic.com/news/32959993/Credit-Agricole-Launches-EURXT-Euro-Stablecoin-for-Institutions",
+    "source": "cryptodnes.bg",
+    "published": "Wed Jul 01 2026 17:32:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Venice Joins the Unicorn Club, Now Valued at $1B",
     "link": "https://cryptopanic.com/news/32959818/Venice-Joins-the-Unicorn-Club-Now-Valued-at-1B",
     "source": "bankless.com",
@@ -88,125 +207,6 @@
     "link": "https://cryptopanic.com/news/32959927/JUST-IN-Cardano-ADA-Founder-Charles-Hoskinson-says-the-chain-still-operates-blocks-are-still-being-made-at-a-pretty-consistent-rate-and-were-just-about-to-go-through-the-largest-upgrade-in-the-history-of-Cardano-soon",
     "source": "@angrycryptoshow",
     "published": "Wed Jul 01 2026 17:28:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: #Cardano $ADA Founder Charles Hoskinson says \"the fundamentals of Cardano are sound. At the end of the day, Cardano has not been hacked.\"",
-    "link": "https://cryptopanic.com/news/32959926/JUST-IN-Cardano-ADA-Founder-Charles-Hoskinson-says-the-fundamentals-of-Cardano-are-sound-At-the-end-of-the-day-Cardano-has-not-been-hacked",
-    "source": "@angrycryptoshow",
-    "published": "Wed Jul 01 2026 17:27:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Two top SEC officials just laid out their crypto endgame\n\nCommissioner Hester Peirce (@HesterPeirce) said she expects the Clarity Act to pass this summer, per an interview on the Searching for Mana podcast. The bill already cleared the House and is waiting on the Senate.\n\nShe",
-    "link": "https://cryptopanic.com/news/32959813/Two-top-SEC-officials-just-laid-out-their-crypto-endgame-Commissioner-Hester-Peirce-HesterPeirce-said-she-expects-the-Clarity-Act-to-pass-this-summer-per-an-interview-on-the-Searching-for-Mana-podcast-The-bill-already-cleared-the-House-and-is-waiting-on-the-Senate-She",
-    "source": "@bscnews",
-    "published": "Wed Jul 01 2026 17:24:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum at a Crossroads: Price Stalls While Network Use Hits Records",
-    "link": "https://cryptopanic.com/news/32959794/Ethereum-at-a-Crossroads-Price-Stalls-While-Network-Use-Hits-Records",
-    "source": "spaziocrypto.com",
-    "published": "Wed Jul 01 2026 17:23:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: ️ Anthropic is restoring public access to Claude Fable 5 and Mythos 5 after the US government lifted export controls imposed in mid-June over cybersecurity concerns.",
-    "link": "https://cryptopanic.com/news/32959922/LATEST-Anthropic-is-restoring-public-access-to-Claude-Fable-5-and-Mythos-5-after-the-US-government-lifted-export-controls-imposed-in-mid-June-over-cybersecurity-concerns",
-    "source": "@coinmarketcap",
-    "published": "Wed Jul 01 2026 17:23:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "South Korean Won Falls to Lowest Level Since 2008 Amid Flight From AI Stocks",
-    "link": "https://cryptopanic.com/news/32959730/South-Korean-Won-Falls-to-Lowest-Level-Since-2008-Amid-Flight-From-AI-Stocks",
-    "source": "coinpaper.com",
-    "published": "Wed Jul 01 2026 17:17:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "@bitcoinpolicy @Bayman11771 @zackcohen_ @zackbshapiro WATCH: Is it Game Over for the CLARITY Act? | Bitcoin Policy Hour Ep 41\n\nYoutube: \n\nRumble: \n\nSpotify: \n\nApple",
-    "link": "https://cryptopanic.com/news/32959867/bitcoinpolicy-Bayman11771-zackcohen_-zackbshapiro-WATCH-Is-it-Game-Over-for-the-CLARITY-Act-Bitcoin-Policy-Hour-Ep-41-Youtube-Rumble-Spotify-Apple",
-    "source": "@bitcoinmagazine",
-    "published": "Wed Jul 01 2026 17:16:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Is it Game Over for the CLARITY Act? | Bitcoin Policy Hour Ep 41\n\nThe CLARITY deadline is closing in fast. @bitcoinpolicy's @Bayman11771, @zackcohen_ , and @zackbshapiro break down whether to feel bullish or bearish on it passing and what the final developer protections might",
-    "link": "https://cryptopanic.com/news/32959866/Is-it-Game-Over-for-the-CLARITY-Act-Bitcoin-Policy-Hour-Ep-41-The-CLARITY-deadline-is-closing-in-fast-bitcoinpolicys-Bayman11771-zackcohen_-and-zackbshapiro-break-down-whether-to-feel-bullish-or-bearish-on-it-passing-and-what-the-final-developer-protections-might",
-    "source": "@bitcoinmagazine",
-    "published": "Wed Jul 01 2026 17:13:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: American Bitcoin will reduce its issued shares from about 1.09B to roughly 73M through a 1-for-15 reverse stock split.",
-    "link": "https://cryptopanic.com/news/32959719/LATEST-American-Bitcoin-will-reduce-its-issued-shares-from-about-109B-to-roughly-73M-through-a-1-for-15-reverse-stock-split",
-    "source": "@cointelegraph",
-    "published": "Wed Jul 01 2026 17:11:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$2.7T Citi Cuts Bitcoin Price 12 Month Forecast to $82K From $112,000: Here's Why",
-    "link": "https://cryptopanic.com/news/32959701/27T-Citi-Cuts-Bitcoin-Price-12-Month-Forecast-to-82K-From-112000-Heres-Why",
-    "source": "coinpaper.com",
-    "published": "Wed Jul 01 2026 17:11:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum Price: Kiyosaki Forecats $95K as Ethereum Battles $1.5K",
-    "link": "https://cryptopanic.com/news/32959702/Ethereum-Price-Kiyosaki-Forecats-95K-as-Ethereum-Battles-15K",
-    "source": "cryptonews.com",
-    "published": "Wed Jul 01 2026 17:09:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Zap them Comments sir @nikitabier",
-    "link": "https://cryptopanic.com/news/32959873/Zap-them-Comments-sir-nikitabier",
-    "source": "@btc_archive",
-    "published": "Wed Jul 01 2026 17:09:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Analyst who had high hopes for MicroStrategy sends brutal crash warning",
-    "link": "https://cryptopanic.com/news/32959784/Analyst-who-had-high-hopes-for-MicroStrategy-sends-brutal-crash-warning",
-    "source": "thestreet.com",
-    "published": "Wed Jul 01 2026 17:05:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana Tops All Blockchains in dApp Revenue for Ninth Straight Quarter",
-    "link": "https://cryptopanic.com/news/32959923/Solana-Tops-All-Blockchains-in-dApp-Revenue-for-Ninth-Straight-Quarter",
-    "source": "99bitcoins.com",
-    "published": "Wed Jul 01 2026 17:03:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Building something from scratch again has been energising. \n\nUsually when I get the urge to reset the clock it comes with destructive tendencies. \n\nThankfully I have avoided self-sabotage, so far…",
-    "link": "https://cryptopanic.com/news/32959872/Building-something-from-scratch-again-has-been-energising-Usually-when-I-get-the-urge-to-reset-the-clock-it-comes-with-destructive-tendencies-Thankfully-I-have-avoided-self-sabotage-so-far",
-    "source": "@btc_archive",
-    "published": "Wed Jul 01 2026 17:02:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CHIPMAKERS HAVE RECORD BREAKING BEST EVER QUARTER AS DEMAND EXPLODES!\n\nThis is the where crypto investors should watch as just as AI needs chips, it also needs compute, data, payments and verification.\n\nThe AI boom won’t stop at semiconductors, it'll come on-chain.\n$ICP $HBAR",
-    "link": "https://cryptopanic.com/news/32959811/CHIPMAKERS-HAVE-RECORD-BREAKING-BEST-EVER-QUARTER-AS-DEMAND-EXPLODES-This-is-the-where-crypto-investors-should-watch-as-just-as-AI-needs-chips-it-also-needs-compute-data-payments-and-verification-The-AI-boom-wont-stop-at-semiconductors-itll-come-on-chain-ICP-HBAR",
-    "source": "@realallincrypto",
-    "published": "Wed Jul 01 2026 17:00:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Celestia team to sell $2.03M TIA in July: Will THIS absorb the bearish pressure?",
-    "link": "https://cryptopanic.com/news/32959648/Celestia-team-to-sell-203M-TIA-in-July-Will-THIS-absorb-the-bearish-pressure",
-    "source": "ambcrypto.com",
-    "published": "Wed Jul 01 2026 17:00:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Meta Stock Rises 10% On The New Cloud Computing Business",
-    "link": "https://cryptopanic.com/news/32959630/Meta-Stock-Rises-10-On-The-New-Cloud-Computing-Business",
-    "source": "catenaa.com",
-    "published": "Wed Jul 01 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
