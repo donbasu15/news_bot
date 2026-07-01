@@ -1,5 +1,68 @@
 [
   {
+    "title": "LATEST:  Wintermute says Bitcoin is \"advanced in the bear, but likely not the bottom,\" pointing to ongoing ETF outflows and warning AI equities have replaced crypto as the highest-beta macro trade.",
+    "link": "https://cryptopanic.com/news/32956588/LATEST-Wintermute-says-Bitcoin-is-advanced-in-the-bear-but-likely-not-the-bottom-pointing-to-ongoing-ETF-outflows-and-warning-AI-equities-have-replaced-crypto-as-the-highest-beta-macro-trade",
+    "source": "@coinmarketcap",
+    "published": "Wed Jul 01 2026 09:35:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "'XRP Ledger Was 15 Years Ahead': Ripple's Ex Chief Engineer Reacts to New Visa-Mastercard Stablecoin",
+    "link": "https://cryptopanic.com/news/32956598/XRP-Ledger-Was-15-Years-Ahead-Ripples-Ex-Chief-Engineer-Reacts-to-New-Visa-Mastercard-Stablecoin",
+    "source": "u.today",
+    "published": "Wed Jul 01 2026 09:35:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Citi cuts its 12-month Bitcoin forecast to $82,000 from $112,000 as crypto ETF flows turn negative, per Reuters.",
+    "link": "https://cryptopanic.com/news/32956589/JUST-IN-Citi-cuts-its-12-month-Bitcoin-forecast-to-82000-from-112000-as-crypto-ETF-flows-turn-negative-per-Reuters",
+    "source": "@cointelegraph",
+    "published": "Wed Jul 01 2026 09:34:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "South Korea moves to prosecute crypto whale for alleged pump-and-dump scheme",
+    "link": "https://cryptopanic.com/news/32956547/South-Korea-moves-to-prosecute-crypto-whale-for-alleged-pump-and-dump-scheme",
+    "source": "theblock.co",
+    "published": "Wed Jul 01 2026 09:31:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Senate Pushes to Pass Landmark Crypto Bill Before August Recess",
+    "link": "https://cryptopanic.com/news/32956443/Senate-Pushes-to-Pass-Landmark-Crypto-Bill-Before-August-Recess",
+    "source": "catenaa.com",
+    "published": "Wed Jul 01 2026 09:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Citi Lowers Bitcoin and Ether Targets, but Not Below Today’s Price",
+    "link": "https://cryptopanic.com/news/32956433/Citi-Lowers-Bitcoin-and-Ether-Targets-but-Not-Below-Todays-Price",
+    "source": "coindoo.com",
+    "published": "Wed Jul 01 2026 09:25:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MiCA Rules Push Tether USDT Off European Exchanges as Circle Expands USDC",
+    "link": "https://cryptopanic.com/news/32956388/MiCA-Rules-Push-Tether-USDT-Off-European-Exchanges-as-Circle-Expands-USDC",
+    "source": "coinpaper.com",
+    "published": "Wed Jul 01 2026 09:21:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto Strategist Details Bullish Scenario for Solana, Says SOL In ‘Absolutely Massive Spot’ – Here’s His Outlook",
+    "link": "https://cryptopanic.com/news/32956437/Crypto-Strategist-Details-Bullish-Scenario-for-Solana-Says-SOL-In-Absolutely-Massive-Spot-Heres-His-Outlook",
+    "source": "dailyhodl.com",
+    "published": "Wed Jul 01 2026 09:15:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "WATCH: Nike signaled that CEO Elliott Hill's turnaround strategy still faces significant obstacles, as persistent weakness in China and a cautious outlook overshadowed a modest fourth-quarter revenue beat",
+    "link": "https://cryptopanic.com/news/32956448/WATCH-Nike-signaled-that-CEO-Elliott-Hills-turnaround-strategy-still-faces-significant-obstacles-as-persistent-weakness-in-China-and-a-cautious-outlook-overshadowed-a-modest-fourth-quarter-revenue-beat",
+    "source": "@reutersbiz",
+    "published": "Wed Jul 01 2026 09:15:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "🧠 Most \"AI trading tools\" hand your agent a wall of JSON and call it a day\n\n \"CMC Agent Hub\" hands you 200+ skills that return analyst-grade insights",
     "link": "https://cryptopanic.com/news/32956365/Most-AI-trading-tools-hand-your-agent-a-wall-of-JSON-and-call-it-a-day-CMC-Agent-Hub-hands-you-200-skills-that-return-analyst-grade-insights",
     "source": "@coinmarketcap",
@@ -18,6 +81,13 @@
     "link": "https://cryptopanic.com/news/32956371/MARKETS-ripplenative-holds-above-1-as-open-interest-collapses-from-13B-to-under-150M-clearing-out-crowded-leverage-but-108-110-remains-the-key-level-bulls-need-to-reclaim",
     "source": "@coindesk",
     "published": "Wed Jul 01 2026 09:03:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Aptos Joins Open USD Stablecoin Push\n\nAptos Labs (@Aptos) is among more than 140 firms supporting the launch of Open USD by Open Standard (@openstandard) alongside Visa, Mastercard, Coinbase and BlackRock.\n\nThe stablecoin is designed to cut minting and redemption costs that",
+    "link": "https://cryptopanic.com/news/32956449/Aptos-Joins-Open-USD-Stablecoin-Push-Aptos-Labs-Aptos-is-among-more-than-140-firms-supporting-the-launch-of-Open-USD-by-Open-Standard-openstandard-alongside-Visa-Mastercard-Coinbase-and-BlackRock-The-stablecoin-is-designed-to-cut-minting-and-redemption-costs-that",
+    "source": "@bscnews",
+    "published": "Wed Jul 01 2026 09:01:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -53,6 +123,13 @@
     "link": "https://cryptopanic.com/news/32956246/Bitcoin-loses-over-26000-millionaire-addresses-in-first-half-of-2026",
     "source": "finbold.com",
     "published": "Wed Jul 01 2026 08:56:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Mythos Returns: Anthropic’s Tests Show Fable 5 Wasn’t Uniquely Risky",
+    "link": "https://cryptopanic.com/news/32956584/Mythos-Returns-Anthropics-Tests-Show-Fable-5-Wasnt-Uniquely-Risky",
+    "source": "beincrypto.com",
+    "published": "Wed Jul 01 2026 08:56:40 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -130,83 +207,6 @@
     "link": "https://cryptopanic.com/news/32956112/Bank-Of-Thailand-Plans-Baht-Stablecoin-Bank-of-Thailand-plans-to-introduce-a-11-baht-backed-stablecoin-with-a-public-hearing-planned-before-year-end-Governor-Vitai-Ratanakorn-said-on-June-30-The-stablecoin-would-require-full-baht-reserves-and-initially-support-institutional",
     "source": "@bscnews",
     "published": "Wed Jul 01 2026 08:34:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "You Have Been Lied To This Is Going To Be Worse Than You Think They Did This Again To Bitcoin",
-    "link": "https://cryptopanic.com/news/32956100/You-Have-Been-Lied-To-This-Is-Going-To-Be-Worse-Than-You-Think-They-Did-This-Again-To-Bitcoin",
-    "source": "TheModernInvestor",
-    "published": "Wed Jul 01 2026 08:32:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump’s financial disclosure turns CLARITY Act into a vote on his own crypto holdings",
-    "link": "https://cryptopanic.com/news/32956056/Trumps-financial-disclosure-turns-CLARITY-Act-into-a-vote-on-his-own-crypto-holdings",
-    "source": "cryptoslate.com",
-    "published": "Wed Jul 01 2026 08:31:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INSIGHT: CryptoQuant CEO Ki Young Ju says Bitcoin could still see another parabolic bull run if it absorbs $1T+ in realized cap.\n\n“Bitcoin needs to be a core macro asset, not just a retail-driven ETF trade.”",
-    "link": "https://cryptopanic.com/news/32956047/INSIGHT-CryptoQuant-CEO-Ki-Young-Ju-says-Bitcoin-could-still-see-another-parabolic-bull-run-if-it-absorbs-1T-in-realized-cap-Bitcoin-needs-to-be-a-core-macro-asset-not-just-a-retail-driven-ETF-trade",
-    "source": "@cointelegraph",
-    "published": "Wed Jul 01 2026 08:30:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Michigan Judge Deals Blow to Kalshi Sports Markets",
-    "link": "https://cryptopanic.com/news/32956035/Michigan-Judge-Deals-Blow-to-Kalshi-Sports-Markets",
-    "source": "catenaa.com",
-    "published": "Wed Jul 01 2026 08:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "100,000 BTC Leave the ETFs\n\n“In terms of drawdown, this is the largest that ETFs have ever experienced. It’s estimated at over $11B in losses, a historic record.” – By @Darkfost_Coc",
-    "link": "https://cryptopanic.com/news/32956041/100000-BTC-Leave-the-ETFs-In-terms-of-drawdown-this-is-the-largest-that-ETFs-have-ever-experienced-Its-estimated-at-over-11B-in-losses-a-historic-record-By-Darkfost_Coc",
-    "source": "@cryptoquant_com",
-    "published": "Wed Jul 01 2026 08:28:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bit Origin Stock Rallies Over 30% Pre-Market: Here's What You Should Know",
-    "link": "https://cryptopanic.com/news/32956097/Bit-Origin-Stock-Rallies-Over-30-Pre-Market-Heres-What-You-Should-Know",
-    "source": "feeds2.benzinga.com",
-    "published": "Wed Jul 01 2026 08:27:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The 8-Week Bitcoin Demand Drought Points to Where the Money Went",
-    "link": "https://cryptopanic.com/news/32956280/The-8-Week-Bitcoin-Demand-Drought-Points-to-Where-the-Money-Went",
-    "source": "beincrypto.com",
-    "published": "Wed Jul 01 2026 08:25:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BNB Chain Releases MiCA Migration Guide Amid EU Regulatory Shifts\n\nBNB Chain has published a guide to help users move assets from centralized exchanges (CEXs) to self-custody on BNB Chain, as the EU's Markets in Crypto-Assets (MiCA) regulation fully takes effect on July 1, 2026.",
-    "link": "https://cryptopanic.com/news/32956044/BNB-Chain-Releases-MiCA-Migration-Guide-Amid-EU-Regulatory-Shifts-BNB-Chain-has-published-a-guide-to-help-users-move-assets-from-centralized-exchanges-CEXs-to-self-custody-on-BNB-Chain-as-the-EUs-Markets-in-Crypto-Assets-MiCA-regulation-fully-takes-effect-on-July-1-2026",
-    "source": "@wublockchain",
-    "published": "Wed Jul 01 2026 08:25:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇺🇸 Jefferies warns the CLARITY Act still faces major Senate hurdles, and that delays could fuel volatility in crypto and blockchain equities.",
-    "link": "https://cryptopanic.com/news/32956039/LATEST-Jefferies-warns-the-CLARITY-Act-still-faces-major-Senate-hurdles-and-that-delays-could-fuel-volatility-in-crypto-and-blockchain-equities",
-    "source": "@coinmarketcap",
-    "published": "Wed Jul 01 2026 08:19:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Taiwan's Legislative Yuan Clears First Dedicated Crypto Statute, FSC Takes Sole Oversight Role",
-    "link": "https://cryptopanic.com/news/32955952/Taiwans-Legislative-Yuan-Clears-First-Dedicated-Crypto-Statute-FSC-Takes-Sole-Oversight-Role",
-    "source": "www.blockhead.co",
-    "published": "Wed Jul 01 2026 08:15:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UK Regulator Softens Landmark Crypto Rules in New Policy Adjustment",
-    "link": "https://cryptopanic.com/news/32955935/UK-Regulator-Softens-Landmark-Crypto-Rules-in-New-Policy-Adjustment",
-    "source": "dailyhodl.com",
-    "published": "Wed Jul 01 2026 08:05:59 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
