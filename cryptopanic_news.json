@@ -1,5 +1,12 @@
 [
   {
+    "title": "JUST IN: $383 million Miller Value Partners tells CNBC that the fundamental case for Bitcoin \"has never been stronger\" \n\n“Bitcoin is a hedge against” an inflationary debt spiral",
+    "link": "https://cryptopanic.com/news/32967852/JUST-IN-383-million-Miller-Value-Partners-tells-CNBC-that-the-fundamental-case-for-Bitcoin-has-never-been-stronger-Bitcoin-is-a-hedge-against-an-inflationary-debt-spiral",
+    "source": "@bitcoinmagazine",
+    "published": "Thu Jul 02 2026 20:47:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Anthropic wants Samsung to make its custom chips",
     "link": "https://cryptopanic.com/news/32967827/Anthropic-wants-Samsung-to-make-its-custom-chips",
     "source": "cryptopolitan.com",
@@ -53,6 +60,27 @@
     "link": "https://cryptopanic.com/news/32967850/JPMorgan-Warns-Strategys-New-Bitcoin-Plan-Could-Shake-the-Market-Here-Is-Why-Wall-Street-Is-Watching-Closely",
     "source": "blocknews.com",
     "published": "Thu Jul 02 2026 20:18:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Learn how the technology works in Cointelegraph's interactive explainer with @AleoHQ.",
+    "link": "https://cryptopanic.com/news/32967870/Learn-how-the-technology-works-in-Cointelegraphs-interactive-explainer-with-AleoHQ",
+    "source": "@cointelegraph",
+    "published": "Thu Jul 02 2026 20:17:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Most identity checks ask for far more than they actually need. Zero-knowledge proofs flip that: confirm a fact is true without revealing the data behind it. \n\n@AleoHQ builds this in at the protocol level, so only the proof is recorded, and the rest stays private.",
+    "link": "https://cryptopanic.com/news/32967869/Most-identity-checks-ask-for-far-more-than-they-actually-need-Zero-knowledge-proofs-flip-that-confirm-a-fact-is-true-without-revealing-the-data-behind-it-AleoHQ-builds-this-in-at-the-protocol-level-so-only-the-proof-is-recorded-and-the-rest-stays-private",
+    "source": "@cointelegraph",
+    "published": "Thu Jul 02 2026 20:17:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: ️ dYdX Labs has launched Arcus, a DEX on Robinhood's new Arbitrum-based Robinhood Chain with perpetuals and fee-free trading of 95 tokenized stocks.",
+    "link": "https://cryptopanic.com/news/32967867/LATEST-dYdX-Labs-has-launched-Arcus-a-DEX-on-Robinhoods-new-Arbitrum-based-Robinhood-Chain-with-perpetuals-and-fee-free-trading-of-95-tokenized-stocks",
+    "source": "@coinmarketcap",
+    "published": "Thu Jul 02 2026 20:17:10 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/32967710/JUST-IN-SEC-Chairman-Paul-Atkins-delivers-speech-on-the-Clarity-Act-We-are-taking-historic-steps-to-modernize-our-rules-and-regulations-to-facilitate-markets-moving-on-chain",
     "source": "@bitcoinmagazine",
     "published": "Thu Jul 02 2026 19:30:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": ".@markus10x says he's standing by his view that Ethereum remains overvalued.\n\n\"I think there's no real activity that would really turn us bullish at this price.\"",
-    "link": "https://cryptopanic.com/news/32967595/markus10x-says-hes-standing-by-his-view-that-Ethereum-remains-overvalued-I-think-theres-no-real-activity-that-would-really-turn-us-bullish-at-this-price",
-    "source": "@coindesk",
-    "published": "Thu Jul 02 2026 19:30:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tesla Stock Falls Despite Stronger-Than-Expected Auto Deliveries",
-    "link": "https://cryptopanic.com/news/32967587/Tesla-Stock-Falls-Despite-Stronger-Than-Expected-Auto-Deliveries",
-    "source": "catenaa.com",
-    "published": "Thu Jul 02 2026 19:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cloudflare just gave AI companies an ultimatum on scraping\n\nStarting September 15, mixed-use crawlers, the kind blending search, AI training, and agent access, get blocked by default from any page carrying ads unless the site owner opts back in.\n\nThe target isn't named directly,",
-    "link": "https://cryptopanic.com/news/32967679/Cloudflare-just-gave-AI-companies-an-ultimatum-on-scraping-Starting-September-15-mixed-use-crawlers-the-kind-blending-search-AI-training-and-agent-access-get-blocked-by-default-from-any-page-carrying-ads-unless-the-site-owner-opts-back-in-The-target-isnt-named-directly",
-    "source": "@bscnews",
-    "published": "Thu Jul 02 2026 19:29:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin is testing $60K support, and exchange deposits are flashing warning signs.\n\nBTC inflows jumped above 50K/day, ETH inflows spiked above 1.25M, and altcoin deposits hit a two-month high.\n\nWhales appear to be leading the move.\n\nIncoming volatility.",
-    "link": "https://cryptopanic.com/news/32967591/Bitcoin-is-testing-60K-support-and-exchange-deposits-are-flashing-warning-signs-BTC-inflows-jumped-above-50Kday-ETH-inflows-spiked-above-125M-and-altcoin-deposits-hit-a-two-month-high-Whales-appear-to-be-leading-the-move-Incoming-volatility",
-    "source": "@cryptoquant_com",
-    "published": "Thu Jul 02 2026 19:27:10 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
