@@ -1,9 +1,72 @@
 [
   {
+    "title": "OpenAI Offers US Government a $42 Billion Slice of Itself: Report",
+    "link": "https://cryptopanic.com/news/32968004/OpenAI-Offers-US-Government-a-42-Billion-Slice-of-Itself-Report",
+    "source": "decrypt.co",
+    "published": "Thu Jul 02 2026 21:39:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 JUST IN: President Trump says he was in crypto before taking office.",
+    "link": "https://cryptopanic.com/news/32968046/JUST-IN-President-Trump-says-he-was-in-crypto-before-taking-office",
+    "source": "@cointelegraph",
+    "published": "Thu Jul 02 2026 21:31:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "You Were Lied To About the Bitcoin Crash | Has the Reversal Already Started?",
+    "link": "https://cryptopanic.com/news/32967999/You-Were-Lied-To-About-the-Bitcoin-Crash-Has-the-Reversal-Already-Started",
+    "source": "SimplyBitcoin",
+    "published": "Thu Jul 02 2026 21:28:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: TRUMP SAYS HE WAS IN CRYPTO BEFORE IN OFFICE",
+    "link": "https://cryptopanic.com/news/32967972/INTEL-TRUMP-SAYS-HE-WAS-IN-CRYPTO-BEFORE-IN-OFFICE",
+    "source": "@solidintel_x",
+    "published": "Thu Jul 02 2026 21:27:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇬🇧 UK regulators have updated their national retail payments blueprint, calling for infrastructure to support tokenized payments and interoperability across a \"multi-money ecosystem.\"",
+    "link": "https://cryptopanic.com/news/32968038/LATEST-UK-regulators-have-updated-their-national-retail-payments-blueprint-calling-for-infrastructure-to-support-tokenized-payments-and-interoperability-across-a-multi-money-ecosystem",
+    "source": "@coinmarketcap",
+    "published": "Thu Jul 02 2026 21:25:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INSIGHT: Meta CEO Mark Zuckerberg says AI agent development is going slower than expected, per Reuters.",
+    "link": "https://cryptopanic.com/news/32968045/INSIGHT-Meta-CEO-Mark-Zuckerberg-says-AI-agent-development-is-going-slower-than-expected-per-Reuters",
+    "source": "@cointelegraph",
+    "published": "Thu Jul 02 2026 21:20:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Winklevoss Twins Dump $60M Bitcoin to Gemini as BTC Struggles Near $60K",
+    "link": "https://cryptopanic.com/news/32967964/Winklevoss-Twins-Dump-60M-Bitcoin-to-Gemini-as-BTC-Struggles-Near-60K",
+    "source": "zycrypto.com",
+    "published": "Thu Jul 02 2026 21:19:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Russia Is Ready for 'Widespread Use' of Digital Ruble by September, Says Bank Governor",
     "link": "https://cryptopanic.com/news/32967935/Russia-Is-Ready-for-Widespread-Use-of-Digital-Ruble-by-September-Says-Bank-Governor",
     "source": "decrypt.co",
     "published": "Thu Jul 02 2026 21:13:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "TODAY: Bitcoin has surpassed Samsung, Micron and SK Hynix by market cap as it returns above the $1.2T level.",
+    "link": "https://cryptopanic.com/news/32968044/TODAY-Bitcoin-has-surpassed-Samsung-Micron-and-SK-Hynix-by-market-cap-as-it-returns-above-the-12T-level",
+    "source": "@cointelegraph",
+    "published": "Thu Jul 02 2026 21:10:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MemeCore (M) Rebounds 150% After $10 Million Buyback",
+    "link": "https://cryptopanic.com/news/32968009/MemeCore-M-Rebounds-150-After-10-Million-Buyback",
+    "source": "beincrypto.com",
+    "published": "Thu Jul 02 2026 21:04:08 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -144,69 +207,6 @@
     "link": "https://cryptopanic.com/news/32967870/Learn-how-the-technology-works-in-Cointelegraphs-interactive-explainer-with-AleoHQ",
     "source": "@cointelegraph",
     "published": "Thu Jul 02 2026 20:17:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Most identity checks ask for far more than they actually need. Zero-knowledge proofs flip that: confirm a fact is true without revealing the data behind it. \n\n@AleoHQ builds this in at the protocol level, so only the proof is recorded, and the rest stays private.",
-    "link": "https://cryptopanic.com/news/32967869/Most-identity-checks-ask-for-far-more-than-they-actually-need-Zero-knowledge-proofs-flip-that-confirm-a-fact-is-true-without-revealing-the-data-behind-it-AleoHQ-builds-this-in-at-the-protocol-level-so-only-the-proof-is-recorded-and-the-rest-stays-private",
-    "source": "@cointelegraph",
-    "published": "Thu Jul 02 2026 20:17:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: ️ dYdX Labs has launched Arcus, a DEX on Robinhood's new Arbitrum-based Robinhood Chain with perpetuals and fee-free trading of 95 tokenized stocks.",
-    "link": "https://cryptopanic.com/news/32967867/LATEST-dYdX-Labs-has-launched-Arcus-a-DEX-on-Robinhoods-new-Arbitrum-based-Robinhood-Chain-with-perpetuals-and-fee-free-trading-of-95-tokenized-stocks",
-    "source": "@coinmarketcap",
-    "published": "Thu Jul 02 2026 20:17:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Weak jobs data is doing exactly what markets wanted. Payrolls missed badly today, just 57K against a 113K forecast, and the Dow ripped over 1% on rate cut hopes.\n\nRisk appetite isn't staying in stocks either. Bitcoin's up over 2.5% today too, back above $61,000, moving with the",
-    "link": "https://cryptopanic.com/news/32967796/Weak-jobs-data-is-doing-exactly-what-markets-wanted-Payrolls-missed-badly-today-just-57K-against-a-113K-forecast-and-the-Dow-ripped-over-1-on-rate-cut-hopes-Risk-appetite-isnt-staying-in-stocks-either-Bitcoins-up-over-25-today-too-back-above-61000-moving-with-the",
-    "source": "@bscnews",
-    "published": "Thu Jul 02 2026 20:13:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Securitize becomes first to debut shares on NYSE and onchain, but it won’t be the last",
-    "link": "https://cryptopanic.com/news/32967754/Securitize-becomes-first-to-debut-shares-on-NYSE-and-onchain-but-it-wont-be-the-last",
-    "source": "theblock.co",
-    "published": "Thu Jul 02 2026 20:10:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "In the first half of 2026:\n\nS&P 500: +9.3%\nNasdaq 100: +19.7%\nBitcoin: -33%\nGold: -7%\nDXY: +3%\n\nHow did your portfolio do in comparison?\n\nIf you underperformed, take some time to analyze why and implement changes to improve through the 2nd half of the year.",
-    "link": "https://cryptopanic.com/news/32967854/In-the-first-half-of-2026-SampP-500-93-Nasdaq-100-197-Bitcoin-33-Gold-7-DXY-3-How-did-your-portfolio-do-in-comparison-If-you-underperformed-take-some-time-to-analyze-why-and-implement-changes-to-improve-through-the-2nd-half-of-the-year",
-    "source": "@stackersatoshi",
-    "published": "Thu Jul 02 2026 20:00:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Canton: Here’s why CC’s $5.8M token unlock didn’t trigger a selloff",
-    "link": "https://cryptopanic.com/news/32967726/Canton-Heres-why-CCs-58M-token-unlock-didnt-trigger-a-selloff",
-    "source": "ambcrypto.com",
-    "published": "Thu Jul 02 2026 20:00:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Bitcoin-Backed Stablecoin That Ditches US Treasuries w/ David Seroy",
-    "link": "https://cryptopanic.com/news/32967753/The-Bitcoin-Backed-Stablecoin-That-Ditches-US-Treasuries-w-David-Seroy",
-    "source": "BitcoinMagazine",
-    "published": "Thu Jul 02 2026 20:00:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Chinese Police Reveal Crypto Evidence Collection Process for Tracking and Freezing Funds",
-    "link": "https://cryptopanic.com/news/32967714/Chinese-Police-Reveal-Crypto-Evidence-Collection-Process-for-Tracking-and-Freezing-Funds",
-    "source": "coincu.com",
-    "published": "Thu Jul 02 2026 20:00:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Robinhood's EU perpetual futures list is bigger than anyone reported\n\nStraight from @RobinhoodApp_EU's own support page: the lineup covers bitcoin:native, ethereum:native, solana:So11111111111111111111111111111111111111112, $XRP, dogecoin:native, sui:native, cardano:native,",
-    "link": "https://cryptopanic.com/news/32967795/Robinhoods-EU-perpetual-futures-list-is-bigger-than-anyone-reported-Straight-from-RobinhoodApp_EUs-own-support-page-the-lineup-covers-bitcoinnative-ethereumnative-solanaSo11111111111111111111111111111111111111112-XRP-dogecoinnative-suinative-cardanonative",
-    "source": "@bscnews",
-    "published": "Thu Jul 02 2026 20:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
