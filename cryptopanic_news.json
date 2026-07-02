@@ -1,9 +1,30 @@
 [
   {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/32964327/Source",
+    "source": "@wublockchain",
+    "published": "Thu Jul 02 2026 09:45:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Standard Chartered Partners with Circle: First G-SIB Bank Launches USDC Minting and Redemption\n\nStandard Chartered has announced a partnership with Circle to enable institutional clients to access USDC minting and redemption. The launch makes Standard Chartered the first Global",
+    "link": "https://cryptopanic.com/news/32964326/Standard-Chartered-Partners-with-Circle-First-G-SIB-Bank-Launches-USDC-Minting-and-Redemption-Standard-Chartered-has-announced-a-partnership-with-Circle-to-enable-institutional-clients-to-access-USDC-minting-and-redemption-The-launch-makes-Standard-Chartered-the-first-Global",
+    "source": "@wublockchain",
+    "published": "Thu Jul 02 2026 09:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "@CryptoHayes Source",
     "link": "https://cryptopanic.com/news/32964325/CryptoHayes-Source",
     "source": "@wublockchain",
     "published": "Thu Jul 02 2026 09:41:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Kash Patel Faces Scrutiny Over MSTR Trade\n\nFBI Director Kash Patel is facing scrutiny after reporting a six figure Strategy stock purchase months after the legal disclosure deadline.\n\nThe delayed filing has renewed criticism of stock trading by senior government officials. Patel",
+    "link": "https://cryptopanic.com/news/32964371/Kash-Patel-Faces-Scrutiny-Over-MSTR-Trade-FBI-Director-Kash-Patel-is-facing-scrutiny-after-reporting-a-six-figure-Strategy-stock-purchase-months-after-the-legal-disclosure-deadline-The-delayed-filing-has-renewed-criticism-of-stock-trading-by-senior-government-officials-Patel",
+    "source": "@bscnews",
+    "published": "Thu Jul 02 2026 09:41:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -49,6 +70,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Hedera Moves to Real-Time Data Pipeline as Block Nodes Replace Record Files",
+    "link": "https://cryptopanic.com/news/32964351/Hedera-Moves-to-Real-Time-Data-Pipeline-as-Block-Nodes-Replace-Record-Files",
+    "source": "r/hedera",
+    "published": "Thu Jul 02 2026 09:29:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: 🇺🇸 OpenAI proposes giving the US government a 5% stake worth $42.5 billion.",
     "link": "https://cryptopanic.com/news/32964182/JUST-IN-OpenAI-proposes-giving-the-US-government-a-5-stake-worth-425-billion",
     "source": "@watcherguru",
@@ -67,6 +95,20 @@
     "link": "https://cryptopanic.com/news/32964313/LATEST-Bank-of-Korea-governor-Hyun-Song-Shin-called-tokenized-government-bonds-the-big-prize-saying-they-make-collateral-verification-and-transaction-reversal-far-simpler-than-traditional-systems",
     "source": "@coinmarketcap",
     "published": "Thu Jul 02 2026 09:25:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Binance Secures Philippines Entry\n\nBinance has officially entered the Philippine market, co CEO Yi He announced.\n\nThe move follows SEC approval for BlockShoals Technologies to begin testing under the country's Strategic Sandbox.\n\nBlockShoals will integrate with Binance during a",
+    "link": "https://cryptopanic.com/news/32964370/Binance-Secures-Philippines-Entry-Binance-has-officially-entered-the-Philippine-market-co-CEO-Yi-He-announced-The-move-follows-SEC-approval-for-BlockShoals-Technologies-to-begin-testing-under-the-countrys-Strategic-Sandbox-BlockShoals-will-integrate-with-Binance-during-a",
+    "source": "@bscnews",
+    "published": "Thu Jul 02 2026 09:25:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Metaplanet Hits 43,000 BTC Milestone, Now the World’s 3rd Largest Corporate Holder",
+    "link": "https://cryptopanic.com/news/32964366/Metaplanet-Hits-43000-BTC-Milestone-Now-the-Worlds-3rd-Largest-Corporate-Holder",
+    "source": "beincrypto.com",
+    "published": "Thu Jul 02 2026 09:20:40 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -165,48 +207,6 @@
     "link": "https://cryptopanic.com/news/32963978/LATEST-Citi-cut-its-12-month-Bitcoin-target-to-82000-from-112000-and-its-Ethereum-target-to-2240-from-3175-citing-collapsing-ETF-demand-and-stalled-US-crypto-legislation",
     "source": "@coinmarketcap",
     "published": "Thu Jul 02 2026 08:49:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Binance Co-CEO Yi He: Binance Officially Enters the Philippines\n\nBinance Co-CEO Yi He announced that Binance has officially entered the Philippine market. The Philippine Securities and Exchange Commission (SEC) has granted approval to Blockshoals Technologies Inc. to test its",
-    "link": "https://cryptopanic.com/news/32963982/Binance-Co-CEO-Yi-He-Binance-Officially-Enters-the-Philippines-Binance-Co-CEO-Yi-He-announced-that-Binance-has-officially-entered-the-Philippine-market-The-Philippine-Securities-and-Exchange-Commission-SEC-has-granted-approval-to-Blockshoals-Technologies-Inc-to-test-its",
-    "source": "@wublockchain",
-    "published": "Thu Jul 02 2026 08:44:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Taiko fully restores cross-chain bridge just 10 days after a $1.7 million hack",
-    "link": "https://cryptopanic.com/news/32963972/Taiko-fully-restores-cross-chain-bridge-just-10-days-after-a-17-million-hack",
-    "source": "coindesk.com",
-    "published": "Thu Jul 02 2026 08:35:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum Foundation makes its biggest pitch to governments yet",
-    "link": "https://cryptopanic.com/news/32963879/Ethereum-Foundation-makes-its-biggest-pitch-to-governments-yet",
-    "source": "cryptopolitan.com",
-    "published": "Thu Jul 02 2026 08:34:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "3 On-Chain Signals Point to Deepening Bitcoin Capitulation",
-    "link": "https://cryptopanic.com/news/32964088/3-On-Chain-Signals-Point-to-Deepening-Bitcoin-Capitulation",
-    "source": "beincrypto.com",
-    "published": "Thu Jul 02 2026 08:34:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Netflix Money Turned Dogecoin Profit At Center Of Rinsch Case\n\nCarl Rinsch, director of \"47 Ronin,\" has been sentenced over Netflix funds diverted into Dogecoin $DOGE and stock trades. \n\nHe received three years of supervised release, USD 11 million in forfeiture and USD 700 in",
-    "link": "https://cryptopanic.com/news/32964089/Netflix-Money-Turned-Dogecoin-Profit-At-Center-Of-Rinsch-Case-Carl-Rinsch-director-of-47-Ronin-has-been-sentenced-over-Netflix-funds-diverted-into-Dogecoin-DOGE-and-stock-trades-He-received-three-years-of-supervised-release-USD-11-million-in-forfeiture-and-USD-700-in",
-    "source": "@bscnews",
-    "published": "Thu Jul 02 2026 08:34:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Robinhood News: HOOD Jumps As Chain Mainnet Goes Live",
-    "link": "https://cryptopanic.com/news/32963881/Robinhood-News-HOOD-Jumps-As-Chain-Mainnet-Goes-Live",
-    "source": "thecoinrepublic.com",
-    "published": "Thu Jul 02 2026 08:31:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
