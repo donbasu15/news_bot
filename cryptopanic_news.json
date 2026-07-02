@@ -1,5 +1,68 @@
 [
   {
+    "title": "Ethereum's Institutional Week: Three Moves, One Message",
+    "link": "https://cryptopanic.com/news/32964426/Ethereums-Institutional-Week-Three-Moves-One-Message",
+    "source": "www.blockhead.co",
+    "published": "Thu Jul 02 2026 10:07:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Scattered Spider Suspect Extradited to US Over $8M Crypto Ransom Demand",
+    "link": "https://cryptopanic.com/news/32964398/Scattered-Spider-Suspect-Extradited-to-US-Over-8M-Crypto-Ransom-Demand",
+    "source": "decrypt.co",
+    "published": "Thu Jul 02 2026 10:00:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "How Conviction in BTC Beats Volatility!",
+    "link": "https://cryptopanic.com/news/32964492/How-Conviction-in-BTC-Beats-Volatility",
+    "source": "SimplyBitcoin",
+    "published": "Thu Jul 02 2026 10:00:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin, Gold Sink As Debasement Trade Unwinds",
+    "link": "https://cryptopanic.com/news/32964374/Bitcoin-Gold-Sink-As-Debasement-Trade-Unwinds",
+    "source": "catenaa.com",
+    "published": "Thu Jul 02 2026 10:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Warsh Ends Fed Guidance Era",
+    "link": "https://cryptopanic.com/news/32964373/Warsh-Ends-Fed-Guidance-Era",
+    "source": "catenaa.com",
+    "published": "Thu Jul 02 2026 10:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ripple Lands MiCA Green Light in Luxembourg, but XRP Falls",
+    "link": "https://cryptopanic.com/news/32964387/Ripple-Lands-MiCA-Green-Light-in-Luxembourg-but-XRP-Falls",
+    "source": "spaziocrypto.com",
+    "published": "Thu Jul 02 2026 09:57:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto News, July 2: Circle USDC Hit by Blackrock and Ripple XRP Backed OUSD, Bitcoin and Ethereum Price Recovering",
+    "link": "https://cryptopanic.com/news/32964368/Crypto-News-July-2-Circle-USDC-Hit-by-Blackrock-and-Ripple-XRP-Backed-OUSD-Bitcoin-and-Ethereum-Price-Recovering",
+    "source": "cryptonews.com",
+    "published": "Thu Jul 02 2026 09:57:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Near Adds Quantum Security To Testnet\n\nNEAR Protocol (@NEARProtocol) $NEAR has deployed upgrade 2.13 on testnet, introducing post quantum safe access keys and dynamic resharding.\n\nThe update adds the NIST approved FIPS 204 signature scheme to strengthen long term cryptographic",
+    "link": "https://cryptopanic.com/news/32964372/Near-Adds-Quantum-Security-To-Testnet-NEAR-Protocol-NEARProtocol-NEAR-has-deployed-upgrade-213-on-testnet-introducing-post-quantum-safe-access-keys-and-dynamic-resharding-The-update-adds-the-NIST-approved-FIPS-204-signature-scheme-to-strengthen-long-term-cryptographic",
+    "source": "@bscnews",
+    "published": "Thu Jul 02 2026 09:55:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto Card Deposits Top $10 Billion as Stablecoin Payment Rails See Rapid Adoption",
+    "link": "https://cryptopanic.com/news/32964425/Crypto-Card-Deposits-Top-10-Billion-as-Stablecoin-Payment-Rails-See-Rapid-Adoption",
+    "source": "feeds2.benzinga.com",
+    "published": "Thu Jul 02 2026 09:49:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Source",
     "link": "https://cryptopanic.com/news/32964327/Source",
     "source": "@wublockchain",
@@ -11,6 +74,13 @@
     "link": "https://cryptopanic.com/news/32964326/Standard-Chartered-Partners-with-Circle-First-G-SIB-Bank-Launches-USDC-Minting-and-Redemption-Standard-Chartered-has-announced-a-partnership-with-Circle-to-enable-institutional-clients-to-access-USDC-minting-and-redemption-The-launch-makes-Standard-Chartered-the-first-Global",
     "source": "@wublockchain",
     "published": "Thu Jul 02 2026 09:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Live markets: Bitcoin holds above $60,000 as yen jumps on intervention fears",
+    "link": "https://cryptopanic.com/news/32964427/Live-markets-Bitcoin-holds-above-60000-as-yen-jumps-on-intervention-fears",
+    "source": "coindesk.com",
+    "published": "Thu Jul 02 2026 09:42:41 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/32964328/NEW-RobinhoodApp-goes-on-chain-launching-its-Ethereum-L2-mainnet-and-247-tokenized-Stock-Tokens-for-eligible-users-in-120-countries-with-Uniswap-as-the-primary-liquidity-provider",
     "source": "@coindesk",
     "published": "Thu Jul 02 2026 09:07:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin price reclaims $60K – Is BTC’s rally more than just a short squeeze?",
-    "link": "https://cryptopanic.com/news/32963996/Bitcoin-price-reclaims-60K-Is-BTCs-rally-more-than-just-a-short-squeeze",
-    "source": "ambcrypto.com",
-    "published": "Thu Jul 02 2026 09:00:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "What's pumping?",
-    "link": "https://cryptopanic.com/news/32963980/Whats-pumping",
-    "source": "@coinmarketcap",
-    "published": "Thu Jul 02 2026 09:00:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CFTC Fines Foreign Firms $2.5M Over Illegal US Trading",
-    "link": "https://cryptopanic.com/news/32963985/CFTC-Fines-Foreign-Firms-25M-Over-Illegal-US-Trading",
-    "source": "catenaa.com",
-    "published": "Thu Jul 02 2026 09:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "MetaMask Launches Money Account With Up to 4% Annual Yield on mUSD",
-    "link": "https://cryptopanic.com/news/32963995/MetaMask-Launches-Money-Account-With-Up-to-4-Annual-Yield-on-mUSD",
-    "source": "coinpaprika.com",
-    "published": "Thu Jul 02 2026 09:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Metaplanet buys another $170 million of bitcoin expanding treasury to 43,000 BTC",
-    "link": "https://cryptopanic.com/news/32964261/Metaplanet-buys-another-170-million-of-bitcoin-expanding-treasury-to-43000-BTC",
-    "source": "coindesk.com",
-    "published": "Thu Jul 02 2026 08:57:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇵🇭 UPDATE: Binance has officially entered the Philippine market through BlockShoals’ regulatory sandbox approval, says CO-CEO He Yi.",
-    "link": "https://cryptopanic.com/news/32963984/UPDATE-Binance-has-officially-entered-the-Philippine-market-through-BlockShoals-regulatory-sandbox-approval-says-CO-CEO-He-Yi",
-    "source": "@cointelegraph",
-    "published": "Thu Jul 02 2026 08:56:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Whales Return As Retail Stays On Sidelines\n\n$XRP gains as whales accumulate while retail traders remain cautious.\n\nCryptoQuant data showed the All CEX Whale vs Retail Spread at 50.9 percent, with Binance's measure at 44.6 percent. That points to stronger large holder activity",
-    "link": "https://cryptopanic.com/news/32964091/XRP-Whales-Return-As-Retail-Stays-On-Sidelines-XRP-gains-as-whales-accumulate-while-retail-traders-remain-cautious-CryptoQuant-data-showed-the-All-CEX-Whale-vs-Retail-Spread-at-509-percent-with-Binances-measure-at-446-percent-That-points-to-stronger-large-holder-activity",
-    "source": "@bscnews",
-    "published": "Thu Jul 02 2026 08:55:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The RIGHT way to invest in crypto narratives...\n\n@VarrockVC's @richardchen39 discusses his investment thesis in an exclusive interview with The @DealflowPodcast's @RealMissAI.\n\n[NeverFinancialAdvice]",
-    "link": "https://cryptopanic.com/news/32964090/The-RIGHT-way-to-invest-in-crypto-narratives-VarrockVCs-richardchen39-discusses-his-investment-thesis-in-an-exclusive-interview-with-The-DealflowPodcasts-RealMissAI-NeverFinancialAdvice",
-    "source": "@bscnews",
-    "published": "Thu Jul 02 2026 08:53:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin And The Cryptocurrency Market Won't Survive Unless This Happens There Is A Disconnect",
-    "link": "https://cryptopanic.com/news/32964001/Bitcoin-And-The-Cryptocurrency-Market-Wont-Survive-Unless-This-Happens-There-Is-A-Disconnect",
-    "source": "TheModernInvestor",
-    "published": "Thu Jul 02 2026 08:52:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Citi cut its 12-month Bitcoin target to $82,000 from $112,000 and its Ethereum target to $2,240 from $3,175, citing collapsing ETF demand and stalled US crypto legislation.",
-    "link": "https://cryptopanic.com/news/32963978/LATEST-Citi-cut-its-12-month-Bitcoin-target-to-82000-from-112000-and-its-Ethereum-target-to-2240-from-3175-citing-collapsing-ETF-demand-and-stalled-US-crypto-legislation",
-    "source": "@coinmarketcap",
-    "published": "Thu Jul 02 2026 08:49:05 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
