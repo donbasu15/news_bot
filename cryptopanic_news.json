@@ -1,5 +1,96 @@
 [
   {
+    "title": "Read more",
+    "link": "https://cryptopanic.com/news/32967080/Read-more",
+    "source": "@cointelegraph",
+    "published": "Thu Jul 02 2026 17:05:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Standard Chartered Becomes First Major Bank to Offer Direct Stablecoin Services",
+    "link": "https://cryptopanic.com/news/32967038/Standard-Chartered-Becomes-First-Major-Bank-to-Offer-Direct-Stablecoin-Services",
+    "source": "cryptopotato.com",
+    "published": "Thu Jul 02 2026 17:03:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 NEW: Ondo Finance partnered with Broadridge to launch the first live third-party tokenized U.S. securities solution.",
+    "link": "https://cryptopanic.com/news/32967079/NEW-Ondo-Finance-partnered-with-Broadridge-to-launch-the-first-live-third-party-tokenized-US-securities-solution",
+    "source": "@cointelegraph",
+    "published": "Thu Jul 02 2026 17:01:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Building in the Bear Market Is How You Win the Next Bull",
+    "link": "https://cryptopanic.com/news/32967027/Building-in-the-Bear-Market-Is-How-You-Win-the-Next-Bull",
+    "source": "BitcoinMagazine",
+    "published": "Thu Jul 02 2026 17:00:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The Yield Trade Cools: Stablecoins Post First Supply Drop Since 2023",
+    "link": "https://cryptopanic.com/news/32966937/The-Yield-Trade-Cools-Stablecoins-Post-First-Supply-Drop-Since-2023",
+    "source": "coinpaprika.com",
+    "published": "Thu Jul 02 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Reclaims $61,000 as Dovish Inflation Outlook Softens Market Fear",
+    "link": "https://cryptopanic.com/news/32966936/Bitcoin-Reclaims-61000-as-Dovish-Inflation-Outlook-Softens-Market-Fear",
+    "source": "newsbtc.com",
+    "published": "Thu Jul 02 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "EToro invests in onchain derivatives platform Extended as brokers race into DeFi",
+    "link": "https://cryptopanic.com/news/32967117/EToro-invests-in-onchain-derivatives-platform-Extended-as-brokers-race-into-DeFi",
+    "source": "coindesk.com",
+    "published": "Thu Jul 02 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Predictive AI Network THEA Raises $8M to Build Solana-Based Coordination Layer\n\nPredictive behavioral AI network THEA raised $8 million in a round led by Maven11 Capital, Spartan Group, ManifoldTrading, HackVC and Fisher8 Capital. The funding will be used to expand its",
+    "link": "https://cryptopanic.com/news/32967077/Predictive-AI-Network-THEA-Raises-8M-to-Build-Solana-Based-Coordination-Layer-Predictive-behavioral-AI-network-THEA-raised-8-million-in-a-round-led-by-Maven11-Capital-Spartan-Group-ManifoldTrading-HackVC-and-Fisher8-Capital-The-funding-will-be-used-to-expand-its",
+    "source": "@wublockchain",
+    "published": "Thu Jul 02 2026 16:53:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Fhenix aborbs Sunscreen and hires founder in push to build quantum-safe privacy infrastructure",
+    "link": "https://cryptopanic.com/news/32966998/Fhenix-aborbs-Sunscreen-and-hires-founder-in-push-to-build-quantum-safe-privacy-infrastructure",
+    "source": "cryptopolitan.com",
+    "published": "Thu Jul 02 2026 16:52:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitwise says STRC selloff signals crypto cycle nearing a bottom, not Strategy’s breaking point",
+    "link": "https://cryptopanic.com/news/32967065/Bitwise-says-STRC-selloff-signals-crypto-cycle-nearing-a-bottom-not-Strategys-breaking-point",
+    "source": "coindesk.com",
+    "published": "Thu Jul 02 2026 16:51:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "IOTA Foundation activates key upgrade to power global trade network",
+    "link": "https://cryptopanic.com/news/32967061/IOTA-Foundation-activates-key-upgrade-to-power-global-trade-network",
+    "source": "thestreet.com",
+    "published": "Thu Jul 02 2026 16:50:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The $240B Information Trading Market",
+    "link": "https://cryptopanic.com/news/32967000/The-240B-Information-Trading-Market",
+    "source": "thestreet.com",
+    "published": "Thu Jul 02 2026 16:45:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Yield-bearing stablecoin supply fell 15% in Q2, dropping more than $3.5B and ending nearly three years of growth.",
+    "link": "https://cryptopanic.com/news/32967075/LATEST-Yield-bearing-stablecoin-supply-fell-15-in-Q2-dropping-more-than-35B-and-ending-nearly-three-years-of-growth",
+    "source": "@coinmarketcap",
+    "published": "Thu Jul 02 2026 16:41:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "RLUSD Share on XRP Ledger Hits 51%",
     "link": "https://cryptopanic.com/news/32966906/RLUSD-Share-on-XRP-Ledger-Hits-51",
     "source": "u.today",
@@ -116,97 +207,6 @@
     "link": "https://cryptopanic.com/news/32966797/INSIGHT-CFTC-Chair-Mike-Selig-says-Illinois-proposed-crypto-sin-tax-could-threaten-Chicagos-future-as-a-financial-market-center",
     "source": "@cointelegraph",
     "published": "Thu Jul 02 2026 16:00:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Three markets. Billions in volume. One name on top.\nThe crowd made its pick for the 2026 World Cup.\n\nThe consensus remains stable across our Prediction Markets tracker:\n\n1º - France, out front and leading the pack (~33%)\n2º - Argentina, the steady and proven challenger (~19%)",
-    "link": "https://cryptopanic.com/news/32966791/Three-markets-Billions-in-volume-One-name-on-top-The-crowd-made-its-pick-for-the-2026-World-Cup-The-consensus-remains-stable-across-our-Prediction-Markets-tracker-1o-France-out-front-and-leading-the-pack-33-2o-Argentina-the-steady-and-proven-challenger-19",
-    "source": "@coinmarketcap",
-    "published": "Thu Jul 02 2026 16:00:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Yesterday we showed MIT one of the most influential universities has built on $XLM! \n\nHere’s another example of MIT highlighting a @StellarOrg project Leaf!\n\nLeaf is a virtual bank for refugees, protecting savings through blockchain, even without phones.\n\nIt was built on $XLM!",
-    "link": "https://cryptopanic.com/news/32966867/Yesterday-we-showed-MIT-one-of-the-most-influential-universities-has-built-on-XLM-Heres-another-example-of-MIT-highlighting-a-StellarOrg-project-Leaf-Leaf-is-a-virtual-bank-for-refugees-protecting-savings-through-blockchain-even-without-phones-It-was-built-on-XLM",
-    "source": "@realallincrypto",
-    "published": "Thu Jul 02 2026 16:00:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Has Never Done This Twice In A Row",
-    "link": "https://cryptopanic.com/news/32966708/Bitcoin-Has-Never-Done-This-Twice-In-A-Row",
-    "source": "TheCryptoLark",
-    "published": "Thu Jul 02 2026 16:00:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump Is About Skyrocket Bitcoin and Gold",
-    "link": "https://cryptopanic.com/news/32966721/Trump-Is-About-Skyrocket-Bitcoin-and-Gold",
-    "source": "BTCSessions",
-    "published": "Thu Jul 02 2026 16:00:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BTC Below 60K! Is This A Rally Signal?",
-    "link": "https://cryptopanic.com/news/32966660/BTC-Below-60K-Is-This-A-Rally-Signal",
-    "source": "SimplyBitcoin",
-    "published": "Thu Jul 02 2026 16:00:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Citi Cuts Bitcoin Target 27% as SHIB, XRP Wobble",
-    "link": "https://cryptopanic.com/news/32966642/Citi-Cuts-Bitcoin-Target-27-as-SHIB-XRP-Wobble",
-    "source": "catenaa.com",
-    "published": "Thu Jul 02 2026 16:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Chopping Block: Visa, Mastercard & 140 Firms Take On Circle, Saylor’s Digital Credit Reset & the DAO Reckoning",
-    "link": "https://cryptopanic.com/news/32966663/The-Chopping-Block-Visa-Mastercard-140-Firms-Take-On-Circle-Saylors-Digital-Credit-Reset-the-DAO-Reckoning",
-    "source": "Unchained",
-    "published": "Thu Jul 02 2026 16:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Michael Saylor reveals why Strategy sold Bitcoin and why critics are wrong",
-    "link": "https://cryptopanic.com/news/32966716/Michael-Saylor-reveals-why-Strategy-sold-Bitcoin-and-why-critics-are-wrong",
-    "source": "thestreet.com",
-    "published": "Thu Jul 02 2026 15:50:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Uniswap's UNI Token Surges Upon Robinhood Integration...\n\n@Uniswap's native asset, ethereum:0x1f9840a85d5af5bf1d1762f925bdaddc4201f984, is among the top gainers over the past 24 hours. \n\nThe asset has surged over 12% following its integration with the Robinhood chain, the Layer 2",
-    "link": "https://cryptopanic.com/news/32966641/Uniswaps-UNI-Token-Surges-Upon-Robinhood-Integration-Uniswaps-native-asset-ethereum0x1f9840a85d5af5bf1d1762f925bdaddc4201f984-is-among-the-top-gainers-over-the-past-24-hours-The-asset-has-surged-over-12-following-its-integration-with-the-Robinhood-chain-the-Layer-2",
-    "source": "@bscnews",
-    "published": "Thu Jul 02 2026 15:49:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Six Swiss crypto service providers secure MiCA authorization",
-    "link": "https://cryptopanic.com/news/32966588/Six-Swiss-crypto-service-providers-secure-MiCA-authorization",
-    "source": "cryptovalleyjournal.com",
-    "published": "Thu Jul 02 2026 15:48:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Binance Enters Philippines After SEC Sandbox Approval for Blockshoals",
-    "link": "https://cryptopanic.com/news/32966566/Binance-Enters-Philippines-After-SEC-Sandbox-Approval-for-Blockshoals",
-    "source": "coinpaper.com",
-    "published": "Thu Jul 02 2026 15:46:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Humanity Protocol repositions toward enterprise AI after $36 million hack, founder says",
-    "link": "https://cryptopanic.com/news/32966576/Humanity-Protocol-repositions-toward-enterprise-AI-after-36-million-hack-founder-says",
-    "source": "theblock.co",
-    "published": "Thu Jul 02 2026 15:46:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: Standard Chartered partners with Circle to offer institutional clients access to USDC minting and redemption.",
-    "link": "https://cryptopanic.com/news/32966572/LATEST-Standard-Chartered-partners-with-Circle-to-offer-institutional-clients-access-to-USDC-minting-and-redemption",
-    "source": "@cointelegraph",
-    "published": "Thu Jul 02 2026 15:40:15 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
