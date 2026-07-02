@@ -1,9 +1,23 @@
 [
   {
+    "title": "$HBAR WINS ANOTHER AWARD!\n\n@hedera just won INATBA’s Tokenization & Market Infrastructure award \n\n$HBAR is being recognised for helping bring real-world assets onchain: faster, cheaper, more transparent and easier to use compared to its competitors!",
+    "link": "https://cryptopanic.com/news/32961598/HBAR-WINS-ANOTHER-AWARD-hedera-just-won-INATBAs-Tokenization-amp-Market-Infrastructure-award-HBAR-is-being-recognised-for-helping-bring-real-world-assets-onchain-faster-cheaper-more-transparent-and-easier-to-use-compared-to-its-competitors",
+    "source": "@realallincrypto",
+    "published": "Thu Jul 02 2026 01:00:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "How a Fake Podcast Invite Nearly Hacked Laura Shin",
     "link": "https://cryptopanic.com/news/32961584/How-a-Fake-Podcast-Invite-Nearly-Hacked-Laura-Shin",
     "source": "Unchained",
     "published": "Thu Jul 02 2026 00:50:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "James Wynn(@JamesWynnReal) was partially liquidated again!\n\nHis 50x #SP500 short has been partially liquidated 7 times over the past week.\n\nHe still holds a short position of 186.68 xyz:SP500($1.4M).\n\nNew liquidation price: $7,536.42",
+    "link": "https://cryptopanic.com/news/32961642/James-WynnJamesWynnReal-was-partially-liquidated-again-His-50x-SP500-short-has-been-partially-liquidated-7-times-over-the-past-week-He-still-holds-a-short-position-of-18668-xyzSP50014M-New-liquidation-price-753642",
+    "source": "@lookonchain",
+    "published": "Thu Jul 02 2026 00:47:42 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -140,15 +154,15 @@
     "sentiment": "neutral"
   },
   {
-    "title": "LATEST: 🇪🇺 Europe's MiCA regulation is now fully in force as of July 1, requiring all crypto firms serving EU customers to hold a license or restrict their operations.",
-    "link": "https://cryptopanic.com/news/32961304/LATEST-Europes-MiCA-regulation-is-now-fully-in-force-as-of-July-1-requiring-all-crypto-firms-serving-EU-customers-to-hold-a-license-or-restrict-their-operations",
+    "title": "LATEST: ️ Ethereum co-founder Joe Lubin, BitMine and SharpLink have launched Ethereum Institutional, a nonprofit aimed at accelerating the blockchain's adoption among banks and asset managers.",
+    "link": "https://cryptopanic.com/news/32961305/LATEST-Ethereum-co-founder-Joe-Lubin-BitMine-and-SharpLink-have-launched-Ethereum-Institutional-a-nonprofit-aimed-at-accelerating-the-blockchains-adoption-among-banks-and-asset-managers",
     "source": "@coinmarketcap",
     "published": "Wed Jul 01 2026 22:47:10 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "LATEST: ️ Ethereum co-founder Joe Lubin, BitMine and SharpLink have launched Ethereum Institutional, a nonprofit aimed at accelerating the blockchain's adoption among banks and asset managers.",
-    "link": "https://cryptopanic.com/news/32961305/LATEST-Ethereum-co-founder-Joe-Lubin-BitMine-and-SharpLink-have-launched-Ethereum-Institutional-a-nonprofit-aimed-at-accelerating-the-blockchains-adoption-among-banks-and-asset-managers",
+    "title": "LATEST: 🇪🇺 Europe's MiCA regulation is now fully in force as of July 1, requiring all crypto firms serving EU customers to hold a license or restrict their operations.",
+    "link": "https://cryptopanic.com/news/32961304/LATEST-Europes-MiCA-regulation-is-now-fully-in-force-as-of-July-1-requiring-all-crypto-firms-serving-EU-customers-to-hold-a-license-or-restrict-their-operations",
     "source": "@coinmarketcap",
     "published": "Wed Jul 01 2026 22:47:10 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/32961246/The-End-of-the-4-Year-Bitcoin-Cycle-Why-the-BTC-Capital-Cycle-is-Next-w-Alex-Leishman-Bitcoin-Magazine-Podcast-Ep-15-Bitcoin-is-where-people-park-wealth-When-they-want-to-start-doing-things-with-it-we-see-cycles-The-capital-will-cycle-back-the-question-is-when",
     "source": "@bitcoinmagazine",
     "published": "Wed Jul 01 2026 22:24:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Bitcoin reclaims $61,000",
-    "link": "https://cryptopanic.com/news/32961248/JUST-IN-Bitcoin-reclaims-61000",
-    "source": "@watcherguru",
-    "published": "Wed Jul 01 2026 22:24:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The bitcoin:native bounce from $58,000 to nearly $61,000 has come as the US-based sell pressure slowed notably throughout the day.",
-    "link": "https://cryptopanic.com/news/32961249/The-bitcoinnative-bounce-from-58000-to-nearly-61000-has-come-as-the-US-based-sell-pressure-slowed-notably-throughout-the-day",
-    "source": "@stackersatoshi",
-    "published": "Wed Jul 01 2026 22:19:52 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
