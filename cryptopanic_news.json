@@ -1,51 +1,16 @@
 [
   {
-    "title": "Robinhood News: HOOD Jumps As Chain Mainnet Goes Live",
-    "link": "https://cryptopanic.com/news/32963881/Robinhood-News-HOOD-Jumps-As-Chain-Mainnet-Goes-Live",
-    "source": "thecoinrepublic.com",
-    "published": "Thu Jul 02 2026 08:31:00 GMT+0000 (Coordinated Universal Time)",
+    "title": "TradingView adds Hyperliquid and Trade[XYZ] data feeds, opening on-chain markets to millions of chartists",
+    "link": "https://cryptopanic.com/news/32968914/TradingView-adds-Hyperliquid-and-TradeXYZ-data-feeds-opening-on-chain-markets-to-millions-of-chartists",
+    "source": "cryptopolitan.com",
+    "published": "Fri Jul 03 2026 02:30:59 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Ethereum’s Multi-Year Trendline Meets Eight Weeks of ETF Outflows",
-    "link": "https://cryptopanic.com/news/32959441/Ethereums-Multi-Year-Trendline-Meets-Eight-Weeks-of-ETF-Outflows",
-    "source": "coindoo.com",
-    "published": "Wed Jul 01 2026 16:29:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin loses over 26,000 millionaire addresses in first half of 2026",
-    "link": "https://cryptopanic.com/news/32956246/Bitcoin-loses-over-26000-millionaire-addresses-in-first-half-of-2026",
-    "source": "finbold.com",
-    "published": "Wed Jul 01 2026 08:56:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum News: Ethereum’s pERC-20 Proposal Would Make Token Transfers Private by Default",
-    "link": "https://cryptopanic.com/news/32838319/Ethereum-News-Ethereums-pERC-20-Proposal-Would-Make-Token-Transfers-Private-by-Default",
-    "source": "cryptonews.com",
-    "published": "Thu Jun 11 2026 11:45:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "U.K. To Allow Mutual Funds 10% Exposure To Crypto",
-    "link": "https://cryptopanic.com/news/32827035/UK-To-Allow-Mutual-Funds-10-Exposure-To-Crypto",
-    "source": "cryptoprowl.com",
-    "published": "Tue Jun 09 2026 20:12:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why Charles Hoskinson thinks Cardano is the ‘only ecosystem’ that can run the world",
-    "link": "https://cryptopanic.com/news/32825352/Why-Charles-Hoskinson-thinks-Cardano-is-the-only-ecosystem-that-can-run-the-world",
-    "source": "ambcrypto.com",
-    "published": "Tue Jun 09 2026 15:00:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum quietly released a major update that could reshape its future",
-    "link": "https://cryptopanic.com/news/32783718/Ethereum-quietly-released-a-major-update-that-could-reshape-its-future",
-    "source": "techgaged.com",
-    "published": "Tue Jun 02 2026 14:57:20 GMT+0000 (Coordinated Universal Time)",
+    "title": "Why Bitcoin's Lack of Yield Keeps Straining Its Treasury Companies",
+    "link": "https://cryptopanic.com/news/32968880/Why-Bitcoins-Lack-of-Yield-Keeps-Straining-Its-Treasury-Companies",
+    "source": "Unchained",
+    "published": "Fri Jul 03 2026 02:22:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -53,6 +18,20 @@
     "link": "https://cryptopanic.com/news/32968864/JUST-IN-Canada-unveils-plans-for-a-new-oil-pipeline-to-Asia-aiming-to-break-its-dependence-on-the-US-market",
     "source": "@cointelegraph",
     "published": "Fri Jul 03 2026 02:12:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇨🇦🇺🇸 Canada unveils plans for oil pipeline to Asia to become an \"energy superpower\" and break dependence on US.",
+    "link": "https://cryptopanic.com/news/32968941/JUST-IN-Canada-unveils-plans-for-oil-pipeline-to-Asia-to-become-an-energy-superpower-and-break-dependence-on-US",
+    "source": "@watcherguru",
+    "published": "Fri Jul 03 2026 02:05:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Someone created a new wallet, 0xe069, and opened a 20x long on 230,583 $SOL($18.81M). \n\nIn less than a day, the position is already up $818K.\n\nLiquidation price: $67.14",
+    "link": "https://cryptopanic.com/news/32968936/Someone-created-a-new-wallet-0xe069-and-opened-a-20x-long-on-230583-SOL1881M-In-less-than-a-day-the-position-is-already-up-818K-Liquidation-price-6714",
+    "source": "@lookonchain",
+    "published": "Fri Jul 03 2026 02:03:35 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -74,6 +53,20 @@
     "link": "https://cryptopanic.com/news/32968836/MicroStrategys-Secret-Government-Deal-Revealed",
     "source": "SimplyBitcoin",
     "published": "Fri Jul 03 2026 02:00:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: FIREBLOCKS NOW SUPPORTS $HBAR TOKEN SERVICE!\n\nInstitutions can custody native @hedera tokens and USDC directly inside Fireblocks.\n\nWith Fireblocks working with DTCC, and Hedera partner Ownera also close to DTCC, $HBAR keeps moving toward serious institutional rails.",
+    "link": "https://cryptopanic.com/news/32968899/JUST-IN-FIREBLOCKS-NOW-SUPPORTS-HBAR-TOKEN-SERVICE-Institutions-can-custody-native-hedera-tokens-and-USDC-directly-inside-Fireblocks-With-Fireblocks-working-with-DTCC-and-Hedera-partner-Ownera-also-close-to-DTCC-HBAR-keeps-moving-toward-serious-institutional-rails",
+    "source": "@realallincrypto",
+    "published": "Fri Jul 03 2026 02:00:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BREAKING NEWS: Africa’s largest crypto exchange by volume is integrating to $HYPE!\n\nVALR will use @HyperliquidX as its onchain infrastructure layer for perpetuals, bringing deep liquidity and transparency to users without them leaving VALR.\n\n$HYPE IS A BEAST!",
+    "link": "https://cryptopanic.com/news/32968900/BREAKING-NEWS-Africas-largest-crypto-exchange-by-volume-is-integrating-to-HYPE-VALR-will-use-HyperliquidX-as-its-onchain-infrastructure-layer-for-perpetuals-bringing-deep-liquidity-and-transparency-to-users-without-them-leaving-VALR-HYPE-IS-A-BEAST",
+    "source": "@realallincrypto",
+    "published": "Fri Jul 03 2026 02:00:07 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -207,6 +200,13 @@
     "link": "https://cryptopanic.com/news/32968733/SEC-Official-Says-Agency-Is-Building-a-More-Orderly-ETF-Approval-Process-Considering-Confidential-Filings-Bloomberg-ETF-analyst-Eric-Balchunas-cited-SEC-Investment-Management-Division-official-Brian-Daly-as-saying-that-the-SEC-receives-about-200-ETF-applications-per-month",
     "source": "@wublockchain",
     "published": "Fri Jul 03 2026 01:15:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Xunce Signs HK$784 Million Share Placement at HK$107.70 Per Share",
+    "link": "https://cryptopanic.com/news/32968699/Xunce-Signs-HK784-Million-Share-Placement-at-HK10770-Per-Share",
+    "source": "square.binance.com",
+    "published": "Fri Jul 03 2026 01:14:59 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
