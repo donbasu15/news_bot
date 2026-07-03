@@ -1,9 +1,100 @@
 [
   {
+    "title": "The First Major Law Enforcement Group Just Endorsed the CLARITY Act, And It Could Flip the Senate Vote",
+    "link": "https://cryptopanic.com/news/32970962/The-First-Major-Law-Enforcement-Group-Just-Endorsed-the-CLARITY-Act-And-It-Could-Flip-the-Senate-Vote",
+    "source": "cryptonews.com",
+    "published": "Fri Jul 03 2026 10:34:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Strategy’s $1.25B Bitcoin Monetization Plan Raises BTC Risk, JPMorgan Warns",
+    "link": "https://cryptopanic.com/news/32970907/Strategys-125B-Bitcoin-Monetization-Plan-Raises-BTC-Risk-JPMorgan-Warns",
+    "source": "coinpaper.com",
+    "published": "Fri Jul 03 2026 10:33:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cardano News: ADA Shorts Just Got Squeezed $857K in 24 Hours While Whale Wallets Hit an All-Time High, Is the Bottom Finally In?",
+    "link": "https://cryptopanic.com/news/32970908/Cardano-News-ADA-Shorts-Just-Got-Squeezed-857K-in-24-Hours-While-Whale-Wallets-Hit-an-All-Time-High-Is-the-Bottom-Finally-In",
+    "source": "cryptonews.com",
+    "published": "Fri Jul 03 2026 10:32:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Wall Street’s AI race gets another $22M boost",
+    "link": "https://cryptopanic.com/news/32970925/Wall-Streets-AI-race-gets-another-22M-boost",
+    "source": "cryptopolitan.com",
+    "published": "Fri Jul 03 2026 10:32:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Robinhood Europe Expands EU Trading With XRP, ADA, SUI, and SOL Perps",
+    "link": "https://cryptopanic.com/news/32970906/Robinhood-Europe-Expands-EU-Trading-With-XRP-ADA-SUI-and-SOL-Perps",
+    "source": "coinpaper.com",
+    "published": "Fri Jul 03 2026 10:31:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Breakingviews - Syngenta’s new CEO is awkward optics but safe bet",
+    "link": "https://cryptopanic.com/news/32970974/Breakingviews-Syngentas-new-CEO-is-awkward-optics-but-safe-bet",
+    "source": "@reutersbiz",
+    "published": "Fri Jul 03 2026 10:30:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum News: Grayscale’s Ethereum Staking ETF Just Had Its CFO Resign",
+    "link": "https://cryptopanic.com/news/32970869/Ethereum-News-Grayscales-Ethereum-Staking-ETF-Just-Had-Its-CFO-Resign",
+    "source": "cryptonews.com",
+    "published": "Fri Jul 03 2026 10:27:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇺🇸 CFTC Chair Michael Selig says Illinois’ new 0.2% crypto tax “slammed the brakes on technological progress,” with the levy set to take effect Jan. 1, 2027.",
+    "link": "https://cryptopanic.com/news/32970883/LATEST-CFTC-Chair-Michael-Selig-says-Illinois-new-02-crypto-tax-slammed-the-brakes-on-technological-progress-with-the-levy-set-to-take-effect-Jan-1-2027",
+    "source": "@coinmarketcap",
+    "published": "Fri Jul 03 2026 10:25:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Why Is Crypto Up Today? The Jobs Report Was a Disaster and That Is Exactly Why",
+    "link": "https://cryptopanic.com/news/32970857/Why-Is-Crypto-Up-Today-The-Jobs-Report-Was-a-Disaster-and-That-Is-Exactly-Why",
+    "source": "dailycoinpost.com",
+    "published": "Fri Jul 03 2026 10:23:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XLM Jumps 13% Against the Market: What the DTCC-Stellar Deal Really Means",
+    "link": "https://cryptopanic.com/news/32970832/XLM-Jumps-13-Against-the-Market-What-the-DTCC-Stellar-Deal-Really-Means",
+    "source": "spaziocrypto.com",
+    "published": "Fri Jul 03 2026 10:18:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "️ LATEST: India’s central bank is reportedly backing a “containment” approach to crypto.\n\nThe RBI wants banks insulated from crypto and private stablecoins, while keeping room open for regulated tokenization.",
+    "link": "https://cryptopanic.com/news/32970885/LATEST-Indias-central-bank-is-reportedly-backing-a-containment-approach-to-crypto-The-RBI-wants-banks-insulated-from-crypto-and-private-stablecoins-while-keeping-room-open-for-regulated-tokenization",
+    "source": "@cointelegraph",
+    "published": "Fri Jul 03 2026 10:16:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "New York Payroll Firm Handing $162,000,000 To Workers In Wage Settlement",
     "link": "https://cryptopanic.com/news/32970863/New-York-Payroll-Firm-Handing-162000000-To-Workers-In-Wage-Settlement",
     "source": "dailyhodl.com",
     "published": "Fri Jul 03 2026 10:15:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$BTC Back above the $60.7K range high after a 7% bounce off the lows.\n\nIt is key for BTC now to hold this breakout and maintain its low timeframe bullish market structure. The Weekly 200MA sits at $62.6K which is a good level to watch for this weekly candle close.\n\nImportant area",
+    "link": "https://cryptopanic.com/news/32970978/BTC-Back-above-the-607K-range-high-after-a-7-bounce-off-the-lows-It-is-key-for-BTC-now-to-hold-this-breakout-and-maintain-its-low-timeframe-bullish-market-structure-The-Weekly-200MA-sits-at-626K-which-is-a-good-level-to-watch-for-this-weekly-candle-close-Important-area",
+    "source": "@daancrypto",
+    "published": "Fri Jul 03 2026 10:15:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Breakingviews - China chips away at iron ore miners' power",
+    "link": "https://cryptopanic.com/news/32970973/Breakingviews-China-chips-away-at-iron-ore-miners-power",
+    "source": "@reutersbiz",
+    "published": "Fri Jul 03 2026 10:15:17 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -21,10 +112,38 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Several Korean Companies Say They Have Not Formally Joined Open USD Alliance, Express Confusion Over Inclusion\n\nAccording to Chosun Biz, several Korean companies listed as Open USD (OUSD) alliance members, including Samsung Electronics, Dunamu, KakaoBank, Hyundai Card, KB Kookmin",
+    "link": "https://cryptopanic.com/news/32970884/Several-Korean-Companies-Say-They-Have-Not-Formally-Joined-Open-USD-Alliance-Express-Confusion-Over-Inclusion-According-to-Chosun-Biz-several-Korean-companies-listed-as-Open-USD-OUSD-alliance-members-including-Samsung-Electronics-Dunamu-KakaoBank-Hyundai-Card-KB-Kookmin",
+    "source": "@wublockchain",
+    "published": "Fri Jul 03 2026 10:06:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Strategy's Bitcoin Era Is Ending?\n\nStrategy is unlikely to remain Bitcoin's dominant buyer after the recent STRC turmoil, Bitwise CIO Matt Hougan says.\n\nHougan expects banks, asset managers, pensions and sovereign wealth funds to become the next major source of Bitcoin demand.",
+    "link": "https://cryptopanic.com/news/32970982/Strategys-Bitcoin-Era-Is-Ending-Strategy-is-unlikely-to-remain-Bitcoins-dominant-buyer-after-the-recent-STRC-turmoil-Bitwise-CIO-Matt-Hougan-says-Hougan-expects-banks-asset-managers-pensions-and-sovereign-wealth-funds-to-become-the-next-major-source-of-Bitcoin-demand",
+    "source": "@bscnews",
+    "published": "Fri Jul 03 2026 10:04:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "BTC Biggest Buy?! Whales Accumulate 270K BTC!",
     "link": "https://cryptopanic.com/news/32970774/BTC-Biggest-Buy-Whales-Accumulate-270K-BTC",
     "source": "SimplyBitcoin",
     "published": "Fri Jul 03 2026 10:00:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Any new hot takes?",
+    "link": "https://cryptopanic.com/news/32970882/Any-new-hot-takes",
+    "source": "@coinmarketcap",
+    "published": "Fri Jul 03 2026 10:00:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Copper Aluminium Pivot Tests AI Metal Rally",
+    "link": "https://cryptopanic.com/news/32970713/Copper-Aluminium-Pivot-Tests-AI-Metal-Rally",
+    "source": "catenaa.com",
+    "published": "Fri Jul 03 2026 10:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -35,10 +154,10 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Copper Aluminium Pivot Tests AI Metal Rally",
-    "link": "https://cryptopanic.com/news/32970713/Copper-Aluminium-Pivot-Tests-AI-Metal-Rally",
-    "source": "catenaa.com",
-    "published": "Fri Jul 03 2026 10:00:00 GMT+0000 (Coordinated Universal Time)",
+    "title": "LATEST: ️ eToro has invested in onchain derivatives platform Extended and plans to bring perpetual futures into its Zengo wallet.",
+    "link": "https://cryptopanic.com/news/32970881/LATEST-eToro-has-invested-in-onchain-derivatives-platform-Extended-and-plans-to-bring-perpetual-futures-into-its-Zengo-wallet",
+    "source": "@coinmarketcap",
+    "published": "Fri Jul 03 2026 09:53:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -88,125 +207,6 @@
     "link": "https://cryptopanic.com/news/32970705/Nvidia-CEOs-iconic-leather-jacket-heads-to-auction",
     "source": "thestreet.com",
     "published": "Fri Jul 03 2026 09:33:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Faces A Dilemma With No Easy Way Out Something Is About To Change With Crypto",
-    "link": "https://cryptopanic.com/news/32970616/Bitcoin-Faces-A-Dilemma-With-No-Easy-Way-Out-Something-Is-About-To-Change-With-Crypto",
-    "source": "TheModernInvestor",
-    "published": "Fri Jul 03 2026 09:25:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ALERT: Altcoin sell pressure just hit a fresh multi-year low, per CryptoQuant.",
-    "link": "https://cryptopanic.com/news/32970687/ALERT-Altcoin-sell-pressure-just-hit-a-fresh-multi-year-low-per-CryptoQuant",
-    "source": "@cointelegraph",
-    "published": "Fri Jul 03 2026 09:23:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Glassnode's Chris Beamish says more Bitcoin is now underwater than in profit for the first time this drawdown, with 10.83M BTC at a loss.",
-    "link": "https://cryptopanic.com/news/32970682/LATEST-Glassnodes-Chris-Beamish-says-more-Bitcoin-is-now-underwater-than-in-profit-for-the-first-time-this-drawdown-with-1083M-BTC-at-a-loss",
-    "source": "@coinmarketcap",
-    "published": "Fri Jul 03 2026 09:17:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "We've made some changes to our official Pi Browser application...\n\n- All new background theme.\n- Improved visuals and cosmetic changes.\n- Improved UI layout.\n- Live $PI Coin price chart.\n\nWe have some more big changes coming but we want to hear feedback from the @PiCoreTeam",
-    "link": "https://cryptopanic.com/news/32970710/Weve-made-some-changes-to-our-official-Pi-Browser-application-All-new-background-theme-Improved-visuals-and-cosmetic-changes-Improved-UI-layout-Live-PI-Coin-price-chart-We-have-some-more-big-changes-coming-but-we-want-to-hear-feedback-from-the-PiCoreTeam",
-    "source": "@bscnews",
-    "published": "Fri Jul 03 2026 09:17:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bank of Russia governor says ‘everything is ready’ for widespread use of digital ruble ahead of September rollout",
-    "link": "https://cryptopanic.com/news/32970545/Bank-of-Russia-governor-says-everything-is-ready-for-widespread-use-of-digital-ruble-ahead-of-September-rollout",
-    "source": "theblock.co",
-    "published": "Fri Jul 03 2026 09:16:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Man Drains $85,100 From East Coast Bank Accounts by Impersonating Legitimate Customers – Here’s How He Got Caught",
-    "link": "https://cryptopanic.com/news/32970556/Man-Drains-85100-From-East-Coast-Bank-Accounts-by-Impersonating-Legitimate-Customers-Heres-How-He-Got-Caught",
-    "source": "dailyhodl.com",
-    "published": "Fri Jul 03 2026 09:15:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SEC Chair Paul Atkins Says Agency Is Moving 'Purposely' to Make US the Crypto Capital of the World: 'It Is What Markets Require...'",
-    "link": "https://cryptopanic.com/news/32970562/SEC-Chair-Paul-Atkins-Says-Agency-Is-Moving-Purposely-to-Make-US-the-Crypto-Capital-of-the-World-It-Is-What-Markets-Require",
-    "source": "feeds2.benzinga.com",
-    "published": "Fri Jul 03 2026 09:11:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tokenomist: 8 Crypto Projects' Buybacks Outpaced Supply Growth Since January, with HYPE Buybacks Reaching $283M\n\nAccording to Tokenomist, since January 2026, eight crypto projects have seen token buybacks outpace growth in circulating supply: MET, PUMP, GMX, RLB, MPLX, HYPE, LIT,",
-    "link": "https://cryptopanic.com/news/32970686/Tokenomist-8-Crypto-Projects-Buybacks-Outpaced-Supply-Growth-Since-January-with-HYPE-Buybacks-Reaching-283M-According-to-Tokenomist-since-January-2026-eight-crypto-projects-have-seen-token-buybacks-outpace-growth-in-circulating-supply-MET-PUMP-GMX-RLB-MPLX-HYPE-LIT",
-    "source": "@wublockchain",
-    "published": "Fri Jul 03 2026 09:11:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "IMF Report Puts XRP Ledger at the Center of Bank Stablecoin Plan",
-    "link": "https://cryptopanic.com/news/32970497/IMF-Report-Puts-XRP-Ledger-at-the-Center-of-Bank-Stablecoin-Plan",
-    "source": "coinpaper.com",
-    "published": "Fri Jul 03 2026 09:10:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tokenization could make finance faster, but also more susceptible to shocks, IMF says",
-    "link": "https://cryptopanic.com/news/32970688/Tokenization-could-make-finance-faster-but-also-more-susceptible-to-shocks-IMF-says",
-    "source": "coindesk.com",
-    "published": "Fri Jul 03 2026 09:06:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Peter Schiff Brands Trump Meme Coins Legal Bribes as Most Buyers Sit on Losses",
-    "link": "https://cryptopanic.com/news/32970615/Peter-Schiff-Brands-Trump-Meme-Coins-Legal-Bribes-as-Most-Buyers-Sit-on-Losses",
-    "source": "beincrypto.com",
-    "published": "Fri Jul 03 2026 09:05:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Memecore Soars After 10M Buyback Plan\n\nMEMECORE memecore:native has surged more than 100% over the past week and up 42% in the last 24 hours.\n\nThe rally follows the launch of a strategic treasury buyback program worth over $10 million.\n\nThe rebound comes days after the token",
-    "link": "https://cryptopanic.com/news/32970507/Memecore-Soars-After-10M-Buyback-Plan-MEMECORE-memecorenative-has-surged-more-than-100-over-the-past-week-and-up-42-in-the-last-24-hours-The-rally-follows-the-launch-of-a-strategic-treasury-buyback-program-worth-over-10-million-The-rebound-comes-days-after-the-token",
-    "source": "@bscnews",
-    "published": "Fri Jul 03 2026 09:02:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin under pressure as $30M from ‘lost’ drug dealer stash hits Coinbase – Details",
-    "link": "https://cryptopanic.com/news/32970468/Bitcoin-under-pressure-as-30M-from-lost-drug-dealer-stash-hits-Coinbase-Details",
-    "source": "ambcrypto.com",
-    "published": "Fri Jul 03 2026 09:00:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CoinMarketCap | Crypto 101: Open Interest\n\nFunding rates showed you who pays who.\nToday, the other half of the story: how big the bet actually is!\n\nOpen Interest is the total value of derivatives contracts still open. \nIt tells you how much leverage is in the market right now.",
-    "link": "https://cryptopanic.com/news/32970681/CoinMarketCap-Crypto-101-Open-Interest-Funding-rates-showed-you-who-pays-who-Today-the-other-half-of-the-story-how-big-the-bet-actually-is-Open-Interest-is-the-total-value-of-derivatives-contracts-still-open-It-tells-you-how-much-leverage-is-in-the-market-right-now",
-    "source": "@coinmarketcap",
-    "published": "Fri Jul 03 2026 09:00:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CZ Claims Politics Blocked Binance’s MiCA License",
-    "link": "https://cryptopanic.com/news/32970433/CZ-Claims-Politics-Blocked-Binances-MiCA-License",
-    "source": "catenaa.com",
-    "published": "Fri Jul 03 2026 09:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum Gains an Institutional Front Door Backed by BitMine and Lubin",
-    "link": "https://cryptopanic.com/news/32970439/Ethereum-Gains-an-Institutional-Front-Door-Backed-by-BitMine-and-Lubin",
-    "source": "coinpaprika.com",
-    "published": "Fri Jul 03 2026 09:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Read more",
-    "link": "https://cryptopanic.com/news/32970431/Read-more",
-    "source": "@cointelegraph",
-    "published": "Fri Jul 03 2026 08:48:47 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
