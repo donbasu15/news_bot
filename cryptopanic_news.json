@@ -1,9 +1,37 @@
 [
   {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/32969111/Source",
+    "source": "@wublockchain",
+    "published": "Fri Jul 03 2026 03:47:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Axios: Binance Plans to Lead Mesh’s New Funding Round at Up to $2B Valuation\n\nAccording to Axios, citing people familiar with the matter, crypto payments and settlement company Mesh is raising a new funding round at a valuation of up to $2 billion, with Binance planning to lead",
+    "link": "https://cryptopanic.com/news/32969110/Axios-Binance-Plans-to-Lead-Meshs-New-Funding-Round-at-Up-to-2B-Valuation-According-to-Axios-citing-people-familiar-with-the-matter-crypto-payments-and-settlement-company-Mesh-is-raising-a-new-funding-round-at-a-valuation-of-up-to-2-billion-with-Binance-planning-to-lead",
+    "source": "@wublockchain",
+    "published": "Fri Jul 03 2026 03:47:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇷🇺 Bank of Russia Governor Elvira Nabiullina says the country is ready for a Sept. 1 digital ruble rollout, following the timeline set last year.",
+    "link": "https://cryptopanic.com/news/32969107/LATEST-Bank-of-Russia-Governor-Elvira-Nabiullina-says-the-country-is-ready-for-a-Sept-1-digital-ruble-rollout-following-the-timeline-set-last-year",
+    "source": "@coinmarketcap",
+    "published": "Fri Jul 03 2026 03:42:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "TODAY: Irish drug dealer Clifton Collins deposited another 500 $BTC ($30.85M) to Coinbase Prime, part of 1,500 $BTC moved since his dormant wallets reactivated 3 months ago.",
     "link": "https://cryptopanic.com/news/32969114/TODAY-Irish-drug-dealer-Clifton-Collins-deposited-another-500-BTC-3085M-to-Coinbase-Prime-part-of-1500-BTC-moved-since-his-dormant-wallets-reactivated-3-months-ago",
     "source": "@cointelegraph",
     "published": "Fri Jul 03 2026 03:40:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Russia Confirms Digital Ruble Rollout Date\n\nRussian central bank governor Elvira Nabiullina said preparations for the CBDC launch are complete.\n\nAuthorities expect the digital ruble to launch on Sept. 1 as previously planned.\n\nThe CBDC will operate alongside the traditional ruble",
+    "link": "https://cryptopanic.com/news/32969138/Russia-Confirms-Digital-Ruble-Rollout-Date-Russian-central-bank-governor-Elvira-Nabiullina-said-preparations-for-the-CBDC-launch-are-complete-Authorities-expect-the-digital-ruble-to-launch-on-Sept-1-as-previously-planned-The-CBDC-will-operate-alongside-the-traditional-ruble",
+    "source": "@bscnews",
+    "published": "Fri Jul 03 2026 03:32:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -14,10 +42,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Bitcoin Dominance Tests Key Support: Is the Long-Awaited Altcoin Season Finally Near?",
+    "link": "https://cryptopanic.com/news/32969137/Bitcoin-Dominance-Tests-Key-Support-Is-the-Long-Awaited-Altcoin-Season-Finally-Near",
+    "source": "beincrypto.com",
+    "published": "Fri Jul 03 2026 03:25:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "NOW: XRP Ledger's average trading returns hit their lowest levels in 12 years, suggesting a relief rally is probable, per Santiment.",
     "link": "https://cryptopanic.com/news/32969113/NOW-XRP-Ledgers-average-trading-returns-hit-their-lowest-levels-in-12-years-suggesting-a-relief-rally-is-probable-per-Santiment",
     "source": "@cointelegraph",
     "published": "Fri Jul 03 2026 03:20:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Solana Gets NYSE Boost as SOL Jumps 19% on Securitize Listing",
+    "link": "https://cryptopanic.com/news/32969136/Solana-Gets-NYSE-Boost-as-SOL-Jumps-19-on-Securitize-Listing",
+    "source": "beincrypto.com",
+    "published": "Fri Jul 03 2026 03:16:10 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -74,6 +116,13 @@
     "link": "https://cryptopanic.com/news/32968990/Ethereum-traders-watch-THIS-closely-after-26M-whale-shift-because",
     "source": "ambcrypto.com",
     "published": "Fri Jul 03 2026 03:00:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "AI Memory and Storage Glut Fears Loom as SanDisk, Micron, Seagate All Plunge",
+    "link": "https://cryptopanic.com/news/32969135/AI-Memory-and-Storage-Glut-Fears-Loom-as-SanDisk-Micron-Seagate-All-Plunge",
+    "source": "beincrypto.com",
+    "published": "Fri Jul 03 2026 02:58:16 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -158,55 +207,6 @@
     "link": "https://cryptopanic.com/news/32968836/MicroStrategys-Secret-Government-Deal-Revealed",
     "source": "SimplyBitcoin",
     "published": "Fri Jul 03 2026 02:00:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: FIREBLOCKS NOW SUPPORTS $HBAR TOKEN SERVICE!\n\nInstitutions can custody native @hedera tokens and USDC directly inside Fireblocks.\n\nWith Fireblocks working with DTCC, and Hedera partner Ownera also close to DTCC, $HBAR keeps moving toward serious institutional rails.",
-    "link": "https://cryptopanic.com/news/32968899/JUST-IN-FIREBLOCKS-NOW-SUPPORTS-HBAR-TOKEN-SERVICE-Institutions-can-custody-native-hedera-tokens-and-USDC-directly-inside-Fireblocks-With-Fireblocks-working-with-DTCC-and-Hedera-partner-Ownera-also-close-to-DTCC-HBAR-keeps-moving-toward-serious-institutional-rails",
-    "source": "@realallincrypto",
-    "published": "Fri Jul 03 2026 02:00:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING NEWS: Africa’s largest crypto exchange by volume is integrating to $HYPE!\n\nVALR will use @HyperliquidX as its onchain infrastructure layer for perpetuals, bringing deep liquidity and transparency to users without them leaving VALR.\n\n$HYPE IS A BEAST!",
-    "link": "https://cryptopanic.com/news/32968900/BREAKING-NEWS-Africas-largest-crypto-exchange-by-volume-is-integrating-to-HYPE-VALR-will-use-HyperliquidX-as-its-onchain-infrastructure-layer-for-perpetuals-bringing-deep-liquidity-and-transparency-to-users-without-them-leaving-VALR-HYPE-IS-A-BEAST",
-    "source": "@realallincrypto",
-    "published": "Fri Jul 03 2026 02:00:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump Says There's Nothing 'Illegal' About His $1 Billion Crypto Income: 'I Was There Before I Was in Office'",
-    "link": "https://cryptopanic.com/news/32968838/Trump-Says-Theres-Nothing-Illegal-About-His-1-Billion-Crypto-Income-I-Was-There-Before-I-Was-in-Office",
-    "source": "feeds2.benzinga.com",
-    "published": "Fri Jul 03 2026 01:52:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BOOM... BNB Chain hits 13.5 BILLION transactions.\n\nAccording to data from @chainspect_app, the @BNBChain L1 has now processed more than 13.5 billion txns since mainnet launch, underscoring its staying power and popularity. \n\n$BNB boasts a current TVL of some $4.85 billion and is",
-    "link": "https://cryptopanic.com/news/32968805/BOOM-BNB-Chain-hits-135-BILLION-transactions-According-to-data-from-chainspect_app-the-BNBChain-L1-has-now-processed-more-than-135-billion-txns-since-mainnet-launch-underscoring-its-staying-power-and-popularity-BNB-boasts-a-current-TVL-of-some-485-billion-and-is",
-    "source": "@bscnews",
-    "published": "Fri Jul 03 2026 01:48:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "TODAY: Elon Musk's Tesla caps employee AI spending at $200 per week starting July 6, per The Information.",
-    "link": "https://cryptopanic.com/news/32968862/TODAY-Elon-Musks-Tesla-caps-employee-AI-spending-at-200-per-week-starting-July-6-per-The-Information",
-    "source": "@cointelegraph",
-    "published": "Fri Jul 03 2026 01:40:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Daily $ADA News! ️\n\nCrypto Banter: \"Bullish Cardano.\"\nCF: \"Exploring OUSD Integration.\"",
-    "link": "https://cryptopanic.com/news/32968734/Daily-ADA-News-Crypto-Banter-Bullish-Cardano-CF-Exploring-OUSD-Integration",
-    "source": "@angrycryptoshow",
-    "published": "Fri Jul 03 2026 01:28:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Gold is currently trying to form a bottom vs the S&P 500 after seeing a significant correction during the first half of the year.",
-    "link": "https://cryptopanic.com/news/32968826/Gold-is-currently-trying-to-form-a-bottom-vs-the-SampP-500-after-seeing-a-significant-correction-during-the-first-half-of-the-year",
-    "source": "@stackersatoshi",
-    "published": "Fri Jul 03 2026 01:28:03 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
