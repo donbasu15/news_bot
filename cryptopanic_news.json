@@ -1,5 +1,40 @@
 [
   {
+    "title": "Read it all",
+    "link": "https://cryptopanic.com/news/32977272/Read-it-all",
+    "source": "@cointelegraph",
+    "published": "Sat Jul 04 2026 18:30:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ALERT: Revolut will delist USDT in August, citing regulatory and risk concerns.",
+    "link": "https://cryptopanic.com/news/32977273/ALERT-Revolut-will-delist-USDT-in-August-citing-regulatory-and-risk-concerns",
+    "source": "@cointelegraph",
+    "published": "Sat Jul 04 2026 18:30:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Japanese Yen Has Been Losing Value Since 2000",
+    "link": "https://cryptopanic.com/news/32977256/Japanese-Yen-Has-Been-Losing-Value-Since-2000",
+    "source": "SimplyBitcoin",
+    "published": "Sat Jul 04 2026 18:30:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Nearly 1 million investors lost $3.8 billion on Trump’s crypto coin, per NYT",
+    "link": "https://cryptopanic.com/news/32977270/JUST-IN-Nearly-1-million-investors-lost-38-billion-on-Trumps-crypto-coin-per-NYT",
+    "source": "@cryptonwsuk",
+    "published": "Sat Jul 04 2026 18:25:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Reclaims $63,000 on 4th of July After Three Green Days",
+    "link": "https://cryptopanic.com/news/32977222/Bitcoin-Reclaims-63000-on-4th-of-July-After-Three-Green-Days",
+    "source": "coindoo.com",
+    "published": "Sat Jul 04 2026 18:23:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "‘Can not be censored’- Bitcoin proposal to block Ordinals wins under 1% support",
     "link": "https://cryptopanic.com/news/32977184/Can-not-be-censored-Bitcoin-proposal-to-block-Ordinals-wins-under-1-support",
     "source": "ambcrypto.com",
@@ -28,6 +63,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Nearly 1 Million TRUMP Meme Coin Buyers Lost $3.81 Billion: Is the Cycle Complete?",
+    "link": "https://cryptopanic.com/news/32977262/Nearly-1-Million-TRUMP-Meme-Coin-Buyers-Lost-381-Billion-Is-the-Cycle-Complete",
+    "source": "beincrypto.com",
+    "published": "Sat Jul 04 2026 17:55:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Six Addresses Buy 12,128 ETH and Transfer It to Tornado Cash",
     "link": "https://cryptopanic.com/news/32977163/Six-Addresses-Buy-12128-ETH-and-Transfer-It-to-Tornado-Cash",
     "source": "coincu.com",
@@ -53,6 +95,13 @@
     "link": "https://cryptopanic.com/news/32977159/JUST-IN-Bitcoin-reclaims-63000",
     "source": "@watcherguru",
     "published": "Sat Jul 04 2026 17:34:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Update on Canary HBR holdings",
+    "link": "https://cryptopanic.com/news/32977225/Update-on-Canary-HBR-holdings",
+    "source": "r/hedera",
+    "published": "Sat Jul 04 2026 17:33:46 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -158,55 +207,6 @@
     "link": "https://cryptopanic.com/news/32977069/BREAKING-Cryptos-total-market-cap-has-surged-by-around-90B-over-the-past-week-alone",
     "source": "@cryptonwsuk",
     "published": "Sat Jul 04 2026 16:51:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Insiders Know Something the Public Doesn’t | Cantor Fitzgerald Just Revealed It!",
-    "link": "https://cryptopanic.com/news/32977009/Bitcoin-Insiders-Know-Something-the-Public-Doesnt-Cantor-Fitzgerald-Just-Revealed-It",
-    "source": "SimplyBitcoin",
-    "published": "Sat Jul 04 2026 16:50:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Fed balance sheet has grown by +$189B over the past 7 months after the Fed stopped shrinking it in December.",
-    "link": "https://cryptopanic.com/news/32977011/The-Fed-balance-sheet-has-grown-by-189B-over-the-past-7-months-after-the-Fed-stopped-shrinking-it-in-December",
-    "source": "@stackersatoshi",
-    "published": "Sat Jul 04 2026 16:45:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bluechip Crypto Assets Move Together as $1.71 Trillion Market Tests Recovery",
-    "link": "https://cryptopanic.com/news/32977139/Bluechip-Crypto-Assets-Move-Together-as-171-Trillion-Market-Tests-Recovery",
-    "source": "coinpedia.org",
-    "published": "Sat Jul 04 2026 16:32:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Aave’s new Monad market tops $100 million in deposits two days after launch",
-    "link": "https://cryptopanic.com/news/32976945/Aaves-new-Monad-market-tops-100-million-in-deposits-two-days-after-launch",
-    "source": "theblock.co",
-    "published": "Sat Jul 04 2026 16:32:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Roughly $90B has been added to Crypto's Total Market Cap in the past 7 days",
-    "link": "https://cryptopanic.com/news/32976931/UPDATE-Roughly-90B-has-been-added-to-Cryptos-Total-Market-Cap-in-the-past-7-days",
-    "source": "@cointelegraph",
-    "published": "Sat Jul 04 2026 16:30:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Charles Hoskinson Bets Cardano Will Rival XRP Ledger’s Speed After the Leios Upgrade",
-    "link": "https://cryptopanic.com/news/32977104/Charles-Hoskinson-Bets-Cardano-Will-Rival-XRP-Ledgers-Speed-After-the-Leios-Upgrade",
-    "source": "beincrypto.com",
-    "published": "Sat Jul 04 2026 16:28:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Spot $LINK ETFs flip positive after first ever week of net outflows.\n\nSpot @Chainlink ETFs clocked combined net inflows of +$915K this week, after bleeding some -$218K the week prior.\n\nAt time of writing, the products have still seen just one single day of net outflows, falling",
-    "link": "https://cryptopanic.com/news/32976990/Spot-LINK-ETFs-flip-positive-after-first-ever-week-of-net-outflows-Spot-Chainlink-ETFs-clocked-combined-net-inflows-of-915K-this-week-after-bleeding-some-218K-the-week-prior-At-time-of-writing-the-products-have-still-seen-just-one-single-day-of-net-outflows-falling",
-    "source": "@bscnews",
-    "published": "Sat Jul 04 2026 16:21:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
