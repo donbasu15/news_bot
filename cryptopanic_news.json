@@ -1,5 +1,33 @@
 [
   {
+    "title": "UPDATE: Bitcoin's US ETFs see their 8th consecutive weekly net outflow.",
+    "link": "https://cryptopanic.com/news/32974886/UPDATE-Bitcoins-US-ETFs-see-their-8th-consecutive-weekly-net-outflow",
+    "source": "@cointelegraph",
+    "published": "Sat Jul 04 2026 03:30:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP taker buy-sell ratio hits 2026 high, but on-chain signals remain mixed",
+    "link": "https://cryptopanic.com/news/32974862/XRP-taker-buy-sell-ratio-hits-2026-high-but-on-chain-signals-remain-mixed",
+    "source": "ambcrypto.com",
+    "published": "Sat Jul 04 2026 03:30:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇪🇺 The European Securities and Markets Authority warns many prediction market event contracts may already fall under its 2018 binary options ban on retail sales.",
+    "link": "https://cryptopanic.com/news/32974884/LATEST-The-European-Securities-and-Markets-Authority-warns-many-prediction-market-event-contracts-may-already-fall-under-its-2018-binary-options-ban-on-retail-sales",
+    "source": "@coinmarketcap",
+    "published": "Sat Jul 04 2026 03:30:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JPMorgan forecasts gold at $4,500 per ounce by Q4 2026, cites weaker demand",
+    "link": "https://cryptopanic.com/news/32974855/JPMorgan-forecasts-gold-at-4500-per-ounce-by-Q4-2026-cites-weaker-demand",
+    "source": "cryptopolitan.com",
+    "published": "Sat Jul 04 2026 03:19:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Binance Records $213M Net USDT Inflows in 24 Hours",
     "link": "https://cryptopanic.com/news/32974825/Binance-Records-213M-Net-USDT-Inflows-in-24-Hours",
     "source": "coincu.com",
@@ -18,6 +46,13 @@
     "link": "https://cryptopanic.com/news/32974790/Revoluts-12M-AVAX-sale-raises-questions-Why-do-THESE-metrics-favor-bulls",
     "source": "ambcrypto.com",
     "published": "Sat Jul 04 2026 03:00:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Overtakes Bitcoin in Upbit Trading Volume – Here Is Why the $1.15 Level Could Decide the Next Breakout",
+    "link": "https://cryptopanic.com/news/32974854/XRP-Overtakes-Bitcoin-in-Upbit-Trading-Volume-Here-Is-Why-the-115-Level-Could-Decide-the-Next-Breakout",
+    "source": "blocknews.com",
+    "published": "Sat Jul 04 2026 02:40:08 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/32974419/JPMorgans-Tokenized-Fund-Surges-to-695-Million-in-Just-Seven-Weeks-Here-Is-Why-Wall-Streets-Blockchain-Push-Is-Accelerating",
     "source": "blocknews.com",
     "published": "Sat Jul 04 2026 00:35:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ENS Labs Operations Director Brantly Millegan Says He Is Leaving ENS and Shutting Down Ethid.org",
-    "link": "https://cryptopanic.com/news/32974651/ENS-Labs-Operations-Director-Brantly-Millegan-Says-He-Is-Leaving-ENS-and-Shutting-Down-Ethidorg",
-    "source": "square.binance.com",
-    "published": "Sat Jul 04 2026 00:33:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "F2Pool Co-Founder Wang Chun Deposits 9,876 ETH to a CEX Wallet, On-Chain Data Shows",
-    "link": "https://cryptopanic.com/news/32974650/F2Pool-Co-Founder-Wang-Chun-Deposits-9876-ETH-to-a-CEX-Wallet-On-Chain-Data-Shows",
-    "source": "square.binance.com",
-    "published": "Sat Jul 04 2026 00:33:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The one spot Hedera ETF just saw its biggest inflows since May 15!\n\nCanary's spot @Hedera ETF clocked +$989k in net inflows on July 2.\n\nThis amounted to the first inflows the product has seen since June 12 and the biggest single day of inflows since May 15, which saw +$1.01M flow",
-    "link": "https://cryptopanic.com/news/32974307/The-one-spot-Hedera-ETF-just-saw-its-biggest-inflows-since-May-15-Canarys-spot-Hedera-ETF-clocked-989k-in-net-inflows-on-July-2-This-amounted-to-the-first-inflows-the-product-has-seen-since-June-12-and-the-biggest-single-day-of-inflows-since-May-15-which-saw-101M-flow",
-    "source": "@bscnews",
-    "published": "Sat Jul 04 2026 00:33:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INSIGHT: The U.S. money supply has reached a record $23T for the first time ever.",
-    "link": "https://cryptopanic.com/news/32974270/INSIGHT-The-US-money-supply-has-reached-a-record-23T-for-the-first-time-ever",
-    "source": "@cointelegraph",
-    "published": "Sat Jul 04 2026 00:30:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Iran Warns US Not to Violate Iran-US Memorandum of Understanding",
-    "link": "https://cryptopanic.com/news/32974649/Iran-Warns-US-Not-to-Violate-Iran-US-Memorandum-of-Understanding",
-    "source": "square.binance.com",
-    "published": "Sat Jul 04 2026 00:22:41 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
