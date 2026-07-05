@@ -1,5 +1,33 @@
 [
   {
+    "title": "Vitalik Buterin maps ‘Lean Ethereum’ as the network’s third major overhaul",
+    "link": "https://cryptopanic.com/news/32979686/Vitalik-Buterin-maps-Lean-Ethereum-as-the-networks-third-major-overhaul",
+    "source": "cryptopolitan.com",
+    "published": "Sun Jul 05 2026 14:15:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "How Ethereum’s ‘Lean’ roadmap could reshape ETH over the next 4 years",
+    "link": "https://cryptopanic.com/news/32979634/How-Ethereums-Lean-roadmap-could-reshape-ETH-over-the-next-4-years",
+    "source": "ambcrypto.com",
+    "published": "Sun Jul 05 2026 14:00:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Solana Price Prediction as SOL Signals Recovery Toward $100",
+    "link": "https://cryptopanic.com/news/32979627/Solana-Price-Prediction-as-SOL-Signals-Recovery-Toward-100",
+    "source": "coinpaper.com",
+    "published": "Sun Jul 05 2026 13:56:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Inches Toward Major Breakout as Symmetrical Triangle Narrows with $2 Beckoning",
+    "link": "https://cryptopanic.com/news/32979626/XRP-Inches-Toward-Major-Breakout-as-Symmetrical-Triangle-Narrows-with-2-Beckoning",
+    "source": "coinpaper.com",
+    "published": "Sun Jul 05 2026 13:55:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "The One Habit That Separates the Rich From the Poor",
     "link": "https://cryptopanic.com/news/32979625/The-One-Habit-That-Separates-the-Rich-From-the-Poor",
     "source": "AnthonyPompliano",
@@ -14,10 +42,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "9 Things Michael Saylor Believes About The Next Decade for Bitcoin",
+    "link": "https://cryptopanic.com/news/32979660/9-Things-Michael-Saylor-Believes-About-The-Next-Decade-for-Bitcoin",
+    "source": "beincrypto.com",
+    "published": "Sun Jul 05 2026 13:38:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "The integrations keep coming for $LINK! \n\nTwo of the hottest crypto platforms @RobinhoodApp and @world_xyz both integrated with @chainlink recently.\n\nWho’s next?",
     "link": "https://cryptopanic.com/news/32979620/The-integrations-keep-coming-for-LINK-Two-of-the-hottest-crypto-platforms-RobinhoodApp-and-world_xyz-both-integrated-with-chainlink-recently-Whos-next",
     "source": "@bscnews",
     "published": "Sun Jul 05 2026 13:37:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Foundation Transfers 2,469 stETH to Argot as Fourth-Year Grant \n\nAccording to @EmberCN, the Ethereum Foundation transferred 2,469 stETH ($4.34M) to Ethereum non-profit developer organization Argot as the fourth-year installment of its five-year funding commitment. The",
+    "link": "https://cryptopanic.com/news/32979674/Ethereum-Foundation-Transfers-2469-stETH-to-Argot-as-Fourth-Year-Grant-According-to-EmberCN-the-Ethereum-Foundation-transferred-2469-stETH-434M-to-Ethereum-non-profit-developer-organization-Argot-as-the-fourth-year-installment-of-its-five-year-funding-commitment-The",
+    "source": "@wublockchain",
+    "published": "Sun Jul 05 2026 13:33:20 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -56,6 +98,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Trump Crypto Profits Hit $1B as Bitcoin Crashes 50% From Its ATH",
+    "link": "https://cryptopanic.com/news/32979668/Trump-Crypto-Profits-Hit-1B-as-Bitcoin-Crashes-50-From-Its-ATH",
+    "source": "99bitcoins.com",
+    "published": "Sun Jul 05 2026 13:13:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Crypto trader turns $750 into $270,000 in 2 days",
     "link": "https://cryptopanic.com/news/32979538/Crypto-trader-turns-750-into-270000-in-2-days",
     "source": "finbold.com",
@@ -88,6 +137,20 @@
     "link": "https://cryptopanic.com/news/32979518/Three-Top-Crypto-Firms-Gave-Three-Different-Bitcoin-Predictions",
     "source": "MilkRoadYoutube",
     "published": "Sun Jul 05 2026 13:00:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Kalshi and prediction market sector embroiled in mixed bag of legal fights across U.S.",
+    "link": "https://cryptopanic.com/news/32979636/Kalshi-and-prediction-market-sector-embroiled-in-mixed-bag-of-legal-fights-across-US",
+    "source": "coindesk.com",
+    "published": "Sun Jul 05 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Collateral, not yield, will decide which stablecoins win",
+    "link": "https://cryptopanic.com/news/32979637/Collateral-not-yield-will-decide-which-stablecoins-win",
+    "source": "coindesk.com",
+    "published": "Sun Jul 05 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -144,69 +207,6 @@
     "link": "https://cryptopanic.com/news/32979491/NEW-Vitalik-Buterin-unveiled-a-new-Lean-Ethereum-roadmap-prioritizing-quantum-resistance-privacy-and-scalability-over-the-next-34-years",
     "source": "@cointelegraph",
     "published": "Sun Jul 05 2026 12:30:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Costco Accused of Concealing Heart Risks in Kirkland Grain-Free Dog Food",
-    "link": "https://cryptopanic.com/news/32979471/Costco-Accused-of-Concealing-Heart-Risks-in-Kirkland-Grain-Free-Dog-Food",
-    "source": "dailyhodl.com",
-    "published": "Sun Jul 05 2026 12:30:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Michael Saylor hints at buying more Bitcoin. \n\n\"Bitcoin is Digital Energy.\"",
-    "link": "https://cryptopanic.com/news/32979443/JUST-IN-Michael-Saylor-hints-at-buying-more-Bitcoin-Bitcoin-is-Digital-Energy",
-    "source": "@watcherguru",
-    "published": "Sun Jul 05 2026 12:21:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Pushing through the FUD \nwith more Bitcoin buys!",
-    "link": "https://cryptopanic.com/news/32979444/Pushing-through-the-FUD-with-more-Bitcoin-buys",
-    "source": "@btc_archive",
-    "published": "Sun Jul 05 2026 12:09:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "For the complete article and weekly curated reports, subscribe to our Substack",
-    "link": "https://cryptopanic.com/news/32979488/For-the-complete-article-and-weekly-curated-reports-subscribe-to-our-Substack",
-    "source": "@wublockchain",
-    "published": "Sun Jul 05 2026 12:08:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Asia’s weekly TOP10 crypto news: Korea New Token Listings Plunge 74%, India USDT Premium Hits 8.5%, Binance Officially Enters Philippine Market, Taiwan Passes Crypto Law, Russia Proposes 48-Hour Crypto Transfer Delay.",
-    "link": "https://cryptopanic.com/news/32979487/Asias-weekly-TOP10-crypto-news-Korea-New-Token-Listings-Plunge-74-India-USDT-Premium-Hits-85-Binance-Officially-Enters-Philippine-Market-Taiwan-Passes-Crypto-Law-Russia-Proposes-48-Hour-Crypto-Transfer-Delay",
-    "source": "@wublockchain",
-    "published": "Sun Jul 05 2026 12:07:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: 🇬🇧 UK to reportedly launch scheme rewarding people who walk 30 minutes a day with “incentives and discounts.”",
-    "link": "https://cryptopanic.com/news/32979490/NEW-UK-to-reportedly-launch-scheme-rewarding-people-who-walk-30-minutes-a-day-with-incentives-and-discounts",
-    "source": "@cryptonwsuk",
-    "published": "Sun Jul 05 2026 12:07:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Michael Saylor hints at Strategy buying more Bitcoin",
-    "link": "https://cryptopanic.com/news/32979442/JUST-IN-Michael-Saylor-hints-at-Strategy-buying-more-Bitcoin",
-    "source": "@bitcoinmagazine",
-    "published": "Sun Jul 05 2026 12:06:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Aerodrome Finance: Can AERO target $0.65 after a 22% weekly rally?",
-    "link": "https://cryptopanic.com/news/32979380/Aerodrome-Finance-Can-AERO-target-065-after-a-22-weekly-rally",
-    "source": "ambcrypto.com",
-    "published": "Sun Jul 05 2026 12:00:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BTC! The 250 Year Old Opt-Out Solution?",
-    "link": "https://cryptopanic.com/news/32979393/BTC-The-250-Year-Old-Opt-Out-Solution",
-    "source": "SimplyBitcoin",
-    "published": "Sun Jul 05 2026 12:00:28 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
