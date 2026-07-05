@@ -1,5 +1,26 @@
 [
   {
+    "title": "🇿🇦 TAX: The South African Revenue Service plans to audit around 6 million crypto users.",
+    "link": "https://cryptopanic.com/news/32978629/TAX-The-South-African-Revenue-Service-plans-to-audit-around-6-million-crypto-users",
+    "source": "@cointelegraph",
+    "published": "Sun Jul 05 2026 06:30:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Aave Rally Renews Debate Over DeFi Bank Valuations",
+    "link": "https://cryptopanic.com/news/32978610/Aave-Rally-Renews-Debate-Over-DeFi-Bank-Valuations",
+    "source": "catenaa.com",
+    "published": "Sun Jul 05 2026 06:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Aave hits $100M in Monad deposits within 48 hours of launch",
+    "link": "https://cryptopanic.com/news/32978611/Aave-hits-100M-in-Monad-deposits-within-48-hours-of-launch",
+    "source": "cryptopolitan.com",
+    "published": "Sun Jul 05 2026 06:26:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "4,932.87 BTC Hit CEXs in 7 Days, Binance Draws 2,006.76",
     "link": "https://cryptopanic.com/news/32978588/493287-BTC-Hit-CEXs-in-7-Days-Binance-Draws-200676",
     "source": "coincu.com",
@@ -11,6 +32,13 @@
     "link": "https://cryptopanic.com/news/32978565/BREAKING-The-US-officially-breaks-the-world-record-for-largest-fireworks-show-in-history",
     "source": "@cryptonwsuk",
     "published": "Sun Jul 05 2026 05:48:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto Forensics Got Smarter, But AI Scammers Got There First",
+    "link": "https://cryptopanic.com/news/32978614/Crypto-Forensics-Got-Smarter-But-AI-Scammers-Got-There-First",
+    "source": "beincrypto.com",
+    "published": "Sun Jul 05 2026 05:42:51 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/32978329/WORLD-CUP-Tuchel-says-England-treated-respectfully-in-Mexico-ahead-of-last-16-tie",
     "source": "square.binance.com",
     "published": "Sun Jul 05 2026 02:34:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Read the full story",
-    "link": "https://cryptopanic.com/news/32978173/Read-the-full-story",
-    "source": "@cointelegraph",
-    "published": "Sun Jul 05 2026 02:30:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "DATA: Bitcoin’s realized profit/loss ratio just hit a 43-month low.\n\nThis is a level that has historically marked major market bottoms.",
-    "link": "https://cryptopanic.com/news/32978171/DATA-Bitcoins-realized-profitloss-ratio-just-hit-a-43-month-low-This-is-a-level-that-has-historically-marked-major-market-bottoms",
-    "source": "@cointelegraph",
-    "published": "Sun Jul 05 2026 02:30:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "World Cup Day 24: Mbappé Penalty Sends France Through as Morocco Storm Into Quarter-Finals",
-    "link": "https://cryptopanic.com/news/32978328/World-Cup-Day-24-Mbappe-Penalty-Sends-France-Through-as-Morocco-Storm-Into-Quarter-Finals",
-    "source": "square.binance.com",
-    "published": "Sun Jul 05 2026 02:25:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "STOCKS | Investors Seek Shelter in India After Missing Global AI Rally",
-    "link": "https://cryptopanic.com/news/32978327/STOCKS-Investors-Seek-Shelter-in-India-After-Missing-Global-AI-Rally",
-    "source": "square.binance.com",
-    "published": "Sun Jul 05 2026 02:19:12 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
