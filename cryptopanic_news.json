@@ -1,5 +1,19 @@
 [
   {
+    "title": "LATEST: Coinbase unveiled a sweeping expansion across tokenized stocks, AI, derivatives, payments, and onchain finance.\n\nThe goal? Everything on one platform.",
+    "link": "https://cryptopanic.com/news/32979937/LATEST-Coinbase-unveiled-a-sweeping-expansion-across-tokenized-stocks-AI-derivatives-payments-and-onchain-finance-The-goal-Everything-on-one-platform",
+    "source": "@cointelegraph",
+    "published": "Sun Jul 05 2026 15:30:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "US Homeland Security Information Network Hit by Cyber Intruders, Exposing Sensitive Government Data",
+    "link": "https://cryptopanic.com/news/32979929/US-Homeland-Security-Information-Network-Hit-by-Cyber-Intruders-Exposing-Sensitive-Government-Data",
+    "source": "dailyhodl.com",
+    "published": "Sun Jul 05 2026 15:29:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Post-quantum security without slowing down verification?\n\n@bmartins_ explains how Falcon can verify on @Algorand VM in roughly the same time as Ed25519, with the main trade-off being larger signatures.\n\n#Algorand #PostQuantum #Crypto",
     "link": "https://cryptopanic.com/news/32979817/Post-quantum-security-without-slowing-down-verification-bmartins_-explains-how-Falcon-can-verify-on-Algorand-VM-in-roughly-the-same-time-as-Ed25519-with-the-main-trade-off-being-larger-signatures-Algorand-PostQuantum-Crypto",
     "source": "@realallincrypto",
@@ -53,6 +67,13 @@
     "link": "https://cryptopanic.com/news/32979774/ccatalini-says-Open-Standards-biggest-challenge-may-be-proving-it-can-operate-as-a-truly-neutral-organization-He-says-its-leadership-will-need-to-convince-the-industry-that-its-not-going-to-play-favorites-He-says-its-leadership-will-need-to-convince-the-industry-that",
     "source": "@coindesk",
     "published": "Sun Jul 05 2026 14:58:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Anthropic Faces a New $75 Million Lawsuit for Pirating Books to Train Claude AI",
+    "link": "https://cryptopanic.com/news/32979880/Anthropic-Faces-a-New-75-Million-Lawsuit-for-Pirating-Books-to-Train-Claude-AI",
+    "source": "beincrypto.com",
+    "published": "Sun Jul 05 2026 14:53:53 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -186,27 +207,6 @@
     "link": "https://cryptopanic.com/news/32979620/The-integrations-keep-coming-for-LINK-Two-of-the-hottest-crypto-platforms-RobinhoodApp-and-world_xyz-both-integrated-with-chainlink-recently-Whos-next",
     "source": "@bscnews",
     "published": "Sun Jul 05 2026 13:37:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum Foundation Transfers 2,469 stETH to Argot as Fourth-Year Grant \n\nAccording to @EmberCN, the Ethereum Foundation transferred 2,469 stETH ($4.34M) to Ethereum non-profit developer organization Argot as the fourth-year installment of its five-year funding commitment. The",
-    "link": "https://cryptopanic.com/news/32979674/Ethereum-Foundation-Transfers-2469-stETH-to-Argot-as-Fourth-Year-Grant-According-to-EmberCN-the-Ethereum-Foundation-transferred-2469-stETH-434M-to-Ethereum-non-profit-developer-organization-Argot-as-the-fourth-year-installment-of-its-five-year-funding-commitment-The",
-    "source": "@wublockchain",
-    "published": "Sun Jul 05 2026 13:33:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto hacks hit a record count but the biggest threat isn’t smart contracts",
-    "link": "https://cryptopanic.com/news/32979580/Crypto-hacks-hit-a-record-count-but-the-biggest-threat-isnt-smart-contracts",
-    "source": "cryptoslate.com",
-    "published": "Sun Jul 05 2026 13:30:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇨🇳 IPO: Chinese robotics firm Unitree won approval for a $619 million Shanghai IPO to expand its AI-powered robot business.",
-    "link": "https://cryptopanic.com/news/32979572/IPO-Chinese-robotics-firm-Unitree-won-approval-for-a-619-million-Shanghai-IPO-to-expand-its-AI-powered-robot-business",
-    "source": "@cointelegraph",
-    "published": "Sun Jul 05 2026 13:30:27 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
