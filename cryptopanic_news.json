@@ -1,5 +1,19 @@
 [
   {
+    "title": "Dogecoin nears 50K active addresses – Why $0.082 is DOGE’s next hurdle",
+    "link": "https://cryptopanic.com/news/32980436/Dogecoin-nears-50K-active-addresses-Why-0082-is-DOGEs-next-hurdle",
+    "source": "ambcrypto.com",
+    "published": "Sun Jul 05 2026 20:00:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Vitalik Buterin says Ethereum’s next rebuild will rival the Merge, and take three to four years",
+    "link": "https://cryptopanic.com/news/32980426/Vitalik-Buterin-says-Ethereums-next-rebuild-will-rival-the-Merge-and-take-three-to-four-years",
+    "source": "theblock.co",
+    "published": "Sun Jul 05 2026 19:56:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Germany’s Top Bank Quietly Expands Its Use of Ripple Tech",
     "link": "https://cryptopanic.com/news/32980386/Germanys-Top-Bank-Quietly-Expands-Its-Use-of-Ripple-Tech",
     "source": "dailycoin.com",
@@ -25,6 +39,20 @@
     "link": "https://cryptopanic.com/news/32980368/Nvidia-Server-Supplier-Hon-Hai-Records-40-Jump-In-Sales-Q2",
     "source": "catenaa.com",
     "published": "Sun Jul 05 2026 19:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Nvidia’s New Way to Profit From the AI Boom: Will Startups Pay Up?",
+    "link": "https://cryptopanic.com/news/32980470/Nvidias-New-Way-to-Profit-From-the-AI-Boom-Will-Startups-Pay-Up",
+    "source": "beincrypto.com",
+    "published": "Sun Jul 05 2026 19:28:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Options Turn Call-Heavy Before July 8 FOMC Minutes: Will BTC Break $63,000?",
+    "link": "https://cryptopanic.com/news/32980469/Bitcoin-Options-Turn-Call-Heavy-Before-July-8-FOMC-Minutes-Will-BTC-Break-63000",
+    "source": "beincrypto.com",
+    "published": "Sun Jul 05 2026 19:26:44 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/32980081/EXPLAINED-Bitcoin-Ethereum-and-the-broader-crypto-market-remained-down-in-June-but-multiple-data-points-including-the-strength-of-the-relief-rally-may-be-a-sign-that-bulls-will-rule-July-With-all-of-that-in-the-background-what-should-we-expect-for-the-crypto-market",
     "source": "@coinmarketcap",
     "published": "Sun Jul 05 2026 16:30:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$SOL Down slightly today but still holding above that $78 range low.\n\nThis level has held for a while now and the bulls need to defend it on this little dip.\n\nIf bulls can get a daily close over $98, that'd confirm the recovery is extending and probably the rally goes on",
-    "link": "https://cryptopanic.com/news/32980118/SOL-Down-slightly-today-but-still-holding-above-that-78-range-low-This-level-has-held-for-a-while-now-and-the-bulls-need-to-defend-it-on-this-little-dip-If-bulls-can-get-a-daily-close-over-98-thatd-confirm-the-recovery-is-extending-and-probably-the-rally-goes-on",
-    "source": "@daancrypto",
-    "published": "Sun Jul 05 2026 16:28:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Vitalik Buterin Unveils ‘Lean Ethereum’ for Multi-Year Shift",
-    "link": "https://cryptopanic.com/news/32980087/Vitalik-Buterin-Unveils-Lean-Ethereum-for-Multi-Year-Shift",
-    "source": "cryptodnes.bg",
-    "published": "Sun Jul 05 2026 16:02:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Litecoin is about to get smart contracts for the first time\n\n@LitecoinVM, an EVM-compatible ZK rollup, brings DeFi and tokenization to @litecoin without touching its base layer. Its testnet has processed 75M+ transactions since April, with Charlie Lee advising and Nasdaq-listed",
-    "link": "https://cryptopanic.com/news/32980119/Litecoin-is-about-to-get-smart-contracts-for-the-first-time-LitecoinVM-an-EVM-compatible-ZK-rollup-brings-DeFi-and-tokenization-to-litecoin-without-touching-its-base-layer-Its-testnet-has-processed-75M-transactions-since-April-with-Charlie-Lee-advising-and-Nasdaq-listed",
-    "source": "@bscnews",
-    "published": "Sun Jul 05 2026 16:01:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cathie Wood Says Inflation Is About To Die",
-    "link": "https://cryptopanic.com/news/32980049/Cathie-Wood-Says-Inflation-Is-About-To-Die",
-    "source": "TheCryptoLark",
-    "published": "Sun Jul 05 2026 16:00:32 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
