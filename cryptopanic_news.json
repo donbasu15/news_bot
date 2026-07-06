@@ -1,5 +1,12 @@
 [
   {
+    "title": "Kospi Opens Over 2% as Samsung and SK Hynix Lead Chip Rally",
+    "link": "https://cryptopanic.com/news/32981199/Kospi-Opens-Over-2-as-Samsung-and-SK-Hynix-Lead-Chip-Rally",
+    "source": "beincrypto.com",
+    "published": "Mon Jul 06 2026 01:27:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "BIG: US tech funds saw $14.3B in inflows the week of July 1, the second-biggest on record, putting 2026 on pace for an all-time high $152B.",
     "link": "https://cryptopanic.com/news/32981128/BIG-US-tech-funds-saw-143B-in-inflows-the-week-of-July-1-the-second-biggest-on-record-putting-2026-on-pace-for-an-all-time-high-152B",
     "source": "@cointelegraph",
@@ -18,6 +25,13 @@
     "link": "https://cryptopanic.com/news/32981090/Someone-swapped-112644-ETH201M-for-only-5776-LIT14208-losing-nearly-2M",
     "source": "@lookonchain",
     "published": "Mon Jul 06 2026 01:12:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Price Spikes Near $64,000 as Short Sellers Get Liquidated",
+    "link": "https://cryptopanic.com/news/32981198/Bitcoin-Price-Spikes-Near-64000-as-Short-Sellers-Get-Liquidated",
+    "source": "beincrypto.com",
+    "published": "Mon Jul 06 2026 01:04:38 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/32980692/Pentagon-DARPAs-Secret-Program-Exposed",
     "source": "SimplyBitcoin",
     "published": "Sun Jul 05 2026 22:00:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Avalanche crosses the 1.4 billion transaction milestone.\n\nThe @avax network has now processed some 1.41 billion transactions, according to @chainspect_app data.\n\nAt the same time, it currently is supported by some 600 different validators and has a real-time TPS of nearly 40",
-    "link": "https://cryptopanic.com/news/32980668/Avalanche-crosses-the-14-billion-transaction-milestone-The-avax-network-has-now-processed-some-141-billion-transactions-according-to-chainspect_app-data-At-the-same-time-it-currently-is-supported-by-some-600-different-validators-and-has-a-real-time-TPS-of-nearly-40",
-    "source": "@bscnews",
-    "published": "Sun Jul 05 2026 21:59:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UK Crypto Rulebook Cuts Stablecoin Capital Requirement To 1%",
-    "link": "https://cryptopanic.com/news/32980640/UK-Crypto-Rulebook-Cuts-Stablecoin-Capital-Requirement-To-1",
-    "source": "newsbtc.com",
-    "published": "Sun Jul 05 2026 21:40:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
