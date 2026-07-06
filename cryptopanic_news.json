@@ -1,5 +1,82 @@
 [
   {
+    "title": "Solana Reclaims No. 1 Spot for Network REV After 4 Months as Onchain Demand Explodes",
+    "link": "https://cryptopanic.com/news/32986293/Solana-Reclaims-No-1-Spot-for-Network-REV-After-4-Months-as-Onchain-Demand-Explodes",
+    "source": "solanafloor.com",
+    "published": "Mon Jul 06 2026 18:37:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ENS DAO Proposes 5M ENS Delegation in Governance Overhaul",
+    "link": "https://cryptopanic.com/news/32986627/ENS-DAO-Proposes-5M-ENS-Delegation-in-Governance-Overhaul",
+    "source": "coincu.com",
+    "published": "Mon Jul 06 2026 18:36:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BREAKING: Michael Saylor SOLD Bitcoin ... Again! (Here's What it Means For The Price) | EP 1541",
+    "link": "https://cryptopanic.com/news/32985589/BREAKING-Michael-Saylor-SOLD-Bitcoin-Again-Heres-What-it-Means-For-The-Price-EP-1541",
+    "source": "SimplyBitcoin",
+    "published": "Mon Jul 06 2026 18:36:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Strategy is keeping all options open.",
+    "link": "https://cryptopanic.com/news/32986598/Strategy-is-keeping-all-options-open",
+    "source": "@btc_archive",
+    "published": "Mon Jul 06 2026 18:32:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BULLISH: President Trump says crypto is \"very powerful.\"",
+    "link": "https://cryptopanic.com/news/32986642/BULLISH-President-Trump-says-crypto-is-very-powerful",
+    "source": "@cointelegraph",
+    "published": "Mon Jul 06 2026 18:30:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Polymarket  Billionaire Tech Secrets Revealed?!",
+    "link": "https://cryptopanic.com/news/32986620/Polymarket-Billionaire-Tech-Secrets-Revealed",
+    "source": "SimplyBitcoin",
+    "published": "Mon Jul 06 2026 18:30:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  17,527 BTC was moved in June by 31 addresses named in a New York lawsuit attempting to claim the coins as lost property, according to Galaxy’s Alex Thorn.",
+    "link": "https://cryptopanic.com/news/32986637/LATEST-17527-BTC-was-moved-in-June-by-31-addresses-named-in-a-New-York-lawsuit-attempting-to-claim-the-coins-as-lost-property-according-to-Galaxys-Alex-Thorn",
+    "source": "@coinmarketcap",
+    "published": "Mon Jul 06 2026 18:25:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Lark Davis says \"#Cardano is up big time in the last few days. $ADA holders, congratulations, you're up 41% off of these incredible lows.\"",
+    "link": "https://cryptopanic.com/news/32986638/JUST-IN-Lark-Davis-says-Cardano-is-up-big-time-in-the-last-few-days-ADA-holders-congratulations-youre-up-41-off-of-these-incredible-lows",
+    "source": "@angrycryptoshow",
+    "published": "Mon Jul 06 2026 18:20:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Crushes Bitcoin With 2X Trading Volume on Upbit",
+    "link": "https://cryptopanic.com/news/32986532/XRP-Crushes-Bitcoin-With-2X-Trading-Volume-on-Upbit",
+    "source": "coinpaper.com",
+    "published": "Mon Jul 06 2026 18:16:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "DATA: @Circle’s $USDC accounted for roughly 70% of adjusted stablecoin transaction volume in the first half of 2026, compared with about 25% for @Tether’s $USDT, according to Visa data.\n\nRead the full story by Olivier Acuna on CoinDesk",
+    "link": "https://cryptopanic.com/news/32986640/DATA-Circles-USDC-accounted-for-roughly-70-of-adjusted-stablecoin-transaction-volume-in-the-first-half-of-2026-compared-with-about-25-for-Tethers-USDT-according-to-Visa-data-Read-the-full-story-by-Olivier-Acuna-on-CoinDesk",
+    "source": "@coindesk",
+    "published": "Mon Jul 06 2026 18:15:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Reclaims $63,000 as Ethereum, XRP, Dogecoin Stay Resilient Despite Saylor’s Major BTC Sale",
+    "link": "https://cryptopanic.com/news/32986586/Bitcoin-Reclaims-63000-as-Ethereum-XRP-Dogecoin-Stay-Resilient-Despite-Saylors-Major-BTC-Sale",
+    "source": "feeds2.benzinga.com",
+    "published": "Mon Jul 06 2026 18:14:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Microsoft Layoffs 3200 Jobs From Struggling Xbox Business",
     "link": "https://cryptopanic.com/news/32986450/Microsoft-Layoffs-3200-Jobs-From-Struggling-Xbox-Business",
     "source": "catenaa.com",
@@ -11,6 +88,20 @@
     "link": "https://cryptopanic.com/news/32986416/Trump-Bitcoin-Conference-Keynote-Puts-Crypto-Policy-Back-In-The-Political-Spotlight",
     "source": "newsbtc.com",
     "published": "Mon Jul 06 2026 18:03:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: BONKDAO TREASURY DRAINED OF $20M IN $BONK TOKENS VIA MALICIOUS GOVERNANCE PROPOSAL | PER BONK X",
+    "link": "https://cryptopanic.com/news/32986590/INTEL-BONKDAO-TREASURY-DRAINED-OF-20M-IN-BONK-TOKENS-VIA-MALICIOUS-GOVERNANCE-PROPOSAL-PER-BONK-X",
+    "source": "@solidintel_x",
+    "published": "Mon Jul 06 2026 18:00:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Vitalik’s anonymity challenge now has a winner. \n\nVitalik says his prose obfuscation failed because AI picked up deeper reasoning patterns beyond surface-level writing style.",
+    "link": "https://cryptopanic.com/news/32986641/UPDATE-Vitaliks-anonymity-challenge-now-has-a-winner-Vitalik-says-his-prose-obfuscation-failed-because-AI-picked-up-deeper-reasoning-patterns-beyond-surface-level-writing-style",
+    "source": "@cointelegraph",
+    "published": "Mon Jul 06 2026 18:00:41 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -46,6 +137,13 @@
     "link": "https://cryptopanic.com/news/32986392/USDC-Extends-Lead-Over-USDT-to-70-of-Volume-in-2026",
     "source": "bankless.com",
     "published": "Mon Jul 06 2026 17:56:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "THE 2026 BITCON ASIA WHALE PASS EXPERIENCE IS GOING TO BE UNFORGETTABLE! \n\nAs a Whale you receive private lounge access, best in class parties, backstage sessions with top speakers, front row seating, and all inclusive hospitality across both days   \n\nGet Your Whale Pass now",
+    "link": "https://cryptopanic.com/news/32986597/THE-2026-BITCON-ASIA-WHALE-PASS-EXPERIENCE-IS-GOING-TO-BE-UNFORGETTABLE-As-a-Whale-you-receive-private-lounge-access-best-in-class-parties-backstage-sessions-with-top-speakers-front-row-seating-and-all-inclusive-hospitality-across-both-days-Get-Your-Whale-Pass-now",
+    "source": "@bitcoinmagazine",
+    "published": "Mon Jul 06 2026 17:55:06 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -109,104 +207,6 @@
     "link": "https://cryptopanic.com/news/32986398/markus10x-says-Hyperliquid-is-overvalued-above-72-based-on-his-firms-quantitative-analysis-Our-analysis-indicated-that-above-72-is-just-too-overvalued-he-argues-trading-volumes-and-buybacks-havent-been-strong-enough-to-justify-significantly-higher-prices",
     "source": "@coindesk",
     "published": "Mon Jul 06 2026 17:42:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Flare Network stablecoin supply dwindles -10% over past week.\n\nAccording to data on DefiLlama, the stablecoin supply on @FlareNetworks is down -10% in the past 7-days.\n\nOn June 23, more than $50M in stables was hosted on $FLR, down to around $48.4M at time of writing.\n\nThat being",
-    "link": "https://cryptopanic.com/news/32986523/Flare-Network-stablecoin-supply-dwindles-10-over-past-week-According-to-data-on-DefiLlama-the-stablecoin-supply-on-FlareNetworks-is-down-10-in-the-past-7-days-On-June-23-more-than-50M-in-stables-was-hosted-on-FLR-down-to-around-484M-at-time-of-writing-That-being",
-    "source": "@bscnews",
-    "published": "Mon Jul 06 2026 17:41:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Buterin Proposes 'Extremely Lean' Ethereum Overhaul",
-    "link": "https://cryptopanic.com/news/32986278/Buterin-Proposes-Extremely-Lean-Ethereum-Overhaul",
-    "source": "bankless.com",
-    "published": "Mon Jul 06 2026 17:35:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why Solana’s Latest Rally Has Analysts Watching the $100 and $120 Levels",
-    "link": "https://cryptopanic.com/news/32986276/Why-Solanas-Latest-Rally-Has-Analysts-Watching-the-100-and-120-Levels",
-    "source": "cryptopotato.com",
-    "published": "Mon Jul 06 2026 17:34:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SUI leads $1.4 billion in token unlocks this week",
-    "link": "https://cryptopanic.com/news/32986275/SUI-leads-14-billion-in-token-unlocks-this-week",
-    "source": "cryptopolitan.com",
-    "published": "Mon Jul 06 2026 17:33:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Over 150,000 People Signed Up to Masturbate With AI. Here's Why",
-    "link": "https://cryptopanic.com/news/32986253/Over-150000-People-Signed-Up-to-Masturbate-With-AI-Heres-Why",
-    "source": "decrypt.co",
-    "published": "Mon Jul 06 2026 17:32:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 UPDATE: BNY CEO Robin Vince says BNY is partnering with the U.S. Treasury, Robinhood and ND Studio to help make Trump Accounts happen.",
-    "link": "https://cryptopanic.com/news/32986401/UPDATE-BNY-CEO-Robin-Vince-says-BNY-is-partnering-with-the-US-Treasury-Robinhood-and-ND-Studio-to-help-make-Trump-Accounts-happen",
-    "source": "@cointelegraph",
-    "published": "Mon Jul 06 2026 17:30:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tether’s Alloy Launch Shows Stablecoins Are Moving Beyond Plain Dollars",
-    "link": "https://cryptopanic.com/news/32986222/Tethers-Alloy-Launch-Shows-Stablecoins-Are-Moving-Beyond-Plain-Dollars",
-    "source": "newsbtc.com",
-    "published": "Mon Jul 06 2026 17:29:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Jim Cramer says \"buy\" Nvidia $NVDA stock.",
-    "link": "https://cryptopanic.com/news/32986326/JUST-IN-Jim-Cramer-says-buy-Nvidia-NVDA-stock",
-    "source": "@watcherguru",
-    "published": "Mon Jul 06 2026 17:28:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Does Hedera Have A Revenue Problem? We sat down with @thehbarbull to discuss Hedera, AI, enterprise adoption, verifiable compute, supply chains and what is really happening with network revenue. Is $HBAR priced for today or for the future economy?",
-    "link": "https://cryptopanic.com/news/32986248/Does-Hedera-Have-A-Revenue-Problem-We-sat-down-with-thehbarbull-to-discuss-Hedera-AI-enterprise-adoption-verifiable-compute-supply-chains-and-what-is-really-happening-with-network-revenue-Is-HBAR-priced-for-today-or-for-the-future-economy",
-    "source": "@realallincrypto",
-    "published": "Mon Jul 06 2026 17:27:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Pumps Higher After Strategy Sale News",
-    "link": "https://cryptopanic.com/news/32986215/Bitcoin-Pumps-Higher-After-Strategy-Sale-News",
-    "source": "coindoo.com",
-    "published": "Mon Jul 06 2026 17:22:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Aptos patched a critical flaw discovered by Hexens in February that could have exposed tens of billions of dollars in crypto to systemic risk.",
-    "link": "https://cryptopanic.com/news/32986393/LATEST-Aptos-patched-a-critical-flaw-discovered-by-Hexens-in-February-that-could-have-exposed-tens-of-billions-of-dollars-in-crypto-to-systemic-risk",
-    "source": "@coinmarketcap",
-    "published": "Mon Jul 06 2026 17:17:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: The UNDP just expanded its partnership with Stellar $XLM to make blockchain payments a standard tool for delivering global aid, after live pilots in Haiti, Syria, Kenya, Guatemala and the Gambia",
-    "link": "https://cryptopanic.com/news/32986323/INTEL-The-UNDP-just-expanded-its-partnership-with-Stellar-XLM-to-make-blockchain-payments-a-standard-tool-for-delivering-global-aid-after-live-pilots-in-Haiti-Syria-Kenya-Guatemala-and-the-Gambia",
-    "source": "@solidintel_x",
-    "published": "Mon Jul 06 2026 17:16:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Microsoft cuts 4,800 jobs, spins off four Xbox studios",
-    "link": "https://cryptopanic.com/news/32986184/Microsoft-cuts-4800-jobs-spins-off-four-Xbox-studios",
-    "source": "cryptopolitan.com",
-    "published": "Mon Jul 06 2026 17:16:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump Claims He Saved Crypto From Biden Admin: 'It Was a Weaponization of Government'",
-    "link": "https://cryptopanic.com/news/32986252/Trump-Claims-He-Saved-Crypto-From-Biden-Admin-It-Was-a-Weaponization-of-Government",
-    "source": "feeds2.benzinga.com",
-    "published": "Mon Jul 06 2026 17:16:03 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
