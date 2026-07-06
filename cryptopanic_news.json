@@ -14,6 +14,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "JUST IN: Elon Musk’s xAI has officially rebranded to SpaceXAI.",
+    "link": "https://cryptopanic.com/news/32987172/JUST-IN-Elon-Musks-xAI-has-officially-rebranded-to-SpaceXAI",
+    "source": "@cointelegraph",
+    "published": "Mon Jul 06 2026 20:26:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: 🇺🇸 U.S. Justice Department Office of Legal Counsel is \"working closely with both the Treasury and Commerce departments\" to establish a strategic Bitcoin reserve",
     "link": "https://cryptopanic.com/news/32987110/JUST-IN-US-Justice-Department-Office-of-Legal-Counsel-is-working-closely-with-both-the-Treasury-and-Commerce-departments-to-establish-a-strategic-Bitcoin-reserve",
     "source": "@bitcoinmagazine",
@@ -32,6 +39,13 @@
     "link": "https://cryptopanic.com/news/32987042/Is-TON-the-next-stablecoin-chain-ton_blockchain-is-leading-stablecoin-growth-among-major-blockchain-networks-its-native-stablecoin-supply-up-8-on-the-week-reaching-a-grand-total-of-more-than-810M-Previously-known-for-its-memecoin-and-airdrop-ecoystems-GRAM-is",
     "source": "@bscnews",
     "published": "Mon Jul 06 2026 20:22:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Michael Saylor says Bitcoin's four-year cycle is losing its grip as capital flows, not miner issuance, now drive its trajectory.",
+    "link": "https://cryptopanic.com/news/32987170/LATEST-Michael-Saylor-says-Bitcoins-four-year-cycle-is-losing-its-grip-as-capital-flows-not-miner-issuance-now-drive-its-trajectory",
+    "source": "@coinmarketcap",
+    "published": "Mon Jul 06 2026 20:17:10 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/32986811/BREAKING-President-Trump-says-Russia-is-closer-to-an-agreement-with-Ukraine-following-a-good-call-with-President-Putin",
     "source": "@cryptonwsuk",
     "published": "Mon Jul 06 2026 19:20:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "TeraWulf stock jumps 17% after $19 billion Anthropic data center lease",
-    "link": "https://cryptopanic.com/news/32986794/TeraWulf-stock-jumps-17-after-19-billion-Anthropic-data-center-lease",
-    "source": "cryptopolitan.com",
-    "published": "Mon Jul 06 2026 19:20:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ħ New @hedera X Bio - \"The world's leading Fortune 1,000 organizations choose Hedera as the trust layer of the digital economy. Ħ",
-    "link": "https://cryptopanic.com/news/32987020/New-hedera-X-Bio-The-worlds-leading-Fortune-1000-organizations-choose-Hedera-as-the-trust-layer-of-the-digital-economy",
-    "source": "r/hedera",
-    "published": "Mon Jul 06 2026 19:19:54 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
