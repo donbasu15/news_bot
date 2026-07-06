@@ -1,5 +1,61 @@
 [
   {
+    "title": "LATEST: ️ The World Cup drove Kalshi to $31B in notional volume in June — a 70% jump from May — while Polymarket's hit a record $10.8B.",
+    "link": "https://cryptopanic.com/news/32982769/LATEST-The-World-Cup-drove-Kalshi-to-31B-in-notional-volume-in-June-a-70-jump-from-May-while-Polymarkets-hit-a-record-108B",
+    "source": "@coinmarketcap",
+    "published": "Mon Jul 06 2026 08:13:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "South Korean Regulators Review Polymarket Over Illegal Gambling",
+    "link": "https://cryptopanic.com/news/32982758/South-Korean-Regulators-Review-Polymarket-Over-Illegal-Gambling",
+    "source": "coincu.com",
+    "published": "Mon Jul 06 2026 08:12:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Top Crypto Trading Platforms in 2026: 6 Exchanges and Apps Worth Comparing",
+    "link": "https://cryptopanic.com/news/32982757/Top-Crypto-Trading-Platforms-in-2026-6-Exchanges-and-Apps-Worth-Comparing",
+    "source": "coincu.com",
+    "published": "Mon Jul 06 2026 08:10:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRPL stablecoins surge to $900M, but the breakout trend is not RLUSD",
+    "link": "https://cryptopanic.com/news/32982708/XRPL-stablecoins-surge-to-900M-but-the-breakout-trend-is-not-RLUSD",
+    "source": "cryptoslate.com",
+    "published": "Mon Jul 06 2026 08:00:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Vitalik published a new Ethereum proposal for an “Extremely Lean Chain.”\n\nThe proposal aims to shrink consensus state, move validator balance updates into ZK proofs, and re-anonymize validators daily for stronger staking privacy.",
+    "link": "https://cryptopanic.com/news/32982773/JUST-IN-Vitalik-published-a-new-Ethereum-proposal-for-an-Extremely-Lean-Chain-The-proposal-aims-to-shrink-consensus-state-move-validator-balance-updates-into-ZK-proofs-and-re-anonymize-validators-daily-for-stronger-staking-privacy",
+    "source": "@cointelegraph",
+    "published": "Mon Jul 06 2026 08:00:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Ethereum prepares for complete overhaul and biggest upgrade since 'The Merge,' Vitalik Buterin says.",
+    "link": "https://cryptopanic.com/news/32982681/JUST-IN-Ethereum-prepares-for-complete-overhaul-and-biggest-upgrade-since-The-Merge-Vitalik-Buterin-says",
+    "source": "@watcherguru",
+    "published": "Mon Jul 06 2026 07:59:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "@Darkfost_Coc Complete analysis ⤵️",
+    "link": "https://cryptopanic.com/news/32982772/Darkfost_Coc-Complete-analysis",
+    "source": "@cryptoquant_com",
+    "published": "Mon Jul 06 2026 07:54:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto Liquidity Continues To Dry Up\n\n“USDC and USDT market cap are down -3.6% and -2% respectively over the past 30 days. Overall, we can see that this slowdown has now been in place since November 2025.” – By @Darkfost_Coc",
+    "link": "https://cryptopanic.com/news/32982771/Crypto-Liquidity-Continues-To-Dry-Up-USDC-and-USDT-market-cap-are-down-36-and-2-respectively-over-the-past-30-days-Overall-we-can-see-that-this-slowdown-has-now-been-in-place-since-November-2025-By-Darkfost_Coc",
+    "source": "@cryptoquant_com",
+    "published": "Mon Jul 06 2026 07:47:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Thousands Of Crypto Wallets At Risk Across Chains, $5M Already Drained\n\nSecurity firm Coinspect has identified a weak randomness flaw dubbed \"Ill Bloom\" affecting wallets across multiple blockchains. \n\nThe vulnerability touches wallets on Bitcoin, Ethereum, and Solana networks.",
     "link": "https://cryptopanic.com/news/32982620/Thousands-Of-Crypto-Wallets-At-Risk-Across-Chains-5M-Already-Drained-Security-firm-Coinspect-has-identified-a-weak-randomness-flaw-dubbed-Ill-Bloom-affecting-wallets-across-multiple-blockchains-The-vulnerability-touches-wallets-on-Bitcoin-Ethereum-and-Solana-networks",
     "source": "@bscnews",
@@ -7,10 +63,38 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Vitalik Buterin says Ethereum is preparing its 'biggest rebuild' since the Merge",
+    "link": "https://cryptopanic.com/news/32982834/Vitalik-Buterin-says-Ethereum-is-preparing-its-biggest-rebuild-since-the-Merge",
+    "source": "coindesk.com",
+    "published": "Mon Jul 06 2026 07:44:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "What to Expect From Pi Coin in July 2026: End of the 96% Decline?",
+    "link": "https://cryptopanic.com/news/32982748/What-to-Expect-From-Pi-Coin-in-July-2026-End-of-the-96-Decline",
+    "source": "beincrypto.com",
+    "published": "Mon Jul 06 2026 07:44:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Live markets: Bitcoin pops to $63,900, then reverses, as week begins",
+    "link": "https://cryptopanic.com/news/32982832/Live-markets-Bitcoin-pops-to-63900-then-reverses-as-week-begins",
+    "source": "coindesk.com",
+    "published": "Mon Jul 06 2026 07:43:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Strategy CEO Advocates Bitcoin as a Symbol of 'Monetary Freedom' on Independence Day: 'United States of Money'",
     "link": "https://cryptopanic.com/news/32982672/Strategy-CEO-Advocates-Bitcoin-as-a-Symbol-of-Monetary-Freedom-on-Independence-Day-United-States-of-Money",
     "source": "feeds2.benzinga.com",
     "published": "Mon Jul 06 2026 07:42:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Strategy CEO Phong Le says \"Bitcoin is freedom,\" arguing it offers monetary sovereignty and calling it the \"United States of money.\"",
+    "link": "https://cryptopanic.com/news/32982767/LATEST-Strategy-CEO-Phong-Le-says-Bitcoin-is-freedom-arguing-it-offers-monetary-sovereignty-and-calling-it-the-United-States-of-money",
+    "source": "@coinmarketcap",
+    "published": "Mon Jul 06 2026 07:37:10 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -91,16 +175,16 @@
     "sentiment": "neutral"
   },
   {
-    "title": "WATCH: South Korean chipmaker SK Hynix will launch a US listing to raise about $28 billion, according to regulatory filings, as it capitalizes on the global artificial intelligence boom with one of the world's largest new share sales",
-    "link": "https://cryptopanic.com/news/32982367/WATCH-South-Korean-chipmaker-SK-Hynix-will-launch-a-US-listing-to-raise-about-28-billion-according-to-regulatory-filings-as-it-capitalizes-on-the-global-artificial-intelligence-boom-with-one-of-the-worlds-largest-new-share-sales",
-    "source": "@reutersbiz",
+    "title": "VALR Brings 200 Perpetual Markets On-Chain Through Hyperliquid",
+    "link": "https://cryptopanic.com/news/32982373/VALR-Brings-200-Perpetual-Markets-On-Chain-Through-Hyperliquid",
+    "source": "coinpaprika.com",
     "published": "Mon Jul 06 2026 07:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "VALR Brings 200 Perpetual Markets On-Chain Through Hyperliquid",
-    "link": "https://cryptopanic.com/news/32982373/VALR-Brings-200-Perpetual-Markets-On-Chain-Through-Hyperliquid",
-    "source": "coinpaprika.com",
+    "title": "WATCH: South Korean chipmaker SK Hynix will launch a US listing to raise about $28 billion, according to regulatory filings, as it capitalizes on the global artificial intelligence boom with one of the world's largest new share sales",
+    "link": "https://cryptopanic.com/news/32982367/WATCH-South-Korean-chipmaker-SK-Hynix-will-launch-a-US-listing-to-raise-about-28-billion-according-to-regulatory-filings-as-it-capitalizes-on-the-global-artificial-intelligence-boom-with-one-of-the-worlds-largest-new-share-sales",
+    "source": "@reutersbiz",
     "published": "Mon Jul 06 2026 07:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -123,90 +207,6 @@
     "link": "https://cryptopanic.com/news/32982602/Canary-HBAR-ETF-sees-greatest-influx-since-May-as-Hedera-stays-in-focus",
     "source": "r/hedera",
     "published": "Mon Jul 06 2026 06:50:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Summer Finance (@summerfinance_) was exploited for 6.017M $DAI.",
-    "link": "https://cryptopanic.com/news/32982427/Summer-Finance-summerfinance_-was-exploited-for-6017M-DAI",
-    "source": "@lookonchain",
-    "published": "Mon Jul 06 2026 06:50:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Spain and Portugal are stepping up scrutiny of their soaring property markets amid early signs of overheating, but supervisors are unlikely to intervene heavily yet, with the market some way from resembling past boom and busts. More here",
-    "link": "https://cryptopanic.com/news/32982366/Spain-and-Portugal-are-stepping-up-scrutiny-of-their-soaring-property-markets-amid-early-signs-of-overheating-but-supervisors-are-unlikely-to-intervene-heavily-yet-with-the-market-some-way-from-resembling-past-boom-and-busts-More-here",
-    "source": "@reutersbiz",
-    "published": "Mon Jul 06 2026 06:50:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "South Korean chipmaker SK Hynix will launch a US listing on July 6 to raise about $28 billion, according to regulatory filings, as it capitalizes on the global artificial intelligence boom with one of the world's largest new share sales. More here",
-    "link": "https://cryptopanic.com/news/32982365/South-Korean-chipmaker-SK-Hynix-will-launch-a-US-listing-on-July-6-to-raise-about-28-billion-according-to-regulatory-filings-as-it-capitalizes-on-the-global-artificial-intelligence-boom-with-one-of-the-worlds-largest-new-share-sales-More-here",
-    "source": "@reutersbiz",
-    "published": "Mon Jul 06 2026 06:42:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cardano Surges as Retail Demand Shows Signs Of Strength\n\nCardano'a $ADA rose for four straight days with gains topping 30% over the last seven days. Most top 20 tokens saw weekly gains between just 1 and 18 percent.\n\nCardano also gained 14,783 new non empty wallets since July 23",
-    "link": "https://cryptopanic.com/news/32982369/Cardano-Surges-as-Retail-Demand-Shows-Signs-Of-Strength-Cardanoa-ADA-rose-for-four-straight-days-with-gains-topping-30-over-the-last-seven-days-Most-top-20-tokens-saw-weekly-gains-between-just-1-and-18-percent-Cardano-also-gained-14783-new-non-empty-wallets-since-July-23",
-    "source": "@bscnews",
-    "published": "Mon Jul 06 2026 06:42:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ALERT: Blockaid detects an ongoing exploit on @summerfinance_, with ~$6M drained so far.",
-    "link": "https://cryptopanic.com/news/32982329/ALERT-Blockaid-detects-an-ongoing-exploit-on-summerfinance_-with-6M-drained-so-far",
-    "source": "@cointelegraph",
-    "published": "Mon Jul 06 2026 06:40:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Goldman Sachs Turns More Bearish on Yen, Sees 165 Per Dollar",
-    "link": "https://cryptopanic.com/news/32982489/Goldman-Sachs-Turns-More-Bearish-on-Yen-Sees-165-Per-Dollar",
-    "source": "beincrypto.com",
-    "published": "Mon Jul 06 2026 06:39:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Taiwan Passes Sweeping Crypto Law With Tough Penalties",
-    "link": "https://cryptopanic.com/news/32982254/Taiwan-Passes-Sweeping-Crypto-Law-With-Tough-Penalties",
-    "source": "catenaa.com",
-    "published": "Mon Jul 06 2026 06:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP ETF Inflows Hit Eight Week Streak\n\n$XRP spot ETF inflows stretch to eight weeks as institutional demand holds steady. XRP ETFs cumulative net inflows hit $1.49 billion, per SoSoValue Crypto data.\n\nThe coin currently trades at $1.14, up 8.73 percent over the past week.\n\nThe",
-    "link": "https://cryptopanic.com/news/32982368/XRP-ETF-Inflows-Hit-Eight-Week-Streak-XRP-spot-ETF-inflows-stretch-to-eight-weeks-as-institutional-demand-holds-steady-XRP-ETFs-cumulative-net-inflows-hit-149-billion-per-SoSoValue-Crypto-data-The-coin-currently-trades-at-114-up-873-percent-over-the-past-week-The",
-    "source": "@bscnews",
-    "published": "Mon Jul 06 2026 06:22:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Tests Major Resistance After Strong Rebound – Here Is Why the Next Breakout Could Shape Its Trend",
-    "link": "https://cryptopanic.com/news/32982485/XRP-Tests-Major-Resistance-After-Strong-Rebound-Here-Is-Why-the-Next-Breakout-Could-Shape-Its-Trend",
-    "source": "blocknews.com",
-    "published": "Mon Jul 06 2026 06:21:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ Key Economic Events This Week:\n\nMonday - June S&P Global Services PMI Data\n\nTuesday - ADP Employment Change Data\n\nWednesday - FOMC Meeting Minutes\n\nThursday - Initial Jobless Claims Data & June Existing Home Sales Data\n\nFriday - IEA Monthly Report\n\nWhich event are you",
-    "link": "https://cryptopanic.com/news/32982328/Key-Economic-Events-This-Week-Monday-June-SampP-Global-Services-PMI-Data-Tuesday-ADP-Employment-Change-Data-Wednesday-FOMC-Meeting-Minutes-Thursday-Initial-Jobless-Claims-Data-amp-June-Existing-Home-Sales-Data-Friday-IEA-Monthly-Report-Which-event-are-you",
-    "source": "@cointelegraph",
-    "published": "Mon Jul 06 2026 06:20:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "How Sovereign Wealth Funds Invest in Digital Assets",
-    "link": "https://cryptopanic.com/news/32982206/How-Sovereign-Wealth-Funds-Invest-in-Digital-Assets",
-    "source": "theblock.co",
-    "published": "Mon Jul 06 2026 06:14:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Keeps Dominating ETF Inflows",
-    "link": "https://cryptopanic.com/news/32982250/XRP-Keeps-Dominating-ETF-Inflows",
-    "source": "u.today",
-    "published": "Mon Jul 06 2026 06:10:43 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
