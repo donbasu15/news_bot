@@ -1,5 +1,82 @@
 [
   {
+    "title": "🇰🇷 NEW: South Korea’s Supreme Court is developing crypto-specific rules for court-ordered asset seizures and liquidation.",
+    "link": "https://cryptopanic.com/news/32983305/NEW-South-Koreas-Supreme-Court-is-developing-crypto-specific-rules-for-court-ordered-asset-seizures-and-liquidation",
+    "source": "@cointelegraph",
+    "published": "Mon Jul 06 2026 09:40:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ripple secures full MiCA CASP authorization for crypto services across 30 EEA countries",
+    "link": "https://cryptopanic.com/news/32983237/Ripple-secures-full-MiCA-CASP-authorization-for-crypto-services-across-30-EEA-countries",
+    "source": "theblock.co",
+    "published": "Mon Jul 06 2026 09:30:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Solana Targets Faster Network With Agave v4.2 Upgrade",
+    "link": "https://cryptopanic.com/news/32983235/Solana-Targets-Faster-Network-With-Agave-v42-Upgrade",
+    "source": "catenaa.com",
+    "published": "Mon Jul 06 2026 09:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: ️ Billionaire Tim Draper denied reports that he moved his Bitcoin to Coinbase, telling Cointelegraph \"I haven't touched my BTC\" and reiterating his $250K BTC price call.",
+    "link": "https://cryptopanic.com/news/32983300/LATEST-Billionaire-Tim-Draper-denied-reports-that-he-moved-his-Bitcoin-to-Coinbase-telling-Cointelegraph-I-havent-touched-my-BTC-and-reiterating-his-250K-BTC-price-call",
+    "source": "@coinmarketcap",
+    "published": "Mon Jul 06 2026 09:25:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: Crypto liquidity is drying up as USDC and USDT market caps fall 3.6% and 2% over the past 30 days, per CryptoQuant’s Darkfost.",
+    "link": "https://cryptopanic.com/news/32983304/LATEST-Crypto-liquidity-is-drying-up-as-USDC-and-USDT-market-caps-fall-36-and-2-over-the-past-30-days-per-CryptoQuants-Darkfost",
+    "source": "@cointelegraph",
+    "published": "Mon Jul 06 2026 09:24:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin News: Dave Portnoy Vows to Hold Bitcoin to Zero After Buying at $100K",
+    "link": "https://cryptopanic.com/news/32983204/Bitcoin-News-Dave-Portnoy-Vows-to-Hold-Bitcoin-to-Zero-After-Buying-at-100K",
+    "source": "cryptonews.com",
+    "published": "Mon Jul 06 2026 09:24:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SEC Eyes On-Chain Finance: Could XRP Ledger Be Part of the Plan?",
+    "link": "https://cryptopanic.com/news/32983167/SEC-Eyes-On-Chain-Finance-Could-XRP-Ledger-Be-Part-of-the-Plan",
+    "source": "coinpaper.com",
+    "published": "Mon Jul 06 2026 09:18:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "According to Onchain Lens, the attacker used a 64.8 million USDC flash loan to exploit Summerfi by abusing the parent vault Fleet Commander’s trust in its Ark strategy contract. The exploit artificially inflated the Ark’s reported assets to about $7.14 million, allowing the",
+    "link": "https://cryptopanic.com/news/32983302/According-to-Onchain-Lens-the-attacker-used-a-648-million-USDC-flash-loan-to-exploit-Summerfi-by-abusing-the-parent-vault-Fleet-Commanders-trust-in-its-Ark-strategy-contract-The-exploit-artificially-inflated-the-Arks-reported-assets-to-about-714-million-allowing-the",
+    "source": "@wublockchain",
+    "published": "Mon Jul 06 2026 09:17:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ripple (XRP) Scores Major European Win With Full MiCA License",
+    "link": "https://cryptopanic.com/news/32983164/Ripple-XRP-Scores-Major-European-Win-With-Full-MiCA-License",
+    "source": "cryptopotato.com",
+    "published": "Mon Jul 06 2026 09:17:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Binance Co-CEO Yi He Confirms Official Philippines Entry Amid Strategic Compliance Shift",
+    "link": "https://cryptopanic.com/news/32983174/Binance-Co-CEO-Yi-He-Confirms-Official-Philippines-Entry-Amid-Strategic-Compliance-Shift",
+    "source": "btcusa.com",
+    "published": "Mon Jul 06 2026 09:17:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Washington State Residents Lose $673,500 to Sophisticated Bank Scams in Three Days",
+    "link": "https://cryptopanic.com/news/32983215/Washington-State-Residents-Lose-673500-to-Sophisticated-Bank-Scams-in-Three-Days",
+    "source": "dailyhodl.com",
+    "published": "Mon Jul 06 2026 09:15:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Ripple Gains Full MiCA Approval, Wins EEA-Wide Crypto Services License",
     "link": "https://cryptopanic.com/news/32983153/Ripple-Gains-Full-MiCA-Approval-Wins-EEA-Wide-Crypto-Services-License",
     "source": "www.blockhead.co",
@@ -14,6 +91,20 @@
     "sentiment": "neutral"
   },
   {
+    "title": "South Korea Court Sets New Rules for Crypto Asset Seizures",
+    "link": "https://cryptopanic.com/news/32983250/South-Korea-Court-Sets-New-Rules-for-Crypto-Asset-Seizures",
+    "source": "cryptodnes.bg",
+    "published": "Mon Jul 06 2026 09:02:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Binance XRP Scarcity Index Hits Its Highest Level Since Mid-2024\n\n“This reflects a structural shift in the supply balance on Binance, indicating that XRP has become scarcer on the platform than in previous months. – By @ArabxChain \n\nLink ⤵️",
+    "link": "https://cryptopanic.com/news/32983301/Binance-XRP-Scarcity-Index-Hits-Its-Highest-Level-Since-Mid-2024-This-reflects-a-structural-shift-in-the-supply-balance-on-Binance-indicating-that-XRP-has-become-scarcer-on-the-platform-than-in-previous-months-By-ArabxChain-Link",
+    "source": "@cryptoquant_com",
+    "published": "Mon Jul 06 2026 09:01:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "It's Monday. What's the goal this week?",
     "link": "https://cryptopanic.com/news/32983051/Its-Monday-Whats-the-goal-this-week",
     "source": "@coinmarketcap",
@@ -25,6 +116,13 @@
     "link": "https://cryptopanic.com/news/32983056/JUST-IN-Ripple-receives-full-MiCA-CASP-license-from-Luxembourg-giving-it-regulated-access-to-all-30-EEA-countries-and-making-it-one-of-a-small-number-of-crypto-firms-fully-authorized-under-MiCA",
     "source": "@coindesk",
     "published": "Mon Jul 06 2026 08:55:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: Ripple receives EU CASP license, making it fully MiCA-compliant across the European Economic Area\n\nripple:native",
+    "link": "https://cryptopanic.com/news/32983233/INTEL-Ripple-receives-EU-CASP-license-making-it-fully-MiCA-compliant-across-the-European-Economic-Area-ripplenative",
+    "source": "@solidintel_x",
+    "published": "Mon Jul 06 2026 08:53:49 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -105,108 +203,10 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Inside One of the Boldest Ideas in Ethereum’s Lean Roadmap",
-    "link": "https://cryptopanic.com/news/32982897/Inside-One-of-the-Boldest-Ideas-in-Ethereums-Lean-Roadmap",
-    "source": "coindoo.com",
-    "published": "Mon Jul 06 2026 08:33:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Whale 0x7746 just withdrew 14,267 $ETH($25.3M) from #Binance.",
-    "link": "https://cryptopanic.com/news/32982984/Whale-0x7746-just-withdrew-14267-ETH253M-from-Binance",
-    "source": "@lookonchain",
-    "published": "Mon Jul 06 2026 08:31:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump Reports $1.2B in Crypto Earnings",
-    "link": "https://cryptopanic.com/news/32982868/Trump-Reports-12B-in-Crypto-Earnings",
-    "source": "catenaa.com",
-    "published": "Mon Jul 06 2026 08:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto Regulation News: RBI Pushes Banks Away From Stablecoins",
-    "link": "https://cryptopanic.com/news/32982880/Crypto-Regulation-News-RBI-Pushes-Banks-Away-From-Stablecoins",
-    "source": "thecoinrepublic.com",
-    "published": "Mon Jul 06 2026 08:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple And XRP Just Got Some Major News Ethereum Might Be In Big Trouble In The Next Few Months",
-    "link": "https://cryptopanic.com/news/32982881/Ripple-And-XRP-Just-Got-Some-Major-News-Ethereum-Might-Be-In-Big-Trouble-In-The-Next-Few-Months",
-    "source": "TheModernInvestor",
-    "published": "Mon Jul 06 2026 08:29:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Developer Dashir: 'It's Too Late to Cancel BIP110'",
-    "link": "https://cryptopanic.com/news/32982972/Bitcoin-Developer-Dashir-Its-Too-Late-to-Cancel-BIP110",
-    "source": "u.today",
-    "published": "Mon Jul 06 2026 08:28:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: @VitalikButerin outlines Ethereum's biggest rebuild since the Merge, a 3-4 year overhaul replacing nearly every major protocol component, with quantum resistance and privacy elevated to top priorities.",
-    "link": "https://cryptopanic.com/news/32983055/NEW-VitalikButerin-outlines-Ethereums-biggest-rebuild-since-the-Merge-a-3-4-year-overhaul-replacing-nearly-every-major-protocol-component-with-quantum-resistance-and-privacy-elevated-to-top-priorities",
-    "source": "@coindesk",
-    "published": "Mon Jul 06 2026 08:24:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The best founders are the weirdest...\n\nIn a recent interview with @RealMissAI of the @dealflowpodcast, @VarrockVC's @richardchen39 explains what the most successful start-ups and founders often have in common ⬇️",
-    "link": "https://cryptopanic.com/news/32982879/The-best-founders-are-the-weirdest-In-a-recent-interview-with-RealMissAI-of-the-dealflowpodcast-VarrockVCs-richardchen39-explains-what-the-most-successful-start-ups-and-founders-often-have-in-common",
-    "source": "@bscnews",
-    "published": "Mon Jul 06 2026 08:20:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "FOMC minutes, SpaceX joins Nasdaq 100: Crypto Week Ahead",
-    "link": "https://cryptopanic.com/news/32983195/FOMC-minutes-SpaceX-joins-Nasdaq-100-Crypto-Week-Ahead",
-    "source": "coindesk.com",
-    "published": "Mon Jul 06 2026 08:18:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto events coming this week that you need to hear about...\n\n@ElanInsights' crypto calendar tool has once again proved its worth in flagging some key upcoming crypto milestones and developments this week:\n\n[July 12] @Pumpfun to undertake a large scale $PUMP token unlock.\n\n[July",
-    "link": "https://cryptopanic.com/news/32982878/Crypto-events-coming-this-week-that-you-need-to-hear-about-ElanInsights-crypto-calendar-tool-has-once-again-proved-its-worth-in-flagging-some-key-upcoming-crypto-milestones-and-developments-this-week-July-12-Pumpfun-to-undertake-a-large-scale-PUMP-token-unlock-July",
-    "source": "@bscnews",
-    "published": "Mon Jul 06 2026 08:16:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The world has absorbed with surprising ease the loss of over a billion barrels of oil supply since the Iran war began. Yet, with long-term peace elusive and buffer reserves now drained, it still faces the looming risk of future price spikes. More here",
-    "link": "https://cryptopanic.com/news/32982873/The-world-has-absorbed-with-surprising-ease-the-loss-of-over-a-billion-barrels-of-oil-supply-since-the-Iran-war-began-Yet-with-long-term-peace-elusive-and-buffer-reserves-now-drained-it-still-faces-the-looming-risk-of-future-price-spikes-More-here",
-    "source": "@reutersbiz",
-    "published": "Mon Jul 06 2026 08:16:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Won stablecoins are arriving before South Korea’s rulebook",
-    "link": "https://cryptopanic.com/news/32982849/Won-stablecoins-are-arriving-before-South-Koreas-rulebook",
-    "source": "cryptopolitan.com",
-    "published": "Mon Jul 06 2026 08:16:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: ️ The World Cup drove Kalshi to $31B in notional volume in June — a 70% jump from May — while Polymarket's hit a record $10.8B.",
-    "link": "https://cryptopanic.com/news/32982769/LATEST-The-World-Cup-drove-Kalshi-to-31B-in-notional-volume-in-June-a-70-jump-from-May-while-Polymarkets-hit-a-record-108B",
-    "source": "@coinmarketcap",
-    "published": "Mon Jul 06 2026 08:13:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "South Korean Regulators Review Polymarket Over Illegal Gambling",
-    "link": "https://cryptopanic.com/news/32982758/South-Korean-Regulators-Review-Polymarket-Over-Illegal-Gambling",
-    "source": "coincu.com",
-    "published": "Mon Jul 06 2026 08:12:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Amazon, Meta Tout AI Jobs Boom While Cutting Thousands\n\nAmazon CEO Andy Jassy spoke of AI's job creating potential months after announcing workforce reductions. The company has since cut about 16,000 jobs, which it says are unrelated to AI adoption. \n\nMeta's Mark Zuckerberg made",
-    "link": "https://cryptopanic.com/news/32982877/Amazon-Meta-Tout-AI-Jobs-Boom-While-Cutting-Thousands-Amazon-CEO-Andy-Jassy-spoke-of-AIs-job-creating-potential-months-after-announcing-workforce-reductions-The-company-has-since-cut-about-16000-jobs-which-it-says-are-unrelated-to-AI-adoption-Metas-Mark-Zuckerberg-made",
-    "source": "@bscnews",
-    "published": "Mon Jul 06 2026 08:12:00 GMT+0000 (Coordinated Universal Time)",
+    "title": "3 Token Unlocks to Watch in the Second Week of July 2026",
+    "link": "https://cryptopanic.com/news/32983230/3-Token-Unlocks-to-Watch-in-the-Second-Week-of-July-2026",
+    "source": "beincrypto.com",
+    "published": "Mon Jul 06 2026 08:34:45 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
