@@ -1,5 +1,89 @@
 [
   {
+    "title": "Coinbase now permitted to offer equities to UK customers",
+    "link": "https://cryptopanic.com/news/32991276/Coinbase-now-permitted-to-offer-equities-to-UK-customers",
+    "source": "cryptopolitan.com",
+    "published": "Tue Jul 07 2026 12:36:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Polymarket Lawsuit Over BTC Sale Bet: Traders Dispute $797K Market Settlement",
+    "link": "https://cryptopanic.com/news/32991274/Polymarket-Lawsuit-Over-BTC-Sale-Bet-Traders-Dispute-797K-Market-Settlement",
+    "source": "dailycoin.com",
+    "published": "Tue Jul 07 2026 12:35:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: #Cardano $ADA ranks as the 6th most visited cryptocurrency on CoinMarketCap, surpassing Dogecoin, Hyperliquid, Stellar, and Zcash.",
+    "link": "https://cryptopanic.com/news/32991334/JUST-IN-Cardano-ADA-ranks-as-the-6th-most-visited-cryptocurrency-on-CoinMarketCap-surpassing-Dogecoin-Hyperliquid-Stellar-and-Zcash",
+    "source": "@angrycryptoshow",
+    "published": "Tue Jul 07 2026 12:33:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Naver deal to take over Upbit operator delayed until at least December 31",
+    "link": "https://cryptopanic.com/news/32991275/Naver-deal-to-take-over-Upbit-operator-delayed-until-at-least-December-31",
+    "source": "cryptopolitan.com",
+    "published": "Tue Jul 07 2026 12:30:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin price rebounds to $63K as leverage returns creating short term volatility risk",
+    "link": "https://cryptopanic.com/news/32991202/Bitcoin-price-rebounds-to-63K-as-leverage-returns-creating-short-term-volatility-risk",
+    "source": "cryptoslate.com",
+    "published": "Tue Jul 07 2026 12:30:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Coinbase CEO has one-word response to sheriffs group's sudden shift",
+    "link": "https://cryptopanic.com/news/32991347/Coinbase-CEO-has-one-word-response-to-sheriffs-groups-sudden-shift",
+    "source": "thestreet.com",
+    "published": "Tue Jul 07 2026 12:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "️ NEW: Vanguard is hiring a Head of Digital Assets for its Personal Wealth business.",
+    "link": "https://cryptopanic.com/news/32991336/NEW-Vanguard-is-hiring-a-Head-of-Digital-Assets-for-its-Personal-Wealth-business",
+    "source": "@cointelegraph",
+    "published": "Tue Jul 07 2026 12:28:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Morning Minute: Strategy Turns Net Seller",
+    "link": "https://cryptopanic.com/news/32991203/Morning-Minute-Strategy-Turns-Net-Seller",
+    "source": "decrypt.co",
+    "published": "Tue Jul 07 2026 12:27:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: CoinMarketCap ranks #Cardano $ADA as the 9th most bullish community sentiment.",
+    "link": "https://cryptopanic.com/news/32991333/JUST-IN-CoinMarketCap-ranks-Cardano-ADA-as-the-9th-most-bullish-community-sentiment",
+    "source": "@angrycryptoshow",
+    "published": "Tue Jul 07 2026 12:27:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: #Cardano $ADA 24h trade volume surpasses $500,000,000 according to CoinGecko.",
+    "link": "https://cryptopanic.com/news/32991332/JUST-IN-Cardano-ADA-24h-trade-volume-surpasses-500000000-according-to-CoinGecko",
+    "source": "@angrycryptoshow",
+    "published": "Tue Jul 07 2026 12:26:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SEC Drops MetaMask Case Against ConsenSys With No Fine or Wrongdoing",
+    "link": "https://cryptopanic.com/news/32991192/SEC-Drops-MetaMask-Case-Against-ConsenSys-With-No-Fine-or-Wrongdoing",
+    "source": "cryptonews.com",
+    "published": "Tue Jul 07 2026 12:21:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Suisse Gets ADGM Financial Services License",
+    "link": "https://cryptopanic.com/news/32991175/Bitcoin-Suisse-Gets-ADGM-Financial-Services-License",
+    "source": "coincu.com",
+    "published": "Tue Jul 07 2026 12:19:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "BNB Agent Studio now allows developers to plug agents into CoinMarketCap's data endpoints with one click, using @Binance Pay's B402 merchant pool.\n\nAgents pay for each CMC data call automatically from their own wallet using x402 settled on @BNBChain without separate API keys or",
     "link": "https://cryptopanic.com/news/32991119/BNB-Agent-Studio-now-allows-developers-to-plug-agents-into-CoinMarketCaps-data-endpoints-with-one-click-using-Binance-Pays-B402-merchant-pool-Agents-pay-for-each-CMC-data-call-automatically-from-their-own-wallet-using-x402-settled-on-BNBChain-without-separate-API-keys-or",
     "source": "@bscnews",
@@ -7,10 +91,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "LATEST:  Adjusted stablecoin transaction volume hit a record $1.79T in June, up 63% from May and 125% year-over-year, per Visa.",
+    "link": "https://cryptopanic.com/news/32991329/LATEST-Adjusted-stablecoin-transaction-volume-hit-a-record-179T-in-June-up-63-from-May-and-125-year-over-year-per-Visa",
+    "source": "@coinmarketcap",
+    "published": "Tue Jul 07 2026 12:05:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "3,999,999,999 DOGE Moved to Binance in One of 2026's Biggest Transfers",
     "link": "https://cryptopanic.com/news/32991174/3999999999-DOGE-Moved-to-Binance-in-One-of-2026s-Biggest-Transfers",
     "source": "u.today",
     "published": "Tue Jul 07 2026 12:03:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 Spot Bitcoin ETFs bought $265.6 million worth of Bitcoin yesterday",
+    "link": "https://cryptopanic.com/news/32991223/JUST-IN-Spot-Bitcoin-ETFs-bought-2656-million-worth-of-Bitcoin-yesterday",
+    "source": "@bitcoinmagazine",
+    "published": "Tue Jul 07 2026 11:59:50 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -109,104 +207,6 @@
     "link": "https://cryptopanic.com/news/32990936/Coinbase-secures-UK-investment-services-license-to-add-derivatives-and-equities-trading",
     "source": "theblock.co",
     "published": "Tue Jul 07 2026 11:41:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "WATCH: The dollar is back in the spotlight as investors wager on US exceptionalism, powered by AI and higher-for-longer Fed rates. But ING's Francesco Pesole says the market may be overplaying the hawkish story, and sees room for the greenback to weaken before the year is out",
-    "link": "https://cryptopanic.com/news/32991114/WATCH-The-dollar-is-back-in-the-spotlight-as-investors-wager-on-US-exceptionalism-powered-by-AI-and-higher-for-longer-Fed-rates-But-INGs-Francesco-Pesole-says-the-market-may-be-overplaying-the-hawkish-story-and-sees-room-for-the-greenback-to-weaken-before-the-year-is-out",
-    "source": "@reutersbiz",
-    "published": "Tue Jul 07 2026 11:40:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$BTC Correlation to the Nasdaq just flipped to +0.72 from -0.87 in the matter of days last week.\n\nThat's the difference between trading like a complete hedge/inverse and trading like a high beta tech stock. Right now we're back to the middle on the 4H timeframe.\n\nBTC has clearly",
-    "link": "https://cryptopanic.com/news/32991115/BTC-Correlation-to-the-Nasdaq-just-flipped-to-072-from-087-in-the-matter-of-days-last-week-Thats-the-difference-between-trading-like-a-complete-hedgeinverse-and-trading-like-a-high-beta-tech-stock-Right-now-were-back-to-the-middle-on-the-4H-timeframe-BTC-has-clearly",
-    "source": "@daancrypto",
-    "published": "Tue Jul 07 2026 11:38:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Coinbase secures UK authorization to offer traditional investments alongside crypto",
-    "link": "https://cryptopanic.com/news/32990991/Coinbase-secures-UK-authorization-to-offer-traditional-investments-alongside-crypto",
-    "source": "coindesk.com",
-    "published": "Tue Jul 07 2026 11:37:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana Price Prediction: SOL Eyes $120 if $75 Support Holds",
-    "link": "https://cryptopanic.com/news/32990917/Solana-Price-Prediction-SOL-Eyes-120-if-75-Support-Holds",
-    "source": "coinpaper.com",
-    "published": "Tue Jul 07 2026 11:34:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Traders Sue Polymarket Over 'No' Ruling on Strategy Bitcoin Sale",
-    "link": "https://cryptopanic.com/news/32990919/Traders-Sue-Polymarket-Over-No-Ruling-on-Strategy-Bitcoin-Sale",
-    "source": "decrypt.co",
-    "published": "Tue Jul 07 2026 11:34:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hedera doesn't generate fees? June was the highest fee month since 2024",
-    "link": "https://cryptopanic.com/news/32991101/Hedera-doesnt-generate-fees-June-was-the-highest-fee-month-since-2024",
-    "source": "r/hedera",
-    "published": "Tue Jul 07 2026 11:34:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$ANSEM, $MON, and $GROVE are the most viewed assets on Coingecko. \n\n$BONK, $LIT, and $PENGU also make the list... \n\nWho is bullish on them?",
-    "link": "https://cryptopanic.com/news/32991117/ANSEM-MON-and-GROVE-are-the-most-viewed-assets-on-Coingecko-BONK-LIT-and-PENGU-also-make-the-list-Who-is-bullish-on-them",
-    "source": "@bscnews",
-    "published": "Tue Jul 07 2026 11:32:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Polymarket Faces Lawsuit Over Disputed Strategy Bitcoin Sale",
-    "link": "https://cryptopanic.com/news/32990927/Polymarket-Faces-Lawsuit-Over-Disputed-Strategy-Bitcoin-Sale",
-    "source": "cryptodnes.bg",
-    "published": "Tue Jul 07 2026 11:31:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "US Money Markets Swell as Reserves Thin Out",
-    "link": "https://cryptopanic.com/news/32990809/US-Money-Markets-Swell-as-Reserves-Thin-Out",
-    "source": "catenaa.com",
-    "published": "Tue Jul 07 2026 11:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum Price Prediction: ETH Tests $1,800 Breakout Level",
-    "link": "https://cryptopanic.com/news/32990808/Ethereum-Price-Prediction-ETH-Tests-1800-Breakout-Level",
-    "source": "coinpaper.com",
-    "published": "Tue Jul 07 2026 11:29:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Chainwire Parent MediaFuse Launches Tech Newswire Optimized for AI Search",
-    "link": "https://cryptopanic.com/news/32990814/Chainwire-Parent-MediaFuse-Launches-Tech-Newswire-Optimized-for-AI-Search",
-    "source": "decrypt.co",
-    "published": "Tue Jul 07 2026 11:28:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Suisse receives license in UAE weeks after European license",
-    "link": "https://cryptopanic.com/news/32990810/Bitcoin-Suisse-receives-license-in-UAE-weeks-after-European-license",
-    "source": "cryptopolitan.com",
-    "published": "Tue Jul 07 2026 11:27:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ICICI Prudential Board Approves Prudential’s Reclassification as Investor Ahead of Bharti Life Deal",
-    "link": "https://cryptopanic.com/news/32990929/ICICI-Prudential-Board-Approves-Prudentials-Reclassification-as-Investor-Ahead-of-Bharti-Life-Deal",
-    "source": "sfctoday.com",
-    "published": "Tue Jul 07 2026 11:26:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin's July gains may be fleeting as U.S. demand stays weak",
-    "link": "https://cryptopanic.com/news/32990930/Bitcoins-July-gains-may-be-fleeting-as-US-demand-stays-weak",
-    "source": "coindesk.com",
-    "published": "Tue Jul 07 2026 11:26:17 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
