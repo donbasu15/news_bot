@@ -1,5 +1,75 @@
 [
   {
+    "title": "SEC Targets July for First Major U.S. Crypto Rule",
+    "link": "https://cryptopanic.com/news/32993837/SEC-Targets-July-for-First-Major-US-Crypto-Rule",
+    "source": "coindoo.com",
+    "published": "Tue Jul 07 2026 21:10:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Solana’s $8.7B RWA surge shows tokenized assets are finally starting to move",
+    "link": "https://cryptopanic.com/news/32993832/Solanas-87B-RWA-surge-shows-tokenized-assets-are-finally-starting-to-move",
+    "source": "cryptoslate.com",
+    "published": "Tue Jul 07 2026 21:10:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Sanctum Mobile App Attracts Over 9,000 Users Following Strong Launch Week",
+    "link": "https://cryptopanic.com/news/32993431/Sanctum-Mobile-App-Attracts-Over-9000-Users-Following-Strong-Launch-Week",
+    "source": "solanafloor.com",
+    "published": "Tue Jul 07 2026 21:07:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Vanguard Deepens Digital Asset Push With Executive Search for Crypto Strategy Head",
+    "link": "https://cryptopanic.com/news/32993848/Vanguard-Deepens-Digital-Asset-Push-With-Executive-Search-for-Crypto-Strategy-Head",
+    "source": "feeds2.benzinga.com",
+    "published": "Tue Jul 07 2026 21:01:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum still owns DeFi, and it's not even close\n\n@ethereum holds 53% of all DeFi TVL, near $40 billion. That's more than every other chain combined, per @DefiLlama.\n\nBehind it, a four-way scrap: @solana , @BNBCHAIN , @trondao and @base all packed between $4.4B and $5.1B\n\nThen",
+    "link": "https://cryptopanic.com/news/32993841/Ethereum-still-owns-DeFi-and-its-not-even-close-ethereum-holds-53-of-all-DeFi-TVL-near-40-billion-Thats-more-than-every-other-chain-combined-per-DefiLlama-Behind-it-a-four-way-scrap-solana-BNBCHAIN-trondao-and-base-all-packed-between-44B-and-51B-Then",
+    "source": "@bscnews",
+    "published": "Tue Jul 07 2026 21:01:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Could Polymarket’s $6.5mln lawsuit reshape prediction-market disputes?",
+    "link": "https://cryptopanic.com/news/32993790/Could-Polymarkets-65mln-lawsuit-reshape-prediction-market-disputes",
+    "source": "ambcrypto.com",
+    "published": "Tue Jul 07 2026 21:00:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "How To Invest In OpenAI and Anthropic Before They Go Public",
+    "link": "https://cryptopanic.com/news/32993840/How-To-Invest-In-OpenAI-and-Anthropic-Before-They-Go-Public",
+    "source": "AnthonyPompliano",
+    "published": "Tue Jul 07 2026 21:00:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Michael Saylor's Strategy Ramps Up Bitcoin Sales, Shedding 3,588 BTC to Fund Dividends",
+    "link": "https://cryptopanic.com/news/32993778/Michael-Saylors-Strategy-Ramps-Up-Bitcoin-Sales-Shedding-3588-BTC-to-Fund-Dividends",
+    "source": "coinpaprika.com",
+    "published": "Tue Jul 07 2026 21:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CFTC charges North Carolina man over alleged $14 million crypto, futures fraud",
+    "link": "https://cryptopanic.com/news/32993785/CFTC-charges-North-Carolina-man-over-alleged-14-million-crypto-futures-fraud",
+    "source": "theblock.co",
+    "published": "Tue Jul 07 2026 20:58:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SEC 2026 Regulatory Agenda Statement Targets Tokenized Securities and Crypto Rules",
+    "link": "https://cryptopanic.com/news/32993770/SEC-2026-Regulatory-Agenda-Statement-Targets-Tokenized-Securities-and-Crypto-Rules",
+    "source": "coincu.com",
+    "published": "Tue Jul 07 2026 20:53:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Blockaid withdraws BTTC bridge exploit alert after shutdown operation confirmed",
     "link": "https://cryptopanic.com/news/32993768/Blockaid-withdraws-BTTC-bridge-exploit-alert-after-shutdown-operation-confirmed",
     "source": "ambcrypto.com",
@@ -18,6 +88,13 @@
     "link": "https://cryptopanic.com/news/32993763/AI-Is-Changing-the-Workplace-and-Universities-Arent-Keeping-Up-Study-Warns",
     "source": "decrypt.co",
     "published": "Tue Jul 07 2026 20:46:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Allocations CEO Kingsley Advani says AI will let you spin up a BVI fund from your phone in seconds",
+    "link": "https://cryptopanic.com/news/32993786/Allocations-CEO-Kingsley-Advani-says-AI-will-let-you-spin-up-a-BVI-fund-from-your-phone-in-seconds",
+    "source": "thestreet.com",
+    "published": "Tue Jul 07 2026 20:44:15 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -130,83 +207,6 @@
     "link": "https://cryptopanic.com/news/32993580/Bank-of-England-warns-AI-stock-crash-could-push-UK-into-recession",
     "source": "cryptopolitan.com",
     "published": "Tue Jul 07 2026 19:55:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Gemini has launched 0% commission stock trading in most US states as it looks to become an \"all-in-one financial super app.\"",
-    "link": "https://cryptopanic.com/news/32993616/LATEST-Gemini-has-launched-0-commission-stock-trading-in-most-US-states-as-it-looks-to-become-an-all-in-one-financial-super-app",
-    "source": "@coinmarketcap",
-    "published": "Tue Jul 07 2026 19:53:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "China May Be Following US Lead With Quiet Crackdown on AI Exports",
-    "link": "https://cryptopanic.com/news/32993552/China-May-Be-Following-US-Lead-With-Quiet-Crackdown-on-AI-Exports",
-    "source": "decrypt.co",
-    "published": "Tue Jul 07 2026 19:51:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ari Redbord Sits Down With the Hosts of DEX in the City",
-    "link": "https://cryptopanic.com/news/32993551/Ari-Redbord-Sits-Down-With-the-Hosts-of-DEX-in-the-City",
-    "source": "Unchained",
-    "published": "Tue Jul 07 2026 19:48:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$BTC The price levels that matter to me right now.",
-    "link": "https://cryptopanic.com/news/32993533/BTC-The-price-levels-that-matter-to-me-right-now",
-    "source": "@daancrypto",
-    "published": "Tue Jul 07 2026 19:47:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple CLO Stuart Alderoty: 67 Million Crypto Owners Are Not a ‘Rounding Error’",
-    "link": "https://cryptopanic.com/news/32993548/Ripple-CLO-Stuart-Alderoty-67-Million-Crypto-Owners-Are-Not-a-Rounding-Error",
-    "source": "cryptopotato.com",
-    "published": "Tue Jul 07 2026 19:46:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "MARKETS: Cointelegraph’s Head of Markets @HorusHughes on @SchwabNetwork says Bitcoin may be carving out a bottom as buyers return to spot and futures markets.\n\n“There’s been $2.9B on the buy side over the last seven days.”",
-    "link": "https://cryptopanic.com/news/32993618/MARKETS-Cointelegraphs-Head-of-Markets-HorusHughes-on-SchwabNetwork-says-Bitcoin-may-be-carving-out-a-bottom-as-buyers-return-to-spot-and-futures-markets-Theres-been-29B-on-the-buy-side-over-the-last-seven-days",
-    "source": "@cointelegraph",
-    "published": "Tue Jul 07 2026 19:43:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "More insights",
-    "link": "https://cryptopanic.com/news/32993617/More-insights",
-    "source": "@cointelegraph",
-    "published": "Tue Jul 07 2026 19:43:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Seeker Summer: Here’s Everything You Need to Know",
-    "link": "https://cryptopanic.com/news/32993062/Seeker-Summer-Heres-Everything-You-Need-to-Know",
-    "source": "solanafloor.com",
-    "published": "Tue Jul 07 2026 19:37:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BlackRock-backed Securitize slides 40% after SPAC debut despite tokenization boom",
-    "link": "https://cryptopanic.com/news/32993611/BlackRock-backed-Securitize-slides-40-after-SPAC-debut-despite-tokenization-boom",
-    "source": "coindesk.com",
-    "published": "Tue Jul 07 2026 19:35:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: The US is revoking a general license that authorized Iranian oil sales after attacks on tankers in the Strait of Hormuz, per Reuters.",
-    "link": "https://cryptopanic.com/news/32993475/JUST-IN-The-US-is-revoking-a-general-license-that-authorized-Iranian-oil-sales-after-attacks-on-tankers-in-the-Strait-of-Hormuz-per-Reuters",
-    "source": "@cointelegraph",
-    "published": "Tue Jul 07 2026 19:30:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SK Hynix $28Bn US IPO Oversubscribed Multiple Times",
-    "link": "https://cryptopanic.com/news/32993463/SK-Hynix-28Bn-US-IPO-Oversubscribed-Multiple-Times",
-    "source": "catenaa.com",
-    "published": "Tue Jul 07 2026 19:30:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
