@@ -1,5 +1,54 @@
 [
   {
+    "title": "Ripple Exec: Washington Can't Ignore Crypto",
+    "link": "https://cryptopanic.com/news/32988986/Ripple-Exec-Washington-Cant-Ignore-Crypto",
+    "source": "u.today",
+    "published": "Tue Jul 07 2026 05:37:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "New Twist Puts Trump Crypto Reserve Plan in Doubt",
+    "link": "https://cryptopanic.com/news/32988957/New-Twist-Puts-Trump-Crypto-Reserve-Plan-in-Doubt",
+    "source": "coinpaper.com",
+    "published": "Tue Jul 07 2026 05:36:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "What Is the U.S. Strategic Bitcoin Reserve?",
+    "link": "https://cryptopanic.com/news/32988895/What-Is-the-US-Strategic-Bitcoin-Reserve",
+    "source": "theblock.co",
+    "published": "Tue Jul 07 2026 05:27:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Here Is Why Solana’s Rally Toward $100 Is Gaining Momentum as Network Activity Explodes",
+    "link": "https://cryptopanic.com/news/32988873/Here-Is-Why-Solanas-Rally-Toward-100-Is-Gaining-Momentum-as-Network-Activity-Explodes",
+    "source": "blocknews.com",
+    "published": "Tue Jul 07 2026 05:18:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Samsung Electronics flagged a 19-fold jump in second-quarter operating profit from a year earlier, but its shares slid as the results failed ‌to ease concerns about the durability of the AI-driven chip boom. More here",
+    "link": "https://cryptopanic.com/news/32988903/Samsung-Electronics-flagged-a-19-fold-jump-in-second-quarter-operating-profit-from-a-year-earlier-but-its-shares-slid-as-the-results-failed-to-ease-concerns-about-the-durability-of-the-AI-driven-chip-boom-More-here",
+    "source": "@reutersbiz",
+    "published": "Tue Jul 07 2026 05:10:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hyperliquid Flips Doge In Market Cap Race\n\nHyperliquid (@HyperliquidX) $HYPE has overtaken Dogecoin (@dogecoin) $DOGE to become the ninth largest cryptocurrency by market capitalization.\n\nHYPE is now about 9% below its all time high after gaining from rising exchange activity,",
+    "link": "https://cryptopanic.com/news/32988905/Hyperliquid-Flips-Doge-In-Market-Cap-Race-Hyperliquid-HyperliquidX-HYPE-has-overtaken-Dogecoin-dogecoin-DOGE-to-become-the-ninth-largest-cryptocurrency-by-market-capitalization-HYPE-is-now-about-9-below-its-all-time-high-after-gaining-from-rising-exchange-activity",
+    "source": "@bscnews",
+    "published": "Tue Jul 07 2026 05:10:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Alibaba Orders Staff to Drop Anthropic Claude Code Over Security Fears",
+    "link": "https://cryptopanic.com/news/32988965/Alibaba-Orders-Staff-to-Drop-Anthropic-Claude-Code-Over-Security-Fears",
+    "source": "beincrypto.com",
+    "published": "Tue Jul 07 2026 05:05:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Michael Saylor's Strategy's Situation Feels 'Eerily Similar' to FTX Collapse, Says Crypto Analyst: 'Rumors Create Doubt, Doubt Creates Selling…'",
     "link": "https://cryptopanic.com/news/32988872/Michael-Saylors-Strategys-Situation-Feels-Eerily-Similar-to-FTX-Collapse-Says-Crypto-Analyst-Rumors-Create-Doubt-Doubt-Creates-Selling",
     "source": "feeds2.benzinga.com",
@@ -35,10 +84,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Burn metrics continue to climb as Aptos (@Aptos) posts another month of strong network activity.\n\nMore than 1.4 million $APT has now been burned since mainnet.",
+    "link": "https://cryptopanic.com/news/32988904/Burn-metrics-continue-to-climb-as-Aptos-Aptos-posts-another-month-of-strong-network-activity-More-than-14-million-APT-has-now-been-burned-since-mainnet",
+    "source": "@bscnews",
+    "published": "Tue Jul 07 2026 04:52:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Upbit to List OpenGradient’s OPG in Korean Won Market\n\nUpbit, South Korea’s largest crypto exchange, will list OpenGradient (OPG) with a KRW trading pair, with trading scheduled to begin at 15:30 Korea time on July 7. OpenGradient is a decentralized AI infrastructure network",
     "link": "https://cryptopanic.com/news/32988842/Upbit-to-List-OpenGradients-OPG-in-Korean-Won-Market-Upbit-South-Koreas-largest-crypto-exchange-will-list-OpenGradient-OPG-with-a-KRW-trading-pair-with-trading-scheduled-to-begin-at-1530-Korea-time-on-July-7-OpenGradient-is-a-decentralized-AI-infrastructure-network",
     "source": "@wublockchain",
     "published": "Tue Jul 07 2026 04:47:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP stalls near $1.14 as breakout attempt struggles for volume",
+    "link": "https://cryptopanic.com/news/32988962/XRP-stalls-near-114-as-breakout-attempt-struggles-for-volume",
+    "source": "coindesk.com",
+    "published": "Tue Jul 07 2026 04:46:30 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -144,69 +207,6 @@
     "link": "https://cryptopanic.com/news/32988678/NEW-Anthropics-latest-research-uncovers-a-global-workspace-inside-Claude-revealing-internal-reasoning-steps-the-model-performs-without-writing-them-down",
     "source": "@cointelegraph",
     "published": "Tue Jul 07 2026 04:00:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why The Rich Never Sell Their Bitcoin",
-    "link": "https://cryptopanic.com/news/32988603/Why-The-Rich-Never-Sell-Their-Bitcoin",
-    "source": "TheCryptoLark",
-    "published": "Tue Jul 07 2026 04:00:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "US Senators Push Bill to Shield AI From Foreign Threats",
-    "link": "https://cryptopanic.com/news/32988554/US-Senators-Push-Bill-to-Shield-AI-From-Foreign-Threats",
-    "source": "catenaa.com",
-    "published": "Tue Jul 07 2026 04:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump Says 'Something Could Happen' About Bitcoin in 'Trump Accounts' — Peter Schiff Posts Crypto Donors 'Called in a Favor'",
-    "link": "https://cryptopanic.com/news/32988592/Trump-Says-Something-Could-Happen-About-Bitcoin-in-Trump-Accounts-Peter-Schiff-Posts-Crypto-Donors-Called-in-a-Favor",
-    "source": "feeds2.benzinga.com",
-    "published": "Tue Jul 07 2026 03:54:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BonkDAO (@bonk_dao) says attackers used a malicious governance proposal to drain roughly $20 million in $BONK. \n\nExchanges and law enforcement are now involved.",
-    "link": "https://cryptopanic.com/news/32988553/BonkDAO-bonk_dao-says-attackers-used-a-malicious-governance-proposal-to-drain-roughly-20-million-in-BONK-Exchanges-and-law-enforcement-are-now-involved",
-    "source": "@bscnews",
-    "published": "Tue Jul 07 2026 03:52:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The market cap of $ANSEM has flipped $TRUMP.\n\nNearly 1M investors lost money on $TRUMP, while over 95% of $ANSEM's 120K holders are currently in profit.",
-    "link": "https://cryptopanic.com/news/32988610/The-market-cap-of-ANSEM-has-flipped-TRUMP-Nearly-1M-investors-lost-money-on-TRUMP-while-over-95-of-ANSEMs-120K-holders-are-currently-in-profit",
-    "source": "@lookonchain",
-    "published": "Tue Jul 07 2026 03:42:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NOW: Foreign official holdings of US Treasuries fall to just 12.5% of total outstanding debt, the lowest this century.",
-    "link": "https://cryptopanic.com/news/32988525/NOW-Foreign-official-holdings-of-US-Treasuries-fall-to-just-125-of-total-outstanding-debt-the-lowest-this-century",
-    "source": "@cointelegraph",
-    "published": "Tue Jul 07 2026 03:40:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Strategy's Dividend Machine Is Eating Its Own Bitcoin",
-    "link": "https://cryptopanic.com/news/32988484/Strategys-Dividend-Machine-Is-Eating-Its-Own-Bitcoin",
-    "source": "www.blockhead.co",
-    "published": "Tue Jul 07 2026 03:32:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump's Bitcoin Reserve Plan Hits Roadblock\n\nThe Trump administration's proposed Strategic Bitcoin Reserve has run into legal and bureaucratic hurdles, according to Bloomberg.\n\nOfficials are questioning whether the U.S. Treasury has the authority to hold and manage government",
-    "link": "https://cryptopanic.com/news/32988552/Trumps-Bitcoin-Reserve-Plan-Hits-Roadblock-The-Trump-administrations-proposed-Strategic-Bitcoin-Reserve-has-run-into-legal-and-bureaucratic-hurdles-according-to-Bloomberg-Officials-are-questioning-whether-the-US-Treasury-has-the-authority-to-hold-and-manage-government",
-    "source": "@bscnews",
-    "published": "Tue Jul 07 2026 03:32:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "South Korea Drafts Crypto Asset Seizure Rules",
-    "link": "https://cryptopanic.com/news/32988475/South-Korea-Drafts-Crypto-Asset-Seizure-Rules",
-    "source": "catenaa.com",
-    "published": "Tue Jul 07 2026 03:30:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
