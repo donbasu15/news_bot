@@ -1,5 +1,75 @@
 [
   {
+    "title": "Seeker Summer: Here’s Everything You Need to Know",
+    "link": "https://cryptopanic.com/news/32993062/Seeker-Summer-Heres-Everything-You-Need-to-Know",
+    "source": "solanafloor.com",
+    "published": "Tue Jul 07 2026 19:37:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: The US is revoking a general license that authorized Iranian oil sales after attacks on tankers in the Strait of Hormuz, per Reuters.",
+    "link": "https://cryptopanic.com/news/32993475/JUST-IN-The-US-is-revoking-a-general-license-that-authorized-Iranian-oil-sales-after-attacks-on-tankers-in-the-Strait-of-Hormuz-per-Reuters",
+    "source": "@cointelegraph",
+    "published": "Tue Jul 07 2026 19:30:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SK Hynix $28Bn US IPO Oversubscribed Multiple Times",
+    "link": "https://cryptopanic.com/news/32993463/SK-Hynix-28Bn-US-IPO-Oversubscribed-Multiple-Times",
+    "source": "catenaa.com",
+    "published": "Tue Jul 07 2026 19:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: @Strike is rolling out \"volatility-proof\" bitcoin-backed loans, allowing users to borrow against BTC without margin calls or liquidations.\n\nStrike says borrowers can keep their bitcoin even if BTC falls 80%, as long as they continue making loan payments.",
+    "link": "https://cryptopanic.com/news/32993471/LATEST-Strike-is-rolling-out-volatility-proof-bitcoin-backed-loans-allowing-users-to-borrow-against-BTC-without-margin-calls-or-liquidations-Strike-says-borrowers-can-keep-their-bitcoin-even-if-BTC-falls-80-as-long-as-they-continue-making-loan-payments",
+    "source": "@coindesk",
+    "published": "Tue Jul 07 2026 19:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$1.1 Trillion Bank Buys XRP: Is The Bottom Really In?",
+    "link": "https://cryptopanic.com/news/32993472/11-Trillion-Bank-Buys-XRP-Is-The-Bottom-Really-In",
+    "source": "dailycoin.com",
+    "published": "Tue Jul 07 2026 19:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "1inch brings in a product chief to finally ship Aqua\n\n@1inch just named Holly Atkinson (@holdoesdev) as Chief Product and Technology Officer. Her first big job: get Aqua out the door.\n\nAqua is 1inch's shared-liquidity play. One wallet backing multiple DeFi strategies at once,",
+    "link": "https://cryptopanic.com/news/32993534/1inch-brings-in-a-product-chief-to-finally-ship-Aqua-1inch-just-named-Holly-Atkinson-holdoesdev-as-Chief-Product-and-Technology-Officer-Her-first-big-job-get-Aqua-out-the-door-Aqua-is-1inchs-shared-liquidity-play-One-wallet-backing-multiple-DeFi-strategies-at-once",
+    "source": "@bscnews",
+    "published": "Tue Jul 07 2026 19:28:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Uniswap considers vote to expand UNIfication to v4 protocol fees",
+    "link": "https://cryptopanic.com/news/32993503/Uniswap-considers-vote-to-expand-UNIfication-to-v4-protocol-fees",
+    "source": "cryptopolitan.com",
+    "published": "Tue Jul 07 2026 19:25:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ledger’s New Offer Comes as MiCA Changes Crypto Rules in Europe",
+    "link": "https://cryptopanic.com/news/32993461/Ledgers-New-Offer-Comes-as-MiCA-Changes-Crypto-Rules-in-Europe",
+    "source": "coinpaper.com",
+    "published": "Tue Jul 07 2026 19:24:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇪🇺 Binance CEO Richard Teng warns Europe risks losing crypto users, firms and tax revenue if MiCA's implementation becomes \"fragmented, unpredictable or inconsistent\" across member states.",
+    "link": "https://cryptopanic.com/news/32993469/LATEST-Binance-CEO-Richard-Teng-warns-Europe-risks-losing-crypto-users-firms-and-tax-revenue-if-MiCAs-implementation-becomes-fragmented-unpredictable-or-inconsistent-across-member-states",
+    "source": "@coinmarketcap",
+    "published": "Tue Jul 07 2026 19:17:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Wall Street Forecasts SPCX To Reach $800 as SpaceX Joins Nasdaq-100",
+    "link": "https://cryptopanic.com/news/32993440/Wall-Street-Forecasts-SPCX-To-Reach-800-as-SpaceX-Joins-Nasdaq-100",
+    "source": "coinpaper.com",
+    "published": "Tue Jul 07 2026 19:16:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: The world's largest predictions market Polymarket now accepts Bitcoin Lightning deposits!",
     "link": "https://cryptopanic.com/news/32993424/JUST-IN-The-worlds-largest-predictions-market-Polymarket-now-accepts-Bitcoin-Lightning-deposits",
     "source": "@bitcoinmagazine",
@@ -11,6 +81,13 @@
     "link": "https://cryptopanic.com/news/32993429/Farage-quits-as-Clacton-MP-over-crypto-linked-gifts-forces-by-election",
     "source": "cryptopolitan.com",
     "published": "Tue Jul 07 2026 19:11:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Aptos hits a new quarterly high as token burn rate accelerates",
+    "link": "https://cryptopanic.com/news/32993480/Aptos-hits-a-new-quarterly-high-as-token-burn-rate-accelerates",
+    "source": "thestreet.com",
+    "published": "Tue Jul 07 2026 19:10:42 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -60,6 +137,13 @@
     "link": "https://cryptopanic.com/news/32993423/INTEL-US-revokes-license-allowing-Iran-to-sell-oil",
     "source": "@solidintel_x",
     "published": "Tue Jul 07 2026 19:01:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: Zcash is nearing a mathematical proof against hidden counterfeit bugs in its new Ironwood shielded pool.",
+    "link": "https://cryptopanic.com/news/32993474/LATEST-Zcash-is-nearing-a-mathematical-proof-against-hidden-counterfeit-bugs-in-its-new-Ironwood-shielded-pool",
+    "source": "@cointelegraph",
+    "published": "Tue Jul 07 2026 19:00:52 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -123,90 +207,6 @@
     "link": "https://cryptopanic.com/news/32993300/Radar-Chat-Wants-to-Make-Sending-Bitcoin-as-Easy-as-Firing-Off-a-Text",
     "source": "decrypt.co",
     "published": "Tue Jul 07 2026 18:38:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nasdaq arthritis company holding Moshe Hogeg crypto hits all-time low",
-    "link": "https://cryptopanic.com/news/32993293/Nasdaq-arthritis-company-holding-Moshe-Hogeg-crypto-hits-all-time-low",
-    "source": "protos.com",
-    "published": "Tue Jul 07 2026 18:32:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SEC Shifts Strategy Toward Clear Crypto Regulation for 2026",
-    "link": "https://cryptopanic.com/news/32993305/SEC-Shifts-Strategy-Toward-Clear-Crypto-Regulation-for-2026",
-    "source": "cryptodnes.bg",
-    "published": "Tue Jul 07 2026 18:31:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Polygon hit a new weekly activity record with 7.5M transactions, per founder Sandeep Nailwal.",
-    "link": "https://cryptopanic.com/news/32993330/UPDATE-Polygon-hit-a-new-weekly-activity-record-with-75M-transactions-per-founder-Sandeep-Nailwal",
-    "source": "@cointelegraph",
-    "published": "Tue Jul 07 2026 18:30:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ryan Long Fact Checks His Own Bitcoin Take... and Loses",
-    "link": "https://cryptopanic.com/news/32993326/Ryan-Long-Fact-Checks-His-Own-Bitcoin-Take-and-Loses",
-    "source": "BitcoinMagazine",
-    "published": "Tue Jul 07 2026 18:30:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Real! Global Economic Meltdown Coming?!",
-    "link": "https://cryptopanic.com/news/32993294/Real-Global-Economic-Meltdown-Coming",
-    "source": "SimplyBitcoin",
-    "published": "Tue Jul 07 2026 18:30:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "TAC token crashes 82% in a day, two months after white-hat hack",
-    "link": "https://cryptopanic.com/news/32993302/TAC-token-crashes-82-in-a-day-two-months-after-white-hat-hack",
-    "source": "cryptopolitan.com",
-    "published": "Tue Jul 07 2026 18:28:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Wall Street's biggest crypto holdout is finally staffing up\n\n@Vanguard_Group, the second-largest asset manager on earth, just posted for its first-ever Head of Digital Assets. Tokenization, stablecoins, custody, the whole roadmap.\n\nThis is the firm that spent years refusing to",
-    "link": "https://cryptopanic.com/news/32993360/Wall-Streets-biggest-crypto-holdout-is-finally-staffing-up-Vanguard_Group-the-second-largest-asset-manager-on-earth-just-posted-for-its-first-ever-Head-of-Digital-Assets-Tokenization-stablecoins-custody-the-whole-roadmap-This-is-the-firm-that-spent-years-refusing-to",
-    "source": "@bscnews",
-    "published": "Tue Jul 07 2026 18:26:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Is Michael Saylor Selling Bullish for Bitcoin Bullish? The Answer May Surprise You",
-    "link": "https://cryptopanic.com/news/32993292/Is-Michael-Saylor-Selling-Bullish-for-Bitcoin-Bullish-The-Answer-May-Surprise-You",
-    "source": "feeds2.benzinga.com",
-    "published": "Tue Jul 07 2026 18:20:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Flips Historic Resistance into Support — Is the Road to $3.65 Finally Open?",
-    "link": "https://cryptopanic.com/news/32993256/XRP-Flips-Historic-Resistance-into-Support-Is-the-Road-to-365-Finally-Open",
-    "source": "coinpaper.com",
-    "published": "Tue Jul 07 2026 18:18:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Blockworks, a prominent crypto media and institutional research platform, integrates #Cardano $ADA analytics, including on-chain data, according to Co-Founder Jason Yanowitz.",
-    "link": "https://cryptopanic.com/news/32993327/NEW-Blockworks-a-prominent-crypto-media-and-institutional-research-platform-integrates-Cardano-ADA-analytics-including-on-chain-data-according-to-Co-Founder-Jason-Yanowitz",
-    "source": "@angrycryptoshow",
-    "published": "Tue Jul 07 2026 18:15:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Records Worst June in Four Years – Is a Cyclical Bottom in Play?",
-    "link": "https://cryptopanic.com/news/32993226/Bitcoin-Records-Worst-June-in-Four-Years-Is-a-Cyclical-Bottom-in-Play",
-    "source": "cryptopotato.com",
-    "published": "Tue Jul 07 2026 18:14:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ZEC jumps 12% as Zcash nears mathematical proof against hidden counterfeit bugs",
-    "link": "https://cryptopanic.com/news/32993229/ZEC-jumps-12-as-Zcash-nears-mathematical-proof-against-hidden-counterfeit-bugs",
-    "source": "theblock.co",
-    "published": "Tue Jul 07 2026 18:12:51 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
