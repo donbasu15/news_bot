@@ -1,5 +1,61 @@
 [
   {
+    "title": "LATEST:  Galaxy Digital has delivered 133 MW of critical IT load to CoreWeave at Helios, completing Phase I of Helios' conversion into an AI data center.",
+    "link": "https://cryptopanic.com/news/32992450/LATEST-Galaxy-Digital-has-delivered-133-MW-of-critical-IT-load-to-CoreWeave-at-Helios-completing-Phase-I-of-Helios-conversion-into-an-AI-data-center",
+    "source": "@coinmarketcap",
+    "published": "Tue Jul 07 2026 15:41:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INSIGHT: @gate_io CEO @Han_gate warns MiCA only works if everyone follows it, \"If unregulated platforms can still provide services from overseas, it's not a level playing field.\"",
+    "link": "https://cryptopanic.com/news/32992457/INSIGHT-gate_io-CEO-Han_gate-warns-MiCA-only-works-if-everyone-follows-it-If-unregulated-platforms-can-still-provide-services-from-overseas-its-not-a-level-playing-field",
+    "source": "@coindesk",
+    "published": "Tue Jul 07 2026 15:40:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Germany aims to collect billions in crypto tax by abolishing key exemption",
+    "link": "https://cryptopanic.com/news/32992421/Germany-aims-to-collect-billions-in-crypto-tax-by-abolishing-key-exemption",
+    "source": "cryptopolitan.com",
+    "published": "Tue Jul 07 2026 15:35:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: IRAN ATTACKS THREE SHIPS IN THE STRAIT OF HORMUZ OVER THE LAST 24 HOURS | PER US OFFICIALS",
+    "link": "https://cryptopanic.com/news/32992357/INTEL-IRAN-ATTACKS-THREE-SHIPS-IN-THE-STRAIT-OF-HORMUZ-OVER-THE-LAST-24-HOURS-PER-US-OFFICIALS",
+    "source": "@solidintel_x",
+    "published": "Tue Jul 07 2026 15:23:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Vanguard U-turns, now seeks a Head of Digital Assets",
+    "link": "https://cryptopanic.com/news/32992329/Vanguard-U-turns-now-seeks-a-Head-of-Digital-Assets",
+    "source": "cryptopolitan.com",
+    "published": "Tue Jul 07 2026 15:22:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Citi bank says Elon Musk's SpaceX $SPCX could be worth $900 per share in a few years.",
+    "link": "https://cryptopanic.com/news/32992359/JUST-IN-Citi-bank-says-Elon-Musks-SpaceX-SPCX-could-be-worth-900-per-share-in-a-few-years",
+    "source": "@watcherguru",
+    "published": "Tue Jul 07 2026 15:21:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ALERT: Up to $470B in Bitcoin could be at risk from future quantum attacks, per Bloomberg.\n\nDo you agree, or is this classic FUD?",
+    "link": "https://cryptopanic.com/news/32992458/ALERT-Up-to-470B-in-Bitcoin-could-be-at-risk-from-future-quantum-attacks-per-Bloomberg-Do-you-agree-or-is-this-classic-FUD",
+    "source": "@cointelegraph",
+    "published": "Tue Jul 07 2026 15:20:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$BONK Falls 8% After Governance Attack Drains $20M From BonkDAO",
+    "link": "https://cryptopanic.com/news/32992333/BONK-Falls-8-After-Governance-Attack-Drains-20M-From-BonkDAO",
+    "source": "cryptoprowl.com",
+    "published": "Tue Jul 07 2026 15:18:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Less than 10K accounts hold at least 1M PI...\n\nAccording to data obtained from PIScan, less than 10,000 accounts hold at least 1M $PI. \n\nA total of 9,961 accounts hold between 1M and 10 M PI, while 766 accounts hold between 100K and 1M PI. \n\nIn contrast, 80% of Pioneers, which",
     "link": "https://cryptopanic.com/news/32992285/Less-than-10K-accounts-hold-at-least-1M-PI-According-to-data-obtained-from-PIScan-less-than-10000-accounts-hold-at-least-1M-PI-A-total-of-9961-accounts-hold-between-1M-and-10-M-PI-while-766-accounts-hold-between-100K-and-1M-PI-In-contrast-80-of-Pioneers-which",
     "source": "@bscnews",
@@ -28,10 +84,31 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Under MiCA, EMTs are stablecoins that reference a single official currency, such as EUR or USD, while ARTs are tokens designed to maintain stable value by referencing other assets, rights, or a basket of assets and currencies.",
+    "link": "https://cryptopanic.com/news/32992452/Under-MiCA-EMTs-are-stablecoins-that-reference-a-single-official-currency-such-as-EUR-or-USD-while-ARTs-are-tokens-designed-to-maintain-stable-value-by-referencing-other-assets-rights-or-a-basket-of-assets-and-currencies",
+    "source": "@wublockchain",
+    "published": "Tue Jul 07 2026 15:06:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "DeepSeek plans its own inference chip, a threat to Nvidia and Huawei alike",
     "link": "https://cryptopanic.com/news/32992267/DeepSeek-plans-its-own-inference-chip-a-threat-to-Nvidia-and-Huawei-alike",
     "source": "cryptopolitan.com",
     "published": "Tue Jul 07 2026 15:06:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MiCA Register Shows 270+ CASPs but No ART Issuers Yet\n\nCircle's EU Strategy and Policy Director Patrick Hansen said, citing ESMA’s interim MiCA register, that one week after MiCA became fully applicable across the EU, the number of MiCA-registered crypto-asset service providers",
+    "link": "https://cryptopanic.com/news/32992451/MiCA-Register-Shows-270-CASPs-but-No-ART-Issuers-Yet-Circles-EU-Strategy-and-Policy-Director-Patrick-Hansen-said-citing-ESMAs-interim-MiCA-register-that-one-week-after-MiCA-became-fully-applicable-across-the-EU-the-number-of-MiCA-registered-crypto-asset-service-providers",
+    "source": "@wublockchain",
+    "published": "Tue Jul 07 2026 15:05:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Several Ethereum developers have backed Vitalik Buterin’s “Lean Ethereum” roadmap but say the 3-4 year timeline should be sped up.",
+    "link": "https://cryptopanic.com/news/32992448/LATEST-Several-Ethereum-developers-have-backed-Vitalik-Buterins-Lean-Ethereum-roadmap-but-say-the-3-4-year-timeline-should-be-sped-up",
+    "source": "@coinmarketcap",
+    "published": "Tue Jul 07 2026 15:05:03 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -42,16 +119,16 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Stablecoins Moved a Record $1.79 Trillion in June as USDC Pulled Ahead",
-    "link": "https://cryptopanic.com/news/32992190/Stablecoins-Moved-a-Record-179-Trillion-in-June-as-USDC-Pulled-Ahead",
-    "source": "coinpaprika.com",
+    "title": "WEMIX Solidifies Global Reach with Listing on Kraken",
+    "link": "https://cryptopanic.com/news/32992322/WEMIX-Solidifies-Global-Reach-with-Listing-on-Kraken",
+    "source": "beincrypto.com",
     "published": "Tue Jul 07 2026 15:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "WEMIX Solidifies Global Reach with Listing on Kraken",
-    "link": "https://cryptopanic.com/news/32992322/WEMIX-Solidifies-Global-Reach-with-Listing-on-Kraken",
-    "source": "beincrypto.com",
+    "title": "Stablecoins Moved a Record $1.79 Trillion in June as USDC Pulled Ahead",
+    "link": "https://cryptopanic.com/news/32992190/Stablecoins-Moved-a-Record-179-Trillion-in-June-as-USDC-Pulled-Ahead",
+    "source": "coinpaprika.com",
     "published": "Tue Jul 07 2026 15:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -130,83 +207,6 @@
     "link": "https://cryptopanic.com/news/32992179/Read-the-full-report",
     "source": "@cointelegraph",
     "published": "Tue Jul 07 2026 14:40:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INSIGHT: Analysts are split on whether the Bitcoin bottom is near, or whether a plunge to the $40K zone remains on the cards.\n\nSome Bitcoin analysts point to a deeper downside risk, while others believes they can see the early signs of a recovery.",
-    "link": "https://cryptopanic.com/news/32992177/INSIGHT-Analysts-are-split-on-whether-the-Bitcoin-bottom-is-near-or-whether-a-plunge-to-the-40K-zone-remains-on-the-cards-Some-Bitcoin-analysts-point-to-a-deeper-downside-risk-while-others-believes-they-can-see-the-early-signs-of-a-recovery",
-    "source": "@cointelegraph",
-    "published": "Tue Jul 07 2026 14:40:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "WATCH: Chinese authorities have recently met with top tech firms about potentially restricting overseas access to China's most advanced AI models, including those yet to be released, three people familiar with the discussions said",
-    "link": "https://cryptopanic.com/news/32992283/WATCH-Chinese-authorities-have-recently-met-with-top-tech-firms-about-potentially-restricting-overseas-access-to-Chinas-most-advanced-AI-models-including-those-yet-to-be-released-three-people-familiar-with-the-discussions-said",
-    "source": "@reutersbiz",
-    "published": "Tue Jul 07 2026 14:40:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Analysts see more upside for SpaceX as post-IPO research begins",
-    "link": "https://cryptopanic.com/news/32992161/Analysts-see-more-upside-for-SpaceX-as-post-IPO-research-begins",
-    "source": "coindesk.com",
-    "published": "Tue Jul 07 2026 14:39:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Peter Schiff Slams President Over Crypto Ideas: 'Hopefully He Won't Rip Off Trump Accounts'",
-    "link": "https://cryptopanic.com/news/32992160/Peter-Schiff-Slams-President-Over-Crypto-Ideas-Hopefully-He-Wont-Rip-Off-Trump-Accounts",
-    "source": "feeds2.benzinga.com",
-    "published": "Tue Jul 07 2026 14:38:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Multi-trillion-dollar asset manager Vanguard hiring crypto exec to help influence market",
-    "link": "https://cryptopanic.com/news/32992076/Multi-trillion-dollar-asset-manager-Vanguard-hiring-crypto-exec-to-help-influence-market",
-    "source": "theblock.co",
-    "published": "Tue Jul 07 2026 14:36:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Stuck Around $1 Despite Fundamental Growth: What Is Happening?",
-    "link": "https://cryptopanic.com/news/32992122/XRP-Stuck-Around-1-Despite-Fundamental-Growth-What-Is-Happening",
-    "source": "feeds2.benzinga.com",
-    "published": "Tue Jul 07 2026 14:31:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NOBLE Endorses CLARITY Act as Major County Sheriffs Drop Opposition",
-    "link": "https://cryptopanic.com/news/32992045/NOBLE-Endorses-CLARITY-Act-as-Major-County-Sheriffs-Drop-Opposition",
-    "source": "cryptonews.com",
-    "published": "Tue Jul 07 2026 14:31:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HSBC reviews Turkish banking business for possible sale",
-    "link": "https://cryptopanic.com/news/32991995/HSBC-reviews-Turkish-banking-business-for-possible-sale",
-    "source": "@reutersbiz",
-    "published": "Tue Jul 07 2026 14:30:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "“Building it” is only 20% of the equation.\n\nAccording to @injective CEO @ericinjective, the real work is the other 80%: distribution, adoption, and proving success by building the application yourself.\n\n#CHAINREACTION",
-    "link": "https://cryptopanic.com/news/32992176/Building-it-is-only-20-of-the-equation-According-to-injective-CEO-ericinjective-the-real-work-is-the-other-80-distribution-adoption-and-proving-success-by-building-the-application-yourself-CHAINREACTION",
-    "source": "@cointelegraph",
-    "published": "Tue Jul 07 2026 14:30:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ryan Long Explains HIs Trading Strategy: Buy High, Sell Low, Repeat",
-    "link": "https://cryptopanic.com/news/32992064/Ryan-Long-Explains-HIs-Trading-Strategy-Buy-High-Sell-Low-Repeat",
-    "source": "BitcoinMagazine",
-    "published": "Tue Jul 07 2026 14:30:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Vanguard opens search for digital assets leader in sign of evolving crypto strategy",
-    "link": "https://cryptopanic.com/news/32992124/Vanguard-opens-search-for-digital-assets-leader-in-sign-of-evolving-crypto-strategy",
-    "source": "coindesk.com",
-    "published": "Tue Jul 07 2026 14:28:37 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
