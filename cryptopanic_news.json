@@ -1,9 +1,79 @@
 [
   {
+    "title": "TeraWulf’s $19B Anthropic Lease Turns Bitcoin Miner Into AI Landlord",
+    "link": "https://cryptopanic.com/news/32993043/TeraWulfs-19B-Anthropic-Lease-Turns-Bitcoin-Miner-Into-AI-Landlord",
+    "source": "cryptonews.com",
+    "published": "Tue Jul 07 2026 17:32:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$20M of Treasury Funds Lost in BonkDAO Governance Blunder",
+    "link": "https://cryptopanic.com/news/32992405/20M-of-Treasury-Funds-Lost-in-BonkDAO-Governance-Blunder",
+    "source": "solanafloor.com",
+    "published": "Tue Jul 07 2026 17:32:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Kenya's Markets Regulator Seeks Blockchain Tool to Track Crypto Crime",
+    "link": "https://cryptopanic.com/news/32993009/Kenyas-Markets-Regulator-Seeks-Blockchain-Tool-to-Track-Crypto-Crime",
+    "source": "decrypt.co",
+    "published": "Tue Jul 07 2026 17:29:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Microsoft starts pulling OpenAI and Anthropic out of Excel and Outlook\n\nTens of thousands of prompts a week in Excel and Outlook are now running on @Microsoft's own MAI models, per Bloomberg. Work that used to lean on @OpenAI and @AnthropicAI.\n\nNot a clean break. Microsoft still",
+    "link": "https://cryptopanic.com/news/32993025/Microsoft-starts-pulling-OpenAI-and-Anthropic-out-of-Excel-and-Outlook-Tens-of-thousands-of-prompts-a-week-in-Excel-and-Outlook-are-now-running-on-Microsofts-own-MAI-models-per-Bloomberg-Work-that-used-to-lean-on-OpenAI-and-AnthropicAI-Not-a-clean-break-Microsoft-still",
+    "source": "@bscnews",
+    "published": "Tue Jul 07 2026 17:26:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SpaceX was added to the Nasdaq 100 index today which has ~$800B tracking it across 200+ investment products.\n\nThose investment products all must now buy $SPCX.\n\nHowever, this inclusion was widely frontrun, so the question now is whether or not that passive demand will be enough",
+    "link": "https://cryptopanic.com/news/32993095/SpaceX-was-added-to-the-Nasdaq-100-index-today-which-has-800B-tracking-it-across-200-investment-products-Those-investment-products-all-must-now-buy-SPCX-However-this-inclusion-was-widely-frontrun-so-the-question-now-is-whether-or-not-that-passive-demand-will-be-enough",
+    "source": "@stackersatoshi",
+    "published": "Tue Jul 07 2026 17:25:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SBI Holdings is sole investor in crypto platform EDX Markets’ $76 million Series C",
+    "link": "https://cryptopanic.com/news/32993008/SBI-Holdings-is-sole-investor-in-crypto-platform-EDX-Markets-76-million-Series-C",
+    "source": "theblock.co",
+    "published": "Tue Jul 07 2026 17:25:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ondo Unveils Perps DEX With Tokenized Stocks as Collateral",
+    "link": "https://cryptopanic.com/news/32993003/Ondo-Unveils-Perps-DEX-With-Tokenized-Stocks-as-Collateral",
+    "source": "bankless.com",
+    "published": "Tue Jul 07 2026 17:24:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Zerohash launches crypto copy-trading infrastructure with dub as its first partner",
+    "link": "https://cryptopanic.com/news/32993072/Zerohash-launches-crypto-copy-trading-infrastructure-with-dub-as-its-first-partner",
+    "source": "thestreet.com",
+    "published": "Tue Jul 07 2026 17:18:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Wintermute Cautions 'Relief Rally' Likely as Bitcoin Touches Highest Price in Weeks",
+    "link": "https://cryptopanic.com/news/32992975/Wintermute-Cautions-Relief-Rally-Likely-as-Bitcoin-Touches-Highest-Price-in-Weeks",
+    "source": "decrypt.co",
+    "published": "Tue Jul 07 2026 17:16:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin Faces Stress Test as Exchange Inflows Rise",
     "link": "https://cryptopanic.com/news/32992944/Bitcoin-Faces-Stress-Test-as-Exchange-Inflows-Rise",
     "source": "coindoo.com",
     "published": "Tue Jul 07 2026 17:13:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Is $Pi one of the most widely distributed cryptocurrencies? \n\nLess than 10,000 wallets holding 1M Pi or more. \n\nRead the full story here",
+    "link": "https://cryptopanic.com/news/32993024/Is-Pi-one-of-the-most-widely-distributed-cryptocurrencies-Less-than-10000-wallets-holding-1M-Pi-or-more-Read-the-full-story-here",
+    "source": "@bscnews",
+    "published": "Tue Jul 07 2026 17:11:22 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -77,6 +147,20 @@
     "sentiment": "neutral"
   },
   {
+    "title": "EU Parliament wants DeFi, staking and NFTs pulled into the rulebook\n\nLawmakers just voted. The European Parliament (@Europarl_EN) adopted its official position Tuesday, asking the Commission to study whether DeFi, staking, crypto lending and NFTs should fall under MiCA.\n\nNo new",
+    "link": "https://cryptopanic.com/news/32993023/EU-Parliament-wants-DeFi-staking-and-NFTs-pulled-into-the-rulebook-Lawmakers-just-voted-The-European-Parliament-Europarl_EN-adopted-its-official-position-Tuesday-asking-the-Commission-to-study-whether-DeFi-staking-crypto-lending-and-NFTs-should-fall-under-MiCA-No-new",
+    "source": "@bscnews",
+    "published": "Tue Jul 07 2026 16:55:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Mining Stocks Sink 20% – How Did BTC Price Avoid the Damage?",
+    "link": "https://cryptopanic.com/news/32993006/Bitcoin-Mining-Stocks-Sink-20-How-Did-BTC-Price-Avoid-the-Damage",
+    "source": "beincrypto.com",
+    "published": "Tue Jul 07 2026 16:54:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST: The AI market has a hundred \"best models.\"\n\nThe real question is, who's verifying that you're getting what you paid for?\n\n@dgrid_ai uses Proof of Quality – independently testing providers and recording the results on-chain. Verified, auditable, trustless.",
     "link": "https://cryptopanic.com/news/32992963/LATEST-The-AI-market-has-a-hundred-best-models-The-real-question-is-whos-verifying-that-youre-getting-what-you-paid-for-dgrid_ai-uses-Proof-of-Quality-independently-testing-providers-and-recording-the-results-on-chain-Verified-auditable-trustless",
     "source": "@cointelegraph",
@@ -123,90 +207,6 @@
     "link": "https://cryptopanic.com/news/32992833/Frances-debt-burden-at-risk-of-snowballing-ahead-of-2027-election",
     "source": "@reutersbiz",
     "published": "Tue Jul 07 2026 16:45:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tether commits to $20M investment to support Mercado Bitcoin LATAM expansion",
-    "link": "https://cryptopanic.com/news/32992873/Tether-commits-to-20M-investment-to-support-Mercado-Bitcoin-LATAM-expansion",
-    "source": "cryptopolitan.com",
-    "published": "Tue Jul 07 2026 16:45:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Arlo Devlin-Brown on Corporate Compliance and Digital Asset Enforcement",
-    "link": "https://cryptopanic.com/news/32992802/Arlo-Devlin-Brown-on-Corporate-Compliance-and-Digital-Asset-Enforcement",
-    "source": "cryptomegaphone.com",
-    "published": "Tue Jul 07 2026 16:41:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Strategy Selling Bitcoin Isn't the Problem—It May Be the Solution, Grayscale Argues",
-    "link": "https://cryptopanic.com/news/32992869/Strategy-Selling-Bitcoin-Isnt-the-ProblemIt-May-Be-the-Solution-Grayscale-Argues",
-    "source": "feeds2.benzinga.com",
-    "published": "Tue Jul 07 2026 16:39:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "I’m not going to fall for the trap of hating on someone bc we disagree on Bitcoin in some way. \n\nInternecine battles often play into the hands of our enemies. \n\nI’m not taking the bait.",
-    "link": "https://cryptopanic.com/news/32992877/Im-not-going-to-fall-for-the-trap-of-hating-on-someone-bc-we-disagree-on-Bitcoin-in-some-way-Internecine-battles-often-play-into-the-hands-of-our-enemies-Im-not-taking-the-bait",
-    "source": "@btc_archive",
-    "published": "Tue Jul 07 2026 16:32:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Credit: @davidgokhshtein",
-    "link": "https://cryptopanic.com/news/32992745/Credit-davidgokhshtein",
-    "source": "@angrycryptoshow",
-    "published": "Tue Jul 07 2026 16:30:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Charles Hoskinson says #Cardano $ADA solved the blockchain trilemma.",
-    "link": "https://cryptopanic.com/news/32992747/UPDATE-Charles-Hoskinson-says-Cardano-ADA-solved-the-blockchain-trilemma",
-    "source": "@angrycryptoshow",
-    "published": "Tue Jul 07 2026 16:30:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 LATEST: Paul Atkins says the 2026 regulatory agenda will push crypto reforms, tokenized securities rules and more crypto product launches in the U.S.",
-    "link": "https://cryptopanic.com/news/32992754/LATEST-Paul-Atkins-says-the-2026-regulatory-agenda-will-push-crypto-reforms-tokenized-securities-rules-and-more-crypto-product-launches-in-the-US",
-    "source": "@cointelegraph",
-    "published": "Tue Jul 07 2026 16:30:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INSIGHT: Wall Street analysts launched coverage of SpaceX with price targets ranging from $205 to $800 following the end of the IPO quiet period.\n\nGoldman Sachs set a $205 target, Morgan Stanley went to $300, and Raymond James issued the Street-high target of $800.",
-    "link": "https://cryptopanic.com/news/32992752/INSIGHT-Wall-Street-analysts-launched-coverage-of-SpaceX-with-price-targets-ranging-from-205-to-800-following-the-end-of-the-IPO-quiet-period-Goldman-Sachs-set-a-205-target-Morgan-Stanley-went-to-300-and-Raymond-James-issued-the-Street-high-target-of-800",
-    "source": "@coindesk",
-    "published": "Tue Jul 07 2026 16:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ondo Finance says tokenized stocks can now be used as collateral for perp trading",
-    "link": "https://cryptopanic.com/news/32992740/Ondo-Finance-says-tokenized-stocks-can-now-be-used-as-collateral-for-perp-trading",
-    "source": "theblock.co",
-    "published": "Tue Jul 07 2026 16:29:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Made in USA Inc. Bets Big on XRP Ledger With Full Tech Stack Acquisition",
-    "link": "https://cryptopanic.com/news/32992723/Made-in-USA-Inc-Bets-Big-on-XRP-Ledger-With-Full-Tech-Stack-Acquisition",
-    "source": "coinpaper.com",
-    "published": "Tue Jul 07 2026 16:28:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Credit: @davidgokhshtein",
-    "link": "https://cryptopanic.com/news/32992744/Credit-davidgokhshtein",
-    "source": "@angrycryptoshow",
-    "published": "Tue Jul 07 2026 16:27:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: #Cardano $ADA Founder Charles Hoskinson says \"I'm not responsible for the markets going up and down. I'm here to solve global scale problems, we built civilization-scale technology.\"",
-    "link": "https://cryptopanic.com/news/32992743/UPDATE-Cardano-ADA-Founder-Charles-Hoskinson-says-Im-not-responsible-for-the-markets-going-up-and-down-Im-here-to-solve-global-scale-problems-we-built-civilization-scale-technology",
-    "source": "@angrycryptoshow",
-    "published": "Tue Jul 07 2026 16:27:34 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
