@@ -1,5 +1,12 @@
 [
   {
+    "title": "Bitcoin Is 'Anti-Fragile,' Says CFTC Chairman, Urges To Pass CLARITY Act",
+    "link": "https://cryptopanic.com/news/33001636/Bitcoin-Is-Anti-Fragile-Says-CFTC-Chairman-Urges-To-Pass-CLARITY-Act",
+    "source": "feeds2.benzinga.com",
+    "published": "Wed Jul 08 2026 21:16:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Apple announced a $30 billion deal with longtime supplier Broadcom to source chips through 2031, expanding US-based manufacturing at a Colorado factory as the Trump administration pushes for greater domestic chip production",
     "link": "https://cryptopanic.com/news/33001553/Apple-announced-a-30-billion-deal-with-longtime-supplier-Broadcom-to-source-chips-through-2031-expanding-US-based-manufacturing-at-a-Colorado-factory-as-the-Trump-administration-pushes-for-greater-domestic-chip-production",
     "source": "@reutersbiz",
@@ -21,6 +28,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Over $2.5 trillion in stablecoins has moved across BNB Chain\n\n@BNBCHAIN's stablecoin supply sits at $13.7 billion, but the traffic is the headline. More than $2.5 trillion in cumulative volume has flowed through it, with 2025 alone nearing $1 trillion, per DefiLlama data.\n\n$USDT",
+    "link": "https://cryptopanic.com/news/33001604/Over-25-trillion-in-stablecoins-has-moved-across-BNB-Chain-BNBCHAINs-stablecoin-supply-sits-at-137-billion-but-the-traffic-is-the-headline-More-than-25-trillion-in-cumulative-volume-has-flowed-through-it-with-2025-alone-nearing-1-trillion-per-DefiLlama-data-USDT",
+    "source": "@bscnews",
+    "published": "Wed Jul 08 2026 21:01:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "🇰🇷 UPDATE: Optimism says its new MOU with Toss could bring South Korea’s financial superapp with 30M users closer to onchain payments.",
     "link": "https://cryptopanic.com/news/33001552/UPDATE-Optimism-says-its-new-MOU-with-Toss-could-bring-South-Koreas-financial-superapp-with-30M-users-closer-to-onchain-payments",
     "source": "@cointelegraph",
@@ -28,10 +42,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "🇯🇵 Japan’s SBI says $BTC and $XRP are becoming corporate treasury assets.\n\nAs the yen loses purchasing power, firms are adding $BTC & $XRP to balance sheets.\n\nSBI VC Trade + BITPOINT accounts have now passed 2M, doubling from 2025.\n\nTreasury adoption is coming!",
+    "link": "https://cryptopanic.com/news/33001602/Japans-SBI-says-BTC-and-XRP-are-becoming-corporate-treasury-assets-As-the-yen-loses-purchasing-power-firms-are-adding-BTC-amp-XRP-to-balance-sheets-SBI-VC-Trade-BITPOINT-accounts-have-now-passed-2M-doubling-from-2025-Treasury-adoption-is-coming",
+    "source": "@realallincrypto",
+    "published": "Wed Jul 08 2026 21:00:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Binance Wallet adds Plume’s yield vault offering access to Invesco and Bitwise funds",
     "link": "https://cryptopanic.com/news/33001490/Binance-Wallet-adds-Plumes-yield-vault-offering-access-to-Invesco-and-Bitwise-funds",
     "source": "theblock.co",
     "published": "Wed Jul 08 2026 21:00:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Binance Blames DOJ Warning on Misread of Abu Dhabi Rules",
+    "link": "https://cryptopanic.com/news/33001657/Binance-Blames-DOJ-Warning-on-Misread-of-Abu-Dhabi-Rules",
+    "source": "beincrypto.com",
+    "published": "Wed Jul 08 2026 20:58:16 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -46,6 +74,13 @@
     "link": "https://cryptopanic.com/news/33001480/Will-XRP-Be-Included-Alongside-BTC-In-Trump-Accounts",
     "source": "dailycoin.com",
     "published": "Wed Jul 08 2026 20:55:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Fees?",
+    "link": "https://cryptopanic.com/news/33001603/Fees",
+    "source": "@bscnews",
+    "published": "Wed Jul 08 2026 20:52:08 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -67,6 +102,13 @@
     "link": "https://cryptopanic.com/news/33001007/Solana-Memecoin-Traders-Flock-to-RobinHood-Will-it-Last",
     "source": "solanafloor.com",
     "published": "Wed Jul 08 2026 20:48:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Judge Approves $1.5 Million Penalty for Elon Musk in Twitter SEC Case",
+    "link": "https://cryptopanic.com/news/33001656/Judge-Approves-15-Million-Penalty-for-Elon-Musk-in-Twitter-SEC-Case",
+    "source": "beincrypto.com",
+    "published": "Wed Jul 08 2026 20:42:37 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -165,48 +207,6 @@
     "link": "https://cryptopanic.com/news/33001314/Charles-Hoskinson-Says-Ethereum-Is-Adopting-Cardano-Ideas-Without-Credit",
     "source": "cryptopotato.com",
     "published": "Wed Jul 08 2026 20:09:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ecosystem Leaders Push Back on Criticism over “Private Inclusion” Lanes",
-    "link": "https://cryptopanic.com/news/33000771/Ecosystem-Leaders-Push-Back-on-Criticism-over-Private-Inclusion-Lanes",
-    "source": "solanafloor.com",
-    "published": "Wed Jul 08 2026 20:09:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Galaxy head of research Alex Thorn says Bitcoin’s digital gold thesis is intact: \"It's right there at $60K. Last time Bitcoin bottomed at $15.7K.\"",
-    "link": "https://cryptopanic.com/news/33001367/LATEST-Galaxy-head-of-research-Alex-Thorn-says-Bitcoins-digital-gold-thesis-is-intact-Its-right-there-at-60K-Last-time-Bitcoin-bottomed-at-157K",
-    "source": "@coinmarketcap",
-    "published": "Wed Jul 08 2026 20:05:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BNB Chain Plans New Layer-1 Blockchain for AI Finance",
-    "link": "https://cryptopanic.com/news/33001282/BNB-Chain-Plans-New-Layer-1-Blockchain-for-AI-Finance",
-    "source": "dailycoin.com",
-    "published": "Wed Jul 08 2026 20:05:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$BTC vs Stocks still sitting at the post ETF sell off level from early 2024.\n\nThis area has been holding for Bitcoin relative to the S&P 500 but bulls are failing to push higher on this.\n\nImportant level to watch.",
-    "link": "https://cryptopanic.com/news/33001452/BTC-vs-Stocks-still-sitting-at-the-post-ETF-sell-off-level-from-early-2024-This-area-has-been-holding-for-Bitcoin-relative-to-the-SampP-500-but-bulls-are-failing-to-push-higher-on-this-Important-level-to-watch",
-    "source": "@daancrypto",
-    "published": "Wed Jul 08 2026 20:01:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: SpaceXAI announced Grok 4.5, its first model trained specifically for coding and agents.",
-    "link": "https://cryptopanic.com/news/33001370/LATEST-SpaceXAI-announced-Grok-45-its-first-model-trained-specifically-for-coding-and-agents",
-    "source": "@cointelegraph",
-    "published": "Wed Jul 08 2026 20:00:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "PwC says 6 forces are driving tokenised funds in report where they state tokenised funds could hit $700B+ by 2030!\n\nThey state the 6 forces as; \n🥇Tech maturity\n🥈Operational benefits\n🥉Regulatory clarity\n4⃣Institutional adoption\n5⃣Market demand\n6⃣DeFi integration\n \n$XLM $HBAR",
-    "link": "https://cryptopanic.com/news/33001453/PwC-says-6-forces-are-driving-tokenised-funds-in-report-where-they-state-tokenised-funds-could-hit-700B-by-2030-They-state-the-6-forces-as-Tech-maturity-Operational-benefits-Regulatory-clarity-4Institutional-adoption-5Market-demand-6DeFi-integration-XLM-HBAR",
-    "source": "@realallincrypto",
-    "published": "Wed Jul 08 2026 20:00:21 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
