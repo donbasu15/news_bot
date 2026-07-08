@@ -1,5 +1,33 @@
 [
   {
+    "title": "Why UBI Is No Longer Optional",
+    "link": "https://cryptopanic.com/news/32994634/Why-UBI-Is-No-Longer-Optional",
+    "source": "AnthonyPompliano",
+    "published": "Wed Jul 08 2026 01:02:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Can Ethereum keep beating Bitcoin in Q3? Tom Lee’s ETH thesis under pressure",
+    "link": "https://cryptopanic.com/news/32994604/Can-Ethereum-keep-beating-Bitcoin-in-Q3-Tom-Lees-ETH-thesis-under-pressure",
+    "source": "ambcrypto.com",
+    "published": "Wed Jul 08 2026 01:00:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇪🇺 The European Parliament has adopted a formal policy stance urging the European Commission to bring DeFi, staking, crypto lending and NFTs more clearly under MiCA's regulatory perimeter.",
+    "link": "https://cryptopanic.com/news/32994592/LATEST-The-European-Parliament-has-adopted-a-formal-policy-stance-urging-the-European-Commission-to-bring-DeFi-staking-crypto-lending-and-NFTs-more-clearly-under-MiCAs-regulatory-perimeter",
+    "source": "@coinmarketcap",
+    "published": "Wed Jul 08 2026 00:55:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "It's Been 2.5 Years Since Trump Spoke About Crypto — Now This...",
+    "link": "https://cryptopanic.com/news/32994591/Its-Been-25-Years-Since-Trump-Spoke-About-Crypto-Now-This",
+    "source": "BTCSessions",
+    "published": "Wed Jul 08 2026 00:54:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Source",
     "link": "https://cryptopanic.com/news/32994594/Source",
     "source": "@wublockchain",
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/32994289/LATEST-Vitalik-Buterin-confirmed-that-AI-assisted-analysis-has-correctly-identified-his-anonymous-rewrite-of-EIP-7503-after-challenging-the-public-to-use-AI-to-find-his-anonymous-writing",
     "source": "@coinmarketcap",
     "published": "Tue Jul 07 2026 22:53:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The one spot $HBAR ETF just saw its biggest inflow since mid-May...\n\nOn July 6, Canary's spot @Hedera ETF witnessed +$1.01M in net inflows.\n\nThis is the best daily performance the product has seen since May 15, the ETF now holding an impressive 1.59% of $HBAR's circulating",
-    "link": "https://cryptopanic.com/news/32994181/The-one-spot-HBAR-ETF-just-saw-its-biggest-inflow-since-mid-May-On-July-6-Canarys-spot-Hedera-ETF-witnessed-101M-in-net-inflows-This-is-the-best-daily-performance-the-product-has-seen-since-May-15-the-ETF-now-holding-an-impressive-159-of-HBARs-circulating",
-    "source": "@bscnews",
-    "published": "Tue Jul 07 2026 22:37:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Strike introduced volatility-proof Bitcoin loans with no margin calls or price-based liquidations.",
-    "link": "https://cryptopanic.com/news/32994162/NEW-Strike-introduced-volatility-proof-Bitcoin-loans-with-no-margin-calls-or-price-based-liquidations",
-    "source": "@cointelegraph",
-    "published": "Tue Jul 07 2026 22:31:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "#BREAKING: 🇨🇳 China expected to produce over 100,000 humanoid robots this year.",
-    "link": "https://cryptopanic.com/news/32994160/BREAKING-China-expected-to-produce-over-100000-humanoid-robots-this-year",
-    "source": "@cryptonwsuk",
-    "published": "Tue Jul 07 2026 22:31:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Anthropic Removes Hidden Claude Code Tracker After Researchers Raise Privacy Concerns",
-    "link": "https://cryptopanic.com/news/32994128/Anthropic-Removes-Hidden-Claude-Code-Tracker-After-Researchers-Raise-Privacy-Concerns",
-    "source": "decrypt.co",
-    "published": "Tue Jul 07 2026 22:31:03 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
