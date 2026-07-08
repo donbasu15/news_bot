@@ -1,5 +1,47 @@
 [
   {
+    "title": "Breakingviews - Venezuela's restructuring is crudely optimistic",
+    "link": "https://cryptopanic.com/news/32995279/Breakingviews-Venezuelas-restructuring-is-crudely-optimistic",
+    "source": "@reutersbiz",
+    "published": "Wed Jul 08 2026 03:15:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇨🇳 JUST IN: China is considering curbing overseas access to its top AI models, including unreleased ones, after meetings with firms like Alibaba, ByteDance, and Z(.)ai, per Reuters.",
+    "link": "https://cryptopanic.com/news/32995278/JUST-IN-China-is-considering-curbing-overseas-access-to-its-top-AI-models-including-unreleased-ones-after-meetings-with-firms-like-Alibaba-ByteDance-and-Zai-per-Reuters",
+    "source": "@cointelegraph",
+    "published": "Wed Jul 08 2026 03:00:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Enlivex Shares Fall to Record Low of $0.42 as Selling Pressure Deepens",
+    "link": "https://cryptopanic.com/news/32995190/Enlivex-Shares-Fall-to-Record-Low-of-042-as-Selling-Pressure-Deepens",
+    "source": "coincu.com",
+    "published": "Wed Jul 08 2026 02:54:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇷🇺 TODAY: Russia's Financial Market Committee approves the final version of its crypto bill, clearing the way for its second reading.\n\nKey changes:\n- Removes mandatory crypto wallet address reporting, only balances and transaction flows must be declared.\n- Permits legal purchase",
+    "link": "https://cryptopanic.com/news/32995277/TODAY-Russias-Financial-Market-Committee-approves-the-final-version-of-its-crypto-bill-clearing-the-way-for-its-second-reading-Key-changes-Removes-mandatory-crypto-wallet-address-reporting-only-balances-and-transaction-flows-must-be-declared-Permits-legal-purchase",
+    "source": "@cointelegraph",
+    "published": "Wed Jul 08 2026 02:40:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/32995276/Source",
+    "source": "@wublockchain",
+    "published": "Wed Jul 08 2026 02:40:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Polymarket Integrates Spark for Instant Bitcoin Lightning Deposits\n\nAccording to BitcoinMagazine, Polymarket has officially enabled instant deposits via the Bitcoin Lightning Network, powered by the Spark payment protocol. Unlike the previous model, which required 10–60 minutes",
+    "link": "https://cryptopanic.com/news/32995275/Polymarket-Integrates-Spark-for-Instant-Bitcoin-Lightning-Deposits-According-to-BitcoinMagazine-Polymarket-has-officially-enabled-instant-deposits-via-the-Bitcoin-Lightning-Network-powered-by-the-Spark-payment-protocol-Unlike-the-previous-model-which-required-1060-minutes",
+    "source": "@wublockchain",
+    "published": "Wed Jul 08 2026 02:39:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Tom Lee(@fundstrat)'s #Bitmine bought another 40,000 $ETH($71.6M) from #FalconX and #Kraken 11 hours ago.",
     "link": "https://cryptopanic.com/news/32995169/Tom-Leefundstrats-Bitmine-bought-another-40000-ETH716M-from-FalconX-and-Kraken-11-hours-ago",
     "source": "@lookonchain",
@@ -18,6 +60,13 @@
     "link": "https://cryptopanic.com/news/32995117/JUST-IN-US-CENTCOM-says-it-is-prepared-to-hold-Iran-accountable-when-the-agreement-is-not-adhered-to-or-obeyed",
     "source": "@cointelegraph",
     "published": "Wed Jul 08 2026 02:20:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Michael Saylor Reveals the One Metric Keeping MicroStrategy’s Bitcoin Play Sustainable",
+    "link": "https://cryptopanic.com/news/32995220/Michael-Saylor-Reveals-the-One-Metric-Keeping-MicroStrategys-Bitcoin-Play-Sustainable",
+    "source": "beincrypto.com",
+    "published": "Wed Jul 08 2026 02:20:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -158,55 +207,6 @@
     "link": "https://cryptopanic.com/news/32994935/LATEST-Chinas-humanoid-robot-output-is-set-to-top-100000-units-this-year-a-senior-MIIT-official-says-as-the-countrys-AI-ecosystem-fuels-rapid-growth-in-the-robotics-sector",
     "source": "@cointelegraph",
     "published": "Wed Jul 08 2026 01:20:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Starbucks India Rival Blue Tokai Targets Tripling Store Count in Four Years",
-    "link": "https://cryptopanic.com/news/32994904/Starbucks-India-Rival-Blue-Tokai-Targets-Tripling-Store-Count-in-Four-Years",
-    "source": "square.binance.com",
-    "published": "Wed Jul 08 2026 01:19:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SpaceX Trading Frenzy Sends Tokenized Equity Volume to Record $3.86B",
-    "link": "https://cryptopanic.com/news/32994668/SpaceX-Trading-Frenzy-Sends-Tokenized-Equity-Volume-to-Record-386B",
-    "source": "cryptoprowl.com",
-    "published": "Wed Jul 08 2026 01:18:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "PancakeSwap has burned $0.54M worth of $CAKE this week.\n\nLeading DEX platform @PancakeSwap has burned some $538,000 worth of its native token over the past week, resulting in deflation to the tune of -$336,000 once minting is taken into account.\n\nCurrently, PancakeSwap has burned",
-    "link": "https://cryptopanic.com/news/32994967/PancakeSwap-has-burned-054M-worth-of-CAKE-this-week-Leading-DEX-platform-PancakeSwap-has-burned-some-538000-worth-of-its-native-token-over-the-past-week-resulting-in-deflation-to-the-tune-of-336000-once-minting-is-taken-into-account-Currently-PancakeSwap-has-burned",
-    "source": "@bscnews",
-    "published": "Wed Jul 08 2026 01:17:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Daily $ADA News! ️\n\n\"Cardano is Undervalued.\"\n\"Growing by Leaps and Bounds.\"",
-    "link": "https://cryptopanic.com/news/32994933/Daily-ADA-News-Cardano-is-Undervalued-Growing-by-Leaps-and-Bounds",
-    "source": "@angrycryptoshow",
-    "published": "Wed Jul 08 2026 01:14:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Justin Sun Says BitTorrent Has Completed the BTTC Bridge Sunset Program",
-    "link": "https://cryptopanic.com/news/32994903/Justin-Sun-Says-BitTorrent-Has-Completed-the-BTTC-Bridge-Sunset-Program",
-    "source": "square.binance.com",
-    "published": "Wed Jul 08 2026 01:14:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hunter: Rising Inflation Expectations May Require Period of Low Inflation and Higher Unemployment",
-    "link": "https://cryptopanic.com/news/32994902/Hunter-Rising-Inflation-Expectations-May-Require-Period-of-Low-Inflation-and-Higher-Unemployment",
-    "source": "square.binance.com",
-    "published": "Wed Jul 08 2026 01:04:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum Foundation Developer Relations Member Sophia Dew Says This Week Is Her Last Full-Time Week",
-    "link": "https://cryptopanic.com/news/32994901/Ethereum-Foundation-Developer-Relations-Member-Sophia-Dew-Says-This-Week-Is-Her-Last-Full-Time-Week",
-    "source": "square.binance.com",
-    "published": "Wed Jul 08 2026 01:03:53 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
