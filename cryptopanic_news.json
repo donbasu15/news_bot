@@ -1,9 +1,121 @@
 [
   {
+    "title": "Discord unbans 8,000 users after AI wrongly flagged harmless images",
+    "link": "https://cryptopanic.com/news/33000602/Discord-unbans-8000-users-after-AI-wrongly-flagged-harmless-images",
+    "source": "cryptopolitan.com",
+    "published": "Wed Jul 08 2026 17:38:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Justin Sun’s NFT marketplace managed just four sales last month",
+    "link": "https://cryptopanic.com/news/33000578/Justin-Suns-NFT-marketplace-managed-just-four-sales-last-month",
+    "source": "protos.com",
+    "published": "Wed Jul 08 2026 17:35:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "228M XRP Quietly Leaves Coinbase As Whale Flows Spike",
+    "link": "https://cryptopanic.com/news/33000575/228M-XRP-Quietly-Leaves-Coinbase-As-Whale-Flows-Spike",
+    "source": "dailycoin.com",
+    "published": "Wed Jul 08 2026 17:33:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "DisclaimerCoin (DONT) goes to new ownership as DeFi Dev Corp turns over control",
+    "link": "https://cryptopanic.com/news/33000586/DisclaimerCoin-DONT-goes-to-new-ownership-as-DeFi-Dev-Corp-turns-over-control",
+    "source": "cryptopolitan.com",
+    "published": "Wed Jul 08 2026 17:32:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: The Justice Department reportedly warned staff that Binance may cooperate less on crypto-related cases, per The Information.\n\nBinance denies, says there has been and will be no change to its cooperation.",
+    "link": "https://cryptopanic.com/news/33000538/LATEST-The-Justice-Department-reportedly-warned-staff-that-Binance-may-cooperate-less-on-crypto-related-cases-per-The-Information-Binance-denies-says-there-has-been-and-will-be-no-change-to-its-cooperation",
+    "source": "@cointelegraph",
+    "published": "Wed Jul 08 2026 17:30:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: #Cardano $ADA Founder Charles Hoskinson says \"at the end of the year, we'll be 60x faster, and we have a beautiful strategy for how on a dApp by dApp basis, there's infinite scale with Hydra, and how we can invite in all of these other networks using partner chains.\"",
+    "link": "https://cryptopanic.com/news/33000535/JUST-IN-Cardano-ADA-Founder-Charles-Hoskinson-says-at-the-end-of-the-year-well-be-60x-faster-and-we-have-a-beautiful-strategy-for-how-on-a-dApp-by-dApp-basis-theres-infinite-scale-with-Hydra-and-how-we-can-invite-in-all-of-these-other-networks-using-partner-chains",
+    "source": "@angrycryptoshow",
+    "published": "Wed Jul 08 2026 17:30:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: #Cardano $ADA Founder Charles Hoskinson on Ethereum, says \"they are literally embracing something we started doing in 2016 as an ecosystem. And we had to go through all the pain and the suffering to figure out how to actually do it, and do it right.\"",
+    "link": "https://cryptopanic.com/news/33000534/JUST-IN-Cardano-ADA-Founder-Charles-Hoskinson-on-Ethereum-says-they-are-literally-embracing-something-we-started-doing-in-2016-as-an-ecosystem-And-we-had-to-go-through-all-the-pain-and-the-suffering-to-figure-out-how-to-actually-do-it-and-do-it-right",
+    "source": "@angrycryptoshow",
+    "published": "Wed Jul 08 2026 17:27:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Is crypto heading into its real 2008 moment?  Join us with @themarketsniper as we discuss Bitcoin, dollar strength, CPI, MicroStrategy, $XRP price targets, private credit and why most of crypto may not survive the next liquidity shock.  #Crypto",
+    "link": "https://cryptopanic.com/news/33000637/Is-crypto-heading-into-its-real-2008-moment-Join-us-with-themarketsniper-as-we-discuss-Bitcoin-dollar-strength-CPI-MicroStrategy-XRP-price-targets-private-credit-and-why-most-of-crypto-may-not-survive-the-next-liquidity-shock-Crypto",
+    "source": "@realallincrypto",
+    "published": "Wed Jul 08 2026 17:27:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: #Cardano $ADA Founder Charles Hoskinson on Ethereum's pivot to UTXO, says \"we invent all the infrastructure for it, so instead of saying \"we should be like Cardano,\" and give us attribution and credit, they don't even mention it. You can't say Cardano in Ethereum.\"",
+    "link": "https://cryptopanic.com/news/33000532/JUST-IN-Cardano-ADA-Founder-Charles-Hoskinson-on-Ethereums-pivot-to-UTXO-says-we-invent-all-the-infrastructure-for-it-so-instead-of-saying-we-should-be-like-Cardano-and-give-us-attribution-and-credit-they-dont-even-mention-it-You-cant-say-Cardano-in-Ethereum",
+    "source": "@angrycryptoshow",
+    "published": "Wed Jul 08 2026 17:26:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BNB Chain wants to double its mainnet again, and build a new chain for AI\n\n@BNBCHAIN's H2 roadmap is out. After nearly doubling BSC to ~5,200 TPS this year, it now aims to double mainnet throughput again, targeting 10x over time.\n\nThe bigger swing is a new high-performance L1",
+    "link": "https://cryptopanic.com/news/33000640/BNB-Chain-wants-to-double-its-mainnet-again-and-build-a-new-chain-for-AI-BNBCHAINs-H2-roadmap-is-out-After-nearly-doubling-BSC-to-5200-TPS-this-year-it-now-aims-to-double-mainnet-throughput-again-targeting-10x-over-time-The-bigger-swing-is-a-new-high-performance-L1",
+    "source": "@bscnews",
+    "published": "Wed Jul 08 2026 17:24:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: Block will pay $45 million to settle allegations from New York and 45 other states that it failed to adequately protect Cash App users from fraud and misled customers about the platform's safety.",
+    "link": "https://cryptopanic.com/news/33000536/LATEST-Block-will-pay-45-million-to-settle-allegations-from-New-York-and-45-other-states-that-it-failed-to-adequately-protect-Cash-App-users-from-fraud-and-misled-customers-about-the-platforms-safety",
+    "source": "@coindesk",
+    "published": "Wed Jul 08 2026 17:19:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: #Cardano $ADA Founder Charles Hoskinson says \"if you took the United States out of it, we would have had a regular cycle, and actually had an alt season in 2025, and everything would have been fine.\"",
+    "link": "https://cryptopanic.com/news/33000530/UPDATE-Cardano-ADA-Founder-Charles-Hoskinson-says-if-you-took-the-United-States-out-of-it-we-would-have-had-a-regular-cycle-and-actually-had-an-alt-season-in-2025-and-everything-would-have-been-fine",
+    "source": "@angrycryptoshow",
+    "published": "Wed Jul 08 2026 17:18:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Credit: @davidgokhshtein",
+    "link": "https://cryptopanic.com/news/33000529/Credit-davidgokhshtein",
+    "source": "@angrycryptoshow",
+    "published": "Wed Jul 08 2026 17:18:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ADA bulls eye $0.20 as Cardano founder says Ethereum is adopting its eUTXO concept",
+    "link": "https://cryptopanic.com/news/33000571/ADA-bulls-eye-020-as-Cardano-founder-says-Ethereum-is-adopting-its-eUTXO-concept",
+    "source": "coinjournal.net",
+    "published": "Wed Jul 08 2026 17:18:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: $200 billion VanEck expects Bitcoin to be \"materially higher\" in a year \n\nVanEck's Matthew Sigel is \"advising clients to gradually build their Bitcoin positions over the coming months.\"",
     "link": "https://cryptopanic.com/news/33000457/JUST-IN-200-billion-VanEck-expects-Bitcoin-to-be-materially-higher-in-a-year-VanEcks-Matthew-Sigel-is-advising-clients-to-gradually-build-their-Bitcoin-positions-over-the-coming-months",
     "source": "@bitcoinmagazine",
     "published": "Wed Jul 08 2026 17:12:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "It's $USDC to a fresh wallet, not $ETH to an exchange. Vitalik shuffles and donates funds all the time, so this reads more like housekeeping than a market signal. Still worth a watch.",
+    "link": "https://cryptopanic.com/news/33000639/Its-USDC-to-a-fresh-wallet-not-ETH-to-an-exchange-Vitalik-shuffles-and-donates-funds-all-the-time-so-this-reads-more-like-housekeeping-than-a-market-signal-Still-worth-a-watch",
+    "source": "@bscnews",
+    "published": "Wed Jul 08 2026 17:12:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Kraken is pursuing a full banking license in Lithuania, which would make it the first crypto exchange to hold such a status in Europe.",
+    "link": "https://cryptopanic.com/news/33000522/LATEST-Kraken-is-pursuing-a-full-banking-license-in-Lithuania-which-would-make-it-the-first-crypto-exchange-to-hold-such-a-status-in-Europe",
+    "source": "@coinmarketcap",
+    "published": "Wed Jul 08 2026 17:05:13 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -14,10 +126,31 @@
     "sentiment": "neutral"
   },
   {
+    "title": "🇺🇸🇮🇷 JUST IN: Trump says he is no longer sure he wants a deal with Iran, adding, “Let’s just finish the job.”",
+    "link": "https://cryptopanic.com/news/33000537/JUST-IN-Trump-says-he-is-no-longer-sure-he-wants-a-deal-with-Iran-adding-Lets-just-finish-the-job",
+    "source": "@cointelegraph",
+    "published": "Wed Jul 08 2026 17:04:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "CFTC Charges Commodity Pool Operator in Alleged $14.8 Million Fraud Involving Crypto Assets",
     "link": "https://cryptopanic.com/news/33000396/CFTC-Charges-Commodity-Pool-Operator-in-Alleged-148-Million-Fraud-Involving-Crypto-Assets",
     "source": "cryptomegaphone.com",
     "published": "Wed Jul 08 2026 17:04:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Nexo Launches Crypto Card for Spending and Borrowing in Argentina\n\nNexo launched the Nexo Card in Argentina, allowing eligible users to either spend digital assets in debit mode or borrow against their holdings in credit mode without selling them. The card lets users switch",
+    "link": "https://cryptopanic.com/news/33000527/Nexo-Launches-Crypto-Card-for-Spending-and-Borrowing-in-Argentina-Nexo-launched-the-Nexo-Card-in-Argentina-allowing-eligible-users-to-either-spend-digital-assets-in-debit-mode-or-borrow-against-their-holdings-in-credit-mode-without-selling-them-The-card-lets-users-switch",
+    "source": "@wublockchain",
+    "published": "Wed Jul 08 2026 17:03:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33000526/Source",
+    "source": "@wublockchain",
+    "published": "Wed Jul 08 2026 17:03:35 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -49,6 +182,20 @@
     "sentiment": "neutral"
   },
   {
+    "title": "CoinMarketCap | Bitcoin Dominance \n\nBitcoin still rules the market. \nHowever its grip has been slipping all year.\n\n$BTC dominance measures Bitcoin's share of the whole crypto market:\n\n Down from 64.5% to 58.1% since July 2025\n Altcoins now hold 32% of the market\n Fear",
+    "link": "https://cryptopanic.com/news/33000521/CoinMarketCap-Bitcoin-Dominance-Bitcoin-still-rules-the-market-However-its-grip-has-been-slipping-all-year-BTC-dominance-measures-Bitcoins-share-of-the-whole-crypto-market-Down-from-645-to-581-since-July-2025-Altcoins-now-hold-32-of-the-market-Fear",
+    "source": "@coinmarketcap",
+    "published": "Wed Jul 08 2026 17:00:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Zcash co-founder Eli Ben-Sasson suggests $BTC should remove its 21M supply cap and grow supply 4% per year, arguing lost keys make the hard cap flawed.\n\nClever fix or does this completely go against what Bitcoin was built to do?\n\nWhat do you guys think?",
+    "link": "https://cryptopanic.com/news/33000636/Zcash-co-founder-Eli-Ben-Sasson-suggests-BTC-should-remove-its-21M-supply-cap-and-grow-supply-4-per-year-arguing-lost-keys-make-the-hard-cap-flawed-Clever-fix-or-does-this-completely-go-against-what-Bitcoin-was-built-to-do-What-do-you-guys-think",
+    "source": "@realallincrypto",
+    "published": "Wed Jul 08 2026 17:00:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Lucky Trader Turns $85 Into $2 Million on Robinhood Chain Meme Coin",
     "link": "https://cryptopanic.com/news/33000353/Lucky-Trader-Turns-85-Into-2-Million-on-Robinhood-Chain-Meme-Coin",
     "source": "decrypt.co",
@@ -60,153 +207,6 @@
     "link": "https://cryptopanic.com/news/33000360/AscenDex-shutdown-Uncertainty-over-withdrawals-as-hot-wallets-lack-funds",
     "source": "protos.com",
     "published": "Wed Jul 08 2026 16:59:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple Puts XRP on the Kansas Jayhawks' Jerseys, Becomes First Crypto College Athletes Sponsor",
-    "link": "https://cryptopanic.com/news/33000439/Ripple-Puts-XRP-on-the-Kansas-Jayhawks-Jerseys-Becomes-First-Crypto-College-Athletes-Sponsor",
-    "source": "feeds2.benzinga.com",
-    "published": "Wed Jul 08 2026 16:56:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto's biggest VC just raised $1.2 billion, for AI\n\n@paradigm, one of crypto's most influential venture firms, closed a $1.2 billion fund aimed at AI and robotics, not tokens. It's already backed a drone-delivery firm and a space-defense startup.\n\nManagement says it's not",
-    "link": "https://cryptopanic.com/news/33000348/Cryptos-biggest-VC-just-raised-12-billion-for-AI-paradigm-one-of-cryptos-most-influential-venture-firms-closed-a-12-billion-fund-aimed-at-AI-and-robotics-not-tokens-Its-already-backed-a-drone-delivery-firm-and-a-space-defense-startup-Management-says-its-not",
-    "source": "@bscnews",
-    "published": "Wed Jul 08 2026 16:52:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Paradigm Raises $1.2B as Crypto VC Expands Into AI and Robotics",
-    "link": "https://cryptopanic.com/news/33000339/Paradigm-Raises-12B-as-Crypto-VC-Expands-Into-AI-and-Robotics",
-    "source": "cryptoprowl.com",
-    "published": "Wed Jul 08 2026 16:51:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump Speech on Iran:\n-Not sure I want a deal, let's finish the job\n-We have an oil glut right now\n-Don't think the war will start again\n-Anything that happens will be over very quickly\n-I predicted everything so far",
-    "link": "https://cryptopanic.com/news/33000460/Trump-Speech-on-Iran-Not-sure-I-want-a-deal-lets-finish-the-job-We-have-an-oil-glut-right-now-Dont-think-the-war-will-start-again-Anything-that-happens-will-be-over-very-quickly-I-predicted-everything-so-far",
-    "source": "@stackersatoshi",
-    "published": "Wed Jul 08 2026 16:50:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Scores Big With Kansas Jayhawks Partnership",
-    "link": "https://cryptopanic.com/news/33000314/XRP-Scores-Big-With-Kansas-Jayhawks-Partnership",
-    "source": "dailycoin.com",
-    "published": "Wed Jul 08 2026 16:47:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "No CBDC for U.S.: CFTC Chair Confirms Trump Policy Stance",
-    "link": "https://cryptopanic.com/news/33000315/No-CBDC-for-US-CFTC-Chair-Confirms-Trump-Policy-Stance",
-    "source": "coindoo.com",
-    "published": "Wed Jul 08 2026 16:46:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Trump family-backed AI Financial is in talks to sell its core business just one year after a $750M acquisition, reports WSJ.",
-    "link": "https://cryptopanic.com/news/33000313/UPDATE-Trump-family-backed-AI-Financial-is-in-talks-to-sell-its-core-business-just-one-year-after-a-750M-acquisition-reports-WSJ",
-    "source": "@cointelegraph",
-    "published": "Wed Jul 08 2026 16:28:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "EU MiCA Expansion Targets Tokenization and Non-EU Stablecoins",
-    "link": "https://cryptopanic.com/news/33000195/EU-MiCA-Expansion-Targets-Tokenization-and-Non-EU-Stablecoins",
-    "source": "coincu.com",
-    "published": "Wed Jul 08 2026 16:25:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AscendEX Exchange Collapse Hands Europe Its First MiCA Test",
-    "link": "https://cryptopanic.com/news/33000336/AscendEX-Exchange-Collapse-Hands-Europe-Its-First-MiCA-Test",
-    "source": "beincrypto.com",
-    "published": "Wed Jul 08 2026 16:25:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  StarkWare CEO Eli Ben-Sasson suggested replacing Bitcoin’s 21M supply cap with a 4% max annual issuance rate, arguing lost keys will keep shrinking the usable supply.",
-    "link": "https://cryptopanic.com/news/33000305/LATEST-StarkWare-CEO-Eli-Ben-Sasson-suggested-replacing-Bitcoins-21M-supply-cap-with-a-4-max-annual-issuance-rate-arguing-lost-keys-will-keep-shrinking-the-usable-supply",
-    "source": "@coinmarketcap",
-    "published": "Wed Jul 08 2026 16:25:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The 3 Skills You Need to Be Successful",
-    "link": "https://cryptopanic.com/news/33000269/The-3-Skills-You-Need-to-Be-Successful",
-    "source": "AnthonyPompliano",
-    "published": "Wed Jul 08 2026 16:24:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BNB’s new L1 is a major upgrade, but the price reaction says otherwise",
-    "link": "https://cryptopanic.com/news/33000180/BNBs-new-L1-is-a-major-upgrade-but-the-price-reaction-says-otherwise",
-    "source": "ambcrypto.com",
-    "published": "Wed Jul 08 2026 16:22:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Watch the dashboard to see if more outflows follow",
-    "link": "https://cryptopanic.com/news/33000307/Watch-the-dashboard-to-see-if-more-outflows-follow",
-    "source": "@cryptoquant_com",
-    "published": "Wed Jul 08 2026 16:22:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Canton's CEO defends a token that won't budge\n\n$CC sits near $0.13, even though @CantonNetwork ran a reported $9 trillion in volume last month and took 42% of all tracked blockchain fee revenue in Q1.\n\nCo-founder Yuval Rooz (@YuvalRooz) calls the price \"painful\" but says the",
-    "link": "https://cryptopanic.com/news/33000347/Cantons-CEO-defends-a-token-that-wont-budge-CC-sits-near-013-even-though-CantonNetwork-ran-a-reported-9-trillion-in-volume-last-month-and-took-42-of-all-tracked-blockchain-fee-revenue-in-Q1-Co-founder-Yuval-Rooz-YuvalRooz-calls-the-price-painful-but-says-the",
-    "source": "@bscnews",
-    "published": "Wed Jul 08 2026 16:20:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "DCA Time",
-    "link": "https://cryptopanic.com/news/33000329/DCA-Time",
-    "source": "r/hedera",
-    "published": "Wed Jul 08 2026 16:17:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Following its recent IPO, a SpaceX-linked wallet (15atF) just moved BTC for the first time since 10 December.\n\nIt sent a small test transaction (~$130). Test transfers can be an early sign of larger movements.",
-    "link": "https://cryptopanic.com/news/33000306/Following-its-recent-IPO-a-SpaceX-linked-wallet-15atF-just-moved-BTC-for-the-first-time-since-10-December-It-sent-a-small-test-transaction-130-Test-transfers-can-be-an-early-sign-of-larger-movements",
-    "source": "@cryptoquant_com",
-    "published": "Wed Jul 08 2026 16:17:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BNB Chain Plans New Layer-1 for AI Agents and Quantum Future",
-    "link": "https://cryptopanic.com/news/33000140/BNB-Chain-Plans-New-Layer-1-for-AI-Agents-and-Quantum-Future",
-    "source": "decrypt.co",
-    "published": "Wed Jul 08 2026 16:14:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INSIGHT: #Cardano has maintained a near-flawless transaction success rate, at over 99.9999%. Out of more than 119.4M transactions between August 2020 and June 2026, only 119 failed, highlighting $ADA's resilient infrastructure, according to data from Blockworks.",
-    "link": "https://cryptopanic.com/news/33000311/INSIGHT-Cardano-has-maintained-a-near-flawless-transaction-success-rate-at-over-999999-Out-of-more-than-1194M-transactions-between-August-2020-and-June-2026-only-119-failed-highlighting-ADAs-resilient-infrastructure-according-to-data-from-Blockworks",
-    "source": "@angrycryptoshow",
-    "published": "Wed Jul 08 2026 16:12:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Just Got Sucked Into A Global Honeypot — The Next Few Days Decide If It Dies.",
-    "link": "https://cryptopanic.com/news/33000175/Bitcoin-Just-Got-Sucked-Into-A-Global-Honeypot-The-Next-Few-Days-Decide-If-It-Dies",
-    "source": "BTCSessions",
-    "published": "Wed Jul 08 2026 16:12:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source: BaseScan",
-    "link": "https://cryptopanic.com/news/33000310/Source-BaseScan",
-    "source": "@angrycryptoshow",
-    "published": "Wed Jul 08 2026 16:09:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Coinbase Wrapped $ADA ($cbADA) surpasses 3.1M transactions, showcasing rising demand in cross chain #Cardano.",
-    "link": "https://cryptopanic.com/news/33000309/JUST-IN-Coinbase-Wrapped-ADA-cbADA-surpasses-31M-transactions-showcasing-rising-demand-in-cross-chain-Cardano",
-    "source": "@angrycryptoshow",
-    "published": "Wed Jul 08 2026 16:09:42 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
