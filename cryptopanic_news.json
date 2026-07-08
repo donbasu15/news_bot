@@ -1,9 +1,79 @@
 [
   {
+    "title": "Apple announced a $30 billion deal with longtime supplier Broadcom to source chips through 2031, expanding US-based manufacturing at a Colorado factory as the Trump administration pushes for greater domestic chip production",
+    "link": "https://cryptopanic.com/news/33001553/Apple-announced-a-30-billion-deal-with-longtime-supplier-Broadcom-to-source-chips-through-2031-expanding-US-based-manufacturing-at-a-Colorado-factory-as-the-Trump-administration-pushes-for-greater-domestic-chip-production",
+    "source": "@reutersbiz",
+    "published": "Wed Jul 08 2026 21:15:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: Russia's State Duma advances a revised crypto oversight bill that drops the requirement for users to disclose wallet addresses to authorities, caps retail investment at 300,000 rubles annually and introduces a 48-hour delay on large foreign transfers.RUSSIAN_WM.png",
+    "link": "https://cryptopanic.com/news/33001549/NEW-Russias-State-Duma-advances-a-revised-crypto-oversight-bill-that-drops-the-requirement-for-users-to-disclose-wallet-addresses-to-authorities-caps-retail-investment-at-300000-rubles-annually-and-introduces-a-48-hour-delay-on-large-foreign-transfersRUSSIAN_WMpng",
+    "source": "@coindesk",
+    "published": "Wed Jul 08 2026 21:14:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trump-linked AI Financial looks to offload core business for $15M",
+    "link": "https://cryptopanic.com/news/33001538/Trump-linked-AI-Financial-looks-to-offload-core-business-for-15M",
+    "source": "cryptopolitan.com",
+    "published": "Wed Jul 08 2026 21:10:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇰🇷 UPDATE: Optimism says its new MOU with Toss could bring South Korea’s financial superapp with 30M users closer to onchain payments.",
+    "link": "https://cryptopanic.com/news/33001552/UPDATE-Optimism-says-its-new-MOU-with-Toss-could-bring-South-Koreas-financial-superapp-with-30M-users-closer-to-onchain-payments",
+    "source": "@cointelegraph",
+    "published": "Wed Jul 08 2026 21:00:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Binance Wallet adds Plume’s yield vault offering access to Invesco and Bitwise funds",
+    "link": "https://cryptopanic.com/news/33001490/Binance-Wallet-adds-Plumes-yield-vault-offering-access-to-Invesco-and-Bitwise-funds",
+    "source": "theblock.co",
+    "published": "Wed Jul 08 2026 21:00:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "‘Best course of action:’ DeFi dashboard Zapper to shut down after 7 years",
+    "link": "https://cryptopanic.com/news/33001489/Best-course-of-action-DeFi-dashboard-Zapper-to-shut-down-after-7-years",
+    "source": "theblock.co",
+    "published": "Wed Jul 08 2026 20:57:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Will XRP Be Included Alongside BTC In Trump Accounts?",
+    "link": "https://cryptopanic.com/news/33001480/Will-XRP-Be-Included-Alongside-BTC-In-Trump-Accounts",
+    "source": "dailycoin.com",
+    "published": "Wed Jul 08 2026 20:55:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Chainlink Community Lead Slams Ripple-Kansas Deal, Calls XRP 'Bank-Themed Memecoin'",
+    "link": "https://cryptopanic.com/news/33001534/Chainlink-Community-Lead-Slams-Ripple-Kansas-Deal-Calls-XRP-Bank-Themed-Memecoin",
+    "source": "u.today",
+    "published": "Wed Jul 08 2026 20:51:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bank of America opens $520 million credit line to OpenAI before IPO",
+    "link": "https://cryptopanic.com/news/33001514/Bank-of-America-opens-520-million-credit-line-to-OpenAI-before-IPO",
+    "source": "cryptopolitan.com",
+    "published": "Wed Jul 08 2026 20:50:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Solana Memecoin Traders Flock to RobinHood - Will it Last?",
     "link": "https://cryptopanic.com/news/33001007/Solana-Memecoin-Traders-Flock-to-RobinHood-Will-it-Last",
     "source": "solanafloor.com",
     "published": "Wed Jul 08 2026 20:48:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇺🇸 CFTC Chair Mike Selig says the agency has now sued 9 states over prediction market jurisdiction and will continue to sue \"any state that attempts to impose criminal or civil fines against CFTC-registered exchanges.\"",
+    "link": "https://cryptopanic.com/news/33001547/LATEST-CFTC-Chair-Mike-Selig-says-the-agency-has-now-sued-9-states-over-prediction-market-jurisdiction-and-will-continue-to-sue-any-state-that-attempts-to-impose-criminal-or-civil-fines-against-CFTC-registered-exchanges",
+    "source": "@coinmarketcap",
+    "published": "Wed Jul 08 2026 20:41:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/33001453/PwC-says-6-forces-are-driving-tokenised-funds-in-report-where-they-state-tokenised-funds-could-hit-700B-by-2030-They-state-the-6-forces-as-Tech-maturity-Operational-benefits-Regulatory-clarity-4Institutional-adoption-5Market-demand-6DeFi-integration-XLM-HBAR",
     "source": "@realallincrypto",
     "published": "Wed Jul 08 2026 20:00:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Your Savings Account Is Funding Someone Else's Empire w/ BitGo CEO Mike Belshe | BMP 016",
-    "link": "https://cryptopanic.com/news/33001313/Your-Savings-Account-Is-Funding-Someone-Elses-Empire-w-BitGo-CEO-Mike-Belshe-BMP-016",
-    "source": "BitcoinMagazine",
-    "published": "Wed Jul 08 2026 20:00:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CFTC chair says crypto's market-structure bill is \"so close\"\n\nSpeaking to Fox Business, CFTC Chairman Michael Selig (@ChairmanSelig) pressed the Senate to pass the CLARITY Act before the August 7 recess, calling it \"so close\" after Congress missed a July 4 target. The bill would",
-    "link": "https://cryptopanic.com/news/33001242/CFTC-chair-says-cryptos-market-structure-bill-is-so-close-Speaking-to-Fox-Business-CFTC-Chairman-Michael-Selig-ChairmanSelig-pressed-the-Senate-to-pass-the-CLARITY-Act-before-the-August-7-recess-calling-it-so-close-after-Congress-missed-a-July-4-target-The-bill-would",
-    "source": "@bscnews",
-    "published": "Wed Jul 08 2026 19:59:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Google Puts a New Prediction Markets Ban on Chrome",
-    "link": "https://cryptopanic.com/news/33001482/Google-Puts-a-New-Prediction-Markets-Ban-on-Chrome",
-    "source": "beincrypto.com",
-    "published": "Wed Jul 08 2026 19:58:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Kraken Calls On Congress After Arbitration Win Against Former Auditor",
-    "link": "https://cryptopanic.com/news/33001266/Kraken-Calls-On-Congress-After-Arbitration-Win-Against-Former-Auditor",
-    "source": "feeds2.benzinga.com",
-    "published": "Wed Jul 08 2026 19:48:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "@lumidawealth CEO @ramahluwalia says the market's obsession with semiconductor and memory stocks has created opportunities elsewhere, leaving quality assets across other sectors mispriced and undervalued.",
-    "link": "https://cryptopanic.com/news/33001224/lumidawealth-CEO-ramahluwalia-says-the-markets-obsession-with-semiconductor-and-memory-stocks-has-created-opportunities-elsewhere-leaving-quality-assets-across-other-sectors-mispriced-and-undervalued",
-    "source": "@coindesk",
-    "published": "Wed Jul 08 2026 19:47:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Will Bitcoin be in Trump Accounts?",
-    "link": "https://cryptopanic.com/news/33001276/Will-Bitcoin-be-in-Trump-Accounts",
-    "source": "AnthonyPompliano",
-    "published": "Wed Jul 08 2026 19:47:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33001223/Source",
-    "source": "@wublockchain",
-    "published": "Wed Jul 08 2026 19:45:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Texas leads the US in crypto kiosk scams with $56.8 million stolen",
-    "link": "https://cryptopanic.com/news/33001240/Texas-leads-the-US-in-crypto-kiosk-scams-with-568-million-stolen",
-    "source": "cryptopolitan.com",
-    "published": "Wed Jul 08 2026 19:45:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Strategy Sold More Bitcoin. Is This a Betrayal of the Bitcoin Ethos?",
-    "link": "https://cryptopanic.com/news/33001236/Strategy-Sold-More-Bitcoin-Is-This-a-Betrayal-of-the-Bitcoin-Ethos",
-    "source": "Unchained",
-    "published": "Wed Jul 08 2026 19:44:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum’s New Proposal Sparks Cardano Feud as Hoskinson Claims “We Built It First”",
-    "link": "https://cryptopanic.com/news/33001194/Ethereums-New-Proposal-Sparks-Cardano-Feud-as-Hoskinson-Claims-We-Built-It-First",
-    "source": "zycrypto.com",
-    "published": "Wed Jul 08 2026 19:38:43 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
