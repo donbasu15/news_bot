@@ -1,9 +1,51 @@
 [
   {
+    "title": "Swift declares blockchain ledger ready in 17-bank, cross-continent pilot launch",
+    "link": "https://cryptopanic.com/news/33006501/Swift-declares-blockchain-ledger-ready-in-17-bank-cross-continent-pilot-launch",
+    "source": "cryptopolitan.com",
+    "published": "Thu Jul 09 2026 13:50:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Monad Activates Agent Hub To Centralize AI Agent Operations On Chain\n\n@Monad launches Agent Hub, a dedicated ecosystem portal for deploying and managing autonomous AI agents. \n\nThe infrastructure enables users to launch agentic entities via a single-click interface, integrating",
+    "link": "https://cryptopanic.com/news/33006509/Monad-Activates-Agent-Hub-To-Centralize-AI-Agent-Operations-On-Chain-Monad-launches-Agent-Hub-a-dedicated-ecosystem-portal-for-deploying-and-managing-autonomous-AI-agents-The-infrastructure-enables-users-to-launch-agentic-entities-via-a-single-click-interface-integrating",
+    "source": "@bscnews",
+    "published": "Thu Jul 09 2026 13:49:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "July 9 Update:\n\n#Bitcoin ETFs:\n1D NetFlow: -1,108 $BTC(-$69.43M)\n7D NetFlow: +6,301 $BTC(+$394.76M)🟢\n\n#Ethereum ETFs:\n1D NetFlow: +39,876 $ETH(+$69.3M)🟢\n7D NetFlow: +70,627 $ETH(+$122.75M)🟢",
+    "link": "https://cryptopanic.com/news/33006512/July-9-Update-Bitcoin-ETFs-1D-NetFlow-1108-BTC-6943M-7D-NetFlow-6301-BTC39476M-Ethereum-ETFs-1D-NetFlow-39876-ETH693M-7D-NetFlow-70627-ETH12275M",
+    "source": "@lookonchain",
+    "published": "Thu Jul 09 2026 13:48:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Losses From Crypto Hacks Fell Below $1 Billion In Year’s First Half",
+    "link": "https://cryptopanic.com/news/33006474/Losses-From-Crypto-Hacks-Fell-Below-1-Billion-In-Years-First-Half",
+    "source": "cryptoprowl.com",
+    "published": "Thu Jul 09 2026 13:46:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tarun Chitra’s Gauntlet raises $125 million Series C from sole investor SBI Holdings",
+    "link": "https://cryptopanic.com/news/33006435/Tarun-Chitras-Gauntlet-raises-125-million-Series-C-from-sole-investor-SBI-Holdings",
+    "source": "theblock.co",
+    "published": "Thu Jul 09 2026 13:42:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Chainlink CCIP Lands On zkSync Era As Layer-2 Interoperability Race Heats Up",
     "link": "https://cryptopanic.com/news/33006422/Chainlink-CCIP-Lands-On-zkSync-Era-As-Layer-2-Interoperability-Race-Heats-Up",
     "source": "newsbtc.com",
     "published": "Thu Jul 09 2026 13:40:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Samsung's record profit puts 24/7 stock perps to the test",
+    "link": "https://cryptopanic.com/news/33006506/Samsungs-record-profit-puts-247-stock-perps-to-the-test",
+    "source": "thestreet.com",
+    "published": "Thu Jul 09 2026 13:39:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -25,6 +67,20 @@
     "link": "https://cryptopanic.com/news/33006412/Bottom-building-in-progress-Analysts-say-bitcoin-holder-capitulation-signals-late-stage-bear-market",
     "source": "theblock.co",
     "published": "Thu Jul 09 2026 13:33:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MoonPay Brings Its AI Crypto Agents to Telegram",
+    "link": "https://cryptopanic.com/news/33006510/MoonPay-Brings-Its-AI-Crypto-Agents-to-Telegram",
+    "source": "@decryptmedia",
+    "published": "Thu Jul 09 2026 13:31:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "PayPal USD Launches Natively On Polygon To Scale Regulated Global Payments\n\n@PayPal’s $PYUSD is now live on the @0xPolygon chain through @Paxos, integrating the stablecoin into the Open Money Stack (OMS) for global enterprise use. \n\nThe move allows businesses to execute federally",
+    "link": "https://cryptopanic.com/news/33006508/PayPal-USD-Launches-Natively-On-Polygon-To-Scale-Regulated-Global-Payments-PayPals-PYUSD-is-now-live-on-the-0xPolygon-chain-through-Paxos-integrating-the-stablecoin-into-the-Open-Money-Stack-OMS-for-global-enterprise-use-The-move-allows-businesses-to-execute-federally",
+    "source": "@bscnews",
+    "published": "Thu Jul 09 2026 13:31:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -147,66 +203,10 @@
     "sentiment": "neutral"
   },
   {
-    "title": "SAP to make it easier for customers to switch, averts EU fine",
-    "link": "https://cryptopanic.com/news/33006470/SAP-to-make-it-easier-for-customers-to-switch-averts-EU-fine",
-    "source": "@reutersbiz",
-    "published": "Thu Jul 09 2026 13:01:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "MoonPay Brings Its AI Crypto Agents to Telegram",
-    "link": "https://cryptopanic.com/news/33006175/MoonPay-Brings-Its-AI-Crypto-Agents-to-Telegram",
-    "source": "decrypt.co",
-    "published": "Thu Jul 09 2026 13:01:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "TRON IS THE STABLECOIN RAIL SHOWN BY RECENT JUNE STATISTICS!\n\nJune stablecoin volume hit $1.79T, with $TRX handling around $320B, around 18% of all activity.\n\n@trondao also seen 4.95M daily active accounts, up 14.56% monthly.\n\nTRON also ranks in the top 3 for fee's generated!",
-    "link": "https://cryptopanic.com/news/33006258/TRON-IS-THE-STABLECOIN-RAIL-SHOWN-BY-RECENT-JUNE-STATISTICS-June-stablecoin-volume-hit-179T-with-TRX-handling-around-320B-around-18-of-all-activity-trondao-also-seen-495M-daily-active-accounts-up-1456-monthly-TRON-also-ranks-in-the-top-3-for-fees-generated",
-    "source": "@realallincrypto",
-    "published": "Thu Jul 09 2026 13:00:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cycle.",
-    "link": "https://cryptopanic.com/news/33006463/Cycle",
-    "source": "@coinmarketcap",
-    "published": "Thu Jul 09 2026 13:00:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "PayPal’s Stablecoin Lands on Polygon With Built-In Compliance and Fiat Access",
-    "link": "https://cryptopanic.com/news/33006218/PayPals-Stablecoin-Lands-on-Polygon-With-Built-In-Compliance-and-Fiat-Access",
-    "source": "cryptopotato.com",
-    "published": "Thu Jul 09 2026 13:00:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SWIFT’s Blockchain Ledger Goes Live, but Old Bottlenecks Persist",
-    "link": "https://cryptopanic.com/news/33006336/SWIFTs-Blockchain-Ledger-Goes-Live-but-Old-Bottlenecks-Persist",
-    "source": "beincrypto.com",
-    "published": "Thu Jul 09 2026 13:00:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Build with CMC (DIY): How to Build a Jupiter DEX Aggregator Bot\n\nLearn how to build a Solana trading bot that uses CoinMarketCap’s DEX API for discovery and signals, and Jupiter for optimal trade routing and execution.\n\nLearn More",
-    "link": "https://cryptopanic.com/news/33006461/Build-with-CMC-DIY-How-to-Build-a-Jupiter-DEX-Aggregator-Bot-Learn-how-to-build-a-Solana-trading-bot-that-uses-CoinMarketCaps-DEX-API-for-discovery-and-signals-and-Jupiter-for-optimal-trade-routing-and-execution-Learn-More",
-    "source": "@coinmarketcap",
-    "published": "Thu Jul 09 2026 13:00:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto hack losses fall below $1 billion in H1 2026 despite record attack volume: Immunefi",
-    "link": "https://cryptopanic.com/news/33006183/Crypto-hack-losses-fall-below-1-billion-in-H1-2026-despite-record-attack-volume-Immunefi",
-    "source": "theblock.co",
-    "published": "Thu Jul 09 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Aave Labs rolls out Stable Vaults, offering predictable stablecoin yield aimed at mainstream users",
-    "link": "https://cryptopanic.com/news/33006182/Aave-Labs-rolls-out-Stable-Vaults-offering-predictable-stablecoin-yield-aimed-at-mainstream-users",
-    "source": "theblock.co",
-    "published": "Thu Jul 09 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
+    "title": "Aave rolls out vaults for yield-hungry fintech investors",
+    "link": "https://cryptopanic.com/news/33006514/Aave-rolls-out-vaults-for-yield-hungry-fintech-investors",
+    "source": "coindesk.com",
+    "published": "Thu Jul 09 2026 13:01:38 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
