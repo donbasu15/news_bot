@@ -1,5 +1,82 @@
 [
   {
+    "title": "Meta Platforms To Build $9 Billion A.I. Data Centre In Canada",
+    "link": "https://cryptopanic.com/news/33006312/Meta-Platforms-To-Build-9-Billion-AI-Data-Centre-In-Canada",
+    "source": "cryptoprowl.com",
+    "published": "Thu Jul 09 2026 13:17:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ESMA MiCA Stablecoin Guidelines Put Non-Euro Tokens Under A Tighter European Lens",
+    "link": "https://cryptopanic.com/news/33006250/ESMA-MiCA-Stablecoin-Guidelines-Put-Non-Euro-Tokens-Under-A-Tighter-European-Lens",
+    "source": "newsbtc.com",
+    "published": "Thu Jul 09 2026 13:10:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Meta (@Meta) is set to launch its own AI chip. \n\nThe multinational tech company led by Mark Zuckerberg will start manufacturing its own AI chip 'Iris' in September.",
+    "link": "https://cryptopanic.com/news/33006261/Meta-Meta-is-set-to-launch-its-own-AI-chip-The-multinational-tech-company-led-by-Mark-Zuckerberg-will-start-manufacturing-its-own-AI-chip-Iris-in-September",
+    "source": "@bscnews",
+    "published": "Thu Jul 09 2026 13:09:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "IMF Names XRP In Tokenization Blueprint: What's Behind It?",
+    "link": "https://cryptopanic.com/news/33006178/IMF-Names-XRP-In-Tokenization-Blueprint-Whats-Behind-It",
+    "source": "dailycoin.com",
+    "published": "Thu Jul 09 2026 13:04:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MoonPay Brings Its AI Crypto Agents to Telegram",
+    "link": "https://cryptopanic.com/news/33006175/MoonPay-Brings-Its-AI-Crypto-Agents-to-Telegram",
+    "source": "decrypt.co",
+    "published": "Thu Jul 09 2026 13:01:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "TRON IS THE STABLECOIN RAIL SHOWN BY RECENT JUNE STATISTICS!\n\nJune stablecoin volume hit $1.79T, with $TRX handling around $320B, around 18% of all activity.\n\n@trondao also seen 4.95M daily active accounts, up 14.56% monthly.\n\nTRON also ranks in the top 3 for fee's generated!",
+    "link": "https://cryptopanic.com/news/33006258/TRON-IS-THE-STABLECOIN-RAIL-SHOWN-BY-RECENT-JUNE-STATISTICS-June-stablecoin-volume-hit-179T-with-TRX-handling-around-320B-around-18-of-all-activity-trondao-also-seen-495M-daily-active-accounts-up-1456-monthly-TRON-also-ranks-in-the-top-3-for-fees-generated",
+    "source": "@realallincrypto",
+    "published": "Thu Jul 09 2026 13:00:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "PayPal’s Stablecoin Lands on Polygon With Built-In Compliance and Fiat Access",
+    "link": "https://cryptopanic.com/news/33006218/PayPals-Stablecoin-Lands-on-Polygon-With-Built-In-Compliance-and-Fiat-Access",
+    "source": "cryptopotato.com",
+    "published": "Thu Jul 09 2026 13:00:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto hack losses fall below $1 billion in H1 2026 despite record attack volume: Immunefi",
+    "link": "https://cryptopanic.com/news/33006183/Crypto-hack-losses-fall-below-1-billion-in-H1-2026-despite-record-attack-volume-Immunefi",
+    "source": "theblock.co",
+    "published": "Thu Jul 09 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Aave Labs rolls out Stable Vaults, offering predictable stablecoin yield aimed at mainstream users",
+    "link": "https://cryptopanic.com/news/33006182/Aave-Labs-rolls-out-Stable-Vaults-offering-predictable-stablecoin-yield-aimed-at-mainstream-users",
+    "source": "theblock.co",
+    "published": "Thu Jul 09 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The Past 48 Hours Just Proved Bitcoin Has Changed!",
+    "link": "https://cryptopanic.com/news/33006180/The-Past-48-Hours-Just-Proved-Bitcoin-Has-Changed",
+    "source": "SimplyBitcoin",
+    "published": "Thu Jul 09 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Kraken Bids to Become Europe's First Crypto Exchange Bank",
+    "link": "https://cryptopanic.com/news/33006108/Kraken-Bids-to-Become-Europes-First-Crypto-Exchange-Bank",
+    "source": "coinpaprika.com",
+    "published": "Thu Jul 09 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Ohio tops 2026 America’s Top States for Business ranking; North Carolina second",
     "link": "https://cryptopanic.com/news/33006091/Ohio-tops-2026-Americas-Top-States-for-Business-ranking-North-Carolina-second",
     "source": "square.binance.com",
@@ -77,6 +154,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Mantle Joins Migration to Chainlink CCIP\n\nToday, @Mantle_Official confirmed its exit from @LayerZero_Core, migrating its Super Portal to @Chainlink's institutional standard for cross-chain security.\n\nOver 7.2B in total value has already migrated from LayerZero to Chainlink’s",
+    "link": "https://cryptopanic.com/news/33006260/Mantle-Joins-Migration-to-Chainlink-CCIP-Today-Mantle_Official-confirmed-its-exit-from-LayerZero_Core-migrating-its-Super-Portal-to-Chainlinks-institutional-standard-for-cross-chain-security-Over-72B-in-total-value-has-already-migrated-from-LayerZero-to-Chainlinks",
+    "source": "@bscnews",
+    "published": "Thu Jul 09 2026 12:48:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Hyperliquid Strategies Sets Up Up to $1 Billion Equity Facility to Fund HYPE Accumulation",
     "link": "https://cryptopanic.com/news/33006082/Hyperliquid-Strategies-Sets-Up-Up-to-1-Billion-Equity-Facility-to-Fund-HYPE-Accumulation",
     "source": "square.binance.com",
@@ -123,90 +207,6 @@
     "link": "https://cryptopanic.com/news/33005828/A-1-billion-HYPE-treasury-trade-is-hitting-public-markets-before-liquidity-has-been-tested",
     "source": "cryptoslate.com",
     "published": "Thu Jul 09 2026 12:40:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Dogecoin Eyes $0.12 As Traders Look For A Cleaner Breakout Signal",
-    "link": "https://cryptopanic.com/news/33005800/Dogecoin-Eyes-012-As-Traders-Look-For-A-Cleaner-Breakout-Signal",
-    "source": "newsbtc.com",
-    "published": "Thu Jul 09 2026 12:40:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitdeer Breaks Ground on $36 Million Electronics Manufacturing Facility in Nevada",
-    "link": "https://cryptopanic.com/news/33006077/Bitdeer-Breaks-Ground-on-36-Million-Electronics-Manufacturing-Facility-in-Nevada",
-    "source": "square.binance.com",
-    "published": "Thu Jul 09 2026 12:38:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Micron Technology to Explore Next-Generation Wafer Technology Collaboration With GlobalWafers",
-    "link": "https://cryptopanic.com/news/33006075/Micron-Technology-to-Explore-Next-Generation-Wafer-Technology-Collaboration-With-GlobalWafers",
-    "source": "square.binance.com",
-    "published": "Thu Jul 09 2026 12:36:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AI | Ed Zitron Says Anthropic, OpenAI Should Not Be Allowed to IPO",
-    "link": "https://cryptopanic.com/news/33006074/AI-Ed-Zitron-Says-Anthropic-OpenAI-Should-Not-Be-Allowed-to-IPO",
-    "source": "square.binance.com",
-    "published": "Thu Jul 09 2026 12:35:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Fast Retailing, the Japanese owner of clothing brand Uniqlo, said quarterly profit rose 45.7%, as it weathered the impact on supply chains and logistics from the Iran war on its way to an expected fifth straight year of record earnings",
-    "link": "https://cryptopanic.com/news/33006099/Fast-Retailing-the-Japanese-owner-of-clothing-brand-Uniqlo-said-quarterly-profit-rose-457-as-it-weathered-the-impact-on-supply-chains-and-logistics-from-the-Iran-war-on-its-way-to-an-expected-fifth-straight-year-of-record-earnings",
-    "source": "@reutersbiz",
-    "published": "Thu Jul 09 2026 12:35:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "STOCKS | Bank of America Expects Comet Revenue and Margins to Rise on Memory Chip Capacity Expansion",
-    "link": "https://cryptopanic.com/news/33006073/STOCKS-Bank-of-America-Expects-Comet-Revenue-and-Margins-to-Rise-on-Memory-Chip-Capacity-Expansion",
-    "source": "square.binance.com",
-    "published": "Thu Jul 09 2026 12:34:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Micron Technology to Provide $500 Million Financing to GlobalWafers",
-    "link": "https://cryptopanic.com/news/33006072/Micron-Technology-to-Provide-500-Million-Financing-to-GlobalWafers",
-    "source": "square.binance.com",
-    "published": "Thu Jul 09 2026 12:33:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Micron Technology to Sign 10-Year Supply Agreement With GlobalWafers",
-    "link": "https://cryptopanic.com/news/33006071/Micron-Technology-to-Sign-10-Year-Supply-Agreement-With-GlobalWafers",
-    "source": "square.binance.com",
-    "published": "Thu Jul 09 2026 12:33:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "U.S. initial jobless claims totaled 215,000 for the week ending July 4, below expectations of 218,000. The previous reading was revised from 215,000 to 217,000.",
-    "link": "https://cryptopanic.com/news/33006096/US-initial-jobless-claims-totaled-215000-for-the-week-ending-July-4-below-expectations-of-218000-The-previous-reading-was-revised-from-215000-to-217000",
-    "source": "@wublockchain",
-    "published": "Thu Jul 09 2026 12:32:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Exxon, Chevron Seen Posting Record Q2 Profits as U.S.-Iran War Lifts Fuel Prices",
-    "link": "https://cryptopanic.com/news/33006070/Exxon-Chevron-Seen-Posting-Record-Q2-Profits-as-US-Iran-War-Lifts-Fuel-Prices",
-    "source": "square.binance.com",
-    "published": "Thu Jul 09 2026 12:32:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "STOCKS | Micron Technology Plans $3 Billion Investment to Strengthen U.S. Semiconductor Supply Chain",
-    "link": "https://cryptopanic.com/news/33006069/STOCKS-Micron-Technology-Plans-3-Billion-Investment-to-Strengthen-US-Semiconductor-Supply-Chain",
-    "source": "square.binance.com",
-    "published": "Thu Jul 09 2026 12:31:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "U.S. Weekly Jobless Claims Fall to 215,000, Below Expectations",
-    "link": "https://cryptopanic.com/news/33006068/US-Weekly-Jobless-Claims-Fall-to-215000-Below-Expectations",
-    "source": "square.binance.com",
-    "published": "Thu Jul 09 2026 12:31:09 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
