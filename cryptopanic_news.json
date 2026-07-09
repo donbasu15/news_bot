@@ -1,9 +1,51 @@
 [
   {
+    "title": "Coinbase CLO Paul Grewal Departs, Molly Abraham to Lead Legal Team",
+    "link": "https://cryptopanic.com/news/33008910/Coinbase-CLO-Paul-Grewal-Departs-Molly-Abraham-to-Lead-Legal-Team",
+    "source": "coincu.com",
+    "published": "Thu Jul 09 2026 21:34:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: 🇺🇸 Public company CleanSpark added 454 BTC to their treasury \n\nThis brings their total holdings to 13,924 BTC",
+    "link": "https://cryptopanic.com/news/33008939/NEW-Public-company-CleanSpark-added-454-BTC-to-their-treasury-This-brings-their-total-holdings-to-13924-BTC",
+    "source": "@bitcoinmagazine",
+    "published": "Thu Jul 09 2026 21:32:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MIT's Ethan Heilman: 80% of Bitcoin is Quantum Vulnerable - How to Stop the Q-Day Threat",
+    "link": "https://cryptopanic.com/news/33008921/MITs-Ethan-Heilman-80-of-Bitcoin-is-Quantum-Vulnerable-How-to-Stop-the-Q-Day-Threat",
+    "source": "BitcoinMagazine",
+    "published": "Thu Jul 09 2026 21:30:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Coinbase Chief Legal Officer Paul Grewal steps down, remains in advisory role",
     "link": "https://cryptopanic.com/news/33008847/Coinbase-Chief-Legal-Officer-Paul-Grewal-steps-down-remains-in-advisory-role",
     "source": "theblock.co",
     "published": "Thu Jul 09 2026 21:13:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Binance CEO Says MiCA Is Backfiring as EU Users Move Beyond Regulators’ Reach",
+    "link": "https://cryptopanic.com/news/33008915/Binance-CEO-Says-MiCA-Is-Backfiring-as-EU-Users-Move-Beyond-Regulators-Reach",
+    "source": "beincrypto.com",
+    "published": "Thu Jul 09 2026 21:12:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "For most employees, getting paid in crypto meant a wallet, a seed phrase, and the fear of losing it all. From July 14, Zebec drops that: sign in like any app, no keys to manage, and the wallet's still yours.",
+    "link": "https://cryptopanic.com/news/33008881/For-most-employees-getting-paid-in-crypto-meant-a-wallet-a-seed-phrase-and-the-fear-of-losing-it-all-From-July-14-Zebec-drops-that-sign-in-like-any-app-no-keys-to-manage-and-the-wallets-still-yours",
+    "source": "@bscnews",
+    "published": "Thu Jul 09 2026 21:09:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Most funds leaving Binance in the EU went to self-custody, not rivals\n\nAfter MiCA took full effect and @binance pulled its Greek license bid, 70% of the EU funds withdrawn from the platform went to self-hosted wallets, and only 30% to MiCA-regulated exchanges, per co-CEO",
+    "link": "https://cryptopanic.com/news/33008879/Most-funds-leaving-Binance-in-the-EU-went-to-self-custody-not-rivals-After-MiCA-took-full-effect-and-binance-pulled-its-Greek-license-bid-70-of-the-EU-funds-withdrawn-from-the-platform-went-to-self-hosted-wallets-and-only-30-to-MiCA-regulated-exchanges-per-co-CEO",
+    "source": "@bscnews",
+    "published": "Thu Jul 09 2026 21:01:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -25,6 +67,13 @@
     "link": "https://cryptopanic.com/news/33008784/The-Worst-Bitcoin-Sentiment-in-History-Just-Collided-With-the-Feds-Biggest-Lie",
     "source": "SimplyBitcoin",
     "published": "Thu Jul 09 2026 21:00:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SWIFTS BLOCKCHAIN IS READY!\n\nSwift’s blockchain ledger is ready for pilots with Citi, HSBC, BNY, MUFG, Wells Fargo & more for 24/7 tokenised cross-border payments.\n\n$XRP has said they are SWIFTs main competitor. \n\nThe race to modernise global payments is officially underway!",
+    "link": "https://cryptopanic.com/news/33008878/SWIFTS-BLOCKCHAIN-IS-READY-Swifts-blockchain-ledger-is-ready-for-pilots-with-Citi-HSBC-BNY-MUFG-Wells-Fargo-amp-more-for-247-tokenised-cross-border-payments-XRP-has-said-they-are-SWIFTs-main-competitor-The-race-to-modernise-global-payments-is-officially-underway",
+    "source": "@realallincrypto",
+    "published": "Thu Jul 09 2026 21:00:08 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -53,6 +102,13 @@
     "link": "https://cryptopanic.com/news/33008777/JPMorgan-Chase-Says-Bitcoins-Main-Risk-Isnt-Strategy",
     "source": "cryptoprowl.com",
     "published": "Thu Jul 09 2026 20:52:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Zuckerberg Breaks 3-Year Silence On X (Twitter) With AI Announcement",
+    "link": "https://cryptopanic.com/news/33008914/Zuckerberg-Breaks-3-Year-Silence-On-X-Twitter-With-AI-Announcement",
+    "source": "beincrypto.com",
+    "published": "Thu Jul 09 2026 20:50:15 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -151,62 +207,6 @@
     "link": "https://cryptopanic.com/news/33008757/XLMs-volume-just-exploded-and-its-not-one-thing-StellarOrgs-24h-volume-jumped-roughly-275-to-near-860-million-with-stellarnative-climbing-to-0185-But-pinning-it-on-a-single-catalyst-is-tricky-Three-landed-in-one-week-the-Zipper-upgrade-Protocol-27-went-live-on",
     "source": "@bscnews",
     "published": "Thu Jul 09 2026 20:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Open Interest Hits 3-Month Low, But XRPL Gains Enterprise Adoption With Made In USA Initiative",
-    "link": "https://cryptopanic.com/news/33008758/XRP-Open-Interest-Hits-3-Month-Low-But-XRPL-Gains-Enterprise-Adoption-With-Made-In-USA-Initiative",
-    "source": "feeds2.benzinga.com",
-    "published": "Thu Jul 09 2026 20:29:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Arbitrum jumps 19% benefitting from Robinhood's $568 million onchain trading frenzy",
-    "link": "https://cryptopanic.com/news/33008731/Arbitrum-jumps-19-benefitting-from-Robinhoods-568-million-onchain-trading-frenzy",
-    "source": "coindesk.com",
-    "published": "Thu Jul 09 2026 20:28:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "x402 has mostly run on retail chains like Base and Solana. Canton is the institutional side, the rails behind Goldman, JPMorgan and the DTCC. Putting agentic payments there means AI agents transacting next to tokenized securities and RWAs. Big if the volume follows.",
-    "link": "https://cryptopanic.com/news/33008756/x402-has-mostly-run-on-retail-chains-like-Base-and-Solana-Canton-is-the-institutional-side-the-rails-behind-Goldman-JPMorgan-and-the-DTCC-Putting-agentic-payments-there-means-AI-agents-transacting-next-to-tokenized-securities-and-RWAs-Big-if-the-volume-follows",
-    "source": "@bscnews",
-    "published": "Thu Jul 09 2026 20:26:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Anthropic AI Oversight Board Adds Ben Bernanke, Who Oversaw 2008 Financial Crisis at Fed",
-    "link": "https://cryptopanic.com/news/33008681/Anthropic-AI-Oversight-Board-Adds-Ben-Bernanke-Who-Oversaw-2008-Financial-Crisis-at-Fed",
-    "source": "decrypt.co",
-    "published": "Thu Jul 09 2026 20:22:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Real Estate is coming to @BNBCHAIN",
-    "link": "https://cryptopanic.com/news/33008755/Real-Estate-is-coming-to-BNBCHAIN",
-    "source": "@bscnews",
-    "published": "Thu Jul 09 2026 20:22:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "How To Ditch Your Card & Travel The Globe With XRP",
-    "link": "https://cryptopanic.com/news/33008679/How-To-Ditch-Your-Card-amp-Travel-The-Globe-With-XRP",
-    "source": "dailycoin.com",
-    "published": "Thu Jul 09 2026 20:21:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why is SK Hynix going public in US with 8x over-subscription and record $28 billion offering?",
-    "link": "https://cryptopanic.com/news/33008649/Why-is-SK-Hynix-going-public-in-US-with-8x-over-subscription-and-record-28-billion-offering",
-    "source": "cryptopolitan.com",
-    "published": "Thu Jul 09 2026 20:05:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  JPMorgan says Bitcoin’s main structural risk is not Strategy’s BTC sales but blockchain adoption shifting to private networks that bypass public chains and tokens.",
-    "link": "https://cryptopanic.com/news/33008698/LATEST-JPMorgan-says-Bitcoins-main-structural-risk-is-not-Strategys-BTC-sales-but-blockchain-adoption-shifting-to-private-networks-that-bypass-public-chains-and-tokens",
-    "source": "@coinmarketcap",
-    "published": "Thu Jul 09 2026 20:05:12 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
