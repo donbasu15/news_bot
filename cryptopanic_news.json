@@ -1,9 +1,44 @@
 [
   {
+    "title": "Bitcoin News: Satoshi Wallet Claims Face Fresh Doubts as Bitcoin Addresses Become Active",
+    "link": "https://cryptopanic.com/news/33007840/Bitcoin-News-Satoshi-Wallet-Claims-Face-Fresh-Doubts-as-Bitcoin-Addresses-Become-Active",
+    "source": "thecoinrepublic.com",
+    "published": "Thu Jul 09 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Chainlink Cuts Prediction Market Settlement From Two Hours to Five Minutes",
+    "link": "https://cryptopanic.com/news/33007842/Chainlink-Cuts-Prediction-Market-Settlement-From-Two-Hours-to-Five-Minutes",
+    "source": "coinpaprika.com",
+    "published": "Thu Jul 09 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Circle’s refusal to ‘burn and reissue’ stolen USDC angers prosecutors, report",
+    "link": "https://cryptopanic.com/news/33007838/Circles-refusal-to-burn-and-reissue-stolen-USDC-angers-prosecutors-report",
+    "source": "protos.com",
+    "published": "Thu Jul 09 2026 16:58:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hyperliquid and Phantom ask the CFTC to stop treating DeFi like a broker\n\nHyperliquid's policy arm (@HyperliquidPC) and wallet maker @phantom filed a joint comment to the @CFTC, answering its request for information before today's deadline. Their pitch is that onchain software",
+    "link": "https://cryptopanic.com/news/33007828/Hyperliquid-and-Phantom-ask-the-CFTC-to-stop-treating-DeFi-like-a-broker-Hyperliquids-policy-arm-HyperliquidPC-and-wallet-maker-phantom-filed-a-joint-comment-to-the-CFTC-answering-its-request-for-information-before-todays-deadline-Their-pitch-is-that-onchain-software",
+    "source": "@bscnews",
+    "published": "Thu Jul 09 2026 16:54:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "TODAY: On Jul 9, 2016, Bitcoin's second halving reduced block rewards to 12.5 BTC. Price at the time: ~$658. A bull run to nearly $20,000 followed within 18 months. 10 years ago today.",
     "link": "https://cryptopanic.com/news/33007782/TODAY-On-Jul-9-2016-Bitcoins-second-halving-reduced-block-rewards-to-125-BTC-Price-at-the-time-658-A-bull-run-to-nearly-20000-followed-within-18-months-10-years-ago-today",
     "source": "@coindesk",
     "published": "Thu Jul 09 2026 16:46:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 Public company Hyperscale Data surpasses 1,000 BTC held in its corporate treasury",
+    "link": "https://cryptopanic.com/news/33007924/JUST-IN-Public-company-Hyperscale-Data-surpasses-1000-BTC-held-in-its-corporate-treasury",
+    "source": "@bitcoinmagazine",
+    "published": "Thu Jul 09 2026 16:35:32 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -25,6 +60,13 @@
     "link": "https://cryptopanic.com/news/33007690/XRP-Tied-Banks-Lead-SWIFTs-New-Tokenized-Rails",
     "source": "dailycoin.com",
     "published": "Thu Jul 09 2026 16:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JPMorgan Warns of Bigger Bitcoin Risk Than Strategy – Here Is Why Blockchain Adoption Could Bypass Crypto",
+    "link": "https://cryptopanic.com/news/33007900/JPMorgan-Warns-of-Bigger-Bitcoin-Risk-Than-Strategy-Here-Is-Why-Blockchain-Adoption-Could-Bypass-Crypto",
+    "source": "blocknews.com",
+    "published": "Thu Jul 09 2026 16:26:29 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -165,48 +207,6 @@
     "link": "https://cryptopanic.com/news/33007604/Microsoft-Reports-25-Rise-in-Emissions-as-AI-Buildout-Expands",
     "source": "square.binance.com",
     "published": "Thu Jul 09 2026 16:04:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33007780/Source",
-    "source": "@wublockchain",
-    "published": "Thu Jul 09 2026 16:04:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BitGo Introduces Quantum-Protection Tools for Institutional Bitcoin Wallets\n\nCrypto custodian BitGo has announced the launch of new quantum-protection security tools designed to help institutions assess, manage, and reduce quantum-related exposure in their UTXO-based Bitcoin",
-    "link": "https://cryptopanic.com/news/33007779/BitGo-Introduces-Quantum-Protection-Tools-for-Institutional-Bitcoin-Wallets-Crypto-custodian-BitGo-has-announced-the-launch-of-new-quantum-protection-security-tools-designed-to-help-institutions-assess-manage-and-reduce-quantum-related-exposure-in-their-UTXO-based-Bitcoin",
-    "source": "@wublockchain",
-    "published": "Thu Jul 09 2026 16:03:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Airbus Employees in Spain Strike Over Working Conditions",
-    "link": "https://cryptopanic.com/news/33007603/Airbus-Employees-in-Spain-Strike-Over-Working-Conditions",
-    "source": "square.binance.com",
-    "published": "Thu Jul 09 2026 16:02:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ JUST IN: Binance Pay is now powering 5,000 POS terminals at Alatau City Bank in Kazakhstan, enabling crypto payments at merchants nationwide.",
-    "link": "https://cryptopanic.com/news/33007784/JUST-IN-Binance-Pay-is-now-powering-5000-POS-terminals-at-Alatau-City-Bank-in-Kazakhstan-enabling-crypto-payments-at-merchants-nationwide",
-    "source": "@cointelegraph",
-    "published": "Thu Jul 09 2026 16:01:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Early internet aesthetic.",
-    "link": "https://cryptopanic.com/news/33007777/Early-internet-aesthetic",
-    "source": "@coinmarketcap",
-    "published": "Thu Jul 09 2026 16:00:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "He Turned 300 Dollars Into 2 Million On Robinhood Chain",
-    "link": "https://cryptopanic.com/news/33007652/He-Turned-300-Dollars-Into-2-Million-On-Robinhood-Chain",
-    "source": "TheCryptoLark",
-    "published": "Thu Jul 09 2026 16:00:25 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
