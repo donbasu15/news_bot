@@ -1,9 +1,58 @@
 [
   {
+    "title": "Circle says it cannot reissue frozen USDC as it seeks dismissal of Wisconsin complaint",
+    "link": "https://cryptopanic.com/news/33008946/Circle-says-it-cannot-reissue-frozen-USDC-as-it-seeks-dismissal-of-Wisconsin-complaint",
+    "source": "ambcrypto.com",
+    "published": "Thu Jul 09 2026 21:51:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "AI Agents Could Be Turned Into Botnets Through Hallucinations, Researchers Warn",
+    "link": "https://cryptopanic.com/news/33008924/AI-Agents-Could-Be-Turned-Into-Botnets-Through-Hallucinations-Researchers-Warn",
+    "source": "decrypt.co",
+    "published": "Thu Jul 09 2026 21:45:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SCOOP: Lawmakers may drop a new version of the Clarity Act as soon as next week, people following the effort told CoinDesk. \nRead the full story by @nikhileshde and @jesseahamilton on CoinDesk.",
+    "link": "https://cryptopanic.com/news/33008959/SCOOP-Lawmakers-may-drop-a-new-version-of-the-Clarity-Act-as-soon-as-next-week-people-following-the-effort-told-CoinDesk-Read-the-full-story-by-nikhileshde-and-jesseahamilton-on-CoinDesk",
+    "source": "@coindesk",
+    "published": "Thu Jul 09 2026 21:41:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: #Cardano $ADA Founder Charles Hoskinson says \"we are very excited about the upcoming hard forks. We're very excited about the upcoming roadmap.\"",
+    "link": "https://cryptopanic.com/news/33008958/JUST-IN-Cardano-ADA-Founder-Charles-Hoskinson-says-we-are-very-excited-about-the-upcoming-hard-forks-Were-very-excited-about-the-upcoming-roadmap",
+    "source": "@angrycryptoshow",
+    "published": "Thu Jul 09 2026 21:37:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: #Cardano $ADA Founder Charles Hoskinson on governance, says \"we are working on a political party, and we'll imminently be launching that soon, and give people an opportunity to participate.\"",
+    "link": "https://cryptopanic.com/news/33008957/JUST-IN-Cardano-ADA-Founder-Charles-Hoskinson-on-governance-says-we-are-working-on-a-political-party-and-well-imminently-be-launching-that-soon-and-give-people-an-opportunity-to-participate",
+    "source": "@angrycryptoshow",
+    "published": "Thu Jul 09 2026 21:36:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Coinbase CLO Paul Grewal Departs, Molly Abraham to Lead Legal Team",
     "link": "https://cryptopanic.com/news/33008910/Coinbase-CLO-Paul-Grewal-Departs-Molly-Abraham-to-Lead-Legal-Team",
     "source": "coincu.com",
     "published": "Thu Jul 09 2026 21:34:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: #Cardano $ADA Founder Charles Hoskinson says \"I am not leaving Cardano. I'm not resigning, I'm not retiring. I am still here, we are still going strong, we have many products and services in the Cardano ecosystem.\"",
+    "link": "https://cryptopanic.com/news/33008956/JUST-IN-Cardano-ADA-Founder-Charles-Hoskinson-says-I-am-not-leaving-Cardano-Im-not-resigning-Im-not-retiring-I-am-still-here-we-are-still-going-strong-we-have-many-products-and-services-in-the-Cardano-ecosystem",
+    "source": "@angrycryptoshow",
+    "published": "Thu Jul 09 2026 21:34:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: #Cardano $ADA Founder Charles Hoskinson says \"I'm not going anywhere, I'm not retiring, I'm not leaving.\"",
+    "link": "https://cryptopanic.com/news/33008955/JUST-IN-Cardano-ADA-Founder-Charles-Hoskinson-says-Im-not-going-anywhere-Im-not-retiring-Im-not-leaving",
+    "source": "@angrycryptoshow",
+    "published": "Thu Jul 09 2026 21:32:33 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -18,6 +67,20 @@
     "link": "https://cryptopanic.com/news/33008921/MITs-Ethan-Heilman-80-of-Bitcoin-is-Quantum-Vulnerable-How-to-Stop-the-Q-Day-Threat",
     "source": "BitcoinMagazine",
     "published": "Thu Jul 09 2026 21:30:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Anthropic’s Long-Term Benefit Trust has appointed former Fed Chair Ben Bernanke as its newest member.",
+    "link": "https://cryptopanic.com/news/33008960/UPDATE-Anthropics-Long-Term-Benefit-Trust-has-appointed-former-Fed-Chair-Ben-Bernanke-as-its-newest-member",
+    "source": "@cointelegraph",
+    "published": "Thu Jul 09 2026 21:30:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🤖 MoonPay expanded MoonAgents to Telegram, letting users analyze markets, build dashboards and prepare crypto transactions while data and keys stay on their own devices.",
+    "link": "https://cryptopanic.com/news/33008949/LATEST-MoonPay-expanded-MoonAgents-to-Telegram-letting-users-analyze-markets-build-dashboards-and-prepare-crypto-transactions-while-data-and-keys-stay-on-their-own-devices",
+    "source": "@coinmarketcap",
+    "published": "Thu Jul 09 2026 21:17:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -144,69 +207,6 @@
     "link": "https://cryptopanic.com/news/33008732/Perplexity-Fine-Tuned-a-Chinese-AI-Model-to-Match-Claude-Opus-48-at-One-Third-the-Cost",
     "source": "decrypt.co",
     "published": "Thu Jul 09 2026 20:40:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "@Strive @ColeMacro @isabellasg3 @TheBitcoinConf WATCH: Bitcoin Treasury Consolidation and the Future of Digital Credit\n\nYoutube: \n\nRumble: \n\nSpotify: \n\nApple",
-    "link": "https://cryptopanic.com/news/33008780/Strive-ColeMacro-isabellasg3-TheBitcoinConf-WATCH-Bitcoin-Treasury-Consolidation-and-the-Future-of-Digital-Credit-Youtube-Rumble-Spotify-Apple",
-    "source": "@bitcoinmagazine",
-    "published": "Thu Jul 09 2026 20:39:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "WATCH - @Strive CEO @ColeMacro : Bitcoin Treasury Consolidation and the Future of Digital Credit\n\nMatt Cole sits down with @isabellasg3 at @thebitcoinconf to talk all things digital credit, the mechanics behind Strive's $SATA, and the Bitcoin hurdle rate thesis.\n\nChapters",
-    "link": "https://cryptopanic.com/news/33008779/WATCH-Strive-CEO-ColeMacro-Bitcoin-Treasury-Consolidation-and-the-Future-of-Digital-Credit-Matt-Cole-sits-down-with-isabellasg3-at-thebitcoinconf-to-talk-all-things-digital-credit-the-mechanics-behind-Strives-SATA-and-the-Bitcoin-hurdle-rate-thesis-Chapters",
-    "source": "@bitcoinmagazine",
-    "published": "Thu Jul 09 2026 20:37:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: New Hampshire's Executive Council voted 3-2 to reject a first-of-its-kind proposal that would have authorized up to $100 million in bitcoin-backed municipal bonds.",
-    "link": "https://cryptopanic.com/news/33008843/LATEST-New-Hampshires-Executive-Council-voted-3-2-to-reject-a-first-of-its-kind-proposal-that-would-have-authorized-up-to-100-million-in-bitcoin-backed-municipal-bonds",
-    "source": "@coindesk",
-    "published": "Thu Jul 09 2026 20:35:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Dubai putting title deeds on-chain is \"the game changer\" for real estate",
-    "link": "https://cryptopanic.com/news/33008776/Dubai-putting-title-deeds-on-chain-is-the-game-changer-for-real-estate",
-    "source": "thestreet.com",
-    "published": "Thu Jul 09 2026 20:33:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Mark Cuban-backed platform to shut down",
-    "link": "https://cryptopanic.com/news/33008775/Mark-Cuban-backed-platform-to-shut-down",
-    "source": "thestreet.com",
-    "published": "Thu Jul 09 2026 20:33:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "With SEC fight over, Coinbase's top legal exec Grewal moves on, and others reassigned",
-    "link": "https://cryptopanic.com/news/33008760/With-SEC-fight-over-Coinbases-top-legal-exec-Grewal-moves-on-and-others-reassigned",
-    "source": "coindesk.com",
-    "published": "Thu Jul 09 2026 20:31:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: OpenAI says Sol, Terra and Luna, its GPT-5.6 model family, are now rolling out across ChatGPT, Codex and the API.",
-    "link": "https://cryptopanic.com/news/33008700/LATEST-OpenAI-says-Sol-Terra-and-Luna-its-GPT-56-model-family-are-now-rolling-out-across-ChatGPT-Codex-and-the-API",
-    "source": "@cointelegraph",
-    "published": "Thu Jul 09 2026 20:30:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stock Highs vs. Consumer Sentiment! Inflation's Real Impact!",
-    "link": "https://cryptopanic.com/news/33008742/Stock-Highs-vs-Consumer-Sentiment-Inflations-Real-Impact",
-    "source": "SimplyBitcoin",
-    "published": "Thu Jul 09 2026 20:30:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XLM's volume just exploded, and it's not one thing\n\n@StellarOrg's 24h volume jumped roughly 275% to near $860 million, with stellar:native climbing to $0.185. But pinning it on a single catalyst is tricky.\n\nThree landed in one week: the Zipper upgrade (Protocol 27) went live on",
-    "link": "https://cryptopanic.com/news/33008757/XLMs-volume-just-exploded-and-its-not-one-thing-StellarOrgs-24h-volume-jumped-roughly-275-to-near-860-million-with-stellarnative-climbing-to-0185-But-pinning-it-on-a-single-catalyst-is-tricky-Three-landed-in-one-week-the-Zipper-upgrade-Protocol-27-went-live-on",
-    "source": "@bscnews",
-    "published": "Thu Jul 09 2026 20:30:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
