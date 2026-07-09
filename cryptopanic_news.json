@@ -1,5 +1,12 @@
 [
   {
+    "title": "TODAY: On Jul 9, 2016, Bitcoin's second halving reduced block rewards to 12.5 BTC. Price at the time: ~$658. A bull run to nearly $20,000 followed within 18 months. 10 years ago today.",
+    "link": "https://cryptopanic.com/news/33007782/TODAY-On-Jul-9-2016-Bitcoins-second-halving-reduced-block-rewards-to-125-BTC-Price-at-the-time-658-A-bull-run-to-nearly-20000-followed-within-18-months-10-years-ago-today",
+    "source": "@coindesk",
+    "published": "Thu Jul 09 2026 16:46:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "NEW: CFTC Chair Michael Selig warns regulators will end up \"writing all the rules\" for digital assets if Congress fails to pass the CLARITY Act.",
     "link": "https://cryptopanic.com/news/33007781/NEW-CFTC-Chair-Michael-Selig-warns-regulators-will-end-up-writing-all-the-rules-for-digital-assets-if-Congress-fails-to-pass-the-CLARITY-Act",
     "source": "@coindesk",
@@ -39,6 +46,13 @@
     "link": "https://cryptopanic.com/news/33007756/Solana-price-prediction-Why-analysts-see-more-upside-for-SOL",
     "source": "coinjournal.net",
     "published": "Thu Jul 09 2026 16:23:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum set AI agents loose on its own code. The bugs weren't the hard part.\n\nThe Ethereum Foundation's (@ethereumfndn) security team has been running coordinated AI agents against Ethereum's core protocol code. They found real bugs, including a P2P-layer flaw now patched and",
+    "link": "https://cryptopanic.com/news/33007827/Ethereum-set-AI-agents-loose-on-its-own-code-The-bugs-werent-the-hard-part-The-Ethereum-Foundations-ethereumfndn-security-team-has-been-running-coordinated-AI-agents-against-Ethereums-core-protocol-code-They-found-real-bugs-including-a-P2P-layer-flaw-now-patched-and",
+    "source": "@bscnews",
+    "published": "Thu Jul 09 2026 16:23:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33007652/He-Turned-300-Dollars-Into-2-Million-On-Robinhood-Chain",
     "source": "TheCryptoLark",
     "published": "Thu Jul 09 2026 16:00:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hyperliquid Policy Center, Phantom urge CFTC to stop treating onchain protocols like traditional brokers and exchanges",
-    "link": "https://cryptopanic.com/news/33007374/Hyperliquid-Policy-Center-Phantom-urge-CFTC-to-stop-treating-onchain-protocols-like-traditional-brokers-and-exchanges",
-    "source": "theblock.co",
-    "published": "Thu Jul 09 2026 16:00:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "MANTLE LEAVES LEGACY BRIDGE TO MIGRATE TO $LINK!\n\n@Mantle_Official announces they have migrated their $2.5B+ MNT token to @chainlink CCIP. \n\nJust another cryptocurrency making it's way over to the goodside!",
-    "link": "https://cryptopanic.com/news/33007613/MANTLE-LEAVES-LEGACY-BRIDGE-TO-MIGRATE-TO-LINK-Mantle_Official-announces-they-have-migrated-their-25B-MNT-token-to-chainlink-CCIP-Just-another-cryptocurrency-making-its-way-over-to-the-goodside",
-    "source": "@realallincrypto",
-    "published": "Thu Jul 09 2026 16:00:08 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
