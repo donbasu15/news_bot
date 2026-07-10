@@ -1,5 +1,82 @@
 [
   {
+    "title": "Revolut integrates its crypto exchange with AI assistants as agentic trading spreads",
+    "link": "https://cryptopanic.com/news/33011768/Revolut-integrates-its-crypto-exchange-with-AI-assistants-as-agentic-trading-spreads",
+    "source": "theblock.co",
+    "published": "Fri Jul 10 2026 10:04:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "North Carolina Bill Recognizes CFTC's ‘Federal Regulatory Authority’ Over Prediction Markets",
+    "link": "https://cryptopanic.com/news/33011727/North-Carolina-Bill-Recognizes-CFTCs-Federal-Regulatory-Authority-Over-Prediction-Markets",
+    "source": "decrypt.co",
+    "published": "Fri Jul 10 2026 10:01:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "New Memecoin CASHCAT Put Robinhood Chain Ahead of Hyperliquid in DEX Volume",
+    "link": "https://cryptopanic.com/news/33011728/New-Memecoin-CASHCAT-Put-Robinhood-Chain-Ahead-of-Hyperliquid-in-DEX-Volume",
+    "source": "cryptonews.com",
+    "published": "Fri Jul 10 2026 10:00:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$ALGO IS BRINGING MACHINE TO MACHINE PAYMENTS IN AFRICA!\n\n@ivorypay is now operating across 16 African countries, and @Algorand is one of the supported networks powering Ivorypay’s new x402 programmable payment system for AI agents and apps.",
+    "link": "https://cryptopanic.com/news/33011785/ALGO-IS-BRINGING-MACHINE-TO-MACHINE-PAYMENTS-IN-AFRICA-ivorypay-is-now-operating-across-16-African-countries-and-Algorand-is-one-of-the-supported-networks-powering-Ivorypays-new-x402-programmable-payment-system-for-AI-agents-and-apps",
+    "source": "@realallincrypto",
+    "published": "Fri Jul 10 2026 10:00:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Japanese Yen Carry Trade Explained! Trillions Invested Globally!",
+    "link": "https://cryptopanic.com/news/33011732/Japanese-Yen-Carry-Trade-Explained-Trillions-Invested-Globally",
+    "source": "SimplyBitcoin",
+    "published": "Fri Jul 10 2026 10:00:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "pump 100000x",
+    "link": "https://cryptopanic.com/news/33011702/pump-100000x",
+    "source": "@coinmarketcap",
+    "published": "Fri Jul 10 2026 10:00:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Weekly Roundup 07/09/26 (BonkDAO exploit, Choke Point 2.0 extended to audit firms, Kraken v Mazars) (EP.729)",
+    "link": "https://cryptopanic.com/news/33011830/Weekly-Roundup-070926-BonkDAO-exploit-Choke-Point-20-extended-to-audit-firms-Kraken-v-Mazars-EP729",
+    "source": "OnTheBrinkwithCastleIsland",
+    "published": "Fri Jul 10 2026 10:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "30-Year Treasury Yield Repricing Has Just Begun",
+    "link": "https://cryptopanic.com/news/33011705/30-Year-Treasury-Yield-Repricing-Has-Just-Begun",
+    "source": "catenaa.com",
+    "published": "Fri Jul 10 2026 10:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "'What an Amazing Coincidence': Ripple CTO Emeritus Reacts to Multi-Million XRP Deal",
+    "link": "https://cryptopanic.com/news/33011780/What-an-Amazing-Coincidence-Ripple-CTO-Emeritus-Reacts-to-Multi-Million-XRP-Deal",
+    "source": "u.today",
+    "published": "Fri Jul 10 2026 09:58:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Liquid staking survived with minimal outflows in Q2",
+    "link": "https://cryptopanic.com/news/33011730/Liquid-staking-survived-with-minimal-outflows-in-Q2",
+    "source": "cryptopolitan.com",
+    "published": "Fri Jul 10 2026 09:56:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Strategy And Binance Show Stark Bitcoin Cost Basis Gap\n\nStrategy's average Bitcoin acquisition price stands at $75,476, well above Binance's estimated realized price of around $60,900 for the Bitcoin held on its exchange, CryptoQuant analyst Darkfost says.\n\nStrategy recently sold",
+    "link": "https://cryptopanic.com/news/33011786/Strategy-And-Binance-Show-Stark-Bitcoin-Cost-Basis-Gap-Strategys-average-Bitcoin-acquisition-price-stands-at-75476-well-above-Binances-estimated-realized-price-of-around-60900-for-the-Bitcoin-held-on-its-exchange-CryptoQuant-analyst-Darkfost-says-Strategy-recently-sold",
+    "source": "@bscnews",
+    "published": "Fri Jul 10 2026 09:55:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "From Tokenized Stocks to CASHCAT – Why Robinhood Chain Is Dominating Crypto Conversations",
     "link": "https://cryptopanic.com/news/33011686/From-Tokenized-Stocks-to-CASHCAT-Why-Robinhood-Chain-Is-Dominating-Crypto-Conversations",
     "source": "cryptopotato.com",
@@ -130,83 +207,6 @@
     "link": "https://cryptopanic.com/news/33011579/The-HYPE-tokens-outperformance-was-INSANE-We-used-ElanInsights-Strategy-Modelling-tool-to-compare-the-performance-of-HyperliquidX-to-a-basket-of-cryptos-top-10-biggest-assets-The-results-were-shocking-HYPE-outperformed-the-top-10-blue-chip-assets-for-almost-the",
     "source": "@bscnews",
     "published": "Fri Jul 10 2026 09:01:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "\"Everyone Gave Up On Bitcoin At Exactly The Wrong Time\" You're About To See Why The Rich Buy Bitcoin",
-    "link": "https://cryptopanic.com/news/33011456/Everyone-Gave-Up-On-Bitcoin-At-Exactly-The-Wrong-Time-Youre-About-To-See-Why-The-Rich-Buy-Bitcoin",
-    "source": "TheModernInvestor",
-    "published": "Fri Jul 10 2026 09:00:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INSIGHT: Solana’s negative sentiment has reached its highest level of 2026 while trading volume has fallen to its lowest, a setup that has historically been viewed as a potential bullish signal.",
-    "link": "https://cryptopanic.com/news/33011449/INSIGHT-Solanas-negative-sentiment-has-reached-its-highest-level-of-2026-while-trading-volume-has-fallen-to-its-lowest-a-setup-that-has-historically-been-viewed-as-a-potential-bullish-signal",
-    "source": "@cointelegraph",
-    "published": "Fri Jul 10 2026 09:00:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Elon Musk Bets SpaceX Will Outvalue Earth, SPCX Says Not Yet",
-    "link": "https://cryptopanic.com/news/33011558/Elon-Musk-Bets-SpaceX-Will-Outvalue-Earth-SPCX-Says-Not-Yet",
-    "source": "beincrypto.com",
-    "published": "Fri Jul 10 2026 09:00:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Here's a look at the new Kansas Jayhawks jersey with $XRP branding \n\nFrom global payments to college hoops, $XRP is stepping further into the mainstream.\n\nBrand visibility like this is how crypto goes from ticker symbol to household name!",
-    "link": "https://cryptopanic.com/news/33011577/Heres-a-look-at-the-new-Kansas-Jayhawks-jersey-with-XRP-branding-From-global-payments-to-college-hoops-XRP-is-stepping-further-into-the-mainstream-Brand-visibility-like-this-is-how-crypto-goes-from-ticker-symbol-to-household-name",
-    "source": "@realallincrypto",
-    "published": "Fri Jul 10 2026 09:00:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "I could talk about ____ for hours.",
-    "link": "https://cryptopanic.com/news/33011444/I-could-talk-about-____-for-hours",
-    "source": "@coinmarketcap",
-    "published": "Fri Jul 10 2026 09:00:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UN Chief Calls for Global AI Rules and Weapons Ban",
-    "link": "https://cryptopanic.com/news/33011360/UN-Chief-Calls-for-Global-AI-Rules-and-Weapons-Ban",
-    "source": "catenaa.com",
-    "published": "Fri Jul 10 2026 09:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Mantle Joins $7.2 Billion Exodus From LayerZero to Chainlink CCIP",
-    "link": "https://cryptopanic.com/news/33011366/Mantle-Joins-72-Billion-Exodus-From-LayerZero-to-Chainlink-CCIP",
-    "source": "coinpaprika.com",
-    "published": "Fri Jul 10 2026 09:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum Foundation's Protocol Support Team Disbanded\n\nEF Protocol Support said the Ethereum Foundation's Protocol Support team has been disbanded. The team coordinated Ethereum's protocol development process, including core developer meetings, network upgrade tracking, EIP",
-    "link": "https://cryptopanic.com/news/33011445/Ethereum-Foundations-Protocol-Support-Team-Disbanded-EF-Protocol-Support-said-the-Ethereum-Foundations-Protocol-Support-team-has-been-disbanded-The-team-coordinated-Ethereums-protocol-development-process-including-core-developer-meetings-network-upgrade-tracking-EIP",
-    "source": "@wublockchain",
-    "published": "Fri Jul 10 2026 08:59:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Elizabeth Warren Calls Donald Trump's $1.4 Billion Crypto Earnings 'Corruption,' Says 'Congress Has a Responsibility to Stop It'",
-    "link": "https://cryptopanic.com/news/33011446/Elizabeth-Warren-Calls-Donald-Trumps-14-Billion-Crypto-Earnings-Corruption-Says-Congress-Has-a-Responsibility-to-Stop-It",
-    "source": "feeds2.benzinga.com",
-    "published": "Fri Jul 10 2026 08:57:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Coinbase Legal Chief Steps Down: Is Clarity Act Dead?",
-    "link": "https://cryptopanic.com/news/33011416/Coinbase-Legal-Chief-Steps-Down-Is-Clarity-Act-Dead",
-    "source": "u.today",
-    "published": "Fri Jul 10 2026 08:51:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: 🇺🇸 New Hampshire's Executive Council voted 3-2 on Thursday to reject a $100M Bitcoin-backed municipal bond, which would have been the first of its kind.",
-    "link": "https://cryptopanic.com/news/33011443/UPDATE-New-Hampshires-Executive-Council-voted-3-2-on-Thursday-to-reject-a-100M-Bitcoin-backed-municipal-bond-which-would-have-been-the-first-of-its-kind",
-    "source": "@coinmarketcap",
-    "published": "Fri Jul 10 2026 08:51:02 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
