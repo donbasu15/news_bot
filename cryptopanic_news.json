@@ -1,5 +1,12 @@
 [
   {
+    "title": "UK Labour MPs push to permanently ban crypto political donations",
+    "link": "https://cryptopanic.com/news/33011338/UK-Labour-MPs-push-to-permanently-ban-crypto-political-donations",
+    "source": "theblock.co",
+    "published": "Fri Jul 10 2026 08:44:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JPMorgan sees biggest Bitcoin risk beyond Strategy",
     "link": "https://cryptopanic.com/news/33011285/JPMorgan-sees-biggest-Bitcoin-risk-beyond-Strategy",
     "source": "cryptovalleyjournal.com",
@@ -32,6 +39,13 @@
     "link": "https://cryptopanic.com/news/33011227/LATEST-The-Ethereum-Foundation-says-AI-agents-helped-find-real-bugs-in-code-used-by-Ethereum-including-a-networking-flaw-that-has-since-been-patched",
     "source": "@coinmarketcap",
     "published": "Fri Jul 10 2026 08:25:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: IEA warns renewed US-Iran fighting could trigger another global oil shortage",
+    "link": "https://cryptopanic.com/news/33011358/INTEL-IEA-warns-renewed-US-Iran-fighting-could-trigger-another-global-oil-shortage",
+    "source": "@solidintel_x",
+    "published": "Fri Jul 10 2026 08:23:42 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -112,15 +126,15 @@
     "sentiment": "neutral"
   },
   {
-    "title": "DeFi Brief:\n\n> Variational introduces Swaps, bringing TradFi-level liquidity, stable carry costs, and higher OI limits.\n> Aave launches Stable Vaults, an all-in-one way to embed fixed-rate stablecoin yields into any product.\n> Summer Finance exploited for $6.04M USDC across two",
-    "link": "https://cryptopanic.com/news/33011225/DeFi-Brief-gt-Variational-introduces-Swaps-bringing-TradFi-level-liquidity-stable-carry-costs-and-higher-OI-limits-gt-Aave-launches-Stable-Vaults-an-all-in-one-way-to-embed-fixed-rate-stablecoin-yields-into-any-product-gt-Summer-Finance-exploited-for-604M-USDC-across-two",
+    "title": "Key Takeaways:\n> BTC +3.65%, ETH +3.43%: crypto grinds higher as mcap climbs to $2.19T and risk appetite returns\n> Robinhood Chain goes parabolic: $560M DEX volume, 200K daily actives, Tenev backing memecoins\n> DAO governance shows its cracks as BonkDAO gets drained via a $20M",
+    "link": "https://cryptopanic.com/news/33011223/Key-Takeaways-gt-BTC-365-ETH-343-crypto-grinds-higher-as-mcap-climbs-to-219T-and-risk-appetite-returns-gt-Robinhood-Chain-goes-parabolic-560M-DEX-volume-200K-daily-actives-Tenev-backing-memecoins-gt-DAO-governance-shows-its-cracks-as-BonkDAO-gets-drained-via-a-20M",
     "source": "@coinmarketcap",
     "published": "Fri Jul 10 2026 07:55:20 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Key Takeaways:\n> BTC +3.65%, ETH +3.43%: crypto grinds higher as mcap climbs to $2.19T and risk appetite returns\n> Robinhood Chain goes parabolic: $560M DEX volume, 200K daily actives, Tenev backing memecoins\n> DAO governance shows its cracks as BonkDAO gets drained via a $20M",
-    "link": "https://cryptopanic.com/news/33011223/Key-Takeaways-gt-BTC-365-ETH-343-crypto-grinds-higher-as-mcap-climbs-to-219T-and-risk-appetite-returns-gt-Robinhood-Chain-goes-parabolic-560M-DEX-volume-200K-daily-actives-Tenev-backing-memecoins-gt-DAO-governance-shows-its-cracks-as-BonkDAO-gets-drained-via-a-20M",
+    "title": "DeFi Brief:\n\n> Variational introduces Swaps, bringing TradFi-level liquidity, stable carry costs, and higher OI limits.\n> Aave launches Stable Vaults, an all-in-one way to embed fixed-rate stablecoin yields into any product.\n> Summer Finance exploited for $6.04M USDC across two",
+    "link": "https://cryptopanic.com/news/33011225/DeFi-Brief-gt-Variational-introduces-Swaps-bringing-TradFi-level-liquidity-stable-carry-costs-and-higher-OI-limits-gt-Aave-launches-Stable-Vaults-an-all-in-one-way-to-embed-fixed-rate-stablecoin-yields-into-any-product-gt-Summer-Finance-exploited-for-604M-USDC-across-two",
     "source": "@coinmarketcap",
     "published": "Fri Jul 10 2026 07:55:20 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33011080/PancakeSwap-PancakeSwap-has-surpassed-56-million-net-CAKE-burned-since-the-token-reached-peak-supply",
     "source": "@bscnews",
     "published": "Fri Jul 10 2026 07:32:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hong Kong Bans SMS and Email Logins for Crypto Platforms: Will Other Regulators Follow?",
-    "link": "https://cryptopanic.com/news/33011098/Hong-Kong-Bans-SMS-and-Email-Logins-for-Crypto-Platforms-Will-Other-Regulators-Follow",
-    "source": "beincrypto.com",
-    "published": "Fri Jul 10 2026 07:30:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Catapult Trade Public Round Reaches 60% Filled With $1.7M Committed",
-    "link": "https://cryptopanic.com/news/33011004/Catapult-Trade-Public-Round-Reaches-60-Filled-With-17M-Committed",
-    "source": "cryptopolitan.com",
-    "published": "Fri Jul 10 2026 07:27:12 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
