@@ -1,9 +1,72 @@
 [
   {
+    "title": "Most crypto holders want a loan against their Bitcoin and never take one",
+    "link": "https://cryptopanic.com/news/33013723/Most-crypto-holders-want-a-loan-against-their-Bitcoin-and-never-take-one",
+    "source": "thestreet.com",
+    "published": "Fri Jul 10 2026 15:33:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇯🇵 Japan's Finance Minister Satsuki Katayama on Bitcoin and crypto ETFs, \"we would like to proceed with considerations toward legalizing cryptocurrency ETFs in Japan as well.\"",
+    "link": "https://cryptopanic.com/news/33013721/JUST-IN-Japans-Finance-Minister-Satsuki-Katayama-on-Bitcoin-and-crypto-ETFs-we-would-like-to-proceed-with-considerations-toward-legalizing-cryptocurrency-ETFs-in-Japan-as-well",
+    "source": "@bitcoinmagazine",
+    "published": "Fri Jul 10 2026 15:32:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hyundai becomes first major South Korean company to introduce internal stablecoin transfers",
+    "link": "https://cryptopanic.com/news/33013698/Hyundai-becomes-first-major-South-Korean-company-to-introduce-internal-stablecoin-transfers",
+    "source": "coindesk.com",
+    "published": "Fri Jul 10 2026 15:26:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Goldman Sachs reportedly warns employees to stay out of booming market",
+    "link": "https://cryptopanic.com/news/33013722/Goldman-Sachs-reportedly-warns-employees-to-stay-out-of-booming-market",
+    "source": "thestreet.com",
+    "published": "Fri Jul 10 2026 15:25:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Kraken Deploys Agentic Trading Infrastructure to Automate Market Execution\n\n@krakenfx confirms plans to launch agentic trading capabilities that allow AI bots to autonomously manage user portfolios. \n\nThe system enables autonomous agents to monitor global markets 24/7, identify",
+    "link": "https://cryptopanic.com/news/33013620/Kraken-Deploys-Agentic-Trading-Infrastructure-to-Automate-Market-Execution-krakenfx-confirms-plans-to-launch-agentic-trading-capabilities-that-allow-AI-bots-to-autonomously-manage-user-portfolios-The-system-enables-autonomous-agents-to-monitor-global-markets-247-identify",
+    "source": "@bscnews",
+    "published": "Fri Jul 10 2026 15:25:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Judge lets Terraform use Jump lawsuit evidence while blocking four late creditor claims",
+    "link": "https://cryptopanic.com/news/33013612/Judge-lets-Terraform-use-Jump-lawsuit-evidence-while-blocking-four-late-creditor-claims",
+    "source": "cryptoslate.com",
+    "published": "Fri Jul 10 2026 15:24:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tether’s TON Integration Pushes USDT Deeper Into Telegram’s Crypto Economy",
+    "link": "https://cryptopanic.com/news/33013572/Tethers-TON-Integration-Pushes-USDT-Deeper-Into-Telegrams-Crypto-Economy",
+    "source": "newsbtc.com",
+    "published": "Fri Jul 10 2026 15:20:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Elon Musk says SpaceX could be worth more than earth",
+    "link": "https://cryptopanic.com/news/33013623/Elon-Musk-says-SpaceX-could-be-worth-more-than-earth",
+    "source": "thestreet.com",
+    "published": "Fri Jul 10 2026 15:13:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Trump Won't Sign Housing Bill With CBDC Ban—Will It Become Law Tonight Anyway?",
     "link": "https://cryptopanic.com/news/33013547/Trump-Wont-Sign-Housing-Bill-With-CBDC-BanWill-It-Become-Law-Tonight-Anyway",
     "source": "decrypt.co",
     "published": "Fri Jul 10 2026 15:13:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$BTQ has completed the design of its next-gen QCIM quantum-security chip and is preparing for production.\n\nQCIM runs cryptographic functions inside memory to reduce latency, power use and data movement, while PUF gives every chip a unique hardware identity for silicon-level",
+    "link": "https://cryptopanic.com/news/33013618/BTQ-has-completed-the-design-of-its-next-gen-QCIM-quantum-security-chip-and-is-preparing-for-production-QCIM-runs-cryptographic-functions-inside-memory-to-reduce-latency-power-use-and-data-movement-while-PUF-gives-every-chip-a-unique-hardware-identity-for-silicon-level",
+    "source": "@bscnews",
+    "published": "Fri Jul 10 2026 15:08:33 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -35,6 +98,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "July 10 Update:\n\n#Bitcoin ETFs:\n1D NetFlow: -1,791 BTC(-$114.58M)\n7D NetFlow: +5,098 BTC(+$326.11M)🟢\n\n#Ethereum ETFs:\n1D NetFlow: -27,487 ETH(-$49.09M)\n7D NetFlow: +37,036 ETH(+$66.15M)🟢",
+    "link": "https://cryptopanic.com/news/33013622/July-10-Update-Bitcoin-ETFs-1D-NetFlow-1791-BTC-11458M-7D-NetFlow-5098-BTC32611M-Ethereum-ETFs-1D-NetFlow-27487-ETH-4909M-7D-NetFlow-37036-ETH6615M",
+    "source": "@lookonchain",
+    "published": "Fri Jul 10 2026 15:02:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Source",
     "link": "https://cryptopanic.com/news/33013537/Source",
     "source": "@wublockchain",
@@ -49,9 +119,30 @@
     "sentiment": "neutral"
   },
   {
+    "title": "With confirmed from Trump recently signing post-quantum security orders. \n\nQuantum risk is going to be critical as even the President is pushing post-quantum security.\n\n@Algorand started in 2022, Falcon is live on mainnet, and the roadmap targets broad quantum resilience by 2027.",
+    "link": "https://cryptopanic.com/news/33013617/With-confirmed-from-Trump-recently-signing-post-quantum-security-orders-Quantum-risk-is-going-to-be-critical-as-even-the-President-is-pushing-post-quantum-security-Algorand-started-in-2022-Falcon-is-live-on-mainnet-and-the-roadmap-targets-broad-quantum-resilience-by-2027",
+    "source": "@realallincrypto",
+    "published": "Fri Jul 10 2026 15:00:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Everyone watches the DXY… but @themarketsniper says the real pair to watch is USD/CNY.\n\nProducer nation vs consumer nation.\n\nAnd while people talk about dollar strength, the dollar has been losing value against the Chinese yuan.\n\n#Bitcoin #Crypto #Macro",
+    "link": "https://cryptopanic.com/news/33013616/Everyone-watches-the-DXY-but-themarketsniper-says-the-real-pair-to-watch-is-USDCNY-Producer-nation-vs-consumer-nation-And-while-people-talk-about-dollar-strength-the-dollar-has-been-losing-value-against-the-Chinese-yuan-Bitcoin-Crypto-Macro",
+    "source": "@realallincrypto",
+    "published": "Fri Jul 10 2026 15:00:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "SpaceX IPO Drives Tokenized Stock Trading to a Record $3.86 Billion in June",
     "link": "https://cryptopanic.com/news/33013383/SpaceX-IPO-Drives-Tokenized-Stock-Trading-to-a-Record-386-Billion-in-June",
     "source": "coinpaprika.com",
+    "published": "Fri Jul 10 2026 15:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cardano Price Climbs, but Its DeFi Engine Is Quietly Collapsing",
+    "link": "https://cryptopanic.com/news/33013674/Cardano-Price-Climbs-but-Its-DeFi-Engine-Is-Quietly-Collapsing",
+    "source": "beincrypto.com",
     "published": "Fri Jul 10 2026 15:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -116,97 +207,6 @@
     "link": "https://cryptopanic.com/news/33013320/NEC-and-Ava-Labs-Partner-to-Launch-Biometric-Verified-Blockchain-Architecture-NEC-a-global-leader-in-biometric-identity-partners-with-Avax-to-integrate-sovereign-identity-verification-into-the-Avalanche-network-The-collaboration-leverages-NECs-existing-infrastructure-of",
     "source": "@bscnews",
     "published": "Fri Jul 10 2026 14:47:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Portugal launches reform to liberalise rental market, speed evictions",
-    "link": "https://cryptopanic.com/news/33013545/Portugal-launches-reform-to-liberalise-rental-market-speed-evictions",
-    "source": "@reutersbiz",
-    "published": "Fri Jul 10 2026 14:45:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Has crypto finally found its killer app?\n\nWorld Cup prediction markets are turning sports fans into onchain users without asking them to care about wallets, chains, or DeFi. But gambling-law fights could decide whether the boom lasts.\n\nRead on for the full story.",
-    "link": "https://cryptopanic.com/news/33013531/LATEST-Has-crypto-finally-found-its-killer-app-World-Cup-prediction-markets-are-turning-sports-fans-into-onchain-users-without-asking-them-to-care-about-wallets-chains-or-DeFi-But-gambling-law-fights-could-decide-whether-the-boom-lasts-Read-on-for-the-full-story",
-    "source": "@coinmarketcap",
-    "published": "Fri Jul 10 2026 14:45:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 US releases new UFO footage showing a six-pointed object flying over the Yellow Sea in 2025.",
-    "link": "https://cryptopanic.com/news/33013379/JUST-IN-US-releases-new-UFO-footage-showing-a-six-pointed-object-flying-over-the-Yellow-Sea-in-2025",
-    "source": "@watcherguru",
-    "published": "Fri Jul 10 2026 14:42:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Meta insiders sold 150 times and bought zero in the last six months",
-    "link": "https://cryptopanic.com/news/33013299/Meta-insiders-sold-150-times-and-bought-zero-in-the-last-six-months",
-    "source": "protos.com",
-    "published": "Fri Jul 10 2026 14:41:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Is Everything OK With Shiba Inu (SHIB) X Account? It Suddenly Starts Promoting Low-Cap Coins",
-    "link": "https://cryptopanic.com/news/33013354/Is-Everything-OK-With-Shiba-Inu-SHIB-X-Account-It-Suddenly-Starts-Promoting-Low-Cap-Coins",
-    "source": "u.today",
-    "published": "Fri Jul 10 2026 14:40:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Reclaims $64K Despite Strategy’s New Sale and Resumed US-Iran Strikes: Weekly Recap",
-    "link": "https://cryptopanic.com/news/33013292/Bitcoin-Reclaims-64K-Despite-Strategys-New-Sale-and-Resumed-US-Iran-Strikes-Weekly-Recap",
-    "source": "cryptopotato.com",
-    "published": "Fri Jul 10 2026 14:39:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump Just Made Passing the CLARITY Act More Politically Expensive",
-    "link": "https://cryptopanic.com/news/33013368/Trump-Just-Made-Passing-the-CLARITY-Act-More-Politically-Expensive",
-    "source": "beincrypto.com",
-    "published": "Fri Jul 10 2026 14:38:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Meta rejects EU finding that Facebook, Instagram use addictive design",
-    "link": "https://cryptopanic.com/news/33013323/Meta-rejects-EU-finding-that-Facebook-Instagram-use-addictive-design",
-    "source": "cryptopolitan.com",
-    "published": "Fri Jul 10 2026 14:38:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple Remedies Fight Gets Another SEC Filing As Final Penalty Debate Drags On",
-    "link": "https://cryptopanic.com/news/33013250/Ripple-Remedies-Fight-Gets-Another-SEC-Filing-As-Final-Penalty-Debate-Drags-On",
-    "source": "newsbtc.com",
-    "published": "Fri Jul 10 2026 14:35:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stagwell CEO Mark Penn tells James Heckman AI will make marketing more personal",
-    "link": "https://cryptopanic.com/news/33013353/Stagwell-CEO-Mark-Penn-tells-James-Heckman-AI-will-make-marketing-more-personal",
-    "source": "thestreet.com",
-    "published": "Fri Jul 10 2026 14:34:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: CoinMarketCap ranks #Cardano $ADA as the 10th most viewed cryptocurrency, surpassing Dogecoin and Stellar.",
-    "link": "https://cryptopanic.com/news/33013539/JUST-IN-CoinMarketCap-ranks-Cardano-ADA-as-the-10th-most-viewed-cryptocurrency-surpassing-Dogecoin-and-Stellar",
-    "source": "@angrycryptoshow",
-    "published": "Fri Jul 10 2026 14:32:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: CoinMarketCap ranks #Cardano $ADA as the 5th most bullish daily trending and the 7th most bullish community sentiment.",
-    "link": "https://cryptopanic.com/news/33013538/JUST-IN-CoinMarketCap-ranks-Cardano-ADA-as-the-5th-most-bullish-daily-trending-and-the-7th-most-bullish-community-sentiment",
-    "source": "@angrycryptoshow",
-    "published": "Fri Jul 10 2026 14:32:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nigeria's stock market has overtaken South Korea as the world's best-performing equity market in dollar terms this year.",
-    "link": "https://cryptopanic.com/news/33013319/Nigerias-stock-market-has-overtaken-South-Korea-as-the-worlds-best-performing-equity-market-in-dollar-terms-this-year",
-    "source": "@bscnews",
-    "published": "Fri Jul 10 2026 14:32:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
