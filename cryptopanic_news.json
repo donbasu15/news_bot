@@ -1,5 +1,61 @@
 [
   {
+    "title": "JPMorgan sees biggest Bitcoin risk beyond Strategy",
+    "link": "https://cryptopanic.com/news/33011285/JPMorgan-sees-biggest-Bitcoin-risk-beyond-Strategy",
+    "source": "cryptovalleyjournal.com",
+    "published": "Fri Jul 10 2026 08:41:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "EURC Set Records After MiCA: The Money Still Went Elsewhere",
+    "link": "https://cryptopanic.com/news/33011289/EURC-Set-Records-After-MiCA-The-Money-Still-Went-Elsewhere",
+    "source": "coindoo.com",
+    "published": "Fri Jul 10 2026 08:40:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Russia lowers crypto reporting threshold to 60,000 rubles",
+    "link": "https://cryptopanic.com/news/33011287/Russia-lowers-crypto-reporting-threshold-to-60000-rubles",
+    "source": "cryptopolitan.com",
+    "published": "Fri Jul 10 2026 08:38:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "June was a busy month for Solana (@solana) ... \n\nTokenized stocks topped $10B, real world assets surpassed $3.6B, and SPCX generated $108M in first day volume.",
+    "link": "https://cryptopanic.com/news/33011334/June-was-a-busy-month-for-Solana-solana-Tokenized-stocks-topped-10B-real-world-assets-surpassed-36B-and-SPCX-generated-108M-in-first-day-volume",
+    "source": "@bscnews",
+    "published": "Fri Jul 10 2026 08:32:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🤖 The Ethereum Foundation says AI agents helped find real bugs in code used by Ethereum, including a networking flaw that has since been patched.",
+    "link": "https://cryptopanic.com/news/33011227/LATEST-The-Ethereum-Foundation-says-AI-agents-helped-find-real-bugs-in-code-used-by-Ethereum-including-a-networking-flaw-that-has-since-been-patched",
+    "source": "@coinmarketcap",
+    "published": "Fri Jul 10 2026 08:25:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ANALYSIS: ripple:native breaks above $1.10 resistance on an 88% above-average volume surge, holding near session highs as buyers turn the level into support with $1.13 the next target if momentum continues.",
+    "link": "https://cryptopanic.com/news/33011230/ANALYSIS-ripplenative-breaks-above-110-resistance-on-an-88-above-average-volume-surge-holding-near-session-highs-as-buyers-turn-the-level-into-support-with-113-the-next-target-if-momentum-continues",
+    "source": "@coindesk",
+    "published": "Fri Jul 10 2026 08:23:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BULLISH: Bitcoin has reached its most oversold level against gold on record, a signal that last preceded a nearly 660% rally.",
+    "link": "https://cryptopanic.com/news/33011232/BULLISH-Bitcoin-has-reached-its-most-oversold-level-against-gold-on-record-a-signal-that-last-preceded-a-nearly-660-rally",
+    "source": "@cointelegraph",
+    "published": "Fri Jul 10 2026 08:20:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SWIFT XRP Speculation Hits Wall\n\nFormer SWIFT Chief Innovation Officer Tom Zschach has dismissed claims that SWIFT plans to support $XRP.\n\nResponding on X, Zschach said the rumored integration is \"not happening.\"\n\nThe comments follow viral posts claiming SWIFT would support XRP",
+    "link": "https://cryptopanic.com/news/33011333/SWIFT-XRP-Speculation-Hits-Wall-Former-SWIFT-Chief-Innovation-Officer-Tom-Zschach-has-dismissed-claims-that-SWIFT-plans-to-support-XRP-Responding-on-X-Zschach-said-the-rumored-integration-is-not-happening-The-comments-follow-viral-posts-claiming-SWIFT-would-support-XRP",
+    "source": "@bscnews",
+    "published": "Fri Jul 10 2026 08:13:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Analyst flags CodexField over suspected $85M rug pull",
     "link": "https://cryptopanic.com/news/33011192/Analyst-flags-CodexField-over-suspected-85M-rug-pull",
     "source": "cryptopolitan.com",
@@ -14,10 +70,31 @@
     "sentiment": "neutral"
   },
   {
+    "title": "$BTC HITS MOST OVERSOLD LEVEL EVER!\n\nFinally some bullish crypto news, $BTC just hit it's most oversold level ever vs gold!\n\nThe last time this indicator flashed, $BTC since a huge move up.\n\nIs there a huge move incoming?",
+    "link": "https://cryptopanic.com/news/33011327/BTC-HITS-MOST-OVERSOLD-LEVEL-EVER-Finally-some-bullish-crypto-news-BTC-just-hit-its-most-oversold-level-ever-vs-gold-The-last-time-this-indicator-flashed-BTC-since-a-huge-move-up-Is-there-a-huge-move-incoming",
+    "source": "@realallincrypto",
+    "published": "Fri Jul 10 2026 08:07:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "July 10 Options Data\n\n23,000 BTC options expired, with a put-call ratio of 0.97, a maximum pain point of $62,000, and a notional value of $1.5 billion.\n140,000 ETH options expired, with a put-call ratio of 1.26, a maximum pain point of $1,700, and a notional value of $250",
+    "link": "https://cryptopanic.com/news/33011229/July-10-Options-Data-23000-BTC-options-expired-with-a-put-call-ratio-of-097-a-maximum-pain-point-of-62000-and-a-notional-value-of-15-billion-140000-ETH-options-expired-with-a-put-call-ratio-of-126-a-maximum-pain-point-of-1700-and-a-notional-value-of-250",
+    "source": "@wublockchain",
+    "published": "Fri Jul 10 2026 08:05:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "HSBC Completes First Digitally Native Structured Product Issuance in Hong Kong",
     "link": "https://cryptopanic.com/news/33011100/HSBC-Completes-First-Digitally-Native-Structured-Product-Issuance-in-Hong-Kong",
     "source": "www.blockhead.co",
     "published": "Fri Jul 10 2026 08:02:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Metaplanet, Metaplanet Securities, JPYC, and Progmat have launched a joint study on Bitcoin-backed digital credit instruments designed for 24/7 trading with daily interest accrual.",
+    "link": "https://cryptopanic.com/news/33011231/JUST-IN-Metaplanet-Metaplanet-Securities-JPYC-and-Progmat-have-launched-a-joint-study-on-Bitcoin-backed-digital-credit-instruments-designed-for-247-trading-with-daily-interest-accrual",
+    "source": "@cointelegraph",
+    "published": "Fri Jul 10 2026 08:00:41 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -32,6 +109,34 @@
     "link": "https://cryptopanic.com/news/33011082/China-Orders-AI-Giants-to-Remove-Humanlike-Agents",
     "source": "catenaa.com",
     "published": "Fri Jul 10 2026 08:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "DeFi Brief:\n\n> Variational introduces Swaps, bringing TradFi-level liquidity, stable carry costs, and higher OI limits.\n> Aave launches Stable Vaults, an all-in-one way to embed fixed-rate stablecoin yields into any product.\n> Summer Finance exploited for $6.04M USDC across two",
+    "link": "https://cryptopanic.com/news/33011225/DeFi-Brief-gt-Variational-introduces-Swaps-bringing-TradFi-level-liquidity-stable-carry-costs-and-higher-OI-limits-gt-Aave-launches-Stable-Vaults-an-all-in-one-way-to-embed-fixed-rate-stablecoin-yields-into-any-product-gt-Summer-Finance-exploited-for-604M-USDC-across-two",
+    "source": "@coinmarketcap",
+    "published": "Fri Jul 10 2026 07:55:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Key Takeaways:\n> BTC +3.65%, ETH +3.43%: crypto grinds higher as mcap climbs to $2.19T and risk appetite returns\n> Robinhood Chain goes parabolic: $560M DEX volume, 200K daily actives, Tenev backing memecoins\n> DAO governance shows its cracks as BonkDAO gets drained via a $20M",
+    "link": "https://cryptopanic.com/news/33011223/Key-Takeaways-gt-BTC-365-ETH-343-crypto-grinds-higher-as-mcap-climbs-to-219T-and-risk-appetite-returns-gt-Robinhood-Chain-goes-parabolic-560M-DEX-volume-200K-daily-actives-Tenev-backing-memecoins-gt-DAO-governance-shows-its-cracks-as-BonkDAO-gets-drained-via-a-20M",
+    "source": "@coinmarketcap",
+    "published": "Fri Jul 10 2026 07:55:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Major Project Updates:\n\n> BonkDAO suffers a governance attack: linked wallets bought $4.4M in BONK to pass a vote sending themselves $20M from the treasury.\n> Yield Guild Games sunsets YGG Play, pivoting toward an AI data economy focused on gaming datasets.\n> BNB Chain plans a",
+    "link": "https://cryptopanic.com/news/33011221/Major-Project-Updates-gt-BonkDAO-suffers-a-governance-attack-linked-wallets-bought-44M-in-BONK-to-pass-a-vote-sending-themselves-20M-from-the-treasury-gt-Yield-Guild-Games-sunsets-YGG-Play-pivoting-toward-an-AI-data-economy-focused-on-gaming-datasets-gt-BNB-Chain-plans-a",
+    "source": "@coinmarketcap",
+    "published": "Fri Jul 10 2026 07:55:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Narrative of the Week: Robinhood Summer\n\n> Robinhood Chain daily DEX volume tops $560M, with 200,000 daily active addresses and nearly 16,000 new tokens created in a single day.\n> Robinhood CEO Vlad Tenev publicly endorses memecoins on the chain.\n> 10% of Robinhood Chain fees",
+    "link": "https://cryptopanic.com/news/33011220/Narrative-of-the-Week-Robinhood-Summer-gt-Robinhood-Chain-daily-DEX-volume-tops-560M-with-200000-daily-active-addresses-and-nearly-16000-new-tokens-created-in-a-single-day-gt-Robinhood-CEO-Vlad-Tenev-publicly-endorses-memecoins-on-the-chain-gt-10-of-Robinhood-Chain-fees",
+    "source": "@coinmarketcap",
+    "published": "Fri Jul 10 2026 07:55:18 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -77,6 +182,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Crypto Traders Shift to TradFi as Tokenized Stock Trading Hits $54B",
+    "link": "https://cryptopanic.com/news/33011284/Crypto-Traders-Shift-to-TradFi-as-Tokenized-Stock-Trading-Hits-54B",
+    "source": "coinpedia.org",
+    "published": "Fri Jul 10 2026 07:32:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "PancakeSwap (@PancakeSwap) has surpassed 56 million net $CAKE burned since the token reached peak supply.",
     "link": "https://cryptopanic.com/news/33011080/PancakeSwap-PancakeSwap-has-surpassed-56-million-net-CAKE-burned-since-the-token-reached-peak-supply",
     "source": "@bscnews",
@@ -95,118 +207,6 @@
     "link": "https://cryptopanic.com/news/33011004/Catapult-Trade-Public-Round-Reaches-60-Filled-With-17M-Committed",
     "source": "cryptopolitan.com",
     "published": "Fri Jul 10 2026 07:27:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "STHs are buying the dip like in February: seller pressure is easing",
-    "link": "https://cryptopanic.com/news/33011028/STHs-are-buying-the-dip-like-in-February-seller-pressure-is-easing",
-    "source": "axeladlerjr.com",
-    "published": "Fri Jul 10 2026 07:26:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Historical data is now available on the Basic API Plan (Free Tier)\n\n️ Pull past market data without a paid subscription to get started\n\n See what is included",
-    "link": "https://cryptopanic.com/news/33011036/Historical-data-is-now-available-on-the-Basic-API-Plan-Free-Tier-Pull-past-market-data-without-a-paid-subscription-to-get-started-See-what-is-included",
-    "source": "@coinmarketcap",
-    "published": "Fri Jul 10 2026 07:25:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "@Darkfost_Coc Read more ⤵️",
-    "link": "https://cryptopanic.com/news/33011038/Darkfost_Coc-Read-more",
-    "source": "@cryptoquant_com",
-    "published": "Fri Jul 10 2026 07:21:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Robinhood Chain has grown to over $80M in TVL, $200M in stablecoins, and $800M in cumulative DEX volume since launch, according to DefiLlama.",
-    "link": "https://cryptopanic.com/news/33011040/NEW-Robinhood-Chain-has-grown-to-over-80M-in-TVL-200M-in-stablecoins-and-800M-in-cumulative-DEX-volume-since-launch-according-to-DefiLlama",
-    "source": "@cointelegraph",
-    "published": "Fri Jul 10 2026 07:20:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin: Why This Bear Market Is Different",
-    "link": "https://cryptopanic.com/news/33010930/Bitcoin-Why-This-Bear-Market-Is-Different",
-    "source": "coindoo.com",
-    "published": "Fri Jul 10 2026 07:18:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Strategy's Cost Basis vs. Binance's: Who's really underwater on Bitcoin?\n\n“By comparison, all the BTC sitting on Binance carries an estimated realized price of around $60 900, a level well below Strategy's [$75,476] own.” – By @Darkfost_Coc",
-    "link": "https://cryptopanic.com/news/33011037/Strategys-Cost-Basis-vs-Binances-Whos-really-underwater-on-Bitcoin-By-comparison-all-the-BTC-sitting-on-Binance-carries-an-estimated-realized-price-of-around-60-900-a-level-well-below-Strategys-75476-own-By-Darkfost_Coc",
-    "source": "@cryptoquant_com",
-    "published": "Fri Jul 10 2026 07:16:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  CryptoQuant says Bitcoin's price rebound is still a bear-market recovery, not a trend reversal, with its Bull Score Index remaining bearish.",
-    "link": "https://cryptopanic.com/news/33011034/LATEST-CryptoQuant-says-Bitcoins-price-rebound-is-still-a-bear-market-recovery-not-a-trend-reversal-with-its-Bull-Score-Index-remaining-bearish",
-    "source": "@coinmarketcap",
-    "published": "Fri Jul 10 2026 07:15:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Weekly Top Gainers\n 1️⃣ edgeX (@edgeX_exchange): +75.77%\n 2️⃣ DeXe (@DexeNetwork): +47.86%\n 3️⃣ Allora (@alloranetwork): +30.67%\n 4️⃣ Vaulta (@vaulta_): +22.23%\n 5️⃣ Safe (@safe): +21.81%\n 6️⃣ AWE (@awenetwork_ai): +20.26%\n 7️⃣ Lido DAO (@lidofinance): +19.30%\n 8️⃣",
-    "link": "https://cryptopanic.com/news/33011029/Weekly-Top-Gainers-1-edgeX-edgeX_exchange-7577-2-DeXe-DexeNetwork-4786-3-Allora-alloranetwork-3067-4-Vaulta-vaulta_-2223-5-Safe-safe-2181-6-AWE-awenetwork_ai-2026-7-Lido-DAO-lidofinance-1930-8",
-    "source": "@coinmarketcap",
-    "published": "Fri Jul 10 2026 07:15:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Zcash Sets July 28 For Ironwood Upgrade\n\nZcash (@Zcash) $ZEC has scheduled its Ironwood network upgrade for July 28, one week later than the original target.\n\nIronwood will close the current Orchard shielded pool after the discovery of the Infinity bug in May. The upgrade also",
-    "link": "https://cryptopanic.com/news/33010860/Zcash-Sets-July-28-For-Ironwood-Upgrade-Zcash-Zcash-ZEC-has-scheduled-its-Ironwood-network-upgrade-for-July-28-one-week-later-than-the-original-target-Ironwood-will-close-the-current-Orchard-shielded-pool-after-the-discovery-of-the-Infinity-bug-in-May-The-upgrade-also",
-    "source": "@bscnews",
-    "published": "Fri Jul 10 2026 07:12:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Polymarket Seeks to Offer Margin Trading to US Users",
-    "link": "https://cryptopanic.com/news/33011097/Polymarket-Seeks-to-Offer-Margin-Trading-to-US-Users",
-    "source": "beincrypto.com",
-    "published": "Fri Jul 10 2026 07:08:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Going a few days without a trade doesn't mean you're behind or missing out.\n\nSome weeks just don't offer anything worth forcing, and treating every session like you need to be in a position is how you end up chasing bad setups.\n\nSitting out is still a decision. Usually the",
-    "link": "https://cryptopanic.com/news/33010858/Going-a-few-days-without-a-trade-doesnt-mean-youre-behind-or-missing-out-Some-weeks-just-dont-offer-anything-worth-forcing-and-treating-every-session-like-you-need-to-be-in-a-position-is-how-you-end-up-chasing-bad-setups-Sitting-out-is-still-a-decision-Usually-the",
-    "source": "@daancrypto",
-    "published": "Fri Jul 10 2026 07:01:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: DeFi tokens fell just 4% in June versus Bitcoin's 22% drop, signaling the sector may be quietly re-rating as institutions build on protocols like Aave and Morpho, per Bitwise.",
-    "link": "https://cryptopanic.com/news/33011039/NEW-DeFi-tokens-fell-just-4-in-June-versus-Bitcoins-22-drop-signaling-the-sector-may-be-quietly-re-rating-as-institutions-build-on-protocols-like-Aave-and-Morpho-per-Bitwise",
-    "source": "@cointelegraph",
-    "published": "Fri Jul 10 2026 07:00:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nodes Control Bitcoin?! The Power They Hold!",
-    "link": "https://cryptopanic.com/news/33010849/Nodes-Control-Bitcoin-The-Power-They-Hold",
-    "source": "SimplyBitcoin",
-    "published": "Fri Jul 10 2026 07:00:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Sony Bank Clears First US Hurdle to Issue Its Own Dollar Stablecoin",
-    "link": "https://cryptopanic.com/news/33010812/Sony-Bank-Clears-First-US-Hurdle-to-Issue-Its-Own-Dollar-Stablecoin",
-    "source": "coinpaprika.com",
-    "published": "Fri Jul 10 2026 07:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "TRON Weekly Report: Fed-ECB Signal, BTC Bottoming, Open Clearing Cycles",
-    "link": "https://cryptopanic.com/news/33010811/TRON-Weekly-Report-Fed-ECB-Signal-BTC-Bottoming-Open-Clearing-Cycles",
-    "source": "coincu.com",
-    "published": "Fri Jul 10 2026 06:56:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CLARITY Act Draft Nears Senate Release\n\nA new version of the Digital Asset Market CLARITY Act could be released as soon as next week, according to sources.\n\nThe updated draft reportedly combines work from the Senate Banking and Agriculture Committees. Negotiators are still",
-    "link": "https://cryptopanic.com/news/33010859/CLARITY-Act-Draft-Nears-Senate-Release-A-new-version-of-the-Digital-Asset-Market-CLARITY-Act-could-be-released-as-soon-as-next-week-according-to-sources-The-updated-draft-reportedly-combines-work-from-the-Senate-Banking-and-Agriculture-Committees-Negotiators-are-still",
-    "source": "@bscnews",
-    "published": "Fri Jul 10 2026 06:52:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
