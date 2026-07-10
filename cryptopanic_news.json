@@ -1,5 +1,61 @@
 [
   {
+    "title": "Brazil police target executive linked to Banco Master's communication efforts",
+    "link": "https://cryptopanic.com/news/33010136/Brazil-police-target-executive-linked-to-Banco-Masters-communication-efforts",
+    "source": "@reutersbiz",
+    "published": "Fri Jul 10 2026 03:45:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Tencent leads talks to become largest shareholder in Manus, unwinding Meta's $2B acquisition after Beijing ordered the deal reversed, per FT.",
+    "link": "https://cryptopanic.com/news/33010134/JUST-IN-Tencent-leads-talks-to-become-largest-shareholder-in-Manus-unwinding-Metas-2B-acquisition-after-Beijing-ordered-the-deal-reversed-per-FT",
+    "source": "@cointelegraph",
+    "published": "Fri Jul 10 2026 03:40:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Exclusive: Meta plans to start manufacturing an artificial intelligence chip from ‌September as part of its plan to boost overall computing power to 14 gigawatts next year. More here -",
+    "link": "https://cryptopanic.com/news/33010135/Exclusive-Meta-plans-to-start-manufacturing-an-artificial-intelligence-chip-from-September-as-part-of-its-plan-to-boost-overall-computing-power-to-14-gigawatts-next-year-More-here-",
+    "source": "@reutersbiz",
+    "published": "Fri Jul 10 2026 03:35:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: ️ Stripe-owned Privy partnered with Jito Labs to build FullSend, a tool that routes every Solana transaction straight to the current block-building leader for faster inclusion.",
+    "link": "https://cryptopanic.com/news/33010130/LATEST-Stripe-owned-Privy-partnered-with-Jito-Labs-to-build-FullSend-a-tool-that-routes-every-Solana-transaction-straight-to-the-current-block-building-leader-for-faster-inclusion",
+    "source": "@coinmarketcap",
+    "published": "Fri Jul 10 2026 03:35:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Charles Hoskinson Addresses Rumors He Is Quitting Cardano",
+    "link": "https://cryptopanic.com/news/33010123/Charles-Hoskinson-Addresses-Rumors-He-Is-Quitting-Cardano",
+    "source": "beincrypto.com",
+    "published": "Fri Jul 10 2026 03:31:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The US-Iran Ceasefire Was an Illusion. Markets are Paying the Price",
+    "link": "https://cryptopanic.com/news/33010122/The-US-Iran-Ceasefire-Was-an-Illusion-Markets-are-Paying-the-Price",
+    "source": "beincrypto.com",
+    "published": "Fri Jul 10 2026 03:28:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Narrative classification, attention signals, and trading decisions all starting from one data layer.\n\n That is the point of CMC Agent Hub: structured insights your agent can reason on, not raw API noise.\n\n See what it powers",
+    "link": "https://cryptopanic.com/news/33010129/Narrative-classification-attention-signals-and-trading-decisions-all-starting-from-one-data-layer-That-is-the-point-of-CMC-Agent-Hub-structured-insights-your-agent-can-reason-on-not-raw-API-noise-See-what-it-powers",
+    "source": "@coinmarketcap",
+    "published": "Fri Jul 10 2026 03:21:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "️ INSIGHT: Ethereum Foundation runs AI agents to hunt bugs in protocol code, but most flagged issues turn out to be false positives. \n\nHuman triage still makes the final call on what's real.",
+    "link": "https://cryptopanic.com/news/33010133/INSIGHT-Ethereum-Foundation-runs-AI-agents-to-hunt-bugs-in-protocol-code-but-most-flagged-issues-turn-out-to-be-false-positives-Human-triage-still-makes-the-final-call-on-whats-real",
+    "source": "@cointelegraph",
+    "published": "Fri Jul 10 2026 03:20:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "OpenAI floats GPT-5.6 after the Trump Admin completes security review",
     "link": "https://cryptopanic.com/news/33010043/OpenAI-floats-GPT-56-after-the-Trump-Admin-completes-security-review",
     "source": "cryptopolitan.com",
@@ -151,62 +207,6 @@
     "link": "https://cryptopanic.com/news/33009809/Goldman-Sachs-Limits-Staff-Prediction-Bets-to-Sports-Entertainment",
     "source": "square.binance.com",
     "published": "Fri Jul 10 2026 01:44:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hyperliquid Whale Suspected of Continuing Ether Sell-Off After Withdrawing 7,863 ETH",
-    "link": "https://cryptopanic.com/news/33009808/Hyperliquid-Whale-Suspected-of-Continuing-Ether-Sell-Off-After-Withdrawing-7863-ETH",
-    "source": "square.binance.com",
-    "published": "Fri Jul 10 2026 01:44:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SK Hynix Nasdaq IPO Underwriters Could Earn More Than $140 Million in Fees",
-    "link": "https://cryptopanic.com/news/33009807/SK-Hynix-Nasdaq-IPO-Underwriters-Could-Earn-More-Than-140-Million-in-Fees",
-    "source": "square.binance.com",
-    "published": "Fri Jul 10 2026 01:42:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "MiniMax Raises HK$16 Billion in New Funding Round, Deal Upsized to Over $2 Billion",
-    "link": "https://cryptopanic.com/news/33009806/MiniMax-Raises-HK16-Billion-in-New-Funding-Round-Deal-Upsized-to-Over-2-Billion",
-    "source": "square.binance.com",
-    "published": "Fri Jul 10 2026 01:42:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JPMorgan, Citi Bankers to Join Hong Kong Exchange IPO Listing Panel",
-    "link": "https://cryptopanic.com/news/33009805/JPMorgan-Citi-Bankers-to-Join-Hong-Kong-Exchange-IPO-Listing-Panel",
-    "source": "square.binance.com",
-    "published": "Fri Jul 10 2026 01:41:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 TODAY: Polymarket seeks US regulatory approval to offer margin trading, per Bloomberg.",
-    "link": "https://cryptopanic.com/news/33009596/TODAY-Polymarket-seeks-US-regulatory-approval-to-offer-margin-trading-per-Bloomberg",
-    "source": "@cointelegraph",
-    "published": "Fri Jul 10 2026 01:40:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "STOCKS | Contemporary Amperex Technology Shares Fall in Mainland China and Hong Kong",
-    "link": "https://cryptopanic.com/news/33009804/STOCKS-Contemporary-Amperex-Technology-Shares-Fall-in-Mainland-China-and-Hong-Kong",
-    "source": "square.binance.com",
-    "published": "Fri Jul 10 2026 01:37:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Japan Urges Pension Funds to Boost Domestic Investing; Yen Gains",
-    "link": "https://cryptopanic.com/news/33009803/Japan-Urges-Pension-Funds-to-Boost-Domestic-Investing-Yen-Gains",
-    "source": "square.binance.com",
-    "published": "Fri Jul 10 2026 01:36:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "STOCKS | Shenzhen Stock Exchange Temporarily Halts Trading in N Tuolunsi After 30% Intraday Rise",
-    "link": "https://cryptopanic.com/news/33009802/STOCKS-Shenzhen-Stock-Exchange-Temporarily-Halts-Trading-in-N-Tuolunsi-After-30-Intraday-Rise",
-    "source": "square.binance.com",
-    "published": "Fri Jul 10 2026 01:35:47 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
