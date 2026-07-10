@@ -1,5 +1,54 @@
 [
   {
+    "title": "CLARITY Act Faces a Make-or-Break Moment This Week",
+    "link": "https://cryptopanic.com/news/33012916/CLARITY-Act-Faces-a-Make-or-Break-Moment-This-Week",
+    "source": "dailycoin.com",
+    "published": "Fri Jul 10 2026 13:49:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "OCC grants Circle National Trust a bank license",
+    "link": "https://cryptopanic.com/news/33012892/OCC-grants-Circle-National-Trust-a-bank-license",
+    "source": "cryptovalleyjournal.com",
+    "published": "Fri Jul 10 2026 13:47:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Standard Chartered Doubles Down On $100,000 Bitcoin Price Target",
+    "link": "https://cryptopanic.com/news/33012949/Standard-Chartered-Doubles-Down-On-100000-Bitcoin-Price-Target",
+    "source": "cryptoprowl.com",
+    "published": "Fri Jul 10 2026 13:46:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Skoda Auto says it is not directly impacted by VW overhaul plans",
+    "link": "https://cryptopanic.com/news/33012891/Skoda-Auto-says-it-is-not-directly-impacted-by-VW-overhaul-plans",
+    "source": "@reutersbiz",
+    "published": "Fri Jul 10 2026 13:45:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The Federal Aviation Administration has proposed new rules to speed the deployment of drones which would allow certified drone operators to fly beyond the visual line of sight, eliminating the need for a long, and sometimes costly, waiver process",
+    "link": "https://cryptopanic.com/news/33012890/The-Federal-Aviation-Administration-has-proposed-new-rules-to-speed-the-deployment-of-drones-which-would-allow-certified-drone-operators-to-fly-beyond-the-visual-line-of-sight-eliminating-the-need-for-a-long-and-sometimes-costly-waiver-process",
+    "source": "@reutersbiz",
+    "published": "Fri Jul 10 2026 13:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Department of War releases a fourth batch of declassified UFO files, pledging to release additional files “on a rolling basis.”",
+    "link": "https://cryptopanic.com/news/33012885/JUST-IN-Department-of-War-releases-a-fourth-batch-of-declassified-UFO-files-pledging-to-release-additional-files-on-a-rolling-basis",
+    "source": "@cryptonwsuk",
+    "published": "Fri Jul 10 2026 13:42:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "President Trump says he will not sign the Housing Bill that has been fully approved by Congress.\n\nThis is due to the Senate's failure to pass the SAVE AMERICA ACT.",
+    "link": "https://cryptopanic.com/news/33012937/President-Trump-says-he-will-not-sign-the-Housing-Bill-that-has-been-fully-approved-by-Congress-This-is-due-to-the-Senates-failure-to-pass-the-SAVE-AMERICA-ACT",
+    "source": "@bscnews",
+    "published": "Fri Jul 10 2026 13:39:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: Elon Musk has stated that SpaceX could eventually exceed the total economic value of Earth if it achieves its long-term objectives of multiplanetary expansion.",
     "link": "https://cryptopanic.com/news/33012884/JUST-IN-Elon-Musk-has-stated-that-SpaceX-could-eventually-exceed-the-total-economic-value-of-Earth-if-it-achieves-its-long-term-objectives-of-multiplanetary-expansion",
     "source": "@cryptonwsuk",
@@ -42,6 +91,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Injective Neutralizes Malicious Threat Without User Impact\n\n@Injective identifies and deprecates malicious versions of its npm packages before any successful downloads occur. \n\nThe protocol’s security monitoring system detects the intrusion attempt immediately, allowing the team",
+    "link": "https://cryptopanic.com/news/33012936/Injective-Neutralizes-Malicious-Threat-Without-User-Impact-Injective-identifies-and-deprecates-malicious-versions-of-its-npm-packages-before-any-successful-downloads-occur-The-protocols-security-monitoring-system-detects-the-intrusion-attempt-immediately-allowing-the-team",
+    "source": "@bscnews",
+    "published": "Fri Jul 10 2026 13:19:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Binance co-CEO says 70% of EU withdrawals went to self-custody after MiCA deadline, with just 30% going to licensed platforms",
     "link": "https://cryptopanic.com/news/33012732/Binance-co-CEO-says-70-of-EU-withdrawals-went-to-self-custody-after-MiCA-deadline-with-just-30-going-to-licensed-platforms",
     "source": "theblock.co",
@@ -49,15 +105,15 @@
     "sentiment": "neutral"
   },
   {
-    "title": "LATEST:  Zcash has scheduled its Ironwood upgrade for July 28, which will close the old Orchard privacy pool after an “infinity” bug raised fears of counterfeit ZEC.",
-    "link": "https://cryptopanic.com/news/33012880/LATEST-Zcash-has-scheduled-its-Ironwood-upgrade-for-July-28-which-will-close-the-old-Orchard-privacy-pool-after-an-infinity-bug-raised-fears-of-counterfeit-ZEC",
+    "title": "HOT TOPIC: MACD FLIPS BULLISH AS 1B BETS ON 80K \n\nThe signal that preceded every bitcoin:native recovery this cycle just fired again. And the biggest options bet on the entire board now sits 24% above spot",
+    "link": "https://cryptopanic.com/news/33012881/HOT-TOPIC-MACD-FLIPS-BULLISH-AS-1B-BETS-ON-80K-The-signal-that-preceded-every-bitcoinnative-recovery-this-cycle-just-fired-again-And-the-biggest-options-bet-on-the-entire-board-now-sits-24-above-spot",
     "source": "@coinmarketcap",
     "published": "Fri Jul 10 2026 13:17:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "HOT TOPIC: MACD FLIPS BULLISH AS 1B BETS ON 80K \n\nThe signal that preceded every bitcoin:native recovery this cycle just fired again. And the biggest options bet on the entire board now sits 24% above spot",
-    "link": "https://cryptopanic.com/news/33012881/HOT-TOPIC-MACD-FLIPS-BULLISH-AS-1B-BETS-ON-80K-The-signal-that-preceded-every-bitcoinnative-recovery-this-cycle-just-fired-again-And-the-biggest-options-bet-on-the-entire-board-now-sits-24-above-spot",
+    "title": "LATEST:  Zcash has scheduled its Ironwood upgrade for July 28, which will close the old Orchard privacy pool after an “infinity” bug raised fears of counterfeit ZEC.",
+    "link": "https://cryptopanic.com/news/33012880/LATEST-Zcash-has-scheduled-its-Ironwood-upgrade-for-July-28-which-will-close-the-old-Orchard-privacy-pool-after-an-infinity-bug-raised-fears-of-counterfeit-ZEC",
     "source": "@coinmarketcap",
     "published": "Fri Jul 10 2026 13:17:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
@@ -151,62 +207,6 @@
     "link": "https://cryptopanic.com/news/33012714/Berkshire-Hathaways-pile-is-enough-to-buy-474-SampP-500-companies",
     "source": "@bscnews",
     "published": "Fri Jul 10 2026 12:58:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Pi Monthly Unlocks Enter Crucial Phase\n\nStarting this month, Pi Network (@PiCoreTeam) will unlock over 100K tokens through June 2027. \n\nPer Pi Scan, over 103K tokens will be unlocked this month, almost twice the amount released in June. \n\nFor context, 76,687,528 $PI, worth over",
-    "link": "https://cryptopanic.com/news/33012713/Pi-Monthly-Unlocks-Enter-Crucial-Phase-Starting-this-month-Pi-Network-PiCoreTeam-will-unlock-over-100K-tokens-through-June-2027-Per-Pi-Scan-over-103K-tokens-will-be-unlocked-this-month-almost-twice-the-amount-released-in-June-For-context-76687528-PI-worth-over",
-    "source": "@bscnews",
-    "published": "Fri Jul 10 2026 12:57:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🤖 Turn your AI agent into a top crypto Analyst & Trader\n\n\n🧠 CMC Agent Hub ships structural market data, powerful analytics, and strategy-ready signals for any AI agent\n\n 200+ Live Skills\n Smart Routing\n Claude Code, Cursor, OpenClaw, Codex, etc\n\n1️⃣",
-    "link": "https://cryptopanic.com/news/33012612/Turn-your-AI-agent-into-a-top-crypto-Analyst-amp-Trader-CMC-Agent-Hub-ships-structural-market-data-powerful-analytics-and-strategy-ready-signals-for-any-AI-agent-200-Live-Skills-Smart-Routing-Claude-Code-Cursor-OpenClaw-Codex-etc-1",
-    "source": "@coinmarketcap",
-    "published": "Fri Jul 10 2026 12:53:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: A 27-firm consortium including @GenLayer, @okx and @MetaMask forms a dispute resolution protocol for AI agents, filling a gap left by traditional courts that aren't built to handle machine-speed commercial disagreements.",
-    "link": "https://cryptopanic.com/news/33012616/NEW-A-27-firm-consortium-including-GenLayer-okx-and-MetaMask-forms-a-dispute-resolution-protocol-for-AI-agents-filling-a-gap-left-by-traditional-courts-that-arent-built-to-handle-machine-speed-commercial-disagreements",
-    "source": "@coindesk",
-    "published": "Fri Jul 10 2026 12:52:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "After careful deliberation,\nCardano and Midnight.",
-    "link": "https://cryptopanic.com/news/33012615/After-careful-deliberation-Cardano-and-Midnight",
-    "source": "@angrycryptoshow",
-    "published": "Fri Jul 10 2026 12:52:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: A trader who sold 20 million CASHCAT tokens for a 10x profit of $711 missed out on a potential $2.7 million payday as the memecoin later surged.",
-    "link": "https://cryptopanic.com/news/33012618/LATEST-A-trader-who-sold-20-million-CASHCAT-tokens-for-a-10x-profit-of-711-missed-out-on-a-potential-27-million-payday-as-the-memecoin-later-surged",
-    "source": "@cointelegraph",
-    "published": "Fri Jul 10 2026 12:50:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "‘Communication challenge, nothing more’: Standard Chartered keeps $100,000 bitcoin target, calls Strategy selloff a signaling problem",
-    "link": "https://cryptopanic.com/news/33012578/Communication-challenge-nothing-more-Standard-Chartered-keeps-100000-bitcoin-target-calls-Strategy-selloff-a-signaling-problem",
-    "source": "theblock.co",
-    "published": "Fri Jul 10 2026 12:46:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "US investment firm Apollo Global Management announced a $7.7 billion bid for easyJet, trumping a rival offer from Castlelake and setting up a potential takeover battle for one of Europe's biggest airlines",
-    "link": "https://cryptopanic.com/news/33012619/US-investment-firm-Apollo-Global-Management-announced-a-77-billion-bid-for-easyJet-trumping-a-rival-offer-from-Castlelake-and-setting-up-a-potential-takeover-battle-for-one-of-Europes-biggest-airlines",
-    "source": "@reutersbiz",
-    "published": "Fri Jul 10 2026 12:45:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "OKX, MetaMask, Matter Labs Back ‘Internet Court’ for AI Agents\n\nAccording to CoinDesk, OKX, MetaMask, Matter Labs and 24 other Web3 firms have joined the Internet Court, a consortium led by the GenLayer Foundation to develop a decentralized dispute resolution system for AI",
-    "link": "https://cryptopanic.com/news/33012614/OKX-MetaMask-Matter-Labs-Back-Internet-Court-for-AI-Agents-According-to-CoinDesk-OKX-MetaMask-Matter-Labs-and-24-other-Web3-firms-have-joined-the-Internet-Court-a-consortium-led-by-the-GenLayer-Foundation-to-develop-a-decentralized-dispute-resolution-system-for-AI",
-    "source": "@wublockchain",
-    "published": "Fri Jul 10 2026 12:42:57 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
