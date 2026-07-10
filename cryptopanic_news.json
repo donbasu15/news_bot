@@ -1,5 +1,40 @@
 [
   {
+    "title": "Aave V3 On zkSync Era Gives DeFi Lending Another Push Into ZK Rollups",
+    "link": "https://cryptopanic.com/news/33013744/Aave-V3-On-zkSync-Era-Gives-DeFi-Lending-Another-Push-Into-ZK-Rollups",
+    "source": "newsbtc.com",
+    "published": "Fri Jul 10 2026 15:50:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "WALL STREET is Preparing For Bitcoin To EXPLODE HIGHER!! | EP 1545",
+    "link": "https://cryptopanic.com/news/33013767/WALL-STREET-is-Preparing-For-Bitcoin-To-EXPLODE-HIGHER-EP-1545",
+    "source": "SimplyBitcoin",
+    "published": "Fri Jul 10 2026 15:47:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: Hyundai has become the first major South Korean company to use stablecoins for internal cross-border transfers, completing a pilot remittance between its U.S. and Mexico units in about seven minutes. \n\nRead the full story on CoinDesk",
+    "link": "https://cryptopanic.com/news/33013756/LATEST-Hyundai-has-become-the-first-major-South-Korean-company-to-use-stablecoins-for-internal-cross-border-transfers-completing-a-pilot-remittance-between-its-US-and-Mexico-units-in-about-seven-minutes-Read-the-full-story-on-CoinDesk",
+    "source": "@coindesk",
+    "published": "Fri Jul 10 2026 15:43:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇺🇸 Polymarket has filed for a license with the National Futures Association to offer regulated margin trading in the US.",
+    "link": "https://cryptopanic.com/news/33013753/LATEST-Polymarket-has-filed-for-a-license-with-the-National-Futures-Association-to-offer-regulated-margin-trading-in-the-US",
+    "source": "@coinmarketcap",
+    "published": "Fri Jul 10 2026 15:41:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "WATCH: Mark Yusko says he's been buying Bitcoin every week since February—and plans to keep accumulating until October. Why?\n\nWatch from 01:08 (Bitcoin fair value) and 05:45–06:25 (why he's buying until October).",
+    "link": "https://cryptopanic.com/news/33013758/WATCH-Mark-Yusko-says-hes-been-buying-Bitcoin-every-week-since-Februaryand-plans-to-keep-accumulating-until-October-Why-Watch-from-0108-Bitcoin-fair-value-and-05450625-why-hes-buying-until-October",
+    "source": "@cointelegraph",
+    "published": "Fri Jul 10 2026 15:35:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Most crypto holders want a loan against their Bitcoin and never take one",
     "link": "https://cryptopanic.com/news/33013723/Most-crypto-holders-want-a-loan-against-their-Bitcoin-and-never-take-one",
     "source": "thestreet.com",
@@ -11,6 +46,13 @@
     "link": "https://cryptopanic.com/news/33013721/JUST-IN-Japans-Finance-Minister-Satsuki-Katayama-on-Bitcoin-and-crypto-ETFs-we-would-like-to-proceed-with-considerations-toward-legalizing-cryptocurrency-ETFs-in-Japan-as-well",
     "source": "@bitcoinmagazine",
     "published": "Fri Jul 10 2026 15:32:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Breakingviews - Niel’s Vodafone bet is excusable empire-building",
+    "link": "https://cryptopanic.com/news/33013760/Breakingviews-Niels-Vodafone-bet-is-excusable-empire-building",
+    "source": "@reutersbiz",
+    "published": "Fri Jul 10 2026 15:30:54 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -39,6 +81,27 @@
     "link": "https://cryptopanic.com/news/33013612/Judge-lets-Terraform-use-Jump-lawsuit-evidence-while-blocking-four-late-creditor-claims",
     "source": "cryptoslate.com",
     "published": "Fri Jul 10 2026 15:24:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33013755/Source",
+    "source": "@wublockchain",
+    "published": "Fri Jul 10 2026 15:22:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Kraken Unveils Agentic Trading Vision, AI to Trade Crypto on Users’ Behalf \n\nAccording to CNBC, Kraken is preparing to launch AI-powered agentic trading, allowing autonomous AI agents to monitor markets, identify opportunities and execute trades based on user-defined goals. The",
+    "link": "https://cryptopanic.com/news/33013754/Kraken-Unveils-Agentic-Trading-Vision-AI-to-Trade-Crypto-on-Users-Behalf-According-to-CNBC-Kraken-is-preparing-to-launch-AI-powered-agentic-trading-allowing-autonomous-AI-agents-to-monitor-markets-identify-opportunities-and-execute-trades-based-on-user-defined-goals-The",
+    "source": "@wublockchain",
+    "published": "Fri Jul 10 2026 15:22:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇬🇧 LATEST: Coinbase has secured its MiFID license, bringing equities and derivatives to Coinbase UK soon.",
+    "link": "https://cryptopanic.com/news/33013757/LATEST-Coinbase-has-secured-its-MiFID-license-bringing-equities-and-derivatives-to-Coinbase-UK-soon",
+    "source": "@cointelegraph",
+    "published": "Fri Jul 10 2026 15:21:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -144,69 +207,6 @@
     "link": "https://cryptopanic.com/news/33013674/Cardano-Price-Climbs-but-Its-DeFi-Engine-Is-Quietly-Collapsing",
     "source": "beincrypto.com",
     "published": "Fri Jul 10 2026 15:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin at Critical Price Point: Bullish Setup or Bear Trap?",
-    "link": "https://cryptopanic.com/news/33013365/Bitcoin-at-Critical-Price-Point-Bullish-Setup-or-Bear-Trap",
-    "source": "coindoo.com",
-    "published": "Fri Jul 10 2026 14:55:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Is Ethereum moving too slowly?\n\n@StarkWareLtd @EliBenSasson unpacks Vitalik's roadmap and timeline on Markets Outlook with @JennSanasie\n\n00:00 - Eli Ben-Sasson Joins Markets Outlook\n01:07 - Eli’s Take on Vitalik's Ethereum Roadmap\n03:23 - What Eli Would Do Differently: Speed and",
-    "link": "https://cryptopanic.com/news/33013541/Is-Ethereum-moving-too-slowly-StarkWareLtd-EliBenSasson-unpacks-Vitaliks-roadmap-and-timeline-on-Markets-Outlook-with-JennSanasie-0000-Eli-Ben-Sasson-Joins-Markets-Outlook-0107-Elis-Take-on-Vitaliks-Ethereum-Roadmap-0323-What-Eli-Would-Do-Differently-Speed-and",
-    "source": "@coindesk",
-    "published": "Fri Jul 10 2026 14:55:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Circle clears final hurdle to establish national trust bank with OCC approval",
-    "link": "https://cryptopanic.com/news/33013374/Circle-clears-final-hurdle-to-establish-national-trust-bank-with-OCC-approval",
-    "source": "cryptopolitan.com",
-    "published": "Fri Jul 10 2026 14:55:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Circle Stock Jumps as Stablecoin Issuer Wins Final Federal Banking Charter Approval",
-    "link": "https://cryptopanic.com/news/33013356/Circle-Stock-Jumps-as-Stablecoin-Issuer-Wins-Final-Federal-Banking-Charter-Approval",
-    "source": "decrypt.co",
-    "published": "Fri Jul 10 2026 14:54:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Treasury Firm Empery Digital Sold 1,400 BTC for $87.1M to Repay Debt, Fund Property Acquisition and Legal Expenses \n\nNasdaq-listed Empery Digital disclosed in an SEC filing that it sold 1,400 BTC since May at an average price of $62,200, generating approximately $87.1",
-    "link": "https://cryptopanic.com/news/33013536/Bitcoin-Treasury-Firm-Empery-Digital-Sold-1400-BTC-for-871M-to-Repay-Debt-Fund-Property-Acquisition-and-Legal-Expenses-Nasdaq-listed-Empery-Digital-disclosed-in-an-SEC-filing-that-it-sold-1400-BTC-since-May-at-an-average-price-of-62200-generating-approximately-871",
-    "source": "@wublockchain",
-    "published": "Fri Jul 10 2026 14:54:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "TeraWulf Eyes $3.5B Debt Raise for Anthropic AI Data Center Buildout",
-    "link": "https://cryptopanic.com/news/33013384/TeraWulf-Eyes-35B-Debt-Raise-for-Anthropic-AI-Data-Center-Buildout",
-    "source": "cryptoprowl.com",
-    "published": "Fri Jul 10 2026 14:52:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 TRUMP: Iran has asked the U.S. to continue talks, but the U.S. has told Iran, “the ceasefire is over.”",
-    "link": "https://cryptopanic.com/news/33013542/TRUMP-Iran-has-asked-the-US-to-continue-talks-but-the-US-has-told-Iran-the-ceasefire-is-over",
-    "source": "@cointelegraph",
-    "published": "Fri Jul 10 2026 14:50:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Dogecoin Traders Watch $0.13 As DOGE Reclaims A Key Technical Level",
-    "link": "https://cryptopanic.com/news/33013352/Dogecoin-Traders-Watch-013-As-DOGE-Reclaims-A-Key-Technical-Level",
-    "source": "newsbtc.com",
-    "published": "Fri Jul 10 2026 14:50:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEC and Ava Labs Partner to Launch Biometric-Verified Blockchain Architecture\n\n@NEC, a global leader in biometric identity, partners with @Avax to integrate sovereign identity verification into the Avalanche network. \n\nThe collaboration leverages NEC’s existing infrastructure of",
-    "link": "https://cryptopanic.com/news/33013320/NEC-and-Ava-Labs-Partner-to-Launch-Biometric-Verified-Blockchain-Architecture-NEC-a-global-leader-in-biometric-identity-partners-with-Avax-to-integrate-sovereign-identity-verification-into-the-Avalanche-network-The-collaboration-leverages-NECs-existing-infrastructure-of",
-    "source": "@bscnews",
-    "published": "Fri Jul 10 2026 14:47:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
