@@ -1,5 +1,33 @@
 [
   {
+    "title": "🇮🇩 ALERT: Another Russian national was kidnapped, beaten and extorted for crypto in Bali, Indonesia.\n\nSome reports estimate $4.9M in stolen funds.",
+    "link": "https://cryptopanic.com/news/33017989/ALERT-Another-Russian-national-was-kidnapped-beaten-and-extorted-for-crypto-in-Bali-Indonesia-Some-reports-estimate-49M-in-stolen-funds",
+    "source": "@cointelegraph",
+    "published": "Sat Jul 11 2026 19:30:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SK Hynix Listing Opens Path For More Foreign Companies",
+    "link": "https://cryptopanic.com/news/33017938/SK-Hynix-Listing-Opens-Path-For-More-Foreign-Companies",
+    "source": "catenaa.com",
+    "published": "Sat Jul 11 2026 19:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hedera lending protocol Bonzo Lend hit for $9 million after Supra verifier accepts manipulated price update",
+    "link": "https://cryptopanic.com/news/33017934/Hedera-lending-protocol-Bonzo-Lend-hit-for-9-million-after-Supra-verifier-accepts-manipulated-price-update",
+    "source": "theblock.co",
+    "published": "Sat Jul 11 2026 19:19:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": ".@renato_mariotti unpacks the prediction market scheme that allegedly generated 500,000 fake Spotify streams for Malcolm Todd's \"Earrings\" in an effort to influence a market outcome.\n\nThank you to @realfi_co for being a sponsor of the CoinDesk Media Network.",
+    "link": "https://cryptopanic.com/news/33017987/renato_mariotti-unpacks-the-prediction-market-scheme-that-allegedly-generated-500000-fake-Spotify-streams-for-Malcolm-Todds-Earrings-in-an-effort-to-influence-a-market-outcome-Thank-you-to-realfi_co-for-being-a-sponsor-of-the-CoinDesk-Media-Network",
+    "source": "@coindesk",
+    "published": "Sat Jul 11 2026 19:13:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin Policy Institute steps up as defendant in lawsuit to claim dormant BTC",
     "link": "https://cryptopanic.com/news/33017936/Bitcoin-Policy-Institute-steps-up-as-defendant-in-lawsuit-to-claim-dormant-BTC",
     "source": "cryptopolitan.com",
@@ -25,6 +53,20 @@
     "link": "https://cryptopanic.com/news/33017893/BUSTED-Brazils-Federal-Police-launched-Operation-Veil-of-Maya-targeting-a-money-laundering-network-that-allegedly-used-87-shell-companies-to-funnel-illegal-betting-and-crypto-funds",
     "source": "@cointelegraph",
     "published": "Sat Jul 11 2026 18:58:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "3 Trump Moves That Shook Markets This Week",
+    "link": "https://cryptopanic.com/news/33017988/3-Trump-Moves-That-Shook-Markets-This-Week",
+    "source": "beincrypto.com",
+    "published": "Sat Jul 11 2026 18:51:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin has seen a strong start to July with nearly +10% so far.\n\nHowever, it is worth being aware that August and September are historically the two weakest months of the year for $BTC.",
+    "link": "https://cryptopanic.com/news/33017957/Bitcoin-has-seen-a-strong-start-to-July-with-nearly-10-so-far-However-it-is-worth-being-aware-that-August-and-September-are-historically-the-two-weakest-months-of-the-year-for-BTC",
+    "source": "@stackersatoshi",
+    "published": "Sat Jul 11 2026 18:50:56 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -165,48 +207,6 @@
     "link": "https://cryptopanic.com/news/33017729/Donald-Trumps-unsigned-housing-bill-just-banned-the-US-digital-dollar",
     "source": "thestreet.com",
     "published": "Sat Jul 11 2026 16:38:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Zcash Price Update: 3 Reasons Why $520 Could Be The Next Target",
-    "link": "https://cryptopanic.com/news/33017675/Zcash-Price-Update-3-Reasons-Why-520-Could-Be-The-Next-Target",
-    "source": "coindoo.com",
-    "published": "Sat Jul 11 2026 16:38:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Do you still believe in the 4 year $BTC cycle?",
-    "link": "https://cryptopanic.com/news/33017751/Do-you-still-believe-in-the-4-year-BTC-cycle",
-    "source": "@stackersatoshi",
-    "published": "Sat Jul 11 2026 16:37:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Read it all",
-    "link": "https://cryptopanic.com/news/33017691/Read-it-all",
-    "source": "@cointelegraph",
-    "published": "Sat Jul 11 2026 16:30:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INSIGHT: The IMF warns dollar stablecoins could fuel bank-style currency runs during crises.",
-    "link": "https://cryptopanic.com/news/33017690/INSIGHT-The-IMF-warns-dollar-stablecoins-could-fuel-bank-style-currency-runs-during-crises",
-    "source": "@cointelegraph",
-    "published": "Sat Jul 11 2026 16:30:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "EXPLAINED:  What would happen if Bitcoin creator Satoshi Nakamoto returned? \n\nSatoshi’s wallets hold an estimated 1.1 million Bitcoin, worth ~$70B and representing more than 5% of the BTC that will ever exist. With that in mind, arguably the most bullish thing Satoshi could do",
-    "link": "https://cryptopanic.com/news/33017687/EXPLAINED-What-would-happen-if-Bitcoin-creator-Satoshi-Nakamoto-returned-Satoshis-wallets-hold-an-estimated-11-million-Bitcoin-worth-70B-and-representing-more-than-5-of-the-BTC-that-will-ever-exist-With-that-in-mind-arguably-the-most-bullish-thing-Satoshi-could-do",
-    "source": "@coinmarketcap",
-    "published": "Sat Jul 11 2026 16:30:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "IMF Paper Warns Dollar Stablecoins Can Trigger Currency Crisis",
-    "link": "https://cryptopanic.com/news/33017721/IMF-Paper-Warns-Dollar-Stablecoins-Can-Trigger-Currency-Crisis",
-    "source": "beincrypto.com",
-    "published": "Sat Jul 11 2026 16:25:29 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
