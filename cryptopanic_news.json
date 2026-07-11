@@ -1,5 +1,26 @@
 [
   {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33015888/Source",
+    "source": "@wublockchain",
+    "published": "Sat Jul 11 2026 03:15:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Meta pulls Instagram AI image tool, testing limits of AI likeness scraping",
+    "link": "https://cryptopanic.com/news/33015874/Meta-pulls-Instagram-AI-image-tool-testing-limits-of-AI-likeness-scraping",
+    "source": "cryptopolitan.com",
+    "published": "Sat Jul 11 2026 02:57:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Sky Protocol's Annualized Gross Revenue Run Rate Hits Record $419M\n\nSky Frontier Foundation said in its June 2026 financial and operational update that Sky Protocol's annualized gross revenue run rate reached a record $419.08 million, based on the last three Monthly Settlement",
+    "link": "https://cryptopanic.com/news/33015887/Sky-Protocols-Annualized-Gross-Revenue-Run-Rate-Hits-Record-419M-Sky-Frontier-Foundation-said-in-its-June-2026-financial-and-operational-update-that-Sky-Protocols-annualized-gross-revenue-run-rate-reached-a-record-41908-million-based-on-the-last-three-Monthly-Settlement",
+    "source": "@wublockchain",
+    "published": "Sat Jul 11 2026 02:56:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Chainlink Community Lead Dismisses XRP Adoption Claims – Here Is Why the SWIFT Debate Has Returned",
     "link": "https://cryptopanic.com/news/33015862/Chainlink-Community-Lead-Dismisses-XRP-Adoption-Claims-Here-Is-Why-the-SWIFT-Debate-Has-Returned",
     "source": "blocknews.com",
@@ -11,6 +32,13 @@
     "link": "https://cryptopanic.com/news/33015830/INSIGHT-Ethereums-energy-use-has-fallen-more-than-999-since-the-Merge-according-to-a-new-Cambridge-study",
     "source": "@cointelegraph",
     "published": "Sat Jul 11 2026 02:30:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin analysts predict $300,000–$500,000 price in 2029. The math says no",
+    "link": "https://cryptopanic.com/news/33015873/Bitcoin-analysts-predict-300000500000-price-in-2029-The-math-says-no",
+    "source": "coindesk.com",
+    "published": "Sat Jul 11 2026 02:30:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33015563/NEW-Midnight-Engineer-Fenton-Haslam-says-we-care-about-the-sustainability-of-the-blockchain-so-having-the-ability-to-deploy-on-multiple-different-cloud-providers-we-dont-actually-have-a-central-point-of-failure-by-doing-this-NIGHT",
     "source": "@angrycryptoshow",
     "published": "Sat Jul 11 2026 01:01:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "QUESTION: Who is Satoshi?",
-    "link": "https://cryptopanic.com/news/33015568/QUESTION-Who-is-Satoshi",
-    "source": "@cointelegraph",
-    "published": "Sat Jul 11 2026 01:00:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Midnight Engineer Fenton Haslam says users will be able to easily set up $NIGHT nodes across Google Cloud, AWS, and more, thanks to Terraform, a cloud-agnostic development tool, allowing repeatable infrastructure and configurations for simplicity and resilience.",
-    "link": "https://cryptopanic.com/news/33015491/NEW-Midnight-Engineer-Fenton-Haslam-says-users-will-be-able-to-easily-set-up-NIGHT-nodes-across-Google-Cloud-AWS-and-more-thanks-to-Terraform-a-cloud-agnostic-development-tool-allowing-repeatable-infrastructure-and-configurations-for-simplicity-and-resilience",
-    "source": "@angrycryptoshow",
-    "published": "Sat Jul 11 2026 01:00:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Midnight Engineer Fenton Haslam says \"we're going to turn this into a proper decentralized system, and make it really easy for people to be joining our network in the future.\" $NIGHT",
-    "link": "https://cryptopanic.com/news/33015490/NEW-Midnight-Engineer-Fenton-Haslam-says-were-going-to-turn-this-into-a-proper-decentralized-system-and-make-it-really-easy-for-people-to-be-joining-our-network-in-the-future-NIGHT",
-    "source": "@angrycryptoshow",
-    "published": "Sat Jul 11 2026 00:58:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Saudi Crown Prince Mohammed, Trump Discuss US-Iran Talks in Phone Call",
-    "link": "https://cryptopanic.com/news/33015804/Saudi-Crown-Prince-Mohammed-Trump-Discuss-US-Iran-Talks-in-Phone-Call",
-    "source": "square.binance.com",
-    "published": "Sat Jul 11 2026 00:55:27 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
