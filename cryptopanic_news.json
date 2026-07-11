@@ -1,5 +1,12 @@
 [
   {
+    "title": "These chains have more developer activity than you might think...\n\nAccording to @chainspect_app's development dashboard, @Cardano and @dfinity have seen growth in their number of developer commits over the past month.\n\nIn the last 30 days, $ADA has seen 2,356 commits and $ICP has",
+    "link": "https://cryptopanic.com/news/33015426/These-chains-have-more-developer-activity-than-you-might-think-According-to-chainspect_apps-development-dashboard-Cardano-and-dfinity-have-seen-growth-in-their-number-of-developer-commits-over-the-past-month-In-the-last-30-days-ADA-has-seen-2356-commits-and-ICP-has",
+    "source": "@bscnews",
+    "published": "Sat Jul 11 2026 00:13:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Source",
     "link": "https://cryptopanic.com/news/33015370/Source",
     "source": "@wublockchain",
@@ -25,6 +32,13 @@
     "link": "https://cryptopanic.com/news/33015367/Lawrence-Lepard-Fed-Rate-Cuts-BTC-Will-EXPLODE",
     "source": "SimplyBitcoin",
     "published": "Sat Jul 11 2026 00:00:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto Market Holds Steady Despite ETF Outflows – Here Is Why Bitcoin, Ethereum, and XRP Are Still Showing Strength",
+    "link": "https://cryptopanic.com/news/33015420/Crypto-Market-Holds-Steady-Despite-ETF-Outflows-Here-Is-Why-Bitcoin-Ethereum-and-XRP-Are-Still-Showing-Strength",
+    "source": "blocknews.com",
+    "published": "Fri Jul 10 2026 23:55:29 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33015068/DOJ-plans-to-end-prosecution-of-alleged-BitClub-mastermind-in-722M-crypto-fraud-case",
     "source": "ambcrypto.com",
     "published": "Fri Jul 10 2026 21:54:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Apple Sues OpenAI, Claims Former Employees Stole Trade Secrets",
-    "link": "https://cryptopanic.com/news/33015063/Apple-Sues-OpenAI-Claims-Former-Employees-Stole-Trade-Secrets",
-    "source": "decrypt.co",
-    "published": "Fri Jul 10 2026 21:50:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "OpenAI Back in Another Legal War Weeks After Beating Elon Musk",
-    "link": "https://cryptopanic.com/news/33015141/OpenAI-Back-in-Another-Legal-War-Weeks-After-Beating-Elon-Musk",
-    "source": "beincrypto.com",
-    "published": "Fri Jul 10 2026 21:45:18 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
