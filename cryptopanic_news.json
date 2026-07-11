@@ -1,5 +1,19 @@
 [
   {
+    "title": "TOM LEE: \"Tradfi and crypto will all be the same market.\"",
+    "link": "https://cryptopanic.com/news/33016777/TOM-LEE-Tradfi-and-crypto-will-all-be-the-same-market",
+    "source": "@cointelegraph",
+    "published": "Sat Jul 11 2026 10:30:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Demand Cools Across 3 Metrics, but Funding Hints at Rebound",
+    "link": "https://cryptopanic.com/news/33016776/XRP-Demand-Cools-Across-3-Metrics-but-Funding-Hints-at-Rebound",
+    "source": "beincrypto.com",
+    "published": "Sat Jul 11 2026 10:04:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "In 2017, one Bitcoin cost you 35 hours of work. Today it's over 1,000. #crypto #bitcoin #investing",
     "link": "https://cryptopanic.com/news/33016665/In-2017-one-Bitcoin-cost-you-35-hours-of-work-Today-its-over-1000-crypto-bitcoin-investing",
     "source": "CoinGecko",
@@ -74,6 +88,13 @@
     "link": "https://cryptopanic.com/news/33016557/OpenAI-restores-Codex-ChatGPT-Work-limits-after-traffic-spike",
     "source": "cryptopolitan.com",
     "published": "Sat Jul 11 2026 09:32:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hedera currently under attack",
+    "link": "https://cryptopanic.com/news/33016765/Hedera-currently-under-attack",
+    "source": "r/hedera",
+    "published": "Sat Jul 11 2026 09:30:42 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -186,27 +207,6 @@
     "link": "https://cryptopanic.com/news/33016407/summer",
     "source": "@coinmarketcap",
     "published": "Sat Jul 11 2026 08:00:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "US CBDC Ban Becomes Law Without Trump’s Signature",
-    "link": "https://cryptopanic.com/news/33016340/US-CBDC-Ban-Becomes-Law-Without-Trumps-Signature",
-    "source": "coindoo.com",
-    "published": "Sat Jul 11 2026 07:54:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Price Shows Rare Bullish Signal That Led to a 1,100% Rally",
-    "link": "https://cryptopanic.com/news/33016486/XRP-Price-Shows-Rare-Bullish-Signal-That-Led-to-a-1100-Rally",
-    "source": "coinpedia.org",
-    "published": "Sat Jul 11 2026 07:52:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto IPO Winter: Gemini Drops 89% as Wall Street Stops Paying for the Label",
-    "link": "https://cryptopanic.com/news/33016311/Crypto-IPO-Winter-Gemini-Drops-89-as-Wall-Street-Stops-Paying-for-the-Label",
-    "source": "spaziocrypto.com",
-    "published": "Sat Jul 11 2026 07:36:08 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
