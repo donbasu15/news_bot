@@ -1,5 +1,82 @@
 [
   {
+    "title": "Ethereum ETF Launch Talk Moves Into Final Stretch As Issuers Update Filings",
+    "link": "https://cryptopanic.com/news/32998098/Ethereum-ETF-Launch-Talk-Moves-Into-Final-Stretch-As-Issuers-Update-Filings",
+    "source": "newsbtc.com",
+    "published": "Wed Jul 08 2026 11:35:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Why Strategy Selling More Bitcoin May Not Be Bearish After All",
+    "link": "https://cryptopanic.com/news/32989214/Why-Strategy-Selling-More-Bitcoin-May-Not-Be-Bearish-After-All",
+    "source": "cryptopotato.com",
+    "published": "Tue Jul 07 2026 06:40:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum 'Reinventing Itself' With Biggest Overhaul Since the Merge: Vitalik Buterin",
+    "link": "https://cryptopanic.com/news/32984506/Ethereum-Reinventing-Itself-With-Biggest-Overhaul-Since-the-Merge-Vitalik-Buterin",
+    "source": "decrypt.co",
+    "published": "Mon Jul 06 2026 12:51:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MicroStrategy Sells Bitcoin to Fund Digital Credit Dividends",
+    "link": "https://cryptopanic.com/news/32984395/MicroStrategy-Sells-Bitcoin-to-Fund-Digital-Credit-Dividends",
+    "source": "cryptodnes.bg",
+    "published": "Mon Jul 06 2026 12:31:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Vitalik’s Lean Ethereum Roadmap Draws Pushback on Its Timeline",
+    "link": "https://cryptopanic.com/news/32979019/Vitaliks-Lean-Ethereum-Roadmap-Draws-Pushback-on-Its-Timeline",
+    "source": "beincrypto.com",
+    "published": "Sun Jul 05 2026 09:21:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Could Be the Biggest Winner of the CLARITY Act – Here Is Why Wall Street Is Watching Closely",
+    "link": "https://cryptopanic.com/news/32979015/Ethereum-Could-Be-the-Biggest-Winner-of-the-CLARITY-Act-Here-Is-Why-Wall-Street-Is-Watching-Closely",
+    "source": "blocknews.com",
+    "published": "Sun Jul 05 2026 09:16:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Ethereum now controls 87% of the Stablecoin Supply.",
+    "link": "https://cryptopanic.com/news/32977967/UPDATE-Ethereum-now-controls-87-of-the-Stablecoin-Supply",
+    "source": "@cointelegraph",
+    "published": "Sun Jul 05 2026 01:30:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Standard Chartered's Geoff Kendrick predicts Bitcoin will hit $100K by the end of 2026 and $200K by the end of 2027, with a fresh ATH next year.",
+    "link": "https://cryptopanic.com/news/33017455/LATEST-Standard-Chartereds-Geoff-Kendrick-predicts-Bitcoin-will-hit-100K-by-the-end-of-2026-and-200K-by-the-end-of-2027-with-a-fresh-ATH-next-year",
+    "source": "@coinmarketcap",
+    "published": "Sat Jul 11 2026 15:15:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Brazilian Police Raid 87 Shell Companies in Crypto Probe",
+    "link": "https://cryptopanic.com/news/33017450/Brazilian-Police-Raid-87-Shell-Companies-in-Crypto-Probe",
+    "source": "coincu.com",
+    "published": "Sat Jul 11 2026 15:08:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Build with CMC (Case Study): How Solactive Uses CoinMarketCap API\n\nA look at CoinMarketCap API Solactive integration: how CMC pricing data powers two live cryptocurrency benchmark indices distributed on Nasdaq, Bloomberg, and Reuters.\n\nLearn more",
+    "link": "https://cryptopanic.com/news/33017454/Build-with-CMC-Case-Study-How-Solactive-Uses-CoinMarketCap-API-A-look-at-CoinMarketCap-API-Solactive-integration-how-CMC-pricing-data-powers-two-live-cryptocurrency-benchmark-indices-distributed-on-Nasdaq-Bloomberg-and-Reuters-Learn-more",
+    "source": "@coinmarketcap",
+    "published": "Sat Jul 11 2026 15:00:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hedera exploit tops $5 million as stolen funds move to Ethereum",
+    "link": "https://cryptopanic.com/news/33017428/Hedera-exploit-tops-5-million-as-stolen-funds-move-to-Ethereum",
+    "source": "cryptopolitan.com",
+    "published": "Sat Jul 11 2026 14:56:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: Crypto prediction platform Polymarket officially launches combo trading.",
     "link": "https://cryptopanic.com/news/33017415/JUST-IN-Crypto-prediction-platform-Polymarket-officially-launches-combo-trading",
     "source": "@watcherguru",
@@ -130,83 +207,6 @@
     "link": "https://cryptopanic.com/news/33017241/TODAY-Tencent-is-in-talks-to-become-Manus-biggest-outside-investor-after-Chinese-regulators-blocked-Metas-2-billion-acquisition",
     "source": "@cointelegraph",
     "published": "Sat Jul 11 2026 13:30:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇺🇸 Former New York Governor Andrew Cuomo says the US is 12 years behind on crypto regulation, noting NY's BitLicense was passed back in 2014.",
-    "link": "https://cryptopanic.com/news/33017240/LATEST-Former-New-York-Governor-Andrew-Cuomo-says-the-US-is-12-years-behind-on-crypto-regulation-noting-NYs-BitLicense-was-passed-back-in-2014",
-    "source": "@coinmarketcap",
-    "published": "Sat Jul 11 2026 13:30:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Spot $HBAR ETF clocks best performance in WEEKS.\n\nCanary's spot @Hedera ETF saw +$1.01M in net inflows this week - The most it has seen since the week of June 12.\n\nInterestingly, the performance was driven by just a single day of inflows, which came on July 6, the product now",
-    "link": "https://cryptopanic.com/news/33017258/Spot-HBAR-ETF-clocks-best-performance-in-WEEKS-Canarys-spot-Hedera-ETF-saw-101M-in-net-inflows-this-week-The-most-it-has-seen-since-the-week-of-June-12-Interestingly-the-performance-was-driven-by-just-a-single-day-of-inflows-which-came-on-July-6-the-product-now",
-    "source": "@bscnews",
-    "published": "Sat Jul 11 2026 13:25:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Stalls at $1.10: Could Quiet On-Chain Activity Be the Calm Before a Bigger Move?",
-    "link": "https://cryptopanic.com/news/33017158/XRP-Stalls-at-110-Could-Quiet-On-Chain-Activity-Be-the-Calm-Before-a-Bigger-Move",
-    "source": "cryptopotato.com",
-    "published": "Sat Jul 11 2026 13:17:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Apple sued OpenAI and two former employees, alleging they stole trade secrets to aid OpenAI's push into consumer hardware. Read",
-    "link": "https://cryptopanic.com/news/33017242/Apple-sued-OpenAI-and-two-former-employees-alleging-they-stole-trade-secrets-to-aid-OpenAIs-push-into-consumer-hardware-Read",
-    "source": "@reutersbiz",
-    "published": "Sat Jul 11 2026 13:10:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Currently about 50% of the top 50 altcoins have outperformed $BTC the past 3 months.\n\nGenerally, a number above 75%+ is indicated by alt season. The last time we had this was right before the all time high in September.\n\nMany alts have been holding their ground against BTC",
-    "link": "https://cryptopanic.com/news/33017137/Currently-about-50-of-the-top-50-altcoins-have-outperformed-BTC-the-past-3-months-Generally-a-number-above-75-is-indicated-by-alt-season-The-last-time-we-had-this-was-right-before-the-all-time-high-in-September-Many-alts-have-been-holding-their-ground-against-BTC",
-    "source": "@daancrypto",
-    "published": "Sat Jul 11 2026 13:04:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nano Banana 2 Lite vs. Nano Banana 2: When to Save Your Money and When to Upgrade",
-    "link": "https://cryptopanic.com/news/33017114/Nano-Banana-2-Lite-vs-Nano-Banana-2-When-to-Save-Your-Money-and-When-to-Upgrade",
-    "source": "decrypt.co",
-    "published": "Sat Jul 11 2026 13:01:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "I love to HODL.\nH: holding through the pain\nO: obsessing over every candle\nD: doubting then believing again\nL: looking at the charts",
-    "link": "https://cryptopanic.com/news/33017095/I-love-to-HODL-H-holding-through-the-pain-O-obsessing-over-every-candle-D-doubting-then-believing-again-L-looking-at-the-charts",
-    "source": "@coinmarketcap",
-    "published": "Sat Jul 11 2026 13:00:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Has Bitcoin Hit The Bottom?",
-    "link": "https://cryptopanic.com/news/33017147/Has-Bitcoin-Hit-The-Bottom",
-    "source": "AnthonyPompliano",
-    "published": "Sat Jul 11 2026 13:00:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Onchain Markets Need Their Own Rules, Hyperliquid and Phantom Tell CFTC",
-    "link": "https://cryptopanic.com/news/33017099/Onchain-Markets-Need-Their-Own-Rules-Hyperliquid-and-Phantom-Tell-CFTC",
-    "source": "coinpaprika.com",
-    "published": "Sat Jul 11 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Coinbase CEO has a bold take on internet's future beyond ads",
-    "link": "https://cryptopanic.com/news/33017163/Coinbase-CEO-has-a-bold-take-on-internets-future-beyond-ads",
-    "source": "thestreet.com",
-    "published": "Sat Jul 11 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bmendo on X: \"The @bonzo_finance pause explained: Supra or",
-    "link": "https://cryptopanic.com/news/33017206/Bmendo-on-X-The-bonzo_finance-pause-explained-Supra-or",
-    "source": "r/hedera",
-    "published": "Sat Jul 11 2026 12:50:56 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
