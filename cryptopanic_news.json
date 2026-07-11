@@ -1,9 +1,30 @@
 [
   {
+    "title": "LATEST: Apple sues OpenAI over alleged trade secrets theft.",
+    "link": "https://cryptopanic.com/news/33015569/LATEST-Apple-sues-OpenAI-over-alleged-trade-secrets-theft",
+    "source": "@cointelegraph",
+    "published": "Sat Jul 11 2026 01:30:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Kraken to rebuild mobile app around AI trading agents",
     "link": "https://cryptopanic.com/news/33015530/Kraken-to-rebuild-mobile-app-around-AI-trading-agents",
     "source": "cryptopolitan.com",
     "published": "Sat Jul 11 2026 01:13:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: Midnight Engineer Fenton Haslam says \"we're doing improved testing tooling and contract testing. We've got our Canary that we've just built—which is amazing in terms of testing everything. Key things internally to make everyone's lives easier and wallet integration easier.\"",
+    "link": "https://cryptopanic.com/news/33015566/NEW-Midnight-Engineer-Fenton-Haslam-says-were-doing-improved-testing-tooling-and-contract-testing-Weve-got-our-Canary-that-weve-just-builtwhich-is-amazing-in-terms-of-testing-everything-Key-things-internally-to-make-everyones-lives-easier-and-wallet-integration-easier",
+    "source": "@angrycryptoshow",
+    "published": "Sat Jul 11 2026 01:07:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: Midnight Engineer Fenton Haslam says \"we want this to be really easy for people to jump on and join us on this network, so that's where we're going.\" $NIGHT will open-source tools to allow users to deploy nodes on AWS, Google Cloud, and more, lowering the barrier to entry.",
+    "link": "https://cryptopanic.com/news/33015565/NEW-Midnight-Engineer-Fenton-Haslam-says-we-want-this-to-be-really-easy-for-people-to-jump-on-and-join-us-on-this-network-so-thats-where-were-going-NIGHT-will-open-source-tools-to-allow-users-to-deploy-nodes-on-AWS-Google-Cloud-and-more-lowering-the-barrier-to-entry",
+    "source": "@angrycryptoshow",
+    "published": "Sat Jul 11 2026 01:06:06 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -14,10 +35,31 @@
     "sentiment": "neutral"
   },
   {
+    "title": "NEW: Midnight Engineer Fenton Haslam is \"making a mature Terraform module\" to make it effortless to set up and run a node on the cloud. \"Once we open-source this, the whole community can benefit. We got AWS, 90% with Google Cloud, and working with other partners to deploy this.\"",
+    "link": "https://cryptopanic.com/news/33015564/NEW-Midnight-Engineer-Fenton-Haslam-is-making-a-mature-Terraform-module-to-make-it-effortless-to-set-up-and-run-a-node-on-the-cloud-Once-we-open-source-this-the-whole-community-can-benefit-We-got-AWS-90-with-Google-Cloud-and-working-with-other-partners-to-deploy-this",
+    "source": "@angrycryptoshow",
+    "published": "Sat Jul 11 2026 01:04:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Momentum Is Just An Intelligence Test",
     "link": "https://cryptopanic.com/news/33015518/Momentum-Is-Just-An-Intelligence-Test",
     "source": "AnthonyPompliano",
     "published": "Sat Jul 11 2026 01:02:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: Midnight Engineer Fenton Haslam says \"we care about the sustainability of the blockchain, so having the ability to deploy on multiple different cloud providers, we don't actually have a central point of failure by doing this.\" $NIGHT",
+    "link": "https://cryptopanic.com/news/33015563/NEW-Midnight-Engineer-Fenton-Haslam-says-we-care-about-the-sustainability-of-the-blockchain-so-having-the-ability-to-deploy-on-multiple-different-cloud-providers-we-dont-actually-have-a-central-point-of-failure-by-doing-this-NIGHT",
+    "source": "@angrycryptoshow",
+    "published": "Sat Jul 11 2026 01:01:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "QUESTION: Who is Satoshi?",
+    "link": "https://cryptopanic.com/news/33015568/QUESTION-Who-is-Satoshi",
+    "source": "@cointelegraph",
+    "published": "Sat Jul 11 2026 01:00:42 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -165,48 +207,6 @@
     "link": "https://cryptopanic.com/news/33015244/LATEST-OKX-MetaMask-Matter-Labs-and-24-other-firms-have-backed-the-GenLayers-Internet-Court-a-protocol-resolving-disputes-when-AI-agents-payments-and-escrows-go-wrong",
     "source": "@coinmarketcap",
     "published": "Fri Jul 10 2026 22:53:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Weekly Wrap: Bitcoin Has A Winning Week",
-    "link": "https://cryptopanic.com/news/33015179/Weekly-Wrap-Bitcoin-Has-A-Winning-Week",
-    "source": "cryptoprowl.com",
-    "published": "Fri Jul 10 2026 22:47:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Holds Firm Despite ETF Outflows – Here Is Why Whales May Be Preparing for the Next Big Move",
-    "link": "https://cryptopanic.com/news/33015308/Bitcoin-Holds-Firm-Despite-ETF-Outflows-Here-Is-Why-Whales-May-Be-Preparing-for-the-Next-Big-Move",
-    "source": "blocknews.com",
-    "published": "Fri Jul 10 2026 22:46:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Kraken To Relaunch Mobile App With Agentic Trading",
-    "link": "https://cryptopanic.com/news/33015152/Kraken-To-Relaunch-Mobile-App-With-Agentic-Trading",
-    "source": "cryptoprowl.com",
-    "published": "Fri Jul 10 2026 22:35:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Aave V4 has reached $275M in deposits.",
-    "link": "https://cryptopanic.com/news/33015168/NEW-Aave-V4-has-reached-275M-in-deposits",
-    "source": "@cointelegraph",
-    "published": "Fri Jul 10 2026 22:34:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "This is the worst week for $XRP ETFs since late March...\n\nThe five spot @Ripple ETFs live in the US have seen three days of zero activity this week, alongside -$7.29M in net outflows on July 8.\n\nUnless they see major inflows on July 10, the products are on track for their first",
-    "link": "https://cryptopanic.com/news/33015181/This-is-the-worst-week-for-XRP-ETFs-since-late-March-The-five-spot-Ripple-ETFs-live-in-the-US-have-seen-three-days-of-zero-activity-this-week-alongside-729M-in-net-outflows-on-July-8-Unless-they-see-major-inflows-on-July-10-the-products-are-on-track-for-their-first",
-    "source": "@bscnews",
-    "published": "Fri Jul 10 2026 22:31:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin’s short-term holders remain 15% underwater—but selling pressure is easing",
-    "link": "https://cryptopanic.com/news/33015140/Bitcoins-short-term-holders-remain-15-underwaterbut-selling-pressure-is-easing",
-    "source": "ambcrypto.com",
-    "published": "Fri Jul 10 2026 22:30:49 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
