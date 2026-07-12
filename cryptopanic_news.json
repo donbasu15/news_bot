@@ -1,5 +1,26 @@
 [
   {
+    "title": "AI Found a Real Ethereum Bug – But the Bigger Story Is What Comes Next",
+    "link": "https://cryptopanic.com/news/33019160/AI-Found-a-Real-Ethereum-Bug-But-the-Bigger-Story-Is-What-Comes-Next",
+    "source": "cryptopotato.com",
+    "published": "Sun Jul 12 2026 06:07:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "'Unsavable': Lawyers Told Ripple Execs to Abandon Company",
+    "link": "https://cryptopanic.com/news/33019174/Unsavable-Lawyers-Told-Ripple-Execs-to-Abandon-Company",
+    "source": "u.today",
+    "published": "Sun Jul 12 2026 05:59:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin’s BIP 110 fork deadline nears with miner support at zero",
+    "link": "https://cryptopanic.com/news/33019164/Bitcoins-BIP-110-fork-deadline-nears-with-miner-support-at-zero",
+    "source": "coindesk.com",
+    "published": "Sun Jul 12 2026 05:49:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "QUESTION: Would you let an AI agent trade for you?",
     "link": "https://cryptopanic.com/news/33019095/QUESTION-Would-you-let-an-AI-agent-trade-for-you",
     "source": "@cointelegraph",
@@ -119,16 +140,16 @@
     "sentiment": "neutral"
   },
   {
-    "title": "WORLD CUP | Embolo Sent Off After VAR Overturns Paredes Booking in Switzerland Quarterfinal vs Argentina",
-    "link": "https://cryptopanic.com/news/33018869/WORLD-CUP-Embolo-Sent-Off-After-VAR-Overturns-Paredes-Booking-in-Switzerland-Quarterfinal-vs-Argentina",
-    "source": "square.binance.com",
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33018921/Source",
+    "source": "@wublockchain",
     "published": "Sun Jul 12 2026 03:20:54 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33018921/Source",
-    "source": "@wublockchain",
+    "title": "WORLD CUP | Embolo Sent Off After VAR Overturns Paredes Booking in Switzerland Quarterfinal vs Argentina",
+    "link": "https://cryptopanic.com/news/33018869/WORLD-CUP-Embolo-Sent-Off-After-VAR-Overturns-Paredes-Booking-in-Switzerland-Quarterfinal-vs-Argentina",
+    "source": "square.binance.com",
     "published": "Sun Jul 12 2026 03:20:54 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -186,27 +207,6 @@
     "link": "https://cryptopanic.com/news/33018864/Prediction-Markets-Hit-14-Billion-in-Monthly-Trading-Volume-Tiger-Research-Says",
     "source": "square.binance.com",
     "published": "Sun Jul 12 2026 02:36:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Wallet Withdraws $99.96M in ETH and WBTC From Binance Since June 30",
-    "link": "https://cryptopanic.com/news/33018584/Wallet-Withdraws-9996M-in-ETH-and-WBTC-From-Binance-Since-June-30",
-    "source": "coincu.com",
-    "published": "Sun Jul 12 2026 02:32:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "WORLD CUP | Norway Question Bellingham Equalizer After 2-1 Quarterfinal Loss to England",
-    "link": "https://cryptopanic.com/news/33018863/WORLD-CUP-Norway-Question-Bellingham-Equalizer-After-2-1-Quarterfinal-Loss-to-England",
-    "source": "square.binance.com",
-    "published": "Sun Jul 12 2026 02:30:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cardano's next hard fork is closer than most people think\n\nVan Rossem, @Cardano's Protocol Version 11, is in its on-chain voting phase and expected to activate this month. Over 89% of recent blocks are already produced by upgrade-ready nodes, with Binance and Coinbase confirming",
-    "link": "https://cryptopanic.com/news/33018605/Cardanos-next-hard-fork-is-closer-than-most-people-think-Van-Rossem-Cardanos-Protocol-Version-11-is-in-its-on-chain-voting-phase-and-expected-to-activate-this-month-Over-89-of-recent-blocks-are-already-produced-by-upgrade-ready-nodes-with-Binance-and-Coinbase-confirming",
-    "source": "@bscnews",
-    "published": "Sun Jul 12 2026 02:30:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
