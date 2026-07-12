@@ -1,5 +1,26 @@
 [
   {
+    "title": "Oracle Verifier Flaw Lets Attacker Drain $9M From Hedera's Bonzo Lend",
+    "link": "https://cryptopanic.com/news/33020592/Oracle-Verifier-Flaw-Lets-Attacker-Drain-9M-From-Hederas-Bonzo-Lend",
+    "source": "r/hedera",
+    "published": "Sun Jul 12 2026 15:06:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Polymarket settles BLG Golden Road market as No after MSI title miss",
+    "link": "https://cryptopanic.com/news/33020544/Polymarket-settles-BLG-Golden-Road-market-as-No-after-MSI-title-miss",
+    "source": "coincu.com",
+    "published": "Sun Jul 12 2026 15:04:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bank of Thailand Targets Cash, Stablecoins, and Gold at Once",
+    "link": "https://cryptopanic.com/news/33020477/Bank-of-Thailand-Targets-Cash-Stablecoins-and-Gold-at-Once",
+    "source": "coindoo.com",
+    "published": "Sun Jul 12 2026 14:58:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "What memes do we need to be covering this week?",
     "link": "https://cryptopanic.com/news/33020462/What-memes-do-we-need-to-be-covering-this-week",
     "source": "@bscnews",
@@ -32,6 +53,13 @@
     "link": "https://cryptopanic.com/news/33020444/CBDC-Ban-Power-Over-Government-Money",
     "source": "SimplyBitcoin",
     "published": "Sun Jul 12 2026 14:30:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Economists See Lower Recession Risk: Will Fed Still Hike Interest Rates?",
+    "link": "https://cryptopanic.com/news/33020491/Economists-See-Lower-Recession-Risk-Will-Fed-Still-Hike-Interest-Rates",
+    "source": "beincrypto.com",
+    "published": "Sun Jul 12 2026 14:22:21 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33020132/The-Pincer",
     "source": "medium.com/pivx",
     "published": "Sun Jul 12 2026 12:49:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33020135/Source",
-    "source": "@wublockchain",
-    "published": "Sun Jul 12 2026 12:48:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Thailand’s Central Bank and SEC Probe High-Value USDT Transactions\n\nAccording to The Nation, the Bank of Thailand will require individuals depositing THB 5 million ($150,000) or more in cash to verify the source of funds. It is also working with Thailand’s SEC to review large",
-    "link": "https://cryptopanic.com/news/33020134/Thailands-Central-Bank-and-SEC-Probe-High-Value-USDT-Transactions-According-to-The-Nation-the-Bank-of-Thailand-will-require-individuals-depositing-THB-5-million-150000-or-more-in-cash-to-verify-the-source-of-funds-It-is-also-working-with-Thailands-SEC-to-review-large",
-    "source": "@wublockchain",
-    "published": "Sun Jul 12 2026 12:48:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Securitize Lists on NYSE as SECZ: Tokenization Becomes Infrastructure",
-    "link": "https://cryptopanic.com/news/33020122/Securitize-Lists-on-NYSE-as-SECZ-Tokenization-Becomes-Infrastructure",
-    "source": "spaziocrypto.com",
-    "published": "Sun Jul 12 2026 12:46:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana Network Activity Falls to Multi-Year Lows — Here Is Why Weak On-Chain Demand Could Shape SOL’s Next Move",
-    "link": "https://cryptopanic.com/news/33020241/Solana-Network-Activity-Falls-to-Multi-Year-Lows-Here-Is-Why-Weak-On-Chain-Demand-Could-Shape-SOLs-Next-Move",
-    "source": "blocknews.com",
-    "published": "Sun Jul 12 2026 12:46:12 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
