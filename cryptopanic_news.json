@@ -1,9 +1,37 @@
 [
   {
+    "title": "The Never-Ending Dilemma",
+    "link": "https://cryptopanic.com/news/33022472/The-Never-Ending-Dilemma",
+    "source": "r/hedera",
+    "published": "Mon Jul 13 2026 04:35:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SK Hynix shares dropped as much as 8.2% in early Seoul trade on July 13 as investors booked profit, ‌after a high-profile US listing saw the world's leading AI memory chipmaker surge 12.8% in its Nasdaq debut on July 10. More here",
+    "link": "https://cryptopanic.com/news/33022499/SK-Hynix-shares-dropped-as-much-as-82-in-early-Seoul-trade-on-July-13-as-investors-booked-profit-after-a-high-profile-US-listing-saw-the-worlds-leading-AI-memory-chipmaker-surge-128-in-its-Nasdaq-debut-on-July-10-More-here",
+    "source": "@reutersbiz",
+    "published": "Mon Jul 13 2026 04:23:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇯🇵 BULLISH: Japan PM Sanae Takaichi reaffirmed support for Web3 startups, funding and regulatory easing.",
+    "link": "https://cryptopanic.com/news/33022498/BULLISH-Japan-PM-Sanae-Takaichi-reaffirmed-support-for-Web3-startups-funding-and-regulatory-easing",
+    "source": "@cointelegraph",
+    "published": "Mon Jul 13 2026 04:20:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "",
     "link": "https://cryptopanic.com/news/33022372/post-33022372",
     "source": "catenaa.com",
     "published": "Mon Jul 13 2026 04:07:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇨🇳 LATEST: China’s digital yuan app now supports offline payment codes, allowing users to pay without a stable internet connection.\n\nThe feature currently supports wallets from five Chinese banks, per Digital RMB Operations Management Center.",
+    "link": "https://cryptopanic.com/news/33022497/LATEST-Chinas-digital-yuan-app-now-supports-offline-payment-codes-allowing-users-to-pay-without-a-stable-internet-connection-The-feature-currently-supports-wallets-from-five-Chinese-banks-per-Digital-RMB-Operations-Management-Center",
+    "source": "@cointelegraph",
+    "published": "Mon Jul 13 2026 04:00:40 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -16,6 +44,13 @@
   {
     "title": "SEC Retreat Signals New Era for DeFi Wallet Regulation",
     "link": "https://cryptopanic.com/news/33022348/SEC-Retreat-Signals-New-Era-for-DeFi-Wallet-Regulation",
+    "source": "catenaa.com",
+    "published": "Mon Jul 13 2026 04:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Lawson Brings Stablecoins to the Checkout Counter",
+    "link": "https://cryptopanic.com/news/33022473/Lawson-Brings-Stablecoins-to-the-Checkout-Counter",
     "source": "catenaa.com",
     "published": "Mon Jul 13 2026 04:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33022225/Goldman-Sachs-Expanded-Pipeline-Capacity-Bypassing-the-Strait-of-Hormuz-Could-Pressure-76-Per-Barrel-Long-Term-Assumption",
     "source": "square.binance.com",
     "published": "Mon Jul 13 2026 03:08:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BNB Drops Below 570 USDT with a 0.84% Decrease in 24 Hours",
-    "link": "https://cryptopanic.com/news/33022224/BNB-Drops-Below-570-USDT-with-a-084-Decrease-in-24-Hours",
-    "source": "square.binance.com",
-    "published": "Mon Jul 13 2026 03:08:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Goldman Sachs: Recent Attacks Raise Uncertainty Over Gulf Export Outlook",
-    "link": "https://cryptopanic.com/news/33022223/Goldman-Sachs-Recent-Attacks-Raise-Uncertainty-Over-Gulf-Export-Outlook",
-    "source": "square.binance.com",
-    "published": "Mon Jul 13 2026 03:06:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Goldman Sachs Forecasts Pipeline Capacity Gains Through End-2028",
-    "link": "https://cryptopanic.com/news/33022222/Goldman-Sachs-Forecasts-Pipeline-Capacity-Gains-Through-End-2028",
-    "source": "square.binance.com",
-    "published": "Mon Jul 13 2026 03:06:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "STOCKS | Nanwei Software Hits Limit-Down at Open After CSRC Opens Probe Over Disclosure",
-    "link": "https://cryptopanic.com/news/33022221/STOCKS-Nanwei-Software-Hits-Limit-Down-at-Open-After-CSRC-Opens-Probe-Over-Disclosure",
-    "source": "square.binance.com",
-    "published": "Mon Jul 13 2026 03:05:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "STOCKS | Hong Kong-Listed Auto Stocks Extend Declines as Seres Drops Over 10%",
-    "link": "https://cryptopanic.com/news/33022220/STOCKS-Hong-Kong-Listed-Auto-Stocks-Extend-Declines-as-Seres-Drops-Over-10",
-    "source": "square.binance.com",
-    "published": "Mon Jul 13 2026 03:04:59 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
