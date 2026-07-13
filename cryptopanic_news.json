@@ -84,6 +84,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Bitcoin holds near $63,800 as war-driven selloff hits everything but crypto",
+    "link": "https://cryptopanic.com/news/33022744/Bitcoin-holds-near-63800-as-war-driven-selloff-hits-everything-but-crypto",
+    "source": "coindesk.com",
+    "published": "Mon Jul 13 2026 04:48:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "The Never-Ending Dilemma",
     "link": "https://cryptopanic.com/news/33022472/The-Never-Ending-Dilemma",
     "source": "r/hedera",
@@ -140,15 +147,15 @@
     "sentiment": "neutral"
   },
   {
-    "title": "SEC Retreat Signals New Era for DeFi Wallet Regulation",
-    "link": "https://cryptopanic.com/news/33022348/SEC-Retreat-Signals-New-Era-for-DeFi-Wallet-Regulation",
+    "title": "Lawson Brings Stablecoins to the Checkout Counter",
+    "link": "https://cryptopanic.com/news/33022473/Lawson-Brings-Stablecoins-to-the-Checkout-Counter",
     "source": "catenaa.com",
     "published": "Mon Jul 13 2026 04:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Lawson Brings Stablecoins to the Checkout Counter",
-    "link": "https://cryptopanic.com/news/33022473/Lawson-Brings-Stablecoins-to-the-Checkout-Counter",
+    "title": "SEC Retreat Signals New Era for DeFi Wallet Regulation",
+    "link": "https://cryptopanic.com/news/33022348/SEC-Retreat-Signals-New-Era-for-DeFi-Wallet-Regulation",
     "source": "catenaa.com",
     "published": "Mon Jul 13 2026 04:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
@@ -200,13 +207,6 @@
     "link": "https://cryptopanic.com/news/33022397/Were-starting-to-feel-bullish-about-ETH-Per-Lookonchain-a-single-wallet-address-has-withdrawn-49407-ETH-worth-843M-from-Binance-since-June-30-also-withdrawing-some-1566M-worth-of-Ethereum-WBTC-Despite-changes-from-the-Foundation-sentiment-around-cryptos",
     "source": "@bscnews",
     "published": "Mon Jul 13 2026 03:36:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SBI Funds IPO Anchor Book Said to Be 20 Times Subscribed",
-    "link": "https://cryptopanic.com/news/33022236/SBI-Funds-IPO-Anchor-Book-Said-to-Be-20-Times-Subscribed",
-    "source": "square.binance.com",
-    "published": "Mon Jul 13 2026 03:22:45 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
