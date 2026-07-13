@@ -1,5 +1,40 @@
 [
   {
+    "title": "One Kid, One AI, A Trillion-Dollar Warning",
+    "link": "https://cryptopanic.com/news/33021643/One-Kid-One-AI-A-Trillion-Dollar-Warning",
+    "source": "AnthonyPompliano",
+    "published": "Mon Jul 13 2026 01:01:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Why Zcash’s Orchard flaw puts pre-disclosure trading under the spotlight",
+    "link": "https://cryptopanic.com/news/33021644/Why-Zcashs-Orchard-flaw-puts-pre-disclosure-trading-under-the-spotlight",
+    "source": "ambcrypto.com",
+    "published": "Mon Jul 13 2026 01:00:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": ": @EliBenSasson: \"With every advance in quantum, more investors are going to ask: should I reduce my exposure?\"",
+    "link": "https://cryptopanic.com/news/33021631/EliBenSasson-With-every-advance-in-quantum-more-investors-are-going-to-ask-should-I-reduce-my-exposure",
+    "source": "@coindesk",
+    "published": "Mon Jul 13 2026 00:58:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Imagine making $320 MILLION in less than three years...\n\nThat's exactly what @Morpho has done. $MORPHO has now generated more than $318M in fees in its life, with DefiLlama data going back to February 2024.\n\nMorpho has risen from a TVL of less than $50M in mid-2022, to become the",
+    "link": "https://cryptopanic.com/news/33021669/Imagine-making-320-MILLION-in-less-than-three-years-Thats-exactly-what-Morpho-has-done-MORPHO-has-now-generated-more-than-318M-in-fees-in-its-life-with-DefiLlama-data-going-back-to-February-2024-Morpho-has-risen-from-a-TVL-of-less-than-50M-in-mid-2022-to-become-the",
+    "source": "@bscnews",
+    "published": "Mon Jul 13 2026 00:48:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "A hacker launched a token called $SCATMAN and promoted it after hacking the @SpaceXAI and @Starlink accounts. \n\nThe hacker then minted 10T $SCATMAN and dumped all for 59 $ETH($108K).\n\nAnother wallet controlled by the hacker also sold 59.28M $SCATMAN for 14.7 $ETH($27K).\n\nIn",
+    "link": "https://cryptopanic.com/news/33021670/A-hacker-launched-a-token-called-SCATMAN-and-promoted-it-after-hacking-the-SpaceXAI-and-Starlink-accounts-The-hacker-then-minted-10T-SCATMAN-and-dumped-all-for-59-ETH108K-Another-wallet-controlled-by-the-hacker-also-sold-5928M-SCATMAN-for-147-ETH27K-In",
+    "source": "@lookonchain",
+    "published": "Mon Jul 13 2026 00:47:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "NEW: Circle CEO Jeremy Allaire published “The Agentic Economy,” saying AI agents and the onchain economy are converging into one programmable economy.",
     "link": "https://cryptopanic.com/news/33021633/NEW-Circle-CEO-Jeremy-Allaire-published-The-Agentic-Economy-saying-AI-agents-and-the-onchain-economy-are-converging-into-one-programmable-economy",
     "source": "@cointelegraph",
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33021290/INSIGHT-Jamie1coutts-tells-itsciaranlyons-that-this-is-a-bull-market-with-the-wrong-screen-color-Tailwinds-are-the-best-hes-seen-but-AI-capital-wont-rotate-in-until-agentic-commerce-and-on-chain-tokenization-go-mainstream-With-alts-down-80-90-he-calls-it",
     "source": "@cointelegraph",
     "published": "Sun Jul 12 2026 21:30:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The New Financial System Is Being Rebuilt Right Now",
-    "link": "https://cryptopanic.com/news/33021256/The-New-Financial-System-Is-Being-Rebuilt-Right-Now",
-    "source": "SimplyBitcoin",
-    "published": "Sun Jul 12 2026 21:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto fatwa sparks debate over Pakistan’s digital asset framework",
-    "link": "https://cryptopanic.com/news/33021253/Crypto-fatwa-sparks-debate-over-Pakistans-digital-asset-framework",
-    "source": "theblock.co",
-    "published": "Sun Jul 12 2026 21:23:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Elon Musk: AI+Robots will be able to do everything, resulting in universal high income. Work will be optional.",
-    "link": "https://cryptopanic.com/news/33021289/Elon-Musk-AIRobots-will-be-able-to-do-everything-resulting-in-universal-high-income-Work-will-be-optional",
-    "source": "@cryptonwsuk",
-    "published": "Sun Jul 12 2026 21:17:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hedera's largest lending protocol exploited for over $9 million.\n\nAccording to details shared by Wu Blockchain, leading @Hedera based lending protocol @bonzo_finance suffered an oracle exploit to the tune of some $9.05M .\n\nAt time of writing, the platform remains paused in what",
-    "link": "https://cryptopanic.com/news/33021257/Hederas-largest-lending-protocol-exploited-for-over-9-million-According-to-details-shared-by-Wu-Blockchain-leading-Hedera-based-lending-protocol-bonzo_finance-suffered-an-oracle-exploit-to-the-tune-of-some-905M-At-time-of-writing-the-platform-remains-paused-in-what",
-    "source": "@bscnews",
-    "published": "Sun Jul 12 2026 21:17:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "A zone of potential short liquidations has formed right above the current $BTC price, providing a potential area of liquidity to test as we head into the start of the week.",
-    "link": "https://cryptopanic.com/news/33021281/A-zone-of-potential-short-liquidations-has-formed-right-above-the-current-BTC-price-providing-a-potential-area-of-liquidity-to-test-as-we-head-into-the-start-of-the-week",
-    "source": "@stackersatoshi",
-    "published": "Sun Jul 12 2026 21:14:13 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
