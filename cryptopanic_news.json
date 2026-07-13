@@ -1,5 +1,40 @@
 [
   {
+    "title": "",
+    "link": "https://cryptopanic.com/news/33022372/post-33022372",
+    "source": "catenaa.com",
+    "published": "Mon Jul 13 2026 04:07:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The Number One Reason Most Men Stay Broke",
+    "link": "https://cryptopanic.com/news/33022359/The-Number-One-Reason-Most-Men-Stay-Broke",
+    "source": "TheCryptoLark",
+    "published": "Mon Jul 13 2026 04:00:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SEC Retreat Signals New Era for DeFi Wallet Regulation",
+    "link": "https://cryptopanic.com/news/33022348/SEC-Retreat-Signals-New-Era-for-DeFi-Wallet-Regulation",
+    "source": "catenaa.com",
+    "published": "Mon Jul 13 2026 04:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Japan’s Lawson convenience store pilots stablecoin payments with JPYC: report",
+    "link": "https://cryptopanic.com/news/33022346/Japans-Lawson-convenience-store-pilots-stablecoin-payments-with-JPYC-report",
+    "source": "theblock.co",
+    "published": "Mon Jul 13 2026 03:59:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Altcoin Season Index Signals Growing Momentum Beyond Bitcoin",
+    "link": "https://cryptopanic.com/news/33022396/Altcoin-Season-Index-Signals-Growing-Momentum-Beyond-Bitcoin",
+    "source": "beincrypto.com",
+    "published": "Mon Jul 13 2026 03:49:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Source",
     "link": "https://cryptopanic.com/news/33022342/Source",
     "source": "@wublockchain",
@@ -25,6 +60,13 @@
     "link": "https://cryptopanic.com/news/33022344/TODAY-Circle-minted-250000000-USDC-on-Solana",
     "source": "@cointelegraph",
     "published": "Mon Jul 13 2026 03:40:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "We're starting to feel bullish about $ETH ...\n\nPer Lookonchain, a single wallet address has withdrawn 49,407 $ETH (worth $84.3M) from @Binance since June 30, also withdrawing some $15.66M worth of @Ethereum $WBTC.\n\nDespite changes from the Foundation, sentiment around crypto's",
+    "link": "https://cryptopanic.com/news/33022397/Were-starting-to-feel-bullish-about-ETH-Per-Lookonchain-a-single-wallet-address-has-withdrawn-49407-ETH-worth-843M-from-Binance-since-June-30-also-withdrawing-some-1566M-worth-of-Ethereum-WBTC-Despite-changes-from-the-Foundation-sentiment-around-cryptos",
+    "source": "@bscnews",
+    "published": "Mon Jul 13 2026 03:36:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -165,48 +207,6 @@
     "link": "https://cryptopanic.com/news/33022220/STOCKS-Hong-Kong-Listed-Auto-Stocks-Extend-Declines-as-Seres-Drops-Over-10",
     "source": "square.binance.com",
     "published": "Mon Jul 13 2026 03:04:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "STOCKS | Goldman Sachs Keeps Overweight Call on A-Shares, Recommends Positioning in Hong Kong Internet Leaders",
-    "link": "https://cryptopanic.com/news/33022219/STOCKS-Goldman-Sachs-Keeps-Overweight-Call-on-A-Shares-Recommends-Positioning-in-Hong-Kong-Internet-Leaders",
-    "source": "square.binance.com",
-    "published": "Mon Jul 13 2026 03:04:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Breakingviews - Asset manager IPO rewards Amundi's early India bet",
-    "link": "https://cryptopanic.com/news/33022017/Breakingviews-Asset-manager-IPO-rewards-Amundis-early-India-bet",
-    "source": "@reutersbiz",
-    "published": "Mon Jul 13 2026 03:01:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇯🇵 UPDATE: Japan's Progmat completed the migration of $3B+ in digital securities from Corda to Avalanche L1.",
-    "link": "https://cryptopanic.com/news/33022015/UPDATE-Japans-Progmat-completed-the-migration-of-3B-in-digital-securities-from-Corda-to-Avalanche-L1",
-    "source": "@cointelegraph",
-    "published": "Mon Jul 13 2026 03:00:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Binance to Suspend Moonbeam (GLMR) Network Deposits and Withdrawals for Upgrade Support",
-    "link": "https://cryptopanic.com/news/33022218/Binance-to-Suspend-Moonbeam-GLMR-Network-Deposits-and-Withdrawals-for-Upgrade-Support",
-    "source": "square.binance.com",
-    "published": "Mon Jul 13 2026 03:00:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why Bitcoin miners are holding 1.19M BTC despite 10% mining stock losses",
-    "link": "https://cryptopanic.com/news/33021976/Why-Bitcoin-miners-are-holding-119M-BTC-despite-10-mining-stock-losses",
-    "source": "ambcrypto.com",
-    "published": "Mon Jul 13 2026 03:00:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Three Weeks Could Decide America’s Crypto Rulebook",
-    "link": "https://cryptopanic.com/news/33021968/Three-Weeks-Could-Decide-Americas-Crypto-Rulebook",
-    "source": "catenaa.com",
-    "published": "Mon Jul 13 2026 03:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
