@@ -1,5 +1,82 @@
 [
   {
+    "title": "Here's how to get started",
+    "link": "https://cryptopanic.com/news/33024324/Heres-how-to-get-started",
+    "source": "@cryptoquant_com",
+    "published": "Mon Jul 13 2026 10:41:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SBI Holdings, Solana Foundation partner to build Japan-based onchain financial market",
+    "link": "https://cryptopanic.com/news/33024270/SBI-Holdings-Solana-Foundation-partner-to-build-Japan-based-onchain-financial-market",
+    "source": "theblock.co",
+    "published": "Mon Jul 13 2026 10:39:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Analyzing on-chain data has never been easier \n\nWith CryptoQuant MCP in Claude, you can explore and analyze blockchain data using natural language.",
+    "link": "https://cryptopanic.com/news/33024323/Analyzing-on-chain-data-has-never-been-easier-With-CryptoQuant-MCP-in-Claude-you-can-explore-and-analyze-blockchain-data-using-natural-language",
+    "source": "@cryptoquant_com",
+    "published": "Mon Jul 13 2026 10:33:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INSIGHT: NEW: CZ burns several hot memecoins sent to his wallet after finding more than 10,000 tokens in the address.\n\nCZ suggests sending unwanted tokens directly to a black hole.",
+    "link": "https://cryptopanic.com/news/33024330/INSIGHT-NEW-CZ-burns-several-hot-memecoins-sent-to-his-wallet-after-finding-more-than-10000-tokens-in-the-address-CZ-suggests-sending-unwanted-tokens-directly-to-a-black-hole",
+    "source": "@cointelegraph",
+    "published": "Mon Jul 13 2026 10:30:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hyperliquid price forecast: HYPE faces critical test as Bitcoin holds the key",
+    "link": "https://cryptopanic.com/news/33024278/Hyperliquid-price-forecast-HYPE-faces-critical-test-as-Bitcoin-holds-the-key",
+    "source": "coinjournal.net",
+    "published": "Mon Jul 13 2026 10:27:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP network activity plunges almost 100% in a week",
+    "link": "https://cryptopanic.com/news/33024193/XRP-network-activity-plunges-almost-100-in-a-week",
+    "source": "finbold.com",
+    "published": "Mon Jul 13 2026 10:24:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33024326/Source",
+    "source": "@wublockchain",
+    "published": "Mon Jul 13 2026 10:19:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hyperliquid OI Tops $11B as HIP-3 Markets Reach Record $3.69B \n\nHyperliquid’s total open interest reached approximately $11.07 billion on July 13, its highest level of 2026, before easing to about $10.88 billion, according to DeFiLlama. HIP-3 markets contributed roughly $3.69",
+    "link": "https://cryptopanic.com/news/33024325/Hyperliquid-OI-Tops-11B-as-HIP-3-Markets-Reach-Record-369B-Hyperliquids-total-open-interest-reached-approximately-1107-billion-on-July-13-its-highest-level-of-2026-before-easing-to-about-1088-billion-according-to-DeFiLlama-HIP-3-markets-contributed-roughly-369",
+    "source": "@wublockchain",
+    "published": "Mon Jul 13 2026 10:19:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Empery Digital sold 1,400 BTC for $87.1M to fund a Midwest AI data center stake, repay debt and cover legal costs, cutting its Bitcoin holdings by 48%.",
+    "link": "https://cryptopanic.com/news/33024322/LATEST-Empery-Digital-sold-1400-BTC-for-871M-to-fund-a-Midwest-AI-data-center-stake-repay-debt-and-cover-legal-costs-cutting-its-Bitcoin-holdings-by-48",
+    "source": "@coinmarketcap",
+    "published": "Mon Jul 13 2026 10:19:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "German state of Lower Saxony considers stake in VW's Osnabrueck plant, Capital reports",
+    "link": "https://cryptopanic.com/news/33024331/German-state-of-Lower-Saxony-considers-stake-in-VWs-Osnabrueck-plant-Capital-reports",
+    "source": "@reutersbiz",
+    "published": "Mon Jul 13 2026 10:15:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇰🇷 JUST IN: SK Hynix shares plunged 15.4% in South Korea, marking their biggest one-day drop on record, despite a strong Nasdaq debut just days earlier.",
+    "link": "https://cryptopanic.com/news/33024329/JUST-IN-SK-Hynix-shares-plunged-154-in-South-Korea-marking-their-biggest-one-day-drop-on-record-despite-a-strong-Nasdaq-debut-just-days-earlier",
+    "source": "@cointelegraph",
+    "published": "Mon Jul 13 2026 10:10:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin slides to $62,800 after derivatives washout; ETF inflows return as oil shock keeps BTC range-bound",
     "link": "https://cryptopanic.com/news/33024066/Bitcoin-slides-to-62800-after-derivatives-washout-ETF-inflows-return-as-oil-shock-keeps-BTC-range-bound",
     "source": "cryptonews.com",
@@ -14,6 +91,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "🤖 Never trade blind. This is the Deep_Altcoin_Research skill on #CMCAgentHub in action, delivering a full report in seconds.\n\nFundamentals, market structure, sentiment, and risk, pulled together instantly instead of hours of manual digging.\n\n Try it yourself",
+    "link": "https://cryptopanic.com/news/33024321/Never-trade-blind-This-is-the-Deep_Altcoin_Research-skill-on-CMCAgentHub-in-action-delivering-a-full-report-in-seconds-Fundamentals-market-structure-sentiment-and-risk-pulled-together-instantly-instead-of-hours-of-manual-digging-Try-it-yourself",
+    "source": "@coinmarketcap",
+    "published": "Mon Jul 13 2026 10:04:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "DOJ drops charges against BitClub founder Goettsche",
     "link": "https://cryptopanic.com/news/33023996/DOJ-drops-charges-against-BitClub-founder-Goettsche",
     "source": "cryptovalleyjournal.com",
@@ -25,6 +109,13 @@
     "link": "https://cryptopanic.com/news/33023994/Why-is-Bitcoins-price-down-today-67K-BTC-sell-off-tests-the-recovery",
     "source": "ambcrypto.com",
     "published": "Mon Jul 13 2026 10:00:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Real-world asset (RWA) open interest on Hyperliquid surged to a record $3.6B, while total open interest climbed to a 2026 high of $11B.",
+    "link": "https://cryptopanic.com/news/33024328/UPDATE-Real-world-asset-RWA-open-interest-on-Hyperliquid-surged-to-a-record-36B-while-total-open-interest-climbed-to-a-2026-high-of-11B",
+    "source": "@cointelegraph",
+    "published": "Mon Jul 13 2026 10:00:51 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -77,6 +168,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "3 Token Unlocks to Watch in the Third Week of July 2026",
+    "link": "https://cryptopanic.com/news/33024202/3-Token-Unlocks-to-Watch-in-the-Third-Week-of-July-2026",
+    "source": "beincrypto.com",
+    "published": "Mon Jul 13 2026 09:54:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Lawson to Test Yen Stablecoin Payments in August With Netstars",
     "link": "https://cryptopanic.com/news/33023939/Lawson-to-Test-Yen-Stablecoin-Payments-in-August-With-Netstars",
     "source": "coincu.com",
@@ -109,104 +207,6 @@
     "link": "https://cryptopanic.com/news/33023948/_Crypto_glass-Complete-breakdown",
     "source": "@cryptoquant_com",
     "published": "Mon Jul 13 2026 09:46:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇵🇰 Pakistan’s crypto regulator is seeking technical and Shariah reviews of digital assets after a leading Pakistani Islamic scholar ruled crypto payments impermissible under Islamic law.",
-    "link": "https://cryptopanic.com/news/33023942/LATEST-Pakistans-crypto-regulator-is-seeking-technical-and-Shariah-reviews-of-digital-assets-after-a-leading-Pakistani-Islamic-scholar-ruled-crypto-payments-impermissible-under-Islamic-law",
-    "source": "@coinmarketcap",
-    "published": "Mon Jul 13 2026 09:43:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: SBI Holdings and the Solana Foundation are partnering to build out Japan’s on-chain finance market: JPY stablecoins, tokenized RWAs, and institutional rails.",
-    "link": "https://cryptopanic.com/news/33023952/LATEST-SBI-Holdings-and-the-Solana-Foundation-are-partnering-to-build-out-Japans-on-chain-finance-market-JPY-stablecoins-tokenized-RWAs-and-institutional-rails",
-    "source": "@cointelegraph",
-    "published": "Mon Jul 13 2026 09:41:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BTC: Composite Index Shows Partial Reset, Not a Deep Macro Reset\n\n“Partial reset — normalization has started, but the current reading has not matched prior cycle-bottom trough depth.” – By @_Crypto_glass",
-    "link": "https://cryptopanic.com/news/33023947/BTC-Composite-Index-Shows-Partial-Reset-Not-a-Deep-Macro-Reset-Partial-reset-normalization-has-started-but-the-current-reading-has-not-matched-prior-cycle-bottom-trough-depth-By-_Crypto_glass",
-    "source": "@cryptoquant_com",
-    "published": "Mon Jul 13 2026 09:41:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Paradigm shifts vs bubbles: AI chips and bitcoin show powerful trends can still produce severe corrections",
-    "link": "https://cryptopanic.com/news/33023918/Paradigm-shifts-vs-bubbles-AI-chips-and-bitcoin-show-powerful-trends-can-still-produce-severe-corrections",
-    "source": "coindesk.com",
-    "published": "Mon Jul 13 2026 09:32:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto Market Cap Slides to $2.17T as Fear Grips Traders",
-    "link": "https://cryptopanic.com/news/33024186/Crypto-Market-Cap-Slides-to-217T-as-Fear-Grips-Traders",
-    "source": "cryptodnes.bg",
-    "published": "Mon Jul 13 2026 09:31:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Brian Armstrong says positive-sum crypto use cases, liquidity and users are the best competitive moat.",
-    "link": "https://cryptopanic.com/news/33023950/NEW-Brian-Armstrong-says-positive-sum-crypto-use-cases-liquidity-and-users-are-the-best-competitive-moat",
-    "source": "@cointelegraph",
-    "published": "Mon Jul 13 2026 09:30:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "OKX Issues Key USDC Notice for Solana Users: What to Know",
-    "link": "https://cryptopanic.com/news/33024194/OKX-Issues-Key-USDC-Notice-for-Solana-Users-What-to-Know",
-    "source": "u.today",
-    "published": "Mon Jul 13 2026 09:30:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BTC slips below $63K as Middle East tensions offset ETF inflows",
-    "link": "https://cryptopanic.com/news/33023881/BTC-slips-below-63K-as-Middle-East-tensions-offset-ETF-inflows",
-    "source": "coinjournal.net",
-    "published": "Mon Jul 13 2026 09:28:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "This trader has made over $9M on @Aster_DEX in less than a month — an 806% return!\n\nHe made just one trade: a 1x short on $ESPORTS.\n\nOn June 18, he deposited 1M $USDT into Aster and opened 1x short on $ESPORTS.\n\nHe has already realized $4.28M by closing part of the position and",
-    "link": "https://cryptopanic.com/news/33023817/This-trader-has-made-over-9M-on-Aster_DEX-in-less-than-a-month-an-806-return-He-made-just-one-trade-a-1x-short-on-ESPORTS-On-June-18-he-deposited-1M-USDT-into-Aster-and-opened-1x-short-on-ESPORTS-He-has-already-realized-428M-by-closing-part-of-the-position-and",
-    "source": "@lookonchain",
-    "published": "Mon Jul 13 2026 09:24:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇯🇵 Japanese financial giant SBI partners with Solana Foundation to build on-chain financial market in Japan.",
-    "link": "https://cryptopanic.com/news/33023921/JUST-IN-Japanese-financial-giant-SBI-partners-with-Solana-Foundation-to-build-on-chain-financial-market-in-Japan",
-    "source": "@watcherguru",
-    "published": "Mon Jul 13 2026 09:23:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Can Bitcoin and Ether ETFs continue their new surge...?\n\nLast week, ETFs for both $BTC and $ETH recorded positive net flows for the first time in as much as 8 weeks.\n\n$BTC clocked +$197M while $ETH accrued +$84.4M.\n\nIf the products for $BTC and $ETH follow with another week of",
-    "link": "https://cryptopanic.com/news/33023815/Can-Bitcoin-and-Ether-ETFs-continue-their-new-surge-Last-week-ETFs-for-both-BTC-and-ETH-recorded-positive-net-flows-for-the-first-time-in-as-much-as-8-weeks-BTC-clocked-197M-while-ETH-accrued-844M-If-the-products-for-BTC-and-ETH-follow-with-another-week-of",
-    "source": "@bscnews",
-    "published": "Mon Jul 13 2026 09:21:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HYPE Price Rejected at $67.8: Bullish and Bearish Scenario",
-    "link": "https://cryptopanic.com/news/33023729/HYPE-Price-Rejected-at-678-Bullish-and-Bearish-Scenario",
-    "source": "coindoo.com",
-    "published": "Mon Jul 13 2026 09:19:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum Foundation Deploys AI Agents to Hunt Bugs in Protocol Code",
-    "link": "https://cryptopanic.com/news/33023806/Ethereum-Foundation-Deploys-AI-Agents-to-Hunt-Bugs-in-Protocol-Code",
-    "source": "dailyhodl.com",
-    "published": "Mon Jul 13 2026 09:15:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Michael Saylor once again posted Strategy’s Bitcoin tracker, this time with the cryptic caption “Orange dots tell only part of the story.”",
-    "link": "https://cryptopanic.com/news/33023709/LATEST-Michael-Saylor-once-again-posted-Strategys-Bitcoin-tracker-this-time-with-the-cryptic-caption-Orange-dots-tell-only-part-of-the-story",
-    "source": "@coinmarketcap",
-    "published": "Mon Jul 13 2026 09:07:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
