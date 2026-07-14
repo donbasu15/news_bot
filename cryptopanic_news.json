@@ -1,5 +1,61 @@
 [
   {
+    "title": "Nick Johnson files a new ENS DAO security council vote weeks after blocking renewal",
+    "link": "https://cryptopanic.com/news/33035268/Nick-Johnson-files-a-new-ENS-DAO-security-council-vote-weeks-after-blocking-renewal",
+    "source": "cryptopolitan.com",
+    "published": "Tue Jul 14 2026 22:09:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Binance holds more than 640,000 Bitcoins.\n\nThe @cz_binance founded @Binance exchange holds a staggering 640,269 $BTC (worth more than $40B) in reserves.\n\nAt the same time, it holds 4,086,350 $ETH (worth around $7.3B).",
+    "link": "https://cryptopanic.com/news/33035275/Binance-holds-more-than-640000-Bitcoins-The-cz_binance-founded-Binance-exchange-holds-a-staggering-640269-BTC-worth-more-than-40B-in-reserves-At-the-same-time-it-holds-4086350-ETH-worth-around-73B",
+    "source": "@bscnews",
+    "published": "Tue Jul 14 2026 22:06:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Stablecoins aren’t just crypto anymore: $400B in 2025 payments has banks on edge",
+    "link": "https://cryptopanic.com/news/33035236/Stablecoins-arent-just-crypto-anymore-400B-in-2025-payments-has-banks-on-edge",
+    "source": "ambcrypto.com",
+    "published": "Tue Jul 14 2026 22:00:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The Markets Are In Serious Trouble (Bitcoin Loves It)",
+    "link": "https://cryptopanic.com/news/33035264/The-Markets-Are-In-Serious-Trouble-Bitcoin-Loves-It",
+    "source": "BTCSessions",
+    "published": "Tue Jul 14 2026 22:00:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Lawrence Lepard! Bitcoin Scarcity vs Crypto Scams",
+    "link": "https://cryptopanic.com/news/33035243/Lawrence-Lepard-Bitcoin-Scarcity-vs-Crypto-Scams",
+    "source": "SimplyBitcoin",
+    "published": "Tue Jul 14 2026 22:00:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Utility Debate Returns As Ripple Stablecoin Migration Plans Draw Attention",
+    "link": "https://cryptopanic.com/news/33035220/XRP-Utility-Debate-Returns-As-Ripple-Stablecoin-Migration-Plans-Draw-Attention",
+    "source": "newsbtc.com",
+    "published": "Tue Jul 14 2026 22:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "3 Signals Just Flashed — Here's the $100K Bitcoin Move No One is Expecting!",
+    "link": "https://cryptopanic.com/news/33035221/3-Signals-Just-Flashed-Heres-the-100K-Bitcoin-Move-No-One-is-Expecting",
+    "source": "SimplyBitcoin",
+    "published": "Tue Jul 14 2026 21:55:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇯🇵 JCB, Japan's largest card network, has signed an MOU with Circle to explore stablecoin payments for its 40 million merchants.",
+    "link": "https://cryptopanic.com/news/33035213/LATEST-JCB-Japans-largest-card-network-has-signed-an-MOU-with-Circle-to-explore-stablecoin-payments-for-its-40-million-merchants",
+    "source": "@coinmarketcap",
+    "published": "Tue Jul 14 2026 21:53:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Start one. \nI’ll be your first guest. \nBut you’ve only got 3 days to get me on.",
     "link": "https://cryptopanic.com/news/33035178/Start-one-Ill-be-your-first-guest-But-youve-only-got-3-days-to-get-me-on",
     "source": "@btc_archive",
@@ -11,6 +67,13 @@
     "link": "https://cryptopanic.com/news/33035216/Binance-is-shifting-its-growth-strategy-from-pure-crypto-trading-toward-becoming-a-payments-focused-super-app-offering-broader-financial-services-Read-the-full-story-by-Olivier-Acuna-on-CoinDesk",
     "source": "@coindesk",
     "published": "Tue Jul 14 2026 21:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Par is the switch. At $100, STRC funds Bitcoin buys through Strategy's ATM; below it, that slows. Restoring it means a higher, permanent dividend, the same cost that led to Strategy's first BTC sale since 2022. A lot rides on getting back to $100.",
+    "link": "https://cryptopanic.com/news/33035274/Par-is-the-switch-At-100-STRC-funds-Bitcoin-buys-through-Strategys-ATM-below-it-that-slows-Restoring-it-means-a-higher-permanent-dividend-the-same-cost-that-led-to-Strategys-first-BTC-sale-since-2022-A-lot-rides-on-getting-back-to-100",
+    "source": "@bscnews",
+    "published": "Tue Jul 14 2026 21:44:53 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -32,6 +95,13 @@
     "link": "https://cryptopanic.com/news/33035177/Why-Chinas-Thousand-Model-War-is-a-Risk-to-US-National-Security-BPH-Ep-42",
     "source": "BitcoinMagazine",
     "published": "Tue Jul 14 2026 21:33:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The CFTC steps between Kalshi and a Michigan court\n\nThe @CFTC ordered @Kalshi to ignore a Michigan court demand to void and refund customer trades, escalating a federal-versus-state fight over prediction markets. Chair Mike Selig (@ChairmanSelig) says states can't \"bully\" a",
+    "link": "https://cryptopanic.com/news/33035272/The-CFTC-steps-between-Kalshi-and-a-Michigan-court-The-CFTC-ordered-Kalshi-to-ignore-a-Michigan-court-demand-to-void-and-refund-customer-trades-escalating-a-federal-versus-state-fight-over-prediction-markets-Chair-Mike-Selig-ChairmanSelig-says-states-cant-bully-a",
+    "source": "@bscnews",
+    "published": "Tue Jul 14 2026 21:32:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/33035070/LATEST-White-House-crypto-adviser-Patrick-Witt-will-take-a-leave-of-absence-after-July-24-for-several-months-of-military-legal-training-with-the-Georgia-Army-National-Guard-per-Crypto-In-America",
     "source": "@coinmarketcap",
     "published": "Tue Jul 14 2026 20:41:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Meta employees sue company for allegedly using AI to conduct and discriminate in layoffs.",
-    "link": "https://cryptopanic.com/news/33035029/JUST-IN-Meta-employees-sue-company-for-allegedly-using-AI-to-conduct-and-discriminate-in-layoffs",
-    "source": "@watcherguru",
-    "published": "Tue Jul 14 2026 20:41:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "VanEck: XRP Will Capture SWIFT’s Multi-Trillion Value",
-    "link": "https://cryptopanic.com/news/33034990/VanEck-XRP-Will-Capture-SWIFTs-Multi-Trillion-Value",
-    "source": "dailycoin.com",
-    "published": "Tue Jul 14 2026 20:40:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Morgan Stanley has filed for spot Ethereum and Solana ETFs.\n\n(h/t @JSeyff)",
-    "link": "https://cryptopanic.com/news/33035074/JUST-IN-Morgan-Stanley-has-filed-for-spot-Ethereum-and-Solana-ETFs-ht-JSeyff",
-    "source": "@coindesk",
-    "published": "Tue Jul 14 2026 20:33:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "DeepMind's CEO wants a referee for frontier AI\n\nDemis Hassabis (@demishassabis) is calling for a new standards body to vet frontier AI models before release, modeled on Wall Street's FINRA. Government-backed, industry-funded, run independently. Labs would share models up to 30",
-    "link": "https://cryptopanic.com/news/33035018/DeepMinds-CEO-wants-a-referee-for-frontier-AI-Demis-Hassabis-demishassabis-is-calling-for-a-new-standards-body-to-vet-frontier-AI-models-before-release-modeled-on-Wall-Streets-FINRA-Government-backed-industry-funded-run-independently-Labs-would-share-models-up-to-30",
-    "source": "@bscnews",
-    "published": "Tue Jul 14 2026 20:31:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INSIGHT: Peter Schiff says Warsh acknowledged the Fed made a mistake by deliberately trying to increase inflation.",
-    "link": "https://cryptopanic.com/news/33034961/INSIGHT-Peter-Schiff-says-Warsh-acknowledged-the-Fed-made-a-mistake-by-deliberately-trying-to-increase-inflation",
-    "source": "@cointelegraph",
-    "published": "Tue Jul 14 2026 20:30:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nayib Bukele EXPOSES The DOLLAR!!",
-    "link": "https://cryptopanic.com/news/33034989/Nayib-Bukele-EXPOSES-The-DOLLAR",
-    "source": "SimplyBitcoin",
-    "published": "Tue Jul 14 2026 20:30:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "If you bought Bitcoin when Cathie Wood did, here's what you have today",
-    "link": "https://cryptopanic.com/news/33035023/If-you-bought-Bitcoin-when-Cathie-Wood-did-heres-what-you-have-today",
-    "source": "thestreet.com",
-    "published": "Tue Jul 14 2026 20:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "US Federal Reserve Chairman Kevin Warsh vows to \"do my job\" if challenged by President Trump, his most direct comment so far about how he would handle the sort of pressure his predecessor felt through much of his tenure",
-    "link": "https://cryptopanic.com/news/33034962/US-Federal-Reserve-Chairman-Kevin-Warsh-vows-to-do-my-job-if-challenged-by-President-Trump-his-most-direct-comment-so-far-about-how-he-would-handle-the-sort-of-pressure-his-predecessor-felt-through-much-of-his-tenure",
-    "source": "@reutersbiz",
-    "published": "Tue Jul 14 2026 20:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple (XRP) Tests a Key Support Level: Final Shakeout to $0.87 Now Beginning?",
-    "link": "https://cryptopanic.com/news/33034938/Ripple-XRP-Tests-a-Key-Support-Level-Final-Shakeout-to-087-Now-Beginning",
-    "source": "cryptopotato.com",
-    "published": "Tue Jul 14 2026 20:21:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Jito plans token buyback and burn program with DAO JTX revenue",
-    "link": "https://cryptopanic.com/news/33034936/Jito-plans-token-buyback-and-burn-program-with-DAO-JTX-revenue",
-    "source": "cryptopolitan.com",
-    "published": "Tue Jul 14 2026 20:15:47 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
