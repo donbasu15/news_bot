@@ -1,9 +1,100 @@
 [
   {
+    "title": "\"AI Caught a Mistake My Accountant Missed\"",
+    "link": "https://cryptopanic.com/news/33034768/AI-Caught-a-Mistake-My-Accountant-Missed",
+    "source": "AnthonyPompliano",
+    "published": "Tue Jul 14 2026 19:33:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: Sen. Lummis says CLARITY Act text will be introduced within days after 10 months of work.",
+    "link": "https://cryptopanic.com/news/33034812/LATEST-Sen-Lummis-says-CLARITY-Act-text-will-be-introduced-within-days-after-10-months-of-work",
+    "source": "@cointelegraph",
+    "published": "Tue Jul 14 2026 19:31:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "US Inflation Sees Largest Single-Month Decline Since April 2020",
+    "link": "https://cryptopanic.com/news/33034714/US-Inflation-Sees-Largest-Single-Month-Decline-Since-April-2020",
+    "source": "catenaa.com",
+    "published": "Tue Jul 14 2026 19:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Santiment Intelligence says \"#Cardano's heavy whale accumulation while retail dumps, creates one of the healthier setups $ADA has shown all year. Strong hands are adding while the chart still looks uncomfortable.\"",
+    "link": "https://cryptopanic.com/news/33034808/JUST-IN-Santiment-Intelligence-says-Cardanos-heavy-whale-accumulation-while-retail-dumps-creates-one-of-the-healthier-setups-ADA-has-shown-all-year-Strong-hands-are-adding-while-the-chart-still-looks-uncomfortable",
+    "source": "@angrycryptoshow",
+    "published": "Tue Jul 14 2026 19:29:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Santiment Intelligence says \"#Cardano $ADA still has active catalysts underneath the surface, including Leios testnet work, ongoing Hydra scaling upgrades, Mithril progress, Pyth oracles, and fresh ecosystem funding activity.\"",
+    "link": "https://cryptopanic.com/news/33034807/JUST-IN-Santiment-Intelligence-says-Cardano-ADA-still-has-active-catalysts-underneath-the-surface-including-Leios-testnet-work-ongoing-Hydra-scaling-upgrades-Mithril-progress-Pyth-oracles-and-fresh-ecosystem-funding-activity",
+    "source": "@angrycryptoshow",
+    "published": "Tue Jul 14 2026 19:28:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Santiment Intelligence says \"#Cardano wallets with 100K to 100M $ADA now hold more than 25.6B $ADA combined, their highest level since February, 2023.\"",
+    "link": "https://cryptopanic.com/news/33034806/JUST-IN-Santiment-Intelligence-says-Cardano-wallets-with-100K-to-100M-ADA-now-hold-more-than-256B-ADA-combined-their-highest-level-since-February-2023",
+    "source": "@angrycryptoshow",
+    "published": "Tue Jul 14 2026 19:27:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇺🇸 The Federal Law Enforcement Officers Association has endorsed the CLARITY Act but urges changes to strengthen DeFi accountability.",
+    "link": "https://cryptopanic.com/news/33034802/LATEST-The-Federal-Law-Enforcement-Officers-Association-has-endorsed-the-CLARITY-Act-but-urges-changes-to-strengthen-DeFi-accountability",
+    "source": "@coinmarketcap",
+    "published": "Tue Jul 14 2026 19:25:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JPMorgan cuts earnings forecasts for Circle and Coinbase",
+    "link": "https://cryptopanic.com/news/33034774/JPMorgan-cuts-earnings-forecasts-for-Circle-and-Coinbase",
+    "source": "thestreet.com",
+    "published": "Tue Jul 14 2026 19:24:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Midnight $NIGHT surpasses 78,750 unique holders on #Cardano according to Cexplorer.",
+    "link": "https://cryptopanic.com/news/33034804/JUST-IN-Midnight-NIGHT-surpasses-78750-unique-holders-on-Cardano-according-to-Cexplorer",
+    "source": "@angrycryptoshow",
+    "published": "Tue Jul 14 2026 19:24:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33034803/Source",
+    "source": "@wublockchain",
+    "published": "Tue Jul 14 2026 19:22:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Are Trump’s vague Gulf investment deals a fair trade for cancelled shipping tax?",
+    "link": "https://cryptopanic.com/news/33034713/Are-Trumps-vague-Gulf-investment-deals-a-fair-trade-for-cancelled-shipping-tax",
+    "source": "cryptopolitan.com",
+    "published": "Tue Jul 14 2026 19:20:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: The CFTC has ordered Kalshi to honor open trades involving Michigan residents after a state court directed the prediction market operator to cancel certain contracts.",
+    "link": "https://cryptopanic.com/news/33034809/JUST-IN-The-CFTC-has-ordered-Kalshi-to-honor-open-trades-involving-Michigan-residents-after-a-state-court-directed-the-prediction-market-operator-to-cancel-certain-contracts",
+    "source": "@coindesk",
+    "published": "Tue Jul 14 2026 19:11:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "$156.4T traded. 323M users. Nine years of pulling crypto toward the mainstream. Happy 9th, Binance. 🧡",
     "link": "https://cryptopanic.com/news/33034668/1564T-traded-323M-users-Nine-years-of-pulling-crypto-toward-the-mainstream-Happy-9th-Binance",
     "source": "@bscnews",
     "published": "Tue Jul 14 2026 19:10:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "US consumer inflation slowed more than expected in June as energy prices retreated, but the moderation in consumer prices could be short-lived",
+    "link": "https://cryptopanic.com/news/33034813/US-consumer-inflation-slowed-more-than-expected-in-June-as-energy-prices-retreated-but-the-moderation-in-consumer-prices-could-be-short-lived",
+    "source": "@reutersbiz",
+    "published": "Tue Jul 14 2026 19:10:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -25,6 +116,20 @@
     "link": "https://cryptopanic.com/news/33034658/CFTC-orders-Kalshi-to-honor-Michigan-trades-escalating-clash-with-state-regulators",
     "source": "theblock.co",
     "published": "Tue Jul 14 2026 19:08:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 Senator Cynthia Lummis tells FOX the Clarity Act will contain fair ethics rules and the legislation \"needs to stand the test of time\"",
+    "link": "https://cryptopanic.com/news/33034723/JUST-IN-Senator-Cynthia-Lummis-tells-FOX-the-Clarity-Act-will-contain-fair-ethics-rules-and-the-legislation-needs-to-stand-the-test-of-time",
+    "source": "@bitcoinmagazine",
+    "published": "Tue Jul 14 2026 19:01:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INSIGHT: US spot $BTC ETF volumes are down 78% from their peak and below 2024 levels, per Glassnode.",
+    "link": "https://cryptopanic.com/news/33034811/INSIGHT-US-spot-BTC-ETF-volumes-are-down-78-from-their-peak-and-below-2024-levels-per-Glassnode",
+    "source": "@cointelegraph",
+    "published": "Tue Jul 14 2026 19:01:06 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -77,6 +182,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "JUST IN: 🇺🇸 US advances plans to build an Iraq-Syria oil pipeline to bypass the Strait of Hormuz.",
+    "link": "https://cryptopanic.com/news/33034724/JUST-IN-US-advances-plans-to-build-an-Iraq-Syria-oil-pipeline-to-bypass-the-Strait-of-Hormuz",
+    "source": "@watcherguru",
+    "published": "Tue Jul 14 2026 18:56:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "New York becomes the first state to impose a data-center moratorium. 'The bottom line is: Progress shouldn't arrive with a higher utility bill, depleted water supplies, or noise pollution,' New York Governor Kathy Hochul said",
     "link": "https://cryptopanic.com/news/33034588/New-York-becomes-the-first-state-to-impose-a-data-center-moratorium-The-bottom-line-is-Progress-shouldnt-arrive-with-a-higher-utility-bill-depleted-water-supplies-or-noise-pollution-New-York-Governor-Kathy-Hochul-said",
     "source": "@reutersbiz",
@@ -95,118 +207,6 @@
     "link": "https://cryptopanic.com/news/33034586/SEC-Crypto-Task-Force-Meets-Hyperliquid-Policy-Center-and-XYZ-on-Crypto-Regulation-SEC-Crypto-Task-Force-staff-met-with-representatives-of-the-Hyperliquid-Policy-Center-XYZ-Ltd-and-Sullivan-amp-Cromwell-on-July-14-to-discuss-approaches-to-crypto-asset-regulation-and-a-document",
     "source": "@wublockchain",
     "published": "Tue Jul 14 2026 18:48:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Is Flashing the Biggest Buy Signal Since 2022",
-    "link": "https://cryptopanic.com/news/33034566/Bitcoin-Is-Flashing-the-Biggest-Buy-Signal-Since-2022",
-    "source": "MilkRoadYoutube",
-    "published": "Tue Jul 14 2026 18:45:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Robinhood Chain Hits $3.1B in Week One — CASHCAT Steals the Show",
-    "link": "https://cryptopanic.com/news/33034505/Robinhood-Chain-Hits-31B-in-Week-One-CASHCAT-Steals-the-Show",
-    "source": "dailycoin.com",
-    "published": "Tue Jul 14 2026 18:40:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BITCOIN ASIA IS BACK AUGUST 27-28 IN HONG KONG ️ \n\nJoin us for an unforgettable event with speakers, networking, and after parties like never before \n\nJoin the movement",
-    "link": "https://cryptopanic.com/news/33034563/BITCOIN-ASIA-IS-BACK-AUGUST-27-28-IN-HONG-KONG-Join-us-for-an-unforgettable-event-with-speakers-networking-and-after-parties-like-never-before-Join-the-movement",
-    "source": "@bitcoinmagazine",
-    "published": "Tue Jul 14 2026 18:37:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇯🇵 NEW: Metaplanet plans to issue bonds and preferred shares as it builds a Bitcoin-based digital credit market in Japan.",
-    "link": "https://cryptopanic.com/news/33034587/NEW-Metaplanet-plans-to-issue-bonds-and-preferred-shares-as-it-builds-a-Bitcoin-based-digital-credit-market-in-Japan",
-    "source": "@cointelegraph",
-    "published": "Tue Jul 14 2026 18:31:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trace Mayer DESTROYS Peter Schiff on Bitcoin's Value!",
-    "link": "https://cryptopanic.com/news/33034506/Trace-Mayer-DESTROYS-Peter-Schiff-on-Bitcoins-Value",
-    "source": "SimplyBitcoin",
-    "published": "Tue Jul 14 2026 18:30:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW DATA: Is America SILENTLY DUMPING Their Strategic Bitcoin Reserve?! | EP 1547",
-    "link": "https://cryptopanic.com/news/33033707/NEW-DATA-Is-America-SILENTLY-DUMPING-Their-Strategic-Bitcoin-Reserve-EP-1547",
-    "source": "SimplyBitcoin",
-    "published": "Tue Jul 14 2026 18:26:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Here's how meme coins can collapse within minutes, analyst warns",
-    "link": "https://cryptopanic.com/news/33034510/Heres-how-meme-coins-can-collapse-within-minutes-analyst-warns",
-    "source": "thestreet.com",
-    "published": "Tue Jul 14 2026 18:25:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The UK is deferring the DeFi tax bill\n\nThe UK will stop treating crypto lending and liquidity pool deposits as a taxable event, deferring capital gains tax until you actually sell. From April 2027, HMRC will apply \"no gain, no loss\" treatment, ending a 2022 rule that could tax",
-    "link": "https://cryptopanic.com/news/33034471/The-UK-is-deferring-the-DeFi-tax-bill-The-UK-will-stop-treating-crypto-lending-and-liquidity-pool-deposits-as-a-taxable-event-deferring-capital-gains-tax-until-you-actually-sell-From-April-2027-HMRC-will-apply-no-gain-no-loss-treatment-ending-a-2022-rule-that-could-tax",
-    "source": "@bscnews",
-    "published": "Tue Jul 14 2026 18:25:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hyperliquid Meets SEC Crypto Task Force in Landmark Talks",
-    "link": "https://cryptopanic.com/news/33034583/Hyperliquid-Meets-SEC-Crypto-Task-Force-in-Landmark-Talks",
-    "source": "beincrypto.com",
-    "published": "Tue Jul 14 2026 18:23:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇰🇷 South Korea wants to allow its first spot crypto ETFs and pass a new digital assets law by year-end, while testing tokenized government bonds with its central bank in 2027.",
-    "link": "https://cryptopanic.com/news/33034584/LATEST-South-Korea-wants-to-allow-its-first-spot-crypto-ETFs-and-pass-a-new-digital-assets-law-by-year-end-while-testing-tokenized-government-bonds-with-its-central-bank-in-2027",
-    "source": "@coinmarketcap",
-    "published": "Tue Jul 14 2026 18:17:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "2 New Deals Make Ripple Productive Capital, but XRP Stays in Free Fall",
-    "link": "https://cryptopanic.com/news/33034581/2-New-Deals-Make-Ripple-Productive-Capital-but-XRP-Stays-in-Free-Fall",
-    "source": "beincrypto.com",
-    "published": "Tue Jul 14 2026 18:11:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Google races to rival Pinterest amid copyrights crises while its own chief demands a U.S watchdog",
-    "link": "https://cryptopanic.com/news/33034397/Google-races-to-rival-Pinterest-amid-copyrights-crises-while-its-own-chief-demands-a-US-watchdog",
-    "source": "cryptopolitan.com",
-    "published": "Tue Jul 14 2026 18:03:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Strategy says today is the last trading day to buy $STRC and qualify for the twice-monthly dividend",
-    "link": "https://cryptopanic.com/news/33034395/UPDATE-Strategy-says-today-is-the-last-trading-day-to-buy-STRC-and-qualify-for-the-twice-monthly-dividend",
-    "source": "@cointelegraph",
-    "published": "Tue Jul 14 2026 18:01:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stablecoins are taking over the news!\n\nJapan’s JCB is now partnering with Circle to explore USDC for payments, treasury transfers and merchants.\n\nWith the ECB testing a digital euro and governments racing into digital money, this feels like crypto’s real adoption phase! However",
-    "link": "https://cryptopanic.com/news/33034466/Stablecoins-are-taking-over-the-news-Japans-JCB-is-now-partnering-with-Circle-to-explore-USDC-for-payments-treasury-transfers-and-merchants-With-the-ECB-testing-a-digital-euro-and-governments-racing-into-digital-money-this-feels-like-cryptos-real-adoption-phase-However",
-    "source": "@realallincrypto",
-    "published": "Tue Jul 14 2026 18:00:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "IBM Stock Sees The Worst Single Session Since 1987",
-    "link": "https://cryptopanic.com/news/33034310/IBM-Stock-Sees-The-Worst-Single-Session-Since-1987",
-    "source": "catenaa.com",
-    "published": "Tue Jul 14 2026 18:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "“AI Is Coming For The Graduate Elite\" | David Goodhart",
-    "link": "https://cryptopanic.com/news/33034377/AI-Is-Coming-For-The-Graduate-Elite-David-Goodhart",
-    "source": "whatbitcoindid",
-    "published": "Tue Jul 14 2026 18:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
