@@ -1,5 +1,19 @@
 [
   {
+    "title": "Start one. \nI’ll be your first guest. \nBut you’ve only got 3 days to get me on.",
+    "link": "https://cryptopanic.com/news/33035178/Start-one-Ill-be-your-first-guest-But-youve-only-got-3-days-to-get-me-on",
+    "source": "@btc_archive",
+    "published": "Tue Jul 14 2026 21:46:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Binance is shifting its growth strategy from pure crypto trading toward becoming a payments-focused “super app” offering broader financial services.\n\nRead the full story by Olivier Acuna on CoinDesk",
+    "link": "https://cryptopanic.com/news/33035216/Binance-is-shifting-its-growth-strategy-from-pure-crypto-trading-toward-becoming-a-payments-focused-super-app-offering-broader-financial-services-Read-the-full-story-by-Olivier-Acuna-on-CoinDesk",
+    "source": "@coindesk",
+    "published": "Tue Jul 14 2026 21:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "China's DeepSeek Prepares 2026 IPO Filing After $7B Funding Round",
     "link": "https://cryptopanic.com/news/33035156/Chinas-DeepSeek-Prepares-2026-IPO-Filing-After-7B-Funding-Round",
     "source": "coinpaper.com",
@@ -7,10 +21,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "U.S. Government-Labeled Seized-Funds Addresses Move $12.9 Million in Crypto\n\nArkham data show that over the past six hours, a U.S. government-labeled address holding funds seized in the Bitfinex hack transferred approximately 5,939 ETH and 296,709 USDT, worth a combined $11.45",
+    "link": "https://cryptopanic.com/news/33035215/US-Government-Labeled-Seized-Funds-Addresses-Move-129-Million-in-Crypto-Arkham-data-show-that-over-the-past-six-hours-a-US-government-labeled-address-holding-funds-seized-in-the-Bitfinex-hack-transferred-approximately-5939-ETH-and-296709-USDT-worth-a-combined-1145",
+    "source": "@wublockchain",
+    "published": "Tue Jul 14 2026 21:33:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Why China's \"Thousand Model War\" is a Risk to US National Security | BPH Ep 42",
     "link": "https://cryptopanic.com/news/33035177/Why-Chinas-Thousand-Model-War-is-a-Risk-to-US-National-Security-BPH-Ep-42",
     "source": "BitcoinMagazine",
     "published": "Tue Jul 14 2026 21:33:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: Binance has recovered more than $8 billion in mistaken crypto transfers since 2021, per Co-Founder Yi He.",
+    "link": "https://cryptopanic.com/news/33035217/NEW-Binance-has-recovered-more-than-8-billion-in-mistaken-crypto-transfers-since-2021-per-Co-Founder-Yi-He",
+    "source": "@cointelegraph",
+    "published": "Tue Jul 14 2026 21:30:57 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -32,6 +60,13 @@
     "link": "https://cryptopanic.com/news/33035105/Morgan-Stanley-Adds-Staking-to-Ethereum-and-Solana-ETFs",
     "source": "coindoo.com",
     "published": "Tue Jul 14 2026 21:18:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇺🇸 Senator Cynthia Lummis says the CLARITY Act is \"ready for prime time\" and will be introduced in the Senate \"in the next few days.\"",
+    "link": "https://cryptopanic.com/news/33035212/LATEST-Senator-Cynthia-Lummis-says-the-CLARITY-Act-is-ready-for-prime-time-and-will-be-introduced-in-the-Senate-in-the-next-few-days",
+    "source": "@coinmarketcap",
+    "published": "Tue Jul 14 2026 21:17:12 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -81,6 +116,13 @@
     "link": "https://cryptopanic.com/news/33035028/Ethereum-Foundation-privacy-team-spins-out-as-for-profit-EthSystems-to-serve-institutions-with-Lubin-Bitmine-backing",
     "source": "theblock.co",
     "published": "Tue Jul 14 2026 20:56:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "U.S. CFTC moves to stop Kalshi from canceling trades as ordered by Michigan court",
+    "link": "https://cryptopanic.com/news/33035218/US-CFTC-moves-to-stop-Kalshi-from-canceling-trades-as-ordered-by-Michigan-court",
+    "source": "coindesk.com",
+    "published": "Tue Jul 14 2026 20:51:05 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -165,48 +207,6 @@
     "link": "https://cryptopanic.com/news/33034936/Jito-plans-token-buyback-and-burn-program-with-DAO-JTX-revenue",
     "source": "cryptopolitan.com",
     "published": "Tue Jul 14 2026 20:15:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Real names behind the UK's tokenization report: LSEG, Euroclear, DTCC, and Citadel ran a cross-currency repo on Canton in February, tokenized gilts against non-GBP deposits, a first. Now it needs to move from pilot to production.",
-    "link": "https://cryptopanic.com/news/33035017/Real-names-behind-the-UKs-tokenization-report-LSEG-Euroclear-DTCC-and-Citadel-ran-a-cross-currency-repo-on-Canton-in-February-tokenized-gilts-against-non-GBP-deposits-a-first-Now-it-needs-to-move-from-pilot-to-production",
-    "source": "@bscnews",
-    "published": "Tue Jul 14 2026 20:09:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇺🇸 The US government sent $297M in Bitcoin and Ethereum to Coinbase Prime on Monday, combining forfeitures from three separate criminal cases, per Arkham.",
-    "link": "https://cryptopanic.com/news/33035069/LATEST-The-US-government-sent-297M-in-Bitcoin-and-Ethereum-to-Coinbase-Prime-on-Monday-combining-forfeitures-from-three-separate-criminal-cases-per-Arkham",
-    "source": "@coinmarketcap",
-    "published": "Tue Jul 14 2026 20:05:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UK and US Seek Stablecoin Regulatory Convergence and Cross-Border Market Access\n\nThe UK and US governments issued a joint statement supporting closer coordination on stablecoin regulation and their use in cross-border payments, settlement and capital markets. Stablecoins held out",
-    "link": "https://cryptopanic.com/news/33034956/UK-and-US-Seek-Stablecoin-Regulatory-Convergence-and-Cross-Border-Market-Access-The-UK-and-US-governments-issued-a-joint-statement-supporting-closer-coordination-on-stablecoin-regulation-and-their-use-in-cross-border-payments-settlement-and-capital-markets-Stablecoins-held-out",
-    "source": "@wublockchain",
-    "published": "Tue Jul 14 2026 20:05:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: 🇸🇬 Singapore public company Canaan added 49 BTC to its treasury, now totaling 1915 BTC!",
-    "link": "https://cryptopanic.com/news/33034899/NEW-Singapore-public-company-Canaan-added-49-BTC-to-its-treasury-now-totaling-1915-BTC",
-    "source": "@bitcoinmagazine",
-    "published": "Tue Jul 14 2026 20:02:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 UPDATE: Rep. Bryan Steil says the Fed’s deadline to issue GENIUS Act rules is this Saturday.\n\nWill the FED meet Saturday’s deadline to implement GENIUS Act rules?",
-    "link": "https://cryptopanic.com/news/33034960/UPDATE-Rep-Bryan-Steil-says-the-Feds-deadline-to-issue-GENIUS-Act-rules-is-this-Saturday-Will-the-FED-meet-Saturdays-deadline-to-implement-GENIUS-Act-rules",
-    "source": "@cointelegraph",
-    "published": "Tue Jul 14 2026 20:01:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Will HM Treasury’s use the XRPL?\n\nIn their recent report they identify Hidden Road / Ripple Prime as FCA-licensed across FX + digital assets.\n\n@Ripple is now in the UK’s regulated market infrastructure conversation and it’s hard not to see the $XRP Ledger as part of the long",
-    "link": "https://cryptopanic.com/news/33035016/Will-HM-Treasurys-use-the-XRPL-In-their-recent-report-they-identify-Hidden-Road-Ripple-Prime-as-FCA-licensed-across-FX-digital-assets-Ripple-is-now-in-the-UKs-regulated-market-infrastructure-conversation-and-its-hard-not-to-see-the-XRP-Ledger-as-part-of-the-long",
-    "source": "@realallincrypto",
-    "published": "Tue Jul 14 2026 20:00:40 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
