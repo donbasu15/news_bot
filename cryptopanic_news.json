@@ -1,9 +1,107 @@
 [
   {
+    "title": "Ripple’s David Schwartz Pushes Back On SEC Revision",
+    "link": "https://cryptopanic.com/news/33040892/Ripples-David-Schwartz-Pushes-Back-On-SEC-Revision",
+    "source": "dailycoin.com",
+    "published": "Wed Jul 15 2026 17:40:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Aave continues V4 rollout with Avalanche launch",
+    "link": "https://cryptopanic.com/news/33040943/Aave-continues-V4-rollout-with-Avalanche-launch",
+    "source": "cryptopolitan.com",
+    "published": "Wed Jul 15 2026 17:39:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Five bStocks on PancakeSwap in June. Thirty-six now. And look at what's in this batch: TSMC and Arm are the chokepoints of the entire AI supply chain, and neither one is a US company. They're US-listed, which is what makes them wrappable. The spine of the AI trade, trading at 3am",
+    "link": "https://cryptopanic.com/news/33040940/Five-bStocks-on-PancakeSwap-in-June-Thirty-six-now-And-look-at-whats-in-this-batch-TSMC-and-Arm-are-the-chokepoints-of-the-entire-AI-supply-chain-and-neither-one-is-a-US-company-Theyre-US-listed-which-is-what-makes-them-wrappable-The-spine-of-the-AI-trade-trading-at-3am",
+    "source": "@bscnews",
+    "published": "Wed Jul 15 2026 17:38:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Galaxy expands institutional crypto lending with $500M Grove credit facility",
+    "link": "https://cryptopanic.com/news/33040890/Galaxy-expands-institutional-crypto-lending-with-500M-Grove-credit-facility",
+    "source": "ambcrypto.com",
+    "published": "Wed Jul 15 2026 17:38:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 UPDATE: The US government empties an FTX and Alameda seizure wallet, moving $9.28 million in $ETH to Coinbase Prime, per Onchain Lens.",
+    "link": "https://cryptopanic.com/news/33040848/UPDATE-The-US-government-empties-an-FTX-and-Alameda-seizure-wallet-moving-928-million-in-ETH-to-Coinbase-Prime-per-Onchain-Lens",
+    "source": "@cointelegraph",
+    "published": "Wed Jul 15 2026 17:30:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "We sit down with @NFAdotcrypto for one of the strangest crypto conversations we’ve ever had. $XRP, Ripple, Satoshi, hidden patterns and the mysterious number 589. Coincidence or something much bigger?",
+    "link": "https://cryptopanic.com/news/33040938/We-sit-down-with-NFAdotcrypto-for-one-of-the-strangest-crypto-conversations-weve-ever-had-XRP-Ripple-Satoshi-hidden-patterns-and-the-mysterious-number-589-Coincidence-or-something-much-bigger",
+    "source": "@realallincrypto",
+    "published": "Wed Jul 15 2026 17:27:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Pakistan's regulator is asking clerics to split crypto in two\n\nA Karachi seminary ruled in June that crypto isn't wealth under Islamic law. Not wealth means not valid payment. That's in a country of 240 million that ranks among the world's biggest retail crypto markets.\n\nPVARA",
+    "link": "https://cryptopanic.com/news/33040939/Pakistans-regulator-is-asking-clerics-to-split-crypto-in-two-A-Karachi-seminary-ruled-in-June-that-crypto-isnt-wealth-under-Islamic-law-Not-wealth-means-not-valid-payment-Thats-in-a-country-of-240-million-that-ranks-among-the-worlds-biggest-retail-crypto-markets-PVARA",
+    "source": "@bscnews",
+    "published": "Wed Jul 15 2026 17:26:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Kraken Launches Customizable Crypto Vault for Bitcoin, Ether and Stablecoin Yield",
+    "link": "https://cryptopanic.com/news/33040831/Kraken-Launches-Customizable-Crypto-Vault-for-Bitcoin-Ether-and-Stablecoin-Yield",
+    "source": "coincu.com",
+    "published": "Wed Jul 15 2026 17:25:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BNB Plus suspended by Nasdaq after failed BNB treasury bet",
+    "link": "https://cryptopanic.com/news/33040830/BNB-Plus-suspended-by-Nasdaq-after-failed-BNB-treasury-bet",
+    "source": "protos.com",
+    "published": "Wed Jul 15 2026 17:24:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UK fraud review recommends whistleblower payouts and crypto training for judges",
+    "link": "https://cryptopanic.com/news/33040822/UK-fraud-review-recommends-whistleblower-payouts-and-crypto-training-for-judges",
+    "source": "cryptopolitan.com",
+    "published": "Wed Jul 15 2026 17:22:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JPMorgan, Goldman Sachs, BlackRock, Vanguard Tokenize Real Stocks for the First Time",
+    "link": "https://cryptopanic.com/news/33040861/JPMorgan-Goldman-Sachs-BlackRock-Vanguard-Tokenize-Real-Stocks-for-the-First-Time",
+    "source": "feeds2.benzinga.com",
+    "published": "Wed Jul 15 2026 17:17:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Germany's Merz cools hopes for another debt brake reform",
+    "link": "https://cryptopanic.com/news/33040851/Germanys-Merz-cools-hopes-for-another-debt-brake-reform",
+    "source": "@reutersbiz",
+    "published": "Wed Jul 15 2026 17:15:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Nvidia CEO Jensen Huang met former Sega CEO Shoichiro Irimajiri and game designer Yu Suzuki in Tokyo to thank them for a $5 million investment in 1995 that saved Nvidia from bankruptcy after the company failed to deliver a chip Sega had ordered",
+    "link": "https://cryptopanic.com/news/33040850/Nvidia-CEO-Jensen-Huang-met-former-Sega-CEO-Shoichiro-Irimajiri-and-game-designer-Yu-Suzuki-in-Tokyo-to-thank-them-for-a-5-million-investment-in-1995-that-saved-Nvidia-from-bankruptcy-after-the-company-failed-to-deliver-a-chip-Sega-had-ordered",
+    "source": "@reutersbiz",
+    "published": "Wed Jul 15 2026 17:15:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "XRP Officially Enters DTCC's Collateral Framework as Institutional Recognition Deepens",
     "link": "https://cryptopanic.com/news/33040757/XRP-Officially-Enters-DTCCs-Collateral-Framework-as-Institutional-Recognition-Deepens",
     "source": "coinpaper.com",
     "published": "Wed Jul 15 2026 17:10:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitfinex Alpha: Bitcoin Lacks Sustained Spot Buying Support\n\nBitfinex Alpha said the softer-than-expected US June CPI pushed Bitcoin to its highest close since June 22, but the rally was driven mainly by a repricing of macroeconomic expectations. The move lacked sustained spot",
+    "link": "https://cryptopanic.com/news/33040843/Bitfinex-Alpha-Bitcoin-Lacks-Sustained-Spot-Buying-Support-Bitfinex-Alpha-said-the-softer-than-expected-US-June-CPI-pushed-Bitcoin-to-its-highest-close-since-June-22-but-the-rally-was-driven-mainly-by-a-repricing-of-macroeconomic-expectations-The-move-lacked-sustained-spot",
+    "source": "@wublockchain",
+    "published": "Wed Jul 15 2026 17:09:56 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -14,6 +112,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "NEW: Treasury Secretary Scott Bessent unveiled a new $1 \"gold\" coin featuring President Donald Trump to commemorate America's 250th anniversary. The coin will enter production at the U.S. Mint and is expected to be released this fall.",
+    "link": "https://cryptopanic.com/news/33040846/NEW-Treasury-Secretary-Scott-Bessent-unveiled-a-new-1-gold-coin-featuring-President-Donald-Trump-to-commemorate-Americas-250th-anniversary-The-coin-will-enter-production-at-the-US-Mint-and-is-expected-to-be-released-this-fall",
+    "source": "@coindesk",
+    "published": "Wed Jul 15 2026 17:08:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Strategy CEO Says Debt Is Safe Unless Bitcoin Falls to $8,000",
     "link": "https://cryptopanic.com/news/33040814/Strategy-CEO-Says-Debt-Is-Safe-Unless-Bitcoin-Falls-to-8000",
     "source": "feeds2.benzinga.com",
@@ -21,10 +126,45 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Bitcoin Shrugs Off Iran Tensions – Here Is Why BTC Could Be Preparing for Another Move Higher",
+    "link": "https://cryptopanic.com/news/33040896/Bitcoin-Shrugs-Off-Iran-Tensions-Here-Is-Why-BTC-Could-Be-Preparing-for-Another-Move-Higher",
+    "source": "blocknews.com",
+    "published": "Wed Jul 15 2026 17:05:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "EXCLUSIVE: Latvia's airBaltic seeks new financing from bondholders as debt woes worsen",
+    "link": "https://cryptopanic.com/news/33040849/EXCLUSIVE-Latvias-airBaltic-seeks-new-financing-from-bondholders-as-debt-woes-worsen",
+    "source": "@reutersbiz",
+    "published": "Wed Jul 15 2026 17:01:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BitMine Pivots to Ethereum Staking, Eyes 5% Global Supply",
+    "link": "https://cryptopanic.com/news/33040841/BitMine-Pivots-to-Ethereum-Staking-Eyes-5-Global-Supply",
+    "source": "cryptodnes.bg",
+    "published": "Wed Jul 15 2026 17:01:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Another DeFi Exploit: Perp DEX Ostium Loses $18 Million in Oracle Attack",
     "link": "https://cryptopanic.com/news/33040713/Another-DeFi-Exploit-Perp-DEX-Ostium-Loses-18-Million-in-Oracle-Attack",
     "source": "decrypt.co",
     "published": "Wed Jul 15 2026 17:01:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "For the complete article and weekly curated reports, subscribe to our Substack",
+    "link": "https://cryptopanic.com/news/33040842/For-the-complete-article-and-weekly-curated-reports-subscribe-to-our-Substack",
+    "source": "@wublockchain",
+    "published": "Wed Jul 15 2026 17:01:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "️INSIGHT: Why do most launchpads reward creators more than communities?\n\nMany token launches generate fees for creators, while communities provide liquidity with limited long-term incentives.\n\n@StoxesFun aims to change that with a model that splits creator fees between creators",
+    "link": "https://cryptopanic.com/news/33040847/INSIGHT-Why-do-most-launchpads-reward-creators-more-than-communities-Many-token-launches-generate-fees-for-creators-while-communities-provide-liquidity-with-limited-long-term-incentives-StoxesFun-aims-to-change-that-with-a-model-that-splits-creator-fees-between-creators",
+    "source": "@cointelegraph",
+    "published": "Wed Jul 15 2026 17:01:06 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -67,146 +207,6 @@
     "link": "https://cryptopanic.com/news/33040775/JUST-IN-President-Trump-to-meet-with-senators-tomorrow-to-discuss-the-Clarity-Acts-path-to-success-Im-hoping-that-we-can-come-up-with-some-agreement-by-the-end-of-this-week-Sen-Thom-Tillis",
     "source": "@bitcoinmagazine",
     "published": "Wed Jul 15 2026 16:59:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: TRUMP TO MEET WITH SENATORS ABOUT CRYPTO BILL ON THURSDAY",
-    "link": "https://cryptopanic.com/news/33040764/INTEL-TRUMP-TO-MEET-WITH-SENATORS-ABOUT-CRYPTO-BILL-ON-THURSDAY",
-    "source": "@solidintel_x",
-    "published": "Wed Jul 15 2026 16:57:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Wow, $SPCX is now -40% from its post-IPO high.\n\nHow far does this need to drop before it becomes interesting to look for a long? 🤔",
-    "link": "https://cryptopanic.com/news/33040778/Wow-SPCX-is-now-40-from-its-post-IPO-high-How-far-does-this-need-to-drop-before-it-becomes-interesting-to-look-for-a-long",
-    "source": "@stackersatoshi",
-    "published": "Wed Jul 15 2026 16:57:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BlackRock outlines vision for crypto-TradFi convergence as product pipeline grows",
-    "link": "https://cryptopanic.com/news/33040685/BlackRock-outlines-vision-for-crypto-TradFi-convergence-as-product-pipeline-grows",
-    "source": "theblock.co",
-    "published": "Wed Jul 15 2026 16:56:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Three Russians Accused of Facilitating $62,000,000 Cybercrime Scheme That Targeted Americans",
-    "link": "https://cryptopanic.com/news/33040719/Three-Russians-Accused-of-Facilitating-62000000-Cybercrime-Scheme-That-Targeted-Americans",
-    "source": "dailyhodl.com",
-    "published": "Wed Jul 15 2026 16:55:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin miner CleanSpark signed a $6.6B AI lease before securing the $2.1B required to build it",
-    "link": "https://cryptopanic.com/news/33040668/Bitcoin-miner-CleanSpark-signed-a-66B-AI-lease-before-securing-the-21B-required-to-build-it",
-    "source": "cryptoslate.com",
-    "published": "Wed Jul 15 2026 16:55:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto stocks are up 23%. Crypto is down 36%.\n\n@Bitwise's Q2 review lays out the split. Crypto asset prices fell 36% in the first half. Crypto equities returned 23%, beating every major asset class except emerging markets.\n\nThe apps kept printing anyway. $5.9B in revenue across",
-    "link": "https://cryptopanic.com/news/33040672/Crypto-stocks-are-up-23-Crypto-is-down-36-Bitwises-Q2-review-lays-out-the-split-Crypto-asset-prices-fell-36-in-the-first-half-Crypto-equities-returned-23-beating-every-major-asset-class-except-emerging-markets-The-apps-kept-printing-anyway-59B-in-revenue-across",
-    "source": "@bscnews",
-    "published": "Wed Jul 15 2026 16:54:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Peter Schiff: Bitcoin Holders Will Soon Regret Not Selling at Current Levels",
-    "link": "https://cryptopanic.com/news/33040660/Peter-Schiff-Bitcoin-Holders-Will-Soon-Regret-Not-Selling-at-Current-Levels",
-    "source": "cryptopotato.com",
-    "published": "Wed Jul 15 2026 16:49:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 White House officials to meet with US Senators to help advance Crypto Clarity Act.",
-    "link": "https://cryptopanic.com/news/33040777/JUST-IN-White-House-officials-to-meet-with-US-Senators-to-help-advance-Crypto-Clarity-Act",
-    "source": "@watcherguru",
-    "published": "Wed Jul 15 2026 16:48:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump's Crypto Push May Arrive Just in Time for Coinbase and Circle",
-    "link": "https://cryptopanic.com/news/33040711/Trumps-Crypto-Push-May-Arrive-Just-in-Time-for-Coinbase-and-Circle",
-    "source": "feeds2.benzinga.com",
-    "published": "Wed Jul 15 2026 16:48:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "#BREAKING: Iran declares it has “no plans” for talks.",
-    "link": "https://cryptopanic.com/news/33040611/BREAKING-Iran-declares-it-has-no-plans-for-talks",
-    "source": "@cryptonwsuk",
-    "published": "Wed Jul 15 2026 16:45:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Incoming UK budget office head sees higher interest rates and weaker growth than consensus",
-    "link": "https://cryptopanic.com/news/33040620/Incoming-UK-budget-office-head-sees-higher-interest-rates-and-weaker-growth-than-consensus",
-    "source": "@reutersbiz",
-    "published": "Wed Jul 15 2026 16:45:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Won Every Battle in 2026, Yet the Price Is Stuck at $1.10",
-    "link": "https://cryptopanic.com/news/33040638/XRP-Won-Every-Battle-in-2026-Yet-the-Price-Is-Stuck-at-110",
-    "source": "spaziocrypto.com",
-    "published": "Wed Jul 15 2026 16:45:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto clearinghouse Glacis Labs raises $6.8 million seed to expand ZeroDelta platform",
-    "link": "https://cryptopanic.com/news/33040554/Crypto-clearinghouse-Glacis-Labs-raises-68-million-seed-to-expand-ZeroDelta-platform",
-    "source": "theblock.co",
-    "published": "Wed Jul 15 2026 16:43:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇺🇸 The CFTC has ordered Kalshi to honor Michigan trades, rejecting the state's attempt to force cancellations of sports-related event contracts.",
-    "link": "https://cryptopanic.com/news/33040608/LATEST-The-CFTC-has-ordered-Kalshi-to-honor-Michigan-trades-rejecting-the-states-attempt-to-force-cancellations-of-sports-related-event-contracts",
-    "source": "@coinmarketcap",
-    "published": "Wed Jul 15 2026 16:41:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Read more insights:",
-    "link": "https://cryptopanic.com/news/33040618/Read-more-insights",
-    "source": "@cointelegraph",
-    "published": "Wed Jul 15 2026 16:40:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "RESEARCH: Most RWA discussions focus on issuance. But for private credit, the harder question is enforcement. Can investors recover funds if the borrower defaults?\n\nIf the answer depends only on a token, the structure is incomplete. Credit still lives in legal systems.",
-    "link": "https://cryptopanic.com/news/33040617/RESEARCH-Most-RWA-discussions-focus-on-issuance-But-for-private-credit-the-harder-question-is-enforcement-Can-investors-recover-funds-if-the-borrower-defaults-If-the-answer-depends-only-on-a-token-the-structure-is-incomplete-Credit-still-lives-in-legal-systems",
-    "source": "@cointelegraph",
-    "published": "Wed Jul 15 2026 16:40:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇰🇷 South Korea officially classifies Bitcoin as a \"strategic state asset\" \n\nThe \"National Asset Basic Act\" will formally bring Bitcoin & crypto under the government's asset management system",
-    "link": "https://cryptopanic.com/news/33040774/JUST-IN-South-Korea-officially-classifies-Bitcoin-as-a-strategic-state-asset-The-National-Asset-Basic-Act-will-formally-bring-Bitcoin-amp-crypto-under-the-governments-asset-management-system",
-    "source": "@bitcoinmagazine",
-    "published": "Wed Jul 15 2026 16:40:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Analyst says Bitcoin is up 2,500% since Binance’s debut, but that’s only half the story",
-    "link": "https://cryptopanic.com/news/33040721/Analyst-says-Bitcoin-is-up-2500-since-Binances-debut-but-thats-only-half-the-story",
-    "source": "thestreet.com",
-    "published": "Wed Jul 15 2026 16:40:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Analyst has a surprising take on Bitcoin’s latest slump",
-    "link": "https://cryptopanic.com/news/33040720/Analyst-has-a-surprising-take-on-Bitcoins-latest-slump",
-    "source": "thestreet.com",
-    "published": "Wed Jul 15 2026 16:39:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HOT TOPIC: Bitcoin bulls see a move no one expects \n\n@100trillionUSD says bitcoin:native just tagged the zone that marked every major bottom in history. Bears see a relief rally, a hawkish Fed, and $40K ahead. Pick a side",
-    "link": "https://cryptopanic.com/news/33040607/HOT-TOPIC-Bitcoin-bulls-see-a-move-no-one-expects-100trillionUSD-says-bitcoinnative-just-tagged-the-zone-that-marked-every-major-bottom-in-history-Bears-see-a-relief-rally-a-hawkish-Fed-and-40K-ahead-Pick-a-side",
-    "source": "@coinmarketcap",
-    "published": "Wed Jul 15 2026 16:38:40 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
