@@ -1,9 +1,65 @@
 [
   {
+    "title": "Arthur Hayes Joins Fresh Ethereum Whale Buying Wave\n\nArthur Hayes (@CryptoHayes) bought 1,293 $ETH worth about $2.48 million around five hours ago, according to Lookonchain.\n\nWhale accumulation also continues. Three newly created wallets withdrew 30,000 ETH, worth about $57.66",
+    "link": "https://cryptopanic.com/news/33043518/Arthur-Hayes-Joins-Fresh-Ethereum-Whale-Buying-Wave-Arthur-Hayes-CryptoHayes-bought-1293-ETH-worth-about-248-million-around-five-hours-ago-according-to-Lookonchain-Whale-accumulation-also-continues-Three-newly-created-wallets-withdrew-30000-ETH-worth-about-5766",
+    "source": "@bscnews",
+    "published": "Thu Jul 16 2026 05:32:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: Volvo Group is exploring blockchain for supply chain optimization, Ivan Branco said in an interview with the Cardano Foundation.",
+    "link": "https://cryptopanic.com/news/33043476/LATEST-Volvo-Group-is-exploring-blockchain-for-supply-chain-optimization-Ivan-Branco-said-in-an-interview-with-the-Cardano-Foundation",
+    "source": "@cointelegraph",
+    "published": "Thu Jul 16 2026 05:31:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Breakingviews - DeepSeek IPO lays bare China's shallow capital pool",
+    "link": "https://cryptopanic.com/news/33043477/Breakingviews-DeepSeek-IPO-lays-bare-Chinas-shallow-capital-pool",
+    "source": "@reutersbiz",
+    "published": "Thu Jul 16 2026 05:30:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Pi Network Team Reveals New Update Deadline Amid PI Price Turmoil",
+    "link": "https://cryptopanic.com/news/33043462/Pi-Network-Team-Reveals-New-Update-Deadline-Amid-PI-Price-Turmoil",
+    "source": "cryptopotato.com",
+    "published": "Thu Jul 16 2026 05:27:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "A bitcoin wallet dormant since the 2017 peak just moved $383 million",
+    "link": "https://cryptopanic.com/news/33043492/A-bitcoin-wallet-dormant-since-the-2017-peak-just-moved-383-million",
+    "source": "coindesk.com",
+    "published": "Thu Jul 16 2026 05:12:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ostium Hit by 23.75M USDC Hack\n\nAn attacker drained 23.75 million $USDC from Ostium before laundering most of the proceeds through Tornado Cash, per lookonchain.\n\nBlockchain data shows the stolen USDC was swapped for 12,084 $ETH at an average price of $1,966. \n\nOstium co-founder,",
+    "link": "https://cryptopanic.com/news/33043517/Ostium-Hit-by-2375M-USDC-Hack-An-attacker-drained-2375-million-USDC-from-Ostium-before-laundering-most-of-the-proceeds-through-Tornado-Cash-per-lookonchain-Blockchain-data-shows-the-stolen-USDC-was-swapped-for-12084-ETH-at-an-average-price-of-1966-Ostium-co-founder",
+    "source": "@bscnews",
+    "published": "Thu Jul 16 2026 05:12:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: ️ Keel Infrastructure (formerly Bitfarms) has secured approvals to consolidate three Bitcoin mining sites in Québec into one AI and HPC campus.",
+    "link": "https://cryptopanic.com/news/33043473/LATEST-Keel-Infrastructure-formerly-Bitfarms-has-secured-approvals-to-consolidate-three-Bitcoin-mining-sites-in-Quebec-into-one-AI-and-HPC-campus",
+    "source": "@coinmarketcap",
+    "published": "Thu Jul 16 2026 05:07:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "ASML says AI chipmaking bottlenecks are beginning to ease as it expands capacity",
     "link": "https://cryptopanic.com/news/33043392/ASML-says-AI-chipmaking-bottlenecks-are-beginning-to-ease-as-it-expands-capacity",
     "source": "cryptopolitan.com",
     "published": "Thu Jul 16 2026 05:02:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 ETF FLOWS: BTC, ETH and HYPE spot ETFs recorded net inflows on July 15, while SOL ETFs saw net outflows.",
+    "link": "https://cryptopanic.com/news/33043475/ETF-FLOWS-BTC-ETH-and-HYPE-spot-ETFs-recorded-net-inflows-on-July-15-while-SOL-ETFs-saw-net-outflows",
+    "source": "@cointelegraph",
+    "published": "Thu Jul 16 2026 05:00:14 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -46,6 +102,13 @@
     "link": "https://cryptopanic.com/news/33043308/JUST-IN-Trump-administration-moves-to-impose-a-25-tariff-on-Brazil",
     "source": "@cointelegraph",
     "published": "Thu Jul 16 2026 04:40:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Fresh Ethereum Wallets Buy 50,000 ETH as ETH/BTC Ratio Jumps 6%",
+    "link": "https://cryptopanic.com/news/33043484/Fresh-Ethereum-Wallets-Buy-50000-ETH-as-ETHBTC-Ratio-Jumps-6",
+    "source": "beincrypto.com",
+    "published": "Thu Jul 16 2026 04:38:20 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -144,69 +207,6 @@
     "link": "https://cryptopanic.com/news/33043182/Binance-Affiliate-Program-to-Implement-3x-Volume-Multiplier-on-bStocks-Trading",
     "source": "square.binance.com",
     "published": "Thu Jul 16 2026 04:00:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP ETFs Are Seeing Inflows While Bitcoin Bleeds",
-    "link": "https://cryptopanic.com/news/33043203/XRP-ETFs-Are-Seeing-Inflows-While-Bitcoin-Bleeds",
-    "source": "TheCryptoLark",
-    "published": "Thu Jul 16 2026 04:00:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin miner reserves increase 1% despite operational pressure – Why?",
-    "link": "https://cryptopanic.com/news/33042950/Bitcoin-miner-reserves-increase-1-despite-operational-pressure-Why",
-    "source": "ambcrypto.com",
-    "published": "Thu Jul 16 2026 04:00:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇦🇪 LATEST: Revolut has received in-principle approval from Dubai’s VARA to offer crypto trading, brokerage and investment services in the UAE.",
-    "link": "https://cryptopanic.com/news/33042937/LATEST-Revolut-has-received-in-principle-approval-from-Dubais-VARA-to-offer-crypto-trading-brokerage-and-investment-services-in-the-UAE",
-    "source": "@cointelegraph",
-    "published": "Thu Jul 16 2026 04:00:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Base Changes Course For 2026\n\nBase founder Jesse Pollak (@jessepollak) says the network is shifting its focus away from social products toward trading, payments, and AI agents.\n\nPollak admitted the earlier social strategy left Base behind in areas including perpetuals, prediction",
-    "link": "https://cryptopanic.com/news/33043196/Base-Changes-Course-For-2026-Base-founder-Jesse-Pollak-jessepollak-says-the-network-is-shifting-its-focus-away-from-social-products-toward-trading-payments-and-AI-agents-Pollak-admitted-the-earlier-social-strategy-left-Base-behind-in-areas-including-perpetuals-prediction",
-    "source": "@bscnews",
-    "published": "Thu Jul 16 2026 03:59:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Syngenta's $5 Billion Hong Kong IPO Faces Fresh Delays",
-    "link": "https://cryptopanic.com/news/33043181/Syngentas-5-Billion-Hong-Kong-IPO-Faces-Fresh-Delays",
-    "source": "square.binance.com",
-    "published": "Thu Jul 16 2026 03:57:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AI TRENDS | OpenAI Launches $230 Codex Micro Keyboard for AI Coding Assistant",
-    "link": "https://cryptopanic.com/news/33043180/AI-TRENDS-OpenAI-Launches-230-Codex-Micro-Keyboard-for-AI-Coding-Assistant",
-    "source": "square.binance.com",
-    "published": "Thu Jul 16 2026 03:54:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hong Kong Stock Memory Concept Stocks Continue to Weaken, Montage Technology Drops Over 18%",
-    "link": "https://cryptopanic.com/news/33043179/Hong-Kong-Stock-Memory-Concept-Stocks-Continue-to-Weaken-Montage-Technology-Drops-Over-18",
-    "source": "square.binance.com",
-    "published": "Thu Jul 16 2026 03:52:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "GEOPOLITICS | Asian Gas Prices Rise to Highest Since March on Mideast Tensions",
-    "link": "https://cryptopanic.com/news/33043178/GEOPOLITICS-Asian-Gas-Prices-Rise-to-Highest-Since-March-on-Mideast-Tensions",
-    "source": "square.binance.com",
-    "published": "Thu Jul 16 2026 03:52:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AI demand frames TSMC’s Q2 earnings as chip supply stays tight",
-    "link": "https://cryptopanic.com/news/33042938/AI-demand-frames-TSMCs-Q2-earnings-as-chip-supply-stays-tight",
-    "source": "cryptopolitan.com",
-    "published": "Thu Jul 16 2026 03:51:49 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
