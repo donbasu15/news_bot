@@ -1,5 +1,54 @@
 [
   {
+    "title": "BIG: The U.S. Senate unanimously passed a resolution stating that Sam Bankman-Fried should not receive a pardon or any form of executive clemency.",
+    "link": "https://cryptopanic.com/news/33044035/BIG-The-US-Senate-unanimously-passed-a-resolution-stating-that-Sam-Bankman-Fried-should-not-receive-a-pardon-or-any-form-of-executive-clemency",
+    "source": "@cointelegraph",
+    "published": "Thu Jul 16 2026 07:40:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33044031/Source",
+    "source": "@wublockchain",
+    "published": "Thu Jul 16 2026 07:23:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "U.S. Senate Unanimously Opposes Clemency for FTX Founder Sam Bankman-Fried\n\nThe U.S. Senate unanimously approved a nonbinding resolution stating that FTX founder Sam Bankman-Fried should not receive a presidential pardon, sentence commutation or any other form of federal clemency",
+    "link": "https://cryptopanic.com/news/33044030/US-Senate-Unanimously-Opposes-Clemency-for-FTX-Founder-Sam-Bankman-Fried-The-US-Senate-unanimously-approved-a-nonbinding-resolution-stating-that-FTX-founder-Sam-Bankman-Fried-should-not-receive-a-presidential-pardon-sentence-commutation-or-any-other-form-of-federal-clemency",
+    "source": "@wublockchain",
+    "published": "Thu Jul 16 2026 07:22:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "@Crazzyblockk Read more ⤵️",
+    "link": "https://cryptopanic.com/news/33044029/Crazzyblockk-Read-more",
+    "source": "@cryptoquant_com",
+    "published": "Thu Jul 16 2026 07:22:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: XRPLF says the $XRP Ledger crossed 8,000,000 activated accounts.",
+    "link": "https://cryptopanic.com/news/33044033/UPDATE-XRPLF-says-the-XRP-Ledger-crossed-8000000-activated-accounts",
+    "source": "@cointelegraph",
+    "published": "Thu Jul 16 2026 07:20:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Why Exchange Leverage is Flashing a Deleveraging Warning?\n\n“Data shows that leverage deployment has stretched into the top 5% of historical extremes… Current market rally is built on borrowed margin that lacks the underlying spot liquidity to sustain it.” – By @Crazzyblockk",
+    "link": "https://cryptopanic.com/news/33044028/Why-Exchange-Leverage-is-Flashing-a-Deleveraging-Warning-Data-shows-that-leverage-deployment-has-stretched-into-the-top-5-of-historical-extremes-Current-market-rally-is-built-on-borrowed-margin-that-lacks-the-underlying-spot-liquidity-to-sustain-it-By-Crazzyblockk",
+    "source": "@cryptoquant_com",
+    "published": "Thu Jul 16 2026 07:15:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: South Korea temporarily halts new single-stock leveraged ETFs and raises minimum deposit requirements for leveraged chip funds",
+    "link": "https://cryptopanic.com/news/33043974/INTEL-South-Korea-temporarily-halts-new-single-stock-leveraged-ETFs-and-raises-minimum-deposit-requirements-for-leveraged-chip-funds",
+    "source": "@solidintel_x",
+    "published": "Thu Jul 16 2026 07:15:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "U.S. Senate Opposes Pardons or Sentence Reductions for FTX Founder SBF",
     "link": "https://cryptopanic.com/news/33043894/US-Senate-Opposes-Pardons-or-Sentence-Reductions-for-FTX-Founder-SBF",
     "source": "square.binance.com",
@@ -18,6 +67,13 @@
     "link": "https://cryptopanic.com/news/33043840/The-Sandbox-TheSandboxGame-Studio-is-picking-up-momentum-One-month-in-it-has-attracted-more-than-12000-sign-ups-as-the-team-pushes-toward-a-public-beta",
     "source": "@bscnews",
     "published": "Thu Jul 16 2026 07:11:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "US-Iran War Reignites — and Traders See 92% Odds of $4 Gas",
+    "link": "https://cryptopanic.com/news/33044013/US-Iran-War-Reignites-and-Traders-See-92-Odds-of-4-Gas",
+    "source": "beincrypto.com",
+    "published": "Thu Jul 16 2026 07:09:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -49,6 +105,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "INSIGHT: Binance’s XRP reserves fell to 2.61 billion, their lowest since February, per CryptoQuant.",
+    "link": "https://cryptopanic.com/news/33044032/INSIGHT-Binances-XRP-reserves-fell-to-261-billion-their-lowest-since-February-per-CryptoQuant",
+    "source": "@cointelegraph",
+    "published": "Thu Jul 16 2026 07:01:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "XRP whales are active, but the market is barely moving — Why?",
     "link": "https://cryptopanic.com/news/33043770/XRP-whales-are-active-but-the-market-is-barely-moving-Why",
     "source": "ambcrypto.com",
@@ -70,16 +133,16 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Cardano News: Cardano Approves First Major Hard Fork Since Voltaire Era",
-    "link": "https://cryptopanic.com/news/33043765/Cardano-News-Cardano-Approves-First-Major-Hard-Fork-Since-Voltaire-Era",
-    "source": "thecoinrepublic.com",
+    "title": "South Korea Moves to Fold Crypto Into a 76-Year-Old Asset Law",
+    "link": "https://cryptopanic.com/news/33043766/South-Korea-Moves-to-Fold-Crypto-Into-a-76-Year-Old-Asset-Law",
+    "source": "coinpaprika.com",
     "published": "Thu Jul 16 2026 07:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "South Korea Moves to Fold Crypto Into a 76-Year-Old Asset Law",
-    "link": "https://cryptopanic.com/news/33043766/South-Korea-Moves-to-Fold-Crypto-Into-a-76-Year-Old-Asset-Law",
-    "source": "coinpaprika.com",
+    "title": "Cardano News: Cardano Approves First Major Hard Fork Since Voltaire Era",
+    "link": "https://cryptopanic.com/news/33043765/Cardano-News-Cardano-Approves-First-Major-Hard-Fork-Since-Voltaire-Era",
+    "source": "thecoinrepublic.com",
     "published": "Thu Jul 16 2026 07:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -144,69 +207,6 @@
     "link": "https://cryptopanic.com/news/33043884/New-Wallet-Deposits-100-Million-USDC-Into-Hyperliquid-Opens-CXMT-Short",
     "source": "square.binance.com",
     "published": "Thu Jul 16 2026 06:53:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump Set For CLARITY Act Meeting With Senators\n\nUS President Donald Trump (@realDonaldTrump) will meet a group of senators at the White House on Thursday to discuss the CLARITY Act and its path through the Senate, according to Politico.\n\nThe meeting comes as lawmakers aim to",
-    "link": "https://cryptopanic.com/news/33043831/Trump-Set-For-CLARITY-Act-Meeting-With-Senators-US-President-Donald-Trump-realDonaldTrump-will-meet-a-group-of-senators-at-the-White-House-on-Thursday-to-discuss-the-CLARITY-Act-and-its-path-through-the-Senate-according-to-Politico-The-meeting-comes-as-lawmakers-aim-to",
-    "source": "@bscnews",
-    "published": "Thu Jul 16 2026 06:52:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "TotalEnergies Flags Strong Oil Trading as Iran War Roils Market",
-    "link": "https://cryptopanic.com/news/33043883/TotalEnergies-Flags-Strong-Oil-Trading-as-Iran-War-Roils-Market",
-    "source": "square.binance.com",
-    "published": "Thu Jul 16 2026 06:49:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Larry Fink Says Bitcoin Has 'More Stability' at Current Levels: BlackRock CEO 'Very Bullish on the Markets'",
-    "link": "https://cryptopanic.com/news/33043771/Larry-Fink-Says-Bitcoin-Has-More-Stability-at-Current-Levels-BlackRock-CEO-Very-Bullish-on-the-Markets",
-    "source": "feeds2.benzinga.com",
-    "published": "Thu Jul 16 2026 06:47:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Didi Says Hong Kong Ride-Hailing Demand Near Tourist Sites Rose Nearly 50% In July",
-    "link": "https://cryptopanic.com/news/33043882/Didi-Says-Hong-Kong-Ride-Hailing-Demand-Near-Tourist-Sites-Rose-Nearly-50-In-July",
-    "source": "square.binance.com",
-    "published": "Thu Jul 16 2026 06:46:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Someone created a new wallet, deposited 10M $USDC into Hyperliquid to short $CXMT.\n\nThe wallet has opened a 1x short on 514,357 $CXMT($3.8M) and placed limit orders to add another 490,000 $CXMT($4.17M) short position between $8 and $9.",
-    "link": "https://cryptopanic.com/news/33043867/Someone-created-a-new-wallet-deposited-10M-USDC-into-Hyperliquid-to-short-CXMT-The-wallet-has-opened-a-1x-short-on-514357-CXMT38M-and-placed-limit-orders-to-add-another-490000-CXMT417M-short-position-between-8-and-9",
-    "source": "@lookonchain",
-    "published": "Thu Jul 16 2026 06:43:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 REMINDER: Tomorrow, July 17, the US House Financial Services Committee will hold a field hearing on how the CLARITY Act could unlock financial innovation.",
-    "link": "https://cryptopanic.com/news/33043758/REMINDER-Tomorrow-July-17-the-US-House-Financial-Services-Committee-will-hold-a-field-hearing-on-how-the-CLARITY-Act-could-unlock-financial-innovation",
-    "source": "@cointelegraph",
-    "published": "Thu Jul 16 2026 06:40:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Pi Network Sets v25 Upgrade With PI 97% Below Peak",
-    "link": "https://cryptopanic.com/news/33043701/Pi-Network-Sets-v25-Upgrade-With-PI-97-Below-Peak",
-    "source": "coindoo.com",
-    "published": "Thu Jul 16 2026 06:38:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto Market Slips As US-Iran Tension Cools Risk Appetite",
-    "link": "https://cryptopanic.com/news/33043881/Crypto-Market-Slips-As-US-Iran-Tension-Cools-Risk-Appetite",
-    "source": "square.binance.com",
-    "published": "Thu Jul 16 2026 06:37:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Robinhood Chain Token Launch Platform Vlad.Fun Temporarily Closes Over Internal Integrity Issues",
-    "link": "https://cryptopanic.com/news/33043880/Robinhood-Chain-Token-Launch-Platform-VladFun-Temporarily-Closes-Over-Internal-Integrity-Issues",
-    "source": "square.binance.com",
-    "published": "Thu Jul 16 2026 06:36:42 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
