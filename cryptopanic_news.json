@@ -1,9 +1,37 @@
 [
   {
+    "title": "Bitcoin Price Crash 70% to $20,000? Peter Schiff Criticizes Michael Saylor",
+    "link": "https://cryptopanic.com/news/33047757/Bitcoin-Price-Crash-70-to-20000-Peter-Schiff-Criticizes-Michael-Saylor",
+    "source": "coinpaper.com",
+    "published": "Thu Jul 16 2026 17:49:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Micron signs chip supply deals with Qualcomm and six auto partners",
+    "link": "https://cryptopanic.com/news/33047756/Micron-signs-chip-supply-deals-with-Qualcomm-and-six-auto-partners",
+    "source": "cryptopolitan.com",
+    "published": "Thu Jul 16 2026 17:45:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Tether Freezes $131M USDT Linked to Iran's Central Bank",
     "link": "https://cryptopanic.com/news/33047720/Tether-Freezes-131M-USDT-Linked-to-Irans-Central-Bank",
     "source": "coincu.com",
     "published": "Thu Jul 16 2026 17:40:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Almost everything is red today. \n\nS&P 500: -0.5%\nNasdaq 100: -1.5%\nWTI Oil: -2%\nBitcoin: -1%\nGold: -2%",
+    "link": "https://cryptopanic.com/news/33047766/Almost-everything-is-red-today-SampP-500-05-Nasdaq-100-15-WTI-Oil-2-Bitcoin-1-Gold-2",
+    "source": "@stackersatoshi",
+    "published": "Thu Jul 16 2026 17:38:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 Crypto Clarity Act is not projected to be signed into law this year despite President Trump meeting with Senators today to help advance the bill.",
+    "link": "https://cryptopanic.com/news/33047765/JUST-IN-Crypto-Clarity-Act-is-not-projected-to-be-signed-into-law-this-year-despite-President-Trump-meeting-with-Senators-today-to-help-advance-the-bill",
+    "source": "@watcherguru",
+    "published": "Thu Jul 16 2026 17:37:55 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -126,16 +154,16 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Cantor and Securitize Chase Onchain IPOs for Public Companies",
-    "link": "https://cryptopanic.com/news/33047475/Cantor-and-Securitize-Chase-Onchain-IPOs-for-Public-Companies",
-    "source": "coinpaprika.com",
+    "title": "Kalshi Allows Betting On Clinical Trials And FDA Drug Decisions",
+    "link": "https://cryptopanic.com/news/33047526/Kalshi-Allows-Betting-On-Clinical-Trials-And-FDA-Drug-Decisions",
+    "source": "cryptoprowl.com",
     "published": "Thu Jul 16 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Kalshi Allows Betting On Clinical Trials And FDA Drug Decisions",
-    "link": "https://cryptopanic.com/news/33047526/Kalshi-Allows-Betting-On-Clinical-Trials-And-FDA-Drug-Decisions",
-    "source": "cryptoprowl.com",
+    "title": "Cantor and Securitize Chase Onchain IPOs for Public Companies",
+    "link": "https://cryptopanic.com/news/33047475/Cantor-and-Securitize-Chase-Onchain-IPOs-for-Public-Companies",
+    "source": "coinpaprika.com",
     "published": "Thu Jul 16 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33047572/Options-market-flashes-a-warning-for-Bitcoin-above-70000",
     "source": "thestreet.com",
     "published": "Thu Jul 16 2026 16:50:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: Morgan Stanley has officially rolled out Bitcoin spot trading on E*Trade to all 8.6 million clients!",
-    "link": "https://cryptopanic.com/news/33047585/BREAKING-Morgan-Stanley-has-officially-rolled-out-Bitcoin-spot-trading-on-ETrade-to-all-86-million-clients",
-    "source": "@bitcoinmagazine",
-    "published": "Thu Jul 16 2026 16:47:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: T. Rowe Price has launched the industry's first actively managed multi-token spot crypto ETP, $TKNZ.\n\nThe fund can allocate across assets including bitcoin, ether, XRP, solana, BNB, and HYPE, with active management aimed at capturing market rotations and emerging trends.",
-    "link": "https://cryptopanic.com/news/33047414/NEW-T-Rowe-Price-has-launched-the-industrys-first-actively-managed-multi-token-spot-crypto-ETP-TKNZ-The-fund-can-allocate-across-assets-including-bitcoin-ether-XRP-solana-BNB-and-HYPE-with-active-management-aimed-at-capturing-market-rotations-and-emerging-trends",
-    "source": "@coindesk",
-    "published": "Thu Jul 16 2026 16:47:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "For the complete article and weekly curated reports, subscribe to our Substack",
-    "link": "https://cryptopanic.com/news/33047411/For-the-complete-article-and-weekly-curated-reports-subscribe-to-our-Substack",
-    "source": "@wublockchain",
-    "published": "Thu Jul 16 2026 16:46:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "A new front door for a project outgrowing its mining-app roots. Looking forward to seeing how InterLink frames the bigger ecosystem vision.",
-    "link": "https://cryptopanic.com/news/33047448/A-new-front-door-for-a-project-outgrowing-its-mining-app-roots-Looking-forward-to-seeing-how-InterLink-frames-the-bigger-ecosystem-vision",
-    "source": "@bscnews",
-    "published": "Thu Jul 16 2026 16:38:41 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
