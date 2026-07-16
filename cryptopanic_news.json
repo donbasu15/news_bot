@@ -1,5 +1,47 @@
 [
   {
+    "title": "Crypto Twitter is back",
+    "link": "https://cryptopanic.com/news/33046253/Crypto-Twitter-is-back",
+    "source": "protos.com",
+    "published": "Thu Jul 16 2026 14:03:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: VISA LAUNCHES NEW PLATFORM TO PROVIDE STABLECOIN SERVICES TO MORE THAN 200 MILLION MERCHANTS",
+    "link": "https://cryptopanic.com/news/33046326/INTEL-VISA-LAUNCHES-NEW-PLATFORM-TO-PROVIDE-STABLECOIN-SERVICES-TO-MORE-THAN-200-MILLION-MERCHANTS",
+    "source": "@solidintel_x",
+    "published": "Thu Jul 16 2026 14:00:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "New research finds $1.6 billion in DeFi liquidity sitting unused",
+    "link": "https://cryptopanic.com/news/33046387/New-research-finds-16-billion-in-DeFi-liquidity-sitting-unused",
+    "source": "thestreet.com",
+    "published": "Thu Jul 16 2026 14:00:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Base Hands Its App to Cobie, Stripe Makes a $53B Move in Stables, Trump to Meet Today on Clarity Act",
+    "link": "https://cryptopanic.com/news/33046202/Base-Hands-Its-App-to-Cobie-Stripe-Makes-a-53B-Move-in-Stables-Trump-to-Meet-Today-on-Clarity-Act",
+    "source": "@decryptmedia",
+    "published": "Thu Jul 16 2026 14:00:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ripple Can Speak SWIFT's Language —This  Documents Show It",
+    "link": "https://cryptopanic.com/news/33046206/Ripple-Can-Speak-SWIFTs-Language-This-Documents-Show-It",
+    "source": "coinpaper.com",
+    "published": "Thu Jul 16 2026 13:59:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Price Analysis: $1,872 Could Decide the Next Move",
+    "link": "https://cryptopanic.com/news/33046193/Ethereum-Price-Analysis-1872-Could-Decide-the-Next-Move",
+    "source": "coindoo.com",
+    "published": "Thu Jul 16 2026 13:51:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "US Senate Rejects Clemency for Sam Bankman-Fried – Here Is Why Lawmakers Are Sending a Strong Message",
     "link": "https://cryptopanic.com/news/33046192/US-Senate-Rejects-Clemency-for-Sam-Bankman-Fried-Here-Is-Why-Lawmakers-Are-Sending-a-Strong-Message",
     "source": "blocknews.com",
@@ -21,10 +63,31 @@
     "sentiment": "neutral"
   },
   {
+    "title": "JUST IN: 🇺🇸 President Trump promoted over 20 companies on Truth Social days after buying their stocks, CNN reports.",
+    "link": "https://cryptopanic.com/news/33046327/JUST-IN-President-Trump-promoted-over-20-companies-on-Truth-Social-days-after-buying-their-stocks-CNN-reports",
+    "source": "@watcherguru",
+    "published": "Thu Jul 16 2026 13:48:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SpaceX stock hits an all-time low below IPO price and its Bitcoin is now worth watching",
+    "link": "https://cryptopanic.com/news/33046319/SpaceX-stock-hits-an-all-time-low-below-IPO-price-and-its-Bitcoin-is-now-worth-watching",
+    "source": "thestreet.com",
+    "published": "Thu Jul 16 2026 13:48:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Polygon Labs announces second round of layoffs in 2026 as firm looks to finalize Coinme acquisition",
     "link": "https://cryptopanic.com/news/33046168/Polygon-Labs-announces-second-round-of-layoffs-in-2026-as-firm-looks-to-finalize-Coinme-acquisition",
     "source": "theblock.co",
     "published": "Thu Jul 16 2026 13:47:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Belgrade to Host Solana Summit Serbia, a Major European Solana Event",
+    "link": "https://cryptopanic.com/news/33046379/Belgrade-to-Host-Solana-Summit-Serbia-a-Major-European-Solana-Event",
+    "source": "beincrypto.com",
+    "published": "Thu Jul 16 2026 13:46:04 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -39,6 +102,13 @@
     "link": "https://cryptopanic.com/news/33046170/Market-Cap-Of-Tokenized-Stocks-Reaches-23-Billion",
     "source": "cryptoprowl.com",
     "published": "Thu Jul 16 2026 13:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Using an iPhone as Crypto Wallet? ZachXBT and Roman Storm Weigh In",
+    "link": "https://cryptopanic.com/news/33046377/Using-an-iPhone-as-Crypto-Wallet-ZachXBT-and-Roman-Storm-Weigh-In",
+    "source": "beincrypto.com",
+    "published": "Thu Jul 16 2026 13:38:35 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/33045973/Visa-Backs-Stablecoins-for-AI-Payments-Here-Is-Why-Blockchain-Could-Power-the-Next-Generation-of-Commerce",
     "source": "blocknews.com",
     "published": "Thu Jul 16 2026 13:17:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The $XRP Ledger surpassed 8 Million Activated Accounts! \n\nBig milestone.",
-    "link": "https://cryptopanic.com/news/33046200/The-XRP-Ledger-surpassed-8-Million-Activated-Accounts-Big-milestone",
-    "source": "@bscnews",
-    "published": "Thu Jul 16 2026 13:17:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "TSX futures edge lower as gold slips, Middle East tensions linger",
-    "link": "https://cryptopanic.com/news/33046165/TSX-futures-edge-lower-as-gold-slips-Middle-East-tensions-linger",
-    "source": "@reutersbiz",
-    "published": "Thu Jul 16 2026 13:15:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: Ledger has launched Ledger Agent Stack, an open-source toolkit that lets AI agents interact with crypto wallets by reading balances, preparing transactions and suggesting actions, while requiring users to approve every transaction on a Ledger hardware device.",
-    "link": "https://cryptopanic.com/news/33046161/LATEST-Ledger-has-launched-Ledger-Agent-Stack-an-open-source-toolkit-that-lets-AI-agents-interact-with-crypto-wallets-by-reading-balances-preparing-transactions-and-suggesting-actions-while-requiring-users-to-approve-every-transaction-on-a-Ledger-hardware-device",
-    "source": "@coindesk",
-    "published": "Thu Jul 16 2026 13:11:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "What Could South Korea's First Rate Hike Since 2023 Mean for Crypto Markets?",
-    "link": "https://cryptopanic.com/news/33045919/What-Could-South-Koreas-First-Rate-Hike-Since-2023-Mean-for-Crypto-Markets",
-    "source": "coinpaper.com",
-    "published": "Thu Jul 16 2026 13:09:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Asseto - Powering the full lifecycle of tokenized assets.",
-    "link": "https://cryptopanic.com/news/33046105/Asseto-Powering-the-full-lifecycle-of-tokenized-assets",
-    "source": "r/hedera",
-    "published": "Thu Jul 16 2026 13:09:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "McDonald’s Stock Hits 2-Year Low as Bear Market Turns Official",
-    "link": "https://cryptopanic.com/news/33046108/McDonalds-Stock-Hits-2-Year-Low-as-Bear-Market-Turns-Official",
-    "source": "beincrypto.com",
-    "published": "Thu Jul 16 2026 13:07:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Dogecoin Price Prediction: $0.061 Test Could Decide DOGE’s Next Major Move",
-    "link": "https://cryptopanic.com/news/33045854/Dogecoin-Price-Prediction-0061-Test-Could-Decide-DOGEs-Next-Major-Move",
-    "source": "coinpaper.com",
-    "published": "Thu Jul 16 2026 13:03:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Breakingviews - New UK Treasury’s big risk is timidity, not daring",
-    "link": "https://cryptopanic.com/news/33046164/Breakingviews-New-UK-Treasurys-big-risk-is-timidity-not-daring",
-    "source": "@reutersbiz",
-    "published": "Thu Jul 16 2026 13:01:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The UK's Chancellor of the Exchequer (finance minister) highlights @quantnetwork initiative!\n\nRachel Reeves says the Great British Tokenised Deposit initiative is moving to live transactions.\n\nQuant is involved in GBTD and fits in the gap $QNT was built for connecting traditional",
-    "link": "https://cryptopanic.com/news/33045939/The-UKs-Chancellor-of-the-Exchequer-finance-minister-highlights-quantnetwork-initiative-Rachel-Reeves-says-the-Great-British-Tokenised-Deposit-initiative-is-moving-to-live-transactions-Quant-is-involved-in-GBTD-and-fits-in-the-gap-QNT-was-built-for-connecting-traditional",
-    "source": "@realallincrypto",
-    "published": "Thu Jul 16 2026 13:00:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Don't Click.",
-    "link": "https://cryptopanic.com/news/33046157/Dont-Click",
-    "source": "@coinmarketcap",
-    "published": "Thu Jul 16 2026 13:00:23 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
