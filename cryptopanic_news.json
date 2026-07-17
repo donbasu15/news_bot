@@ -1,9 +1,37 @@
 [
   {
+    "title": "The Truth About DTCC and XRP Ledger That’s Being Missed",
+    "link": "https://cryptopanic.com/news/33051440/The-Truth-About-DTCC-and-XRP-Ledger-Thats-Being-Missed",
+    "source": "coinpaper.com",
+    "published": "Fri Jul 17 2026 07:47:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Seven & i shares jump 3% on Zabka stake talks in Europe push",
+    "link": "https://cryptopanic.com/news/33051444/Seven-amp-i-shares-jump-3-on-Zabka-stake-talks-in-Europe-push",
+    "source": "@reutersbiz",
+    "published": "Fri Jul 17 2026 07:45:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "RWA Tokenization Platforms: How to Choose in 2026",
+    "link": "https://cryptopanic.com/news/33051376/RWA-Tokenization-Platforms-How-to-Choose-in-2026",
+    "source": "coindoo.com",
+    "published": "Fri Jul 17 2026 07:44:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Weekly Top Gainers\n 1️⃣ eCash (@eCash): +30.32%\n 2️⃣ KAITO (@KaitoAI): +27.83%\n 3️⃣ Lido DAO (@lidofinance): +19.73%\n 4️⃣ Decred (@decredproject): +19.38%\n 5️⃣ Audiera (@Audiera_web3): +17.84%\n 6️⃣ Virtuals Protocol (@virtuals_io): +15.37%\n 7️⃣ Ondo (@OndoFoundation): +13.69%\n 8️⃣ Pyth",
     "link": "https://cryptopanic.com/news/33051436/Weekly-Top-Gainers-1-eCash-eCash-3032-2-KAITO-KaitoAI-2783-3-Lido-DAO-lidofinance-1973-4-Decred-decredproject-1938-5-Audiera-Audiera_web3-1784-6-Virtuals-Protocol-virtuals_io-1537-7-Ondo-OndoFoundation-1369-8-Pyth",
     "source": "@coinmarketcap",
     "published": "Fri Jul 17 2026 07:35:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Pi Network Unveils A Fresh Look For Its Mining App\n\nPi Network (@PiCoreTeam) has rolled out the first phase of a redesign for its mining app. The update refreshes the side menu and profile page, making key Pioneer information and ecosystem features easier to find and navigate.",
+    "link": "https://cryptopanic.com/news/33051475/Pi-Network-Unveils-A-Fresh-Look-For-Its-Mining-App-Pi-Network-PiCoreTeam-has-rolled-out-the-first-phase-of-a-redesign-for-its-mining-app-The-update-refreshes-the-side-menu-and-profile-page-making-key-Pioneer-information-and-ecosystem-features-easier-to-find-and-navigate",
+    "source": "@bscnews",
+    "published": "Fri Jul 17 2026 07:33:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33051108/LATEST-Project-Eleven-has-unveiled-a-cryptographic-technique-letting-Bitcoin-holders-prove-wallet-ownership-after-Q-Day-when-quantum-computers-could-forge-valid-signatures",
     "source": "@coinmarketcap",
     "published": "Fri Jul 17 2026 06:39:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cardano Makes Thousands Of Onchain Signature Checks Cheaper\n\nCardano (@Cardano) Foundation said Plutus smart contracts can now verify thousands of signatures natively using BLS12 381 cryptography. \n\nThe upgrade removes the need for off chain verification while maintaining",
-    "link": "https://cryptopanic.com/news/33051182/Cardano-Makes-Thousands-Of-Onchain-Signature-Checks-Cheaper-Cardano-Cardano-Foundation-said-Plutus-smart-contracts-can-now-verify-thousands-of-signatures-natively-using-BLS12-381-cryptography-The-upgrade-removes-the-need-for-off-chain-verification-while-maintaining",
-    "source": "@bscnews",
-    "published": "Fri Jul 17 2026 06:34:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto Exchange Knaken Declared Bankrupt",
-    "link": "https://cryptopanic.com/news/33051072/Crypto-Exchange-Knaken-Declared-Bankrupt",
-    "source": "u.today",
-    "published": "Fri Jul 17 2026 06:33:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "How BONK’s post-exploit moves could spur a price decline of 18%",
-    "link": "https://cryptopanic.com/news/33050994/How-BONKs-post-exploit-moves-could-spur-a-price-decline-of-18",
-    "source": "ambcrypto.com",
-    "published": "Fri Jul 17 2026 06:30:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AI Becomes the New Crypto Exchange",
-    "link": "https://cryptopanic.com/news/33050985/AI-Becomes-the-New-Crypto-Exchange",
-    "source": "catenaa.com",
-    "published": "Fri Jul 17 2026 06:30:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
