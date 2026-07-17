@@ -1,9 +1,100 @@
 [
   {
+    "title": "SBI Holdings completes majority acquisition of Singapore crypto platform Coinhako following MAS approval",
+    "link": "https://cryptopanic.com/news/33053345/SBI-Holdings-completes-majority-acquisition-of-Singapore-crypto-platform-Coinhako-following-MAS-approval",
+    "source": "theblock.co",
+    "published": "Fri Jul 17 2026 13:15:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Meta Faces Lawsuit Over Alleged AI-Driven Mass Layoffs",
+    "link": "https://cryptopanic.com/news/33053295/Meta-Faces-Lawsuit-Over-Alleged-AI-Driven-Mass-Layoffs",
+    "source": "dailyhodl.com",
+    "published": "Fri Jul 17 2026 13:05:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MoonPay is Promoting Filmmaking Using AI...\n\nWhenever you hear @Moonpay, finance and crypto come to mind. However, the platform is set to reward users for filmmaking. \n\nFrom its latest post on X, the protocol announced a prize pool set aside for users to create original films, in",
+    "link": "https://cryptopanic.com/news/33053335/MoonPay-is-Promoting-Filmmaking-Using-AI-Whenever-you-hear-Moonpay-finance-and-crypto-come-to-mind-However-the-platform-is-set-to-reward-users-for-filmmaking-From-its-latest-post-on-X-the-protocol-announced-a-prize-pool-set-aside-for-users-to-create-original-films-in",
+    "source": "@bscnews",
+    "published": "Fri Jul 17 2026 13:03:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Build with CMC (DIY): How to Build a Jito MEV Bundle Bot \n\nBuild a Solana MEV system that uses CoinMarketCap API for opportunity discovery and Jito for bundle-based execution.\n\nLearn More",
+    "link": "https://cryptopanic.com/news/33053245/Build-with-CMC-DIY-How-to-Build-a-Jito-MEV-Bundle-Bot-Build-a-Solana-MEV-system-that-uses-CoinMarketCap-API-for-opportunity-discovery-and-Jito-for-bundle-based-execution-Learn-More",
+    "source": "@coinmarketcap",
+    "published": "Fri Jul 17 2026 13:00:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "THE WORLD’S MOST VALUABLE COMPANY JUST FLIPPED!\n\nApple briefly overtook Nvidia at $4.92T vs $4.86T.\n\nIt’s a battle between the world’s most powerful consumer ecosystem and the company powering the AI boom.\n\nAnd now theirs nearly $10T between the two stocks. 🤯",
+    "link": "https://cryptopanic.com/news/33053332/THE-WORLDS-MOST-VALUABLE-COMPANY-JUST-FLIPPED-Apple-briefly-overtook-Nvidia-at-492T-vs-486T-Its-a-battle-between-the-worlds-most-powerful-consumer-ecosystem-and-the-company-powering-the-AI-boom-And-now-theirs-nearly-10T-between-the-two-stocks",
+    "source": "@realallincrypto",
+    "published": "Fri Jul 17 2026 13:00:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Visa Throws Its Weight Behind Open USD as Circle Shares Slide",
+    "link": "https://cryptopanic.com/news/33053257/Visa-Throws-Its-Weight-Behind-Open-USD-as-Circle-Shares-Slide",
+    "source": "coinpaprika.com",
+    "published": "Fri Jul 17 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CLARITY Act News: Crypto Bill Nears Key Senate August Deadline",
+    "link": "https://cryptopanic.com/news/33053255/CLARITY-Act-News-Crypto-Bill-Nears-Key-Senate-August-Deadline",
+    "source": "thecoinrepublic.com",
+    "published": "Fri Jul 17 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Are Ethereum and Solana Useless for Tokenization? Bitwise CEO Shares Hot Take Amid RWA Boom",
+    "link": "https://cryptopanic.com/news/33053296/Are-Ethereum-and-Solana-Useless-for-Tokenization-Bitwise-CEO-Shares-Hot-Take-Amid-RWA-Boom",
+    "source": "u.today",
+    "published": "Fri Jul 17 2026 12:57:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Real estate is hitting @BNBCHAIN for $1 per share later today thanks to @asx_capital!",
+    "link": "https://cryptopanic.com/news/33053334/Real-estate-is-hitting-BNBCHAIN-for-1-per-share-later-today-thanks-to-asx_capital",
+    "source": "@bscnews",
+    "published": "Fri Jul 17 2026 12:56:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Is This the Start of XRP's 10x Breakout? Fibonacci Points to $8–$27",
+    "link": "https://cryptopanic.com/news/33053228/Is-This-the-Start-of-XRPs-10x-Breakout-Fibonacci-Points-to-827",
+    "source": "coinpaper.com",
+    "published": "Fri Jul 17 2026 12:54:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇺🇸 CFTC Chair Michael Selig says the agency will defend its jurisdiction over prediction markets \"all the way up to the Supreme Court,\" calling the fight \"existential.\"",
+    "link": "https://cryptopanic.com/news/33053244/LATEST-CFTC-Chair-Michael-Selig-says-the-agency-will-defend-its-jurisdiction-over-prediction-markets-all-the-way-up-to-the-Supreme-Court-calling-the-fight-existential",
+    "source": "@coinmarketcap",
+    "published": "Fri Jul 17 2026 12:53:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Crypto-style derivatives reach AI compute ahead of planned CME and ICE futures: Bernstein",
     "link": "https://cryptopanic.com/news/33053176/Crypto-style-derivatives-reach-AI-compute-ahead-of-planned-CME-and-ICE-futures-Bernstein",
     "source": "theblock.co",
     "published": "Fri Jul 17 2026 12:48:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "World Liberty Financial Expands USD1 Integration Across Binance Futures\n\n@Worldlibertyfi expands the reach of its $USD1 stablecoin within @Binance Futures, establishing the asset as a primary collateral layer for decentralized derivatives. \n\nThe rollout includes the official",
+    "link": "https://cryptopanic.com/news/33053333/World-Liberty-Financial-Expands-USD1-Integration-Across-Binance-Futures-Worldlibertyfi-expands-the-reach-of-its-USD1-stablecoin-within-Binance-Futures-establishing-the-asset-as-a-primary-collateral-layer-for-decentralized-derivatives-The-rollout-includes-the-official",
+    "source": "@bscnews",
+    "published": "Fri Jul 17 2026 12:46:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "39.27 Trillion SHIB on Robinhood, So Who Holds More?",
+    "link": "https://cryptopanic.com/news/33053256/3927-Trillion-SHIB-on-Robinhood-So-Who-Holds-More",
+    "source": "u.today",
+    "published": "Fri Jul 17 2026 12:45:33 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -116,97 +207,6 @@
     "link": "https://cryptopanic.com/news/33053151/JUST-IN-Japan-Public-company-Bitcoin-Japan-Corporation-has-raised-60-million-through-convertible-bonds-allocating-408-million-to-make-its-first-buy-for-their-BTC-treasury-BULLISH",
     "source": "@bitcoinmagazine",
     "published": "Fri Jul 17 2026 12:17:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🤖 Tom Lee warns of an \"uncanny valley of wealth\" where AI agents eventually become wealthier than humans, arguing \"blockchain is the barrier between humans and AI\" that keeps humanity in control.",
-    "link": "https://cryptopanic.com/news/33053242/LATEST-Tom-Lee-warns-of-an-uncanny-valley-of-wealth-where-AI-agents-eventually-become-wealthier-than-humans-arguing-blockchain-is-the-barrier-between-humans-and-AI-that-keeps-humanity-in-control",
-    "source": "@coinmarketcap",
-    "published": "Fri Jul 17 2026 12:17:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$2,800,000 Drained From Bank Accounts After California Gang Member Deploys Instagram Fraud Scheme: DOJ",
-    "link": "https://cryptopanic.com/news/33053049/2800000-Drained-From-Bank-Accounts-After-California-Gang-Member-Deploys-Instagram-Fraud-Scheme-DOJ",
-    "source": "dailyhodl.com",
-    "published": "Fri Jul 17 2026 12:16:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Pi Network (@PiCoreTeam) upgrade and app redesign have sparked renewed interest in the asset. \n\npi-network:native has surged nearly 10% in the past 24 hours...",
-    "link": "https://cryptopanic.com/news/33053064/Pi-Network-PiCoreTeam-upgrade-and-app-redesign-have-sparked-renewed-interest-in-the-asset-pi-networknative-has-surged-nearly-10-in-the-past-24-hours",
-    "source": "@bscnews",
-    "published": "Fri Jul 17 2026 12:16:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum Drops 4%, but Analysts Still See a Path Toward $2,245 and Beyond",
-    "link": "https://cryptopanic.com/news/33053002/Ethereum-Drops-4-but-Analysts-Still-See-a-Path-Toward-2245-and-Beyond",
-    "source": "cryptopotato.com",
-    "published": "Fri Jul 17 2026 12:12:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ALERT: High-beta stocks have fallen more than 20% and are on track for their biggest monthly decline since the Global Financial Crisis.",
-    "link": "https://cryptopanic.com/news/33052992/ALERT-High-beta-stocks-have-fallen-more-than-20-and-are-on-track-for-their-biggest-monthly-decline-since-the-Global-Financial-Crisis",
-    "source": "@cointelegraph",
-    "published": "Fri Jul 17 2026 12:10:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Morning Minute: Citadel Securities Invests $400M in Crypto.com",
-    "link": "https://cryptopanic.com/news/33052979/Morning-Minute-Citadel-Securities-Invests-400M-in-Cryptocom",
-    "source": "decrypt.co",
-    "published": "Fri Jul 17 2026 12:09:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Oil is on track for its biggest weekly gain since April as fears of a new Red Sea supply disruption add to global energy market uncertainty. Kpler’s Homayoun Falakshahi said while he sees major disruption as unlikely, the consequences would be significant",
-    "link": "https://cryptopanic.com/news/33052994/Oil-is-on-track-for-its-biggest-weekly-gain-since-April-as-fears-of-a-new-Red-Sea-supply-disruption-add-to-global-energy-market-uncertainty-Kplers-Homayoun-Falakshahi-said-while-he-sees-major-disruption-as-unlikely-the-consequences-would-be-significant",
-    "source": "@reutersbiz",
-    "published": "Fri Jul 17 2026 12:04:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Abraxas Capital has accumulated another 12,477 $ETH(22.88M) in the past 3 hours.\n\nOver the past week, Abraxas Capital has withdrawn a total of 45,996 $ETH ($84.39M) from #Binance, #Bybit, and #Bitfinex.",
-    "link": "https://cryptopanic.com/news/33053066/Abraxas-Capital-has-accumulated-another-12477-ETH2288M-in-the-past-3-hours-Over-the-past-week-Abraxas-Capital-has-withdrawn-a-total-of-45996-ETH-8439M-from-Binance-Bybit-and-Bitfinex",
-    "source": "@lookonchain",
-    "published": "Fri Jul 17 2026 12:03:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin’s Next ‘Strong Run’ Depends on Breaking $65,000, Technical Analyst Says",
-    "link": "https://cryptopanic.com/news/33053014/Bitcoins-Next-Strong-Run-Depends-on-Breaking-65000-Technical-Analyst-Says",
-    "source": "feeds2.benzinga.com",
-    "published": "Fri Jul 17 2026 12:02:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Exploits switch from wallet attacks to protocol flaws",
-    "link": "https://cryptopanic.com/news/33052944/Exploits-switch-from-wallet-attacks-to-protocol-flaws",
-    "source": "cryptopolitan.com",
-    "published": "Fri Jul 17 2026 12:02:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Apple Briefly Overtakes Nvidia as World’s Most Valuable Company — Can It Hold the Crown?",
-    "link": "https://cryptopanic.com/news/33053025/Apple-Briefly-Overtakes-Nvidia-as-Worlds-Most-Valuable-Company-Can-It-Hold-the-Crown",
-    "source": "beincrypto.com",
-    "published": "Fri Jul 17 2026 12:00:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Polygon’s payments push sparks POL backlash – ‘Holders have no equity’",
-    "link": "https://cryptopanic.com/news/33052870/Polygons-payments-push-sparks-POL-backlash-Holders-have-no-equity",
-    "source": "ambcrypto.com",
-    "published": "Fri Jul 17 2026 12:00:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Jack Mallers! The Only Way Out is Printing Money?",
-    "link": "https://cryptopanic.com/news/33053005/Jack-Mallers-The-Only-Way-Out-is-Printing-Money",
-    "source": "SimplyBitcoin",
-    "published": "Fri Jul 17 2026 12:00:23 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
