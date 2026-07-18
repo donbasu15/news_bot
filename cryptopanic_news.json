@@ -1,5 +1,12 @@
 [
   {
+    "title": "Who do you think will win the World Cup? \n\n@SenatorHagerty chimes in with his prediction",
+    "link": "https://cryptopanic.com/news/33059338/Who-do-you-think-will-win-the-World-Cup-SenatorHagerty-chimes-in-with-his-prediction",
+    "source": "@coindesk",
+    "published": "Sat Jul 18 2026 19:42:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "ALERT: Kaspersky uncovered a new malware targeting crypto investors through fake GitHub apps and social engineering.",
     "link": "https://cryptopanic.com/news/33059340/ALERT-Kaspersky-uncovered-a-new-malware-targeting-crypto-investors-through-fake-GitHub-apps-and-social-engineering",
     "source": "@cointelegraph",
@@ -25,6 +32,13 @@
     "link": "https://cryptopanic.com/news/33059337/LATEST-Sharplink-CEO-Joseph-Chalom-predicts-most-public-companies-will-be-tokenized-over-the-next-couple-of-years-saying-160-trillion-of-public-equities-are-waiting-to-be-tokenized",
     "source": "@coinmarketcap",
     "published": "Sat Jul 18 2026 19:21:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Aptos is going full quantum-resistant...\n\nAccording to @MSBIntel, the scalable @Aptos L1 blockchain has launched post-quantum key migration as single onchain transaction.\n\nAccording to $APT itself, the network was named one of the \"best positioned for the post-quantum era\" by",
+    "link": "https://cryptopanic.com/news/33059343/Aptos-is-going-full-quantum-resistant-According-to-MSBIntel-the-scalable-Aptos-L1-blockchain-has-launched-post-quantum-key-migration-as-single-onchain-transaction-According-to-APT-itself-the-network-was-named-one-of-the-best-positioned-for-the-post-quantum-era-by",
+    "source": "@bscnews",
+    "published": "Sat Jul 18 2026 19:18:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33058992/OKX-Europe-Adds-One-Way-USDT-to-USDC-Conversion-Under-MiCA-Rules",
     "source": "coinpaprika.com",
     "published": "Sat Jul 18 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 Bank of America appoints new executives to lead and scale its digital asset platforms, tokenization business and AI transformation.",
-    "link": "https://cryptopanic.com/news/33059028/JUST-IN-Bank-of-America-appoints-new-executives-to-lead-and-scale-its-digital-asset-platforms-tokenization-business-and-AI-transformation",
-    "source": "@watcherguru",
-    "published": "Sat Jul 18 2026 16:58:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Aerodrome finally receives a Binance listing.\n\n@AerodromeFi has just received an official listing on @cz_binance's @Binance exchange platform - the industry's leading CEX platform.\n\nIt joins $AERO's existing major CEX listings which include @coinbase, @Bybit_Official and",
-    "link": "https://cryptopanic.com/news/33058985/Aerodrome-finally-receives-a-Binance-listing-AerodromeFi-has-just-received-an-official-listing-on-cz_binances-Binance-exchange-platform-the-industrys-leading-CEX-platform-It-joins-AEROs-existing-major-CEX-listings-which-include-coinbase-Bybit_Official-and",
-    "source": "@bscnews",
-    "published": "Sat Jul 18 2026 16:52:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
