@@ -1,5 +1,75 @@
 [
   {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33056659/Source",
+    "source": "@wublockchain",
+    "published": "Sat Jul 18 2026 02:31:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "France Blocks Access to Polymarket Website\n\nAccording to Reuters, France’s gambling regulator ANJ has ordered internet service providers to block access to prediction market platform Polymarket, alleging that it offers illegal gambling services. The regulator said the platform",
+    "link": "https://cryptopanic.com/news/33056658/France-Blocks-Access-to-Polymarket-Website-According-to-Reuters-Frances-gambling-regulator-ANJ-has-ordered-internet-service-providers-to-block-access-to-prediction-market-platform-Polymarket-alleging-that-it-offers-illegal-gambling-services-The-regulator-said-the-platform",
+    "source": "@wublockchain",
+    "published": "Sat Jul 18 2026 02:30:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Whale 0x8Fa4 sold 30,000 $ETH for 55M $USDC at a selling price of $1,833.33 via OTC 9 hours ago.",
+    "link": "https://cryptopanic.com/news/33056892/Whale-0x8Fa4-sold-30000-ETH-for-55M-USDC-at-a-selling-price-of-183333-via-OTC-9-hours-ago",
+    "source": "@lookonchain",
+    "published": "Sat Jul 18 2026 02:29:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Researcher Details Potential Command Execution Risks in Grok Build CLI and Claude Code CLI",
+    "link": "https://cryptopanic.com/news/33056876/Researcher-Details-Potential-Command-Execution-Risks-in-Grok-Build-CLI-and-Claude-Code-CLI",
+    "source": "square.binance.com",
+    "published": "Sat Jul 18 2026 02:23:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Meme Token BRIAN Falls More Than 75% in One Hour as Market Cap Drops to About $1.7 Million",
+    "link": "https://cryptopanic.com/news/33056875/Meme-Token-BRIAN-Falls-More-Than-75-in-One-Hour-as-Market-Cap-Drops-to-About-17-Million",
+    "source": "square.binance.com",
+    "published": "Sat Jul 18 2026 02:23:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "U.S. Central Command Ends Seven-Day Airstrike Campaign on Iran",
+    "link": "https://cryptopanic.com/news/33056874/US-Central-Command-Ends-Seven-Day-Airstrike-Campaign-on-Iran",
+    "source": "square.binance.com",
+    "published": "Sat Jul 18 2026 02:22:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin(BTC) Surpasses 64,000 USDT with a 0.69% Increase in 24 Hours",
+    "link": "https://cryptopanic.com/news/33056873/BitcoinBTC-Surpasses-64000-USDT-with-a-069-Increase-in-24-Hours",
+    "source": "square.binance.com",
+    "published": "Sat Jul 18 2026 02:21:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Pump fun(@Pumpfun) sold another 81,711 $SOL($6.15M) again today!\n\nIn total, has sold 4,738,536 $SOL($800.96M) at an average price of $169.",
+    "link": "https://cryptopanic.com/news/33056891/Pump-funPumpfun-sold-another-81711-SOL615M-again-today-In-total-has-sold-4738536-SOL80096M-at-an-average-price-of-169",
+    "source": "@lookonchain",
+    "published": "Sat Jul 18 2026 02:21:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "U.S. Grand Jury Charges South Dakota Crypto Investor Benjamin Paul Wiener With 29 Counts",
+    "link": "https://cryptopanic.com/news/33056872/US-Grand-Jury-Charges-South-Dakota-Crypto-Investor-Benjamin-Paul-Wiener-With-29-Counts",
+    "source": "square.binance.com",
+    "published": "Sat Jul 18 2026 02:13:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "U.S. President Donald Trump to Declassify Election Security Intelligence Tonight",
+    "link": "https://cryptopanic.com/news/33056871/US-President-Donald-Trump-to-Declassify-Election-Security-Intelligence-Tonight",
+    "source": "square.binance.com",
+    "published": "Sat Jul 18 2026 02:13:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Odds that the Clarity Act is signed into law in 2026 have fallen further to 36% in spite of Trump's meeting on it with lawmakers earlier this week.",
     "link": "https://cryptopanic.com/news/33056625/Odds-that-the-Clarity-Act-is-signed-into-law-in-2026-have-fallen-further-to-36-in-spite-of-Trumps-meeting-on-it-with-lawmakers-earlier-this-week",
     "source": "@stackersatoshi",
@@ -21,10 +91,87 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Did A16z just dump millions in $HYPE?!\n\nPer Wu Blockchain, a wallet address that is suspected to be linked to @a16z sold 105,400 @HyperliquidX tokens for a sum of $6.48 million.\n\nWu adds that another 190,000 $HYPE was transferred but it is not clear whether or not the tokens were",
+    "link": "https://cryptopanic.com/news/33056890/Did-A16z-just-dump-millions-in-HYPE-Per-Wu-Blockchain-a-wallet-address-that-is-suspected-to-be-linked-to-a16z-sold-105400-HyperliquidX-tokens-for-a-sum-of-648-million-Wu-adds-that-another-190000-HYPE-was-transferred-but-it-is-not-clear-whether-or-not-the-tokens-were",
+    "source": "@bscnews",
+    "published": "Sat Jul 18 2026 02:01:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "HUGE: Boeing reaffirmed strong long-term aircraft demand despite geopolitical tensions.\n\nThey're forecasting more than 43,000 jet deliveries over the next 20 years.",
+    "link": "https://cryptopanic.com/news/33056660/HUGE-Boeing-reaffirmed-strong-long-term-aircraft-demand-despite-geopolitical-tensions-Theyre-forecasting-more-than-43000-jet-deliveries-over-the-next-20-years",
+    "source": "@cointelegraph",
+    "published": "Sat Jul 18 2026 02:00:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "The Dark Truth of Fiat vs Crypto?!",
     "link": "https://cryptopanic.com/news/33056624/The-Dark-Truth-of-Fiat-vs-Crypto",
     "source": "SimplyBitcoin",
     "published": "Sat Jul 18 2026 02:00:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trezor Executive Rejects ZachXBT's Criticism of Hardware Wallets",
+    "link": "https://cryptopanic.com/news/33056870/Trezor-Executive-Rejects-ZachXBTs-Criticism-of-Hardware-Wallets",
+    "source": "square.binance.com",
+    "published": "Sat Jul 18 2026 01:53:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "@fundstrat Source",
+    "link": "https://cryptopanic.com/news/33056656/fundstrat-Source",
+    "source": "@wublockchain",
+    "published": "Sat Jul 18 2026 01:53:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "@fundstrat Source",
+    "link": "https://cryptopanic.com/news/33056655/fundstrat-Source",
+    "source": "@wublockchain",
+    "published": "Sat Jul 18 2026 01:52:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tom Lee: Ethereum Will Penalize Impatient Investors\n\nOn July 7, 2026, Tom Lee @fundstrat stated on the New Era Finance Podcast that the recent lag in the crypto market is primarily due to the aftermath of deleveraging, with capital flowing toward yield-bearing sectors. When",
+    "link": "https://cryptopanic.com/news/33056654/Tom-Lee-Ethereum-Will-Penalize-Impatient-Investors-On-July-7-2026-Tom-Lee-fundstrat-stated-on-the-New-Era-Finance-Podcast-that-the-recent-lag-in-the-crypto-market-is-primarily-due-to-the-aftermath-of-deleveraging-with-capital-flowing-toward-yield-bearing-sectors-When",
+    "source": "@wublockchain",
+    "published": "Sat Jul 18 2026 01:51:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "T. Rowe Price Launches Active Multi-Token Spot ETF TKNZ on NYSE Arca",
+    "link": "https://cryptopanic.com/news/33056869/T-Rowe-Price-Launches-Active-Multi-Token-Spot-ETF-TKNZ-on-NYSE-Arca",
+    "source": "square.binance.com",
+    "published": "Sat Jul 18 2026 01:43:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "T. Rowe Price Launches TKNZ Multi-Token Spot ETF on NYSE Arca",
+    "link": "https://cryptopanic.com/news/33056868/T-Rowe-Price-Launches-TKNZ-Multi-Token-Spot-ETF-on-NYSE-Arca",
+    "source": "square.binance.com",
+    "published": "Sat Jul 18 2026 01:43:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Whale or Institution Suspected of Selling 30,000 ETH Through Galaxy Digital",
+    "link": "https://cryptopanic.com/news/33056867/Whale-or-Institution-Suspected-of-Selling-30000-ETH-Through-Galaxy-Digital",
+    "source": "square.binance.com",
+    "published": "Sat Jul 18 2026 01:43:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "STOCKS | USDC Monthly Transfer Volume on Hyperliquid Doubles to $45.58 Billion in June",
+    "link": "https://cryptopanic.com/news/33056866/STOCKS-USDC-Monthly-Transfer-Volume-on-Hyperliquid-Doubles-to-4558-Billion-in-June",
+    "source": "square.binance.com",
+    "published": "Sat Jul 18 2026 01:34:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "AI TRENDS | Kimi K3 Trails Anthropic's Claude Fable 5 in 3D Model Test",
+    "link": "https://cryptopanic.com/news/33056865/AI-TRENDS-Kimi-K3-Trails-Anthropics-Claude-Fable-5-in-3D-Model-Test",
+    "source": "square.binance.com",
+    "published": "Sat Jul 18 2026 01:33:53 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -35,6 +182,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "U.S. Man Charged Over Malware Hidden in Game Downloads That Stole Crypto Wallets",
+    "link": "https://cryptopanic.com/news/33056864/US-Man-Charged-Over-Malware-Hidden-in-Game-Downloads-That-Stole-Crypto-Wallets",
+    "source": "square.binance.com",
+    "published": "Sat Jul 18 2026 01:23:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Wall Street extended its decline as a pullback on stocks associated with the AI boom, which has driven many of the gains so far this year, morphed into a larger risk-off sentiment",
     "link": "https://cryptopanic.com/news/33056521/Wall-Street-extended-its-decline-as-a-pullback-on-stocks-associated-with-the-AI-boom-which-has-driven-many-of-the-gains-so-far-this-year-morphed-into-a-larger-risk-off-sentiment",
     "source": "@reutersbiz",
@@ -42,171 +196,17 @@
     "sentiment": "neutral"
   },
   {
-    "title": "FTX schedules fifth wave of $900 million as Dotcom creditors near cumulative 105% recovery",
-    "link": "https://cryptopanic.com/news/33056422/FTX-schedules-fifth-wave-of-900-million-as-Dotcom-creditors-near-cumulative-105-recovery",
-    "source": "cryptopolitan.com",
-    "published": "Sat Jul 18 2026 01:10:01 GMT+0000 (Coordinated Universal Time)",
+    "title": "More Than 100 Homes Destroyed In Fire Near Drammen, Norway",
+    "link": "https://cryptopanic.com/news/33056863/More-Than-100-Homes-Destroyed-In-Fire-Near-Drammen-Norway",
+    "source": "square.binance.com",
+    "published": "Sat Jul 18 2026 01:15:59 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Four wallets opened 1x long positions on $AKE on @Aster_DEX, with a combined position of 3.48B $AKE($4.95M).\n\nThey are now up $1.42M in unrealized profit.",
-    "link": "https://cryptopanic.com/news/33056429/Four-wallets-opened-1x-long-positions-on-AKE-on-Aster_DEX-with-a-combined-position-of-348B-AKE495M-They-are-now-up-142M-in-unrealized-profit",
-    "source": "@lookonchain",
-    "published": "Sat Jul 18 2026 01:09:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33056519/Source",
-    "source": "@wublockchain",
-    "published": "Sat Jul 18 2026 01:09:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Consensys Says North Korea-Linked Developer Contributed to MetaMask Code Before Access Was Revoked\n\nAccording to Drop Site News, blockchain firm Consensys accidentally hired a software developer linked to North Korea. The developer, using the alias “Tyler Knapp,” joined through a",
-    "link": "https://cryptopanic.com/news/33056518/Consensys-Says-North-Korea-Linked-Developer-Contributed-to-MetaMask-Code-Before-Access-Was-Revoked-According-to-Drop-Site-News-blockchain-firm-Consensys-accidentally-hired-a-software-developer-linked-to-North-Korea-The-developer-using-the-alias-Tyler-Knapp-joined-through-a",
-    "source": "@wublockchain",
-    "published": "Sat Jul 18 2026 01:08:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Wanna know how much money Tether has made...?\n\nAccording to DefiLlama data, @Tether has made around $18.6 BILLION through yield on assets backing its industry-leading $USDT stablecoin.\n\nThe company has generated a staggering $5.9 billion in the past year alone, and $481 million",
-    "link": "https://cryptopanic.com/news/33056428/Wanna-know-how-much-money-Tether-has-made-According-to-DefiLlama-data-Tether-has-made-around-186-BILLION-through-yield-on-assets-backing-its-industry-leading-USDT-stablecoin-The-company-has-generated-a-staggering-59-billion-in-the-past-year-alone-and-481-million",
-    "source": "@bscnews",
-    "published": "Sat Jul 18 2026 01:03:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Can You Actually Earn A Billion Dollars?",
-    "link": "https://cryptopanic.com/news/33056427/Can-You-Actually-Earn-A-Billion-Dollars",
-    "source": "AnthonyPompliano",
-    "published": "Sat Jul 18 2026 01:02:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BONK Attackers Send Another 400B to Coinbase, CEX Total Hits 1.626T",
-    "link": "https://cryptopanic.com/news/33056381/BONK-Attackers-Send-Another-400B-to-Coinbase-CEX-Total-Hits-1626T",
-    "source": "coincu.com",
-    "published": "Sat Jul 18 2026 01:01:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTERESTING: Apple is about to flip Nvidia to become the largest company by Market Cap.",
-    "link": "https://cryptopanic.com/news/33056520/INTERESTING-Apple-is-about-to-flip-Nvidia-to-become-the-largest-company-by-Market-Cap",
-    "source": "@cointelegraph",
-    "published": "Sat Jul 18 2026 01:00:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "France orders ISPs to block Polymarket after payments ban fails",
-    "link": "https://cryptopanic.com/news/33056322/France-orders-ISPs-to-block-Polymarket-after-payments-ban-fails",
-    "source": "cryptopolitan.com",
-    "published": "Sat Jul 18 2026 00:36:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Robert Kiyosaki and Jim Rogers Give Moonshot Prediction for Gold and Silver",
-    "link": "https://cryptopanic.com/news/33056460/Robert-Kiyosaki-and-Jim-Rogers-Give-Moonshot-Prediction-for-Gold-and-Silver",
-    "source": "beincrypto.com",
-    "published": "Sat Jul 18 2026 00:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Daily #Cardano $ADA News! ️\n\n\"RealFi—Huge TVL Driver.\"",
-    "link": "https://cryptopanic.com/news/33056355/Daily-Cardano-ADA-News-RealFiHuge-TVL-Driver",
-    "source": "@angrycryptoshow",
-    "published": "Sat Jul 18 2026 00:25:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "I like $ADA\n🟠 I like $BTC\n️ I like $NIGHT\n️ I like $XRP",
-    "link": "https://cryptopanic.com/news/33056354/I-like-ADA-I-like-BTC-I-like-NIGHT-I-like-XRP",
-    "source": "@angrycryptoshow",
-    "published": "Sat Jul 18 2026 00:18:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Shiba Inu holder growth stalls after sudden spike...\n\nAfter $SHIB's holder count surged by nearly 75,000 in the space of just 24 hours on July 6, growth has been slow indeed.\n\nBetween July 6 and July 17, @Shibtoken's holder base grew by less than 1,900.\n\nThe explanation behind",
-    "link": "https://cryptopanic.com/news/33056261/Shiba-Inu-holder-growth-stalls-after-sudden-spike-After-SHIBs-holder-count-surged-by-nearly-75000-in-the-space-of-just-24-hours-on-July-6-growth-has-been-slow-indeed-Between-July-6-and-July-17-Shibtokens-holder-base-grew-by-less-than-1900-The-explanation-behind",
-    "source": "@bscnews",
-    "published": "Sat Jul 18 2026 00:11:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33056222/Source",
-    "source": "@wublockchain",
-    "published": "Sat Jul 18 2026 00:02:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP's Price Health Is on the Line, Did Shiba Inu (SHIB) Finally Bottom? Ethereum's (ETH) Mini-Golden Cross: Crypto Market Review",
-    "link": "https://cryptopanic.com/news/33056220/XRPs-Price-Health-Is-on-the-Line-Did-Shiba-Inu-SHIB-Finally-Bottom-Ethereums-ETH-Mini-Golden-Cross-Crypto-Market-Review",
-    "source": "u.today",
-    "published": "Sat Jul 18 2026 00:01:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BTC TRUE Goal! To End Banks & Fiat Money?!",
-    "link": "https://cryptopanic.com/news/33056226/BTC-TRUE-Goal-To-End-Banks-Fiat-Money",
-    "source": "SimplyBitcoin",
-    "published": "Sat Jul 18 2026 00:00:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CoWSwap Whale Transfers 528.2 ETH After Long Accumulation Period",
-    "link": "https://cryptopanic.com/news/33056189/CoWSwap-Whale-Transfers-5282-ETH-After-Long-Accumulation-Period",
-    "source": "coincu.com",
-    "published": "Fri Jul 17 2026 23:56:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Metal Pay highlights #Cardano's weekly momentum, says $ADA is \"holding up better than Dogecoin, Metal DAO, Solana, and Hedera.\" Metal X, the leading DEX on XPR Network, has surpassed 4.25M $XADA in total deposits for lending.",
-    "link": "https://cryptopanic.com/news/33056223/JUST-IN-Metal-Pay-highlights-Cardanos-weekly-momentum-says-ADA-is-holding-up-better-than-Dogecoin-Metal-DAO-Solana-and-Hedera-Metal-X-the-leading-DEX-on-XPR-Network-has-surpassed-425M-XADA-in-total-deposits-for-lending",
-    "source": "@angrycryptoshow",
-    "published": "Fri Jul 17 2026 23:53:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Amazon’s Zoox pulls all 105 robotaxis after one drove into a smoke-obscured fire scene",
-    "link": "https://cryptopanic.com/news/33056196/Amazons-Zoox-pulls-all-105-robotaxis-after-one-drove-into-a-smoke-obscured-fire-scene",
-    "source": "cryptopolitan.com",
-    "published": "Fri Jul 17 2026 23:51:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "FTX to Distribute About $900 Million to Creditors in Fifth Payout on July 31\n\nFTX will begin its fifth creditor distribution on July 31, paying approximately $900 million to holders of allowed claims in the Convenience and Non-Convenience Classes under its reorganization plan who",
-    "link": "https://cryptopanic.com/news/33056221/FTX-to-Distribute-About-900-Million-to-Creditors-in-Fifth-Payout-on-July-31-FTX-will-begin-its-fifth-creditor-distribution-on-July-31-paying-approximately-900-million-to-holders-of-allowed-claims-in-the-Convenience-and-Non-Convenience-Classes-under-its-reorganization-plan-who",
-    "source": "@wublockchain",
-    "published": "Fri Jul 17 2026 23:33:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "MetaMask Owner Uncovers North Korean Developer Hidden in Its Team",
-    "link": "https://cryptopanic.com/news/33056217/MetaMask-Owner-Uncovers-North-Korean-Developer-Hidden-in-Its-Team",
-    "source": "beincrypto.com",
-    "published": "Fri Jul 17 2026 23:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇺🇸 House Financial Services Committee Chairman French Hill says President Trump has \"worked hard with his lawyers\" to meet Senate Democrats' ethics requirements for the CLARITY Act.",
-    "link": "https://cryptopanic.com/news/33056134/LATEST-House-Financial-Services-Committee-Chairman-French-Hill-says-President-Trump-has-worked-hard-with-his-lawyers-to-meet-Senate-Democrats-ethics-requirements-for-the-CLARITY-Act",
-    "source": "@coinmarketcap",
-    "published": "Fri Jul 17 2026 23:23:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Strategy's $STRC just saw its lowest daily close since the end of June.",
-    "link": "https://cryptopanic.com/news/33056186/Strategys-STRC-just-saw-its-lowest-daily-close-since-the-end-of-June",
-    "source": "@stackersatoshi",
-    "published": "Fri Jul 17 2026 23:19:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Spot Bitcoin ETFs on track for a bearish week...\n\nDespite three consecutive days of net inflows, spot $BTC ETFs are currently down -$56.6M on the week.\n\nThe negative performance is driven by the massive -$425M outflow the products saw on Monday, July 13.\n\nUnless the products see",
-    "link": "https://cryptopanic.com/news/33056171/Spot-Bitcoin-ETFs-on-track-for-a-bearish-week-Despite-three-consecutive-days-of-net-inflows-spot-BTC-ETFs-are-currently-down-566M-on-the-week-The-negative-performance-is-driven-by-the-massive-425M-outflow-the-products-saw-on-Monday-July-13-Unless-the-products-see",
-    "source": "@bscnews",
-    "published": "Fri Jul 17 2026 23:17:00 GMT+0000 (Coordinated Universal Time)",
+    "title": "Four Addresses Open 1x AKE Long Positions on Aster DEX",
+    "link": "https://cryptopanic.com/news/33056862/Four-Addresses-Open-1x-AKE-Long-Positions-on-Aster-DEX",
+    "source": "square.binance.com",
+    "published": "Sat Jul 18 2026 01:13:47 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
