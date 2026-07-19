@@ -1,5 +1,12 @@
 [
   {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33061213/Source",
+    "source": "@wublockchain",
+    "published": "Sun Jul 19 2026 10:42:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "CLARITY Act Momentum Builds After Senator Hagerty's Bold Promise — XRP Back in the Spotlight",
     "link": "https://cryptopanic.com/news/33061156/CLARITY-Act-Momentum-Builds-After-Senator-Hagertys-Bold-Promise-XRP-Back-in-the-Spotlight",
     "source": "coinpaper.com",
@@ -200,13 +207,6 @@
     "link": "https://cryptopanic.com/news/33060828/LATEST-South-Korea-has-investigated-30-crypto-market-manipulation-cases-under-its-new-crypto-law",
     "source": "@cointelegraph",
     "published": "Sun Jul 19 2026 07:30:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Elizabeth Warren Seeks New Trump Crypto Income Disclosures After $1.4B 2025 Filing",
-    "link": "https://cryptopanic.com/news/33060742/Elizabeth-Warren-Seeks-New-Trump-Crypto-Income-Disclosures-After-14B-2025-Filing",
-    "source": "coincu.com",
-    "published": "Sun Jul 19 2026 07:08:54 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
