@@ -1,5 +1,89 @@
 [
   {
+    "title": "Trump administration weighs bans on Chinese open-source AI models",
+    "link": "https://cryptopanic.com/news/33068158/Trump-administration-weighs-bans-on-Chinese-open-source-AI-models",
+    "source": "cryptopolitan.com",
+    "published": "Mon Jul 20 2026 17:40:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "On-Chain Data Hints At a Brewing XRP Supply Squeeze",
+    "link": "https://cryptopanic.com/news/33068132/On-Chain-Data-Hints-At-a-Brewing-XRP-Supply-Squeeze",
+    "source": "dailycoin.com",
+    "published": "Mon Jul 20 2026 17:40:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Across, Allbridge, TeleSwap lost $5.7M to bridge hacks in past week",
+    "link": "https://cryptopanic.com/news/33068114/Across-Allbridge-TeleSwap-lost-57M-to-bridge-hacks-in-past-week",
+    "source": "protos.com",
+    "published": "Mon Jul 20 2026 17:33:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Nigeria Creates Virtual Assets Commission for Crypto Regulation",
+    "link": "https://cryptopanic.com/news/33068085/Nigeria-Creates-Virtual-Assets-Commission-for-Crypto-Regulation",
+    "source": "coincu.com",
+    "published": "Mon Jul 20 2026 17:31:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Breakingviews - 'The Odyssey' triumph casts IMAX suitors adrift",
+    "link": "https://cryptopanic.com/news/33068088/Breakingviews-The-Odyssey-triumph-casts-IMAX-suitors-adrift",
+    "source": "@reutersbiz",
+    "published": "Mon Jul 20 2026 17:30:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33068081/Source",
+    "source": "@wublockchain",
+    "published": "Mon Jul 20 2026 17:29:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "South Korea revives its stalled crypto law\n\nSeoul is back at the table. Lawmakers restarted talks on the Digital Asset Basic Act after a four-month freeze, with the government targeting passage by year-end.\n\nTwo fights are still live are the bank-led won stablecoin consortiums,",
+    "link": "https://cryptopanic.com/news/33068149/South-Korea-revives-its-stalled-crypto-law-Seoul-is-back-at-the-table-Lawmakers-restarted-talks-on-the-Digital-Asset-Basic-Act-after-a-four-month-freeze-with-the-government-targeting-passage-by-year-end-Two-fights-are-still-live-are-the-bank-led-won-stablecoin-consortiums",
+    "source": "@bscnews",
+    "published": "Mon Jul 20 2026 17:26:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Former NY Governor Cuomo joins OKX board, touts 24/7 tokenized trading",
+    "link": "https://cryptopanic.com/news/33068069/Former-NY-Governor-Cuomo-joins-OKX-board-touts-247-tokenized-trading",
+    "source": "theblock.co",
+    "published": "Mon Jul 20 2026 17:25:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Reclaims $65,000 – What’s the Next Important Level?",
+    "link": "https://cryptopanic.com/news/33068050/Bitcoin-Reclaims-65000-Whats-the-Next-Important-Level",
+    "source": "coindoo.com",
+    "published": "Mon Jul 20 2026 17:22:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: Former Microsoft AI researchers launch Skyfall AI and plan to spend up to $1 million acquiring a business to test whether an “AI CEO” can run it, per Forbes.",
+    "link": "https://cryptopanic.com/news/33068084/NEW-Former-Microsoft-AI-researchers-launch-Skyfall-AI-and-plan-to-spend-up-to-1-million-acquiring-a-business-to-test-whether-an-AI-CEO-can-run-it-per-Forbes",
+    "source": "@cointelegraph",
+    "published": "Mon Jul 20 2026 17:20:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitmine Expands Ethereum Empire – Here Is Why Its Staking Strategy Is Becoming a Major Revenue Engine",
+    "link": "https://cryptopanic.com/news/33068098/Bitmine-Expands-Ethereum-Empire-Here-Is-Why-Its-Staking-Strategy-Is-Becoming-a-Major-Revenue-Engine",
+    "source": "blocknews.com",
+    "published": "Mon Jul 20 2026 17:15:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Russian steel magnate sells shipping firm operating in Sea of Azov, sources say",
+    "link": "https://cryptopanic.com/news/33068087/Russian-steel-magnate-sells-shipping-firm-operating-in-Sea-of-Azov-sources-say",
+    "source": "@reutersbiz",
+    "published": "Mon Jul 20 2026 17:15:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin just reached its highest level since June 17th and is +11.7% since the start of July.",
     "link": "https://cryptopanic.com/news/33067997/Bitcoin-just-reached-its-highest-level-since-June-17th-and-is-117-since-the-start-of-July",
     "source": "@stackersatoshi",
@@ -21,10 +105,31 @@
     "sentiment": "neutral"
   },
   {
+    "title": "HOT TOPIC: Whale alert  The top 2 just went quiet\n\nStrategy hasn't touched bitcoin:native since June 22 and sits on $3B in cash. Bitmine slowed its ethereum:native buys to fund an $86M buyback.\n\nThe biggest buyers in the market are waiting. For what?",
+    "link": "https://cryptopanic.com/news/33068077/HOT-TOPIC-Whale-alert-The-top-2-just-went-quiet-Strategy-hasnt-touched-bitcoinnative-since-June-22-and-sits-on-3B-in-cash-Bitmine-slowed-its-ethereumnative-buys-to-fund-an-86M-buyback-The-biggest-buyers-in-the-market-are-waiting-For-what",
+    "source": "@coinmarketcap",
+    "published": "Mon Jul 20 2026 17:11:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: Bernstein raised its Robinhood ($HOOD) price target to $160 from $130, saying prediction markets could overtake crypto as the broker's largest revenue line.",
+    "link": "https://cryptopanic.com/news/33068082/LATEST-Bernstein-raised-its-Robinhood-HOOD-price-target-to-160-from-130-saying-prediction-markets-could-overtake-crypto-as-the-brokers-largest-revenue-line",
+    "source": "@coindesk",
+    "published": "Mon Jul 20 2026 17:09:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Vietnam introduces $1,900 fine for trading crypto on unlicensed platforms",
     "link": "https://cryptopanic.com/news/33067974/Vietnam-introduces-1900-fine-for-trading-crypto-on-unlicensed-platforms",
     "source": "cryptopolitan.com",
     "published": "Mon Jul 20 2026 17:08:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Breakingviews - Chicago pays and displays parking-fiasco warning",
+    "link": "https://cryptopanic.com/news/33068086/Breakingviews-Chicago-pays-and-displays-parking-fiasco-warning",
+    "source": "@reutersbiz",
+    "published": "Mon Jul 20 2026 17:01:42 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -42,6 +147,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Vietnam to Fine Users Up to $1,900 for Trading on Unlicensed Crypto Platforms\n\nVietnam has issued Decree No. 284/2026/ND-CP, introducing administrative penalties for crypto-related violations ahead of the launch of its regulated digital asset market. Under the new rules,",
+    "link": "https://cryptopanic.com/news/33068080/Vietnam-to-Fine-Users-Up-to-1900-for-Trading-on-Unlicensed-Crypto-Platforms-Vietnam-has-issued-Decree-No-2842026ND-CP-introducing-administrative-penalties-for-crypto-related-violations-ahead-of-the-launch-of-its-regulated-digital-asset-market-Under-the-new-rules",
+    "source": "@wublockchain",
+    "published": "Mon Jul 20 2026 16:59:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Hut 8 stock rises 5% after $9.8 billion Texas data center lease",
     "link": "https://cryptopanic.com/news/33067905/Hut-8-stock-rises-5-after-98-billion-Texas-data-center-lease",
     "source": "cryptopolitan.com",
@@ -53,6 +165,13 @@
     "link": "https://cryptopanic.com/news/33067893/Grayscale-spotlights-Ripples-XRPL-and-stablecoin-strategy-Grayscale-is-putting-its-name-behind-Ripples-institutional-story-The-asset-manager-sat-down-with-stablecoin-chief-Jack-McDonald-to-lay-out-the-case-for-ethereum0x8292bb45bf1ee4d140127049757c2e0ff06317ed-and",
     "source": "@bscnews",
     "published": "Mon Jul 20 2026 16:55:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 TODAY: Trump warned Iran will “pay many times over” for every American soldier killed.",
+    "link": "https://cryptopanic.com/news/33068083/TODAY-Trump-warned-Iran-will-pay-many-times-over-for-every-American-soldier-killed",
+    "source": "@cointelegraph",
+    "published": "Mon Jul 20 2026 16:50:28 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -88,125 +207,6 @@
     "link": "https://cryptopanic.com/news/33067828/LATEST-Hyperliquid-plans-to-open-HIP-4-outcome-markets-to-permissionless-deployment-with-deployers-required-to-stake-500000-HYPE",
     "source": "@coinmarketcap",
     "published": "Mon Jul 20 2026 16:41:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "@BTQ_Tech x TIDAL PWR 🤝\n\nThe next generation of AI infrastructure won't just require more GPUs, it will require trusted quantum systems, secure deployment frameworks, and the standards needed to bring emerging technologies into real-world data centers.\n\nBTQ and TIDAL PWR are",
-    "link": "https://cryptopanic.com/news/33067892/BTQ_Tech-x-TIDAL-PWR-The-next-generation-of-AI-infrastructure-wont-just-require-more-GPUs-it-will-require-trusted-quantum-systems-secure-deployment-frameworks-and-the-standards-needed-to-bring-emerging-technologies-into-real-world-data-centers-BTQ-and-TIDAL-PWR-are",
-    "source": "@bscnews",
-    "published": "Mon Jul 20 2026 16:40:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Bitcoin miner IREN surged 16% after raising its AI cloud revenue target to over $4 billion on the back of $2.8 billion in new AI infrastructure contracts.",
-    "link": "https://cryptopanic.com/news/33067839/UPDATE-Bitcoin-miner-IREN-surged-16-after-raising-its-AI-cloud-revenue-target-to-over-4-billion-on-the-back-of-28-billion-in-new-AI-infrastructure-contracts",
-    "source": "@cointelegraph",
-    "published": "Mon Jul 20 2026 16:40:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Avalanche faces key test as $23M token unlock meets surging network activity",
-    "link": "https://cryptopanic.com/news/33067880/Avalanche-faces-key-test-as-23M-token-unlock-meets-surging-network-activity",
-    "source": "coinjournal.net",
-    "published": "Mon Jul 20 2026 16:39:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Bitcoin long-term holder supply hits new record high",
-    "link": "https://cryptopanic.com/news/33067834/JUST-IN-Bitcoin-long-term-holder-supply-hits-new-record-high",
-    "source": "@cryptonwsuk",
-    "published": "Mon Jul 20 2026 16:39:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Apple Stock Price Prediction: Can July Earnings Push AAPL Past $5 Trillion?",
-    "link": "https://cryptopanic.com/news/33067986/Apple-Stock-Price-Prediction-Can-July-Earnings-Push-AAPL-Past-5-Trillion",
-    "source": "beincrypto.com",
-    "published": "Mon Jul 20 2026 16:38:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "@brian_armstrong Crypto KOL @RuneCrypto_ questioned Coinbase co-founder and CEO Brian Armstrong’s claim that he may not have known his posts were associated with a token. @RuneCrypto_ said BRIAN, a Base token named after Armstrong, generated more than $100 million in trading volume and attracted",
-    "link": "https://cryptopanic.com/news/33067830/brian_armstrong-Crypto-KOL-RuneCrypto_-questioned-Coinbase-co-founder-and-CEO-Brian-Armstrongs-claim-that-he-may-not-have-known-his-posts-were-associated-with-a-token-RuneCrypto_-said-BRIAN-a-Base-token-named-after-Armstrong-generated-more-than-100-million-in-trading-volume-and-attracted",
-    "source": "@wublockchain",
-    "published": "Mon Jul 20 2026 16:37:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum News: BlackRock’s ETHA Drives ETH ETF Reversal With Back-to-Back Inflow Weeks",
-    "link": "https://cryptopanic.com/news/33067806/Ethereum-News-BlackRocks-ETHA-Drives-ETH-ETF-Reversal-With-Back-to-Back-Inflow-Weeks",
-    "source": "cryptonews.com",
-    "published": "Mon Jul 20 2026 16:37:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP's Amazon-Like Setup Tightens as RSI Nears Historic Signal",
-    "link": "https://cryptopanic.com/news/33067810/XRPs-Amazon-Like-Setup-Tightens-as-RSI-Nears-Historic-Signal",
-    "source": "coinpaper.com",
-    "published": "Mon Jul 20 2026 16:37:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "South Korea’s stock exchange paused trading 38 times this year",
-    "link": "https://cryptopanic.com/news/33067797/South-Koreas-stock-exchange-paused-trading-38-times-this-year",
-    "source": "protos.com",
-    "published": "Mon Jul 20 2026 16:35:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitmine Nears 5% Ethereum Supply Goal with $11.5B Portfolio",
-    "link": "https://cryptopanic.com/news/33067814/Bitmine-Nears-5-Ethereum-Supply-Goal-with-115B-Portfolio",
-    "source": "cryptodnes.bg",
-    "published": "Mon Jul 20 2026 16:31:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Rises 1.59% as 26.3% Holder Gap Signals Market Weakness",
-    "link": "https://cryptopanic.com/news/33067759/Bitcoin-Rises-159-as-263-Holder-Gap-Signals-Market-Weakness",
-    "source": "coinpaper.com",
-    "published": "Mon Jul 20 2026 16:30:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hyperliquid opens prediction markets to anyone\n\n@HyperliquidX is handing outcome markets to the crowd. HIP-4 goes permissionless. Anyone will be able to launch a prediction market, no protocol approval needed.\n\nThe price of entry is 500k hyperliquid:native staked to deploy, about",
-    "link": "https://cryptopanic.com/news/33067891/Hyperliquid-opens-prediction-markets-to-anyone-HyperliquidX-is-handing-outcome-markets-to-the-crowd-HIP-4-goes-permissionless-Anyone-will-be-able-to-launch-a-prediction-market-no-protocol-approval-needed-The-price-of-entry-is-500k-hyperliquidnative-staked-to-deploy-about",
-    "source": "@bscnews",
-    "published": "Mon Jul 20 2026 16:24:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Russia Crypto Bill To Let Firms Use Bitcoin for Foreign Trade: Report",
-    "link": "https://cryptopanic.com/news/33067744/Russia-Crypto-Bill-To-Let-Firms-Use-Bitcoin-for-Foreign-Trade-Report",
-    "source": "coinpaper.com",
-    "published": "Mon Jul 20 2026 16:21:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Russia Advances Crypto Bill – Here Is Why Cross-Border Bitcoin Payments Could Soon Become Legal",
-    "link": "https://cryptopanic.com/news/33067999/Russia-Advances-Crypto-Bill-Here-Is-Why-Cross-Border-Bitcoin-Payments-Could-Soon-Become-Legal",
-    "source": "blocknews.com",
-    "published": "Mon Jul 20 2026 16:20:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Robinhood has opened its platform to AI agents, allowing users to let AI research, trade, and manage portfolios through agentic accounts.",
-    "link": "https://cryptopanic.com/news/33067838/NEW-Robinhood-has-opened-its-platform-to-AI-agents-allowing-users-to-let-AI-research-trade-and-manage-portfolios-through-agentic-accounts",
-    "source": "@cointelegraph",
-    "published": "Mon Jul 20 2026 16:19:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: #Cardano $ADA Founder Charles Hoskinson says \"ShieldUSD is one of the most exciting hybrid applications for Cardano and Midnight—a privacy stablecoin. I cannot wait to connect it to Pogun and other standards to see billions minted.\"",
-    "link": "https://cryptopanic.com/news/33067833/UPDATE-Cardano-ADA-Founder-Charles-Hoskinson-says-ShieldUSD-is-one-of-the-most-exciting-hybrid-applications-for-Cardano-and-Midnighta-privacy-stablecoin-I-cannot-wait-to-connect-it-to-Pogun-and-other-standards-to-see-billions-minted",
-    "source": "@angrycryptoshow",
-    "published": "Mon Jul 20 2026 16:19:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: RealFi on AlphaGrowth, says \"stronger liquidity and more mature DeFi infrastructure benefit the entire ecosystem. As we continue building RealFi, we're aligned with efforts that drive durable growth and better capital formation on #Cardano $ADA.\"",
-    "link": "https://cryptopanic.com/news/33067832/JUST-IN-RealFi-on-AlphaGrowth-says-stronger-liquidity-and-more-mature-DeFi-infrastructure-benefit-the-entire-ecosystem-As-we-continue-building-RealFi-were-aligned-with-efforts-that-drive-durable-growth-and-better-capital-formation-on-Cardano-ADA",
-    "source": "@angrycryptoshow",
-    "published": "Mon Jul 20 2026 16:18:50 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
