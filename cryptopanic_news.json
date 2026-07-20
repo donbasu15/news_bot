@@ -1,5 +1,33 @@
 [
   {
+    "title": "LATEST: Tokenized assets on Solana reached a record $5.8 billion in Q2, surging 114% QoQ and marking a sixth consecutive quarterly all-time high.",
+    "link": "https://cryptopanic.com/news/33069247/LATEST-Tokenized-assets-on-Solana-reached-a-record-58-billion-in-Q2-surging-114-QoQ-and-marking-a-sixth-consecutive-quarterly-all-time-high",
+    "source": "@cointelegraph",
+    "published": "Mon Jul 20 2026 22:40:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇷🇺 Russia's State Duma will hold final readings Tuesday on a crypto bill capping annual purchases at $3,800 for retail investors and $38,000 for qualified ones.",
+    "link": "https://cryptopanic.com/news/33069244/LATEST-Russias-State-Duma-will-hold-final-readings-Tuesday-on-a-crypto-bill-capping-annual-purchases-at-3800-for-retail-investors-and-38000-for-qualified-ones",
+    "source": "@coinmarketcap",
+    "published": "Mon Jul 20 2026 22:35:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: MetaMask, Chainlink, and Ethereum ranked as the top three Ethereum ecosystem projects by development activity, according to Santiment.",
+    "link": "https://cryptopanic.com/news/33069246/LATEST-MetaMask-Chainlink-and-Ethereum-ranked-as-the-top-three-Ethereum-ecosystem-projects-by-development-activity-according-to-Santiment",
+    "source": "@cointelegraph",
+    "published": "Mon Jul 20 2026 22:20:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Valeo to make drone motors in France for Harmattan AI",
+    "link": "https://cryptopanic.com/news/33069248/Valeo-to-make-drone-motors-in-France-for-Harmattan-AI",
+    "source": "@reutersbiz",
+    "published": "Mon Jul 20 2026 22:15:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "XRPL Reserve Debate Splits Community Over Adoption vs Security",
     "link": "https://cryptopanic.com/news/33069160/XRPL-Reserve-Debate-Splits-Community-Over-Adoption-vs-Security",
     "source": "cryptopotato.com",
@@ -11,6 +39,13 @@
     "link": "https://cryptopanic.com/news/33069174/Whales-are-stocking-up-on-ETH-According-to-data-from-lookonchain-a-new-Ethereum-wallet-has-today-withdrawn-some-10000-Ether-worth-some-186M-from-the-Binance-exchange-and-they-are-not-alone-Only-yesterday-we-reported-that-Ethereums-staking-exit-queue-hit-absolute",
     "source": "@bscnews",
     "published": "Mon Jul 20 2026 22:02:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 JUST IN: The SEC has sued Mining Automatic and its founder, alleging they raised $22 million from investors while spending only about 13% of the funds on crypto mining operations.",
+    "link": "https://cryptopanic.com/news/33069245/JUST-IN-The-SEC-has-sued-Mining-Automatic-and-its-founder-alleging-they-raised-22-million-from-investors-while-spending-only-about-13-of-the-funds-on-crypto-mining-operations",
+    "source": "@cointelegraph",
+    "published": "Mon Jul 20 2026 22:01:30 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33068944/Bank-of-Korea-Scales-Up-CBDC-Pilot-With-Half-a-Million-Users",
     "source": "decrypt.co",
     "published": "Mon Jul 20 2026 21:12:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇨🇦 JUST IN: President Trump has signed orders imposing 50% tariffs on a wide range of Canadian goods, with the new duties set to take effect in 30 days, according to The New York Times.",
-    "link": "https://cryptopanic.com/news/33068941/JUST-IN-President-Trump-has-signed-orders-imposing-50-tariffs-on-a-wide-range-of-Canadian-goods-with-the-new-duties-set-to-take-effect-in-30-days-according-to-The-New-York-Times",
-    "source": "@cointelegraph",
-    "published": "Mon Jul 20 2026 21:11:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: $0.17 $ADA",
-    "link": "https://cryptopanic.com/news/33068937/JUST-IN-017-ADA",
-    "source": "@angrycryptoshow",
-    "published": "Mon Jul 20 2026 21:09:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸🇨🇦 US imposes 50% tariffs on many Canadian goods, including products covered under USMCA.",
-    "link": "https://cryptopanic.com/news/33068938/JUST-IN-US-imposes-50-tariffs-on-many-Canadian-goods-including-products-covered-under-USMCA",
-    "source": "@cryptonwsuk",
-    "published": "Mon Jul 20 2026 21:07:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Prediction Markets Draw Insider Trading Concerns Amid Uncertainty",
-    "link": "https://cryptopanic.com/news/33069079/Prediction-Markets-Draw-Insider-Trading-Concerns-Amid-Uncertainty",
-    "source": "square.binance.com",
-    "published": "Mon Jul 20 2026 21:06:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "OpenAI is Trying to BAN Chinese AI Models in the US",
-    "link": "https://cryptopanic.com/news/33068958/OpenAI-is-Trying-to-BAN-Chinese-AI-Models-in-the-US",
-    "source": "AnthonyPompliano",
-    "published": "Mon Jul 20 2026 21:04:37 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
