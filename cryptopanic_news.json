@@ -1,9 +1,65 @@
 [
   {
+    "title": "Can Aptos become a top-10 stablecoin chain...?\n\nAt time of writing, @Aptos' stablecoin supply is up +6.3% on the week with a total of around $1.16 billion in stables hosted on the network.\n\nThis figure places $APT $435 million behind $AVAX, which has seen its supply contract by",
+    "link": "https://cryptopanic.com/news/33063400/Can-Aptos-become-a-top-10-stablecoin-chain-At-time-of-writing-Aptos-stablecoin-supply-is-up-63-on-the-week-with-a-total-of-around-116-billion-in-stables-hosted-on-the-network-This-figure-places-APT-435-million-behind-AVAX-which-has-seen-its-supply-contract-by",
+    "source": "@bscnews",
+    "published": "Mon Jul 20 2026 02:19:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ALERT: Allbridge Core was exploited for roughly $1.65 million, with the attacker bridging stolen funds from Solana to Ethereum.\n\nAllbridge said it has paused the protocol as a precaution and is urging affected LPs to withdraw immediately.",
+    "link": "https://cryptopanic.com/news/33063358/ALERT-Allbridge-Core-was-exploited-for-roughly-165-million-with-the-attacker-bridging-stolen-funds-from-Solana-to-Ethereum-Allbridge-said-it-has-paused-the-protocol-as-a-precaution-and-is-urging-affected-LPs-to-withdraw-immediately",
+    "source": "@cointelegraph",
+    "published": "Mon Jul 20 2026 02:15:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Kimi K3 Demand Pushes Moonshot AI to Halt New Subscriptions as GPUs Feel Strain",
+    "link": "https://cryptopanic.com/news/33063382/Kimi-K3-Demand-Pushes-Moonshot-AI-to-Halt-New-Subscriptions-as-GPUs-Feel-Strain",
+    "source": "beincrypto.com",
+    "published": "Mon Jul 20 2026 02:14:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Allbridge(@Allbridge_io) was exploited for ~$1.65M!\n\nThe exploiter quickly bridged all the stolen funds from #Solana to #Ethereum and swapped them for $ETH.",
+    "link": "https://cryptopanic.com/news/33063401/AllbridgeAllbridge_io-was-exploited-for-165M-The-exploiter-quickly-bridged-all-the-stolen-funds-from-Solana-to-Ethereum-and-swapped-them-for-ETH",
+    "source": "@lookonchain",
+    "published": "Mon Jul 20 2026 02:11:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin, Ethereum, XRP, Dogecoin Stay Flat Amid Iran Tensions—Analyst Says This BTC Level Could Ignite 'Sustained Bull Trend'",
+    "link": "https://cryptopanic.com/news/33063348/Bitcoin-Ethereum-XRP-Dogecoin-Stay-Flat-Amid-Iran-TensionsAnalyst-Says-This-BTC-Level-Could-Ignite-Sustained-Bull-Trend",
+    "source": "feeds2.benzinga.com",
+    "published": "Mon Jul 20 2026 02:10:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Alibaba’s Qwen3.8-Max Follows Kimi K3 Release: Another Chinese Challenge to Fable 5?",
+    "link": "https://cryptopanic.com/news/33063381/Alibabas-Qwen38-Max-Follows-Kimi-K3-Release-Another-Chinese-Challenge-to-Fable-5",
+    "source": "beincrypto.com",
+    "published": "Mon Jul 20 2026 02:07:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇬🇧 LATEST: UK CFOs are growing more optimistic about AI's impact on their businesses, with 73% now bullish, up from just 39% two years ago, per Deloitte's latest survey.",
+    "link": "https://cryptopanic.com/news/33063357/LATEST-UK-CFOs-are-growing-more-optimistic-about-AIs-impact-on-their-businesses-with-73-now-bullish-up-from-just-39-two-years-ago-per-Deloittes-latest-survey",
+    "source": "@cointelegraph",
+    "published": "Mon Jul 20 2026 02:00:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Clarity Act! Trillions in Capital Moving Into BTC?",
     "link": "https://cryptopanic.com/news/33063314/Clarity-Act-Trillions-in-Capital-Moving-Into-BTC",
     "source": "SimplyBitcoin",
     "published": "Mon Jul 20 2026 02:00:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Allbridge Core Paused After $1.65M Exploit on Solana\n\nAllbridge said it paused Allbridge Core following a security incident and urged LPs in affected pools to withdraw funds. PeckShield said the protocol was exploited for about $1.65 million, with the attacker bridging the stolen",
+    "link": "https://cryptopanic.com/news/33063356/Allbridge-Core-Paused-After-165M-Exploit-on-Solana-Allbridge-said-it-paused-Allbridge-Core-following-a-security-incident-and-urged-LPs-in-affected-pools-to-withdraw-funds-PeckShield-said-the-protocol-was-exploited-for-about-165-million-with-the-attacker-bridging-the-stolen",
+    "source": "@wublockchain",
+    "published": "Mon Jul 20 2026 01:54:57 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -151,62 +207,6 @@
     "link": "https://cryptopanic.com/news/33062912/HUGE-Polymarket-control-93-of-all-political-prediction-markets",
     "source": "@cointelegraph",
     "published": "Sun Jul 19 2026 22:30:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇪🇸🇦🇷 Drake loses $1,500,000 $USDT bet after Spain defeats Argentina to win the FIFA World Cup final.",
-    "link": "https://cryptopanic.com/news/33062872/JUST-IN-Drake-loses-1500000-USDT-bet-after-Spain-defeats-Argentina-to-win-the-FIFA-World-Cup-final",
-    "source": "@watcherguru",
-    "published": "Sun Jul 19 2026 22:12:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Oil has jumped +3% at the futures open to start the week.",
-    "link": "https://cryptopanic.com/news/33062873/Oil-has-jumped-3-at-the-futures-open-to-start-the-week",
-    "source": "@stackersatoshi",
-    "published": "Sun Jul 19 2026 22:04:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The $700 Billion Reason Bitcoin Is Going to a New ATH",
-    "link": "https://cryptopanic.com/news/33062814/The-700-Billion-Reason-Bitcoin-Is-Going-to-a-New-ATH",
-    "source": "SimplyBitcoin",
-    "published": "Sun Jul 19 2026 22:01:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Jack Mallers! Government Is Debasing The Money!",
-    "link": "https://cryptopanic.com/news/33062813/Jack-Mallers-Government-Is-Debasing-The-Money",
-    "source": "SimplyBitcoin",
-    "published": "Sun Jul 19 2026 22:00:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto market’s weekly winners and losers –  LDO, PUMP, LIT, PI",
-    "link": "https://cryptopanic.com/news/33062802/Crypto-markets-weekly-winners-and-losers-LDO-PUMP-LIT-PI",
-    "source": "ambcrypto.com",
-    "published": "Sun Jul 19 2026 22:00:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Avalanche daily txns have exploded in the past year.\n\nAccording to @artemis data, daily transaction count for @avax has been moving only one way since Q2 2025.\n\nIn April/May of 2025, daily $AVAX txns stood at roughly 300,000 per day.\n\nTaking into account a spike on July 13 of",
-    "link": "https://cryptopanic.com/news/33062834/Avalanche-daily-txns-have-exploded-in-the-past-year-According-to-artemis-data-daily-transaction-count-for-avax-has-been-moving-only-one-way-since-Q2-2025-In-AprilMay-of-2025-daily-AVAX-txns-stood-at-roughly-300000-per-day-Taking-into-account-a-spike-on-July-13-of",
-    "source": "@bscnews",
-    "published": "Sun Jul 19 2026 21:56:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Saylor urges Bitcoin to reject BIP-110 in 110-point essay as soft fork’s August showdown approaches",
-    "link": "https://cryptopanic.com/news/33062780/Saylor-urges-Bitcoin-to-reject-BIP-110-in-110-point-essay-as-soft-forks-August-showdown-approaches",
-    "source": "theblock.co",
-    "published": "Sun Jul 19 2026 21:51:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Kraken Won Historic Fed Approval. So Why Isn’t Its Master Account Live Yet?",
-    "link": "https://cryptopanic.com/news/33062867/Kraken-Won-Historic-Fed-Approval-So-Why-Isnt-Its-Master-Account-Live-Yet",
-    "source": "beincrypto.com",
-    "published": "Sun Jul 19 2026 21:48:06 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
