@@ -1,9 +1,135 @@
 [
   {
+    "title": "LATEST:  Hyperliquid plans to open HIP-4 outcome markets to permissionless deployment, with deployers required to stake 500,000 HYPE.",
+    "link": "https://cryptopanic.com/news/33067828/LATEST-Hyperliquid-plans-to-open-HIP-4-outcome-markets-to-permissionless-deployment-with-deployers-required-to-stake-500000-HYPE",
+    "source": "@coinmarketcap",
+    "published": "Mon Jul 20 2026 16:41:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Bitcoin miner IREN surged 16% after raising its AI cloud revenue target to over $4 billion on the back of $2.8 billion in new AI infrastructure contracts.",
+    "link": "https://cryptopanic.com/news/33067839/UPDATE-Bitcoin-miner-IREN-surged-16-after-raising-its-AI-cloud-revenue-target-to-over-4-billion-on-the-back-of-28-billion-in-new-AI-infrastructure-contracts",
+    "source": "@cointelegraph",
+    "published": "Mon Jul 20 2026 16:40:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Bitcoin long-term holder supply hits new record high",
+    "link": "https://cryptopanic.com/news/33067834/JUST-IN-Bitcoin-long-term-holder-supply-hits-new-record-high",
+    "source": "@cryptonwsuk",
+    "published": "Mon Jul 20 2026 16:39:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "@brian_armstrong Crypto KOL @RuneCrypto_ questioned Coinbase co-founder and CEO Brian Armstrong’s claim that he may not have known his posts were associated with a token. @RuneCrypto_ said BRIAN, a Base token named after Armstrong, generated more than $100 million in trading volume and attracted",
+    "link": "https://cryptopanic.com/news/33067830/brian_armstrong-Crypto-KOL-RuneCrypto_-questioned-Coinbase-co-founder-and-CEO-Brian-Armstrongs-claim-that-he-may-not-have-known-his-posts-were-associated-with-a-token-RuneCrypto_-said-BRIAN-a-Base-token-named-after-Armstrong-generated-more-than-100-million-in-trading-volume-and-attracted",
+    "source": "@wublockchain",
+    "published": "Mon Jul 20 2026 16:37:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum News: BlackRock’s ETHA Drives ETH ETF Reversal With Back-to-Back Inflow Weeks",
+    "link": "https://cryptopanic.com/news/33067806/Ethereum-News-BlackRocks-ETHA-Drives-ETH-ETF-Reversal-With-Back-to-Back-Inflow-Weeks",
+    "source": "cryptonews.com",
+    "published": "Mon Jul 20 2026 16:37:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP's Amazon-Like Setup Tightens as RSI Nears Historic Signal",
+    "link": "https://cryptopanic.com/news/33067810/XRPs-Amazon-Like-Setup-Tightens-as-RSI-Nears-Historic-Signal",
+    "source": "coinpaper.com",
+    "published": "Mon Jul 20 2026 16:37:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "South Korea’s stock exchange paused trading 38 times this year",
+    "link": "https://cryptopanic.com/news/33067797/South-Koreas-stock-exchange-paused-trading-38-times-this-year",
+    "source": "protos.com",
+    "published": "Mon Jul 20 2026 16:35:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitmine Nears 5% Ethereum Supply Goal with $11.5B Portfolio",
+    "link": "https://cryptopanic.com/news/33067814/Bitmine-Nears-5-Ethereum-Supply-Goal-with-115B-Portfolio",
+    "source": "cryptodnes.bg",
+    "published": "Mon Jul 20 2026 16:31:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Rises 1.59% as 26.3% Holder Gap Signals Market Weakness",
+    "link": "https://cryptopanic.com/news/33067759/Bitcoin-Rises-159-as-263-Holder-Gap-Signals-Market-Weakness",
+    "source": "coinpaper.com",
+    "published": "Mon Jul 20 2026 16:30:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Russia Crypto Bill To Let Firms Use Bitcoin for Foreign Trade: Report",
+    "link": "https://cryptopanic.com/news/33067744/Russia-Crypto-Bill-To-Let-Firms-Use-Bitcoin-for-Foreign-Trade-Report",
+    "source": "coinpaper.com",
+    "published": "Mon Jul 20 2026 16:21:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: Robinhood has opened its platform to AI agents, allowing users to let AI research, trade, and manage portfolios through agentic accounts.",
+    "link": "https://cryptopanic.com/news/33067838/NEW-Robinhood-has-opened-its-platform-to-AI-agents-allowing-users-to-let-AI-research-trade-and-manage-portfolios-through-agentic-accounts",
+    "source": "@cointelegraph",
+    "published": "Mon Jul 20 2026 16:19:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: #Cardano $ADA Founder Charles Hoskinson says \"ShieldUSD is one of the most exciting hybrid applications for Cardano and Midnight—a privacy stablecoin. I cannot wait to connect it to Pogun and other standards to see billions minted.\"",
+    "link": "https://cryptopanic.com/news/33067833/UPDATE-Cardano-ADA-Founder-Charles-Hoskinson-says-ShieldUSD-is-one-of-the-most-exciting-hybrid-applications-for-Cardano-and-Midnighta-privacy-stablecoin-I-cannot-wait-to-connect-it-to-Pogun-and-other-standards-to-see-billions-minted",
+    "source": "@angrycryptoshow",
+    "published": "Mon Jul 20 2026 16:19:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: RealFi on AlphaGrowth, says \"stronger liquidity and more mature DeFi infrastructure benefit the entire ecosystem. As we continue building RealFi, we're aligned with efforts that drive durable growth and better capital formation on #Cardano $ADA.\"",
+    "link": "https://cryptopanic.com/news/33067832/JUST-IN-RealFi-on-AlphaGrowth-says-stronger-liquidity-and-more-mature-DeFi-infrastructure-benefit-the-entire-ecosystem-As-we-continue-building-RealFi-were-aligned-with-efforts-that-drive-durable-growth-and-better-capital-formation-on-Cardano-ADA",
+    "source": "@angrycryptoshow",
+    "published": "Mon Jul 20 2026 16:18:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: RealFi on AlphaGrowth, says \"#Cardano $ADA has the technology and a committed community. The next phase is about better capital coordination, stronger integrations, and more real economic activity. PRIME is aiming to accelerate that with measurable outcomes.\"",
+    "link": "https://cryptopanic.com/news/33067831/JUST-IN-RealFi-on-AlphaGrowth-says-Cardano-ADA-has-the-technology-and-a-committed-community-The-next-phase-is-about-better-capital-coordination-stronger-integrations-and-more-real-economic-activity-PRIME-is-aiming-to-accelerate-that-with-measurable-outcomes",
+    "source": "@angrycryptoshow",
+    "published": "Mon Jul 20 2026 16:18:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Senate Ethics Deadlock Drags CLARITY Act Odds Under 40% on Polymarket",
+    "link": "https://cryptopanic.com/news/33067716/Senate-Ethics-Deadlock-Drags-CLARITY-Act-Odds-Under-40-on-Polymarket",
+    "source": "cryptonews.com",
+    "published": "Mon Jul 20 2026 16:17:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SBI Lands 1.11 Trillion SHIB Stash In a Landmark Move",
+    "link": "https://cryptopanic.com/news/33067687/SBI-Lands-111-Trillion-SHIB-Stash-In-a-Landmark-Move",
+    "source": "dailycoin.com",
+    "published": "Mon Jul 20 2026 16:16:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: The Trump administration is quietly weighing restrictions on Chinese open-source AI models following the rise of Moonshot AI's Kimi K3, per Axios.",
+    "link": "https://cryptopanic.com/news/33067835/LATEST-The-Trump-administration-is-quietly-weighing-restrictions-on-Chinese-open-source-AI-models-following-the-rise-of-Moonshot-AIs-Kimi-K3-per-Axios",
+    "source": "@coindesk",
+    "published": "Mon Jul 20 2026 16:15:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Tom Lee's Bitmine Taps the Brakes on ETH Buys, Pivots $86M Into Stock Buyback",
     "link": "https://cryptopanic.com/news/33067683/Tom-Lees-Bitmine-Taps-the-Brakes-on-ETH-Buys-Pivots-86M-Into-Stock-Buyback",
     "source": "decrypt.co",
     "published": "Mon Jul 20 2026 16:12:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "While retail remains cautious, Bitcoin whales are quietly accumulating.\n\n@itsciaranlyons looks at what could come next.",
+    "link": "https://cryptopanic.com/news/33067837/While-retail-remains-cautious-Bitcoin-whales-are-quietly-accumulating-itsciaranlyons-looks-at-what-could-come-next",
+    "source": "@cointelegraph",
+    "published": "Mon Jul 20 2026 16:10:17 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -21,17 +147,17 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Billionaire Palihapitiya flags two issues that could decide Bitcoin's next big move",
+    "link": "https://cryptopanic.com/news/33067769/Billionaire-Palihapitiya-flags-two-issues-that-could-decide-Bitcoins-next-big-move",
+    "source": "thestreet.com",
+    "published": "Mon Jul 20 2026 16:05:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Michael Saylor Just did IT!!! | EP 1551",
     "link": "https://cryptopanic.com/news/33067653/Michael-Saylor-Just-did-IT-EP-1551",
     "source": "SimplyBitcoin",
     "published": "Mon Jul 20 2026 16:05:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Targets 28% Upside to $1.42: Analyzing $744 Million Volume Boost",
-    "link": "https://cryptopanic.com/news/33067724/XRP-Targets-28-Upside-to-142-Analyzing-744-Million-Volume-Boost",
-    "source": "u.today",
-    "published": "Mon Jul 20 2026 16:04:15 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -42,10 +168,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "XRP Targets 28% Upside to $1.42: Analyzing $744 Million Volume Boost",
+    "link": "https://cryptopanic.com/news/33067724/XRP-Targets-28-Upside-to-142-Analyzing-744-Million-Volume-Boost",
+    "source": "u.today",
+    "published": "Mon Jul 20 2026 16:04:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Staked ETH exit queue falls to zero again, with 2.4M ETH in entry queue",
     "link": "https://cryptopanic.com/news/33067668/Staked-ETH-exit-queue-falls-to-zero-again-with-24M-ETH-in-entry-queue",
     "source": "cryptopolitan.com",
     "published": "Mon Jul 20 2026 16:03:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Meta Platforms faces trial in Tennessee over claims that Instagram's design is to blame for a youth mental-health crisis, one of several trials testing allegations that the company's social media platforms were intentionally built to be addictive. READ",
+    "link": "https://cryptopanic.com/news/33067840/Meta-Platforms-faces-trial-in-Tennessee-over-claims-that-Instagrams-design-is-to-blame-for-a-youth-mental-health-crisis-one-of-several-trials-testing-allegations-that-the-companys-social-media-platforms-were-intentionally-built-to-be-addictive-READ",
+    "source": "@reutersbiz",
+    "published": "Mon Jul 20 2026 16:02:03 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -67,146 +207,6 @@
     "link": "https://cryptopanic.com/news/33067723/China-Just-Bought-The-Most-Gold-Since-2023-Here-Is-Why-That-Matters",
     "source": "TheCryptoLark",
     "published": "Mon Jul 20 2026 16:00:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Is This Bitcoin Treasury Company Different?",
-    "link": "https://cryptopanic.com/news/33067627/Is-This-Bitcoin-Treasury-Company-Different",
-    "source": "BTCSessions",
-    "published": "Mon Jul 20 2026 16:00:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Blackrock Turned To Bitcoin, Vanguard Is Next? #bitcoin #blackrock #investing",
-    "link": "https://cryptopanic.com/news/33067672/Blackrock-Turned-To-Bitcoin-Vanguard-Is-Next-bitcoin-blackrock-investing",
-    "source": "MilkRoadYoutube",
-    "published": "Mon Jul 20 2026 16:00:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Morgan Stanley Crypto Trust Bank Gets OCC Nod",
-    "link": "https://cryptopanic.com/news/33067576/Morgan-Stanley-Crypto-Trust-Bank-Gets-OCC-Nod",
-    "source": "catenaa.com",
-    "published": "Mon Jul 20 2026 16:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 UPDATE: Meta is set to face trial in Tennessee over allegations that Instagram was intentionally designed to be addictive for teens and misled users about its safety, according to Reuters.",
-    "link": "https://cryptopanic.com/news/33067574/UPDATE-Meta-is-set-to-face-trial-in-Tennessee-over-allegations-that-Instagram-was-intentionally-designed-to-be-addictive-for-teens-and-misled-users-about-its-safety-according-to-Reuters",
-    "source": "@cointelegraph",
-    "published": "Mon Jul 20 2026 15:59:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hyperliquid price analysis: Can HIP-4 prediction markets push HYPE above $62?",
-    "link": "https://cryptopanic.com/news/33067681/Hyperliquid-price-analysis-Can-HIP-4-prediction-markets-push-HYPE-above-62",
-    "source": "coinjournal.net",
-    "published": "Mon Jul 20 2026 15:58:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin ETFs Flip Green After $8B Exodus: But Is $273M Enough to Matter?",
-    "link": "https://cryptopanic.com/news/33067678/Bitcoin-ETFs-Flip-Green-After-8B-Exodus-But-Is-273M-Enough-to-Matter",
-    "source": "feeds2.benzinga.com",
-    "published": "Mon Jul 20 2026 15:58:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Strategy Pads Cash Reserve By $225M With MSTR Sale, Bitcoin Stash Remains Untouched",
-    "link": "https://cryptopanic.com/news/33067577/Strategy-Pads-Cash-Reserve-By-225M-With-MSTR-Sale-Bitcoin-Stash-Remains-Untouched",
-    "source": "decrypt.co",
-    "published": "Mon Jul 20 2026 15:57:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Coinbase Commences Native Injective Mainnet Migration\n\n@Coinbase begins the official @Injective's $INJ mainnet migration today, transitioning the asset from legacy ERC-20 infrastructure to native chain support.\n\nDeposits and withdrawals are temporarily suspended on the exchange",
-    "link": "https://cryptopanic.com/news/33067680/Coinbase-Commences-Native-Injective-Mainnet-Migration-Coinbase-begins-the-official-Injectives-INJ-mainnet-migration-today-transitioning-the-asset-from-legacy-ERC-20-infrastructure-to-native-chain-support-Deposits-and-withdrawals-are-temporarily-suspended-on-the-exchange",
-    "source": "@bscnews",
-    "published": "Mon Jul 20 2026 15:53:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source: &",
-    "link": "https://cryptopanic.com/news/33067562/Source-amp",
-    "source": "@wublockchain",
-    "published": "Mon Jul 20 2026 15:48:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hut 8 and IREN Secure Major AI Deals as Crypto Miners Expand Beyond Bitcoin  \n\nHut 8 signed a second 15-year AI data center lease worth $9.8 billion, fully commercializing its 1 GW Beacon Point campus in Texas. Separately, IREN secured $2.8 billion in new multi-year AI cloud",
-    "link": "https://cryptopanic.com/news/33067561/Hut-8-and-IREN-Secure-Major-AI-Deals-as-Crypto-Miners-Expand-Beyond-Bitcoin-Hut-8-signed-a-second-15-year-AI-data-center-lease-worth-98-billion-fully-commercializing-its-1-GW-Beacon-Point-campus-in-Texas-Separately-IREN-secured-28-billion-in-new-multi-year-AI-cloud",
-    "source": "@wublockchain",
-    "published": "Mon Jul 20 2026 15:47:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: ️ Drake reportedly lost $1.5M in USDT after betting that Argentina would beat Spain in the World Cup Final.",
-    "link": "https://cryptopanic.com/news/33067560/LATEST-Drake-reportedly-lost-15M-in-USDT-after-betting-that-Argentina-would-beat-Spain-in-the-World-Cup-Final",
-    "source": "@coinmarketcap",
-    "published": "Mon Jul 20 2026 15:47:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Bitcoin breaks $65,000\n\n$74k the most obvious move…",
-    "link": "https://cryptopanic.com/news/33067512/JUST-IN-Bitcoin-breaks-65000-74k-the-most-obvious-move",
-    "source": "@btc_archive",
-    "published": "Mon Jul 20 2026 15:46:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tesla Earnings Put 11,509 BTC Treasury Back In Focus",
-    "link": "https://cryptopanic.com/news/33067490/Tesla-Earnings-Put-11509-BTC-Treasury-Back-In-Focus",
-    "source": "newsbtc.com",
-    "published": "Mon Jul 20 2026 15:45:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Bitcoin pumps to $65, 214",
-    "link": "https://cryptopanic.com/news/33067510/JUST-IN-Bitcoin-pumps-to-65-214",
-    "source": "@bitcoinmagazine",
-    "published": "Mon Jul 20 2026 15:44:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW PARTNERSHIP announced between DOVU and HashPack for Authority Trail and DOVU OS!",
-    "link": "https://cryptopanic.com/news/33067725/NEW-PARTNERSHIP-announced-between-DOVU-and-HashPack-for-Authority-Trail-and-DOVU-OS",
-    "source": "r/hedera",
-    "published": "Mon Jul 20 2026 15:44:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ALERT: Ryanair reported a 33% drop in quarterly profit as the Iran war weighed on travel demand, pushed fares lower, and increased fuel costs.",
-    "link": "https://cryptopanic.com/news/33067573/ALERT-Ryanair-reported-a-33-drop-in-quarterly-profit-as-the-Iran-war-weighed-on-travel-demand-pushed-fares-lower-and-increased-fuel-costs",
-    "source": "@cointelegraph",
-    "published": "Mon Jul 20 2026 15:40:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: #Cardano $ADA Founder Charles Hoskinson says \"we have a reputation of never going down. We have reputation of not being hacked. We have a reputation of reliability and 24/7 uptime. That is a hard-fought, well-earned reputation.\"",
-    "link": "https://cryptopanic.com/news/33067568/UPDATE-Cardano-ADA-Founder-Charles-Hoskinson-says-we-have-a-reputation-of-never-going-down-We-have-reputation-of-not-being-hacked-We-have-a-reputation-of-reliability-and-247-uptime-That-is-a-hard-fought-well-earned-reputation",
-    "source": "@angrycryptoshow",
-    "published": "Mon Jul 20 2026 15:39:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Is About to Catch Everyone Off Guard",
-    "link": "https://cryptopanic.com/news/33067481/Bitcoin-Is-About-to-Catch-Everyone-Off-Guard",
-    "source": "DataDash",
-    "published": "Mon Jul 20 2026 15:36:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: #Cardano $ADA Founder Charles Hoskinson says Blockfrost's \"expertise is extremely hard to replicate. Every conversation we've had with SPOs, with people who build infrastructure, has had them in the room for the last 2 years—they've been immeasurably useful and helpful.\"",
-    "link": "https://cryptopanic.com/news/33067567/UPDATE-Cardano-ADA-Founder-Charles-Hoskinson-says-Blockfrosts-expertise-is-extremely-hard-to-replicate-Every-conversation-weve-had-with-SPOs-with-people-who-build-infrastructure-has-had-them-in-the-room-for-the-last-2-yearstheyve-been-immeasurably-useful-and-helpful",
-    "source": "@angrycryptoshow",
-    "published": "Mon Jul 20 2026 15:36:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Brian Armstrong (@brian_armstrong) speaks out about the lack of support for the Base community... \n\n\"If you want Jesse or me to pump your bags or shill certain coins, we're also not going to do that.\"\n\n@Coinbase will only support projects it believes will create long-term",
-    "link": "https://cryptopanic.com/news/33067679/Brian-Armstrong-brian_armstrong-speaks-out-about-the-lack-of-support-for-the-Base-community-If-you-want-Jesse-or-me-to-pump-your-bags-or-shill-certain-coins-were-also-not-going-to-do-that-Coinbase-will-only-support-projects-it-believes-will-create-long-term",
-    "source": "@bscnews",
-    "published": "Mon Jul 20 2026 15:36:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
