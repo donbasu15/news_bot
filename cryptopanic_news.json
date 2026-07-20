@@ -1,5 +1,33 @@
 [
   {
+    "title": "Consensys Confirms North Korean DPRK Contractor Accessed MetaMask Code for a Month",
+    "link": "https://cryptopanic.com/news/33065162/Consensys-Confirms-North-Korean-DPRK-Contractor-Accessed-MetaMask-Code-for-a-Month",
+    "source": "tokenist.com",
+    "published": "Mon Jul 20 2026 09:40:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "France Orders ISPs to Block Polymarket in Escalating Regulatory Push",
+    "link": "https://cryptopanic.com/news/33065132/France-Orders-ISPs-to-Block-Polymarket-in-Escalating-Regulatory-Push",
+    "source": "www.blockhead.co",
+    "published": "Mon Jul 20 2026 09:30:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Prediction Markets Become Crypto’s Next Core Service",
+    "link": "https://cryptopanic.com/news/33065079/Prediction-Markets-Become-Cryptos-Next-Core-Service",
+    "source": "catenaa.com",
+    "published": "Mon Jul 20 2026 09:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Man Accused of Bringing Stolen Kitten Along on Bank Robbery in Maryland: Report",
+    "link": "https://cryptopanic.com/news/33065083/Man-Accused-of-Bringing-Stolen-Kitten-Along-on-Bank-Robbery-in-Maryland-Report",
+    "source": "dailyhodl.com",
+    "published": "Mon Jul 20 2026 09:15:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "UK CFO’s AI optimism jumps to 73% as geopolitical concerns ease",
     "link": "https://cryptopanic.com/news/33065034/UK-CFOs-AI-optimism-jumps-to-73-as-geopolitical-concerns-ease",
     "source": "cryptopolitan.com",
@@ -28,6 +56,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Grayscale Ethereum And Solana ETFs Plan Staking Cash Payouts\n\nGrayscale plans to distribute cash from Ethereum $ETH and Solana $SOL staking rewards at least once every quarter, beginning around Aug. 7.\n\nThe proposed changes would convert staking rewards into cash before paying",
+    "link": "https://cryptopanic.com/news/33065085/Grayscale-Ethereum-And-Solana-ETFs-Plan-Staking-Cash-Payouts-Grayscale-plans-to-distribute-cash-from-Ethereum-ETH-and-Solana-SOL-staking-rewards-at-least-once-every-quarter-beginning-around-Aug-7-The-proposed-changes-would-convert-staking-rewards-into-cash-before-paying",
+    "source": "@bscnews",
+    "published": "Mon Jul 20 2026 09:01:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "ECB survey sees moderating wage demands, selling price growth",
     "link": "https://cryptopanic.com/news/33065033/ECB-survey-sees-moderating-wage-demands-selling-price-growth",
     "source": "@reutersbiz",
@@ -49,6 +84,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Sui activity nearly doubles in ONE week!\n\nIts 7-day average active addresses jumped 92.4% in just one week, meaning nearly twice as many wallets are using the network.\n\nMore users usually means more transactions, more apps gaining traction and a stronger ecosystem. $SUI",
+    "link": "https://cryptopanic.com/news/33065084/Sui-activity-nearly-doubles-in-ONE-week-Its-7-day-average-active-addresses-jumped-924-in-just-one-week-meaning-nearly-twice-as-many-wallets-are-using-the-network-More-users-usually-means-more-transactions-more-apps-gaining-traction-and-a-stronger-ecosystem-SUI",
+    "source": "@realallincrypto",
+    "published": "Mon Jul 20 2026 09:00:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "CRYPTO 101: Never share your seed phrase.",
     "link": "https://cryptopanic.com/news/33065025/CRYPTO-101-Never-share-your-seed-phrase",
     "source": "@coinmarketcap",
@@ -60,6 +102,13 @@
     "link": "https://cryptopanic.com/news/33064932/GENIUS-Act-Turns-One-With-Its-Stablecoin-Rulebook-Still-Unwritten",
     "source": "coinpaprika.com",
     "published": "Mon Jul 20 2026 09:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "U.S. regulatory developments and earnings, ECB rate decision: Crypto Week Ahead",
+    "link": "https://cryptopanic.com/news/33065135/US-regulatory-developments-and-earnings-ECB-rate-decision-Crypto-Week-Ahead",
+    "source": "coindesk.com",
+    "published": "Mon Jul 20 2026 08:57:53 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -112,6 +161,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "WEEX Multi-Market Mode: See 6 Crypto Pairs at Once, Catch Every Breakout",
+    "link": "https://cryptopanic.com/news/33065160/WEEX-Multi-Market-Mode-See-6-Crypto-Pairs-at-Once-Catch-Every-Breakout",
+    "source": "beincrypto.com",
+    "published": "Mon Jul 20 2026 08:37:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Coinbase CEO Fires Back At Chamath On Bitcoin Mining And AI\n\nCoinbase CEO Brian Armstrong (@brian_armstrong) rejected claims that rising AI demand threatens Bitcoin mining economics.\n\nEarlier, billionaire Chamath Palihapitiya, argued miners could earn 10 to 20 times more by",
     "link": "https://cryptopanic.com/news/33064875/Coinbase-CEO-Fires-Back-At-Chamath-On-Bitcoin-Mining-And-AI-Coinbase-CEO-Brian-Armstrong-brian_armstrong-rejected-claims-that-rising-AI-demand-threatens-Bitcoin-mining-economics-Earlier-billionaire-Chamath-Palihapitiya-argued-miners-could-earn-10-to-20-times-more-by",
     "source": "@bscnews",
@@ -151,62 +207,6 @@
     "link": "https://cryptopanic.com/news/33064832/Coinbase-CEO-Brian-Armstrong-Says-Bitcoin-Will-Mostly-Be-a-Measure-of-Inflation-Fears-in-the-Long-Term",
     "source": "feeds2.benzinga.com",
     "published": "Mon Jul 20 2026 08:20:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Sen. Warren Pushes Trump To Reveal All Crypto Profits After $1,400,000,000 Earnings Haul",
-    "link": "https://cryptopanic.com/news/33064762/Sen-Warren-Pushes-Trump-To-Reveal-All-Crypto-Profits-After-1400000000-Earnings-Haul",
-    "source": "dailyhodl.com",
-    "published": "Mon Jul 20 2026 08:15:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "3 Token Unlocks to Watch in the Fourth Week of July 2026",
-    "link": "https://cryptopanic.com/news/33064921/3-Token-Unlocks-to-Watch-in-the-Fourth-Week-of-July-2026",
-    "source": "beincrypto.com",
-    "published": "Mon Jul 20 2026 08:11:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Exchange outflows tell one story. A full 10,000 $ETH sent to staking tells an even bigger one.\n\n(Not financial advice)",
-    "link": "https://cryptopanic.com/news/33064874/Exchange-outflows-tell-one-story-A-full-10000-ETH-sent-to-staking-tells-an-even-bigger-one-Not-financial-advice",
-    "source": "@bscnews",
-    "published": "Mon Jul 20 2026 08:11:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Amazon Japan supplier AZ-Com Maruwa to adopt yen stablecoin JPYC for payments",
-    "link": "https://cryptopanic.com/news/33064922/Amazon-Japan-supplier-AZ-Com-Maruwa-to-adopt-yen-stablecoin-JPYC-for-payments",
-    "source": "coindesk.com",
-    "published": "Mon Jul 20 2026 08:10:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Allbridge's Déjà Vu Exploit: Same Playbook, Three Years Later",
-    "link": "https://cryptopanic.com/news/33064668/Allbridges-Deja-Vu-Exploit-Same-Playbook-Three-Years-Later",
-    "source": "dailycoin.com",
-    "published": "Mon Jul 20 2026 08:05:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "We’ve covered HesabPay before which is built on @Algorand and here is why.\n\nPowered by $ALGO, it’s helped deliver $35M in aid to 625k+ refugee returnees and 17.5k displaced people in Afghanistan.\n\nThey are also being highlighted at the Humanitarian Payments Council regularly!",
-    "link": "https://cryptopanic.com/news/33064872/Weve-covered-HesabPay-before-which-is-built-on-Algorand-and-here-is-why-Powered-by-ALGO-its-helped-deliver-35M-in-aid-to-625k-refugee-returnees-and-175k-displaced-people-in-Afghanistan-They-are-also-being-highlighted-at-the-Humanitarian-Payments-Council-regularly",
-    "source": "@realallincrypto",
-    "published": "Mon Jul 20 2026 08:03:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Kraken Launches USD-Settled BTC, ETH Options, Targeting Professional Traders",
-    "link": "https://cryptopanic.com/news/33064646/Kraken-Launches-USD-Settled-BTC-ETH-Options-Targeting-Professional-Traders",
-    "source": "www.blockhead.co",
-    "published": "Mon Jul 20 2026 08:02:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INSIGHT: Bitcoin whales accumulated 66,700 BTC over 60 days, while mid-sized holders sold 77,800 BTC, per CryptoQuant.",
-    "link": "https://cryptopanic.com/news/33064759/INSIGHT-Bitcoin-whales-accumulated-66700-BTC-over-60-days-while-mid-sized-holders-sold-77800-BTC-per-CryptoQuant",
-    "source": "@cointelegraph",
-    "published": "Mon Jul 20 2026 08:01:02 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
