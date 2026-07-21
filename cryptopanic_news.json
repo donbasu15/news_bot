@@ -1,9 +1,65 @@
 [
   {
+    "title": "Jack Mallers leaves Twenty One after overseeing 91% decline",
+    "link": "https://cryptopanic.com/news/33075245/Jack-Mallers-leaves-Twenty-One-after-overseeing-91-decline",
+    "source": "protos.com",
+    "published": "Tue Jul 21 2026 18:47:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 White House official reportedly says Senate Democrats need to accept President Trump's conflict of interest agreement to advance the Clarity Act.",
+    "link": "https://cryptopanic.com/news/33075232/JUST-IN-White-House-official-reportedly-says-Senate-Democrats-need-to-accept-President-Trumps-conflict-of-interest-agreement-to-advance-the-Clarity-Act",
+    "source": "@bitcoinmagazine",
+    "published": "Tue Jul 21 2026 18:47:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "RippleX sees XRP Ledger agentic transactions hitting 10-million mark soon",
+    "link": "https://cryptopanic.com/news/33075246/RippleX-sees-XRP-Ledger-agentic-transactions-hitting-10-million-mark-soon",
+    "source": "theblock.co",
+    "published": "Tue Jul 21 2026 18:47:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Attestor to take full control of Condor by Sept. 30, source says",
+    "link": "https://cryptopanic.com/news/33075267/Attestor-to-take-full-control-of-Condor-by-Sept-30-source-says",
+    "source": "@reutersbiz",
+    "published": "Tue Jul 21 2026 18:45:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Vitalik Buterin suggests a language designed to make AI formal proofs easier to review by presenting definitions and theorems in human-readable form.",
+    "link": "https://cryptopanic.com/news/33075265/UPDATE-Vitalik-Buterin-suggests-a-language-designed-to-make-AI-formal-proofs-easier-to-review-by-presenting-definitions-and-theorems-in-human-readable-form",
+    "source": "@cointelegraph",
+    "published": "Tue Jul 21 2026 18:40:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 JUST IN: Polymarket traders now price a 53% chance that the CLARITY Act will be signed into law in 2026, up 22% over the past day.",
+    "link": "https://cryptopanic.com/news/33075264/JUST-IN-Polymarket-traders-now-price-a-53-chance-that-the-CLARITY-Act-will-be-signed-into-law-in-2026-up-22-over-the-past-day",
+    "source": "@cointelegraph",
+    "published": "Tue Jul 21 2026 18:40:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Why are we funding more wars?",
     "link": "https://cryptopanic.com/news/33075210/Why-are-we-funding-more-wars",
     "source": "AnthonyPompliano",
     "published": "Tue Jul 21 2026 18:40:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Popular crypto firm files for Chapter 11 after token collapse",
+    "link": "https://cryptopanic.com/news/33075271/Popular-crypto-firm-files-for-Chapter-11-after-token-collapse",
+    "source": "thestreet.com",
+    "published": "Tue Jul 21 2026 18:38:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ramp opens stablecoin accounts to every business, settling on Solana",
+    "link": "https://cryptopanic.com/news/33075270/Ramp-opens-stablecoin-accounts-to-every-business-settling-on-Solana",
+    "source": "thestreet.com",
+    "published": "Tue Jul 21 2026 18:37:49 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -21,6 +77,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Robotics startup Humanoid raises $152 million Series A round at $1.35 billion valuation",
+    "link": "https://cryptopanic.com/news/33075266/Robotics-startup-Humanoid-raises-152-million-Series-A-round-at-135-billion-valuation",
+    "source": "@reutersbiz",
+    "published": "Tue Jul 21 2026 18:30:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin Eyes August Rebound Above $70,000 Despite Fragile Market Structure",
     "link": "https://cryptopanic.com/news/33075186/Bitcoin-Eyes-August-Rebound-Above-70000-Despite-Fragile-Market-Structure",
     "source": "zycrypto.com",
@@ -32,6 +95,13 @@
     "link": "https://cryptopanic.com/news/33075160/The-London-Stock-Exchange-is-chasing-cryptos-always-on-market-The-London-Stock-Exchange-LSEplc-is-opening-a-near-continuous-weekday-venue-called-LSE-24-running-5pm-to-750am-to-close-the-gap-with-the-round-the-clock-trading-investors-already-get-in-crypto-It-starts-with",
     "source": "@bscnews",
     "published": "Tue Jul 21 2026 18:25:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: President Donald Trump is said to have made historic concessions in the deal to allow an ethics provision in the crypto Clarity Act that curtails the president’s own activities, and the White House is pushing Democrats to accept it.\n\n@jesseahamilton reports.",
+    "link": "https://cryptopanic.com/news/33075262/NEW-President-Donald-Trump-is-said-to-have-made-historic-concessions-in-the-deal-to-allow-an-ethics-provision-in-the-crypto-Clarity-Act-that-curtails-the-presidents-own-activities-and-the-White-House-is-pushing-Democrats-to-accept-it-jesseahamilton-reports",
+    "source": "@coindesk",
+    "published": "Tue Jul 21 2026 18:24:30 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -49,6 +119,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "UPDATE: A Bitcoin OG has sold the final 1,000 $BTC worth $65.6 million, completing the exit of a 5,000 $BTC position held for over 12 years that turned an estimated $1.66 million investment into nearly $436 million.",
+    "link": "https://cryptopanic.com/news/33075263/UPDATE-A-Bitcoin-OG-has-sold-the-final-1000-BTC-worth-656-million-completing-the-exit-of-a-5000-BTC-position-held-for-over-12-years-that-turned-an-estimated-166-million-investment-into-nearly-436-million",
+    "source": "@cointelegraph",
+    "published": "Tue Jul 21 2026 18:20:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin Tops $66,000 As Ethereum, XRP, Dogecoin Rally On White House Backing CLARITY Act Ethics Package",
     "link": "https://cryptopanic.com/news/33075184/Bitcoin-Tops-66000-As-Ethereum-XRP-Dogecoin-Rally-On-White-House-Backing-CLARITY-Act-Ethics-Package",
     "source": "feeds2.benzinga.com",
@@ -63,6 +140,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "LATEST:  US spot Bitcoin ETFs pulled in $226.92M on July 20, marking a fifth straight day of inflows.",
+    "link": "https://cryptopanic.com/news/33075259/LATEST-US-spot-Bitcoin-ETFs-pulled-in-22692M-on-July-20-marking-a-fifth-straight-day-of-inflows",
+    "source": "@coinmarketcap",
+    "published": "Tue Jul 21 2026 18:17:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "White House pushes Senate Democrats to take 'historic' crypto Clarity Act ethics deal",
     "link": "https://cryptopanic.com/news/33075151/White-House-pushes-Senate-Democrats-to-take-historic-crypto-Clarity-Act-ethics-deal",
     "source": "coindesk.com",
@@ -74,6 +158,20 @@
     "link": "https://cryptopanic.com/news/33075101/Augustus-Raises-180-Million-to-Build-a-Stablecoin-Ready-Global-Dollar-Bank",
     "source": "decrypt.co",
     "published": "Tue Jul 21 2026 18:13:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Former Coinbase CTO Loses Malaysia License After Alleged Israel Link Sparks Investigation",
+    "link": "https://cryptopanic.com/news/33075251/Former-Coinbase-CTO-Loses-Malaysia-License-After-Alleged-Israel-Link-Sparks-Investigation",
+    "source": "beincrypto.com",
+    "published": "Tue Jul 21 2026 18:12:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MOVE Hits All-Time Low After MVMT Labs Bankruptcy: What Happens Next?",
+    "link": "https://cryptopanic.com/news/33075250/MOVE-Hits-All-Time-Low-After-MVMT-Labs-Bankruptcy-What-Happens-Next",
+    "source": "beincrypto.com",
+    "published": "Tue Jul 21 2026 18:08:30 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -109,104 +207,6 @@
     "link": "https://cryptopanic.com/news/33075085/An-Economists-Warning-Massive-Inflation-Is-Coming-Charles-Goodhart",
     "source": "whatbitcoindid",
     "published": "Tue Jul 21 2026 18:00:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ETF INFLOWS SHOW THERE’S STILL LIFE IN CRYPTO\n\nUS spot $BTC ETFs have pulled in $619.3M since the July 13 selloff, with BlackRock’s IBIT responsible for nearly 82% of it.\n\nInstitutions are buying the fear, and that’s exactly the kind of demand the market has needed.",
-    "link": "https://cryptopanic.com/news/33075158/ETF-INFLOWS-SHOW-THERES-STILL-LIFE-IN-CRYPTO-US-spot-BTC-ETFs-have-pulled-in-6193M-since-the-July-13-selloff-with-BlackRocks-IBIT-responsible-for-nearly-82-of-it-Institutions-are-buying-the-fear-and-thats-exactly-the-kind-of-demand-the-market-has-needed",
-    "source": "@realallincrypto",
-    "published": "Tue Jul 21 2026 18:00:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Netflix Acquired Ben Affleck’s AI Company For $587Mn",
-    "link": "https://cryptopanic.com/news/33075037/Netflix-Acquired-Ben-Afflecks-AI-Company-For-587Mn",
-    "source": "catenaa.com",
-    "published": "Tue Jul 21 2026 18:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Polymarket traders boost the CLARITY Act's odds after reports of a breakthrough on ethics provisions, Jack Mallers steps down as CEO of Twenty One Capital, and UK lawmakers investigate whether banks are unfairly restricting crypto firms.\n\n@uyendoe has what you need to know.",
-    "link": "https://cryptopanic.com/news/33075096/Polymarket-traders-boost-the-CLARITY-Acts-odds-after-reports-of-a-breakthrough-on-ethics-provisions-Jack-Mallers-steps-down-as-CEO-of-Twenty-One-Capital-and-UK-lawmakers-investigate-whether-banks-are-unfairly-restricting-crypto-firms-uyendoe-has-what-you-need-to-know",
-    "source": "@coindesk",
-    "published": "Tue Jul 21 2026 17:58:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: Movement Labs, the developer of the Movement blockchain, has filed for Chapter 11 bankruptcy.\n\nRead the fully story by @HeleneBraunn on CoinDesk",
-    "link": "https://cryptopanic.com/news/33075095/LATEST-Movement-Labs-the-developer-of-the-Movement-blockchain-has-filed-for-Chapter-11-bankruptcy-Read-the-fully-story-by-HeleneBraunn-on-CoinDesk",
-    "source": "@coindesk",
-    "published": "Tue Jul 21 2026 17:58:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Special Thanks: @niroshan682",
-    "link": "https://cryptopanic.com/news/33075093/Special-Thanks-niroshan682",
-    "source": "@angrycryptoshow",
-    "published": "Tue Jul 21 2026 17:57:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Binance integrates support for #Cardano $ADA's Van Rossem hard fork, which upgraded the network to protocol version 11, reducing smart contract costs and laying the groundwork for Ouroboros Leios.",
-    "link": "https://cryptopanic.com/news/33075092/JUST-IN-Binance-integrates-support-for-Cardano-ADAs-Van-Rossem-hard-fork-which-upgraded-the-network-to-protocol-version-11-reducing-smart-contract-costs-and-laying-the-groundwork-for-Ouroboros-Leios",
-    "source": "@angrycryptoshow",
-    "published": "Tue Jul 21 2026 17:57:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Movement Labs files for Chapter 11 bankruptcy months after token scandal and strategic overhaul",
-    "link": "https://cryptopanic.com/news/33075098/Movement-Labs-files-for-Chapter-11-bankruptcy-months-after-token-scandal-and-strategic-overhaul",
-    "source": "coindesk.com",
-    "published": "Tue Jul 21 2026 17:54:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Senators say the crypto CLARITY Act is 'almost there'\n\nThe crypto market-structure bill is \"almost there,\" Senator Kevin Cramer (@SenKevinCramer) said, speaking to Fox Business, with fresh ethics and enforcement amendments now sitting with Democrats. Treasury Secretary Scott",
-    "link": "https://cryptopanic.com/news/33075159/Senators-say-the-crypto-CLARITY-Act-is-almost-there-The-crypto-market-structure-bill-is-almost-there-Senator-Kevin-Cramer-SenKevinCramer-said-speaking-to-Fox-Business-with-fresh-ethics-and-enforcement-amendments-now-sitting-with-Democrats-Treasury-Secretary-Scott",
-    "source": "@bscnews",
-    "published": "Tue Jul 21 2026 17:54:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$BTC Massive $100M+ long just seemingly market closed.\n\n$250M+ in Open Interest gone in a single 1 minute candle on BTC alone.\n\nMeanwhile price retraced most of it minutes later.\n\nWonder what the idea was there, can't imagine that was a desired execution on that position. Fat",
-    "link": "https://cryptopanic.com/news/33075157/BTC-Massive-100M-long-just-seemingly-market-closed-250M-in-Open-Interest-gone-in-a-single-1-minute-candle-on-BTC-alone-Meanwhile-price-retraced-most-of-it-minutes-later-Wonder-what-the-idea-was-there-cant-imagine-that-was-a-desired-execution-on-that-position-Fat",
-    "source": "@daancrypto",
-    "published": "Tue Jul 21 2026 17:52:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Russia passes landmark crypto bill allowing regulated retail trading",
-    "link": "https://cryptopanic.com/news/33075030/Russia-passes-landmark-crypto-bill-allowing-regulated-retail-trading",
-    "source": "theblock.co",
-    "published": "Tue Jul 21 2026 17:48:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Only 8 Altcoins Launched Since 2024 are Profitable",
-    "link": "https://cryptopanic.com/news/33075078/Only-8-Altcoins-Launched-Since-2024-are-Profitable",
-    "source": "beincrypto.com",
-    "published": "Tue Jul 21 2026 17:48:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Italian court rejects TIM's precautionary appeal in network tariff dispute",
-    "link": "https://cryptopanic.com/news/33075100/Italian-court-rejects-TIMs-precautionary-appeal-in-network-tariff-dispute",
-    "source": "@reutersbiz",
-    "published": "Tue Jul 21 2026 17:45:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "T. Rowe Price Launches Bitcoin-Led, Six-Token Crypto ETF — Digital Assets Head Sees Winter Easing by Q4",
-    "link": "https://cryptopanic.com/news/33075036/T-Rowe-Price-Launches-Bitcoin-Led-Six-Token-Crypto-ETF-Digital-Assets-Head-Sees-Winter-Easing-by-Q4",
-    "source": "feeds2.benzinga.com",
-    "published": "Tue Jul 21 2026 17:45:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana's tokenized asset volume hits $5.8 billion in a record quarter",
-    "link": "https://cryptopanic.com/news/33075057/Solanas-tokenized-asset-volume-hits-58-billion-in-a-record-quarter",
-    "source": "thestreet.com",
-    "published": "Tue Jul 21 2026 17:44:55 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
