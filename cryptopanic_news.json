@@ -1,5 +1,19 @@
 [
   {
+    "title": "Russia passes landmark crypto bill allowing regulated retail trading",
+    "link": "https://cryptopanic.com/news/33075030/Russia-passes-landmark-crypto-bill-allowing-regulated-retail-trading",
+    "source": "theblock.co",
+    "published": "Tue Jul 21 2026 17:48:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "T. Rowe Price Launches Bitcoin-Led, Six-Token Crypto ETF — Digital Assets Head Sees Winter Easing by Q4",
+    "link": "https://cryptopanic.com/news/33075036/T-Rowe-Price-Launches-Bitcoin-Led-Six-Token-Crypto-ETF-Digital-Assets-Head-Sees-Winter-Easing-by-Q4",
+    "source": "feeds2.benzinga.com",
+    "published": "Tue Jul 21 2026 17:45:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Wanchain Cardano bridge loses $13M as attacker inflates NIGHT signature 65,000x",
     "link": "https://cryptopanic.com/news/33074957/Wanchain-Cardano-bridge-loses-13M-as-attacker-inflates-NIGHT-signature-65000x",
     "source": "cryptopolitan.com",
@@ -74,6 +88,13 @@
     "link": "https://cryptopanic.com/news/33074924/LATEST-NVIDIA-says-its-Blackwell-Ultra-set-a-world-record-for-pre-training-DeepSeek-V3-671B-reaching-1648-TFLOPs-per-GPU",
     "source": "@cointelegraph",
     "published": "Tue Jul 21 2026 17:20:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 The odds of the Clarity Act passing into law this year spikes to 53% on Polymarket \n\nPass it",
+    "link": "https://cryptopanic.com/news/33075039/JUST-IN-The-odds-of-the-Clarity-Act-passing-into-law-this-year-spikes-to-53-on-Polymarket-Pass-it",
+    "source": "@bitcoinmagazine",
+    "published": "Tue Jul 21 2026 17:16:29 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -186,27 +207,6 @@
     "link": "https://cryptopanic.com/news/33074921/JUST-IN-Cardano-ADA-24h-trade-volume-surpasses-Hyperliquid-Stellar-TRON-and-Zcash-according-to-CoinGecko",
     "source": "@angrycryptoshow",
     "published": "Tue Jul 21 2026 16:54:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: #Cardano $ADA 24h trade volume surpasses $480,000,000 according to CoinGecko.",
-    "link": "https://cryptopanic.com/news/33074920/JUST-IN-Cardano-ADA-24h-trade-volume-surpasses-480000000-according-to-CoinGecko",
-    "source": "@angrycryptoshow",
-    "published": "Tue Jul 21 2026 16:53:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 Senate Majority Leader John Thune says there's a \"good chance\" a bipartisan deal will advance to pass the CLARITY Act. #Cardano $ADA is primed for crypto regulation, recognized as both a commodity and leader in decentralization.",
-    "link": "https://cryptopanic.com/news/33074919/JUST-IN-Senate-Majority-Leader-John-Thune-says-theres-a-good-chance-a-bipartisan-deal-will-advance-to-pass-the-CLARITY-Act-Cardano-ADA-is-primed-for-crypto-regulation-recognized-as-both-a-commodity-and-leader-in-decentralization",
-    "source": "@angrycryptoshow",
-    "published": "Tue Jul 21 2026 16:52:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BNB Chain is running away with the onchain AI agent race\n\nOnchain AI agent registrations have jumped from 337 in January to more than 330,000 today, and roughly three in five of them now sit on @BNBCHAIN, per agent tracker 8004scan. That works out to over 200,000 agents on a",
-    "link": "https://cryptopanic.com/news/33074747/BNB-Chain-is-running-away-with-the-onchain-AI-agent-race-Onchain-AI-agent-registrations-have-jumped-from-337-in-January-to-more-than-330000-today-and-roughly-three-in-five-of-them-now-sit-on-BNBCHAIN-per-agent-tracker-8004scan-That-works-out-to-over-200000-agents-on-a",
-    "source": "@bscnews",
-    "published": "Tue Jul 21 2026 16:52:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
