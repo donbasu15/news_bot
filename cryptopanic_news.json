@@ -1,5 +1,26 @@
 [
   {
+    "title": "Whale 0x007d is making a big long bet on the #Nasdaq-100.\n\nOver the past 20 hours, the whale opened a 20x long on 2,353 xyz:XYZ100($68.2M).\n\nLiquidation price: $26,833.85",
+    "link": "https://cryptopanic.com/news/33077587/Whale-0x007d-is-making-a-big-long-bet-on-the-Nasdaq-100-Over-the-past-20-hours-the-whale-opened-a-20x-long-on-2353-xyzXYZ100682M-Liquidation-price-2683385",
+    "source": "@lookonchain",
+    "published": "Wed Jul 22 2026 05:44:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Rally Backed by Whale Accumulation",
+    "link": "https://cryptopanic.com/news/33077618/XRP-Rally-Backed-by-Whale-Accumulation",
+    "source": "u.today",
+    "published": "Wed Jul 22 2026 05:42:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto Market Hit as Balance Coin Plunges 99% After Suspected Exploit",
+    "link": "https://cryptopanic.com/news/33077575/Crypto-Market-Hit-as-Balance-Coin-Plunges-99-After-Suspected-Exploit",
+    "source": "coinpaper.com",
+    "published": "Wed Jul 22 2026 05:42:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin Moves Closer To a Quantum Safe Future With New Initiative\n\nGalaxy Digital has launched a $5 million initiative to help Bitcoin $BTC developers prepare for future quantum computing threats.\n\nThe program will fund work on quantum resistant signature schemes, wallet",
     "link": "https://cryptopanic.com/news/33077586/Bitcoin-Moves-Closer-To-a-Quantum-Safe-Future-With-New-Initiative-Galaxy-Digital-has-launched-a-5-million-initiative-to-help-Bitcoin-BTC-developers-prepare-for-future-quantum-computing-threats-The-program-will-fund-work-on-quantum-resistant-signature-schemes-wallet",
     "source": "@bscnews",
@@ -32,6 +53,13 @@
     "link": "https://cryptopanic.com/news/33077444/Franklin-Templeton-Exec-Calls-Agentic-AI-Cryptos-Killer-Use-Case-as-ETH-Nears-2K",
     "source": "cryptopotato.com",
     "published": "Wed Jul 22 2026 05:02:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Franklin Templeton Suggests Altcoins Could Be the Missing Piece of the Agentic AI Trade",
+    "link": "https://cryptopanic.com/news/33077608/Franklin-Templeton-Suggests-Altcoins-Could-Be-the-Missing-Piece-of-the-Agentic-AI-Trade",
+    "source": "beincrypto.com",
+    "published": "Wed Jul 22 2026 05:01:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33077278/As-stablecoins-move-deeper-into-everyday-finance-payments-not-trading-may-become-the-next-major-battleground-for-blockchains-Justin-Sun-justinsuntron-says-nearly-90-of-stablecoin-payment-volume-now-settles-on-the-Tron-network",
     "source": "@bscnews",
     "published": "Wed Jul 22 2026 03:51:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Climbs Toward $67K as CLARITY Act Optimism, Rate-Cut Bets Extend Rally",
-    "link": "https://cryptopanic.com/news/33077222/Bitcoin-Climbs-Toward-67K-as-CLARITY-Act-Optimism-Rate-Cut-Bets-Extend-Rally",
-    "source": "www.blockhead.co",
-    "published": "Wed Jul 22 2026 03:49:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Interactive Brokers Q2 profit climbs as trading and margin loans surge",
-    "link": "https://cryptopanic.com/news/33077190/Interactive-Brokers-Q2-profit-climbs-as-trading-and-margin-loans-surge",
-    "source": "cryptopolitan.com",
-    "published": "Wed Jul 22 2026 03:36:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump Backed CLARITY Act Ethics Rule Puts DOJ In Charge\n\nUS President Donald Trump has approved new ethics language tied to the Clarity Act, according to sources. The provision would bar federal officials, including the president, vice president, and members of Congress, from",
-    "link": "https://cryptopanic.com/news/33077277/Trump-Backed-CLARITY-Act-Ethics-Rule-Puts-DOJ-In-Charge-US-President-Donald-Trump-has-approved-new-ethics-language-tied-to-the-Clarity-Act-according-to-sources-The-provision-would-bar-federal-officials-including-the-president-vice-president-and-members-of-Congress-from",
-    "source": "@bscnews",
-    "published": "Wed Jul 22 2026 03:36:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ALERT: Balance Coin $BLC has crashed 99% after 42DAO was exploited for roughly $915,000, per PeckShieldAlert.",
-    "link": "https://cryptopanic.com/news/33077232/ALERT-Balance-Coin-BLC-has-crashed-99-after-42DAO-was-exploited-for-roughly-915000-per-PeckShieldAlert",
-    "source": "@cointelegraph",
-    "published": "Wed Jul 22 2026 03:30:06 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
