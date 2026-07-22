@@ -1,9 +1,37 @@
 [
   {
+    "title": "Robinhood Chain tops crypto developer ranking two weeks after launch",
+    "link": "https://cryptopanic.com/news/33077025/Robinhood-Chain-tops-crypto-developer-ranking-two-weeks-after-launch",
+    "source": "cryptopolitan.com",
+    "published": "Wed Jul 22 2026 02:36:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 LATEST: OpenAI CEO Sam Altman plans to brief the Trump administration and US lawmakers next week on the company's upcoming generation of AI models.",
+    "link": "https://cryptopanic.com/news/33077003/LATEST-OpenAI-CEO-Sam-Altman-plans-to-brief-the-Trump-administration-and-US-lawmakers-next-week-on-the-companys-upcoming-generation-of-AI-models",
+    "source": "@cointelegraph",
+    "published": "Wed Jul 22 2026 02:20:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Whale 0x2684 continues accumulating $ETH and $WBTC.\n\nSince June 30, the whale has bought 54,449 $ETH($94M) at an average price of $1,726 and 600 $WBTC($38.37M) at an average price of $63,950.\n\nThe whale is now sitting on over $12.5M in unrealized profit.",
+    "link": "https://cryptopanic.com/news/33077047/Whale-0x2684-continues-accumulating-ETH-and-WBTC-Since-June-30-the-whale-has-bought-54449-ETH94M-at-an-average-price-of-1726-and-600-WBTC3837M-at-an-average-price-of-63950-The-whale-is-now-sitting-on-over-125M-in-unrealized-profit",
+    "source": "@lookonchain",
+    "published": "Wed Jul 22 2026 02:18:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin, Ethereum, XRP, Dogecoin Lift Amid Crypto Bill Optimism: Analyst Flags BTC's 'Biggest Test'",
     "link": "https://cryptopanic.com/news/33076941/Bitcoin-Ethereum-XRP-Dogecoin-Lift-Amid-Crypto-Bill-Optimism-Analyst-Flags-BTCs-Biggest-Test",
     "source": "feeds2.benzinga.com",
     "published": "Wed Jul 22 2026 02:02:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "S&P Dow Jones New Crypto Index Snubs Bitcoin, Not a Revenue-Generating Protocol",
+    "link": "https://cryptopanic.com/news/33076992/SP-Dow-Jones-New-Crypto-Index-Snubs-Bitcoin-Not-a-Revenue-Generating-Protocol",
+    "source": "beincrypto.com",
+    "published": "Wed Jul 22 2026 02:01:37 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -14,6 +42,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "BIG: S&P Dow Jones Indices and Pantera Capital have launched a new digital asset index that screens for tokens with real revenue and utility, rather than price momentum or hype.",
+    "link": "https://cryptopanic.com/news/33077002/BIG-SampP-Dow-Jones-Indices-and-Pantera-Capital-have-launched-a-new-digital-asset-index-that-screens-for-tokens-with-real-revenue-and-utility-rather-than-price-momentum-or-hype",
+    "source": "@cointelegraph",
+    "published": "Wed Jul 22 2026 02:00:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Canton Network about to get Rust compatibility?!\n\nLeading infrastructure company @cantor8 has just announced it is currently developing a toolkit that would allow programs written in Rust to communicate with @CantonNetwork ledgers.\n\nCanton's native smart contract language is",
     "link": "https://cryptopanic.com/news/33076877/Canton-Network-about-to-get-Rust-compatibility-Leading-infrastructure-company-cantor8-has-just-announced-it-is-currently-developing-a-toolkit-that-would-allow-programs-written-in-Rust-to-communicate-with-CantonNetwork-ledgers-Cantons-native-smart-contract-language-is",
     "source": "@bscnews",
@@ -21,10 +56,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Kospi Jumps 5% as Asian Chipmakers Rebound From AI Selloff",
+    "link": "https://cryptopanic.com/news/33076991/Kospi-Jumps-5-as-Asian-Chipmakers-Rebound-From-AI-Selloff",
+    "source": "beincrypto.com",
+    "published": "Wed Jul 22 2026 01:52:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "UPDATE: Gold is now viewed as the most undervalued asset among fund managers in over three years, per Bank of America's survey.",
     "link": "https://cryptopanic.com/news/33076844/UPDATE-Gold-is-now-viewed-as-the-most-undervalued-asset-among-fund-managers-in-over-three-years-per-Bank-of-Americas-survey",
     "source": "@cointelegraph",
     "published": "Wed Jul 22 2026 01:40:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tesla Earnings Today: What to Expect as Investors Eye Profit Margins Over Deliveries",
+    "link": "https://cryptopanic.com/news/33076990/Tesla-Earnings-Today-What-to-Expect-as-Investors-Eye-Profit-Margins-Over-Deliveries",
+    "source": "beincrypto.com",
+    "published": "Wed Jul 22 2026 01:32:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -158,55 +207,6 @@
     "link": "https://cryptopanic.com/news/33076299/Strong-consumer-loan-demand-lifts-Banorte-quarterly-profit",
     "source": "@reutersbiz",
     "published": "Wed Jul 22 2026 00:15:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump Invokes Smoot-Hawley Tariff Provision For 50% Canada Duty",
-    "link": "https://cryptopanic.com/news/33076522/Trump-Invokes-Smoot-Hawley-Tariff-Provision-For-50-Canada-Duty",
-    "source": "square.binance.com",
-    "published": "Wed Jul 22 2026 00:15:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Sony To End Physical Disc Production for New PlayStation Games in 2028",
-    "link": "https://cryptopanic.com/news/33076521/Sony-To-End-Physical-Disc-Production-for-New-PlayStation-Games-in-2028",
-    "source": "square.binance.com",
-    "published": "Wed Jul 22 2026 00:12:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Monad and Near Protocol have the fastest-growing DeFi ecosystems.\n\nIn the past month, @monad's L1 has DOUBLED its TVL to a total of some $701.3M at time of writing.\n\n@NEARProtocol has also seen impressive TVL growth of +60% in the period, reaching a total of $118.1M .\n\nWill this",
-    "link": "https://cryptopanic.com/news/33076567/Monad-and-Near-Protocol-have-the-fastest-growing-DeFi-ecosystems-In-the-past-month-monads-L1-has-DOUBLED-its-TVL-to-a-total-of-some-7013M-at-time-of-writing-NEARProtocol-has-also-seen-impressive-TVL-growth-of-60-in-the-period-reaching-a-total-of-1181M-Will-this",
-    "source": "@bscnews",
-    "published": "Wed Jul 22 2026 00:11:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AI TRENDS | Jianyuan Technology Completes Second-Stage Aft Section Vibration Test for Yuanxingzhe-1",
-    "link": "https://cryptopanic.com/news/33076520/AI-TRENDS-Jianyuan-Technology-Completes-Second-Stage-Aft-Section-Vibration-Test-for-Yuanxingzhe-1",
-    "source": "square.binance.com",
-    "published": "Wed Jul 22 2026 00:10:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Iranian Media Says U.S. Airstrike Hit Military Facility Near Tabriz",
-    "link": "https://cryptopanic.com/news/33076519/Iranian-Media-Says-US-Airstrike-Hit-Military-Facility-Near-Tabriz",
-    "source": "square.binance.com",
-    "published": "Wed Jul 22 2026 00:10:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "GEOPOLITICS | Yuan Scrutiny Grows in Europe on EU Trade Deficit",
-    "link": "https://cryptopanic.com/news/33076518/GEOPOLITICS-Yuan-Scrutiny-Grows-in-Europe-on-EU-Trade-Deficit",
-    "source": "square.binance.com",
-    "published": "Wed Jul 22 2026 00:10:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Iranian State TV Reports Air Defense Activity Heard in West, East, and Northeast Tehran",
-    "link": "https://cryptopanic.com/news/33076517/Iranian-State-TV-Reports-Air-Defense-Activity-Heard-in-West-East-and-Northeast-Tehran",
-    "source": "square.binance.com",
-    "published": "Wed Jul 22 2026 00:07:41 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
