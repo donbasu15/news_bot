@@ -1,9 +1,23 @@
 [
   {
+    "title": "Bitcoin Climbs Toward $67K as CLARITY Act Optimism, Rate-Cut Bets Extend Rally",
+    "link": "https://cryptopanic.com/news/33077222/Bitcoin-Climbs-Toward-67K-as-CLARITY-Act-Optimism-Rate-Cut-Bets-Extend-Rally",
+    "source": "www.blockhead.co",
+    "published": "Wed Jul 22 2026 03:49:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Interactive Brokers Q2 profit climbs as trading and margin loans surge",
     "link": "https://cryptopanic.com/news/33077190/Interactive-Brokers-Q2-profit-climbs-as-trading-and-margin-loans-surge",
     "source": "cryptopolitan.com",
     "published": "Wed Jul 22 2026 03:36:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ALERT: Balance Coin $BLC has crashed 99% after 42DAO was exploited for roughly $915,000, per PeckShieldAlert.",
+    "link": "https://cryptopanic.com/news/33077232/ALERT-Balance-Coin-BLC-has-crashed-99-after-42DAO-was-exploited-for-roughly-915000-per-PeckShieldAlert",
+    "source": "@cointelegraph",
+    "published": "Wed Jul 22 2026 03:30:06 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -21,10 +35,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "LATEST: 🇺🇸 The White House is reportedly pushing Senate Democrats to accept Trump's CLARITY Act ethics deal, calling it \"the most comprehensive and wide-ranging ethics provision in history,\" per CoinDesk.",
+    "link": "https://cryptopanic.com/news/33077230/LATEST-The-White-House-is-reportedly-pushing-Senate-Democrats-to-accept-Trumps-CLARITY-Act-ethics-deal-calling-it-the-most-comprehensive-and-wide-ranging-ethics-provision-in-history-per-CoinDesk",
+    "source": "@coinmarketcap",
+    "published": "Wed Jul 22 2026 03:25:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin dominance just saw its highest daily close since May as $BTC has rallied back above $66,000.",
     "link": "https://cryptopanic.com/news/33077211/Bitcoin-dominance-just-saw-its-highest-daily-close-since-May-as-BTC-has-rallied-back-above-66000",
     "source": "@stackersatoshi",
     "published": "Wed Jul 22 2026 03:19:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "How Much Has the Iran War Cost the US? Defence Secretary Puts a Number on It",
+    "link": "https://cryptopanic.com/news/33077219/How-Much-Has-the-Iran-War-Cost-the-US-Defence-Secretary-Puts-a-Number-on-It",
+    "source": "beincrypto.com",
+    "published": "Wed Jul 22 2026 03:17:16 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33076992/SP-Dow-Jones-New-Crypto-Index-Snubs-Bitcoin-Not-a-Revenue-Generating-Protocol",
     "source": "beincrypto.com",
     "published": "Wed Jul 22 2026 02:01:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Argentina's Peso Collapse? A Fiat Currency Warning!",
-    "link": "https://cryptopanic.com/news/33076921/Argentinas-Peso-Collapse-A-Fiat-Currency-Warning",
-    "source": "SimplyBitcoin",
-    "published": "Wed Jul 22 2026 02:00:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BIG: S&P Dow Jones Indices and Pantera Capital have launched a new digital asset index that screens for tokens with real revenue and utility, rather than price momentum or hype.",
-    "link": "https://cryptopanic.com/news/33077002/BIG-SampP-Dow-Jones-Indices-and-Pantera-Capital-have-launched-a-new-digital-asset-index-that-screens-for-tokens-with-real-revenue-and-utility-rather-than-price-momentum-or-hype",
-    "source": "@cointelegraph",
-    "published": "Wed Jul 22 2026 02:00:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Canton Network about to get Rust compatibility?!\n\nLeading infrastructure company @cantor8 has just announced it is currently developing a toolkit that would allow programs written in Rust to communicate with @CantonNetwork ledgers.\n\nCanton's native smart contract language is",
-    "link": "https://cryptopanic.com/news/33076877/Canton-Network-about-to-get-Rust-compatibility-Leading-infrastructure-company-cantor8-has-just-announced-it-is-currently-developing-a-toolkit-that-would-allow-programs-written-in-Rust-to-communicate-with-CantonNetwork-ledgers-Cantons-native-smart-contract-language-is",
-    "source": "@bscnews",
-    "published": "Wed Jul 22 2026 01:55:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Kospi Jumps 5% as Asian Chipmakers Rebound From AI Selloff",
-    "link": "https://cryptopanic.com/news/33076991/Kospi-Jumps-5-as-Asian-Chipmakers-Rebound-From-AI-Selloff",
-    "source": "beincrypto.com",
-    "published": "Wed Jul 22 2026 01:52:27 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
