@@ -1,5 +1,12 @@
 [
   {
+    "title": "NEW: Hyperliquid's open interest has surged roughly 130% from its early February lows, per Token Terminal.",
+    "link": "https://cryptopanic.com/news/33077811/NEW-Hyperliquids-open-interest-has-surged-roughly-130-from-its-early-February-lows-per-Token-Terminal",
+    "source": "@cointelegraph",
+    "published": "Wed Jul 22 2026 06:40:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Visa Builds Stablecoin Rails for Banks and Fintechs",
     "link": "https://cryptopanic.com/news/33077714/Visa-Builds-Stablecoin-Rails-for-Banks-and-Fintechs",
     "source": "catenaa.com",
@@ -14,10 +21,38 @@
     "sentiment": "neutral"
   },
   {
+    "title": "LATEST:  Galaxy has launched a Bitcoin Quantum Readiness Initiative, committing up to $5M in developer grants to build post-quantum cryptographic tools.",
+    "link": "https://cryptopanic.com/news/33077804/LATEST-Galaxy-has-launched-a-Bitcoin-Quantum-Readiness-Initiative-committing-up-to-5M-in-developer-grants-to-build-post-quantum-cryptographic-tools",
+    "source": "@coinmarketcap",
+    "published": "Wed Jul 22 2026 06:25:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Pi Network Warning: Strange Scam Activity Leaves Pioneer Wallet at Zero",
     "link": "https://cryptopanic.com/news/33077710/Pi-Network-Warning-Strange-Scam-Activity-Leaves-Pioneer-Wallet-at-Zero",
     "source": "cryptopotato.com",
     "published": "Wed Jul 22 2026 06:21:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: Meta is working on an AI storytelling app called StoryKit that generates personalized children's bedtime stories from custom characters, settings, and lessons.",
+    "link": "https://cryptopanic.com/news/33077810/LATEST-Meta-is-working-on-an-AI-storytelling-app-called-StoryKit-that-generates-personalized-childrens-bedtime-stories-from-custom-characters-settings-and-lessons",
+    "source": "@cointelegraph",
+    "published": "Wed Jul 22 2026 06:20:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33077808/Source",
+    "source": "@wublockchain",
+    "published": "Wed Jul 22 2026 06:17:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "According to SoSoValue data, spot Bitcoin ETFs recorded $203 million in net inflows on July 21 (ET), marking the sixth consecutive day of net inflows. Spot Ethereum ETFs saw $37.471 million in net inflows, extending their net inflow streak to three days.",
+    "link": "https://cryptopanic.com/news/33077807/According-to-SoSoValue-data-spot-Bitcoin-ETFs-recorded-203-million-in-net-inflows-on-July-21-ET-marking-the-sixth-consecutive-day-of-net-inflows-Spot-Ethereum-ETFs-saw-37471-million-in-net-inflows-extending-their-net-inflow-streak-to-three-days",
+    "source": "@wublockchain",
+    "published": "Wed Jul 22 2026 06:16:23 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33077404/Aptos-Proposes-Bigger-Role-For-Staked-APT-Aptos-Aptos-has-introduced-AIP-146-a-proposal-that-would-increase-transaction-limits-for-users-staking-APT-The-proposal-is-designed-to-support-demanding-onchain-activity-including-liquidations-and-advanced-DeFi-strategies-The",
     "source": "@bscnews",
     "published": "Wed Jul 22 2026 04:59:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Blockchain security firm SlowMist says a single-transaction combo exploited missing price protection and liquidation delays, letting an attacker liquidate multiple BTCB vaults using an abnormally low oracle price.\n\nFull report",
-    "link": "https://cryptopanic.com/news/33077534/UPDATE-Blockchain-security-firm-SlowMist-says-a-single-transaction-combo-exploited-missing-price-protection-and-liquidation-delays-letting-an-attacker-liquidate-multiple-BTCB-vaults-using-an-abnormally-low-oracle-price-Full-report",
-    "source": "@cointelegraph",
-    "published": "Wed Jul 22 2026 04:56:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Movement Labs has filed for Chapter 11 bankruptcy in Delaware, listing up to $10M in liabilities against $100,001-$500,000 in assets.",
-    "link": "https://cryptopanic.com/news/33077532/LATEST-Movement-Labs-has-filed-for-Chapter-11-bankruptcy-in-Delaware-listing-up-to-10M-in-liabilities-against-100001-500000-in-assets",
-    "source": "@coinmarketcap",
-    "published": "Wed Jul 22 2026 04:52:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tom Lee: AI funds are rotating into Ethereum over memory chips",
-    "link": "https://cryptopanic.com/news/33077374/Tom-Lee-AI-funds-are-rotating-into-Ethereum-over-memory-chips",
-    "source": "cryptopolitan.com",
-    "published": "Wed Jul 22 2026 04:42:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Anthony Scaramucci Explains Why He's Long Bitcoin and Gold: 'Imagine an American President...Sitting in Front of a $55 Trillion Deficit'",
-    "link": "https://cryptopanic.com/news/33077402/Anthony-Scaramucci-Explains-Why-Hes-Long-Bitcoin-and-Gold-Imagine-an-American-PresidentSitting-in-Front-of-a-55-Trillion-Deficit",
-    "source": "feeds2.benzinga.com",
-    "published": "Wed Jul 22 2026 04:41:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin, XRP Miss Out as S&P Unveils New Institutional Crypto Index",
-    "link": "https://cryptopanic.com/news/33077659/Bitcoin-XRP-Miss-Out-as-SP-Unveils-New-Institutional-Crypto-Index",
-    "source": "coinpedia.org",
-    "published": "Wed Jul 22 2026 04:41:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
