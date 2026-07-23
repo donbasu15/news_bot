@@ -1,5 +1,26 @@
 [
   {
+    "title": "Iran hits an oil tanker, says “Strait will remain closed.”\n\nBitcoin: up we go!",
+    "link": "https://cryptopanic.com/news/33082828/Iran-hits-an-oil-tanker-says-Strait-will-remain-closed-Bitcoin-up-we-go",
+    "source": "@btc_archive",
+    "published": "Thu Jul 23 2026 00:28:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "A mysterious whale bought 27,000 $ETH ($52.03M) via Galaxy Digital OTC 4 hours ago after 3 months of inactivity.",
+    "link": "https://cryptopanic.com/news/33082790/A-mysterious-whale-bought-27000-ETH-5203M-via-Galaxy-Digital-OTC-4-hours-ago-after-3-months-of-inactivity",
+    "source": "@lookonchain",
+    "published": "Thu Jul 23 2026 00:27:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Seven pro-crypto Democrats reject CLARITY Act text as ex-CFTC chief puts pass odds under 50%",
+    "link": "https://cryptopanic.com/news/33082748/Seven-pro-crypto-Democrats-reject-CLARITY-Act-text-as-ex-CFTC-chief-puts-pass-odds-under-50",
+    "source": "cryptopolitan.com",
+    "published": "Thu Jul 23 2026 00:17:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Source",
     "link": "https://cryptopanic.com/news/33082735/Source",
     "source": "@wublockchain",
@@ -11,6 +32,13 @@
     "link": "https://cryptopanic.com/news/33082734/AFX-Operated-Bridge-Loses-2415-Million-in-USDC-Exploit-Onchain-security-firm-Blockaid-said-it-detected-an-attack-on-a-cross-chain-bridge-operated-by-Arbitrum-based-protocol-AFX-at-2130-UTC-on-July-22-with-about-2415-million-USDC-stolen-USDC-is-a-US-dollar-pegged",
     "source": "@wublockchain",
     "published": "Thu Jul 23 2026 00:14:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "WHAT is going on with Sonic's stablecoin supply?!\n\n@SonicLabs has seen its stablecoin market cap absolutely rip some +41.2% in the past week, reaching a total of more than $125M .\n\nCurrently, Sonic is the 29th largest network by stablecoin supply, rising from relative obscurity",
+    "link": "https://cryptopanic.com/news/33082789/WHAT-is-going-on-with-Sonics-stablecoin-supply-SonicLabs-has-seen-its-stablecoin-market-cap-absolutely-rip-some-412-in-the-past-week-reaching-a-total-of-more-than-125M-Currently-Sonic-is-the-29th-largest-network-by-stablecoin-supply-rising-from-relative-obscurity",
+    "source": "@bscnews",
+    "published": "Thu Jul 23 2026 00:10:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33082576/Bitcoin-miner-Bitdeer-sells-1011-BTC-for-64-million-in-June-Now-holds-just-150-BTC-down-from-2017-BTC-in-January-Will-they-regret-this-move",
     "source": "@btc_archive",
     "published": "Wed Jul 22 2026 22:42:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why Bitcoin Is Stuck Near $65,000 as AI Fuels Inflation",
-    "link": "https://cryptopanic.com/news/33082593/Why-Bitcoin-Is-Stuck-Near-65000-as-AI-Fuels-Inflation",
-    "source": "beincrypto.com",
-    "published": "Wed Jul 22 2026 22:41:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INSIGHT: Bitcoin ETF flows have turned positive and shorts have been closed, with @Glassnode identifying $69,000 as the key level to confirm the next leg higher.",
-    "link": "https://cryptopanic.com/news/33082510/INSIGHT-Bitcoin-ETF-flows-have-turned-positive-and-shorts-have-been-closed-with-Glassnode-identifying-69000-as-the-key-level-to-confirm-the-next-leg-higher",
-    "source": "@cointelegraph",
-    "published": "Wed Jul 22 2026 22:40:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CZ says we're still early to crypto...\n\nIn a recent interview on @StrataMedia_'s @_TalkingTokens podcast, @Binance founder @cz_binance highlighted crypto's <1% penetration into global wealth.\n\nHe also shared several ways that crypto products can improve and drive adoption,",
-    "link": "https://cryptopanic.com/news/33082526/CZ-says-were-still-early-to-crypto-In-a-recent-interview-on-StrataMedia_s-_TalkingTokens-podcast-Binance-founder-cz_binance-highlighted-cryptos-lt1-penetration-into-global-wealth-He-also-shared-several-ways-that-crypto-products-can-improve-and-drive-adoption",
-    "source": "@bscnews",
-    "published": "Wed Jul 22 2026 22:39:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Benchmark cut its Q2 revenue estimate for Coinbase to $1.38B from $1.51B, citing a ~28% drop in exchange spot volume, but kept its Buy rating and $270 price target.",
-    "link": "https://cryptopanic.com/news/33082502/LATEST-Benchmark-cut-its-Q2-revenue-estimate-for-Coinbase-to-138B-from-151B-citing-a-28-drop-in-exchange-spot-volume-but-kept-its-Buy-rating-and-270-price-target",
-    "source": "@coinmarketcap",
-    "published": "Wed Jul 22 2026 22:23:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
