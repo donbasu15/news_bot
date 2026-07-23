@@ -1,5 +1,12 @@
 [
   {
+    "title": "Channel Tunnel operator says EU software issues could delay biometric checks",
+    "link": "https://cryptopanic.com/news/33084330/Channel-Tunnel-operator-says-EU-software-issues-could-delay-biometric-checks",
+    "source": "@reutersbiz",
+    "published": "Thu Jul 23 2026 07:45:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST: ️ Ark Invest's Cathie Wood says SpaceX \"could become the most important company in history,\" pointing to Starlink and orbital data centers.",
     "link": "https://cryptopanic.com/news/33084322/LATEST-Ark-Invests-Cathie-Wood-says-SpaceX-could-become-the-most-important-company-in-history-pointing-to-Starlink-and-orbital-data-centers",
     "source": "@coinmarketcap",
@@ -11,6 +18,13 @@
     "link": "https://cryptopanic.com/news/33084286/Hackers-Day-3-Crypto-Protocols-Drained-of-35-Million-in-24-Hours",
     "source": "cryptopotato.com",
     "published": "Thu Jul 23 2026 07:35:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Avalanche Adds Tokenized Brazilian Credit Market\n\nAvalanche (@avax) says Plume's (@plumenetwork) nOPAL vault is now live on its network, giving investors onchain access to tokenized Brazilian credit card receivables.\n\nIssued by BlackOpal (@blackopal_fi), the vault generates yield",
+    "link": "https://cryptopanic.com/news/33084354/Avalanche-Adds-Tokenized-Brazilian-Credit-Market-Avalanche-avax-says-Plumes-plumenetwork-nOPAL-vault-is-now-live-on-its-network-giving-investors-onchain-access-to-tokenized-Brazilian-credit-card-receivables-Issued-by-BlackOpal-blackopal_fi-the-vault-generates-yield",
+    "source": "@bscnews",
+    "published": "Thu Jul 23 2026 07:34:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33083928/Robert-Kiyosaki-Says-Bitcoin-Should-Pay-You-But-Heres-the-Catch",
     "source": "coindoo.com",
     "published": "Thu Jul 23 2026 06:32:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Faces Governance Test Over BIP-110",
-    "link": "https://cryptopanic.com/news/33083883/Bitcoin-Faces-Governance-Test-Over-BIP-110",
-    "source": "catenaa.com",
-    "published": "Thu Jul 23 2026 06:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇸🇬 LATEST: Coinbase plans to grow its Singapore headcount from 150 to 200 by year-end, focusing on engineering, customer service, and institutional sales, per Business Times.",
-    "link": "https://cryptopanic.com/news/33083996/LATEST-Coinbase-plans-to-grow-its-Singapore-headcount-from-150-to-200-by-year-end-focusing-on-engineering-customer-service-and-institutional-sales-per-Business-Times",
-    "source": "@cointelegraph",
-    "published": "Thu Jul 23 2026 06:20:42 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
