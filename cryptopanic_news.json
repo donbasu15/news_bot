@@ -1,5 +1,33 @@
 [
   {
+    "title": "Bitcoin's Second Civil War Has Begun! Did Wall Street Just Pick Its Weapon?",
+    "link": "https://cryptopanic.com/news/33089265/Bitcoins-Second-Civil-War-Has-Begun-Did-Wall-Street-Just-Pick-Its-Weapon",
+    "source": "SimplyBitcoin",
+    "published": "Thu Jul 23 2026 21:32:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Dogecoin breaks the level Santiment told traders to watch\n\nSantiment's weekly anomaly report flagged $DOGE as \"hype without news,\" with sentiment climbing to +12.09 while price coiled between $0.071 and $0.073, and warned that a daily close below $0.071 would hand control to the",
+    "link": "https://cryptopanic.com/news/33089241/Dogecoin-breaks-the-level-Santiment-told-traders-to-watch-Santiments-weekly-anomaly-report-flagged-DOGE-as-hype-without-news-with-sentiment-climbing-to-1209-while-price-coiled-between-0071-and-0073-and-warned-that-a-daily-close-below-0071-would-hand-control-to-the",
+    "source": "@bscnews",
+    "published": "Thu Jul 23 2026 21:32:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Is crypto a good investment? Why risk tolerance and dollar-cost averaging matter",
+    "link": "https://cryptopanic.com/news/33089232/Is-crypto-a-good-investment-Why-risk-tolerance-and-dollar-cost-averaging-matter",
+    "source": "ambcrypto.com",
+    "published": "Thu Jul 23 2026 21:30:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "This one's big. The story of tokenized stocks so far: built in America, sold everywhere except America. Oasis Pro Markets' authorization ends that split.",
+    "link": "https://cryptopanic.com/news/33089240/This-ones-big-The-story-of-tokenized-stocks-so-far-built-in-America-sold-everywhere-except-America-Oasis-Pro-Markets-authorization-ends-that-split",
+    "source": "@bscnews",
+    "published": "Thu Jul 23 2026 21:27:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Arthur Hayes-Backed Exchange BitMEX Unveils Plans To Permanently Shut Down",
     "link": "https://cryptopanic.com/news/33089170/Arthur-Hayes-Backed-Exchange-BitMEX-Unveils-Plans-To-Permanently-Shut-Down",
     "source": "thecoinrepublic.com",
@@ -7,10 +35,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Another Swiss bank folds crypto into its regular banking app\n\nBancaStato, the state-owned cantonal bank of Ticino, has launched regulated crypto trading through Sygnum, letting clients buy, hold, and sell $BTC, $ETH, $LTC, and $SOL inside the same apps they use for everyday",
+    "link": "https://cryptopanic.com/news/33089239/Another-Swiss-bank-folds-crypto-into-its-regular-banking-app-BancaStato-the-state-owned-cantonal-bank-of-Ticino-has-launched-regulated-crypto-trading-through-Sygnum-letting-clients-buy-hold-and-sell-BTC-ETH-LTC-and-SOL-inside-the-same-apps-they-use-for-everyday",
+    "source": "@bscnews",
+    "published": "Thu Jul 23 2026 21:01:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin Debate: Pomp DESTROYS Peter Schiff",
     "link": "https://cryptopanic.com/news/33089191/Bitcoin-Debate-Pomp-DESTROYS-Peter-Schiff",
     "source": "AnthonyPompliano",
     "published": "Thu Jul 23 2026 21:00:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "@Ripple’s new UBRI report highlights how TRILLIONS is coming into tokenisation! $XRP\n\nThis is a huge idea, tokenisation will unlock trillions from 401(k)s and pensions into RWA infrastructure. \n\nThis is cryptos big opportunity and if blockchain helps open markets like this,",
+    "link": "https://cryptopanic.com/news/33089238/Ripples-new-UBRI-report-highlights-how-TRILLIONS-is-coming-into-tokenisation-XRP-This-is-a-huge-idea-tokenisation-will-unlock-trillions-from-401ks-and-pensions-into-RWA-infrastructure-This-is-cryptos-big-opportunity-and-if-blockchain-helps-open-markets-like-this",
+    "source": "@realallincrypto",
+    "published": "Thu Jul 23 2026 21:00:15 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -25,6 +67,20 @@
     "link": "https://cryptopanic.com/news/33089025/Goldman-Sachs-CEO-Supports-Crypto-Clarity-Act",
     "source": "cryptoprowl.com",
     "published": "Thu Jul 23 2026 20:52:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "US Cyber Assessment Finds Kimi K3 Trails Top American AI Models: Facts or Politics?",
+    "link": "https://cryptopanic.com/news/33089234/US-Cyber-Assessment-Finds-Kimi-K3-Trails-Top-American-AI-Models-Facts-or-Politics",
+    "source": "beincrypto.com",
+    "published": "Thu Jul 23 2026 20:51:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Q-Day: When Will Quantum Computers Actually Break Bitcoin?",
+    "link": "https://cryptopanic.com/news/33089233/Q-Day-When-Will-Quantum-Computers-Actually-Break-Bitcoin",
+    "source": "beincrypto.com",
+    "published": "Thu Jul 23 2026 20:51:41 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -151,62 +207,6 @@
     "link": "https://cryptopanic.com/news/33089035/LATEST-US-spot-Bitcoin-ETFs-pulled-in-69M-on-July-22-extending-their-inflow-streak-to-seven-straight-sessions-for-nearly-1B-total-since-July-14",
     "source": "@coinmarketcap",
     "published": "Thu Jul 23 2026 20:17:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Clarity Act expected to miss its window before Congress' summer break, leadership says",
-    "link": "https://cryptopanic.com/news/33089087/Clarity-Act-expected-to-miss-its-window-before-Congress-summer-break-leadership-says",
-    "source": "coindesk.com",
-    "published": "Thu Jul 23 2026 20:16:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Intel $INTC surges 11% after reporting $16.1 billion in revenue, beating expectations for Q2 2026.",
-    "link": "https://cryptopanic.com/news/33088997/JUST-IN-Intel-INTC-surges-11-after-reporting-161-billion-in-revenue-beating-expectations-for-Q2-2026",
-    "source": "@watcherguru",
-    "published": "Thu Jul 23 2026 20:14:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "#BREAKING: Trump: I'd like to be the next president",
-    "link": "https://cryptopanic.com/news/33089039/BREAKING-Trump-Id-like-to-be-the-next-president",
-    "source": "@cryptonwsuk",
-    "published": "Thu Jul 23 2026 20:13:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nasdaq-Listed Zhibao Wants a Bitcoin Treasury, Plans to Sell $220M in Stock for BTC",
-    "link": "https://cryptopanic.com/news/33088991/Nasdaq-Listed-Zhibao-Wants-a-Bitcoin-Treasury-Plans-to-Sell-220M-in-Stock-for-BTC",
-    "source": "decrypt.co",
-    "published": "Thu Jul 23 2026 20:12:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇯🇵 UPDATE: Japanese insurers bought the most super-long Japanese government bonds in three years, signaling renewed domestic demand for the country’s debt.",
-    "link": "https://cryptopanic.com/news/33089043/UPDATE-Japanese-insurers-bought-the-most-super-long-Japanese-government-bonds-in-three-years-signaling-renewed-domestic-demand-for-the-countrys-debt",
-    "source": "@cointelegraph",
-    "published": "Thu Jul 23 2026 20:10:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Shiba Inu Holders Breakdown: Here’s How Many Whales Control 95% of the Supply",
-    "link": "https://cryptopanic.com/news/33088992/Shiba-Inu-Holders-Breakdown-Heres-How-Many-Whales-Control-95-of-the-Supply",
-    "source": "cryptopotato.com",
-    "published": "Thu Jul 23 2026 20:09:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Analyst Flags Cardano Breakout With 1,500% Rally in Sight",
-    "link": "https://cryptopanic.com/news/33088984/Analyst-Flags-Cardano-Breakout-With-1500-Rally-in-Sight",
-    "source": "zycrypto.com",
-    "published": "Thu Jul 23 2026 20:04:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Slips To $64,000 As ETH, XRP, DOGE Tumble In Macro Sell-Off",
-    "link": "https://cryptopanic.com/news/33089021/Bitcoin-Slips-To-64000-As-ETH-XRP-DOGE-Tumble-In-Macro-Sell-Off",
-    "source": "feeds2.benzinga.com",
-    "published": "Thu Jul 23 2026 20:04:03 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
