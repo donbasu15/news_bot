@@ -1,9 +1,128 @@
 [
   {
+    "title": "Even Goldman CEO Throws Support Behind Clarity Act",
+    "link": "https://cryptopanic.com/news/33088908/Even-Goldman-CEO-Throws-Support-Behind-Clarity-Act",
+    "source": "u.today",
+    "published": "Thu Jul 23 2026 19:35:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP's Biggest Breakout in Years Could Fuel a Run to $6.40 and $30 Targets, Veteran Analyst Says",
+    "link": "https://cryptopanic.com/news/33088863/XRPs-Biggest-Breakout-in-Years-Could-Fuel-a-Run-to-640-and-30-Targets-Veteran-Analyst-Says",
+    "source": "coinpaper.com",
+    "published": "Thu Jul 23 2026 19:32:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin’s longest ETF inflow streak in nine months points to improving market sentiment",
+    "link": "https://cryptopanic.com/news/33088862/Bitcoins-longest-ETF-inflow-streak-in-nine-months-points-to-improving-market-sentiment",
+    "source": "ambcrypto.com",
+    "published": "Thu Jul 23 2026 19:30:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "OpenAI And Anthropic Employees Will See Tax Surprises After IPO",
+    "link": "https://cryptopanic.com/news/33088846/OpenAI-And-Anthropic-Employees-Will-See-Tax-Surprises-After-IPO",
+    "source": "catenaa.com",
+    "published": "Thu Jul 23 2026 19:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cardano’s Midnight Set for Major Leap as Hoskinson Teases “Huge Things” Ahead",
+    "link": "https://cryptopanic.com/news/33088882/Cardanos-Midnight-Set-for-Major-Leap-as-Hoskinson-Teases-Huge-Things-Ahead",
+    "source": "zycrypto.com",
+    "published": "Thu Jul 23 2026 19:29:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: Strategy CEO Phong Le said supporting Bitcoin’s long-term security is a natural way for Strategy to contribute to the ecosystem.",
+    "link": "https://cryptopanic.com/news/33088903/LATEST-Strategy-CEO-Phong-Le-said-supporting-Bitcoins-long-term-security-is-a-natural-way-for-Strategy-to-contribute-to-the-ecosystem",
+    "source": "@cointelegraph",
+    "published": "Thu Jul 23 2026 19:28:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Robinhood CEO Vlad Tenev's X Account Hacked to Shill Fake 'Vladhood' Token",
+    "link": "https://cryptopanic.com/news/33088847/Robinhood-CEO-Vlad-Tenevs-X-Account-Hacked-to-Shill-Fake-Vladhood-Token",
+    "source": "decrypt.co",
+    "published": "Thu Jul 23 2026 19:27:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Andrew Tate’s memecoin down 97% while he tweets from cell",
+    "link": "https://cryptopanic.com/news/33088838/Andrew-Tates-memecoin-down-97-while-he-tweets-from-cell",
+    "source": "protos.com",
+    "published": "Thu Jul 23 2026 19:24:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP is down 69%, yet millionaires are buying",
+    "link": "https://cryptopanic.com/news/33088886/XRP-is-down-69-yet-millionaires-are-buying",
+    "source": "thestreet.com",
+    "published": "Thu Jul 23 2026 19:21:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Robinhood CEO’s X Account Hacked – Here Is Why a Fake VLAD Memecoin Spread Across Social Media",
+    "link": "https://cryptopanic.com/news/33088835/Robinhood-CEOs-X-Account-Hacked-Here-Is-Why-a-Fake-VLAD-Memecoin-Spread-Across-Social-Media",
+    "source": "blocknews.com",
+    "published": "Thu Jul 23 2026 19:19:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BULLISH: President Trump said the U.S. is leading China and the rest of the world in crypto and intends to stay ahead.",
+    "link": "https://cryptopanic.com/news/33088902/BULLISH-President-Trump-said-the-US-is-leading-China-and-the-rest-of-the-world-in-crypto-and-intends-to-stay-ahead",
+    "source": "@cointelegraph",
+    "published": "Thu Jul 23 2026 19:17:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "RBI says to pursue $3.6 billion in damages from Russia's Rasperia in Austria",
+    "link": "https://cryptopanic.com/news/33088904/RBI-says-to-pursue-36-billion-in-damages-from-Russias-Rasperia-in-Austria",
+    "source": "@reutersbiz",
+    "published": "Thu Jul 23 2026 19:15:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Blackstone Q2 profit climbs 26% on AI bets, AUM hit $1.35 trillion",
+    "link": "https://cryptopanic.com/news/33088844/Blackstone-Q2-profit-climbs-26-on-AI-bets-AUM-hit-135-trillion",
+    "source": "cryptopolitan.com",
+    "published": "Thu Jul 23 2026 19:15:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "People are pairing memecoins with tokenised stock \n\nand it's actually affecting the stock price...",
     "link": "https://cryptopanic.com/news/33088819/People-are-pairing-memecoins-with-tokenised-stock-and-its-actually-affecting-the-stock-price",
     "source": "@decryptmedia",
     "published": "Thu Jul 23 2026 19:15:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Source: &",
+    "link": "https://cryptopanic.com/news/33088897/Source-amp",
+    "source": "@wublockchain",
+    "published": "Thu Jul 23 2026 19:10:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇮🇷 JUST IN: Goldman Sachs warned Brent crude could climb above $120 per barrel in Q4 if disruptions to the Strait of Hormuz persist.",
+    "link": "https://cryptopanic.com/news/33088901/JUST-IN-Goldman-Sachs-warned-Brent-crude-could-climb-above-120-per-barrel-in-Q4-if-disruptions-to-the-Strait-of-Hormuz-persist",
+    "source": "@cointelegraph",
+    "published": "Thu Jul 23 2026 19:10:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  BlackRock, Coinbase, Strategy and six other firms have pledged $15M over three years to strengthen Bitcoin’s security, including defenses against future quantum computing threats.",
+    "link": "https://cryptopanic.com/news/33088895/LATEST-BlackRock-Coinbase-Strategy-and-six-other-firms-have-pledged-15M-over-three-years-to-strengthen-Bitcoins-security-including-defenses-against-future-quantum-computing-threats",
+    "source": "@coinmarketcap",
+    "published": "Thu Jul 23 2026 19:05:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INSIGHT: Elon Musk predicts AI will surpass the combined intelligence of all humans within five years.",
+    "link": "https://cryptopanic.com/news/33088900/INSIGHT-Elon-Musk-predicts-AI-will-surpass-the-combined-intelligence-of-all-humans-within-five-years",
+    "source": "@cointelegraph",
+    "published": "Thu Jul 23 2026 19:00:52 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -88,125 +207,6 @@
     "link": "https://cryptopanic.com/news/33088816/They-lost-their-Punk-through-a-bug-then-managed-to-win-it-back-again",
     "source": "@decryptmedia",
     "published": "Thu Jul 23 2026 18:44:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 President Donald Trump says the U.S. is leading China in crypto:\n\n\"The United States never settles for second...including crypto. We want to stay in front in crypto.\"",
-    "link": "https://cryptopanic.com/news/33088703/JUST-IN-President-Donald-Trump-says-the-US-is-leading-China-in-crypto-The-United-States-never-settles-for-secondincluding-crypto-We-want-to-stay-in-front-in-crypto",
-    "source": "@bitcoinmagazine",
-    "published": "Thu Jul 23 2026 18:43:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "US YIELDS ARE SURGING.\n\nThe US10Y just reached its highest level since January 2025 as rising oil prices increase expectations of persistent inflation in the US.",
-    "link": "https://cryptopanic.com/news/33088707/US-YIELDS-ARE-SURGING-The-US10Y-just-reached-its-highest-level-since-January-2025-as-rising-oil-prices-increase-expectations-of-persistent-inflation-in-the-US",
-    "source": "@stackersatoshi",
-    "published": "Thu Jul 23 2026 18:37:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 President Trump says the US is \"leading China and all other countries by a lot in AI & crypto.\"\n\n\"We want to stay in front in crypto.\"",
-    "link": "https://cryptopanic.com/news/33088704/JUST-IN-President-Trump-says-the-US-is-leading-China-and-all-other-countries-by-a-lot-in-AI-amp-crypto-We-want-to-stay-in-front-in-crypto",
-    "source": "@watcherguru",
-    "published": "Thu Jul 23 2026 18:34:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "TRUMP: \"We want to stay in front in crypto. They (China) would love to take that over.\"",
-    "link": "https://cryptopanic.com/news/33088706/TRUMP-We-want-to-stay-in-front-in-crypto-They-China-would-love-to-take-that-over",
-    "source": "@btc_archive",
-    "published": "Thu Jul 23 2026 18:34:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Robinhood CEO Vlad Tenev’s X Account Suspected Compromised, VLAD Token Exploiter Gains $1.2M–$1.3M\n\nRobinhood CEO Vlad Tenev’s X account was suspected to have been compromised after it posted an unusual message on July 23, 2026, claiming to launch Robinhood Chain’s “official”",
-    "link": "https://cryptopanic.com/news/33088735/Robinhood-CEO-Vlad-Tenevs-X-Account-Suspected-Compromised-VLAD-Token-Exploiter-Gains-12M13M-Robinhood-CEO-Vlad-Tenevs-X-account-was-suspected-to-have-been-compromised-after-it-posted-an-unusual-message-on-July-23-2026-claiming-to-launch-Robinhood-Chains-official",
-    "source": "@wublockchain",
-    "published": "Thu Jul 23 2026 18:34:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BitMEX to Shut Down After 11 Years Following Strategic Review",
-    "link": "https://cryptopanic.com/news/33088648/BitMEX-to-Shut-Down-After-11-Years-Following-Strategic-Review",
-    "source": "cryptomegaphone.com",
-    "published": "Thu Jul 23 2026 18:31:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple Teams Up With Notabene to Scale RLUSD but XRP Falls 3%: What's Going On?",
-    "link": "https://cryptopanic.com/news/33088694/Ripple-Teams-Up-With-Notabene-to-Scale-RLUSD-but-XRP-Falls-3-Whats-Going-On",
-    "source": "feeds2.benzinga.com",
-    "published": "Thu Jul 23 2026 18:31:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Robinhood said CEO Vlad Tenev’s X account was hacked Thursday after it was used to promote a fake memecoin called Vladhood ($VLAD) as the “official Robinhood chain mascot.”",
-    "link": "https://cryptopanic.com/news/33088736/JUST-IN-Robinhood-said-CEO-Vlad-Tenevs-X-account-was-hacked-Thursday-after-it-was-used-to-promote-a-fake-memecoin-called-Vladhood-VLAD-as-the-official-Robinhood-chain-mascot",
-    "source": "@coindesk",
-    "published": "Thu Jul 23 2026 18:30:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Sam Parr and I Settled It With Rock Paper Scissors",
-    "link": "https://cryptopanic.com/news/33088665/Sam-Parr-and-I-Settled-It-With-Rock-Paper-Scissors",
-    "source": "AnthonyPompliano",
-    "published": "Thu Jul 23 2026 18:30:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: AI-driven fears of a DeFi hacking epidemic may be premature, with compromised keys and operational failures still driving most crypto losses, according to security researchers.",
-    "link": "https://cryptopanic.com/news/33088737/UPDATE-AI-driven-fears-of-a-DeFi-hacking-epidemic-may-be-premature-with-compromised-keys-and-operational-failures-still-driving-most-crypto-losses-according-to-security-researchers",
-    "source": "@cointelegraph",
-    "published": "Thu Jul 23 2026 18:30:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Robinhood CEO Vlad Tenev's X account hacked to promote token amid memecoin frenzy",
-    "link": "https://cryptopanic.com/news/33088740/Robinhood-CEO-Vlad-Tenevs-X-account-hacked-to-promote-token-amid-memecoin-frenzy",
-    "source": "coindesk.com",
-    "published": "Thu Jul 23 2026 18:29:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Goldman Backs Clarity Act as Democrats Says It 'Falls Short' and Warren Says 'Dead on Arrival'",
-    "link": "https://cryptopanic.com/news/33088677/Goldman-Backs-Clarity-Act-as-Democrats-Says-It-Falls-Short-and-Warren-Says-Dead-on-Arrival",
-    "source": "feeds2.benzinga.com",
-    "published": "Thu Jul 23 2026 18:28:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Oil tops $100 and drags everything down with it\n\nBrent crude punched through $101 and WTI hit $92.61 after Houthi attacks on Saudi tankers widened the Iran conflict into Red Sea shipping lanes, sending the Nasdaq down 2.2% and the S&P 500 down 1.3% as traders priced the oil shock",
-    "link": "https://cryptopanic.com/news/33088637/Oil-tops-100-and-drags-everything-down-with-it-Brent-crude-punched-through-101-and-WTI-hit-9261-after-Houthi-attacks-on-Saudi-tankers-widened-the-Iran-conflict-into-Red-Sea-shipping-lanes-sending-the-Nasdaq-down-22-and-the-SampP-500-down-13-as-traders-priced-the-oil-shock",
-    "source": "@bscnews",
-    "published": "Thu Jul 23 2026 18:27:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇺🇸 Senators Angela Alsobrooks, Cory Booker and other key Democrats say the Republican-drafted CLARITY Act still \"falls short\" on ethics, illicit finance, and consumer protection provisions.",
-    "link": "https://cryptopanic.com/news/33088734/LATEST-Senators-Angela-Alsobrooks-Cory-Booker-and-other-key-Democrats-say-the-Republican-drafted-CLARITY-Act-still-falls-short-on-ethics-illicit-finance-and-consumer-protection-provisions",
-    "source": "@coinmarketcap",
-    "published": "Thu Jul 23 2026 18:25:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 Asset manager Grayscale announces its support in the passage of The CLARITY Act:\n\n\"The CLARITY Act may soon clear the Senate if bipartisan negotiators can make progress on a few remaining issues.\"",
-    "link": "https://cryptopanic.com/news/33088701/JUST-IN-Asset-manager-Grayscale-announces-its-support-in-the-passage-of-The-CLARITY-Act-The-CLARITY-Act-may-soon-clear-the-Senate-if-bipartisan-negotiators-can-make-progress-on-a-few-remaining-issues",
-    "source": "@bitcoinmagazine",
-    "published": "Thu Jul 23 2026 18:21:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tesla sends a quiet but powerful message on Bitcoin",
-    "link": "https://cryptopanic.com/news/33088673/Tesla-sends-a-quiet-but-powerful-message-on-Bitcoin",
-    "source": "thestreet.com",
-    "published": "Thu Jul 23 2026 18:21:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: Bitcoin dominance reclaims 68% (ex-stablecoins) \n\nWe are going much higher. Prepare accordingly!",
-    "link": "https://cryptopanic.com/news/33088705/BREAKING-Bitcoin-dominance-reclaims-68-ex-stablecoins-We-are-going-much-higher-Prepare-accordingly",
-    "source": "@btc_archive",
-    "published": "Thu Jul 23 2026 18:20:50 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
