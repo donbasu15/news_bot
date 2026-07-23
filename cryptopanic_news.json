@@ -1,9 +1,121 @@
 [
   {
+    "title": "Crypto Bill Stalls as Democrats Reject DOJ-Only Ethics Enforcement",
+    "link": "https://cryptopanic.com/news/33086562/Crypto-Bill-Stalls-as-Democrats-Reject-DOJ-Only-Ethics-Enforcement",
+    "source": "cryptonews.com",
+    "published": "Thu Jul 23 2026 13:15:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Latest $3.8 billion RWA recovery shows how quickly DeFi absorbed the KelpDAO shock",
+    "link": "https://cryptopanic.com/news/33086474/Latest-38-billion-RWA-recovery-shows-how-quickly-DeFi-absorbed-the-KelpDAO-shock",
+    "source": "cryptoslate.com",
+    "published": "Thu Jul 23 2026 13:10:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$BTC big players are now funding its defence for heading by Michael Saylor's @Strategy!\n\nStrategy, BlackRock, Fidelity, Coinbase, ARK, Galaxy and others have launched the Bitcoin Security Consortium, committing $15 million over three years to developers and researchers",
+    "link": "https://cryptopanic.com/news/33086488/BTC-big-players-are-now-funding-its-defence-for-heading-by-Michael-Saylors-Strategy-Strategy-BlackRock-Fidelity-Coinbase-ARK-Galaxy-and-others-have-launched-the-Bitcoin-Security-Consortium-committing-15-million-over-three-years-to-developers-and-researchers",
+    "source": "@realallincrypto",
+    "published": "Thu Jul 23 2026 13:07:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Kaito (@KaitoAI) and @X enter a data agreement. \n\nThe agreement will power a wide range of use cases... \n\nWhat is Kaito cooking?",
+    "link": "https://cryptopanic.com/news/33086490/Kaito-KaitoAI-and-X-enter-a-data-agreement-The-agreement-will-power-a-wide-range-of-use-cases-What-is-Kaito-cooking",
+    "source": "@bscnews",
+    "published": "Thu Jul 23 2026 13:05:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto's Most Dangerous Shift in 2026 — It Starts With a Data Leak",
+    "link": "https://cryptopanic.com/news/33086441/Cryptos-Most-Dangerous-Shift-in-2026-It-Starts-With-a-Data-Leak",
+    "source": "dailycoin.com",
+    "published": "Thu Jul 23 2026 13:05:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto Exchange BitMEX Is Shutting Down",
+    "link": "https://cryptopanic.com/news/33086456/Crypto-Exchange-BitMEX-Is-Shutting-Down",
+    "source": "cryptoprowl.com",
+    "published": "Thu Jul 23 2026 13:03:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Build with CMC (DIY): How to Build a GMX Trading Bot\n\nBuild a GMX trading bot with CoinMarketCap API using momentum signals, market regime logic, Python examples, and GMX execution.\n\nLearn More",
+    "link": "https://cryptopanic.com/news/33086371/Build-with-CMC-DIY-How-to-Build-a-GMX-Trading-Bot-Build-a-GMX-trading-bot-with-CoinMarketCap-API-using-momentum-signals-market-regime-logic-Python-examples-and-GMX-execution-Learn-More",
+    "source": "@coinmarketcap",
+    "published": "Thu Jul 23 2026 13:00:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Flow Traders pilots Lombard’s new bitcoin-backed credit strategy for stablecoin borrowing",
+    "link": "https://cryptopanic.com/news/33086400/Flow-Traders-pilots-Lombards-new-bitcoin-backed-credit-strategy-for-stablecoin-borrowing",
+    "source": "theblock.co",
+    "published": "Thu Jul 23 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "New Clarity Act Draft Would Limit Trump's Crypto Income Until 2029",
+    "link": "https://cryptopanic.com/news/33086387/New-Clarity-Act-Draft-Would-Limit-Trumps-Crypto-Income-Until-2029",
+    "source": "coinpaprika.com",
+    "published": "Thu Jul 23 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ep. 756 FinchTrade | Infrastructure for Stablecoins (feat. Lex Karushin)",
+    "link": "https://cryptopanic.com/news/33086395/Ep-756-FinchTrade-Infrastructure-for-Stablecoins-feat-Lex-Karushin",
+    "source": "Anchor",
+    "published": "Thu Jul 23 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LayerZero, Keeta enable tokenized bank deposits across Ethereum, Solana and Base",
+    "link": "https://cryptopanic.com/news/33086401/LayerZero-Keeta-enable-tokenized-bank-deposits-across-Ethereum-Solana-and-Base",
+    "source": "theblock.co",
+    "published": "Thu Jul 23 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "AI could become the most powerful technology humanity has ever built but who will control it?\n\nJoin us today at 6:30 PM UK time with @georgexzeng, CPO at @NEARProtocol, to explore user-owned AI, autonomous agents and crypto’s role in the AI economy.",
+    "link": "https://cryptopanic.com/news/33086487/AI-could-become-the-most-powerful-technology-humanity-has-ever-built-but-who-will-control-it-Join-us-today-at-630-PM-UK-time-with-georgexzeng-CPO-at-NEARProtocol-to-explore-user-owned-AI-autonomous-agents-and-cryptos-role-in-the-AI-economy",
+    "source": "@realallincrypto",
+    "published": "Thu Jul 23 2026 12:59:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Quantum computing is a reality, and Bitcoin needs to be prepared. \n\nCoinbase (@Coinbase) is part of the coalition!",
+    "link": "https://cryptopanic.com/news/33086489/Quantum-computing-is-a-reality-and-Bitcoin-needs-to-be-prepared-Coinbase-Coinbase-is-part-of-the-coalition",
+    "source": "@bscnews",
+    "published": "Thu Jul 23 2026 12:58:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "U.S. Initial Jobless Claims Fall to 187,000, Lowest in Nearly 60 Years\n\nThe number of people claiming unemployment benefits in the US fell sank by 22,000 to 187,000 on the week to July 18th, well under expectations that it would increase to 212,000, for the lowest claim count in",
+    "link": "https://cryptopanic.com/news/33086372/US-Initial-Jobless-Claims-Fall-to-187000-Lowest-in-Nearly-60-Years-The-number-of-people-claiming-unemployment-benefits-in-the-US-fell-sank-by-22000-to-187000-on-the-week-to-July-18th-well-under-expectations-that-it-would-increase-to-212000-for-the-lowest-claim-count-in",
+    "source": "@wublockchain",
+    "published": "Thu Jul 23 2026 12:54:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INSIGHT: Franklin Templeton says the rise of AI agents could become a killer use case for blockchain, with agentic commerce projected to reach $3T–$5T by 2030.\n\nThe case: micro-payments between machines need instant settlement. Blockchain does it. Traditional rails don't.",
+    "link": "https://cryptopanic.com/news/33086373/INSIGHT-Franklin-Templeton-says-the-rise-of-AI-agents-could-become-a-killer-use-case-for-blockchain-with-agentic-commerce-projected-to-reach-3T5T-by-2030-The-case-micro-payments-between-machines-need-instant-settlement-Blockchain-does-it-Traditional-rails-dont",
+    "source": "@coindesk",
+    "published": "Thu Jul 23 2026 12:53:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "SHIB Attempts a Comeback, but Buyers Still Face a Major Test",
     "link": "https://cryptopanic.com/news/33086356/SHIB-Attempts-a-Comeback-but-Buyers-Still-Face-a-Major-Test",
     "source": "coindoo.com",
     "published": "Thu Jul 23 2026 12:50:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Arthur Hayes’ BitMEX Is Shutting Down After 11 Years: What Went Wrong?",
+    "link": "https://cryptopanic.com/news/33086394/Arthur-Hayes-BitMEX-Is-Shutting-Down-After-11-Years-What-Went-Wrong",
+    "source": "feeds2.benzinga.com",
+    "published": "Thu Jul 23 2026 12:45:54 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -25,6 +137,13 @@
     "link": "https://cryptopanic.com/news/33086376/UPDATE-BitMEXs-BMEX-token-plunged-98-following-news-of-the-exchanges-planned-shutdown",
     "source": "@cointelegraph",
     "published": "Thu Jul 23 2026 12:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Top exec at $1.7 trillion Wall Street giant makes bold crypto call",
+    "link": "https://cryptopanic.com/news/33086402/Top-exec-at-17-trillion-Wall-Street-giant-makes-bold-crypto-call",
+    "source": "thestreet.com",
+    "published": "Thu Jul 23 2026 12:41:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -88,125 +207,6 @@
     "link": "https://cryptopanic.com/news/33086301/JUST-IN-SATOSHI-RECEIVED-5000-WORTH-IN-BITCOIN-Users-from-Revolut-sent-BTC-to-the-Genesis-block-unspendable-Arkham-data-Whoever-that-was-thank-you-for-making-BTC-more-scarce",
     "source": "@btc_archive",
     "published": "Thu Jul 23 2026 12:28:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "DeFi loses $35M in a day: Are ‘bounties’ inviting more hacks?",
-    "link": "https://cryptopanic.com/news/33086175/DeFi-loses-35M-in-a-day-Are-bounties-inviting-more-hacks",
-    "source": "protos.com",
-    "published": "Thu Jul 23 2026 12:27:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Galaxy Digital's Alex Thorn says BIP-110 would be \"incredibly bearish\" if it succeeds, as it would show Bitcoin can be upgraded by \"a couple ragtag people with no substantial technical support.\"",
-    "link": "https://cryptopanic.com/news/33086370/LATEST-Galaxy-Digitals-Alex-Thorn-says-BIP-110-would-be-incredibly-bearish-if-it-succeeds-as-it-would-show-Bitcoin-can-be-upgraded-by-a-couple-ragtag-people-with-no-substantial-technical-support",
-    "source": "@coinmarketcap",
-    "published": "Thu Jul 23 2026 12:25:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Near Protocol (NEAR) Loses 36% of Volume in 24 Hours: Analyzing What Caused Outflow",
-    "link": "https://cryptopanic.com/news/33086240/Near-Protocol-NEAR-Loses-36-of-Volume-in-24-Hours-Analyzing-What-Caused-Outflow",
-    "source": "u.today",
-    "published": "Thu Jul 23 2026 12:20:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Saylor says Bitcoin’s security is a shared responsibility as it launches the $15 million-backed Bitcoin Security Consortium.\n\nFounding members:\n• Anchorage Digital\n• ARK Invest\n• BlackRock\n• Block\n• Blockstream\n• Coinbase\n• Fidelity Digital Assets\n• Galaxy\n•",
-    "link": "https://cryptopanic.com/news/33086374/NEW-Saylor-says-Bitcoins-security-is-a-shared-responsibility-as-it-launches-the-15-million-backed-Bitcoin-Security-Consortium-Founding-members-Anchorage-Digital-ARK-Invest-BlackRock-Block-Blockstream-Coinbase-Fidelity-Digital-Assets-Galaxy",
-    "source": "@cointelegraph",
-    "published": "Thu Jul 23 2026 12:20:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: ARTHUR HAYS AND PARTNERS STAND TO PROFIT $270 MILLION\n\nBitMEX exchange is closing shop after 11 years, leaving its 'insurance fund' behind.\n\nHell of a paycheck for a defunct exchange",
-    "link": "https://cryptopanic.com/news/33086300/JUST-IN-ARTHUR-HAYS-AND-PARTNERS-STAND-TO-PROFIT-270-MILLION-BitMEX-exchange-is-closing-shop-after-11-years-leaving-its-insurance-fund-behind-Hell-of-a-paycheck-for-a-defunct-exchange",
-    "source": "@btc_archive",
-    "published": "Thu Jul 23 2026 12:16:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Strategy launches the Bitcoin Security Consortium, pledging $15M over three years to address long-term security risks, including quantum computing.",
-    "link": "https://cryptopanic.com/news/33086091/JUST-IN-Strategy-launches-the-Bitcoin-Security-Consortium-pledging-15M-over-three-years-to-address-long-term-security-risks-including-quantum-computing",
-    "source": "@cointelegraph",
-    "published": "Thu Jul 23 2026 12:15:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Senator Tim Scott Vows To Push Clarity Act Across The Finish Line\n\n@SenatorTimScott publicly commits to advancing the Clarity Act to establish a comprehensive federal framework for digital assets. \n\nHe highlighted the legislation’s role in protecting retail capital and fostering",
-    "link": "https://cryptopanic.com/news/33086191/Senator-Tim-Scott-Vows-To-Push-Clarity-Act-Across-The-Finish-Line-SenatorTimScott-publicly-commits-to-advancing-the-Clarity-Act-to-establish-a-comprehensive-federal-framework-for-digital-assets-He-highlighted-the-legislations-role-in-protecting-retail-capital-and-fostering",
-    "source": "@bscnews",
-    "published": "Thu Jul 23 2026 12:13:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Polymarket to Challenge France Website Blockade: What It Means",
-    "link": "https://cryptopanic.com/news/33086079/Polymarket-to-Challenge-France-Website-Blockade-What-It-Means",
-    "source": "coincu.com",
-    "published": "Thu Jul 23 2026 12:10:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Verus bridge hacked again for $7.54M as an old bug class keeps draining crypto",
-    "link": "https://cryptopanic.com/news/33086081/Verus-bridge-hacked-again-for-754M-as-an-old-bug-class-keeps-draining-crypto",
-    "source": "cryptopolitan.com",
-    "published": "Thu Jul 23 2026 12:09:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Strategy Launches Bitcoin Security Consortium With BlackRock, Coinbase and Others, Pledging $15 Million Over Three Years\n\nStrategy has launched the Bitcoin Security Consortium, with founding members including BlackRock, Coinbase, Galaxy, Anchorage, ARK Invest, Blockstream, Block,",
-    "link": "https://cryptopanic.com/news/33086087/Strategy-Launches-Bitcoin-Security-Consortium-With-BlackRock-Coinbase-and-Others-Pledging-15-Million-Over-Three-Years-Strategy-has-launched-the-Bitcoin-Security-Consortium-with-founding-members-including-BlackRock-Coinbase-Galaxy-Anchorage-ARK-Invest-Blockstream-Block",
-    "source": "@wublockchain",
-    "published": "Thu Jul 23 2026 12:08:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "MARKETS: U.S. Bitcoin spot ETFs logged net inflows for a sixth consecutive day on July 21, while $XRP spot ETFs have seen no net outflows since July 9.",
-    "link": "https://cryptopanic.com/news/33086089/MARKETS-US-Bitcoin-spot-ETFs-logged-net-inflows-for-a-sixth-consecutive-day-on-July-21-while-XRP-spot-ETFs-have-seen-no-net-outflows-since-July-9",
-    "source": "@coindesk",
-    "published": "Thu Jul 23 2026 12:08:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "FREEPORT-McMoRan Expects 2026 Copper and Gold Output to Exceed Sales",
-    "link": "https://cryptopanic.com/news/33086033/FREEPORT-McMoRan-Expects-2026-Copper-and-Gold-Output-to-Exceed-Sales",
-    "source": "square.binance.com",
-    "published": "Thu Jul 23 2026 12:05:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bernstein Reports Weekly AI-Related Bitcoin Mining Deals Exceeded 7.5 GW in July",
-    "link": "https://cryptopanic.com/news/33086032/Bernstein-Reports-Weekly-AI-Related-Bitcoin-Mining-Deals-Exceeded-75-GW-in-July",
-    "source": "square.binance.com",
-    "published": "Thu Jul 23 2026 12:04:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Robinbridge Joins Robinhood Ecosystem With 0.5% ETH Bridge Fee",
-    "link": "https://cryptopanic.com/news/33086031/Robinbridge-Joins-Robinhood-Ecosystem-With-05-ETH-Bridge-Fee",
-    "source": "square.binance.com",
-    "published": "Thu Jul 23 2026 12:03:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "MEGA Presale Participants Who Locked Tokens for Rewards See 50% Drop in Book Value",
-    "link": "https://cryptopanic.com/news/33086030/MEGA-Presale-Participants-Who-Locked-Tokens-for-Rewards-See-50-Drop-in-Book-Value",
-    "source": "square.binance.com",
-    "published": "Thu Jul 23 2026 12:03:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Morning Minute: Wall Street Moving Onchain Will Drive the Next Bull Market",
-    "link": "https://cryptopanic.com/news/33085800/Morning-Minute-Wall-Street-Moving-Onchain-Will-Drive-the-Next-Bull-Market",
-    "source": "decrypt.co",
-    "published": "Thu Jul 23 2026 12:02:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: $3.6 trillion Goldman Sachs CEO says it's time to pass the Clarity Act into law: \n\n\"I’m very supportive of moving the Clarity Act forward, so we can get some market structure in place.\"",
-    "link": "https://cryptopanic.com/news/33086297/JUST-IN-36-trillion-Goldman-Sachs-CEO-says-its-time-to-pass-the-Clarity-Act-into-law-Im-very-supportive-of-moving-the-Clarity-Act-forward-so-we-can-get-some-market-structure-in-place",
-    "source": "@bitcoinmagazine",
-    "published": "Thu Jul 23 2026 12:02:20 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
