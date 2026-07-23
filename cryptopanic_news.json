@@ -1,9 +1,163 @@
 [
   {
+    "title": "Cardano’s $19M DeFi Plan Faces a Hard Reality Check",
+    "link": "https://cryptopanic.com/news/33074262/Cardanos-19M-DeFi-Plan-Faces-a-Hard-Reality-Check",
+    "source": "dailycoin.com",
+    "published": "Tue Jul 21 2026 15:34:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ETH/BTC Ratio Climbs Again: What Ethereum Beating Bitcoin Signals",
+    "link": "https://cryptopanic.com/news/33072035/ETHBTC-Ratio-Climbs-Again-What-Ethereum-Beating-Bitcoin-Signals",
+    "source": "spaziocrypto.com",
+    "published": "Tue Jul 21 2026 10:24:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Tops $1,900, Could Be a Better Long-Term Bet Than Bitcoin, Analysts Claim",
+    "link": "https://cryptopanic.com/news/33039682/Ethereum-Tops-1900-Could-Be-a-Better-Long-Term-Bet-Than-Bitcoin-Analysts-Claim",
+    "source": "feeds2.benzinga.com",
+    "published": "Wed Jul 15 2026 14:08:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Staking Generates 98% Of Bitmine’s Quarterly Revenue",
+    "link": "https://cryptopanic.com/news/33039366/Ethereum-Staking-Generates-98-Of-Bitmines-Quarterly-Revenue",
+    "source": "cryptoprowl.com",
+    "published": "Wed Jul 15 2026 13:32:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Price Prediction: Next Cycle Could Push ETH Toward New Highs",
+    "link": "https://cryptopanic.com/news/33039271/Ethereum-Price-Prediction-Next-Cycle-Could-Push-ETH-Toward-New-Highs",
+    "source": "coinpaper.com",
+    "published": "Wed Jul 15 2026 13:24:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Charles Hoskinson Breaks Silence on Cardano Departure Rumors: ‘I’m Not Leaving’",
+    "link": "https://cryptopanic.com/news/33027592/Charles-Hoskinson-Breaks-Silence-on-Cardano-Departure-Rumors-Im-Not-Leaving",
+    "source": "zycrypto.com",
+    "published": "Mon Jul 13 2026 19:48:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "One of Biggest Breakout Launches in Years: BitMine Lauds Robinhood Chain's Growth",
+    "link": "https://cryptopanic.com/news/33020022/One-of-Biggest-Breakout-Launches-in-Years-BitMine-Lauds-Robinhood-Chains-Growth",
+    "source": "u.today",
+    "published": "Sun Jul 12 2026 11:46:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$35 Million Drained in Six Hours: Cryptography Held, Everything Else Failed",
+    "link": "https://cryptopanic.com/news/33085673/35-Million-Drained-in-Six-Hours-Cryptography-Held-Everything-Else-Failed",
+    "source": "spaziocrypto.com",
+    "published": "Thu Jul 23 2026 11:38:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$BMEX token is down nearly 100% following the shutdown announcement.",
+    "link": "https://cryptopanic.com/news/33085710/BMEX-token-is-down-nearly-100-following-the-shutdown-announcement",
+    "source": "@bscnews",
+    "published": "Thu Jul 23 2026 11:35:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇪🇺 NEW: EU fines Google $1.02B under the Digital Markets Act for favoring its own services and restricting app developers.",
+    "link": "https://cryptopanic.com/news/33085600/NEW-EU-fines-Google-102B-under-the-Digital-Markets-Act-for-favoring-its-own-services-and-restricting-app-developers",
+    "source": "@cointelegraph",
+    "published": "Thu Jul 23 2026 11:30:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin's Quiet Civil War Reaches Breaking Point",
+    "link": "https://cryptopanic.com/news/33085588/Bitcoins-Quiet-Civil-War-Reaches-Breaking-Point",
+    "source": "www.blockhead.co",
+    "published": "Thu Jul 23 2026 11:30:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "OpenAI said that an autonomous agent powered by its advanced AI models went rogue during a security test, while new film ‘Colony’ centers around a zombie outbreak caused by a virus at a biotechnology conference. READ",
+    "link": "https://cryptopanic.com/news/33085604/OpenAI-said-that-an-autonomous-agent-powered-by-its-advanced-AI-models-went-rogue-during-a-security-test-while-new-film-Colony-centers-around-a-zombie-outbreak-caused-by-a-virus-at-a-biotechnology-conference-READ",
+    "source": "@reutersbiz",
+    "published": "Thu Jul 23 2026 11:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto Bill Hits Ethics Roadblock",
+    "link": "https://cryptopanic.com/news/33085590/Crypto-Bill-Hits-Ethics-Roadblock",
+    "source": "catenaa.com",
+    "published": "Thu Jul 23 2026 11:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Dogecoin Price Prediction: Decade-Long Support Could Set Up a 5x Rally",
+    "link": "https://cryptopanic.com/news/33085589/Dogecoin-Price-Prediction-Decade-Long-Support-Could-Set-Up-a-5x-Rally",
+    "source": "coinpaper.com",
+    "published": "Thu Jul 23 2026 11:28:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bernie Sanders Slams Artificial Intelligence As A \"Serious Threat\"\n\nU.S. Senator @BernieSanders issued a warning against the rapid deployment of frontier AI models. \n\nThis follows confirmed reports of an autonomous system that went rogue and hacked other computers. \n\nThe Senator",
+    "link": "https://cryptopanic.com/news/33085709/Bernie-Sanders-Slams-Artificial-Intelligence-As-A-Serious-Threat-US-Senator-BernieSanders-issued-a-warning-against-the-rapid-deployment-of-frontier-AI-models-This-follows-confirmed-reports-of-an-autonomous-system-that-went-rogue-and-hacked-other-computers-The-Senator",
+    "source": "@bscnews",
+    "published": "Thu Jul 23 2026 11:24:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Solana Price Prediction: Bull Flag Breakout Could Send SOL Toward $94",
+    "link": "https://cryptopanic.com/news/33085568/Solana-Price-Prediction-Bull-Flag-Breakout-Could-Send-SOL-Toward-94",
+    "source": "coinpaper.com",
+    "published": "Thu Jul 23 2026 11:23:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: @Coinbase CEO @brian_armstrong is calling on the Senate to bring the CLARITY Act to a full floor vote, saying negotiations are done and it's time to finish the job.\n\n\"The status quo in the U.S. isn't working.\"",
+    "link": "https://cryptopanic.com/news/33085598/JUST-IN-Coinbase-CEO-brian_armstrong-is-calling-on-the-Senate-to-bring-the-CLARITY-Act-to-a-full-floor-vote-saying-negotiations-are-done-and-its-time-to-finish-the-job-The-status-quo-in-the-US-isnt-working",
+    "source": "@coindesk",
+    "published": "Thu Jul 23 2026 11:23:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Price Prediction: Long-Term Breakout Opens the Door to $3,500",
+    "link": "https://cryptopanic.com/news/33085525/Ethereum-Price-Prediction-Long-Term-Breakout-Opens-the-Door-to-3500",
+    "source": "coinpaper.com",
+    "published": "Thu Jul 23 2026 11:18:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Nestle to raise €3 billion from spin off of its water business",
+    "link": "https://cryptopanic.com/news/33085603/Nestle-to-raise-3-billion-from-spin-off-of-its-water-business",
+    "source": "@reutersbiz",
+    "published": "Thu Jul 23 2026 11:15:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ZEC dips toward the 50-Day EMA as momentum softens",
+    "link": "https://cryptopanic.com/news/33085577/ZEC-dips-toward-the-50-Day-EMA-as-momentum-softens",
+    "source": "coinjournal.net",
+    "published": "Thu Jul 23 2026 11:14:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Ripple CEO Brad Garlinghouse Says XRP Beats SWIFT on Transaction Risk",
     "link": "https://cryptopanic.com/news/33085493/Ripple-CEO-Brad-Garlinghouse-Says-XRP-Beats-SWIFT-on-Transaction-Risk",
     "source": "coinpaper.com",
     "published": "Thu Jul 23 2026 11:14:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bulls face a test unlike anything in bitcoin's 17-year history",
+    "link": "https://cryptopanic.com/news/33085614/Bulls-face-a-test-unlike-anything-in-bitcoins-17-year-history",
+    "source": "coindesk.com",
+    "published": "Thu Jul 23 2026 11:13:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇺🇸 The US crypto industry is estimated to support 232,000 jobs and contribute more than $55B to the economy in 2026, per a National Cryptocurrency Association report.",
+    "link": "https://cryptopanic.com/news/33085594/LATEST-The-US-crypto-industry-is-estimated-to-support-232000-jobs-and-contribute-more-than-55B-to-the-economy-in-2026-per-a-National-Cryptocurrency-Association-report",
+    "source": "@coinmarketcap",
+    "published": "Thu Jul 23 2026 11:13:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -21,6 +175,20 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Elon Musk Names the Real Force Behind His European Politics, and It’s Not the Far-Right",
+    "link": "https://cryptopanic.com/news/33085707/Elon-Musk-Names-the-Real-Force-Behind-His-European-Politics-and-Its-Not-the-Far-Right",
+    "source": "beincrypto.com",
+    "published": "Thu Jul 23 2026 11:10:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP faces resistance below the 50-Day EMA despite improving momentum",
+    "link": "https://cryptopanic.com/news/33085576/XRP-faces-resistance-below-the-50-Day-EMA-despite-improving-momentum",
+    "source": "coinjournal.net",
+    "published": "Thu Jul 23 2026 11:08:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "ARK Invest CEO Cathie Wood Predicts SpaceX Will Be History’s Important Company",
     "link": "https://cryptopanic.com/news/33085457/ARK-Invest-CEO-Cathie-Wood-Predicts-SpaceX-Will-Be-Historys-Important-Company",
     "source": "coinpaper.com",
@@ -35,178 +203,10 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Tether's Three-Way Bitcoin Merger Collapses as Mallers Exits Twenty One",
-    "link": "https://cryptopanic.com/news/33085392/Tethers-Three-Way-Bitcoin-Merger-Collapses-as-Mallers-Exits-Twenty-One",
-    "source": "coinpaprika.com",
-    "published": "Thu Jul 23 2026 11:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hedera, Chainlink, and Avalanche ranked as the top three real-world asset (RWA) crypto projects by development activity over the past 30 days, according to Santiment. Month after month, Hedera continues to rank #1 or #2 on this list.",
-    "link": "https://cryptopanic.com/news/33085552/Hedera-Chainlink-and-Avalanche-ranked-as-the-top-three-real-world-asset-RWA-crypto-projects-by-development-activity-over-the-past-30-days-according-to-Santiment-Month-after-month-Hedera-continues-to-rank-1-or-2-on-this-list",
-    "source": "r/hedera",
-    "published": "Thu Jul 23 2026 10:57:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Donald Trump Crypto Profits Face Ban Under Updated CLARITY Act",
-    "link": "https://cryptopanic.com/news/33085377/Donald-Trump-Crypto-Profits-Face-Ban-Under-Updated-CLARITY-Act",
-    "source": "coinpaper.com",
-    "published": "Thu Jul 23 2026 10:56:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Robinhood Launchpad Pons Sees Massive Surge in Price\n\nAs trading volume has increased on @ponsdotfamily, its native asset, $PONS, has not been left out. \n\n According to Coingecko data, PONS has surged nearly 300% in the past 7 days. \n\nThe protocol hit 9 figures in trading volume",
-    "link": "https://cryptopanic.com/news/33085381/Robinhood-Launchpad-Pons-Sees-Massive-Surge-in-Price-As-trading-volume-has-increased-on-ponsdotfamily-its-native-asset-PONS-has-not-been-left-out-According-to-Coingecko-data-PONS-has-surged-nearly-300-in-the-past-7-days-The-protocol-hit-9-figures-in-trading-volume",
-    "source": "@bscnews",
-    "published": "Thu Jul 23 2026 10:56:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "STMicroelectronics Stock Falls 15% as Data Center Outlook Fails to Offset Profit Miss",
-    "link": "https://cryptopanic.com/news/33085370/STMicroelectronics-Stock-Falls-15-as-Data-Center-Outlook-Fails-to-Offset-Profit-Miss",
-    "source": "coinpaper.com",
-    "published": "Thu Jul 23 2026 10:53:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "RELX's growth accelerates in scientific and legal units",
-    "link": "https://cryptopanic.com/news/33085327/RELXs-growth-accelerates-in-scientific-and-legal-units",
-    "source": "@reutersbiz",
-    "published": "Thu Jul 23 2026 10:45:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Corporate America cuts payroll for AI models it cannot control",
-    "link": "https://cryptopanic.com/news/33085333/Corporate-America-cuts-payroll-for-AI-models-it-cannot-control",
-    "source": "cryptopolitan.com",
-    "published": "Thu Jul 23 2026 10:42:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "‘Not currently the right capital solution’: Smarter Web sells 178 bitcoin to repay $11.7M convertible instrument",
-    "link": "https://cryptopanic.com/news/33085285/Not-currently-the-right-capital-solution-Smarter-Web-sells-178-bitcoin-to-repay-117M-convertible-instrument",
-    "source": "theblock.co",
-    "published": "Thu Jul 23 2026 10:38:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "DATA: The U.S. crypto industry directly employs 34,000 people and supports 232,000 total jobs, contributing $55B to GDP in 2026, per a National Cryptocurrency Association report.",
-    "link": "https://cryptopanic.com/news/33085321/DATA-The-US-crypto-industry-directly-employs-34000-people-and-supports-232000-total-jobs-contributing-55B-to-GDP-in-2026-per-a-National-Cryptocurrency-Association-report",
-    "source": "@coindesk",
-    "published": "Thu Jul 23 2026 10:38:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🤖 Franklin Templeton’s head of digital assets says AI agents could be blockchain’s next killer use case, as legacy card networks are too slow and costly for machine-to-machine micropayments.",
-    "link": "https://cryptopanic.com/news/33085318/LATEST-Franklin-Templetons-head-of-digital-assets-says-AI-agents-could-be-blockchains-next-killer-use-case-as-legacy-card-networks-are-too-slow-and-costly-for-machine-to-machine-micropayments",
+    "title": "BIG NEWS: Jimothy spotted with cmc plushy.",
+    "link": "https://cryptopanic.com/news/33085593/BIG-NEWS-Jimothy-spotted-with-cmc-plushy",
     "source": "@coinmarketcap",
-    "published": "Thu Jul 23 2026 10:37:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stable Network Activity Surges Upon Fefer Memecoin Pump\n\nThe @Stable network processed over 167,000 transactions in the last 24 hours as the Fefer memecoin experienced a significant surge... \n\nThis spike in on-chain volume follows a period of sustained demand for $FEFER,",
-    "link": "https://cryptopanic.com/news/33085380/Stable-Network-Activity-Surges-Upon-Fefer-Memecoin-Pump-The-Stable-network-processed-over-167000-transactions-in-the-last-24-hours-as-the-Fefer-memecoin-experienced-a-significant-surge-This-spike-in-on-chain-volume-follows-a-period-of-sustained-demand-for-FEFER",
-    "source": "@bscnews",
-    "published": "Thu Jul 23 2026 10:35:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Mining Disrupt 2026 Bitcoin Mining Conference | Day 2",
-    "link": "https://cryptopanic.com/news/33085294/Mining-Disrupt-2026-Bitcoin-Mining-Conference-Day-2",
-    "source": "SimplyBitcoin",
-    "published": "Thu Jul 23 2026 10:31:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AI will not trigger employment collapse, staffing company Adecco Group says",
-    "link": "https://cryptopanic.com/news/33085326/AI-will-not-trigger-employment-collapse-staffing-company-Adecco-Group-says",
-    "source": "@reutersbiz",
-    "published": "Thu Jul 23 2026 10:30:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇰🇷 NEW: South Korea’s $1T Mirae Asset Group has acquired Korbit, the country’s oldest crypto exchange.",
-    "link": "https://cryptopanic.com/news/33085324/NEW-South-Koreas-1T-Mirae-Asset-Group-has-acquired-Korbit-the-countrys-oldest-crypto-exchange",
-    "source": "@cointelegraph",
-    "published": "Thu Jul 23 2026 10:29:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "so tempted to publish outr findings.....",
-    "link": "https://cryptopanic.com/news/33085379/so-tempted-to-publish-outr-findings",
-    "source": "@realallincrypto",
-    "published": "Thu Jul 23 2026 10:28:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ticino cantonal bank BancaStato enters the crypto business",
-    "link": "https://cryptopanic.com/news/33085191/Ticino-cantonal-bank-BancaStato-enters-the-crypto-business",
-    "source": "cryptovalleyjournal.com",
-    "published": "Thu Jul 23 2026 10:25:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "I believe most major crypto podcast on youtube are buying views and it very easy to tell.... This is super damaging to the content youtube isn't stupid, if a video has 10s of thousand of views and 20 likes (litrally in some cases) with no comments, how do you think they view it",
-    "link": "https://cryptopanic.com/news/33085378/I-believe-most-major-crypto-podcast-on-youtube-are-buying-views-and-it-very-easy-to-tell-This-is-super-damaging-to-the-content-youtube-isnt-stupid-if-a-video-has-10s-of-thousand-of-views-and-20-likes-litrally-in-some-cases-with-no-comments-how-do-you-think-they-view-it",
-    "source": "@realallincrypto",
-    "published": "Thu Jul 23 2026 10:24:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Arbitrum Perp DEX AFX Trade Drained of $24M, Offers Hacker 30% to Return It",
-    "link": "https://cryptopanic.com/news/33085195/Arbitrum-Perp-DEX-AFX-Trade-Drained-of-24M-Offers-Hacker-30-to-Return-It",
-    "source": "decrypt.co",
-    "published": "Thu Jul 23 2026 10:24:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BitMEX to Shut Down Entirely, Ending an 11-Year Run",
-    "link": "https://cryptopanic.com/news/33085190/BitMEX-to-Shut-Down-Entirely-Ending-an-11-Year-Run",
-    "source": "www.blockhead.co",
-    "published": "Thu Jul 23 2026 10:22:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Japan Eyes First Bitcoin ETF by 2028",
-    "link": "https://cryptopanic.com/news/33085212/Japan-Eyes-First-Bitcoin-ETF-by-2028",
-    "source": "u.today",
-    "published": "Thu Jul 23 2026 10:20:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ INSIGHT: \"Bitcoin spot demand is weakening. Futures demand remains net positive\" -CryptoQuant CEO Ki Young Ju",
-    "link": "https://cryptopanic.com/news/33085323/INSIGHT-Bitcoin-spot-demand-is-weakening-Futures-demand-remains-net-positive-CryptoQuant-CEO-Ki-Young-Ju",
-    "source": "@cointelegraph",
-    "published": "Thu Jul 23 2026 10:20:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33085320/Source",
-    "source": "@wublockchain",
-    "published": "Thu Jul 23 2026 10:16:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ambition and caution as Macquarie turns to a safe pair of hands",
-    "link": "https://cryptopanic.com/news/33085325/Ambition-and-caution-as-Macquarie-turns-to-a-safe-pair-of-hands",
-    "source": "@reutersbiz",
-    "published": "Thu Jul 23 2026 10:15:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEWS: BitMEX is shutting down after 11 years. The Arthur Hayes co-founded exchange will cease operations on 23 Sept. 2026, with users urged to close positions and withdraw funds as soon as possible.",
-    "link": "https://cryptopanic.com/news/33085100/NEWS-BitMEX-is-shutting-down-after-11-years-The-Arthur-Hayes-co-founded-exchange-will-cease-operations-on-23-Sept-2026-with-users-urged-to-close-positions-and-withdraw-funds-as-soon-as-possible",
-    "source": "@decryptmedia",
-    "published": "Thu Jul 23 2026 10:14:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Probably the strongest signal for CLARITY Act, lol",
-    "link": "https://cryptopanic.com/news/33085099/Probably-the-strongest-signal-for-CLARITY-Act-lol",
-    "source": "@bscnews",
-    "published": "Thu Jul 23 2026 10:14:00 GMT+0000 (Coordinated Universal Time)",
+    "published": "Thu Jul 23 2026 11:04:41 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
