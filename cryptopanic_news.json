@@ -1,5 +1,26 @@
 [
   {
+    "title": "BIP 110 Debate! Is BTC being used as Money or Data Storage?",
+    "link": "https://cryptopanic.com/news/33083113/BIP-110-Debate-Is-BTC-being-used-as-Money-or-Data-Storage",
+    "source": "SimplyBitcoin",
+    "published": "Thu Jul 23 2026 02:00:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Pakistan Forms Crypto Crime Unit as Digital Asset Push Accelerates",
+    "link": "https://cryptopanic.com/news/33083065/Pakistan-Forms-Crypto-Crime-Unit-as-Digital-Asset-Push-Accelerates",
+    "source": "catenaa.com",
+    "published": "Thu Jul 23 2026 02:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin, Ethereum, XRP, Dogecoin Flat Despite Crypto Bill Getting Ethics Provisions: Analyst Highlights Level to 'Watch' for BTC",
+    "link": "https://cryptopanic.com/news/33083109/Bitcoin-Ethereum-XRP-Dogecoin-Flat-Despite-Crypto-Bill-Getting-Ethics-Provisions-Analyst-Highlights-Level-to-Watch-for-BTC",
+    "source": "feeds2.benzinga.com",
+    "published": "Thu Jul 23 2026 01:55:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "More than 90% of major tokens launched since 2024 have collapsed below launch price...\n\nAccording to a study by CryptoRank and shared by Wu Blockchain, only 7.1% of tokens that launched with market caps of over $100M since 2024 are above their launch price.\n\nEven worse, the",
     "link": "https://cryptopanic.com/news/33083063/More-than-90-of-major-tokens-launched-since-2024-have-collapsed-below-launch-price-According-to-a-study-by-CryptoRank-and-shared-by-Wu-Blockchain-only-71-of-tokens-that-launched-with-market-caps-of-over-100M-since-2024-are-above-their-launch-price-Even-worse-the",
     "source": "@bscnews",
@@ -18,6 +39,13 @@
     "link": "https://cryptopanic.com/news/33083034/Macquarie-taps-veteran-Greg-Ward-to-succeed-high-profile-CEO-Wikramanayake",
     "source": "@reutersbiz",
     "published": "Thu Jul 23 2026 01:45:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "AFX Trade Exploited for $24 Million in Bridge Attack on Arbitrum",
+    "link": "https://cryptopanic.com/news/33083101/AFX-Trade-Exploited-for-24-Million-in-Bridge-Attack-on-Arbitrum",
+    "source": "beincrypto.com",
+    "published": "Thu Jul 23 2026 01:40:55 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -147,15 +175,15 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Robinhood Chain Ecosystem Tokens Fall Sharply as Long Ecosystem Meme Coins Rise",
-    "link": "https://cryptopanic.com/news/33083007/Robinhood-Chain-Ecosystem-Tokens-Fall-Sharply-as-Long-Ecosystem-Meme-Coins-Rise",
+    "title": "Japan May Launch Bitcoin ETF as Early as 2028",
+    "link": "https://cryptopanic.com/news/33083008/Japan-May-Launch-Bitcoin-ETF-as-Early-as-2028",
     "source": "square.binance.com",
     "published": "Thu Jul 23 2026 01:13:39 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Japan May Launch Bitcoin ETF as Early as 2028",
-    "link": "https://cryptopanic.com/news/33083008/Japan-May-Launch-Bitcoin-ETF-as-Early-as-2028",
+    "title": "Robinhood Chain Ecosystem Tokens Fall Sharply as Long Ecosystem Meme Coins Rise",
+    "link": "https://cryptopanic.com/news/33083007/Robinhood-Chain-Ecosystem-Tokens-Fall-Sharply-as-Long-Ecosystem-Meme-Coins-Rise",
     "source": "square.binance.com",
     "published": "Thu Jul 23 2026 01:13:39 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33083005/Khosla-Ventures-Talks-to-Raise-Up-to-55-Billion-in-New-Funds",
     "source": "square.binance.com",
     "published": "Thu Jul 23 2026 01:12:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Iranian Media: Second Missile Strike on Bushehr Targeted Military Facilities",
-    "link": "https://cryptopanic.com/news/33083004/Iranian-Media-Second-Missile-Strike-on-Bushehr-Targeted-Military-Facilities",
-    "source": "square.binance.com",
-    "published": "Thu Jul 23 2026 01:07:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Japan's Finance Minister Satsuki Katayama: Prepared to Take Decisive Foreign Exchange Action if Necessary",
-    "link": "https://cryptopanic.com/news/33083003/Japans-Finance-Minister-Satsuki-Katayama-Prepared-to-Take-Decisive-Foreign-Exchange-Action-if-Necessary",
-    "source": "square.binance.com",
-    "published": "Thu Jul 23 2026 01:07:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "B² Network Suffers BNB Chain Hack, Attacker Moves Funds to Ethereum and Zcash",
-    "link": "https://cryptopanic.com/news/33083002/B2-Network-Suffers-BNB-Chain-Hack-Attacker-Moves-Funds-to-Ethereum-and-Zcash",
-    "source": "square.binance.com",
-    "published": "Thu Jul 23 2026 01:03:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Meme Coins Drive More Than Half of Stock Token Trading Volume, Tom Wan Says",
-    "link": "https://cryptopanic.com/news/33083001/Meme-Coins-Drive-More-Than-Half-of-Stock-Token-Trading-Volume-Tom-Wan-Says",
-    "source": "square.binance.com",
-    "published": "Thu Jul 23 2026 01:03:39 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
