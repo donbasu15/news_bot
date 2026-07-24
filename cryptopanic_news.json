@@ -1,9 +1,128 @@
 [
   {
+    "title": "UPDATE: Wendy O says $ADA's upgrade \"lowers smart contract cost, and adds new Plutus functions, it was Cardano's 1st hard fork approved entirely on-chain through community governance, preparing Cardano for its development phase focused on scaling, DeFi, NFTs, and RWAs. Love it.\"",
+    "link": "https://cryptopanic.com/news/33094253/UPDATE-Wendy-O-says-ADAs-upgrade-lowers-smart-contract-cost-and-adds-new-Plutus-functions-it-was-Cardanos-1st-hard-fork-approved-entirely-on-chain-through-community-governance-preparing-Cardano-for-its-development-phase-focused-on-scaling-DeFi-NFTs-and-RWAs-Love-it",
+    "source": "@angrycryptoshow",
+    "published": "Fri Jul 24 2026 16:41:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "A 7 year Ledger bug lets attackers rebuild a private key from five signatures in seconds",
+    "link": "https://cryptopanic.com/news/33094222/A-7-year-Ledger-bug-lets-attackers-rebuild-a-private-key-from-five-signatures-in-seconds",
+    "source": "cryptoslate.com",
+    "published": "Fri Jul 24 2026 16:40:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Wendy O says \"Cardano's Van Rossem hard fork goes live, reducing smart contract cost, which is great. Cardano's already affordable to use.\"",
+    "link": "https://cryptopanic.com/news/33094252/UPDATE-Wendy-O-says-Cardanos-Van-Rossem-hard-fork-goes-live-reducing-smart-contract-cost-which-is-great-Cardanos-already-affordable-to-use",
+    "source": "@angrycryptoshow",
+    "published": "Fri Jul 24 2026 16:39:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "#BREAKING: 🇨🇳 China will officially begin taxing offshore trusts established by its citizens, per Bloomberg",
+    "link": "https://cryptopanic.com/news/33094259/BREAKING-China-will-officially-begin-taxing-offshore-trusts-established-by-its-citizens-per-Bloomberg",
+    "source": "@cryptonwsuk",
+    "published": "Fri Jul 24 2026 16:35:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Nvidia, Meta, and Microsoft Tell Washington: Don't Kill Open-Source AI",
+    "link": "https://cryptopanic.com/news/33094214/Nvidia-Meta-and-Microsoft-Tell-Washington-Dont-Kill-Open-Source-AI",
+    "source": "decrypt.co",
+    "published": "Fri Jul 24 2026 16:34:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Raydium Opens DeFi Liquidity to Regulated Assets With Permissioned AMMs",
+    "link": "https://cryptopanic.com/news/33093937/Raydium-Opens-DeFi-Liquidity-to-Regulated-Assets-With-Permissioned-AMMs",
+    "source": "solanafloor.com",
+    "published": "Fri Jul 24 2026 16:32:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 UPDATE: The Blockchain Association, Crypto Council and Digital Chamber are urging the Senate to consider the CLARITY Act.",
+    "link": "https://cryptopanic.com/news/33094265/UPDATE-The-Blockchain-Association-Crypto-Council-and-Digital-Chamber-are-urging-the-Senate-to-consider-the-CLARITY-Act",
+    "source": "@cointelegraph",
+    "published": "Fri Jul 24 2026 16:30:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SEC Sets 24-Hour Trading Roundtable As Markets Move Toward Always-On Finance",
+    "link": "https://cryptopanic.com/news/33094176/SEC-Sets-24-Hour-Trading-Roundtable-As-Markets-Move-Toward-Always-On-Finance",
+    "source": "newsbtc.com",
+    "published": "Fri Jul 24 2026 16:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Dem Senator Slams GOP’s CLARITY Ethics Proposal as ‘Not a Serious Effort’: Report",
+    "link": "https://cryptopanic.com/news/33094174/Dem-Senator-Slams-GOPs-CLARITY-Ethics-Proposal-as-Not-a-Serious-Effort-Report",
+    "source": "cryptopotato.com",
+    "published": "Fri Jul 24 2026 16:28:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ripple prepares for what could be a $1.1 billion XRP dump in August",
+    "link": "https://cryptopanic.com/news/33094160/Ripple-prepares-for-what-could-be-a-11-billion-XRP-dump-in-August",
+    "source": "finbold.com",
+    "published": "Fri Jul 24 2026 16:22:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Strategy Overhauls Bitcoin Metrics, Debuting 'Net Bitcoin Per Share'",
+    "link": "https://cryptopanic.com/news/33094156/Strategy-Overhauls-Bitcoin-Metrics-Debuting-Net-Bitcoin-Per-Share",
+    "source": "decrypt.co",
+    "published": "Fri Jul 24 2026 16:21:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Futu NiuNiu Launches Real-Time BNB Trading Service",
+    "link": "https://cryptopanic.com/news/33094143/Futu-NiuNiu-Launches-Real-Time-BNB-Trading-Service",
+    "source": "coincu.com",
+    "published": "Fri Jul 24 2026 16:19:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Leading Blockchain Voices Call on Senate to Fast-Track CLARITY Act — Why It Matters for XRP",
+    "link": "https://cryptopanic.com/news/33094150/Leading-Blockchain-Voices-Call-on-Senate-to-Fast-Track-CLARITY-Act-Why-It-Matters-for-XRP",
+    "source": "coinpaper.com",
+    "published": "Fri Jul 24 2026 16:18:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Strike Finance now supports perpetuals for 18 assets—9 cryptos, including $ADA, $BTC, $ETH, $HYPE, $NEAR, $NIGHT, $SOL, $XRP, and $ZEC, 6 TradFi products, including Micron, Nasdaq-100, Nvidia, Sandisk, SK hynix, and SpaceX, and 3 RWAs, including Gold, Silver, and Oil.",
+    "link": "https://cryptopanic.com/news/33094251/UPDATE-Strike-Finance-now-supports-perpetuals-for-18-assets9-cryptos-including-ADA-BTC-ETH-HYPE-NEAR-NIGHT-SOL-XRP-and-ZEC-6-TradFi-products-including-Micron-Nasdaq-100-Nvidia-Sandisk-SK-hynix-and-SpaceX-and-3-RWAs-including-Gold-Silver-and-Oil",
+    "source": "@angrycryptoshow",
+    "published": "Fri Jul 24 2026 16:18:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin ETFs Shed $225M, Snapping Seven-Day Inflow Streak as Iran Tensions Spook Markets",
+    "link": "https://cryptopanic.com/news/33094133/Bitcoin-ETFs-Shed-225M-Snapping-Seven-Day-Inflow-Streak-as-Iran-Tensions-Spook-Markets",
+    "source": "decrypt.co",
+    "published": "Fri Jul 24 2026 16:17:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 Sen. Dave McCormic talks CLARITY ACT updates on FOX\n\n\"The bottom line is it's time to move..there's been negotiations around ethics language..we need to get this to the floor and vote on it..I think this is the time to play offense\"",
+    "link": "https://cryptopanic.com/news/33094178/JUST-IN-Sen-Dave-McCormic-talks-CLARITY-ACT-updates-on-FOX-The-bottom-line-is-its-time-to-movetheres-been-negotiations-around-ethics-languagewe-need-to-get-this-to-the-floor-and-vote-on-itI-think-this-is-the-time-to-play-offense",
+    "source": "@bitcoinmagazine",
+    "published": "Fri Jul 24 2026 16:14:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "AI Capital Rotation, Bitcoin ETF Recovery, And The CLARITY Act Reshape Crypto Markets",
     "link": "https://cryptopanic.com/news/33094100/AI-Capital-Rotation-Bitcoin-ETF-Recovery-And-The-CLARITY-Act-Reshape-Crypto-Markets",
     "source": "cryptointelligence.co.uk",
     "published": "Fri Jul 24 2026 16:10:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33094249/Source",
+    "source": "@wublockchain",
+    "published": "Fri Jul 24 2026 16:10:10 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -21,6 +140,27 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Crypto Exchanges Want to Be Your Broker. The Fine Print Matters",
+    "link": "https://cryptopanic.com/news/33094243/Crypto-Exchanges-Want-to-Be-Your-Broker-The-Fine-Print-Matters",
+    "source": "beincrypto.com",
+    "published": "Fri Jul 24 2026 16:05:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇺🇸 Senate Majority Leader John Thune says the CLARITY Act likely won't pass before Congress' summer break, though he hopes to still start the floor process before then.",
+    "link": "https://cryptopanic.com/news/33094241/LATEST-Senate-Majority-Leader-John-Thune-says-the-CLARITY-Act-likely-wont-pass-before-Congress-summer-break-though-he-hopes-to-still-start-the-floor-process-before-then",
+    "source": "@coinmarketcap",
+    "published": "Fri Jul 24 2026 16:05:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Apple $AAPL reaches new all-time high of $333, surpassing $4.9 trillion market cap.",
+    "link": "https://cryptopanic.com/news/33094179/JUST-IN-Apple-AAPL-reaches-new-all-time-high-of-333-surpassing-49-trillion-market-cap",
+    "source": "@watcherguru",
+    "published": "Fri Jul 24 2026 16:04:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "India Orders GitHub to Delete Bitchat Repositories",
     "link": "https://cryptopanic.com/news/33094044/India-Orders-GitHub-to-Delete-Bitchat-Repositories",
     "source": "cryptodnes.bg",
@@ -28,10 +168,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "🇺🇸 UPDATE: Coinbase's Faryar Shirzad says it’s time to pass the CLARITY Act, arguing policymakers cannot let “the perfect be the enemy of the good.”",
+    "link": "https://cryptopanic.com/news/33094264/UPDATE-Coinbases-Faryar-Shirzad-says-its-time-to-pass-the-CLARITY-Act-arguing-policymakers-cannot-let-the-perfect-be-the-enemy-of-the-good",
+    "source": "@cointelegraph",
+    "published": "Fri Jul 24 2026 16:01:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "RIPPLE MAKE HUGE STABLECOIN INVESTMENT!\n\n@Ripple has invested in Notabene, connecting RLUSD and Ripple Payments with an institutional network facilitating over $2 TRILLION in yearly volume.\n\nThis expansion can only benefit and expand the wider $XRP ecosystem!!",
     "link": "https://cryptopanic.com/news/33094107/RIPPLE-MAKE-HUGE-STABLECOIN-INVESTMENT-Ripple-has-invested-in-Notabene-connecting-RLUSD-and-Ripple-Payments-with-an-institutional-network-facilitating-over-2-TRILLION-in-yearly-volume-This-expansion-can-only-benefit-and-expand-the-wider-XRP-ecosystem",
     "source": "@realallincrypto",
     "published": "Fri Jul 24 2026 16:00:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Gen Z Dominates Binance’s Stablecoin-Based Stock Trading, Accounting for 44% of Users\n\nBinance Research said Gen Z is the largest user group for its stablecoin-based stock products, accounting for 44% of both Binance Direct Stocks and bStocks users, as well as about 45% of TradFi",
+    "link": "https://cryptopanic.com/news/33094247/Gen-Z-Dominates-Binances-Stablecoin-Based-Stock-Trading-Accounting-for-44-of-Users-Binance-Research-said-Gen-Z-is-the-largest-user-group-for-its-stablecoin-based-stock-products-accounting-for-44-of-both-Binance-Direct-Stocks-and-bStocks-users-as-well-as-about-45-of-TradFi",
+    "source": "@wublockchain",
+    "published": "Fri Jul 24 2026 16:00:50 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -49,164 +203,10 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Dogecoin slides after Elon Musk says he got carried away",
-    "link": "https://cryptopanic.com/news/33094099/Dogecoin-slides-after-Elon-Musk-says-he-got-carried-away",
-    "source": "thestreet.com",
-    "published": "Fri Jul 24 2026 15:51:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ANALYSIS: An AI caught hackers draining $6M from Summer.​fi while the exploit was still running, while weeks earlier, an AI audit wiped 60% off Zcash's price without stealing a thing.\n\nAI is now crypto's best defender and its scariest attacker. \n\nCoinMarketCap breaks down how",
-    "link": "https://cryptopanic.com/news/33094010/ANALYSIS-An-AI-caught-hackers-draining-6M-from-Summerfi-while-the-exploit-was-still-running-while-weeks-earlier-an-AI-audit-wiped-60-off-Zcashs-price-without-stealing-a-thing-AI-is-now-cryptos-best-defender-and-its-scariest-attacker-CoinMarketCap-breaks-down-how",
-    "source": "@coinmarketcap",
-    "published": "Fri Jul 24 2026 15:50:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Samsung wants to bring stablecoins to your smartphone",
-    "link": "https://cryptopanic.com/news/33094098/Samsung-wants-to-bring-stablecoins-to-your-smartphone",
-    "source": "thestreet.com",
-    "published": "Fri Jul 24 2026 15:49:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: #Cardano $ADA Founder Charles Hoskinson updates his X profile picture and banner. \"Midnight fixes it.\"",
-    "link": "https://cryptopanic.com/news/33094012/JUST-IN-Cardano-ADA-Founder-Charles-Hoskinson-updates-his-X-profile-picture-and-banner-Midnight-fixes-it",
-    "source": "@angrycryptoshow",
-    "published": "Fri Jul 24 2026 15:47:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "OKX Europe CEO Says Binance App Is No Longer on Google Play Store... \n\nThe first enforcement case involving a crypto exchange operating without any regulation in the European Union has been reported by @OKX Europe CEO Erald (@EraldOnChain).\n\nThe @Binance app has already been",
-    "link": "https://cryptopanic.com/news/33094109/OKX-Europe-CEO-Says-Binance-App-Is-No-Longer-on-Google-Play-Store-The-first-enforcement-case-involving-a-crypto-exchange-operating-without-any-regulation-in-the-European-Union-has-been-reported-by-OKX-Europe-CEO-Erald-EraldOnChain-The-Binance-app-has-already-been",
-    "source": "@bscnews",
-    "published": "Fri Jul 24 2026 15:47:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin's 9% July Rally May Not Last as 2026 Mirrors 2018: Is a September Drop Coming?",
-    "link": "https://cryptopanic.com/news/33094032/Bitcoins-9-July-Rally-May-Not-Last-as-2026-Mirrors-2018-Is-a-September-Drop-Coming",
-    "source": "feeds2.benzinga.com",
-    "published": "Fri Jul 24 2026 15:46:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cobie Taking Over Base App? He's 'the Respectable Trencher': Uneasy Money",
-    "link": "https://cryptopanic.com/news/33093999/Cobie-Taking-Over-Base-App-Hes-the-Respectable-Trencher-Uneasy-Money",
-    "source": "Unchained",
-    "published": "Fri Jul 24 2026 15:46:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Up 105%: Strategy CEO Discloses $756 Million Surge Behind Bitcoin Purchases Fueled by BlackRock and VanEck",
-    "link": "https://cryptopanic.com/news/33093996/Up-105-Strategy-CEO-Discloses-756-Million-Surge-Behind-Bitcoin-Purchases-Fueled-by-BlackRock-and-VanEck",
-    "source": "u.today",
-    "published": "Fri Jul 24 2026 15:38:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Has Every Bullish Catalyst — Why Hasn't the Price Responded?",
-    "link": "https://cryptopanic.com/news/33093929/XRP-Has-Every-Bullish-Catalyst-Why-Hasnt-the-Price-Responded",
-    "source": "coinpaper.com",
-    "published": "Fri Jul 24 2026 15:37:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸BREAKING: Nic Carter says the US government will break Bitcoin using quantum technology. \n\n\"We will build the first quantum computer and put (those Bitcoins) in a trust.\"\n\n\"Anybody who onwed it before the salvage can claim it back.\"\n-Nic Carter at Galaxy Digital Brains",
-    "link": "https://cryptopanic.com/news/33093965/BREAKING-Nic-Carter-says-the-US-government-will-break-Bitcoin-using-quantum-technology-We-will-build-the-first-quantum-computer-and-put-those-Bitcoins-in-a-trust-Anybody-who-onwed-it-before-the-salvage-can-claim-it-back-Nic-Carter-at-Galaxy-Digital-Brains",
-    "source": "@btc_archive",
-    "published": "Fri Jul 24 2026 15:36:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CLARITY Act splits Wall Street and crypto as Goldman Sachs breaks with banks and Charles Hoskinson backs Warren",
-    "link": "https://cryptopanic.com/news/33093930/CLARITY-Act-splits-Wall-Street-and-crypto-as-Goldman-Sachs-breaks-with-banks-and-Charles-Hoskinson-backs-Warren",
-    "source": "cryptoslate.com",
-    "published": "Fri Jul 24 2026 15:35:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple Mint Arrives At The Center Of Institutional Operations",
-    "link": "https://cryptopanic.com/news/33093922/Ripple-Mint-Arrives-At-The-Center-Of-Institutional-Operations",
-    "source": "dailycoin.com",
-    "published": "Fri Jul 24 2026 15:33:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: $STRC retail ownership fell from 78% to 71% between March and July but institutional adoption rose to 105%, per Phong Le.",
-    "link": "https://cryptopanic.com/news/33094015/UPDATE-STRC-retail-ownership-fell-from-78-to-71-between-March-and-July-but-institutional-adoption-rose-to-105-per-Phong-Le",
-    "source": "@cointelegraph",
-    "published": "Fri Jul 24 2026 15:30:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Uniswap (@Uniswap) has now processed $250 million in stock token volume on Robinhood Chain (@RobinhoodApp).",
-    "link": "https://cryptopanic.com/news/33093861/Uniswap-Uniswap-has-now-processed-250-million-in-stock-token-volume-on-Robinhood-Chain-RobinhoodApp",
-    "source": "@bscnews",
-    "published": "Fri Jul 24 2026 15:30:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "European Union sanctions Justin Sun’s HTX",
-    "link": "https://cryptopanic.com/news/33093864/European-Union-sanctions-Justin-Suns-HTX",
-    "source": "protos.com",
-    "published": "Fri Jul 24 2026 15:29:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 Crypto Clarity Act faces collapse as President Trump ethics concerns stall the Senate.",
-    "link": "https://cryptopanic.com/news/33093964/JUST-IN-Crypto-Clarity-Act-faces-collapse-as-President-Trump-ethics-concerns-stall-the-Senate",
-    "source": "@watcherguru",
-    "published": "Fri Jul 24 2026 15:29:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HOT TOPIC: $5B whale bet says bitcoin:native hits $70K\n\nNearly 18% of all Deribit open interest is now stacked at just two strikes. That kind of crowding is either smart money or a trap",
-    "link": "https://cryptopanic.com/news/33094008/HOT-TOPIC-5B-whale-bet-says-bitcoinnative-hits-70K-Nearly-18-of-all-Deribit-open-interest-is-now-stacked-at-just-two-strikes-That-kind-of-crowding-is-either-smart-money-or-a-trap",
-    "source": "@coinmarketcap",
-    "published": "Fri Jul 24 2026 15:26:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Ripple has launched Ripple Mint, a platform letting institutions mint, redeem and manage RLUSD.",
-    "link": "https://cryptopanic.com/news/33094007/LATEST-Ripple-has-launched-Ripple-Mint-a-platform-letting-institutions-mint-redeem-and-manage-RLUSD",
-    "source": "@coinmarketcap",
-    "published": "Fri Jul 24 2026 15:25:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Weathers $800 Billion Tech Selloff As Stocks Sink — What's Next?",
-    "link": "https://cryptopanic.com/news/33093932/Bitcoin-Weathers-800-Billion-Tech-Selloff-As-Stocks-Sink-Whats-Next",
-    "source": "feeds2.benzinga.com",
-    "published": "Fri Jul 24 2026 15:25:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Pi Network now has a Move-to-Earn Platform\n\nSTEPN PI (@STEPN_PI) has launched its next-generation Move-to-Earn platform for the @PiCoreTeam ecosystem. \n\nThe protocol promises to reward users with $PI for walking, while also giving out NFT sneakers for early users. \n\nThe app is",
-    "link": "https://cryptopanic.com/news/33093858/Pi-Network-now-has-a-Move-to-Earn-Platform-STEPN-PI-STEPN_PI-has-launched-its-next-generation-Move-to-Earn-platform-for-the-PiCoreTeam-ecosystem-The-protocol-promises-to-reward-users-with-PI-for-walking-while-also-giving-out-NFT-sneakers-for-early-users-The-app-is",
-    "source": "@bscnews",
-    "published": "Fri Jul 24 2026 15:20:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 JUST IN: The National Fraternal Order of Police officially endorses the amended CLARITY Act.",
-    "link": "https://cryptopanic.com/news/33094014/JUST-IN-The-National-Fraternal-Order-of-Police-officially-endorses-the-amended-CLARITY-Act",
-    "source": "@cointelegraph",
-    "published": "Fri Jul 24 2026 15:18:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: The US Fraternal Order of Police endorses the CLARITY Act after revisions addressing crypto fraud and preserving law enforcement powers",
-    "link": "https://cryptopanic.com/news/33093959/INTEL-The-US-Fraternal-Order-of-Police-endorses-the-CLARITY-Act-after-revisions-addressing-crypto-fraud-and-preserving-law-enforcement-powers",
-    "source": "@solidintel_x",
-    "published": "Fri Jul 24 2026 15:17:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "World Foundation completes $52.5M WLD token financing led by Pantera Capital",
-    "link": "https://cryptopanic.com/news/33093771/World-Foundation-completes-525M-WLD-token-financing-led-by-Pantera-Capital",
-    "source": "coincu.com",
-    "published": "Fri Jul 24 2026 15:16:12 GMT+0000 (Coordinated Universal Time)",
+    "title": "3 Altcoins That Could Reach New All-Time Highs This Weekend",
+    "link": "https://cryptopanic.com/news/33094240/3-Altcoins-That-Could-Reach-New-All-Time-Highs-This-Weekend",
+    "source": "beincrypto.com",
+    "published": "Fri Jul 24 2026 16:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
