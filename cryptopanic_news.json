@@ -35,6 +35,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Someone is sending Bitcoin to Satoshi Nakamoto",
+    "link": "https://cryptopanic.com/news/33091581/Someone-is-sending-Bitcoin-to-Satoshi-Nakamoto",
+    "source": "thestreet.com",
+    "published": "Fri Jul 24 2026 08:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Weekly Roundup 07/24/26 (BTC Security Consortium, Genesis' Terra trade, DAT departures, Farewell to BitMEX, Network State drama) (EP.731)",
     "link": "https://cryptopanic.com/news/33091414/Weekly-Roundup-072426-BTC-Security-Consortium-Genesis-Terra-trade-DAT-departures-Farewell-to-BitMEX-Network-State-drama-EP731",
     "source": "OnTheBrinkwithCastleIsland",
@@ -200,13 +207,6 @@
     "link": "https://cryptopanic.com/news/33091203/DOGE-slides-below-0070-as-market-sentiment-weakens",
     "source": "coinjournal.net",
     "published": "Fri Jul 24 2026 07:23:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HYPE Tests Crucial Support as ETF Demand Weakens",
-    "link": "https://cryptopanic.com/news/33091140/HYPE-Tests-Crucial-Support-as-ETF-Demand-Weakens",
-    "source": "coindoo.com",
-    "published": "Fri Jul 24 2026 07:22:40 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
