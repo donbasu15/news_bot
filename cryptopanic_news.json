@@ -1,5 +1,54 @@
 [
   {
+    "title": "MoonPay Adds Discover Network Cards For US Crypto Purchases\n\nMoonPay now supports Discover Network, letting US users buy and sell crypto including $BTC, $ETH, $BNB, $XRP, $SOL, $TRX, $HYPE, and $ZEC with Discover cards. \n\nDiscover becomes the third major card network on the",
+    "link": "https://cryptopanic.com/news/33090445/MoonPay-Adds-Discover-Network-Cards-For-US-Crypto-Purchases-MoonPay-now-supports-Discover-Network-letting-US-users-buy-and-sell-crypto-including-BTC-ETH-BNB-XRP-SOL-TRX-HYPE-and-ZEC-with-Discover-cards-Discover-becomes-the-third-major-card-network-on-the",
+    "source": "@bscnews",
+    "published": "Fri Jul 24 2026 04:12:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tom Lee Just Called Ethereum The Land Of The Digital World",
+    "link": "https://cryptopanic.com/news/33090476/Tom-Lee-Just-Called-Ethereum-The-Land-Of-The-Digital-World",
+    "source": "TheCryptoLark",
+    "published": "Fri Jul 24 2026 04:00:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin ETFs Edge Closer in Japan as Regulators Tighten Crypto Oversight",
+    "link": "https://cryptopanic.com/news/33090422/Bitcoin-ETFs-Edge-Closer-in-Japan-as-Regulators-Tighten-Crypto-Oversight",
+    "source": "cryptopotato.com",
+    "published": "Fri Jul 24 2026 04:00:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto hacks return: Is $35M in exploits the start of another DeFi FUD cycle?",
+    "link": "https://cryptopanic.com/news/33090392/Crypto-hacks-return-Is-35M-in-exploits-the-start-of-another-DeFi-FUD-cycle",
+    "source": "ambcrypto.com",
+    "published": "Fri Jul 24 2026 04:00:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Kraken’s Fed Access Opens New Path for Crypto Banking",
+    "link": "https://cryptopanic.com/news/33090378/Krakens-Fed-Access-Opens-New-Path-for-Crypto-Banking",
+    "source": "catenaa.com",
+    "published": "Fri Jul 24 2026 04:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crude Oil Prices: WTI Jumps 6% as Middle East Tensions Lift Brent Above $100",
+    "link": "https://cryptopanic.com/news/33090377/Crude-Oil-Prices-WTI-Jumps-6-as-Middle-East-Tensions-Lift-Brent-Above-100",
+    "source": "coinpaper.com",
+    "published": "Fri Jul 24 2026 03:58:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Gemini Sends $10M In Bitcoin To Trump Super PAC\n\nGemini donated $10 million in Bitcoin $BTC to the MAGA Inc. Super PAC weeks after seeking to reverse a $5 million CFTC settlement.\n\nFederal Election Commission filings show the exchange made two separate Bitcoin contributions on",
+    "link": "https://cryptopanic.com/news/33090444/Gemini-Sends-10M-In-Bitcoin-To-Trump-Super-PAC-Gemini-donated-10-million-in-Bitcoin-BTC-to-the-MAGA-Inc-Super-PAC-weeks-after-seeking-to-reverse-a-5-million-CFTC-settlement-Federal-Election-Commission-filings-show-the-exchange-made-two-separate-Bitcoin-contributions-on",
+    "source": "@bscnews",
+    "published": "Fri Jul 24 2026 03:51:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Ripple launches Ripple Mint for institutions to mint and manage RLUSD",
     "link": "https://cryptopanic.com/news/33090371/Ripple-launches-Ripple-Mint-for-institutions-to-mint-and-manage-RLUSD",
     "source": "coincu.com",
@@ -7,16 +56,16 @@
     "sentiment": "neutral"
   },
   {
-    "title": "KuCoin rides crypto expansion into AI and payments to cross 45 million user landmark",
-    "link": "https://cryptopanic.com/news/33090359/KuCoin-rides-crypto-expansion-into-AI-and-payments-to-cross-45-million-user-landmark",
-    "source": "cryptopolitan.com",
+    "title": "LATEST: 🤖 Coinbase Business is rolling out a payments stack letting businesses accept payments from AI agents, powered by the x402 protocol.",
+    "link": "https://cryptopanic.com/news/33090373/LATEST-Coinbase-Business-is-rolling-out-a-payments-stack-letting-businesses-accept-payments-from-AI-agents-powered-by-the-x402-protocol",
+    "source": "@coinmarketcap",
     "published": "Fri Jul 24 2026 03:42:10 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "LATEST: 🤖 Coinbase Business is rolling out a payments stack letting businesses accept payments from AI agents, powered by the x402 protocol.",
-    "link": "https://cryptopanic.com/news/33090373/LATEST-Coinbase-Business-is-rolling-out-a-payments-stack-letting-businesses-accept-payments-from-AI-agents-powered-by-the-x402-protocol",
-    "source": "@coinmarketcap",
+    "title": "KuCoin rides crypto expansion into AI and payments to cross 45 million user landmark",
+    "link": "https://cryptopanic.com/news/33090359/KuCoin-rides-crypto-expansion-into-AI-and-payments-to-cross-45-million-user-landmark",
+    "source": "cryptopolitan.com",
     "published": "Fri Jul 24 2026 03:42:10 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -158,55 +207,6 @@
     "link": "https://cryptopanic.com/news/33090198/Get-ready-for-more-volatility-Trump-is-seriously-considering-restarting-major-operations-in-Iran-with-an-attack-bigger-than-ever-before-He-stated-that-he-is-close-to-making-the-decision",
     "source": "@stackersatoshi",
     "published": "Fri Jul 24 2026 02:17:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: ️ Uniswap has launched Permissioned Pools on v4, an open-source standard for trading regulated assets on an AMM with compliance enforced onchain.",
-    "link": "https://cryptopanic.com/news/33090137/LATEST-Uniswap-has-launched-Permissioned-Pools-on-v4-an-open-source-standard-for-trading-regulated-assets-on-an-AMM-with-compliance-enforced-onchain",
-    "source": "@coinmarketcap",
-    "published": "Fri Jul 24 2026 02:17:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Uniswap Opens Permissioned Pools for Tokenized Funds and Equities",
-    "link": "https://cryptopanic.com/news/33090107/Uniswap-Opens-Permissioned-Pools-for-Tokenized-Funds-and-Equities",
-    "source": "cryptoprowl.com",
-    "published": "Fri Jul 24 2026 02:14:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: Michael Saylor says Strategy has refined its Bitcoin metrics, rolling out new ways to measure Bitcoin, Digital Credit, and Digital Equity.",
-    "link": "https://cryptopanic.com/news/33090139/LATEST-Michael-Saylor-says-Strategy-has-refined-its-Bitcoin-metrics-rolling-out-new-ways-to-measure-Bitcoin-Digital-Credit-and-Digital-Equity",
-    "source": "@cointelegraph",
-    "published": "Fri Jul 24 2026 02:00:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "o1.exchange rallies after Upbit listing – Can bulls sustain the momentum?",
-    "link": "https://cryptopanic.com/news/33090056/o1exchange-rallies-after-Upbit-listing-Can-bulls-sustain-the-momentum",
-    "source": "ambcrypto.com",
-    "published": "Fri Jul 24 2026 02:00:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why Bitcoin’s Latest Bounce Back to $65,000 Might Not Last",
-    "link": "https://cryptopanic.com/news/33090105/Why-Bitcoins-Latest-Bounce-Back-to-65000-Might-Not-Last",
-    "source": "beincrypto.com",
-    "published": "Fri Jul 24 2026 02:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Russia Passes Law Opens Crypto Market Without Replacing Ruble",
-    "link": "https://cryptopanic.com/news/33090052/Russia-Passes-Law-Opens-Crypto-Market-Without-Replacing-Ruble",
-    "source": "catenaa.com",
-    "published": "Fri Jul 24 2026 02:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Are you using Binance or Bybit in Vietnam...? BEWARE!\n\nVietnam is 'going after the little guy' according to Cointelegraph, the country set to fine users of unlicensed overseas exchanges up to $1,900.\n\nUnlicensed overseas exchanges include the likes of @Binance and",
-    "link": "https://cryptopanic.com/news/33090047/Are-you-using-Binance-or-Bybit-in-Vietnam-BEWARE-Vietnam-is-going-after-the-little-guy-according-to-Cointelegraph-the-country-set-to-fine-users-of-unlicensed-overseas-exchanges-up-to-1900-Unlicensed-overseas-exchanges-include-the-likes-of-Binance-and",
-    "source": "@bscnews",
-    "published": "Fri Jul 24 2026 01:52:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
