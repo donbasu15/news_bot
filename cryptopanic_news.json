@@ -1,9 +1,37 @@
 [
   {
+    "title": "Sun in, Bitcoin and beer out at this Australian brewery\n\nHawkesbury Brewing Co on the NSW Central Coast submerged 16 $BTC miners in non-conductive liquid that heats to around 90 degrees, and a heat exchanger turns that into all the hot water its brewing needs, per ABC News.\n\nThe",
+    "link": "https://cryptopanic.com/news/33095217/Sun-in-Bitcoin-and-beer-out-at-this-Australian-brewery-Hawkesbury-Brewing-Co-on-the-NSW-Central-Coast-submerged-16-BTC-miners-in-non-conductive-liquid-that-heats-to-around-90-degrees-and-a-heat-exchanger-turns-that-into-all-the-hot-water-its-brewing-needs-per-ABC-News-The",
+    "source": "@bscnews",
+    "published": "Fri Jul 24 2026 21:32:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "On-chain data suggests Bitcoin has yet to confirm a bull market reversal",
+    "link": "https://cryptopanic.com/news/33095218/On-chain-data-suggests-Bitcoin-has-yet-to-confirm-a-bull-market-reversal",
+    "source": "ambcrypto.com",
+    "published": "Fri Jul 24 2026 21:30:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Pantera, Bain Bet $52.5M That ‘Proof Of Human’ Will Become The Internet’s Next Infrastructure Layer",
+    "link": "https://cryptopanic.com/news/33095252/Pantera-Bain-Bet-525M-That-Proof-Of-Human-Will-Become-The-Internets-Next-Infrastructure-Layer",
+    "source": "feeds2.benzinga.com",
+    "published": "Fri Jul 24 2026 21:27:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "CLARITY Act Update: Final Senate Vote Looks Unlikely Before August Break",
     "link": "https://cryptopanic.com/news/33095199/CLARITY-Act-Update-Final-Senate-Vote-Looks-Unlikely-Before-August-Break",
     "source": "coinpaper.com",
     "published": "Fri Jul 24 2026 21:14:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "We covered LiteForge crossing 140M earlier today, and it's already at 150M, so that's 10 million testnet transactions in a few hours.",
+    "link": "https://cryptopanic.com/news/33095216/We-covered-LiteForge-crossing-140M-earlier-today-and-its-already-at-150M-so-thats-10-million-testnet-transactions-in-a-few-hours",
+    "source": "@bscnews",
+    "published": "Fri Jul 24 2026 21:12:39 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -21,10 +49,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Big Tech Earnings Week is Over. Who Won and Lost?",
+    "link": "https://cryptopanic.com/news/33095244/Big-Tech-Earnings-Week-is-Over-Who-Won-and-Lost",
+    "source": "beincrypto.com",
+    "published": "Fri Jul 24 2026 21:07:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Amkor Stock Soars Over 10% After Landing $1.5B Nvidia AI Deal",
     "link": "https://cryptopanic.com/news/33095181/Amkor-Stock-Soars-Over-10-After-Landing-15B-Nvidia-AI-Deal",
     "source": "coinpaper.com",
     "published": "Fri Jul 24 2026 21:04:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Samsung Wallet is getting native stablecoin support\n\nSamsung (@SamsungMobile) announced at Galaxy Unpacked that Samsung Wallet will add native stablecoin support, with the on-stage mockup showing @circle's USDC, though no launch date, issuer, or chain has been confirmed.\n\nThe",
+    "link": "https://cryptopanic.com/news/33095214/Samsung-Wallet-is-getting-native-stablecoin-support-Samsung-SamsungMobile-announced-at-Galaxy-Unpacked-that-Samsung-Wallet-will-add-native-stablecoin-support-with-the-on-stage-mockup-showing-circles-USDC-though-no-launch-date-issuer-or-chain-has-been-confirmed-The",
+    "source": "@bscnews",
+    "published": "Fri Jul 24 2026 21:01:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -67,6 +109,13 @@
     "link": "https://cryptopanic.com/news/33095196/What-could-the-CLARITY-Act-mean-for-crypto-Orest-Gavryliak-Chief-Legal-Officer-at-1inch-breaks-down-the-CLARITY-Act-covering-its-potential-benefits-legal-risks-ethics-concerns-and-what-it-could-mean-for-DeFi-and-the-future-of-US-crypto-regulation-Full-episode-below",
     "source": "@cointelegraph",
     "published": "Fri Jul 24 2026 20:40:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Intel Beat Earnings by $1.7 Billion and Fell 11% as Cramer Turned Bullish",
+    "link": "https://cryptopanic.com/news/33095243/Intel-Beat-Earnings-by-17-Billion-and-Fell-11-as-Cramer-Turned-Bullish",
+    "source": "beincrypto.com",
+    "published": "Fri Jul 24 2026 20:40:01 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -158,55 +207,6 @@
     "link": "https://cryptopanic.com/news/33095066/BREAKING-Bahrain-and-Kuwait-secretly-sent-jets-to-attack-sites-inside-Iran-their-first-direct-retaliation-against-Tehran-per-WSJ",
     "source": "@cryptonwsuk",
     "published": "Fri Jul 24 2026 20:18:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "#BREAKING: 🇺🇸 Trump announces a \"renaissance of nuclear power\" in America. ️",
-    "link": "https://cryptopanic.com/news/33095064/BREAKING-Trump-announces-a-renaissance-of-nuclear-power-in-America",
-    "source": "@cryptonwsuk",
-    "published": "Fri Jul 24 2026 20:14:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "3 Real Reasons Why BitMEX is Shutting Down, and Who Could Be Next",
-    "link": "https://cryptopanic.com/news/33095131/3-Real-Reasons-Why-BitMEX-is-Shutting-Down-and-Who-Could-Be-Next",
-    "source": "beincrypto.com",
-    "published": "Fri Jul 24 2026 20:13:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "#BREAKING: Trump claims Israel would “not be around anymore” if he wasn't elected, citing Obama’s Iran nuclear deal.",
-    "link": "https://cryptopanic.com/news/33095063/BREAKING-Trump-claims-Israel-would-not-be-around-anymore-if-he-wasnt-elected-citing-Obamas-Iran-nuclear-deal",
-    "source": "@cryptonwsuk",
-    "published": "Fri Jul 24 2026 20:13:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: Robinhood Chain’s stablecoin supply has topped $400M, a 340% jump since early July.",
-    "link": "https://cryptopanic.com/news/33095021/INTEL-Robinhood-Chains-stablecoin-supply-has-topped-400M-a-340-jump-since-early-July",
-    "source": "@solidintel_x",
-    "published": "Fri Jul 24 2026 20:12:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: BITCOIN IS BACK AS THE #15 MOST VALUABLE ASSET \n\nTesla and Samsung are now behind us.\n\nUp we go! Just HOLD.",
-    "link": "https://cryptopanic.com/news/33095030/BREAKING-BITCOIN-IS-BACK-AS-THE-15-MOST-VALUABLE-ASSET-Tesla-and-Samsung-are-now-behind-us-Up-we-go-Just-HOLD",
-    "source": "@btc_archive",
-    "published": "Fri Jul 24 2026 20:10:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$BTC A lot of things going on within this price range:\n\n .618 Fibonacci Retracement at $58K\n Weekly 200MA at $63K\n Weekly 200EMA at $69K\n Bull Market Support Band at $70K\n Big Horizontal Support/Resistance level at ~$73K\n\nBitcoin is currently only holding slightly above",
-    "link": "https://cryptopanic.com/news/33095101/BTC-A-lot-of-things-going-on-within-this-price-range-618-Fibonacci-Retracement-at-58K-Weekly-200MA-at-63K-Weekly-200EMA-at-69K-Bull-Market-Support-Band-at-70K-Big-Horizontal-SupportResistance-level-at-73K-Bitcoin-is-currently-only-holding-slightly-above",
-    "source": "@daancrypto",
-    "published": "Fri Jul 24 2026 20:02:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "1 million people are now using @HesabPay_ which is powered by @Algorand!\n\nThat’s 1 million real users making P2P transfers, paying electricity bills, buying groceries and receiving aid through transactions settled on $ALGO.",
-    "link": "https://cryptopanic.com/news/33095102/1-million-people-are-now-using-HesabPay_-which-is-powered-by-Algorand-Thats-1-million-real-users-making-P2P-transfers-paying-electricity-bills-buying-groceries-and-receiving-aid-through-transactions-settled-on-ALGO",
-    "source": "@realallincrypto",
-    "published": "Fri Jul 24 2026 20:00:36 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
