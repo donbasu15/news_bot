@@ -1,54 +1,5 @@
 [
   {
-    "title": "Cardano’s $19M DeFi Plan Faces a Hard Reality Check",
-    "link": "https://cryptopanic.com/news/33074262/Cardanos-19M-DeFi-Plan-Faces-a-Hard-Reality-Check",
-    "source": "dailycoin.com",
-    "published": "Tue Jul 21 2026 15:34:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ETH/BTC Ratio Climbs Again: What Ethereum Beating Bitcoin Signals",
-    "link": "https://cryptopanic.com/news/33072035/ETHBTC-Ratio-Climbs-Again-What-Ethereum-Beating-Bitcoin-Signals",
-    "source": "spaziocrypto.com",
-    "published": "Tue Jul 21 2026 10:24:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum Tops $1,900, Could Be a Better Long-Term Bet Than Bitcoin, Analysts Claim",
-    "link": "https://cryptopanic.com/news/33039682/Ethereum-Tops-1900-Could-Be-a-Better-Long-Term-Bet-Than-Bitcoin-Analysts-Claim",
-    "source": "feeds2.benzinga.com",
-    "published": "Wed Jul 15 2026 14:08:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum Staking Generates 98% Of Bitmine’s Quarterly Revenue",
-    "link": "https://cryptopanic.com/news/33039366/Ethereum-Staking-Generates-98-Of-Bitmines-Quarterly-Revenue",
-    "source": "cryptoprowl.com",
-    "published": "Wed Jul 15 2026 13:32:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum Price Prediction: Next Cycle Could Push ETH Toward New Highs",
-    "link": "https://cryptopanic.com/news/33039271/Ethereum-Price-Prediction-Next-Cycle-Could-Push-ETH-Toward-New-Highs",
-    "source": "coinpaper.com",
-    "published": "Wed Jul 15 2026 13:24:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Charles Hoskinson Breaks Silence on Cardano Departure Rumors: ‘I’m Not Leaving’",
-    "link": "https://cryptopanic.com/news/33027592/Charles-Hoskinson-Breaks-Silence-on-Cardano-Departure-Rumors-Im-Not-Leaving",
-    "source": "zycrypto.com",
-    "published": "Mon Jul 13 2026 19:48:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "One of Biggest Breakout Launches in Years: BitMine Lauds Robinhood Chain's Growth",
-    "link": "https://cryptopanic.com/news/33020022/One-of-Biggest-Breakout-Launches-in-Years-BitMine-Lauds-Robinhood-Chains-Growth",
-    "source": "u.today",
-    "published": "Sun Jul 12 2026 11:46:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
     "title": "🇺🇸🇨🇳 AI: US-China AI tensions are escalating, per Reuters. \n\nBoth nations are racing to build more powerful AI models.",
     "link": "https://cryptopanic.com/news/33096518/AI-US-China-AI-tensions-are-escalating-per-Reuters-Both-nations-are-racing-to-build-more-powerful-AI-models",
     "source": "@cointelegraph",
@@ -60,6 +11,13 @@
     "link": "https://cryptopanic.com/news/33096490/Blackstone-AI-Investments-The-Real-Bottleneck-Is-Political",
     "source": "spaziocrypto.com",
     "published": "Sat Jul 25 2026 07:29:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cardano's Midnight suffers weekly price dip...\n\nThe privacy-focused @Cardano partner chain, @MidnightNtwrk, is well down over the past week, its losses outpaced only by @DexeNetwork's $DEXE token.\n\n$NIGHT is down nearly -28% on the week, the asset falling to a market cap of",
+    "link": "https://cryptopanic.com/news/33096537/Cardanos-Midnight-suffers-weekly-price-dip-The-privacy-focused-Cardano-partner-chain-MidnightNtwrk-is-well-down-over-the-past-week-its-losses-outpaced-only-by-DexeNetworks-DEXE-token-NIGHT-is-down-nearly-28-on-the-week-the-asset-falling-to-a-market-cap-of",
+    "source": "@bscnews",
+    "published": "Sat Jul 25 2026 07:28:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -207,6 +165,48 @@
     "link": "https://cryptopanic.com/news/33096259/CFTC-tightens-oversight-of-prediction-market-self-certifications",
     "source": "cryptopolitan.com",
     "published": "Sat Jul 25 2026 05:01:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin mining giant Poolin files for Chapter 11 as $173.1M in asset liabilities raises concerns",
+    "link": "https://cryptopanic.com/news/33096238/Bitcoin-mining-giant-Poolin-files-for-Chapter-11-as-1731M-in-asset-liabilities-raises-concerns",
+    "source": "ambcrypto.com",
+    "published": "Sat Jul 25 2026 05:00:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Weekly review: Ticino Cantonal Bank launches crypto trading",
+    "link": "https://cryptopanic.com/news/33096073/Weekly-review-Ticino-Cantonal-Bank-launches-crypto-trading",
+    "source": "cryptovalleyjournal.com",
+    "published": "Sat Jul 25 2026 05:00:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Grayscale Eyes Wall Street Debut for Worldcoin ETF",
+    "link": "https://cryptopanic.com/news/33096233/Grayscale-Eyes-Wall-Street-Debut-for-Worldcoin-ETF",
+    "source": "catenaa.com",
+    "published": "Sat Jul 25 2026 05:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "This chart explains why owning high-quality assets is essential.",
+    "link": "https://cryptopanic.com/news/33096263/This-chart-explains-why-owning-high-quality-assets-is-essential",
+    "source": "@stackersatoshi",
+    "published": "Sat Jul 25 2026 04:49:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33096196/Source",
+    "source": "@wublockchain",
+    "published": "Sat Jul 25 2026 04:39:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "U.S. Spot Bitcoin and Ethereum ETFs Record Net Outflows on July 24\n\nAccording to SoSoValue data, spot Bitcoin ETFs recorded total net outflows of $240 million on July 24 (ET). Spot Ethereum ETFs saw total net outflows of $70.62 million on the same day, ending a five-day streak of",
+    "link": "https://cryptopanic.com/news/33096195/US-Spot-Bitcoin-and-Ethereum-ETFs-Record-Net-Outflows-on-July-24-According-to-SoSoValue-data-spot-Bitcoin-ETFs-recorded-total-net-outflows-of-240-million-on-July-24-ET-Spot-Ethereum-ETFs-saw-total-net-outflows-of-7062-million-on-the-same-day-ending-a-five-day-streak-of",
+    "source": "@wublockchain",
+    "published": "Sat Jul 25 2026 04:39:30 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
