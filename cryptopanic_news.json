@@ -1,9 +1,37 @@
 [
   {
+    "title": "BitMart announced that it suspended new user registration, deposits, and new trading orders on July 26, and plans to cease all trading services on August 26. Its platform token, BMX, fell by approximately 63% in the past 24 hours.",
+    "link": "https://cryptopanic.com/news/33098653/BitMart-announced-that-it-suspended-new-user-registration-deposits-and-new-trading-orders-on-July-26-and-plans-to-cease-all-trading-services-on-August-26-Its-platform-token-BMX-fell-by-approximately-63-in-the-past-24-hours",
+    "source": "@wublockchain",
+    "published": "Sun Jul 26 2026 02:23:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Breaking: Another centralized crypto exchange, Bitmart, has announced its closure, following BitMEX,\n\nIn 2021, BitMart attracted retail investors in altcoins, and its 24-hour trading volume once entered the top 10. Fenbushi, Hack VC invested in it in 2021 at 300m. However, at the",
+    "link": "https://cryptopanic.com/news/33098651/Breaking-Another-centralized-crypto-exchange-Bitmart-has-announced-its-closure-following-BitMEX-In-2021-BitMart-attracted-retail-investors-in-altcoins-and-its-24-hour-trading-volume-once-entered-the-top-10-Fenbushi-Hack-VC-invested-in-it-in-2021-at-300m-However-at-the",
+    "source": "@wublockchain",
+    "published": "Sun Jul 26 2026 02:13:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "A $1 billion stablecoin picked Chainlink after reviewing how legacy bridges failed\n\n@UTechStables selected @chainlink as the official oracle and cross-chain layer for its U stablecoin, which crossed $1B in supply and $2.5B in daily volume since launching on @BNBCHAIN in December.",
+    "link": "https://cryptopanic.com/news/33098668/A-1-billion-stablecoin-picked-Chainlink-after-reviewing-how-legacy-bridges-failed-UTechStables-selected-chainlink-as-the-official-oracle-and-cross-chain-layer-for-its-U-stablecoin-which-crossed-1B-in-supply-and-25B-in-daily-volume-since-launching-on-BNBCHAIN-in-December",
+    "source": "@bscnews",
+    "published": "Sun Jul 26 2026 02:12:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Inside the EU’s new country-level crypto ban — Here’s why HTX and 13 platforms were targeted",
     "link": "https://cryptopanic.com/news/33098606/Inside-the-EUs-new-country-level-crypto-ban-Heres-why-HTX-and-13-platforms-were-targeted",
     "source": "ambcrypto.com",
     "published": "Sun Jul 26 2026 02:00:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Uniswap Launches Permissioned Pools for Compliant Onchain Trading\n\nUniswap has introduced Permissioned Pools on v4, enabling tokenized securities, funds, equities, and other regulated assets to trade through AMMs with onchain allowlist checks. Launch partners include Superstate,",
+    "link": "https://cryptopanic.com/news/33098650/Uniswap-Launches-Permissioned-Pools-for-Compliant-Onchain-Trading-Uniswap-has-introduced-Permissioned-Pools-on-v4-enabling-tokenized-securities-funds-equities-and-other-regulated-assets-to-trade-through-AMMs-with-onchain-allowlist-checks-Launch-partners-include-Superstate",
+    "source": "@wublockchain",
+    "published": "Sun Jul 26 2026 02:00:41 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33098300/BREAKING-Trump-reportedly-ordered-the-US-military-not-to-proceed-with-planned-strikes-on-Iran-on-Friday-despite-previously-approving-the-attack-plans-per-Axios",
     "source": "@cryptonwsuk",
     "published": "Sat Jul 25 2026 22:30:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "#BREAKING: 🇨🇳 China’s central bank injected $14.8 billion into the banking system this month through its one-year Medium-Term Lending Facility (MLF) - the largest such liquidity injection in five months.",
-    "link": "https://cryptopanic.com/news/33098299/BREAKING-Chinas-central-bank-injected-148-billion-into-the-banking-system-this-month-through-its-one-year-Medium-Term-Lending-Facility-MLF-the-largest-such-liquidity-injection-in-five-months",
-    "source": "@cryptonwsuk",
-    "published": "Sat Jul 25 2026 22:15:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "#BREAKING: Federal court blocks Trump’s mail voting executive order in Democratic-led states ahead of the midterms.",
-    "link": "https://cryptopanic.com/news/33098298/BREAKING-Federal-court-blocks-Trumps-mail-voting-executive-order-in-Democratic-led-states-ahead-of-the-midterms",
-    "source": "@cryptonwsuk",
-    "published": "Sat Jul 25 2026 22:00:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Larry Fink! BTC Trustless Future Explained!",
-    "link": "https://cryptopanic.com/news/33098252/Larry-Fink-BTC-Trustless-Future-Explained",
-    "source": "SimplyBitcoin",
-    "published": "Sat Jul 25 2026 22:00:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Russia’s Sberbank plans regulated crypto trading platform by December",
-    "link": "https://cryptopanic.com/news/33098239/Russias-Sberbank-plans-regulated-crypto-trading-platform-by-December",
-    "source": "cryptopolitan.com",
-    "published": "Sat Jul 25 2026 21:55:09 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
