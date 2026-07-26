@@ -1,5 +1,33 @@
 [
   {
+    "title": "How Cardano's Leios upgrade turns one block every 20 seconds into 65x the throughput\n\nToday every transaction waits on a single block every 20 seconds.\n\nLeios adds two layers beneath it. Input blocks bundle transactions every 0.2 to 2 seconds, and endorser blocks validate them in",
+    "link": "https://cryptopanic.com/news/33098525/How-Cardanos-Leios-upgrade-turns-one-block-every-20-seconds-into-65x-the-throughput-Today-every-transaction-waits-on-a-single-block-every-20-seconds-Leios-adds-two-layers-beneath-it-Input-blocks-bundle-transactions-every-02-to-2-seconds-and-endorser-blocks-validate-them-in",
+    "source": "@bscnews",
+    "published": "Sun Jul 26 2026 01:05:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bonds Are A Trap — Here's The Proof",
+    "link": "https://cryptopanic.com/news/33098524/Bonds-Are-A-Trap-Heres-The-Proof",
+    "source": "AnthonyPompliano",
+    "published": "Sun Jul 26 2026 01:02:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Robinhood Chain tokenized stocks explode 5x in under two weeks",
+    "link": "https://cryptopanic.com/news/33098517/Robinhood-Chain-tokenized-stocks-explode-5x-in-under-two-weeks",
+    "source": "cryptopolitan.com",
+    "published": "Sun Jul 26 2026 00:58:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Is BlackRock Attempting to STEAL Satoshi’s Bitcoin?",
+    "link": "https://cryptopanic.com/news/33098506/Is-BlackRock-Attempting-to-STEAL-Satoshis-Bitcoin",
+    "source": "SimplyBitcoin",
+    "published": "Sun Jul 26 2026 00:45:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "INTERESTING: Bitdeer mined a record-breaking 990 $BTC in June.\n\nAnd they've sold it all.",
     "link": "https://cryptopanic.com/news/33098501/INTERESTING-Bitdeer-mined-a-record-breaking-990-BTC-in-June-And-theyve-sold-it-all",
     "source": "@cointelegraph",
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33098224/Read-it",
     "source": "@cointelegraph",
     "published": "Sat Jul 25 2026 21:30:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇰🇵 TODAY: North Korea reportedly arrested a crypto-linked bank hacking ring.",
-    "link": "https://cryptopanic.com/news/33098225/TODAY-North-Korea-reportedly-arrested-a-crypto-linked-bank-hacking-ring",
-    "source": "@cointelegraph",
-    "published": "Sat Jul 25 2026 21:30:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "EU adds HTX to Russia sanctions list, barring transactions starting Aug. 23",
-    "link": "https://cryptopanic.com/news/33098178/EU-adds-HTX-to-Russia-sanctions-list-barring-transactions-starting-Aug-23",
-    "source": "theblock.co",
-    "published": "Sat Jul 25 2026 21:23:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Shiba Inu Price Eyes Recovery as SHIB Burn Rate Rises Above 41%",
-    "link": "https://cryptopanic.com/news/33098165/Shiba-Inu-Price-Eyes-Recovery-as-SHIB-Burn-Rate-Rises-Above-41",
-    "source": "thecoinrepublic.com",
-    "published": "Sat Jul 25 2026 21:12:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Elon Musk says \"money won't matter in 2036\" because of AI and robots.",
-    "link": "https://cryptopanic.com/news/33098212/JUST-IN-Elon-Musk-says-money-wont-matter-in-2036-because-of-AI-and-robots",
-    "source": "@watcherguru",
-    "published": "Sat Jul 25 2026 21:03:16 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
