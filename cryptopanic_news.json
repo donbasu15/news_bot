@@ -1,9 +1,23 @@
 [
   {
+    "title": "Gregg Bell, Chief Investment Officer at Hashgraph, on how HBAR provides exposure spread across sectors rather than being tied to single narrative:",
+    "link": "https://cryptopanic.com/news/33100570/Gregg-Bell-Chief-Investment-Officer-at-Hashgraph-on-how-HBAR-provides-exposure-spread-across-sectors-rather-than-being-tied-to-single-narrative",
+    "source": "r/hedera",
+    "published": "Sun Jul 26 2026 15:25:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "How Crypto Lets Traders Bet on China’s Biggest Chip IPO",
     "link": "https://cryptopanic.com/news/33100492/How-Crypto-Lets-Traders-Bet-on-Chinas-Biggest-Chip-IPO",
     "source": "coindoo.com",
     "published": "Sun Jul 26 2026 15:14:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Does $BTC hit $75K this year??",
+    "link": "https://cryptopanic.com/news/33100540/Does-BTC-hit-75K-this-year",
+    "source": "@bscnews",
+    "published": "Sun Jul 26 2026 15:09:05 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -18,6 +32,20 @@
     "link": "https://cryptopanic.com/news/33100490/ANALYSIS-Bitcoin-rallied-last-week-as-ETF-inflows-neared-1B-and-BTC-futures-saw-bulls-dominating-the-market-Will-the-marketwide-rally-accelerate-if-the-US-Senate-votes-on-the-CLARITY-Act-this-week-With-all-of-that-in-the-background-what-should-we-expect-for-the-crypto",
     "source": "@coinmarketcap",
     "published": "Sun Jul 26 2026 15:05:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "TRON has flipped Solana in TVL, climbing to 2nd across all blockchains with $4.83B locked!\n\nThis is exactly why we keep talking about $TRX. Stablecoin volume, users, transactions, fees and now TVL, @trondao keeps sitting near the top of the metrics that actually matter.",
+    "link": "https://cryptopanic.com/news/33100539/TRON-has-flipped-Solana-in-TVL-climbing-to-2nd-across-all-blockchains-with-483B-locked-This-is-exactly-why-we-keep-talking-about-TRX-Stablecoin-volume-users-transactions-fees-and-now-TVL-trondao-keeps-sitting-near-the-top-of-the-metrics-that-actually-matter",
+    "source": "@realallincrypto",
+    "published": "Sun Jul 26 2026 15:00:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "AI is not just another technology.\n\nIt is the technology of intelligence and it can help build better versions of itself.\n\n@georgexzeng from @NEARProtocol explains why self-reinforcing AI loops could create the most impactful technology humanity has ever built.",
+    "link": "https://cryptopanic.com/news/33100538/AI-is-not-just-another-technology-It-is-the-technology-of-intelligence-and-it-can-help-build-better-versions-of-itself-georgexzeng-from-NEARProtocol-explains-why-self-reinforcing-AI-loops-could-create-the-most-impactful-technology-humanity-has-ever-built",
+    "source": "@realallincrypto",
+    "published": "Sun Jul 26 2026 15:00:02 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33100173/Michael-Saylors-BTC-Strategy",
     "source": "SimplyBitcoin",
     "published": "Sun Jul 26 2026 13:00:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Every moment counts.",
-    "link": "https://cryptopanic.com/news/33100115/Every-moment-counts",
-    "source": "@coinmarketcap",
-    "published": "Sun Jul 26 2026 13:00:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "@StellarOrg is growing on every front!\n\nStablecoin supply jumped 7.2% in seven days to $910.1M!\n\nWe also highlighted recently, transfer volume is also up 34.54% in 30 days.\n\nThe stats don't lie! Their is more stablecoins & more money moving through the $XLM network than ever!",
-    "link": "https://cryptopanic.com/news/33100166/StellarOrg-is-growing-on-every-front-Stablecoin-supply-jumped-72-in-seven-days-to-9101M-We-also-highlighted-recently-transfer-volume-is-also-up-3454-in-30-days-The-stats-dont-lie-Their-is-more-stablecoins-amp-more-money-moving-through-the-XLM-network-than-ever",
-    "source": "@realallincrypto",
-    "published": "Sun Jul 26 2026 13:00:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Russia's Largest Bank Races Toward December Crypto Trading Launch",
-    "link": "https://cryptopanic.com/news/33100123/Russias-Largest-Bank-Races-Toward-December-Crypto-Trading-Launch",
-    "source": "coinpaprika.com",
-    "published": "Sun Jul 26 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "U.S. regulator warns prediction markets against cutting corners in event contracts",
-    "link": "https://cryptopanic.com/news/33100441/US-regulator-warns-prediction-markets-against-cutting-corners-in-event-contracts",
-    "source": "coindesk.com",
-    "published": "Sun Jul 26 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
