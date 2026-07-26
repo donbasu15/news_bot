@@ -1,5 +1,19 @@
 [
   {
+    "title": "Bernstein Says Robinhood’s Future Lies Beyond Crypto",
+    "link": "https://cryptopanic.com/news/33099094/Bernstein-Says-Robinhoods-Future-Lies-Beyond-Crypto",
+    "source": "catenaa.com",
+    "published": "Sun Jul 26 2026 05:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BMX Token Crashes 46% as BitMart Announces Exchange Wind Down",
+    "link": "https://cryptopanic.com/news/33099092/BMX-Token-Crashes-46-as-BitMart-Announces-Exchange-Wind-Down",
+    "source": "beincrypto.com",
+    "published": "Sun Jul 26 2026 04:53:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Stellar opened a real-time public window into every metric on its network\n\n@StellarOrg launched a public analytics dashboard built with Allium Labs, tracking active addresses, transaction volume, smart contract executions, and network fees as they happen.\n\nA dedicated section",
     "link": "https://cryptopanic.com/news/33099028/Stellar-opened-a-real-time-public-window-into-every-metric-on-its-network-StellarOrg-launched-a-public-analytics-dashboard-built-with-Allium-Labs-tracking-active-addresses-transaction-volume-smart-contract-executions-and-network-fees-as-they-happen-A-dedicated-section",
     "source": "@bscnews",
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33098606/Inside-the-EUs-new-country-level-crypto-ban-Heres-why-HTX-and-13-platforms-were-targeted",
     "source": "ambcrypto.com",
     "published": "Sun Jul 26 2026 02:00:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Uniswap Launches Permissioned Pools for Compliant Onchain Trading\n\nUniswap has introduced Permissioned Pools on v4, enabling tokenized securities, funds, equities, and other regulated assets to trade through AMMs with onchain allowlist checks. Launch partners include Superstate,",
-    "link": "https://cryptopanic.com/news/33098650/Uniswap-Launches-Permissioned-Pools-for-Compliant-Onchain-Trading-Uniswap-has-introduced-Permissioned-Pools-on-v4-enabling-tokenized-securities-funds-equities-and-other-regulated-assets-to-trade-through-AMMs-with-onchain-allowlist-checks-Launch-partners-include-Superstate",
-    "source": "@wublockchain",
-    "published": "Sun Jul 26 2026 02:00:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Market Quiet? Why Price Held Despite No Buyers!",
-    "link": "https://cryptopanic.com/news/33098622/Market-Quiet-Why-Price-Held-Despite-No-Buyers",
-    "source": "SimplyBitcoin",
-    "published": "Sun Jul 26 2026 02:00:38 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
