@@ -1,9 +1,30 @@
 [
   {
+    "title": "El Salvador Crypto Remittances Hit 0.7%, Up 39.1% YoY",
+    "link": "https://cryptopanic.com/news/33099190/El-Salvador-Crypto-Remittances-Hit-07-Up-391-YoY",
+    "source": "coincu.com",
+    "published": "Sun Jul 26 2026 06:40:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Japanese Logistics Giant Uses Stablecoin to Ease Labor Crunch",
+    "link": "https://cryptopanic.com/news/33099167/Japanese-Logistics-Giant-Uses-Stablecoin-to-Ease-Labor-Crunch",
+    "source": "catenaa.com",
+    "published": "Sun Jul 26 2026 06:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Nvidia urges Washington to keep AI open as Huang calms investors",
     "link": "https://cryptopanic.com/news/33099150/Nvidia-urges-Washington-to-keep-AI-open-as-Huang-calms-investors",
     "source": "cryptopolitan.com",
     "published": "Sun Jul 26 2026 06:09:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "A World Bank body is citing Algorand in its humanitarian payments research\n\nCGAP, the financial inclusion group housed at the World Bank, cited HesabPay's use of @Algorand to deliver an afghani-pegged stablecoin straight to recipient wallets in Afghanistan.\n\nThat Mercy Corps",
+    "link": "https://cryptopanic.com/news/33099170/A-World-Bank-body-is-citing-Algorand-in-its-humanitarian-payments-research-CGAP-the-financial-inclusion-group-housed-at-the-World-Bank-cited-HesabPays-use-of-Algorand-to-deliver-an-afghani-pegged-stablecoin-straight-to-recipient-wallets-in-Afghanistan-That-Mercy-Corps",
+    "source": "@bscnews",
+    "published": "Sun Jul 26 2026 05:52:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -186,27 +207,6 @@
     "link": "https://cryptopanic.com/news/33098790/NPS-Other-Pension-Funds-Turn-Net-Buyers-of-South-Korean-Shares-in-July",
     "source": "square.binance.com",
     "published": "Sun Jul 26 2026 02:30:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BitMart announced that it suspended new user registration, deposits, and new trading orders on July 26, and plans to cease all trading services on August 26. Its platform token, BMX, fell by approximately 63% in the past 24 hours.",
-    "link": "https://cryptopanic.com/news/33098653/BitMart-announced-that-it-suspended-new-user-registration-deposits-and-new-trading-orders-on-July-26-and-plans-to-cease-all-trading-services-on-August-26-Its-platform-token-BMX-fell-by-approximately-63-in-the-past-24-hours",
-    "source": "@wublockchain",
-    "published": "Sun Jul 26 2026 02:23:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Breaking: Another centralized crypto exchange, Bitmart, has announced its closure, following BitMEX,\n\nIn 2021, BitMart attracted retail investors in altcoins, and its 24-hour trading volume once entered the top 10. Fenbushi, Hack VC invested in it in 2021 at 300m. However, at the",
-    "link": "https://cryptopanic.com/news/33098651/Breaking-Another-centralized-crypto-exchange-Bitmart-has-announced-its-closure-following-BitMEX-In-2021-BitMart-attracted-retail-investors-in-altcoins-and-its-24-hour-trading-volume-once-entered-the-top-10-Fenbushi-Hack-VC-invested-in-it-in-2021-at-300m-However-at-the",
-    "source": "@wublockchain",
-    "published": "Sun Jul 26 2026 02:13:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "A $1 billion stablecoin picked Chainlink after reviewing how legacy bridges failed\n\n@UTechStables selected @chainlink as the official oracle and cross-chain layer for its U stablecoin, which crossed $1B in supply and $2.5B in daily volume since launching on @BNBCHAIN in December.",
-    "link": "https://cryptopanic.com/news/33098668/A-1-billion-stablecoin-picked-Chainlink-after-reviewing-how-legacy-bridges-failed-UTechStables-selected-chainlink-as-the-official-oracle-and-cross-chain-layer-for-its-U-stablecoin-which-crossed-1B-in-supply-and-25B-in-daily-volume-since-launching-on-BNBCHAIN-in-December",
-    "source": "@bscnews",
-    "published": "Sun Jul 26 2026 02:12:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
