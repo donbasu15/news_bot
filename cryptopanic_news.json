@@ -1,5 +1,26 @@
 [
   {
+    "title": "“Cash rules everything around me”",
+    "link": "https://cryptopanic.com/news/33100099/Cash-rules-everything-around-me",
+    "source": "@btc_archive",
+    "published": "Sun Jul 26 2026 12:47:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "For the complete article and weekly curated reports, subscribe to our Substack",
+    "link": "https://cryptopanic.com/news/33100117/For-the-complete-article-and-weekly-curated-reports-subscribe-to-our-Substack",
+    "source": "@wublockchain",
+    "published": "Sun Jul 26 2026 12:30:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Asia's weekly TOP10 crypto news: Japan Elevates On-Chain Finance to National Policy and Targets Bitcoin ETFs by 2028, South Korea Moves to Expand Institutional Crypto Access as Exchange Volumes Plunge, Russia’s Sberbank Builds Regulated Crypto Trading Infrastructure, and the",
+    "link": "https://cryptopanic.com/news/33100116/Asias-weekly-TOP10-crypto-news-Japan-Elevates-On-Chain-Finance-to-National-Policy-and-Targets-Bitcoin-ETFs-by-2028-South-Korea-Moves-to-Expand-Institutional-Crypto-Access-as-Exchange-Volumes-Plunge-Russias-Sberbank-Builds-Regulated-Crypto-Trading-Infrastructure-and-the",
+    "source": "@wublockchain",
+    "published": "Sun Jul 26 2026 12:30:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Solana's largest ever upgrade is due this quarter\n\nAlpenglow replaces both Proof of History and TowerBFT, the two systems that have defined @solana since launch, cutting finality from 12.8 seconds to roughly 150 milliseconds.\n\nValidators approved it 98% to 1%, and it has been",
     "link": "https://cryptopanic.com/news/33100067/Solanas-largest-ever-upgrade-is-due-this-quarter-Alpenglow-replaces-both-Proof-of-History-and-TowerBFT-the-two-systems-that-have-defined-solana-since-launch-cutting-finality-from-128-seconds-to-roughly-150-milliseconds-Validators-approved-it-98-to-1-and-it-has-been",
     "source": "@bscnews",
@@ -11,6 +32,13 @@
     "link": "https://cryptopanic.com/news/33100090/2-Trillion-Shiba-Inu-SHIB-in-24-Hours-Who-Triggered-the-Enormous-Inflow",
     "source": "u.today",
     "published": "Sun Jul 26 2026 12:25:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "REUTERS: A looming \"super\" El Niño could wipe $10B-$20B from Africa's economy.\n\nAnd Africa's unlikely to be the only one affected by the weather.\n\nPIIE says that a 21st century El Niño could cost up to $3T globally.\n\n\"The choice is ours.\"",
+    "link": "https://cryptopanic.com/news/33100118/REUTERS-A-looming-super-El-Nino-could-wipe-10B-20B-from-Africas-economy-And-Africas-unlikely-to-be-the-only-one-affected-by-the-weather-PIIE-says-that-a-21st-century-El-Nino-could-cost-up-to-3T-globally-The-choice-is-ours",
+    "source": "@cointelegraph",
+    "published": "Sun Jul 26 2026 12:19:20 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33099792/JUST-IN-Binance-Founder-CZ-says-tough-times-again-Self-custody-if-you-know-how-to-keep-your-seedphrase-safe",
     "source": "@watcherguru",
     "published": "Sun Jul 26 2026 10:04:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Economic Crash & Wall Street Boom?",
-    "link": "https://cryptopanic.com/news/33099740/Economic-Crash-Wall-Street-Boom",
-    "source": "SimplyBitcoin",
-    "published": "Sun Jul 26 2026 10:00:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Your crypto in a gif.",
-    "link": "https://cryptopanic.com/news/33099635/Your-crypto-in-a-gif",
-    "source": "@coinmarketcap",
-    "published": "Sun Jul 26 2026 10:00:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Europe's high regulatory bar could spark new crypto industry M&A wave",
-    "link": "https://cryptopanic.com/news/33099878/Europes-high-regulatory-bar-could-spark-new-crypto-industry-MA-wave",
-    "source": "coindesk.com",
-    "published": "Sun Jul 26 2026 10:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto’s Only Growing Sector Runs on Gold and Equities",
-    "link": "https://cryptopanic.com/news/33099855/Cryptos-Only-Growing-Sector-Runs-on-Gold-and-Equities",
-    "source": "beincrypto.com",
-    "published": "Sun Jul 26 2026 10:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
