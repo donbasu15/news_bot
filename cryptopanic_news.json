@@ -1,9 +1,30 @@
 [
   {
+    "title": "Coinbase’s Trillion Shiba Inu Shuffle Raises New Questions",
+    "link": "https://cryptopanic.com/news/33100287/Coinbases-Trillion-Shiba-Inu-Shuffle-Raises-New-Questions",
+    "source": "dailycoin.com",
+    "published": "Sun Jul 26 2026 13:49:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Best looking crypto right now technically",
+    "link": "https://cryptopanic.com/news/33100291/Best-looking-crypto-right-now-technically",
+    "source": "@realallincrypto",
+    "published": "Sun Jul 26 2026 13:42:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "CZ Says Acquiring Smaller Crypto Exchanges Carries Hidden Security Risks \n\nAfter BitMEX and BitMart announced plans to wind down their exchange operations, Binance founder @cz_binance said acquiring smaller centralized exchanges is more complicated than buying other businesses.",
     "link": "https://cryptopanic.com/news/33100266/CZ-Says-Acquiring-Smaller-Crypto-Exchanges-Carries-Hidden-Security-Risks-After-BitMEX-and-BitMart-announced-plans-to-wind-down-their-exchange-operations-Binance-founder-cz_binance-said-acquiring-smaller-centralized-exchanges-is-more-complicated-than-buying-other-businesses",
     "source": "@wublockchain",
     "published": "Sun Jul 26 2026 13:31:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Most bitcoin is not quantum vulnerable, and the difference comes down to address reuse\n\nGlassnode measured 6.04M $BTC, roughly 30% of supply, sitting in addresses with a public key already visible on-chain. That breaks into 1.92M in the oldest address format and 4.12M exposed",
+    "link": "https://cryptopanic.com/news/33100293/Most-bitcoin-is-not-quantum-vulnerable-and-the-difference-comes-down-to-address-reuse-Glassnode-measured-604M-BTC-roughly-30-of-supply-sitting-in-addresses-with-a-public-key-already-visible-on-chain-That-breaks-into-192M-in-the-oldest-address-format-and-412M-exposed",
+    "source": "@bscnews",
+    "published": "Sun Jul 26 2026 13:31:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -28,16 +49,16 @@
     "sentiment": "neutral"
   },
   {
-    "title": "The 10x Bitcoin Opportunity Hiding In Plain Sight (Right Now) | Bob Burnett",
-    "link": "https://cryptopanic.com/news/33100179/The-10x-Bitcoin-Opportunity-Hiding-In-Plain-Sight-Right-Now-Bob-Burnett",
-    "source": "BTCSessions",
+    "title": "Michael Saylor's BTC Strategy!",
+    "link": "https://cryptopanic.com/news/33100173/Michael-Saylors-BTC-Strategy",
+    "source": "SimplyBitcoin",
     "published": "Sun Jul 26 2026 13:00:32 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Michael Saylor's BTC Strategy!",
-    "link": "https://cryptopanic.com/news/33100173/Michael-Saylors-BTC-Strategy",
-    "source": "SimplyBitcoin",
+    "title": "The 10x Bitcoin Opportunity Hiding In Plain Sight (Right Now) | Bob Burnett",
+    "link": "https://cryptopanic.com/news/33100179/The-10x-Bitcoin-Opportunity-Hiding-In-Plain-Sight-Right-Now-Bob-Burnett",
+    "source": "BTCSessions",
     "published": "Sun Jul 26 2026 13:00:32 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -186,27 +207,6 @@
     "link": "https://cryptopanic.com/news/33099989/CLARITYs-passage-odds-have-collapsed-in-a-single-week-Polymarket-now-prices-2026-passage-near-37-down-from-42-Tuesday-and-above-80-in-the-spring-Galaxy-Research-cut-its-own-estimate-to-30-Friday-from-50-earlier-this-month-Majority-Leader-Thune-says-he-does-not-expect",
     "source": "@bscnews",
     "published": "Sun Jul 26 2026 11:21:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33099944/Source",
-    "source": "@wublockchain",
-    "published": "Sun Jul 26 2026 11:18:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Anthony Scaramucci says Bitcoin has bottomed and will \"grind higher\" from here, citing RSI at an all-time low, the Fear & Greed Index, and collapsing Google Search interest.",
-    "link": "https://cryptopanic.com/news/33099942/LATEST-Anthony-Scaramucci-says-Bitcoin-has-bottomed-and-will-grind-higher-from-here-citing-RSI-at-an-all-time-low-the-Fear-amp-Greed-Index-and-collapsing-Google-Search-interest",
-    "source": "@coinmarketcap",
-    "published": "Sun Jul 26 2026 11:15:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tom Lee: ETH 2.0 Could Support a $250,000 Long Term Target \n\nOn July 13, 2026, at WebX 2026 in Tokyo, BitMine Chairman Tom Lee @fundstrat said Ethereum is entering its 2.0 phase, using Amazon, Nvidia, and JPMorgan as re-rating analogies and arguing that ETH will become money",
-    "link": "https://cryptopanic.com/news/33099943/Tom-Lee-ETH-20-Could-Support-a-250000-Long-Term-Target-On-July-13-2026-at-WebX-2026-in-Tokyo-BitMine-Chairman-Tom-Lee-fundstrat-said-Ethereum-is-entering-its-20-phase-using-Amazon-Nvidia-and-JPMorgan-as-re-rating-analogies-and-arguing-that-ETH-will-become-money",
-    "source": "@wublockchain",
-    "published": "Sun Jul 26 2026 11:05:51 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
