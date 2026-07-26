@@ -1,9 +1,37 @@
 [
   {
+    "title": "NOW: Michael Burry's Tesla and Caterpillar shorts are paying off, per CNBC.",
+    "link": "https://cryptopanic.com/news/33098584/NOW-Michael-Burrys-Tesla-and-Caterpillar-shorts-are-paying-off-per-CNBC",
+    "source": "@cointelegraph",
+    "published": "Sun Jul 26 2026 01:30:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Here's what to be ready for this week \n\nWednesday:\n-Fed rate decision\n-Warsh press conference\n-MSFT earnings\n-META earnings\n\nThursday:\n-US PCE inflation June\n-US advanced Q2 GDP growth rate\n-US personal income/spending June\n-Bank of England rate decision\n-Bank of Japan rate",
+    "link": "https://cryptopanic.com/news/33098546/Heres-what-to-be-ready-for-this-week-Wednesday-Fed-rate-decision-Warsh-press-conference-MSFT-earnings-META-earnings-Thursday-US-PCE-inflation-June-US-advanced-Q2-GDP-growth-rate-US-personal-incomespending-June-Bank-of-England-rate-decision-Bank-of-Japan-rate",
+    "source": "@stackersatoshi",
+    "published": "Sun Jul 26 2026 01:28:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33098583/Source",
+    "source": "@wublockchain",
+    "published": "Sun Jul 26 2026 01:09:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "How Cardano's Leios upgrade turns one block every 20 seconds into 65x the throughput\n\nToday every transaction waits on a single block every 20 seconds.\n\nLeios adds two layers beneath it. Input blocks bundle transactions every 0.2 to 2 seconds, and endorser blocks validate them in",
     "link": "https://cryptopanic.com/news/33098525/How-Cardanos-Leios-upgrade-turns-one-block-every-20-seconds-into-65x-the-throughput-Today-every-transaction-waits-on-a-single-block-every-20-seconds-Leios-adds-two-layers-beneath-it-Input-blocks-bundle-transactions-every-02-to-2-seconds-and-endorser-blocks-validate-them-in",
     "source": "@bscnews",
     "published": "Sun Jul 26 2026 01:05:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Upbit to List Morpho (MORPHO) and Euler (EUL) in KRW Market\n\nSouth Korea’s largest crypto exchange, Upbit will list MORPHO at 5:00 p.m. UTC+8 on July 25 and EUL at 11:00 a.m. UTC+8 on July 26. Deposits and withdrawals for both tokens will be supported only via Ethereum.",
+    "link": "https://cryptopanic.com/news/33098582/Upbit-to-List-Morpho-MORPHO-and-Euler-EUL-in-KRW-Market-South-Koreas-largest-crypto-exchange-Upbit-will-list-MORPHO-at-500-pm-UTC8-on-July-25-and-EUL-at-1100-am-UTC8-on-July-26-Deposits-and-withdrawals-for-both-tokens-will-be-supported-only-via-Ethereum",
+    "source": "@wublockchain",
+    "published": "Sun Jul 26 2026 01:03:58 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33098255/The-World-Foundation-has-raised-525-MILLION-by-selling-WLD-Per-The-Block-The-worldnetwork-Foundation-has-sold-significant-sums-of-locked-WLD-tokens-to-investors-raising-from-525M-from-the-sale-The-tokens-are-subject-to-a-one-year-lock-and-were-purchased-by-the-likes",
     "source": "@bscnews",
     "published": "Sat Jul 25 2026 21:39:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Harsh Reality of New Crypto: Just 7% of Major Tokens Beat Their Launch Price",
-    "link": "https://cryptopanic.com/news/33098206/The-Harsh-Reality-of-New-Crypto-Just-7-of-Major-Tokens-Beat-Their-Launch-Price",
-    "source": "cryptopotato.com",
-    "published": "Sat Jul 25 2026 21:36:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "DeepSeek halts fundraising after becoming AI’s most sought-after startup",
-    "link": "https://cryptopanic.com/news/33098194/DeepSeek-halts-fundraising-after-becoming-AIs-most-sought-after-startup",
-    "source": "cryptopolitan.com",
-    "published": "Sat Jul 25 2026 21:35:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Price on Edge as ETF Inflows Head for Worst Performance Since April",
-    "link": "https://cryptopanic.com/news/33098218/XRP-Price-on-Edge-as-ETF-Inflows-Head-for-Worst-Performance-Since-April",
-    "source": "feeds2.benzinga.com",
-    "published": "Sat Jul 25 2026 21:34:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Read it",
-    "link": "https://cryptopanic.com/news/33098224/Read-it",
-    "source": "@cointelegraph",
-    "published": "Sat Jul 25 2026 21:30:48 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
