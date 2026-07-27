@@ -1,9 +1,44 @@
 [
   {
+    "title": "Fanatics Buys CFTC-Registered Exchange in Prediction Markets Land Grab",
+    "link": "https://cryptopanic.com/news/33107446/Fanatics-Buys-CFTC-Registered-Exchange-in-Prediction-Markets-Land-Grab",
+    "source": "@decryptmedia",
+    "published": "Mon Jul 27 2026 19:46:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Fanatics Buys CFTC-Registered Exchange in Prediction Markets Land Grab",
+    "link": "https://cryptopanic.com/news/33107429/Fanatics-Buys-CFTC-Registered-Exchange-in-Prediction-Markets-Land-Grab",
+    "source": "decrypt.co",
+    "published": "Mon Jul 27 2026 19:45:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇰🇷 South Korea's largest bank KB Kookmin Bank plans to launch a blockchain-based cross-border payments service on JPMorgan's Kinexys next month, per Yonhap.",
+    "link": "https://cryptopanic.com/news/33107420/LATEST-South-Koreas-largest-bank-KB-Kookmin-Bank-plans-to-launch-a-blockchain-based-cross-border-payments-service-on-JPMorgans-Kinexys-next-month-per-Yonhap",
+    "source": "@coinmarketcap",
+    "published": "Mon Jul 27 2026 19:41:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "UPDATE: The tokenized assets market has surged to $7.5 billion, more than tripling over the past year, according to CryptoRank.",
     "link": "https://cryptopanic.com/news/33107424/UPDATE-The-tokenized-assets-market-has-surged-to-75-billion-more-than-tripling-over-the-past-year-according-to-CryptoRank",
     "source": "@cointelegraph",
     "published": "Mon Jul 27 2026 19:40:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Shiba Inu Surged 27% as Burns Hit 365-Day High: What's Happening?",
+    "link": "https://cryptopanic.com/news/33107434/Shiba-Inu-Surged-27-as-Burns-Hit-365-Day-High-Whats-Happening",
+    "source": "feeds2.benzinga.com",
+    "published": "Mon Jul 27 2026 19:35:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Apple sued over a fake wallet that drained $1.8M in Bitcoin\n\nThree plaintiffs filed in California on July 24, alleging an App Store listing impersonating Sparrow Wallet asked for their seed phrases and moved about $1.8M in Bitcoin to attacker addresses.\n\nSparrow is desktop only,",
+    "link": "https://cryptopanic.com/news/33107442/Apple-sued-over-a-fake-wallet-that-drained-18M-in-Bitcoin-Three-plaintiffs-filed-in-California-on-July-24-alleging-an-App-Store-listing-impersonating-Sparrow-Wallet-asked-for-their-seed-phrases-and-moved-about-18M-in-Bitcoin-to-attacker-addresses-Sparrow-is-desktop-only",
+    "source": "@bscnews",
+    "published": "Mon Jul 27 2026 19:31:30 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33107369/Why-Two-BlackRock-Competitors-Told-Clients-to-Buy-It",
     "source": "beincrypto.com",
     "published": "Mon Jul 27 2026 19:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "South Korea's POSCO Puts Real Invoices Onchain in Injective Tokenisation Pilot",
-    "link": "https://cryptopanic.com/news/33107249/South-Koreas-POSCO-Puts-Real-Invoices-Onchain-in-Injective-Tokenisation-Pilot",
-    "source": "coinpaprika.com",
-    "published": "Mon Jul 27 2026 19:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "El Salvador's Bitcoin reserve heads into an election\n\nThe government's tracker puts holdings near 7,730 bitcoin:native, worth roughly $502M with Bitcoin at $64,916. February's vote decides whether that number keeps climbing.\n\nARENA named former lawmaker Maytee Iraheta alongside",
-    "link": "https://cryptopanic.com/news/33107302/El-Salvadors-Bitcoin-reserve-heads-into-an-election-The-governments-tracker-puts-holdings-near-7730-bitcoinnative-worth-roughly-502M-with-Bitcoin-at-64916-Februarys-vote-decides-whether-that-number-keeps-climbing-ARENA-named-former-lawmaker-Maytee-Iraheta-alongside",
-    "source": "@bscnews",
-    "published": "Mon Jul 27 2026 18:59:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SCOOP: @Uphold cuts 17% of its global workforce, pivoting away from retail crypto trading toward its enterprise business.\n\n@willcanny99 reports.",
-    "link": "https://cryptopanic.com/news/33107240/SCOOP-Uphold-cuts-17-of-its-global-workforce-pivoting-away-from-retail-crypto-trading-toward-its-enterprise-business-willcanny99-reports",
-    "source": "@coindesk",
-    "published": "Mon Jul 27 2026 18:56:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin, Ethereum, XRP, Dogecoin Pull Back as Traders Position Ahead of Wednesday's FOMC",
-    "link": "https://cryptopanic.com/news/33107290/Bitcoin-Ethereum-XRP-Dogecoin-Pull-Back-as-Traders-Position-Ahead-of-Wednesdays-FOMC",
-    "source": "feeds2.benzinga.com",
-    "published": "Mon Jul 27 2026 18:53:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ondo Finance Unveils the Ondo Network",
-    "link": "https://cryptopanic.com/news/33107230/Ondo-Finance-Unveils-the-Ondo-Network",
-    "source": "bankless.com",
-    "published": "Mon Jul 27 2026 18:53:43 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
