@@ -1,5 +1,61 @@
 [
   {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33109195/Source",
+    "source": "@wublockchain",
+    "published": "Tue Jul 28 2026 03:07:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Stablecoin Market Shrinks $7.7 Billion in June, Biggest Drop Since Terra\n\nThe stablecoin market lost USD 7.7 billion in June, its largest monthly decline since the Terra-Luna collapse in May 2022, bringing total capitalization down roughly USD 10 billion from its May peak to",
+    "link": "https://cryptopanic.com/news/33109194/Stablecoin-Market-Shrinks-77-Billion-in-June-Biggest-Drop-Since-Terra-The-stablecoin-market-lost-USD-77-billion-in-June-its-largest-monthly-decline-since-the-Terra-Luna-collapse-in-May-2022-bringing-total-capitalization-down-roughly-USD-10-billion-from-its-May-peak-to",
+    "source": "@wublockchain",
+    "published": "Tue Jul 28 2026 03:06:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Why Young Americans Are Falling Behind",
+    "link": "https://cryptopanic.com/news/33109212/Why-Young-Americans-Are-Falling-Behind",
+    "source": "AnthonyPompliano",
+    "published": "Tue Jul 28 2026 03:02:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "️ Need to catch up on the news? Here's our top 10 from today:\n\n South Korea's KOSPI plunges over 8% on a tech sell-off, triggering a 20-minute circuit breaker, the seventh this year.\n\n Ondo Finance introduces the Ondo Network, a new execution layer for financial markets",
+    "link": "https://cryptopanic.com/news/33109199/Need-to-catch-up-on-the-news-Heres-our-top-10-from-today-South-Koreas-KOSPI-plunges-over-8-on-a-tech-sell-off-triggering-a-20-minute-circuit-breaker-the-seventh-this-year-Ondo-Finance-introduces-the-Ondo-Network-a-new-execution-layer-for-financial-markets",
+    "source": "@cointelegraph",
+    "published": "Tue Jul 28 2026 03:00:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tori Finance Launches strUSD Yield Token Backed by Delta-Neutral Strategy",
+    "link": "https://cryptopanic.com/news/33109133/Tori-Finance-Launches-strUSD-Yield-Token-Backed-by-Delta-Neutral-Strategy",
+    "source": "square.binance.com",
+    "published": "Tue Jul 28 2026 02:53:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hyperliquid and Multicoin Back CFTC Prediction Market Framework",
+    "link": "https://cryptopanic.com/news/33109132/Hyperliquid-and-Multicoin-Back-CFTC-Prediction-Market-Framework",
+    "source": "square.binance.com",
+    "published": "Tue Jul 28 2026 02:53:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "China's NDRC Says China-Europe Freight Trains Cut AC Shipping Time to 15 Days",
+    "link": "https://cryptopanic.com/news/33109131/Chinas-NDRC-Says-China-Europe-Freight-Trains-Cut-AC-Shipping-Time-to-15-Days",
+    "source": "square.binance.com",
+    "published": "Tue Jul 28 2026 02:53:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Longxin Borch Signs 4.5 Billion Yuan Long-Term Supply Deal",
+    "link": "https://cryptopanic.com/news/33109130/Longxin-Borch-Signs-45-Billion-Yuan-Long-Term-Supply-Deal",
+    "source": "square.binance.com",
+    "published": "Tue Jul 28 2026 02:52:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Japan's Finance Minister Satsuki Katayama Says Communication With Bond Market Is Needed Before Budget Drafting",
     "link": "https://cryptopanic.com/news/33109129/Japans-Finance-Minister-Satsuki-Katayama-Says-Communication-With-Bond-Market-Is-Needed-Before-Budget-Drafting",
     "source": "square.binance.com",
@@ -28,10 +84,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Cardano’s Hoskinson Says ‘Best Days Are Ahead’: ADA Price Down 95% From Top",
+    "link": "https://cryptopanic.com/news/33109186/Cardanos-Hoskinson-Says-Best-Days-Are-Ahead-ADA-Price-Down-95-From-Top",
+    "source": "beincrypto.com",
+    "published": "Tue Jul 28 2026 02:41:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "STOCKS | Yanshan Technology Leads Net Inflows Among Top 10 Major Capital-Movement Stocks",
     "link": "https://cryptopanic.com/news/33109125/STOCKS-Yanshan-Technology-Leads-Net-Inflows-Among-Top-10-Major-Capital-Movement-Stocks",
     "source": "square.binance.com",
     "published": "Tue Jul 28 2026 02:41:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 NEW: Citadel Securities expects a surprise Fed rate hike this week, bolstering Chairman Kevin Warsh's inflation-fighting credibility.",
+    "link": "https://cryptopanic.com/news/33109198/NEW-Citadel-Securities-expects-a-surprise-Fed-rate-hike-this-week-bolstering-Chairman-Kevin-Warshs-inflation-fighting-credibility",
+    "source": "@cointelegraph",
+    "published": "Tue Jul 28 2026 02:40:39 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/33109112/STOCKS-Chow-Tai-Seng-Says-Terminal-Gold-Jewelry-Operations-Have-Remained-Stable-Recently",
     "source": "square.binance.com",
     "published": "Tue Jul 28 2026 02:19:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "STOCKS | Japan, South Korea Shares Fall On Nvidia AI Trade And China Chip Competition Fears",
-    "link": "https://cryptopanic.com/news/33109111/STOCKS-Japan-South-Korea-Shares-Fall-On-Nvidia-AI-Trade-And-China-Chip-Competition-Fears",
-    "source": "square.binance.com",
-    "published": "Tue Jul 28 2026 02:18:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: ️ Securitize subsidiary Securitize Capital has registered with the SEC as an investment adviser, adding to Securitize's existing broker-dealer, ATS, and transfer agent registrations.",
-    "link": "https://cryptopanic.com/news/33108847/LATEST-Securitize-subsidiary-Securitize-Capital-has-registered-with-the-SEC-as-an-investment-adviser-adding-to-Securitizes-existing-broker-dealer-ATS-and-transfer-agent-registrations",
-    "source": "@coinmarketcap",
-    "published": "Tue Jul 28 2026 02:17:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33108850/Source",
-    "source": "@wublockchain",
-    "published": "Tue Jul 28 2026 02:16:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "KOSPI Trading Halted After 8% Plunge as SK Hynix ADR Falls Below $140\n\nSouth Korea halted trading in KOSPI-listed shares for 20 minutes on July 28 after the benchmark index fell more than 8%, marking its eighth circuit-breaker activation of 2026. \n\nSK Hynix’s U.S.-listed ADR,",
-    "link": "https://cryptopanic.com/news/33108848/KOSPI-Trading-Halted-After-8-Plunge-as-SK-Hynix-ADR-Falls-Below-140-South-Korea-halted-trading-in-KOSPI-listed-shares-for-20-minutes-on-July-28-after-the-benchmark-index-fell-more-than-8-marking-its-eighth-circuit-breaker-activation-of-2026-SK-Hynixs-US-listed-ADR",
-    "source": "@wublockchain",
-    "published": "Tue Jul 28 2026 02:16:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AI Robotics Company Enigma Raises $71 Million Seed Round",
-    "link": "https://cryptopanic.com/news/33109110/AI-Robotics-Company-Enigma-Raises-71-Million-Seed-Round",
-    "source": "square.binance.com",
-    "published": "Tue Jul 28 2026 02:13:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "X Money Rolls Out Service to U.S. Premium and Premium+ Subscribers",
-    "link": "https://cryptopanic.com/news/33109109/X-Money-Rolls-Out-Service-to-US-Premium-and-Premium-Subscribers",
-    "source": "square.binance.com",
-    "published": "Tue Jul 28 2026 02:13:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin, Ethereum, XRP, Dogecoin Plummet Even as SEC Chair Paul Atkins Sees Crypto Bill Advancing: Analyst Says BTC's Big Move 'Just Around the Corner'",
-    "link": "https://cryptopanic.com/news/33108840/Bitcoin-Ethereum-XRP-Dogecoin-Plummet-Even-as-SEC-Chair-Paul-Atkins-Sees-Crypto-Bill-Advancing-Analyst-Says-BTCs-Big-Move-Just-Around-the-Corner",
-    "source": "feeds2.benzinga.com",
-    "published": "Tue Jul 28 2026 02:13:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tom Lee Says AI Capex Fear Is A Bullish Sign",
-    "link": "https://cryptopanic.com/news/33109108/Tom-Lee-Says-AI-Capex-Fear-Is-A-Bullish-Sign",
-    "source": "square.binance.com",
-    "published": "Tue Jul 28 2026 02:08:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Arthur Hayes Buys $6.39M More Ethereum, Then the ETH Market Starts to Tumble",
-    "link": "https://cryptopanic.com/news/33108842/Arthur-Hayes-Buys-639M-More-Ethereum-Then-the-ETH-Market-Starts-to-Tumble",
-    "source": "beincrypto.com",
-    "published": "Tue Jul 28 2026 02:07:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BYD Adds Electric Mini Car in Japan Challenge",
-    "link": "https://cryptopanic.com/news/33109107/BYD-Adds-Electric-Mini-Car-in-Japan-Challenge",
-    "source": "square.binance.com",
-    "published": "Tue Jul 28 2026 02:06:47 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
