@@ -1,9 +1,72 @@
 [
   {
+    "title": "INTEL: The Tasnim News, an outlet affiliated with Iran’s IRGC have been suspended on X.",
+    "link": "https://cryptopanic.com/news/33121978/INTEL-The-Tasnim-News-an-outlet-affiliated-with-Irans-IRGC-have-been-suspended-on-X",
+    "source": "@solidintel_x",
+    "published": "Wed Jul 29 2026 21:44:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$11M Bitcoin by 2036? \n\n@rkbaggs sits down with Joe Burnett (@IIICapital), VP of Bitcoin Strategy at @Strive, to break down the bull case, treasury companies, and why Bitcoin’s biggest move could still be ahead.\n\n#CHAINREACTION",
+    "link": "https://cryptopanic.com/news/33122012/11M-Bitcoin-by-2036-rkbaggs-sits-down-with-Joe-Burnett-IIICapital-VP-of-Bitcoin-Strategy-at-Strive-to-break-down-the-bull-case-treasury-companies-and-why-Bitcoins-biggest-move-could-still-be-ahead-CHAINREACTION",
+    "source": "@cointelegraph",
+    "published": "Wed Jul 29 2026 21:40:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Robinhood Q2 Revenue Hits Record $1.31 Billion as Event Contract Revenue Surges More Than 10x\n\nRobinhood’s second-quarter net revenue rose 32% year-over-year to a record $1.31 billion, while net income increased 48% to $573 million and diluted EPS reached $0.62. Transaction-based",
+    "link": "https://cryptopanic.com/news/33122006/Robinhood-Q2-Revenue-Hits-Record-131-Billion-as-Event-Contract-Revenue-Surges-More-Than-10x-Robinhoods-second-quarter-net-revenue-rose-32-year-over-year-to-a-record-131-billion-while-net-income-increased-48-to-573-million-and-diluted-EPS-reached-062-Transaction-based",
+    "source": "@wublockchain",
+    "published": "Wed Jul 29 2026 21:39:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "COINDESK HEADLINES: Fed holds rates steady, extending pause as markets await Kevin Warsh's policy roadmap.\n\nPresented by @Bullish.",
+    "link": "https://cryptopanic.com/news/33122010/COINDESK-HEADLINES-Fed-holds-rates-steady-extending-pause-as-markets-await-Kevin-Warshs-policy-roadmap-Presented-by-Bullish",
+    "source": "@coindesk",
+    "published": "Wed Jul 29 2026 21:38:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INSIGHT: Peter Schiff says Kevin Warsh has refused to use interest rates or the Fed’s balance sheet to fight inflation.",
+    "link": "https://cryptopanic.com/news/33122011/INSIGHT-Peter-Schiff-says-Kevin-Warsh-has-refused-to-use-interest-rates-or-the-Feds-balance-sheet-to-fight-inflation",
+    "source": "@cointelegraph",
+    "published": "Wed Jul 29 2026 21:30:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: 🇺🇸 SpaceX $SPCX awarded $1.6 billion US Space Force contract.",
     "link": "https://cryptopanic.com/news/33121979/JUST-IN-SpaceX-SPCX-awarded-16-billion-US-Space-Force-contract",
     "source": "@watcherguru",
     "published": "Wed Jul 29 2026 21:30:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Vanguard fund adds millions to Peter Thiel-backed company",
+    "link": "https://cryptopanic.com/news/33121990/Vanguard-fund-adds-millions-to-Peter-Thiel-backed-company",
+    "source": "thestreet.com",
+    "published": "Wed Jul 29 2026 21:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 Billionaire Jack Dorsey's 'Block' sends letter urging US Senate to pass the crypto Clarity Act.",
+    "link": "https://cryptopanic.com/news/33122008/JUST-IN-Billionaire-Jack-Dorseys-Block-sends-letter-urging-US-Senate-to-pass-the-crypto-Clarity-Act",
+    "source": "@cryptonwsuk",
+    "published": "Wed Jul 29 2026 21:25:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: Korean retail investors have now lost an estimated $38.7 billion (₩56 trillion) on leveraged products, per Citi.",
+    "link": "https://cryptopanic.com/news/33122007/LATEST-Korean-retail-investors-have-now-lost-an-estimated-387-billion-56-trillion-on-leveraged-products-per-Citi",
+    "source": "@cryptonwsuk",
+    "published": "Wed Jul 29 2026 21:21:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Fed Chair Kevin Warsh says the FOMC's decision to hold rates came by a 9-3 vote, citing \"impressive resilience\" and \"solid growth\" while noting inflation remains elevated.",
+    "link": "https://cryptopanic.com/news/33122004/LATEST-Fed-Chair-Kevin-Warsh-says-the-FOMCs-decision-to-hold-rates-came-by-a-9-3-vote-citing-impressive-resilience-and-solid-growth-while-noting-inflation-remains-elevated",
+    "source": "@coinmarketcap",
+    "published": "Wed Jul 29 2026 21:17:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -144,69 +207,6 @@
     "link": "https://cryptopanic.com/news/33121706/Fed-and-the-bond-market-not-agreeing-you-will-get-hikes-Warsh-between-a-rock-and-a-hard-place-here",
     "source": "@realallincrypto",
     "published": "Wed Jul 29 2026 20:36:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: Robinhood beats Q2 estimates\n\nEPS: +48% YoY\nRevenue: +32% YoY\n\nRobinhood Gold subscribers hit 4.8M, up 39% YoY, while ARPU reached a record $187, up 24%\n\n$HOOD",
-    "link": "https://cryptopanic.com/news/33121785/INTEL-Robinhood-beats-Q2-estimates-EPS-48-YoY-Revenue-32-YoY-Robinhood-Gold-subscribers-hit-48M-up-39-YoY-while-ARPU-reached-a-record-187-up-24-HOOD",
-    "source": "@solidintel_x",
-    "published": "Wed Jul 29 2026 20:34:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Microsoft Crushes Q4 as Azure Growth Fuels AI Boom, How Should Traders Position?",
-    "link": "https://cryptopanic.com/news/33121783/Microsoft-Crushes-Q4-as-Azure-Growth-Fuels-AI-Boom-How-Should-Traders-Position",
-    "source": "beincrypto.com",
-    "published": "Wed Jul 29 2026 20:32:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: $META shares fell about 5% in after-hours trading after reporting Q2 earnings that missed Wall Street's profit expectations.",
-    "link": "https://cryptopanic.com/news/33121624/NEW-META-shares-fell-about-5-in-after-hours-trading-after-reporting-Q2-earnings-that-missed-Wall-Streets-profit-expectations",
-    "source": "@coindesk",
-    "published": "Wed Jul 29 2026 20:31:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "A New Kind of Bitcoin ETF Is Here—And It Doesn't Just Buy BTC",
-    "link": "https://cryptopanic.com/news/33121702/A-New-Kind-of-Bitcoin-ETF-Is-HereAnd-It-Doesnt-Just-Buy-BTC",
-    "source": "feeds2.benzinga.com",
-    "published": "Wed Jul 29 2026 20:31:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BIG: The 30-year U.S. Treasury yield has climbed to its highest level since 2007.",
-    "link": "https://cryptopanic.com/news/33121627/BIG-The-30-year-US-Treasury-yield-has-climbed-to-its-highest-level-since-2007",
-    "source": "@cointelegraph",
-    "published": "Wed Jul 29 2026 20:30:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BTC Is The ULTIMATE Money Game Changer?!",
-    "link": "https://cryptopanic.com/news/33121682/BTC-Is-The-ULTIMATE-Money-Game-Changer",
-    "source": "SimplyBitcoin",
-    "published": "Wed Jul 29 2026 20:30:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "WATCH: US Federal Reserve Chairman Kevin Warsh said the dissenting votes at the latest monetary policy meeting are a sign of a good policymaking process, adding, ‘there was a large majority support for the decision that we made in the room’",
-    "link": "https://cryptopanic.com/news/33121629/WATCH-US-Federal-Reserve-Chairman-Kevin-Warsh-said-the-dissenting-votes-at-the-latest-monetary-policy-meeting-are-a-sign-of-a-good-policymaking-process-adding-there-was-a-large-majority-support-for-the-decision-that-we-made-in-the-room",
-    "source": "@reutersbiz",
-    "published": "Wed Jul 29 2026 20:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "TODAY: A pilot experiencing engine failure in California landed the plane on a beach.",
-    "link": "https://cryptopanic.com/news/33121623/TODAY-A-pilot-experiencing-engine-failure-in-California-landed-the-plane-on-a-beach",
-    "source": "@cryptonwsuk",
-    "published": "Wed Jul 29 2026 20:29:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Senator Cynthia Lummis' X account was compromised. Do not engage!",
-    "link": "https://cryptopanic.com/news/33121710/Senator-Cynthia-Lummis-X-account-was-compromised-Do-not-engage",
-    "source": "@bscnews",
-    "published": "Wed Jul 29 2026 20:26:19 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
