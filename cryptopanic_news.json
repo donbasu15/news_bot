@@ -1,5 +1,47 @@
 [
   {
+    "title": "Lufthansa, Air France-KLM file binding offers for Portugal's TAP, Bloomberg reports",
+    "link": "https://cryptopanic.com/news/33121856/Lufthansa-Air-France-KLM-file-binding-offers-for-Portugals-TAP-Bloomberg-reports",
+    "source": "@reutersbiz",
+    "published": "Wed Jul 29 2026 21:15:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Robinhood’s prediction markets top crypto and equities revenue in Q2",
+    "link": "https://cryptopanic.com/news/33121859/Robinhoods-prediction-markets-top-crypto-and-equities-revenue-in-Q2",
+    "source": "theblock.co",
+    "published": "Wed Jul 29 2026 21:14:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "WATCH: Robinhood Sets Record Trading Volumes in Q2.",
+    "link": "https://cryptopanic.com/news/33121853/WATCH-Robinhood-Sets-Record-Trading-Volumes-in-Q2",
+    "source": "@coindesk",
+    "published": "Wed Jul 29 2026 21:09:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INSIGHT: Historically, Bitcoin bear markets have lasted an average of 383 days, per River.",
+    "link": "https://cryptopanic.com/news/33121854/INSIGHT-Historically-Bitcoin-bear-markets-have-lasted-an-average-of-383-days-per-River",
+    "source": "@cointelegraph",
+    "published": "Wed Jul 29 2026 21:00:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 Billionaire Jack Dorsey's 'Block' sends letter urging US Senate to pass the crypto Clarity Act.",
+    "link": "https://cryptopanic.com/news/33121792/JUST-IN-Billionaire-Jack-Dorseys-Block-sends-letter-urging-US-Senate-to-pass-the-crypto-Clarity-Act",
+    "source": "@watcherguru",
+    "published": "Wed Jul 29 2026 20:59:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: JACK DORSEY’S BLOCK URGES SENATE TO APPROVE THE CLARITY ACT 🟩️\n\n“Strong safeguards against crime and enhancing responsible innovation are not competing goals.” \n\n “Service providers who do not custody assets should not be considered money transmitters.”",
+    "link": "https://cryptopanic.com/news/33121795/JUST-IN-JACK-DORSEYS-BLOCK-URGES-SENATE-TO-APPROVE-THE-CLARITY-ACT-Strong-safeguards-against-crime-and-enhancing-responsible-innovation-are-not-competing-goals-Service-providers-who-do-not-custody-assets-should-not-be-considered-money-transmitters",
+    "source": "@btc_archive",
+    "published": "Wed Jul 29 2026 20:58:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: 🇺🇸 American financial technology Block officially endorses passing the Clarity Act:\n\n\"I'm writing to express our strong support for the Digital Asset Market (Clarity) Act, and to respectfully urge Senate floor consideration of this bill.\"",
     "link": "https://cryptopanic.com/news/33121791/JUST-IN-American-financial-technology-Block-officially-endorses-passing-the-Clarity-Act-Im-writing-to-express-our-strong-support-for-the-Digital-Asset-Market-Clarity-Act-and-to-respectfully-urge-Senate-floor-consideration-of-this-bill",
     "source": "@bitcoinmagazine",
@@ -28,10 +70,31 @@
     "sentiment": "neutral"
   },
   {
+    "title": "LATEST: ️ Binance launched options on gold and silver, giving traders European-style contracts as the exchange continues to expand its TradFi product lineup.",
+    "link": "https://cryptopanic.com/news/33121851/LATEST-Binance-launched-options-on-gold-and-silver-giving-traders-European-style-contracts-as-the-exchange-continues-to-expand-its-TradFi-product-lineup",
+    "source": "@coinmarketcap",
+    "published": "Wed Jul 29 2026 20:41:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Researchers pitch quantum fix that keeps existing Bitcoin addresses\n\nResearchers at Wyoming-based AmericanFortress (@Americanfort_io) have proposed ZKPoSP, a scheme that swaps elliptic curve signatures for zero-knowledge proofs of seed phrase ownership. It aims for quantum",
     "link": "https://cryptopanic.com/news/33121711/Researchers-pitch-quantum-fix-that-keeps-existing-Bitcoin-addresses-Researchers-at-Wyoming-based-AmericanFortress-Americanfort_io-have-proposed-ZKPoSP-a-scheme-that-swaps-elliptic-curve-signatures-for-zero-knowledge-proofs-of-seed-phrase-ownership-It-aims-for-quantum",
     "source": "@bscnews",
     "published": "Wed Jul 29 2026 20:41:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Robinhood slides 4% despite earnings beat as crypto revenue cools",
+    "link": "https://cryptopanic.com/news/33121855/Robinhood-slides-4-despite-earnings-beat-as-crypto-revenue-cools",
+    "source": "coindesk.com",
+    "published": "Wed Jul 29 2026 20:40:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: @RobinhoodApp CEO Vlad Tenev says Robinhood hit all-time highs in trading volumes across equities, options and prediction markets in Q2.",
+    "link": "https://cryptopanic.com/news/33121852/JUST-IN-RobinhoodApp-CEO-Vlad-Tenev-says-Robinhood-hit-all-time-highs-in-trading-volumes-across-equities-options-and-prediction-markets-in-Q2",
+    "source": "@coindesk",
+    "published": "Wed Jul 29 2026 20:38:59 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -144,69 +207,6 @@
     "link": "https://cryptopanic.com/news/33121794/THERES-AN-INFINITE-AMOUNT-OF-CASH-AT-THE-FEDERAL-RESERVE-OPT-OUT-BUY-BITCOIN",
     "source": "@btc_archive",
     "published": "Wed Jul 29 2026 20:22:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stocks slide as bond market calls Warsh's bluff\n\nThe Dow dropped more than 840 points today after the Fed's 9-3 hold, with the 30-year Treasury yield jumping 9 basis points to 5.19%, just under the two-decade high it set in May.\n\nWarsh said the Fed \"will not hesitate to act.\" The",
-    "link": "https://cryptopanic.com/news/33121709/Stocks-slide-as-bond-market-calls-Warshs-bluff-The-Dow-dropped-more-than-840-points-today-after-the-Feds-9-3-hold-with-the-30-year-Treasury-yield-jumping-9-basis-points-to-519-just-under-the-two-decade-high-it-set-in-May-Warsh-said-the-Fed-will-not-hesitate-to-act-The",
-    "source": "@bscnews",
-    "published": "Wed Jul 29 2026 20:22:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$592 Million Asset Manager Reveals New XRP ETF Position",
-    "link": "https://cryptopanic.com/news/33121630/592-Million-Asset-Manager-Reveals-New-XRP-ETF-Position",
-    "source": "u.today",
-    "published": "Wed Jul 29 2026 20:18:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "P2P automated process to win over rivals for your ads",
-    "link": "https://cryptopanic.com/news/33121588/P2P-automated-process-to-win-over-rivals-for-your-ads",
-    "source": "r/binance",
-    "published": "Wed Jul 29 2026 20:17:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: $META crashes 9% after reporting $60.8 billion in revenue for Q2 2026 while over $1 trillion wiped out from the US stock market today",
-    "link": "https://cryptopanic.com/news/33121784/INTEL-META-crashes-9-after-reporting-608-billion-in-revenue-for-Q2-2026-while-over-1-trillion-wiped-out-from-the-US-stock-market-today",
-    "source": "@solidintel_x",
-    "published": "Wed Jul 29 2026 20:15:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Meta Revenue Beats, But AI Spending Crushes Profit Margins: Will the Stock Surge?",
-    "link": "https://cryptopanic.com/news/33121781/Meta-Revenue-Beats-But-AI-Spending-Crushes-Profit-Margins-Will-the-Stock-Surge",
-    "source": "beincrypto.com",
-    "published": "Wed Jul 29 2026 20:15:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: $META crashes 9% after reporting $60.8 billion in revenue for Q2 2026.",
-    "link": "https://cryptopanic.com/news/33121545/JUST-IN-META-crashes-9-after-reporting-608-billion-in-revenue-for-Q2-2026",
-    "source": "@watcherguru",
-    "published": "Wed Jul 29 2026 20:13:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BIG: The U.S. stock market erased $1.2 trillion in market value today.",
-    "link": "https://cryptopanic.com/news/33121626/BIG-The-US-stock-market-erased-12-trillion-in-market-value-today",
-    "source": "@cointelegraph",
-    "published": "Wed Jul 29 2026 20:13:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Just In: Binance US Plans to Apply for CFTC DCM Status to Offer Prediction Markets\n\nCrypto journalist Eleanor Terrett reported that Binance US plans to apply to the CFTC in August for designated contract market status, with the goal of offering prediction markets to customers.",
-    "link": "https://cryptopanic.com/news/33121621/Just-In-Binance-US-Plans-to-Apply-for-CFTC-DCM-Status-to-Offer-Prediction-Markets-Crypto-journalist-Eleanor-Terrett-reported-that-Binance-US-plans-to-apply-to-the-CFTC-in-August-for-designated-contract-market-status-with-the-goal-of-offering-prediction-markets-to-customers",
-    "source": "@wublockchain",
-    "published": "Wed Jul 29 2026 20:10:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "South Korea unveils public-private AIDC Alliance in data center market share push",
-    "link": "https://cryptopanic.com/news/33121582/South-Korea-unveils-public-private-AIDC-Alliance-in-data-center-market-share-push",
-    "source": "cryptopolitan.com",
-    "published": "Wed Jul 29 2026 20:09:15 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
