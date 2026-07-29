@@ -1,5 +1,33 @@
 [
   {
+    "title": "Bitcoin Miner Ionic Digital Makes Nasdaq Debut, Pivots to AI Infrastructure",
+    "link": "https://cryptopanic.com/news/33116399/Bitcoin-Miner-Ionic-Digital-Makes-Nasdaq-Debut-Pivots-to-AI-Infrastructure",
+    "source": "www.blockhead.co",
+    "published": "Wed Jul 29 2026 04:07:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tom Lee Just Called Ethereum The Antidote To The Wealth Horror Valley",
+    "link": "https://cryptopanic.com/news/33116435/Tom-Lee-Just-Called-Ethereum-The-Antidote-To-The-Wealth-Horror-Valley",
+    "source": "TheCryptoLark",
+    "published": "Wed Jul 29 2026 04:00:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Traditional Finance Finds Blockchain’s Profit Engine",
+    "link": "https://cryptopanic.com/news/33116352/Traditional-Finance-Finds-Blockchains-Profit-Engine",
+    "source": "catenaa.com",
+    "published": "Wed Jul 29 2026 04:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Robinhood Chain Surpasses PumpFun's PumpSwap In Weekly Trading Volume\n\nRobinhood (@RobinhoodCrypto) Chain launchpads recorded $1.23 billion in trading volume over a period of seven days on July 28.\n\nThat narrowly surpassed PumpSwap, which processed about $1.22 billion during the",
+    "link": "https://cryptopanic.com/news/33116408/Robinhood-Chain-Surpasses-PumpFuns-PumpSwap-In-Weekly-Trading-Volume-Robinhood-RobinhoodCrypto-Chain-launchpads-recorded-123-billion-in-trading-volume-over-a-period-of-seven-days-on-July-28-That-narrowly-surpassed-PumpSwap-which-processed-about-122-billion-during-the",
+    "source": "@bscnews",
+    "published": "Wed Jul 29 2026 03:58:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "This is the 5th week that $MSTR has spent consolidating under the key ~$104 level.\n\nZooming in shows that MSTR has spent July in a roughly 15% range, which has been formed by Strategy selling when MSTR starts to rise and buyers stepping in when mNAV falls to around 1.00x.",
     "link": "https://cryptopanic.com/news/33116327/This-is-the-5th-week-that-MSTR-has-spent-consolidating-under-the-key-104-level-Zooming-in-shows-that-MSTR-has-spent-July-in-a-roughly-15-range-which-has-been-formed-by-Strategy-selling-when-MSTR-starts-to-rise-and-buyers-stepping-in-when-mNAV-falls-to-around-100x",
     "source": "@stackersatoshi",
@@ -46,6 +74,13 @@
     "link": "https://cryptopanic.com/news/33116346/ARK-Invest-Crypto-Consolidation-Bankruptcies-and-Shutdowns-to-Increase-in-Coming-Months-ARK-Invest-researcher-Lorenzo-Valente-said-the-crypto-industry-is-undergoing-a-deeper-consolidation-than-previous-bear-markets-with-capital-allocation-becoming-increasingly-concentrated-as",
     "source": "@wublockchain",
     "published": "Wed Jul 29 2026 03:40:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Pi Network Spotlights Slice Liquidity Model\n\nPi Network (@PiCoreTeam) says its Launchpad sends Pi proceeds from token launches into a liquidity pool.\n\nThe model pairs the ecosystem token with the project's token from day one.\n\nFor the SLICE test launch, the pool contains SLICE",
+    "link": "https://cryptopanic.com/news/33116407/Pi-Network-Spotlights-Slice-Liquidity-Model-Pi-Network-PiCoreTeam-says-its-Launchpad-sends-Pi-proceeds-from-token-launches-into-a-liquidity-pool-The-model-pairs-the-ecosystem-token-with-the-projects-token-from-day-one-For-the-SLICE-test-launch-the-pool-contains-SLICE",
+    "source": "@bscnews",
+    "published": "Wed Jul 29 2026 03:39:39 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33116218/Seagate-Posts-Beat-And-Raise-Quarterly-Results-as-Large-Capacity-Storage-Demand-Grows",
     "source": "square.binance.com",
     "published": "Wed Jul 29 2026 02:57:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "PRECIOUS METALS | Hong Kong Gold Imports Hit Decade High Before Clearing Launch",
-    "link": "https://cryptopanic.com/news/33116217/PRECIOUS-METALS-Hong-Kong-Gold-Imports-Hit-Decade-High-Before-Clearing-Launch",
-    "source": "square.binance.com",
-    "published": "Wed Jul 29 2026 02:56:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "China's EV Charging Infrastructure Reaches 23.057 Million Units by End-June",
-    "link": "https://cryptopanic.com/news/33116216/Chinas-EV-Charging-Infrastructure-Reaches-23057-Million-Units-by-End-June",
-    "source": "square.binance.com",
-    "published": "Wed Jul 29 2026 02:52:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Moonshot AI Opens Kimi K3 Weights, Adds 1M-Token Context and Agent Infrastructure",
-    "link": "https://cryptopanic.com/news/33116215/Moonshot-AI-Opens-Kimi-K3-Weights-Adds-1M-Token-Context-and-Agent-Infrastructure",
-    "source": "square.binance.com",
-    "published": "Wed Jul 29 2026 02:52:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Japan Tax Panel Chair Reiterates 1% Food Tax Proposal",
-    "link": "https://cryptopanic.com/news/33116214/Japan-Tax-Panel-Chair-Reiterates-1-Food-Tax-Proposal",
-    "source": "square.binance.com",
-    "published": "Wed Jul 29 2026 02:48:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "STOCKS | South Korean Stocks Fall 6% as Finance Minister Says Market-Stabilizing Measures Are Under Review",
-    "link": "https://cryptopanic.com/news/33116213/STOCKS-South-Korean-Stocks-Fall-6-as-Finance-Minister-Says-Market-Stabilizing-Measures-Are-Under-Review",
-    "source": "square.binance.com",
-    "published": "Wed Jul 29 2026 02:48:22 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
