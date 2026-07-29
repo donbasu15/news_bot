@@ -1,5 +1,61 @@
 [
   {
+    "title": "US senator calls CZ \"CJ\" at 1:48:08",
+    "link": "https://cryptopanic.com/news/33118422/US-senator-calls-CZ-CJ-at-14808",
+    "source": "r/binance",
+    "published": "Wed Jul 29 2026 10:51:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: TradFi perpetual open interest has more than doubled to over $2B since May, with Binance commanding roughly 35% of the market, per CryptoQuant.",
+    "link": "https://cryptopanic.com/news/33118389/LATEST-TradFi-perpetual-open-interest-has-more-than-doubled-to-over-2B-since-May-with-Binance-commanding-roughly-35-of-the-market-per-CryptoQuant",
+    "source": "@cointelegraph",
+    "published": "Wed Jul 29 2026 10:46:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Ahead of The Final Sell-Off – Then a Trend Reversal\n\n“Since the price has already reached the corresponding upper edge, the medium- to long-term probabilities of a cyclical trend reversal are increasing.” – By @STASolutions1",
+    "link": "https://cryptopanic.com/news/33118385/Bitcoin-Ahead-of-The-Final-Sell-Off-Then-a-Trend-Reversal-Since-the-price-has-already-reached-the-corresponding-upper-edge-the-medium-to-long-term-probabilities-of-a-cyclical-trend-reversal-are-increasing-By-STASolutions1",
+    "source": "@cryptoquant_com",
+    "published": "Wed Jul 29 2026 10:45:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Germany's financial watchdog to monitor AI use at banks and insurers",
+    "link": "https://cryptopanic.com/news/33118394/Germanys-financial-watchdog-to-monitor-AI-use-at-banks-and-insurers",
+    "source": "@reutersbiz",
+    "published": "Wed Jul 29 2026 10:45:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Dogecoin Co-Founder Billy Markus Revives Viral Vegas Loop Payment Memory",
+    "link": "https://cryptopanic.com/news/33118397/Dogecoin-Co-Founder-Billy-Markus-Revives-Viral-Vegas-Loop-Payment-Memory",
+    "source": "cryptonews.com",
+    "published": "Wed Jul 29 2026 10:45:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "South Korean chipmaker SK Hynix reported bumper quarterly results but fell short of lofty investor expectations, heightening market concerns about slower AI spending by big tech firms. Read more",
+    "link": "https://cryptopanic.com/news/33118393/South-Korean-chipmaker-SK-Hynix-reported-bumper-quarterly-results-but-fell-short-of-lofty-investor-expectations-heightening-market-concerns-about-slower-AI-spending-by-big-tech-firms-Read-more",
+    "source": "@reutersbiz",
+    "published": "Wed Jul 29 2026 10:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Central Bank of Russia Releases Draft Crypto Exchange Rules",
+    "link": "https://cryptopanic.com/news/33118362/Central-Bank-of-Russia-Releases-Draft-Crypto-Exchange-Rules",
+    "source": "coincu.com",
+    "published": "Wed Jul 29 2026 10:43:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Backpack Lists TRX For Spot and Perpetual Trading\n\n@Backpack has enabled spot and perpetual futures trading for @Trondao's $TRX, providing its global user base with direct access to Tron liquidity. \n\nThe integration allows institutional and retail participants to execute",
+    "link": "https://cryptopanic.com/news/33118447/Backpack-Lists-TRX-For-Spot-and-Perpetual-Trading-Backpack-has-enabled-spot-and-perpetual-futures-trading-for-Trondaos-TRX-providing-its-global-user-base-with-direct-access-to-Tron-liquidity-The-integration-allows-institutional-and-retail-participants-to-execute",
+    "source": "@bscnews",
+    "published": "Wed Jul 29 2026 10:40:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "A $1.9 Trillion Retirement Manager Enters XRP ETFs",
     "link": "https://cryptopanic.com/news/33118359/A-19-Trillion-Retirement-Manager-Enters-XRP-ETFs",
     "source": "dailycoin.com",
@@ -14,6 +70,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "We Asked Genspark AI For A BSCN Mascot And Got This\n\nWe asked Genspark AI (@genspark_ai) to create an image showing what a BSCN mascot could look like.\n\nThis is what the AI came up with....\n\nLast month, Genspark extended its Series B to $485 million at a $2.6 billion valuation.",
+    "link": "https://cryptopanic.com/news/33118446/We-Asked-Genspark-AI-For-A-BSCN-Mascot-And-Got-This-We-asked-Genspark-AI-genspark_ai-to-create-an-image-showing-what-a-BSCN-mascot-could-look-like-This-is-what-the-AI-came-up-with-Last-month-Genspark-extended-its-Series-B-to-485-million-at-a-26-billion-valuation",
+    "source": "@bscnews",
+    "published": "Wed Jul 29 2026 10:35:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "XRP Price Prediction: Bulls Defend the Breakout as $1.10 Breakout Comes Into Focus",
     "link": "https://cryptopanic.com/news/33118319/XRP-Price-Prediction-Bulls-Defend-the-Breakout-as-110-Breakout-Comes-Into-Focus",
     "source": "coinpaper.com",
@@ -21,10 +84,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Solflare Just Made Bridging to Solana Seamless\n\n@Solflare officially launches \"Bridge,\" a new infrastructure powered by @Near_intents and @Auroraisnear to eliminate the technical friction of moving funds onto @Solana. \n\nThe system utilizes permanent deposit addresses for assets",
+    "link": "https://cryptopanic.com/news/33118445/Solflare-Just-Made-Bridging-to-Solana-Seamless-Solflare-officially-launches-Bridge-a-new-infrastructure-powered-by-Near_intents-and-Auroraisnear-to-eliminate-the-technical-friction-of-moving-funds-onto-Solana-The-system-utilizes-permanent-deposit-addresses-for-assets",
+    "source": "@bscnews",
+    "published": "Wed Jul 29 2026 10:31:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "UBS posts forecast-beating quarterly profit, flags $3 billion in new buybacks",
     "link": "https://cryptopanic.com/news/33118391/UBS-posts-forecast-beating-quarterly-profit-flags-3-billion-in-new-buybacks",
     "source": "@reutersbiz",
     "published": "Wed Jul 29 2026 10:30:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "What’s next for NFT protocol FWA? \n\nWe sat down with founder @Rhynotic for a deep dive into the mechanics of their buybacks, when they'll allow external token buys, and what happens at day 15 of emission",
+    "link": "https://cryptopanic.com/news/33118450/Whats-next-for-NFT-protocol-FWA-We-sat-down-with-founder-Rhynotic-for-a-deep-dive-into-the-mechanics-of-their-buybacks-when-theyll-allow-external-token-buys-and-what-happens-at-day-15-of-emission",
+    "source": "@decryptmedia",
+    "published": "Wed Jul 29 2026 10:30:01 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -39,6 +116,13 @@
     "link": "https://cryptopanic.com/news/33118384/LATEST-44-state-attorneys-general-wrote-to-the-CFTC-telling-the-agency-it-lacks-authority-to-regulate-sports-related-prediction-market-contracts-arguing-they-belong-under-state-law",
     "source": "@coinmarketcap",
     "published": "Wed Jul 29 2026 10:25:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Apple Sued After Fake iPhone Wallet App Drained $1.8M in Bitcoin",
+    "link": "https://cryptopanic.com/news/33118449/Apple-Sued-After-Fake-iPhone-Wallet-App-Drained-18M-in-Bitcoin",
+    "source": "@decryptmedia",
+    "published": "Wed Jul 29 2026 10:24:15 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -123,90 +207,6 @@
     "link": "https://cryptopanic.com/news/33118124/The-Bitcoin-Experiments-Five-Year-Report-Card-354-Million",
     "source": "www.blockhead.co",
     "published": "Wed Jul 29 2026 10:00:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Nasdaq is on track for its WORST July in 20+ years as AI continues to sell off!\n\nThis is particularly surprising as July is normally one of the strongest months for tech & risk assets in general. \n\n$QQQ is down over 8%, potentially heading to 9–10% before month end.",
-    "link": "https://cryptopanic.com/news/33118215/The-Nasdaq-is-on-track-for-its-WORST-July-in-20-years-as-AI-continues-to-sell-off-This-is-particularly-surprising-as-July-is-normally-one-of-the-strongest-months-for-tech-amp-risk-assets-in-general-QQQ-is-down-over-8-potentially-heading-to-910-before-month-end",
-    "source": "@realallincrypto",
-    "published": "Wed Jul 29 2026 10:00:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Your most humbling coin?",
-    "link": "https://cryptopanic.com/news/33118072/Your-most-humbling-coin",
-    "source": "@coinmarketcap",
-    "published": "Wed Jul 29 2026 10:00:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "WHY most people should just hold spot #Bitcoin #cryptonews #leveragetrading #cryptotwitter",
-    "link": "https://cryptopanic.com/news/33118213/WHY-most-people-should-just-hold-spot-Bitcoin-cryptonews-leveragetrading-cryptotwitter",
-    "source": "CoinGecko",
-    "published": "Wed Jul 29 2026 10:00:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Energy Crisis? How It Impacts Your Wallet!",
-    "link": "https://cryptopanic.com/news/33118179/Energy-Crisis-How-It-Impacts-Your-Wallet",
-    "source": "SimplyBitcoin",
-    "published": "Wed Jul 29 2026 10:00:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hormuz Oil Price Surge Shakes Markets",
-    "link": "https://cryptopanic.com/news/33118080/Hormuz-Oil-Price-Surge-Shakes-Markets",
-    "source": "catenaa.com",
-    "published": "Wed Jul 29 2026 10:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Fed Rate Decision: Hold Today, September in Play",
-    "link": "https://cryptopanic.com/news/33118082/Fed-Rate-Decision-Hold-Today-September-in-Play",
-    "source": "catenaa.com",
-    "published": "Wed Jul 29 2026 10:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Binance offers gold and silver options after commodity futures pull in billions in daily volume",
-    "link": "https://cryptopanic.com/news/33118347/Binance-offers-gold-and-silver-options-after-commodity-futures-pull-in-billions-in-daily-volume",
-    "source": "coindesk.com",
-    "published": "Wed Jul 29 2026 10:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Best AI Meeting Note Takers in 2026: Bots, Botless and What They Do With Your Data",
-    "link": "https://cryptopanic.com/news/33118130/Best-AI-Meeting-Note-Takers-in-2026-Bots-Botless-and-What-They-Do-With-Your-Data",
-    "source": "cryptopolitan.com",
-    "published": "Wed Jul 29 2026 10:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crude Oil Prices: Jump 3% as Hormuz Risk Lifts Brent and WTI",
-    "link": "https://cryptopanic.com/news/33118079/Crude-Oil-Prices-Jump-3-as-Hormuz-Risk-Lifts-Brent-and-WTI",
-    "source": "coinpaper.com",
-    "published": "Wed Jul 29 2026 09:58:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Hungary repeals its mandatory third-party validation rule for crypto conversions, and separately granted CoinCash operator Tiwala Solutions the country's first MiCA license, covering custody, exchange, transfers, and portfolio management.",
-    "link": "https://cryptopanic.com/news/33118075/NEW-Hungary-repeals-its-mandatory-third-party-validation-rule-for-crypto-conversions-and-separately-granted-CoinCash-operator-Tiwala-Solutions-the-countrys-first-MiCA-license-covering-custody-exchange-transfers-and-portfolio-management",
-    "source": "@coindesk",
-    "published": "Wed Jul 29 2026 09:53:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Machine learning algorithm sets BNB price for August 1, 2026",
-    "link": "https://cryptopanic.com/news/33118065/Machine-learning-algorithm-sets-BNB-price-for-August-1-2026",
-    "source": "finbold.com",
-    "published": "Wed Jul 29 2026 09:53:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🤖 Sam Altman says a third wave of AI is coming soon after chatbots and coding agents: \"persistent agents, chiefs of staff, co-workers, colleagues.\"",
-    "link": "https://cryptopanic.com/news/33118071/LATEST-Sam-Altman-says-a-third-wave-of-AI-is-coming-soon-after-chatbots-and-coding-agents-persistent-agents-chiefs-of-staff-co-workers-colleagues",
-    "source": "@coinmarketcap",
-    "published": "Wed Jul 29 2026 09:53:10 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
