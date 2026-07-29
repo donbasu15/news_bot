@@ -1,9 +1,184 @@
 [
   {
+    "title": "Does anyone have BNB on binance",
+    "link": "https://cryptopanic.com/news/33120458/Does-anyone-have-BNB-on-binance",
+    "source": "r/binance",
+    "published": "Wed Jul 29 2026 16:40:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Morgan Stanley is using $7.4 trillion in client assets and rock-bottom fees to hijack Wall Street’s crypto boom",
+    "link": "https://cryptopanic.com/news/33120464/Morgan-Stanley-is-using-74-trillion-in-client-assets-and-rock-bottom-fees-to-hijack-Wall-Streets-crypto-boom",
+    "source": "cryptoslate.com",
+    "published": "Wed Jul 29 2026 16:40:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "AI Book Burning? Companies Are Destroying Millions of Books to Feed Chatbots",
+    "link": "https://cryptopanic.com/news/33120459/AI-Book-Burning-Companies-Are-Destroying-Millions-of-Books-to-Feed-Chatbots",
+    "source": "decrypt.co",
+    "published": "Wed Jul 29 2026 16:38:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto had no shelter. BNB flat at +0.1%, ETH -0.9%, BTC -2.6% to $64,352.90, SOL worst at -5.1%.\n\nThe bitcoin ETF bid didn't fade, it inverted: net -$39.5M over seven sessions to 7/28, from +$981M a week earlier. IBIT alone shed $414.7M on 7/23-24 while the smaller vehicles kept",
+    "link": "https://cryptopanic.com/news/33120498/Crypto-had-no-shelter-BNB-flat-at-01-ETH-09-BTC-26-to-6435290-SOL-worst-at-51-The-bitcoin-ETF-bid-didnt-fade-it-inverted-net-395M-over-seven-sessions-to-728-from-981M-a-week-earlier-IBIT-alone-shed-4147M-on-723-24-while-the-smaller-vehicles-kept",
+    "source": "@coinmarketcap",
+    "published": "Wed Jul 29 2026 16:34:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The war premium deflated faster than it built. Brent -7.2% to $87.26, WTI -5.6%, nat gas -8.2%, group mean -3.6% after Iran signalled it would suspend attacks.\n\nCrude is still +43% YTD, so this is a premium deflating, not a bear market. Gas is -25.8% on its own mechanism: storage",
+    "link": "https://cryptopanic.com/news/33120497/The-war-premium-deflated-faster-than-it-built-Brent-72-to-8726-WTI-56-nat-gas-82-group-mean-36-after-Iran-signalled-it-would-suspend-attacks-Crude-is-still-43-YTD-so-this-is-a-premium-deflating-not-a-bear-market-Gas-is-258-on-its-own-mechanism-storage",
+    "source": "@coinmarketcap",
+    "published": "Wed Jul 29 2026 16:34:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Palantir -6.9%, Amazon -6.7%, Nvidia -5.0% in 7 days.\n\nThe shared driver was Nvidia's reported $250B backstop for OpenAI's Ohio debt. A financing structure, not a discount rate.\n\nIBM +8.1% was the lone gain in 7days: clients postponed its deals to lock in memory supply first. A",
+    "link": "https://cryptopanic.com/news/33120496/Palantir-69-Amazon-67-Nvidia-50-in-7-days-The-shared-driver-was-Nvidias-reported-250B-backstop-for-OpenAIs-Ohio-debt-A-financing-structure-not-a-discount-rate-IBM-81-was-the-lone-gain-in-7days-clients-postponed-its-deals-to-lock-in-memory-supply-first-A",
+    "source": "@coinmarketcap",
+    "published": "Wed Jul 29 2026 16:34:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Apple was the only gain and closed at an all-time high, +3.8% to $340.08. TSMC -7.6%, Amazon -6.7%, Nvidia -5.0%.",
+    "link": "https://cryptopanic.com/news/33120494/Apple-was-the-only-gain-and-closed-at-an-all-time-high-38-to-34008-TSMC-76-Amazon-67-Nvidia-50",
+    "source": "@coinmarketcap",
+    "published": "Wed Jul 29 2026 16:34:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "All ten Memory names closing at their lows. Kioxia -40.4%, SanDisk -31.0%, SK Hynix -21.9%. Group mean -22.3%.\n\nWhat moved was supply, not demand: domestic Chinese immersion DUV deliveries plus CXMT's debut (+466%).\n\nSanDisk is still +298% YTD.",
+    "link": "https://cryptopanic.com/news/33120495/All-ten-Memory-names-closing-at-their-lows-Kioxia-404-SanDisk-310-SK-Hynix-219-Group-mean-223-What-moved-was-supply-not-demand-domestic-Chinese-immersion-DUV-deliveries-plus-CXMTs-debut-466-SanDisk-is-still-298-YTD",
+    "source": "@coinmarketcap",
+    "published": "Wed Jul 29 2026 16:34:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: Strive says its balance sheet has grown 89% to $1.48 billion with zero debt since going public in September 2025, despite Bitcoin falling 44% over the same period.",
+    "link": "https://cryptopanic.com/news/33120507/LATEST-Strive-says-its-balance-sheet-has-grown-89-to-148-billion-with-zero-debt-since-going-public-in-September-2025-despite-Bitcoin-falling-44-over-the-same-period",
+    "source": "@cointelegraph",
+    "published": "Wed Jul 29 2026 16:30:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BMW will cut several thousand jobs in Germany by the end of 2027 ‌under a voluntary redundancy program, the latest German carmaker to axe staff in response to squeezed profits and weak demand. Read more",
+    "link": "https://cryptopanic.com/news/33120509/BMW-will-cut-several-thousand-jobs-in-Germany-by-the-end-of-2027-under-a-voluntary-redundancy-program-the-latest-German-carmaker-to-axe-staff-in-response-to-squeezed-profits-and-weak-demand-Read-more",
+    "source": "@reutersbiz",
+    "published": "Wed Jul 29 2026 16:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Does crypto have a future with Quantum threats everywhere",
+    "link": "https://cryptopanic.com/news/33120410/Does-crypto-have-a-future-with-Quantum-threats-everywhere",
+    "source": "r/binance",
+    "published": "Wed Jul 29 2026 16:29:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$59.8 billion SoFi Bank CEO says \"SoFi actively supports passing the CLARITY Act to set clear rules of the road.\"\n\n\"The time is now for everyone to get together to support this.\"\n\n\"Congress should pass it immediately. Let’s Go! 🇺🇸\"",
+    "link": "https://cryptopanic.com/news/33120403/598-billion-SoFi-Bank-CEO-says-SoFi-actively-supports-passing-the-CLARITY-Act-to-set-clear-rules-of-the-road-The-time-is-now-for-everyone-to-get-together-to-support-this-Congress-should-pass-it-immediately-Lets-Go",
+    "source": "@bitcoinmagazine",
+    "published": "Wed Jul 29 2026 16:27:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Morgan Stanley's $MSOL Debuts With $19M Trading Volume as Solana ETF Fee War Heats Up",
+    "link": "https://cryptopanic.com/news/33120047/Morgan-Stanleys-MSOL-Debuts-With-19M-Trading-Volume-as-Solana-ETF-Fee-War-Heats-Up",
+    "source": "solanafloor.com",
+    "published": "Wed Jul 29 2026 16:26:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: $ADA's Ouroboros Leios advances closer to mainnet, now surpassing 6,100 total updates. IOG is targeting a mainnet hard fork by the end of 2026. #Cardano Founder Charles Hoskinson says \"Leios is still on schedule.\"",
+    "link": "https://cryptopanic.com/news/33120504/JUST-IN-ADAs-Ouroboros-Leios-advances-closer-to-mainnet-now-surpassing-6100-total-updates-IOG-is-targeting-a-mainnet-hard-fork-by-the-end-of-2026-Cardano-Founder-Charles-Hoskinson-says-Leios-is-still-on-schedule",
+    "source": "@angrycryptoshow",
+    "published": "Wed Jul 29 2026 16:18:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "OpenAI's Rogue AI Hacked Four More Platforms Besides Hugging Face",
+    "link": "https://cryptopanic.com/news/33120343/OpenAIs-Rogue-AI-Hacked-Four-More-Platforms-Besides-Hugging-Face",
+    "source": "decrypt.co",
+    "published": "Wed Jul 29 2026 16:16:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Arbitrum Foundation expands Variational partnership\n\n@arbitrum is putting more weight behind perps. The Foundation and Variational (@variational_io) announced an expanded partnership today covering at least two more security audits by the end of Q3, sponsored gas fees for the",
+    "link": "https://cryptopanic.com/news/33120305/Arbitrum-Foundation-expands-Variational-partnership-arbitrum-is-putting-more-weight-behind-perps-The-Foundation-and-Variational-variational_io-announced-an-expanded-partnership-today-covering-at-least-two-more-security-audits-by-the-end-of-Q3-sponsored-gas-fees-for-the",
+    "source": "@bscnews",
+    "published": "Wed Jul 29 2026 16:16:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Santiment Intelligence says \"heading into the big US interest rate decision, $ADA is one of the clearest 24 hour standouts, up 6%.\"",
+    "link": "https://cryptopanic.com/news/33120503/JUST-IN-Santiment-Intelligence-says-heading-into-the-big-US-interest-rate-decision-ADA-is-one-of-the-clearest-24-hour-standouts-up-6",
+    "source": "@angrycryptoshow",
+    "published": "Wed Jul 29 2026 16:15:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 $800,000,000,000 wiped out from the US stock market in the first 3 hours of trading today.",
+    "link": "https://cryptopanic.com/news/33120404/JUST-IN-800000000000-wiped-out-from-the-US-stock-market-in-the-first-3-hours-of-trading-today",
+    "source": "@watcherguru",
+    "published": "Wed Jul 29 2026 16:15:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Midnight $NIGHT surpasses 80,250 unique holders on #Cardano according to Cexplorer.",
+    "link": "https://cryptopanic.com/news/33120502/JUST-IN-Midnight-NIGHT-surpasses-80250-unique-holders-on-Cardano-according-to-Cexplorer",
+    "source": "@angrycryptoshow",
+    "published": "Wed Jul 29 2026 16:14:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Telsa will make MORE money from THIS than cars",
+    "link": "https://cryptopanic.com/news/33120386/Telsa-will-make-MORE-money-from-THIS-than-cars",
+    "source": "AnthonyPompliano",
+    "published": "Wed Jul 29 2026 16:14:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: CoinMarketCap ranks #Cardano $ADA as the 10th most bullish community sentiment.",
+    "link": "https://cryptopanic.com/news/33120501/JUST-IN-CoinMarketCap-ranks-Cardano-ADA-as-the-10th-most-bullish-community-sentiment",
+    "source": "@angrycryptoshow",
+    "published": "Wed Jul 29 2026 16:14:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cathie Wood predicts more shutdowns and bankruptcies",
+    "link": "https://cryptopanic.com/news/33120398/Cathie-Wood-predicts-more-shutdowns-and-bankruptcies",
+    "source": "thestreet.com",
+    "published": "Wed Jul 29 2026 16:13:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 BIG: Crypto investment giant Digital Currency Group (DCG) has urged U.S. Senate leaders to pass the CLARITY Act, calling for clear crypto regulations over regulation-by-enforcement.",
+    "link": "https://cryptopanic.com/news/33120506/BIG-Crypto-investment-giant-Digital-Currency-Group-DCG-has-urged-US-Senate-leaders-to-pass-the-CLARITY-Act-calling-for-clear-crypto-regulations-over-regulation-by-enforcement",
+    "source": "@cointelegraph",
+    "published": "Wed Jul 29 2026 16:10:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "SEC Ready to Provide Crypto Rules if Clarity Act Flounders: Chair Atkins",
     "link": "https://cryptopanic.com/news/33120290/SEC-Ready-to-Provide-Crypto-Rules-if-Clarity-Act-Flounders-Chair-Atkins",
     "source": "decrypt.co",
     "published": "Wed Jul 29 2026 16:09:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: American Bankers Association President and CEO Rob Nichols says \"there's a lot of good in the CLARITY Act.\"",
+    "link": "https://cryptopanic.com/news/33120505/LATEST-American-Bankers-Association-President-and-CEO-Rob-Nichols-says-theres-a-lot-of-good-in-the-CLARITY-Act",
+    "source": "@coindesk",
+    "published": "Wed Jul 29 2026 16:09:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Memories of a Long-Time BitMEX User: Did the March 12 Outage Save Crypto? Why Bybit Took Over\n\nBitMEX helped establish perpetual contracts as core crypto market infrastructure through mechanisms such as funding rates, mark prices, insurance funds, liquidation engines, and ADL.",
+    "link": "https://cryptopanic.com/news/33120499/Memories-of-a-Long-Time-BitMEX-User-Did-the-March-12-Outage-Save-Crypto-Why-Bybit-Took-Over-BitMEX-helped-establish-perpetual-contracts-as-core-crypto-market-infrastructure-through-mechanisms-such-as-funding-rates-mark-prices-insurance-funds-liquidation-engines-and-ADL",
+    "source": "@wublockchain",
+    "published": "Wed Jul 29 2026 16:02:45 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -14,199 +189,24 @@
     "sentiment": "neutral"
   },
   {
-    "title": "MoonPay Launches PayBox to Bridge AI with Real-World Payments",
-    "link": "https://cryptopanic.com/news/33120237/MoonPay-Launches-PayBox-to-Bridge-AI-with-Real-World-Payments",
-    "source": "cryptodnes.bg",
-    "published": "Wed Jul 29 2026 16:01:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why Grayscale thinks Hyperliquid’s HYPE is still ‘cheap’ despite institutional sell-off",
-    "link": "https://cryptopanic.com/news/33120228/Why-Grayscale-thinks-Hyperliquids-HYPE-is-still-cheap-despite-institutional-sell-off",
-    "source": "ambcrypto.com",
-    "published": "Wed Jul 29 2026 16:00:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The markets are not looking good!\n\nAround $700B+ has reportedly been wiped from US stocks as Trump says he’s going to “bomb the F***ing s*** out of” Iran as well markets brace for an unusually uncertain FOMC decision on rates later today!",
-    "link": "https://cryptopanic.com/news/33120301/The-markets-are-not-looking-good-Around-700B-has-reportedly-been-wiped-from-US-stocks-as-Trump-says-hes-going-to-bomb-the-Fing-s-out-of-Iran-as-well-markets-brace-for-an-unusually-uncertain-FOMC-decision-on-rates-later-today",
-    "source": "@realallincrypto",
-    "published": "Wed Jul 29 2026 16:00:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Pump.fun Prints A Million Dollars A Day And The Token Won't Move",
-    "link": "https://cryptopanic.com/news/33120296/Pumpfun-Prints-A-Million-Dollars-A-Day-And-The-Token-Wont-Move",
-    "source": "TheCryptoLark",
-    "published": "Wed Jul 29 2026 16:00:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Fauci's Diary Just Leaked The F*cked Up Truth About COVID (He's In Trouble)",
-    "link": "https://cryptopanic.com/news/33120284/Faucis-Diary-Just-Leaked-The-Fcked-Up-Truth-About-COVID-Hes-In-Trouble",
-    "source": "BTCSessions",
-    "published": "Wed Jul 29 2026 16:00:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Is Japan REALLY Adopting BTC?!",
-    "link": "https://cryptopanic.com/news/33120274/Is-Japan-REALLY-Adopting-BTC",
-    "source": "SimplyBitcoin",
-    "published": "Wed Jul 29 2026 16:00:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Wall Street Just SOLD OUT Bitcoin",
-    "link": "https://cryptopanic.com/news/33120267/Wall-Street-Just-SOLD-OUT-Bitcoin",
-    "source": "CryptoTips",
-    "published": "Wed Jul 29 2026 16:00:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Wall Street Rallies Behind CLARITY Act",
-    "link": "https://cryptopanic.com/news/33120198/Wall-Street-Rallies-Behind-CLARITY-Act",
-    "source": "catenaa.com",
-    "published": "Wed Jul 29 2026 16:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Brale Launches ION Protocol for Cross-Chain Stablecoin Transfers",
-    "link": "https://cryptopanic.com/news/33120207/Brale-Launches-ION-Protocol-for-Cross-Chain-Stablecoin-Transfers",
-    "source": "coincu.com",
-    "published": "Wed Jul 29 2026 15:58:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP, Ethereum, Chainlink & USDC Dominate Crypto's Adoption Rankings Despite Markets’ Deafening Silence",
-    "link": "https://cryptopanic.com/news/33120182/XRP-Ethereum-Chainlink-USDC-Dominate-Cryptos-Adoption-Rankings-Despite-Markets-Deafening-Silence",
-    "source": "coinpaper.com",
-    "published": "Wed Jul 29 2026 15:57:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇰🇷 South Korea’s FSC plans a Digital Asset Basic Act covering stablecoins and exchanges, while a bill to repeal the country’s planned 22% crypto tax heads to committee review, according to Edaily.",
-    "link": "https://cryptopanic.com/news/33120186/LATEST-South-Koreas-FSC-plans-a-Digital-Asset-Basic-Act-covering-stablecoins-and-exchanges-while-a-bill-to-repeal-the-countrys-planned-22-crypto-tax-heads-to-committee-review-according-to-Edaily",
-    "source": "@coinmarketcap",
-    "published": "Wed Jul 29 2026 15:53:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Emirates Accepts Crypto for Flights, But Two Hidden Limits Change Everything",
-    "link": "https://cryptopanic.com/news/33120170/Emirates-Accepts-Crypto-for-Flights-But-Two-Hidden-Limits-Change-Everything",
-    "source": "spaziocrypto.com",
-    "published": "Wed Jul 29 2026 15:52:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: Ethereum Institutional closes its initial ecosystem funding round with backing from 100+ ecosystem participants.",
-    "link": "https://cryptopanic.com/news/33120195/LATEST-Ethereum-Institutional-closes-its-initial-ecosystem-funding-round-with-backing-from-100-ecosystem-participants",
-    "source": "@cointelegraph",
-    "published": "Wed Jul 29 2026 15:50:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ferrari has already hit 2026 sales target for Luce EV, FT says",
-    "link": "https://cryptopanic.com/news/33120197/Ferrari-has-already-hit-2026-sales-target-for-Luce-EV-FT-says",
+    "title": "Santander Brasil posts weakest profit since 2023; shares tumble as provisions rise",
+    "link": "https://cryptopanic.com/news/33120508/Santander-Brasil-posts-weakest-profit-since-2023-shares-tumble-as-provisions-rise",
     "source": "@reutersbiz",
-    "published": "Wed Jul 29 2026 15:45:16 GMT+0000 (Coordinated Universal Time)",
+    "published": "Wed Jul 29 2026 16:01:53 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "$12 Trillion Giant Vanguard Increases Stake in Top Bitcoin Treasury Company",
-    "link": "https://cryptopanic.com/news/33120206/12-Trillion-Giant-Vanguard-Increases-Stake-in-Top-Bitcoin-Treasury-Company",
-    "source": "u.today",
-    "published": "Wed Jul 29 2026 15:45:03 GMT+0000 (Coordinated Universal Time)",
+    "title": "The incident was brought under control and affected vessels were moved outside port limits, while Egyptian authorities have not yet confirmed the drone attack, Inchcape says",
+    "link": "https://cryptopanic.com/news/33120397/The-incident-was-brought-under-control-and-affected-vessels-were-moved-outside-port-limits-while-Egyptian-authorities-have-not-yet-confirmed-the-drone-attack-Inchcape-says",
+    "source": "@solidintel_x",
+    "published": "Wed Jul 29 2026 16:01:18 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Dana Love Sees XRP's Repricing On Three Catalysts",
-    "link": "https://cryptopanic.com/news/33120107/Dana-Love-Sees-XRPs-Repricing-On-Three-Catalysts",
-    "source": "dailycoin.com",
-    "published": "Wed Jul 29 2026 15:45:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum Foundation Adds Security Expert to Its Board",
-    "link": "https://cryptopanic.com/news/33120102/Ethereum-Foundation-Adds-Security-Expert-to-Its-Board",
-    "source": "coindoo.com",
-    "published": "Wed Jul 29 2026 15:43:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SoFi Crypto Revenue Climbs in Q2 – Here Is Why Its Stablecoin Strategy Is Expanding",
-    "link": "https://cryptopanic.com/news/33120103/SoFi-Crypto-Revenue-Climbs-in-Q2-Here-Is-Why-Its-Stablecoin-Strategy-Is-Expanding",
-    "source": "blocknews.com",
-    "published": "Wed Jul 29 2026 15:42:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "FORGET THE FED: The US Treasury Just SILENTLY Targeted Bitcoin!??? | EP 1558",
-    "link": "https://cryptopanic.com/news/33120110/FORGET-THE-FED-The-US-Treasury-Just-SILENTLY-Targeted-Bitcoin-EP-1558",
-    "source": "SimplyBitcoin",
-    "published": "Wed Jul 29 2026 15:41:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Reah Platform Partners With Polygon To Unify Global Business Payments\n\n@ReahPlatform officially integrates @0xPolygon to enable global businesses to move fiat and stablecoins seamlessly, with settlement finality occurring in seconds.\n\nThe deployment enables enterprises to manage",
-    "link": "https://cryptopanic.com/news/33120304/Reah-Platform-Partners-With-Polygon-To-Unify-Global-Business-Payments-ReahPlatform-officially-integrates-0xPolygon-to-enable-global-businesses-to-move-fiat-and-stablecoins-seamlessly-with-settlement-finality-occurring-in-seconds-The-deployment-enables-enterprises-to-manage",
-    "source": "@bscnews",
-    "published": "Wed Jul 29 2026 15:41:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ANALYSIS:  Wall Street is moving onto Ethereum, so why isn't ETH moving with it?\n\nInstitutional adoption continues accelerating as Vitalik Buterin outlines a major network overhaul, but one big question remains: Will Ethereum's success translate into value for ETH holders?",
-    "link": "https://cryptopanic.com/news/33120185/ANALYSIS-Wall-Street-is-moving-onto-Ethereum-so-why-isnt-ETH-moving-with-it-Institutional-adoption-continues-accelerating-as-Vitalik-Buterin-outlines-a-major-network-overhaul-but-one-big-question-remains-Will-Ethereums-success-translate-into-value-for-ETH-holders",
-    "source": "@coinmarketcap",
-    "published": "Wed Jul 29 2026 15:40:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "After pumping +270% in H1, $HYPE has seen a correction of nearly -30% and is approaching the first major support level.\n\nA bounce here could form a higher low and lead into continuation higher while a drop to the support near $40 could lead to a longer period of consolidation.",
-    "link": "https://cryptopanic.com/news/33120144/After-pumping-270-in-H1-HYPE-has-seen-a-correction-of-nearly-30-and-is-approaching-the-first-major-support-level-A-bounce-here-could-form-a-higher-low-and-lead-into-continuation-higher-while-a-drop-to-the-support-near-40-could-lead-to-a-longer-period-of-consolidation",
-    "source": "@stackersatoshi",
-    "published": "Wed Jul 29 2026 15:38:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Grayscale Calls HYPE Cheap Beside Coinbase, Robinhood and Circle",
-    "link": "https://cryptopanic.com/news/33120139/Grayscale-Calls-HYPE-Cheap-Beside-Coinbase-Robinhood-and-Circle",
-    "source": "cryptoprowl.com",
-    "published": "Wed Jul 29 2026 15:37:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ready to turn your crypto into real wins? \n\nJoin @betfury_gaming and get access to 9,000+ casino games, sports betting, fast crypto payouts, and exclusive rewards.\n\n Sign up with promo code BSCFURY to unlock a special welcome bonus.\n\nYour next big win could be just one spin",
-    "link": "https://cryptopanic.com/news/33120303/Ready-to-turn-your-crypto-into-real-wins-Join-betfury_gaming-and-get-access-to-9000-casino-games-sports-betting-fast-crypto-payouts-and-exclusive-rewards-Sign-up-with-promo-code-BSCFURY-to-unlock-a-special-welcome-bonus-Your-next-big-win-could-be-just-one-spin",
-    "source": "@bscnews",
-    "published": "Wed Jul 29 2026 15:32:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "14 Best Crypto & Bitcoin Sports Betting Sites in 2026",
-    "link": "https://cryptopanic.com/news/33120063/14-Best-Crypto-Bitcoin-Sports-Betting-Sites-in-2026",
-    "source": "coinpaper.com",
-    "published": "Wed Jul 29 2026 15:32:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 The Fed announces its decision in 3 hours. \n\nExpect volatility.",
-    "link": "https://cryptopanic.com/news/33120194/The-Fed-announces-its-decision-in-3-hours-Expect-volatility",
-    "source": "@cointelegraph",
-    "published": "Wed Jul 29 2026 15:30:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Thousands of workers protested at the Neckarsulm plant of Audi, a Volkswagen brand. Audi's Neckarsulm plant in south-west Germany is one of four German plants belonging to Volkswagen threatened with possible closure after 2030. READ",
-    "link": "https://cryptopanic.com/news/33120196/Thousands-of-workers-protested-at-the-Neckarsulm-plant-of-Audi-a-Volkswagen-brand-Audis-Neckarsulm-plant-in-south-west-Germany-is-one-of-four-German-plants-belonging-to-Volkswagen-threatened-with-possible-closure-after-2030-READ",
-    "source": "@reutersbiz",
-    "published": "Wed Jul 29 2026 15:30:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin's Fair Value Is $95,000, Schwab Research Chief Says: Here's Why",
-    "link": "https://cryptopanic.com/news/33120101/Bitcoins-Fair-Value-Is-95000-Schwab-Research-Chief-Says-Heres-Why",
-    "source": "feeds2.benzinga.com",
-    "published": "Wed Jul 29 2026 15:28:50 GMT+0000 (Coordinated Universal Time)",
+    "title": "INTEL: US-owned LNG floating storage facility was struck by at least one drone during cargo unloading at Egypt’s Damietta port, triggering an explosion at the terminal, Ambrey says",
+    "link": "https://cryptopanic.com/news/33120396/INTEL-US-owned-LNG-floating-storage-facility-was-struck-by-at-least-one-drone-during-cargo-unloading-at-Egypts-Damietta-port-triggering-an-explosion-at-the-terminal-Ambrey-says",
+    "source": "@solidintel_x",
+    "published": "Wed Jul 29 2026 16:01:17 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
