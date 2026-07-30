@@ -1,9 +1,93 @@
 [
   {
+    "title": "A 90% shareholder rebellion just forced this public company to dump its entire Bitcoin treasury at a crushing £39,984 per-coin loss",
+    "link": "https://cryptopanic.com/news/33127894/A-90-shareholder-rebellion-just-forced-this-public-company-to-dump-its-entire-Bitcoin-treasury-at-a-crushing-39984-per-coin-loss",
+    "source": "cryptoslate.com",
+    "published": "Thu Jul 30 2026 17:40:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Quantum Threat Inches Closer as IBM Claims 'Trusted Quantum Advantage'",
+    "link": "https://cryptopanic.com/news/33127882/Bitcoin-Quantum-Threat-Inches-Closer-as-IBM-Claims-Trusted-Quantum-Advantage",
+    "source": "decrypt.co",
+    "published": "Thu Jul 30 2026 17:36:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cathie Wood trims Bitmine and Robinhood while doubling down on Coinbase and Circle\n\nArk Invest (@ARKInvest) sold about $4.4M in crypto equities on Wednesday, led by a $2M cut to Ethereum treasury firm Bitmine as $BMNR fell 5.6%, alongside smaller sales of Robinhood, Block, and",
+    "link": "https://cryptopanic.com/news/33127930/Cathie-Wood-trims-Bitmine-and-Robinhood-while-doubling-down-on-Coinbase-and-Circle-Ark-Invest-ARKInvest-sold-about-44M-in-crypto-equities-on-Wednesday-led-by-a-2M-cut-to-Ethereum-treasury-firm-Bitmine-as-BMNR-fell-56-alongside-smaller-sales-of-Robinhood-Block-and",
+    "source": "@bscnews",
+    "published": "Thu Jul 30 2026 17:35:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Pi Ships Protocol 26: Will Price Rise Amid Supply Overhang?",
+    "link": "https://cryptopanic.com/news/33127871/Pi-Ships-Protocol-26-Will-Price-Rise-Amid-Supply-Overhang",
+    "source": "dailycoin.com",
+    "published": "Thu Jul 30 2026 17:31:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Breakingviews - Creating bond chaos is a bad way to hike rates",
+    "link": "https://cryptopanic.com/news/33127838/Breakingviews-Creating-bond-chaos-is-a-bad-way-to-hike-rates",
+    "source": "@reutersbiz",
+    "published": "Thu Jul 30 2026 17:30:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Kraken Co-CEO: Sovereign Bitcoin Accumulation is an \"Inevitability\"",
+    "link": "https://cryptopanic.com/news/33127867/Kraken-Co-CEO-Sovereign-Bitcoin-Accumulation-is-an-Inevitability",
+    "source": "BitcoinMagazine",
+    "published": "Thu Jul 30 2026 17:30:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "AI agents could soon move trillions of dollars. Wall Street is moving on-chain. We sat down with @AndrewMcMarkets from @Chainlink to explore why global finance could look completely different by 2029.",
+    "link": "https://cryptopanic.com/news/33127925/AI-agents-could-soon-move-trillions-of-dollars-Wall-Street-is-moving-on-chain-We-sat-down-with-AndrewMcMarkets-from-Chainlink-to-explore-why-global-finance-could-look-completely-different-by-2029",
+    "source": "@realallincrypto",
+    "published": "Thu Jul 30 2026 17:27:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Zcash Receives Major Mining Expansion Through Fortitude",
+    "link": "https://cryptopanic.com/news/33127898/Zcash-Receives-Major-Mining-Expansion-Through-Fortitude",
+    "source": "u.today",
+    "published": "Thu Jul 30 2026 17:25:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "FTX pays out $900M tomorrow and starts a six-month clock on stragglers\n\nFTX begins its fifth creditor distribution on July 31, sending roughly $900M to allowed claim holders who cleared requirements by the June 16 record date, with funds landing via @BitGo, @krakenfx, or",
+    "link": "https://cryptopanic.com/news/33127929/FTX-pays-out-900M-tomorrow-and-starts-a-six-month-clock-on-stragglers-FTX-begins-its-fifth-creditor-distribution-on-July-31-sending-roughly-900M-to-allowed-claim-holders-who-cleared-requirements-by-the-June-16-record-date-with-funds-landing-via-BitGo-krakenfx-or",
+    "source": "@bscnews",
+    "published": "Thu Jul 30 2026 17:22:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 LATEST: Coinbase Chief Policy Officer Faryar Shirzad says more than 1 million calls and emails have been sent to U.S. senators in support of the CLARITY Act.",
+    "link": "https://cryptopanic.com/news/33127836/LATEST-Coinbase-Chief-Policy-Officer-Faryar-Shirzad-says-more-than-1-million-calls-and-emails-have-been-sent-to-US-senators-in-support-of-the-CLARITY-Act",
+    "source": "@cointelegraph",
+    "published": "Thu Jul 30 2026 17:20:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cathie Wood once said sell gold and buy Bitcoin,  here is whether she got it right",
+    "link": "https://cryptopanic.com/news/33127897/Cathie-Wood-once-said-sell-gold-and-buy-Bitcoin-here-is-whether-she-got-it-right",
+    "source": "thestreet.com",
+    "published": "Thu Jul 30 2026 17:16:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: 🇺🇸 Treasury Secretary Bessent says Senate Democrats are blocking the Crypto Clarity Act.",
     "link": "https://cryptopanic.com/news/33127746/JUST-IN-Treasury-Secretary-Bessent-says-Senate-Democrats-are-blocking-the-Crypto-Clarity-Act",
     "source": "@watcherguru",
     "published": "Thu Jul 30 2026 17:15:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "FLASHBACK:  The Ethereum blockchain's genesis block was mined 11 years ago today on July 30, 2015.",
+    "link": "https://cryptopanic.com/news/33127829/FLASHBACK-The-Ethereum-blockchains-genesis-block-was-mined-11-years-ago-today-on-July-30-2015",
+    "source": "@coinmarketcap",
+    "published": "Thu Jul 30 2026 17:15:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -28,10 +112,66 @@
     "sentiment": "neutral"
   },
   {
+    "title": "LATEST: @realmintio launched an MCP server that turns scattered RWA information into structured, agent-ready data.\n\nAI agents can now research 3,000+ tokenized assets using issuer details, risk scores, live prices, asset histories and available trading routes.",
+    "link": "https://cryptopanic.com/news/33127835/LATEST-realmintio-launched-an-MCP-server-that-turns-scattered-RWA-information-into-structured-agent-ready-data-AI-agents-can-now-research-3000-tokenized-assets-using-issuer-details-risk-scores-live-prices-asset-histories-and-available-trading-routes",
+    "source": "@cointelegraph",
+    "published": "Thu Jul 30 2026 17:08:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "..... just in",
+    "link": "https://cryptopanic.com/news/33127924/just-in",
+    "source": "@realallincrypto",
+    "published": "Thu Jul 30 2026 17:07:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Morgan Stanley's new Solana ETF is already carrying the whole field\n\nOne day after launching on NYSE Arca, Morgan Stanley's (@MorganStanley) MSOL pulled in $19.06M, accounting for every dollar of net inflows across US spot Solana ETFs on Wednesday as all other issuers sat flat,",
+    "link": "https://cryptopanic.com/news/33127928/Morgan-Stanleys-new-Solana-ETF-is-already-carrying-the-whole-field-One-day-after-launching-on-NYSE-Arca-Morgan-Stanleys-MorganStanley-MSOL-pulled-in-1906M-accounting-for-every-dollar-of-net-inflows-across-US-spot-Solana-ETFs-on-Wednesday-as-all-other-issuers-sat-flat",
+    "source": "@bscnews",
+    "published": "Thu Jul 30 2026 17:06:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇺🇸 Treasury Secretary Scott Bessent called on the Senate to vote immediately on the CLARITY Act, accusing Democrats of \"choosing politics\" and warning \"America will lead or America won't.\"",
+    "link": "https://cryptopanic.com/news/33127828/LATEST-Treasury-Secretary-Scott-Bessent-called-on-the-Senate-to-vote-immediately-on-the-CLARITY-Act-accusing-Democrats-of-choosing-politics-and-warning-America-will-lead-or-America-wont",
+    "source": "@coinmarketcap",
+    "published": "Thu Jul 30 2026 17:05:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "BlockDAG Leads the Next Crypto to Explode Race as Hyperliquid, Sui, and Ondo Finance Battle for Attention",
     "link": "https://cryptopanic.com/news/33127716/BlockDAG-Leads-the-Next-Crypto-to-Explode-Race-as-Hyperliquid-Sui-and-Ondo-Finance-Battle-for-Attention",
     "source": "dailycoin.com",
     "published": "Thu Jul 30 2026 17:05:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Telegram Founder Pavel Durov Finally Breaks Silence on Russia Charges",
+    "link": "https://cryptopanic.com/news/33127922/Telegram-Founder-Pavel-Durov-Finally-Breaks-Silence-on-Russia-Charges",
+    "source": "beincrypto.com",
+    "published": "Thu Jul 30 2026 17:03:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Canadian retailer Loblaw reports higher revenue on demand for cheaper goods",
+    "link": "https://cryptopanic.com/news/33127837/Canadian-retailer-Loblaw-reports-higher-revenue-on-demand-for-cheaper-goods",
+    "source": "@reutersbiz",
+    "published": "Thu Jul 30 2026 17:01:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "PAVEL DUROV: Russia has designated me a “terrorist” for refusing its demands for mass surveillance and censorship on Telegram.\n\n“Russian officials are clearly confused about who can ban whom from the Internet.”",
+    "link": "https://cryptopanic.com/news/33127833/PAVEL-DUROV-Russia-has-designated-me-a-terrorist-for-refusing-its-demands-for-mass-surveillance-and-censorship-on-Telegram-Russian-officials-are-clearly-confused-about-who-can-ban-whom-from-the-Internet",
+    "source": "@cointelegraph",
+    "published": "Thu Jul 30 2026 17:00:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "@Algorand is now sitting at the same table as NGO leaders responsible for moving billions in globally!\n\nAt the 3rd Annual Humanitarian Payments Council meeting, @HesabPay_ BUILT ON $ALGO was highlighted as making huge difference!\n\n$ALGO IS IMPOSSIBLE TO IGNORE!",
+    "link": "https://cryptopanic.com/news/33127923/Algorand-is-now-sitting-at-the-same-table-as-NGO-leaders-responsible-for-moving-billions-in-globally-At-the-3rd-Annual-Humanitarian-Payments-Council-meeting-HesabPay_-BUILT-ON-ALGO-was-highlighted-as-making-huge-difference-ALGO-IS-IMPOSSIBLE-TO-IGNORE",
+    "source": "@realallincrypto",
+    "published": "Thu Jul 30 2026 17:00:30 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -42,16 +182,23 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Ireland Clears Aviva's First Tokenized Fund on the XRP Ledger",
-    "link": "https://cryptopanic.com/news/33127661/Ireland-Clears-Avivas-First-Tokenized-Fund-on-the-XRP-Ledger",
-    "source": "coinpaprika.com",
+    "title": "Saylor sends a sharp message as Bitcoin's biggest bill stalls",
+    "link": "https://cryptopanic.com/news/33127784/Saylor-sends-a-sharp-message-as-Bitcoins-biggest-bill-stalls",
+    "source": "thestreet.com",
     "published": "Thu Jul 30 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Saylor sends a sharp message as Bitcoin's biggest bill stalls",
-    "link": "https://cryptopanic.com/news/33127784/Saylor-sends-a-sharp-message-as-Bitcoins-biggest-bill-stalls",
-    "source": "thestreet.com",
+    "title": "NEW: Treasury Secretary Scott Bessent is urging the Senate to vote on the CLARITY Act \"NOW\" in a post on X, saying the U.S. must lead in digital assets.",
+    "link": "https://cryptopanic.com/news/33127830/NEW-Treasury-Secretary-Scott-Bessent-is-urging-the-Senate-to-vote-on-the-CLARITY-Act-NOW-in-a-post-on-X-saying-the-US-must-lead-in-digital-assets",
+    "source": "@coindesk",
+    "published": "Thu Jul 30 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ireland Clears Aviva's First Tokenized Fund on the XRP Ledger",
+    "link": "https://cryptopanic.com/news/33127661/Ireland-Clears-Avivas-First-Tokenized-Fund-on-the-XRP-Ledger",
+    "source": "coinpaprika.com",
     "published": "Thu Jul 30 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -60,153 +207,6 @@
     "link": "https://cryptopanic.com/news/33127657/IREN-Core-Scientific-and-more-surge-as-Aschenbrenner-fund-reportedly-liquidates-1-billion-AI-infrastructure-portfolio",
     "source": "theblock.co",
     "published": "Thu Jul 30 2026 16:58:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Scam in South Korea Defrauds Investors of $19 Million",
-    "link": "https://cryptopanic.com/news/33127734/XRP-Scam-in-South-Korea-Defrauds-Investors-of-19-Million",
-    "source": "feeds2.benzinga.com",
-    "published": "Thu Jul 30 2026 16:57:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "145,714 Healthcare Patients Potentially Exposed As Florida Firm Hit by Data Breach",
-    "link": "https://cryptopanic.com/news/33127658/145714-Healthcare-Patients-Potentially-Exposed-As-Florida-Firm-Hit-by-Data-Breach",
-    "source": "dailyhodl.com",
-    "published": "Thu Jul 30 2026 16:55:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$8.5 million in XRP stolen in fake investment scam",
-    "link": "https://cryptopanic.com/news/33127731/85-million-in-XRP-stolen-in-fake-investment-scam",
-    "source": "thestreet.com",
-    "published": "Thu Jul 30 2026 16:55:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ondo reportedly eyes an acquisition of up to $500M, but denies it\n\nTokenization heavyweight @Ondo Finance is evaluating a potential acquisition worth $250M to $500M with wealthtech firms among the targets, per a CoinDesk report citing a person familiar with the matter.\n\nOndo",
-    "link": "https://cryptopanic.com/news/33127650/Ondo-reportedly-eyes-an-acquisition-of-up-to-500M-but-denies-it-Tokenization-heavyweight-Ondo-Finance-is-evaluating-a-potential-acquisition-worth-250M-to-500M-with-wealthtech-firms-among-the-targets-per-a-CoinDesk-report-citing-a-person-familiar-with-the-matter-Ondo",
-    "source": "@bscnews",
-    "published": "Thu Jul 30 2026 16:51:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Your 'Sexual Wellness' Pills Order Info From Hims Got Shared With Meta, Says FTC",
-    "link": "https://cryptopanic.com/news/33127608/Your-Sexual-Wellness-Pills-Order-Info-From-Hims-Got-Shared-With-Meta-Says-FTC",
-    "source": "decrypt.co",
-    "published": "Thu Jul 30 2026 16:44:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 NEW: The Trump administration is fast-tracking autonomous vehicle deployment, allowing Zoox to commercially launch robotaxis while accelerating the first national AV safety standards.",
-    "link": "https://cryptopanic.com/news/33127605/NEW-The-Trump-administration-is-fast-tracking-autonomous-vehicle-deployment-allowing-Zoox-to-commercially-launch-robotaxis-while-accelerating-the-first-national-AV-safety-standards",
-    "source": "@cointelegraph",
-    "published": "Thu Jul 30 2026 16:40:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Robots now take crypto payments before they move a muscle\n\nFabric Foundation (@FabricFND) has wired its RoboPay rail into physical hardware for the first time, demoing x402 payment verification on three platforms: Deep Robotics' M20 Pro quadruped, the AGIBot X2 humanoid, and a",
-    "link": "https://cryptopanic.com/news/33127649/Robots-now-take-crypto-payments-before-they-move-a-muscle-Fabric-Foundation-FabricFND-has-wired-its-RoboPay-rail-into-physical-hardware-for-the-first-time-demoing-x402-payment-verification-on-three-platforms-Deep-Robotics-M20-Pro-quadruped-the-AGIBot-X2-humanoid-and-a",
-    "source": "@bscnews",
-    "published": "Thu Jul 30 2026 16:37:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 TREASURY SEC. BESSENT BLASTS DEMS FOR STALLING CRYPTO BILL\n\n Accuses Democrats of caving to Elizabeth Warren’s “Anti-Crypto Army”.\n\n Says the bill actually strengthens consumer protections and anti-crime rules.\n\n “America will lead or America won’t.”",
-    "link": "https://cryptopanic.com/news/33127747/TREASURY-SEC-BESSENT-BLASTS-DEMS-FOR-STALLING-CRYPTO-BILL-Accuses-Democrats-of-caving-to-Elizabeth-Warrens-Anti-Crypto-Army-Says-the-bill-actually-strengthens-consumer-protections-and-anti-crime-rules-America-will-lead-or-America-wont",
-    "source": "@btc_archive",
-    "published": "Thu Jul 30 2026 16:36:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Pi Network price climbs 6.6% as Protocol 26 deadline approaches",
-    "link": "https://cryptopanic.com/news/33127548/Pi-Network-price-climbs-66-as-Protocol-26-deadline-approaches",
-    "source": "ambcrypto.com",
-    "published": "Thu Jul 30 2026 16:35:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cathie Wood's Ark Invest Sells Bitmine While Adding to Coinbase and Circle Holdings",
-    "link": "https://cryptopanic.com/news/33127568/Cathie-Woods-Ark-Invest-Sells-Bitmine-While-Adding-to-Coinbase-and-Circle-Holdings",
-    "source": "decrypt.co",
-    "published": "Thu Jul 30 2026 16:35:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Is The Bitcoin Sell-Off About To Get Worse?",
-    "link": "https://cryptopanic.com/news/33127581/Is-The-Bitcoin-Sell-Off-About-To-Get-Worse",
-    "source": "DataDash",
-    "published": "Thu Jul 30 2026 16:33:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "FTX’s $900M payout drops Friday, triggering 6-month countdown for  creditors to onboard or forfeit funds entirely",
-    "link": "https://cryptopanic.com/news/33127508/FTXs-900M-payout-drops-Friday-triggering-6-month-countdown-for-creditors-to-onboard-or-forfeit-funds-entirely",
-    "source": "cryptoslate.com",
-    "published": "Thu Jul 30 2026 16:30:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Stress Index Spikes for Second Time in Three Days: What's Happening?",
-    "link": "https://cryptopanic.com/news/33127586/Bitcoin-Stress-Index-Spikes-for-Second-Time-in-Three-Days-Whats-Happening",
-    "source": "feeds2.benzinga.com",
-    "published": "Thu Jul 30 2026 16:27:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$MSFT is showing impressive strength with +17% after beating earnings estimates yesterday.\n\nIt can move another 2-3% higher before the next major resistance, but if it can break through the $465-470 area then it could see continuation towards new highs for the year.",
-    "link": "https://cryptopanic.com/news/33127494/MSFT-is-showing-impressive-strength-with-17-after-beating-earnings-estimates-yesterday-It-can-move-another-2-3-higher-before-the-next-major-resistance-but-if-it-can-break-through-the-465-470-area-then-it-could-see-continuation-towards-new-highs-for-the-year",
-    "source": "@stackersatoshi",
-    "published": "Thu Jul 30 2026 16:26:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Aave has proposed winding down 6 deployments and offboarding 50 low-adoption reserves, affecting $98.1M in supplied assets and $15.6M in debt.",
-    "link": "https://cryptopanic.com/news/33127597/LATEST-Aave-has-proposed-winding-down-6-deployments-and-offboarding-50-low-adoption-reserves-affecting-981M-in-supplied-assets-and-156M-in-debt",
-    "source": "@coinmarketcap",
-    "published": "Thu Jul 30 2026 16:25:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CHARLES SCHWAB: CLARITY ACT UNLIKELY TO BE VOTED BY NEXT WEEK \n\n “If we don’t get a vote before recess, how will Congress look after midterms?”\n— Nathan Peterson, Director at Schwab Center for Financial Research.",
-    "link": "https://cryptopanic.com/news/33127493/CHARLES-SCHWAB-CLARITY-ACT-UNLIKELY-TO-BE-VOTED-BY-NEXT-WEEK-If-we-dont-get-a-vote-before-recess-how-will-Congress-look-after-midterms-Nathan-Peterson-Director-at-Schwab-Center-for-Financial-Research",
-    "source": "@btc_archive",
-    "published": "Thu Jul 30 2026 16:22:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin ETFs snap four-day outflow streak, but only BlackRock showed up\n\nUS spot Bitcoin ETFs pulled in a net $32.11M on Wednesday, ending a four-session skid that drained roughly $527M from the products, per SoSoValue data.\n\nThe green print rests on @BlackRock's $IBIT, which",
-    "link": "https://cryptopanic.com/news/33127648/Bitcoin-ETFs-snap-four-day-outflow-streak-but-only-BlackRock-showed-up-US-spot-Bitcoin-ETFs-pulled-in-a-net-3211M-on-Wednesday-ending-a-four-session-skid-that-drained-roughly-527M-from-the-products-per-SoSoValue-data-The-green-print-rests-on-BlackRocks-IBIT-which",
-    "source": "@bscnews",
-    "published": "Thu Jul 30 2026 16:22:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 JPMorgan says failing to pass the Clarity Act this year would be a setback that could undermine one of the industry's biggest regulatory catalysts.\n\nPass the bill",
-    "link": "https://cryptopanic.com/news/33127491/JUST-IN-JPMorgan-says-failing-to-pass-the-Clarity-Act-this-year-would-be-a-setback-that-could-undermine-one-of-the-industrys-biggest-regulatory-catalysts-Pass-the-bill",
-    "source": "@bitcoinmagazine",
-    "published": "Thu Jul 30 2026 16:21:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Robinhood's Q2 Revenue Breaks Record: Crypto Revenue Declines",
-    "link": "https://cryptopanic.com/news/33127466/Robinhoods-Q2-Revenue-Breaks-Record-Crypto-Revenue-Declines",
-    "source": "dailycoin.com",
-    "published": "Thu Jul 30 2026 16:21:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 Peter Schiff: Warsh continued inflationary monetary policy rather than delivering the hawkish stance he had promised.",
-    "link": "https://cryptopanic.com/news/33127604/Peter-Schiff-Warsh-continued-inflationary-monetary-policy-rather-than-delivering-the-hawkish-stance-he-had-promised",
-    "source": "@cointelegraph",
-    "published": "Thu Jul 30 2026 16:20:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Bank of England held interest rates as most policymakers argued rates were already high enough to curb inflation, but three members voted for a hike. HSBC's Simon Wells told Reuters a rise this year was far from certain and depends on the Middle East",
-    "link": "https://cryptopanic.com/news/33127606/The-Bank-of-England-held-interest-rates-as-most-policymakers-argued-rates-were-already-high-enough-to-curb-inflation-but-three-members-voted-for-a-hike-HSBCs-Simon-Wells-told-Reuters-a-rise-this-year-was-far-from-certain-and-depends-on-the-Middle-East",
-    "source": "@reutersbiz",
-    "published": "Thu Jul 30 2026 16:20:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
