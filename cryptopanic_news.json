@@ -1,5 +1,68 @@
 [
   {
+    "title": "BULLISH: Bitcoin is up 9.82% in July so far, rebounding after back-to-back red months in May and June. \n\nWill the momentum continue in August?",
+    "link": "https://cryptopanic.com/news/33131024/BULLISH-Bitcoin-is-up-982-in-July-so-far-rebounding-after-back-to-back-red-months-in-May-and-June-Will-the-momentum-continue-in-August",
+    "source": "@cointelegraph",
+    "published": "Fri Jul 31 2026 07:40:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "New York sues Kalshi over illegal gambling claims, seeks $36 billion in damages",
+    "link": "https://cryptopanic.com/news/33130981/New-York-sues-Kalshi-over-illegal-gambling-claims-seeks-36-billion-in-damages",
+    "source": "theblock.co",
+    "published": "Fri Jul 31 2026 07:34:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "July 31 Options Data\n\n149,000 BTC options expired, with a put-call ratio of 0.28, a maximum strike price of $64,000, and a notional value of $9.6 billion.\n\n435,000 ETH options expired, with a put-call ratio of 0.63, a maximum strike price of $1,850, and a notional value of $830",
+    "link": "https://cryptopanic.com/news/33131016/July-31-Options-Data-149000-BTC-options-expired-with-a-put-call-ratio-of-028-a-maximum-strike-price-of-64000-and-a-notional-value-of-96-billion-435000-ETH-options-expired-with-a-put-call-ratio-of-063-a-maximum-strike-price-of-1850-and-a-notional-value-of-830",
+    "source": "@wublockchain",
+    "published": "Fri Jul 31 2026 07:34:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Breakingviews - Zijin's Canada gold rush crosses China's red line",
+    "link": "https://cryptopanic.com/news/33131025/Breakingviews-Zijins-Canada-gold-rush-crosses-Chinas-red-line",
+    "source": "@reutersbiz",
+    "published": "Fri Jul 31 2026 07:30:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Schumer Proposes Anti-Corruption Agency Over Trump Crypto Ties",
+    "link": "https://cryptopanic.com/news/33130946/Schumer-Proposes-Anti-Corruption-Agency-Over-Trump-Crypto-Ties",
+    "source": "coincu.com",
+    "published": "Fri Jul 31 2026 07:29:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Hyperscale Data sold ~100 Bitcoin and established a BTC-backed credit line to fund a Michigan AI campus tied to a contract that could generate over $3B if all options are exercised.",
+    "link": "https://cryptopanic.com/news/33131014/LATEST-Hyperscale-Data-sold-100-Bitcoin-and-established-a-BTC-backed-credit-line-to-fund-a-Michigan-AI-campus-tied-to-a-contract-that-could-generate-over-3B-if-all-options-are-exercised",
+    "source": "@coinmarketcap",
+    "published": "Fri Jul 31 2026 07:25:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The framework, agreed with Trump's US-led \"Board of Peace\": all weapons surrendered over six to eight months, tunnel maps handed over, disarmament sector by sector, then more Palestinian police recruited alongside an international coordination force. A precise roadmap has to be",
+    "link": "https://cryptopanic.com/news/33130943/The-framework-agreed-with-Trumps-US-led-Board-of-Peace-all-weapons-surrendered-over-six-to-eight-months-tunnel-maps-handed-over-disarmament-sector-by-sector-then-more-Palestinian-police-recruited-alongside-an-international-coordination-force-A-precise-roadmap-has-to-be",
+    "source": "@solidintel_x",
+    "published": "Fri Jul 31 2026 07:22:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: Hamas agrees to full disarmament in Gaza, but won't hand over a single weapon unless Israel withdraws first | per Al Jazeera",
+    "link": "https://cryptopanic.com/news/33130944/INTEL-Hamas-agrees-to-full-disarmament-in-Gaza-but-wont-hand-over-a-single-weapon-unless-Israel-withdraws-first-per-Al-Jazeera",
+    "source": "@solidintel_x",
+    "published": "Fri Jul 31 2026 07:22:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "️ NEW: In the latest Diary of A CEO podcast, Ray Dalio says he has about 1% of his portfolio in Bitcoin but still prefers gold over Bitcoin.\n\n“It’s the type of money that can’t be printed, but there are technologies that can hurt it.”",
+    "link": "https://cryptopanic.com/news/33131023/NEW-In-the-latest-Diary-of-A-CEO-podcast-Ray-Dalio-says-he-has-about-1-of-his-portfolio-in-Bitcoin-but-still-prefers-gold-over-Bitcoin-Its-the-type-of-money-that-cant-be-printed-but-there-are-technologies-that-can-hurt-it",
+    "source": "@cointelegraph",
+    "published": "Fri Jul 31 2026 07:20:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Prediction Market Volume Hits Record $55.5 Billion in July as Trades Climb to 383.9 Million",
     "link": "https://cryptopanic.com/news/33130862/Prediction-Market-Volume-Hits-Record-555-Billion-in-July-as-Trades-Climb-to-3839-Million",
     "source": "cryptopolitan.com",
@@ -18,6 +81,13 @@
     "link": "https://cryptopanic.com/news/33130878/Checking-your-trade-uPNL-or-portfolio-every-hour-doesnt-give-you-more-information-It-just-gives-you-more-chances-to-make-an-emotional-decision-Usually-this-comes-from-oversizing-or-not-having-a-plan-for-the-position-you-bought-into-Make-sure-you-size-correctly-and-have-a",
     "source": "@daancrypto",
     "published": "Fri Jul 31 2026 07:02:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 NEW: A US judge says the Trump administration hasn't shown enough evidence to justify its ban on federal use of Anthropic's AI over supply-chain concerns.",
+    "link": "https://cryptopanic.com/news/33131022/NEW-A-US-judge-says-the-Trump-administration-hasnt-shown-enough-evidence-to-justify-its-ban-on-federal-use-of-Anthropics-AI-over-supply-chain-concerns",
+    "source": "@cointelegraph",
+    "published": "Fri Jul 31 2026 07:00:46 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -49,10 +119,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Coldcard Bitcoin Theft Ongoing: Is Your Wallet Affected?",
+    "link": "https://cryptopanic.com/news/33130978/Coldcard-Bitcoin-Theft-Ongoing-Is-Your-Wallet-Affected",
+    "source": "beincrypto.com",
+    "published": "Fri Jul 31 2026 06:54:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "US Sanctions Iranian Firm Over Bitcoin Sanctions Evasion\n\nThe US Treasury has sanctioned two Iranian maritime firms linked to an alleged IRGC backed insurance network.\n\nThe firms are reportedly Persian Gulf Marine Insurance and HormuzSafe Marine Services.\n\nOfficials said",
     "link": "https://cryptopanic.com/news/33130880/US-Sanctions-Iranian-Firm-Over-Bitcoin-Sanctions-Evasion-The-US-Treasury-has-sanctioned-two-Iranian-maritime-firms-linked-to-an-alleged-IRGC-backed-insurance-network-The-firms-are-reportedly-Persian-Gulf-Marine-Insurance-and-HormuzSafe-Marine-Services-Officials-said",
     "source": "@bscnews",
     "published": "Fri Jul 31 2026 06:54:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Fake XRP Staking Scheme Stole $19 Million: Three Suspects Arrested",
+    "link": "https://cryptopanic.com/news/33130977/Fake-XRP-Staking-Scheme-Stole-19-Million-Three-Suspects-Arrested",
+    "source": "beincrypto.com",
+    "published": "Fri Jul 31 2026 06:39:26 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -67,6 +151,13 @@
     "link": "https://cryptopanic.com/news/33130879/Should-We-Have-an-Inverse-James-Wynn-Tracker",
     "source": "@bscnews",
     "published": "Fri Jul 31 2026 06:38:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin is Shifting from Speculators to Long-Term Holders",
+    "link": "https://cryptopanic.com/news/33131003/Bitcoin-is-Shifting-from-Speculators-to-Long-Term-Holders",
+    "source": "axeladlerjr.com",
+    "published": "Fri Jul 31 2026 06:37:15 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -116,97 +207,6 @@
     "link": "https://cryptopanic.com/news/33130669/More-than-38M-has-been-stolen-due-to-a-Coldcard-wallet-vulnerability-Funds-from-around-500-wallets-were-transferred-to-wallet-bc1qnk-totaling-59448-BTC-382M-Stay-safe",
     "source": "@lookonchain",
     "published": "Fri Jul 31 2026 06:18:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33130780/Source",
-    "source": "@wublockchain",
-    "published": "Fri Jul 31 2026 06:18:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Shiba Inu Weekly Burns Hit One Year High\n\nShibburn data shows 2.98 billion $SHIB were burned over the past seven days. The total marks the largest weekly burn recorded in about a year.\n\nMajor burn activity on July 26 and 27 coincided with SHIB's sharp weekend rally. A single",
-    "link": "https://cryptopanic.com/news/33130667/Shiba-Inu-Weekly-Burns-Hit-One-Year-High-Shibburn-data-shows-298-billion-SHIB-were-burned-over-the-past-seven-days-The-total-marks-the-largest-weekly-burn-recorded-in-about-a-year-Major-burn-activity-on-July-26-and-27-coincided-with-SHIBs-sharp-weekend-rally-A-single",
-    "source": "@bscnews",
-    "published": "Fri Jul 31 2026 06:17:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Wallet Maker Issues Warning as 594 BTC Leaves 500 Addresses",
-    "link": "https://cryptopanic.com/news/33130599/Wallet-Maker-Issues-Warning-as-594-BTC-Leaves-500-Addresses",
-    "source": "coindoo.com",
-    "published": "Fri Jul 31 2026 06:10:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Anthropic Finds Claude Gained Unauthorized Access to 3 Organizations’ Systems",
-    "link": "https://cryptopanic.com/news/33130776/Anthropic-Finds-Claude-Gained-Unauthorized-Access-to-3-Organizations-Systems",
-    "source": "beincrypto.com",
-    "published": "Fri Jul 31 2026 06:05:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Block's Max Guise says the team traced the Coldcard wallet drains to a random-number-generation flaw affecting Mk2 through Mk5 devices.\n\nAffected users are urged to move funds to a new, unaffected wallet as soon as safely possible.",
-    "link": "https://cryptopanic.com/news/33130616/UPDATE-Blocks-Max-Guise-says-the-team-traced-the-Coldcard-wallet-drains-to-a-random-number-generation-flaw-affecting-Mk2-through-Mk5-devices-Affected-users-are-urged-to-move-funds-to-a-new-unaffected-wallet-as-soon-as-safely-possible",
-    "source": "@cointelegraph",
-    "published": "Fri Jul 31 2026 06:00:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Turbocharge your crypto startup's growth with #CMCLabs \n\nApply to CoinMarketCap's accelerator program to kickstart your project onto the world stage",
-    "link": "https://cryptopanic.com/news/33130612/Turbocharge-your-crypto-startups-growth-with-CMCLabs-Apply-to-CoinMarketCaps-accelerator-program-to-kickstart-your-project-onto-the-world-stage",
-    "source": "@coinmarketcap",
-    "published": "Fri Jul 31 2026 06:00:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "James Wynn(@JamesWynnReal)'s 50x #SP500 short was partially liquidated again 4 hours ago.\n\nCurrent position: 164.96 xyz:SP500 ($1.23M)\n\nNew liquidation price: $7,484.48",
-    "link": "https://cryptopanic.com/news/33130668/James-WynnJamesWynnReals-50x-SP500-short-was-partially-liquidated-again-4-hours-ago-Current-position-16496-xyzSP500-123M-New-liquidation-price-748448",
-    "source": "@lookonchain",
-    "published": "Fri Jul 31 2026 05:56:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple's RLUSD Lands On South Korea's Upbit And Bithumb\n\nRipple's ethereum:0x8292bb45bf1ee4d140127049757c2e0ff06317ed is now listed on South Korea's four largest crypto exchanges. Upbit and Bithumb joined Coinone and Korbit in supporting the stablecoin.\n\nThe expansion gives RLUSD",
-    "link": "https://cryptopanic.com/news/33130665/Ripples-RLUSD-Lands-On-South-Koreas-Upbit-And-Bithumb-Ripples-ethereum0x8292bb45bf1ee4d140127049757c2e0ff06317ed-is-now-listed-on-South-Koreas-four-largest-crypto-exchanges-Upbit-and-Bithumb-joined-Coinone-and-Korbit-in-supporting-the-stablecoin-The-expansion-gives-RLUSD",
-    "source": "@bscnews",
-    "published": "Fri Jul 31 2026 05:55:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇯🇵 Japan-listed Quantum Solutions sold 1,000 more ETH for $1.9M to fund its AI data center expansion, cutting its treasury by nearly 30% since mid-June.",
-    "link": "https://cryptopanic.com/news/33130609/LATEST-Japan-listed-Quantum-Solutions-sold-1000-more-ETH-for-19M-to-fund-its-AI-data-center-expansion-cutting-its-treasury-by-nearly-30-since-mid-June",
-    "source": "@coinmarketcap",
-    "published": "Fri Jul 31 2026 05:52:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33130614/Source",
-    "source": "@wublockchain",
-    "published": "Fri Jul 31 2026 05:47:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Spot Bitcoin ETFs Record $233 Million in Net Inflows on July 30\n\nOn July 30 (ET), spot Bitcoin ETFs recorded total net inflows of $233 million, led by BlackRock’s IBIT with $183 million in net inflows. Spot Ethereum ETFs recorded total net inflows of $13.2871 million, led by",
-    "link": "https://cryptopanic.com/news/33130613/Spot-Bitcoin-ETFs-Record-233-Million-in-Net-Inflows-on-July-30-On-July-30-ET-spot-Bitcoin-ETFs-recorded-total-net-inflows-of-233-million-led-by-BlackRocks-IBIT-with-183-million-in-net-inflows-Spot-Ethereum-ETFs-recorded-total-net-inflows-of-132871-million-led-by",
-    "source": "@wublockchain",
-    "published": "Fri Jul 31 2026 05:47:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin flat near $64,000 as Kospi's record 17% surge leaves crypto untouched",
-    "link": "https://cryptopanic.com/news/33130766/Bitcoin-flat-near-64000-as-Kospis-record-17-surge-leaves-crypto-untouched",
-    "source": "coindesk.com",
-    "published": "Fri Jul 31 2026 05:43:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "MSTR Stock Rises Despite $8.22 Billion Quarterly Loss",
-    "link": "https://cryptopanic.com/news/33130487/MSTR-Stock-Rises-Despite-822-Billion-Quarterly-Loss",
-    "source": "coinpaper.com",
-    "published": "Fri Jul 31 2026 05:42:12 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
