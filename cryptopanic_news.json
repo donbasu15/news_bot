@@ -1,5 +1,89 @@
 [
   {
+    "title": "Microsoft Stock Jumps 15.5% as Azure Outlook Drives Record Rally",
+    "link": "https://cryptopanic.com/news/33134894/Microsoft-Stock-Jumps-155-as-Azure-Outlook-Drives-Record-Rally",
+    "source": "coinpaper.com",
+    "published": "Fri Jul 31 2026 20:09:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Mortgage Rates Today: 30-Year Rate Hits 6.66%",
+    "link": "https://cryptopanic.com/news/33134893/Mortgage-Rates-Today-30-Year-Rate-Hits-666",
+    "source": "coinpaper.com",
+    "published": "Fri Jul 31 2026 20:06:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Amazon $AMZN records biggest single-day gain since 2012, surging 15%",
+    "link": "https://cryptopanic.com/news/33134902/JUST-IN-Amazon-AMZN-records-biggest-single-day-gain-since-2012-surging-15",
+    "source": "@watcherguru",
+    "published": "Fri Jul 31 2026 20:04:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "AI Music Company Suno Loses Copyright Case in Germany",
+    "link": "https://cryptopanic.com/news/33134886/AI-Music-Company-Suno-Loses-Copyright-Case-in-Germany",
+    "source": "decrypt.co",
+    "published": "Fri Jul 31 2026 20:03:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tether Reports $1.5B Profit as USDT Dominance Grows",
+    "link": "https://cryptopanic.com/news/33134907/Tether-Reports-15B-Profit-as-USDT-Dominance-Grows",
+    "source": "cryptodnes.bg",
+    "published": "Fri Jul 31 2026 20:02:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Why a 5% US 30 Years Bond Is a Red Alert for Crypto",
+    "link": "https://cryptopanic.com/news/33134868/Why-a-5-US-30-Years-Bond-Is-a-Red-Alert-for-Crypto",
+    "source": "coindoo.com",
+    "published": "Fri Jul 31 2026 20:01:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Shiba Inu Burn Rate Spikes 3,652% In 24 Hours: Can SHIB Hold its 40% Gains?",
+    "link": "https://cryptopanic.com/news/33134901/Shiba-Inu-Burn-Rate-Spikes-3652-In-24-Hours-Can-SHIB-Hold-its-40-Gains",
+    "source": "feeds2.benzinga.com",
+    "published": "Fri Jul 31 2026 20:00:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "U.S. Treasury yield hits 2007 high – What it means for Bitcoin",
+    "link": "https://cryptopanic.com/news/33134866/US-Treasury-yield-hits-2007-high-What-it-means-for-Bitcoin",
+    "source": "ambcrypto.com",
+    "published": "Fri Jul 31 2026 20:00:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$BTC Still very indecisive price action the past few weeks.\n\nNeeds to break the local highs above $67K to get some momentum going.\n\nUntil then, the $60K level below is the support to watch.\n\nAnything in between those levels will just be more chop like we've been seeing.",
+    "link": "https://cryptopanic.com/news/33134834/BTC-Still-very-indecisive-price-action-the-past-few-weeks-Needs-to-break-the-local-highs-above-67K-to-get-some-momentum-going-Until-then-the-60K-level-below-is-the-support-to-watch-Anything-in-between-those-levels-will-just-be-more-chop-like-weve-been-seeing",
+    "source": "@daancrypto",
+    "published": "Fri Jul 31 2026 19:58:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW SPIDERMAN MOVIE LOOKING AWESOME! 🦸",
+    "link": "https://cryptopanic.com/news/33134906/NEW-SPIDERMAN-MOVIE-LOOKING-AWESOME",
+    "source": "@btc_archive",
+    "published": "Fri Jul 31 2026 19:58:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UNI Just Hit a 6-Month High as Uniswap Rolls Out New Token Discovery Tab",
+    "link": "https://cryptopanic.com/news/33134874/UNI-Just-Hit-a-6-Month-High-as-Uniswap-Rolls-Out-New-Token-Discovery-Tab",
+    "source": "cryptopotato.com",
+    "published": "Fri Jul 31 2026 19:56:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crude Oil Prices: Slip as Brent and WTI Cool After July Rally",
+    "link": "https://cryptopanic.com/news/33134825/Crude-Oil-Prices-Slip-as-Brent-and-WTI-Cool-After-July-Rally",
+    "source": "coinpaper.com",
+    "published": "Fri Jul 31 2026 19:51:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Why a $20 billion Bitstamp slump makes Robinhood’s retail app look far weaker than it really is",
     "link": "https://cryptopanic.com/news/33134826/Why-a-20-billion-Bitstamp-slump-makes-Robinhoods-retail-app-look-far-weaker-than-it-really-is",
     "source": "cryptoslate.com",
@@ -18,13 +102,6 @@
     "link": "https://cryptopanic.com/news/33134836/Six-Latin-American-currencies-just-went-onchain-with-free-ramps-LatAm-crypto-platform-Ripio-has-deployed-its-wFIAT-stablecoin-stack-on-Celo-bringing-tokenized-versions-of-the-Argentine-Peso-Brazilian-Real-Mexican-Peso-Colombian-Peso-Chilean-Peso-and-Peruvian-Sol-live-with",
     "source": "@bscnews",
     "published": "Fri Jul 31 2026 19:46:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "US Is Banning Foreign Robots—Even Roombas",
-    "link": "https://cryptopanic.com/news/33134837/US-Is-Banning-Foreign-RobotsEven-Roombas",
-    "source": "@decryptmedia",
-    "published": "Fri Jul 31 2026 19:44:30 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -130,83 +207,6 @@
     "link": "https://cryptopanic.com/news/33134708/Bitcoin-Price-Prediction-BTC-Faces-65000-Test-as-Spot-Demand-Builds",
     "source": "coinpaper.com",
     "published": "Fri Jul 31 2026 19:25:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 LATEST: Senator Cynthia Lummis says the proposed crypto bill would require President Trump to divest his digital asset holdings or place them into a blind trust.",
-    "link": "https://cryptopanic.com/news/33134804/LATEST-Senator-Cynthia-Lummis-says-the-proposed-crypto-bill-would-require-President-Trump-to-divest-his-digital-asset-holdings-or-place-them-into-a-blind-trust",
-    "source": "@cointelegraph",
-    "published": "Fri Jul 31 2026 19:20:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "STANDARD CHARTERED SAYS BITCOIN AT $63K IS A SCREAMING BUY \n\nPoints to Strategy’s \"communication problem\" feeding a negative loop.\n\nBelieves STRC shares will return to $100 as Strategy remains highly solvent.\n\nMaintains $100K year-end Bitcoin price target.",
-    "link": "https://cryptopanic.com/news/33134722/STANDARD-CHARTERED-SAYS-BITCOIN-AT-63K-IS-A-SCREAMING-BUY-Points-to-Strategys-communication-problem-feeding-a-negative-loop-Believes-STRC-shares-will-return-to-100-as-Strategy-remains-highly-solvent-Maintains-100K-year-end-Bitcoin-price-target",
-    "source": "@btc_archive",
-    "published": "Fri Jul 31 2026 19:16:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Vatican finances boosted by gold, real estate gains last year",
-    "link": "https://cryptopanic.com/news/33134807/Vatican-finances-boosted-by-gold-real-estate-gains-last-year",
-    "source": "@reutersbiz",
-    "published": "Fri Jul 31 2026 19:15:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nearly 600 bitcoin worth $38 million was drained through a Coldcard wallet vulnerability, New York sued Kalshi alleging it operates an unlicensed gambling platform, and JPMorgan says fading odds of the CLARITY Act are weighing on crypto markets.\n\n@jennsanasie has what you need to",
-    "link": "https://cryptopanic.com/news/33134802/Nearly-600-bitcoin-worth-38-million-was-drained-through-a-Coldcard-wallet-vulnerability-New-York-sued-Kalshi-alleging-it-operates-an-unlicensed-gambling-platform-and-JPMorgan-says-fading-odds-of-the-CLARITY-Act-are-weighing-on-crypto-markets-jennsanasie-has-what-you-need-to",
-    "source": "@coindesk",
-    "published": "Fri Jul 31 2026 19:15:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Massive investment platform Grayscale officially endorses passing the Clarity Act:\n\n\"For Grayscale, the Clarity Act is critical in ensuring that innovation in asset management will happen in U.S. capital markets\" 🇺🇸",
-    "link": "https://cryptopanic.com/news/33134721/JUST-IN-Massive-investment-platform-Grayscale-officially-endorses-passing-the-Clarity-Act-For-Grayscale-the-Clarity-Act-is-critical-in-ensuring-that-innovation-in-asset-management-will-happen-in-US-capital-markets",
-    "source": "@bitcoinmagazine",
-    "published": "Fri Jul 31 2026 19:14:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Lummis accuses Democrats of tanking the CLARITY Act to protect midterm messaging\n\nSenator Cynthia Lummis (@SenLummis) says Democrats are blocking crypto market-structure legislation to hurt Trump rather than protect consumers, responding to a Politico report that some Democrats",
-    "link": "https://cryptopanic.com/news/33134675/Lummis-accuses-Democrats-of-tanking-the-CLARITY-Act-to-protect-midterm-messaging-Senator-Cynthia-Lummis-SenLummis-says-Democrats-are-blocking-crypto-market-structure-legislation-to-hurt-Trump-rather-than-protect-consumers-responding-to-a-Politico-report-that-some-Democrats",
-    "source": "@bscnews",
-    "published": "Fri Jul 31 2026 19:14:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Binance P2P reopened a completed appeal and froze funds from a different transaction. Is this normal?",
-    "link": "https://cryptopanic.com/news/33134666/Binance-P2P-reopened-a-completed-appeal-and-froze-funds-from-a-different-transaction-Is-this-normal",
-    "source": "r/binance",
-    "published": "Fri Jul 31 2026 19:09:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "New UK finance minister Healey to hold first budget on October 28",
-    "link": "https://cryptopanic.com/news/33134806/New-UK-finance-minister-Healey-to-hold-first-budget-on-October-28",
-    "source": "@reutersbiz",
-    "published": "Fri Jul 31 2026 19:02:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Uniswap launches Earn on its web app and wallet, enabling users to earn yield on $USDC, $USDT, and $ETH with no withdrawal lock-ups.",
-    "link": "https://cryptopanic.com/news/33134803/NEW-Uniswap-launches-Earn-on-its-web-app-and-wallet-enabling-users-to-earn-yield-on-USDC-USDT-and-ETH-with-no-withdrawal-lock-ups",
-    "source": "@cointelegraph",
-    "published": "Fri Jul 31 2026 19:00:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "What you're actually holding when you buy a Binance bStock\n\n@binance's bStocks aren't shares. They're ADGM-regulated certificates issued by BTech Holdings, a Binance affiliate, that track real stocks sitting with US clearing broker Alpaca Securities, with orders routed through",
-    "link": "https://cryptopanic.com/news/33134674/What-youre-actually-holding-when-you-buy-a-Binance-bStock-binances-bStocks-arent-shares-Theyre-ADGM-regulated-certificates-issued-by-BTech-Holdings-a-Binance-affiliate-that-track-real-stocks-sitting-with-US-clearing-broker-Alpaca-Securities-with-orders-routed-through",
-    "source": "@bscnews",
-    "published": "Fri Jul 31 2026 18:59:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hyperliquid Launches HIP-4 Testnet as HYPE Price Tests $53",
-    "link": "https://cryptopanic.com/news/33134843/Hyperliquid-Launches-HIP-4-Testnet-as-HYPE-Price-Tests-53",
-    "source": "coinpedia.org",
-    "published": "Fri Jul 31 2026 18:48:42 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
