@@ -1,5 +1,33 @@
 [
   {
+    "title": "XRP adds 489K accounts in 2026 – Inside XRPL’s network surge",
+    "link": "https://cryptopanic.com/news/33135334/XRP-adds-489K-accounts-in-2026-Inside-XRPLs-network-surge",
+    "source": "ambcrypto.com",
+    "published": "Fri Jul 31 2026 22:00:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Charles Schwab's Massive BTC Prediction?!",
+    "link": "https://cryptopanic.com/news/33135375/Charles-Schwabs-Massive-BTC-Prediction",
+    "source": "SimplyBitcoin",
+    "published": "Fri Jul 31 2026 22:00:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "This week's earnings results from Apple and Amazon — which sent shares of the former plummeting and the latter surging — are 'really instructive for thinking about what's happening in the AI trade right now,' Dean Smith, FolioBeyond's chief strategist and portfolio manager, says",
+    "link": "https://cryptopanic.com/news/33135320/This-weeks-earnings-results-from-Apple-and-Amazon-which-sent-shares-of-the-former-plummeting-and-the-latter-surging-are-really-instructive-for-thinking-about-whats-happening-in-the-AI-trade-right-now-Dean-Smith-FolioBeyonds-chief-strategist-and-portfolio-manager-says",
+    "source": "@reutersbiz",
+    "published": "Fri Jul 31 2026 21:55:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The world's largest custodian is moving fund ownership onchain\n\nBNY (@BNYglobal) has launched a blockchain-based transfer agency, putting legal fund ownership records directly on public blockchains rather than mirroring them, alongside its traditional business servicing $8.6",
+    "link": "https://cryptopanic.com/news/33135382/The-worlds-largest-custodian-is-moving-fund-ownership-onchain-BNY-BNYglobal-has-launched-a-blockchain-based-transfer-agency-putting-legal-fund-ownership-records-directly-on-public-blockchains-rather-than-mirroring-them-alongside-its-traditional-business-servicing-86",
+    "source": "@bscnews",
+    "published": "Fri Jul 31 2026 21:51:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Congratulations to @CarlaBitcoin and @WalkerAmerica on the new addition to their beautiful family. \n\nGreat news on a challenging day to remind us all about what’s most important. \n\nIf you’ve got family, you’ve got everything. ️",
     "link": "https://cryptopanic.com/news/33135300/Congratulations-to-CarlaBitcoin-and-WalkerAmerica-on-the-new-addition-to-their-beautiful-family-Great-news-on-a-challenging-day-to-remind-us-all-about-whats-most-important-If-youve-got-family-youve-got-everything",
     "source": "@btc_archive",
@@ -32,6 +60,13 @@
     "link": "https://cryptopanic.com/news/33135298/JUST-IN-Coinbase-Head-of-Strategy-says-that-he-is-relentlessly-optimistic-that-the-CLARITY-ACT-gets-passed-by-the-Senate",
     "source": "@bitcoinmagazine",
     "published": "Fri Jul 31 2026 21:42:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP holders are pulling coins off exchanges at a pace not seen since 2021\n\n$XRP withdrawal transactions from exchanges have hit their highest level since February 2021, per CryptoQuant data, while monthly inflows have collapsed to roughly 3.6 million XRP, the lowest on record.",
+    "link": "https://cryptopanic.com/news/33135381/XRP-holders-are-pulling-coins-off-exchanges-at-a-pace-not-seen-since-2021-XRP-withdrawal-transactions-from-exchanges-have-hit-their-highest-level-since-February-2021-per-CryptoQuant-data-while-monthly-inflows-have-collapsed-to-roughly-36-million-XRP-the-lowest-on-record",
+    "source": "@bscnews",
+    "published": "Fri Jul 31 2026 21:36:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -133,6 +168,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "HBAR Weekly Update - This Use Case Has Some Legs!",
+    "link": "https://cryptopanic.com/news/33135395/HBAR-Weekly-Update-This-Use-Case-Has-Some-Legs",
+    "source": "r/hedera",
+    "published": "Fri Jul 31 2026 20:57:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "🇺🇸 BIG: Fed Chair Kevin Warsh is considering reducing the frequency of Federal Reserve policy meetings, according to the New York Times.",
     "link": "https://cryptopanic.com/news/33135129/BIG-Fed-Chair-Kevin-Warsh-is-considering-reducing-the-frequency-of-Federal-Reserve-policy-meetings-according-to-the-New-York-Times",
     "source": "@cointelegraph",
@@ -165,48 +207,6 @@
     "link": "https://cryptopanic.com/news/33135128/ALERT-Chainalysis-analysis-indicates-the-38M-Coldcard-hack-targeted-high-value-wallets-first-with-roughly-30-million-stolen-in-the-first-10-minutes-before-500-wallets-were-drained-over-25-minutes",
     "source": "@cointelegraph",
     "published": "Fri Jul 31 2026 20:40:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Michael Saylor and Strategy now officially endorse the passage of the Clarity Act:\n\n\"We support the CLARITY Act and believe a clear, durable market structure framework would help advance the digital asset industry and encourage broader institutional adoption in the",
-    "link": "https://cryptopanic.com/news/33135056/JUST-IN-Michael-Saylor-and-Strategy-now-officially-endorse-the-passage-of-the-Clarity-Act-We-support-the-CLARITY-Act-and-believe-a-clear-durable-market-structure-framework-would-help-advance-the-digital-asset-industry-and-encourage-broader-institutional-adoption-in-the",
-    "source": "@bitcoinmagazine",
-    "published": "Fri Jul 31 2026 20:40:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 Michael Saylor calls on US Senate to pass the crypto Clarity Act.",
-    "link": "https://cryptopanic.com/news/33135057/JUST-IN-Michael-Saylor-calls-on-US-Senate-to-pass-the-crypto-Clarity-Act",
-    "source": "@watcherguru",
-    "published": "Fri Jul 31 2026 20:35:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇺🇸 Texas lawmakers are considering a crypto kiosk ban after Bitcoin ATM scams reportedly cost residents $56.8M in 2025.",
-    "link": "https://cryptopanic.com/news/33135125/LATEST-Texas-lawmakers-are-considering-a-crypto-kiosk-ban-after-Bitcoin-ATM-scams-reportedly-cost-residents-568M-in-2025",
-    "source": "@coinmarketcap",
-    "published": "Fri Jul 31 2026 20:35:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Wall Street Rushes to Raise Amazon Targets After 15% Post-Earnings Stock Surge",
-    "link": "https://cryptopanic.com/news/33135175/Wall-Street-Rushes-to-Raise-Amazon-Targets-After-15-Post-Earnings-Stock-Surge",
-    "source": "beincrypto.com",
-    "published": "Fri Jul 31 2026 20:34:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "S&P 500 & DJI Reverse Lower as Apple Plunges and Treasury Yields Hit Their Highest Since 2025",
-    "link": "https://cryptopanic.com/news/33134982/SP-500-DJI-Reverse-Lower-as-Apple-Plunges-and-Treasury-Yields-Hit-Their-Highest-Since-2025",
-    "source": "coinpaper.com",
-    "published": "Fri Jul 31 2026 20:34:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Pepe Unchained Shifts Toward Consumer-First Blockchain Strategy",
-    "link": "https://cryptopanic.com/news/33135001/Pepe-Unchained-Shifts-Toward-Consumer-First-Blockchain-Strategy",
-    "source": "theholycoins.com",
-    "published": "Fri Jul 31 2026 20:34:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
