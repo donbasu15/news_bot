@@ -1,5 +1,61 @@
 [
   {
+    "title": "Claude Hacked Three Companies in Internal Testing: Anthropic",
+    "link": "https://cryptopanic.com/news/33133058/Claude-Hacked-Three-Companies-in-Internal-Testing-Anthropic",
+    "source": "@decryptmedia",
+    "published": "Fri Jul 31 2026 13:49:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Claude Hacked Three Companies in Internal Testing: Anthropic",
+    "link": "https://cryptopanic.com/news/33133039/Claude-Hacked-Three-Companies-in-Internal-Testing-Anthropic",
+    "source": "decrypt.co",
+    "published": "Fri Jul 31 2026 13:47:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Defends Key Level While Historical Models Hint at More Downside",
+    "link": "https://cryptopanic.com/news/33132993/Bitcoin-Defends-Key-Level-While-Historical-Models-Hint-at-More-Downside",
+    "source": "coindoo.com",
+    "published": "Fri Jul 31 2026 13:47:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MoonPay Integrates With Miracle To Automate Hyperliquid Settlement\n\n@MoonPay officially deploys its \"MoonPay Trade\" execution layer to @MiracleTrade, streamlining capital flows across the @Hyperliquid ecosystem.\n\nThis integration allows traders to bypass the manual, multi-step",
+    "link": "https://cryptopanic.com/news/33133057/MoonPay-Integrates-With-Miracle-To-Automate-Hyperliquid-Settlement-MoonPay-officially-deploys-its-MoonPay-Trade-execution-layer-to-MiracleTrade-streamlining-capital-flows-across-the-Hyperliquid-ecosystem-This-integration-allows-traders-to-bypass-the-manual-multi-step",
+    "source": "@bscnews",
+    "published": "Fri Jul 31 2026 13:46:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Universal Music shares shed quarter of value on streaming concerns",
+    "link": "https://cryptopanic.com/news/33133000/Universal-Music-shares-shed-quarter-of-value-on-streaming-concerns",
+    "source": "@reutersbiz",
+    "published": "Fri Jul 31 2026 13:45:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Galaxy Research said 1,196 wallets were fully drained of 1,082.65 BTC (about $70.2 million) within a 41-minute window on July 30, around 30 hours before Coinkite publicly disclosed the Coldcard Mk3 vulnerability. According to the analysis, every transaction used an identical 30",
+    "link": "https://cryptopanic.com/news/33132992/Galaxy-Research-said-1196-wallets-were-fully-drained-of-108265-BTC-about-702-million-within-a-41-minute-window-on-July-30-around-30-hours-before-Coinkite-publicly-disclosed-the-Coldcard-Mk3-vulnerability-According-to-the-analysis-every-transaction-used-an-identical-30",
+    "source": "@wublockchain",
+    "published": "Fri Jul 31 2026 13:44:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "I love cigars\nI love coffee\nI love summer\nI love sunshine\nI love blue skies\nI love writing music\nI love running outside",
+    "link": "https://cryptopanic.com/news/33132996/I-love-cigars-I-love-coffee-I-love-summer-I-love-sunshine-I-love-blue-skies-I-love-writing-music-I-love-running-outside",
+    "source": "@angrycryptoshow",
+    "published": "Fri Jul 31 2026 13:44:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Give value\nGive credit\nGive thanks",
+    "link": "https://cryptopanic.com/news/33132995/Give-value-Give-credit-Give-thanks",
+    "source": "@angrycryptoshow",
+    "published": "Fri Jul 31 2026 13:43:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "UPDATE: Crypto Banter Founder Ran Neuner hears $ADA and $XRP mentioned, says \"you're bringing up ghosts, and they're giving me shivers.\"",
     "link": "https://cryptopanic.com/news/33132994/UPDATE-Crypto-Banter-Founder-Ran-Neuner-hears-ADA-and-XRP-mentioned-says-youre-bringing-up-ghosts-and-theyre-giving-me-shivers",
     "source": "@angrycryptoshow",
@@ -11,6 +67,13 @@
     "link": "https://cryptopanic.com/news/33132997/INSIGHT-A-Dubai-based-unlicensed-crypto-exchange-called-Shelbit-is-at-the-center-of-a-4-billion-Iranian-sanctions-evasion-network-moving-hundreds-of-millions-to-major-exchanges-including-Binance-per-Reuters",
     "source": "@coindesk",
     "published": "Fri Jul 31 2026 13:37:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Circle secures New York trust charter as crypto regulatory push accelerates",
+    "link": "https://cryptopanic.com/news/33133062/Circle-secures-New-York-trust-charter-as-crypto-regulatory-push-accelerates",
+    "source": "coindesk.com",
+    "published": "Fri Jul 31 2026 13:35:17 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -84,6 +147,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Coinbase's weak quarter leaves Wall Street split on timing of a recovery",
+    "link": "https://cryptopanic.com/news/33133061/Coinbases-weak-quarter-leaves-Wall-Street-split-on-timing-of-a-recovery",
+    "source": "coindesk.com",
+    "published": "Fri Jul 31 2026 13:20:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST:  The IRS warns scammers are mailing counterfeit letters to crypto holders pushing a fake \"Digital Asset Compliance Portal\" to steal assets or data, per Bloomberg.",
     "link": "https://cryptopanic.com/news/33132988/LATEST-The-IRS-warns-scammers-are-mailing-counterfeit-letters-to-crypto-holders-pushing-a-fake-Digital-Asset-Compliance-Portal-to-steal-assets-or-data-per-Bloomberg",
     "source": "@coinmarketcap",
@@ -91,10 +161,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Zebec Taps Stellar and Tangem for Custom Employee Wallets\n\n@Zebec_HQ has partnered with @StellarOrg and @Tangem to deploy custom, hardware-based employee wallets for the global payroll market. \n\nThe initiative integrates NFC-enabled security to provide a \"tap-to-sign\" user",
+    "link": "https://cryptopanic.com/news/33133056/Zebec-Taps-Stellar-and-Tangem-for-Custom-Employee-Wallets-Zebec_HQ-has-partnered-with-StellarOrg-and-Tangem-to-deploy-custom-hardware-based-employee-wallets-for-the-global-payroll-market-The-initiative-integrates-NFC-enabled-security-to-provide-a-tap-to-sign-user",
+    "source": "@bscnews",
+    "published": "Fri Jul 31 2026 13:16:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Memory winners were scarce this week.\n\n🟢 Samsung +8.34% \n🟢 Western Digital +2.55%\n 🟢 SK Hynix +0.58%\n  Seagate flat\n\nThen the drop-off was steep:\n\n Micron -5.03% \n Nanya -10.09% \n SanDisk -10.90% \n Kioxia -14.91% \n Winbond -15.84%\n\nSamsung had the clearest",
     "link": "https://cryptopanic.com/news/33132987/Memory-winners-were-scarce-this-week-Samsung-834-Western-Digital-255-SK-Hynix-058-Seagate-flat-Then-the-drop-off-was-steep-Micron-503-Nanya-1009-SanDisk-1090-Kioxia-1491-Winbond-1584-Samsung-had-the-clearest",
     "source": "@coinmarketcap",
     "published": "Fri Jul 31 2026 13:15:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "3 US Stocks To Watch In August 2026 After Big Earnings Week",
+    "link": "https://cryptopanic.com/news/33133038/3-US-Stocks-To-Watch-In-August-2026-After-Big-Earnings-Week",
+    "source": "beincrypto.com",
+    "published": "Fri Jul 31 2026 13:10:23 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -123,90 +207,6 @@
     "link": "https://cryptopanic.com/news/33132789/Onchain-Commerce-Platform-Rarible-Is-Coming-To-Solana-Rarible-is-set-to-deploy-its-onchain-commerce-architecture-on-the-Solana-blockchain-following-a-decisive-community-mandate-Technical-integration-and-comprehensive-security-audits-are-currently-underway-to-facilitate-a",
     "source": "@bscnews",
     "published": "Fri Jul 31 2026 13:04:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "TD Cowen cuts Sharplink price target to $13 on lower 2026 ether outlook",
-    "link": "https://cryptopanic.com/news/33132728/TD-Cowen-cuts-Sharplink-price-target-to-13-on-lower-2026-ether-outlook",
-    "source": "theblock.co",
-    "published": "Fri Jul 31 2026 13:03:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Former £55.8 billion Barclay’s bank CEO tells CNBC the Clarity Act \"is really good for the banks\" \n\n\"The largest, most successful banks are going to benefit from this.\" \n\n“No one is investing more in innovation right now” than the big banks",
-    "link": "https://cryptopanic.com/news/33132896/JUST-IN-Former-558-billion-Barclays-bank-CEO-tells-CNBC-the-Clarity-Act-is-really-good-for-the-banks-The-largest-most-successful-banks-are-going-to-benefit-from-this-No-one-is-investing-more-in-innovation-right-now-than-the-big-banks",
-    "source": "@bitcoinmagazine",
-    "published": "Fri Jul 31 2026 13:02:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇦🇪 🇮🇷 JUST IN: Dubai-based crypto exchange Shelbit moved $4B through an Iranian sanctions-evasion network, Reuters reports.\n\nVARA said on July 24 that it fined Shelbit for continuing unlicensed activities despite a 2025 cease-and-desist notice.",
-    "link": "https://cryptopanic.com/news/33132998/JUST-IN-Dubai-based-crypto-exchange-Shelbit-moved-4B-through-an-Iranian-sanctions-evasion-network-Reuters-reports-VARA-said-on-July-24-that-it-fined-Shelbit-for-continuing-unlicensed-activities-despite-a-2025-cease-and-desist-notice",
-    "source": "@cointelegraph",
-    "published": "Fri Jul 31 2026 13:01:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "cmc reverse.",
-    "link": "https://cryptopanic.com/news/33132986/cmc-reverse",
-    "source": "@coinmarketcap",
-    "published": "Fri Jul 31 2026 13:00:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Samsung SDS in Talks With Dunamu on Stablecoin Infrastructure",
-    "link": "https://cryptopanic.com/news/33132711/Samsung-SDS-in-Talks-With-Dunamu-on-Stablecoin-Infrastructure",
-    "source": "coinpaprika.com",
-    "published": "Fri Jul 31 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "RWA perps will outpace tokenization",
-    "link": "https://cryptopanic.com/news/33132855/RWA-perps-will-outpace-tokenization",
-    "source": "coindesk.com",
-    "published": "Fri Jul 31 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Circle secures NYDFS trust charter, adding state layer to federal USDC oversight",
-    "link": "https://cryptopanic.com/news/33132706/Circle-secures-NYDFS-trust-charter-adding-state-layer-to-federal-USDC-oversight",
-    "source": "theblock.co",
-    "published": "Fri Jul 31 2026 12:59:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Samsung broke away from a broad memory selloff.\n\n🟢 Samsung +8.34% \n🟢 SK Hynix +0.58% \n Micron -11.67% \n Kioxia -14.91% \n Winbond -15.84% \n SanDisk -20.52%\n\nThe sector sold off sharply midweek, then staged a late-week rebound as Big Tech earnings eased AI capex concerns",
-    "link": "https://cryptopanic.com/news/33132699/Samsung-broke-away-from-a-broad-memory-selloff-Samsung-834-SK-Hynix-058-Micron-1167-Kioxia-1491-Winbond-1584-SanDisk-2052-The-sector-sold-off-sharply-midweek-then-staged-a-late-week-rebound-as-Big-Tech-earnings-eased-AI-capex-concerns",
-    "source": "@coinmarketcap",
-    "published": "Fri Jul 31 2026 12:58:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEWS: $38M in Bitcoin drained by Coldcard Key flaw. Coinkite said it’s likely that an attacker used AI to review previous versions of its open source firmware to uncover a vulnerability.",
-    "link": "https://cryptopanic.com/news/33132791/NEWS-38M-in-Bitcoin-drained-by-Coldcard-Key-flaw-Coinkite-said-its-likely-that-an-attacker-used-AI-to-review-previous-versions-of-its-open-source-firmware-to-uncover-a-vulnerability",
-    "source": "@decryptmedia",
-    "published": "Fri Jul 31 2026 12:57:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Shares of CXMT Corp soared 466% on their Shanghai trading debut following Asia's biggest IPO this year, while Microsoft added nearly $450 billion in market value. Here are the big markets stories of the week. READ",
-    "link": "https://cryptopanic.com/news/33132705/Shares-of-CXMT-Corp-soared-466-on-their-Shanghai-trading-debut-following-Asias-biggest-IPO-this-year-while-Microsoft-added-nearly-450-billion-in-market-value-Here-are-the-big-markets-stories-of-the-week-READ",
-    "source": "@reutersbiz",
-    "published": "Fri Jul 31 2026 12:56:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ireland Green-Lights $351B Tokenized Aviva Fund On XRP",
-    "link": "https://cryptopanic.com/news/33132697/Ireland-Green-Lights-351B-Tokenized-Aviva-Fund-On-XRP",
-    "source": "dailycoin.com",
-    "published": "Fri Jul 31 2026 12:56:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tokenized stocks + memecoins. What happens when the two worlds collide? \n\nFounder of the Robinhood Chain launchpad Pons, @MEADGod, explains why it could have implications far beyond crypto",
-    "link": "https://cryptopanic.com/news/33132790/Tokenized-stocks-memecoins-What-happens-when-the-two-worlds-collide-Founder-of-the-Robinhood-Chain-launchpad-Pons-MEADGod-explains-why-it-could-have-implications-far-beyond-crypto",
-    "source": "@decryptmedia",
-    "published": "Fri Jul 31 2026 12:55:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
