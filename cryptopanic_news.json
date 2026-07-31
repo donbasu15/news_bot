@@ -1,5 +1,117 @@
 [
   {
+    "title": "Ethereum’s 43-day staking queue isn’t a clean demand signal, Sygnum says",
+    "link": "https://cryptopanic.com/news/33133325/Ethereums-43-day-staking-queue-isnt-a-clean-demand-signal-Sygnum-says",
+    "source": "theblock.co",
+    "published": "Fri Jul 31 2026 14:35:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33133280/Source",
+    "source": "@wublockchain",
+    "published": "Fri Jul 31 2026 14:31:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin bitcoin:native has dropped below $63K.",
+    "link": "https://cryptopanic.com/news/33133401/Bitcoin-bitcoinnative-has-dropped-below-63K",
+    "source": "@bscnews",
+    "published": "Fri Jul 31 2026 14:30:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Circle Catches Up With Ripple, Secures New York Trust Charter for USDC Stablecoin",
+    "link": "https://cryptopanic.com/news/33133360/Circle-Catches-Up-With-Ripple-Secures-New-York-Trust-Charter-for-USDC-Stablecoin",
+    "source": "u.today",
+    "published": "Fri Jul 31 2026 14:30:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INSIGHT: Bitcoin and ether price discovery is increasingly happening in perpetual futures, not spot markets. SpaceX's IPO showed just how influential perps have become, and how crypto's 24/7 markets are beginning to challenge Wall Street's traditional model.\n\nPerps Week is",
+    "link": "https://cryptopanic.com/news/33133281/INSIGHT-Bitcoin-and-ether-price-discovery-is-increasingly-happening-in-perpetual-futures-not-spot-markets-SpaceXs-IPO-showed-just-how-influential-perps-have-become-and-how-cryptos-247-markets-are-beginning-to-challenge-Wall-Streets-traditional-model-Perps-Week-is",
+    "source": "@coindesk",
+    "published": "Fri Jul 31 2026 14:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Coldcard says an RNG flaw may have weakened seeds generated on affected Mk3, Mk4, Mk5 and Q firmware.\n\nUsers should update, generate a new seed and migrate funds.",
+    "link": "https://cryptopanic.com/news/33133284/UPDATE-Coldcard-says-an-RNG-flaw-may-have-weakened-seeds-generated-on-affected-Mk3-Mk4-Mk5-and-Q-firmware-Users-should-update-generate-a-new-seed-and-migrate-funds",
+    "source": "@cointelegraph",
+    "published": "Fri Jul 31 2026 14:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Circle earns limited purpose trust charter from strict NYDFS regime",
+    "link": "https://cryptopanic.com/news/33133343/Circle-earns-limited-purpose-trust-charter-from-strict-NYDFS-regime",
+    "source": "cryptopolitan.com",
+    "published": "Fri Jul 31 2026 14:29:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Price Tumbles to 2-Week Low as Fed and BoJ Keep Rates Unchanged: Weekly Crypto Recap",
+    "link": "https://cryptopanic.com/news/33133268/Bitcoin-Price-Tumbles-to-2-Week-Low-as-Fed-and-BoJ-Keep-Rates-Unchanged-Weekly-Crypto-Recap",
+    "source": "cryptopotato.com",
+    "published": "Fri Jul 31 2026 14:25:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Four Pillars Joins Injective as Institutional Validator\n\nFour Pillars (@FourPillarsFP), an institutional-grade validator and research-grade team, has joined @Injective. \n\nThe research firm is now an institutional validator on Injective, strengthening its network security. \n\n$INJ",
+    "link": "https://cryptopanic.com/news/33133400/Four-Pillars-Joins-Injective-as-Institutional-Validator-Four-Pillars-FourPillarsFP-an-institutional-grade-validator-and-research-grade-team-has-joined-Injective-The-research-firm-is-now-an-institutional-validator-on-Injective-strengthening-its-network-security-INJ",
+    "source": "@bscnews",
+    "published": "Fri Jul 31 2026 14:24:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "HOOD Could Rally 85% as Tokenization, Prediction Markets Fuel Crypto Growth: Bernstein",
+    "link": "https://cryptopanic.com/news/33133340/HOOD-Could-Rally-85-as-Tokenization-Prediction-Markets-Fuel-Crypto-Growth-Bernstein",
+    "source": "feeds2.benzinga.com",
+    "published": "Fri Jul 31 2026 14:23:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MicroStrategy is cooked IMO $MSTR",
+    "link": "https://cryptopanic.com/news/33133397/MicroStrategy-is-cooked-IMO-MSTR",
+    "source": "@realallincrypto",
+    "published": "Fri Jul 31 2026 14:20:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Judge lets FTX recovery trust chase Binance for $1.76 billion over a 2021 share buyback",
+    "link": "https://cryptopanic.com/news/33133262/Judge-lets-FTX-recovery-trust-chase-Binance-for-176-billion-over-a-2021-share-buyback",
+    "source": "cryptoslate.com",
+    "published": "Fri Jul 31 2026 14:20:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Spot Trading Volume Hits 2019 Lows as Institutions Shift to Bonds",
+    "link": "https://cryptopanic.com/news/33133245/Bitcoin-Spot-Trading-Volume-Hits-2019-Lows-as-Institutions-Shift-to-Bonds",
+    "source": "dailycoin.com",
+    "published": "Fri Jul 31 2026 14:20:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Whale moves large $BTC holdings to Binance\n\nAccording to @Lookonchain, a whale just deposited 1,060 $BTC into @Binance. \n\nThis could mean two things... \n\nEither for custody purposes, or the whale intends to dump their Bitcoin position. \n\nWhat do you think?",
+    "link": "https://cryptopanic.com/news/33133399/Whale-moves-large-BTC-holdings-to-Binance-According-to-Lookonchain-a-whale-just-deposited-1060-BTC-into-Binance-This-could-mean-two-things-Either-for-custody-purposes-or-the-whale-intends-to-dump-their-Bitcoin-position-What-do-you-think",
+    "source": "@bscnews",
+    "published": "Fri Jul 31 2026 14:17:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Sandmark: Pump fun Reportedly Laid Off Staff Ahead of PUMP Token Vesting\n\nAccording to a report by Sandmark, Pump fun laid off employees in early April, two months before their PUMP token vesting date. At least one former employee forfeited a token allocation worth more than $1",
+    "link": "https://cryptopanic.com/news/33133278/Sandmark-Pump-fun-Reportedly-Laid-Off-Staff-Ahead-of-PUMP-Token-Vesting-According-to-a-report-by-Sandmark-Pump-fun-laid-off-employees-in-early-April-two-months-before-their-PUMP-token-vesting-date-At-least-one-former-employee-forfeited-a-token-allocation-worth-more-than-1",
+    "source": "@wublockchain",
+    "published": "Fri Jul 31 2026 14:17:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Worst is over and bookings are improving, Amadeus CEO says about Iran war hit",
+    "link": "https://cryptopanic.com/news/33133287/Worst-is-over-and-bookings-are-improving-Amadeus-CEO-says-about-Iran-war-hit",
+    "source": "@reutersbiz",
+    "published": "Fri Jul 31 2026 14:15:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "BITCOIN DROPS BELOW $63,000 \n\n$63 MILLION LEVERAGED LONGS LIQUIDATED IN 1H",
     "link": "https://cryptopanic.com/news/33133203/BITCOIN-DROPS-BELOW-63000-63-MILLION-LEVERAGED-LONGS-LIQUIDATED-IN-1H",
     "source": "@btc_archive",
@@ -7,10 +119,45 @@
     "sentiment": "neutral"
   },
   {
+    "title": "U.S. Treasury attacks Iran's Hormuz 'extortion' network",
+    "link": "https://cryptopanic.com/news/33133288/US-Treasury-attacks-Irans-Hormuz-extortion-network",
+    "source": "thestreet.com",
+    "published": "Fri Jul 31 2026 14:14:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Machi(@machibigbrother) was liquidated 3 times as the market dropped.\n\nHis account balance is now below $100K again.\n\nNew liquidation price: $1,843.4",
+    "link": "https://cryptopanic.com/news/33133406/Machimachibigbrother-was-liquidated-3-times-as-the-market-dropped-His-account-balance-is-now-below-100K-again-New-liquidation-price-18434",
+    "source": "@lookonchain",
+    "published": "Fri Jul 31 2026 14:09:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "James Wynn(@JamesWynnReal) was liquidated again!\n\nHe has been liquidated twice today.",
+    "link": "https://cryptopanic.com/news/33133405/James-WynnJamesWynnReal-was-liquidated-again-He-has-been-liquidated-twice-today",
+    "source": "@lookonchain",
+    "published": "Fri Jul 31 2026 14:05:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Shelbit Network Exposed: $4 Billion Crypto Sanctions Dodge",
     "link": "https://cryptopanic.com/news/33133206/Shelbit-Network-Exposed-4-Billion-Crypto-Sanctions-Dodge",
     "source": "cryptodnes.bg",
     "published": "Fri Jul 31 2026 14:01:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Breakingviews - MPS battle may be more than a one-horse race",
+    "link": "https://cryptopanic.com/news/33133286/Breakingviews-MPS-battle-may-be-more-than-a-one-horse-race",
+    "source": "@reutersbiz",
+    "published": "Fri Jul 31 2026 14:01:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Michigan State Retirement Fund increased its Strategy holdings by 141% to 14,000 shares.",
+    "link": "https://cryptopanic.com/news/33133283/UPDATE-Michigan-State-Retirement-Fund-increased-its-Strategy-holdings-by-141-to-14000-shares",
+    "source": "@cointelegraph",
+    "published": "Fri Jul 31 2026 14:01:12 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -25,6 +172,13 @@
     "link": "https://cryptopanic.com/news/33133186/A-wave-of-crypto-shutdowns-has-hit-crypto-cryptocrash-bearmarket-marketupdate-bitcoin",
     "source": "CoinGecko",
     "published": "Fri Jul 31 2026 14:00:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "We’ve been taking the mick out of South Korea’s KOSPI for trading like an altcoin…\n\nWe thought it was down and out after big leg down and overnight prints a huge leg up.\n\nWhat is going on in the Asian markets right now? How can a stock index be so volatile?",
+    "link": "https://cryptopanic.com/news/33133396/Weve-been-taking-the-mick-out-of-South-Koreas-KOSPI-for-trading-like-an-altcoin-We-thought-it-was-down-and-out-after-big-leg-down-and-overnight-prints-a-huge-leg-up-What-is-going-on-in-the-Asian-markets-right-now-How-can-a-stock-index-be-so-volatile",
+    "source": "@realallincrypto",
+    "published": "Fri Jul 31 2026 14:00:27 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -49,164 +203,10 @@
     "sentiment": "neutral"
   },
   {
-    "title": "JUST IN: JPMorgan, Citi, UBS and other major banks successfully test tokenized cross-border payments, settling transactions in an average of 80 seconds.",
-    "link": "https://cryptopanic.com/news/33133200/JUST-IN-JPMorgan-Citi-UBS-and-other-major-banks-successfully-test-tokenized-cross-border-payments-settling-transactions-in-an-average-of-80-seconds",
-    "source": "@watcherguru",
-    "published": "Fri Jul 31 2026 13:51:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Claude Hacked Three Companies in Internal Testing: Anthropic",
-    "link": "https://cryptopanic.com/news/33133039/Claude-Hacked-Three-Companies-in-Internal-Testing-Anthropic",
-    "source": "decrypt.co",
-    "published": "Fri Jul 31 2026 13:47:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Defends Key Level While Historical Models Hint at More Downside",
-    "link": "https://cryptopanic.com/news/33132993/Bitcoin-Defends-Key-Level-While-Historical-Models-Hint-at-More-Downside",
-    "source": "coindoo.com",
-    "published": "Fri Jul 31 2026 13:47:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "MoonPay Integrates With Miracle To Automate Hyperliquid Settlement\n\n@MoonPay officially deploys its \"MoonPay Trade\" execution layer to @MiracleTrade, streamlining capital flows across the @Hyperliquid ecosystem.\n\nThis integration allows traders to bypass the manual, multi-step",
-    "link": "https://cryptopanic.com/news/33133057/MoonPay-Integrates-With-Miracle-To-Automate-Hyperliquid-Settlement-MoonPay-officially-deploys-its-MoonPay-Trade-execution-layer-to-MiracleTrade-streamlining-capital-flows-across-the-Hyperliquid-ecosystem-This-integration-allows-traders-to-bypass-the-manual-multi-step",
-    "source": "@bscnews",
-    "published": "Fri Jul 31 2026 13:46:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nasdaq Surges 300 Points; Amazon Shares Jump Following Upbeat Earnings",
-    "link": "https://cryptopanic.com/news/33133087/Nasdaq-Surges-300-Points-Amazon-Shares-Jump-Following-Upbeat-Earnings",
-    "source": "feeds2.benzinga.com",
-    "published": "Fri Jul 31 2026 13:45:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CLARITY's Chances Are 50-50, Bitwise Exec Says: 'The Industry Will Be too Big to Kill'",
-    "link": "https://cryptopanic.com/news/33133086/CLARITYs-Chances-Are-50-50-Bitwise-Exec-Says-The-Industry-Will-Be-too-Big-to-Kill",
-    "source": "feeds2.benzinga.com",
-    "published": "Fri Jul 31 2026 13:45:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Universal Music shares shed quarter of value on streaming concerns",
-    "link": "https://cryptopanic.com/news/33133000/Universal-Music-shares-shed-quarter-of-value-on-streaming-concerns",
-    "source": "@reutersbiz",
-    "published": "Fri Jul 31 2026 13:45:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Galaxy Research said 1,196 wallets were fully drained of 1,082.65 BTC (about $70.2 million) within a 41-minute window on July 30, around 30 hours before Coinkite publicly disclosed the Coldcard Mk3 vulnerability. According to the analysis, every transaction used an identical 30",
-    "link": "https://cryptopanic.com/news/33132992/Galaxy-Research-said-1196-wallets-were-fully-drained-of-108265-BTC-about-702-million-within-a-41-minute-window-on-July-30-around-30-hours-before-Coinkite-publicly-disclosed-the-Coldcard-Mk3-vulnerability-According-to-the-analysis-every-transaction-used-an-identical-30",
-    "source": "@wublockchain",
-    "published": "Fri Jul 31 2026 13:44:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "I love cigars\nI love coffee\nI love summer\nI love sunshine\nI love blue skies\nI love writing music\nI love running outside",
-    "link": "https://cryptopanic.com/news/33132996/I-love-cigars-I-love-coffee-I-love-summer-I-love-sunshine-I-love-blue-skies-I-love-writing-music-I-love-running-outside",
-    "source": "@angrycryptoshow",
-    "published": "Fri Jul 31 2026 13:44:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Give value\nGive credit\nGive thanks",
-    "link": "https://cryptopanic.com/news/33132995/Give-value-Give-credit-Give-thanks",
-    "source": "@angrycryptoshow",
-    "published": "Fri Jul 31 2026 13:43:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JPMORGAN: BITCOIN & CRYPTO NOW TRADERS’ #1 CONCERN \n Access to liquidity drops to #2 for the first time in 10 years.\n AI, blockchain and digital assets development surge as institutional priorities.\n— Kate Finlayson, JPM Global Head Market Structure & Liquidity Strategy",
-    "link": "https://cryptopanic.com/news/33133202/JPMORGAN-BITCOIN-amp-CRYPTO-NOW-TRADERS-1-CONCERN-Access-to-liquidity-drops-to-2-for-the-first-time-in-10-years-AI-blockchain-and-digital-assets-development-surge-as-institutional-priorities-Kate-Finlayson-JPM-Global-Head-Market-Structure-amp-Liquidity-Strategy",
-    "source": "@btc_archive",
-    "published": "Fri Jul 31 2026 13:41:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Crypto Banter Founder Ran Neuner hears $ADA and $XRP mentioned, says \"you're bringing up ghosts, and they're giving me shivers.\"",
-    "link": "https://cryptopanic.com/news/33132994/UPDATE-Crypto-Banter-Founder-Ran-Neuner-hears-ADA-and-XRP-mentioned-says-youre-bringing-up-ghosts-and-theyre-giving-me-shivers",
-    "source": "@angrycryptoshow",
-    "published": "Fri Jul 31 2026 13:40:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Canary HBAR ETF holds $47.8M after Nasdaq launch",
-    "link": "https://cryptopanic.com/news/33133260/Canary-HBAR-ETF-holds-478M-after-Nasdaq-launch",
-    "source": "r/hedera",
-    "published": "Fri Jul 31 2026 13:38:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INSIGHT: A Dubai-based unlicensed crypto exchange called Shelbit is at the center of a $4 billion Iranian sanctions-evasion network, moving hundreds of millions to major exchanges including Binance, per Reuters.",
-    "link": "https://cryptopanic.com/news/33132997/INSIGHT-A-Dubai-based-unlicensed-crypto-exchange-called-Shelbit-is-at-the-center-of-a-4-billion-Iranian-sanctions-evasion-network-moving-hundreds-of-millions-to-major-exchanges-including-Binance-per-Reuters",
-    "source": "@coindesk",
-    "published": "Fri Jul 31 2026 13:37:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Circle secures New York trust charter as crypto regulatory push accelerates",
-    "link": "https://cryptopanic.com/news/33133062/Circle-secures-New-York-trust-charter-as-crypto-regulatory-push-accelerates",
-    "source": "coindesk.com",
-    "published": "Fri Jul 31 2026 13:35:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33132991/Source",
-    "source": "@wublockchain",
-    "published": "Fri Jul 31 2026 13:34:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: RWA perpetual volume hit $61.7B last week, nearly matching Bitcoin perps on Hyperliquid and Binance, per Talos.",
-    "link": "https://cryptopanic.com/news/33132999/LATEST-RWA-perpetual-volume-hit-617B-last-week-nearly-matching-Bitcoin-perps-on-Hyperliquid-and-Binance-per-Talos",
-    "source": "@cointelegraph",
-    "published": "Fri Jul 31 2026 13:30:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "bStocks Flips xStocks in Total AUM",
-    "link": "https://cryptopanic.com/news/33132989/bStocks-Flips-xStocks-in-Total-AUM",
+    "title": "LATEST:  The 2026 World Cup drove $20B in blockchain prediction market volume, with over 400,000 wallets placing bets, per Chainalysis.",
+    "link": "https://cryptopanic.com/news/33133277/LATEST-The-2026-World-Cup-drove-20B-in-blockchain-prediction-market-volume-with-over-400000-wallets-placing-bets-per-Chainalysis",
     "source": "@coinmarketcap",
-    "published": "Fri Jul 31 2026 13:30:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin's 2026 Civil War: Saylor Calls the Rules a Constitution",
-    "link": "https://cryptopanic.com/news/33132885/Bitcoins-2026-Civil-War-Saylor-Calls-the-Rules-a-Constitution",
-    "source": "spaziocrypto.com",
-    "published": "Fri Jul 31 2026 13:29:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Dubai Exchange Shelbit Moved at Least $4B Through Iran-Linked Network \n\nA Reuters investigation found that unlicensed Dubai-based crypto exchange Shelbit processed at least $4 billion since May 2024 through a network linked to Iranian online gambling, the country’s central bank",
-    "link": "https://cryptopanic.com/news/33132990/Dubai-Exchange-Shelbit-Moved-at-Least-4B-Through-Iran-Linked-Network-A-Reuters-investigation-found-that-unlicensed-Dubai-based-crypto-exchange-Shelbit-processed-at-least-4-billion-since-May-2024-through-a-network-linked-to-Iranian-online-gambling-the-countrys-central-bank",
-    "source": "@wublockchain",
-    "published": "Fri Jul 31 2026 13:28:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "U.S. targets Iran-linked Bitcoin scheme tied to Strait of Hormuz shipping",
-    "link": "https://cryptopanic.com/news/33132863/US-targets-Iran-linked-Bitcoin-scheme-tied-to-Strait-of-Hormuz-shipping",
-    "source": "finbold.com",
-    "published": "Fri Jul 31 2026 13:28:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bernstein Sees 78% Upside In Robinhood Stock",
-    "link": "https://cryptopanic.com/news/33132878/Bernstein-Sees-78-Upside-In-Robinhood-Stock",
-    "source": "cryptoprowl.com",
-    "published": "Fri Jul 31 2026 13:28:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Mining Difficulty Falls To 19.9%",
-    "link": "https://cryptopanic.com/news/33132869/Bitcoin-Mining-Difficulty-Falls-To-199",
-    "source": "cryptoprowl.com",
-    "published": "Fri Jul 31 2026 13:27:00 GMT+0000 (Coordinated Universal Time)",
+    "published": "Fri Jul 31 2026 13:53:07 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
