@@ -1,5 +1,26 @@
 [
   {
+    "title": "GM is building its own native car AI to move beyond Google Gemini",
+    "link": "https://cryptopanic.com/news/33135722/GM-is-building-its-own-native-car-AI-to-move-beyond-Google-Gemini",
+    "source": "cryptopolitan.com",
+    "published": "Sat Aug 01 2026 00:40:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "DoorDash use of Chinese AI model draws House security probe",
+    "link": "https://cryptopanic.com/news/33135687/DoorDash-use-of-Chinese-AI-model-draws-House-security-probe",
+    "source": "cryptopolitan.com",
+    "published": "Sat Aug 01 2026 00:18:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CFTC fines George Santos over Kalshi market manipulation",
+    "link": "https://cryptopanic.com/news/33135686/CFTC-fines-George-Santos-over-Kalshi-market-manipulation",
+    "source": "cryptopolitan.com",
+    "published": "Sat Aug 01 2026 00:16:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Coinbase Posts $359M Q2 Loss as Revenue Drops 19% — But Record Market Share Tells a Different Story",
     "link": "https://cryptopanic.com/news/33135645/Coinbase-Posts-359M-Q2-Loss-as-Revenue-Drops-19-But-Record-Market-Share-Tells-a-Different-Story",
     "source": "btcusa.com",
@@ -11,6 +32,13 @@
     "link": "https://cryptopanic.com/news/33135659/Galaxy-Digital-Says-70000000-Drained-From-Bitcoin-Holders-in-Coldcard-Wallet-Exploit",
     "source": "dailyhodl.com",
     "published": "Sat Aug 01 2026 00:06:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Arthur Hayes(@CryptoHayes) bought high and sold low again!\n\nOver the past 2 hours, he deposited 2,364.38 $ETH into Cumberland and Galaxy Digital, receiving 4.3M $USDC in return.\n\nHis selling price was $1,821, resulting in a loss of $241K (-5.3%).\n\nHe had previously bought 7,213",
+    "link": "https://cryptopanic.com/news/33135699/Arthur-HayesCryptoHayes-bought-high-and-sold-low-again-Over-the-past-2-hours-he-deposited-236438-ETH-into-Cumberland-and-Galaxy-Digital-receiving-43M-USDC-in-return-His-selling-price-was-1821-resulting-in-a-loss-of-241K-53-He-had-previously-bought-7213",
+    "source": "@lookonchain",
+    "published": "Sat Aug 01 2026 00:01:24 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -39,6 +67,13 @@
     "link": "https://cryptopanic.com/news/33135647/JUST-IN-FIFA-President-Gianni-Infantino-has-scrapped-plans-to-sell-off-a-stake-in-the-World-Cup",
     "source": "@cryptonwsuk",
     "published": "Fri Jul 31 2026 23:55:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trader 0xFB36 opened a 2x long on 14.95M $KOMA ($402.5K) on @Aster_DEX and is now up $263.5K, a 131% return.",
+    "link": "https://cryptopanic.com/news/33135698/Trader-0xFB36-opened-a-2x-long-on-1495M-KOMA-4025K-on-Aster_DEX-and-is-now-up-2635K-a-131-return",
+    "source": "@lookonchain",
+    "published": "Fri Jul 31 2026 23:52:05 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33135491/Polkadot-daily-transactions-surge-by-11300-According-to-chainspect_app-transactions-on-Polkadot-DOT-ripped-by-more-than-100x-in-the-space-of-a-single-day-With-that-said-Chainspect-did-disclaim-that-transactions-were-at-just-8-before-ripping-to-986-What-would-it",
     "source": "@bscnews",
     "published": "Fri Jul 31 2026 22:35:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: #Cardano $ADA 24h trade volume reached as high as $400,000,000 according to CoinGecko.",
-    "link": "https://cryptopanic.com/news/33135450/JUST-IN-Cardano-ADA-24h-trade-volume-reached-as-high-as-400000000-according-to-CoinGecko",
-    "source": "@angrycryptoshow",
-    "published": "Fri Jul 31 2026 22:34:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Massive Bitcoin Hack! Your Bitcoin Could Be Stolen (What You Need to Know)",
-    "link": "https://cryptopanic.com/news/33135441/Massive-Bitcoin-Hack-Your-Bitcoin-Could-Be-Stolen-What-You-Need-to-Know",
-    "source": "SimplyBitcoin",
-    "published": "Fri Jul 31 2026 22:31:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Have you noticed more layoffs in your industry this year?",
-    "link": "https://cryptopanic.com/news/33135453/Have-you-noticed-more-layoffs-in-your-industry-this-year",
-    "source": "@cointelegraph",
-    "published": "Fri Jul 31 2026 22:30:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: ️ Circle received a limited purpose trust charter from the New York Department of Financial Services via a subsidiary, enabling custody and fiduciary services under state law.",
-    "link": "https://cryptopanic.com/news/33135447/LATEST-Circle-received-a-limited-purpose-trust-charter-from-the-New-York-Department-of-Financial-Services-via-a-subsidiary-enabling-custody-and-fiduciary-services-under-state-law",
-    "source": "@coinmarketcap",
-    "published": "Fri Jul 31 2026 22:23:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 White House must accept Clarity Act ethics deal — Mike Novogratz\n\n- Issues on enforcement and ethics need compromise.\n\n- Bipartisan ethics language should secure the votes.",
-    "link": "https://cryptopanic.com/news/33135427/White-House-must-accept-Clarity-Act-ethics-deal-Mike-Novogratz-Issues-on-enforcement-and-ethics-need-compromise-Bipartisan-ethics-language-should-secure-the-votes",
-    "source": "@btc_archive",
-    "published": "Fri Jul 31 2026 22:14:54 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
