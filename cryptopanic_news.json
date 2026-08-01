@@ -1,9 +1,65 @@
 [
   {
+    "title": "Analyst Says Binance Stablecoin Net Outflows Hit $7 Billion This Year",
+    "link": "https://cryptopanic.com/news/33137623/Analyst-Says-Binance-Stablecoin-Net-Outflows-Hit-7-Billion-This-Year",
+    "source": "coincu.com",
+    "published": "Sat Aug 01 2026 11:36:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BIG: Gate saw $547M inflows in the past 24 hours.\n\nThat's $471M more than the next highest net inflows.",
+    "link": "https://cryptopanic.com/news/33137578/BIG-Gate-saw-547M-inflows-in-the-past-24-hours-Thats-471M-more-than-the-next-highest-net-inflows",
+    "source": "@cointelegraph",
+    "published": "Sat Aug 01 2026 11:30:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XDC Network is becoming a major player in the RWA game.\n\nAccording to @CertiKCommunity, @XDCNetwork has seen its RWA value explode by some +41% in the space of just over a month.\n\nSaid value has grown from around $1.1 billion at the start of the period, to as high as $1.55",
+    "link": "https://cryptopanic.com/news/33137633/XDC-Network-is-becoming-a-major-player-in-the-RWA-game-According-to-CertiKCommunity-XDCNetwork-has-seen-its-RWA-value-explode-by-some-41-in-the-space-of-just-over-a-month-Said-value-has-grown-from-around-11-billion-at-the-start-of-the-period-to-as-high-as-155",
+    "source": "@bscnews",
+    "published": "Sat Aug 01 2026 11:23:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hong Kong logs 25 crypto romance scams as trust takes another hit",
+    "link": "https://cryptopanic.com/news/33137565/Hong-Kong-logs-25-crypto-romance-scams-as-trust-takes-another-hit",
+    "source": "cryptopolitan.com",
+    "published": "Sat Aug 01 2026 11:19:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: A bipartisan ethics compromise on the CLARITY Act giving state attorneys general enforcement power alongside the DOJ, is now under White House review this weekend, with a Senate floor vote before August recess hanging in the balance.",
+    "link": "https://cryptopanic.com/news/33137577/UPDATE-A-bipartisan-ethics-compromise-on-the-CLARITY-Act-giving-state-attorneys-general-enforcement-power-alongside-the-DOJ-is-now-under-White-House-review-this-weekend-with-a-Senate-floor-vote-before-August-recess-hanging-in-the-balance",
+    "source": "@coindesk",
+    "published": "Sat Aug 01 2026 11:18:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BNB Chain Takes Legal Action Against Former Employee Over Unauthorized Token Issuance\n\nBNB Chain said it is taking legal action against a former employee who allegedly issued a token without authorization. The employee had previously created a wallet address and generated a token",
+    "link": "https://cryptopanic.com/news/33137576/BNB-Chain-Takes-Legal-Action-Against-Former-Employee-Over-Unauthorized-Token-Issuance-BNB-Chain-said-it-is-taking-legal-action-against-a-former-employee-who-allegedly-issued-a-token-without-authorization-The-employee-had-previously-created-a-wallet-address-and-generated-a-token",
+    "source": "@wublockchain",
+    "published": "Sat Aug 01 2026 11:13:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "3iQ Corp Named Institutional Manager of Bhutan’s Bitcoin Reserves",
     "link": "https://cryptopanic.com/news/33137534/3iQ-Corp-Named-Institutional-Manager-of-Bhutans-Bitcoin-Reserves",
     "source": "cryptonews.com",
     "published": "Sat Aug 01 2026 11:13:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇺🇸 Senator Cynthia Lummis accused Democrats of \"a deliberate decision to run out the clock and kill\" the CLARITY Act rather than risk an on-the-record \"no\" vote.",
+    "link": "https://cryptopanic.com/news/33137575/LATEST-Senator-Cynthia-Lummis-accused-Democrats-of-a-deliberate-decision-to-run-out-the-clock-and-kill-the-CLARITY-Act-rather-than-risk-an-on-the-record-no-vote",
+    "source": "@coinmarketcap",
+    "published": "Sat Aug 01 2026 11:10:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BlackRock is Ireland’s largest asset manager, with $1.595T there and 11% of its global AUM domiciled in the country.\n\nNo wonder @Ripple opened in Dublin, and @hedera have also noticed this area as they have already hosted tokenised access to a BlackRock Irish fund.\n$XRP $HBAR",
+    "link": "https://cryptopanic.com/news/33137632/BlackRock-is-Irelands-largest-asset-manager-with-1595T-there-and-11-of-its-global-AUM-domiciled-in-the-country-No-wonder-Ripple-opened-in-Dublin-and-hedera-have-also-noticed-this-area-as-they-have-already-hosted-tokenised-access-to-a-BlackRock-Irish-fund-XRP-HBAR",
+    "source": "@realallincrypto",
+    "published": "Sat Aug 01 2026 11:00:34 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -151,62 +207,6 @@
     "link": "https://cryptopanic.com/news/33137260/PIVX-Weekly-Ecosystem-Update",
     "source": "medium.com/pivx",
     "published": "Sat Aug 01 2026 09:18:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: The XRP Ledger's upcoming xrpld 3.3.0 release brings five amendments to validator vote, including revised versions of Batch and Permission Delegation, both previously pulled after critical bugs were found.",
-    "link": "https://cryptopanic.com/news/33137308/NEW-The-XRP-Ledgers-upcoming-xrpld-330-release-brings-five-amendments-to-validator-vote-including-revised-versions-of-Batch-and-Permission-Delegation-both-previously-pulled-after-critical-bugs-were-found",
-    "source": "@coindesk",
-    "published": "Sat Aug 01 2026 09:18:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "345,000 Americans Warned Following CareCloud AWS Breach, Sensitive Personal, Financial and Medical Records at Risk",
-    "link": "https://cryptopanic.com/news/33137241/345000-Americans-Warned-Following-CareCloud-AWS-Breach-Sensitive-Personal-Financial-and-Medical-Records-at-Risk",
-    "source": "dailyhodl.com",
-    "published": "Sat Aug 01 2026 09:15:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HUGE Movement From AI Into Bitcoin & Crypto We Might Be Seeing The Next Bull Run Begin",
-    "link": "https://cryptopanic.com/news/33137268/HUGE-Movement-From-AI-Into-Bitcoin-Crypto-We-Might-Be-Seeing-The-Next-Bull-Run-Begin",
-    "source": "TheModernInvestor",
-    "published": "Sat Aug 01 2026 09:15:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Arthur Hayes(@CryptoHayes) sold 6.16M $SYN ($658K) and bought 3.05M $ENA ($248K).",
-    "link": "https://cryptopanic.com/news/33137272/Arthur-HayesCryptoHayes-sold-616M-SYN-658K-and-bought-305M-ENA-248K",
-    "source": "@lookonchain",
-    "published": "Sat Aug 01 2026 09:13:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "OpenAI shuts Cambodia-linked ChatGPT accounts over crypto scams",
-    "link": "https://cryptopanic.com/news/33137232/OpenAI-shuts-Cambodia-linked-ChatGPT-accounts-over-crypto-scams",
-    "source": "cryptopolitan.com",
-    "published": "Sat Aug 01 2026 09:12:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tether Reports $4.11 Billion Excess Reserves in Q2 Attestation",
-    "link": "https://cryptopanic.com/news/33137190/Tether-Reports-411-Billion-Excess-Reserves-in-Q2-Attestation",
-    "source": "cryptomegaphone.com",
-    "published": "Sat Aug 01 2026 09:06:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hackers Torch $940M In 6 Months, and Security Audits Missed 94% of It",
-    "link": "https://cryptopanic.com/news/33137219/Hackers-Torch-940M-In-6-Months-and-Security-Audits-Missed-94-of-It",
-    "source": "cryptonews.com",
-    "published": "Sat Aug 01 2026 09:05:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The $STABLE token leads losses among crypto majors.\n\n@Stable's native token is down -12% over the past week, clocking the biggest losses of any asset in CMC's top-100.\n\nIt is followed by @LidoFinance's $LDO and @PythNetwork's $PYTH which are also down -11-12% over the past week.",
-    "link": "https://cryptopanic.com/news/33137271/The-STABLE-token-leads-losses-among-crypto-majors-Stables-native-token-is-down-12-over-the-past-week-clocking-the-biggest-losses-of-any-asset-in-CMCs-top-100-It-is-followed-by-LidoFinances-LDO-and-PythNetworks-PYTH-which-are-also-down-11-12-over-the-past-week",
-    "source": "@bscnews",
-    "published": "Sat Aug 01 2026 09:02:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
