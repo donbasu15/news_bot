@@ -1,9 +1,37 @@
 [
   {
+    "title": "Double-Digit Gains From These 2 Altcoins, Bitcoin Struggles at $63K: Weekend Watch",
+    "link": "https://cryptopanic.com/news/33137248/Double-Digit-Gains-From-These-2-Altcoins-Bitcoin-Struggles-at-63K-Weekend-Watch",
+    "source": "cryptopotato.com",
+    "published": "Sat Aug 01 2026 09:18:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "PIVX Weekly Ecosystem Update",
+    "link": "https://cryptopanic.com/news/33137260/PIVX-Weekly-Ecosystem-Update",
+    "source": "medium.com/pivx",
+    "published": "Sat Aug 01 2026 09:18:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "345,000 Americans Warned Following CareCloud AWS Breach, Sensitive Personal, Financial and Medical Records at Risk",
     "link": "https://cryptopanic.com/news/33137241/345000-Americans-Warned-Following-CareCloud-AWS-Breach-Sensitive-Personal-Financial-and-Medical-Records-at-Risk",
     "source": "dailyhodl.com",
     "published": "Sat Aug 01 2026 09:15:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "HUGE Movement From AI Into Bitcoin & Crypto We Might Be Seeing The Next Bull Run Begin",
+    "link": "https://cryptopanic.com/news/33137268/HUGE-Movement-From-AI-Into-Bitcoin-Crypto-We-Might-Be-Seeing-The-Next-Bull-Run-Begin",
+    "source": "TheModernInvestor",
+    "published": "Sat Aug 01 2026 09:15:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Arthur Hayes(@CryptoHayes) sold 6.16M $SYN ($658K) and bought 3.05M $ENA ($248K).",
+    "link": "https://cryptopanic.com/news/33137272/Arthur-HayesCryptoHayes-sold-616M-SYN-658K-and-bought-305M-ENA-248K",
+    "source": "@lookonchain",
+    "published": "Sat Aug 01 2026 09:13:04 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -25,6 +53,13 @@
     "link": "https://cryptopanic.com/news/33137219/Hackers-Torch-940M-In-6-Months-and-Security-Audits-Missed-94-of-It",
     "source": "cryptonews.com",
     "published": "Sat Aug 01 2026 09:05:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The $STABLE token leads losses among crypto majors.\n\n@Stable's native token is down -12% over the past week, clocking the biggest losses of any asset in CMC's top-100.\n\nIt is followed by @LidoFinance's $LDO and @PythNetwork's $PYTH which are also down -11-12% over the past week.",
+    "link": "https://cryptopanic.com/news/33137271/The-STABLE-token-leads-losses-among-crypto-majors-Stables-native-token-is-down-12-over-the-past-week-clocking-the-biggest-losses-of-any-asset-in-CMCs-top-100-It-is-followed-by-LidoFinances-LDO-and-PythNetworks-PYTH-which-are-also-down-11-12-over-the-past-week",
+    "source": "@bscnews",
+    "published": "Sat Aug 01 2026 09:02:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33136986/QUESTION-Who-is-the-most-influential-crypto-founder",
     "source": "@cointelegraph",
     "published": "Sat Aug 01 2026 07:30:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Coldcard Wallet Flaw Exposed? Hacker Quietly Drains 1,082 BTC Before Security Warning",
-    "link": "https://cryptopanic.com/news/33137116/Coldcard-Wallet-Flaw-Exposed-Hacker-Quietly-Drains-1082-BTC-Before-Security-Warning",
-    "source": "coinpedia.org",
-    "published": "Sat Aug 01 2026 07:19:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Ledger Upgrade Could Make Owning XRP Optional: Will Demand Fall?",
-    "link": "https://cryptopanic.com/news/33136976/XRP-Ledger-Upgrade-Could-Make-Owning-XRP-Optional-Will-Demand-Fall",
-    "source": "beincrypto.com",
-    "published": "Sat Aug 01 2026 07:12:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  The BIS says its Project Agorá settled 800,000 Swiss francs (~$1M) in real-value tokenized payments across 6 currencies, with 28 banks and central banks taking part in 17 transaction scenarios.",
-    "link": "https://cryptopanic.com/news/33136984/LATEST-The-BIS-says-its-Project-Agora-settled-800000-Swiss-francs-1M-in-real-value-tokenized-payments-across-6-currencies-with-28-banks-and-central-banks-taking-part-in-17-transaction-scenarios",
-    "source": "@coinmarketcap",
-    "published": "Sat Aug 01 2026 07:09:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin (BTC) Drop Forces Strategy Into $8,220,000,000 Quarterly Loss While Cash Reserves Grow",
-    "link": "https://cryptopanic.com/news/33136929/Bitcoin-BTC-Drop-Forces-Strategy-Into-8220000000-Quarterly-Loss-While-Cash-Reserves-Grow",
-    "source": "dailyhodl.com",
-    "published": "Sat Aug 01 2026 07:04:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "A new month awaits! July is ending with a reasonable gain for both $BTC & $ETH with some moves on alts.\n\nAugust is historically a pretty slow month for most markets.\n\nKeep in mind that the start of a new month generally comes with some fake-outs and choppy price action for the",
-    "link": "https://cryptopanic.com/news/33136911/A-new-month-awaits-July-is-ending-with-a-reasonable-gain-for-both-BTC-amp-ETH-with-some-moves-on-alts-August-is-historically-a-pretty-slow-month-for-most-markets-Keep-in-mind-that-the-start-of-a-new-month-generally-comes-with-some-fake-outs-and-choppy-price-action-for-the",
-    "source": "@daancrypto",
-    "published": "Sat Aug 01 2026 07:01:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
