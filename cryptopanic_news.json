@@ -1,5 +1,12 @@
 [
   {
+    "title": "STABLES: $1B worth of USDC has left circulation in the past 7 days.",
+    "link": "https://cryptopanic.com/news/33137309/STABLES-1B-worth-of-USDC-has-left-circulation-in-the-past-7-days",
+    "source": "@cointelegraph",
+    "published": "Sat Aug 01 2026 09:30:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Double-Digit Gains From These 2 Altcoins, Bitcoin Struggles at $63K: Weekend Watch",
     "link": "https://cryptopanic.com/news/33137248/Double-Digit-Gains-From-These-2-Altcoins-Bitcoin-Struggles-at-63K-Weekend-Watch",
     "source": "cryptopotato.com",
@@ -11,6 +18,13 @@
     "link": "https://cryptopanic.com/news/33137260/PIVX-Weekly-Ecosystem-Update",
     "source": "medium.com/pivx",
     "published": "Sat Aug 01 2026 09:18:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: The XRP Ledger's upcoming xrpld 3.3.0 release brings five amendments to validator vote, including revised versions of Batch and Permission Delegation, both previously pulled after critical bugs were found.",
+    "link": "https://cryptopanic.com/news/33137308/NEW-The-XRP-Ledgers-upcoming-xrpld-330-release-brings-five-amendments-to-validator-vote-including-revised-versions-of-Batch-and-Permission-Delegation-both-previously-pulled-after-critical-bugs-were-found",
+    "source": "@coindesk",
+    "published": "Sat Aug 01 2026 09:18:29 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33136987/Political-instability-to-weigh-on-Romanias-deficit-reduction-efforts-beyond-2026-Fitch-says",
     "source": "@reutersbiz",
     "published": "Sat Aug 01 2026 07:45:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CLARITY Act Faces Another Critical Weekend as Passage Odds Slide",
-    "link": "https://cryptopanic.com/news/33136978/CLARITY-Act-Faces-Another-Critical-Weekend-as-Passage-Odds-Slide",
-    "source": "cryptopotato.com",
-    "published": "Sat Aug 01 2026 07:36:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "QUESTION: Who is the most influential crypto founder?",
-    "link": "https://cryptopanic.com/news/33136986/QUESTION-Who-is-the-most-influential-crypto-founder",
-    "source": "@cointelegraph",
-    "published": "Sat Aug 01 2026 07:30:05 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
