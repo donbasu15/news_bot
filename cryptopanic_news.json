@@ -14,10 +14,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "🇨🇳 NEW: South China Morning Post says police researchers developed an AI model that detects illicit crypto transactions with nearly 90% accuracy.",
+    "link": "https://cryptopanic.com/news/33141543/NEW-South-China-Morning-Post-says-police-researchers-developed-an-AI-model-that-detects-illicit-crypto-transactions-with-nearly-90-accuracy",
+    "source": "@cointelegraph",
+    "published": "Sun Aug 02 2026 18:31:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Man Faces Prison for Phone Design, Not Crime",
     "link": "https://cryptopanic.com/news/33141536/Man-Faces-Prison-for-Phone-Design-Not-Crime",
     "source": "SimplyBitcoin",
     "published": "Sun Aug 02 2026 18:30:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BIP-110 Activation Frozen After Coldcard Exploit: Is the Soft Fork Dead?",
+    "link": "https://cryptopanic.com/news/33141544/BIP-110-Activation-Frozen-After-Coldcard-Exploit-Is-the-Soft-Fork-Dead",
+    "source": "beincrypto.com",
+    "published": "Sun Aug 02 2026 18:19:51 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -84,16 +98,16 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Chainlink's TWAP Feeds Go Live as Polymarket Moves to Close a Manipulation Window",
-    "link": "https://cryptopanic.com/news/33141339/Chainlinks-TWAP-Feeds-Go-Live-as-Polymarket-Moves-to-Close-a-Manipulation-Window",
-    "source": "coinpaprika.com",
+    "title": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
+    "link": "https://cryptopanic.com/news/33141515/Why-a-DeFi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants",
+    "source": "coindesk.com",
     "published": "Sun Aug 02 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
-    "link": "https://cryptopanic.com/news/33141515/Why-a-DeFi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants",
-    "source": "coindesk.com",
+    "title": "Chainlink's TWAP Feeds Go Live as Polymarket Moves to Close a Manipulation Window",
+    "link": "https://cryptopanic.com/news/33141339/Chainlinks-TWAP-Feeds-Go-Live-as-Polymarket-Moves-to-Close-a-Manipulation-Window",
+    "source": "coinpaprika.com",
     "published": "Sun Aug 02 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33141226/The-US-Treasury-Secretary-Just-Called-Crypto-A-National-Priority",
     "source": "TheCryptoLark",
     "published": "Sun Aug 02 2026 16:00:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tether Q2 2026 Profit Rises as Buffer Halves",
-    "link": "https://cryptopanic.com/news/33141213/Tether-Q2-2026-Profit-Rises-as-Buffer-Halves",
-    "source": "catenaa.com",
-    "published": "Sun Aug 02 2026 16:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The future of crypto payments won't include on-ramps or bridges, Fun CEO says",
-    "link": "https://cryptopanic.com/news/33141329/The-future-of-crypto-payments-wont-include-on-ramps-or-bridges-Fun-CEO-says",
-    "source": "coindesk.com",
-    "published": "Sun Aug 02 2026 16:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
