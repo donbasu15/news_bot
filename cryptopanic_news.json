@@ -1,9 +1,30 @@
 [
   {
+    "title": "funding rate xauusdt vs xautusdt/paxgusdt",
+    "link": "https://cryptopanic.com/news/33140353/funding-rate-xauusdt-vs-xautusdtpaxgusdt",
+    "source": "r/binance",
+    "published": "Sun Aug 02 2026 09:51:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Coinbase Says CLARITY Act Senate Vote Could Happen This Week — Why XRP Bulls Are Excited",
+    "link": "https://cryptopanic.com/news/33140345/Coinbase-Says-CLARITY-Act-Senate-Vote-Could-Happen-This-Week-Why-XRP-Bulls-Are-Excited",
+    "source": "coinpaper.com",
+    "published": "Sun Aug 02 2026 09:44:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Ripple unlocks 1 billion XRP for August: What next?",
     "link": "https://cryptopanic.com/news/33140310/Ripple-unlocks-1-billion-XRP-for-August-What-next",
     "source": "finbold.com",
     "published": "Sun Aug 02 2026 09:31:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "REUTERS: Capital One says it closed 300+ Trump Organization accounts after an anti-money laundering review, not for political reasons.",
+    "link": "https://cryptopanic.com/news/33140359/REUTERS-Capital-One-says-it-closed-300-Trump-Organization-accounts-after-an-anti-money-laundering-review-not-for-political-reasons",
+    "source": "@cointelegraph",
+    "published": "Sun Aug 02 2026 09:31:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -98,13 +119,6 @@
     "sentiment": "neutral"
   },
   {
-    "title": "A Coldcard Firmware Bug Drained 1,082 Bitcoin Before Anyone Noticed",
-    "link": "https://cryptopanic.com/news/33140217/A-Coldcard-Firmware-Bug-Drained-1082-Bitcoin-Before-Anyone-Noticed",
-    "source": "coinpaprika.com",
-    "published": "Sun Aug 02 2026 09:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
     "title": "COLDCARD Exploit: Binance Founder CZ Warns, “Nothing is 100%”",
     "link": "https://cryptopanic.com/news/33140216/COLDCARD-Exploit-Binance-Founder-CZ-Warns-Nothing-is-100",
     "source": "thecoinrepublic.com",
@@ -122,6 +136,13 @@
     "title": "Billionaire Ray Dalio reveals exact Bitcoin allocation",
     "link": "https://cryptopanic.com/news/33140284/Billionaire-Ray-Dalio-reveals-exact-Bitcoin-allocation",
     "source": "thestreet.com",
+    "published": "Sun Aug 02 2026 09:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "A Coldcard Firmware Bug Drained 1,082 Bitcoin Before Anyone Noticed",
+    "link": "https://cryptopanic.com/news/33140217/A-Coldcard-Firmware-Bug-Drained-1082-Bitcoin-Before-Anyone-Noticed",
+    "source": "coinpaprika.com",
     "published": "Sun Aug 02 2026 09:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -186,27 +207,6 @@
     "link": "https://cryptopanic.com/news/33140206/Request-Network-launches-gasless-USDT-transfers-on-Tron",
     "source": "r/tronix",
     "published": "Sun Aug 02 2026 07:50:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: The Coldcard hack is still ongoing with over $88M in stolen finds now, per Alex Thorn.",
-    "link": "https://cryptopanic.com/news/33140086/UPDATE-The-Coldcard-hack-is-still-ongoing-with-over-88M-in-stolen-finds-now-per-Alex-Thorn",
-    "source": "@cointelegraph",
-    "published": "Sun Aug 02 2026 07:47:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Michael Saylor compared STRC to \"kerosene\" upon which other companies can build \"the jet airplanes, the trains, the planes,\" and other refined products.",
-    "link": "https://cryptopanic.com/news/33140085/LATEST-Michael-Saylor-compared-STRC-to-kerosene-upon-which-other-companies-can-build-the-jet-airplanes-the-trains-the-planes-and-other-refined-products",
-    "source": "@coinmarketcap",
-    "published": "Sun Aug 02 2026 07:30:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "InterLink shipped post-quantum security. \n\nThe Seoul Private Mainnet runs post-quantum signatures at the protocol level, per @inter_link's launch announcement. Most chains are still publishing roadmaps for this.\n\nIt sits alongside the human node model, where ITLG staking under",
-    "link": "https://cryptopanic.com/news/33140010/InterLink-shipped-post-quantum-security-The-Seoul-Private-Mainnet-runs-post-quantum-signatures-at-the-protocol-level-per-inter_links-launch-announcement-Most-chains-are-still-publishing-roadmaps-for-this-It-sits-alongside-the-human-node-model-where-ITLG-staking-under",
-    "source": "@bscnews",
-    "published": "Sun Aug 02 2026 07:10:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
