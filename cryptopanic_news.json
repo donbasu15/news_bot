@@ -1,5 +1,26 @@
 [
   {
+    "title": "SEC Freezes Nasdaq’s Bitcoin Options Launch Amid CME Jurisdiction Fight",
+    "link": "https://cryptopanic.com/news/33139861/SEC-Freezes-Nasdaqs-Bitcoin-Options-Launch-Amid-CME-Jurisdiction-Fight",
+    "source": "cryptointelligence.co.uk",
+    "published": "Sun Aug 02 2026 05:20:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "RWA Tokenization Update:\n\nDTCC custodies $114 trillion and began live tokenized trades of Russell 1000 stocks, ETFs, and Treasuries this month, with full launch in October.\n\nThe entire crypto-native tokenized equity market is worth about $1 billion.\n\n@Circle, @Ondo , and @Ripple",
+    "link": "https://cryptopanic.com/news/33139909/RWA-Tokenization-Update-DTCC-custodies-114-trillion-and-began-live-tokenized-trades-of-Russell-1000-stocks-ETFs-and-Treasuries-this-month-with-full-launch-in-October-The-entire-crypto-native-tokenized-equity-market-is-worth-about-1-billion-Circle-Ondo-and-Ripple",
+    "source": "@bscnews",
+    "published": "Sun Aug 02 2026 05:01:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Michael Saylor: Strategy Never Promised It Would Never Sell Bitcoin and Expects to Remain a Net Buyer\n\nMichael Saylor said Strategy has never committed to a “never sell” Bitcoin policy, and its BTC monetization program does not require the company to sell any Bitcoin. He added",
+    "link": "https://cryptopanic.com/news/33139884/Michael-Saylor-Strategy-Never-Promised-It-Would-Never-Sell-Bitcoin-and-Expects-to-Remain-a-Net-Buyer-Michael-Saylor-said-Strategy-has-never-committed-to-a-never-sell-Bitcoin-policy-and-its-BTC-monetization-program-does-not-require-the-company-to-sell-any-Bitcoin-He-added",
+    "source": "@wublockchain",
+    "published": "Sun Aug 02 2026 05:00:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Ledger, Trezor say ‘funds are safe’ after Coldcard flaw helps hacker steal 38M Bitcoin",
     "link": "https://cryptopanic.com/news/33139822/Ledger-Trezor-say-funds-are-safe-after-Coldcard-flaw-helps-hacker-steal-38M-Bitcoin",
     "source": "ambcrypto.com",
@@ -11,6 +32,13 @@
     "link": "https://cryptopanic.com/news/33139817/Visa-Builds-the-Rails-for-Stablecoin-Finance",
     "source": "catenaa.com",
     "published": "Sun Aug 02 2026 05:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Galaxy Research head Alex Thorn said attacks linked to the Coldcard vulnerability are still ongoing and urged affected users who have not yet migrated their assets to move their funds as soon as possible. He said the Bitcoin stolen in the three identified large-scale attack waves",
+    "link": "https://cryptopanic.com/news/33139883/Galaxy-Research-head-Alex-Thorn-said-attacks-linked-to-the-Coldcard-vulnerability-are-still-ongoing-and-urged-affected-users-who-have-not-yet-migrated-their-assets-to-move-their-funds-as-soon-as-possible-He-said-the-Bitcoin-stolen-in-the-three-identified-large-scale-attack-waves",
+    "source": "@wublockchain",
+    "published": "Sun Aug 02 2026 04:57:35 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33139511/LATEST-Trump-says-the-US-has-canceled-planned-strikes-on-Iran-if-a-deal-is-reached-quickly-Cryptos-Total-Market-Cap-is-up-10B-since-the-announcement",
     "source": "@cointelegraph",
     "published": "Sun Aug 02 2026 02:45:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33139510/Source",
-    "source": "@wublockchain",
-    "published": "Sun Aug 02 2026 02:44:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Sanctions didn't push Iran off the financial grid, they pushed it onto stablecoins\n\nIran's crypto economy passed $7.78B last year across roughly 75 domestic exchanges, per Chainalysis, with documented IRGC wallets and leaked data on the Central Bank's own usage.\n\nAnalysts can",
-    "link": "https://cryptopanic.com/news/33139445/Sanctions-didnt-push-Iran-off-the-financial-grid-they-pushed-it-onto-stablecoins-Irans-crypto-economy-passed-778B-last-year-across-roughly-75-domestic-exchanges-per-Chainalysis-with-documented-IRGC-wallets-and-leaked-data-on-the-Central-Banks-own-usage-Analysts-can",
-    "source": "@bscnews",
-    "published": "Sun Aug 02 2026 02:44:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Doctor Profit Says He Will Keep Buying Bitcoin Between $54,000 and $64,000",
-    "link": "https://cryptopanic.com/news/33139632/Doctor-Profit-Says-He-Will-Keep-Buying-Bitcoin-Between-54000-and-64000",
-    "source": "square.binance.com",
-    "published": "Sun Aug 02 2026 02:43:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Going LIVE w/ @dollarcostcrypt now! Join the Moongang and discuss degen opportunities in crypto on this casual Saturday!\n\nThe Crypto Hangover + $63,000 BTC & $1,850 ETH - Ep.#984",
-    "link": "https://cryptopanic.com/news/33139488/Going-LIVE-w-dollarcostcrypt-now-Join-the-Moongang-and-discuss-degen-opportunities-in-crypto-on-this-casual-Saturday-The-Crypto-Hangover-63000-BTC-amp-1850-ETH-Ep984",
-    "source": "@cultivatecrypto",
-    "published": "Sun Aug 02 2026 02:41:51 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
