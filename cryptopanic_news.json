@@ -1,5 +1,33 @@
 [
   {
+    "title": "INSIGHT: Bloomberg's Eric Balchunas questions Coldcard's security.\n\nHe says its tiny 5-person team is why Coinbase, Ledger, and especially spot Bitcoin ETFs are worth the extra fees.",
+    "link": "https://cryptopanic.com/news/33141399/INSIGHT-Bloombergs-Eric-Balchunas-questions-Coldcards-security-He-says-its-tiny-5-person-team-is-why-Coinbase-Ledger-and-especially-spot-Bitcoin-ETFs-are-worth-the-extra-fees",
+    "source": "@cointelegraph",
+    "published": "Sun Aug 02 2026 17:31:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SHIB Price Faces Another Key Resistance Test",
+    "link": "https://cryptopanic.com/news/33141410/SHIB-Price-Faces-Another-Key-Resistance-Test",
+    "source": "coindoo.com",
+    "published": "Sun Aug 02 2026 17:30:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Is Cardano's DeFi ecosystem mounting a recovery...?!\n\n@Cardano has seen its TVL surge by some +9% over the past week, reclaiming a level of nearly $68 million.\n\nThat said, TVL on $ADA is still down -14% over the past week per DefiLlama data.\n\nCardano is currently the 29th largest",
+    "link": "https://cryptopanic.com/news/33141430/Is-Cardanos-DeFi-ecosystem-mounting-a-recovery-Cardano-has-seen-its-TVL-surge-by-some-9-over-the-past-week-reclaiming-a-level-of-nearly-68-million-That-said-TVL-on-ADA-is-still-down-14-over-the-past-week-per-DefiLlama-data-Cardano-is-currently-the-29th-largest",
+    "source": "@bscnews",
+    "published": "Sun Aug 02 2026 17:25:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Coldcard Bitcoin Exploit Balloons to $88 Million as Attackers Keep Draining Wallets",
+    "link": "https://cryptopanic.com/news/33141380/Coldcard-Bitcoin-Exploit-Balloons-to-88-Million-as-Attackers-Keep-Draining-Wallets",
+    "source": "decrypt.co",
+    "published": "Sun Aug 02 2026 17:18:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Chainlink's TWAP Feeds Go Live as Polymarket Moves to Close a Manipulation Window",
     "link": "https://cryptopanic.com/news/33141339/Chainlinks-TWAP-Feeds-Go-Live-as-Polymarket-Moves-to-Close-a-Manipulation-Window",
     "source": "coinpaprika.com",
@@ -7,10 +35,31 @@
     "sentiment": "neutral"
   },
   {
+    "title": "#BREAKING: 2 firefighting helicopters collide midair in Greece",
+    "link": "https://cryptopanic.com/news/33141398/BREAKING-2-firefighting-helicopters-collide-midair-in-Greece",
+    "source": "@cryptonwsuk",
+    "published": "Sun Aug 02 2026 16:56:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "New York State Sues Prediction Market Platform Kalshi Over Unlicensed Betting Operations",
     "link": "https://cryptopanic.com/news/33141350/New-York-State-Sues-Prediction-Market-Platform-Kalshi-Over-Unlicensed-Betting-Operations",
     "source": "dailyhodl.com",
     "published": "Sun Aug 02 2026 16:55:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "#BREAKING: Foreign capital is flooding back into South Korea as investors make a record $5.4B purchase of Korean equities",
+    "link": "https://cryptopanic.com/news/33141397/BREAKING-Foreign-capital-is-flooding-back-into-South-Korea-as-investors-make-a-record-54B-purchase-of-Korean-equities",
+    "source": "@cryptonwsuk",
+    "published": "Sun Aug 02 2026 16:55:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Iranian state media and officials have denied reports that Tehran agreed to reopen the Strait of Hormuz, rejecting claims made by U.S. President Donald Trump that a preliminary deal had been reached.",
+    "link": "https://cryptopanic.com/news/33141396/JUST-IN-Iranian-state-media-and-officials-have-denied-reports-that-Tehran-agreed-to-reopen-the-Strait-of-Hormuz-rejecting-claims-made-by-US-President-Donald-Trump-that-a-preliminary-deal-had-been-reached",
+    "source": "@cryptonwsuk",
+    "published": "Sun Aug 02 2026 16:53:42 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -158,55 +207,6 @@
     "link": "https://cryptopanic.com/news/33141195/JUST-IN-Elon-Musks-SpaceX-SPCX-reports-earnings-for-the-first-time-in-company-history-this-week",
     "source": "@watcherguru",
     "published": "Sun Aug 02 2026 15:12:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "How High Will XRP Price Go if the CLARITY Act Passes in 2026?",
-    "link": "https://cryptopanic.com/news/33141353/How-High-Will-XRP-Price-Go-if-the-CLARITY-Act-Passes-in-2026",
-    "source": "coinpedia.org",
-    "published": "Sun Aug 02 2026 15:04:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stellar's quantum plan means you never have to move your coins\n\nBitcoin's problem is that exposed coins have to migrate to new addresses, and dormant ones never will. @StellarOrg is going the other way.\n\nBecause an account is an address and signers are just mutable state, you'll",
-    "link": "https://cryptopanic.com/news/33141151/Stellars-quantum-plan-means-you-never-have-to-move-your-coins-Bitcoins-problem-is-that-exposed-coins-have-to-migrate-to-new-addresses-and-dormant-ones-never-will-StellarOrg-is-going-the-other-way-Because-an-account-is-an-address-and-signers-are-just-mutable-state-youll",
-    "source": "@bscnews",
-    "published": "Sun Aug 02 2026 15:03:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "What’s the Deal With Meta’s ‘Pervert Glasses’?",
-    "link": "https://cryptopanic.com/news/33141078/Whats-the-Deal-With-Metas-Pervert-Glasses",
-    "source": "decrypt.co",
-    "published": "Sun Aug 02 2026 15:01:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stablecoins Solve On-Chain Speed but Not the Costly Last Mile, Bank of Italy Finds",
-    "link": "https://cryptopanic.com/news/33141071/Stablecoins-Solve-On-Chain-Speed-but-Not-the-Costly-Last-Mile-Bank-of-Italy-Finds",
-    "source": "coinpaprika.com",
-    "published": "Sun Aug 02 2026 15:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇮🇷🇺🇸 Iran says the Strait of Hormuz will remain closed, despite President Trump's claims.",
-    "link": "https://cryptopanic.com/news/33141070/JUST-IN-Iran-says-the-Strait-of-Hormuz-will-remain-closed-despite-President-Trumps-claims",
-    "source": "@watcherguru",
-    "published": "Sun Aug 02 2026 14:50:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "worth continuing to bring up, been 0 explanation",
-    "link": "https://cryptopanic.com/news/33141043/worth-continuing-to-bring-up-been-0-explanation",
-    "source": "@realallincrypto",
-    "published": "Sun Aug 02 2026 14:45:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Price Prediction: Analyst Sees Bigger Bounce Toward $70,000",
-    "link": "https://cryptopanic.com/news/33141352/Bitcoin-Price-Prediction-Analyst-Sees-Bigger-Bounce-Toward-70000",
-    "source": "coinpedia.org",
-    "published": "Sun Aug 02 2026 14:41:57 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
