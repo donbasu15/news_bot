@@ -1,5 +1,40 @@
 [
   {
+    "title": "BitGo launches Link, connecting clients to Coinbase, Kraken, Crypto.com and more",
+    "link": "https://cryptopanic.com/news/33145124/BitGo-launches-Link-connecting-clients-to-Coinbase-Kraken-Cryptocom-and-more",
+    "source": "theblock.co",
+    "published": "Mon Aug 03 2026 11:50:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ioBuilders x Hashgraph - Inside the Asseto Full Stack - With Eric Piscini and Carlos Matilla",
+    "link": "https://cryptopanic.com/news/33145136/ioBuilders-x-Hashgraph-Inside-the-Asseto-Full-Stack-With-Eric-Piscini-and-Carlos-Matilla",
+    "source": "r/hedera",
+    "published": "Mon Aug 03 2026 11:49:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Mortgage Rates Today: 30-Year Rate Nears 7% as Treasury Yields Ease",
+    "link": "https://cryptopanic.com/news/33145071/Mortgage-Rates-Today-30-Year-Rate-Nears-7-as-Treasury-Yields-Ease",
+    "source": "coinpaper.com",
+    "published": "Mon Aug 03 2026 11:45:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP News: xrpld 3.2.1 Hotfix Patches Manifest Flood Draining XRPL Node Resources",
+    "link": "https://cryptopanic.com/news/33145074/XRP-News-xrpld-321-Hotfix-Patches-Manifest-Flood-Draining-XRPL-Node-Resources",
+    "source": "cryptonews.com",
+    "published": "Mon Aug 03 2026 11:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Best AI Receptionists & AI Answering Services for Small Businesses in 2026",
+    "link": "https://cryptopanic.com/news/33145155/Best-AI-Receptionists-AI-Answering-Services-for-Small-Businesses-in-2026",
+    "source": "cryptopolitan.com",
+    "published": "Mon Aug 03 2026 11:40:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Margex Launches $2.7M BTC Airdrop, Rewarding Traders for Trading Volume",
     "link": "https://cryptopanic.com/news/33145051/Margex-Launches-27M-BTC-Airdrop-Rewarding-Traders-for-Trading-Volume",
     "source": "cryptonews.com",
@@ -63,6 +98,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Solo Bitcoin miner nets $200,000 as Coldcard hardware wallet drains rocks sentiment",
+    "link": "https://cryptopanic.com/news/33145140/Solo-Bitcoin-miner-nets-200000-as-Coldcard-hardware-wallet-drains-rocks-sentiment",
+    "source": "coindesk.com",
+    "published": "Mon Aug 03 2026 11:18:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "BlockDAG Announces Partnership With RedotPay on Crypto Super App",
     "link": "https://cryptopanic.com/news/33144955/BlockDAG-Announces-Partnership-With-RedotPay-on-Crypto-Super-App",
     "source": "theholycoins.com",
@@ -70,16 +112,16 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Bitcoin price prediction: Market conditions improve, but BTC needs THIS for a rally",
-    "link": "https://cryptopanic.com/news/33144876/Bitcoin-price-prediction-Market-conditions-improve-but-BTC-needs-THIS-for-a-rally",
-    "source": "ambcrypto.com",
+    "title": "Retail eyes are on Casper Network and PENGU\n\nCasper Network's $CSPR (@Casper_Network) is the number-one trending asset on CoinGecko, alongside @pudgypenguins' $PENGU. \n\nCSPR perpetuals recently went live on @Krakenfx, which could be a major catalyst for the token's trending",
+    "link": "https://cryptopanic.com/news/33145106/Retail-eyes-are-on-Casper-Network-and-PENGU-Casper-Networks-CSPR-Casper_Network-is-the-number-one-trending-asset-on-CoinGecko-alongside-pudgypenguins-PENGU-CSPR-perpetuals-recently-went-live-on-Krakenfx-which-could-be-a-major-catalyst-for-the-tokens-trending",
+    "source": "@bscnews",
     "published": "Mon Aug 03 2026 11:15:33 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Retail eyes are on Casper Network and PENGU\n\nCasper Network's $CSPR (@Casper_Network) is the number-one trending asset on CoinGecko, alongside @pudgypenguins' $PENGU. \n\nCSPR perpetuals recently went live on @Krakenfx, which could be a major catalyst for the token's trending",
-    "link": "https://cryptopanic.com/news/33145106/Retail-eyes-are-on-Casper-Network-and-PENGU-Casper-Networks-CSPR-Casper_Network-is-the-number-one-trending-asset-on-CoinGecko-alongside-pudgypenguins-PENGU-CSPR-perpetuals-recently-went-live-on-Krakenfx-which-could-be-a-major-catalyst-for-the-tokens-trending",
-    "source": "@bscnews",
+    "title": "Bitcoin price prediction: Market conditions improve, but BTC needs THIS for a rally",
+    "link": "https://cryptopanic.com/news/33144876/Bitcoin-price-prediction-Market-conditions-improve-but-BTC-needs-THIS-for-a-rally",
+    "source": "ambcrypto.com",
     "published": "Mon Aug 03 2026 11:15:33 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -165,48 +207,6 @@
     "link": "https://cryptopanic.com/news/33144981/Bitcoin-Long-Dormant-Supply-Reappears-as-a-Miner-Stress-Flag-Turns-On-Historically-this-mix-has-preceded-extended-consolidation-more-often-than-sharp-breaks-By-CryptoOnchain-Full-analysis",
     "source": "@cryptoquant_com",
     "published": "Mon Aug 03 2026 10:58:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Here’s Why Crypto Traders Need to Watch the Fed’s H.4.1 Report This Week",
-    "link": "https://cryptopanic.com/news/33144794/Heres-Why-Crypto-Traders-Need-to-Watch-the-Feds-H41-Report-This-Week",
-    "source": "cryptopotato.com",
-    "published": "Mon Aug 03 2026 10:56:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XDC Network adds Hextrust as its institutional masternode validator",
-    "link": "https://cryptopanic.com/news/33144768/XDC-Network-adds-Hextrust-as-its-institutional-masternode-validator",
-    "source": "cryptopolitan.com",
-    "published": "Mon Aug 03 2026 10:56:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum ETFs Post Best Month Since October 2025 but Fed Hold Chills Demand",
-    "link": "https://cryptopanic.com/news/33145031/Ethereum-ETFs-Post-Best-Month-Since-October-2025-but-Fed-Hold-Chills-Demand",
-    "source": "beincrypto.com",
-    "published": "Mon Aug 03 2026 10:53:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 INSIGHT: Fed Pres. John Williams says the Fed could raise rates if inflation fails to move toward its 2% target, per Reuters.",
-    "link": "https://cryptopanic.com/news/33144986/INSIGHT-Fed-Pres-John-Williams-says-the-Fed-could-raise-rates-if-inflation-fails-to-move-toward-its-2-target-per-Reuters",
-    "source": "@cointelegraph",
-    "published": "Mon Aug 03 2026 10:52:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin, ether decline as Coldcard exploit enters a fifth day",
-    "link": "https://cryptopanic.com/news/33144878/Bitcoin-ether-decline-as-Coldcard-exploit-enters-a-fifth-day",
-    "source": "coindesk.com",
-    "published": "Mon Aug 03 2026 10:51:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Polygon Went Big On Ecosystem Growth In The Past 2 Weeks!\n\nPolygon (@0xPolygon) shared an update on its progress in the industry, highlighting a busy 2-weeks filled with numerous integrations... \n\nOne key highlight is that it surpassed 7.8 billion total transactions, with",
-    "link": "https://cryptopanic.com/news/33144762/Polygon-Went-Big-On-Ecosystem-Growth-In-The-Past-2-Weeks-Polygon-0xPolygon-shared-an-update-on-its-progress-in-the-industry-highlighting-a-busy-2-weeks-filled-with-numerous-integrations-One-key-highlight-is-that-it-surpassed-78-billion-total-transactions-with",
-    "source": "@bscnews",
-    "published": "Mon Aug 03 2026 10:51:18 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
