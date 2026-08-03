@@ -1,5 +1,26 @@
 [
   {
+    "title": "Hong Kong police flag $3.3 million romance scam involving fake crypto app",
+    "link": "https://cryptopanic.com/news/33142835/Hong-Kong-police-flag-33-million-romance-scam-involving-fake-crypto-app",
+    "source": "theblock.co",
+    "published": "Mon Aug 03 2026 03:42:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Arthur Hayes buys back into $ETH just two days after selling, swapping 2.5M $USDC for 1,337 $ETH at ~$1,869.",
+    "link": "https://cryptopanic.com/news/33142883/UPDATE-Arthur-Hayes-buys-back-into-ETH-just-two-days-after-selling-swapping-25M-USDC-for-1337-ETH-at-1869",
+    "source": "@cointelegraph",
+    "published": "Mon Aug 03 2026 03:40:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Polymarket, Polymarket US, and Kalshi Reach Record Monthly Volume of $50.6 Billion in July\n\nPolymarket, Polymarket US, and Kalshi posted combined monthly volume of $50.6 billion in July, an all-time high. Polymarket US volume rose 54% to $5 billion, while Polymarket volume fell",
+    "link": "https://cryptopanic.com/news/33142881/Polymarket-Polymarket-US-and-Kalshi-Reach-Record-Monthly-Volume-of-506-Billion-in-July-Polymarket-Polymarket-US-and-Kalshi-posted-combined-monthly-volume-of-506-billion-in-July-an-all-time-high-Polymarket-US-volume-rose-54-to-5-billion-while-Polymarket-volume-fell",
+    "source": "@wublockchain",
+    "published": "Mon Aug 03 2026 03:33:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Migrate Off COLDCARD Live Support",
     "link": "https://cryptopanic.com/news/33142833/Migrate-Off-COLDCARD-Live-Support",
     "source": "BTCSessions",
@@ -18,6 +39,13 @@
     "link": "https://cryptopanic.com/news/33142788/Whale-wallet-bc1qpt-holding-16400-BTC-104B-transferred-all-16400-BTC-to-a-new-wallet-1-hour-ago-after-7-months-of-inactivity",
     "source": "@lookonchain",
     "published": "Mon Aug 03 2026 03:23:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: The \"sickening\" Coldcard exploit sparks a flight to safety among small Bitcoin hodlers. The Clarity Act stalls with just five days left on the clock. \n\nMore on this week's Hodler's Digest:",
+    "link": "https://cryptopanic.com/news/33142882/LATEST-The-sickening-Coldcard-exploit-sparks-a-flight-to-safety-among-small-Bitcoin-hodlers-The-Clarity-Act-stalls-with-just-five-days-left-on-the-clock-More-on-this-weeks-Hodlers-Digest",
+    "source": "@cointelegraph",
+    "published": "Mon Aug 03 2026 03:20:58 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33142707/STOCKS-Zepto-Delays-IPO-as-Indias-Listing-Boom-Slows",
     "source": "square.binance.com",
     "published": "Mon Aug 03 2026 02:40:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Jim Cramer Reasserts 10 Rules for Investing During Q2 Earnings Season",
-    "link": "https://cryptopanic.com/news/33142706/Jim-Cramer-Reasserts-10-Rules-for-Investing-During-Q2-Earnings-Season",
-    "source": "square.binance.com",
-    "published": "Mon Aug 03 2026 02:40:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CSRC's Wu Qing: Study Expanding Mutual Recognition of Securities and Futures Professional Qualifications Between Mainland China and Hong Kong",
-    "link": "https://cryptopanic.com/news/33142705/CSRCs-Wu-Qing-Study-Expanding-Mutual-Recognition-of-Securities-and-Futures-Professional-Qualifications-Between-Mainland-China-and-Hong-Kong",
-    "source": "square.binance.com",
-    "published": "Mon Aug 03 2026 02:39:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Marubeni CFO: Middle East Conflict Has Had Less Impact on Earnings Than Initially Expected",
-    "link": "https://cryptopanic.com/news/33142704/Marubeni-CFO-Middle-East-Conflict-Has-Had-Less-Impact-on-Earnings-Than-Initially-Expected",
-    "source": "square.binance.com",
-    "published": "Mon Aug 03 2026 02:38:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "STOCKS | Zhipu Slides Over 13% After DeepSeek Launches V4 Flash API Beta",
-    "link": "https://cryptopanic.com/news/33142703/STOCKS-Zhipu-Slides-Over-13-After-DeepSeek-Launches-V4-Flash-API-Beta",
-    "source": "square.binance.com",
-    "published": "Mon Aug 03 2026 02:37:46 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
