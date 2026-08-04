@@ -1,5 +1,54 @@
 [
   {
+    "title": "UK's Metro Bank posts higher first-half profit on stronger lending",
+    "link": "https://cryptopanic.com/news/33150651/UKs-Metro-Bank-posts-higher-first-half-profit-on-stronger-lending",
+    "source": "@reutersbiz",
+    "published": "Tue Aug 04 2026 08:30:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Scandic Coin Questions BitMart Over Delayed Withdrawals",
+    "link": "https://cryptopanic.com/news/33150635/Scandic-Coin-Questions-BitMart-Over-Delayed-Withdrawals",
+    "source": "catenaa.com",
+    "published": "Tue Aug 04 2026 08:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cardano And Injective Connect Through IBC On Testnet\n\nCardano (@Cardano) and Injective (@injective) are now connected through IBC on testnet, enabling direct cross chain communication.\n\nThe integration allows cardano:native and injective-protocol:native to move between both",
+    "link": "https://cryptopanic.com/news/33150729/Cardano-And-Injective-Connect-Through-IBC-On-Testnet-Cardano-Cardano-and-Injective-injective-are-now-connected-through-IBC-on-testnet-enabling-direct-cross-chain-communication-The-integration-allows-cardanonative-and-injective-protocolnative-to-move-between-both",
+    "source": "@bscnews",
+    "published": "Tue Aug 04 2026 08:25:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: $XRP holders can now borrow $RLUSD against their coins on Ethereum without selling, via @FlareNetworks's wrapped $FXRP accepted as collateral on Morpho Blue.",
+    "link": "https://cryptopanic.com/news/33150648/NEW-XRP-holders-can-now-borrow-RLUSD-against-their-coins-on-Ethereum-without-selling-via-FlareNetworkss-wrapped-FXRP-accepted-as-collateral-on-Morpho-Blue",
+    "source": "@coindesk",
+    "published": "Tue Aug 04 2026 08:22:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "For Chinese consumers seeking luxury, prestige skincare is trumping designer bags as a prolonged property downturn and weaker confidence make price tags ever more decisive, even for premium goods. More here",
+    "link": "https://cryptopanic.com/news/33150650/For-Chinese-consumers-seeking-luxury-prestige-skincare-is-trumping-designer-bags-as-a-prolonged-property-downturn-and-weaker-confidence-make-price-tags-ever-more-decisive-even-for-premium-goods-More-here",
+    "source": "@reutersbiz",
+    "published": "Tue Aug 04 2026 08:09:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇪🇺 The EU has begun enforcing the AI Act's transparency rules, requiring chatbots to disclose they are AI, deepfakes to be labeled, and AI-generated content to carry machine-readable marks.",
+    "link": "https://cryptopanic.com/news/33150643/LATEST-The-EU-has-begun-enforcing-the-AI-Acts-transparency-rules-requiring-chatbots-to-disclose-they-are-AI-deepfakes-to-be-labeled-and-AI-generated-content-to-carry-machine-readable-marks",
+    "source": "@coinmarketcap",
+    "published": "Tue Aug 04 2026 08:05:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇮🇹 LATEST: Italy’s largest bank, Intesa Sanpaolo, cut its IBIT holdings by 94% while tripling its staked ETH ETF position in Q2.",
+    "link": "https://cryptopanic.com/news/33150649/LATEST-Italys-largest-bank-Intesa-Sanpaolo-cut-its-IBIT-holdings-by-94-while-tripling-its-staked-ETH-ETF-position-in-Q2",
+    "source": "@cointelegraph",
+    "published": "Tue Aug 04 2026 08:01:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "CZ and Willy Woo Spark Debate: Exchanges Are Safer Than Self-Custody (Flash News)",
     "link": "https://cryptopanic.com/news/33150530/CZ-and-Willy-Woo-Spark-Debate-Exchanges-Are-Safer-Than-Self-Custody-Flash-News",
     "source": "cryptopotato.com",
@@ -7,10 +56,38 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Some big news out of BNY last week as they took another major step toward putting traditional funds fully onchain.\n\nIts new Digital Transfer Agency supports digitally native funds across multiple blockchains, covering tokenisation, custody, distribution, subscriptions and",
+    "link": "https://cryptopanic.com/news/33150728/Some-big-news-out-of-BNY-last-week-as-they-took-another-major-step-toward-putting-traditional-funds-fully-onchain-Its-new-Digital-Transfer-Agency-supports-digitally-native-funds-across-multiple-blockchains-covering-tokenisation-custody-distribution-subscriptions-and",
+    "source": "@realallincrypto",
+    "published": "Tue Aug 04 2026 08:00:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "MiCA Fuels Crypto Momentum Across The EU\n\n99% of European firms expect regulation to support digital asset adoption, Fireblocks says.\n\nThe survey covered more than 600 senior financial executives across Europe and the United Kingdom.\n\nEurope has reportedly moved faster under",
     "link": "https://cryptopanic.com/news/33150495/MiCA-Fuels-Crypto-Momentum-Across-The-EU-99-of-European-firms-expect-regulation-to-support-digital-asset-adoption-Fireblocks-says-The-survey-covered-more-than-600-senior-financial-executives-across-Europe-and-the-United-Kingdom-Europe-has-reportedly-moved-faster-under",
     "source": "@bscnews",
     "published": "Tue Aug 04 2026 08:00:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Coinbase to Shift Institutional Clients to Deribit, World’s Largest Crypto Options Exchange\n\nCoinbase plans to migrate institutional clients’ International Exchange accounts, balances and positions to Deribit on September 9, with trading expected to pause for about 30 minutes.",
+    "link": "https://cryptopanic.com/news/33150646/Coinbase-to-Shift-Institutional-Clients-to-Deribit-Worlds-Largest-Crypto-Options-Exchange-Coinbase-plans-to-migrate-institutional-clients-International-Exchange-accounts-balances-and-positions-to-Deribit-on-September-9-with-trading-expected-to-pause-for-about-30-minutes",
+    "source": "@wublockchain",
+    "published": "Tue Aug 04 2026 07:57:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bhutan's GMC puts part of its bitcoin treasury to work after 10,000 BTC pledge",
+    "link": "https://cryptopanic.com/news/33150698/Bhutans-GMC-puts-part-of-its-bitcoin-treasury-to-work-after-10000-BTC-pledge",
+    "source": "coindesk.com",
+    "published": "Tue Aug 04 2026 07:56:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Why Jim Cramer’s quantum panic isn’t rattling bitcoin as price holds steady around $64,000",
+    "link": "https://cryptopanic.com/news/33150694/Why-Jim-Cramers-quantum-panic-isnt-rattling-bitcoin-as-price-holds-steady-around-64000",
+    "source": "coindesk.com",
+    "published": "Tue Aug 04 2026 07:53:18 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -32,6 +109,13 @@
     "link": "https://cryptopanic.com/news/33150492/There-is-topping-structure-on-so-many-major-stocks-CAT-TA-isnt-a-silver-bullet-just-something-to-factor-in-to-your-assessment-on-markets",
     "source": "@realallincrypto",
     "published": "Tue Aug 04 2026 07:49:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "@DanCoinInvestor Read more ⤵️",
+    "link": "https://cryptopanic.com/news/33150645/DanCoinInvestor-Read-more",
+    "source": "@cryptoquant_com",
+    "published": "Tue Aug 04 2026 07:49:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -123,90 +207,6 @@
     "link": "https://cryptopanic.com/news/33150329/1win-Introduces-Seamless-Web3-Login-and-Crypto-Deposits-via-Trust-Wallet-MetaMask-and-WalletConnect",
     "source": "dailycoin.com",
     "published": "Tue Aug 04 2026 07:23:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Cardano's $ADA hits $0.195, its highest since July 4th, with market cap up 24% in a week even as holder numbers keep falling, per Santiment.",
-    "link": "https://cryptopanic.com/news/33150458/NEW-Cardanos-ADA-hits-0195-its-highest-since-July-4th-with-market-cap-up-24-in-a-week-even-as-holder-numbers-keep-falling-per-Santiment",
-    "source": "@cointelegraph",
-    "published": "Tue Aug 04 2026 07:20:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Exclusive: Shein is seeking a valuation of $30 billion to $40 billion in a Hong Kong initial public offering that the online fast-fashion retailer plans to launch as early as mid-August. More here -",
-    "link": "https://cryptopanic.com/news/33150461/Exclusive-Shein-is-seeking-a-valuation-of-30-billion-to-40-billion-in-a-Hong-Kong-initial-public-offering-that-the-online-fast-fashion-retailer-plans-to-launch-as-early-as-mid-August-More-here-",
-    "source": "@reutersbiz",
-    "published": "Tue Aug 04 2026 07:20:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cashcat Soars After Reported Vlad Tenev Shoutout\n\nCash Cat (@cashcat_token) surged more than 65% over the past 24 hours and doubled over the last seven days.\n\nIndependent social posts claim Robinhood CEO Vlad Tenev referenced the token during a livestream.\n\nThe token's market",
-    "link": "https://cryptopanic.com/news/33150493/Cashcat-Soars-After-Reported-Vlad-Tenev-Shoutout-Cash-Cat-cashcat_token-surged-more-than-65-over-the-past-24-hours-and-doubled-over-the-last-seven-days-Independent-social-posts-claim-Robinhood-CEO-Vlad-Tenev-referenced-the-token-during-a-livestream-The-tokens-market",
-    "source": "@bscnews",
-    "published": "Tue Aug 04 2026 07:16:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Rabobank to spend €2 billion in AI and tech as net profit stagnates",
-    "link": "https://cryptopanic.com/news/33150460/Rabobank-to-spend-2-billion-in-AI-and-tech-as-net-profit-stagnates",
-    "source": "@reutersbiz",
-    "published": "Tue Aug 04 2026 07:15:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cryptocurrency trading volume drops 70% to $15B: Is the market losing steam?",
-    "link": "https://cryptopanic.com/news/33150294/Cryptocurrency-trading-volume-drops-70-to-15B-Is-the-market-losing-steam",
-    "source": "ambcrypto.com",
-    "published": "Tue Aug 04 2026 07:15:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BlackRock Tokenizes $311B Money Market Fund Range in Europe",
-    "link": "https://cryptopanic.com/news/33150285/BlackRock-Tokenizes-311B-Money-Market-Fund-Range-in-Europe",
-    "source": "dailycoin.com",
-    "published": "Tue Aug 04 2026 07:10:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CZ Calls For Balanced Crypto Custody After Coldcard Hack\n\nBinance co-founder Changpeng Zhao (@cz_binance) weighed in on River's 2025 report, which estimates that 1.57 million bitcoin:native have been lost through self custody and 1.51 million BTC on exchanges.\n\nHe said exchange",
-    "link": "https://cryptopanic.com/news/33150297/CZ-Calls-For-Balanced-Crypto-Custody-After-Coldcard-Hack-Binance-co-founder-Changpeng-Zhao-cz_binance-weighed-in-on-Rivers-2025-report-which-estimates-that-157-million-bitcoinnative-have-been-lost-through-self-custody-and-151-million-BTC-on-exchanges-He-said-exchange",
-    "source": "@bscnews",
-    "published": "Tue Aug 04 2026 07:01:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 NOW: Odds of the Clarity Act being signed into law drop to just 27% on Polymarket, down 38 points as traders grow doubtful it happens this year.",
-    "link": "https://cryptopanic.com/news/33150457/NOW-Odds-of-the-Clarity-Act-being-signed-into-law-drop-to-just-27-on-Polymarket-down-38-points-as-traders-grow-doubtful-it-happens-this-year",
-    "source": "@cointelegraph",
-    "published": "Tue Aug 04 2026 07:01:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "There's always a reason not to buy the bottom and always a reason not to sell the top.\n\nThe market manufactures doubt at exactly the right moments.",
-    "link": "https://cryptopanic.com/news/33150295/Theres-always-a-reason-not-to-buy-the-bottom-and-always-a-reason-not-to-sell-the-top-The-market-manufactures-doubt-at-exactly-the-right-moments",
-    "source": "@daancrypto",
-    "published": "Tue Aug 04 2026 07:01:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Algorand hits $0.089 target: Can ALGO whale demand sustain the move?",
-    "link": "https://cryptopanic.com/news/33150246/Algorand-hits-0089-target-Can-ALGO-whale-demand-sustain-the-move",
-    "source": "ambcrypto.com",
-    "published": "Tue Aug 04 2026 07:00:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HashKey Adds JPMorgan to Its Bank Roster With Client Money Account",
-    "link": "https://cryptopanic.com/news/33150235/HashKey-Adds-JPMorgan-to-Its-Bank-Roster-With-Client-Money-Account",
-    "source": "coinpaprika.com",
-    "published": "Tue Aug 04 2026 07:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: OpenAI pushes back on Apple's lawsuit, saying Apple never raised the specific allegations before suing and doesn't actually have any trade secrets they want.\n\n\"Apple is getting this wrong.\"",
-    "link": "https://cryptopanic.com/news/33150222/JUST-IN-OpenAI-pushes-back-on-Apples-lawsuit-saying-Apple-never-raised-the-specific-allegations-before-suing-and-doesnt-actually-have-any-trade-secrets-they-want-Apple-is-getting-this-wrong",
-    "source": "@cointelegraph",
-    "published": "Tue Aug 04 2026 06:53:58 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
