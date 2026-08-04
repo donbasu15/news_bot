@@ -1,9 +1,65 @@
 [
   {
+    "title": "Toyota reported a first-quarter operating profit decline but raised its full-year outlook, expecting $21 billion in profit as it benefits from a weaker yen and marketing efforts. More here",
+    "link": "https://cryptopanic.com/news/33152257/Toyota-reported-a-first-quarter-operating-profit-decline-but-raised-its-full-year-outlook-expecting-21-billion-in-profit-as-it-benefits-from-a-weaker-yen-and-marketing-efforts-More-here",
+    "source": "@reutersbiz",
+    "published": "Tue Aug 04 2026 12:50:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Metro Bank shares fall despite record profit as expectations run high",
+    "link": "https://cryptopanic.com/news/33152255/Metro-Bank-shares-fall-despite-record-profit-as-expectations-run-high",
+    "source": "@reutersbiz",
+    "published": "Tue Aug 04 2026 12:45:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Another Chinese startup AI² Robotics weighs Hong Kong IPO",
+    "link": "https://cryptopanic.com/news/33152145/Another-Chinese-startup-AI2-Robotics-weighs-Hong-Kong-IPO",
+    "source": "cryptopolitan.com",
+    "published": "Tue Aug 04 2026 12:42:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BITCOIN TRADING $210 CHEAPER ON COINBASE \n\n- Negative 'Premium' hits 90-day record\n\n- Longest streak ever, beats late 2018 \n\n- Typically signals weak institutional demand",
+    "link": "https://cryptopanic.com/news/33152177/BITCOIN-TRADING-210-CHEAPER-ON-COINBASE-Negative-Premium-hits-90-day-record-Longest-streak-ever-beats-late-2018-Typically-signals-weak-institutional-demand",
+    "source": "@btc_archive",
+    "published": "Tue Aug 04 2026 12:42:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Russia Bans Bitcoin Mining in Moscow Until 2032: Grid Wins Over Crypto",
+    "link": "https://cryptopanic.com/news/33152154/Russia-Bans-Bitcoin-Mining-in-Moscow-Until-2032-Grid-Wins-Over-Crypto",
+    "source": "spaziocrypto.com",
+    "published": "Tue Aug 04 2026 12:41:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "WATCH: Tesla and SpaceX are already sharing technology, but could their partnership go further? Harry Eastwood from Artemis Investment Management explained to @Reuters how SpaceX’s inclusion in the S&P 500 would give investors access to a deeper liquidity pool",
+    "link": "https://cryptopanic.com/news/33152254/WATCH-Tesla-and-SpaceX-are-already-sharing-technology-but-could-their-partnership-go-further-Harry-Eastwood-from-Artemis-Investment-Management-explained-to-Reuters-how-SpaceXs-inclusion-in-the-SampP-500-would-give-investors-access-to-a-deeper-liquidity-pool",
+    "source": "@reutersbiz",
+    "published": "Tue Aug 04 2026 12:40:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: 🇺🇸 Coinbase CEO Brian Armstrong says America \"needs\" the crypto Clarity Act. \n\n\"Economic security is national security.\"",
     "link": "https://cryptopanic.com/news/33152175/JUST-IN-Coinbase-CEO-Brian-Armstrong-says-America-needs-the-crypto-Clarity-Act-Economic-security-is-national-security",
     "source": "@watcherguru",
     "published": "Tue Aug 04 2026 12:39:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33152250/Source",
+    "source": "@wublockchain",
+    "published": "Tue Aug 04 2026 12:38:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: $55T BNY and Galaxy are partnering to bring staking to BNY’s Digital Asset Custody platform.",
+    "link": "https://cryptopanic.com/news/33152253/JUST-IN-55T-BNY-and-Galaxy-are-partnering-to-bring-staking-to-BNYs-Digital-Asset-Custody-platform",
+    "source": "@cointelegraph",
+    "published": "Tue Aug 04 2026 12:38:24 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -21,10 +77,31 @@
     "sentiment": "neutral"
   },
   {
+    "title": "UPDATE: Anthropic has signed a $10B computing capacity deal with AI cloud startup Volta Infra Holdings, per Bloomberg.",
+    "link": "https://cryptopanic.com/news/33152252/UPDATE-Anthropic-has-signed-a-10B-computing-capacity-deal-with-AI-cloud-startup-Volta-Infra-Holdings-per-Bloomberg",
+    "source": "@cointelegraph",
+    "published": "Tue Aug 04 2026 12:30:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "BNY to add crypto staking to digital asset custody platform",
     "link": "https://cryptopanic.com/news/33152168/BNY-to-add-crypto-staking-to-digital-asset-custody-platform",
     "source": "coindesk.com",
     "published": "Tue Aug 04 2026 12:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitdeer Shares Surge 23% on $4.7 Billion AI Data Center Deal\n\nBitdeer, founded by Bitmain co-founder Jihan Wu, announced that its subsidiary Tydal Data Center AS has signed a 16-year colocation and services agreement with Volta Tydal AS. The project will provide 121 MW of IT",
+    "link": "https://cryptopanic.com/news/33152249/Bitdeer-Shares-Surge-23-on-47-Billion-AI-Data-Center-Deal-Bitdeer-founded-by-Bitmain-co-founder-Jihan-Wu-announced-that-its-subsidiary-Tydal-Data-Center-AS-has-signed-a-16-year-colocation-and-services-agreement-with-Volta-Tydal-AS-The-project-will-provide-121-MW-of-IT",
+    "source": "@wublockchain",
+    "published": "Tue Aug 04 2026 12:26:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: @Coinbase CEO @brian_armstrong urges lawmakers to pass the CLARITY Act: \"Whether people love crypto or hate it, there is broad consensus that we need clear rules to protect consumers.\"",
+    "link": "https://cryptopanic.com/news/33152251/NEW-Coinbase-CEO-brian_armstrong-urges-lawmakers-to-pass-the-CLARITY-Act-Whether-people-love-crypto-or-hate-it-there-is-broad-consensus-that-we-need-clear-rules-to-protect-consumers",
+    "source": "@coindesk",
+    "published": "Tue Aug 04 2026 12:24:06 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -91,16 +168,16 @@
     "sentiment": "neutral"
   },
   {
-    "title": "78 Days Without US Buyers, But Citadel Still Says the Bull Market Is Alive",
-    "link": "https://cryptopanic.com/news/33152036/78-Days-Without-US-Buyers-But-Citadel-Still-Says-the-Bull-Market-Is-Alive",
-    "source": "beincrypto.com",
+    "title": "$AMZN is seeing a small pullback in pre-market trading to retest the previous record high level of resistance that it broke through yesterday.\n\nBulls want to see this level confirmed as support, as falling below could signal a drop back into the range for consolidation.",
+    "link": "https://cryptopanic.com/news/33152178/AMZN-is-seeing-a-small-pullback-in-pre-market-trading-to-retest-the-previous-record-high-level-of-resistance-that-it-broke-through-yesterday-Bulls-want-to-see-this-level-confirmed-as-support-as-falling-below-could-signal-a-drop-back-into-the-range-for-consolidation",
+    "source": "@stackersatoshi",
     "published": "Tue Aug 04 2026 12:01:42 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "$AMZN is seeing a small pullback in pre-market trading to retest the previous record high level of resistance that it broke through yesterday.\n\nBulls want to see this level confirmed as support, as falling below could signal a drop back into the range for consolidation.",
-    "link": "https://cryptopanic.com/news/33152178/AMZN-is-seeing-a-small-pullback-in-pre-market-trading-to-retest-the-previous-record-high-level-of-resistance-that-it-broke-through-yesterday-Bulls-want-to-see-this-level-confirmed-as-support-as-falling-below-could-signal-a-drop-back-into-the-range-for-consolidation",
-    "source": "@stackersatoshi",
+    "title": "78 Days Without US Buyers, But Citadel Still Says the Bull Market Is Alive",
+    "link": "https://cryptopanic.com/news/33152036/78-Days-Without-US-Buyers-But-Citadel-Still-Says-the-Bull-Market-Is-Alive",
+    "source": "beincrypto.com",
     "published": "Tue Aug 04 2026 12:01:42 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -130,83 +207,6 @@
     "link": "https://cryptopanic.com/news/33152055/HUGE-NEWS-out-of-NEARProtocol-as-founder-Illia-Polosukhin-has-proposed-a-protocol-sovereign-fund-starting-with-roughly-30M-NEAR-Instead-of-endlessly-printing-tokens-to-pay-validators-NEAR-could-invest-revenue-and-use-the-returns-to-fund-security-amp-public-goods",
     "source": "@realallincrypto",
     "published": "Tue Aug 04 2026 12:00:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "If you invested $1,000 in gold, Bitcoin and $TRUMP on Inauguration Day, here is what each is worth today",
-    "link": "https://cryptopanic.com/news/33152033/If-you-invested-1000-in-gold-Bitcoin-and-TRUMP-on-Inauguration-Day-here-is-what-each-is-worth-today",
-    "source": "thestreet.com",
-    "published": "Tue Aug 04 2026 12:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Here's Why Cardano (ADA) Leads the Top 10 Crypto Gainers This Week",
-    "link": "https://cryptopanic.com/news/33151848/Heres-Why-Cardano-ADA-Leads-the-Top-10-Crypto-Gainers-This-Week",
-    "source": "coinpaper.com",
-    "published": "Tue Aug 04 2026 11:59:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SHIB's market cap doesn't tell the whole story\n\nIf you check CoinGecko or any price aggregator, $SHIB has one of the largest market caps. \n\nHowever, even with its large market cap of approximately $2.94B, the asset is trading 94.2% below its all-time high. \n\nVery few tokens hold",
-    "link": "https://cryptopanic.com/news/33152059/SHIBs-market-cap-doesnt-tell-the-whole-story-If-you-check-CoinGecko-or-any-price-aggregator-SHIB-has-one-of-the-largest-market-caps-However-even-with-its-large-market-cap-of-approximately-294B-the-asset-is-trading-942-below-its-all-time-high-Very-few-tokens-hold",
-    "source": "@bscnews",
-    "published": "Tue Aug 04 2026 11:56:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Binance Becomes Bitcoin's Default Shelter as Self-Custody Trust Cracks\n\n“Binance reserves increased from roughly 650K to 659K BTC, meaning the exchange accounted for approximately 51% of the net increase across all exchanges.” – By @MorenoDV_ \n\nLink ⤵️",
-    "link": "https://cryptopanic.com/news/33151958/Binance-Becomes-Bitcoins-Default-Shelter-as-Self-Custody-Trust-Cracks-Binance-reserves-increased-from-roughly-650K-to-659K-BTC-meaning-the-exchange-accounted-for-approximately-51-of-the-net-increase-across-all-exchanges-By-MorenoDV_-Link",
-    "source": "@cryptoquant_com",
-    "published": "Tue Aug 04 2026 11:51:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Odds of CLARITY crypto legislation passing sink to 27% as Treasury, White House, SEC, and Senate leads quit",
-    "link": "https://cryptopanic.com/news/33151830/Odds-of-CLARITY-crypto-legislation-passing-sink-to-27-as-Treasury-White-House-SEC-and-Senate-leads-quit",
-    "source": "cryptoslate.com",
-    "published": "Tue Aug 04 2026 11:50:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "WATCH: From a US ban on some of China's robots to air taxis taking flight, here are the major tech stories of the week",
-    "link": "https://cryptopanic.com/news/33151968/WATCH-From-a-US-ban-on-some-of-Chinas-robots-to-air-taxis-taking-flight-here-are-the-major-tech-stories-of-the-week",
-    "source": "@reutersbiz",
-    "published": "Tue Aug 04 2026 11:50:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 Wells Fargo, America's third-largest bank, is launching tokenized deposits for corporate clients.",
-    "link": "https://cryptopanic.com/news/33151841/JUST-IN-Wells-Fargo-Americas-third-largest-bank-is-launching-tokenized-deposits-for-corporate-clients",
-    "source": "@watcherguru",
-    "published": "Tue Aug 04 2026 11:49:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nearly 70% of WLFI's supply is still locked \n\nWith a market cap of approximately $1.73B and a fully diluted valuation of $5.44B, $WLFI's total circulating supply is ~32%. \n\nThis means that nearly 70% of @worldlibertyfi's token supply is still locked. \n\nIt also means that the",
-    "link": "https://cryptopanic.com/news/33151783/Nearly-70-of-WLFIs-supply-is-still-locked-With-a-market-cap-of-approximately-173B-and-a-fully-diluted-valuation-of-544B-WLFIs-total-circulating-supply-is-32-This-means-that-nearly-70-of-worldlibertyfis-token-supply-is-still-locked-It-also-means-that-the",
-    "source": "@bscnews",
-    "published": "Tue Aug 04 2026 11:46:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Illinois Residents Pursue $32.5 Billion Class-Action Lawsuit Against Apple Over Photos App",
-    "link": "https://cryptopanic.com/news/33151856/Illinois-Residents-Pursue-325-Billion-Class-Action-Lawsuit-Against-Apple-Over-Photos-App",
-    "source": "dailyhodl.com",
-    "published": "Tue Aug 04 2026 11:45:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Rabobank to spend €2 billion in AI and tech as net profit stagnates",
-    "link": "https://cryptopanic.com/news/33151966/Rabobank-to-spend-2-billion-in-AI-and-tech-as-net-profit-stagnates",
-    "source": "@reutersbiz",
-    "published": "Tue Aug 04 2026 11:45:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Top 3 Altcoins to Watch for the First Week of August 2026",
-    "link": "https://cryptopanic.com/news/33152035/Top-3-Altcoins-to-Watch-for-the-First-Week-of-August-2026",
-    "source": "beincrypto.com",
-    "published": "Tue Aug 04 2026 11:44:41 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
