@@ -1,9 +1,44 @@
 [
   {
+    "title": "BlackRock Adds Third Onchain Fund as Asset Managers Eye Stablecoin Reserves",
+    "link": "https://cryptopanic.com/news/33149216/BlackRock-Adds-Third-Onchain-Fund-as-Asset-Managers-Eye-Stablecoin-Reserves",
+    "source": "www.blockhead.co",
+    "published": "Tue Aug 04 2026 02:15:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Crisis! Worse Than Mt. Gox?!",
+    "link": "https://cryptopanic.com/news/33149224/Bitcoin-Crisis-Worse-Than-Mt-Gox",
+    "source": "SimplyBitcoin",
+    "published": "Tue Aug 04 2026 02:00:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ONDO loses key support as team dumps 20M tokens: Can bulls hold on?",
+    "link": "https://cryptopanic.com/news/33149192/ONDO-loses-key-support-as-team-dumps-20M-tokens-Can-bulls-hold-on",
+    "source": "ambcrypto.com",
+    "published": "Tue Aug 04 2026 02:00:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Circle Adds New York Trust Charter to USDC Regulatory Framework",
+    "link": "https://cryptopanic.com/news/33149187/Circle-Adds-New-York-Trust-Charter-to-USDC-Regulatory-Framework",
+    "source": "catenaa.com",
+    "published": "Tue Aug 04 2026 02:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "President Trump accused ExxonMobil and Chevron of making ‘too much money’ off higher fuel prices and said the oil giants should ‘give some of that back to the public,’ a notable break from his ‌usual alliance with the industry. More here",
     "link": "https://cryptopanic.com/news/33149141/President-Trump-accused-ExxonMobil-and-Chevron-of-making-too-much-money-off-higher-fuel-prices-and-said-the-oil-giants-should-give-some-of-that-back-to-the-public-a-notable-break-from-his-usual-alliance-with-the-industry-More-here",
     "source": "@reutersbiz",
     "published": "Tue Aug 04 2026 01:44:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MARC ANDREESSEN: Clarity Act needed to stop another FTX.\n\n• Washington supports because Bitcoin didn’t die.\n\n• Years of crackdowns held back adoption.  \n\n• Calls for rules like those for stocks & bonds.",
+    "link": "https://cryptopanic.com/news/33149226/MARC-ANDREESSEN-Clarity-Act-needed-to-stop-another-FTX-Washington-supports-because-Bitcoin-didnt-die-Years-of-crackdowns-held-back-adoption-Calls-for-rules-like-those-for-stocks-amp-bonds",
+    "source": "@btc_archive",
+    "published": "Tue Aug 04 2026 01:39:31 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33148972/Mastercard-Completes-BVNK-Acquisition-to-Expand-Stablecoin-Services",
     "source": "square.binance.com",
     "published": "Tue Aug 04 2026 00:33:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Mastercard Completes Acquisition of Stablecoin Infrastructure Firm BVNK",
-    "link": "https://cryptopanic.com/news/33148971/Mastercard-Completes-Acquisition-of-Stablecoin-Infrastructure-Firm-BVNK",
-    "source": "square.binance.com",
-    "published": "Tue Aug 04 2026 00:33:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "US stocks kicked off August on a strong note, sending the Dow to a record close as signs of easing US-Iran tensions pulled down oil prices and Treasury yields during a busy week for earnings and economic data",
-    "link": "https://cryptopanic.com/news/33149034/US-stocks-kicked-off-August-on-a-strong-note-sending-the-Dow-to-a-record-close-as-signs-of-easing-US-Iran-tensions-pulled-down-oil-prices-and-Treasury-yields-during-a-busy-week-for-earnings-and-economic-data",
-    "source": "@reutersbiz",
-    "published": "Tue Aug 04 2026 00:27:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "PancakeSwap's metrics are quite frankly INSANE.\n\nSince launch, leading DeFi platform @PancakeSwap has...\n\n- Seen $2.06 TRILLION in cumulative DEX volume.\n- Generated $1.77 billion in cumulative fees.\n- Burned 56.88 million $CAKE tokens since peak supply.\n\nPancakeSwap has expanded",
-    "link": "https://cryptopanic.com/news/33148778/PancakeSwaps-metrics-are-quite-frankly-INSANE-Since-launch-leading-DeFi-platform-PancakeSwap-has-Seen-206-TRILLION-in-cumulative-DEX-volume-Generated-177-billion-in-cumulative-fees-Burned-5688-million-CAKE-tokens-since-peak-supply-PancakeSwap-has-expanded",
-    "source": "@bscnews",
-    "published": "Tue Aug 04 2026 00:25:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "DEX Share Of Spot Trading Hits Record 24% In July, The Block Reports",
-    "link": "https://cryptopanic.com/news/33148970/DEX-Share-Of-Spot-Trading-Hits-Record-24-In-July-The-Block-Reports",
-    "source": "square.binance.com",
-    "published": "Tue Aug 04 2026 00:23:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LpdFi Protocol Suffers $700,000 Attack After Flash Loan Manipulation",
-    "link": "https://cryptopanic.com/news/33148969/LpdFi-Protocol-Suffers-700000-Attack-After-Flash-Loan-Manipulation",
-    "source": "square.binance.com",
-    "published": "Tue Aug 04 2026 00:23:40 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
