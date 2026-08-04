@@ -1,5 +1,96 @@
 [
   {
+    "title": "Hut 8’s Stock Falls On Poor Financial Results",
+    "link": "https://cryptopanic.com/news/33154742/Hut-8s-Stock-Falls-On-Poor-Financial-Results",
+    "source": "cryptoprowl.com",
+    "published": "Tue Aug 04 2026 20:33:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Police Have Arrested 37 Americans Over AI Data Center Protests This Year",
+    "link": "https://cryptopanic.com/news/33154728/Police-Have-Arrested-37-Americans-Over-AI-Data-Center-Protests-This-Year",
+    "source": "decrypt.co",
+    "published": "Tue Aug 04 2026 20:30:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin's Darkest Hour - Hardware Wallet Betrayal Exposed!",
+    "link": "https://cryptopanic.com/news/33154740/Bitcoins-Darkest-Hour-Hardware-Wallet-Betrayal-Exposed",
+    "source": "SimplyBitcoin",
+    "published": "Tue Aug 04 2026 20:30:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ondo's user base is sprinting\n\nHolders of @Ondo's tokenized products grew 15.7% over the past 30 days to 192,056, while monthly transfer volume jumped 27.8% to $2.76B. Activity is growing faster than the assets themselves, a sign demand is broadening rather than riding price.",
+    "link": "https://cryptopanic.com/news/33154780/Ondos-user-base-is-sprinting-Holders-of-Ondos-tokenized-products-grew-157-over-the-past-30-days-to-192056-while-monthly-transfer-volume-jumped-278-to-276B-Activity-is-growing-faster-than-the-assets-themselves-a-sign-demand-is-broadening-rather-than-riding-price",
+    "source": "@bscnews",
+    "published": "Tue Aug 04 2026 20:28:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SpaceX tops Wall Street revenue forecast, posts $540 million loss on bitcoin holdings",
+    "link": "https://cryptopanic.com/news/33154768/SpaceX-tops-Wall-Street-revenue-forecast-posts-540-million-loss-on-bitcoin-holdings",
+    "source": "coindesk.com",
+    "published": "Tue Aug 04 2026 20:26:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Dinari launched tokenized trading for 724 US stocks for eligible US investors using USDC through self-custody wallets on Ethereum, Arbitrum, Base and Avalanche.",
+    "link": "https://cryptopanic.com/news/33154712/LATEST-Dinari-launched-tokenized-trading-for-724-US-stocks-for-eligible-US-investors-using-USDC-through-self-custody-wallets-on-Ethereum-Arbitrum-Base-and-Avalanche",
+    "source": "@coinmarketcap",
+    "published": "Tue Aug 04 2026 20:25:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CLARITY Act Hits a Crunch Week: Clock Runs To Recess",
+    "link": "https://cryptopanic.com/news/33154696/CLARITY-Act-Hits-a-Crunch-Week-Clock-Runs-To-Recess",
+    "source": "dailycoin.com",
+    "published": "Tue Aug 04 2026 20:21:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INSIGHT: Cantor Fitzgerald said SK Hynix’s U.S.-listed shares could double over the next 12 months, citing continued strength in AI memory demand.",
+    "link": "https://cryptopanic.com/news/33154714/INSIGHT-Cantor-Fitzgerald-said-SK-Hynixs-US-listed-shares-could-double-over-the-next-12-months-citing-continued-strength-in-AI-memory-demand",
+    "source": "@cointelegraph",
+    "published": "Tue Aug 04 2026 20:20:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Jim Cramer Selling His Bitcoin, Prompting Beeple to Joke: ‘The Bottom Is In’",
+    "link": "https://cryptopanic.com/news/33154706/Jim-Cramer-Selling-His-Bitcoin-Prompting-Beeple-to-Joke-The-Bottom-Is-In",
+    "source": "feeds2.benzinga.com",
+    "published": "Tue Aug 04 2026 20:13:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bernstein Backs TeraWulf Over CleanSpark, Core Scientific in Texas Data Center Audit",
+    "link": "https://cryptopanic.com/news/33154705/Bernstein-Backs-TeraWulf-Over-CleanSpark-Core-Scientific-in-Texas-Data-Center-Audit",
+    "source": "feeds2.benzinga.com",
+    "published": "Tue Aug 04 2026 20:13:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SpaceX Crypto Holdings Drop $539 Million as Debut Earnings Beat Wall Street",
+    "link": "https://cryptopanic.com/news/33154766/SpaceX-Crypto-Holdings-Drop-539-Million-as-Debut-Earnings-Beat-Wall-Street",
+    "source": "beincrypto.com",
+    "published": "Tue Aug 04 2026 20:12:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Did the Coldcard Hack Just Hand Spot Bitcoin ETFs Their Strongest Bull Case Yet?",
+    "link": "https://cryptopanic.com/news/33154700/Did-the-Coldcard-Hack-Just-Hand-Spot-Bitcoin-ETFs-Their-Strongest-Bull-Case-Yet",
+    "source": "feeds2.benzinga.com",
+    "published": "Tue Aug 04 2026 20:12:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The biggest stablecoin isn't the busiest one\n\n$USDT commands the largest market cap in stablecoins, but Token Terminal data shows ethereum:0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48 doing the heavy lifting onchain, moving $3.2T in transfer volume over the past 30 days against",
+    "link": "https://cryptopanic.com/news/33154779/The-biggest-stablecoin-isnt-the-busiest-one-USDT-commands-the-largest-market-cap-in-stablecoins-but-Token-Terminal-data-shows-ethereum0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48-doing-the-heavy-lifting-onchain-moving-32T-in-transfer-volume-over-the-past-30-days-against",
+    "source": "@bscnews",
+    "published": "Tue Aug 04 2026 20:12:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "BREAKING: SPACEX KEPT ALL OF ITS 18,712 BITCOIN",
     "link": "https://cryptopanic.com/news/33154656/BREAKING-SPACEX-KEPT-ALL-OF-ITS-18712-BITCOIN",
     "source": "@btc_archive",
@@ -7,10 +98,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "A frog, a countdown, and a fresh domain from the biggest DEX in DeFi. Guesses on what hops out tomorrow?",
+    "link": "https://cryptopanic.com/news/33154778/A-frog-a-countdown-and-a-fresh-domain-from-the-biggest-DEX-in-DeFi-Guesses-on-what-hops-out-tomorrow",
+    "source": "@bscnews",
+    "published": "Tue Aug 04 2026 20:05:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: Elon Musk's SpaceX $SPCX reports $7.8 billion in revenue for Q2 2026, beating expectations.",
     "link": "https://cryptopanic.com/news/33154654/JUST-IN-Elon-Musks-SpaceX-SPCX-reports-78-billion-in-revenue-for-Q2-2026-beating-expectations",
     "source": "@watcherguru",
     "published": "Tue Aug 04 2026 20:04:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$BTC Definitely a change in market dynamics compared to those last two major high timeframe legs down.\n\nBut a lot is going on here. With daily and weekly levels closing in on each other, price is getting more and more compressed every day.\n\nEventually this will lead to a large",
+    "link": "https://cryptopanic.com/news/33154776/BTC-Definitely-a-change-in-market-dynamics-compared-to-those-last-two-major-high-timeframe-legs-down-But-a-lot-is-going-on-here-With-daily-and-weekly-levels-closing-in-on-each-other-price-is-getting-more-and-more-compressed-every-day-Eventually-this-will-lead-to-a-large",
+    "source": "@daancrypto",
+    "published": "Tue Aug 04 2026 20:04:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -42,10 +147,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "BIG: FBI Director Kash Patel said Operation Blackout has seized over $15 billion in cryptocurrency and dismantled a global scam network.",
+    "link": "https://cryptopanic.com/news/33154713/BIG-FBI-Director-Kash-Patel-said-Operation-Blackout-has-seized-over-15-billion-in-cryptocurrency-and-dismantled-a-global-scam-network",
+    "source": "@cointelegraph",
+    "published": "Tue Aug 04 2026 19:59:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Cloudflare is building stablecoin wallets for AI agents\n\n@Cloudflare has announced Cloudflare Wallets, programmable wallets designed to let AI agents pay for APIs and content autonomously using stablecoin micropayments over the x402 protocol. Handles are claimable now at",
     "link": "https://cryptopanic.com/news/33154601/Cloudflare-is-building-stablecoin-wallets-for-AI-agents-Cloudflare-has-announced-Cloudflare-Wallets-programmable-wallets-designed-to-let-AI-agents-pay-for-APIs-and-content-autonomously-using-stablecoin-micropayments-over-the-x402-protocol-Handles-are-claimable-now-at",
     "source": "@bscnews",
     "published": "Tue Aug 04 2026 19:54:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇿🇦 South African regulators have proposed draft rules requiring crypto sent offshore to go through an authorized provider and be reported to the central bank's FinSurv.",
+    "link": "https://cryptopanic.com/news/33154711/LATEST-South-African-regulators-have-proposed-draft-rules-requiring-crypto-sent-offshore-to-go-through-an-authorized-provider-and-be-reported-to-the-central-banks-FinSurv",
+    "source": "@coinmarketcap",
+    "published": "Tue Aug 04 2026 19:53:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -88,125 +207,6 @@
     "link": "https://cryptopanic.com/news/33154600/Solanas-10x-burn-proposal-just-cleared-its-first-hurdle-The-governance-package-that-would-multiply-solanas-daily-burns-more-than-tenfold-has-crossed-its-15-support-threshold-at-6522M-SOL-from-76-validators-with-Helius-and-Jupiter-the-largest-backers-at-16M-and-1247M-SOL",
     "source": "@bscnews",
     "published": "Tue Aug 04 2026 19:39:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: SpaceX $SPCX partners with Nvidia $NVDA to design 'Starmind' space datacenter satellite payload.",
-    "link": "https://cryptopanic.com/news/33154652/JUST-IN-SpaceX-SPCX-partners-with-Nvidia-NVDA-to-design-Starmind-space-datacenter-satellite-payload",
-    "source": "@watcherguru",
-    "published": "Tue Aug 04 2026 19:37:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "If the CLARITY Act doesn't pass, what can't the SEC do? @HesterPeirce says the toughest issue is overseeing platforms where non-security crypto assets trade alongside securities, something that requires legislation, not just rulemaking.\n\nThank you to @realfi_co  for being a",
-    "link": "https://cryptopanic.com/news/33154556/If-the-CLARITY-Act-doesnt-pass-what-cant-the-SEC-do-HesterPeirce-says-the-toughest-issue-is-overseeing-platforms-where-non-security-crypto-assets-trade-alongside-securities-something-that-requires-legislation-not-just-rulemaking-Thank-you-to-realfi_co-for-being-a",
-    "source": "@coindesk",
-    "published": "Tue Aug 04 2026 19:35:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Analyst links sudden $1.8B Bitcoin wallet movement to historic fraud",
-    "link": "https://cryptopanic.com/news/33154575/Analyst-links-sudden-18B-Bitcoin-wallet-movement-to-historic-fraud",
-    "source": "thestreet.com",
-    "published": "Tue Aug 04 2026 19:34:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana Aggregator Race Heats Up as OKX, DFlow Gain Ground on Jupiter",
-    "link": "https://cryptopanic.com/news/33154036/Solana-Aggregator-Race-Heats-Up-as-OKX-DFlow-Gain-Ground-on-Jupiter",
-    "source": "solanafloor.com",
-    "published": "Tue Aug 04 2026 19:34:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stellar Flips Ethereum In Government Debt Tokenization",
-    "link": "https://cryptopanic.com/news/33154517/Stellar-Flips-Ethereum-In-Government-Debt-Tokenization",
-    "source": "dailycoin.com",
-    "published": "Tue Aug 04 2026 19:34:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cloudflare kicks off stablecoin wallet rollout for AI agents to pay for APIs and online content",
-    "link": "https://cryptopanic.com/news/33154523/Cloudflare-kicks-off-stablecoin-wallet-rollout-for-AI-agents-to-pay-for-APIs-and-online-content",
-    "source": "theblock.co",
-    "published": "Tue Aug 04 2026 19:33:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BNY Partners with Galaxy to Launch Institutional Crypto Staking",
-    "link": "https://cryptopanic.com/news/33154618/BNY-Partners-with-Galaxy-to-Launch-Institutional-Crypto-Staking",
-    "source": "cryptodnes.bg",
-    "published": "Tue Aug 04 2026 19:31:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP ETFs See 4-Day Inflow Streak: So Why Is XRP Stuck At $1.08?",
-    "link": "https://cryptopanic.com/news/33154546/XRP-ETFs-See-4-Day-Inflow-Streak-So-Why-Is-XRP-Stuck-At-108",
-    "source": "feeds2.benzinga.com",
-    "published": "Tue Aug 04 2026 19:30:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Anthropic Signs $10Bn Deal With New Cloud Startup",
-    "link": "https://cryptopanic.com/news/33154478/Anthropic-Signs-10Bn-Deal-With-New-Cloud-Startup",
-    "source": "catenaa.com",
-    "published": "Tue Aug 04 2026 19:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Coinkite CTO Peter Gray linked to the code behind the $114M Coldcard hack",
-    "link": "https://cryptopanic.com/news/33154516/Coinkite-CTO-Peter-Gray-linked-to-the-code-behind-the-114M-Coldcard-hack",
-    "source": "cryptopolitan.com",
-    "published": "Tue Aug 04 2026 19:24:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Pi is going to pay for robots\n\nPi Network (@PiCoreTeam) has joined RoboPay as a payment partner, with $PI set to be used for robot services across the Fabric network (@FabricFND). RoboPay was built so AI agents can discover, hire and pay robots autonomously onchain, and this deal",
-    "link": "https://cryptopanic.com/news/33154599/Pi-is-going-to-pay-for-robots-Pi-Network-PiCoreTeam-has-joined-RoboPay-as-a-payment-partner-with-PI-set-to-be-used-for-robot-services-across-the-Fabric-network-FabricFND-RoboPay-was-built-so-AI-agents-can-discover-hire-and-pay-robots-autonomously-onchain-and-this-deal",
-    "source": "@bscnews",
-    "published": "Tue Aug 04 2026 19:24:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRPL Commons President David Bchiri Says XRP Ledger's Contrarian Design Is Its Competitive Advantage",
-    "link": "https://cryptopanic.com/news/33154464/XRPL-Commons-President-David-Bchiri-Says-XRP-Ledgers-Contrarian-Design-Is-Its-Competitive-Advantage",
-    "source": "coinpaper.com",
-    "published": "Tue Aug 04 2026 19:22:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇳🇴 NEW: Bitdeer signed a 16-year lease worth up to $4.7 billion to provide AI data center capacity in Norway, expanding its push into AI infrastructure.",
-    "link": "https://cryptopanic.com/news/33154558/NEW-Bitdeer-signed-a-16-year-lease-worth-up-to-47-billion-to-provide-AI-data-center-capacity-in-Norway-expanding-its-push-into-AI-infrastructure",
-    "source": "@cointelegraph",
-    "published": "Tue Aug 04 2026 19:20:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 $15 BILLION crypto seized under Trump — FBI Director Kash Patel\n\nOperation Blackout dismantles global scam networks.",
-    "link": "https://cryptopanic.com/news/33154484/15-BILLION-crypto-seized-under-Trump-FBI-Director-Kash-Patel-Operation-Blackout-dismantles-global-scam-networks",
-    "source": "@btc_archive",
-    "published": "Tue Aug 04 2026 19:19:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Polymarket is in talks for a new funding round valuing the prediction market platform above $20B, up from its $15B valuation just four months ago, per CNBC.",
-    "link": "https://cryptopanic.com/news/33154552/LATEST-Polymarket-is-in-talks-for-a-new-funding-round-valuing-the-prediction-market-platform-above-20B-up-from-its-15B-valuation-just-four-months-ago-per-CNBC",
-    "source": "@coinmarketcap",
-    "published": "Tue Aug 04 2026 19:17:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Sui Leads Stablecoin Transaction Volume YTD with $400 Billion, Outperforming Major Crypto Assets",
-    "link": "https://cryptopanic.com/news/33154472/Sui-Leads-Stablecoin-Transaction-Volume-YTD-with-400-Billion-Outperforming-Major-Crypto-Assets",
-    "source": "zycrypto.com",
-    "published": "Tue Aug 04 2026 19:16:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Coldcard Bitcoin Exploit Explained: Entropy, How Keys Are Generated, and Why Bits Matter",
-    "link": "https://cryptopanic.com/news/33154414/Coldcard-Bitcoin-Exploit-Explained-Entropy-How-Keys-Are-Generated-and-Why-Bits-Matter",
-    "source": "decrypt.co",
-    "published": "Tue Aug 04 2026 19:11:36 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
