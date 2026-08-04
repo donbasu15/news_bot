@@ -1,5 +1,54 @@
 [
   {
+    "title": "Five Convicted of Imprisoning Crypto Millionaires in London 'Torture' Ordeal",
+    "link": "https://cryptopanic.com/news/33151052/Five-Convicted-of-Imprisoning-Crypto-Millionaires-in-London-Torture-Ordeal",
+    "source": "decrypt.co",
+    "published": "Tue Aug 04 2026 09:46:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Solana Weighs Two Proposals to Slow SOL Supply Growth",
+    "link": "https://cryptopanic.com/news/33151035/Solana-Weighs-Two-Proposals-to-Slow-SOL-Supply-Growth",
+    "source": "coindoo.com",
+    "published": "Tue Aug 04 2026 09:46:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Price Prediction: Can BTC Break Above $64,000?",
+    "link": "https://cryptopanic.com/news/33151009/Bitcoin-Price-Prediction-Can-BTC-Break-Above-64000",
+    "source": "coinpaper.com",
+    "published": "Tue Aug 04 2026 09:43:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 NEW: Sen. Elizabeth Warren urge an SEC probe into Trump’s memecoin over possible fraud, per CNN.",
+    "link": "https://cryptopanic.com/news/33151085/NEW-Sen-Elizabeth-Warren-urge-an-SEC-probe-into-Trumps-memecoin-over-possible-fraud-per-CNN",
+    "source": "@cointelegraph",
+    "published": "Tue Aug 04 2026 09:40:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: 🇳🇬 Nigeria's tax authority issues new guidelines making crypto profits, staking rewards, and airdrops officially taxable under the country's tax laws.",
+    "link": "https://cryptopanic.com/news/33151080/NEW-Nigerias-tax-authority-issues-new-guidelines-making-crypto-profits-staking-rewards-and-airdrops-officially-taxable-under-the-countrys-tax-laws",
+    "source": "@cryptonwsuk",
+    "published": "Tue Aug 04 2026 09:35:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Stock Market Today: S&P 500, Dow and Nasdaq Futures Rise After Strong Monday Gains— McDonald's, AMD, Palantir in Focus",
+    "link": "https://cryptopanic.com/news/33151058/Stock-Market-Today-SampP-500-Dow-and-Nasdaq-Futures-Rise-After-Strong-Monday-Gains-McDonalds-AMD-Palantir-in-Focus",
+    "source": "feeds2.benzinga.com",
+    "published": "Tue Aug 04 2026 09:35:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: The Bank of Korea will buy gold for the first time in 13 years.",
+    "link": "https://cryptopanic.com/news/33151079/JUST-IN-The-Bank-of-Korea-will-buy-gold-for-the-first-time-in-13-years",
+    "source": "@cryptonwsuk",
+    "published": "Tue Aug 04 2026 09:32:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "BlackRock debuts tokenized share classes for select European money market funds with $311 billion in assets",
     "link": "https://cryptopanic.com/news/33150943/BlackRock-debuts-tokenized-share-classes-for-select-European-money-market-funds-with-311-billion-in-assets",
     "source": "theblock.co",
@@ -28,10 +77,31 @@
     "sentiment": "neutral"
   },
   {
+    "title": "JUST IN: A new @Solana governance proposal would ramp up daily $SOL burns from $47,000 to $650,000, a 14x increase, while doubling the disinflation rate.",
+    "link": "https://cryptopanic.com/news/33151083/JUST-IN-A-new-Solana-governance-proposal-would-ramp-up-daily-SOL-burns-from-47000-to-650000-a-14x-increase-while-doubling-the-disinflation-rate",
+    "source": "@coindesk",
+    "published": "Tue Aug 04 2026 09:24:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Ripple Says Institutional Capital Is Moving Onchain\n\nRipple (@Ripple) President Monica Long (@MonicaLongSF) says institutional capital markets are rapidly moving onchain.\n\nShe said the industry has shifted from pilot programs to production deployments.\n\nThis follows Ripple's",
     "link": "https://cryptopanic.com/news/33150937/Ripple-Says-Institutional-Capital-Is-Moving-Onchain-Ripple-Ripple-President-Monica-Long-MonicaLongSF-says-institutional-capital-markets-are-rapidly-moving-onchain-She-said-the-industry-has-shifted-from-pilot-programs-to-production-deployments-This-follows-Ripples",
     "source": "@bscnews",
     "published": "Tue Aug 04 2026 09:23:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Are retail investors giving up on crypto?\n\n@itsciaranlyons reports.",
+    "link": "https://cryptopanic.com/news/33151084/Are-retail-investors-giving-up-on-crypto-itsciaranlyons-reports",
+    "source": "@cointelegraph",
+    "published": "Tue Aug 04 2026 09:20:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Ethereum ETFs pulled in $365.17M in July, their best month since October 2025.",
+    "link": "https://cryptopanic.com/news/33151072/LATEST-Ethereum-ETFs-pulled-in-36517M-in-July-their-best-month-since-October-2025",
+    "source": "@coinmarketcap",
+    "published": "Tue Aug 04 2026 09:17:10 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/33150768/Bernstein-says-Texas-data-center-audit-could-boost-value-of-existing-bitcoin-mining-and-AI-sites",
     "source": "theblock.co",
     "published": "Tue Aug 04 2026 08:57:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Italy’s Largest Bank Intesa Sanpaolo Cuts IBIT Stake 94%, Triples Staked Ethereum ETF Holdings\n\nItaly’s largest banking group, Intesa Sanpaolo, reported in its latest Form 13F that, as of June 30, its common-share position in BlackRock’s iShares Bitcoin Trust (IBIT) fell 93.7%",
-    "link": "https://cryptopanic.com/news/33150823/Italys-Largest-Bank-Intesa-Sanpaolo-Cuts-IBIT-Stake-94-Triples-Staked-Ethereum-ETF-Holdings-Italys-largest-banking-group-Intesa-Sanpaolo-reported-in-its-latest-Form-13F-that-as-of-June-30-its-common-share-position-in-BlackRocks-iShares-Bitcoin-Trust-IBIT-fell-937",
-    "source": "@wublockchain",
-    "published": "Tue Aug 04 2026 08:51:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UK's Travis Perkins profit rises as cost cuts help offset weak market",
-    "link": "https://cryptopanic.com/news/33150827/UKs-Travis-Perkins-profit-rises-as-cost-cuts-help-offset-weak-market",
-    "source": "@reutersbiz",
-    "published": "Tue Aug 04 2026 08:45:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Whales Absorb Retail Panic Selling Amid Coldcard Fallout\n\nWallets holding between 10 and 10,000 bitcoin:native added 19,610 Bitcoin since July 29, Santiment says.\n\nSmall wallets holding under 0.01 BTC reduced their holdings over the same period.\n\nThe shift follows the",
-    "link": "https://cryptopanic.com/news/33150730/Bitcoin-Whales-Absorb-Retail-Panic-Selling-Amid-Coldcard-Fallout-Wallets-holding-between-10-and-10000-bitcoinnative-added-19610-Bitcoin-since-July-29-Santiment-says-Small-wallets-holding-under-001-BTC-reduced-their-holdings-over-the-same-period-The-shift-follows-the",
-    "source": "@bscnews",
-    "published": "Tue Aug 04 2026 08:43:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Japan Crypto News: Criminal Penalty Risk Drives Bitget Out of Nippon by Year-End",
-    "link": "https://cryptopanic.com/news/33150885/Japan-Crypto-News-Criminal-Penalty-Risk-Drives-Bitget-Out-of-Nippon-by-Year-End",
-    "source": "tokenist.com",
-    "published": "Tue Aug 04 2026 08:43:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  A former FBI supervisory special agent was arrested after allegedly stealing ~$1M in crypto from “adversarial” accounts and later booking a trip to Portugal after ChatGPT recommended the country.",
-    "link": "https://cryptopanic.com/news/33150820/LATEST-A-former-FBI-supervisory-special-agent-was-arrested-after-allegedly-stealing-1M-in-crypto-from-adversarial-accounts-and-later-booking-a-trip-to-Portugal-after-ChatGPT-recommended-the-country",
-    "source": "@coinmarketcap",
-    "published": "Tue Aug 04 2026 08:41:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Live updates: Bitcoin at $63,600 as rare US-Japan yen action tests carry-trade fears",
-    "link": "https://cryptopanic.com/news/33151008/Live-updates-Bitcoin-at-63600-as-rare-US-Japan-yen-action-tests-carry-trade-fears",
-    "source": "coindesk.com",
-    "published": "Tue Aug 04 2026 08:41:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇰🇷 LATEST: The Bank of Korea will buy gold for the first time in 13 years.",
-    "link": "https://cryptopanic.com/news/33150825/LATEST-The-Bank-of-Korea-will-buy-gold-for-the-first-time-in-13-years",
-    "source": "@cointelegraph",
-    "published": "Tue Aug 04 2026 08:37:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Will PLTR Surge Past $150 in August? Crypto Punters Raise the Stakes After Palantir's Solid Q2 Earnings",
-    "link": "https://cryptopanic.com/news/33150742/Will-PLTR-Surge-Past-150-in-August-Crypto-Punters-Raise-the-Stakes-After-Palantirs-Solid-Q2-Earnings",
-    "source": "feeds2.benzinga.com",
-    "published": "Tue Aug 04 2026 08:36:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UK's Metro Bank posts higher first-half profit on stronger lending",
-    "link": "https://cryptopanic.com/news/33150651/UKs-Metro-Bank-posts-higher-first-half-profit-on-stronger-lending",
-    "source": "@reutersbiz",
-    "published": "Tue Aug 04 2026 08:30:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Scandic Coin Questions BitMart Over Delayed Withdrawals",
-    "link": "https://cryptopanic.com/news/33150635/Scandic-Coin-Questions-BitMart-Over-Delayed-Withdrawals",
-    "source": "catenaa.com",
-    "published": "Tue Aug 04 2026 08:30:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
