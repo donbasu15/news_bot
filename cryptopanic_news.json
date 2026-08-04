@@ -1,5 +1,68 @@
 [
   {
+    "title": "How a $2 AI Test Rediscovered the Bug Behind a $100M Bitcoin Theft",
+    "link": "https://cryptopanic.com/news/33150399/How-a-2-AI-Test-Rediscovered-the-Bug-Behind-a-100M-Bitcoin-Theft",
+    "source": "coindoo.com",
+    "published": "Tue Aug 04 2026 07:40:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Apple said it temporarily removed Telegram from the App Store after a review found child sexual abuse material posted by a user in violation of its platform rules. Telegram deleted the content and banned the account, prompting Apple to restore the app later the same day; existing",
+    "link": "https://cryptopanic.com/news/33150456/Apple-said-it-temporarily-removed-Telegram-from-the-App-Store-after-a-review-found-child-sexual-abuse-material-posted-by-a-user-in-violation-of-its-platform-rules-Telegram-deleted-the-content-and-banned-the-account-prompting-Apple-to-restore-the-app-later-the-same-day-existing",
+    "source": "@wublockchain",
+    "published": "Tue Aug 04 2026 07:38:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Coinbase CEO Brian Armstrong Urges Senate to Pass CLARITY Act, Says 'Whether People Love Crypto Or Hate It,' 70% of Americans Want Clear Rules: 'This Is About...'",
+    "link": "https://cryptopanic.com/news/33150408/Coinbase-CEO-Brian-Armstrong-Urges-Senate-to-Pass-CLARITY-Act-Says-Whether-People-Love-Crypto-Or-Hate-It-70-of-Americans-Want-Clear-Rules-This-Is-About",
+    "source": "feeds2.benzinga.com",
+    "published": "Tue Aug 04 2026 07:31:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "GRAM falls to $1.29 as Telegram disappears from Apple App Store: Fear triggers sell-off",
+    "link": "https://cryptopanic.com/news/33150372/GRAM-falls-to-129-as-Telegram-disappears-from-Apple-App-Store-Fear-triggers-sell-off",
+    "source": "ambcrypto.com",
+    "published": "Tue Aug 04 2026 07:30:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇺🇸 Former CFTC Chair Chris Giancarlo told The Wolf of All Streets that failure to pass the CLARITY Act would “separate the men from the boys,” as fearless builders keep going while others sit out.",
+    "link": "https://cryptopanic.com/news/33150454/LATEST-Former-CFTC-Chair-Chris-Giancarlo-told-The-Wolf-of-All-Streets-that-failure-to-pass-the-CLARITY-Act-would-separate-the-men-from-the-boys-as-fearless-builders-keep-going-while-others-sit-out",
+    "source": "@coinmarketcap",
+    "published": "Tue Aug 04 2026 07:25:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "1win Introduces Seamless Web3 Login and Crypto Deposits via Trust Wallet, MetaMask, and WalletConnect",
+    "link": "https://cryptopanic.com/news/33150329/1win-Introduces-Seamless-Web3-Login-and-Crypto-Deposits-via-Trust-Wallet-MetaMask-and-WalletConnect",
+    "source": "dailycoin.com",
+    "published": "Tue Aug 04 2026 07:23:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: Cardano's $ADA hits $0.195, its highest since July 4th, with market cap up 24% in a week even as holder numbers keep falling, per Santiment.",
+    "link": "https://cryptopanic.com/news/33150458/NEW-Cardanos-ADA-hits-0195-its-highest-since-July-4th-with-market-cap-up-24-in-a-week-even-as-holder-numbers-keep-falling-per-Santiment",
+    "source": "@cointelegraph",
+    "published": "Tue Aug 04 2026 07:20:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Exclusive: Shein is seeking a valuation of $30 billion to $40 billion in a Hong Kong initial public offering that the online fast-fashion retailer plans to launch as early as mid-August. More here -",
+    "link": "https://cryptopanic.com/news/33150461/Exclusive-Shein-is-seeking-a-valuation-of-30-billion-to-40-billion-in-a-Hong-Kong-initial-public-offering-that-the-online-fast-fashion-retailer-plans-to-launch-as-early-as-mid-August-More-here-",
+    "source": "@reutersbiz",
+    "published": "Tue Aug 04 2026 07:20:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Rabobank to spend €2 billion in AI and tech as net profit stagnates",
+    "link": "https://cryptopanic.com/news/33150460/Rabobank-to-spend-2-billion-in-AI-and-tech-as-net-profit-stagnates",
+    "source": "@reutersbiz",
+    "published": "Tue Aug 04 2026 07:15:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Cryptocurrency trading volume drops 70% to $15B: Is the market losing steam?",
     "link": "https://cryptopanic.com/news/33150294/Cryptocurrency-trading-volume-drops-70-to-15B-Is-the-market-losing-steam",
     "source": "ambcrypto.com",
@@ -18,6 +81,13 @@
     "link": "https://cryptopanic.com/news/33150297/CZ-Calls-For-Balanced-Crypto-Custody-After-Coldcard-Hack-Binance-co-founder-Changpeng-Zhao-cz_binance-weighed-in-on-Rivers-2025-report-which-estimates-that-157-million-bitcoinnative-have-been-lost-through-self-custody-and-151-million-BTC-on-exchanges-He-said-exchange",
     "source": "@bscnews",
     "published": "Tue Aug 04 2026 07:01:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 NOW: Odds of the Clarity Act being signed into law drop to just 27% on Polymarket, down 38 points as traders grow doubtful it happens this year.",
+    "link": "https://cryptopanic.com/news/33150457/NOW-Odds-of-the-Clarity-Act-being-signed-into-law-drop-to-just-27-on-Polymarket-down-38-points-as-traders-grow-doubtful-it-happens-this-year",
+    "source": "@cointelegraph",
+    "published": "Tue Aug 04 2026 07:01:13 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/33150048/Former-FBI-Supervisor-Charged-Over-Nearly-1-Million-Crypto-Theft-Former-FBI-supervisory-agent-Patrick-Steven-Yaroch-has-been-charged-after-allegedly-using-internal-bureau-systems-to-obtain-access-credentials-for-cryptocurrency-wallets-linked-to-an-adversarial-country-and",
     "source": "@wublockchain",
     "published": "Tue Aug 04 2026 06:03:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "FBI Agent Charged With $1 Million Crypto Theft — The Crime His Own Bureau Polices",
-    "link": "https://cryptopanic.com/news/33150217/FBI-Agent-Charged-With-1-Million-Crypto-Theft-The-Crime-His-Own-Bureau-Polices",
-    "source": "beincrypto.com",
-    "published": "Tue Aug 04 2026 06:01:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇳🇬 JUST IN: Nigeria's tax authority issues new guidelines making crypto profits, staking rewards, and airdrops officially taxable under the country's tax laws.",
-    "link": "https://cryptopanic.com/news/33150051/JUST-IN-Nigerias-tax-authority-issues-new-guidelines-making-crypto-profits-staking-rewards-and-airdrops-officially-taxable-under-the-countrys-tax-laws",
-    "source": "@cointelegraph",
-    "published": "Tue Aug 04 2026 06:01:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "American Bitcoin ‘remains focused on execution’ after strong Q2 2026 despite warning signs",
-    "link": "https://cryptopanic.com/news/33150000/American-Bitcoin-remains-focused-on-execution-after-strong-Q2-2026-despite-warning-signs",
-    "source": "ambcrypto.com",
-    "published": "Tue Aug 04 2026 06:00:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Beware of scammers trying to impersonate CoinMarketCap members. CMC does NOT have a phone number, and we will NEVER call you. When in doubt, always contact CMC Customer Service for verification.",
-    "link": "https://cryptopanic.com/news/33150047/Beware-of-scammers-trying-to-impersonate-CoinMarketCap-members-CMC-does-NOT-have-a-phone-number-and-we-will-NEVER-call-you-When-in-doubt-always-contact-CMC-Customer-Service-for-verification",
-    "source": "@coinmarketcap",
-    "published": "Tue Aug 04 2026 06:00:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Coldcard Hack Update: What Happened and How Much Bitcoin Was Stolen?",
-    "link": "https://cryptopanic.com/news/33149936/Coldcard-Hack-Update-What-Happened-and-How-Much-Bitcoin-Was-Stolen",
-    "source": "coinpaper.com",
-    "published": "Tue Aug 04 2026 05:55:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEAR Protocol co-founder Illia Polosukhin has proposed a Sovereign Fund to fund security and push $NEAR toward a fixed token supply.",
-    "link": "https://cryptopanic.com/news/33150113/NEAR-Protocol-co-founder-Illia-Polosukhin-has-proposed-a-Sovereign-Fund-to-fund-security-and-push-NEAR-toward-a-fixed-token-supply",
-    "source": "@bscnews",
-    "published": "Tue Aug 04 2026 05:52:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇺🇸 The Blockchain Association pushed back on the National Sheriffs' Association's CLARITY Act concerns, pointing to $3B in law enforcement funding included in the bill for state and local agencies.",
-    "link": "https://cryptopanic.com/news/33150046/LATEST-The-Blockchain-Association-pushed-back-on-the-National-Sheriffs-Associations-CLARITY-Act-concerns-pointing-to-3B-in-law-enforcement-funding-included-in-the-bill-for-state-and-local-agencies",
-    "source": "@coinmarketcap",
-    "published": "Tue Aug 04 2026 05:52:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Dogecoin and Shiba Inu Momentum Will Make Meme Sector 'Better Off', Says Analyst — Slams Disrespect for ‘Biggest’ Names",
-    "link": "https://cryptopanic.com/news/33150001/Dogecoin-and-Shiba-Inu-Momentum-Will-Make-Meme-Sector-Better-Off-Says-Analyst-Slams-Disrespect-for-Biggest-Names",
-    "source": "feeds2.benzinga.com",
-    "published": "Tue Aug 04 2026 05:46:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin losses from Coldcard hack could swell to $130 million, Galaxy Research says",
-    "link": "https://cryptopanic.com/news/33149901/Bitcoin-losses-from-Coldcard-hack-could-swell-to-130-million-Galaxy-Research-says",
-    "source": "theblock.co",
-    "published": "Tue Aug 04 2026 05:46:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Early Uber Investor Urges Selling Bitcoin for Solana",
-    "link": "https://cryptopanic.com/news/33149934/Early-Uber-Investor-Urges-Selling-Bitcoin-for-Solana",
-    "source": "u.today",
-    "published": "Tue Aug 04 2026 05:42:02 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
