@@ -1,5 +1,54 @@
 [
   {
+    "title": "Bitcoin Hits $64K, Yet One Indicator Says It’s Still Very Undervalued",
+    "link": "https://cryptopanic.com/news/33152668/Bitcoin-Hits-64K-Yet-One-Indicator-Says-Its-Still-Very-Undervalued",
+    "source": "cryptopotato.com",
+    "published": "Tue Aug 04 2026 13:50:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitmine's $10.9B Ethereum Bet: 5% Supply Goal Within Reach",
+    "link": "https://cryptopanic.com/news/33152603/Bitmines-109B-Ethereum-Bet-5-Supply-Goal-Within-Reach",
+    "source": "dailycoin.com",
+    "published": "Tue Aug 04 2026 13:46:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hashgraph has joined the Mastercard Crypto Partner Program.",
+    "link": "https://cryptopanic.com/news/33152614/Hashgraph-has-joined-the-Mastercard-Crypto-Partner-Program",
+    "source": "r/hedera",
+    "published": "Tue Aug 04 2026 13:45:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CME freezes Nasdaq’s major Bitcoin launch, warning a legal loophole could upend the entire commodities market",
+    "link": "https://cryptopanic.com/news/33152590/CME-freezes-Nasdaqs-major-Bitcoin-launch-warning-a-legal-loophole-could-upend-the-entire-commodities-market",
+    "source": "cryptoslate.com",
+    "published": "Tue Aug 04 2026 13:45:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: OKX says it protected $1.1B in customer assets and prevented $26.3M in scam losses in H1 2026.",
+    "link": "https://cryptopanic.com/news/33152596/LATEST-OKX-says-it-protected-11B-in-customer-assets-and-prevented-263M-in-scam-losses-in-H1-2026",
+    "source": "@cointelegraph",
+    "published": "Tue Aug 04 2026 13:40:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin in the 'Depression Phase': $63,000 Holds Despite Saylor Selling, $100M Hack News",
+    "link": "https://cryptopanic.com/news/33152660/Bitcoin-in-the-Depression-Phase-63000-Holds-Despite-Saylor-Selling-100M-Hack-News",
+    "source": "feeds2.benzinga.com",
+    "published": "Tue Aug 04 2026 13:39:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Apple's AI Slop Problem Left a $200K macOS Exploit Unreported",
+    "link": "https://cryptopanic.com/news/33152685/Apples-AI-Slop-Problem-Left-a-200K-macOS-Exploit-Unreported",
+    "source": "@decryptmedia",
+    "published": "Tue Aug 04 2026 13:37:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Apple's AI Slop Problem Left a $200K macOS Exploit Unreported",
     "link": "https://cryptopanic.com/news/33152554/Apples-AI-Slop-Problem-Left-a-200K-macOS-Exploit-Unreported",
     "source": "decrypt.co",
@@ -18,6 +67,13 @@
     "link": "https://cryptopanic.com/news/33152537/XRP-August-2026-price-projection",
     "source": "finbold.com",
     "published": "Tue Aug 04 2026 13:34:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LUNC Chain Activity is picking up...\n\nTerra Classic Chain has seen a notable change in TVL over the past week. \n\nAccording to Defillama data, the chain's TVL has increased by 7% from its recent low of $684,222 on July 28. \n\n@Terraport (@_Terraport_), Juris Protocol",
+    "link": "https://cryptopanic.com/news/33152682/LUNC-Chain-Activity-is-picking-up-Terra-Classic-Chain-has-seen-a-notable-change-in-TVL-over-the-past-week-According-to-Defillama-data-the-chains-TVL-has-increased-by-7-from-its-recent-low-of-684222-on-July-28-Terraport-_Terraport_-Juris-Protocol",
+    "source": "@bscnews",
+    "published": "Tue Aug 04 2026 13:34:13 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -46,6 +102,13 @@
     "link": "https://cryptopanic.com/news/33152576/FSSAI-Bars-Dabur-from-Selling-Products-with-100-Claims-Over-Misleading-Labelling",
     "source": "sfctoday.com",
     "published": "Tue Aug 04 2026 13:29:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Dollar Index Trapped at 100 as Hawkish Fed Meets Official Selling",
+    "link": "https://cryptopanic.com/news/33152620/Dollar-Index-Trapped-at-100-as-Hawkish-Fed-Meets-Official-Selling",
+    "source": "beincrypto.com",
+    "published": "Tue Aug 04 2026 13:27:14 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -88,6 +151,13 @@
     "link": "https://cryptopanic.com/news/33152592/JUST-IN-BitGo-is-set-to-replace-LayerZero-with-Chainlink-CCIP-as-the-exclusive-cross-chain-provider-for-73-billion-of-WBTC",
     "source": "@coindesk",
     "published": "Tue Aug 04 2026 13:24:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BitGo Selects Chainlink CCIP To Secure $7.7B WBTC Treasury\n\n@BitGo designates @Chainlink CCIP as its exclusive cross-chain infrastructure for Wrapped Bitcoin, migrating the $7.7B+ asset away from legacy bridging solutions. \n\nThis strategic shift standardizes $WBTC and all future",
+    "link": "https://cryptopanic.com/news/33152681/BitGo-Selects-Chainlink-CCIP-To-Secure-77B-WBTC-Treasury-BitGo-designates-Chainlink-CCIP-as-its-exclusive-cross-chain-infrastructure-for-Wrapped-Bitcoin-migrating-the-77B-asset-away-from-legacy-bridging-solutions-This-strategic-shift-standardizes-WBTC-and-all-future",
+    "source": "@bscnews",
+    "published": "Tue Aug 04 2026 13:24:07 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/33152476/Aptos-launches-Confidential-APT-with-opt-in-privacy",
     "source": "thestreet.com",
     "published": "Tue Aug 04 2026 13:14:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Binance has launched Lite Loan, letting users borrow up to 1,000 USDT against BTC with no price-triggered liquidation during the initial 30-day term.",
-    "link": "https://cryptopanic.com/news/33152586/LATEST-Binance-has-launched-Lite-Loan-letting-users-borrow-up-to-1000-USDT-against-BTC-with-no-price-triggered-liquidation-during-the-initial-30-day-term",
-    "source": "@coinmarketcap",
-    "published": "Tue Aug 04 2026 13:12:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Can self-custody recover from this? [ft. Bitget] #CHAINREACTION",
-    "link": "https://cryptopanic.com/news/33152594/Can-self-custody-recover-from-this-ft-Bitget-CHAINREACTION",
-    "source": "@cointelegraph",
-    "published": "Tue Aug 04 2026 13:11:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Polosukhin floats NEAR sovereign fund to wean network from inflation",
-    "link": "https://cryptopanic.com/news/33152301/Polosukhin-floats-NEAR-sovereign-fund-to-wean-network-from-inflation",
-    "source": "cryptopolitan.com",
-    "published": "Tue Aug 04 2026 13:03:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "America Needs the Clarity Act... \n\n@Coinbase CEO Brian Armstrong has pushed for the immediate legislative passage of the \"Clarity Act,\" framing digital asset regulation as a vital component of U.S. national interests. \n\nArmstrong asserts that \"economic security is national",
-    "link": "https://cryptopanic.com/news/33152360/America-Needs-the-Clarity-Act-Coinbase-CEO-Brian-Armstrong-has-pushed-for-the-immediate-legislative-passage-of-the-Clarity-Act-framing-digital-asset-regulation-as-a-vital-component-of-US-national-interests-Armstrong-asserts-that-economic-security-is-national",
-    "source": "@bscnews",
-    "published": "Tue Aug 04 2026 13:02:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bloomberg reports that Anthropic is the unnamed AI lab behind the project. The Claude developer has reportedly signed a six-year, roughly $10 billion compute deal with Nvidia-backed Volta Infra Holdings, while Bitdeer’s $4.7 billion agreement covers the underlying data center",
-    "link": "https://cryptopanic.com/news/33152587/Bloomberg-reports-that-Anthropic-is-the-unnamed-AI-lab-behind-the-project-The-Claude-developer-has-reportedly-signed-a-six-year-roughly-10-billion-compute-deal-with-Nvidia-backed-Volta-Infra-Holdings-while-Bitdeers-47-billion-agreement-covers-the-underlying-data-center",
-    "source": "@wublockchain",
-    "published": "Tue Aug 04 2026 13:01:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Western Union launches its Solana-based Stablecard, usable at 175 million Visa merchants.",
-    "link": "https://cryptopanic.com/news/33152593/NEW-Western-Union-launches-its-Solana-based-Stablecard-usable-at-175-million-Visa-merchants",
-    "source": "@cointelegraph",
-    "published": "Tue Aug 04 2026 13:01:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Breakingviews - Aramco’s profit boom rests on fragile status quo",
-    "link": "https://cryptopanic.com/news/33152598/Breakingviews-Aramcos-profit-boom-rests-on-fragile-status-quo",
-    "source": "@reutersbiz",
-    "published": "Tue Aug 04 2026 13:01:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Coinbase's stock is taking a beating!\n\nWhile the wider stock market rebounds, Coinbase is getting hammered.\n\n$COIN plunged as much as 10% yesterday and is down nearly 20% over the past week!\n\nThey did just report their 3rd straight quarterly loss, so maybe this is why!",
-    "link": "https://cryptopanic.com/news/33152356/Coinbases-stock-is-taking-a-beating-While-the-wider-stock-market-rebounds-Coinbase-is-getting-hammered-COIN-plunged-as-much-as-10-yesterday-and-is-down-nearly-20-over-the-past-week-They-did-just-report-their-3rd-straight-quarterly-loss-so-maybe-this-is-why",
-    "source": "@realallincrypto",
-    "published": "Tue Aug 04 2026 13:00:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Which are you choosing?",
-    "link": "https://cryptopanic.com/news/33152585/Which-are-you-choosing",
-    "source": "@coinmarketcap",
-    "published": "Tue Aug 04 2026 13:00:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Build with CMC (DIY): How to Build a Whale Tracking Bot \n\nBuild a production-aware system that detects large on-chain trades (\"whales\") using CoinMarketCap’s DEX API and transforms transaction flow into actionable signals.\n\nLearn More",
-    "link": "https://cryptopanic.com/news/33152247/Build-with-CMC-DIY-How-to-Build-a-Whale-Tracking-Bot-Build-a-production-aware-system-that-detects-large-on-chain-trades-whales-using-CoinMarketCaps-DEX-API-and-transforms-transaction-flow-into-actionable-signals-Learn-More",
-    "source": "@coinmarketcap",
-    "published": "Tue Aug 04 2026 13:00:08 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
