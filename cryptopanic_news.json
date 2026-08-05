@@ -1,9 +1,79 @@
 [
   {
+    "title": "Peirce Says SEC Crypto Reform Can Continue Without CLARITY Act",
+    "link": "https://cryptopanic.com/news/33162094/Peirce-Says-SEC-Crypto-Reform-Can-Continue-Without-CLARITY-Act",
+    "source": "cryptoprowl.com",
+    "published": "Wed Aug 05 2026 22:13:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Solana Crypto Cards Just Had Their Biggest Month Ever With $69.5M in Volume",
+    "link": "https://cryptopanic.com/news/33161870/Solana-Crypto-Cards-Just-Had-Their-Biggest-Month-Ever-With-695M-in-Volume",
+    "source": "solanafloor.com",
+    "published": "Wed Aug 05 2026 22:05:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Visa Adds Stablecoin Funding and Payouts to Visa Direct With zerohash",
+    "link": "https://cryptopanic.com/news/33162081/Visa-Adds-Stablecoin-Funding-and-Payouts-to-Visa-Direct-With-zerohash",
+    "source": "cryptoprowl.com",
+    "published": "Wed Aug 05 2026 22:03:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The New Standard for Bitcoin Security!",
+    "link": "https://cryptopanic.com/news/33162085/The-New-Standard-for-Bitcoin-Security",
+    "source": "SimplyBitcoin",
+    "published": "Wed Aug 05 2026 22:00:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Zuckerberg’s Muse Code Loses to Anthropic on Meta’s Own Benchmark Charts",
+    "link": "https://cryptopanic.com/news/33162115/Zuckerbergs-Muse-Code-Loses-to-Anthropic-on-Metas-Own-Benchmark-Charts",
+    "source": "beincrypto.com",
+    "published": "Wed Aug 05 2026 22:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The courts just met the AI that hacks on its own\n\nThe Ninth Circuit's Perplexity ruling says responsibility for an AI agent's actions follows the user directing it, not the company that built the tool. Days earlier, @OpenAI and @AnthropicAI disclosed their models had escaped",
+    "link": "https://cryptopanic.com/news/33162090/The-courts-just-met-the-AI-that-hacks-on-its-own-The-Ninth-Circuits-Perplexity-ruling-says-responsibility-for-an-AI-agents-actions-follows-the-user-directing-it-not-the-company-that-built-the-tool-Days-earlier-OpenAI-and-AnthropicAI-disclosed-their-models-had-escaped",
+    "source": "@bscnews",
+    "published": "Wed Aug 05 2026 21:59:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: Microsoft has instructed developers to default to OpenAI’s GPT-5.6 Sol for AI coding projects as part of an internal efficiency push.",
+    "link": "https://cryptopanic.com/news/33162056/LATEST-Microsoft-has-instructed-developers-to-default-to-OpenAIs-GPT-56-Sol-for-AI-coding-projects-as-part-of-an-internal-efficiency-push",
+    "source": "@cointelegraph",
+    "published": "Wed Aug 05 2026 21:54:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 LATEST: Fed Governor Lisa Cook said she is prepared to support higher interest rates if inflation fails to keep slowing.",
+    "link": "https://cryptopanic.com/news/33162055/LATEST-Fed-Governor-Lisa-Cook-said-she-is-prepared-to-support-higher-interest-rates-if-inflation-fails-to-keep-slowing",
+    "source": "@cointelegraph",
+    "published": "Wed Aug 05 2026 21:53:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇰🇪 NEW: Kenya’s Nairobi Securities Exchange plans to launch East Africa’s first AI-focused ETF before the end of 2026, according to its CEO.",
+    "link": "https://cryptopanic.com/news/33162054/NEW-Kenyas-Nairobi-Securities-Exchange-plans-to-launch-East-Africas-first-AI-focused-ETF-before-the-end-of-2026-according-to-its-CEO",
+    "source": "@cointelegraph",
+    "published": "Wed Aug 05 2026 21:52:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST: 🇺🇸 Senator Cynthia Lummis says she still believes the Senate will vote on the CLARITY Act before the recess, adding, \"It's just time to get people on the record.\"",
     "link": "https://cryptopanic.com/news/33162051/LATEST-Senator-Cynthia-Lummis-says-she-still-believes-the-Senate-will-vote-on-the-CLARITY-Act-before-the-recess-adding-Its-just-time-to-get-people-on-the-record",
     "source": "@coinmarketcap",
     "published": "Wed Aug 05 2026 21:48:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin's AI red team found 85 critical bugs in about a day\n\nA volunteer effort dubbed the Bitcoin Red Team, led by AnchorWatch CEO Rob Hamilton (@Rob1Ham) and Bitchat developer Calle (@callebtc), has filed nearly 5,000 findings across 390 open source Bitcoin repositories in 27.5",
+    "link": "https://cryptopanic.com/news/33162089/Bitcoins-AI-red-team-found-85-critical-bugs-in-about-a-day-A-volunteer-effort-dubbed-the-Bitcoin-Red-Team-led-by-AnchorWatch-CEO-Rob-Hamilton-Rob1Ham-and-Bitchat-developer-Calle-callebtc-has-filed-nearly-5000-findings-across-390-open-source-Bitcoin-repositories-in-275",
+    "source": "@bscnews",
+    "published": "Wed Aug 05 2026 21:42:01 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -39,13 +109,6 @@
     "link": "https://cryptopanic.com/news/33161950/LINK-crypto-holds-8-as-volatility-tightensis-Chainlink-positioned-for-a-breakout",
     "source": "ambcrypto.com",
     "published": "Wed Aug 05 2026 21:30:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 Fed Governor Lisa ​Cook says she's ready to raise interest rates if inflation remains high.",
-    "link": "https://cryptopanic.com/news/33162052/JUST-IN-Fed-Governor-Lisa-Cook-says-shes-ready-to-raise-interest-rates-if-inflation-remains-high",
-    "source": "@cryptonwsuk",
-    "published": "Wed Aug 05 2026 21:28:16 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -144,69 +207,6 @@
     "link": "https://cryptopanic.com/news/33161886/BIG-X-Head-of-Product-Nikita-Bier-is-stepping-down-from-the-role-and-will-remain-with-the-company-as-an-advisor",
     "source": "@cointelegraph",
     "published": "Wed Aug 05 2026 20:57:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Jack Dorsey’s BLOCK adds $18M worth of Bitcoin\n\nNow holds 9,117 BTC worth $589M\n\nAverage purchase price: $34,000",
-    "link": "https://cryptopanic.com/news/33161849/JUST-IN-Jack-Dorseys-BLOCK-adds-18M-worth-of-Bitcoin-Now-holds-9117-BTC-worth-589M-Average-purchase-price-34000",
-    "source": "@btc_archive",
-    "published": "Wed Aug 05 2026 20:51:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CLARITY talks hit overdrive as the clock runs out\n\nRepublican and Democratic Senate staff held a flurry of policy meetings over the past 24 hours to close out remaining disputes on the CLARITY Act, per Punchbowl News, racing toward consensus before the August recess.\n\nMajority",
-    "link": "https://cryptopanic.com/news/33161941/CLARITY-talks-hit-overdrive-as-the-clock-runs-out-Republican-and-Democratic-Senate-staff-held-a-flurry-of-policy-meetings-over-the-past-24-hours-to-close-out-remaining-disputes-on-the-CLARITY-Act-per-Punchbowl-News-racing-toward-consensus-before-the-August-recess-Majority",
-    "source": "@bscnews",
-    "published": "Wed Aug 05 2026 20:51:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Block’s bitcoin gross profit falls 31% after Cash App fee cuts as shares reverse initial gains",
-    "link": "https://cryptopanic.com/news/33161813/Blocks-bitcoin-gross-profit-falls-31-after-Cash-App-fee-cuts-as-shares-reverse-initial-gains",
-    "source": "theblock.co",
-    "published": "Wed Aug 05 2026 20:47:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cloudflare OS: Here’s What’s Inside the Open-Source AI Agent Platform",
-    "link": "https://cryptopanic.com/news/33161807/Cloudflare-OS-Heres-Whats-Inside-the-Open-Source-AI-Agent-Platform",
-    "source": "decrypt.co",
-    "published": "Wed Aug 05 2026 20:46:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "What Happens to Crypto If the CLARITY Act Fails This Week? Hougan Explains",
-    "link": "https://cryptopanic.com/news/33161810/What-Happens-to-Crypto-If-the-CLARITY-Act-Fails-This-Week-Hougan-Explains",
-    "source": "cryptopotato.com",
-    "published": "Wed Aug 05 2026 20:43:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: Grant Cardone says Cardone Capital has expanded to $6 billion in AUM and now holds more than 2,500 $BTC after acquiring a $600 million Florida portfolio.",
-    "link": "https://cryptopanic.com/news/33161885/LATEST-Grant-Cardone-says-Cardone-Capital-has-expanded-to-6-billion-in-AUM-and-now-holds-more-than-2500-BTC-after-acquiring-a-600-million-Florida-portfolio",
-    "source": "@cointelegraph",
-    "published": "Wed Aug 05 2026 20:43:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana leads every blockchain in tokenized gold growth",
-    "link": "https://cryptopanic.com/news/33161859/Solana-leads-every-blockchain-in-tokenized-gold-growth",
-    "source": "thestreet.com",
-    "published": "Wed Aug 05 2026 20:42:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Chainlink already secures everything from RWAs and tokenized stocks to the price feeds running DeFi, and now Grayscale is betting that LINK will sit at the center of TradFi's move onchain.",
-    "link": "https://cryptopanic.com/news/33161804/Chainlink-already-secures-everything-from-RWAs-and-tokenized-stocks-to-the-price-feeds-running-DeFi-and-now-Grayscale-is-betting-that-LINK-will-sit-at-the-center-of-TradFis-move-onchain",
-    "source": "@bscnews",
-    "published": "Wed Aug 05 2026 20:41:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NFT founder Taj Tarsha indicted over $10 million Few and Far fraud",
-    "link": "https://cryptopanic.com/news/33161809/NFT-founder-Taj-Tarsha-indicted-over-10-million-Few-and-Far-fraud",
-    "source": "cryptopolitan.com",
-    "published": "Wed Aug 05 2026 20:40:13 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
