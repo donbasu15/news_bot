@@ -1,9 +1,65 @@
 [
   {
+    "title": "🇺🇸 TRUMP: \"The Strait is going to be open very soon or they're gonna hit very hard, and then the Strait is going to be open.\"",
+    "link": "https://cryptopanic.com/news/33156344/TRUMP-The-Strait-is-going-to-be-open-very-soon-or-theyre-gonna-hit-very-hard-and-then-the-Strait-is-going-to-be-open",
+    "source": "@cointelegraph",
+    "published": "Wed Aug 05 2026 03:50:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto Market Liquidity Dries Up as Daily Volumes Hit 2026 Lows",
+    "link": "https://cryptopanic.com/news/33156328/Crypto-Market-Liquidity-Dries-Up-as-Daily-Volumes-Hit-2026-Lows",
+    "source": "cryptopotato.com",
+    "published": "Wed Aug 05 2026 03:49:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  BitGo will migrate ~$7.4B in wrapped Bitcoin from LayerZero to Chainlink CCIP.",
+    "link": "https://cryptopanic.com/news/33156338/LATEST-BitGo-will-migrate-74B-in-wrapped-Bitcoin-from-LayerZero-to-Chainlink-CCIP",
+    "source": "@coinmarketcap",
+    "published": "Wed Aug 05 2026 03:45:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 TODAY: Bitwise CIO Matt Hougan outlines why crypto will keep advancing even if the Clarity Act fails to pass this week.\n\nHe pointed to SEC Chair Atkins' readiness to act and the industry's growing momentum regardless of Congress.",
+    "link": "https://cryptopanic.com/news/33156343/TODAY-Bitwise-CIO-Matt-Hougan-outlines-why-crypto-will-keep-advancing-even-if-the-Clarity-Act-fails-to-pass-this-week-He-pointed-to-SEC-Chair-Atkins-readiness-to-act-and-the-industrys-growing-momentum-regardless-of-Congress",
+    "source": "@cointelegraph",
+    "published": "Wed Aug 05 2026 03:40:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Suspected Strategy-Linked Wallet Transfers Another 1,030 BTC Worth $66.14 Million\n\nAccording to Lookonchain, a wallet suspected to be associated with Michael Saylor’s Strategy transferred another 1,030 BTC worth approximately $66.14 million two hours ago. Earlier last week,",
+    "link": "https://cryptopanic.com/news/33156340/Suspected-Strategy-Linked-Wallet-Transfers-Another-1030-BTC-Worth-6614-Million-According-to-Lookonchain-a-wallet-suspected-to-be-associated-with-Michael-Saylors-Strategy-transferred-another-1030-BTC-worth-approximately-6614-million-two-hours-ago-Earlier-last-week",
+    "source": "@wublockchain",
+    "published": "Wed Aug 05 2026 03:34:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "INTEL: The Bank of Korea is buying physical gold for the first time in 13 years and storing it at home instead of the Bank of England | per Korea Times",
     "link": "https://cryptopanic.com/news/33156303/INTEL-The-Bank-of-Korea-is-buying-physical-gold-for-the-first-time-in-13-years-and-storing-it-at-home-instead-of-the-Bank-of-England-per-Korea-Times",
     "source": "@solidintel_x",
     "published": "Wed Aug 05 2026 03:24:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33156339/Source",
+    "source": "@wublockchain",
+    "published": "Wed Aug 05 2026 03:23:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "️ NOW: Arthur Hayes says AI's CAPEX boom is a 2008-style credit bubble whose government bailout will spark Bitcoin and crypto's biggest bull market since 2021.",
+    "link": "https://cryptopanic.com/news/33156342/NOW-Arthur-Hayes-says-AIs-CAPEX-boom-is-a-2008-style-credit-bubble-whose-government-bailout-will-spark-Bitcoin-and-cryptos-biggest-bull-market-since-2021",
+    "source": "@cointelegraph",
+    "published": "Wed Aug 05 2026 03:20:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "COINDESK HEADLINES: SpaceX tops Wall Street revenue forecast, posts $540 million loss on bitcoin holdings.\n\nPresented by @CMEGroup.",
+    "link": "https://cryptopanic.com/news/33156341/COINDESK-HEADLINES-SpaceX-tops-Wall-Street-revenue-forecast-posts-540-million-loss-on-bitcoin-holdings-Presented-by-CMEGroup",
+    "source": "@coindesk",
+    "published": "Wed Aug 05 2026 03:19:31 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -98,6 +154,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Bitcoin Price Today: BTC Tries to Break Out as $66,000 Comes Into Play",
+    "link": "https://cryptopanic.com/news/33156332/Bitcoin-Price-Today-BTC-Tries-to-Break-Out-as-66000-Comes-Into-Play",
+    "source": "coinpedia.org",
+    "published": "Wed Aug 05 2026 02:24:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "$NVDA is attempting to break out of its range during overnight trading. If this breakout is confirmed tomorrow, the next key level is the record high.",
     "link": "https://cryptopanic.com/news/33156144/NVDA-is-attempting-to-break-out-of-its-range-during-overnight-trading-If-this-breakout-is-confirmed-tomorrow-the-next-key-level-is-the-record-high",
     "source": "@stackersatoshi",
@@ -144,69 +207,6 @@
     "link": "https://cryptopanic.com/news/33156040/COINDESK-HEADLINES-SpaceX-tops-Wall-Street-revenue-forecast-posts-540-million-loss-on-bitcoin-holdings-Presented-by-CMEGroup",
     "source": "@coindesk",
     "published": "Wed Aug 05 2026 02:20:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "MARA, the Bitcoin mining company holding 36,303 $BTC($2.34B), transferred 6,000 $BTC($384.6M) to #TwoPrime over the past 5 hours.\n\nThe transfer doesn't necessarily mean a sale—it could be for asset management.",
-    "link": "https://cryptopanic.com/news/33156091/MARA-the-Bitcoin-mining-company-holding-36303-BTC234B-transferred-6000-BTC3846M-to-TwoPrime-over-the-past-5-hours-The-transfer-doesnt-necessarily-mean-a-saleit-could-be-for-asset-management",
-    "source": "@lookonchain",
-    "published": "Wed Aug 05 2026 02:15:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The OpenAI and Anthropic Incidents are a Wake-Up Call [ft. 0G Labs] #CHAINREACTION",
-    "link": "https://cryptopanic.com/news/33156042/The-OpenAI-and-Anthropic-Incidents-are-a-Wake-Up-Call-ft-0G-Labs-CHAINREACTION",
-    "source": "@cointelegraph",
-    "published": "Wed Aug 05 2026 02:13:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Solana Foundation is making some MASSIVE hires.\n\nYou can tell a lot about a company from where it is hiring...\n\n@Solana's @SolanaFndn is hiring for several executive roles targeting growth and institutional adoption in Asia - In particular, Japan and Greater China, per Wu",
-    "link": "https://cryptopanic.com/news/33156090/The-Solana-Foundation-is-making-some-MASSIVE-hires-You-can-tell-a-lot-about-a-company-from-where-it-is-hiring-Solanas-SolanaFndn-is-hiring-for-several-executive-roles-targeting-growth-and-institutional-adoption-in-Asia-In-particular-Japan-and-Greater-China-per-Wu",
-    "source": "@bscnews",
-    "published": "Wed Aug 05 2026 02:02:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BIG: Ethereum's staking ratio just hit an all-time high of 34.4%, up from 30% at the start of the year, per Token Terminal.",
-    "link": "https://cryptopanic.com/news/33156041/BIG-Ethereums-staking-ratio-just-hit-an-all-time-high-of-344-up-from-30-at-the-start-of-the-year-per-Token-Terminal",
-    "source": "@cointelegraph",
-    "published": "Wed Aug 05 2026 02:00:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Dow and S&P 500 Hit Records on AI Earnings: When Will the Bubble Burst?",
-    "link": "https://cryptopanic.com/news/33155996/Dow-and-SP-500-Hit-Records-on-AI-Earnings-When-Will-the-Bubble-Burst",
-    "source": "beincrypto.com",
-    "published": "Wed Aug 05 2026 02:00:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin's Death Spiral? ColdCard Hack & Massive Sell Off!",
-    "link": "https://cryptopanic.com/news/33155992/Bitcoins-Death-Spiral-ColdCard-Hack-Massive-Sell-Off",
-    "source": "SimplyBitcoin",
-    "published": "Wed Aug 05 2026 02:00:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Strategy Sells Additional Bitcoin to Strengthen Cash Reserves",
-    "link": "https://cryptopanic.com/news/33155945/Strategy-Sells-Additional-Bitcoin-to-Strengthen-Cash-Reserves",
-    "source": "catenaa.com",
-    "published": "Wed Aug 05 2026 02:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "China Insurance Money Bought 1.04 Trillion Yuan of Ultra-Long Bonds Since Start of 2026",
-    "link": "https://cryptopanic.com/news/33155941/China-Insurance-Money-Bought-104-Trillion-Yuan-of-Ultra-Long-Bonds-Since-Start-of-2026",
-    "source": "square.binance.com",
-    "published": "Wed Aug 05 2026 01:55:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AI | Asian Stocks End Two-Day Drop as Chipmakers Rally",
-    "link": "https://cryptopanic.com/news/33155940/AI-Asian-Stocks-End-Two-Day-Drop-as-Chipmakers-Rally",
-    "source": "square.binance.com",
-    "published": "Wed Aug 05 2026 01:55:23 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
