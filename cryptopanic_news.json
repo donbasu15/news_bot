@@ -1,5 +1,75 @@
 [
   {
+    "title": "Ethereum researchers propose burning validator rewards to cap staking at 50%",
+    "link": "https://cryptopanic.com/news/33154573/Ethereum-researchers-propose-burning-validator-rewards-to-cap-staking-at-50",
+    "source": "theblock.co",
+    "published": "Tue Aug 04 2026 19:49:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Just Had Its Best Month in a Year: Can ETH Keep Rallying in August?",
+    "link": "https://cryptopanic.com/news/33140592/Ethereum-Just-Had-Its-Best-Month-in-a-Year-Can-ETH-Keep-Rallying-in-August",
+    "source": "cryptopotato.com",
+    "published": "Sun Aug 02 2026 11:27:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum’s 43-day staking queue isn’t a clean demand signal, Sygnum says",
+    "link": "https://cryptopanic.com/news/33133325/Ethereums-43-day-staking-queue-isnt-a-clean-demand-signal-Sygnum-says",
+    "source": "theblock.co",
+    "published": "Fri Jul 31 2026 14:35:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "‪Ethereum’s Relationship With AI: A Foundational for Economic Layer",
+    "link": "https://cryptopanic.com/news/33119456/Ethereums-Relationship-With-AI-A-Foundational-for-Economic-Layer",
+    "source": "zycrypto.com",
+    "published": "Wed Jul 29 2026 13:50:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum L2 ecosystem loses momentum as TVL drops to two-year low",
+    "link": "https://cryptopanic.com/news/33114393/Ethereum-L2-ecosystem-loses-momentum-as-TVL-drops-to-two-year-low",
+    "source": "theblock.co",
+    "published": "Tue Jul 28 2026 18:21:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Price Prediction: Accumulation Phase Could Set Up a Major Breakout",
+    "link": "https://cryptopanic.com/news/33100853/Ethereum-Price-Prediction-Accumulation-Phase-Could-Set-Up-a-Major-Breakout",
+    "source": "coinpaper.com",
+    "published": "Sun Jul 26 2026 17:41:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tom Lee: ETH 2.0 Could Support a $250,000 Long Term Target \n\nOn July 13, 2026, at WebX 2026 in Tokyo, BitMine Chairman Tom Lee @fundstrat said Ethereum is entering its 2.0 phase, using Amazon, Nvidia, and JPMorgan as re-rating analogies and arguing that ETH will become money",
+    "link": "https://cryptopanic.com/news/33099943/Tom-Lee-ETH-20-Could-Support-a-250000-Long-Term-Target-On-July-13-2026-at-WebX-2026-in-Tokyo-BitMine-Chairman-Tom-Lee-fundstrat-said-Ethereum-is-entering-its-20-phase-using-Amazon-Nvidia-and-JPMorgan-as-re-rating-analogies-and-arguing-that-ETH-will-become-money",
+    "source": "@wublockchain",
+    "published": "Sun Jul 26 2026 11:05:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Exclusive: Samsung Electronics and SK Hynix are evaluating chipmaking equipment from China's Advanced Micro-Fabrication Equipment for possible use at their Chinese factories, as the South Korean firms hedge against the risk of tighter US export controls",
+    "link": "https://cryptopanic.com/news/33156195/Exclusive-Samsung-Electronics-and-SK-Hynix-are-evaluating-chipmaking-equipment-from-Chinas-Advanced-Micro-Fabrication-Equipment-for-possible-use-at-their-Chinese-factories-as-the-South-Korean-firms-hedge-against-the-risk-of-tighter-US-export-controls",
+    "source": "@reutersbiz",
+    "published": "Wed Aug 05 2026 03:06:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "️ Need to catch up on the news? Here's our top 10 from today:\n\n Coldcard says a firmware vulnerability went undetected by AI code review tools, including Kimi K3, Claude Fable, and Codex 5.6.\n\n US CENTCOM says the Strait of Hormuz remains open, with US forces having helped",
+    "link": "https://cryptopanic.com/news/33156194/Need-to-catch-up-on-the-news-Heres-our-top-10-from-today-Coldcard-says-a-firmware-vulnerability-went-undetected-by-AI-code-review-tools-including-Kimi-K3-Claude-Fable-and-Codex-56-US-CENTCOM-says-the-Strait-of-Hormuz-remains-open-with-US-forces-having-helped",
+    "source": "@cointelegraph",
+    "published": "Wed Aug 05 2026 03:01:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SpaceX Reports $540 Million Losses on Bitcoin Holdings in Q2 — Elon Musk-Led Rocket Company Didn't Sell Any",
+    "link": "https://cryptopanic.com/news/33156160/SpaceX-Reports-540-Million-Losses-on-Bitcoin-Holdings-in-Q2-Elon-Musk-Led-Rocket-Company-Didnt-Sell-Any",
+    "source": "feeds2.benzinga.com",
+    "published": "Wed Aug 05 2026 02:49:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "$DELL just reached a new record high during overnight trading and is +30% from the key support level.",
     "link": "https://cryptopanic.com/news/33156146/DELL-just-reached-a-new-record-high-during-overnight-trading-and-is-30-from-the-key-support-level",
     "source": "@stackersatoshi",
@@ -21,17 +91,31 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Arthur Hayes: AI Bubble May Resemble 2008 Credit Crisis, Bitcoin Could Benefit From Monetary Easing\n\nBitMEX co-founder Arthur Hayes published a new essay, Situationship, arguing that the AI investment boom resembles a real estate buildout rather than a traditional technology",
+    "link": "https://cryptopanic.com/news/33156192/Arthur-Hayes-AI-Bubble-May-Resemble-2008-Credit-Crisis-Bitcoin-Could-Benefit-From-Monetary-Easing-BitMEX-co-founder-Arthur-Hayes-published-a-new-essay-Situationship-arguing-that-the-AI-investment-boom-resembles-a-real-estate-buildout-rather-than-a-traditional-technology",
+    "source": "@wublockchain",
+    "published": "Wed Aug 05 2026 02:40:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸🇮🇷 JUST IN: The US, Iran, and Oman are closing in on an interim deal to reopen the Strait of Hormuz, with an announcement expected as soon as Wednesday, per Axios.",
+    "link": "https://cryptopanic.com/news/33156193/JUST-IN-The-US-Iran-and-Oman-are-closing-in-on-an-interim-deal-to-reopen-the-Strait-of-Hormuz-with-an-announcement-expected-as-soon-as-Wednesday-per-Axios",
+    "source": "@cointelegraph",
+    "published": "Wed Aug 05 2026 02:38:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Palantir Short Sellers Lose $3 Billion After 30% Earnings Rally",
+    "link": "https://cryptopanic.com/news/33156155/Palantir-Short-Sellers-Lose-3-Billion-After-30-Earnings-Rally",
+    "source": "beincrypto.com",
+    "published": "Wed Aug 05 2026 02:38:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "A deal to reopen the Strait of Hormuz will reportedly be announced as soon as today. Here is what is currently expected:\n-No tolls/fees for 60 days\n-Traffic splits in/out between the Iran/Oman routes\n-Mines will be cleared within 30 days\n-A permanent agreement will be neogtiated",
     "link": "https://cryptopanic.com/news/33156145/A-deal-to-reopen-the-Strait-of-Hormuz-will-reportedly-be-announced-as-soon-as-today-Here-is-what-is-currently-expected-No-tollsfees-for-60-days-Traffic-splits-inout-between-the-IranOman-routes-Mines-will-be-cleared-within-30-days-A-permanent-agreement-will-be-neogtiated",
     "source": "@stackersatoshi",
     "published": "Wed Aug 05 2026 02:35:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: U.S., Iran and Oman near interim deal to reopen the Strait of Hormuz.",
-    "link": "https://cryptopanic.com/news/33156141/INTEL-US-Iran-and-Oman-near-interim-deal-to-reopen-the-Strait-of-Hormuz",
-    "source": "@solidintel_x",
-    "published": "Wed Aug 05 2026 02:33:21 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -60,6 +144,13 @@
     "link": "https://cryptopanic.com/news/33156144/NVDA-is-attempting-to-break-out-of-its-range-during-overnight-trading-If-this-breakout-is-confirmed-tomorrow-the-next-key-level-is-the-record-high",
     "source": "@stackersatoshi",
     "published": "Wed Aug 05 2026 02:23:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Whale Rock’s AI Bet Turns Volatile: July Losses Erase Half of 2026 Gains",
+    "link": "https://cryptopanic.com/news/33156154/Whale-Rocks-AI-Bet-Turns-Volatile-July-Losses-Erase-Half-of-2026-Gains",
+    "source": "beincrypto.com",
+    "published": "Wed Aug 05 2026 02:22:44 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -116,97 +207,6 @@
     "link": "https://cryptopanic.com/news/33156090/The-Solana-Foundation-is-making-some-MASSIVE-hires-You-can-tell-a-lot-about-a-company-from-where-it-is-hiring-Solanas-SolanaFndn-is-hiring-for-several-executive-roles-targeting-growth-and-institutional-adoption-in-Asia-In-particular-Japan-and-Greater-China-per-Wu",
     "source": "@bscnews",
     "published": "Wed Aug 05 2026 02:02:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BIG: Ethereum's staking ratio just hit an all-time high of 34.4%, up from 30% at the start of the year, per Token Terminal.",
-    "link": "https://cryptopanic.com/news/33156041/BIG-Ethereums-staking-ratio-just-hit-an-all-time-high-of-344-up-from-30-at-the-start-of-the-year-per-Token-Terminal",
-    "source": "@cointelegraph",
-    "published": "Wed Aug 05 2026 02:00:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Dow and S&P 500 Hit Records on AI Earnings: When Will the Bubble Burst?",
-    "link": "https://cryptopanic.com/news/33155996/Dow-and-SP-500-Hit-Records-on-AI-Earnings-When-Will-the-Bubble-Burst",
-    "source": "beincrypto.com",
-    "published": "Wed Aug 05 2026 02:00:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin's Death Spiral? ColdCard Hack & Massive Sell Off!",
-    "link": "https://cryptopanic.com/news/33155992/Bitcoins-Death-Spiral-ColdCard-Hack-Massive-Sell-Off",
-    "source": "SimplyBitcoin",
-    "published": "Wed Aug 05 2026 02:00:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Strategy Sells Additional Bitcoin to Strengthen Cash Reserves",
-    "link": "https://cryptopanic.com/news/33155945/Strategy-Sells-Additional-Bitcoin-to-Strengthen-Cash-Reserves",
-    "source": "catenaa.com",
-    "published": "Wed Aug 05 2026 02:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "China Insurance Money Bought 1.04 Trillion Yuan of Ultra-Long Bonds Since Start of 2026",
-    "link": "https://cryptopanic.com/news/33155941/China-Insurance-Money-Bought-104-Trillion-Yuan-of-Ultra-Long-Bonds-Since-Start-of-2026",
-    "source": "square.binance.com",
-    "published": "Wed Aug 05 2026 01:55:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AI | Asian Stocks End Two-Day Drop as Chipmakers Rally",
-    "link": "https://cryptopanic.com/news/33155940/AI-Asian-Stocks-End-Two-Day-Drop-as-Chipmakers-Rally",
-    "source": "square.binance.com",
-    "published": "Wed Aug 05 2026 01:55:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hengsheng Hong Kong Stock Connect Auto Theme Index ETF Sees 1 Million-Unit Subscription; XPeng Delivery Tops 1.2 Million",
-    "link": "https://cryptopanic.com/news/33155939/Hengsheng-Hong-Kong-Stock-Connect-Auto-Theme-Index-ETF-Sees-1-Million-Unit-Subscription-XPeng-Delivery-Tops-12-Million",
-    "source": "square.binance.com",
-    "published": "Wed Aug 05 2026 01:55:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin, Ethereum Gain; XRP, Dogecoin Slide Amid Iran Deal Hopes: Analyst Says 'Most of the Pain' of the BTC Bear Market Already in",
-    "link": "https://cryptopanic.com/news/33155959/Bitcoin-Ethereum-Gain-XRP-Dogecoin-Slide-Amid-Iran-Deal-Hopes-Analyst-Says-Most-of-the-Pain-of-the-BTC-Bear-Market-Already-in",
-    "source": "feeds2.benzinga.com",
-    "published": "Wed Aug 05 2026 01:55:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "MicroStrategy Wallet Transfers 276.65 BTC to Two New Addresses",
-    "link": "https://cryptopanic.com/news/33155938/MicroStrategy-Wallet-Transfers-27665-BTC-to-Two-New-Addresses",
-    "source": "square.binance.com",
-    "published": "Wed Aug 05 2026 01:54:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 Senator John Kennedy DEMANDS a vote on the Clarity Act before the August recess \n\n\"We need to vote on the cryptocurrency bill, which we've spent years on.\"\n\n\"We need to get our business done.\"",
-    "link": "https://cryptopanic.com/news/33155984/JUST-IN-Senator-John-Kennedy-DEMANDS-a-vote-on-the-Clarity-Act-before-the-August-recess-We-need-to-vote-on-the-cryptocurrency-bill-which-weve-spent-years-on-We-need-to-get-our-business-done",
-    "source": "@bitcoinmagazine",
-    "published": "Wed Aug 05 2026 01:54:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Milwaukee Brewers Option Surges in Polymarket Pirates Game Submarket",
-    "link": "https://cryptopanic.com/news/33155937/Milwaukee-Brewers-Option-Surges-in-Polymarket-Pirates-Game-Submarket",
-    "source": "square.binance.com",
-    "published": "Wed Aug 05 2026 01:54:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Elon Musk Says SpaceX Is Applying Rocket Manufacturing Lessons to Data Centers",
-    "link": "https://cryptopanic.com/news/33155936/Elon-Musk-Says-SpaceX-Is-Applying-Rocket-Manufacturing-Lessons-to-Data-Centers",
-    "source": "square.binance.com",
-    "published": "Wed Aug 05 2026 01:54:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Woman Claims She Can No Longer Access 20,000 BTC, Specter Says",
-    "link": "https://cryptopanic.com/news/33155935/Woman-Claims-She-Can-No-Longer-Access-20000-BTC-Specter-Says",
-    "source": "square.binance.com",
-    "published": "Wed Aug 05 2026 01:54:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
