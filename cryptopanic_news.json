@@ -1,5 +1,61 @@
 [
   {
+    "title": "The Brain Implant Question Nobody Can Answer",
+    "link": "https://cryptopanic.com/news/33155518/The-Brain-Implant-Question-Nobody-Can-Answer",
+    "source": "AnthonyPompliano",
+    "published": "Wed Aug 05 2026 01:01:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The current situation of crypto investors",
+    "link": "https://cryptopanic.com/news/33155494/The-current-situation-of-crypto-investors",
+    "source": "@cryptonwsuk",
+    "published": "Wed Aug 05 2026 01:00:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Italy’s Intesa Sanpaolo cuts IBIT shares by 94%, doubles down on Ethereum: Details",
+    "link": "https://cryptopanic.com/news/33155504/Italys-Intesa-Sanpaolo-cuts-IBIT-shares-by-94-doubles-down-on-Ethereum-Details",
+    "source": "ambcrypto.com",
+    "published": "Wed Aug 05 2026 01:00:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Coldcard Wallet Hack May Reach $130M as Fourth Attack Wave Emerges",
+    "link": "https://cryptopanic.com/news/33155489/Coldcard-Wallet-Hack-May-Reach-130M-as-Fourth-Attack-Wave-Emerges",
+    "source": "catenaa.com",
+    "published": "Wed Aug 05 2026 01:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Amazing rescue",
+    "link": "https://cryptopanic.com/news/33155493/Amazing-rescue",
+    "source": "@cryptonwsuk",
+    "published": "Wed Aug 05 2026 00:58:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Canaan authorized its management to sell part of its $130M digital asset treasury to fund American depositary share buybacks under its existing board-approved repurchase program.",
+    "link": "https://cryptopanic.com/news/33155488/LATEST-Canaan-authorized-its-management-to-sell-part-of-its-130M-digital-asset-treasury-to-fund-American-depositary-share-buybacks-under-its-existing-board-approved-repurchase-program",
+    "source": "@coinmarketcap",
+    "published": "Wed Aug 05 2026 00:55:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "It's easy to forget just how BIG Sui Network's ecosystem really is...\n\n@SuiNetwork currently boasts an impressive $414 million value locked across its DeFi ecosystem, making it the 14th largest chain by that metric.\n\nAt the same time, $SUI hosts some $246 million in stablecoins -",
+    "link": "https://cryptopanic.com/news/33155538/Its-easy-to-forget-just-how-BIG-Sui-Networks-ecosystem-really-is-SuiNetwork-currently-boasts-an-impressive-414-million-value-locked-across-its-DeFi-ecosystem-making-it-the-14th-largest-chain-by-that-metric-At-the-same-time-SUI-hosts-some-246-million-in-stablecoins-",
+    "source": "@bscnews",
+    "published": "Wed Aug 05 2026 00:55:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Daily #Cardano News! ️\n\n$ADA Leads Weekly Gains!\nCardano TVL To Skyrocket?",
+    "link": "https://cryptopanic.com/news/33155491/Daily-Cardano-News-ADA-Leads-Weekly-Gains-Cardano-TVL-To-Skyrocket",
+    "source": "@angrycryptoshow",
+    "published": "Wed Aug 05 2026 00:51:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: LunarCrush ranks #Cardano $ADA among coins with the highest social activity.",
     "link": "https://cryptopanic.com/news/33155490/JUST-IN-LunarCrush-ranks-Cardano-ADA-among-coins-with-the-highest-social-activity",
     "source": "@angrycryptoshow",
@@ -11,6 +67,13 @@
     "link": "https://cryptopanic.com/news/33155497/NOW-US-CENTCOM-says-the-Strait-of-Hormuz-remains-open-with-US-forces-having-helped-over-1000-vessels-safely-transit-despite-Iranian-aggression-over-the-past-three-months",
     "source": "@cointelegraph",
     "published": "Wed Aug 05 2026 00:40:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "A mysterious trader is making a massive 40x short on $BTC!\n\nA newly created wallet, 0xff84, deposited 2.44M $USDC into Hyperliquid and opened a 40x short on 1,600 $BTC($102.6M).\n\nLiquidation price: $64,888.97.\n\nDoes he know something, or is this just a huge bet?",
+    "link": "https://cryptopanic.com/news/33155539/A-mysterious-trader-is-making-a-massive-40x-short-on-BTC-A-newly-created-wallet-0xff84-deposited-244M-USDC-into-Hyperliquid-and-opened-a-40x-short-on-1600-BTC1026M-Liquidation-price-6488897-Does-he-know-something-or-is-this-just-a-huge-bet",
+    "source": "@lookonchain",
+    "published": "Wed Aug 05 2026 00:40:19 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -144,69 +207,6 @@
     "link": "https://cryptopanic.com/news/33155305/LATEST-Trumps-White-House-is-reportedly-excluding-open-source-models-from-its-new-AI-review-framework-and-has-no-plans-to-release-it-publicly-per-Axios",
     "source": "@cointelegraph",
     "published": "Tue Aug 04 2026 23:20:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "How many wallets hold the $PEPE memecoin...?\n\nAccording to data from @etherscan, there are an impressive 571,613 wallet addresses that hold the $PEPE memecoin on @Ethereum.\n\nThis is certainly toward the higher end of major memecoins, but the second largest memecoin on $ETH is",
-    "link": "https://cryptopanic.com/news/33155354/How-many-wallets-hold-the-PEPE-memecoin-According-to-data-from-etherscan-there-are-an-impressive-571613-wallet-addresses-that-hold-the-PEPE-memecoin-on-Ethereum-This-is-certainly-toward-the-higher-end-of-major-memecoins-but-the-second-largest-memecoin-on-ETH-is",
-    "source": "@bscnews",
-    "published": "Tue Aug 04 2026 23:17:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum considers ‘Tapered Issuance Burn’ proposal as inflation solution",
-    "link": "https://cryptopanic.com/news/33155293/Ethereum-considers-Tapered-Issuance-Burn-proposal-as-inflation-solution",
-    "source": "cryptopolitan.com",
-    "published": "Tue Aug 04 2026 23:14:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ JUST IN: Solana’s SGP-0003 proposal surpassed the required 15% support threshold and has officially advanced to the discussion phase ahead of a governance vote.",
-    "link": "https://cryptopanic.com/news/33155304/JUST-IN-Solanas-SGP-0003-proposal-surpassed-the-required-15-support-threshold-and-has-officially-advanced-to-the-discussion-phase-ahead-of-a-governance-vote",
-    "source": "@cointelegraph",
-    "published": "Tue Aug 04 2026 23:01:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum staking surges by 1.4M ETH – What happens to liquidity now?",
-    "link": "https://cryptopanic.com/news/33155262/Ethereum-staking-surges-by-14M-ETH-What-happens-to-liquidity-now",
-    "source": "ambcrypto.com",
-    "published": "Tue Aug 04 2026 23:00:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Jim Cramer To Sell Bitcoin After IBM Quantum Warning: Will Traders Fade Him?",
-    "link": "https://cryptopanic.com/news/33155331/Jim-Cramer-To-Sell-Bitcoin-After-IBM-Quantum-Warning-Will-Traders-Fade-Him",
-    "source": "beincrypto.com",
-    "published": "Tue Aug 04 2026 23:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Western Union has launched a USDPT-backed Visa card in 37 markets, with expansion to 60+ markets planned by year-end.",
-    "link": "https://cryptopanic.com/news/33155301/LATEST-Western-Union-has-launched-a-USDPT-backed-Visa-card-in-37-markets-with-expansion-to-60-markets-planned-by-year-end",
-    "source": "@coinmarketcap",
-    "published": "Tue Aug 04 2026 22:53:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum staking demand outpaces exit demand by 9,846x.\n\nThere is now just 256 $ETH waiting to be unstaked from @Ethereum mainnet, versus a staggering 2,520,648 $ETH waiting to be staked.\n\nThat 2,520,648 has a current market value of roughly nearly $4.7 BILLION.\n\nSome analysts",
-    "link": "https://cryptopanic.com/news/33155245/Ethereum-staking-demand-outpaces-exit-demand-by-9846x-There-is-now-just-256-ETH-waiting-to-be-unstaked-from-Ethereum-mainnet-versus-a-staggering-2520648-ETH-waiting-to-be-staked-That-2520648-has-a-current-market-value-of-roughly-nearly-47-BILLION-Some-analysts",
-    "source": "@bscnews",
-    "published": "Tue Aug 04 2026 22:51:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "This Bitcoin Bridge Shut Itself Down Because AI Was Finding Bugs Too Fast",
-    "link": "https://cryptopanic.com/news/33155225/This-Bitcoin-Bridge-Shut-Itself-Down-Because-AI-Was-Finding-Bugs-Too-Fast",
-    "source": "decrypt.co",
-    "published": "Tue Aug 04 2026 22:46:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️UPDATE: Chainlink recorded 1.26 million $LINK in net exchange outflows over the past 24 hours, the largest daily outflow since June 29, according to Santiment.",
-    "link": "https://cryptopanic.com/news/33155224/UPDATE-Chainlink-recorded-126-million-LINK-in-net-exchange-outflows-over-the-past-24-hours-the-largest-daily-outflow-since-June-29-according-to-Santiment",
-    "source": "@cointelegraph",
-    "published": "Tue Aug 04 2026 22:40:57 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
