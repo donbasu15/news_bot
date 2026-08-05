@@ -1,5 +1,12 @@
 [
   {
+    "title": "Breakingviews - Insurer share sale is rare cover for India purse",
+    "link": "https://cryptopanic.com/news/33156496/Breakingviews-Insurer-share-sale-is-rare-cover-for-India-purse",
+    "source": "@reutersbiz",
+    "published": "Wed Aug 05 2026 04:45:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "NEW: Microsoft, Meta, Oracle, Amazon, and Alphabet have committed roughly $1.09 trillion in future lease payments for AI data centers.",
     "link": "https://cryptopanic.com/news/33156495/NEW-Microsoft-Meta-Oracle-Amazon-and-Alphabet-have-committed-roughly-109-trillion-in-future-lease-payments-for-AI-data-centers",
     "source": "@cointelegraph",
@@ -7,10 +14,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Is Ethereum About To Slash Staking Rewards?\n\nSix Ethereum developers, including Justin Drake, have proposed a new issuance policy called Tapered Issuance Burn. \n\nThe draft, tagged EIP-8363, would burn a growing share of validator rewards as staked ethereum:native rises. \n\nThe cut",
+    "link": "https://cryptopanic.com/news/33156535/Is-Ethereum-About-To-Slash-Staking-Rewards-Six-Ethereum-developers-including-Justin-Drake-have-proposed-a-new-issuance-policy-called-Tapered-Issuance-Burn-The-draft-tagged-EIP-8363-would-burn-a-growing-share-of-validator-rewards-as-staked-ethereumnative-rises-The-cut",
+    "source": "@bscnews",
+    "published": "Wed Aug 05 2026 04:40:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "The Bank Balance Sheet Is Now Southeast Asia's Tokenization Bottleneck",
     "link": "https://cryptopanic.com/news/33156430/The-Bank-Balance-Sheet-Is-Now-Southeast-Asias-Tokenization-Bottleneck",
     "source": "www.blockhead.co",
     "published": "Wed Aug 05 2026 04:30:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CLARITY Act Delay May Not Stop Crypto After All\n\nCrypto can continue growing even if the CLARITY Act stalls this week, Bitwise CIO Matt Hougan says.\n\nHe expects the SEC to introduce rules that could prove even more crypto friendly.\n\nHougan cited recent comments from SEC Chair",
+    "link": "https://cryptopanic.com/news/33156534/CLARITY-Act-Delay-May-Not-Stop-Crypto-After-All-Crypto-can-continue-growing-even-if-the-CLARITY-Act-stalls-this-week-Bitwise-CIO-Matt-Hougan-says-He-expects-the-SEC-to-introduce-rules-that-could-prove-even-more-crypto-friendly-Hougan-cited-recent-comments-from-SEC-Chair",
+    "source": "@bscnews",
+    "published": "Wed Aug 05 2026 04:21:44 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -186,27 +207,6 @@
     "link": "https://cryptopanic.com/news/33156193/JUST-IN-The-US-Iran-and-Oman-are-closing-in-on-an-interim-deal-to-reopen-the-Strait-of-Hormuz-with-an-announcement-expected-as-soon-as-Wednesday-per-Axios",
     "source": "@cointelegraph",
     "published": "Wed Aug 05 2026 02:38:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Palantir Short Sellers Lose $3 Billion After 30% Earnings Rally",
-    "link": "https://cryptopanic.com/news/33156155/Palantir-Short-Sellers-Lose-3-Billion-After-30-Earnings-Rally",
-    "source": "beincrypto.com",
-    "published": "Wed Aug 05 2026 02:38:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "A deal to reopen the Strait of Hormuz will reportedly be announced as soon as today. Here is what is currently expected:\n-No tolls/fees for 60 days\n-Traffic splits in/out between the Iran/Oman routes\n-Mines will be cleared within 30 days\n-A permanent agreement will be neogtiated",
-    "link": "https://cryptopanic.com/news/33156145/A-deal-to-reopen-the-Strait-of-Hormuz-will-reportedly-be-announced-as-soon-as-today-Here-is-what-is-currently-expected-No-tollsfees-for-60-days-Traffic-splits-inout-between-the-IranOman-routes-Mines-will-be-cleared-within-30-days-A-permanent-agreement-will-be-neogtiated",
-    "source": "@stackersatoshi",
-    "published": "Wed Aug 05 2026 02:35:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The proposed 60-day agreement would reopen shipping lanes, split inbound and outbound traffic between Iranian and Omani waters, waive transit fees, and begin clearing naval mines within 30 days.",
-    "link": "https://cryptopanic.com/news/33156140/The-proposed-60-day-agreement-would-reopen-shipping-lanes-split-inbound-and-outbound-traffic-between-Iranian-and-Omani-waters-waive-transit-fees-and-begin-clearing-naval-mines-within-30-days",
-    "source": "@solidintel_x",
-    "published": "Wed Aug 05 2026 02:33:21 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
