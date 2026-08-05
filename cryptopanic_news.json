@@ -1,5 +1,19 @@
 [
   {
+    "title": "Coldcard Wallet Bug Linked to $70 Million Bitcoin Theft",
+    "link": "https://cryptopanic.com/news/33156910/Coldcard-Wallet-Bug-Linked-to-70-Million-Bitcoin-Theft",
+    "source": "catenaa.com",
+    "published": "Wed Aug 05 2026 06:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto PAC Fairshake scores primary wins in Michigan and Washington",
+    "link": "https://cryptopanic.com/news/33156917/Crypto-PAC-Fairshake-scores-primary-wins-in-Michigan-and-Washington",
+    "source": "theblock.co",
+    "published": "Wed Aug 05 2026 06:29:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Crypto ETFs Split as Bitcoin Draws $170M, Ether Funds Retreat",
     "link": "https://cryptopanic.com/news/33156871/Crypto-ETFs-Split-as-Bitcoin-Draws-170M-Ether-Funds-Retreat",
     "source": "thecoinrepublic.com",
@@ -11,6 +25,13 @@
     "link": "https://cryptopanic.com/news/33156850/Anthropic-signs-10-billion-Volta-compute-deal-for-Norway-data-center",
     "source": "cryptopolitan.com",
     "published": "Wed Aug 05 2026 06:12:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Italy's Biggest Bank Goes Bigger On BlackRock's Staked Ethereum ETF\n\nItaly's largest bank, Intesa Sanpaolo, sharply increased its exposure to BlackRock's iShares Staked Ethereum ethereum:native Trust ETF (ETHB).\n\nThe bank nearly tripled its ETHB holdings during the second",
+    "link": "https://cryptopanic.com/news/33156920/Italys-Biggest-Bank-Goes-Bigger-On-BlackRocks-Staked-Ethereum-ETF-Italys-largest-bank-Intesa-Sanpaolo-sharply-increased-its-exposure-to-BlackRocks-iShares-Staked-Ethereum-ethereumnative-Trust-ETF-ETHB-The-bank-nearly-tripled-its-ETHB-holdings-during-the-second",
+    "source": "@bscnews",
+    "published": "Wed Aug 05 2026 06:11:48 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -28,6 +49,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "SanDisk Stock Jumps 10% on New AI Memory Milestone With SK Hynix Ahead of Earnings",
+    "link": "https://cryptopanic.com/news/33156909/SanDisk-Stock-Jumps-10-on-New-AI-Memory-Milestone-With-SK-Hynix-Ahead-of-Earnings",
+    "source": "beincrypto.com",
+    "published": "Wed Aug 05 2026 06:05:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "UPDATE: USD/JPY has decoupled from the US-Japan 10-year yield differential since April 2025's \"Liberation Day,\" with the dollar continuing to strengthen against the yen.",
     "link": "https://cryptopanic.com/news/33156865/UPDATE-USDJPY-has-decoupled-from-the-US-Japan-10-year-yield-differential-since-April-2025s-Liberation-Day-with-the-dollar-continuing-to-strengthen-against-the-yen",
     "source": "@cointelegraph",
@@ -35,10 +63,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Saylor’s MicroStrategy Linked to Fresh $66 Million Bitcoin Transfer",
+    "link": "https://cryptopanic.com/news/33156908/Saylors-MicroStrategy-Linked-to-Fresh-66-Million-Bitcoin-Transfer",
+    "source": "beincrypto.com",
+    "published": "Wed Aug 05 2026 05:59:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST:  Wells Fargo will launch tokenized deposits this fall, starting with round-the-clock dollar-to-pound transfers for select corporate clients on its own blockchain.",
     "link": "https://cryptopanic.com/news/33156861/LATEST-Wells-Fargo-will-launch-tokenized-deposits-this-fall-starting-with-round-the-clock-dollar-to-pound-transfers-for-select-corporate-clients-on-its-own-blockchain",
     "source": "@coinmarketcap",
     "published": "Wed Aug 05 2026 05:55:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Another whale, 0x3ad3, spent $1M to buy 16.02M $CASHCAT.",
+    "link": "https://cryptopanic.com/news/33156921/Another-whale-0x3ad3-spent-1M-to-buy-1602M-CASHCAT",
+    "source": "@lookonchain",
+    "published": "Wed Aug 05 2026 05:54:58 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -67,6 +109,13 @@
     "link": "https://cryptopanic.com/news/33156864/NOW-US-National-debt-hits-a-new-record-of-398-trillion-nearing-40T-with-debt-to-GDP-now-at-123",
     "source": "@cointelegraph",
     "published": "Wed Aug 05 2026 05:40:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Arthur Hayes Says Bitcoin’s Going to $1 Million After an AI Credit Bust",
+    "link": "https://cryptopanic.com/news/33156906/Arthur-Hayes-Says-Bitcoins-Going-to-1-Million-After-an-AI-Credit-Bust",
+    "source": "beincrypto.com",
+    "published": "Wed Aug 05 2026 05:35:24 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -158,55 +207,6 @@
     "link": "https://cryptopanic.com/news/33156759/Nikkei-225-Jumps-3-as-Chip-Stocks-Rally-on-Iran-Deal-Hopes",
     "source": "beincrypto.com",
     "published": "Wed Aug 05 2026 04:58:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "US Briefs UK On GENIUS Act Stablecoin Rollout\n\nThe US and UK reaffirmed closer financial regulatory cooperation at the 13th UK-US Financial Regulatory Working Group meeting. \n\nOfficials met in London on July 8 to discuss stablecoins, digital asset market structure and",
-    "link": "https://cryptopanic.com/news/33156536/US-Briefs-UK-On-GENIUS-Act-Stablecoin-Rollout-The-US-and-UK-reaffirmed-closer-financial-regulatory-cooperation-at-the-13th-UK-US-Financial-Regulatory-Working-Group-meeting-Officials-met-in-London-on-July-8-to-discuss-stablecoins-digital-asset-market-structure-and",
-    "source": "@bscnews",
-    "published": "Wed Aug 05 2026 04:58:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Unitree sets Shanghai IPO timetable, targeting a $5.7 billion valuation",
-    "link": "https://cryptopanic.com/news/33156555/Unitree-sets-Shanghai-IPO-timetable-targeting-a-57-billion-valuation",
-    "source": "cryptopolitan.com",
-    "published": "Wed Aug 05 2026 04:54:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Breakingviews - Insurer share sale is rare cover for India purse",
-    "link": "https://cryptopanic.com/news/33156496/Breakingviews-Insurer-share-sale-is-rare-cover-for-India-purse",
-    "source": "@reutersbiz",
-    "published": "Wed Aug 05 2026 04:45:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Microsoft, Meta, Oracle, Amazon, and Alphabet have committed roughly $1.09 trillion in future lease payments for AI data centers.",
-    "link": "https://cryptopanic.com/news/33156495/NEW-Microsoft-Meta-Oracle-Amazon-and-Alphabet-have-committed-roughly-109-trillion-in-future-lease-payments-for-AI-data-centers",
-    "source": "@cointelegraph",
-    "published": "Wed Aug 05 2026 04:41:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Is Ethereum About To Slash Staking Rewards?\n\nSix Ethereum developers, including Justin Drake, have proposed a new issuance policy called Tapered Issuance Burn. \n\nThe draft, tagged EIP-8363, would burn a growing share of validator rewards as staked ethereum:native rises. \n\nThe cut",
-    "link": "https://cryptopanic.com/news/33156535/Is-Ethereum-About-To-Slash-Staking-Rewards-Six-Ethereum-developers-including-Justin-Drake-have-proposed-a-new-issuance-policy-called-Tapered-Issuance-Burn-The-draft-tagged-EIP-8363-would-burn-a-growing-share-of-validator-rewards-as-staked-ethereumnative-rises-The-cut",
-    "source": "@bscnews",
-    "published": "Wed Aug 05 2026 04:40:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin flat at $64,000 as stocks print records and Hormuz deal nears",
-    "link": "https://cryptopanic.com/news/33156604/Bitcoin-flat-at-64000-as-stocks-print-records-and-Hormuz-deal-nears",
-    "source": "coindesk.com",
-    "published": "Wed Aug 05 2026 04:32:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Bank Balance Sheet Is Now Southeast Asia's Tokenization Bottleneck",
-    "link": "https://cryptopanic.com/news/33156430/The-Bank-Balance-Sheet-Is-Now-Southeast-Asias-Tokenization-Bottleneck",
-    "source": "www.blockhead.co",
-    "published": "Wed Aug 05 2026 04:30:59 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
