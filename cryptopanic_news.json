@@ -1,9 +1,23 @@
 [
   {
+    "title": "America Was Built by Men Like This",
+    "link": "https://cryptopanic.com/news/33162202/America-Was-Built-by-Men-Like-This",
+    "source": "AnthonyPompliano",
+    "published": "Wed Aug 05 2026 23:02:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Is $XRP Ledger the most promising player in the RWA game...?\n\nAccording to data from @MSBIntel, holders of RWA-backed tokens on @Ripple's $XRPL have surged by some +25.16% in the past month.\n\nMSB attributes some of this growth to Ripple's decision to make direct investments into",
     "link": "https://cryptopanic.com/news/33162177/Is-XRP-Ledger-the-most-promising-player-in-the-RWA-game-According-to-data-from-MSBIntel-holders-of-RWA-backed-tokens-on-Ripples-XRPL-have-surged-by-some-2516-in-the-past-month-MSB-attributes-some-of-this-growth-to-Ripples-decision-to-make-direct-investments-into",
     "source": "@bscnews",
     "published": "Wed Aug 05 2026 22:49:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BREAKING: 🇺🇸 DOJ seizes Bitcoin with no charges, sets precedent.\n\n• 21.17 BTC & 76.56 ETH seized in Aug 2025 \n\n• Claims proceeds of North Korea IT fraud \n\n• Iranian owner never charged or convicted \n\n• Owner now suing Coinbase for $2.8M",
+    "link": "https://cryptopanic.com/news/33162223/BREAKING-DOJ-seizes-Bitcoin-with-no-charges-sets-precedent-2117-BTC-amp-7656-ETH-seized-in-Aug-2025-Claims-proceeds-of-North-Korea-IT-fraud-Iranian-owner-never-charged-or-convicted-Owner-now-suing-Coinbase-for-28M",
+    "source": "@btc_archive",
+    "published": "Wed Aug 05 2026 22:46:02 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -105,6 +119,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Been holding hbar for ages now, love the project. But curious about this chatter about DOVU",
+    "link": "https://cryptopanic.com/news/33162237/Been-holding-hbar-for-ages-now-love-the-project-But-curious-about-this-chatter-about-DOVU",
+    "source": "r/hedera",
+    "published": "Wed Aug 05 2026 21:51:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST: 🇺🇸 Senator Cynthia Lummis says she still believes the Senate will vote on the CLARITY Act before the recess, adding, \"It's just time to get people on the record.\"",
     "link": "https://cryptopanic.com/news/33162051/LATEST-Senator-Cynthia-Lummis-says-she-still-believes-the-Senate-will-vote-on-the-CLARITY-Act-before-the-recess-adding-Its-just-time-to-get-people-on-the-record",
     "source": "@coinmarketcap",
@@ -186,27 +207,6 @@
     "link": "https://cryptopanic.com/news/33162023/CFTC-CHAIR-SELIG-SAYS-AGENCY-READY-TO-GO-EVEN-IF-CLARITY-ACT-DOES-NOT-PASS-We-are-ready-to-go-with-our-regulations-The-American-people-deserve-clarity-We-really-want-this-to-be-future-proof",
     "source": "@btc_archive",
     "published": "Wed Aug 05 2026 21:18:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: X Head of Product Nikita Bier says he's stepping back from leading product and will remain as an advisor, calling the role a \"24/7 job.\" \n\nHe says X has seen record user growth and engagement while rebuilding much of the app over the past 400 days.",
-    "link": "https://cryptopanic.com/news/33162053/JUST-IN-X-Head-of-Product-Nikita-Bier-says-hes-stepping-back-from-leading-product-and-will-remain-as-an-advisor-calling-the-role-a-247-job-He-says-X-has-seen-record-user-growth-and-engagement-while-rebuilding-much-of-the-app-over-the-past-400-days",
-    "source": "@coindesk",
-    "published": "Wed Aug 05 2026 21:16:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Disney reported quarterly revenue of $25.2 billion, up 7% from last year, driven by Toy Story 5's $1 billion box office success and increased consumer-product sales",
-    "link": "https://cryptopanic.com/news/33161887/Disney-reported-quarterly-revenue-of-252-billion-up-7-from-last-year-driven-by-Toy-Story-5s-1-billion-box-office-success-and-increased-consumer-product-sales",
-    "source": "@reutersbiz",
-    "published": "Wed Aug 05 2026 21:10:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Anthropic is building its own AI chips\n\n@AnthropicAI is hiring for a custom silicon team, per its own job listings, and the company says it plans to co-design hardware and models so Claude runs faster and more efficiently. The Information reported last month that Anthropic had",
-    "link": "https://cryptopanic.com/news/33161942/Anthropic-is-building-its-own-AI-chips-AnthropicAI-is-hiring-for-a-custom-silicon-team-per-its-own-job-listings-and-the-company-says-it-plans-to-co-design-hardware-and-models-so-Claude-runs-faster-and-more-efficiently-The-Information-reported-last-month-that-Anthropic-had",
-    "source": "@bscnews",
-    "published": "Wed Aug 05 2026 21:07:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
