@@ -1,5 +1,124 @@
 [
   {
+    "title": "Bitcoin miner sells 1,619 Bitcoin at a $47 million loss before its AI data center paid rent",
+    "link": "https://cryptopanic.com/news/33166138/Bitcoin-miner-sells-1619-Bitcoin-at-a-47-million-loss-before-its-AI-data-center-paid-rent",
+    "source": "cryptoslate.com",
+    "published": "Thu Aug 06 2026 12:15:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Whales Buy 38,000 BTC: Two Scenarios Around the $70K Cost Basis",
+    "link": "https://cryptopanic.com/news/33166094/Bitcoin-Whales-Buy-38000-BTC-Two-Scenarios-Around-the-70K-Cost-Basis",
+    "source": "coinpaper.com",
+    "published": "Thu Aug 06 2026 12:13:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Sandisk and Western Digital Tumble 10% as the AI Trade Stalls — Bitcoin Watches for the Rotation",
+    "link": "https://cryptopanic.com/news/33166078/Sandisk-and-Western-Digital-Tumble-10-as-the-AI-Trade-Stalls-Bitcoin-Watches-for-the-Rotation",
+    "source": "btcusa.com",
+    "published": "Thu Aug 06 2026 12:11:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bernstein says Circle’s Q2 counters bearish concerns over competition, reserve income",
+    "link": "https://cryptopanic.com/news/33166073/Bernstein-says-Circles-Q2-counters-bearish-concerns-over-competition-reserve-income",
+    "source": "theblock.co",
+    "published": "Thu Aug 06 2026 12:10:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "EU warns of crypto scams after MiCA compliance deadline",
+    "link": "https://cryptopanic.com/news/33166142/EU-warns-of-crypto-scams-after-MiCA-compliance-deadline",
+    "source": "cryptopolitan.com",
+    "published": "Thu Aug 06 2026 12:08:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "TODAY: More than 900 million SpaceX shares unlock.",
+    "link": "https://cryptopanic.com/news/33166099/TODAY-More-than-900-million-SpaceX-shares-unlock",
+    "source": "@cointelegraph",
+    "published": "Thu Aug 06 2026 12:05:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Arthur Hayes Sees Bitcoin Topping $1M if AI Boom Ends in Credit Crisis",
+    "link": "https://cryptopanic.com/news/33166038/Arthur-Hayes-Sees-Bitcoin-Topping-1M-if-AI-Boom-Ends-in-Credit-Crisis",
+    "source": "dailycoin.com",
+    "published": "Thu Aug 06 2026 12:05:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto Wrench Attacks on Pace for Record Year as $30M Stolen in 2026: Chainalysis",
+    "link": "https://cryptopanic.com/news/33166000/Crypto-Wrench-Attacks-on-Pace-for-Record-Year-as-30M-Stolen-in-2026-Chainalysis",
+    "source": "decrypt.co",
+    "published": "Thu Aug 06 2026 12:01:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ColdCard Wallet! Your Bitcoin, Your Responsibility!",
+    "link": "https://cryptopanic.com/news/33166003/ColdCard-Wallet-Your-Bitcoin-Your-Responsibility",
+    "source": "SimplyBitcoin",
+    "published": "Thu Aug 06 2026 12:00:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "[CMC Live] What Makes a Wallet Secure?\n\n⏰ August 6th, 3pm UTC\n\n Set a reminder: \n\n Ivan, Engineering Manager at @TrustWallet, breaks down self-custody security and how wallets protect users and assets.",
+    "link": "https://cryptopanic.com/news/33166093/CMC-Live-What-Makes-a-Wallet-Secure-August-6th-3pm-UTC-Set-a-reminder-Ivan-Engineering-Manager-at-TrustWallet-breaks-down-self-custody-security-and-how-wallets-protect-users-and-assets",
+    "source": "@coinmarketcap",
+    "published": "Thu Aug 06 2026 12:00:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "More than $30 million stolen in violent crypto attacks in 2026 as France emerges as ‘wrench attack’ hotspot: Chainalysis",
+    "link": "https://cryptopanic.com/news/33165957/More-than-30-million-stolen-in-violent-crypto-attacks-in-2026-as-France-emerges-as-wrench-attack-hotspot-Chainalysis",
+    "source": "theblock.co",
+    "published": "Thu Aug 06 2026 12:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The Chopping Block: ColdCard's $100M RNG Hack, AI-Powered Security & Ethereum's Staking Yield Taper",
+    "link": "https://cryptopanic.com/news/33166016/The-Chopping-Block-ColdCards-100M-RNG-Hack-AI-Powered-Security-Ethereums-Staking-Yield-Taper",
+    "source": "Unchained",
+    "published": "Thu Aug 06 2026 12:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BITCOIN WHALE FACING $90M LIQUIDATION! \n\n 1,400 BTC short opened Tuesday \n\n Bleeding $600k at 51x leverage\n\nWill $65k trigger the ultimate squeeze?",
+    "link": "https://cryptopanic.com/news/33165956/BITCOIN-WHALE-FACING-90M-LIQUIDATION-1400-BTC-short-opened-Tuesday-Bleeding-600k-at-51x-leverage-Will-65k-trigger-the-ultimate-squeeze",
+    "source": "@btc_archive",
+    "published": "Thu Aug 06 2026 11:59:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Gold, Silver Surge Over 5%, Adds Over $1.3T as US-Iran War Fears Ease",
+    "link": "https://cryptopanic.com/news/33165945/Gold-Silver-Surge-Over-5-Adds-Over-13T-as-US-Iran-War-Fears-Ease",
+    "source": "coinpaper.com",
+    "published": "Thu Aug 06 2026 11:56:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33166096/Source",
+    "source": "@wublockchain",
+    "published": "Thu Aug 06 2026 11:49:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Kevin O'Leary says Bitcoin's price will \"go nowhere\" if the CLARITY Act doesn't pass: \"Unless the bill passes, it's stuck here.\"",
+    "link": "https://cryptopanic.com/news/33166092/LATEST-Kevin-OLeary-says-Bitcoins-price-will-go-nowhere-if-the-CLARITY-Act-doesnt-pass-Unless-the-bill-passes-its-stuck-here",
+    "source": "@coinmarketcap",
+    "published": "Thu Aug 06 2026 11:49:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hyperliquid Q2 HIP-3 RWA Contracts’ Trading Share Rises from 1.8% to 32.2%\n\nHyperliquid released its Q2 report, showing that HIP-3-related RWA perpetual contracts increased their share of trading volume from 1.8% two quarters ago to 32.2%, with quarterly trading volume reaching",
+    "link": "https://cryptopanic.com/news/33166095/Hyperliquid-Q2-HIP-3-RWA-Contracts-Trading-Share-Rises-from-18-to-322-Hyperliquid-released-its-Q2-report-showing-that-HIP-3-related-RWA-perpetual-contracts-increased-their-share-of-trading-volume-from-18-two-quarters-ago-to-322-with-quarterly-trading-volume-reaching",
+    "source": "@wublockchain",
+    "published": "Thu Aug 06 2026 11:48:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "UPDATE: SpaceX faces a major market test today as up to 911.5M shares unlock, the first tranche of a staggered release. The stock hit an all-time low yesterday, down 13.6%, despite Q2 revenue beating estimates at $7.81B (+92%).",
     "link": "https://cryptopanic.com/news/33165872/UPDATE-SpaceX-faces-a-major-market-test-today-as-up-to-9115M-shares-unlock-the-first-tranche-of-a-staggered-release-The-stock-hit-an-all-time-low-yesterday-down-136-despite-Q2-revenue-beating-estimates-at-781B-92",
     "source": "@decryptmedia",
@@ -7,10 +126,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "LATEST: Move-to-earn project Step App is shutting down after four years.",
+    "link": "https://cryptopanic.com/news/33166098/LATEST-Move-to-earn-project-Step-App-is-shutting-down-after-four-years",
+    "source": "@cointelegraph",
+    "published": "Thu Aug 06 2026 11:46:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "SpaceX Shares Slide, Erasing $87,200,000,000 From Elon Musk’s Wealth",
     "link": "https://cryptopanic.com/news/33165926/SpaceX-Shares-Slide-Erasing-87200000000-From-Elon-Musks-Wealth",
     "source": "dailyhodl.com",
     "published": "Thu Aug 06 2026 11:45:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "One Silver Stock Got a 80% Upside Call Despite the Metal Dropping 50%: Here’s Why",
+    "link": "https://cryptopanic.com/news/33166064/One-Silver-Stock-Got-a-80-Upside-Call-Despite-the-Metal-Dropping-50-Heres-Why",
+    "source": "beincrypto.com",
+    "published": "Thu Aug 06 2026 11:43:12 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -49,6 +182,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "NEW: @Coinbase launches 24/5 U.S. stock trading in the UK, offering nearly 4,000 equities with zero-commission trading and fractional shares from £1, funded by GBP or $USDC.",
+    "link": "https://cryptopanic.com/news/33166097/NEW-Coinbase-launches-245-US-stock-trading-in-the-UK-offering-nearly-4000-equities-with-zero-commission-trading-and-fractional-shares-from-1-funded-by-GBP-or-USDC",
+    "source": "@coindesk",
+    "published": "Thu Aug 06 2026 11:34:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Clarity Act stalls in the Senate before the summer recess",
     "link": "https://cryptopanic.com/news/33165804/Clarity-Act-stalls-in-the-Senate-before-the-summer-recess",
     "source": "cryptovalleyjournal.com",
@@ -67,146 +207,6 @@
     "link": "https://cryptopanic.com/news/33165744/Listen-to-the-recording-of-our-space-with-trondao-on-AI-agents-and-gasless-rails",
     "source": "@cryptoquant_com",
     "published": "Thu Aug 06 2026 11:31:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto Legislation Delay 'Disappointing,' but 'Doesn't Change the Direction of Travel' for Digital Assets, Says Analyst",
-    "link": "https://cryptopanic.com/news/33165862/Crypto-Legislation-Delay-Disappointing-but-Doesnt-Change-the-Direction-of-Travel-for-Digital-Assets-Says-Analyst",
-    "source": "feeds2.benzinga.com",
-    "published": "Thu Aug 06 2026 11:30:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Investors are reacting differently to Microsoft and Meta earnings, but all hyperscalers are low-risk beneficiaries of AI growth despite cloud investment challenges, fund manager Mikhail Zverev says",
-    "link": "https://cryptopanic.com/news/33165750/Investors-are-reacting-differently-to-Microsoft-and-Meta-earnings-but-all-hyperscalers-are-low-risk-beneficiaries-of-AI-growth-despite-cloud-investment-challenges-fund-manager-Mikhail-Zverev-says",
-    "source": "@reutersbiz",
-    "published": "Thu Aug 06 2026 11:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Alibaba Opens Qwen3.8-Max to Developers",
-    "link": "https://cryptopanic.com/news/33165745/Alibaba-Opens-Qwen38-Max-to-Developers",
-    "source": "catenaa.com",
-    "published": "Thu Aug 06 2026 11:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Free Markets and Innovation, Sort Of",
-    "link": "https://cryptopanic.com/news/33165903/Free-Markets-and-Innovation-Sort-Of",
-    "source": "coindesk.com",
-    "published": "Thu Aug 06 2026 11:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hong Kong police raise Fun Coffee scam losses to HK$104 million",
-    "link": "https://cryptopanic.com/news/33165753/Hong-Kong-police-raise-Fun-Coffee-scam-losses-to-HK104-million",
-    "source": "cryptopolitan.com",
-    "published": "Thu Aug 06 2026 11:25:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "StrongBlock Loses $72K After Attacker Hijacks Abandoned Governance",
-    "link": "https://cryptopanic.com/news/33165688/StrongBlock-Loses-72K-After-Attacker-Hijacks-Abandoned-Governance",
-    "source": "coinpaper.com",
-    "published": "Thu Aug 06 2026 11:21:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Canaan can use crypto to buy back nearly 20% of its market value while its core business burns cash",
-    "link": "https://cryptopanic.com/news/33165690/Canaan-can-use-crypto-to-buy-back-nearly-20-of-its-market-value-while-its-core-business-burns-cash",
-    "source": "cryptoslate.com",
-    "published": "Thu Aug 06 2026 11:20:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "DOJ Reaches $3.2 Million Settlement with OpenAI Over Alleged Discriminatory Hiring Practices in PERM Recruitment",
-    "link": "https://cryptopanic.com/news/33165827/DOJ-Reaches-32-Million-Settlement-with-OpenAI-Over-Alleged-Discriminatory-Hiring-Practices-in-PERM-Recruitment",
-    "source": "sfctoday.com",
-    "published": "Thu Aug 06 2026 11:19:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Grayscale is prioritizing BNB \n\nGrayscale Investments (@Grayscale) completes its Q2 2026 portfolio rebalancing across three thematic funds, effective as of the August 3 close. \n\nThe firm’s Smart Contract Fund (GSC) initiates a major structural shift by adding $BNB, which now",
-    "link": "https://cryptopanic.com/news/33165870/Grayscale-is-prioritizing-BNB-Grayscale-Investments-Grayscale-completes-its-Q2-2026-portfolio-rebalancing-across-three-thematic-funds-effective-as-of-the-August-3-close-The-firms-Smart-Contract-Fund-GSC-initiates-a-major-structural-shift-by-adding-BNB-which-now",
-    "source": "@bscnews",
-    "published": "Thu Aug 06 2026 11:16:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Circle shares fall despite earnings beat as revenue misses",
-    "link": "https://cryptopanic.com/news/33165664/Circle-shares-fall-despite-earnings-beat-as-revenue-misses",
-    "source": "coincu.com",
-    "published": "Thu Aug 06 2026 11:15:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bernstein reaffirms TeraWulf Outperform rating as HPC revenue hits 71% of Q2 total",
-    "link": "https://cryptopanic.com/news/33165679/Bernstein-reaffirms-TeraWulf-Outperform-rating-as-HPC-revenue-hits-71-of-Q2-total",
-    "source": "theblock.co",
-    "published": "Thu Aug 06 2026 11:15:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why Sandisk and Western Digital crashed 10% and what it means for bitcoin",
-    "link": "https://cryptopanic.com/news/33165746/Why-Sandisk-and-Western-Digital-crashed-10-and-what-it-means-for-bitcoin",
-    "source": "coindesk.com",
-    "published": "Thu Aug 06 2026 11:14:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The trader who previously spent $791K to buy 13.14M $CASHCAT($1.75M now) is now up $956K.\n\nAnother trader also spent $519 $ETH($985K) to buy 9.96M $CASHCAT 12 hours ago.",
-    "link": "https://cryptopanic.com/news/33165873/The-trader-who-previously-spent-791K-to-buy-1314M-CASHCAT175M-now-is-now-up-956K-Another-trader-also-spent-519-ETH985K-to-buy-996M-CASHCAT-12-hours-ago",
-    "source": "@lookonchain",
-    "published": "Thu Aug 06 2026 11:14:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Uniswap Labs launched Pools, a token launchpad on Robinhood Chain. Here is how Crowd Launch, Instant Launch, and locked liquidity actually work.",
-    "link": "https://cryptopanic.com/news/33165869/Uniswap-Labs-launched-Pools-a-token-launchpad-on-Robinhood-Chain-Here-is-how-Crowd-Launch-Instant-Launch-and-locked-liquidity-actually-work",
-    "source": "@bscnews",
-    "published": "Thu Aug 06 2026 11:14:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇺🇸 Bitwise CIO Matt Hougan says even if the CLARITY Act fails this week, \"crypto will be fine,\" arguing \"the genie won't go back in the bottle.\"",
-    "link": "https://cryptopanic.com/news/33165742/LATEST-Bitwise-CIO-Matt-Hougan-says-even-if-the-CLARITY-Act-fails-this-week-crypto-will-be-fine-arguing-the-genie-wont-go-back-in-the-bottle",
-    "source": "@coinmarketcap",
-    "published": "Thu Aug 06 2026 11:13:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CoinMarketCap | Liquidations \n\n$229M in positions were liquidated in the last 24 hours, up nearly 97%.\n\nYou can now track this straight from the CoinMarketCap home page:\n\n Live 24h liquidations, front and center\n See leverage flush out in real time\n No extra tabs, no",
-    "link": "https://cryptopanic.com/news/33165740/CoinMarketCap-Liquidations-229M-in-positions-were-liquidated-in-the-last-24-hours-up-nearly-97-You-can-now-track-this-straight-from-the-CoinMarketCap-home-page-Live-24h-liquidations-front-and-center-See-leverage-flush-out-in-real-time-No-extra-tabs-no",
-    "source": "@coinmarketcap",
-    "published": "Thu Aug 06 2026 11:12:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Step App’s governance token FITFI reached an all-time high of approximately $0.73, with an IDO price of $0.0049, representing a peak gain of about 150x from IDO to ATH. Earlier on July 16, Upbit and Bithumb both announced the delisting of Step App (FITFI).",
-    "link": "https://cryptopanic.com/news/33165748/Step-Apps-governance-token-FITFI-reached-an-all-time-high-of-approximately-073-with-an-IDO-price-of-00049-representing-a-peak-gain-of-about-150x-from-IDO-to-ATH-Earlier-on-July-16-Upbit-and-Bithumb-both-announced-the-delisting-of-Step-App-FITFI",
-    "source": "@wublockchain",
-    "published": "Thu Aug 06 2026 11:10:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ark Invest buys $37M in Circle and SpaceX stock after Q2 earnings",
-    "link": "https://cryptopanic.com/news/33165673/Ark-Invest-buys-37M-in-Circle-and-SpaceX-stock-after-Q2-earnings",
-    "source": "cryptopolitan.com",
-    "published": "Thu Aug 06 2026 11:09:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "What happens when AI takes humans out of the loop?\n\n@0G_labs founder @michaelh_0g explains why safety precautions must be built into AI systems on #CHAINREACTION with @itsciaranlyons.",
-    "link": "https://cryptopanic.com/news/33165749/What-happens-when-AI-takes-humans-out-of-the-loop-0G_labs-founder-michaelh_0g-explains-why-safety-precautions-must-be-built-into-AI-systems-on-CHAINREACTION-with-itsciaranlyons",
-    "source": "@cointelegraph",
-    "published": "Thu Aug 06 2026 11:07:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto Scammers Exploit MiCA Deadline to Target EU Investors",
-    "link": "https://cryptopanic.com/news/33165579/Crypto-Scammers-Exploit-MiCA-Deadline-to-Target-EU-Investors",
-    "source": "cryptodnes.bg",
-    "published": "Thu Aug 06 2026 11:02:09 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
