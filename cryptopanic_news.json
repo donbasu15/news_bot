@@ -1,9 +1,72 @@
 [
   {
+    "title": "ZEUS pulls infrastructure offline after hack, third Lightning outage in a week",
+    "link": "https://cryptopanic.com/news/33163063/ZEUS-pulls-infrastructure-offline-after-hack-third-Lightning-outage-in-a-week",
+    "source": "cryptopolitan.com",
+    "published": "Thu Aug 06 2026 02:33:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33163036/Source",
+    "source": "@wublockchain",
+    "published": "Thu Aug 06 2026 02:23:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cathie Wood’s Ark Invest scoops up $17 million in Circle, $20 million in SpaceX shares following Q2 results",
+    "link": "https://cryptopanic.com/news/33163018/Cathie-Woods-Ark-Invest-scoops-up-17-million-in-Circle-20-million-in-SpaceX-shares-following-Q2-results",
+    "source": "theblock.co",
+    "published": "Thu Aug 06 2026 02:22:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "GSR: Bitcoin, Ether and Solana Tumble in 2026, With SOL Down Over 40%\n\nGSR’s Core3 model portfolio allocated 44.1% to ETH, 36.5% to SOL and 19.3% to BTC as of August 5. Bitcoin, Ether and Solana were down 24.82%, 35.49% and 40.21% year to date, respectively. The model portfolio",
+    "link": "https://cryptopanic.com/news/33163035/GSR-Bitcoin-Ether-and-Solana-Tumble-in-2026-With-SOL-Down-Over-40-GSRs-Core3-model-portfolio-allocated-441-to-ETH-365-to-SOL-and-193-to-BTC-as-of-August-5-Bitcoin-Ether-and-Solana-were-down-2482-3549-and-4021-year-to-date-respectively-The-model-portfolio",
+    "source": "@wublockchain",
+    "published": "Thu Aug 06 2026 02:21:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Galaxy Digital posted an $85M net loss in Q2 as crypto prices fell, with revenue of $8.7B missing Wall Street's $12.7B estimate.",
+    "link": "https://cryptopanic.com/news/33163033/LATEST-Galaxy-Digital-posted-an-85M-net-loss-in-Q2-as-crypto-prices-fell-with-revenue-of-87B-missing-Wall-Streets-127B-estimate",
+    "source": "@coinmarketcap",
+    "published": "Thu Aug 06 2026 02:20:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BIG: OpenAI accounts for likely 70% of Microsoft's actual AI sales, with the software giant recording $24.1 billion in sales from OpenAI in the year through June.",
+    "link": "https://cryptopanic.com/news/33163040/BIG-OpenAI-accounts-for-likely-70-of-Microsofts-actual-AI-sales-with-the-software-giant-recording-241-billion-in-sales-from-OpenAI-in-the-year-through-June",
+    "source": "@cointelegraph",
+    "published": "Thu Aug 06 2026 02:20:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Whales are accumulating $BTC!\n\nFour newly created wallets have received 1,540 $BTC($99.4M) from #GalaxyDigital and #BitGo in the past 3 hours.",
+    "link": "https://cryptopanic.com/news/33163079/Whales-are-accumulating-BTC-Four-newly-created-wallets-have-received-1540-BTC994M-from-GalaxyDigital-and-BitGo-in-the-past-3-hours",
+    "source": "@lookonchain",
+    "published": "Thu Aug 06 2026 02:13:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Roughly $100B of $SPCX shares will be unlocked today, increasing the float by 142%.\n\nPrice is already -50% from the post-IPO peak, but this is a significant increase in active supply for the market to potentially absorb.\n\nBe prepared for volatility.",
     "link": "https://cryptopanic.com/news/33163000/Roughly-100B-of-SPCX-shares-will-be-unlocked-today-increasing-the-float-by-142-Price-is-already-50-from-the-post-IPO-peak-but-this-is-a-significant-increase-in-active-supply-for-the-market-to-potentially-absorb-Be-prepared-for-volatility",
     "source": "@stackersatoshi",
     "published": "Thu Aug 06 2026 02:13:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Special Thanks:\n@niroshan682\n@chainspect_app",
+    "link": "https://cryptopanic.com/news/33163037/Special-Thanks-niroshan682-chainspect_app",
+    "source": "@angrycryptoshow",
+    "published": "Thu Aug 06 2026 02:12:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Daily #Cardano News! ️\n\nWhales Are Stockpiling $ADA!\nNew Decentralization Record!",
+    "link": "https://cryptopanic.com/news/33163038/Daily-Cardano-News-Whales-Are-Stockpiling-ADA-New-Decentralization-Record",
+    "source": "@angrycryptoshow",
+    "published": "Thu Aug 06 2026 02:12:49 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -14,10 +77,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Upbit to List Cap (CAP) in KRW, BTC and USDT Markets; Bithumb to Add UB\n\nUpbit will list Cap (CAP), opening trading in its KRW, BTC and USDT markets. Cap is an onchain credit and stablecoin protocol built around a “covered credit” model, offering the dollar-denominated cUSD and",
+    "link": "https://cryptopanic.com/news/33163034/Upbit-to-List-Cap-CAP-in-KRW-BTC-and-USDT-Markets-Bithumb-to-Add-UB-Upbit-will-list-Cap-CAP-opening-trading-in-its-KRW-BTC-and-USDT-markets-Cap-is-an-onchain-credit-and-stablecoin-protocol-built-around-a-covered-credit-model-offering-the-dollar-denominated-cUSD-and",
+    "source": "@wublockchain",
+    "published": "Thu Aug 06 2026 02:07:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin, Ethereum Gain; XRP, Dogecoin Slide Amid Crypto Act Standoff: Analyst Spots BTC Bottom Signal That Preceded 740% Rally Before",
     "link": "https://cryptopanic.com/news/33163014/Bitcoin-Ethereum-Gain-XRP-Dogecoin-Slide-Amid-Crypto-Act-Standoff-Analyst-Spots-BTC-Bottom-Signal-That-Preceded-740-Rally-Before",
     "source": "feeds2.benzinga.com",
     "published": "Thu Aug 06 2026 02:05:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Chainlink is taking over crypto, one step at a time.\n\nIndustry-leading crypto custodian @BitGo has decided to ditch its 'legacy bridging provider' and choose @Chainlink's CCIP as its exclusive cross-chain tech partner.\n\nAs part of the decision, a staggering $7.7 BILLION worth of",
+    "link": "https://cryptopanic.com/news/33163078/Chainlink-is-taking-over-crypto-one-step-at-a-time-Industry-leading-crypto-custodian-BitGo-has-decided-to-ditch-its-legacy-bridging-provider-and-choose-Chainlinks-CCIP-as-its-exclusive-cross-chain-tech-partner-As-part-of-the-decision-a-staggering-77-BILLION-worth-of",
+    "source": "@bscnews",
+    "published": "Thu Aug 06 2026 02:02:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -38,6 +115,13 @@
     "title": "Clarity Act Faces Final Senate Push Before Recess",
     "link": "https://cryptopanic.com/news/33162855/Clarity-Act-Faces-Final-Senate-Push-Before-Recess",
     "source": "catenaa.com",
+    "published": "Thu Aug 06 2026 02:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: Google DeepMind CEO Demis Hassabis is stepping into a new role as Chair of DeepMind and Chief Scientist of Alphabet.",
+    "link": "https://cryptopanic.com/news/33163039/LATEST-Google-DeepMind-CEO-Demis-Hassabis-is-stepping-into-a-new-role-as-Chair-of-DeepMind-and-Chief-Scientist-of-Alphabet",
+    "source": "@cointelegraph",
     "published": "Thu Aug 06 2026 02:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -123,90 +207,6 @@
     "link": "https://cryptopanic.com/news/33162959/STOCKS-Washington-Policy-Uncertainty-Revives-Debate-Over-Sell-America-Trades",
     "source": "square.binance.com",
     "published": "Thu Aug 06 2026 01:39:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "What’s Causing Record High US Beef Prices?",
-    "link": "https://cryptopanic.com/news/33162958/Whats-Causing-Record-High-US-Beef-Prices",
-    "source": "square.binance.com",
-    "published": "Thu Aug 06 2026 01:38:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Disney Agrees Deal To Let TikTokers Use Films And TV Shows In Videos",
-    "link": "https://cryptopanic.com/news/33162957/Disney-Agrees-Deal-To-Let-TikTokers-Use-Films-And-TV-Shows-In-Videos",
-    "source": "square.binance.com",
-    "published": "Thu Aug 06 2026 01:38:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Infantino Remains Fifa President After Executive Meeting",
-    "link": "https://cryptopanic.com/news/33162956/Infantino-Remains-Fifa-President-After-Executive-Meeting",
-    "source": "square.binance.com",
-    "published": "Thu Aug 06 2026 01:38:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Manulife Hong Kong And Macau Posts Strong Q2 Growth In Key Metrics",
-    "link": "https://cryptopanic.com/news/33162955/Manulife-Hong-Kong-And-Macau-Posts-Strong-Q2-Growth-In-Key-Metrics",
-    "source": "square.binance.com",
-    "published": "Thu Aug 06 2026 01:37:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 JUST IN: President Trump has been calling Fed Chair Kevin Warsh repeatedly for counsel on issues like the Iran war and AI's economic impact, WSJ reports.",
-    "link": "https://cryptopanic.com/news/33162702/JUST-IN-President-Trump-has-been-calling-Fed-Chair-Kevin-Warsh-repeatedly-for-counsel-on-issues-like-the-Iran-war-and-AIs-economic-impact-WSJ-reports",
-    "source": "@cointelegraph",
-    "published": "Thu Aug 06 2026 01:36:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "President Trump's administration has refunded about $100 billion from tariffs that it collected before the US Supreme Court struck down those duties, a court filing showed. More here",
-    "link": "https://cryptopanic.com/news/33162704/President-Trumps-administration-has-refunded-about-100-billion-from-tariffs-that-it-collected-before-the-US-Supreme-Court-struck-down-those-duties-a-court-filing-showed-More-here",
-    "source": "@reutersbiz",
-    "published": "Thu Aug 06 2026 01:34:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Vance Says Iran Talks Will Take Time",
-    "link": "https://cryptopanic.com/news/33162954/Vance-Says-Iran-Talks-Will-Take-Time",
-    "source": "square.binance.com",
-    "published": "Thu Aug 06 2026 01:34:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Fed's Mary C. Daly Says Rising Borrowing for Tech Investment Warrants Attention",
-    "link": "https://cryptopanic.com/news/33162953/Feds-Mary-C-Daly-Says-Rising-Borrowing-for-Tech-Investment-Warrants-Attention",
-    "source": "square.binance.com",
-    "published": "Thu Aug 06 2026 01:34:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "U.S., U.K. Expand Coordination on Digital Assets, Stablecoins, and AI",
-    "link": "https://cryptopanic.com/news/33162952/US-UK-Expand-Coordination-on-Digital-Assets-Stablecoins-and-AI",
-    "source": "square.binance.com",
-    "published": "Thu Aug 06 2026 01:33:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Australia's June Goods And Services Trade Balance Posts A A$1.929 Billion Surplus",
-    "link": "https://cryptopanic.com/news/33162951/Australias-June-Goods-And-Services-Trade-Balance-Posts-A-A1929-Billion-Surplus",
-    "source": "square.binance.com",
-    "published": "Thu Aug 06 2026 01:32:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "STOCKS | China Stock Index Futures Open Lower in Early Trade",
-    "link": "https://cryptopanic.com/news/33162950/STOCKS-China-Stock-Index-Futures-Open-Lower-in-Early-Trade",
-    "source": "square.binance.com",
-    "published": "Thu Aug 06 2026 01:32:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why RBI Is Emerging as an Asian Rate Outlier",
-    "link": "https://cryptopanic.com/news/33162949/Why-RBI-Is-Emerging-as-an-Asian-Rate-Outlier",
-    "source": "square.binance.com",
-    "published": "Thu Aug 06 2026 01:32:03 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
