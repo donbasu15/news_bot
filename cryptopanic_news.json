@@ -1,5 +1,82 @@
 [
   {
+    "title": "Ethereum researchers propose burning validator rewards to cap staking at 50%",
+    "link": "https://cryptopanic.com/news/33154573/Ethereum-researchers-propose-burning-validator-rewards-to-cap-staking-at-50",
+    "source": "theblock.co",
+    "published": "Tue Aug 04 2026 19:49:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Just Had Its Best Month in a Year: Can ETH Keep Rallying in August?",
+    "link": "https://cryptopanic.com/news/33140592/Ethereum-Just-Had-Its-Best-Month-in-a-Year-Can-ETH-Keep-Rallying-in-August",
+    "source": "cryptopotato.com",
+    "published": "Sun Aug 02 2026 11:27:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum’s 43-day staking queue isn’t a clean demand signal, Sygnum says",
+    "link": "https://cryptopanic.com/news/33133325/Ethereums-43-day-staking-queue-isnt-a-clean-demand-signal-Sygnum-says",
+    "source": "theblock.co",
+    "published": "Fri Jul 31 2026 14:35:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "‪Ethereum’s Relationship With AI: A Foundational for Economic Layer",
+    "link": "https://cryptopanic.com/news/33119456/Ethereums-Relationship-With-AI-A-Foundational-for-Economic-Layer",
+    "source": "zycrypto.com",
+    "published": "Wed Jul 29 2026 13:50:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum L2 ecosystem loses momentum as TVL drops to two-year low",
+    "link": "https://cryptopanic.com/news/33114393/Ethereum-L2-ecosystem-loses-momentum-as-TVL-drops-to-two-year-low",
+    "source": "theblock.co",
+    "published": "Tue Jul 28 2026 18:21:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Price Prediction: Accumulation Phase Could Set Up a Major Breakout",
+    "link": "https://cryptopanic.com/news/33100853/Ethereum-Price-Prediction-Accumulation-Phase-Could-Set-Up-a-Major-Breakout",
+    "source": "coinpaper.com",
+    "published": "Sun Jul 26 2026 17:41:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tom Lee: ETH 2.0 Could Support a $250,000 Long Term Target \n\nOn July 13, 2026, at WebX 2026 in Tokyo, BitMine Chairman Tom Lee @fundstrat said Ethereum is entering its 2.0 phase, using Amazon, Nvidia, and JPMorgan as re-rating analogies and arguing that ETH will become money",
+    "link": "https://cryptopanic.com/news/33099943/Tom-Lee-ETH-20-Could-Support-a-250000-Long-Term-Target-On-July-13-2026-at-WebX-2026-in-Tokyo-BitMine-Chairman-Tom-Lee-fundstrat-said-Ethereum-is-entering-its-20-phase-using-Amazon-Nvidia-and-JPMorgan-as-re-rating-analogies-and-arguing-that-ETH-will-become-money",
+    "source": "@wublockchain",
+    "published": "Sun Jul 26 2026 11:05:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Lumera says \"Midnight unlocks use cases including private trading, confidential lending, institutional settlement, and credential-based access control. Lumera is building the infrastructure that data needs to live on. Permanent, verifiable, and decentralized by design.\"",
+    "link": "https://cryptopanic.com/news/33162548/JUST-IN-Lumera-says-Midnight-unlocks-use-cases-including-private-trading-confidential-lending-institutional-settlement-and-credential-based-access-control-Lumera-is-building-the-infrastructure-that-data-needs-to-live-on-Permanent-verifiable-and-decentralized-by-design",
+    "source": "@angrycryptoshow",
+    "published": "Thu Aug 06 2026 00:50:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Lumera on its Midnight partnership, says \"when storing a file on Cascade, files are distributed across SuperNodes and stored permanently, with no subscription, no single custodian that can be shut down, and no ongoing maintenance required from the app developer or user.\"",
+    "link": "https://cryptopanic.com/news/33162547/UPDATE-Lumera-on-its-Midnight-partnership-says-when-storing-a-file-on-Cascade-files-are-distributed-across-SuperNodes-and-stored-permanently-with-no-subscription-no-single-custodian-that-can-be-shut-down-and-no-ongoing-maintenance-required-from-the-app-developer-or-user",
+    "source": "@angrycryptoshow",
+    "published": "Thu Aug 06 2026 00:49:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Midnight announces partnership with Lumera, to integrate Cascade, Lumera's decentralized storage layer. Midnight Builders now have access to a storage layer that's \"permanent, permissionless, and free from central custodians. A working demo is live today.\"",
+    "link": "https://cryptopanic.com/news/33162546/JUST-IN-Midnight-announces-partnership-with-Lumera-to-integrate-Cascade-Lumeras-decentralized-storage-layer-Midnight-Builders-now-have-access-to-a-storage-layer-thats-permanent-permissionless-and-free-from-central-custodians-A-working-demo-is-live-today",
+    "source": "@angrycryptoshow",
+    "published": "Thu Aug 06 2026 00:47:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NOW: Mysten Labs CTO Sam Blackshear is leaving to join Anthropic to work on defensive security research, with Evan stepping in to set Mysten's technical vision.",
+    "link": "https://cryptopanic.com/news/33162550/NOW-Mysten-Labs-CTO-Sam-Blackshear-is-leaving-to-join-Anthropic-to-work-on-defensive-security-research-with-Evan-stepping-in-to-set-Mystens-technical-vision",
+    "source": "@cointelegraph",
+    "published": "Thu Aug 06 2026 00:40:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Was the $116M Coldcard Hack an Inside Job? | Meet the CTO Who Wrote the Backdoor!",
     "link": "https://cryptopanic.com/news/33162487/Was-the-116M-Coldcard-Hack-an-Inside-Job-Meet-the-CTO-Who-Wrote-the-Backdoor",
     "source": "SimplyBitcoin",
@@ -11,6 +88,13 @@
     "link": "https://cryptopanic.com/news/33162475/Uniswap-has-generated-nearly-100-MILLION-in-fees-this-past-month-According-to-DefiLlama-data-Uniswap-has-currently-generated-an-eye-watering-9906M-in-protocol-fees-in-the-past-30-days-It-is-outpaced-only-by-Tether-and-Circle-which-have-generated-a-combined-676M-in",
     "source": "@bscnews",
     "published": "Thu Aug 06 2026 00:23:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "TODAY: Meta says one of its AI models hacked another company during cybersecurity testing after a misconfiguration by testing partner gave it unintended internet access.",
+    "link": "https://cryptopanic.com/news/33162549/TODAY-Meta-says-one-of-its-AI-models-hacked-another-company-during-cybersecurity-testing-after-a-misconfiguration-by-testing-partner-gave-it-unintended-internet-access",
+    "source": "@cointelegraph",
+    "published": "Thu Aug 06 2026 00:20:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -123,90 +207,6 @@
     "link": "https://cryptopanic.com/news/33162267/JUST-IN-Sen-Tillis-says-the-White-House-is-now-engaging-on-the-bipartisan-ethics-text-he-and-Sen-Gallego-sent-last-week-per-Punchbowls-Brendan-Pedersen",
     "source": "@cointelegraph",
     "published": "Wed Aug 05 2026 23:23:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Is the bull market back...?!\n\nAugust 4 was an incredible day for both spot @Ethereum and Bitcoin ETFs.\n\n$ETH ETFs [+$53.75M]\n$BTC ETFs [+$211.49M]\n\nThe two product suites have now recorded net inflows of some +$424M this week already - Data points that could restore faith in a",
-    "link": "https://cryptopanic.com/news/33162353/Is-the-bull-market-back-August-4-was-an-incredible-day-for-both-spot-Ethereum-and-Bitcoin-ETFs-ETH-ETFs-5375M-BTC-ETFs-21149M-The-two-product-suites-have-now-recorded-net-inflows-of-some-424M-this-week-already-Data-points-that-could-restore-faith-in-a",
-    "source": "@bscnews",
-    "published": "Wed Aug 05 2026 23:21:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Miners are Leaving the Network. Will It Impact BTC Price?",
-    "link": "https://cryptopanic.com/news/33162301/Bitcoin-Miners-are-Leaving-the-Network-Will-It-Impact-BTC-Price",
-    "source": "beincrypto.com",
-    "published": "Wed Aug 05 2026 23:20:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Strategy has gone six consecutive weeks without buying Bitcoin, here's what happened last time",
-    "link": "https://cryptopanic.com/news/33162310/Strategy-has-gone-six-consecutive-weeks-without-buying-Bitcoin-heres-what-happened-last-time",
-    "source": "thestreet.com",
-    "published": "Wed Aug 05 2026 23:17:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "What legacy does departing SEC Commissioner @HesterPeirce hope to leave behind?\n\nPeirce says it's championing the freedom to try, fail and try again, arguing America's growing risk aversion conflicts with its founding principles of liberty.",
-    "link": "https://cryptopanic.com/news/33162265/What-legacy-does-departing-SEC-Commissioner-HesterPeirce-hope-to-leave-behind-Peirce-says-its-championing-the-freedom-to-try-fail-and-try-again-arguing-Americas-growing-risk-aversion-conflicts-with-its-founding-principles-of-liberty",
-    "source": "@coindesk",
-    "published": "Wed Aug 05 2026 23:15:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Dow closed at a record on signs of progress for a peace deal with Iran, while the Nasdaq saw its first decline in five sessions as SpaceX and AMD stumbled following their quarterly earnings",
-    "link": "https://cryptopanic.com/news/33162268/The-Dow-closed-at-a-record-on-signs-of-progress-for-a-peace-deal-with-Iran-while-the-Nasdaq-saw-its-first-decline-in-five-sessions-as-SpaceX-and-AMD-stumbled-following-their-quarterly-earnings",
-    "source": "@reutersbiz",
-    "published": "Wed Aug 05 2026 23:12:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Ivan on Tech is bullish, says \"the worst is behind us. The time to be bear was last Q4.\"",
-    "link": "https://cryptopanic.com/news/33162263/JUST-IN-Ivan-on-Tech-is-bullish-says-the-worst-is-behind-us-The-time-to-be-bear-was-last-Q4",
-    "source": "@angrycryptoshow",
-    "published": "Wed Aug 05 2026 23:02:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "America Was Built by Men Like This",
-    "link": "https://cryptopanic.com/news/33162202/America-Was-Built-by-Men-Like-This",
-    "source": "AnthonyPompliano",
-    "published": "Wed Aug 05 2026 23:02:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: The CLARITY Act, Cloudflare’s AI agent wallets, and Ethereum’s proposed validator reward changes are among the top-trending crypto topics on social media today.",
-    "link": "https://cryptopanic.com/news/33162266/UPDATE-The-CLARITY-Act-Cloudflares-AI-agent-wallets-and-Ethereums-proposed-validator-reward-changes-are-among-the-top-trending-crypto-topics-on-social-media-today",
-    "source": "@cointelegraph",
-    "published": "Wed Aug 05 2026 23:02:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Musk Says SpaceX Revenue Could Hit $1 Trillion a Year Early Even as Stock Slides",
-    "link": "https://cryptopanic.com/news/33162300/Musk-Says-SpaceX-Revenue-Could-Hit-1-Trillion-a-Year-Early-Even-as-Stock-Slides",
-    "source": "beincrypto.com",
-    "published": "Wed Aug 05 2026 22:57:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: ️ Kraken parent Payward is partnering with Broadridge to let xStocks holders submit proxy voting preferences on underlying shares.",
-    "link": "https://cryptopanic.com/news/33162259/LATEST-Kraken-parent-Payward-is-partnering-with-Broadridge-to-let-xStocks-holders-submit-proxy-voting-preferences-on-underlying-shares",
-    "source": "@coinmarketcap",
-    "published": "Wed Aug 05 2026 22:53:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Polymarket Gives 18% Odds to a Tesla-SpaceX Merger Announcement in 2026",
-    "link": "https://cryptopanic.com/news/33162299/Polymarket-Gives-18-Odds-to-a-Tesla-SpaceX-Merger-Announcement-in-2026",
-    "source": "beincrypto.com",
-    "published": "Wed Aug 05 2026 22:50:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Is $XRP Ledger the most promising player in the RWA game...?\n\nAccording to data from @MSBIntel, holders of RWA-backed tokens on @Ripple's $XRPL have surged by some +25.16% in the past month.\n\nMSB attributes some of this growth to Ripple's decision to make direct investments into",
-    "link": "https://cryptopanic.com/news/33162177/Is-XRP-Ledger-the-most-promising-player-in-the-RWA-game-According-to-data-from-MSBIntel-holders-of-RWA-backed-tokens-on-Ripples-XRPL-have-surged-by-some-2516-in-the-past-month-MSB-attributes-some-of-this-growth-to-Ripples-decision-to-make-direct-investments-into",
-    "source": "@bscnews",
-    "published": "Wed Aug 05 2026 22:49:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
