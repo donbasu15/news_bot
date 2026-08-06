@@ -1,9 +1,72 @@
 [
   {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33163502/Source",
+    "source": "@wublockchain",
+    "published": "Thu Aug 06 2026 04:34:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "U.S. spot Bitcoin ETFs recorded USD 244 million in net inflows on August 5, led by BlackRock’s IBIT with USD 197 million, according to SoSoValue. Spot Ethereum ETFs attracted another USD 60.86 million, with BlackRock’s ETHA accounting for USD 50.34 million. BlackRock is the",
+    "link": "https://cryptopanic.com/news/33163501/US-spot-Bitcoin-ETFs-recorded-USD-244-million-in-net-inflows-on-August-5-led-by-BlackRocks-IBIT-with-USD-197-million-according-to-SoSoValue-Spot-Ethereum-ETFs-attracted-another-USD-6086-million-with-BlackRocks-ETHA-accounting-for-USD-5034-million-BlackRock-is-the",
+    "source": "@wublockchain",
+    "published": "Thu Aug 06 2026 04:33:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CASHCAT jumps 120% in a week as Robinhood Chain hits $774 million of value locked",
+    "link": "https://cryptopanic.com/news/33163506/CASHCAT-jumps-120-in-a-week-as-Robinhood-Chain-hits-774-million-of-value-locked",
+    "source": "coindesk.com",
+    "published": "Thu Aug 06 2026 04:31:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "KITE crypto rallies on protocol update – Can bulls push price to $0.14?",
+    "link": "https://cryptopanic.com/news/33163438/KITE-crypto-rallies-on-protocol-update-Can-bulls-push-price-to-014",
+    "source": "ambcrypto.com",
+    "published": "Thu Aug 06 2026 04:30:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cloudflare Completes Machine-Payments Stack With Stablecoin Wallet for AI Agents",
+    "link": "https://cryptopanic.com/news/33163440/Cloudflare-Completes-Machine-Payments-Stack-With-Stablecoin-Wallet-for-AI-Agents",
+    "source": "www.blockhead.co",
+    "published": "Thu Aug 06 2026 04:30:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "️ ELON MUSK: “99% of compute long-term will be for inference.”",
+    "link": "https://cryptopanic.com/news/33163504/ELON-MUSK-99-of-compute-long-term-will-be-for-inference",
+    "source": "@cointelegraph",
+    "published": "Thu Aug 06 2026 04:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇪🇺 ALERT: Scammers impersonate crypto watchdogs to take advantage of EU crypto rule changes, per FT.",
+    "link": "https://cryptopanic.com/news/33163503/ALERT-Scammers-impersonate-crypto-watchdogs-to-take-advantage-of-EU-crypto-rule-changes-per-FT",
+    "source": "@cointelegraph",
+    "published": "Thu Aug 06 2026 04:16:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "XRP Ledger Multisig Could Be Getting a Major Upgrade\n\nA new ripple:native Ledger Standards proposal called On-Chain Cosigner aims to modernize multi-signature transactions. It was authored by Shawn Xie, Zhiyuan Wang, Chenna Keshava B S, and Mayukha Vadari. \n\nXRPL community member",
     "link": "https://cryptopanic.com/news/33163380/XRP-Ledger-Multisig-Could-Be-Getting-a-Major-Upgrade-A-new-ripplenative-Ledger-Standards-proposal-called-On-Chain-Cosigner-aims-to-modernize-multi-signature-transactions-It-was-authored-by-Shawn-Xie-Zhiyuan-Wang-Chenna-Keshava-B-S-and-Mayukha-Vadari-XRPL-community-member",
     "source": "@bscnews",
     "published": "Thu Aug 06 2026 04:15:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Emerging markets get a hard lesson in tech hype",
+    "link": "https://cryptopanic.com/news/33163507/Emerging-markets-get-a-hard-lesson-in-tech-hype",
+    "source": "@reutersbiz",
+    "published": "Thu Aug 06 2026 04:15:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trump Has an Open Line to the Fed Chair. Nixon Tried That Too.",
+    "link": "https://cryptopanic.com/news/33163478/Trump-Has-an-Open-Line-to-the-Fed-Chair-Nixon-Tried-That-Too",
+    "source": "beincrypto.com",
+    "published": "Thu Aug 06 2026 04:03:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -39,6 +102,13 @@
     "link": "https://cryptopanic.com/news/33163379/CLARITY-Act-Could-Fall-10-Votes-Short-The-Senates-landmark-crypto-bill-is-stuck-in-limbo-with-recess-two-days-away-Majority-Leader-John-Thune-has-not-filed-the-procedural-vote-needed-to-move-forward-Per-reports-ethics-concerns-over-Donald-Trumps-crypto-ventures-are",
     "source": "@bscnews",
     "published": "Thu Aug 06 2026 03:56:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Here are the possible outcomes for Clarity right now",
+    "link": "https://cryptopanic.com/news/33163441/Here-are-the-possible-outcomes-for-Clarity-right-now",
+    "source": "coindesk.com",
+    "published": "Thu Aug 06 2026 03:49:04 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/33163101/DEXs-Capture-Record-Share-as-Centralized-Crypto-Trading-Weakens",
     "source": "catenaa.com",
     "published": "Thu Aug 06 2026 03:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "OTC whale 0x8c58 bought another 10,000 $ETH ($19.1M) today.\n\nTwo weeks ago, the whale also bought 27,000 $ETH ($52.03M).",
-    "link": "https://cryptopanic.com/news/33163187/OTC-whale-0x8c58-bought-another-10000-ETH-191M-today-Two-weeks-ago-the-whale-also-bought-27000-ETH-5203M",
-    "source": "@lookonchain",
-    "published": "Thu Aug 06 2026 02:51:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Jack Dorsey's Block raised its 2026 outlook after a strong Q2, with gross profit up 25% YoY, and said agentic AI now helps write or review nearly all production code changes.",
-    "link": "https://cryptopanic.com/news/33163151/NEW-Jack-Dorseys-Block-raised-its-2026-outlook-after-a-strong-Q2-with-gross-profit-up-25-YoY-and-said-agentic-AI-now-helps-write-or-review-nearly-all-production-code-changes",
-    "source": "@cointelegraph",
-    "published": "Thu Aug 06 2026 02:40:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Block’s Controversial AI Layoffs Are Paying Off, Earnings Show",
-    "link": "https://cryptopanic.com/news/33163144/Blocks-Controversial-AI-Layoffs-Are-Paying-Off-Earnings-Show",
-    "source": "beincrypto.com",
-    "published": "Thu Aug 06 2026 02:34:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ZEUS pulls infrastructure offline after hack, third Lightning outage in a week",
-    "link": "https://cryptopanic.com/news/33163063/ZEUS-pulls-infrastructure-offline-after-hack-third-Lightning-outage-in-a-week",
-    "source": "cryptopolitan.com",
-    "published": "Thu Aug 06 2026 02:33:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33163036/Source",
-    "source": "@wublockchain",
-    "published": "Thu Aug 06 2026 02:23:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cathie Wood’s Ark Invest scoops up $17 million in Circle, $20 million in SpaceX shares following Q2 results",
-    "link": "https://cryptopanic.com/news/33163018/Cathie-Woods-Ark-Invest-scoops-up-17-million-in-Circle-20-million-in-SpaceX-shares-following-Q2-results",
-    "source": "theblock.co",
-    "published": "Thu Aug 06 2026 02:22:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "GSR: Bitcoin, Ether and Solana Tumble in 2026, With SOL Down Over 40%\n\nGSR’s Core3 model portfolio allocated 44.1% to ETH, 36.5% to SOL and 19.3% to BTC as of August 5. Bitcoin, Ether and Solana were down 24.82%, 35.49% and 40.21% year to date, respectively. The model portfolio",
-    "link": "https://cryptopanic.com/news/33163035/GSR-Bitcoin-Ether-and-Solana-Tumble-in-2026-With-SOL-Down-Over-40-GSRs-Core3-model-portfolio-allocated-441-to-ETH-365-to-SOL-and-193-to-BTC-as-of-August-5-Bitcoin-Ether-and-Solana-were-down-2482-3549-and-4021-year-to-date-respectively-The-model-portfolio",
-    "source": "@wublockchain",
-    "published": "Thu Aug 06 2026 02:21:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Galaxy Digital posted an $85M net loss in Q2 as crypto prices fell, with revenue of $8.7B missing Wall Street's $12.7B estimate.",
-    "link": "https://cryptopanic.com/news/33163033/LATEST-Galaxy-Digital-posted-an-85M-net-loss-in-Q2-as-crypto-prices-fell-with-revenue-of-87B-missing-Wall-Streets-127B-estimate",
-    "source": "@coinmarketcap",
-    "published": "Thu Aug 06 2026 02:20:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BIG: OpenAI accounts for likely 70% of Microsoft's actual AI sales, with the software giant recording $24.1 billion in sales from OpenAI in the year through June.",
-    "link": "https://cryptopanic.com/news/33163040/BIG-OpenAI-accounts-for-likely-70-of-Microsofts-actual-AI-sales-with-the-software-giant-recording-241-billion-in-sales-from-OpenAI-in-the-year-through-June",
-    "source": "@cointelegraph",
-    "published": "Thu Aug 06 2026 02:20:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Whales are accumulating $BTC!\n\nFour newly created wallets have received 1,540 $BTC($99.4M) from #GalaxyDigital and #BitGo in the past 3 hours.",
-    "link": "https://cryptopanic.com/news/33163079/Whales-are-accumulating-BTC-Four-newly-created-wallets-have-received-1540-BTC994M-from-GalaxyDigital-and-BitGo-in-the-past-3-hours",
-    "source": "@lookonchain",
-    "published": "Thu Aug 06 2026 02:13:23 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
