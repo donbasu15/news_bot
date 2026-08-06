@@ -1,5 +1,26 @@
 [
   {
+    "title": "LATEST:  S&P Global Ratings gave BlackRock's new tokenized money market fund BRSRV its highest \"AAAm\" stability rating, citing strong creditworthiness and counterparty risk management.",
+    "link": "https://cryptopanic.com/news/33164088/LATEST-SampP-Global-Ratings-gave-BlackRocks-new-tokenized-money-market-fund-BRSRV-its-highest-AAAm-stability-rating-citing-strong-creditworthiness-and-counterparty-risk-management",
+    "source": "@coinmarketcap",
+    "published": "Thu Aug 06 2026 06:42:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Solana's first slot time reduction feature went live on testnet, cutting slot time from 400ms to 350ms as the first of four planned steps toward a 200ms target.",
+    "link": "https://cryptopanic.com/news/33164090/UPDATE-Solanas-first-slot-time-reduction-feature-went-live-on-testnet-cutting-slot-time-from-400ms-to-350ms-as-the-first-of-four-planned-steps-toward-a-200ms-target",
+    "source": "@cointelegraph",
+    "published": "Thu Aug 06 2026 06:40:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tom Lee Says Quantum Computing 'Probably Not Gonna Be a Problem' for Ethereum and Solana, but for Bitcoin...",
+    "link": "https://cryptopanic.com/news/33164071/Tom-Lee-Says-Quantum-Computing-Probably-Not-Gonna-Be-a-Problem-for-Ethereum-and-Solana-but-for-Bitcoin",
+    "source": "feeds2.benzinga.com",
+    "published": "Thu Aug 06 2026 06:35:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Solana Processes Record 169.9 Million Transactions in a Single Day",
     "link": "https://cryptopanic.com/news/33164030/Solana-Processes-Record-1699-Million-Transactions-in-a-Single-Day",
     "source": "cryptopolitan.com",
@@ -32,6 +53,13 @@
     "link": "https://cryptopanic.com/news/33163950/BitGo-Drops-LayerZero-for-Chainlink-CCIP-on-77-Billion-of-WBTC",
     "source": "www.blockhead.co",
     "published": "Thu Aug 06 2026 06:20:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: Uniswap launches Pools, a new token launchpad on Robinhood Chain.",
+    "link": "https://cryptopanic.com/news/33164089/LATEST-Uniswap-launches-Pools-a-new-token-launchpad-on-Robinhood-Chain",
+    "source": "@cointelegraph",
+    "published": "Thu Aug 06 2026 06:20:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33163691/LATEST-Visa-is-partnering-with-Zerohash-to-add-stablecoin-prefunding-and-payouts-for-eligible-Visa-Direct-clients-across-a-network-reaching-18B-endpoints-in-195-countries-and-territories",
     "source": "@coinmarketcap",
     "published": "Thu Aug 06 2026 05:10:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cardano Decentralization Hits New Record\n\nCardano (@cardano) has reached its highest Nakamoto Coefficient on record, according to Chainspect. The network's Nakamoto Coefficient has climbed to 16, an all time high.\n\nThe metric measures how many independent entities would need to",
-    "link": "https://cryptopanic.com/news/33163782/Cardano-Decentralization-Hits-New-Record-Cardano-cardano-has-reached-its-highest-Nakamoto-Coefficient-on-record-according-to-Chainspect-The-networks-Nakamoto-Coefficient-has-climbed-to-16-an-all-time-high-The-metric-measures-how-many-independent-entities-would-need-to",
-    "source": "@bscnews",
-    "published": "Thu Aug 06 2026 05:04:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin LTHs are finally selling – But here’s why BTC’s bottom may be near",
-    "link": "https://cryptopanic.com/news/33163566/Bitcoin-LTHs-are-finally-selling-But-heres-why-BTCs-bottom-may-be-near",
-    "source": "ambcrypto.com",
-    "published": "Thu Aug 06 2026 05:00:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BIG: Jeff Bezos unloaded nearly $350 million in Amazon stock as shares hit a record Monday, his first sale of the year.",
-    "link": "https://cryptopanic.com/news/33163695/BIG-Jeff-Bezos-unloaded-nearly-350-million-in-Amazon-stock-as-shares-hit-a-record-Monday-his-first-sale-of-the-year",
-    "source": "@cointelegraph",
-    "published": "Thu Aug 06 2026 05:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Quantum Solutions Sells More Ethereum to Fund AI Expansion",
-    "link": "https://cryptopanic.com/news/33163556/Quantum-Solutions-Sells-More-Ethereum-to-Fund-AI-Expansion",
-    "source": "catenaa.com",
-    "published": "Thu Aug 06 2026 05:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
