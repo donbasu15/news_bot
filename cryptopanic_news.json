@@ -1,9 +1,51 @@
 [
   {
+    "title": "XRP Isn't a Price Story—It's a Utility Story, Says Evernorth CBO",
+    "link": "https://cryptopanic.com/news/33167042/XRP-Isnt-a-Price-StoryIts-a-Utility-Story-Says-Evernorth-CBO",
+    "source": "coinpaper.com",
+    "published": "Thu Aug 06 2026 13:49:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UNITREE is now live on the Pre-IPO market.\n\nSomeone deposited 3M $USDC into Hyperliquid and started building a long position in $UNITREE.\n\nSo far, the trader has opened a 5x long on 3,507 $UNITREE($264K).",
+    "link": "https://cryptopanic.com/news/33167065/UNITREE-is-now-live-on-the-Pre-IPO-market-Someone-deposited-3M-USDC-into-Hyperliquid-and-started-building-a-long-position-in-UNITREE-So-far-the-trader-has-opened-a-5x-long-on-3507-UNITREE264K",
+    "source": "@lookonchain",
+    "published": "Thu Aug 06 2026 13:47:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "DASH Approaches Key Decision Zone: Will It Break Free?",
+    "link": "https://cryptopanic.com/news/33167004/DASH-Approaches-Key-Decision-Zone-Will-It-Break-Free",
+    "source": "dailycoin.com",
+    "published": "Thu Aug 06 2026 13:46:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Memecoin CASHCAT Rises 120% In A Week",
+    "link": "https://cryptopanic.com/news/33167072/Memecoin-CASHCAT-Rises-120-In-A-Week",
+    "source": "cryptoprowl.com",
+    "published": "Thu Aug 06 2026 13:43:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Kevin O'Leary called crypto hype \"just another Labubu,\" arguing \"a lot of money has been lost\" and that it never took off as an alternative banking system.",
+    "link": "https://cryptopanic.com/news/33166961/LATEST-Kevin-OLeary-called-crypto-hype-just-another-Labubu-arguing-a-lot-of-money-has-been-lost-and-that-it-never-took-off-as-an-alternative-banking-system",
+    "source": "@coinmarketcap",
+    "published": "Thu Aug 06 2026 13:41:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Cardano price prediction as bulls and bears battle for $0.20",
     "link": "https://cryptopanic.com/news/33166929/Cardano-price-prediction-as-bulls-and-bears-battle-for-020",
     "source": "finbold.com",
     "published": "Thu Aug 06 2026 13:37:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SUI is Becoming Quantum Ready\n\n@SuiNetwork is integrating two NIST-approved post-quantum signature schemes to mitigate quantum threats. \n\nThe architecture integrates ML-DSA-65 for native accounts and SLH-DSA-SHA2-128s for smart contract vaults, following a July 2026 incident",
+    "link": "https://cryptopanic.com/news/33167063/SUI-is-Becoming-Quantum-Ready-SuiNetwork-is-integrating-two-NIST-approved-post-quantum-signature-schemes-to-mitigate-quantum-threats-The-architecture-integrates-ML-DSA-65-for-native-accounts-and-SLH-DSA-SHA2-128s-for-smart-contract-vaults-following-a-July-2026-incident",
+    "source": "@bscnews",
+    "published": "Thu Aug 06 2026 13:36:09 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -49,10 +91,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "All On Binance!",
+    "link": "https://cryptopanic.com/news/33167061/All-On-Binance",
+    "source": "@bscnews",
+    "published": "Thu Aug 06 2026 13:27:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: Deutsche Bank has said gold’s fair market value is $4,700",
     "link": "https://cryptopanic.com/news/33166967/JUST-IN-Deutsche-Bank-has-said-golds-fair-market-value-is-4700",
     "source": "@cryptonwsuk",
     "published": "Thu Aug 06 2026 13:23:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Robinhood U.S. Lists CashCat For Spot Trading\n\nRobinhood Crypto (@RobinhoodCrypto) enables spot trading for $CASHCAT, the primary memecoin native to the Robinhood Chain. \n\nThe listing follows a massive surge in retail participation on the platform’s Layer 2 network, which",
+    "link": "https://cryptopanic.com/news/33167059/Robinhood-US-Lists-CashCat-For-Spot-Trading-Robinhood-Crypto-RobinhoodCrypto-enables-spot-trading-for-CASHCAT-the-primary-memecoin-native-to-the-Robinhood-Chain-The-listing-follows-a-massive-surge-in-retail-participation-on-the-platforms-Layer-2-network-which",
+    "source": "@bscnews",
+    "published": "Thu Aug 06 2026 13:23:45 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -151,62 +207,6 @@
     "link": "https://cryptopanic.com/news/33166768/XRP-has-secured-the-keys-to-Europe-Ripple-announced-a-full-MiCA-licence-from-Luxembourg-which-lets-Ripple-Payments-and-the-XRP-ledger-serve-banks-and-businesses-across-the-entire-EU-without-chasing-approval-country-by-country",
     "source": "@realallincrypto",
     "published": "Thu Aug 06 2026 13:00:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Boltz Shut Down Its Own Bitcoin Bridge After AI Attackers Outpaced Its Team",
-    "link": "https://cryptopanic.com/news/33166626/Boltz-Shut-Down-Its-Own-Bitcoin-Bridge-After-AI-Attackers-Outpaced-Its-Team",
-    "source": "coinpaprika.com",
-    "published": "Thu Aug 06 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Gate Pre-IPOs Phase 3 Launches Moonshot AI (KIMI), Supporting Subscription with USDT and GUSD",
-    "link": "https://cryptopanic.com/news/33166891/Gate-Pre-IPOs-Phase-3-Launches-Moonshot-AI-KIMI-Supporting-Subscription-with-USDT-and-GUSD",
-    "source": "beincrypto.com",
-    "published": "Thu Aug 06 2026 12:59:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "8/Commodities.\n\nBrent -10.1% and 20.5% off its 30-day high of $100.69 on Hormuz de-escalation talk, the biggest disinflationary impulse on the board. The same week, gold, silver, copper and platinum all closed at 30-day highs with VIX down to 15.89. Month highs, not records, and",
-    "link": "https://cryptopanic.com/news/33166609/8Commodities-Brent-101-and-205-off-its-30-day-high-of-10069-on-Hormuz-de-escalation-talk-the-biggest-disinflationary-impulse-on-the-board-The-same-week-gold-silver-copper-and-platinum-all-closed-at-30-day-highs-with-VIX-down-to-1589-Month-highs-not-records-and",
-    "source": "@coinmarketcap",
-    "published": "Thu Aug 06 2026 12:58:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "7/AI Winners and Losers.\n\nPalantir is the cleanest print on the board: revenue +93%, US commercial +149%, guidance raised to $8.15B from $7.65B, and about +29% in a single session. Pure revenue conversion with no capex story attached. IBM is the counterweight, +4.2% on the week",
-    "link": "https://cryptopanic.com/news/33166610/7AI-Winners-and-Losers-Palantir-is-the-cleanest-print-on-the-board-revenue-93-US-commercial-149-guidance-raised-to-815B-from-765B-and-about-29-in-a-single-session-Pure-revenue-conversion-with-no-capex-story-attached-IBM-is-the-counterweight-42-on-the-week",
-    "source": "@coinmarketcap",
-    "published": "Thu Aug 06 2026 12:58:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "6/Core Crypto\n\n$565.2M of BTC ETF creations across seven sessions bought +0.56% of price, and BTC closed the week at +0.0%. Not leverage, with perp open interest at 1.28% of market cap and funding flat. Not rates, because the curve did not move. Supply absorbed the creations",
-    "link": "https://cryptopanic.com/news/33166608/6Core-Crypto-5652M-of-BTC-ETF-creations-across-seven-sessions-bought-056-of-price-and-BTC-closed-the-week-at-00-Not-leverage-with-perp-open-interest-at-128-of-market-cap-and-funding-flat-Not-rates-because-the-curve-did-not-move-Supply-absorbed-the-creations",
-    "source": "@coinmarketcap",
-    "published": "Thu Aug 06 2026 12:58:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HSK Chain Partners with Morpho to Build Asia’s Leading On-Chain Lending Ecosystem",
-    "link": "https://cryptopanic.com/news/33166890/HSK-Chain-Partners-with-Morpho-to-Build-Asias-Leading-On-Chain-Lending-Ecosystem",
-    "source": "beincrypto.com",
-    "published": "Thu Aug 06 2026 12:56:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "WhiteBIT Expands UK Offering with Automated Spot Trading Bots",
-    "link": "https://cryptopanic.com/news/33166625/WhiteBIT-Expands-UK-Offering-with-Automated-Spot-Trading-Bots",
-    "source": "cryptointelligence.co.uk",
-    "published": "Thu Aug 06 2026 12:56:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Circle Sets September 16 Launch for Arc Blockchain as BlackRock, Visa Join as Validators",
-    "link": "https://cryptopanic.com/news/33166578/Circle-Sets-September-16-Launch-for-Arc-Blockchain-as-BlackRock-Visa-Join-as-Validators",
-    "source": "cryptointelligence.co.uk",
-    "published": "Thu Aug 06 2026 12:55:25 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
