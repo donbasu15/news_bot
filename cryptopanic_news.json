@@ -1,9 +1,65 @@
 [
   {
+    "title": "Hyperliquid’s 3x HIP-3 fee hike divides analysts – Lose users or boost HYPE?",
+    "link": "https://cryptopanic.com/news/33168388/Hyperliquids-3x-HIP-3-fee-hike-divides-analysts-Lose-users-or-boost-HYPE",
+    "source": "ambcrypto.com",
+    "published": "Thu Aug 06 2026 17:00:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "FATF Report Shout Outs HBAR Alongside Ethereum & Solana",
+    "link": "https://cryptopanic.com/news/33168356/FATF-Report-Shout-Outs-HBAR-Alongside-Ethereum-amp-Solana",
+    "source": "dailycoin.com",
+    "published": "Thu Aug 06 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Russia Legalises Crypto Trading, but Caps Retail Buyers at $3,700 a Year",
+    "link": "https://cryptopanic.com/news/33168363/Russia-Legalises-Crypto-Trading-but-Caps-Retail-Buyers-at-3700-a-Year",
+    "source": "coinpaprika.com",
+    "published": "Thu Aug 06 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Flow Traders to provide 24/7 institutional liquidity for Algorand\n\nAlgorand Foundation (@AlgoFoundation) has partnered with Flow Traders to deepen institutional liquidity across the network, making $ALGO available to institutional counterparties through the firm's global",
+    "link": "https://cryptopanic.com/news/33168347/Flow-Traders-to-provide-247-institutional-liquidity-for-Algorand-Algorand-Foundation-AlgoFoundation-has-partnered-with-Flow-Traders-to-deepen-institutional-liquidity-across-the-network-making-ALGO-available-to-institutional-counterparties-through-the-firms-global",
+    "source": "@bscnews",
+    "published": "Thu Aug 06 2026 16:57:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JPMorgan Flags Pressure on Hyperliquid as HYPE ETF Flows Stall",
+    "link": "https://cryptopanic.com/news/33168343/JPMorgan-Flags-Pressure-on-Hyperliquid-as-HYPE-ETF-Flows-Stall",
+    "source": "coindoo.com",
+    "published": "Thu Aug 06 2026 16:55:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "TeraWulf's AI Pivot Gains Momentum, Bernstein Maintains 100% Upside Call",
+    "link": "https://cryptopanic.com/news/33168424/TeraWulfs-AI-Pivot-Gains-Momentum-Bernstein-Maintains-100-Upside-Call",
+    "source": "feeds2.benzinga.com",
+    "published": "Thu Aug 06 2026 16:53:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: 🇺🇸 Fed Chair Kevin Warsh is reportedly prepared to support a rate hike in September, per FT",
     "link": "https://cryptopanic.com/news/33168307/JUST-IN-Fed-Chair-Kevin-Warsh-is-reportedly-prepared-to-support-a-rate-hike-in-September-per-FT",
     "source": "@cryptonwsuk",
     "published": "Thu Aug 06 2026 16:46:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "QUICK SPARK: BlackRock’s Ethereum ETF Set for Reverse Split: What ETHA Investors Need to Know",
+    "link": "https://cryptopanic.com/news/33168351/QUICK-SPARK-BlackRocks-Ethereum-ETF-Set-for-Reverse-Split-What-ETHA-Investors-Need-to-Know",
+    "source": "feeds2.benzinga.com",
+    "published": "Thu Aug 06 2026 16:44:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Michael Saylor says ChatGPT helped him raise $15B for Strategy's Bitcoin bet\n\nMichael @saylor says he turned to @ChatGPT to design @Strategy's Bitcoin-backed preferred stock after traditional capital-raising routes were exhausted, an instrument lawyers and bankers initially",
+    "link": "https://cryptopanic.com/news/33168345/Michael-Saylor-says-ChatGPT-helped-him-raise-15B-for-Strategys-Bitcoin-bet-Michael-saylor-says-he-turned-to-ChatGPT-to-design-Strategys-Bitcoin-backed-preferred-stock-after-traditional-capital-raising-routes-were-exhausted-an-instrument-lawyers-and-bankers-initially",
+    "source": "@bscnews",
+    "published": "Thu Aug 06 2026 16:42:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -84,6 +140,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Blockchain(.)com lands full custody license in the Cayman Islands\n\n@blockchain has secured its definitive VASP custody services license from the Cayman Islands Monetary Authority, converting a conditional approval granted last December. The license also covers crypto-to-fiat and",
+    "link": "https://cryptopanic.com/news/33168344/Blockchaincom-lands-full-custody-license-in-the-Cayman-Islands-blockchain-has-secured-its-definitive-VASP-custody-services-license-from-the-Cayman-Islands-Monetary-Authority-converting-a-conditional-approval-granted-last-December-The-license-also-covers-crypto-to-fiat-and",
+    "source": "@bscnews",
+    "published": "Thu Aug 06 2026 16:27:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "MetaMask Launches Self-Custodial AI Wallet for Autonomous Crypto Trading",
     "link": "https://cryptopanic.com/news/33168166/MetaMask-Launches-Self-Custodial-AI-Wallet-for-Autonomous-Crypto-Trading",
     "source": "decrypt.co",
@@ -144,69 +207,6 @@
     "link": "https://cryptopanic.com/news/33168191/JUST-IN-Mortgage-rates-rise-to-highest-level-in-over-a-year",
     "source": "@watcherguru",
     "published": "Thu Aug 06 2026 16:15:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Block’s spending rise despite 40% workforce cut leaves analysts weighing growth prospects",
-    "link": "https://cryptopanic.com/news/33168107/Blocks-spending-rise-despite-40-workforce-cut-leaves-analysts-weighing-growth-prospects",
-    "source": "theblock.co",
-    "published": "Thu Aug 06 2026 16:12:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Pi2Day 2026 Recap: What went down and more... \n\nThe @PiCoreTeam team published a blog post explaining what happened during the Pi2Day 2026 celebration. \n\nHere are some of the important points about the milestone event in the protocol's ecosystem:\n\nHighlights from Ecosystem Quest",
-    "link": "https://cryptopanic.com/news/33168089/Pi2Day-2026-Recap-What-went-down-and-more-The-PiCoreTeam-team-published-a-blog-post-explaining-what-happened-during-the-Pi2Day-2026-celebration-Here-are-some-of-the-important-points-about-the-milestone-event-in-the-protocols-ecosystem-Highlights-from-Ecosystem-Quest",
-    "source": "@bscnews",
-    "published": "Thu Aug 06 2026 16:12:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UK Defence Secretary Took Donations Linked to SBF Beneficiary: Report",
-    "link": "https://cryptopanic.com/news/33168111/UK-Defence-Secretary-Took-Donations-Linked-to-SBF-Beneficiary-Report",
-    "source": "cryptoprowl.com",
-    "published": "Thu Aug 06 2026 16:12:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tether expands tokenization business into Saudi Arabia, starting with real estate",
-    "link": "https://cryptopanic.com/news/33168259/Tether-expands-tokenization-business-into-Saudi-Arabia-starting-with-real-estate",
-    "source": "coindesk.com",
-    "published": "Thu Aug 06 2026 16:10:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Spot Bitcoin ETFs post three straight green days as weekly inflows hit $626M\n\nUS spot Bitcoin ETFs pulled in $244M on Wednesday, capping a third consecutive day of net inflows and pushing weekly intake to $626M, per SoSoValue data. BlackRock's $IBIT led the charge with $197M,",
-    "link": "https://cryptopanic.com/news/33168088/Spot-Bitcoin-ETFs-post-three-straight-green-days-as-weekly-inflows-hit-626M-US-spot-Bitcoin-ETFs-pulled-in-244M-on-Wednesday-capping-a-third-consecutive-day-of-net-inflows-and-pushing-weekly-intake-to-626M-per-SoSoValue-data-BlackRocks-IBIT-led-the-charge-with-197M",
-    "source": "@bscnews",
-    "published": "Thu Aug 06 2026 16:09:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Eigen and Lighter Launch Autoresearch Challenge to Speed up Exchange",
-    "link": "https://cryptopanic.com/news/33168053/Eigen-and-Lighter-Launch-Autoresearch-Challenge-to-Speed-up-Exchange",
-    "source": "bankless.com",
-    "published": "Thu Aug 06 2026 16:07:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tokenized Asset Deposits Balloon to $7.4B as On-Chain Use Accelerates",
-    "link": "https://cryptopanic.com/news/33168074/Tokenized-Asset-Deposits-Balloon-to-74B-as-On-Chain-Use-Accelerates",
-    "source": "cryptoprowl.com",
-    "published": "Thu Aug 06 2026 16:07:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP ETFs Enter Red Zone as Price Retests $1.04",
-    "link": "https://cryptopanic.com/news/33168252/XRP-ETFs-Enter-Red-Zone-as-Price-Retests-104",
-    "source": "u.today",
-    "published": "Thu Aug 06 2026 16:06:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: Sen. Tim Scott on the CLARITY Act, \"We should have the first vote before we leave. We'll be here longer than the next two days, we might be here much longer. We'll get it done.\"",
-    "link": "https://cryptopanic.com/news/33168309/LATEST-Sen-Tim-Scott-on-the-CLARITY-Act-We-should-have-the-first-vote-before-we-leave-Well-be-here-longer-than-the-next-two-days-we-might-be-here-much-longer-Well-get-it-done",
-    "source": "@coindesk",
-    "published": "Thu Aug 06 2026 16:06:21 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
