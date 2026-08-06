@@ -1,9 +1,30 @@
 [
   {
+    "title": "Two wallets (possibly belonging to the same whale) sold 729,015 $UNI($3M) for 1,578 $ETH($3M) today.",
+    "link": "https://cryptopanic.com/news/33163784/Two-wallets-possibly-belonging-to-the-same-whale-sold-729015-UNI3M-for-1578-ETH3M-today",
+    "source": "@lookonchain",
+    "published": "Thu Aug 06 2026 05:44:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Red Team Flags Nearly 5,000 Security Issues in 30 Hours",
+    "link": "https://cryptopanic.com/news/33163743/Bitcoin-Red-Team-Flags-Nearly-5000-Security-Issues-in-30-Hours",
+    "source": "coinpaper.com",
+    "published": "Thu Aug 06 2026 05:41:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Crypto markets steady as cyberattacks hit major Wall Street hedge funds",
     "link": "https://cryptopanic.com/news/33163740/Crypto-markets-steady-as-cyberattacks-hit-major-Wall-Street-hedge-funds",
     "source": "cryptopolitan.com",
     "published": "Thu Aug 06 2026 05:34:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ElizaOS Token Collapses to All-Time Low as Foundation Shuts Down",
+    "link": "https://cryptopanic.com/news/33163830/ElizaOS-Token-Collapses-to-All-Time-Low-as-Foundation-Shuts-Down",
+    "source": "beincrypto.com",
+    "published": "Thu Aug 06 2026 05:30:48 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -88,6 +109,13 @@
     "link": "https://cryptopanic.com/news/33163618/Circle-CEO-Jeremy-Allaire-Says-This-Upcoming-Blockchain-Is-a-Bigger-Opportunity-Than-USDC-as-Company-Sets-Date-for-the-Networks-Launch",
     "source": "feeds2.benzinga.com",
     "published": "Thu Aug 06 2026 04:57:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "PEPE Exchange Outflows Hit Nearly 2-Year High as Whales Accumulate",
+    "link": "https://cryptopanic.com/news/33163828/PEPE-Exchange-Outflows-Hit-Nearly-2-Year-High-as-Whales-Accumulate",
+    "source": "beincrypto.com",
+    "published": "Thu Aug 06 2026 04:57:35 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33163380/XRP-Ledger-Multisig-Could-Be-Getting-a-Major-Upgrade-A-new-ripplenative-Ledger-Standards-proposal-called-On-Chain-Cosigner-aims-to-modernize-multi-signature-transactions-It-was-authored-by-Shawn-Xie-Zhiyuan-Wang-Chenna-Keshava-B-S-and-Mayukha-Vadari-XRPL-community-member",
     "source": "@bscnews",
     "published": "Thu Aug 06 2026 04:15:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Emerging markets get a hard lesson in tech hype",
-    "link": "https://cryptopanic.com/news/33163507/Emerging-markets-get-a-hard-lesson-in-tech-hype",
-    "source": "@reutersbiz",
-    "published": "Thu Aug 06 2026 04:15:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Move Creator Sam Blackshear Leaves Mysten Labs, What Next for SUI?",
-    "link": "https://cryptopanic.com/news/33163787/Move-Creator-Sam-Blackshear-Leaves-Mysten-Labs-What-Next-for-SUI",
-    "source": "coinpedia.org",
-    "published": "Thu Aug 06 2026 04:11:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump Has an Open Line to the Fed Chair. Nixon Tried That Too.",
-    "link": "https://cryptopanic.com/news/33163478/Trump-Has-an-Open-Line-to-the-Fed-Chair-Nixon-Tried-That-Too",
-    "source": "beincrypto.com",
-    "published": "Thu Aug 06 2026 04:03:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Chainlink gains institutional momentum – Will 1.26M LINK outflows boost price?",
-    "link": "https://cryptopanic.com/news/33163326/Chainlink-gains-institutional-momentum-Will-126M-LINK-outflows-boost-price",
-    "source": "ambcrypto.com",
-    "published": "Thu Aug 06 2026 04:00:46 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
