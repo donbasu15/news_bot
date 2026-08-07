@@ -1,9 +1,107 @@
 [
   {
+    "title": "Bitcoin has 185 blocks left before BIP-110 rules begin rejecting blocks",
+    "link": "https://cryptopanic.com/news/33176282/Bitcoin-has-185-blocks-left-before-BIP-110-rules-begin-rejecting-blocks",
+    "source": "cryptoslate.com",
+    "published": "Fri Aug 07 2026 19:40:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SharpLink CEO warns EIP-8363 could kill ETH’s biggest advantage over Bitcoin",
+    "link": "https://cryptopanic.com/news/33176260/SharpLink-CEO-warns-EIP-8363-could-kill-ETHs-biggest-advantage-over-Bitcoin",
+    "source": "theblock.co",
+    "published": "Fri Aug 07 2026 19:37:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: 🇺🇸 Senator Cynthia Lummis says she is \"frustrated\" by the CLARITY Act delay but vows to keep pushing forward.\n\n\"We've come too far to quit now. ... This fight is far from over.\"",
+    "link": "https://cryptopanic.com/news/33176303/UPDATE-Senator-Cynthia-Lummis-says-she-is-frustrated-by-the-CLARITY-Act-delay-but-vows-to-keep-pushing-forward-Weve-come-too-far-to-quit-now-This-fight-is-far-from-over",
+    "source": "@coinmarketcap",
+    "published": "Fri Aug 07 2026 19:35:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "HBAR Faces a Higher Hurdle as Treasury Yields Climb",
+    "link": "https://cryptopanic.com/news/33176250/HBAR-Faces-a-Higher-Hurdle-as-Treasury-Yields-Climb",
+    "source": "dailycoin.com",
+    "published": "Fri Aug 07 2026 19:34:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇰🇵 LATEST: Bybit has sued North Korea and the Lazarus Group over the $1.5 billion hack and has secured a preliminary court order freezing stolen assets.",
+    "link": "https://cryptopanic.com/news/33176307/LATEST-Bybit-has-sued-North-Korea-and-the-Lazarus-Group-over-the-15-billion-hack-and-has-secured-a-preliminary-court-order-freezing-stolen-assets",
+    "source": "@cointelegraph",
+    "published": "Fri Aug 07 2026 19:31:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cloudflare stock hits record high on Q2 beat and raised forecast",
+    "link": "https://cryptopanic.com/news/33176249/Cloudflare-stock-hits-record-high-on-Q2-beat-and-raised-forecast",
+    "source": "cryptopolitan.com",
+    "published": "Fri Aug 07 2026 19:30:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoi, Ethereum, Dogecoin Hold Unchanged on Friday but XRP Dips 2%",
+    "link": "https://cryptopanic.com/news/33176281/Bitcoi-Ethereum-Dogecoin-Hold-Unchanged-on-Friday-but-XRP-Dips-2",
+    "source": "feeds2.benzinga.com",
+    "published": "Fri Aug 07 2026 19:27:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Elon Musk is Building the World's First 100M Square Foot Building (Terafab)",
+    "link": "https://cryptopanic.com/news/33176257/Elon-Musk-is-Building-the-Worlds-First-100M-Square-Foot-Building-Terafab",
+    "source": "AnthonyPompliano",
+    "published": "Fri Aug 07 2026 19:24:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Nvidia-backed company nearly doubles valuation in new funding round",
+    "link": "https://cryptopanic.com/news/33176280/Nvidia-backed-company-nearly-doubles-valuation-in-new-funding-round",
+    "source": "thestreet.com",
+    "published": "Fri Aug 07 2026 19:20:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 Court strips key legal protections in Voyager bankruptcy\n\n• Limits shields for people distributing assets \n\n• Professionals face higher lawsuit risk \n\n• Could slow payouts and raise costs\n\n• Affects ongoing bankruptcy cases",
+    "link": "https://cryptopanic.com/news/33176237/JUST-IN-Court-strips-key-legal-protections-in-Voyager-bankruptcy-Limits-shields-for-people-distributing-assets-Professionals-face-higher-lawsuit-risk-Could-slow-payouts-and-raise-costs-Affects-ongoing-bankruptcy-cases",
+    "source": "@btc_archive",
+    "published": "Fri Aug 07 2026 19:18:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Flock Wanted to Turn 350,000 Uber Drivers Into a Nationwide Plate-Scanning Fleet",
+    "link": "https://cryptopanic.com/news/33176227/Flock-Wanted-to-Turn-350000-Uber-Drivers-Into-a-Nationwide-Plate-Scanning-Fleet",
+    "source": "decrypt.co",
+    "published": "Fri Aug 07 2026 19:18:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Moonshot's Kimi K3 escapes UK safety sandbox during testing\n\nChinese AI lab @Kimi_Moonshot's Kimi K3 broke out of a testing sandbox built by the UK's AI Security Institute during a cybersecurity evaluation, per US research firm Frontier Security. The model found a network",
     "link": "https://cryptopanic.com/news/33176195/Moonshots-Kimi-K3-escapes-UK-safety-sandbox-during-testing-Chinese-AI-lab-Kimi_Moonshots-Kimi-K3-broke-out-of-a-testing-sandbox-built-by-the-UKs-AI-Security-Institute-during-a-cybersecurity-evaluation-per-US-research-firm-Frontier-Security-The-model-found-a-network",
     "source": "@bscnews",
     "published": "Fri Aug 07 2026 19:09:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: #Cardano $ADA Founder Charles Hoskinson says \"the 4th generation is the consumer generation. This is the generation that will make cryptocurrencies worth $10T and bring billions of everyday people in, because we can start protecting them, and we have many more tools.\"",
+    "link": "https://cryptopanic.com/news/33176304/UPDATE-Cardano-ADA-Founder-Charles-Hoskinson-says-the-4th-generation-is-the-consumer-generation-This-is-the-generation-that-will-make-cryptocurrencies-worth-10T-and-bring-billions-of-everyday-people-in-because-we-can-start-protecting-them-and-we-have-many-more-tools",
+    "source": "@angrycryptoshow",
+    "published": "Fri Aug 07 2026 19:07:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 Senator Angela Alsobrooks on the Clarity Act vote getting delayed:\n\n\"We’ve worked for over a year on a bipartisan basis...We will continue our work — getting the Clarity Act right remains our goal.\"",
+    "link": "https://cryptopanic.com/news/33176236/JUST-IN-Senator-Angela-Alsobrooks-on-the-Clarity-Act-vote-getting-delayed-Weve-worked-for-over-a-year-on-a-bipartisan-basisWe-will-continue-our-work-getting-the-Clarity-Act-right-remains-our-goal",
+    "source": "@bitcoinmagazine",
+    "published": "Fri Aug 07 2026 19:02:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇬🇧 NEW: Reform UK Chair Lee Anderson has called for an investigation into a $50,000 political donation linked to Sam Bankman-Fried, according to The Telegraph.",
+    "link": "https://cryptopanic.com/news/33176306/NEW-Reform-UK-Chair-Lee-Anderson-has-called-for-an-investigation-into-a-50000-political-donation-linked-to-Sam-Bankman-Fried-according-to-The-Telegraph",
+    "source": "@cointelegraph",
+    "published": "Fri Aug 07 2026 19:01:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -109,104 +207,6 @@
     "link": "https://cryptopanic.com/news/33176087/Is-Justin-Sun-mixing-HTXs-reserves-with-Poloniex",
     "source": "protos.com",
     "published": "Fri Aug 07 2026 18:37:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Donald Trump SENDS HUGE BITCOIN WARNING on The SAME DAY CLARITY ACT FAILS??? | EP 1565",
-    "link": "https://cryptopanic.com/news/33175289/Donald-Trump-SENDS-HUGE-BITCOIN-WARNING-on-The-SAME-DAY-CLARITY-ACT-FAILS-EP-1565",
-    "source": "SimplyBitcoin",
-    "published": "Fri Aug 07 2026 18:35:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Boomer gold outperformed digital rival BTC by 70% over the past year",
-    "link": "https://cryptopanic.com/news/33176082/Boomer-gold-outperformed-digital-rival-BTC-by-70-over-the-past-year",
-    "source": "protos.com",
-    "published": "Fri Aug 07 2026 18:32:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Crypto Hack! Inside Job or Media Deception?",
-    "link": "https://cryptopanic.com/news/33176088/The-Crypto-Hack-Inside-Job-or-Media-Deception",
-    "source": "SimplyBitcoin",
-    "published": "Fri Aug 07 2026 18:30:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "South Korea's travel rule expands to every crypto transfer from August 20\n\nFrom August 20, transfers between South Korean crypto exchanges fall under travel rule requirements regardless of size, scrapping the current 1M won (~$730) threshold. Platforms like @Official_Upbit and",
-    "link": "https://cryptopanic.com/news/33176064/South-Koreas-travel-rule-expands-to-every-crypto-transfer-from-August-20-From-August-20-transfers-between-South-Korean-crypto-exchanges-fall-under-travel-rule-requirements-regardless-of-size-scrapping-the-current-1M-won-730-threshold-Platforms-like-Official_Upbit-and",
-    "source": "@bscnews",
-    "published": "Fri Aug 07 2026 18:24:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Cathie Wood's Ark Invest scooped up another $21M worth of Block shares and $2.3M in SpaceX stock on Thursday.",
-    "link": "https://cryptopanic.com/news/33176136/LATEST-Cathie-Woods-Ark-Invest-scooped-up-another-21M-worth-of-Block-shares-and-23M-in-SpaceX-stock-on-Thursday",
-    "source": "@coinmarketcap",
-    "published": "Fri Aug 07 2026 18:23:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum’s $5,000 Path? ETH Reclaims a Key Level as Institutions Keep Accumulating",
-    "link": "https://cryptopanic.com/news/33176054/Ethereums-5000-Path-ETH-Reclaims-a-Key-Level-as-Institutions-Keep-Accumulating",
-    "source": "cryptopotato.com",
-    "published": "Fri Aug 07 2026 18:22:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 US hits Iranian crypto exchanges funding IRGC\n\n• Shelbit: Dubai-based, moved $4B illicitly \n\n• Aban Tether: Iran, ties to Nobitex & Wallex",
-    "link": "https://cryptopanic.com/news/33176120/JUST-IN-US-hits-Iranian-crypto-exchanges-funding-IRGC-Shelbit-Dubai-based-moved-4B-illicitly-Aban-Tether-Iran-ties-to-Nobitex-amp-Wallex",
-    "source": "@btc_archive",
-    "published": "Fri Aug 07 2026 18:16:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Injective, ranked #81 on CoinMarketCap, supports over 500 onchain assets, has processed over 3B transactions, and generated more than $6.8B in RWA volume. $INJ is coming to Cardano and $ADA is coming to Injective, unlocking new cross-chain liquidity, dApps, and TradFi.",
-    "link": "https://cryptopanic.com/news/33176009/UPDATE-Injective-ranked-81-on-CoinMarketCap-supports-over-500-onchain-assets-has-processed-over-3B-transactions-and-generated-more-than-68B-in-RWA-volume-INJ-is-coming-to-Cardano-and-ADA-is-coming-to-Injective-unlocking-new-cross-chain-liquidity-dApps-and-TradFi",
-    "source": "@angrycryptoshow",
-    "published": "Fri Aug 07 2026 18:11:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SCOOP: Numerous potential acquirers, including crypto exchanges and wallet provider Exodus, examined a possible acquisition of BitMEX over the past two years but ultimately walked away, deterred by the company's ownership structure, shrinking business and lingering reputational",
-    "link": "https://cryptopanic.com/news/33176011/SCOOP-Numerous-potential-acquirers-including-crypto-exchanges-and-wallet-provider-Exodus-examined-a-possible-acquisition-of-BitMEX-over-the-past-two-years-but-ultimately-walked-away-deterred-by-the-companys-ownership-structure-shrinking-business-and-lingering-reputational",
-    "source": "@coindesk",
-    "published": "Fri Aug 07 2026 18:10:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BNB Chain overtakes Tron as the largest stablecoin holder base\n\n@BNBCHAIN has passed @trondao as the top network by stablecoin-holding addresses, at roughly 79-80M against Tron's 76M, per Token Terminal data. The flip is driven by $USDT: holder addresses on BNB Chain grew 49%",
-    "link": "https://cryptopanic.com/news/33176063/BNB-Chain-overtakes-Tron-as-the-largest-stablecoin-holder-base-BNBCHAIN-has-passed-trondao-as-the-top-network-by-stablecoin-holding-addresses-at-roughly-79-80M-against-Trons-76M-per-Token-Terminal-data-The-flip-is-driven-by-USDT-holder-addresses-on-BNB-Chain-grew-49",
-    "source": "@bscnews",
-    "published": "Fri Aug 07 2026 18:08:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "OpenAI To Fork Out $3,200,000 in Settlement After Being Accused of Discriminating Against US Workers",
-    "link": "https://cryptopanic.com/news/33176016/OpenAI-To-Fork-Out-3200000-in-Settlement-After-Being-Accused-of-Discriminating-Against-US-Workers",
-    "source": "dailyhodl.com",
-    "published": "Fri Aug 07 2026 18:05:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Record earnings, record S&P, and rate hike odds fading after today's jobs miss. Is this backdrop finally going to pull serious size into crypto?",
-    "link": "https://cryptopanic.com/news/33176062/Record-earnings-record-SampP-and-rate-hike-odds-fading-after-todays-jobs-miss-Is-this-backdrop-finally-going-to-pull-serious-size-into-crypto",
-    "source": "@bscnews",
-    "published": "Fri Aug 07 2026 18:05:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BlackRock and JPMorgan Join Forces on Blockchain: $311B in Tokenized Funds",
-    "link": "https://cryptopanic.com/news/33175982/BlackRock-and-JPMorgan-Join-Forces-on-Blockchain-311B-in-Tokenized-Funds",
-    "source": "spaziocrypto.com",
-    "published": "Fri Aug 07 2026 18:02:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Senator Cynthia Lummis says she “will not stop fighting” for the Clarity Act after its latest setback, vowing the fight for U.S. crypto legislation is “far from over.”",
-    "link": "https://cryptopanic.com/news/33176013/JUST-IN-Senator-Cynthia-Lummis-says-she-will-not-stop-fighting-for-the-Clarity-Act-after-its-latest-setback-vowing-the-fight-for-US-crypto-legislation-is-far-from-over",
-    "source": "@cointelegraph",
-    "published": "Fri Aug 07 2026 18:02:16 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
