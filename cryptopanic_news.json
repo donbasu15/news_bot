@@ -1,5 +1,54 @@
 [
   {
+    "title": "Atlassian beats quarterly estimates on strong cloud demand",
+    "link": "https://cryptopanic.com/news/33170657/Atlassian-beats-quarterly-estimates-on-strong-cloud-demand",
+    "source": "@reutersbiz",
+    "published": "Fri Aug 07 2026 02:30:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The Jaredfromsubway exploiter is terrible at trading.\n\nA month ago, the exploiter stole $7.7M and swapped it for $ETH.\n\nThe exploiter later sold 2,327 $ETH($3.94M) at $1,695, then bought back 2,063 $ETH($3.94M) at $1,912 10 hours ago.\n\nHe lost 264 $ETH($505K).",
+    "link": "https://cryptopanic.com/news/33170702/The-Jaredfromsubway-exploiter-is-terrible-at-trading-A-month-ago-the-exploiter-stole-77M-and-swapped-it-for-ETH-The-exploiter-later-sold-2327-ETH394M-at-1695-then-bought-back-2063-ETH394M-at-1912-10-hours-ago-He-lost-264-ETH505K",
+    "source": "@lookonchain",
+    "published": "Fri Aug 07 2026 02:24:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: US officials sold euros to buy yen last Friday without informing the European Central Bank until after the trade was done, per FT.",
+    "link": "https://cryptopanic.com/news/33170654/LATEST-US-officials-sold-euros-to-buy-yen-last-Friday-without-informing-the-European-Central-Bank-until-after-the-trade-was-done-per-FT",
+    "source": "@cointelegraph",
+    "published": "Fri Aug 07 2026 02:20:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "South Korea’s Largest Crypto Exchange Upbit to List KMNO/KRW Trading Pair\n\nAccording to an official announcement, South Korea’s largest crypto exchange, Upbit, will list the KMNO/KRW trading pair at 1:30 p.m. KST on August 7. Kamino Finance is a lending-based DeFi protocol.",
+    "link": "https://cryptopanic.com/news/33170651/South-Koreas-Largest-Crypto-Exchange-Upbit-to-List-KMNOKRW-Trading-Pair-According-to-an-official-announcement-South-Koreas-largest-crypto-exchange-Upbit-will-list-the-KMNOKRW-trading-pair-at-130-pm-KST-on-August-7-Kamino-Finance-is-a-lending-based-DeFi-protocol",
+    "source": "@wublockchain",
+    "published": "Fri Aug 07 2026 02:19:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33170650/Source",
+    "source": "@wublockchain",
+    "published": "Fri Aug 07 2026 02:19:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇺🇸 Senator Elizabeth Warren says she supports crypto legislation, but not the CLARITY Act, calling it \"written by the crypto industry to protect and advance the crypto industry.\"",
+    "link": "https://cryptopanic.com/news/33170649/LATEST-Senator-Elizabeth-Warren-says-she-supports-crypto-legislation-but-not-the-CLARITY-Act-calling-it-written-by-the-crypto-industry-to-protect-and-advance-the-crypto-industry",
+    "source": "@coinmarketcap",
+    "published": "Fri Aug 07 2026 02:17:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Senate won't vote on crypto Clarity Act before its summer break",
+    "link": "https://cryptopanic.com/news/33170683/Senate-wont-vote-on-crypto-Clarity-Act-before-its-summer-break",
+    "source": "coindesk.com",
+    "published": "Fri Aug 07 2026 02:14:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Sui to add post-quantum signature schemes for quantum-safe accounts",
     "link": "https://cryptopanic.com/news/33170580/Sui-to-add-post-quantum-signature-schemes-for-quantum-safe-accounts",
     "source": "theblock.co",
@@ -21,10 +70,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "The White House imposed a series of price floors and a 15% tariff on products made from polysilicon, the raw material used in semiconductors and solar panels that ‌is primarily produced by China. More here",
+    "link": "https://cryptopanic.com/news/33170656/The-White-House-imposed-a-series-of-price-floors-and-a-15-tariff-on-products-made-from-polysilicon-the-raw-material-used-in-semiconductors-and-solar-panels-that-is-primarily-produced-by-China-More-here",
+    "source": "@reutersbiz",
+    "published": "Fri Aug 07 2026 02:00:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "DCG’s Fortitude Expands Zcash Mining With Nebraska Acquisition",
     "link": "https://cryptopanic.com/news/33170560/DCGs-Fortitude-Expands-Zcash-Mining-With-Nebraska-Acquisition",
     "source": "catenaa.com",
     "published": "Fri Aug 07 2026 02:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 JUST IN: Senate Majority Leader John Thune has confirmed the Clarity Act vote is being pushed back to September, according to Politico.",
+    "link": "https://cryptopanic.com/news/33170653/JUST-IN-Senate-Majority-Leader-John-Thune-has-confirmed-the-Clarity-Act-vote-is-being-pushed-back-to-September-according-to-Politico",
+    "source": "@cointelegraph",
+    "published": "Fri Aug 07 2026 01:56:40 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -39,6 +102,13 @@
     "link": "https://cryptopanic.com/news/33170605/JUST-IN-Senate-delays-Crypto-Clarity-Act-vote-until-after-summer-recess",
     "source": "@watcherguru",
     "published": "Fri Aug 07 2026 01:51:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "A New Mexico state court ordered Meta to pay $567 million and change how its platforms function for young users in the state ‌after finding the company is to blame for harming children's mental health. More here",
+    "link": "https://cryptopanic.com/news/33170655/A-New-Mexico-state-court-ordered-Meta-to-pay-567-million-and-change-how-its-platforms-function-for-young-users-in-the-state-after-finding-the-company-is-to-blame-for-harming-childrens-mental-health-More-here",
+    "source": "@reutersbiz",
+    "published": "Fri Aug 07 2026 01:49:51 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/33170387/LATEST-Japanese-officials-have-repeatedly-requested-that-the-US-government-stop-its-meme-posting-involving-characters-and-franchises-such-as-Mario-Pokemon-and-Naruto-per-IGN",
     "source": "@cryptonwsuk",
     "published": "Fri Aug 07 2026 00:50:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇸🇦 🇮🇶 Saudi Arabia is bracing for “multiple coordinated attacks” by Iraqi militias working with Iran-backed Houthis, per CNN",
-    "link": "https://cryptopanic.com/news/33170386/LATEST-Saudi-Arabia-is-bracing-for-multiple-coordinated-attacks-by-Iraqi-militias-working-with-Iran-backed-Houthis-per-CNN",
-    "source": "@cryptonwsuk",
-    "published": "Fri Aug 07 2026 00:49:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin mining companies are selling $BTC.\n\nMARA, which holds 36,303 $BTC($2.34B), deposited 200 $BTC($12.86M) into NYDIG 10 hours ago.\n\nRiot Platforms also continues to send $BTC to NYDIG, depositing another 381 $BTC($24.51M) 10 hours ago.",
-    "link": "https://cryptopanic.com/news/33170436/Bitcoin-mining-companies-are-selling-BTC-MARA-which-holds-36303-BTC234B-deposited-200-BTC1286M-into-NYDIG-10-hours-ago-Riot-Platforms-also-continues-to-send-BTC-to-NYDIG-depositing-another-381-BTC2451M-10-hours-ago",
-    "source": "@lookonchain",
-    "published": "Fri Aug 07 2026 00:44:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Holy smokes... 1,944,441 $CAKE tokens burned in July.\n\n@PancakeSwap witnessed the permanent removal of a staggering 1.944M $CAKE tokens in the month of July, through the platform's supply reduction mechanisms.\n\nThe tokens are worth some $2.73M at time of writing, the burn",
-    "link": "https://cryptopanic.com/news/33170435/Holy-smokes-1944441-CAKE-tokens-burned-in-July-PancakeSwap-witnessed-the-permanent-removal-of-a-staggering-1944M-CAKE-tokens-in-the-month-of-July-through-the-platforms-supply-reduction-mechanisms-The-tokens-are-worth-some-273M-at-time-of-writing-the-burn",
-    "source": "@bscnews",
-    "published": "Fri Aug 07 2026 00:43:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: OpenAI's new hockey puck-sized smart speaker will have moving parts for personality and could cost over $300 when it launches in 2027, per Bloomberg.",
-    "link": "https://cryptopanic.com/news/33170392/LATEST-OpenAIs-new-hockey-puck-sized-smart-speaker-will-have-moving-parts-for-personality-and-could-cost-over-300-when-it-launches-in-2027-per-Bloomberg",
-    "source": "@cointelegraph",
-    "published": "Fri Aug 07 2026 00:40:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Dow, S&P 500 and Nasdaq ended lower as investors digested earnings and looked for signs of progress toward a US-Iran peace deal",
-    "link": "https://cryptopanic.com/news/33170393/The-Dow-SampP-500-and-Nasdaq-ended-lower-as-investors-digested-earnings-and-looked-for-signs-of-progress-toward-a-US-Iran-peace-deal",
-    "source": "@reutersbiz",
-    "published": "Fri Aug 07 2026 00:29:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ondo's $USDY is coming to Stellar!\n\n@Ondo's US Treasury-backed $USDY token can now be used by protocol's native to @StellarOrg's L1 blockchain.\n\nThe expansion of $ONDO's asset to $XLM is made possible by @redstone_defi's SEP-40 integration.\n\nThe move reflects two major crypto",
-    "link": "https://cryptopanic.com/news/33170299/Ondos-USDY-is-coming-to-Stellar-Ondos-US-Treasury-backed-USDY-token-can-now-be-used-by-protocols-native-to-StellarOrgs-L1-blockchain-The-expansion-of-ONDOs-asset-to-XLM-is-made-possible-by-redstone_defis-SEP-40-integration-The-move-reflects-two-major-crypto",
-    "source": "@bscnews",
-    "published": "Fri Aug 07 2026 00:21:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇮🇷 NEW: Iran is seeking to bar US and Israeli ships from the Strait of Hormuz and demand compensation from hostile countries under a proposed deal with Oman.",
-    "link": "https://cryptopanic.com/news/33170391/NEW-Iran-is-seeking-to-bar-US-and-Israeli-ships-from-the-Strait-of-Hormuz-and-demand-compensation-from-hostile-countries-under-a-proposed-deal-with-Oman",
-    "source": "@cointelegraph",
-    "published": "Fri Aug 07 2026 00:20:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin ETF Inflows Surge to $626 Million as Wall Street Buying Resumes",
-    "link": "https://cryptopanic.com/news/33170270/Bitcoin-ETF-Inflows-Surge-to-626-Million-as-Wall-Street-Buying-Resumes",
-    "source": "btcusa.com",
-    "published": "Fri Aug 07 2026 00:19:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇺🇸 A federal judge ruled that Utah's anti-gambling laws can be applied to Kalshi's sports event contracts, finding federal futures law doesn't preempt state gambling rules.",
-    "link": "https://cryptopanic.com/news/33170247/LATEST-A-federal-judge-ruled-that-Utahs-anti-gambling-laws-can-be-applied-to-Kalshis-sports-event-contracts-finding-federal-futures-law-doesnt-preempt-state-gambling-rules",
-    "source": "@coinmarketcap",
-    "published": "Fri Aug 07 2026 00:05:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Daily #Cardano News! ️\n\n'$10T Will Enter Crypto.'\n$ADA Leads Weekly Gains!",
-    "link": "https://cryptopanic.com/news/33170248/Daily-Cardano-News-10T-Will-Enter-Crypto-ADA-Leads-Weekly-Gains",
-    "source": "@angrycryptoshow",
-    "published": "Fri Aug 07 2026 00:04:28 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
