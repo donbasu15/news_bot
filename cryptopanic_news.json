@@ -1,9 +1,30 @@
 [
   {
+    "title": "Additional/detailed information",
+    "link": "https://cryptopanic.com/news/33176701/Additionaldetailed-information",
+    "source": "@watcherguru",
+    "published": "Fri Aug 07 2026 21:44:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BIG: The U.S. Treasury’s OFAC has sanctioned Iranian crypto exchanges Shelbit and Aban Tether for allegedly facilitating sanctions evasion and laundering funds linked to the IRGC.",
+    "link": "https://cryptopanic.com/news/33176723/BIG-The-US-Treasurys-OFAC-has-sanctioned-Iranian-crypto-exchanges-Shelbit-and-Aban-Tether-for-allegedly-facilitating-sanctions-evasion-and-laundering-funds-linked-to-the-IRGC",
+    "source": "@cointelegraph",
+    "published": "Fri Aug 07 2026 21:30:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Trump Media scraps its CRO treasury venture with Crypto(.)com\n\nTrump Media, @cryptocom, and SPAC Yorkville Acquisition have mutually terminated plans for Trump Media Group CRO Strategy, the venture pitched last year as the first and largest publicly traded $CRO treasury company.",
     "link": "https://cryptopanic.com/news/33176623/Trump-Media-scraps-its-CRO-treasury-venture-with-Cryptocom-Trump-Media-cryptocom-and-SPAC-Yorkville-Acquisition-have-mutually-terminated-plans-for-Trump-Media-Group-CRO-Strategy-the-venture-pitched-last-year-as-the-first-and-largest-publicly-traded-CRO-treasury-company",
     "source": "@bscnews",
     "published": "Fri Aug 07 2026 21:26:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: ️ Elon Musk says Tesla and SpaceX's Terafab chip factory in Texas will become Earth's most valuable building, spanning over 9M square meters.",
+    "link": "https://cryptopanic.com/news/33176717/LATEST-Elon-Musk-says-Tesla-and-SpaceXs-Terafab-chip-factory-in-Texas-will-become-Earths-most-valuable-building-spanning-over-9M-square-meters",
+    "source": "@coinmarketcap",
+    "published": "Fri Aug 07 2026 21:23:16 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -39,6 +60,13 @@
     "link": "https://cryptopanic.com/news/33176596/Source",
     "source": "@wublockchain",
     "published": "Fri Aug 07 2026 21:09:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Canada Economy Just Outran America: Is Its Crypto Industry Next?",
+    "link": "https://cryptopanic.com/news/33176719/Canada-Economy-Just-Outran-America-Is-Its-Crypto-Industry-Next",
+    "source": "beincrypto.com",
+    "published": "Fri Aug 07 2026 21:07:17 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33176485/Economy-Paradox-Why-Americans-Are-Miserable-Stocks-Soar",
     "source": "SimplyBitcoin",
     "published": "Fri Aug 07 2026 20:30:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Treasury Sanctions Crypto Exchanges It Says Laundered Millions for Iran",
-    "link": "https://cryptopanic.com/news/33176451/Treasury-Sanctions-Crypto-Exchanges-It-Says-Laundered-Millions-for-Iran",
-    "source": "decrypt.co",
-    "published": "Fri Aug 07 2026 20:28:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump Media Pulls Back From Crypto, Scraps CRO Treasury Venture and Scales Down Prediction Market Plans\n\nTrump Media and Technology Group is scaling back its crypto ambitions, terminating a planned CRO-focused digital asset treasury venture with CryptoCom and Yorkville",
-    "link": "https://cryptopanic.com/news/33176457/Trump-Media-Pulls-Back-From-Crypto-Scraps-CRO-Treasury-Venture-and-Scales-Down-Prediction-Market-Plans-Trump-Media-and-Technology-Group-is-scaling-back-its-crypto-ambitions-terminating-a-planned-CRO-focused-digital-asset-treasury-venture-with-CryptoCom-and-Yorkville",
-    "source": "@wublockchain",
-    "published": "Fri Aug 07 2026 20:27:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BTCPay Server patches critical bug under active exploitation\n\nBTCPay Server (@BtcpayServer) is warning of a critical vulnerability being actively exploited that can result in the loss of funds, urging all operators to update to version 2.4.2 immediately and, if they can't, to",
-    "link": "https://cryptopanic.com/news/33176515/BTCPay-Server-patches-critical-bug-under-active-exploitation-BTCPay-Server-BtcpayServer-is-warning-of-a-critical-vulnerability-being-actively-exploited-that-can-result-in-the-loss-of-funds-urging-all-operators-to-update-to-version-242-immediately-and-if-they-cant-to",
-    "source": "@bscnews",
-    "published": "Fri Aug 07 2026 20:25:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump Media Pulls Back From Crypto Deals Under Interim CEO McGurn",
-    "link": "https://cryptopanic.com/news/33176607/Trump-Media-Pulls-Back-From-Crypto-Deals-Under-Interim-CEO-McGurn",
-    "source": "beincrypto.com",
-    "published": "Fri Aug 07 2026 20:22:37 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
