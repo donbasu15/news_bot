@@ -1,9 +1,86 @@
 [
   {
+    "title": "BTCPay Server - CRITICAL VULNERABILITY",
+    "link": "https://cryptopanic.com/news/33175786/BTCPay-Server-CRITICAL-VULNERABILITY",
+    "source": "BTCSessions",
+    "published": "Fri Aug 07 2026 17:10:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BTCPay warns of actively exploited vulnerability that could drain funds",
+    "link": "https://cryptopanic.com/news/33175722/BTCPay-warns-of-actively-exploited-vulnerability-that-could-drain-funds",
+    "source": "theblock.co",
+    "published": "Fri Aug 07 2026 17:03:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$SPCX is bouncing hard with +23% over the past 2 days and looks like it will close back above a key resistance.\n\nAt current prices, this would also be the largest green weekly candle on record for SPCX.",
+    "link": "https://cryptopanic.com/news/33175766/SPCX-is-bouncing-hard-with-23-over-the-past-2-days-and-looks-like-it-will-close-back-above-a-key-resistance-At-current-prices-this-would-also-be-the-largest-green-weekly-candle-on-record-for-SPCX",
+    "source": "@stackersatoshi",
+    "published": "Fri Aug 07 2026 17:02:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "New Bug Targets Web-Based Crypto Wallets: How 12-Year-Old Code Bug Cost Investors $5.7 Million",
+    "link": "https://cryptopanic.com/news/33175772/New-Bug-Targets-Web-Based-Crypto-Wallets-How-12-Year-Old-Code-Bug-Cost-Investors-57-Million",
+    "source": "u.today",
+    "published": "Fri Aug 07 2026 17:01:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin’s address boom may be a security warning, not adoption – Here’s how!",
+    "link": "https://cryptopanic.com/news/33175718/Bitcoins-address-boom-may-be-a-security-warning-not-adoption-Heres-how",
+    "source": "ambcrypto.com",
+    "published": "Fri Aug 07 2026 17:00:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SK Hynix Will Invest $38Bn In Two Memory Chip Plants",
+    "link": "https://cryptopanic.com/news/33175686/SK-Hynix-Will-Invest-38Bn-In-Two-Memory-Chip-Plants",
+    "source": "catenaa.com",
+    "published": "Fri Aug 07 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Coinbase Adds Wall Street to Its UK Crypto App With 4,000 Stocks",
+    "link": "https://cryptopanic.com/news/33175697/Coinbase-Adds-Wall-Street-to-Its-UK-Crypto-App-With-4000-Stocks",
+    "source": "coinpaprika.com",
+    "published": "Fri Aug 07 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Solana wants to be the Netflix of finance",
+    "link": "https://cryptopanic.com/news/33175799/Solana-wants-to-be-the-Netflix-of-finance",
+    "source": "thestreet.com",
+    "published": "Fri Aug 07 2026 16:57:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 Federal Reserve is no longer projected to raise interest rates next month after US records 3rd largest monthly job loss since 2020.",
+    "link": "https://cryptopanic.com/news/33175764/JUST-IN-Federal-Reserve-is-no-longer-projected-to-raise-interest-rates-next-month-after-US-records-3rd-largest-monthly-job-loss-since-2020",
+    "source": "@watcherguru",
+    "published": "Fri Aug 07 2026 16:54:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin is going much higher! \n\nDrawdowns usually precede large gains. \n\nDon’t overthink it. Buy & HOLD.",
+    "link": "https://cryptopanic.com/news/33175765/Bitcoin-is-going-much-higher-Drawdowns-usually-precede-large-gains-Dont-overthink-it-Buy-amp-HOLD",
+    "source": "@btc_archive",
+    "published": "Fri Aug 07 2026 16:52:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Crypto(.)com adds XRP to Dual Invest with up to triple-digit reward rates\n\n@cryptocom has added ripple:native to its Dual Invest product, joining bitcoin:native, $ETH, $SOL, $USDC, and $PAXG. Users select a target price and term, then lock in a reward rate that pays out whichever",
     "link": "https://cryptopanic.com/news/33175684/Cryptocom-adds-XRP-to-Dual-Invest-with-up-to-triple-digit-reward-rates-cryptocom-has-added-ripplenative-to-its-Dual-Invest-product-joining-bitcoinnative-ETH-SOL-USDC-and-PAXG-Users-select-a-target-price-and-term-then-lock-in-a-reward-rate-that-pays-out-whichever",
     "source": "@bscnews",
     "published": "Fri Aug 07 2026 16:48:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MSTR Up 5%, Targets $105 Resistance For the Third Time: What's Happening?",
+    "link": "https://cryptopanic.com/news/33175719/MSTR-Up-5-Targets-105-Resistance-For-the-Third-Time-Whats-Happening",
+    "source": "feeds2.benzinga.com",
+    "published": "Fri Aug 07 2026 16:46:31 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -21,10 +98,10 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Hackers Use BNB Chain to Spread Malware Through Fake CAPTCHAs",
-    "link": "https://cryptopanic.com/news/33175685/Hackers-Use-BNB-Chain-to-Spread-Malware-Through-Fake-CAPTCHAs",
-    "source": "@decryptmedia",
-    "published": "Fri Aug 07 2026 16:38:15 GMT+0000 (Coordinated Universal Time)",
+    "title": "JUST IN: There's now a 62% chance Bitcoin will be above $67,500 this month, according to",
+    "link": "https://cryptopanic.com/news/33175763/JUST-IN-Theres-now-a-62-chance-Bitcoin-will-be-above-67500-this-month-according-to",
+    "source": "@bitcoinmagazine",
+    "published": "Fri Aug 07 2026 16:37:43 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -130,83 +207,6 @@
     "link": "https://cryptopanic.com/news/33175453/Own-Bitcoin-Do-This-Before-Tomorrow-BIP-110",
     "source": "BTCSessions",
     "published": "Fri Aug 07 2026 16:08:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Still in Death Cross as Jobs Miss Cuts Rate-Hike Odds",
-    "link": "https://cryptopanic.com/news/33175403/Bitcoin-Still-in-Death-Cross-as-Jobs-Miss-Cuts-Rate-Hike-Odds",
-    "source": "decrypt.co",
-    "published": "Fri Aug 07 2026 16:07:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The REAL Reason the Rich get Richer",
-    "link": "https://cryptopanic.com/news/33175432/The-REAL-Reason-the-Rich-get-Richer",
-    "source": "AnthonyPompliano",
-    "published": "Fri Aug 07 2026 16:05:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "OpenAI's First Device Is a $300-Plus Doughnut-Shaped Speaker: Report",
-    "link": "https://cryptopanic.com/news/33175358/OpenAIs-First-Device-Is-a-300-Plus-Doughnut-Shaped-Speaker-Report",
-    "source": "decrypt.co",
-    "published": "Fri Aug 07 2026 16:03:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UK Finance in their report says the UK wants to lead global digital capital markets by 2035!\n\nAnd the groundwork is already being laid.\n\nProjects involving $LINK, $HBAR, $QNT and $XRP have all appeared across UK pilots, sandboxes and tokenisation initiatives.\n\nBritain is",
-    "link": "https://cryptopanic.com/news/33175435/UK-Finance-in-their-report-says-the-UK-wants-to-lead-global-digital-capital-markets-by-2035-And-the-groundwork-is-already-being-laid-Projects-involving-LINK-HBAR-QNT-and-XRP-have-all-appeared-across-UK-pilots-sandboxes-and-tokenisation-initiatives-Britain-is",
-    "source": "@realallincrypto",
-    "published": "Fri Aug 07 2026 16:01:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$ETH Has already been putting in a decent structure with higher highs and higher lows.\n\nBut that has come to a halt at this ~$1950 area every time the past few weeks.\n\nBreaking that would be a sign of strength for ETH again and makes it so it can continue this bounce from the",
-    "link": "https://cryptopanic.com/news/33175433/ETH-Has-already-been-putting-in-a-decent-structure-with-higher-highs-and-higher-lows-But-that-has-come-to-a-halt-at-this-1950-area-every-time-the-past-few-weeks-Breaking-that-would-be-a-sign-of-strength-for-ETH-again-and-makes-it-so-it-can-continue-this-bounce-from-the",
-    "source": "@daancrypto",
-    "published": "Fri Aug 07 2026 16:01:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "America's Exit, The Only Way Out of National Debt?",
-    "link": "https://cryptopanic.com/news/33175412/Americas-Exit-The-Only-Way-Out-of-National-Debt",
-    "source": "SimplyBitcoin",
-    "published": "Fri Aug 07 2026 16:00:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CLARITY Act Delay Means It's 'Pretty Much Dead,' Expert Says: Bitcoin, Ethereum Don't Care",
-    "link": "https://cryptopanic.com/news/33175455/CLARITY-Act-Delay-Means-Its-Pretty-Much-Dead-Expert-Says-Bitcoin-Ethereum-Dont-Care",
-    "source": "feeds2.benzinga.com",
-    "published": "Fri Aug 07 2026 16:00:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum Just Got A Security Upgrade That Could Make It Unstoppable",
-    "link": "https://cryptopanic.com/news/33175424/Ethereum-Just-Got-A-Security-Upgrade-That-Could-Make-It-Unstoppable",
-    "source": "TheCryptoLark",
-    "published": "Fri Aug 07 2026 16:00:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Would You Survive If Bitcoin Fell 40%? Find Out NOW!",
-    "link": "https://cryptopanic.com/news/33175402/Would-You-Survive-If-Bitcoin-Fell-40-Find-Out-NOW",
-    "source": "CryptoTips",
-    "published": "Fri Aug 07 2026 16:00:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Do NOT Buy Bitcoin After Aug 8th — 1% Chance This Happens BUT Will Cost You Everything | Bob Burnett",
-    "link": "https://cryptopanic.com/news/33175383/Do-NOT-Buy-Bitcoin-After-Aug-8th-1-Chance-This-Happens-BUT-Will-Cost-You-Everything-Bob-Burnett",
-    "source": "BTCSessions",
-    "published": "Fri Aug 07 2026 16:00:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Could Rally 211% Toward $3.50 After Breaking Long-Term Resistance, Says Pundit",
-    "link": "https://cryptopanic.com/news/33175414/XRP-Could-Rally-211-Toward-350-After-Breaking-Long-Term-Resistance-Says-Pundit",
-    "source": "zycrypto.com",
-    "published": "Fri Aug 07 2026 16:00:09 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
