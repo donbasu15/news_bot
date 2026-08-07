@@ -1,9 +1,44 @@
 [
   {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33174261/Source",
+    "source": "@wublockchain",
+    "published": "Fri Aug 07 2026 12:51:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Same ETF Demand, Opposite Market Response\n\nOver the last 7 sessions (Jul 29-Aug 6):\n\n🟠 BTC ETFs: +$737.7M inflow, price +1.14% \n ETH ETFs: +$156.0M inflow, price -0.69%\n\nBTC attracted steady ETF demand over these 7 sessions, even as long-term holders distributed 142,437.8 BTC",
+    "link": "https://cryptopanic.com/news/33174254/Same-ETF-Demand-Opposite-Market-Response-Over-the-last-7-sessions-Jul-29-Aug-6-BTC-ETFs-7377M-inflow-price-114-ETH-ETFs-1560M-inflow-price-069-BTC-attracted-steady-ETF-demand-over-these-7-sessions-even-as-long-term-holders-distributed-1424378-BTC",
+    "source": "@coinmarketcap",
+    "published": "Fri Aug 07 2026 12:50:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum: Shrinking Exchange Liquidity Meets Expanding Contract Deployment\n\n“Historically, this combination has preceded high-volatility moves once macro or directional demand returns, although it provides no immediate timing signal.” – By @CryptoOnchain",
+    "link": "https://cryptopanic.com/news/33174258/Ethereum-Shrinking-Exchange-Liquidity-Meets-Expanding-Contract-Deployment-Historically-this-combination-has-preceded-high-volatility-moves-once-macro-or-directional-demand-returns-although-it-provides-no-immediate-timing-signal-By-CryptoOnchain",
+    "source": "@cryptoquant_com",
+    "published": "Fri Aug 07 2026 12:47:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "For the complete article and weekly curated reports, subscribe to our Substack",
+    "link": "https://cryptopanic.com/news/33174260/For-the-complete-article-and-weekly-curated-reports-subscribe-to-our-Substack",
+    "source": "@wublockchain",
+    "published": "Fri Aug 07 2026 12:41:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Stripe Pushes Into European Stablecoins: Bridge Gets MiCA License",
     "link": "https://cryptopanic.com/news/33174200/Stripe-Pushes-Into-European-Stablecoins-Bridge-Gets-MiCA-License",
     "source": "spaziocrypto.com",
     "published": "Fri Aug 07 2026 12:40:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: U.S. July Nonfarm Payrolls Fall by 23K, Unemployment Rate Drops to 4.1%\n\nU.S. nonfarm payrolls fell by 23,000 in July, well below market expectations for an increase of 80,000. The previous reading was revised down from a gain of 57,000 to 20,000. The unemployment rate",
+    "link": "https://cryptopanic.com/news/33174259/JUST-IN-US-July-Nonfarm-Payrolls-Fall-by-23K-Unemployment-Rate-Drops-to-41-US-nonfarm-payrolls-fell-by-23000-in-July-well-below-market-expectations-for-an-increase-of-80000-The-previous-reading-was-revised-down-from-a-gain-of-57000-to-20000-The-unemployment-rate",
+    "source": "@wublockchain",
+    "published": "Fri Aug 07 2026 12:38:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -35,6 +70,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "UPDATE: Coldcard-related loss estimated about $130M, while manufacturer Coinkite says it cannot confirm the amount, per Bloomberg.",
+    "link": "https://cryptopanic.com/news/33174265/UPDATE-Coldcard-related-loss-estimated-about-130M-while-manufacturer-Coinkite-says-it-cannot-confirm-the-amount-per-Bloomberg",
+    "source": "@cointelegraph",
+    "published": "Fri Aug 07 2026 12:31:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "INTEL: US employers cut 23,000 jobs in July, missing the forecast for an 80,000 gain",
     "link": "https://cryptopanic.com/news/33174226/INTEL-US-employers-cut-23000-jobs-in-July-missing-the-forecast-for-an-80000-gain",
     "source": "@solidintel_x",
@@ -56,6 +98,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "India Reaffirms Fiscal Discipline as Rising State Borrowings and Global Headwinds Increase Pressure on Public Finances",
+    "link": "https://cryptopanic.com/news/33174252/India-Reaffirms-Fiscal-Discipline-as-Rising-State-Borrowings-and-Global-Headwinds-Increase-Pressure-on-Public-Finances",
+    "source": "sfctoday.com",
+    "published": "Fri Aug 07 2026 12:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "$65,000 Bitcoin Paradox: Why Miner Fee Revenue Sinks to 2019 Levels",
     "link": "https://cryptopanic.com/news/33174182/65000-Bitcoin-Paradox-Why-Miner-Fee-Revenue-Sinks-to-2019-Levels",
     "source": "u.today",
@@ -74,6 +123,20 @@
     "link": "https://cryptopanic.com/news/33174115/Kaito-just-changed-the-game-for-Stakers-KaitoAI-has-upgraded-its-staking-protocol-to-increase-reward-distributions-for-long-term-KAITO-holders-following-a-136-annualized-return-in-2025-The-upgrade-introduces-a-mandatory-eligibility-opt-in-mechanism-to-redistribute",
     "source": "@bscnews",
     "published": "Fri Aug 07 2026 12:18:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: bitcoin:native reclaims $65K",
+    "link": "https://cryptopanic.com/news/33174264/JUST-IN-bitcoinnative-reclaims-65K",
+    "source": "@coindesk",
+    "published": "Fri Aug 07 2026 12:17:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  CleanSpark posted a $239.8M net loss in fiscal Q3 as revenue fell 30.5% YoY to $138.0M, while holding $814.9M in Bitcoin as of June 30.",
+    "link": "https://cryptopanic.com/news/33174253/LATEST-CleanSpark-posted-a-2398M-net-loss-in-fiscal-Q3-as-revenue-fell-305-YoY-to-1380M-while-holding-8149M-in-Bitcoin-as-of-June-30",
+    "source": "@coinmarketcap",
+    "published": "Fri Aug 07 2026 12:17:10 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -144,69 +207,6 @@
     "link": "https://cryptopanic.com/news/33173855/JUST-IN-President-Trump-says-we-dont-want-see-China-take-over-crypto",
     "source": "@watcherguru",
     "published": "Fri Aug 07 2026 12:00:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HUGE $HBAR INTEGRATION OPENS THEM UP TO 40+ INTERNATIONAL BANKS!\n\nHedera’s new and full integration with Taurus opens the door to 40+ banks, including Deutsche Bank, State Street and CACEIS!\n\nThey now have access to custody, stake, tokenise & use smart contracts on @hedera.",
-    "link": "https://cryptopanic.com/news/33174109/HUGE-HBAR-INTEGRATION-OPENS-THEM-UP-TO-40-INTERNATIONAL-BANKS-Hederas-new-and-full-integration-with-Taurus-opens-the-door-to-40-banks-including-Deutsche-Bank-State-Street-and-CACEIS-They-now-have-access-to-custody-stake-tokenise-amp-use-smart-contracts-on-hedera",
-    "source": "@realallincrypto",
-    "published": "Fri Aug 07 2026 12:00:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Biggest Bitcoin Hardware Wallet Hack? Inside Job REVEALED!",
-    "link": "https://cryptopanic.com/news/33173974/Biggest-Bitcoin-Hardware-Wallet-Hack-Inside-Job-REVEALED",
-    "source": "SimplyBitcoin",
-    "published": "Fri Aug 07 2026 12:00:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "After a Clarity Act funeral, the crypto world would keep turning",
-    "link": "https://cryptopanic.com/news/33174078/After-a-Clarity-Act-funeral-the-crypto-world-would-keep-turning",
-    "source": "coindesk.com",
-    "published": "Fri Aug 07 2026 12:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "From BP making huge profits to Toyota's raised forecast, here are the big markets stories of the week",
-    "link": "https://cryptopanic.com/news/33174006/From-BP-making-huge-profits-to-Toyotas-raised-forecast-here-are-the-big-markets-stories-of-the-week",
-    "source": "@reutersbiz",
-    "published": "Fri Aug 07 2026 11:55:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Coldcard co-founder is deleting X posts as losses top $130M",
-    "link": "https://cryptopanic.com/news/33173842/Coldcard-co-founder-is-deleting-X-posts-as-losses-top-130M",
-    "source": "protos.com",
-    "published": "Fri Aug 07 2026 11:52:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bernstein favors CleanSpark on AI execution as MARA awaits first commercial contract",
-    "link": "https://cryptopanic.com/news/33173834/Bernstein-favors-CleanSpark-on-AI-execution-as-MARA-awaits-first-commercial-contract",
-    "source": "theblock.co",
-    "published": "Fri Aug 07 2026 11:51:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Phone-Scam Hackers Now Target Wall Street’s Biggest Firms",
-    "link": "https://cryptopanic.com/news/33174033/Phone-Scam-Hackers-Now-Target-Wall-Streets-Biggest-Firms",
-    "source": "beincrypto.com",
-    "published": "Fri Aug 07 2026 11:49:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Price Update: bitcoin:native is back above $65,000",
-    "link": "https://cryptopanic.com/news/33173810/Price-Update-bitcoinnative-is-back-above-65000",
-    "source": "@bscnews",
-    "published": "Fri Aug 07 2026 11:46:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why Bitcoin's BIP-110 refuses to die despite near-zero miner support",
-    "link": "https://cryptopanic.com/news/33173961/Why-Bitcoins-BIP-110-refuses-to-die-despite-near-zero-miner-support",
-    "source": "coindesk.com",
-    "published": "Fri Aug 07 2026 11:45:49 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
