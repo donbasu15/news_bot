@@ -1,5 +1,12 @@
 [
   {
+    "title": "INTEL: Clarity Act vote delayed until after August recess.",
+    "link": "https://cryptopanic.com/news/33172746/INTEL-Clarity-Act-vote-delayed-until-after-August-recess",
+    "source": "@solidintel_x",
+    "published": "Fri Aug 07 2026 08:46:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Crypto has changed a lot since the early days.\n\nBut some of the strongest ideas from the original movement remain the same:\nOpen networks.\nProof-of-Work.\nDecentralized participation.\nCommunities building together.\n\nThat’s what makes @TEXITcoin interesting.\n\nBuilt as a Layer 1",
     "link": "https://cryptopanic.com/news/33172693/Crypto-has-changed-a-lot-since-the-early-days-But-some-of-the-strongest-ideas-from-the-original-movement-remain-the-same-Open-networks-Proof-of-Work-Decentralized-participation-Communities-building-together-Thats-what-makes-TEXITcoin-interesting-Built-as-a-Layer-1",
     "source": "@bscnews",
@@ -18,6 +25,13 @@
     "link": "https://cryptopanic.com/news/33172596/Japans-Yen-Rescue-Is-Quietly-Undermining-the-Bitcoin-Trade-It-Helped-Create",
     "source": "www.blockhead.co",
     "published": "Fri Aug 07 2026 08:30:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Zoomex Officially Launches Demo Trading",
+    "link": "https://cryptopanic.com/news/33172740/Zoomex-Officially-Launches-Demo-Trading",
+    "source": "beincrypto.com",
+    "published": "Fri Aug 07 2026 08:16:01 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -46,6 +60,13 @@
     "link": "https://cryptopanic.com/news/33172691/How-Much-solanaSo11111111111111111111111111111111111111112-Has-Pumpfun-Sold-So-Far-Pumpfun-Pumpfun-sold-another-84789-solanaSo11111111111111111111111111111111111111112-worth-about-625-million-on-Aug-7-according-to-Lookonchain-The-latest-sale-brings-total-SOL-sold-to",
     "source": "@bscnews",
     "published": "Fri Aug 07 2026 08:07:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bonk Meme Coin Hits Nearly 3-Year Low After Upbit Announces September Delisting",
+    "link": "https://cryptopanic.com/news/33172739/Bonk-Meme-Coin-Hits-Nearly-3-Year-Low-After-Upbit-Announces-September-Delisting",
+    "source": "beincrypto.com",
+    "published": "Fri Aug 07 2026 08:07:17 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -140,15 +161,15 @@
     "sentiment": "neutral"
   },
   {
-    "title": "DeFi Brief:\n\n> BlackRock partners with Securitize on BRSRV, the BlackRock Daily Reinvestment Stablecoin Reserve Vehicle, deepening its on-chain cash management push.\n> Uniswap launches Pools, a launchpad built for Robinhood chain with zero launchpad fees, autocompounding",
-    "link": "https://cryptopanic.com/news/33172576/DeFi-Brief-gt-BlackRock-partners-with-Securitize-on-BRSRV-the-BlackRock-Daily-Reinvestment-Stablecoin-Reserve-Vehicle-deepening-its-on-chain-cash-management-push-gt-Uniswap-launches-Pools-a-launchpad-built-for-Robinhood-chain-with-zero-launchpad-fees-autocompounding",
+    "title": "Major Project Updates:\n> Ethereum researchers release EIP-8361, cutting issuance to zero once over 50% of ETH supply is staked.\n> BitGo migrates WBTC from LayerZero to Chainlink, citing security as its top priority.\n> Cloudflare introduces Cloudflare Wallets for making and",
+    "link": "https://cryptopanic.com/news/33172577/Major-Project-Updates-gt-Ethereum-researchers-release-EIP-8361-cutting-issuance-to-zero-once-over-50-of-ETH-supply-is-staked-gt-BitGo-migrates-WBTC-from-LayerZero-to-Chainlink-citing-security-as-its-top-priority-gt-Cloudflare-introduces-Cloudflare-Wallets-for-making-and",
     "source": "@coinmarketcap",
     "published": "Fri Aug 07 2026 07:48:24 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Major Project Updates:\n> Ethereum researchers release EIP-8361, cutting issuance to zero once over 50% of ETH supply is staked.\n> BitGo migrates WBTC from LayerZero to Chainlink, citing security as its top priority.\n> Cloudflare introduces Cloudflare Wallets for making and",
-    "link": "https://cryptopanic.com/news/33172577/Major-Project-Updates-gt-Ethereum-researchers-release-EIP-8361-cutting-issuance-to-zero-once-over-50-of-ETH-supply-is-staked-gt-BitGo-migrates-WBTC-from-LayerZero-to-Chainlink-citing-security-as-its-top-priority-gt-Cloudflare-introduces-Cloudflare-Wallets-for-making-and",
+    "title": "DeFi Brief:\n\n> BlackRock partners with Securitize on BRSRV, the BlackRock Daily Reinvestment Stablecoin Reserve Vehicle, deepening its on-chain cash management push.\n> Uniswap launches Pools, a launchpad built for Robinhood chain with zero launchpad fees, autocompounding",
+    "link": "https://cryptopanic.com/news/33172576/DeFi-Brief-gt-BlackRock-partners-with-Securitize-on-BRSRV-the-BlackRock-Daily-Reinvestment-Stablecoin-Reserve-Vehicle-deepening-its-on-chain-cash-management-push-gt-Uniswap-launches-Pools-a-launchpad-built-for-Robinhood-chain-with-zero-launchpad-fees-autocompounding",
     "source": "@coinmarketcap",
     "published": "Fri Aug 07 2026 07:48:24 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
@@ -186,27 +207,6 @@
     "link": "https://cryptopanic.com/news/33172332/Bitcoin-Miners-Are-Selling-Again-Heres-How-Much-BTC-Was-Reportedly-Offloaded",
     "source": "cryptopotato.com",
     "published": "Fri Aug 07 2026 07:43:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Anthony Scaramucci Predicts Invisible Crypto Adoption",
-    "link": "https://cryptopanic.com/news/33172386/Anthony-Scaramucci-Predicts-Invisible-Crypto-Adoption",
-    "source": "u.today",
-    "published": "Fri Aug 07 2026 07:41:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Pump.fun Let Staff Go Just Before Their Tokens Were Due to Pay Out",
-    "link": "https://cryptopanic.com/news/33172283/Pumpfun-Let-Staff-Go-Just-Before-Their-Tokens-Were-Due-to-Pay-Out",
-    "source": "coincu.com",
-    "published": "Fri Aug 07 2026 07:39:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Wintermute targets Citadel with broker-dealer license",
-    "link": "https://cryptopanic.com/news/33172285/Wintermute-targets-Citadel-with-broker-dealer-license",
-    "source": "cryptovalleyjournal.com",
-    "published": "Fri Aug 07 2026 07:38:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
