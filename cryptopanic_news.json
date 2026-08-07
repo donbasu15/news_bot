@@ -1,5 +1,103 @@
 [
   {
+    "title": "Ethereum Foundation To Hire An A.I. Security Researcher",
+    "link": "https://cryptopanic.com/news/33169053/Ethereum-Foundation-To-Hire-An-AI-Security-Researcher",
+    "source": "cryptoprowl.com",
+    "published": "Thu Aug 06 2026 19:27:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum researchers propose burning validator rewards to cap staking at 50%",
+    "link": "https://cryptopanic.com/news/33154573/Ethereum-researchers-propose-burning-validator-rewards-to-cap-staking-at-50",
+    "source": "theblock.co",
+    "published": "Tue Aug 04 2026 19:49:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Just Had Its Best Month in a Year: Can ETH Keep Rallying in August?",
+    "link": "https://cryptopanic.com/news/33140592/Ethereum-Just-Had-Its-Best-Month-in-a-Year-Can-ETH-Keep-Rallying-in-August",
+    "source": "cryptopotato.com",
+    "published": "Sun Aug 02 2026 11:27:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum’s 43-day staking queue isn’t a clean demand signal, Sygnum says",
+    "link": "https://cryptopanic.com/news/33133325/Ethereums-43-day-staking-queue-isnt-a-clean-demand-signal-Sygnum-says",
+    "source": "theblock.co",
+    "published": "Fri Jul 31 2026 14:35:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "‪Ethereum’s Relationship With AI: A Foundational for Economic Layer",
+    "link": "https://cryptopanic.com/news/33119456/Ethereums-Relationship-With-AI-A-Foundational-for-Economic-Layer",
+    "source": "zycrypto.com",
+    "published": "Wed Jul 29 2026 13:50:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum L2 ecosystem loses momentum as TVL drops to two-year low",
+    "link": "https://cryptopanic.com/news/33114393/Ethereum-L2-ecosystem-loses-momentum-as-TVL-drops-to-two-year-low",
+    "source": "theblock.co",
+    "published": "Tue Jul 28 2026 18:21:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Price Prediction: Accumulation Phase Could Set Up a Major Breakout",
+    "link": "https://cryptopanic.com/news/33100853/Ethereum-Price-Prediction-Accumulation-Phase-Could-Set-Up-a-Major-Breakout",
+    "source": "coinpaper.com",
+    "published": "Sun Jul 26 2026 17:41:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Vitalik: pseudonymity is dead, even as Signal moves past phone numbers\n\nVitalik Buterin (@VitalikButerin) welcomed signs that Signal (@signalapp) is building support for accounts without phone numbers, evidence visible in the app's public server code and echoed by its CTO,",
+    "link": "https://cryptopanic.com/news/33176516/Vitalik-pseudonymity-is-dead-even-as-Signal-moves-past-phone-numbers-Vitalik-Buterin-VitalikButerin-welcomed-signs-that-Signal-signalapp-is-building-support-for-accounts-without-phone-numbers-evidence-visible-in-the-apps-public-server-code-and-echoed-by-its-CTO",
+    "source": "@bscnews",
+    "published": "Fri Aug 07 2026 20:40:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Economy Paradox! Why Americans Are Miserable, Stocks Soar!",
+    "link": "https://cryptopanic.com/news/33176485/Economy-Paradox-Why-Americans-Are-Miserable-Stocks-Soar",
+    "source": "SimplyBitcoin",
+    "published": "Fri Aug 07 2026 20:30:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Treasury Sanctions Crypto Exchanges It Says Laundered Millions for Iran",
+    "link": "https://cryptopanic.com/news/33176451/Treasury-Sanctions-Crypto-Exchanges-It-Says-Laundered-Millions-for-Iran",
+    "source": "decrypt.co",
+    "published": "Fri Aug 07 2026 20:28:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trump Media Pulls Back From Crypto, Scraps CRO Treasury Venture and Scales Down Prediction Market Plans\n\nTrump Media and Technology Group is scaling back its crypto ambitions, terminating a planned CRO-focused digital asset treasury venture with CryptoCom and Yorkville",
+    "link": "https://cryptopanic.com/news/33176457/Trump-Media-Pulls-Back-From-Crypto-Scraps-CRO-Treasury-Venture-and-Scales-Down-Prediction-Market-Plans-Trump-Media-and-Technology-Group-is-scaling-back-its-crypto-ambitions-terminating-a-planned-CRO-focused-digital-asset-treasury-venture-with-CryptoCom-and-Yorkville",
+    "source": "@wublockchain",
+    "published": "Fri Aug 07 2026 20:27:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BTCPay Server patches critical bug under active exploitation\n\nBTCPay Server (@BtcpayServer) is warning of a critical vulnerability being actively exploited that can result in the loss of funds, urging all operators to update to version 2.4.2 immediately and, if they can't, to",
+    "link": "https://cryptopanic.com/news/33176515/BTCPay-Server-patches-critical-bug-under-active-exploitation-BTCPay-Server-BtcpayServer-is-warning-of-a-critical-vulnerability-being-actively-exploited-that-can-result-in-the-loss-of-funds-urging-all-operators-to-update-to-version-242-immediately-and-if-they-cant-to",
+    "source": "@bscnews",
+    "published": "Fri Aug 07 2026 20:25:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Vitalik Buterin backs Signal’s move to drop the phone-number requirement",
+    "link": "https://cryptopanic.com/news/33176473/Vitalik-Buterin-backs-Signals-move-to-drop-the-phone-number-requirement",
+    "source": "cryptopolitan.com",
+    "published": "Fri Aug 07 2026 20:20:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Scott Bessent reveals fresh proof U.S. pressure on Iran is working",
+    "link": "https://cryptopanic.com/news/33176487/Scott-Bessent-reveals-fresh-proof-US-pressure-on-Iran-is-working",
+    "source": "thestreet.com",
+    "published": "Fri Aug 07 2026 20:16:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: 🇺🇸 Trump Media terminates planned crypto deals with Crypto․com",
     "link": "https://cryptopanic.com/news/33176409/JUST-IN-Trump-Media-terminates-planned-crypto-deals-with-Cryptocom",
     "source": "@watcherguru",
@@ -7,10 +105,52 @@
     "sentiment": "neutral"
   },
   {
+    "title": "LATEST:  BTCPay warns a critical vulnerability in its open-source Bitcoin payment processor is \"being actively exploited\" and could drain funds from unpatched servers.",
+    "link": "https://cryptopanic.com/news/33176456/LATEST-BTCPay-warns-a-critical-vulnerability-in-its-open-source-Bitcoin-payment-processor-is-being-actively-exploited-and-could-drain-funds-from-unpatched-servers",
+    "source": "@coinmarketcap",
+    "published": "Fri Aug 07 2026 20:11:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "El Salvador's bitcoin stack keeps ticking up as the IMF looks on\n\nEl Salvador government wallets tracked by Arkham added 6 $BTC over the past week, keeping the roughly $468M stack growing near the advertised pace of one bitcoin a day. The official Bitcoin Office tracker puts",
+    "link": "https://cryptopanic.com/news/33176514/El-Salvadors-bitcoin-stack-keeps-ticking-up-as-the-IMF-looks-on-El-Salvador-government-wallets-tracked-by-Arkham-added-6-BTC-over-the-past-week-keeping-the-roughly-468M-stack-growing-near-the-advertised-pace-of-one-bitcoin-a-day-The-official-Bitcoin-Office-tracker-puts",
+    "source": "@bscnews",
+    "published": "Fri Aug 07 2026 20:11:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Refer a wallet once, earn on it forever. Up to 20% of real estate trading fees, $50K mint bounties, monthly $USDC to your wallet on BNB Chain. No email, no approval queue.\n\nTokenized US commercial real estate that actually pays your network. New mints August 18. Who are you",
+    "link": "https://cryptopanic.com/news/33176513/Refer-a-wallet-once-earn-on-it-forever-Up-to-20-of-real-estate-trading-fees-50K-mint-bounties-monthly-USDC-to-your-wallet-on-BNB-Chain-No-email-no-approval-queue-Tokenized-US-commercial-real-estate-that-actually-pays-your-network-New-mints-August-18-Who-are-you",
+    "source": "@bscnews",
+    "published": "Fri Aug 07 2026 20:04:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$BTC Now has its Bull Market Support band and Weekly 200EMA line up perfectly at the $69K area.\n\nIf price were to test that, it will be a big test and any closes into the 70Ks and the market is so back.\n\nBelow, bitcoin has been hanging onto its Weekly 200MA with marginally higher",
+    "link": "https://cryptopanic.com/news/33176511/BTC-Now-has-its-Bull-Market-Support-band-and-Weekly-200EMA-line-up-perfectly-at-the-69K-area-If-price-were-to-test-that-it-will-be-a-big-test-and-any-closes-into-the-70Ks-and-the-market-is-so-back-Below-bitcoin-has-been-hanging-onto-its-Weekly-200MA-with-marginally-higher",
+    "source": "@daancrypto",
+    "published": "Fri Aug 07 2026 20:01:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Not great news for $XRP ETFs…\n\nIt's reported spot $XRP ETFs have now logged their 4th consecutive week of net outflows!\n\nSentiment is weak, but if you believe what @Ripple are building and where digital assets are heading over the next 5–10 years, periods like this can end up",
+    "link": "https://cryptopanic.com/news/33176512/Not-great-news-for-XRP-ETFs-Its-reported-spot-XRP-ETFs-have-now-logged-their-4th-consecutive-week-of-net-outflows-Sentiment-is-weak-but-if-you-believe-what-Ripple-are-building-and-where-digital-assets-are-heading-over-the-next-510-years-periods-like-this-can-end-up",
+    "source": "@realallincrypto",
+    "published": "Fri Aug 07 2026 20:00:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin Payment Service BTCPay Warns Critical Flaw Is Under Active Attack",
     "link": "https://cryptopanic.com/news/33176381/Bitcoin-Payment-Service-BTCPay-Warns-Critical-Flaw-Is-Under-Active-Attack",
     "source": "decrypt.co",
     "published": "Fri Aug 07 2026 20:00:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "️ LATEST: Circle has launched native $USDC and Cross-Chain Transfer Protocol (CCTP) on OKX’s X Layer, enabling crosschain transfers and expanding USDC across the Ethereum-compatible network.",
+    "link": "https://cryptopanic.com/news/33176458/LATEST-Circle-has-launched-native-USDC-and-Cross-Chain-Transfer-Protocol-CCTP-on-OKXs-X-Layer-enabling-crosschain-transfers-and-expanding-USDC-across-the-Ethereum-compatible-network",
+    "source": "@cointelegraph",
+    "published": "Fri Aug 07 2026 19:59:58 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -42,6 +182,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Thune Still Plans Clarity Act Cloture: What a Weekend Surprise Could Mean for Bitcoin",
+    "link": "https://cryptopanic.com/news/33176479/Thune-Still-Plans-Clarity-Act-Cloture-What-a-Weekend-Surprise-Could-Mean-for-Bitcoin",
+    "source": "beincrypto.com",
+    "published": "Fri Aug 07 2026 19:46:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Crypto Fear & Greed Index Is Muted With Bitcoin Rangebound",
     "link": "https://cryptopanic.com/news/33176316/Crypto-Fear-Greed-Index-Is-Muted-With-Bitcoin-Rangebound",
     "source": "cryptoprowl.com",
@@ -60,153 +207,6 @@
     "link": "https://cryptopanic.com/news/33176333/Bitcoin-Misses-Another-Stock-Market-RallyHeres-Why-Thats-No-Big-Deal",
     "source": "feeds2.benzinga.com",
     "published": "Fri Aug 07 2026 19:42:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin has 185 blocks left before BIP-110 rules begin rejecting blocks",
-    "link": "https://cryptopanic.com/news/33176282/Bitcoin-has-185-blocks-left-before-BIP-110-rules-begin-rejecting-blocks",
-    "source": "cryptoslate.com",
-    "published": "Fri Aug 07 2026 19:40:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Thune still plans CLARITY Act cloture filing before recess, per report\n\nSenate Majority Leader John Thune's office is telling crypto industry leaders he still intends to file cloture on the motion to proceed to the CLARITY Act before lawmakers leave for August recess, journalist",
-    "link": "https://cryptopanic.com/news/33176336/Thune-still-plans-CLARITY-Act-cloture-filing-before-recess-per-report-Senate-Majority-Leader-John-Thunes-office-is-telling-crypto-industry-leaders-he-still-intends-to-file-cloture-on-the-motion-to-proceed-to-the-CLARITY-Act-before-lawmakers-leave-for-August-recess-journalist",
-    "source": "@bscnews",
-    "published": "Fri Aug 07 2026 19:40:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Judge rejects Coinbase bid to block enforcement in key U.S. state",
-    "link": "https://cryptopanic.com/news/33176341/Judge-rejects-Coinbase-bid-to-block-enforcement-in-key-US-state",
-    "source": "thestreet.com",
-    "published": "Fri Aug 07 2026 19:39:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SharpLink CEO warns EIP-8363 could kill ETH’s biggest advantage over Bitcoin",
-    "link": "https://cryptopanic.com/news/33176260/SharpLink-CEO-warns-EIP-8363-could-kill-ETHs-biggest-advantage-over-Bitcoin",
-    "source": "theblock.co",
-    "published": "Fri Aug 07 2026 19:37:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: 🇺🇸 Senator Cynthia Lummis says she is \"frustrated\" by the CLARITY Act delay but vows to keep pushing forward.\n\n\"We've come too far to quit now. ... This fight is far from over.\"",
-    "link": "https://cryptopanic.com/news/33176303/UPDATE-Senator-Cynthia-Lummis-says-she-is-frustrated-by-the-CLARITY-Act-delay-but-vows-to-keep-pushing-forward-Weve-come-too-far-to-quit-now-This-fight-is-far-from-over",
-    "source": "@coinmarketcap",
-    "published": "Fri Aug 07 2026 19:35:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HBAR Faces a Higher Hurdle as Treasury Yields Climb",
-    "link": "https://cryptopanic.com/news/33176250/HBAR-Faces-a-Higher-Hurdle-as-Treasury-Yields-Climb",
-    "source": "dailycoin.com",
-    "published": "Fri Aug 07 2026 19:34:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Circle Launches Native USDC and CCTP on OKX’s X Layer",
-    "link": "https://cryptopanic.com/news/33176384/Circle-Launches-Native-USDC-and-CCTP-on-OKXs-X-Layer",
-    "source": "cryptodnes.bg",
-    "published": "Fri Aug 07 2026 19:32:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇰🇵 LATEST: Bybit has sued North Korea and the Lazarus Group over the $1.5 billion hack and has secured a preliminary court order freezing stolen assets.",
-    "link": "https://cryptopanic.com/news/33176307/LATEST-Bybit-has-sued-North-Korea-and-the-Lazarus-Group-over-the-15-billion-hack-and-has-secured-a-preliminary-court-order-freezing-stolen-assets",
-    "source": "@cointelegraph",
-    "published": "Fri Aug 07 2026 19:31:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cloudflare stock hits record high on Q2 beat and raised forecast",
-    "link": "https://cryptopanic.com/news/33176249/Cloudflare-stock-hits-record-high-on-Q2-beat-and-raised-forecast",
-    "source": "cryptopolitan.com",
-    "published": "Fri Aug 07 2026 19:30:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoi, Ethereum, Dogecoin Hold Unchanged on Friday but XRP Dips 2%",
-    "link": "https://cryptopanic.com/news/33176281/Bitcoi-Ethereum-Dogecoin-Hold-Unchanged-on-Friday-but-XRP-Dips-2",
-    "source": "feeds2.benzinga.com",
-    "published": "Fri Aug 07 2026 19:27:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "One American Stock Benefits as Smartphones, MRI, and AI Servers Want the Same Chip",
-    "link": "https://cryptopanic.com/news/33176326/One-American-Stock-Benefits-as-Smartphones-MRI-and-AI-Servers-Want-the-Same-Chip",
-    "source": "beincrypto.com",
-    "published": "Fri Aug 07 2026 19:26:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Elon Musk is Building the World's First 100M Square Foot Building (Terafab)",
-    "link": "https://cryptopanic.com/news/33176257/Elon-Musk-is-Building-the-Worlds-First-100M-Square-Foot-Building-Terafab",
-    "source": "AnthonyPompliano",
-    "published": "Fri Aug 07 2026 19:24:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CFTC warns prediction markets off sportsbook-style moneyline odds\n\nThe @CFTC has sent letters telling its regulated prediction markets not to display American-style moneyline odds, warning against \"deceptive\" practices in listing, advertising, and soliciting, per Bloomberg, which",
-    "link": "https://cryptopanic.com/news/33176335/CFTC-warns-prediction-markets-off-sportsbook-style-moneyline-odds-The-CFTC-has-sent-letters-telling-its-regulated-prediction-markets-not-to-display-American-style-moneyline-odds-warning-against-deceptive-practices-in-listing-advertising-and-soliciting-per-Bloomberg-which",
-    "source": "@bscnews",
-    "published": "Fri Aug 07 2026 19:24:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nvidia-backed company nearly doubles valuation in new funding round",
-    "link": "https://cryptopanic.com/news/33176280/Nvidia-backed-company-nearly-doubles-valuation-in-new-funding-round",
-    "source": "thestreet.com",
-    "published": "Fri Aug 07 2026 19:20:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 Court strips key legal protections in Voyager bankruptcy\n\n• Limits shields for people distributing assets \n\n• Professionals face higher lawsuit risk \n\n• Could slow payouts and raise costs\n\n• Affects ongoing bankruptcy cases",
-    "link": "https://cryptopanic.com/news/33176237/JUST-IN-Court-strips-key-legal-protections-in-Voyager-bankruptcy-Limits-shields-for-people-distributing-assets-Professionals-face-higher-lawsuit-risk-Could-slow-payouts-and-raise-costs-Affects-ongoing-bankruptcy-cases",
-    "source": "@btc_archive",
-    "published": "Fri Aug 07 2026 19:18:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Flock Wanted to Turn 350,000 Uber Drivers Into a Nationwide Plate-Scanning Fleet",
-    "link": "https://cryptopanic.com/news/33176227/Flock-Wanted-to-Turn-350000-Uber-Drivers-Into-a-Nationwide-Plate-Scanning-Fleet",
-    "source": "decrypt.co",
-    "published": "Fri Aug 07 2026 19:18:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nvidia Stock Forecast: NVDA Targets Record-High After New $2 Billion AI Deal",
-    "link": "https://cryptopanic.com/news/33176325/Nvidia-Stock-Forecast-NVDA-Targets-Record-High-After-New-2-Billion-AI-Deal",
-    "source": "beincrypto.com",
-    "published": "Fri Aug 07 2026 19:09:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Moonshot's Kimi K3 escapes UK safety sandbox during testing\n\nChinese AI lab @Kimi_Moonshot's Kimi K3 broke out of a testing sandbox built by the UK's AI Security Institute during a cybersecurity evaluation, per US research firm Frontier Security. The model found a network",
-    "link": "https://cryptopanic.com/news/33176195/Moonshots-Kimi-K3-escapes-UK-safety-sandbox-during-testing-Chinese-AI-lab-Kimi_Moonshots-Kimi-K3-broke-out-of-a-testing-sandbox-built-by-the-UKs-AI-Security-Institute-during-a-cybersecurity-evaluation-per-US-research-firm-Frontier-Security-The-model-found-a-network",
-    "source": "@bscnews",
-    "published": "Fri Aug 07 2026 19:09:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SpaceX Stock Surges 12% as Lockup Overhang Finally Lifts: How High Could It Go in August?",
-    "link": "https://cryptopanic.com/news/33176324/SpaceX-Stock-Surges-12-as-Lockup-Overhang-Finally-Lifts-How-High-Could-It-Go-in-August",
-    "source": "beincrypto.com",
-    "published": "Fri Aug 07 2026 19:08:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: #Cardano $ADA Founder Charles Hoskinson says \"the 4th generation is the consumer generation. This is the generation that will make cryptocurrencies worth $10T and bring billions of everyday people in, because we can start protecting them, and we have many more tools.\"",
-    "link": "https://cryptopanic.com/news/33176304/UPDATE-Cardano-ADA-Founder-Charles-Hoskinson-says-the-4th-generation-is-the-consumer-generation-This-is-the-generation-that-will-make-cryptocurrencies-worth-10T-and-bring-billions-of-everyday-people-in-because-we-can-start-protecting-them-and-we-have-many-more-tools",
-    "source": "@angrycryptoshow",
-    "published": "Fri Aug 07 2026 19:07:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 Senator Angela Alsobrooks on the Clarity Act vote getting delayed:\n\n\"We’ve worked for over a year on a bipartisan basis...We will continue our work — getting the Clarity Act right remains our goal.\"",
-    "link": "https://cryptopanic.com/news/33176236/JUST-IN-Senator-Angela-Alsobrooks-on-the-Clarity-Act-vote-getting-delayed-Weve-worked-for-over-a-year-on-a-bipartisan-basisWe-will-continue-our-work-getting-the-Clarity-Act-right-remains-our-goal",
-    "source": "@bitcoinmagazine",
-    "published": "Fri Aug 07 2026 19:02:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
