@@ -1,9 +1,37 @@
 [
   {
+    "title": "BlackRock has seen 4 consecutive trading days of $BTC net inflows, totaling 9,269 $BTC ($604M).",
+    "link": "https://cryptopanic.com/news/33174944/BlackRock-has-seen-4-consecutive-trading-days-of-BTC-net-inflows-totaling-9269-BTC-604M",
+    "source": "@lookonchain",
+    "published": "Fri Aug 07 2026 14:47:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇨🇦 $800B Canadian bank CBIC hiring Digital Assets Director\n\n• 5th largest bank in Canada \n\n• \"Custody, trading, tokenization, payments\"\n\n• Base pay U$130k\n\nOne by one, there’s no turning back!",
+    "link": "https://cryptopanic.com/news/33174978/JUST-IN-800B-Canadian-bank-CBIC-hiring-Digital-Assets-Director-5th-largest-bank-in-Canada-Custody-trading-tokenization-payments-Base-pay-U130k-One-by-one-theres-no-turning-back",
+    "source": "@btc_archive",
+    "published": "Fri Aug 07 2026 14:47:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 President Donald Trump says Bitcoin \"is a good thing for our country.\"\n\nBitcoin \"takes a lot of pressure off our dollar.\"",
+    "link": "https://cryptopanic.com/news/33174972/JUST-IN-President-Donald-Trump-says-Bitcoin-is-a-good-thing-for-our-country-Bitcoin-takes-a-lot-of-pressure-off-our-dollar",
+    "source": "@bitcoinmagazine",
+    "published": "Fri Aug 07 2026 14:42:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Pumpfun takes social trading to the next level\n\n@Pumpfun has integrated a dedicated social trading infrastructure within its application.\n\nThis introduces token \"callout\" features that broadcast immediate market alerts to a user’s entire follower base. \n\nThe architecture utilizes",
     "link": "https://cryptopanic.com/news/33174939/Pumpfun-takes-social-trading-to-the-next-level-Pumpfun-has-integrated-a-dedicated-social-trading-infrastructure-within-its-application-This-introduces-token-callout-features-that-broadcast-immediate-market-alerts-to-a-users-entire-follower-base-The-architecture-utilizes",
     "source": "@bscnews",
     "published": "Fri Aug 07 2026 14:40:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 President Trump says Bitcoin takes a lot of \"pressure\" off the US dollar.",
+    "link": "https://cryptopanic.com/news/33174976/JUST-IN-President-Trump-says-Bitcoin-takes-a-lot-of-pressure-off-the-US-dollar",
+    "source": "@watcherguru",
+    "published": "Fri Aug 07 2026 14:38:32 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -28,6 +56,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "JUST IN: Hyperliquid Bitcoin whale being chased \n\n• Reduced short from 1,400 BTC to 900 BTC \n\n• Still holds $59M short exposure \n\n• Liquidation price sits at $65,360",
+    "link": "https://cryptopanic.com/news/33174977/JUST-IN-Hyperliquid-Bitcoin-whale-being-chased-Reduced-short-from-1400-BTC-to-900-BTC-Still-holds-59M-short-exposure-Liquidation-price-sits-at-65360",
+    "source": "@btc_archive",
+    "published": "Fri Aug 07 2026 14:33:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "INSIGHT: Ethereum’s proposed EIP-8363 staking overhaul has prompted fierce backlash, with critics warning it's bad for decentralization, adoption and the credibility of the network.\n\nRead the full story",
     "link": "https://cryptopanic.com/news/33174822/INSIGHT-Ethereums-proposed-EIP-8363-staking-overhaul-has-prompted-fierce-backlash-with-critics-warning-its-bad-for-decentralization-adoption-and-the-credibility-of-the-network-Read-the-full-story",
     "source": "@cointelegraph",
@@ -46,6 +81,13 @@
     "link": "https://cryptopanic.com/news/33174819/INSIGHT-We-dont-want-to-see-China-take-over-crypto-I-dont-want-to-see-China-win-with-AI-Crypto-is-a-big-deal-People-are-paying-with-Bitcoin-that-takes-pressure-off-our-dollar-thats-a-good-thing-for-our-country-says-President-Trump",
     "source": "@coindesk",
     "published": "Fri Aug 07 2026 14:30:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "A part of FTX survived, and it’s the case for the CLARITY Act",
+    "link": "https://cryptopanic.com/news/33174980/A-part-of-FTX-survived-and-its-the-case-for-the-CLARITY-Act",
+    "source": "coindesk.com",
+    "published": "Fri Aug 07 2026 14:30:25 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -95,6 +137,13 @@
     "link": "https://cryptopanic.com/news/33174938/Elon-Musks-SPCX-has-surged-8-in-the-past-24-hours",
     "source": "@bscnews",
     "published": "Fri Aug 07 2026 14:23:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Elon Musk's SpaceX $SPCX surges over 8% back to $125",
+    "link": "https://cryptopanic.com/news/33174975/JUST-IN-Elon-Musks-SpaceX-SPCX-surges-over-8-back-to-125",
+    "source": "@watcherguru",
+    "published": "Fri Aug 07 2026 14:21:45 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -158,55 +207,6 @@
     "link": "https://cryptopanic.com/news/33174778/Another-basket-ETF-for-HBAR-Cryptex-Digital-Market-Cap-ETF-as-of-July-2026-has-a-266-allocation-of-HBAR",
     "source": "r/hedera",
     "published": "Fri Aug 07 2026 14:00:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AI Is Coming for White-Collar Workers",
-    "link": "https://cryptopanic.com/news/33174660/AI-Is-Coming-for-White-Collar-Workers",
-    "source": "whatbitcoindid",
-    "published": "Fri Aug 07 2026 14:00:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto Markets Pumping, Robinhood Chain with Johann Kerbrat, LIT vs. HYPE, StonkFun soars.",
-    "link": "https://cryptopanic.com/news/33174940/Crypto-Markets-Pumping-Robinhood-Chain-with-Johann-Kerbrat-LIT-vs-HYPE-StonkFun-soars",
-    "source": "@decryptmedia",
-    "published": "Fri Aug 07 2026 14:00:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: $BTC hits $65k as U.S. unemployment falls to 4.1%, and employers cut 23k jobs versus HUGE forecasts for 80k+!\n\nBitcoin is reclaiming some ground as it hits $65k moments after unemployment hits 4.1% vs 4.2% expected and job cuts predictions are off by over 50k jobs!",
-    "link": "https://cryptopanic.com/news/33174927/BREAKING-BTC-hits-65k-as-US-unemployment-falls-to-41-and-employers-cut-23k-jobs-versus-HUGE-forecasts-for-80k-Bitcoin-is-reclaiming-some-ground-as-it-hits-65k-moments-after-unemployment-hits-41-vs-42-expected-and-job-cuts-predictions-are-off-by-over-50k-jobs",
-    "source": "@realallincrypto",
-    "published": "Fri Aug 07 2026 14:00:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "On the Trade Secrets, @nansen_ai CEO Alex Svanevik @ASvanevik says Bitcoin at $1M could quickly become the new normal once it happens.\n\n“It sounds crazy to say Bitcoin at $1M from our vantage point, but I'm sure it sounded crazy to say $100,000 in 2018.” \n\nHow far can Bitcoin go",
-    "link": "https://cryptopanic.com/news/33174820/On-the-Trade-Secrets-nansen_ai-CEO-Alex-Svanevik-ASvanevik-says-Bitcoin-at-1M-could-quickly-become-the-new-normal-once-it-happens-It-sounds-crazy-to-say-Bitcoin-at-1M-from-our-vantage-point-but-Im-sure-it-sounded-crazy-to-say-100000-in-2018-How-far-can-Bitcoin-go",
-    "source": "@cointelegraph",
-    "published": "Fri Aug 07 2026 13:59:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HOT TOPIC: Whales quietly stacked 20K bitcoin:native \n\n$1.2B absorbed in 10 days while retail sold and volatility flatlined. Sellers look exhausted. Price hasn't moved. Yet. Pump loading?",
-    "link": "https://cryptopanic.com/news/33174810/HOT-TOPIC-Whales-quietly-stacked-20K-bitcoinnative-12B-absorbed-in-10-days-while-retail-sold-and-volatility-flatlined-Sellers-look-exhausted-Price-hasnt-moved-Yet-Pump-loading",
-    "source": "@coinmarketcap",
-    "published": "Fri Aug 07 2026 13:58:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$Shib Deployer Launches $Woof Token on Robinhood Chain",
-    "link": "https://cryptopanic.com/news/33174724/Shib-Deployer-Launches-Woof-Token-on-Robinhood-Chain",
-    "source": "cryptoprowl.com",
-    "published": "Fri Aug 07 2026 13:58:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "New stocks now available to trade on @Ondo. \n\nAmazon, Strategy, Coinbase, Oracle, ProShares UltraPro QQQ live on @Solana, @Ethereum, and @BNBChain.",
-    "link": "https://cryptopanic.com/news/33174605/New-stocks-now-available-to-trade-on-Ondo-Amazon-Strategy-Coinbase-Oracle-ProShares-UltraPro-QQQ-live-on-Solana-Ethereum-and-BNBChain",
-    "source": "@bscnews",
-    "published": "Fri Aug 07 2026 13:56:24 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
