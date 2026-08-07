@@ -1,5 +1,47 @@
 [
   {
+    "title": "Sui to add post-quantum signature schemes for quantum-safe accounts",
+    "link": "https://cryptopanic.com/news/33170580/Sui-to-add-post-quantum-signature-schemes-for-quantum-safe-accounts",
+    "source": "theblock.co",
+    "published": "Fri Aug 07 2026 02:09:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin's Growing Up Inflection Point!",
+    "link": "https://cryptopanic.com/news/33170599/Bitcoins-Growing-Up-Inflection-Point",
+    "source": "SimplyBitcoin",
+    "published": "Fri Aug 07 2026 02:00:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Audiera crashes 28% as key support disappears – Will BEAT freefall to $1?",
+    "link": "https://cryptopanic.com/news/33170578/Audiera-crashes-28-as-key-support-disappears-Will-BEAT-freefall-to-1",
+    "source": "ambcrypto.com",
+    "published": "Fri Aug 07 2026 02:00:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "DCG’s Fortitude Expands Zcash Mining With Nebraska Acquisition",
+    "link": "https://cryptopanic.com/news/33170560/DCGs-Fortitude-Expands-Zcash-Mining-With-Nebraska-Acquisition",
+    "source": "catenaa.com",
+    "published": "Fri Aug 07 2026 02:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 US Senate postpones Clarity Act vote to September for when they return from August recess, Politico reports.",
+    "link": "https://cryptopanic.com/news/33170604/JUST-IN-US-Senate-postpones-Clarity-Act-vote-to-September-for-when-they-return-from-August-recess-Politico-reports",
+    "source": "@bitcoinmagazine",
+    "published": "Fri Aug 07 2026 01:53:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 Senate delays Crypto Clarity Act vote until after summer recess.",
+    "link": "https://cryptopanic.com/news/33170605/JUST-IN-Senate-delays-Crypto-Clarity-Act-vote-until-after-summer-recess",
+    "source": "@watcherguru",
+    "published": "Fri Aug 07 2026 01:51:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "One of the world’s biggest banks Citi is buying $BTC!\n\nCiti, with roughly $2.8 trillion in assets, disclosed buying a large chunk of $BTC as Wall Street’s largest institutions are putting Bitcoin on their books.",
     "link": "https://cryptopanic.com/news/33170556/One-of-the-worlds-biggest-banks-Citi-is-buying-BTC-Citi-with-roughly-28-trillion-in-assets-disclosed-buying-a-large-chunk-of-BTC-as-Wall-Streets-largest-institutions-are-putting-Bitcoin-on-their-books",
     "source": "@realallincrypto",
@@ -165,48 +207,6 @@
     "link": "https://cryptopanic.com/news/33170248/Daily-Cardano-News-10T-Will-Enter-Crypto-ADA-Leads-Weekly-Gains",
     "source": "@angrycryptoshow",
     "published": "Fri Aug 07 2026 00:04:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 NOW: Coinbase CEO Brian Armstrong says no one gets everything in legislation, but everyone gets most of what they need, urging a vote on the Clarity Act.",
-    "link": "https://cryptopanic.com/news/33170250/NOW-Coinbase-CEO-Brian-Armstrong-says-no-one-gets-everything-in-legislation-but-everyone-gets-most-of-what-they-need-urging-a-vote-on-the-Clarity-Act",
-    "source": "@cointelegraph",
-    "published": "Fri Aug 07 2026 00:01:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Dogecoin (DOGE) Is Literally at Zero, XRP Bears Almost Give Up, Bitcoin (BTC) Back in Bull Mode: Crypto Market Review",
-    "link": "https://cryptopanic.com/news/33170254/Dogecoin-DOGE-Is-Literally-at-Zero-XRP-Bears-Almost-Give-Up-Bitcoin-BTC-Back-in-Bull-Mode-Crypto-Market-Review",
-    "source": "u.today",
-    "published": "Fri Aug 07 2026 00:01:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Hacks EXPLAINED! Mt. Gox vs ColdCard",
-    "link": "https://cryptopanic.com/news/33170242/Bitcoin-Hacks-EXPLAINED-Mt-Gox-vs-ColdCard",
-    "source": "SimplyBitcoin",
-    "published": "Fri Aug 07 2026 00:00:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "For those interacting with contracts regularly, are you freezing TRX or Just eating the burn fee.",
-    "link": "https://cryptopanic.com/news/33170346/For-those-interacting-with-contracts-regularly-are-you-freezing-TRX-or-Just-eating-the-burn-fee",
-    "source": "r/tronix",
-    "published": "Thu Aug 06 2026 23:51:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: Late Ondo Finance founder Nathan Allman's mother sues to seize control of the company and oust Ian De Bode as CEO.",
-    "link": "https://cryptopanic.com/news/33170249/LATEST-Late-Ondo-Finance-founder-Nathan-Allmans-mother-sues-to-seize-control-of-the-company-and-oust-Ian-De-Bode-as-CEO",
-    "source": "@cointelegraph",
-    "published": "Thu Aug 06 2026 23:45:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tom Lee Sees S&P 500 at 8,000, Names Ethereum the Next Rally Leader",
-    "link": "https://cryptopanic.com/news/33170292/Tom-Lee-Sees-SP-500-at-8000-Names-Ethereum-the-Next-Rally-Leader",
-    "source": "beincrypto.com",
-    "published": "Thu Aug 06 2026 23:43:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
