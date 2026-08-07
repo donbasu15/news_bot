@@ -1,5 +1,89 @@
 [
   {
+    "title": "Coldcard Bug Triggers Bitcoin Wallet Activity Spike Without Major Exchange Inflows \n\nAccording to Santiment, Bitcoin active addresses surged to 978,570 on July 31, about 1.6 times July’s average, and averaged roughly 720,000 from August 1–6 versus about 610,000 in July.",
+    "link": "https://cryptopanic.com/news/33175067/Coldcard-Bug-Triggers-Bitcoin-Wallet-Activity-Spike-Without-Major-Exchange-Inflows-According-to-Santiment-Bitcoin-active-addresses-surged-to-978570-on-July-31-about-16-times-Julys-average-and-averaged-roughly-720000-from-August-16-versus-about-610000-in-July",
+    "source": "@wublockchain",
+    "published": "Fri Aug 07 2026 15:13:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: 🇨🇳 China opens its first robot school to train humanoids for the workforce.",
+    "link": "https://cryptopanic.com/news/33175069/NEW-China-opens-its-first-robot-school-to-train-humanoids-for-the-workforce",
+    "source": "@cryptonwsuk",
+    "published": "Fri Aug 07 2026 15:13:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Barely Budges as Weak US Jobs Data Cuts Fed Hike Odds to 44%",
+    "link": "https://cryptopanic.com/news/33175116/Bitcoin-Barely-Budges-as-Weak-US-Jobs-Data-Cuts-Fed-Hike-Odds-to-44",
+    "source": "cryptopotato.com",
+    "published": "Fri Aug 07 2026 15:10:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "How a five-second trick let traders drain millions from Polymarket",
+    "link": "https://cryptopanic.com/news/33175123/How-a-five-second-trick-let-traders-drain-millions-from-Polymarket",
+    "source": "coindesk.com",
+    "published": "Fri Aug 07 2026 15:09:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Is DePIN ready for Wall Street? [ft. XYO co-founder] #CHAINREACTION",
+    "link": "https://cryptopanic.com/news/33175072/Is-DePIN-ready-for-Wall-Street-ft-XYO-co-founder-CHAINREACTION",
+    "source": "@cointelegraph",
+    "published": "Fri Aug 07 2026 15:06:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRPL’s Cleanup Upgrade Puts Institutional Math In Focus",
+    "link": "https://cryptopanic.com/news/33175014/XRPLs-Cleanup-Upgrade-Puts-Institutional-Math-In-Focus",
+    "source": "dailycoin.com",
+    "published": "Fri Aug 07 2026 15:02:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INSIGHT: Ethereum holds 52.2% of tokenized RWA market cap, with 31 other chains sharing the rest, per Token Terminal.",
+    "link": "https://cryptopanic.com/news/33175070/INSIGHT-Ethereum-holds-522-of-tokenized-RWA-market-cap-with-31-other-chains-sharing-the-rest-per-Token-Terminal",
+    "source": "@cointelegraph",
+    "published": "Fri Aug 07 2026 15:01:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Wintermute Wins US Broker-Dealer License for Stocks and Crypto ETFs",
+    "link": "https://cryptopanic.com/news/33174986/Wintermute-Wins-US-Broker-Dealer-License-for-Stocks-and-Crypto-ETFs",
+    "source": "coinpaprika.com",
+    "published": "Fri Aug 07 2026 15:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Prints 2,809% Liquidation Imbalance as Bulls Get Caught Off Guard",
+    "link": "https://cryptopanic.com/news/33175080/XRP-Prints-2809-Liquidation-Imbalance-as-Bulls-Get-Caught-Off-Guard",
+    "source": "u.today",
+    "published": "Fri Aug 07 2026 14:59:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trump makes bold claim on U.S. dollar",
+    "link": "https://cryptopanic.com/news/33175129/Trump-makes-bold-claim-on-US-dollar",
+    "source": "thestreet.com",
+    "published": "Fri Aug 07 2026 14:57:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Price Today: August 7, 2026",
+    "link": "https://cryptopanic.com/news/33175061/XRP-Price-Today-August-7-2026",
+    "source": "thestreet.com",
+    "published": "Fri Aug 07 2026 14:55:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Gold is pushing higher today and is now +7.7% for the week to begin testing the first major resistance level since this breakout began.",
+    "link": "https://cryptopanic.com/news/33174979/Gold-is-pushing-higher-today-and-is-now-77-for-the-week-to-begin-testing-the-first-major-resistance-level-since-this-breakout-began",
+    "source": "@stackersatoshi",
+    "published": "Fri Aug 07 2026 14:54:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "BlackRock has seen 4 consecutive trading days of $BTC net inflows, totaling 9,269 $BTC ($604M).",
     "link": "https://cryptopanic.com/news/33174944/BlackRock-has-seen-4-consecutive-trading-days-of-BTC-net-inflows-totaling-9269-BTC-604M",
     "source": "@lookonchain",
@@ -11,6 +95,13 @@
     "link": "https://cryptopanic.com/news/33174978/JUST-IN-800B-Canadian-bank-CBIC-hiring-Digital-Assets-Director-5th-largest-bank-in-Canada-Custody-trading-tokenization-payments-Base-pay-U130k-One-by-one-theres-no-turning-back",
     "source": "@btc_archive",
     "published": "Fri Aug 07 2026 14:47:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: ️ Vitalik Buterin says pseudonymity is \"a dead concept\" in 2026, arguing AI has made it too easy to piece together identity from things like message timing, frequency, and IP addresses.",
+    "link": "https://cryptopanic.com/news/33175066/LATEST-Vitalik-Buterin-says-pseudonymity-is-a-dead-concept-in-2026-arguing-AI-has-made-it-too-easy-to-piece-together-identity-from-things-like-message-timing-frequency-and-IP-addresses",
+    "source": "@coinmarketcap",
+    "published": "Fri Aug 07 2026 14:43:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -39,6 +130,13 @@
     "link": "https://cryptopanic.com/news/33174955/Russia-Arrests-More-Than-20-in-Crypto-Laundering-Crackdown",
     "source": "cryptoprowl.com",
     "published": "Fri Aug 07 2026 14:38:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "July Jobs Report Sends Fed Expectations Into Chaos, Can Crypto Capitalize?",
+    "link": "https://cryptopanic.com/news/33175042/July-Jobs-Report-Sends-Fed-Expectations-Into-Chaos-Can-Crypto-Capitalize",
+    "source": "beincrypto.com",
+    "published": "Fri Aug 07 2026 14:36:01 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -109,104 +207,6 @@
     "link": "https://cryptopanic.com/news/33174806/Japans-FSA-presses-crypto-exchanges-on-scams-and-cyber-reporting",
     "source": "cryptopolitan.com",
     "published": "Fri Aug 07 2026 14:27:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Integrate raw market data with our RWA API endpoint",
-    "link": "https://cryptopanic.com/news/33174813/Integrate-raw-market-data-with-our-RWA-API-endpoint",
-    "source": "@coinmarketcap",
-    "published": "Fri Aug 07 2026 14:25:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CoinMarketCap | SpaceX\n\n$SPCX completed its first major post-IPO share unlock yesterday.\n\nThe market absorbed 911 million new shares with strong buying demand \n\nHere's the breakdown after the supply event:\n\n Tokenized stock price closed up over 6% on unlock day\n Traded",
-    "link": "https://cryptopanic.com/news/33174812/CoinMarketCap-SpaceX-SPCX-completed-its-first-major-post-IPO-share-unlock-yesterday-The-market-absorbed-911-million-new-shares-with-strong-buying-demand-Heres-the-breakdown-after-the-supply-event-Tokenized-stock-price-closed-up-over-6-on-unlock-day-Traded",
-    "source": "@coinmarketcap",
-    "published": "Fri Aug 07 2026 14:25:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Taps $65K Despite CLARITY Act Setback and Lack of US-Iran Deal: Weekly Crypto Recap",
-    "link": "https://cryptopanic.com/news/33174800/Bitcoin-Taps-65K-Despite-CLARITY-Act-Setback-and-Lack-of-US-Iran-Deal-Weekly-Crypto-Recap",
-    "source": "cryptopotato.com",
-    "published": "Fri Aug 07 2026 14:23:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Elon Musk's $SPCX has surged 8% in the past 24 hours.",
-    "link": "https://cryptopanic.com/news/33174938/Elon-Musks-SPCX-has-surged-8-in-the-past-24-hours",
-    "source": "@bscnews",
-    "published": "Fri Aug 07 2026 14:23:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Elon Musk's SpaceX $SPCX surges over 8% back to $125",
-    "link": "https://cryptopanic.com/news/33174975/JUST-IN-Elon-Musks-SpaceX-SPCX-surges-over-8-back-to-125",
-    "source": "@watcherguru",
-    "published": "Fri Aug 07 2026 14:21:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Grayscale Ethereum Staking Mini ETF Could Stake Nearly All of Its ETH  \n\nGrayscale filed an amended trust agreement for its Ethereum Staking Mini ETF that would allow the fund to stake substantially all of its ETH once specified tax conditions are met. Staking rewards would be",
-    "link": "https://cryptopanic.com/news/33174817/Grayscale-Ethereum-Staking-Mini-ETF-Could-Stake-Nearly-All-of-Its-ETH-Grayscale-filed-an-amended-trust-agreement-for-its-Ethereum-Staking-Mini-ETF-that-would-allow-the-fund-to-stake-substantially-all-of-its-ETH-once-specified-tax-conditions-are-met-Staking-rewards-would-be",
-    "source": "@wublockchain",
-    "published": "Fri Aug 07 2026 14:17:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33174816/Source",
-    "source": "@wublockchain",
-    "published": "Fri Aug 07 2026 14:16:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "World Liberty is giving out free WLFI on Binance...\n\n@Binance extends its multi-chain airdrop campaign for @worldlibertyfi, offering a 170M $WLFI token prize pool to incentivize $USD1 holders. \n\nThe exchange is implementing weekly distributions for users maintaining net balances",
-    "link": "https://cryptopanic.com/news/33174931/World-Liberty-is-giving-out-free-WLFI-on-Binance-Binance-extends-its-multi-chain-airdrop-campaign-for-worldlibertyfi-offering-a-170M-WLFI-token-prize-pool-to-incentivize-USD1-holders-The-exchange-is-implementing-weekly-distributions-for-users-maintaining-net-balances",
-    "source": "@bscnews",
-    "published": "Fri Aug 07 2026 14:16:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Russia Raids Nine Crypto Exchanges as New Rules Loom",
-    "link": "https://cryptopanic.com/news/33174732/Russia-Raids-Nine-Crypto-Exchanges-as-New-Rules-Loom",
-    "source": "coindoo.com",
-    "published": "Fri Aug 07 2026 14:13:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "If you use a Cypher or Osmosis card, your spending dies tonight and unbacked wallets could go with it",
-    "link": "https://cryptopanic.com/news/33174718/If-you-use-a-Cypher-or-Osmosis-card-your-spending-dies-tonight-and-unbacked-wallets-could-go-with-it",
-    "source": "cryptoslate.com",
-    "published": "Fri Aug 07 2026 14:10:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇺🇸 Former New York Governor Andrew Cuomo says \"we need clarity,\" adding he believes the CLARITY Act's ethics issues will be resolved and the bill will pass.",
-    "link": "https://cryptopanic.com/news/33174811/LATEST-Former-New-York-Governor-Andrew-Cuomo-says-we-need-clarity-adding-he-believes-the-CLARITY-Acts-ethics-issues-will-be-resolved-and-the-bill-will-pass",
-    "source": "@coinmarketcap",
-    "published": "Fri Aug 07 2026 14:05:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Russia cracks down on unlicensed crypto exchanges it claims are linked to Ukraine",
-    "link": "https://cryptopanic.com/news/33174794/Russia-cracks-down-on-unlicensed-crypto-exchanges-it-claims-are-linked-to-Ukraine",
-    "source": "coindesk.com",
-    "published": "Fri Aug 07 2026 14:04:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin tops $65,000 after ‘massive surprise’ US jobs miss",
-    "link": "https://cryptopanic.com/news/33174656/Bitcoin-tops-65000-after-massive-surprise-US-jobs-miss",
-    "source": "theblock.co",
-    "published": "Fri Aug 07 2026 14:02:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Another basket ETF for HBAR - Cryptex Digital Market Cap ETF, as of July 2026, has a 2.66% allocation of HBAR",
-    "link": "https://cryptopanic.com/news/33174778/Another-basket-ETF-for-HBAR-Cryptex-Digital-Market-Cap-ETF-as-of-July-2026-has-a-266-allocation-of-HBAR",
-    "source": "r/hedera",
-    "published": "Fri Aug 07 2026 14:00:50 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
