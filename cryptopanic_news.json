@@ -1,5 +1,26 @@
 [
   {
+    "title": "Tokenized Funds Hit $9B as Traditional Finance Moves On-Chain",
+    "link": "https://cryptopanic.com/news/33178546/Tokenized-Funds-Hit-9B-as-Traditional-Finance-Moves-On-Chain",
+    "source": "dailycoin.com",
+    "published": "Sat Aug 08 2026 11:12:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Aztec exploiter moves 500 ETH to Tornado Cash amid record hack year",
+    "link": "https://cryptopanic.com/news/33178527/Aztec-exploiter-moves-500-ETH-to-Tornado-Cash-amid-record-hack-year",
+    "source": "cryptopolitan.com",
+    "published": "Sat Aug 08 2026 11:00:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tokenised Assets Triple to $7.4B as the Rest of DeFi Contracts",
+    "link": "https://cryptopanic.com/news/33178516/Tokenised-Assets-Triple-to-74B-as-the-Rest-of-DeFi-Contracts",
+    "source": "coinpaprika.com",
+    "published": "Sat Aug 08 2026 11:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Sol SyncUp Hosts Infrastructure Summit Singapore to Standardize DePIN Architecture",
     "link": "https://cryptopanic.com/news/33178485/Sol-SyncUp-Hosts-Infrastructure-Summit-Singapore-to-Standardize-DePIN-Architecture",
     "source": "theholycoins.com",
@@ -11,6 +32,13 @@
     "link": "https://cryptopanic.com/news/33178461/Bitcoin-Could-Split-This-Weekend-and-the-Real-Risk-Is-Not-the-Soft-Fork",
     "source": "dailycoinpost.com",
     "published": "Sat Aug 08 2026 10:41:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Payment Tool BTCPay Urges Update After Attackers Steal Funds",
+    "link": "https://cryptopanic.com/news/33178545/Bitcoin-Payment-Tool-BTCPay-Urges-Update-After-Attackers-Steal-Funds",
+    "source": "beincrypto.com",
+    "published": "Sat Aug 08 2026 10:40:16 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33178268/Hedera-just-highlighted-its-partnership-with-Taurus-amp-it-shows-EXACTLY-how-institutional-adoption-happens-Taurus-gives-banks-and-asset-managers-regulated-custody-for-HBAR-hedera-assets-effectively-building-a-compliant-bridge-from-TradFi-straight-into-Hedera",
     "source": "@realallincrypto",
     "published": "Sat Aug 08 2026 09:00:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Which trenches are heating up right now?",
-    "link": "https://cryptopanic.com/news/33178227/Which-trenches-are-heating-up-right-now",
-    "source": "@coinmarketcap",
-    "published": "Sat Aug 08 2026 09:00:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum’s Value Gap Widens Despite Record Network Growth",
-    "link": "https://cryptopanic.com/news/33178184/Ethereums-Value-Gap-Widens-Despite-Record-Network-Growth",
-    "source": "catenaa.com",
-    "published": "Sat Aug 08 2026 09:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Putin takes rare step as Russia claims new Ukraine's financial targets",
-    "link": "https://cryptopanic.com/news/33178258/Putin-takes-rare-step-as-Russia-claims-new-Ukraines-financial-targets",
-    "source": "thestreet.com",
-    "published": "Sat Aug 08 2026 09:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "US Treasury Sanctions Two Iranian Crypto Exchanges Over IRGC Money Laundering",
-    "link": "https://cryptopanic.com/news/33178317/US-Treasury-Sanctions-Two-Iranian-Crypto-Exchanges-Over-IRGC-Money-Laundering",
-    "source": "beincrypto.com",
-    "published": "Sat Aug 08 2026 08:52:02 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
