@@ -1,5 +1,19 @@
 [
   {
+    "title": "NEW: Circle renewed its Coinbase USDC deal while choosing growth investment over quarterly dividends.",
+    "link": "https://cryptopanic.com/news/33180014/NEW-Circle-renewed-its-Coinbase-USDC-deal-while-choosing-growth-investment-over-quarterly-dividends",
+    "source": "@cointelegraph",
+    "published": "Sat Aug 08 2026 23:31:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Not enough people actually understand what @Cardano's Hydra L2 actually is...\n\n- Put simply, Hydra is an L2 scaling network built directly on top of $ADA.\n\n- It works by opening offchain 'mini ledgers' called 'Hydra Heads'.\n\n- Txns occur within these Heads off the main chain",
+    "link": "https://cryptopanic.com/news/33180024/Not-enough-people-actually-understand-what-Cardanos-Hydra-L2-actually-is-Put-simply-Hydra-is-an-L2-scaling-network-built-directly-on-top-of-ADA-It-works-by-opening-offchain-mini-ledgers-called-Hydra-Heads-Txns-occur-within-these-Heads-off-the-main-chain",
+    "source": "@bscnews",
+    "published": "Sat Aug 08 2026 23:05:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Is a price nuke ahead for Bitcoin’s price after rising OI meets soft spot demand?",
     "link": "https://cryptopanic.com/news/33179992/Is-a-price-nuke-ahead-for-Bitcoins-price-after-rising-OI-meets-soft-spot-demand",
     "source": "ambcrypto.com",
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33179773/Not-enough-people-are-talking-about-PYTHs-dominance-in-the-RWA-perps-sector-According-to-PythNetwork-itself-the-platforms-data-feeds-now-price-a-staggering-952-of-tracked-RWA-perp-volume-Of-a-total-708-billion-in-July-volume-Pyths-data-was-behind-a-full-674-billion",
     "source": "@bscnews",
     "published": "Sat Aug 08 2026 19:29:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitmart founder Sheldon Xia denies running off, vows orderly wind-down",
-    "link": "https://cryptopanic.com/news/33179724/Bitmart-founder-Sheldon-Xia-denies-running-off-vows-orderly-wind-down",
-    "source": "cryptopolitan.com",
-    "published": "Sat Aug 08 2026 19:10:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SharpLink CEO Warns Against New Ethereum Network Proposal EIP-8363",
-    "link": "https://cryptopanic.com/news/33179736/SharpLink-CEO-Warns-Against-New-Ethereum-Network-Proposal-EIP-8363",
-    "source": "beincrypto.com",
-    "published": "Sat Aug 08 2026 19:04:30 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
