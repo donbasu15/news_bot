@@ -1,5 +1,89 @@
 [
   {
+    "title": "Ethereum Foundation To Hire An A.I. Security Researcher",
+    "link": "https://cryptopanic.com/news/33169053/Ethereum-Foundation-To-Hire-An-AI-Security-Researcher",
+    "source": "cryptoprowl.com",
+    "published": "Thu Aug 06 2026 19:27:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum researchers propose burning validator rewards to cap staking at 50%",
+    "link": "https://cryptopanic.com/news/33154573/Ethereum-researchers-propose-burning-validator-rewards-to-cap-staking-at-50",
+    "source": "theblock.co",
+    "published": "Tue Aug 04 2026 19:49:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Just Had Its Best Month in a Year: Can ETH Keep Rallying in August?",
+    "link": "https://cryptopanic.com/news/33140592/Ethereum-Just-Had-Its-Best-Month-in-a-Year-Can-ETH-Keep-Rallying-in-August",
+    "source": "cryptopotato.com",
+    "published": "Sun Aug 02 2026 11:27:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum’s 43-day staking queue isn’t a clean demand signal, Sygnum says",
+    "link": "https://cryptopanic.com/news/33133325/Ethereums-43-day-staking-queue-isnt-a-clean-demand-signal-Sygnum-says",
+    "source": "theblock.co",
+    "published": "Fri Jul 31 2026 14:35:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "‪Ethereum’s Relationship With AI: A Foundational for Economic Layer",
+    "link": "https://cryptopanic.com/news/33119456/Ethereums-Relationship-With-AI-A-Foundational-for-Economic-Layer",
+    "source": "zycrypto.com",
+    "published": "Wed Jul 29 2026 13:50:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum L2 ecosystem loses momentum as TVL drops to two-year low",
+    "link": "https://cryptopanic.com/news/33114393/Ethereum-L2-ecosystem-loses-momentum-as-TVL-drops-to-two-year-low",
+    "source": "theblock.co",
+    "published": "Tue Jul 28 2026 18:21:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Price Prediction: Accumulation Phase Could Set Up a Major Breakout",
+    "link": "https://cryptopanic.com/news/33100853/Ethereum-Price-Prediction-Accumulation-Phase-Could-Set-Up-a-Major-Breakout",
+    "source": "coinpaper.com",
+    "published": "Sun Jul 26 2026 17:41:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The Unthinkable Has Happened To Bitcoin & Solana This Could Be Time For XRP & Ethereum To Shine",
+    "link": "https://cryptopanic.com/news/33178312/The-Unthinkable-Has-Happened-To-Bitcoin-Solana-This-Could-Be-Time-For-XRP-Ethereum-To-Shine",
+    "source": "TheModernInvestor",
+    "published": "Sat Aug 08 2026 09:32:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "After a 67% loss, Situational Awareness backs chipmaking bottleneck",
+    "link": "https://cryptopanic.com/news/33178280/After-a-67-loss-Situational-Awareness-backs-chipmaking-bottleneck",
+    "source": "cryptopolitan.com",
+    "published": "Sat Aug 08 2026 09:24:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Jim Cramer Names 5 Investing Themes and 13 Stocks to Buy for 2026",
+    "link": "https://cryptopanic.com/news/33178318/Jim-Cramer-Names-5-Investing-Themes-and-13-Stocks-to-Buy-for-2026",
+    "source": "beincrypto.com",
+    "published": "Sat Aug 08 2026 09:19:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Pfizer Preparing To Send $44,000,000 to Settle Allegations That Prescription Drug Contained Carcinogen",
+    "link": "https://cryptopanic.com/news/33178266/Pfizer-Preparing-To-Send-44000000-to-Settle-Allegations-That-Prescription-Drug-Contained-Carcinogen",
+    "source": "dailyhodl.com",
+    "published": "Sat Aug 08 2026 09:15:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hedera just highlighted its partnership with Taurus & it shows EXACTLY how institutional adoption happens.\n\nTaurus gives banks and asset managers regulated custody for $HBAR + @hedera assets, effectively building a compliant bridge from TradFi straight into Hedera.",
+    "link": "https://cryptopanic.com/news/33178268/Hedera-just-highlighted-its-partnership-with-Taurus-amp-it-shows-EXACTLY-how-institutional-adoption-happens-Taurus-gives-banks-and-asset-managers-regulated-custody-for-HBAR-hedera-assets-effectively-building-a-compliant-bridge-from-TradFi-straight-into-Hedera",
+    "source": "@realallincrypto",
+    "published": "Sat Aug 08 2026 09:00:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Which trenches are heating up right now?",
     "link": "https://cryptopanic.com/news/33178227/Which-trenches-are-heating-up-right-now",
     "source": "@coinmarketcap",
@@ -18,6 +102,13 @@
     "link": "https://cryptopanic.com/news/33178184/Ethereums-Value-Gap-Widens-Despite-Record-Network-Growth",
     "source": "catenaa.com",
     "published": "Sat Aug 08 2026 09:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "US Treasury Sanctions Two Iranian Crypto Exchanges Over IRGC Money Laundering",
+    "link": "https://cryptopanic.com/news/33178317/US-Treasury-Sanctions-Two-Iranian-Crypto-Exchanges-Over-IRGC-Money-Laundering",
+    "source": "beincrypto.com",
+    "published": "Sat Aug 08 2026 08:52:02 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -116,97 +207,6 @@
     "link": "https://cryptopanic.com/news/33178016/Sweepstakes-Scam-Ring-Steals-9000000-From-Elderly-Americans-in-Decade-Long-Operation",
     "source": "dailyhodl.com",
     "published": "Sat Aug 08 2026 07:04:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Experience in this space isn't just about knowing more. It's also about having felt enough pain that certain mistakes stop being tempting.\n\nSometimes that takes many mistakes, sometimes a few is enough. But everyone here has been burned on some kind of asset, trade or strategy",
-    "link": "https://cryptopanic.com/news/33178014/Experience-in-this-space-isnt-just-about-knowing-more-Its-also-about-having-felt-enough-pain-that-certain-mistakes-stop-being-tempting-Sometimes-that-takes-many-mistakes-sometimes-a-few-is-enough-But-everyone-here-has-been-burned-on-some-kind-of-asset-trade-or-strategy",
-    "source": "@daancrypto",
-    "published": "Sat Aug 08 2026 07:02:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Governments are quietly building a global stablecoin firewall",
-    "link": "https://cryptopanic.com/news/33177951/Governments-are-quietly-building-a-global-stablecoin-firewall",
-    "source": "cryptopolitan.com",
-    "published": "Sat Aug 08 2026 06:43:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: ️ Backpack has added GTA 6 publisher Take-Two Interactive to its tokenized stock lineup on Solana via Sunrise, ahead of the game's November release.",
-    "link": "https://cryptopanic.com/news/33177972/LATEST-Backpack-has-added-GTA-6-publisher-Take-Two-Interactive-to-its-tokenized-stock-lineup-on-Solana-via-Sunrise-ahead-of-the-games-November-release",
-    "source": "@coinmarketcap",
-    "published": "Sat Aug 08 2026 06:39:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BIG: The Bitcoin ETFs have been green every day this week.",
-    "link": "https://cryptopanic.com/news/33177973/BIG-The-Bitcoin-ETFs-have-been-green-every-day-this-week",
-    "source": "@cointelegraph",
-    "published": "Sat Aug 08 2026 06:30:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BoJ Holds Rates as Japan Policy Shift Raises Bitcoin Macro Risks",
-    "link": "https://cryptopanic.com/news/33177936/BoJ-Holds-Rates-as-Japan-Policy-Shift-Raises-Bitcoin-Macro-Risks",
-    "source": "catenaa.com",
-    "published": "Sat Aug 08 2026 06:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Pi Network Listing: Will Binance and Coinbase List PI Token?",
-    "link": "https://cryptopanic.com/news/33178112/Pi-Network-Listing-Will-Binance-and-Coinbase-List-PI-Token",
-    "source": "coinpedia.org",
-    "published": "Sat Aug 08 2026 06:27:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Sei Network poised to capture $80 trillion US equities market.\n\n@Chainlink $LINK's US equities data streams are now live on @SeiNetwork.\n\nThe integration should turbocharge the development of US equity-focused DeFi products on $SEI, providing trusted data streams on a 24/7 basis.",
-    "link": "https://cryptopanic.com/news/33177940/Sei-Network-poised-to-capture-80-trillion-US-equities-market-Chainlink-LINKs-US-equities-data-streams-are-now-live-on-SeiNetwork-The-integration-should-turbocharge-the-development-of-US-equity-focused-DeFi-products-on-SEI-providing-trusted-data-streams-on-a-247-basis",
-    "source": "@bscnews",
-    "published": "Sat Aug 08 2026 06:24:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HYPE Price Loses Momentum Despite ETFs Finally Turn Green",
-    "link": "https://cryptopanic.com/news/33177913/HYPE-Price-Loses-Momentum-Despite-ETFs-Finally-Turn-Green",
-    "source": "coindoo.com",
-    "published": "Sat Aug 08 2026 06:09:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "‘No bundled risk’- Why Ether.Fi has removed all restaking exposure to weETH",
-    "link": "https://cryptopanic.com/news/33177900/No-bundled-risk-Why-EtherFi-has-removed-all-restaking-exposure-to-weETH",
-    "source": "ambcrypto.com",
-    "published": "Sat Aug 08 2026 06:00:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE:  Galaxy Research says the Coldcard hack exposes self-custody's blind spot: \"Not your keys, not your coins\" assumes the key is safe, but the wallet's bug introduced vulnerability at key creation.",
-    "link": "https://cryptopanic.com/news/33177919/UPDATE-Galaxy-Research-says-the-Coldcard-hack-exposes-self-custodys-blind-spot-Not-your-keys-not-your-coins-assumes-the-key-is-safe-but-the-wallets-bug-introduced-vulnerability-at-key-creation",
-    "source": "@coinmarketcap",
-    "published": "Sat Aug 08 2026 05:52:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CRO Plunges to 3-Year Low as Trump Media Cancels 2 Major Crypto.com Deals",
-    "link": "https://cryptopanic.com/news/33177870/CRO-Plunges-to-3-Year-Low-as-Trump-Media-Cancels-2-Major-Cryptocom-Deals",
-    "source": "cryptopotato.com",
-    "published": "Sat Aug 08 2026 05:33:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "PAIN: 2026 has now only wiped out $780B from the crypto market.\n\nUp $170B since July 1st.",
-    "link": "https://cryptopanic.com/news/33177860/PAIN-2026-has-now-only-wiped-out-780B-from-the-crypto-market-Up-170B-since-July-1st",
-    "source": "@cointelegraph",
-    "published": "Sat Aug 08 2026 05:30:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "South Korea's top CEX is delisting $BONK!\n\nSouth Korea's largest centralised exchange, @Official_Upbit, has announced it will terminate support for @Solana memecoin @bonk_inu on September 7, per Wu Blockchain.\n\nAccording to Wu...\n\n\"Upbit cited unresolved security incidents and",
-    "link": "https://cryptopanic.com/news/33177877/South-Koreas-top-CEX-is-delisting-BONK-South-Koreas-largest-centralised-exchange-Official_Upbit-has-announced-it-will-terminate-support-for-Solana-memecoin-bonk_inu-on-September-7-per-Wu-Blockchain-According-to-Wu-Upbit-cited-unresolved-security-incidents-and",
-    "source": "@bscnews",
-    "published": "Sat Aug 08 2026 05:15:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
