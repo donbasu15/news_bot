@@ -1,5 +1,19 @@
 [
   {
+    "title": "New XRP Ledger Amendments Target $530M in Tokenized Wall Street Assets",
+    "link": "https://cryptopanic.com/news/33177666/New-XRP-Ledger-Amendments-Target-530M-in-Tokenized-Wall-Street-Assets",
+    "source": "coincu.com",
+    "published": "Sat Aug 08 2026 03:41:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BTCPay emergency patch exposes merchant-side Bitcoin security risk",
+    "link": "https://cryptopanic.com/news/33177647/BTCPay-emergency-patch-exposes-merchant-side-Bitcoin-security-risk",
+    "source": "cryptopolitan.com",
+    "published": "Sat Aug 08 2026 03:19:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin: Bottom signals strengthen, but BTC sellers retain ONE edge",
     "link": "https://cryptopanic.com/news/33177574/Bitcoin-Bottom-signals-strengthen-but-BTC-sellers-retain-ONE-edge",
     "source": "ambcrypto.com",
@@ -14,6 +28,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Stellar's daily transactions are growing...\n\n@StellarOrg has seen some impressive onchain growth this week, its daily transaction count rising from around 9.3M txns on July 31 to around 14.3M on August 6.\n\nThis works out to weekly growth of 54% based on @chainspect_app data.\n\nThe",
+    "link": "https://cryptopanic.com/news/33177654/Stellars-daily-transactions-are-growing-StellarOrg-has-seen-some-impressive-onchain-growth-this-week-its-daily-transaction-count-rising-from-around-93M-txns-on-July-31-to-around-143M-on-August-6-This-works-out-to-weekly-growth-of-54-based-on-chainspect_app-data-The",
+    "source": "@bscnews",
+    "published": "Sat Aug 08 2026 02:57:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Whale 0x7C5a is finally giving up after holding $ETH for over 3 years, selling at a loss with total losses now exceeding $19M.\n\nThe whale bought $ETH at an average price of $2,723 in February 2022 and March 2023, then staked it.\n\n10 hours ago, the whale sold 7,323 $ETH ($13.96M).",
     "link": "https://cryptopanic.com/news/33177547/Whale-0x7C5a-is-finally-giving-up-after-holding-ETH-for-over-3-years-selling-at-a-loss-with-total-losses-now-exceeding-19M-The-whale-bought-ETH-at-an-average-price-of-2723-in-February-2022-and-March-2023-then-staked-it-10-hours-ago-the-whale-sold-7323-ETH-1396M",
     "source": "@lookonchain",
@@ -25,6 +46,13 @@
     "link": "https://cryptopanic.com/news/33177537/TODAY-US-Treasury-sanctioned-two-crypto-exchanges-accused-of-helping-Irans-IRGC-launder-billions-and-evade-sanctions",
     "source": "@cointelegraph",
     "published": "Sat Aug 08 2026 02:31:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer",
+    "link": "https://cryptopanic.com/news/33177661/Bitcoin-holders-risk-losing-real-BTC-if-they-sell-coins-from-BIP-110-fork-says-developer",
+    "source": "coindesk.com",
+    "published": "Sat Aug 08 2026 02:30:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33177487/X-Launches-Original-Content-Rewards-Plan-Ends-New-Ad-Revenue-Sharing-Sign-Ups",
     "source": "square.binance.com",
     "published": "Sat Aug 08 2026 00:53:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Polymarket Market Odds Jump for CBLOL Match Dragon Kill Outcome",
-    "link": "https://cryptopanic.com/news/33177486/Polymarket-Market-Odds-Jump-for-CBLOL-Match-Dragon-Kill-Outcome",
-    "source": "square.binance.com",
-    "published": "Sat Aug 08 2026 00:43:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: ️ OpenAI's first physical device will be a smart speaker with moving parts and a camera, priced at $300–$400 and with a 2027 release, per Bloomberg.",
-    "link": "https://cryptopanic.com/news/33177157/LATEST-OpenAIs-first-physical-device-will-be-a-smart-speaker-with-moving-parts-and-a-camera-priced-at-300400-and-with-a-2027-release-per-Bloomberg",
-    "source": "@coinmarketcap",
-    "published": "Sat Aug 08 2026 00:42:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "U.S. sanctions two more Iranian crypto exchanges amid enforcement push",
-    "link": "https://cryptopanic.com/news/33177140/US-sanctions-two-more-Iranian-crypto-exchanges-amid-enforcement-push",
-    "source": "coincu.com",
-    "published": "Sat Aug 08 2026 00:41:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "PEPE memecoin tokens are flowing out of exchanges!\n\nAccording to @SantimentData, some 4.54 trillion $PEPE tokens moved off of exchanges in just a single day.\n\nThis is @pepecoineth's biggest daily exchange outflows since as far back as 2024.\n\nAnalysts may suggest the move is",
-    "link": "https://cryptopanic.com/news/33177177/PEPE-memecoin-tokens-are-flowing-out-of-exchanges-According-to-SantimentData-some-454-trillion-PEPE-tokens-moved-off-of-exchanges-in-just-a-single-day-This-is-pepecoineths-biggest-daily-exchange-outflows-since-as-far-back-as-2024-Analysts-may-suggest-the-move-is",
-    "source": "@bscnews",
-    "published": "Sat Aug 08 2026 00:40:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
