@@ -1,5 +1,96 @@
 [
   {
+    "title": "Ethereum Foundation To Hire An A.I. Security Researcher",
+    "link": "https://cryptopanic.com/news/33169053/Ethereum-Foundation-To-Hire-An-AI-Security-Researcher",
+    "source": "cryptoprowl.com",
+    "published": "Thu Aug 06 2026 19:27:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum researchers propose burning validator rewards to cap staking at 50%",
+    "link": "https://cryptopanic.com/news/33154573/Ethereum-researchers-propose-burning-validator-rewards-to-cap-staking-at-50",
+    "source": "theblock.co",
+    "published": "Tue Aug 04 2026 19:49:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Just Had Its Best Month in a Year: Can ETH Keep Rallying in August?",
+    "link": "https://cryptopanic.com/news/33140592/Ethereum-Just-Had-Its-Best-Month-in-a-Year-Can-ETH-Keep-Rallying-in-August",
+    "source": "cryptopotato.com",
+    "published": "Sun Aug 02 2026 11:27:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum’s 43-day staking queue isn’t a clean demand signal, Sygnum says",
+    "link": "https://cryptopanic.com/news/33133325/Ethereums-43-day-staking-queue-isnt-a-clean-demand-signal-Sygnum-says",
+    "source": "theblock.co",
+    "published": "Fri Jul 31 2026 14:35:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "‪Ethereum’s Relationship With AI: A Foundational for Economic Layer",
+    "link": "https://cryptopanic.com/news/33119456/Ethereums-Relationship-With-AI-A-Foundational-for-Economic-Layer",
+    "source": "zycrypto.com",
+    "published": "Wed Jul 29 2026 13:50:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum L2 ecosystem loses momentum as TVL drops to two-year low",
+    "link": "https://cryptopanic.com/news/33114393/Ethereum-L2-ecosystem-loses-momentum-as-TVL-drops-to-two-year-low",
+    "source": "theblock.co",
+    "published": "Tue Jul 28 2026 18:21:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Price Prediction: Accumulation Phase Could Set Up a Major Breakout",
+    "link": "https://cryptopanic.com/news/33100853/Ethereum-Price-Prediction-Accumulation-Phase-Could-Set-Up-a-Major-Breakout",
+    "source": "coinpaper.com",
+    "published": "Sun Jul 26 2026 17:41:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇰🇵 North Korea to deploy up to 50,000 troops to Russia to fight against Ukraine.",
+    "link": "https://cryptopanic.com/news/33182051/JUST-IN-North-Korea-to-deploy-up-to-50000-troops-to-Russia-to-fight-against-Ukraine",
+    "source": "@cryptonwsuk",
+    "published": "Sun Aug 09 2026 15:38:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇮🇷 Iran says Strait of Hormuz \"will not\" return to previous state",
+    "link": "https://cryptopanic.com/news/33182050/JUST-IN-Iran-says-Strait-of-Hormuz-will-not-return-to-previous-state",
+    "source": "@cryptonwsuk",
+    "published": "Sun Aug 09 2026 15:37:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 🇮🇷 President Trump has been floating the idea privately to senior aides that he's willing to \"walk away\" from the Iran War without a nuclear deal should Iran fully reopen the Strait of Hormuz, per WSJ.\n\nDetails include:\n\n1. This objective reportedly became \"more",
+    "link": "https://cryptopanic.com/news/33182049/JUST-IN-President-Trump-has-been-floating-the-idea-privately-to-senior-aides-that-hes-willing-to-walk-away-from-the-Iran-War-without-a-nuclear-deal-should-Iran-fully-reopen-the-Strait-of-Hormuz-per-WSJ-Details-include-1-This-objective-reportedly-became-more",
+    "source": "@cryptonwsuk",
+    "published": "Sun Aug 09 2026 15:32:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 TODAY: US M2 Money Supply keeps printing new All Time Highs.\n\nCurrently sitting at over $23.2T.",
+    "link": "https://cryptopanic.com/news/33182052/TODAY-US-M2-Money-Supply-keeps-printing-new-All-Time-Highs-Currently-sitting-at-over-232T",
+    "source": "@cointelegraph",
+    "published": "Sun Aug 09 2026 15:31:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Israel rejects US President Donald Trump's peace plan for Gaza, per BBC",
+    "link": "https://cryptopanic.com/news/33182047/JUST-IN-Israel-rejects-US-President-Donald-Trumps-peace-plan-for-Gaza-per-BBC",
+    "source": "@cryptonwsuk",
+    "published": "Sun Aug 09 2026 15:30:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸🇮🇷 President Trump willing to end Iran war without a nuclear deal if Strait of Hormuz reopens, WSJ reports.",
+    "link": "https://cryptopanic.com/news/33182046/JUST-IN-President-Trump-willing-to-end-Iran-war-without-a-nuclear-deal-if-Strait-of-Hormuz-reopens-WSJ-reports",
+    "source": "@cryptonwsuk",
+    "published": "Sun Aug 09 2026 15:28:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "\"All day, every day until we get to AGI.\"\n\nEliza Labs founder @shawmakesmagic says the class action lawsuit changes nothing. ElizaOS is still open source, still one of the most advanced AI agent projects in the world, and he's still building it every day.",
     "link": "https://cryptopanic.com/news/33181944/All-day-every-day-until-we-get-to-AGI-Eliza-Labs-founder-shawmakesmagic-says-the-class-action-lawsuit-changes-nothing-ElizaOS-is-still-open-source-still-one-of-the-most-advanced-AI-agent-projects-in-the-world-and-hes-still-building-it-every-day",
     "source": "@coindesk",
@@ -116,97 +207,6 @@
     "link": "https://cryptopanic.com/news/33181755/XRP-Whales-Accumulate-380M-Tokens-as-Buy-Signal-Flashes",
     "source": "dailycoin.com",
     "published": "Sun Aug 09 2026 13:46:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Zcash Breakout Gains Pace With $550 Now in Sight",
-    "link": "https://cryptopanic.com/news/33181753/Zcash-Breakout-Gains-Pace-With-550-Now-in-Sight",
-    "source": "coindoo.com",
-    "published": "Sun Aug 09 2026 13:44:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Strategy Ready to Buy Bitcoin? Saylor Drops Fresh 'Doing Business' Teaser",
-    "link": "https://cryptopanic.com/news/33181766/Strategy-Ready-to-Buy-Bitcoin-Saylor-Drops-Fresh-Doing-Business-Teaser",
-    "source": "u.today",
-    "published": "Sun Aug 09 2026 13:38:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 JPMorgan CEO Jamie Dimon says the US could lose its status as the world's reserve currency within the next 25 years.",
-    "link": "https://cryptopanic.com/news/33181826/JUST-IN-JPMorgan-CEO-Jamie-Dimon-says-the-US-could-lose-its-status-as-the-worlds-reserve-currency-within-the-next-25-years",
-    "source": "@watcherguru",
-    "published": "Sun Aug 09 2026 13:33:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INSIGHT: Santiment says Bitcoin just saw 2.27M new wallets and 751K active wallets, as the Coldcard chaos drives users to move funds and rethink custody.",
-    "link": "https://cryptopanic.com/news/33181752/INSIGHT-Santiment-says-Bitcoin-just-saw-227M-new-wallets-and-751K-active-wallets-as-the-Coldcard-chaos-drives-users-to-move-funds-and-rethink-custody",
-    "source": "@cointelegraph",
-    "published": "Sun Aug 09 2026 13:31:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Over 100 Crypto Projects Shut Down in 2026 as Industry Shakeout Deepens",
-    "link": "https://cryptopanic.com/news/33181706/Over-100-Crypto-Projects-Shut-Down-in-2026-as-Industry-Shakeout-Deepens",
-    "source": "coincu.com",
-    "published": "Sun Aug 09 2026 13:25:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: Russians are rushing into cold storage before Putin's crypto law lands with hardware wallet sales up 107% ahead of the September 1 deadline | per CoinDesk",
-    "link": "https://cryptopanic.com/news/33181709/INTEL-Russians-are-rushing-into-cold-storage-before-Putins-crypto-law-lands-with-hardware-wallet-sales-up-107-ahead-of-the-September-1-deadline-per-CoinDesk",
-    "source": "@solidintel_x",
-    "published": "Sun Aug 09 2026 13:20:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Michael Saylor hints at buying more Bitcoin. \n\n\"Doing ₿usiness.\"",
-    "link": "https://cryptopanic.com/news/33181713/JUST-IN-Michael-Saylor-hints-at-buying-more-Bitcoin-Doing-usiness",
-    "source": "@watcherguru",
-    "published": "Sun Aug 09 2026 13:03:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Michael Saylor hints at another Bitcoin announcement tomorrow",
-    "link": "https://cryptopanic.com/news/33181710/JUST-IN-Michael-Saylor-hints-at-another-Bitcoin-announcement-tomorrow",
-    "source": "@bitcoinmagazine",
-    "published": "Sun Aug 09 2026 13:02:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "A major survey of 16 global banks found that every institution now has an ACTIVE tokenisation strategy.\n\nJust take that in for a second! EVERY SINGLE INSTITUTION!\n\n60% already have a defined roadmap, 10% have fully funded plans, and not a single bank said it had no strategy.",
-    "link": "https://cryptopanic.com/news/33181670/A-major-survey-of-16-global-banks-found-that-every-institution-now-has-an-ACTIVE-tokenisation-strategy-Just-take-that-in-for-a-second-EVERY-SINGLE-INSTITUTION-60-already-have-a-defined-roadmap-10-have-fully-funded-plans-and-not-a-single-bank-said-it-had-no-strategy",
-    "source": "@realallincrypto",
-    "published": "Sun Aug 09 2026 13:00:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Michael Saylor! You shouldn't have to be an investor to save your money!",
-    "link": "https://cryptopanic.com/news/33181648/Michael-Saylor-You-shouldnt-have-to-be-an-investor-to-save-your-money",
-    "source": "SimplyBitcoin",
-    "published": "Sun Aug 09 2026 13:00:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Which one are you choosing today?",
-    "link": "https://cryptopanic.com/news/33181751/Which-one-are-you-choosing-today",
-    "source": "@coinmarketcap",
-    "published": "Sun Aug 09 2026 13:00:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Already Meets Clarity Act Rules, Lawyer Says",
-    "link": "https://cryptopanic.com/news/33181680/XRP-Already-Meets-Clarity-Act-Rules-Lawyer-Says",
-    "source": "u.today",
-    "published": "Sun Aug 09 2026 13:00:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Is Everything Except Bitcoin Dead?",
-    "link": "https://cryptopanic.com/news/33181663/Is-Everything-Except-Bitcoin-Dead",
-    "source": "MilkRoadYoutube",
-    "published": "Sun Aug 09 2026 13:00:07 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
