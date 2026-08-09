@@ -1,5 +1,12 @@
 [
   {
+    "title": "Bitcoin ETFs Draw Nearly $1,000,000 in Weekly Inflows After Cold Storage Breach",
+    "link": "https://cryptopanic.com/news/33181475/Bitcoin-ETFs-Draw-Nearly-1000000-in-Weekly-Inflows-After-Cold-Storage-Breach",
+    "source": "dailyhodl.com",
+    "published": "Sun Aug 09 2026 11:45:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "STOCKS | U.S. Stocks Reprice Fed Hawkish Risk After Weak July Payrolls",
     "link": "https://cryptopanic.com/news/33181453/STOCKS-US-Stocks-Reprice-Fed-Hawkish-Risk-After-Weak-July-Payrolls",
     "source": "square.binance.com",
@@ -35,13 +42,6 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Billion-Dollar Rounds Flood Hard Tech",
-    "link": "https://cryptopanic.com/news/33181382/Billion-Dollar-Rounds-Flood-Hard-Tech",
-    "source": "catenaa.com",
-    "published": "Sun Aug 09 2026 11:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
     "title": "BitMEX Insurance Fund: Who Gets the $270M?",
     "link": "https://cryptopanic.com/news/33181383/BitMEX-Insurance-Fund-Who-Gets-the-270M",
     "source": "catenaa.com",
@@ -52,6 +52,13 @@
     "title": "XRP Ledger Loses 90% of Volume, But This Drop Is Not Critical",
     "link": "https://cryptopanic.com/news/33181462/XRP-Ledger-Loses-90-of-Volume-But-This-Drop-Is-Not-Critical",
     "source": "u.today",
+    "published": "Sun Aug 09 2026 11:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Billion-Dollar Rounds Flood Hard Tech",
+    "link": "https://cryptopanic.com/news/33181382/Billion-Dollar-Rounds-Flood-Hard-Tech",
+    "source": "catenaa.com",
     "published": "Sun Aug 09 2026 11:30:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -200,13 +207,6 @@
     "link": "https://cryptopanic.com/news/33181442/Grayscale-Says-Crypto-Can-Advance-Without-CLARITY-Act",
     "source": "square.binance.com",
     "published": "Sun Aug 09 2026 10:26:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "How InterLink proves you're a person without seeing your face\n\nThe scan happens on your phone and stays there. What reaches the chain is an encrypted hash, not an image, so there's no biometric database sitting somewhere waiting to leak.\n\n@inter_link passed 9 million verified",
-    "link": "https://cryptopanic.com/news/33181306/How-InterLink-proves-youre-a-person-without-seeing-your-face-The-scan-happens-on-your-phone-and-stays-there-What-reaches-the-chain-is-an-encrypted-hash-not-an-image-so-theres-no-biometric-database-sitting-somewhere-waiting-to-leak-inter_link-passed-9-million-verified",
-    "source": "@bscnews",
-    "published": "Sun Aug 09 2026 10:20:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
