@@ -1,9 +1,44 @@
 [
   {
+    "title": "HOT: Hyperliquid just hit 263,419 active perp traders.",
+    "link": "https://cryptopanic.com/news/33182626/HOT-Hyperliquid-just-hit-263419-active-perp-traders",
+    "source": "@cointelegraph",
+    "published": "Sun Aug 09 2026 20:31:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin's BIP-110! A Fork Threatening Your Crypto Future?!",
+    "link": "https://cryptopanic.com/news/33182638/Bitcoins-BIP-110-A-Fork-Threatening-Your-Crypto-Future",
+    "source": "SimplyBitcoin",
+    "published": "Sun Aug 09 2026 20:30:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XTB Commodity Expansion Targets Institutions",
+    "link": "https://cryptopanic.com/news/33182624/XTB-Commodity-Expansion-Targets-Institutions",
+    "source": "catenaa.com",
+    "published": "Sun Aug 09 2026 20:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LYN ALDEN: Bitcoin is valuable because anyone can fork it.\n\n\"The hard part is getting others to do it with you.\"\n\nNo referee. Just nodes and miners.",
     "link": "https://cryptopanic.com/news/33182612/LYN-ALDEN-Bitcoin-is-valuable-because-anyone-can-fork-it-The-hard-part-is-getting-others-to-do-it-with-you-No-referee-Just-nodes-and-miners",
     "source": "@btc_archive",
     "published": "Sun Aug 09 2026 20:09:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Ethereum, Solana and Avalanche are processing more transactions at lower costs, yet ETH, SOL and AVAX are down ~50% year-over-year. Why the disconnect?\n\nCoinMarketCap breaks down why network growth no longer guarantees token demand, and which metrics matter most.",
+    "link": "https://cryptopanic.com/news/33182625/LATEST-Ethereum-Solana-and-Avalanche-are-processing-more-transactions-at-lower-costs-yet-ETH-SOL-and-AVAX-are-down-50-year-over-year-Why-the-disconnect-CoinMarketCap-breaks-down-why-network-growth-no-longer-guarantees-token-demand-and-which-metrics-matter-most",
+    "source": "@coinmarketcap",
+    "published": "Sun Aug 09 2026 20:05:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$BTC Update on the narratives that have caused worry in the markets over the past 2 years.\n\nThe current conflict has been going on for almost half a year more or less. Price has remained pretty much flat compared to the start of it.\n\nOne thing really comes to mind and that is how",
+    "link": "https://cryptopanic.com/news/33182649/BTC-Update-on-the-narratives-that-have-caused-worry-in-the-markets-over-the-past-2-years-The-current-conflict-has-been-going-on-for-almost-half-a-year-more-or-less-Price-has-remained-pretty-much-flat-compared-to-the-start-of-it-One-thing-really-comes-to-mind-and-that-is-how",
+    "source": "@daancrypto",
+    "published": "Sun Aug 09 2026 20:01:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33182312/A-135-Billion-Berkshire-Hathaway-Mystery-What-Is-Greg-Abel-Buying-Beyond-Alphabet",
     "source": "beincrypto.com",
     "published": "Sun Aug 09 2026 17:05:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Brazil to tighten crypto fraud controls with new 24-hour wait on transfers to self-custody wallets",
-    "link": "https://cryptopanic.com/news/33182234/Brazil-to-tighten-crypto-fraud-controls-with-new-24-hour-wait-on-transfers-to-self-custody-wallets",
-    "source": "theblock.co",
-    "published": "Sun Aug 09 2026 17:03:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "White House warns CLARITY Act will die Sept 15 unless 7 Democrats vote yes",
-    "link": "https://cryptopanic.com/news/33182232/White-House-warns-CLARITY-Act-will-die-Sept-15-unless-7-Democrats-vote-yes",
-    "source": "cryptoslate.com",
-    "published": "Sun Aug 09 2026 17:00:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Thornton’s Idea To Barrick Mining IPO Is Facing Investor Backlash",
-    "link": "https://cryptopanic.com/news/33182227/Thorntons-Idea-To-Barrick-Mining-IPO-Is-Facing-Investor-Backlash",
-    "source": "catenaa.com",
-    "published": "Sun Aug 09 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "3 Macro Catalysts That Could Move Crypto This Week (10-14 August)",
-    "link": "https://cryptopanic.com/news/33182225/3-Macro-Catalysts-That-Could-Move-Crypto-This-Week-10-14-August",
-    "source": "coindoo.com",
-    "published": "Sun Aug 09 2026 16:58:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$OKLO had a big breakout last week after being stuck below this resistance since May.\n\nThe entire nuclear industry is seeing a new surge of investment demand due to the massive energy requirements of the AI/datacenter buildout.",
-    "link": "https://cryptopanic.com/news/33182263/OKLO-had-a-big-breakout-last-week-after-being-stuck-below-this-resistance-since-May-The-entire-nuclear-industry-is-seeing-a-new-surge-of-investment-demand-due-to-the-massive-energy-requirements-of-the-AIdatacenter-buildout",
-    "source": "@stackersatoshi",
-    "published": "Sun Aug 09 2026 16:56:32 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
