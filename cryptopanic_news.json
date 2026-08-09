@@ -1,5 +1,19 @@
 [
   {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33180958/Source",
+    "source": "@wublockchain",
+    "published": "Sun Aug 09 2026 07:45:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bittensor Breaks a Two-Month Barrier as a Bigger Test Looms",
+    "link": "https://cryptopanic.com/news/33180951/Bittensor-Breaks-a-Two-Month-Barrier-as-a-Bigger-Test-Looms",
+    "source": "coindoo.com",
+    "published": "Sun Aug 09 2026 07:41:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Analyst Expects XRP’s Strongest Price Reversal Ever, but Polymarket Disagrees",
     "link": "https://cryptopanic.com/news/33180940/Analyst-Expects-XRPs-Strongest-Price-Reversal-Ever-but-Polymarket-Disagrees",
     "source": "cryptopotato.com",
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33180876/Brazils-STJ-Denies-Release-Request-in-CM-Software-Fraud-Case",
     "source": "square.binance.com",
     "published": "Sun Aug 09 2026 05:53:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "OpenAI paused its own model over hacking capability\n\n@OpenAI said Friday it cannot rule out critical cyber capability in Astra, an unreleased model, after evaluations this week showed major jumps in agentic coding and cybersecurity.\n\nCritical means finding and building working",
-    "link": "https://cryptopanic.com/news/33180823/OpenAI-paused-its-own-model-over-hacking-capability-OpenAI-said-Friday-it-cannot-rule-out-critical-cyber-capability-in-Astra-an-unreleased-model-after-evaluations-this-week-showed-major-jumps-in-agentic-coding-and-cybersecurity-Critical-means-finding-and-building-working",
-    "source": "@bscnews",
-    "published": "Sun Aug 09 2026 05:53:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Roughnecks Stops Mining Operations Under BIP-110 Protocol",
-    "link": "https://cryptopanic.com/news/33180875/Roughnecks-Stops-Mining-Operations-Under-BIP-110-Protocol",
-    "source": "square.binance.com",
-    "published": "Sun Aug 09 2026 05:43:49 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
