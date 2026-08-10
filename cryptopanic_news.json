@@ -1,5 +1,89 @@
 [
   {
+    "title": "Australia suspends Cryptolink’s crypto ATMs: Is the market underestimating risks?",
+    "link": "https://cryptopanic.com/news/33185670/Australia-suspends-Cryptolinks-crypto-ATMs-Is-the-market-underestimating-risks",
+    "source": "ambcrypto.com",
+    "published": "Mon Aug 10 2026 11:15:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin active addresses crash to lowest level since 2018",
+    "link": "https://cryptopanic.com/news/33185675/Bitcoin-active-addresses-crash-to-lowest-level-since-2018",
+    "source": "finbold.com",
+    "published": "Mon Aug 10 2026 11:12:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "French headquartered Flowdesk receives crypto brokerage license in Dubai UAE",
+    "link": "https://cryptopanic.com/news/33185673/French-headquartered-Flowdesk-receives-crypto-brokerage-license-in-Dubai-UAE",
+    "source": "cryptopolitan.com",
+    "published": "Mon Aug 10 2026 11:11:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "H100 seals Europe’s largest Bitcoin treasury merger as rivals push abroad",
+    "link": "https://cryptopanic.com/news/33185672/H100-seals-Europes-largest-Bitcoin-treasury-merger-as-rivals-push-abroad",
+    "source": "cryptopolitan.com",
+    "published": "Mon Aug 10 2026 11:10:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Robinhood opens UK crypto trading through Bitstamp with 50-plus tokens",
+    "link": "https://cryptopanic.com/news/33185614/Robinhood-opens-UK-crypto-trading-through-Bitstamp-with-50-plus-tokens",
+    "source": "cryptopolitan.com",
+    "published": "Mon Aug 10 2026 11:01:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP rebounds to $1.03 but bearish momentum keeps $1 support at risk",
+    "link": "https://cryptopanic.com/news/33185641/XRP-rebounds-to-103-but-bearish-momentum-keeps-1-support-at-risk",
+    "source": "coinjournal.net",
+    "published": "Mon Aug 10 2026 11:00:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin treasuries bleed: Empery Digital slashes 76% BTC holdings as whale sells $486M",
+    "link": "https://cryptopanic.com/news/33185608/Bitcoin-treasuries-bleed-Empery-Digital-slashes-76-BTC-holdings-as-whale-sells-486M",
+    "source": "ambcrypto.com",
+    "published": "Mon Aug 10 2026 11:00:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Standard Chartered reportedly sees $LINK reaching $200 by 2030!\n\nThis is huge and would be an enormous institutional endorsement of @chainlink's role in onchain finance.\n\nWe haven’t been able to verify this yet, so we’ve contacted the bank directly to confirm the news!",
+    "link": "https://cryptopanic.com/news/33185587/Standard-Chartered-reportedly-sees-LINK-reaching-200-by-2030-This-is-huge-and-would-be-an-enormous-institutional-endorsement-of-chainlinks-role-in-onchain-finance-We-havent-been-able-to-verify-this-yet-so-weve-contacted-the-bank-directly-to-confirm-the-news",
+    "source": "@realallincrypto",
+    "published": "Mon Aug 10 2026 11:00:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇬🇧 UK regulator seeks to encourage and allow companies to use blockchains across financial markets to improve speed, efficiency, and security.",
+    "link": "https://cryptopanic.com/news/33185677/JUST-IN-UK-regulator-seeks-to-encourage-and-allow-companies-to-use-blockchains-across-financial-markets-to-improve-speed-efficiency-and-security",
+    "source": "@watcherguru",
+    "published": "Mon Aug 10 2026 11:00:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP is facing its toughest test yet\n\nThe current price of $XRP is $1.03, marking its worst weekly performance since 2024 after it broke an important multi-year psychological support level.\n\nThis is a crucial time for the asset, given that the Clarity ACT is on pause and ETF",
+    "link": "https://cryptopanic.com/news/33185592/XRP-is-facing-its-toughest-test-yet-The-current-price-of-XRP-is-103-marking-its-worst-weekly-performance-since-2024-after-it-broke-an-important-multi-year-psychological-support-level-This-is-a-crucial-time-for-the-asset-given-that-the-Clarity-ACT-is-on-pause-and-ETF",
+    "source": "@bscnews",
+    "published": "Mon Aug 10 2026 10:58:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin split via BIP-110 stalls after two blocks",
+    "link": "https://cryptopanic.com/news/33185575/Bitcoin-split-via-BIP-110-stalls-after-two-blocks",
+    "source": "cryptovalleyjournal.com",
+    "published": "Mon Aug 10 2026 10:53:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum holds above $1,900 as bulls target the $2,000 resistance",
+    "link": "https://cryptopanic.com/news/33185640/Ethereum-holds-above-1900-as-bulls-target-the-2000-resistance",
+    "source": "coinjournal.net",
+    "published": "Mon Aug 10 2026 10:52:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Seems like Mara has finally thrown in the towel for Bitcoin\n\nMarathon Digital has dumped 23,093 BTC for about $1.6 billion in the first six months of 2026.\n\nThis is an outright 40% decrease in the total number of Bitcoin the company owns and is the largest corporate supply event",
     "link": "https://cryptopanic.com/news/33185591/Seems-like-Mara-has-finally-thrown-in-the-towel-for-Bitcoin-Marathon-Digital-has-dumped-23093-BTC-for-about-16-billion-in-the-first-six-months-of-2026-This-is-an-outright-40-decrease-in-the-total-number-of-Bitcoin-the-company-owns-and-is-the-largest-corporate-supply-event",
     "source": "@bscnews",
@@ -70,6 +154,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "XRP News August 10: Ripple’s UK Treasury Role Not a Full Endorsement",
+    "link": "https://cryptopanic.com/news/33185667/XRP-News-August-10-Ripples-UK-Treasury-Role-Not-a-Full-Endorsement",
+    "source": "99bitcoins.com",
+    "published": "Mon Aug 10 2026 10:35:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "This BTC cohort has the fastest accumulation rate in 2026",
     "link": "https://cryptopanic.com/news/33185495/This-BTC-cohort-has-the-fastest-accumulation-rate-in-2026",
     "source": "cryptopolitan.com",
@@ -113,100 +204,9 @@
   },
   {
     "title": "Standard Chartered Sees $4T Tokenization Driving Chainlink to $200 by 2030",
-    "link": "https://cryptopanic.com/news/33185593/Standard-Chartered-Sees-4T-Tokenization-Driving-Chainlink-to-200-by-2030",
-    "source": "@decryptmedia",
-    "published": "Mon Aug 10 2026 10:20:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Standard Chartered Sees $4T Tokenization Driving Chainlink to $200 by 2030",
     "link": "https://cryptopanic.com/news/33185367/Standard-Chartered-Sees-4T-Tokenization-Driving-Chainlink-to-200-by-2030",
     "source": "decrypt.co",
     "published": "Mon Aug 10 2026 10:19:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana buy alert as SOL targets $100",
-    "link": "https://cryptopanic.com/news/33185375/Solana-buy-alert-as-SOL-targets-100",
-    "source": "finbold.com",
-    "published": "Mon Aug 10 2026 10:18:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Base Network is Focused on Ecosystem Growth... \n\n@Base has launched its Builder Grant Program to spread development across high-growth sectors including AI Agents, prediction markets, and tokenized equities. \n\nThe initiative provides up to $5,000 in seed capital, along with",
-    "link": "https://cryptopanic.com/news/33185589/Base-Network-is-Focused-on-Ecosystem-Growth-Base-has-launched-its-Builder-Grant-Program-to-spread-development-across-high-growth-sectors-including-AI-Agents-prediction-markets-and-tokenized-equities-The-initiative-provides-up-to-5000-in-seed-capital-along-with",
-    "source": "@bscnews",
-    "published": "Mon Aug 10 2026 10:17:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Best-Performing Altcoins From Top 100: JTO Leads, PUMP Wins the Week",
-    "link": "https://cryptopanic.com/news/33185365/Best-Performing-Altcoins-From-Top-100-JTO-Leads-PUMP-Wins-the-Week",
-    "source": "coindoo.com",
-    "published": "Mon Aug 10 2026 10:16:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "How Does NEAR Let You Pay for AI With Staked Tokens?\n\nOn July 30, NEAR (@NEARProtocol) introduced a new way to pay for AI inference and always-on agents.\n\nInstead of paying for an AI subscription with a credit card, users can stake $NEAR and receive monthly compute credits.\n\nThe",
-    "link": "https://cryptopanic.com/news/33185588/How-Does-NEAR-Let-You-Pay-for-AI-With-Staked-Tokens-On-July-30-NEAR-NEARProtocol-introduced-a-new-way-to-pay-for-AI-inference-and-always-on-agents-Instead-of-paying-for-an-AI-subscription-with-a-credit-card-users-can-stake-NEAR-and-receive-monthly-compute-credits-The",
-    "source": "@bscnews",
-    "published": "Mon Aug 10 2026 10:16:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Coinbase CEO Brian Armstrong Says ‘Crypto Doesn’t Get Enough Credit’ for Unlocking Global Financial Access With Stablecoins, DeFi and Bitcoin",
-    "link": "https://cryptopanic.com/news/33185423/Coinbase-CEO-Brian-Armstrong-Says-Crypto-Doesnt-Get-Enough-Credit-for-Unlocking-Global-Financial-Access-With-Stablecoins-DeFi-and-Bitcoin",
-    "source": "feeds2.benzinga.com",
-    "published": "Mon Aug 10 2026 10:14:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin volatility is in meltdown, but downside protection still commands a premium",
-    "link": "https://cryptopanic.com/news/33185527/Bitcoin-volatility-is-in-meltdown-but-downside-protection-still-commands-a-premium",
-    "source": "coindesk.com",
-    "published": "Mon Aug 10 2026 10:13:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Bitcoin miner Marathon Digital $MARA sells 23,093 BTC worth over $1.6 billion.",
-    "link": "https://cryptopanic.com/news/33185434/JUST-IN-Bitcoin-miner-Marathon-Digital-MARA-sells-23093-BTC-worth-over-16-billion",
-    "source": "@watcherguru",
-    "published": "Mon Aug 10 2026 10:13:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Chainlink Trades at Just $8.22, but Standard Chartered Sees a 24x Rally",
-    "link": "https://cryptopanic.com/news/33185565/Chainlink-Trades-at-Just-822-but-Standard-Chartered-Sees-a-24x-Rally",
-    "source": "beincrypto.com",
-    "published": "Mon Aug 10 2026 10:10:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  US spot Bitcoin and Ethereum ETFs pulled in a combined $1.1B last week, their strongest week since April.",
-    "link": "https://cryptopanic.com/news/33185516/LATEST-US-spot-Bitcoin-and-Ethereum-ETFs-pulled-in-a-combined-11B-last-week-their-strongest-week-since-April",
-    "source": "@coinmarketcap",
-    "published": "Mon Aug 10 2026 10:05:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cardano Opens 2.5M ADA Funding Round For New Projects\n\nCardano’s Catalyst Pilot opened on August 6 with 2.5 million cardano:native available for selected teams.\n\nThe funding round will support 10 to 15 projects, with grants ranging from 50,000 to 200,000 ADA.\n\nTeams can receive",
-    "link": "https://cryptopanic.com/news/33185330/Cardano-Opens-25M-ADA-Funding-Round-For-New-Projects-Cardanos-Catalyst-Pilot-opened-on-August-6-with-25-million-cardanonative-available-for-selected-teams-The-funding-round-will-support-10-to-15-projects-with-grants-ranging-from-50000-to-200000-ADA-Teams-can-receive",
-    "source": "@bscnews",
-    "published": "Mon Aug 10 2026 10:01:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Elon Musk Says AI Agent Traffic Will Vastly Exceed Human Internet Usage",
-    "link": "https://cryptopanic.com/news/33185563/Elon-Musk-Says-AI-Agent-Traffic-Will-Vastly-Exceed-Human-Internet-Usage",
-    "source": "beincrypto.com",
-    "published": "Mon Aug 10 2026 10:01:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 JUST IN: Sen. Bernie Sanders calls on OpenAI, Anthropic and Meta to pause AI development, warning the Senate could step in, per Axios.",
-    "link": "https://cryptopanic.com/news/33185525/JUST-IN-Sen-Bernie-Sanders-calls-on-OpenAI-Anthropic-and-Meta-to-pause-AI-development-warning-the-Senate-could-step-in-per-Axios",
-    "source": "@cointelegraph",
-    "published": "Mon Aug 10 2026 10:01:19 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
