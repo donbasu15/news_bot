@@ -1,5 +1,12 @@
 [
   {
+    "title": "XRP Community Splits Over Plan To Store Files Onchain\n\n$XRP Ledger developers are debating a proposal to expand transaction Memo capacity from 1 KB to about 1.3 MB.\n\nThe change could let users store images, PDFs, music, videos and software directly onchain.\n\nSupporters argue",
+    "link": "https://cryptopanic.com/news/33184561/XRP-Community-Splits-Over-Plan-To-Store-Files-Onchain-XRP-Ledger-developers-are-debating-a-proposal-to-expand-transaction-Memo-capacity-from-1-KB-to-about-13-MB-The-change-could-let-users-store-images-PDFs-music-videos-and-software-directly-onchain-Supporters-argue",
+    "source": "@bscnews",
+    "published": "Mon Aug 10 2026 07:48:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Grayscale Pulls Back From Three Altcoin ETF Plans",
     "link": "https://cryptopanic.com/news/33184519/Grayscale-Pulls-Back-From-Three-Altcoin-ETF-Plans",
     "source": "coindoo.com",
@@ -18,6 +25,27 @@
     "link": "https://cryptopanic.com/news/33184532/LATEST-IMF-first-deputy-managing-director-Dan-Katz-says-local-currency-stablecoins-could-ironically-boost-demand-for-dollar-backed-tokens-once-both-trade-on-the-same-blockchain-infrastructure",
     "source": "@coinmarketcap",
     "published": "Mon Aug 10 2026 07:37:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MVRV Z-Score Falls to 0.41: Correction Without Capitulation",
+    "link": "https://cryptopanic.com/news/33184544/MVRV-Z-Score-Falls-to-041-Correction-Without-Capitulation",
+    "source": "axeladlerjr.com",
+    "published": "Mon Aug 10 2026 07:35:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$BTC Saylor might be selling some coins here and there, but spot ETFs have been a net buyer recently. That is after the massive outflows it saw during May and June.\n\nLast week alone, $BTC took in +$800M in inflows and $ETH took in about +$240M.",
+    "link": "https://cryptopanic.com/news/33184558/BTC-Saylor-might-be-selling-some-coins-here-and-there-but-spot-ETFs-have-been-a-net-buyer-recently-That-is-after-the-massive-outflows-it-saw-during-May-and-June-Last-week-alone-BTC-took-in-800M-in-inflows-and-ETH-took-in-about-240M",
+    "source": "@daancrypto",
+    "published": "Mon Aug 10 2026 07:29:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Chain Fusion lets Internet Computer canisters sign and move real Bitcoin without a bridge. Here's how the tech and ckBTC work in 2026",
+    "link": "https://cryptopanic.com/news/33184560/Chain-Fusion-lets-Internet-Computer-canisters-sign-and-move-real-Bitcoin-without-a-bridge-Heres-how-the-tech-and-ckBTC-work-in-2026",
+    "source": "@bscnews",
+    "published": "Mon Aug 10 2026 07:28:27 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33184155/BitGo-Migrates-74B-Wrapped-Bitcoin-to-Chainlink-After-Bridge-Security-Shift",
     "source": "catenaa.com",
     "published": "Mon Aug 10 2026 06:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "This bitcoin miner rejected BIP-110 despite mining through a pool that supported it",
-    "link": "https://cryptopanic.com/news/33184310/This-bitcoin-miner-rejected-BIP-110-despite-mining-through-a-pool-that-supported-it",
-    "source": "coindesk.com",
-    "published": "Mon Aug 10 2026 06:25:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: ️ Michael Saylor says the failure of BIP-110 proves that \"consensus is earned, not declared,\" and a fork without security, utility, capital and users is irrelevant.",
-    "link": "https://cryptopanic.com/news/33184303/LATEST-Michael-Saylor-says-the-failure-of-BIP-110-proves-that-consensus-is-earned-not-declared-and-a-fork-without-security-utility-capital-and-users-is-irrelevant",
-    "source": "@coinmarketcap",
-    "published": "Mon Aug 10 2026 06:25:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BIG: Cloudflare's CFO Thomas Seifert says non-human traffic could outpace human traffic 1,000-to-1 within five years, making humans \"a rounding error on the internet.\"",
-    "link": "https://cryptopanic.com/news/33184308/BIG-Cloudflares-CFO-Thomas-Seifert-says-non-human-traffic-could-outpace-human-traffic-1000-to-1-within-five-years-making-humans-a-rounding-error-on-the-internet",
-    "source": "@cointelegraph",
-    "published": "Mon Aug 10 2026 06:20:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Korean Crypto Laundering Method Behind $6.4 Billion, and Why Police Struggle to Stop It",
-    "link": "https://cryptopanic.com/news/33184204/The-Korean-Crypto-Laundering-Method-Behind-64-Billion-and-Why-Police-Struggle-to-Stop-It",
-    "source": "beincrypto.com",
-    "published": "Mon Aug 10 2026 06:17:54 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
