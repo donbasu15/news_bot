@@ -1,9 +1,58 @@
 [
   {
+    "title": "Brazil Targets Crypto Fraud With 24-Hour Hold on Transfers Over $10K",
+    "link": "https://cryptopanic.com/news/33183958/Brazil-Targets-Crypto-Fraud-With-24-Hour-Hold-on-Transfers-Over-10K",
+    "source": "coinpaper.com",
+    "published": "Mon Aug 10 2026 05:31:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Grayscale Pulls Plug On Three Major ETF Filings Including ADA, HBAR\n\nGrayscale filed three Form RW submissions with the SEC on August 7. The filings withdraw S-1 registration statements for the Cardano $ADA Trust ETF, Hedera $HBAR Trust ETF and Polkadot $DOT Trust ETF.\n\nThey",
+    "link": "https://cryptopanic.com/news/33184027/Grayscale-Pulls-Plug-On-Three-Major-ETF-Filings-Including-ADA-HBAR-Grayscale-filed-three-Form-RW-submissions-with-the-SEC-on-August-7-The-filings-withdraw-S-1-registration-statements-for-the-Cardano-ADA-Trust-ETF-Hedera-HBAR-Trust-ETF-and-Polkadot-DOT-Trust-ETF-They",
+    "source": "@bscnews",
+    "published": "Mon Aug 10 2026 05:29:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33183960/Source",
+    "source": "@wublockchain",
+    "published": "Mon Aug 10 2026 05:28:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UK FCA Plans Regulatory Framework for Tokenized Gold\n\nAccording to the Financial Times, the UK Financial Conduct Authority (FCA) is discussing a regulatory framework for tokenized gold with major banks and other industry participants. The framework could support the use of",
+    "link": "https://cryptopanic.com/news/33183959/UK-FCA-Plans-Regulatory-Framework-for-Tokenized-Gold-According-to-the-Financial-Times-the-UK-Financial-Conduct-Authority-FCA-is-discussing-a-regulatory-framework-for-tokenized-gold-with-major-banks-and-other-industry-participants-The-framework-could-support-the-use-of",
+    "source": "@wublockchain",
+    "published": "Mon Aug 10 2026 05:28:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Grayscale withdraws its Cardano, Hedera, and Polkadot Trust ETF filings with the SEC, per company filings.",
+    "link": "https://cryptopanic.com/news/33183965/UPDATE-Grayscale-withdraws-its-Cardano-Hedera-and-Polkadot-Trust-ETF-filings-with-the-SEC-per-company-filings",
+    "source": "@cointelegraph",
+    "published": "Mon Aug 10 2026 05:20:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto's First Quantum Hack May Leave No Clues Behind\n\nChristopher Smith, CEO of Quantus Network, says the first quantum computing attack on crypto could look like an unexplained wallet breach. \n\nSmith said a powerful enough quantum computer could derive private keys from public",
+    "link": "https://cryptopanic.com/news/33184026/Cryptos-First-Quantum-Hack-May-Leave-No-Clues-Behind-Christopher-Smith-CEO-of-Quantus-Network-says-the-first-quantum-computing-attack-on-crypto-could-look-like-an-unexplained-wallet-breach-Smith-said-a-powerful-enough-quantum-computer-could-derive-private-keys-from-public",
+    "source": "@bscnews",
+    "published": "Mon Aug 10 2026 05:09:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "BTCPay Server Restricts Lightning Access After Exploit Drains LND Nodes",
     "link": "https://cryptopanic.com/news/33183885/BTCPay-Server-Restricts-Lightning-Access-After-Exploit-Drains-LND-Nodes",
     "source": "coinpaper.com",
     "published": "Mon Aug 10 2026 05:08:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇬🇧 JUST IN: The UK's FCA is preparing a regulatory framework for tokenized gold to protect London's dominance in bullion trading amid growing competition from China, per FT.",
+    "link": "https://cryptopanic.com/news/33183964/JUST-IN-The-UKs-FCA-is-preparing-a-regulatory-framework-for-tokenized-gold-to-protect-Londons-dominance-in-bullion-trading-amid-growing-competition-from-China-per-FT",
+    "source": "@cointelegraph",
+    "published": "Mon Aug 10 2026 05:01:01 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -158,55 +207,6 @@
     "link": "https://cryptopanic.com/news/33183684/LATEST-Treasury-Secretary-Scott-Bessent-is-taking-steps-from-a-yen-intervention-to-a-bond-sales-guidance-shift-to-keep-bond-yields-from-spiking-higher-per-Bloomberg",
     "source": "@cointelegraph",
     "published": "Mon Aug 10 2026 03:42:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33183680/Source",
-    "source": "@wublockchain",
-    "published": "Mon Aug 10 2026 03:38:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Grayscale Withdraws Registration Applications for ADA, HBAR and DOT ETFs\n\nAccording to SEC filings, Grayscale filed three Form RW submissions on August 7, withdrawing the S-1 registration statements for the Grayscale Cardano Trust ETF, Grayscale Hedera Trust ETF and Grayscale",
-    "link": "https://cryptopanic.com/news/33183679/Grayscale-Withdraws-Registration-Applications-for-ADA-HBAR-and-DOT-ETFs-According-to-SEC-filings-Grayscale-filed-three-Form-RW-submissions-on-August-7-withdrawing-the-S-1-registration-statements-for-the-Grayscale-Cardano-Trust-ETF-Grayscale-Hedera-Trust-ETF-and-Grayscale",
-    "source": "@wublockchain",
-    "published": "Mon Aug 10 2026 03:38:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cathie Wood Says Open Source AI Is Making OpenAI and Anthropic Richer, Not Poorer",
-    "link": "https://cryptopanic.com/news/33183773/Cathie-Wood-Says-Open-Source-AI-Is-Making-OpenAI-and-Anthropic-Richer-Not-Poorer",
-    "source": "beincrypto.com",
-    "published": "Mon Aug 10 2026 03:37:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇰🇵 ALERT: North Korean hacking group Kimsuky built AI tools to automate cyberattacks, sharpen phishing campaigns, and analyze stolen data, per Reuters.",
-    "link": "https://cryptopanic.com/news/33183683/ALERT-North-Korean-hacking-group-Kimsuky-built-AI-tools-to-automate-cyberattacks-sharpen-phishing-campaigns-and-analyze-stolen-data-per-Reuters",
-    "source": "@cointelegraph",
-    "published": "Mon Aug 10 2026 03:21:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33183550/Source",
-    "source": "@wublockchain",
-    "published": "Mon Aug 10 2026 03:06:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NYSE Developing Onchain Settlement Platform for Tokenized Securities\n\nNYSE President Lynn Martin said the exchange is developing an onchain settlement platform for tokenized securities and participated in DTC’s tokenization pilot in July.\n\nMartin said NYSE will continue exploring",
-    "link": "https://cryptopanic.com/news/33183548/NYSE-Developing-Onchain-Settlement-Platform-for-Tokenized-Securities-NYSE-President-Lynn-Martin-said-the-exchange-is-developing-an-onchain-settlement-platform-for-tokenized-securities-and-participated-in-DTCs-tokenization-pilot-in-July-Martin-said-NYSE-will-continue-exploring",
-    "source": "@wublockchain",
-    "published": "Mon Aug 10 2026 03:06:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Anthony Scaramucci Claps Back at Anti-Crypto Activist's Comments Linking Clarity Act Failure to Trump's 'Corruption' — 'Nothing Stops Bitcoin'",
-    "link": "https://cryptopanic.com/news/33183561/Anthony-Scaramucci-Claps-Back-at-Anti-Crypto-Activists-Comments-Linking-Clarity-Act-Failure-to-Trumps-Corruption-Nothing-Stops-Bitcoin",
-    "source": "feeds2.benzinga.com",
-    "published": "Mon Aug 10 2026 03:01:39 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
