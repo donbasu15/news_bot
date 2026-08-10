@@ -1,5 +1,40 @@
 [
   {
+    "title": "BlackRock's Mitchnick says Bitcoin sentiment has turned as it decouples from stocks\n\n@BlackRock digital assets head Robert Mitchnick said Bitcoin sentiment has shifted \"in a noticeable, but subtle way\" over the past month, pointing to its outperformance during July's AI pullback,",
+    "link": "https://cryptopanic.com/news/33188858/BlackRocks-Mitchnick-says-Bitcoin-sentiment-has-turned-as-it-decouples-from-stocks-BlackRock-digital-assets-head-Robert-Mitchnick-said-Bitcoin-sentiment-has-shifted-in-a-noticeable-but-subtle-way-over-the-past-month-pointing-to-its-outperformance-during-Julys-AI-pullback",
+    "source": "@bscnews",
+    "published": "Mon Aug 10 2026 20:34:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BIP 110: Bitcoin's BIGGEST Nothing Burger Revealed!",
+    "link": "https://cryptopanic.com/news/33188847/BIP-110-Bitcoins-BIGGEST-Nothing-Burger-Revealed",
+    "source": "SimplyBitcoin",
+    "published": "Mon Aug 10 2026 20:30:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: Strategy has realized more than $102 million in losses from Bitcoin sales, according to CryptoQuant analyst.",
+    "link": "https://cryptopanic.com/news/33188786/LATEST-Strategy-has-realized-more-than-102-million-in-losses-from-Bitcoin-sales-according-to-CryptoQuant-analyst",
+    "source": "@cointelegraph",
+    "published": "Mon Aug 10 2026 20:20:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "House Democrats want OpenAI and Anthropic CEOs under oath over AI breaches",
+    "link": "https://cryptopanic.com/news/33188774/House-Democrats-want-OpenAI-and-Anthropic-CEOs-under-oath-over-AI-breaches",
+    "source": "cryptopolitan.com",
+    "published": "Mon Aug 10 2026 20:20:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "How Flare lets smart contracts see other chains\n\nMost blockchains are blind to the outside world. A contract on one chain cannot natively check whether a payment happened on another, which is why cross-chain activity has leaned on bridges and trusted middlemen.\n\n@FlareNetworks's",
+    "link": "https://cryptopanic.com/news/33188857/How-Flare-lets-smart-contracts-see-other-chains-Most-blockchains-are-blind-to-the-outside-world-A-contract-on-one-chain-cannot-natively-check-whether-a-payment-happened-on-another-which-is-why-cross-chain-activity-has-leaned-on-bridges-and-trusted-middlemen-FlareNetworkss",
+    "source": "@bscnews",
+    "published": "Mon Aug 10 2026 20:19:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "This is interesting ....\n\nStrategy confirmed today that $STRC buybacks are ongoing and are even being funded by selling $BTC.\n\nThey also increased the USD reserve to a record high $4.65 billion.\n\nIn spite of all of that, STRC dropped to start the week.",
     "link": "https://cryptopanic.com/news/33188725/This-is-interesting-Strategy-confirmed-today-that-STRC-buybacks-are-ongoing-and-are-even-being-funded-by-selling-BTC-They-also-increased-the-USD-reserve-to-a-record-high-465-billion-In-spite-of-all-of-that-STRC-dropped-to-start-the-week",
     "source": "@stackersatoshi",
@@ -11,6 +46,13 @@
     "link": "https://cryptopanic.com/news/33188712/ICP-crypto-price-jumps-8-Can-Caffeine-AI-and-Mission-70-support-a-recovery",
     "source": "ambcrypto.com",
     "published": "Mon Aug 10 2026 20:06:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: ️ Bitdeer mined 2,694 BTC in Q2, nearly five times last year's output, with its revenue also rising 47% to $228.8M.",
+    "link": "https://cryptopanic.com/news/33188782/LATEST-Bitdeer-mined-2694-BTC-in-Q2-nearly-five-times-last-years-output-with-its-revenue-also-rising-47-to-2288M",
+    "source": "@coinmarketcap",
+    "published": "Mon Aug 10 2026 20:05:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -28,10 +70,31 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Aave's active loans grew more than $1B in a month\n\nActive loans on @aave climbed past $11.3B, up from about $10B a month ago, per protocol data confirmed by DefiLlama. Total value locked sits at $14.67B, itself up 7.4% over 30 days, alongside $27.1M in fees for the period.",
+    "link": "https://cryptopanic.com/news/33188855/Aaves-active-loans-grew-more-than-1B-in-a-month-Active-loans-on-aave-climbed-past-113B-up-from-about-10B-a-month-ago-per-protocol-data-confirmed-by-DefiLlama-Total-value-locked-sits-at-1467B-itself-up-74-over-30-days-alongside-271M-in-fees-for-the-period",
+    "source": "@bscnews",
+    "published": "Mon Aug 10 2026 20:03:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bad news for the economy just became great news for Bitcoin",
     "link": "https://cryptopanic.com/news/33188771/Bad-news-for-the-economy-just-became-great-news-for-Bitcoin",
     "source": "thestreet.com",
     "published": "Mon Aug 10 2026 20:02:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "THROWBACK: Did you know @Ripple partnered directly with the Central Bank of Montenegro back in 2023!\n\nThis was to develop a CBDC or national stablecoin strategy and pilot.\n\nThese central bank/ $XRP ledger collabs don't get the recognition they deserve!",
+    "link": "https://cryptopanic.com/news/33188854/THROWBACK-Did-you-know-Ripple-partnered-directly-with-the-Central-Bank-of-Montenegro-back-in-2023-This-was-to-develop-a-CBDC-or-national-stablecoin-strategy-and-pilot-These-central-bank-XRP-ledger-collabs-dont-get-the-recognition-they-deserve",
+    "source": "@realallincrypto",
+    "published": "Mon Aug 10 2026 20:00:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: Shein IPO pitched to investors at a sub-$30 billion valuation, according to the Financial Times.",
+    "link": "https://cryptopanic.com/news/33188785/NEW-Shein-IPO-pitched-to-investors-at-a-sub-30-billion-valuation-according-to-the-Financial-Times",
+    "source": "@cointelegraph",
+    "published": "Mon Aug 10 2026 19:59:56 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -63,16 +126,16 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Mayflower touts 'value machine' to strip risk from crypto lending",
-    "link": "https://cryptopanic.com/news/33188719/Mayflower-touts-value-machine-to-strip-risk-from-crypto-lending",
-    "source": "thestreet.com",
+    "title": "BlackRock Canada Launches ETF That Combines Stocks And Bitcoin",
+    "link": "https://cryptopanic.com/news/33188656/BlackRock-Canada-Launches-ETF-That-Combines-Stocks-And-Bitcoin",
+    "source": "cryptoprowl.com",
     "published": "Mon Aug 10 2026 19:54:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "BlackRock Canada Launches ETF That Combines Stocks And Bitcoin",
-    "link": "https://cryptopanic.com/news/33188656/BlackRock-Canada-Launches-ETF-That-Combines-Stocks-And-Bitcoin",
-    "source": "cryptoprowl.com",
+    "title": "Mayflower touts 'value machine' to strip risk from crypto lending",
+    "link": "https://cryptopanic.com/news/33188719/Mayflower-touts-value-machine-to-strip-risk-from-crypto-lending",
+    "source": "thestreet.com",
     "published": "Mon Aug 10 2026 19:54:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -144,69 +207,6 @@
     "link": "https://cryptopanic.com/news/33188659/LayerZero-moved-62B-in-a-month-and-kept-131000-LayerZero-LayerZero_Core-processed-6195B-in-bridge-volume-over-30-days-while-generating-121095-in-fees-and-131592-in-revenue-per-DefiLlama-The-protocol-takes-a-0-cut-of-V2-messaging-fees-with-revenue-coming-from",
     "source": "@bscnews",
     "published": "Mon Aug 10 2026 19:31:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BlackRock says bitcoin sentiment is turning as decoupling from stocks takes hold",
-    "link": "https://cryptopanic.com/news/33188565/BlackRock-says-bitcoin-sentiment-is-turning-as-decoupling-from-stocks-takes-hold",
-    "source": "theblock.co",
-    "published": "Mon Aug 10 2026 19:30:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "China Accesses $28Tn Capital Markets To Fund AI Race With US",
-    "link": "https://cryptopanic.com/news/33188563/China-Accesses-28Tn-Capital-Markets-To-Fund-AI-Race-With-US",
-    "source": "catenaa.com",
-    "published": "Mon Aug 10 2026 19:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Strategy wants to be the \"central bank of Bitcoin.\" \n\nOn CoinDesk's Public Keys at the @NYSE, @Strategy's @phongle makes the case for beating BTC with digital credit, @Bitwise's Ryan Rasmussen (@RasterlyRock) says the market is mispricing @circle, and Deus X Capital's Tim Grant",
-    "link": "https://cryptopanic.com/news/33188631/Strategy-wants-to-be-the-central-bank-of-Bitcoin-On-CoinDesks-Public-Keys-at-the-NYSE-Strategys-phongle-makes-the-case-for-beating-BTC-with-digital-credit-Bitwises-Ryan-Rasmussen-RasterlyRock-says-the-market-is-mispricing-circle-and-Deus-X-Capitals-Tim-Grant",
-    "source": "@coindesk",
-    "published": "Mon Aug 10 2026 19:27:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Australia Suspends 96 Bitcoin ATMs in Cryptolink AML Crackdown",
-    "link": "https://cryptopanic.com/news/33188566/Australia-Suspends-96-Bitcoin-ATMs-in-Cryptolink-AML-Crackdown",
-    "source": "thecoinrepublic.com",
-    "published": "Mon Aug 10 2026 19:27:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Vitalik Buterin maps his 2023 roadmap onto Ethereum’s new Strawmap",
-    "link": "https://cryptopanic.com/news/33188604/Vitalik-Buterin-maps-his-2023-roadmap-onto-Ethereums-new-Strawmap",
-    "source": "cryptopolitan.com",
-    "published": "Mon Aug 10 2026 19:25:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇬🇧 The UK's FCA has held talks with banks on rules for tokenized gold, including its use as collateral in wholesale markets, according to the Financial Times.",
-    "link": "https://cryptopanic.com/news/33188623/LATEST-The-UKs-FCA-has-held-talks-with-banks-on-rules-for-tokenized-gold-including-its-use-as-collateral-in-wholesale-markets-according-to-the-Financial-Times",
-    "source": "@coinmarketcap",
-    "published": "Mon Aug 10 2026 19:25:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Standard Chartered Says Chainlink Underpins Growth in Tokenized Assets",
-    "link": "https://cryptopanic.com/news/33188556/Standard-Chartered-Says-Chainlink-Underpins-Growth-in-Tokenized-Assets",
-    "source": "coincu.com",
-    "published": "Mon Aug 10 2026 19:23:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ UPDATE: Nearly 15% of tokenized stock market cap now sits outside BNB Chain, Ethereum and Solana, led by Avalanche and Arbitrum.",
-    "link": "https://cryptopanic.com/news/33188633/UPDATE-Nearly-15-of-tokenized-stock-market-cap-now-sits-outside-BNB-Chain-Ethereum-and-Solana-led-by-Avalanche-and-Arbitrum",
-    "source": "@cointelegraph",
-    "published": "Mon Aug 10 2026 19:20:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Hard Fork CONFIRMED — What Happens Next?",
-    "link": "https://cryptopanic.com/news/33188552/Bitcoin-Hard-Fork-CONFIRMED-What-Happens-Next",
-    "source": "BTCSessions",
-    "published": "Mon Aug 10 2026 19:17:03 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
