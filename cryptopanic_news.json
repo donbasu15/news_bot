@@ -1,9 +1,86 @@
 [
   {
+    "title": "National Bank Of Canada Discloses Stakes In Crypto ETFs",
+    "link": "https://cryptopanic.com/news/33195847/National-Bank-Of-Canada-Discloses-Stakes-In-Crypto-ETFs",
+    "source": "cryptoprowl.com",
+    "published": "Tue Aug 11 2026 22:11:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Strategy CEO Says Bitcoin Holdings Will Grow By Year’s End",
+    "link": "https://cryptopanic.com/news/33195825/Strategy-CEO-Says-Bitcoin-Holdings-Will-Grow-By-Years-End",
+    "source": "cryptoprowl.com",
+    "published": "Tue Aug 11 2026 22:09:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Arthur Hayes says Trump’s Bessent wants to use dollar-yen exchange rate to force the Fed into printing money",
+    "link": "https://cryptopanic.com/news/33195823/Arthur-Hayes-says-Trumps-Bessent-wants-to-use-dollar-yen-exchange-rate-to-force-the-Fed-into-printing-money",
+    "source": "cryptopolitan.com",
+    "published": "Tue Aug 11 2026 22:07:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The CFTC invokes emergency authority to keep Kalshi trading amid New York's lawsuit\n\nThe regulator ordered the exchange to continue operating under the Commodity Exchange Act's core principles on Tuesday, after @Kalshi notified it of a market emergency.\n\nNew York Attorney General",
+    "link": "https://cryptopanic.com/news/33195838/The-CFTC-invokes-emergency-authority-to-keep-Kalshi-trading-amid-New-Yorks-lawsuit-The-regulator-ordered-the-exchange-to-continue-operating-under-the-Commodity-Exchange-Acts-core-principles-on-Tuesday-after-Kalshi-notified-it-of-a-market-emergency-New-York-Attorney-General",
+    "source": "@bscnews",
+    "published": "Tue Aug 11 2026 22:04:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Another OpenAI Exec Quits in Leadership Shake-Up as AI Giant Eyes IPO",
+    "link": "https://cryptopanic.com/news/33195806/Another-OpenAI-Exec-Quits-in-Leadership-Shake-Up-as-AI-Giant-Eyes-IPO",
+    "source": "decrypt.co",
+    "published": "Tue Aug 11 2026 22:04:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CFTC flexes emergency authority to keep Kalshi operating amid New York lawsuit",
+    "link": "https://cryptopanic.com/news/33195789/CFTC-flexes-emergency-authority-to-keep-Kalshi-operating-amid-New-York-lawsuit",
+    "source": "theblock.co",
+    "published": "Tue Aug 11 2026 22:00:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tokenised RWAs closing in on $30B across 149 protocols.\n\n🥇BlackRock BUIDL \n🥈Tether Gold \n🥉Circle USYC \n4⃣ $ONDO \n5⃣Spiko \n\nAnd @StellarOrg BENJI fund is right in the mix too. $XLM",
+    "link": "https://cryptopanic.com/news/33195836/Tokenised-RWAs-closing-in-on-30B-across-149-protocols-BlackRock-BUIDL-Tether-Gold-Circle-USYC-4-ONDO-5Spiko-And-StellarOrg-BENJI-fund-is-right-in-the-mix-too-XLM",
+    "source": "@realallincrypto",
+    "published": "Tue Aug 11 2026 22:00:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BTC BIP-110: The True Test of Consensus Revealed!",
+    "link": "https://cryptopanic.com/news/33195811/BTC-BIP-110-The-True-Test-of-Consensus-Revealed",
+    "source": "SimplyBitcoin",
+    "published": "Tue Aug 11 2026 22:00:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Aster has launched AOS-2, allowing qualifying projects to seek perpetual listings by staking 1 million ASTER and securing approval through an on-chain validator vote.",
+    "link": "https://cryptopanic.com/news/33195765/LATEST-Aster-has-launched-AOS-2-allowing-qualifying-projects-to-seek-perpetual-listings-by-staking-1-million-ASTER-and-securing-approval-through-an-on-chain-validator-vote",
+    "source": "@coinmarketcap",
+    "published": "Tue Aug 11 2026 21:53:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The Cardano Foundation votes yes on a 120 million ADA treasury withdrawal for DeFi liquidity\n\nThe @Cardano_CF backed AlphaGrowth's @Cardano PRIME governance action today and published its full rationale on chain. It said the vote rests on the programme's structure rather than its",
+    "link": "https://cryptopanic.com/news/33195837/The-Cardano-Foundation-votes-yes-on-a-120-million-ADA-treasury-withdrawal-for-DeFi-liquidity-The-Cardano_CF-backed-AlphaGrowths-Cardano-PRIME-governance-action-today-and-published-its-full-rationale-on-chain-It-said-the-vote-rests-on-the-programmes-structure-rather-than-its",
+    "source": "@bscnews",
+    "published": "Tue Aug 11 2026 21:47:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "INTEL: CFTC charges Christopher Delgado over a $397M crypto Ponzi scheme",
     "link": "https://cryptopanic.com/news/33195746/INTEL-CFTC-charges-Christopher-Delgado-over-a-397M-crypto-Ponzi-scheme",
     "source": "@solidintel_x",
     "published": "Tue Aug 11 2026 21:41:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "‘Dollar Smile’ Creator Says Yen Intervention Marks the Peak: Is 125 Next?",
+    "link": "https://cryptopanic.com/news/33195818/Dollar-Smile-Creator-Says-Yen-Intervention-Marks-the-Peak-Is-125-Next",
+    "source": "beincrypto.com",
+    "published": "Tue Aug 11 2026 21:41:01 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -130,83 +207,6 @@
     "link": "https://cryptopanic.com/news/33195683/Coinbase-wins-an-Abu-Dhabi-license-and-names-ADGM-its-international-tokenization-hub-The-Financial-Services-Regulatory-Authority-cleared-coinbase-to-arrange-investment-deals-and-provide-custody-Tokenized-securities-would-be-registered-and-issued-in-ADGM-and-backed-by-the",
     "source": "@bscnews",
     "published": "Tue Aug 11 2026 20:58:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana Bulls Set Eyes On $100 Price Ahead Of CPI Data",
-    "link": "https://cryptopanic.com/news/33195611/Solana-Bulls-Set-Eyes-On-100-Price-Ahead-Of-CPI-Data",
-    "source": "dailycoin.com",
-    "published": "Tue Aug 11 2026 20:58:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto bridge loses nearly all of 200,000 XRP in 97 minutes",
-    "link": "https://cryptopanic.com/news/33195642/Crypto-bridge-loses-nearly-all-of-200000-XRP-in-97-minutes",
-    "source": "thestreet.com",
-    "published": "Tue Aug 11 2026 20:56:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SEC Could Unveil Tokenized Stock Trading Exemption as Soon as Friday\n\nThe SEC plans to advance two major crypto regulatory initiatives in the coming days, Bloomberg reported. The agency will hold an open meeting Friday to consider a tailored offering regime for certain investment",
-    "link": "https://cryptopanic.com/news/33195648/SEC-Could-Unveil-Tokenized-Stock-Trading-Exemption-as-Soon-as-Friday-The-SEC-plans-to-advance-two-major-crypto-regulatory-initiatives-in-the-coming-days-Bloomberg-reported-The-agency-will-hold-an-open-meeting-Friday-to-consider-a-tailored-offering-regime-for-certain-investment",
-    "source": "@wublockchain",
-    "published": "Tue Aug 11 2026 20:52:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Arthur Hayes Flips the Yen Risk Thesis for Bitcoin",
-    "link": "https://cryptopanic.com/news/33195583/Arthur-Hayes-Flips-the-Yen-Risk-Thesis-for-Bitcoin",
-    "source": "coindoo.com",
-    "published": "Tue Aug 11 2026 20:51:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 Bitwise hits $600M in Bitcoin ETF in-kind deals — Matt Hougan. \n\n“They transfer BTC into an ETF tax-free.” \n\n“We’ll see over $1B in coming years.”",
-    "link": "https://cryptopanic.com/news/33195614/JUST-IN-Bitwise-hits-600M-in-Bitcoin-ETF-in-kind-deals-Matt-Hougan-They-transfer-BTC-into-an-ETF-tax-free-Well-see-over-1B-in-coming-years",
-    "source": "@btc_archive",
-    "published": "Tue Aug 11 2026 20:46:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Bull and Bear Case for Solana’s Next Price Move",
-    "link": "https://cryptopanic.com/news/33195568/The-Bull-and-Bear-Case-for-Solanas-Next-Price-Move",
-    "source": "decrypt.co",
-    "published": "Tue Aug 11 2026 20:46:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BitMine Pushes Ethereum Treasury Past 5.8M ETH",
-    "link": "https://cryptopanic.com/news/33195570/BitMine-Pushes-Ethereum-Treasury-Past-58M-ETH",
-    "source": "newsbtc.com",
-    "published": "Tue Aug 11 2026 20:45:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Terra Classic and Chainlink post weekly gains as the broader market slips\n\n$LINK rose 4.67% over 24 hours and is up 6.17% on the week at $8.66, on a $6.48 billion market cap. $LUNC gained 3.43% on the day and 3.15% over seven days.\n\nAll while the total crypto market cap fell",
-    "link": "https://cryptopanic.com/news/33195563/Terra-Classic-and-Chainlink-post-weekly-gains-as-the-broader-market-slips-LINK-rose-467-over-24-hours-and-is-up-617-on-the-week-at-866-on-a-648-billion-market-cap-LUNC-gained-343-on-the-day-and-315-over-seven-days-All-while-the-total-crypto-market-cap-fell",
-    "source": "@bscnews",
-    "published": "Tue Aug 11 2026 20:42:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Peter Schiff called Bitcoin \"anti-gold,\" arguing the two assets have moved inversely and predicting BTC will fall further as gold's rally resumes.",
-    "link": "https://cryptopanic.com/news/33195647/LATEST-Peter-Schiff-called-Bitcoin-anti-gold-arguing-the-two-assets-have-moved-inversely-and-predicting-BTC-will-fall-further-as-golds-rally-resumes",
-    "source": "@coinmarketcap",
-    "published": "Tue Aug 11 2026 20:41:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 JUST IN: Polymarket is strengthening its leadership, compliance and marketing teams ahead of an expected fall trading boom around the NFL season and U.S. midterm elections.",
-    "link": "https://cryptopanic.com/news/33195649/JUST-IN-Polymarket-is-strengthening-its-leadership-compliance-and-marketing-teams-ahead-of-an-expected-fall-trading-boom-around-the-NFL-season-and-US-midterm-elections",
-    "source": "@cointelegraph",
-    "published": "Tue Aug 11 2026 20:40:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitdeer's 20% Crash Is 'An Overreaction,' Benchmark Says: $22 Is BTDR's Target",
-    "link": "https://cryptopanic.com/news/33195566/Bitdeers-20-Crash-Is-An-Overreaction-Benchmark-Says-22-Is-BTDRs-Target",
-    "source": "feeds2.benzinga.com",
-    "published": "Tue Aug 11 2026 20:32:12 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
