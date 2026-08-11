@@ -1,5 +1,26 @@
 [
   {
+    "title": "Crypto Wallet Compromised? How to Tell and What to Do",
+    "link": "https://cryptopanic.com/news/33190498/Crypto-Wallet-Compromised-How-to-Tell-and-What-to-Do",
+    "source": "coinpaper.com",
+    "published": "Tue Aug 11 2026 05:50:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tom Lee's Bitmine Might be Buying More ETH\n\nBitmine, tied to Fundstrat's Tom Lee, might have bought another 13,000 ethereum:native worth about $24.36 million, according to lookonchain.",
+    "link": "https://cryptopanic.com/news/33190463/Tom-Lees-Bitmine-Might-be-Buying-More-ETH-Bitmine-tied-to-Fundstrats-Tom-Lee-might-have-bought-another-13000-ethereumnative-worth-about-2436-million-according-to-lookonchain",
+    "source": "@bscnews",
+    "published": "Tue Aug 11 2026 05:44:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Anthony Pompliano Says He's Betting on the Stupidity of Governments: 'If They Keep Printing Money, Bitcoin Will Go Up'",
+    "link": "https://cryptopanic.com/news/33190512/Anthony-Pompliano-Says-Hes-Betting-on-the-Stupidity-of-Governments-If-They-Keep-Printing-Money-Bitcoin-Will-Go-Up",
+    "source": "feeds2.benzinga.com",
+    "published": "Tue Aug 11 2026 05:43:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Ravencoin Faces Deep Reorg Risk After Consensus Bug Exploited\n\nRavencoin said a critical consensus vulnerability was exploited on its network, causing some nodes to accept invalid blocks, with the first known invalid block appearing at height 4,487,776. \n\nMining pools 2Miners and",
     "link": "https://cryptopanic.com/news/33190385/Ravencoin-Faces-Deep-Reorg-Risk-After-Consensus-Bug-Exploited-Ravencoin-said-a-critical-consensus-vulnerability-was-exploited-on-its-network-causing-some-nodes-to-accept-invalid-blocks-with-the-first-known-invalid-block-appearing-at-height-4487776-Mining-pools-2Miners-and",
     "source": "@wublockchain",
@@ -186,27 +207,6 @@
     "link": "https://cryptopanic.com/news/33190286/LATEST-BitMine-received-another-13K-ETH-worth-roughly-244-million-from-BitGo-today",
     "source": "@cointelegraph",
     "published": "Tue Aug 11 2026 04:01:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Worldcoin’s  $1M liquidity cluster sets $0.40 target: What’s next as WLD surges 10%?",
-    "link": "https://cryptopanic.com/news/33190126/Worldcoins-1M-liquidity-cluster-sets-040-target-Whats-next-as-WLD-surges-10",
-    "source": "ambcrypto.com",
-    "published": "Tue Aug 11 2026 04:00:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ark Invest Buys Coinbase and Circle as Crypto Stocks Retreat",
-    "link": "https://cryptopanic.com/news/33190103/Ark-Invest-Buys-Coinbase-and-Circle-as-Crypto-Stocks-Retreat",
-    "source": "catenaa.com",
-    "published": "Tue Aug 11 2026 04:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Have institutions stopped selling $HYPE and started buying?\n\nA wallet linked to Maven11 Capital withdrew 202,705 $HYPE($11.17M) from #OKX 4 hours ago.",
-    "link": "https://cryptopanic.com/news/33190163/Have-institutions-stopped-selling-HYPE-and-started-buying-A-wallet-linked-to-Maven11-Capital-withdrew-202705-HYPE1117M-from-OKX-4-hours-ago",
-    "source": "@lookonchain",
-    "published": "Tue Aug 11 2026 03:52:45 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
