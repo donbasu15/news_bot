@@ -1,5 +1,61 @@
 [
   {
+    "title": "Ravencoin consensus bug puts exchanges and bridges on reorg alert",
+    "link": "https://cryptopanic.com/news/33192938/Ravencoin-consensus-bug-puts-exchanges-and-bridges-on-reorg-alert",
+    "source": "cryptopolitan.com",
+    "published": "Tue Aug 11 2026 12:39:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 White House Executive Director Patrick Witt says \"The administration remains fully committed to getting the Clarity Act across the finish line in September.\"\n\n\"Durable rules, the kind only legislation can provide, are needed now more than ever.\"",
+    "link": "https://cryptopanic.com/news/33192979/JUST-IN-White-House-Executive-Director-Patrick-Witt-says-The-administration-remains-fully-committed-to-getting-the-Clarity-Act-across-the-finish-line-in-September-Durable-rules-the-kind-only-legislation-can-provide-are-needed-now-more-than-ever",
+    "source": "@bitcoinmagazine",
+    "published": "Tue Aug 11 2026 12:36:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Riot Platforms jumps 20% as Anthropic gets named in $9.1 billion AI lease",
+    "link": "https://cryptopanic.com/news/33192866/Riot-Platforms-jumps-20-as-Anthropic-gets-named-in-91-billion-AI-lease",
+    "source": "cryptopolitan.com",
+    "published": "Tue Aug 11 2026 12:30:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CoinPoker Unveils 50k USDT Crypto Giveaway, Medal Events For Global Online Poker Championship",
+    "link": "https://cryptopanic.com/news/33192865/CoinPoker-Unveils-50k-USDT-Crypto-Giveaway-Medal-Events-For-Global-Online-Poker-Championship",
+    "source": "cryptonews.com",
+    "published": "Tue Aug 11 2026 12:29:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SEC Seeks to Open a New Door for Crypto as CLARITY Act Hits a Senate Wall — XRP Takes Notice",
+    "link": "https://cryptopanic.com/news/33192845/SEC-Seeks-to-Open-a-New-Door-for-Crypto-as-CLARITY-Act-Hits-a-Senate-Wall-XRP-Takes-Notice",
+    "source": "coinpaper.com",
+    "published": "Tue Aug 11 2026 12:24:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "RKLB Stock Drops 8% After Rocket Lab Earnings as Neutron Delay Fears Grow",
+    "link": "https://cryptopanic.com/news/33192843/RKLB-Stock-Drops-8-After-Rocket-Lab-Earnings-as-Neutron-Delay-Fears-Grow",
+    "source": "coinpaper.com",
+    "published": "Tue Aug 11 2026 12:23:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin’s Biggest Holders Are Quietly Sending a Signal — What Comes Next?",
+    "link": "https://cryptopanic.com/news/33192850/Bitcoins-Biggest-Holders-Are-Quietly-Sending-a-Signal-What-Comes-Next",
+    "source": "techgaged.com",
+    "published": "Tue Aug 11 2026 12:22:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Morning Minute: Saylor's Strategy Sells Bitcoin for Second Week in a Row",
+    "link": "https://cryptopanic.com/news/33192846/Morning-Minute-Saylors-Strategy-Sells-Bitcoin-for-Second-Week-in-a-Row",
+    "source": "decrypt.co",
+    "published": "Tue Aug 11 2026 12:22:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "SpaceX signs Vietnam’s VinSpace as its stock surges past $135 IPO price",
     "link": "https://cryptopanic.com/news/33192828/SpaceX-signs-Vietnams-VinSpace-as-its-stock-surges-past-135-IPO-price",
     "source": "cryptopolitan.com",
@@ -7,9 +63,9 @@
     "sentiment": "neutral"
   },
   {
-    "title": "WATCH: From Nvidia drumming up cash to four legged robots keeping homes safe, these are the most important tech stories of the week",
-    "link": "https://cryptopanic.com/news/33192753/WATCH-From-Nvidia-drumming-up-cash-to-four-legged-robots-keeping-homes-safe-these-are-the-most-important-tech-stories-of-the-week",
-    "source": "@reutersbiz",
+    "title": "Pi Network Prepares for its Most Important Upgrade Yet\n\nPi Network (@PiNetwork) is rolling out Protocol v26 today. \n\nThis protocol update from the Core Team is described as one of the last protocol upgrades before Protocol 27, which is anticipated to conclude the network's",
+    "link": "https://cryptopanic.com/news/33192882/Pi-Network-Prepares-for-its-Most-Important-Upgrade-Yet-Pi-Network-PiNetwork-is-rolling-out-Protocol-v26-today-This-protocol-update-from-the-Core-Team-is-described-as-one-of-the-last-protocol-upgrades-before-Protocol-27-which-is-anticipated-to-conclude-the-networks",
+    "source": "@bscnews",
     "published": "Tue Aug 11 2026 12:10:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -21,10 +77,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "WATCH: From Nvidia drumming up cash to four legged robots keeping homes safe, these are the most important tech stories of the week",
+    "link": "https://cryptopanic.com/news/33192753/WATCH-From-Nvidia-drumming-up-cash-to-four-legged-robots-keeping-homes-safe-these-are-the-most-important-tech-stories-of-the-week",
+    "source": "@reutersbiz",
+    "published": "Tue Aug 11 2026 12:10:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Software Stocks Break From Bitcoin as a Familiar Risk Trade Splits",
     "link": "https://cryptopanic.com/news/33192723/Software-Stocks-Break-From-Bitcoin-as-a-Familiar-Risk-Trade-Splits",
     "source": "btcusa.com",
     "published": "Tue Aug 11 2026 12:07:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "TRON Moved $2.1 Trillion in USDT Last Quarter, Yet TRX Didn’t Budge",
+    "link": "https://cryptopanic.com/news/33192864/TRON-Moved-21-Trillion-in-USDT-Last-Quarter-Yet-TRX-Didnt-Budge",
+    "source": "beincrypto.com",
+    "published": "Tue Aug 11 2026 12:07:32 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -70,6 +140,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Stellar leading stablecoin growth up 12% in 7 days!\n\n$XLM is leading crypto where it matters most right now with stablecoin growth as @MSBIntel states.\n\n@StellarOrg added $112M in just 7 days, up 12.1% the fastest growth of any chain tracked.",
+    "link": "https://cryptopanic.com/news/33192881/Stellar-leading-stablecoin-growth-up-12-in-7-days-XLM-is-leading-crypto-where-it-matters-most-right-now-with-stablecoin-growth-as-MSBIntel-states-StellarOrg-added-112M-in-just-7-days-up-121-the-fastest-growth-of-any-chain-tracked",
+    "source": "@realallincrypto",
+    "published": "Tue Aug 11 2026 12:00:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin's Unprecedented Soft Fork! What You NEED to Know!",
     "link": "https://cryptopanic.com/news/33192784/Bitcoins-Unprecedented-Soft-Fork-What-You-NEED-to-Know",
     "source": "SimplyBitcoin",
@@ -81,6 +158,13 @@
     "link": "https://cryptopanic.com/news/33192668/TRX-staking-declines-as-TRONs-Q2-USDT-transfers-hit-21T-Can-demand-beat-supply",
     "source": "ambcrypto.com",
     "published": "Tue Aug 11 2026 12:00:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "What a wild ride watching @mdudas turn a few SOL into a few million USD with El “TOAD” Pepe.",
+    "link": "https://cryptopanic.com/news/33192883/What-a-wild-ride-watching-mdudas-turn-a-few-SOL-into-a-few-million-USD-with-El-TOAD-Pepe",
+    "source": "@decryptmedia",
+    "published": "Tue Aug 11 2026 12:00:03 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -123,90 +207,6 @@
     "link": "https://cryptopanic.com/news/33192725/Australian-watchdog-suspends-Cryptolink-forcing-96-ATMs-offline",
     "source": "coindesk.com",
     "published": "Tue Aug 11 2026 11:45:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Is Shiba Inu's L2 Set to Repeat the Dogecoin Story?\n\nDogechain, a Layer 2 blockchain solution for @Dogecoin, shut down its operations on August 8, 2026. \n\nThis followed a 60-day withdrawal period beginning at the end of July 2026 due to insufficient trade volumes and unfavorable",
-    "link": "https://cryptopanic.com/news/33192578/Is-Shiba-Inus-L2-Set-to-Repeat-the-Dogecoin-Story-Dogechain-a-Layer-2-blockchain-solution-for-Dogecoin-shut-down-its-operations-on-August-8-2026-This-followed-a-60-day-withdrawal-period-beginning-at-the-end-of-July-2026-due-to-insufficient-trade-volumes-and-unfavorable",
-    "source": "@bscnews",
-    "published": "Tue Aug 11 2026 11:44:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Price Prediction: Will $64K Hold Ahead of Tomorrow’s CPI Data?",
-    "link": "https://cryptopanic.com/news/33192550/Bitcoin-Price-Prediction-Will-64K-Hold-Ahead-of-Tomorrows-CPI-Data",
-    "source": "cryptonews.com",
-    "published": "Tue Aug 11 2026 11:42:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  US spot Bitcoin ETFs pulled in $853.5M last week, their strongest inflow week since mid-April.",
-    "link": "https://cryptopanic.com/news/33192744/LATEST-US-spot-Bitcoin-ETFs-pulled-in-8535M-last-week-their-strongest-inflow-week-since-mid-April",
-    "source": "@coinmarketcap",
-    "published": "Tue Aug 11 2026 11:41:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEWS: Coinbase is launching futures, perpetuals and options for professional investors in the UK with more than 170 contracts across crypto, commodities, equities and FX.",
-    "link": "https://cryptopanic.com/news/33192579/NEWS-Coinbase-is-launching-futures-perpetuals-and-options-for-professional-investors-in-the-UK-with-more-than-170-contracts-across-crypto-commodities-equities-and-FX",
-    "source": "@decryptmedia",
-    "published": "Tue Aug 11 2026 11:39:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INSIGHT: Bitcoin sell pressure may be nearing exhaustion after USDT’s 60-day market cap change fell by nearly $5B, per CryptoQuant.",
-    "link": "https://cryptopanic.com/news/33192750/INSIGHT-Bitcoin-sell-pressure-may-be-nearing-exhaustion-after-USDTs-60-day-market-cap-change-fell-by-nearly-5B-per-CryptoQuant",
-    "source": "@cointelegraph",
-    "published": "Tue Aug 11 2026 11:36:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump Media records $360.6 million unrealized loss on digital assets in first half of the year",
-    "link": "https://cryptopanic.com/news/33192523/Trump-Media-records-3606-million-unrealized-loss-on-digital-assets-in-first-half-of-the-year",
-    "source": "theblock.co",
-    "published": "Tue Aug 11 2026 11:34:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BRICS Eyes CBDC and Payment-System Links to Cut Costs",
-    "link": "https://cryptopanic.com/news/33192516/BRICS-Eyes-CBDC-and-Payment-System-Links-to-Cut-Costs",
-    "source": "coindoo.com",
-    "published": "Tue Aug 11 2026 11:34:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana Price Prediction: Can SOL Break $77 as On-Chain Activity Surges?",
-    "link": "https://cryptopanic.com/news/33192486/Solana-Price-Prediction-Can-SOL-Break-77-as-On-Chain-Activity-Surges",
-    "source": "coinpaper.com",
-    "published": "Tue Aug 11 2026 11:32:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cardano Millionaires Back Down: Why Whales Are Cashing Out of ADA Now",
-    "link": "https://cryptopanic.com/news/33192544/Cardano-Millionaires-Back-Down-Why-Whales-Are-Cashing-Out-of-ADA-Now",
-    "source": "u.today",
-    "published": "Tue Aug 11 2026 11:30:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "What if that was NOT a 4 year cycle?\n\nWhat if it was a cycle within a cycle?",
-    "link": "https://cryptopanic.com/news/33192634/What-if-that-was-NOT-a-4-year-cycle-What-if-it-was-a-cycle-within-a-cycle",
-    "source": "@btc_archive",
-    "published": "Tue Aug 11 2026 11:27:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Price Prediction: Can BTC Reclaim $64.5K and Break Above $67K?",
-    "link": "https://cryptopanic.com/news/33192408/Bitcoin-Price-Prediction-Can-BTC-Reclaim-645K-and-Break-Above-67K",
-    "source": "coinpaper.com",
-    "published": "Tue Aug 11 2026 11:27:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SEC Tees Up New Crypto Rulebook As XRP Wobbles",
-    "link": "https://cryptopanic.com/news/33192399/SEC-Tees-Up-New-Crypto-Rulebook-As-XRP-Wobbles",
-    "source": "dailycoin.com",
-    "published": "Tue Aug 11 2026 11:25:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
