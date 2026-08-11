@@ -1,51 +1,58 @@
 [
   {
-    "title": "Nobody is actually competing with Ethereum...\n\n@Ethereum's dominance on just about every onchain metric has been overshadowed by $ETH's poor price performance in 2026.\n\nBut don't let this fool you.\n\n$ETH still holds more than 55% of the entire industry's TVL, and nearly 50% of",
-    "link": "https://cryptopanic.com/news/33183100/Nobody-is-actually-competing-with-Ethereum-Ethereums-dominance-on-just-about-every-onchain-metric-has-been-overshadowed-by-ETHs-poor-price-performance-in-2026-But-dont-let-this-fool-you-ETH-still-holds-more-than-55-of-the-entire-industrys-TVL-and-nearly-50-of",
+    "title": "Ravencoin Faces Deep Reorg Risk After Consensus Bug Exploited\n\nRavencoin said a critical consensus vulnerability was exploited on its network, causing some nodes to accept invalid blocks, with the first known invalid block appearing at height 4,487,776. \n\nMining pools 2Miners and",
+    "link": "https://cryptopanic.com/news/33190385/Ravencoin-Faces-Deep-Reorg-Risk-After-Consensus-Bug-Exploited-Ravencoin-said-a-critical-consensus-vulnerability-was-exploited-on-its-network-causing-some-nodes-to-accept-invalid-blocks-with-the-first-known-invalid-block-appearing-at-height-4487776-Mining-pools-2Miners-and",
+    "source": "@wublockchain",
+    "published": "Tue Aug 11 2026 05:31:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Assessing Bitcoin’s latest recovery attempt after $23.4B in longs crowd the market",
+    "link": "https://cryptopanic.com/news/33190402/Assessing-Bitcoins-latest-recovery-attempt-after-234B-in-longs-crowd-the-market",
+    "source": "ambcrypto.com",
+    "published": "Tue Aug 11 2026 05:30:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Active Addresses Hit 5 Month High\n\nEthereum ethereum:native logged 989,500 active addresses in 24 hours, its busiest stretch since March. Price held steady near $1.87K despite the surge in activity. \n\nImproving ETF demand could be helping bring capital back to Ethereum.",
+    "link": "https://cryptopanic.com/news/33190461/Ethereum-Active-Addresses-Hit-5-Month-High-Ethereum-ethereumnative-logged-989500-active-addresses-in-24-hours-its-busiest-stretch-since-March-Price-held-steady-near-187K-despite-the-surge-in-activity-Improving-ETF-demand-could-be-helping-bring-capital-back-to-Ethereum",
     "source": "@bscnews",
-    "published": "Mon Aug 10 2026 00:41:00 GMT+0000 (Coordinated Universal Time)",
+    "published": "Tue Aug 11 2026 05:27:01 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Ethereum Foundation To Hire An A.I. Security Researcher",
-    "link": "https://cryptopanic.com/news/33169053/Ethereum-Foundation-To-Hire-An-AI-Security-Researcher",
-    "source": "cryptoprowl.com",
-    "published": "Thu Aug 06 2026 19:27:00 GMT+0000 (Coordinated Universal Time)",
+    "title": "BIG: Anthropic is holding meetings with potential investors to build momentum ahead of a possible IPO that could launch as soon as September or October, per WSJ.",
+    "link": "https://cryptopanic.com/news/33190387/BIG-Anthropic-is-holding-meetings-with-potential-investors-to-build-momentum-ahead-of-a-possible-IPO-that-could-launch-as-soon-as-September-or-October-per-WSJ",
+    "source": "@cointelegraph",
+    "published": "Tue Aug 11 2026 05:20:55 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Ethereum researchers propose burning validator rewards to cap staking at 50%",
-    "link": "https://cryptopanic.com/news/33154573/Ethereum-researchers-propose-burning-validator-rewards-to-cap-staking-at-50",
-    "source": "theblock.co",
-    "published": "Tue Aug 04 2026 19:49:58 GMT+0000 (Coordinated Universal Time)",
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33190384/Source",
+    "source": "@wublockchain",
+    "published": "Tue Aug 11 2026 05:10:56 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Ethereum Just Had Its Best Month in a Year: Can ETH Keep Rallying in August?",
-    "link": "https://cryptopanic.com/news/33140592/Ethereum-Just-Had-Its-Best-Month-in-a-Year-Can-ETH-Keep-Rallying-in-August",
-    "source": "cryptopotato.com",
-    "published": "Sun Aug 02 2026 11:27:10 GMT+0000 (Coordinated Universal Time)",
+    "title": "Anthropic Strikes $9.1 Billion Compute Deal With Bitcoin Miner Riot\n\nAnthropic has struck a 20-year, $9.1 billion data-center deal with Riot Platforms to secure 191 MW of computing capacity at Riot’s Rockdale campus in Texas, as the Claude maker races to lock in infrastructure",
+    "link": "https://cryptopanic.com/news/33190383/Anthropic-Strikes-91-Billion-Compute-Deal-With-Bitcoin-Miner-Riot-Anthropic-has-struck-a-20-year-91-billion-data-center-deal-with-Riot-Platforms-to-secure-191-MW-of-computing-capacity-at-Riots-Rockdale-campus-in-Texas-as-the-Claude-maker-races-to-lock-in-infrastructure",
+    "source": "@wublockchain",
+    "published": "Tue Aug 11 2026 05:09:37 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Ethereum’s 43-day staking queue isn’t a clean demand signal, Sygnum says",
-    "link": "https://cryptopanic.com/news/33133325/Ethereums-43-day-staking-queue-isnt-a-clean-demand-signal-Sygnum-says",
-    "source": "theblock.co",
-    "published": "Fri Jul 31 2026 14:35:11 GMT+0000 (Coordinated Universal Time)",
+    "title": "Whales keep selling $BTC.\n\nWhale bc1qdj sold 1,274 $BTC ($81.5M) through #Cumberland, #FalconX, and #GalaxyDigital 6 hours ago.",
+    "link": "https://cryptopanic.com/news/33190464/Whales-keep-selling-BTC-Whale-bc1qdj-sold-1274-BTC-815M-through-Cumberland-FalconX-and-GalaxyDigital-6-hours-ago",
+    "source": "@lookonchain",
+    "published": "Tue Aug 11 2026 05:09:10 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "‪Ethereum’s Relationship With AI: A Foundational for Economic Layer",
-    "link": "https://cryptopanic.com/news/33119456/Ethereums-Relationship-With-AI-A-Foundational-for-Economic-Layer",
-    "source": "zycrypto.com",
-    "published": "Wed Jul 29 2026 13:50:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum L2 ecosystem loses momentum as TVL drops to two-year low",
-    "link": "https://cryptopanic.com/news/33114393/Ethereum-L2-ecosystem-loses-momentum-as-TVL-drops-to-two-year-low",
-    "source": "theblock.co",
-    "published": "Tue Jul 28 2026 18:21:02 GMT+0000 (Coordinated Universal Time)",
+    "title": "LATEST: ️ Vitalik Buterin says Ethereum will be quantum-safe, put users' privacy first, be censorship-resistant, and be lean.",
+    "link": "https://cryptopanic.com/news/33190382/LATEST-Vitalik-Buterin-says-Ethereum-will-be-quantum-safe-put-users-privacy-first-be-censorship-resistant-and-be-lean",
+    "source": "@coinmarketcap",
+    "published": "Tue Aug 11 2026 05:05:10 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -53,6 +60,20 @@
     "link": "https://cryptopanic.com/news/33190350/Institutional-traders-take-a-bigger-hand-in-setting-Bitcoin-price",
     "source": "cryptopolitan.com",
     "published": "Tue Aug 11 2026 05:04:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CLARITY Act Faces 75% Chance Of Failure This Fall\n\nTD Cowen analyst Jaret Seiberg puts the odds of the CLARITY Act becoming law at just 25%. The warning comes days after Senate Majority Leader John Thune filed cloture on the bill. \n\nSeiberg says the CLARITY Act is not dead but",
+    "link": "https://cryptopanic.com/news/33190458/CLARITY-Act-Faces-75-Chance-Of-Failure-This-Fall-TD-Cowen-analyst-Jaret-Seiberg-puts-the-odds-of-the-CLARITY-Act-becoming-law-at-just-25-The-warning-comes-days-after-Senate-Majority-Leader-John-Thune-filed-cloture-on-the-bill-Seiberg-says-the-CLARITY-Act-is-not-dead-but",
+    "source": "@bscnews",
+    "published": "Tue Aug 11 2026 05:01:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 JUST IN: The SEC exempts data center bonds from key asset-backed securities rules, making it easier for owners to raise capital as AI computing demand surges.",
+    "link": "https://cryptopanic.com/news/33190386/JUST-IN-The-SEC-exempts-data-center-bonds-from-key-asset-backed-securities-rules-making-it-easier-for-owners-to-raise-capital-as-AI-computing-demand-surges",
+    "source": "@cointelegraph",
+    "published": "Tue Aug 11 2026 05:01:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -81,6 +102,20 @@
     "link": "https://cryptopanic.com/news/33190313/Chainlinks-Path-to-200-Hinges-on-a-4-Trillion-Tokenization-Surge-Standard-Chartered",
     "source": "coinpaprika.com",
     "published": "Tue Aug 11 2026 05:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP, ether lead crypto losses as traders eye $70,000 bitcoin next",
+    "link": "https://cryptopanic.com/news/33190375/XRP-ether-lead-crypto-losses-as-traders-eye-70000-bitcoin-next",
+    "source": "coindesk.com",
+    "published": "Tue Aug 11 2026 04:50:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitdeer Stock Craters 20% Following Wider Second-Quarter Net Loss",
+    "link": "https://cryptopanic.com/news/33190426/Bitdeer-Stock-Craters-20-Following-Wider-Second-Quarter-Net-Loss",
+    "source": "beincrypto.com",
+    "published": "Tue Aug 11 2026 04:45:30 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33190163/Have-institutions-stopped-selling-HYPE-and-started-buying-A-wallet-linked-to-Maven11-Capital-withdrew-202705-HYPE1117M-from-OKX-4-hours-ago",
     "source": "@lookonchain",
     "published": "Tue Aug 11 2026 03:52:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Pumpfun Crossed a Major Fee Milestone\n\nPumpfun (@Pumpfun) earned $10.03 million in protocol fees for the first time from August 3 to 9. That marks a 12% jump week over week. \n\nTrading volume hit $2.97 billion, the highest since late January.",
-    "link": "https://cryptopanic.com/news/33190159/Pumpfun-Crossed-a-Major-Fee-Milestone-Pumpfun-Pumpfun-earned-1003-million-in-protocol-fees-for-the-first-time-from-August-3-to-9-That-marks-a-12-jump-week-over-week-Trading-volume-hit-297-billion-the-highest-since-late-January",
-    "source": "@bscnews",
-    "published": "Tue Aug 11 2026 03:49:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin's 'strongest hands' are back, on-chain data show",
-    "link": "https://cryptopanic.com/news/33190151/Bitcoins-strongest-hands-are-back-on-chain-data-show",
-    "source": "coindesk.com",
-    "published": "Tue Aug 11 2026 03:48:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BlackRock Cuts IBIT Bitcoin Conversion Minimum to $1 Million From $25 Million\n\nBitcoin holders can now convert BTC in kind into shares of BlackRock’s iShares Bitcoin Trust (IBIT) with a minimum transaction size of USD 1 million, down sharply from USD 25 million previously,",
-    "link": "https://cryptopanic.com/news/33190098/BlackRock-Cuts-IBIT-Bitcoin-Conversion-Minimum-to-1-Million-From-25-Million-Bitcoin-holders-can-now-convert-BTC-in-kind-into-shares-of-BlackRocks-iShares-Bitcoin-Trust-IBIT-with-a-minimum-transaction-size-of-USD-1-million-down-sharply-from-USD-25-million-previously",
-    "source": "@wublockchain",
-    "published": "Tue Aug 11 2026 03:47:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NOW: Arthur Hayes published a new essay, \"Yen-quake,\" arguing the Treasury will engineer a weaker dollar to strengthen the yen.\n\nThe resulting liquidity surge will send Bitcoin and crypto higher.",
-    "link": "https://cryptopanic.com/news/33190102/NOW-Arthur-Hayes-published-a-new-essay-Yen-quake-arguing-the-Treasury-will-engineer-a-weaker-dollar-to-strengthen-the-yen-The-resulting-liquidity-surge-will-send-Bitcoin-and-crypto-higher",
-    "source": "@cointelegraph",
-    "published": "Tue Aug 11 2026 03:40:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "It seems that Tom Lee(@fundstrat)'s #Bitmine bought another 13,000 $ETH($24.36M) from #BitGo 2 hours ago.",
-    "link": "https://cryptopanic.com/news/33190162/It-seems-that-Tom-Leefundstrats-Bitmine-bought-another-13000-ETH2436M-from-BitGo-2-hours-ago",
-    "source": "@lookonchain",
-    "published": "Tue Aug 11 2026 03:39:35 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
