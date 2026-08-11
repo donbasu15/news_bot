@@ -1,5 +1,33 @@
 [
   {
+    "title": "WATCH: A US judge dismissed criminal charges against Indian billionaire Gautam Adani, but said the Justice Department’s decision to abandon the fraud and bribery case was concerning",
+    "link": "https://cryptopanic.com/news/33190623/WATCH-A-US-judge-dismissed-criminal-charges-against-Indian-billionaire-Gautam-Adani-but-said-the-Justice-Departments-decision-to-abandon-the-fraud-and-bribery-case-was-concerning",
+    "source": "@reutersbiz",
+    "published": "Tue Aug 11 2026 06:15:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Most of the $BTC stolen in the Coldcard hack sits in just a handful of wallets, with the top 5 addresses holding nearly 83% of the confirmed stolen funds, per CryptoQuant's Julio Moreno.",
+    "link": "https://cryptopanic.com/news/33190621/UPDATE-Most-of-the-BTC-stolen-in-the-Coldcard-hack-sits-in-just-a-handful-of-wallets-with-the-top-5-addresses-holding-nearly-83-of-the-confirmed-stolen-funds-per-CryptoQuants-Julio-Moreno",
+    "source": "@cointelegraph",
+    "published": "Tue Aug 11 2026 06:01:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Beware of scammers trying to impersonate CoinMarketCap members. CMC does NOT have a phone number, and we will NEVER call you. When in doubt, always contact CMC Customer Service for verification.",
+    "link": "https://cryptopanic.com/news/33190619/Beware-of-scammers-trying-to-impersonate-CoinMarketCap-members-CMC-does-NOT-have-a-phone-number-and-we-will-NEVER-call-you-When-in-doubt-always-contact-CMC-Customer-Service-for-verification",
+    "source": "@coinmarketcap",
+    "published": "Tue Aug 11 2026 06:00:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: ️ Keel has decommissioned all of its US bitcoin mining operations, converting the sites into AI and high-performance computing data centers.",
+    "link": "https://cryptopanic.com/news/33190618/LATEST-Keel-has-decommissioned-all-of-its-US-bitcoin-mining-operations-converting-the-sites-into-AI-and-high-performance-computing-data-centers",
+    "source": "@coinmarketcap",
+    "published": "Tue Aug 11 2026 05:52:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Crypto Wallet Compromised? How to Tell and What to Do",
     "link": "https://cryptopanic.com/news/33190498/Crypto-Wallet-Compromised-How-to-Tell-and-What-to-Do",
     "source": "coinpaper.com",
@@ -21,6 +49,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "ALERT: US oil in the Strategic Petroleum Reserve has fallen below 300 million barrels, its lowest level since 1983, after this year's releases tied to the Iran war.",
+    "link": "https://cryptopanic.com/news/33190620/ALERT-US-oil-in-the-Strategic-Petroleum-Reserve-has-fallen-below-300-million-barrels-its-lowest-level-since-1983-after-this-years-releases-tied-to-the-Iran-war",
+    "source": "@cointelegraph",
+    "published": "Tue Aug 11 2026 05:40:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Ravencoin Faces Deep Reorg Risk After Consensus Bug Exploited\n\nRavencoin said a critical consensus vulnerability was exploited on its network, causing some nodes to accept invalid blocks, with the first known invalid block appearing at height 4,487,776. \n\nMining pools 2Miners and",
     "link": "https://cryptopanic.com/news/33190385/Ravencoin-Faces-Deep-Reorg-Risk-After-Consensus-Bug-Exploited-Ravencoin-said-a-critical-consensus-vulnerability-was-exploited-on-its-network-causing-some-nodes-to-accept-invalid-blocks-with-the-first-known-invalid-block-appearing-at-height-4487776-Mining-pools-2Miners-and",
     "source": "@wublockchain",
@@ -35,6 +70,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "OpenAI Ships GPT-5.6-Cyber Through Gated Daybreak Red Access Tier",
+    "link": "https://cryptopanic.com/news/33190633/OpenAI-Ships-GPT-56-Cyber-Through-Gated-Daybreak-Red-Access-Tier",
+    "source": "beincrypto.com",
+    "published": "Tue Aug 11 2026 05:27:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Ethereum Active Addresses Hit 5 Month High\n\nEthereum ethereum:native logged 989,500 active addresses in 24 hours, its busiest stretch since March. Price held steady near $1.87K despite the surge in activity. \n\nImproving ETF demand could be helping bring capital back to Ethereum.",
     "link": "https://cryptopanic.com/news/33190461/Ethereum-Active-Addresses-Hit-5-Month-High-Ethereum-ethereumnative-logged-989500-active-addresses-in-24-hours-its-busiest-stretch-since-March-Price-held-steady-near-187K-despite-the-surge-in-activity-Improving-ETF-demand-could-be-helping-bring-capital-back-to-Ethereum",
     "source": "@bscnews",
@@ -42,10 +84,31 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Bitcoin’s BIP-110 fork is 300 blocks behind BTC and six years from fixing itself",
+    "link": "https://cryptopanic.com/news/33190661/Bitcoins-BIP-110-fork-is-300-blocks-behind-BTC-and-six-years-from-fixing-itself",
+    "source": "coindesk.com",
+    "published": "Tue Aug 11 2026 05:26:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "12 Nasdaq Stocks Doubled in 2026, But None Are Magnificent Seven",
+    "link": "https://cryptopanic.com/news/33190632/12-Nasdaq-Stocks-Doubled-in-2026-But-None-Are-Magnificent-Seven",
+    "source": "beincrypto.com",
+    "published": "Tue Aug 11 2026 05:25:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "BIG: Anthropic is holding meetings with potential investors to build momentum ahead of a possible IPO that could launch as soon as September or October, per WSJ.",
     "link": "https://cryptopanic.com/news/33190387/BIG-Anthropic-is-holding-meetings-with-potential-investors-to-build-momentum-ahead-of-a-possible-IPO-that-could-launch-as-soon-as-September-or-October-per-WSJ",
     "source": "@cointelegraph",
     "published": "Tue Aug 11 2026 05:20:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ZachXBT Traces $5M Crypto Thefts to US-Based Support Impersonation Scammer",
+    "link": "https://cryptopanic.com/news/33190631/ZachXBT-Traces-5M-Crypto-Thefts-to-US-Based-Support-Impersonation-Scammer",
+    "source": "beincrypto.com",
+    "published": "Tue Aug 11 2026 05:15:19 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -144,69 +207,6 @@
     "link": "https://cryptopanic.com/news/33190306/Arthur-Hayes-Sees-a-New-Bitcoin-Liquidity-Boost-From-Japan-BitMEX-co-founder-Arthur-Hayes-CryptoHayes-argues-a-Fed-plan-to-help-Japan-defend-the-yen-will-print-fresh-dollar-liquidity-He-says-that-liquidity-historically-flows-into-Bitcoin-Hayes-says-Japan-could-repo-part",
     "source": "@bscnews",
     "published": "Tue Aug 11 2026 04:44:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BULLISH: Gold touched $4,400 an ounce as traders eye upcoming US inflation data for clues on the Fed's next rate move.",
-    "link": "https://cryptopanic.com/news/33190291/BULLISH-Gold-touched-4400-an-ounce-as-traders-eye-upcoming-US-inflation-data-for-clues-on-the-Feds-next-rate-move",
-    "source": "@cointelegraph",
-    "published": "Tue Aug 11 2026 04:40:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AMZN Stock to Close Above $300 by August End? Crypto Punters Bet on the Possibility Following Amazon's Impressive Q2 Performance",
-    "link": "https://cryptopanic.com/news/33190298/AMZN-Stock-to-Close-Above-300-by-August-End-Crypto-Punters-Bet-on-the-Possibility-Following-Amazons-Impressive-Q2-Performance",
-    "source": "feeds2.benzinga.com",
-    "published": "Tue Aug 11 2026 04:36:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump Media Plans Major Crypto Treasury Reset After $238M Loss\n\nTrump Media plans to revamp its digital asset treasury strategy after a $238 million Q2 net loss.\n\nThe company reported $190.4 million in unrealized losses across digital assets and securities.\n\nTrump Media said the",
-    "link": "https://cryptopanic.com/news/33190305/Trump-Media-Plans-Major-Crypto-Treasury-Reset-After-238M-Loss-Trump-Media-plans-to-revamp-its-digital-asset-treasury-strategy-after-a-238-million-Q2-net-loss-The-company-reported-1904-million-in-unrealized-losses-across-digital-assets-and-securities-Trump-Media-said-the",
-    "source": "@bscnews",
-    "published": "Tue Aug 11 2026 04:23:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Applied Compute eyes $3 billion valuation as open-model demand grows",
-    "link": "https://cryptopanic.com/news/33190211/Applied-Compute-eyes-3-billion-valuation-as-open-model-demand-grows",
-    "source": "cryptopolitan.com",
-    "published": "Tue Aug 11 2026 04:20:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇬🇧 JUST IN: UK lawmakers warn that banks' refusal to serve crypto firms is one of the biggest barriers to growth in the country's digital assets industry, FT reports.",
-    "link": "https://cryptopanic.com/news/33190287/JUST-IN-UK-lawmakers-warn-that-banks-refusal-to-serve-crypto-firms-is-one-of-the-biggest-barriers-to-growth-in-the-countrys-digital-assets-industry-FT-reports",
-    "source": "@cointelegraph",
-    "published": "Tue Aug 11 2026 04:14:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cramer’s Analyst Says Eli Lilly’s GLP-1 Stock Rally Has Years Left to Run",
-    "link": "https://cryptopanic.com/news/33190300/Cramers-Analyst-Says-Eli-Lillys-GLP-1-Stock-Rally-Has-Years-Left-to-Run",
-    "source": "beincrypto.com",
-    "published": "Tue Aug 11 2026 04:13:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "U.S. SEC sets meeting to propose Reg Crypto to support certain digital assets offerings",
-    "link": "https://cryptopanic.com/news/33190237/US-SEC-sets-meeting-to-propose-Reg-Crypto-to-support-certain-digital-assets-offerings",
-    "source": "coindesk.com",
-    "published": "Tue Aug 11 2026 04:07:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump Dodged Iran Threat With Secret Catering Truck Switch\n\nDonald Trump was secretly moved via an airport catering truck during a deception operation in Turkey last month, amid an Iranian assassination threat, the New York Times reported.\n\nHe was initially seen boarding the",
-    "link": "https://cryptopanic.com/news/33190161/Trump-Dodged-Iran-Threat-With-Secret-Catering-Truck-Switch-Donald-Trump-was-secretly-moved-via-an-airport-catering-truck-during-a-deception-operation-in-Turkey-last-month-amid-an-Iranian-assassination-threat-the-New-York-Times-reported-He-was-initially-seen-boarding-the",
-    "source": "@bscnews",
-    "published": "Tue Aug 11 2026 04:06:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: BitMine received another 13K $ETH worth roughly $24.4 million from BitGo today.",
-    "link": "https://cryptopanic.com/news/33190286/LATEST-BitMine-received-another-13K-ETH-worth-roughly-244-million-from-BitGo-today",
-    "source": "@cointelegraph",
-    "published": "Tue Aug 11 2026 04:01:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
