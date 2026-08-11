@@ -1,5 +1,26 @@
 [
   {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33191135/Source",
+    "source": "@wublockchain",
+    "published": "Tue Aug 11 2026 07:43:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "U.S. Bitcoin ETFs See $145 Million Outflow; Ether Funds Lose $14.6 Million\n\nU.S. spot Bitcoin ETFs recorded $145 million in net outflows on Aug. 10, while spot Ethereum ETFs posted $14.59 million in net outflows, according to SoSoValue. Grayscale’s Bitcoin Mini Trust (BTC) bucked",
+    "link": "https://cryptopanic.com/news/33191134/US-Bitcoin-ETFs-See-145-Million-Outflow-Ether-Funds-Lose-146-Million-US-spot-Bitcoin-ETFs-recorded-145-million-in-net-outflows-on-Aug-10-while-spot-Ethereum-ETFs-posted-1459-million-in-net-outflows-according-to-SoSoValue-Grayscales-Bitcoin-Mini-Trust-BTC-bucked",
+    "source": "@wublockchain",
+    "published": "Tue Aug 11 2026 07:41:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tron Overtakes Ethereum in UDST Supply Battle\n\nTron (@trondao) ended Q2 with $87.9 billion in circulating solana:Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB, surpassing Ethereum (@ethereum), according to a Messari report. \n\nThe network processed $2.1 trillion in USDT transfers",
+    "link": "https://cryptopanic.com/news/33191163/Tron-Overtakes-Ethereum-in-UDST-Supply-Battle-Tron-trondao-ended-Q2-with-879-billion-in-circulating-solanaEs9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB-surpassing-Ethereum-ethereum-according-to-a-Messari-report-The-network-processed-21-trillion-in-USDT-transfers",
+    "source": "@bscnews",
+    "published": "Tue Aug 11 2026 07:41:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "NOW: Luke Dashjr removed as a Bitcoin Improvement Proposal editor after developers accused him of unfairly favoring his own BIP 110 proposal while serving as editor.",
     "link": "https://cryptopanic.com/news/33191139/NOW-Luke-Dashjr-removed-as-a-Bitcoin-Improvement-Proposal-editor-after-developers-accused-him-of-unfairly-favoring-his-own-BIP-110-proposal-while-serving-as-editor",
     "source": "@cointelegraph",
@@ -14,6 +35,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Peter Thiel-Backed Q2 Numbers Hit This Week: Will the Crypto Exchange Defy Sluggish Volumes and Post an Earnings Beat?",
+    "link": "https://cryptopanic.com/news/33191158/Peter-Thiel-Backed-Q2-Numbers-Hit-This-Week-Will-the-Crypto-Exchange-Defy-Sluggish-Volumes-and-Post-an-Earnings-Beat",
+    "source": "feeds2.benzinga.com",
+    "published": "Tue Aug 11 2026 07:37:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST:  Bitwise CIO Matt Hougan predicts Bitcoin will end the year \"significantly higher,\" citing positive ETF flows, OG buying, Treasury market intervention, and bad news no longer moving prices.",
     "link": "https://cryptopanic.com/news/33191133/LATEST-Bitwise-CIO-Matt-Hougan-predicts-Bitcoin-will-end-the-year-significantly-higher-citing-positive-ETF-flows-OG-buying-Treasury-market-intervention-and-bad-news-no-longer-moving-prices",
     "source": "@coinmarketcap",
@@ -25,6 +53,13 @@
     "link": "https://cryptopanic.com/news/33191137/NEW-Top-7-token-unlocks-this-week-led-by-RAIN-at-631M-followed-by-PUMP-PIEVERSE-and-STBL-per-Cryptorank",
     "source": "@cointelegraph",
     "published": "Tue Aug 11 2026 07:20:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP And SHIB Gain Major New Access To UK Investors\n\nRobinhood is expanding its crypto offering in the UK through Bitstamp, adding more than 50 digital assets to its app. \n\nThe rollout begins this week for eligible customers. Available tokens include Bitcoin $BTC, Ethereum $ETH,",
+    "link": "https://cryptopanic.com/news/33191162/XRP-And-SHIB-Gain-Major-New-Access-To-UK-Investors-Robinhood-is-expanding-its-crypto-offering-in-the-UK-through-Bitstamp-adding-more-than-50-digital-assets-to-its-app-The-rollout-begins-this-week-for-eligible-customers-Available-tokens-include-Bitcoin-BTC-Ethereum-ETH",
+    "source": "@bscnews",
+    "published": "Tue Aug 11 2026 07:18:25 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33190829/Irans-Deputy-Foreign-Minister-Caspian-Sea-Security-Should-Not-Become-a-Stage-for-Competition-or-Outside-Intervention",
     "source": "square.binance.com",
     "published": "Tue Aug 11 2026 06:41:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: BlackRock lowered the minimum for in-kind BTC-to-IBIT exchanges from $25 million to $1 million, per Bloomberg's Eric Balchunas.",
-    "link": "https://cryptopanic.com/news/33190891/LATEST-BlackRock-lowered-the-minimum-for-in-kind-BTC-to-IBIT-exchanges-from-25-million-to-1-million-per-Bloombergs-Eric-Balchunas",
-    "source": "@cointelegraph",
-    "published": "Tue Aug 11 2026 06:40:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ravencoin Suffers Sharp Drop After Consensus Attack\n\nRavencoin's (@Ravencoin) $RVN fell sharply after Ravencoin disclosed an exploited consensus vulnerability on its proof of work network.\n\nThe first known invalid block appeared at height 4,487,776 on August 7. The flaw caused",
-    "link": "https://cryptopanic.com/news/33190983/Ravencoin-Suffers-Sharp-Drop-After-Consensus-Attack-Ravencoins-Ravencoin-RVN-fell-sharply-after-Ravencoin-disclosed-an-exploited-consensus-vulnerability-on-its-proof-of-work-network-The-first-known-invalid-block-appeared-at-height-4487776-on-August-7-The-flaw-caused",
-    "source": "@bscnews",
-    "published": "Tue Aug 11 2026 06:39:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Crypto payment cards processed $759M in July, up 2.5x year-over-year, with nearly 9M purchases made using stablecoins, per a16z crypto.",
-    "link": "https://cryptopanic.com/news/33190885/LATEST-Crypto-payment-cards-processed-759M-in-July-up-25x-year-over-year-with-nearly-9M-purchases-made-using-stablecoins-per-a16z-crypto",
-    "source": "@coinmarketcap",
-    "published": "Tue Aug 11 2026 06:39:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CryptoQuant Founder Corrects CME Bitcoin Futures Position Analysis",
-    "link": "https://cryptopanic.com/news/33190828/CryptoQuant-Founder-Corrects-CME-Bitcoin-Futures-Position-Analysis",
-    "source": "square.binance.com",
-    "published": "Tue Aug 11 2026 06:34:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Whale Withdraws 9,000 ETH From CEX as Holdings Reach 121,000 ETH",
-    "link": "https://cryptopanic.com/news/33190827/Whale-Withdraws-9000-ETH-From-CEX-as-Holdings-Reach-121000-ETH",
-    "source": "square.binance.com",
-    "published": "Tue Aug 11 2026 06:33:50 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
