@@ -1,5 +1,82 @@
 [
   {
+    "title": "CLARITY Act Vote Faces Procedural Fight, Not Final Passage",
+    "link": "https://cryptopanic.com/news/33192127/CLARITY-Act-Vote-Faces-Procedural-Fight-Not-Final-Passage",
+    "source": "cryptonews.com",
+    "published": "Tue Aug 11 2026 10:35:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Apple tests iPhone photo authentication in iOS 27 beta 5",
+    "link": "https://cryptopanic.com/news/33192130/Apple-tests-iPhone-photo-authentication-in-iOS-27-beta-5",
+    "source": "cryptopolitan.com",
+    "published": "Tue Aug 11 2026 10:34:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "This Bitcoin stock rockets 25% after mega deal with ‘mystery’ customer",
+    "link": "https://cryptopanic.com/news/33192081/This-Bitcoin-stock-rockets-25-after-mega-deal-with-mystery-customer",
+    "source": "finbold.com",
+    "published": "Tue Aug 11 2026 10:31:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UK banks block 40% of crypto transfers as MPs warn debanking risks crypto growth",
+    "link": "https://cryptopanic.com/news/33192129/UK-banks-block-40-of-crypto-transfers-as-MPs-warn-debanking-risks-crypto-growth",
+    "source": "cryptopolitan.com",
+    "published": "Tue Aug 11 2026 10:30:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇺🇸 Coinbase chief policy officer Faryar Shirzad says the CLARITY Act is now \"a very bipartisan comprehensive package,\" with hundreds of Democratic amendments and a presidential ethics commitment.",
+    "link": "https://cryptopanic.com/news/33192170/LATEST-Coinbase-chief-policy-officer-Faryar-Shirzad-says-the-CLARITY-Act-is-now-a-very-bipartisan-comprehensive-package-with-hundreds-of-Democratic-amendments-and-a-presidential-ethics-commitment",
+    "source": "@coinmarketcap",
+    "published": "Tue Aug 11 2026 10:25:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Bulls Fight to Keep the Recovery Alive at Key Support",
+    "link": "https://cryptopanic.com/news/33192046/Bitcoin-Bulls-Fight-to-Keep-the-Recovery-Alive-at-Key-Support",
+    "source": "coindoo.com",
+    "published": "Tue Aug 11 2026 10:23:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Solana Vote Targets $1.4 Billion in Future SOL Issuance",
+    "link": "https://cryptopanic.com/news/33192048/Solana-Vote-Targets-14-Billion-in-Future-SOL-Issuance",
+    "source": "dailycoin.com",
+    "published": "Tue Aug 11 2026 10:21:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "3,402% Added on Shiba Inu Futures: What to Expect From SHIB Going Forward?",
+    "link": "https://cryptopanic.com/news/33192062/3402-Added-on-Shiba-Inu-Futures-What-to-Expect-From-SHIB-Going-Forward",
+    "source": "u.today",
+    "published": "Tue Aug 11 2026 10:15:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CoinMarketCap Pro API is now cheaper than competitors on CEX Endpoints\n\n Need 250 market pairs from a CEX endpoint?\n CMC API: 1 Call = 1 Credit (250 items)\n Competitors: 3 Calls = 3 Credits (x3 more expensive)\n\n Same data ⅓ the cost\n\n1/2",
+    "link": "https://cryptopanic.com/news/33192169/CoinMarketCap-Pro-API-is-now-cheaper-than-competitors-on-CEX-Endpoints-Need-250-market-pairs-from-a-CEX-endpoint-CMC-API-1-Call-1-Credit-250-items-Competitors-3-Calls-3-Credits-x3-more-expensive-Same-data-13-the-cost-12",
+    "source": "@coinmarketcap",
+    "published": "Tue Aug 11 2026 10:14:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "If you’re pulling 250,000 market pairs from CEX endpoints\n\n CMC API: 1,000 credits (250 per call)\n Competitors: 2,500 credits (100 per call)\n\n️ Build with CMC (API): \n\n2/2",
+    "link": "https://cryptopanic.com/news/33192168/If-youre-pulling-250000-market-pairs-from-CEX-endpoints-CMC-API-1000-credits-250-per-call-Competitors-2500-credits-100-per-call-Build-with-CMC-API-22",
+    "source": "@coinmarketcap",
+    "published": "Tue Aug 11 2026 10:14:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: @Coinbase CPO says the Senate's first procedural vote on the CLARITY Act is set for September 15, with ethics and illicit finance provisions still unresolved but negotiations continuing through the recess.",
+    "link": "https://cryptopanic.com/news/33192174/UPDATE-Coinbase-CPO-says-the-Senates-first-procedural-vote-on-the-CLARITY-Act-is-set-for-September-15-with-ethics-and-illicit-finance-provisions-still-unresolved-but-negotiations-continuing-through-the-recess",
+    "source": "@coindesk",
+    "published": "Tue Aug 11 2026 10:14:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitdeer crashes 19% in a day after dilutive offering, bad earnings",
     "link": "https://cryptopanic.com/news/33191993/Bitdeer-crashes-19-in-a-day-after-dilutive-offering-bad-earnings",
     "source": "protos.com",
@@ -11,6 +88,13 @@
     "link": "https://cryptopanic.com/news/33191956/Capital-is-flowing-into-ICP-Internet-Computer-Protocol-Dfinity-has-experienced-a-strong-TVL-surge-across-multiple-timeframes-According-to-Defillama-ICP-chains-TVL-has-climbed-over-10-in-the-last-30-days-and-nearly-8-in-the-last-90-days-As-of-writing-the-TVL-is",
     "source": "@bscnews",
     "published": "Tue Aug 11 2026 10:11:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Nvidia’s $500 billion AI infrastructure push leaves crypto compute further behind",
+    "link": "https://cryptopanic.com/news/33192064/Nvidias-500-billion-AI-infrastructure-push-leaves-crypto-compute-further-behind",
+    "source": "coindesk.com",
+    "published": "Tue Aug 11 2026 10:10:36 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -32,6 +116,13 @@
     "link": "https://cryptopanic.com/news/33191955/Killing-The-CLARITY-Act-Wont-Save-Community-Banks-Senator-Cynthia-Lummis-SenLummis-is-pushing-back-on-claims-that-stablecoins-tied-to-the-CLARITY-Act-are-driving-deposits-out-of-community-banks-She-cites-BofA-data-showing-household-deposits-rising-across-income-groups",
     "source": "@bscnews",
     "published": "Tue Aug 11 2026 10:03:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: BRICS nations are discussing linking fast-payment systems and CBDCs to improve cross-border payments and reduce transaction costs, per Reuters.",
+    "link": "https://cryptopanic.com/news/33192175/JUST-IN-BRICS-nations-are-discussing-linking-fast-payment-systems-and-CBDCs-to-improve-cross-border-payments-and-reduce-transaction-costs-per-Reuters",
+    "source": "@cointelegraph",
+    "published": "Tue Aug 11 2026 10:02:43 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -98,6 +189,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "INTEL: BRICS nations discuss linking fast-payment systems and CBDCs for cross-border trade",
+    "link": "https://cryptopanic.com/news/33192071/INTEL-BRICS-nations-discuss-linking-fast-payment-systems-and-CBDCs-for-cross-border-trade",
+    "source": "@solidintel_x",
+    "published": "Tue Aug 11 2026 09:50:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Jupiter Lend v2 Links Lending Returns to Trading Fees",
     "link": "https://cryptopanic.com/news/33191870/Jupiter-Lend-v2-Links-Lending-Returns-to-Trading-Fees",
     "source": "99bitcoins.com",
@@ -109,104 +207,6 @@
     "link": "https://cryptopanic.com/news/33191856/Important-Ripple-News-and-XRP-Price-Update-August-11",
     "source": "cryptopotato.com",
     "published": "Tue Aug 11 2026 09:46:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin BIP Editor Dispute Escalates Over Luke Dashjr Removal Motion",
-    "link": "https://cryptopanic.com/news/33191871/Bitcoin-BIP-Editor-Dispute-Escalates-Over-Luke-Dashjr-Removal-Motion",
-    "source": "99bitcoins.com",
-    "published": "Tue Aug 11 2026 09:42:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HISTORY: 6 years ago today, Strategy adopted Bitcoin as its primary treasury reserve asset.\n\nIt started with 21,454 $BTC for $250M at ~$11,653 per Bitcoin. Today, Strategy holds 840,447 BTC, nearly 39x its initial stack.",
-    "link": "https://cryptopanic.com/news/33191884/HISTORY-6-years-ago-today-Strategy-adopted-Bitcoin-as-its-primary-treasury-reserve-asset-It-started-with-21454-BTC-for-250M-at-11653-per-Bitcoin-Today-Strategy-holds-840447-BTC-nearly-39x-its-initial-stack",
-    "source": "@cointelegraph",
-    "published": "Tue Aug 11 2026 09:41:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 🇹🇷 President Trump reportedly hid in a catering container to board secret flight in Turkey amid Iran assassination threat, per the Guardian",
-    "link": "https://cryptopanic.com/news/33191882/JUST-IN-President-Trump-reportedly-hid-in-a-catering-container-to-board-secret-flight-in-Turkey-amid-Iran-assassination-threat-per-the-Guardian",
-    "source": "@cryptonwsuk",
-    "published": "Tue Aug 11 2026 09:41:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SEC Set To Vote On Landmark Crypto Rule This Week\n\nThe SEC has scheduled an open meeting for Friday, August 14, with one item on the agenda. \n\nCommissioners will vote on whether to propose Regulation Crypto, a new offering regime for crypto investment contracts. It marks the",
-    "link": "https://cryptopanic.com/news/33191954/SEC-Set-To-Vote-On-Landmark-Crypto-Rule-This-Week-The-SEC-has-scheduled-an-open-meeting-for-Friday-August-14-with-one-item-on-the-agenda-Commissioners-will-vote-on-whether-to-propose-Regulation-Crypto-a-new-offering-regime-for-crypto-investment-contracts-It-marks-the",
-    "source": "@bscnews",
-    "published": "Tue Aug 11 2026 09:41:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇰🇷 Bank of Korea Senior Deputy Governor Ryoo says there will be an additional rate hike.",
-    "link": "https://cryptopanic.com/news/33191881/LATEST-Bank-of-Korea-Senior-Deputy-Governor-Ryoo-says-there-will-be-an-additional-rate-hike",
-    "source": "@cryptonwsuk",
-    "published": "Tue Aug 11 2026 09:39:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Whale 0x2d59, who bought 40,000 $ETH ($76.66M) a week ago, bought another 50,000 $ETH ($93.6M) 2 hours ago and staked it.",
-    "link": "https://cryptopanic.com/news/33191959/Whale-0x2d59-who-bought-40000-ETH-7666M-a-week-ago-bought-another-50000-ETH-936M-2-hours-ago-and-staked-it",
-    "source": "@lookonchain",
-    "published": "Tue Aug 11 2026 09:38:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33191878/Source",
-    "source": "@wublockchain",
-    "published": "Tue Aug 11 2026 09:38:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Riot Platforms surges 20% in pre-market trading on $9.1 billion Anthropic deal",
-    "link": "https://cryptopanic.com/news/33191938/Riot-Platforms-surges-20-in-pre-market-trading-on-91-billion-Anthropic-deal",
-    "source": "coindesk.com",
-    "published": "Tue Aug 11 2026 09:37:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "USDT Supply Shrinks by $4B Over 60 Days as Investors May Be Exiting Crypto\n\nAccording to CryptoQuant data, USDT’s 60-day rolling supply change has declined by about $4 billion, including an $870 million drop over the past 11 days alone. Analyst Stacy Muur said some investors",
-    "link": "https://cryptopanic.com/news/33191877/USDT-Supply-Shrinks-by-4B-Over-60-Days-as-Investors-May-Be-Exiting-Crypto-According-to-CryptoQuant-data-USDTs-60-day-rolling-supply-change-has-declined-by-about-4-billion-including-an-870-million-drop-over-the-past-11-days-alone-Analyst-Stacy-Muur-said-some-investors",
-    "source": "@wublockchain",
-    "published": "Tue Aug 11 2026 09:37:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Thank God, she’s safe.",
-    "link": "https://cryptopanic.com/news/33191880/Thank-God-shes-safe",
-    "source": "@cryptonwsuk",
-    "published": "Tue Aug 11 2026 09:37:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Binance Targets Retail Crypto Lending With Bitcoin-Backed Micro Loans",
-    "link": "https://cryptopanic.com/news/33191712/Binance-Targets-Retail-Crypto-Lending-With-Bitcoin-Backed-Micro-Loans",
-    "source": "catenaa.com",
-    "published": "Tue Aug 11 2026 09:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: The $BTC BIP-110 fork has produced just 2 blocks since Saturday. \n\nBitcoin has produced 300+ in the same stretch, putting the chain roughly six years behind on its own difficulty adjustment.",
-    "link": "https://cryptopanic.com/news/33191883/LATEST-The-BTC-BIP-110-fork-has-produced-just-2-blocks-since-Saturday-Bitcoin-has-produced-300-in-the-same-stretch-putting-the-chain-roughly-six-years-behind-on-its-own-difficulty-adjustment",
-    "source": "@coindesk",
-    "published": "Tue Aug 11 2026 09:28:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: 🇺🇸 White House Crypto Council Director Patrick Witt says the administration is still fully committed to passing the CLARITY Act in September.",
-    "link": "https://cryptopanic.com/news/33191879/NEW-White-House-Crypto-Council-Director-Patrick-Witt-says-the-administration-is-still-fully-committed-to-passing-the-CLARITY-Act-in-September",
-    "source": "@cryptonwsuk",
-    "published": "Tue Aug 11 2026 09:25:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "US Senate delays Clarity Act vote to September 15",
-    "link": "https://cryptopanic.com/news/33191705/US-Senate-delays-Clarity-Act-vote-to-September-15",
-    "source": "cryptovalleyjournal.com",
-    "published": "Tue Aug 11 2026 09:24:49 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
