@@ -1,5 +1,40 @@
 [
   {
+    "title": "SEC-CFTC Crypto Map Advances as Clarity Act Stalls",
+    "link": "https://cryptopanic.com/news/33199197/SEC-CFTC-Crypto-Map-Advances-as-Clarity-Act-Stalls",
+    "source": "cryptonews.com",
+    "published": "Wed Aug 12 2026 11:50:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Uniswap slides 9% as weak retail demand threatens key support",
+    "link": "https://cryptopanic.com/news/33199209/Uniswap-slides-9-as-weak-retail-demand-threatens-key-support",
+    "source": "coinjournal.net",
+    "published": "Wed Aug 12 2026 11:49:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Foxconn Q2 profit rises 35% to NT$59.97 billion on Nvidia AI server demand",
+    "link": "https://cryptopanic.com/news/33199231/Foxconn-Q2-profit-rises-35-to-NT5997-billion-on-Nvidia-AI-server-demand",
+    "source": "cryptopolitan.com",
+    "published": "Wed Aug 12 2026 11:47:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Longtime OpenAI Executive Departs After Eight Years To Launch New Venture",
+    "link": "https://cryptopanic.com/news/33199205/Longtime-OpenAI-Executive-Departs-After-Eight-Years-To-Launch-New-Venture",
+    "source": "dailyhodl.com",
+    "published": "Wed Aug 12 2026 11:45:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Harmony’s ONE token crashes 40% following a major exploit",
+    "link": "https://cryptopanic.com/news/33199208/Harmonys-ONE-token-crashes-40-following-a-major-exploit",
+    "source": "coinjournal.net",
+    "published": "Wed Aug 12 2026 11:37:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Even if Bitcoin rises 30% a year this renewable mining model still loses money as hashrate keeps pace",
     "link": "https://cryptopanic.com/news/33199134/Even-if-Bitcoin-rises-30-a-year-this-renewable-mining-model-still-loses-money-as-hashrate-keeps-pace",
     "source": "cryptoslate.com",
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33199010/INTEL-Iran-says-there-are-no-discussions-on-extending-the-ceasefire-with-the-United-States-adding-There-has-absolutely-been-no-progress-on-the-US-returning-to-the-MOU-issue",
     "source": "@solidintel_x",
     "published": "Wed Aug 12 2026 10:56:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33199085/Source",
-    "source": "@wublockchain",
-    "published": "Wed Aug 12 2026 10:53:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Wintermute Plans $1B Investment in HFT and AI Infrastructure to Expand Into Traditional Markets\n\nAccording to Bloomberg, crypto market maker Wintermute plans to invest about $1 billion in high-frequency trading and AI data-center infrastructure over the next five years, funded",
-    "link": "https://cryptopanic.com/news/33199082/Wintermute-Plans-1B-Investment-in-HFT-and-AI-Infrastructure-to-Expand-Into-Traditional-Markets-According-to-Bloomberg-crypto-market-maker-Wintermute-plans-to-invest-about-1-billion-in-high-frequency-trading-and-AI-data-center-infrastructure-over-the-next-five-years-funded",
-    "source": "@wublockchain",
-    "published": "Wed Aug 12 2026 10:53:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Saylor's Bitcoin Treasury strategy is now public\n\n@Strategy introduced the public Bitcoin Credit Model for live analysis of the structure of its $53.5B $BTC Treasury.\n\nThis dashboard measures credit spreads and undercollateralization threats across its $21.95B in debt and",
-    "link": "https://cryptopanic.com/news/33198938/Saylors-Bitcoin-Treasury-strategy-is-now-public-Strategy-introduced-the-public-Bitcoin-Credit-Model-for-live-analysis-of-the-structure-of-its-535B-BTC-Treasury-This-dashboard-measures-credit-spreads-and-undercollateralization-threats-across-its-2195B-in-debt-and",
-    "source": "@bscnews",
-    "published": "Wed Aug 12 2026 10:51:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Harmony Faces Another Security Shock — The Market Is Watching",
-    "link": "https://cryptopanic.com/news/33198904/Harmony-Faces-Another-Security-Shock-The-Market-Is-Watching",
-    "source": "techgaged.com",
-    "published": "Wed Aug 12 2026 10:46:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Fidelity is supercharging its ETH ETF\n\nFidelity, with more than $7T in assets under management, will soon be formally implementing staking and quarterly cash distributions for its spot $ETH ETF.\n\nThe structural change enables institutional and individual investors to earn",
-    "link": "https://cryptopanic.com/news/33198936/Fidelity-is-supercharging-its-ETH-ETF-Fidelity-with-more-than-7T-in-assets-under-management-will-soon-be-formally-implementing-staking-and-quarterly-cash-distributions-for-its-spot-ETH-ETF-The-structural-change-enables-institutional-and-individual-investors-to-earn",
-    "source": "@bscnews",
-    "published": "Wed Aug 12 2026 10:45:37 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
