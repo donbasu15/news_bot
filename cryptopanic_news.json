@@ -1,5 +1,26 @@
 [
   {
+    "title": "BREAKING: $3T Amundi more than doubles stake in Saylor’s Strategy \n\nNow holds $125M worth of MSTR",
+    "link": "https://cryptopanic.com/news/33202549/BREAKING-3T-Amundi-more-than-doubles-stake-in-Saylors-Strategy-Now-holds-125M-worth-of-MSTR",
+    "source": "@btc_archive",
+    "published": "Wed Aug 12 2026 23:11:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin: Metaplanet, Hut 8 move $278.66M BTC – Selloff or reshuffle?",
+    "link": "https://cryptopanic.com/news/33202520/Bitcoin-Metaplanet-Hut-8-move-27866M-BTC-Selloff-or-reshuffle",
+    "source": "ambcrypto.com",
+    "published": "Wed Aug 12 2026 23:00:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Taiyo Yuden Pops 7% on Situational Awareness Stake, But the Fund’s Already Sold",
+    "link": "https://cryptopanic.com/news/33202535/Taiyo-Yuden-Pops-7-on-Situational-Awareness-Stake-But-the-Funds-Already-Sold",
+    "source": "beincrypto.com",
+    "published": "Wed Aug 12 2026 22:45:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Rollbit Coin moves 10% in the last 24 hours as the platform announes major updates. \n\n$RLB has spiked 10% in the last day after the company announced platform updates and major RLB developments.",
     "link": "https://cryptopanic.com/news/33202508/Rollbit-Coin-moves-10-in-the-last-24-hours-as-the-platform-announes-major-updates-RLB-has-spiked-10-in-the-last-day-after-the-company-announced-platform-updates-and-major-RLB-developments",
     "source": "@bscnews",
@@ -46,6 +67,13 @@
     "link": "https://cryptopanic.com/news/33202474/Is-Dogecoin-Expensive-Another-Run-Could-Still-Take-a-Bit-Veteran-Trader-Says",
     "source": "feeds2.benzinga.com",
     "published": "Wed Aug 12 2026 22:28:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Securitize falls 20% after earnings miss as tokenization revenue falls short",
+    "link": "https://cryptopanic.com/news/33202558/Securitize-falls-20-after-earnings-miss-as-tokenization-revenue-falls-short",
+    "source": "coindesk.com",
+    "published": "Wed Aug 12 2026 22:26:24 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33202261/Google-goes-all-in-as-Gemini-lags-frontier-AI-race",
     "source": "cryptopolitan.com",
     "published": "Wed Aug 12 2026 21:35:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Franklin Templeton BENJI system cleared by SEC",
-    "link": "https://cryptopanic.com/news/33202241/Franklin-Templeton-BENJI-system-cleared-by-SEC",
-    "source": "coincu.com",
-    "published": "Wed Aug 12 2026 21:33:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SpaceX stock rallies by 10%, closes above $145",
-    "link": "https://cryptopanic.com/news/33202260/SpaceX-stock-rallies-by-10-closes-above-145",
-    "source": "cryptopolitan.com",
-    "published": "Wed Aug 12 2026 21:31:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The AI-Generated Pattern Hides You From Surveillance Cameras—Including Flock",
-    "link": "https://cryptopanic.com/news/33202216/The-AI-Generated-Pattern-Hides-You-From-Surveillance-CamerasIncluding-Flock",
-    "source": "decrypt.co",
-    "published": "Wed Aug 12 2026 21:31:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Algorand released v5.0.0 with post-quantum accounts built into the protocol\n\n@Algorand's node runners will now vote on whether to activate the consensus upgrade. If it passes, accounts can be authorized with Falcon-1024 signatures, at addresses no Ed25519 key could ever control.",
-    "link": "https://cryptopanic.com/news/33202209/Algorand-released-v500-with-post-quantum-accounts-built-into-the-protocol-Algorands-node-runners-will-now-vote-on-whether-to-activate-the-consensus-upgrade-If-it-passes-accounts-can-be-authorized-with-Falcon-1024-signatures-at-addresses-no-Ed25519-key-could-ever-control",
-    "source": "@bscnews",
-    "published": "Wed Aug 12 2026 21:31:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
