@@ -1,5 +1,89 @@
 [
   {
+    "title": "Pi crypto value rejects $0.11 around Protocol v26 upgrade deadline",
+    "link": "https://cryptopanic.com/news/33202170/Pi-crypto-value-rejects-011-around-Protocol-v26-upgrade-deadline",
+    "source": "ambcrypto.com",
+    "published": "Wed Aug 12 2026 21:14:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Solana Hit 86% of Its Halt Threshold After a Teraswitch Routing Failure",
+    "link": "https://cryptopanic.com/news/33201974/Solana-Hit-86-of-Its-Halt-Threshold-After-a-Teraswitch-Routing-Failure",
+    "source": "solanafloor.com",
+    "published": "Wed Aug 12 2026 21:11:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Bitwise CIO Matt Hougan says \"the switch to 24/7 stock trading is going to happen bigger and faster than most people anticipate.\" In February, Matt called #Cardano $ADA a \"real altcoin,\" and predicted that crypto is near \"the end of a winter that began in January 2025.\"",
+    "link": "https://cryptopanic.com/news/33202173/JUST-IN-Bitwise-CIO-Matt-Hougan-says-the-switch-to-247-stock-trading-is-going-to-happen-bigger-and-faster-than-most-people-anticipate-In-February-Matt-called-Cardano-ADA-a-real-altcoin-and-predicted-that-crypto-is-near-the-end-of-a-winter-that-began-in-January-2025",
+    "source": "@angrycryptoshow",
+    "published": "Wed Aug 12 2026 21:08:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: #Cardano $ADA 24h trade volume reached as high as $275,000,000 according to CoinGecko.",
+    "link": "https://cryptopanic.com/news/33202172/JUST-IN-Cardano-ADA-24h-trade-volume-reached-as-high-as-275000000-according-to-CoinGecko",
+    "source": "@angrycryptoshow",
+    "published": "Wed Aug 12 2026 21:07:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Former Ripple Partner Deepens Solana Ties",
+    "link": "https://cryptopanic.com/news/33202194/Former-Ripple-Partner-Deepens-Solana-Ties",
+    "source": "u.today",
+    "published": "Wed Aug 12 2026 21:07:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Kalshi says it has become the first prediction market to distribute real-time order book data over a dedicated fiber network, giving trading firms direct access to sports contracts and crypto perps.",
+    "link": "https://cryptopanic.com/news/33202171/LATEST-Kalshi-says-it-has-become-the-first-prediction-market-to-distribute-real-time-order-book-data-over-a-dedicated-fiber-network-giving-trading-firms-direct-access-to-sports-contracts-and-crypto-perps",
+    "source": "@coinmarketcap",
+    "published": "Wed Aug 12 2026 21:05:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SEC clears Franklin Templeton funds to use onchain BENJI system for cash management",
+    "link": "https://cryptopanic.com/news/33202149/SEC-clears-Franklin-Templeton-funds-to-use-onchain-BENJI-system-for-cash-management",
+    "source": "theblock.co",
+    "published": "Wed Aug 12 2026 21:04:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Goldman Sachs Gains Bitcoin, Ethereum ETFs in $2.25B Deal: Could It 'Leapfrog' BlackRock?",
+    "link": "https://cryptopanic.com/news/33202174/Goldman-Sachs-Gains-Bitcoin-Ethereum-ETFs-in-225B-Deal-Could-It-Leapfrog-BlackRock",
+    "source": "feeds2.benzinga.com",
+    "published": "Wed Aug 12 2026 21:01:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Rent Control, Socialism, and the Fight to Save New York City",
+    "link": "https://cryptopanic.com/news/33202182/Rent-Control-Socialism-and-the-Fight-to-Save-New-York-City",
+    "source": "AnthonyPompliano",
+    "published": "Wed Aug 12 2026 21:00:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Solana Neared a Transaction Halt After a 33-Minute Provider Outage",
+    "link": "https://cryptopanic.com/news/33202112/Solana-Neared-a-Transaction-Halt-After-a-33-Minute-Provider-Outage",
+    "source": "coinpaprika.com",
+    "published": "Wed Aug 12 2026 21:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin is insanely cheap according to the Rainbow Wave model.",
+    "link": "https://cryptopanic.com/news/33202111/Bitcoin-is-insanely-cheap-according-to-the-Rainbow-Wave-model",
+    "source": "@btc_archive",
+    "published": "Wed Aug 12 2026 20:59:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: Kraken has added 24/7 S&P 500 perpetuals to its funded trading program, with commodities planned next.",
+    "link": "https://cryptopanic.com/news/33202177/NEW-Kraken-has-added-247-SampP-500-perpetuals-to-its-funded-trading-program-with-commodities-planned-next",
+    "source": "@cointelegraph",
+    "published": "Wed Aug 12 2026 20:58:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "tx XRP bridge drained of 99.7% of its reserve in $200,000 exploit",
     "link": "https://cryptopanic.com/news/33202103/tx-XRP-bridge-drained-of-997-of-its-reserve-in-200000-exploit",
     "source": "cryptopolitan.com",
@@ -14,6 +98,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "🇺🇸 JUST IN: The SEC has cleared Franklin Templeton’s onchain money market fund, FOBXX, for use in registered funds.",
+    "link": "https://cryptopanic.com/news/33202176/JUST-IN-The-SEC-has-cleared-Franklin-Templetons-onchain-money-market-fund-FOBXX-for-use-in-registered-funds",
+    "source": "@cointelegraph",
+    "published": "Wed Aug 12 2026 20:40:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Russia picks Bitcoin, Ethereum and USDT for public trading as retail faces $58,000 cap",
     "link": "https://cryptopanic.com/news/33202052/Russia-picks-Bitcoin-Ethereum-and-USDT-for-public-trading-as-retail-faces-58000-cap",
     "source": "cryptoslate.com",
@@ -25,6 +116,13 @@
     "link": "https://cryptopanic.com/news/33202109/JUST-IN-The-number-of-Bitcoin-holders-continue-to-rise-according-to-Grayscale-We-believe-that-adoption-will-be-driven-by-more-demand-for-scarce-assets-greater-adoption-of-blockchain-technology-and-generational-change-in-portfolio-construction",
     "source": "@bitcoinmagazine",
     "published": "Wed Aug 12 2026 20:35:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Trump sued over scheme to sell instant access to Truth Social posts, per BBC",
+    "link": "https://cryptopanic.com/news/33202175/JUST-IN-Trump-sued-over-scheme-to-sell-instant-access-to-Truth-Social-posts-per-BBC",
+    "source": "@cryptonwsuk",
+    "published": "Wed Aug 12 2026 20:32:31 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -109,104 +207,6 @@
     "link": "https://cryptopanic.com/news/33201924/FC-Barcelona-Launches-Branded-Digital-Wallet-On-Stellar",
     "source": "dailycoin.com",
     "published": "Wed Aug 12 2026 20:12:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Fed Is About To Do The Unthinkable (Extremely Bullish For Bitcoin)",
-    "link": "https://cryptopanic.com/news/33201922/The-Fed-Is-About-To-Do-The-Unthinkable-Extremely-Bullish-For-Bitcoin",
-    "source": "BTCSessions",
-    "published": "Wed Aug 12 2026 20:01:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "China’s DeepSeek Upgrades V4 Pro: Claude Fable Is Only 5% Better at 4,500% the Price",
-    "link": "https://cryptopanic.com/news/33201907/Chinas-DeepSeek-Upgrades-V4-Pro-Claude-Fable-Is-Only-5-Better-at-4500-the-Price",
-    "source": "decrypt.co",
-    "published": "Wed Aug 12 2026 20:01:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "This is why we love @Algorand!\n\n@Labtracemedical uses $ALGO to timestamp medical scans so they can’t be secretly altered or reordered later!\n\nHelping protect the integrity of evidence used in cancer care and other treatments.\n\nYou can hear how passionate @StaciW_DC is about it.",
-    "link": "https://cryptopanic.com/news/33202067/This-is-why-we-love-Algorand-Labtracemedical-uses-ALGO-to-timestamp-medical-scans-so-they-cant-be-secretly-altered-or-reordered-later-Helping-protect-the-integrity-of-evidence-used-in-cancer-care-and-other-treatments-You-can-hear-how-passionate-StaciW_DC-is-about-it",
-    "source": "@realallincrypto",
-    "published": "Wed Aug 12 2026 20:00:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "US consumer prices barely increased in July as the cost of gasoline declined for a second straight month. The gas prices, however, ticked up in August and overall prices are still higher than they were a year ago without the wage increases to match",
-    "link": "https://cryptopanic.com/news/33201992/US-consumer-prices-barely-increased-in-July-as-the-cost-of-gasoline-declined-for-a-second-straight-month-The-gas-prices-however-ticked-up-in-August-and-overall-prices-are-still-higher-than-they-were-a-year-ago-without-the-wage-increases-to-match",
-    "source": "@reutersbiz",
-    "published": "Wed Aug 12 2026 20:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🤖 TODAY: Elon Musk says Grok 4.6 is objectively the top AI model when considering intelligence, speed and cost.",
-    "link": "https://cryptopanic.com/news/33201990/TODAY-Elon-Musk-says-Grok-46-is-objectively-the-top-AI-model-when-considering-intelligence-speed-and-cost",
-    "source": "@cointelegraph",
-    "published": "Wed Aug 12 2026 19:59:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Uber sells its entire stake in Serve Robotics",
-    "link": "https://cryptopanic.com/news/33201915/Uber-sells-its-entire-stake-in-Serve-Robotics",
-    "source": "cryptopolitan.com",
-    "published": "Wed Aug 12 2026 19:55:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "World’s Largest Sovereign Wealth Fund Bought $1.2 Billion in SpaceX Stock",
-    "link": "https://cryptopanic.com/news/33201978/Worlds-Largest-Sovereign-Wealth-Fund-Bought-12-Billion-in-SpaceX-Stock",
-    "source": "beincrypto.com",
-    "published": "Wed Aug 12 2026 19:54:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Michael Saylor unveiled a public BTC Credit dashboard that color-codes Strategy's debt by tier and shows at what Bitcoin price each instrument becomes undercollateralized.",
-    "link": "https://cryptopanic.com/news/33201986/LATEST-Michael-Saylor-unveiled-a-public-BTC-Credit-dashboard-that-color-codes-Strategys-debt-by-tier-and-shows-at-what-Bitcoin-price-each-instrument-becomes-undercollateralized",
-    "source": "@coinmarketcap",
-    "published": "Wed Aug 12 2026 19:53:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "DATA: Elon Musk's net worth increased by over $72B in the last 24 hours as per Forbes.",
-    "link": "https://cryptopanic.com/news/33201988/DATA-Elon-Musks-net-worth-increased-by-over-72B-in-the-last-24-hours-as-per-Forbes",
-    "source": "@coindesk",
-    "published": "Wed Aug 12 2026 19:51:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Circle built cirBTC as wrapped bitcoin aimed at institutional collateral desks\n\nEach token is backed 1:1 by native $BTC, custodied by Circle National Trust under OCC supervision, with reserves verified onchain in real time through @chainlink Proof of Reserve rather than monthly",
-    "link": "https://cryptopanic.com/news/33201877/Circle-built-cirBTC-as-wrapped-bitcoin-aimed-at-institutional-collateral-desks-Each-token-is-backed-11-by-native-BTC-custodied-by-Circle-National-Trust-under-OCC-supervision-with-reserves-verified-onchain-in-real-time-through-chainlink-Proof-of-Reserve-rather-than-monthly",
-    "source": "@bscnews",
-    "published": "Wed Aug 12 2026 19:48:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Bitcoin at Coinbase trading $150 cheaper than Binance.\n\n- Weak institutional demand signal\n\n- Premium has been inverted for 3 months",
-    "link": "https://cryptopanic.com/news/33201934/JUST-IN-Bitcoin-at-Coinbase-trading-150-cheaper-than-Binance-Weak-institutional-demand-signal-Premium-has-been-inverted-for-3-months",
-    "source": "@btc_archive",
-    "published": "Wed Aug 12 2026 19:47:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Crypto Shakeout Investors Should Actually Welcome",
-    "link": "https://cryptopanic.com/news/33201905/The-Crypto-Shakeout-Investors-Should-Actually-Welcome",
-    "source": "feeds2.benzinga.com",
-    "published": "Wed Aug 12 2026 19:47:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Polymarket Hires Former Uber Executive To Lead Growth Initiative",
-    "link": "https://cryptopanic.com/news/33201845/Polymarket-Hires-Former-Uber-Executive-To-Lead-Growth-Initiative",
-    "source": "cryptoprowl.com",
-    "published": "Wed Aug 12 2026 19:42:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INSIGHT: Elon Musk says AI could account for 99% of SpaceX’s value within the next four to five years.",
-    "link": "https://cryptopanic.com/news/33201856/INSIGHT-Elon-Musk-says-AI-could-account-for-99-of-SpaceXs-value-within-the-next-four-to-five-years",
-    "source": "@cointelegraph",
-    "published": "Wed Aug 12 2026 19:40:44 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
