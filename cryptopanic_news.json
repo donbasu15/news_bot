@@ -1,5 +1,82 @@
 [
   {
+    "title": "Bitcoiner Mow Says BIP-110 Uproar Could Have Been Avoided",
+    "link": "https://cryptopanic.com/news/33201048/Bitcoiner-Mow-Says-BIP-110-Uproar-Could-Have-Been-Avoided",
+    "source": "u.today",
+    "published": "Wed Aug 12 2026 16:35:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tencent revenue climbs 11% in Q2 as AI capex jumps 176%",
+    "link": "https://cryptopanic.com/news/33200991/Tencent-revenue-climbs-11-in-Q2-as-AI-capex-jumps-176",
+    "source": "cryptopolitan.com",
+    "published": "Wed Aug 12 2026 16:34:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇦🇺 LATEST: AUSTRAC has suspended Cryptolink’s operations, taking its crypto ATMs offline over compliance concerns.",
+    "link": "https://cryptopanic.com/news/33201028/LATEST-AUSTRAC-has-suspended-Cryptolinks-operations-taking-its-crypto-ATMs-offline-over-compliance-concerns",
+    "source": "@cointelegraph",
+    "published": "Wed Aug 12 2026 16:30:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Investors are piling into European stocks on the back of the strongest earnings season in nearly four years. Jitania Kandhari from Morgan Stanley Investment Management says Europe’s push for strategic autonomy, investment and infrastructure is giving companies their edge",
+    "link": "https://cryptopanic.com/news/33201029/Investors-are-piling-into-European-stocks-on-the-back-of-the-strongest-earnings-season-in-nearly-four-years-Jitania-Kandhari-from-Morgan-Stanley-Investment-Management-says-Europes-push-for-strategic-autonomy-investment-and-infrastructure-is-giving-companies-their-edge",
+    "source": "@reutersbiz",
+    "published": "Wed Aug 12 2026 16:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Swedish firm to pay Europe’s first Bitcoin dividend  \n\n• B Treasury Capital AB, worth ~$11M \n\n• Pays 10% yield monthly",
+    "link": "https://cryptopanic.com/news/33200915/JUST-IN-Swedish-firm-to-pay-Europes-first-Bitcoin-dividend-B-Treasury-Capital-AB-worth-11M-Pays-10-yield-monthly",
+    "source": "@btc_archive",
+    "published": "Wed Aug 12 2026 16:29:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INSIGHT: An $ETH wallet dormant since 2015 moves 2,680 ETH worth ~$5M, originally acquired for just $830, a 6,000x return over 11 years.",
+    "link": "https://cryptopanic.com/news/33201025/INSIGHT-An-ETH-wallet-dormant-since-2015-moves-2680-ETH-worth-5M-originally-acquired-for-just-830-a-6000x-return-over-11-years",
+    "source": "@coindesk",
+    "published": "Wed Aug 12 2026 16:27:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Gold and BTC 'React Differently' to Inflation, Schiff Says: So Why Is Their Correlation Rising?",
+    "link": "https://cryptopanic.com/news/33200985/Gold-and-BTC-React-Differently-to-Inflation-Schiff-Says-So-Why-Is-Their-Correlation-Rising",
+    "source": "feeds2.benzinga.com",
+    "published": "Wed Aug 12 2026 16:21:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "OpenAI ships ChatGPT and Codex to Linux desktops, a month behind Anthropic",
+    "link": "https://cryptopanic.com/news/33200908/OpenAI-ships-ChatGPT-and-Codex-to-Linux-desktops-a-month-behind-Anthropic",
+    "source": "cryptopolitan.com",
+    "published": "Wed Aug 12 2026 16:20:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Mysterious Bitcoin wallet wakes after 12 years with near 8,000% profit",
+    "link": "https://cryptopanic.com/news/33200993/Mysterious-Bitcoin-wallet-wakes-after-12-years-with-near-8000-profit",
+    "source": "thestreet.com",
+    "published": "Wed Aug 12 2026 16:20:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tone Vays says his PC looks ‘OK’ after giving hackers access",
+    "link": "https://cryptopanic.com/news/33200896/Tone-Vays-says-his-PC-looks-OK-after-giving-hackers-access",
+    "source": "protos.com",
+    "published": "Wed Aug 12 2026 16:16:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 BIG: The Intercept and the Freedom of the Press Foundation sued Trump over a plan to charge up to $100,000 per month for early access to his Truth Social posts.",
+    "link": "https://cryptopanic.com/news/33201027/BIG-The-Intercept-and-the-Freedom-of-the-Press-Foundation-sued-Trump-over-a-plan-to-charge-up-to-100000-per-month-for-early-access-to-his-Truth-Social-posts",
+    "source": "@cointelegraph",
+    "published": "Wed Aug 12 2026 16:15:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "CRWV Stock Jumps 18% as Wells Fargo, JPMorgan, Mizuho Raise CoreWeave Price Targets on Q2 Results",
     "link": "https://cryptopanic.com/news/33200876/CRWV-Stock-Jumps-18-as-Wells-Fargo-JPMorgan-Mizuho-Raise-CoreWeave-Price-Targets-on-Q2-Results",
     "source": "coinpaper.com",
@@ -7,10 +84,45 @@
     "sentiment": "neutral"
   },
   {
+    "title": "NEW: #Cardano has generated over 5.6M transactions in 2026, with only 170 failed transactions, highlighting $ADA's near-flawless transaction success rate at 99.997%, according to data from Blockworks.",
+    "link": "https://cryptopanic.com/news/33201023/NEW-Cardano-has-generated-over-56M-transactions-in-2026-with-only-170-failed-transactions-highlighting-ADAs-near-flawless-transaction-success-rate-at-99997-according-to-data-from-Blockworks",
+    "source": "@angrycryptoshow",
+    "published": "Wed Aug 12 2026 16:14:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Solana platform taps prediction market Kalshi for Wall Street-style high-speed data feed",
+    "link": "https://cryptopanic.com/news/33200909/Solana-platform-taps-prediction-market-Kalshi-for-Wall-Street-style-high-speed-data-feed",
+    "source": "coindesk.com",
+    "published": "Wed Aug 12 2026 16:14:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: CoinMarketCap ranks #Cardano $ADA as the #1 most bullish daily trending, #7 most bullish community sentiment, and #9 most viewed cryptocurrency.",
+    "link": "https://cryptopanic.com/news/33201022/JUST-IN-CoinMarketCap-ranks-Cardano-ADA-as-the-1-most-bullish-daily-trending-7-most-bullish-community-sentiment-and-9-most-viewed-cryptocurrency",
+    "source": "@angrycryptoshow",
+    "published": "Wed Aug 12 2026 16:14:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Harmony confirmed it was exploited via a hack that minted 4 billion ONE tokens, saying it has traced 10,288 transfers across 409 wallets, alerted exchanges, and is considering a chain rollback.",
+    "link": "https://cryptopanic.com/news/33201020/LATEST-Harmony-confirmed-it-was-exploited-via-a-hack-that-minted-4-billion-ONE-tokens-saying-it-has-traced-10288-transfers-across-409-wallets-alerted-exchanges-and-is-considering-a-chain-rollback",
+    "source": "@coinmarketcap",
+    "published": "Wed Aug 12 2026 16:12:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Stock Market Today: S&P 500 Rises as Nvidia & AI Stocks Rally, Dow Jones Lags",
     "link": "https://cryptopanic.com/news/33200846/Stock-Market-Today-SP-500-Rises-as-Nvidia-AI-Stocks-Rally-Dow-Jones-Lags",
     "source": "coinpaper.com",
     "published": "Wed Aug 12 2026 16:11:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BREAKING: GOLDMAN ACQUIRES $1 BILLION BITCOIN ETF IN TAKEOVER DEAL \n\n• Buys ETF provider Neos for $2.3B\n\n• Fund pays 27% yield, but limits BTC upside",
+    "link": "https://cryptopanic.com/news/33200914/BREAKING-GOLDMAN-ACQUIRES-1-BILLION-BITCOIN-ETF-IN-TAKEOVER-DEAL-Buys-ETF-provider-Neos-for-23B-Fund-pays-27-yield-but-limits-BTC-upside",
+    "source": "@btc_archive",
+    "published": "Wed Aug 12 2026 16:10:22 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -28,10 +140,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "July 2026 Exchange Derivatives Volume Report: total $3.03 trillion, MoM decreased 11.1%, futures/spot ratio 7.06x\n\nData compiled by the WuBlockchain Data Center show that derivatives trading volume across 12 major exchanges fell 11.1% month over month to $3.03 trillion in July,",
+    "link": "https://cryptopanic.com/news/33201021/July-2026-Exchange-Derivatives-Volume-Report-total-303-trillion-MoM-decreased-111-futuresspot-ratio-706x-Data-compiled-by-the-WuBlockchain-Data-Center-show-that-derivatives-trading-volume-across-12-major-exchanges-fell-111-month-over-month-to-303-trillion-in-July",
+    "source": "@wublockchain",
+    "published": "Wed Aug 12 2026 16:05:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Hyperliquid is seeking a legal route to offer perpetual futures in U.S.",
     "link": "https://cryptopanic.com/news/33200861/Hyperliquid-is-seeking-a-legal-route-to-offer-perpetual-futures-in-US",
     "source": "cryptopolitan.com",
     "published": "Wed Aug 12 2026 16:05:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: Goldman Sachs is set to acquire BTCI through its Neos deal, gaining $1B $BTC income ETF with a 27% yield, says Eric Balchunas.",
+    "link": "https://cryptopanic.com/news/33201026/LATEST-Goldman-Sachs-is-set-to-acquire-BTCI-through-its-Neos-deal-gaining-1B-BTC-income-ETF-with-a-27-yield-says-Eric-Balchunas",
+    "source": "@cointelegraph",
+    "published": "Wed Aug 12 2026 16:01:26 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -81,132 +207,6 @@
     "link": "https://cryptopanic.com/news/33200738/Archer-Defense-Strategy-Could-Fund-Air-Taxis",
     "source": "catenaa.com",
     "published": "Wed Aug 12 2026 16:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SKALE launches Agent Pit to let builders train AI agents before taking them live on Polymarket",
-    "link": "https://cryptopanic.com/news/33200744/SKALE-launches-Agent-Pit-to-let-builders-train-AI-agents-before-taking-them-live-on-Polymarket",
-    "source": "theblock.co",
-    "published": "Wed Aug 12 2026 16:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Ledger whales holding more than 1 million tokens hit a multi-month peak",
-    "link": "https://cryptopanic.com/news/33200728/XRP-Ledger-whales-holding-more-than-1-million-tokens-hit-a-multi-month-peak",
-    "source": "finbold.com",
-    "published": "Wed Aug 12 2026 15:57:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto-Backed Loans, Explained: How to Unlock Cash Without Selling Your Bitcoin",
-    "link": "https://cryptopanic.com/news/33200726/Crypto-Backed-Loans-Explained-How-to-Unlock-Cash-Without-Selling-Your-Bitcoin",
-    "source": "decrypt.co",
-    "published": "Wed Aug 12 2026 15:54:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cisco ($CSCO) reports earnings today after the close. \n\nThe Street wants non-GAAP EPS of $1.17 on $16.8B in revenue, up about 15% year over year. \n\nThe stock sits near its 52-week high with analysts targeting $130, and after four straight beats the earnings market prices another",
-    "link": "https://cryptopanic.com/news/33200731/Cisco-CSCO-reports-earnings-today-after-the-close-The-Street-wants-non-GAAP-EPS-of-117-on-168B-in-revenue-up-about-15-year-over-year-The-stock-sits-near-its-52-week-high-with-analysts-targeting-130-and-after-four-straight-beats-the-earnings-market-prices-another",
-    "source": "@coinmarketcap",
-    "published": "Wed Aug 12 2026 15:53:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HOLY SH*T: BlackRocks NEWEST Announcement CONFIRMS They Are Coming For YOUR Bitcoin! | EP 1568",
-    "link": "https://cryptopanic.com/news/33200729/HOLY-SHT-BlackRocks-NEWEST-Announcement-CONFIRMS-They-Are-Coming-For-YOUR-Bitcoin-EP-1568",
-    "source": "SimplyBitcoin",
-    "published": "Wed Aug 12 2026 15:52:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BIP-110 failure shows Bitcoin would be ‘almost impossible to reproduce,’ Plan B Network director says",
-    "link": "https://cryptopanic.com/news/33200725/BIP-110-failure-shows-Bitcoin-would-be-almost-impossible-to-reproduce-Plan-B-Network-director-says",
-    "source": "theblock.co",
-    "published": "Wed Aug 12 2026 15:51:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Michael Saylor tells investors when Strategy's Bitcoin no longer covers its debt",
-    "link": "https://cryptopanic.com/news/33200844/Michael-Saylor-tells-investors-when-Strategys-Bitcoin-no-longer-covers-its-debt",
-    "source": "thestreet.com",
-    "published": "Wed Aug 12 2026 15:49:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Pengu Card is gaining traction... \n\nMore than 35,000 people are currently using the @pudgypenguins Card to earn cashback rewards on daily expenses.\n\nThis program, driven by the Pudgy ecosystem, turns normal consumer behavior into on-chain behavior by harnessing the well-known",
-    "link": "https://cryptopanic.com/news/33200857/Pengu-Card-is-gaining-traction-More-than-35000-people-are-currently-using-the-pudgypenguins-Card-to-earn-cashback-rewards-on-daily-expenses-This-program-driven-by-the-Pudgy-ecosystem-turns-normal-consumer-behavior-into-on-chain-behavior-by-harnessing-the-well-known",
-    "source": "@bscnews",
-    "published": "Wed Aug 12 2026 15:48:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "EXCLUSIVE: ECB leaning towards approving UniCredit's Commerzbank bid, document shows",
-    "link": "https://cryptopanic.com/news/33200736/EXCLUSIVE-ECB-leaning-towards-approving-UniCredits-Commerzbank-bid-document-shows",
-    "source": "@reutersbiz",
-    "published": "Wed Aug 12 2026 15:45:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ NEW: SpaceXAI has introduced Grok 4.6.",
-    "link": "https://cryptopanic.com/news/33200735/NEW-SpaceXAI-has-introduced-Grok-46",
-    "source": "@cointelegraph",
-    "published": "Wed Aug 12 2026 15:44:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇮🇷🇺🇸 Iran calls for US Congress to investigate President Trump and his family over alleged war-related insider trading and stock market manipulation.",
-    "link": "https://cryptopanic.com/news/33200682/JUST-IN-Iran-calls-for-US-Congress-to-investigate-President-Trump-and-his-family-over-alleged-war-related-insider-trading-and-stock-market-manipulation",
-    "source": "@watcherguru",
-    "published": "Wed Aug 12 2026 15:44:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto Faces a Hidden Quantum Threat as Attacks Could Leave No Trace",
-    "link": "https://cryptopanic.com/news/33200676/Crypto-Faces-a-Hidden-Quantum-Threat-as-Attacks-Could-Leave-No-Trace",
-    "source": "zycrypto.com",
-    "published": "Wed Aug 12 2026 15:42:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: The OCC says crypto companies should be able to apply for U.S. bank charters, opening a potential path for digital asset firms to access the national banking system.",
-    "link": "https://cryptopanic.com/news/33200733/JUST-IN-The-OCC-says-crypto-companies-should-be-able-to-apply-for-US-bank-charters-opening-a-potential-path-for-digital-asset-firms-to-access-the-national-banking-system",
-    "source": "@coindesk",
-    "published": "Wed Aug 12 2026 15:42:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LlamaRisk becomes the first automated risk oracle built on Chainlink\n\n@LlamaRisk launches LlamaGuard PT, the world's first automated risk oracle on the @Chainlink CRE platform, enabling risk management for @PendleFinance PT on @Aave. \n\nIt overcomes the inherent delays associated",
-    "link": "https://cryptopanic.com/news/33200856/LlamaRisk-becomes-the-first-automated-risk-oracle-built-on-Chainlink-LlamaRisk-launches-LlamaGuard-PT-the-worlds-first-automated-risk-oracle-on-the-Chainlink-CRE-platform-enabling-risk-management-for-PendleFinance-PT-on-Aave-It-overcomes-the-inherent-delays-associated",
-    "source": "@bscnews",
-    "published": "Wed Aug 12 2026 15:38:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "“Nobody wants another dollar.”\n\n@Vet_X0 believes crypto’s biggest success case could be a neutral global reserve asset and sees $XRP as well positioned to capture that role.\n\nNot replacing national currencies. Challenging what sits between them. @XRPLF #XRP",
-    "link": "https://cryptopanic.com/news/33200854/Nobody-wants-another-dollar-Vet_X0-believes-cryptos-biggest-success-case-could-be-a-neutral-global-reserve-asset-and-sees-XRP-as-well-positioned-to-capture-that-role-Not-replacing-national-currencies-Challenging-what-sits-between-them-XRPLF-XRP",
-    "source": "@realallincrypto",
-    "published": "Wed Aug 12 2026 15:38:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Sui Is Quietly Building A Bitcoin Powerhouse — The Latest Numbers Tell The Story",
-    "link": "https://cryptopanic.com/news/33200642/Sui-Is-Quietly-Building-A-Bitcoin-Powerhouse-The-Latest-Numbers-Tell-The-Story",
-    "source": "techgaged.com",
-    "published": "Wed Aug 12 2026 15:36:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  A coalition of 40+ crypto and open-source groups is urging leading AI labs to give vetted developers early access to frontier models to help secure Bitcoin and other critical financial infrastructure.",
-    "link": "https://cryptopanic.com/news/33200730/LATEST-A-coalition-of-40-crypto-and-open-source-groups-is-urging-leading-AI-labs-to-give-vetted-developers-early-access-to-frontier-models-to-help-secure-Bitcoin-and-other-critical-financial-infrastructure",
-    "source": "@coinmarketcap",
-    "published": "Wed Aug 12 2026 15:36:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hyperliquid Turns to CFTC for Path Into U.S. Perpetual Futures Market",
-    "link": "https://cryptopanic.com/news/33200637/Hyperliquid-Turns-to-CFTC-for-Path-Into-US-Perpetual-Futures-Market",
-    "source": "cryptoprowl.com",
-    "published": "Wed Aug 12 2026 15:34:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
