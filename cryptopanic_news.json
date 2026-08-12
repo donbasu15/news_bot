@@ -1,5 +1,54 @@
 [
   {
+    "title": "A Routing Bug Took Solana 86% of the Way to Losing Finality",
+    "link": "https://cryptopanic.com/news/33200074/A-Routing-Bug-Took-Solana-86-of-the-Way-to-Losing-Finality",
+    "source": "decrypt.co",
+    "published": "Wed Aug 12 2026 14:13:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "US Banking Regulator Opens Bank Charter Path to Crypto Firms",
+    "link": "https://cryptopanic.com/news/33200067/US-Banking-Regulator-Opens-Bank-Charter-Path-to-Crypto-Firms",
+    "source": "coindoo.com",
+    "published": "Wed Aug 12 2026 14:10:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto.com Launches 24/7 Tokenized US Stock Trading for Retail Investors",
+    "link": "https://cryptopanic.com/news/33200040/Cryptocom-Launches-247-Tokenized-US-Stock-Trading-for-Retail-Investors",
+    "source": "dailycoin.com",
+    "published": "Wed Aug 12 2026 14:05:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Kalshi Adds Real-Time Market Data Feed Through DoubleZero",
+    "link": "https://cryptopanic.com/news/33199985/Kalshi-Adds-Real-Time-Market-Data-Feed-Through-DoubleZero",
+    "source": "decrypt.co",
+    "published": "Wed Aug 12 2026 14:00:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Kalshi first prediction market to stream full order books via DoubleZero",
+    "link": "https://cryptopanic.com/news/33199964/Kalshi-first-prediction-market-to-stream-full-order-books-via-DoubleZero",
+    "source": "theblock.co",
+    "published": "Wed Aug 12 2026 14:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cathie Wood has a new demand for OpenAI, Anthropic and Google",
+    "link": "https://cryptopanic.com/news/33200142/Cathie-Wood-has-a-new-demand-for-OpenAI-Anthropic-and-Google",
+    "source": "thestreet.com",
+    "published": "Wed Aug 12 2026 13:58:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitget Institutional gives quant firms and asset managers $300M boost with Project Archimedes launch",
+    "link": "https://cryptopanic.com/news/33199959/Bitget-Institutional-gives-quant-firms-and-asset-managers-300M-boost-with-Project-Archimedes-launch",
+    "source": "cryptopolitan.com",
+    "published": "Wed Aug 12 2026 13:55:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Taiwan faces wave of open-source AI attacks from China-linked hackers, FT",
     "link": "https://cryptopanic.com/news/33199958/Taiwan-faces-wave-of-open-source-AI-attacks-from-China-linked-hackers-FT",
     "source": "cryptopolitan.com",
@@ -21,16 +70,23 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Nigeria approved tax waivers for nearly 4,000 electric vehicles in the first half of 2026, according to government data, but the authorities’ plans to accelerate EV adoption faces challenges in a country with unreliable power supply",
-    "link": "https://cryptopanic.com/news/33199906/Nigeria-approved-tax-waivers-for-nearly-4000-electric-vehicles-in-the-first-half-of-2026-according-to-government-data-but-the-authorities-plans-to-accelerate-EV-adoption-faces-challenges-in-a-country-with-unreliable-power-supply",
-    "source": "@reutersbiz",
-    "published": "Wed Aug 12 2026 13:45:00 GMT+0000 (Coordinated Universal Time)",
+    "title": "XRP Network Activity Jumps 84% but ETFs See Zero Inflows: What's Going On?",
+    "link": "https://cryptopanic.com/news/33199984/XRP-Network-Activity-Jumps-84-but-ETFs-See-Zero-Inflows-Whats-Going-On",
+    "source": "feeds2.benzinga.com",
+    "published": "Wed Aug 12 2026 13:46:06 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
     "title": "Earnings For Bitcoin Miners Hit 10-Year Low",
     "link": "https://cryptopanic.com/news/33199965/Earnings-For-Bitcoin-Miners-Hit-10-Year-Low",
     "source": "cryptoprowl.com",
+    "published": "Wed Aug 12 2026 13:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Nigeria approved tax waivers for nearly 4,000 electric vehicles in the first half of 2026, according to government data, but the authorities’ plans to accelerate EV adoption faces challenges in a country with unreliable power supply",
+    "link": "https://cryptopanic.com/news/33199906/Nigeria-approved-tax-waivers-for-nearly-4000-electric-vehicles-in-the-first-half-of-2026-according-to-government-data-but-the-authorities-plans-to-accelerate-EV-adoption-faces-challenges-in-a-country-with-unreliable-power-supply",
+    "source": "@reutersbiz",
     "published": "Wed Aug 12 2026 13:45:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -42,10 +98,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Smart contract blockchain Solana nearly froze Wednesday, Marinade Finance says",
+    "link": "https://cryptopanic.com/news/33200057/Smart-contract-blockchain-Solana-nearly-froze-Wednesday-Marinade-Finance-says",
+    "source": "coindesk.com",
+    "published": "Wed Aug 12 2026 13:39:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "There's a new trending cat on Robinhood Chain\n\nAfter weeks of $CASHCAT dominance on the @RobinhoodCrypto chain, we now have a new memecoin in the spotlight. \n\nThinking Cat (@thinkingcatRH) $HMM is trending in the memecoin space after a huge rally over the past 24 hours. \n\nThe",
     "link": "https://cryptopanic.com/news/33199951/Theres-a-new-trending-cat-on-Robinhood-Chain-After-weeks-of-CASHCAT-dominance-on-the-RobinhoodCrypto-chain-we-now-have-a-new-memecoin-in-the-spotlight-Thinking-Cat-thinkingcatRH-HMM-is-trending-in-the-memecoin-space-after-a-huge-rally-over-the-past-24-hours-The",
     "source": "@bscnews",
     "published": "Wed Aug 12 2026 13:38:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 Fidelity says Bitcoin looks discounted and primed to move.\n\n• Spot ETF inflows rising amid low volatility\n\n• \"Periods of compression never last forever\"",
+    "link": "https://cryptopanic.com/news/33200073/JUST-IN-Fidelity-says-Bitcoin-looks-discounted-and-primed-to-move-Spot-ETF-inflows-rising-amid-low-volatility-Periods-of-compression-never-last-forever",
+    "source": "@btc_archive",
+    "published": "Wed Aug 12 2026 13:34:35 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/33199783/Memecoin-Thinking-Cat-Surges-on-Robinhood-Chain-as-Memecoin-Activity-Dominates-New-Network",
     "source": "cryptoprowl.com",
     "published": "Wed Aug 12 2026 13:12:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Wall Street is divided over whether the Fed will raise interest rates next month, and July's inflation report could be pivotal. Jane Foley of Rabobank tells Reuters a hike is far from inevitable, but even a benign inflation number may not settle the debate",
-    "link": "https://cryptopanic.com/news/33199905/Wall-Street-is-divided-over-whether-the-Fed-will-raise-interest-rates-next-month-and-Julys-inflation-report-could-be-pivotal-Jane-Foley-of-Rabobank-tells-Reuters-a-hike-is-far-from-inevitable-but-even-a-benign-inflation-number-may-not-settle-the-debate",
-    "source": "@reutersbiz",
-    "published": "Wed Aug 12 2026 13:10:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto.com Launches Tokenized Stock Derivatives",
-    "link": "https://cryptopanic.com/news/33199722/Cryptocom-Launches-Tokenized-Stock-Derivatives",
-    "source": "cryptoprowl.com",
-    "published": "Wed Aug 12 2026 13:09:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tata Sons’ Succession: New Chairman or Power-Sharing Model?",
-    "link": "https://cryptopanic.com/news/33199797/Tata-Sons-Succession-New-Chairman-or-Power-Sharing-Model",
-    "source": "sfctoday.com",
-    "published": "Wed Aug 12 2026 13:08:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEAR Intents is pulling off unreal numbers!\n\n$NEARProtocol hits a cumulative $25B in volume thanks to its NEAR Intents architecture, which brings together all cross-chain liquidity into a single execution layer.\n\nThe protocol can now process transactions across 30 different",
-    "link": "https://cryptopanic.com/news/33199737/NEAR-Intents-is-pulling-off-unreal-numbers-NEARProtocol-hits-a-cumulative-25B-in-volume-thanks-to-its-NEAR-Intents-architecture-which-brings-together-all-cross-chain-liquidity-into-a-single-execution-layer-The-protocol-can-now-process-transactions-across-30-different",
-    "source": "@bscnews",
-    "published": "Wed Aug 12 2026 13:07:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "GOOG Stock Tanks 3% Despite Google Signing 5-Year Cloud & AI Deal With Ryanair",
-    "link": "https://cryptopanic.com/news/33199701/GOOG-Stock-Tanks-3-Despite-Google-Signing-5-Year-Cloud-AI-Deal-With-Ryanair",
-    "source": "coinpaper.com",
-    "published": "Wed Aug 12 2026 13:07:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: South Korea regrets handing retail the leverage keys\n\n• Forces 5 days of paper trading first for ETFs\n\n• Rule covers domestic and overseas products\n\n• Volumes in Korea already crashed 90%",
-    "link": "https://cryptopanic.com/news/33199800/JUST-IN-South-Korea-regrets-handing-retail-the-leverage-keys-Forces-5-days-of-paper-trading-first-for-ETFs-Rule-covers-domestic-and-overseas-products-Volumes-in-Korea-already-crashed-90",
-    "source": "@btc_archive",
-    "published": "Wed Aug 12 2026 13:07:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BlackRock just made it 25x easier to move $BTC into Wall Street’s biggest $BTC ETF.\n\nThe minimum BTC→IBIT in-kind conversion has fallen from $25M to $1M, per @EricBalchunas.\n\nThat means far more wealthy holders and institutions can move BTC directly into a regulated ETF",
-    "link": "https://cryptopanic.com/news/33199730/BlackRock-just-made-it-25x-easier-to-move-BTC-into-Wall-Streets-biggest-BTC-ETF-The-minimum-BTCIBIT-in-kind-conversion-has-fallen-from-25M-to-1M-per-EricBalchunas-That-means-far-more-wealthy-holders-and-institutions-can-move-BTC-directly-into-a-regulated-ETF",
-    "source": "@realallincrypto",
-    "published": "Wed Aug 12 2026 13:02:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP’s million-token wallets climb 32 as market cap falls 29%: Can whales absorb price weakness?",
-    "link": "https://cryptopanic.com/news/33199636/XRPs-million-token-wallets-climb-32-as-market-cap-falls-29-Can-whales-absorb-price-weakness",
-    "source": "ambcrypto.com",
-    "published": "Wed Aug 12 2026 13:00:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: CZ says Binance’s market share growth comes down to one thing; keeping users by protecting them.",
-    "link": "https://cryptopanic.com/news/33199903/UPDATE-CZ-says-Binances-market-share-growth-comes-down-to-one-thing-keeping-users-by-protecting-them",
-    "source": "@cointelegraph",
-    "published": "Wed Aug 12 2026 13:00:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Click",
-    "link": "https://cryptopanic.com/news/33199897/Click",
-    "source": "@coinmarketcap",
-    "published": "Wed Aug 12 2026 13:00:22 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
