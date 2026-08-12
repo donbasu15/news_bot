@@ -1,5 +1,82 @@
 [
   {
+    "title": "Larry El’s Oracle brings world’s ‘most accurate commercial quantum computer’ into Cloud",
+    "link": "https://cryptopanic.com/news/33199857/Larry-Els-Oracle-brings-worlds-most-accurate-commercial-quantum-computer-into-Cloud",
+    "source": "cryptopolitan.com",
+    "published": "Wed Aug 12 2026 13:32:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Thailand's Zero-Tax Crypto Bet is a Capital Control, Not a Giveaway",
+    "link": "https://cryptopanic.com/news/33199830/Thailands-Zero-Tax-Crypto-Bet-is-a-Capital-Control-Not-a-Giveaway",
+    "source": "www.blockhead.co",
+    "published": "Wed Aug 12 2026 13:30:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Are more layoffs ahead for the crypto industry?\n\n@itsciaranlyons breaks down Bitwise’s latest cuts and what AI-driven efficiency could mean for jobs across crypto.",
+    "link": "https://cryptopanic.com/news/33199904/Are-more-layoffs-ahead-for-the-crypto-industry-itsciaranlyons-breaks-down-Bitwises-latest-cuts-and-what-AI-driven-efficiency-could-mean-for-jobs-across-crypto",
+    "source": "@cointelegraph",
+    "published": "Wed Aug 12 2026 13:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ripple’s (XRP) Summer Slump Isn’t Stopping Large Wallets From Growing",
+    "link": "https://cryptopanic.com/news/33199792/Ripples-XRP-Summer-Slump-Isnt-Stopping-Large-Wallets-From-Growing",
+    "source": "cryptopotato.com",
+    "published": "Wed Aug 12 2026 13:26:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: Standard Chartered, Animoca Brands and HKT launch Hong Kong's first regulated HKD stablecoin for institutional users, with retail access targeted for Q4 2026.",
+    "link": "https://cryptopanic.com/news/33199902/NEW-Standard-Chartered-Animoca-Brands-and-HKT-launch-Hong-Kongs-first-regulated-HKD-stablecoin-for-institutional-users-with-retail-access-targeted-for-Q4-2026",
+    "source": "@coindesk",
+    "published": "Wed Aug 12 2026 13:25:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Bitwise CEO Hunter Horsley says a major bank is allowing clients to borrow against the Bitwise Solana Staking ETF at up to a 25% loan-to-value ratio.",
+    "link": "https://cryptopanic.com/news/33199898/LATEST-Bitwise-CEO-Hunter-Horsley-says-a-major-bank-is-allowing-clients-to-borrow-against-the-Bitwise-Solana-Staking-ETF-at-up-to-a-25-loan-to-value-ratio",
+    "source": "@coinmarketcap",
+    "published": "Wed Aug 12 2026 13:25:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Quivers at $1: This Green Line Is The Make-or-Break",
+    "link": "https://cryptopanic.com/news/33199785/XRP-Quivers-at-1-This-Green-Line-Is-The-Make-or-Break",
+    "source": "dailycoin.com",
+    "published": "Wed Aug 12 2026 13:25:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Fidelity Adds Staking Payments To Ethereum ETF",
+    "link": "https://cryptopanic.com/news/33199866/Fidelity-Adds-Staking-Payments-To-Ethereum-ETF",
+    "source": "cryptoprowl.com",
+    "published": "Wed Aug 12 2026 13:24:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tom Lee's BitMine Is Close to Owning 5% of All ETH: What Happens to BMNR When It Does?",
+    "link": "https://cryptopanic.com/news/33199858/Tom-Lees-BitMine-Is-Close-to-Owning-5-of-All-ETH-What-Happens-to-BMNR-When-It-Does",
+    "source": "feeds2.benzinga.com",
+    "published": "Wed Aug 12 2026 13:23:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Is Showing the Anatomy of a Bottom\n\n“Bitcoin is displaying a condition repeatedly associated with macro bottoms, but not yet the emotional and financial exhaustion that made previous bottoms unmistakable.” – By @MorenoDV_",
+    "link": "https://cryptopanic.com/news/33199899/Bitcoin-Is-Showing-the-Anatomy-of-a-Bottom-Bitcoin-is-displaying-a-condition-repeatedly-associated-with-macro-bottoms-but-not-yet-the-emotional-and-financial-exhaustion-that-made-previous-bottoms-unmistakable-By-MorenoDV_",
+    "source": "@cryptoquant_com",
+    "published": "Wed Aug 12 2026 13:15:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Standard Chartered-led Anchorpoint launches Hong Kong dollar stablecoin",
+    "link": "https://cryptopanic.com/news/33199864/Standard-Chartered-led-Anchorpoint-launches-Hong-Kong-dollar-stablecoin",
+    "source": "coindesk.com",
+    "published": "Wed Aug 12 2026 13:13:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Crypto[.]com opens U.S. stocks and ETFs for European residents\n\n@Cryptocom introduces tokenized U.S. securities and ETFs on the exchange's main platform for users in the European Economic Area.\n\nWith this update, round-the-clock trading is available for popular equities and 400+",
     "link": "https://cryptopanic.com/news/33199738/Cryptocom-opens-US-stocks-and-ETFs-for-European-residents-Cryptocom-introduces-tokenized-US-securities-and-ETFs-on-the-exchanges-main-platform-for-users-in-the-European-Economic-Area-With-this-update-round-the-clock-trading-is-available-for-popular-equities-and-400",
     "source": "@bscnews",
@@ -14,10 +91,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Wall Street is divided over whether the Fed will raise interest rates next month, and July's inflation report could be pivotal. Jane Foley of Rabobank tells Reuters a hike is far from inevitable, but even a benign inflation number may not settle the debate",
+    "link": "https://cryptopanic.com/news/33199905/Wall-Street-is-divided-over-whether-the-Fed-will-raise-interest-rates-next-month-and-Julys-inflation-report-could-be-pivotal-Jane-Foley-of-Rabobank-tells-Reuters-a-hike-is-far-from-inevitable-but-even-a-benign-inflation-number-may-not-settle-the-debate",
+    "source": "@reutersbiz",
+    "published": "Wed Aug 12 2026 13:10:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Crypto.com Launches Tokenized Stock Derivatives",
     "link": "https://cryptopanic.com/news/33199722/Cryptocom-Launches-Tokenized-Stock-Derivatives",
     "source": "cryptoprowl.com",
     "published": "Wed Aug 12 2026 13:09:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tata Sons’ Succession: New Chairman or Power-Sharing Model?",
+    "link": "https://cryptopanic.com/news/33199797/Tata-Sons-Succession-New-Chairman-or-Power-Sharing-Model",
+    "source": "sfctoday.com",
+    "published": "Wed Aug 12 2026 13:08:17 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -35,6 +126,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "JUST IN: South Korea regrets handing retail the leverage keys\n\n• Forces 5 days of paper trading first for ETFs\n\n• Rule covers domestic and overseas products\n\n• Volumes in Korea already crashed 90%",
+    "link": "https://cryptopanic.com/news/33199800/JUST-IN-South-Korea-regrets-handing-retail-the-leverage-keys-Forces-5-days-of-paper-trading-first-for-ETFs-Rule-covers-domestic-and-overseas-products-Volumes-in-Korea-already-crashed-90",
+    "source": "@btc_archive",
+    "published": "Wed Aug 12 2026 13:07:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "BlackRock just made it 25x easier to move $BTC into Wall Street’s biggest $BTC ETF.\n\nThe minimum BTC→IBIT in-kind conversion has fallen from $25M to $1M, per @EricBalchunas.\n\nThat means far more wealthy holders and institutions can move BTC directly into a regulated ETF",
     "link": "https://cryptopanic.com/news/33199730/BlackRock-just-made-it-25x-easier-to-move-BTC-into-Wall-Streets-biggest-BTC-ETF-The-minimum-BTCIBIT-in-kind-conversion-has-fallen-from-25M-to-1M-per-EricBalchunas-That-means-far-more-wealthy-holders-and-institutions-can-move-BTC-directly-into-a-regulated-ETF",
     "source": "@realallincrypto",
@@ -46,6 +144,20 @@
     "link": "https://cryptopanic.com/news/33199636/XRPs-million-token-wallets-climb-32-as-market-cap-falls-29-Can-whales-absorb-price-weakness",
     "source": "ambcrypto.com",
     "published": "Wed Aug 12 2026 13:00:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: CZ says Binance’s market share growth comes down to one thing; keeping users by protecting them.",
+    "link": "https://cryptopanic.com/news/33199903/UPDATE-CZ-says-Binances-market-share-growth-comes-down-to-one-thing-keeping-users-by-protecting-them",
+    "source": "@cointelegraph",
+    "published": "Wed Aug 12 2026 13:00:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Click",
+    "link": "https://cryptopanic.com/news/33199897/Click",
+    "source": "@coinmarketcap",
+    "published": "Wed Aug 12 2026 13:00:22 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -84,129 +196,17 @@
     "sentiment": "neutral"
   },
   {
+    "title": "JUST IN: Trader burns 1.6 BTC in transaction fees\n\nRaised fee 20 times in under 2 mins.\n\nSpiderPool collected the full windfall.",
+    "link": "https://cryptopanic.com/news/33199799/JUST-IN-Trader-burns-16-BTC-in-transaction-fees-Raised-fee-20-times-in-under-2-mins-SpiderPool-collected-the-full-windfall",
+    "source": "@btc_archive",
+    "published": "Wed Aug 12 2026 12:54:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST:  10x Research says Bitcoin may be decoupling from the S&P 500 and could benefit alongside gold if summer jobs data pushes the Fed toward a September rate cut.",
     "link": "https://cryptopanic.com/news/33199606/LATEST-10x-Research-says-Bitcoin-may-be-decoupling-from-the-SampP-500-and-could-benefit-alongside-gold-if-summer-jobs-data-pushes-the-Fed-toward-a-September-rate-cut",
     "source": "@coinmarketcap",
     "published": "Wed Aug 12 2026 12:53:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Are Bitcoin Miners Abandoning Mining for AI? Riot’s Anthropic Deal Has the Answer",
-    "link": "https://cryptopanic.com/news/33199717/Are-Bitcoin-Miners-Abandoning-Mining-for-AI-Riots-Anthropic-Deal-Has-the-Answer",
-    "source": "feeds2.benzinga.com",
-    "published": "Wed Aug 12 2026 12:51:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "US July Unadjusted CPI at 3.4% YoY, in Line With Expectations\n\nThe annual inflation rate in the US slowed for a second consecutive month to 3.4% in July 2026, from 3.5% in June, in line with market expectations and easing further from the 2023 high of 4.2% reached in May. On a",
-    "link": "https://cryptopanic.com/news/33199608/US-July-Unadjusted-CPI-at-34-YoY-in-Line-With-Expectations-The-annual-inflation-rate-in-the-US-slowed-for-a-second-consecutive-month-to-34-in-July-2026-from-35-in-June-in-line-with-market-expectations-and-easing-further-from-the-2023-high-of-42-reached-in-May-On-a",
-    "source": "@wublockchain",
-    "published": "Wed Aug 12 2026 12:48:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin-Gold Correlation Spikes on Macro Risks; Shiba Inu (SHIB) Whale Presence Shrinks to Just 0.04%; Binance Secures $600 Million Tokenization Milestone: Founder Reacts — Morning Crypto Report",
-    "link": "https://cryptopanic.com/news/33199642/Bitcoin-Gold-Correlation-Spikes-on-Macro-Risks-Shiba-Inu-SHIB-Whale-Presence-Shrinks-to-Just-004-Binance-Secures-600-Million-Tokenization-Milestone-Founder-Reacts-Morning-Crypto-Report",
-    "source": "u.today",
-    "published": "Wed Aug 12 2026 12:46:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Harmony Protocol exploit mints 4B ONE, but why did ZachXBT refuse help?",
-    "link": "https://cryptopanic.com/news/33199564/Harmony-Protocol-exploit-mints-4B-ONE-but-why-did-ZachXBT-refuse-help",
-    "source": "ambcrypto.com",
-    "published": "Wed Aug 12 2026 12:45:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "U.S. CPI inflation slows to 3.4% as expected, bitcoin holds near $64,000",
-    "link": "https://cryptopanic.com/news/33199639/US-CPI-inflation-slows-to-34-as-expected-bitcoin-holds-near-64000",
-    "source": "coindesk.com",
-    "published": "Wed Aug 12 2026 12:44:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Odds that the Fed leaves rates unchanged in September have risen to 65% after the July CPI data came in exactly as forecast.",
-    "link": "https://cryptopanic.com/news/33199584/Odds-that-the-Fed-leaves-rates-unchanged-in-September-have-risen-to-65-after-the-July-CPI-data-came-in-exactly-as-forecast",
-    "source": "@stackersatoshi",
-    "published": "Wed Aug 12 2026 12:41:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "US CPI Falls to 3.4%: What Crypto Investors Face Next",
-    "link": "https://cryptopanic.com/news/33199513/US-CPI-Falls-to-34-What-Crypto-Investors-Face-Next",
-    "source": "coindoo.com",
-    "published": "Wed Aug 12 2026 12:38:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Russia's central bank confirms $BTC, $ETH and $USDT as the only assets retail investors can trade on regulated exchanges from September 1.",
-    "link": "https://cryptopanic.com/news/33199610/UPDATE-Russias-central-bank-confirms-BTC-ETH-and-USDT-as-the-only-assets-retail-investors-can-trade-on-regulated-exchanges-from-September-1",
-    "source": "@coindesk",
-    "published": "Wed Aug 12 2026 12:37:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "U.S. CPI hits lowest levels in 4 months\n\nThe U.S. CPI stands at 3.4%, in line with market expectations. \n\nThis marks its lowest level in four months.\n\n\"The expected result\" offers a much-needed release valve for $XRP while defending its $1.00 psychological support level.",
-    "link": "https://cryptopanic.com/news/33199731/US-CPI-hits-lowest-levels-in-4-months-The-US-CPI-stands-at-34-in-line-with-market-expectations-This-marks-its-lowest-level-in-four-months-The-expected-result-offers-a-much-needed-release-valve-for-XRP-while-defending-its-100-psychological-support-level",
-    "source": "@bscnews",
-    "published": "Wed Aug 12 2026 12:35:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CPI coming in right at estimates.\n\nSo now more than ever, how the market reacts is what will be telling today.",
-    "link": "https://cryptopanic.com/news/33199427/CPI-coming-in-right-at-estimates-So-now-more-than-ever-how-the-market-reacts-is-what-will-be-telling-today",
-    "source": "@daancrypto",
-    "published": "Wed Aug 12 2026 12:31:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "US July CPI \n\nInflation MoM: +0.1% \nInflation YoY: +3.4%\nCore inflation MoM: +0.2%\nCore inflation YoY: +2.5%",
-    "link": "https://cryptopanic.com/news/33199583/US-July-CPI-Inflation-MoM-01-Inflation-YoY-34-Core-inflation-MoM-02-Core-inflation-YoY-25",
-    "source": "@stackersatoshi",
-    "published": "Wed Aug 12 2026 12:31:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Solana briefly lost connectivity across 28.83% of staked SOL, nearing its 33.34% halt threshold, per Marinade.",
-    "link": "https://cryptopanic.com/news/33199611/UPDATE-Solana-briefly-lost-connectivity-across-2883-of-staked-SOL-nearing-its-3334-halt-threshold-per-Marinade",
-    "source": "@cointelegraph",
-    "published": "Wed Aug 12 2026 12:30:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: 🇺🇸 US inflation falls to 3.4%.",
-    "link": "https://cryptopanic.com/news/33199582/BREAKING-US-inflation-falls-to-34",
-    "source": "@watcherguru",
-    "published": "Wed Aug 12 2026 12:30:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The SEC Stops Waiting for Congress: 'Regulation Crypto' Gets a Vote Friday",
-    "link": "https://cryptopanic.com/news/33199408/The-SEC-Stops-Waiting-for-Congress-Regulation-Crypto-Gets-a-Vote-Friday",
-    "source": "www.blockhead.co",
-    "published": "Wed Aug 12 2026 12:25:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Analyst Says Solana’s Speed Comes With a Reliability Test",
-    "link": "https://cryptopanic.com/news/33199392/Analyst-Says-Solanas-Speed-Comes-With-a-Reliability-Test",
-    "source": "dailycoin.com",
-    "published": "Wed Aug 12 2026 12:21:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "GameFi Alliance Co-Hosts Web3 Gaming Summit Where Next-Gen Game Design Meets Decentralized Infrastructure",
-    "link": "https://cryptopanic.com/news/33199406/GameFi-Alliance-Co-Hosts-Web3-Gaming-Summit-Where-Next-Gen-Game-Design-Meets-Decentralized-Infrastructure",
-    "source": "theholycoins.com",
-    "published": "Wed Aug 12 2026 12:20:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Ark Invest's Cathie Wood says stablecoins and Bitcoin will be \"the two biggest beneficiaries\" of the coming boom in agentic commerce and payments.",
-    "link": "https://cryptopanic.com/news/33199605/LATEST-Ark-Invests-Cathie-Wood-says-stablecoins-and-Bitcoin-will-be-the-two-biggest-beneficiaries-of-the-coming-boom-in-agentic-commerce-and-payments",
-    "source": "@coinmarketcap",
-    "published": "Wed Aug 12 2026 12:17:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
