@@ -1,5 +1,33 @@
 [
   {
+    "title": "Source: AdaStat",
+    "link": "https://cryptopanic.com/news/33202305/Source-AdaStat",
+    "source": "@angrycryptoshow",
+    "published": "Wed Aug 12 2026 21:51:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: AlphaGrowth's #Cardano PRIME proposal has successfully concluded with over 80% approval votes, representing 3.67B $ADA. PRIME aims to supercharge Cardano's TVL by over $200,000,000.",
+    "link": "https://cryptopanic.com/news/33202306/JUST-IN-AlphaGrowths-Cardano-PRIME-proposal-has-successfully-concluded-with-over-80-approval-votes-representing-367B-ADA-PRIME-aims-to-supercharge-Cardanos-TVL-by-over-200000000",
+    "source": "@angrycryptoshow",
+    "published": "Wed Aug 12 2026 21:51:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Crypto.​com launched tokenized derivatives tracking 1,500 US stocks and ETFs, including Apple, Tesla and Nvidia, for eligible users in approved markets.",
+    "link": "https://cryptopanic.com/news/33202304/LATEST-Cryptocom-launched-tokenized-derivatives-tracking-1500-US-stocks-and-ETFs-including-Apple-Tesla-and-Nvidia-for-eligible-users-in-approved-markets",
+    "source": "@coinmarketcap",
+    "published": "Wed Aug 12 2026 21:41:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 ALERT: New York City Council has opened a probe into Kalshi, Polymarket, Coinbase and Gemini over alleged deceptive prediction market marketing targeting young adults.",
+    "link": "https://cryptopanic.com/news/33202309/ALERT-New-York-City-Council-has-opened-a-probe-into-Kalshi-Polymarket-Coinbase-and-Gemini-over-alleged-deceptive-prediction-market-marketing-targeting-young-adults",
+    "source": "@cointelegraph",
+    "published": "Wed Aug 12 2026 21:39:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: There's now a 69% chance Bitcoin will be above $65,000 this month, according to Polymarket⁠.com",
     "link": "https://cryptopanic.com/news/33202293/JUST-IN-Theres-now-a-69-chance-Bitcoin-will-be-above-65000-this-month-according-to-Polymarketcom",
     "source": "@bitcoinmagazine",
@@ -46,6 +74,13 @@
     "link": "https://cryptopanic.com/news/33202294/BREAKING-430B-Capital-International-bought-300M-of-Michael-Saylors-Strategy-shares-Now-holds-3B-worth-of-MSTR",
     "source": "@btc_archive",
     "published": "Wed Aug 12 2026 21:21:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ALERT: A grocery run for common items now costs over 40% more than in 2019, with whole milk up 42% and chicken breast up 39%, according to the St. Louis Fed.",
+    "link": "https://cryptopanic.com/news/33202308/ALERT-A-grocery-run-for-common-items-now-costs-over-40-more-than-in-2019-with-whole-milk-up-42-and-chicken-breast-up-39-according-to-the-St-Louis-Fed",
+    "source": "@cointelegraph",
+    "published": "Wed Aug 12 2026 21:20:45 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33202177/NEW-Kraken-has-added-247-SampP-500-perpetuals-to-its-funded-trading-program-with-commodities-planned-next",
     "source": "@cointelegraph",
     "published": "Wed Aug 12 2026 20:58:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "tx XRP bridge drained of 99.7% of its reserve in $200,000 exploit",
-    "link": "https://cryptopanic.com/news/33202103/tx-XRP-bridge-drained-of-997-of-its-reserve-in-200000-exploit",
-    "source": "cryptopolitan.com",
-    "published": "Wed Aug 12 2026 20:45:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Gold edged higher after in-line US inflation data while Bitcoin stayed flat\n\nJuly CPI came in at 3.4% annually and 0.1% on the month, both matching forecasts, with core at 2.5%. Gold added 0.60% to $4,407.54 an ounce and silver rose 0.77%.\n\nbitcoin:native traded at $63,479, down",
-    "link": "https://cryptopanic.com/news/33202077/Gold-edged-higher-after-in-line-US-inflation-data-while-Bitcoin-stayed-flat-July-CPI-came-in-at-34-annually-and-01-on-the-month-both-matching-forecasts-with-core-at-25-Gold-added-060-to-440754-an-ounce-and-silver-rose-077-bitcoinnative-traded-at-63479-down",
-    "source": "@bscnews",
-    "published": "Wed Aug 12 2026 20:43:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 JUST IN: The SEC has cleared Franklin Templeton’s onchain money market fund, FOBXX, for use in registered funds.",
-    "link": "https://cryptopanic.com/news/33202176/JUST-IN-The-SEC-has-cleared-Franklin-Templetons-onchain-money-market-fund-FOBXX-for-use-in-registered-funds",
-    "source": "@cointelegraph",
-    "published": "Wed Aug 12 2026 20:40:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Russia picks Bitcoin, Ethereum and USDT for public trading as retail faces $58,000 cap",
-    "link": "https://cryptopanic.com/news/33202052/Russia-picks-Bitcoin-Ethereum-and-USDT-for-public-trading-as-retail-faces-58000-cap",
-    "source": "cryptoslate.com",
-    "published": "Wed Aug 12 2026 20:40:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: The number of Bitcoin holders continue to rise, according to Grayscale \n\n\"We believe that adoption will be driven by more demand for scarce assets, greater adoption of blockchain technology, and generational change in portfolio construction.\"",
-    "link": "https://cryptopanic.com/news/33202109/JUST-IN-The-number-of-Bitcoin-holders-continue-to-rise-according-to-Grayscale-We-believe-that-adoption-will-be-driven-by-more-demand-for-scarce-assets-greater-adoption-of-blockchain-technology-and-generational-change-in-portfolio-construction",
-    "source": "@bitcoinmagazine",
-    "published": "Wed Aug 12 2026 20:35:02 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
