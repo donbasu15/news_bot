@@ -1,5 +1,54 @@
 [
   {
+    "title": "Nobody is actually competing with Ethereum...\n\n@Ethereum's dominance on just about every onchain metric has been overshadowed by $ETH's poor price performance in 2026.\n\nBut don't let this fool you.\n\n$ETH still holds more than 55% of the entire industry's TVL, and nearly 50% of",
+    "link": "https://cryptopanic.com/news/33183100/Nobody-is-actually-competing-with-Ethereum-Ethereums-dominance-on-just-about-every-onchain-metric-has-been-overshadowed-by-ETHs-poor-price-performance-in-2026-But-dont-let-this-fool-you-ETH-still-holds-more-than-55-of-the-entire-industrys-TVL-and-nearly-50-of",
+    "source": "@bscnews",
+    "published": "Mon Aug 10 2026 00:41:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Foundation To Hire An A.I. Security Researcher",
+    "link": "https://cryptopanic.com/news/33169053/Ethereum-Foundation-To-Hire-An-AI-Security-Researcher",
+    "source": "cryptoprowl.com",
+    "published": "Thu Aug 06 2026 19:27:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum researchers propose burning validator rewards to cap staking at 50%",
+    "link": "https://cryptopanic.com/news/33154573/Ethereum-researchers-propose-burning-validator-rewards-to-cap-staking-at-50",
+    "source": "theblock.co",
+    "published": "Tue Aug 04 2026 19:49:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Just Had Its Best Month in a Year: Can ETH Keep Rallying in August?",
+    "link": "https://cryptopanic.com/news/33140592/Ethereum-Just-Had-Its-Best-Month-in-a-Year-Can-ETH-Keep-Rallying-in-August",
+    "source": "cryptopotato.com",
+    "published": "Sun Aug 02 2026 11:27:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum’s 43-day staking queue isn’t a clean demand signal, Sygnum says",
+    "link": "https://cryptopanic.com/news/33133325/Ethereums-43-day-staking-queue-isnt-a-clean-demand-signal-Sygnum-says",
+    "source": "theblock.co",
+    "published": "Fri Jul 31 2026 14:35:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "‪Ethereum’s Relationship With AI: A Foundational for Economic Layer",
+    "link": "https://cryptopanic.com/news/33119456/Ethereums-Relationship-With-AI-A-Foundational-for-Economic-Layer",
+    "source": "zycrypto.com",
+    "published": "Wed Jul 29 2026 13:50:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum L2 ecosystem loses momentum as TVL drops to two-year low",
+    "link": "https://cryptopanic.com/news/33114393/Ethereum-L2-ecosystem-loses-momentum-as-TVL-drops-to-two-year-low",
+    "source": "theblock.co",
+    "published": "Tue Jul 28 2026 18:21:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "“If you need to tokenize and you're serious about doing it at scale, you have no reason to not engage us. We have all the options, all the knowledge, all the expertise across the globe, across chains, and across assets. That value proposition doesn't exist anywhere else.”",
     "link": "https://cryptopanic.com/news/33207277/If-you-need-to-tokenize-and-youre-serious-about-doing-it-at-scale-you-have-no-reason-to-not-engage-us-We-have-all-the-options-all-the-knowledge-all-the-expertise-across-the-globe-across-chains-and-across-assets-That-value-proposition-doesnt-exist-anywhere-else",
     "source": "r/hedera",
@@ -25,6 +74,13 @@
     "link": "https://cryptopanic.com/news/33207193/FCA-HTX-in-Settlement-Talks-Over-Illegal-UK-Crypto-Promotions-Report",
     "source": "decrypt.co",
     "published": "Thu Aug 13 2026 14:31:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BREAKING: UBS Bank triples its Bitcoin ETF position to $90M \n\niShares IBIT holding jumped to 2.5M shares",
+    "link": "https://cryptopanic.com/news/33207310/BREAKING-UBS-Bank-triples-its-Bitcoin-ETF-position-to-90M-iShares-IBIT-holding-jumped-to-25M-shares",
+    "source": "@btc_archive",
+    "published": "Thu Aug 13 2026 14:31:26 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -74,6 +130,13 @@
     "link": "https://cryptopanic.com/news/33207242/Please-read-if-youve-bought-a-Trezor-recently",
     "source": "@realallincrypto",
     "published": "Thu Aug 13 2026 14:22:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Odds that the Fed raises rates in September have fallen to 31% following today's PPI data.",
+    "link": "https://cryptopanic.com/news/33207312/Odds-that-the-Fed-raises-rates-in-September-have-fallen-to-31-following-todays-PPI-data",
+    "source": "@stackersatoshi",
+    "published": "Thu Aug 13 2026 14:20:17 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -144,69 +207,6 @@
     "link": "https://cryptopanic.com/news/33207137/Source",
     "source": "@wublockchain",
     "published": "Thu Aug 13 2026 14:11:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Andre Cronje: Most DeFi Protocols Are No Longer Truly Decentralized\n\nAccording to Cointelegraph, Flying Tulip founder and Fantom creator Andre Cronje stated during a recent X Spaces show that most DeFi protocols are no longer truly decentralized. Cronje argued that \"true DeFi\"",
-    "link": "https://cryptopanic.com/news/33207136/Andre-Cronje-Most-DeFi-Protocols-Are-No-Longer-Truly-Decentralized-According-to-Cointelegraph-Flying-Tulip-founder-and-Fantom-creator-Andre-Cronje-stated-during-a-recent-X-Spaces-show-that-most-DeFi-protocols-are-no-longer-truly-decentralized-Cronje-argued-that-true-DeFi",
-    "source": "@wublockchain",
-    "published": "Thu Aug 13 2026 14:10:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Zerohash Fails To Secure U.S. Trust Bank Charter",
-    "link": "https://cryptopanic.com/news/33207123/Zerohash-Fails-To-Secure-US-Trust-Bank-Charter",
-    "source": "cryptoprowl.com",
-    "published": "Thu Aug 13 2026 14:08:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: A USENIX study found 65,340 abusive crypto addresses tied to $574.8M in losses on Ethereum and BNB Chain.\n\nResearchers extracted 16.3M+ private keys from 63,004 GitHub repositories.",
-    "link": "https://cryptopanic.com/news/33207140/UPDATE-A-USENIX-study-found-65340-abusive-crypto-addresses-tied-to-5748M-in-losses-on-Ethereum-and-BNB-Chain-Researchers-extracted-163M-private-keys-from-63004-GitHub-repositories",
-    "source": "@cointelegraph",
-    "published": "Thu Aug 13 2026 14:07:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Security firm A Security says a researcher used fewer than 20 AI prompts to build a working exploit for Zoom's annotation tool in under 24 hours, before Zoom patched it.",
-    "link": "https://cryptopanic.com/news/33207135/LATEST-Security-firm-A-Security-says-a-researcher-used-fewer-than-20-AI-prompts-to-build-a-working-exploit-for-Zooms-annotation-tool-in-under-24-hours-before-Zoom-patched-it",
-    "source": "@coinmarketcap",
-    "published": "Thu Aug 13 2026 14:05:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Goldman Sachs Buys NEOS, Takes Aim at BlackRock in Bitcoin ETFs",
-    "link": "https://cryptopanic.com/news/33207004/Goldman-Sachs-Buys-NEOS-Takes-Aim-at-BlackRock-in-Bitcoin-ETFs",
-    "source": "dailycoin.com",
-    "published": "Thu Aug 13 2026 14:05:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitunix Launches Super Alert Challenge With 10,000 USDT in Rewards",
-    "link": "https://cryptopanic.com/news/33207021/Bitunix-Launches-Super-Alert-Challenge-With-10000-USDT-in-Rewards",
-    "source": "cryptonews.com",
-    "published": "Thu Aug 13 2026 14:04:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEWS: S&P 500 opens at a new all-time high",
-    "link": "https://cryptopanic.com/news/33207246/NEWS-SampP-500-opens-at-a-new-all-time-high",
-    "source": "@decryptmedia",
-    "published": "Thu Aug 13 2026 14:02:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Nasdaq-listed Nakamoto sells 600 BTC in Q2, holdings fall to $262M\n\n• Btc Inc | Bitcoin Magazine\n\n• Kept ~85% pledged, flat vs Q1",
-    "link": "https://cryptopanic.com/news/33207047/JUST-IN-Nasdaq-listed-Nakamoto-sells-600-BTC-in-Q2-holdings-fall-to-262M-Btc-Inc-Bitcoin-Magazine-Kept-85-pledged-flat-vs-Q1",
-    "source": "@btc_archive",
-    "published": "Thu Aug 13 2026 14:01:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "S&P Intraday High, $HYPE and $LIT’s Big Day, Robinhood Reshuffles, Trezor data breach.",
-    "link": "https://cryptopanic.com/news/33207245/SampP-Intraday-High-HYPE-and-LITs-Big-Day-Robinhood-Reshuffles-Trezor-data-breach",
-    "source": "@decryptmedia",
-    "published": "Thu Aug 13 2026 14:01:22 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
