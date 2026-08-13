@@ -1,5 +1,103 @@
 [
   {
+    "title": "Metaplanet Denies Selling $320M in Bitcoin as Firm Launches BitBonds",
+    "link": "https://cryptopanic.com/news/33207904/Metaplanet-Denies-Selling-320M-in-Bitcoin-as-Firm-Launches-BitBonds",
+    "source": "decrypt.co",
+    "published": "Thu Aug 13 2026 16:40:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: Anthropic investors are reportedly targeting a $2 trillion valuation for its potential IPO, according to the Financial Times.",
+    "link": "https://cryptopanic.com/news/33207950/LATEST-Anthropic-investors-are-reportedly-targeting-a-2-trillion-valuation-for-its-potential-IPO-according-to-the-Financial-Times",
+    "source": "@cointelegraph",
+    "published": "Thu Aug 13 2026 16:40:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Midnight City launches upgrades to wallet syncing, transaction execution, sponsored Midnight fees, Discord activity sign-in, deployment efficiency, lighting effects, and UI. Midnight City is \"evolving rapidly into a place where agents own, earn, spend, adapt, and live.\"",
+    "link": "https://cryptopanic.com/news/33207945/JUST-IN-Midnight-City-launches-upgrades-to-wallet-syncing-transaction-execution-sponsored-Midnight-fees-Discord-activity-sign-in-deployment-efficiency-lighting-effects-and-UI-Midnight-City-is-evolving-rapidly-into-a-place-where-agents-own-earn-spend-adapt-and-live",
+    "source": "@angrycryptoshow",
+    "published": "Thu Aug 13 2026 16:34:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trezor Warns of Phishing Risk After 13,689 Customers' Data Exposed: What Happened?",
+    "link": "https://cryptopanic.com/news/33207947/Trezor-Warns-of-Phishing-Risk-After-13689-Customers-Data-Exposed-What-Happened",
+    "source": "feeds2.benzinga.com",
+    "published": "Thu Aug 13 2026 16:32:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: AI agents in Midnight City now have their own crypto wallets on Midnight Preprod testnet and Cardano Preview testnet, advancing agentic trading towards mainnet for $NIGHT and $ADA.",
+    "link": "https://cryptopanic.com/news/33207944/JUST-IN-AI-agents-in-Midnight-City-now-have-their-own-crypto-wallets-on-Midnight-Preprod-testnet-and-Cardano-Preview-testnet-advancing-agentic-trading-towards-mainnet-for-NIGHT-and-ADA",
+    "source": "@angrycryptoshow",
+    "published": "Thu Aug 13 2026 16:32:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 CFTC announces it will host a meeting on \"Crypto's Regulatory Evolution: From Uncertainty to Clarity\" on August 20",
+    "link": "https://cryptopanic.com/news/33207816/JUST-IN-CFTC-announces-it-will-host-a-meeting-on-Cryptos-Regulatory-Evolution-From-Uncertainty-to-Clarity-on-August-20",
+    "source": "@bitcoinmagazine",
+    "published": "Thu Aug 13 2026 16:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Rejected at $65.6K again. This line's capped every bounce for months. \n\nReclaiming it is the level to watch.",
+    "link": "https://cryptopanic.com/news/33207941/Rejected-at-656K-again-This-lines-capped-every-bounce-for-months-Reclaiming-it-is-the-level-to-watch",
+    "source": "@cryptoquant_com",
+    "published": "Thu Aug 13 2026 16:29:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Midnight $NIGHT surpasses 81,750 unique holders on #Cardano according to Cexplorer.",
+    "link": "https://cryptopanic.com/news/33207943/JUST-IN-Midnight-NIGHT-surpasses-81750-unique-holders-on-Cardano-according-to-Cexplorer",
+    "source": "@angrycryptoshow",
+    "published": "Thu Aug 13 2026 16:28:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: Switzerland's largest bank UBS more than doubles its spot $BTC ETF stake to 2.5 million shares.",
+    "link": "https://cryptopanic.com/news/33207946/NEW-Switzerlands-largest-bank-UBS-more-than-doubles-its-spot-BTC-ETF-stake-to-25-million-shares",
+    "source": "@coindesk",
+    "published": "Thu Aug 13 2026 16:28:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Binance's bStocks has surpassed Kraken's xStocks to become the second-largest tokenized stock issuer at $610.6M, just two months after launch.",
+    "link": "https://cryptopanic.com/news/33207940/LATEST-Binances-bStocks-has-surpassed-Krakens-xStocks-to-become-the-second-largest-tokenized-stock-issuer-at-6106M-just-two-months-after-launch",
+    "source": "@coinmarketcap",
+    "published": "Thu Aug 13 2026 16:25:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Nearly 1 billion XRP just vanished from market, and Ripple had nothing to do with it",
+    "link": "https://cryptopanic.com/news/33207898/Nearly-1-billion-XRP-just-vanished-from-market-and-Ripple-had-nothing-to-do-with-it",
+    "source": "thestreet.com",
+    "published": "Thu Aug 13 2026 16:24:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BREAKING: CFTC releases topics for Aug 20 meeting",
+    "link": "https://cryptopanic.com/news/33207818/BREAKING-CFTC-releases-topics-for-Aug-20-meeting",
+    "source": "@btc_archive",
+    "published": "Thu Aug 13 2026 16:23:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BIG: Databricks closed a $5 billion funding round at a $190 billion valuation, up from $134 billion six months ago, as its revenue run rate surpassed $7 billion.",
+    "link": "https://cryptopanic.com/news/33207949/BIG-Databricks-closed-a-5-billion-funding-round-at-a-190-billion-valuation-up-from-134-billion-six-months-ago-as-its-revenue-run-rate-surpassed-7-billion",
+    "source": "@cointelegraph",
+    "published": "Thu Aug 13 2026 16:20:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "2018: Bitcoin will drop to $100 in 10 years.\n\n2026: BTC +456% in 8 years.\n\nDoes Harvard still have a chance?",
+    "link": "https://cryptopanic.com/news/33207817/2018-Bitcoin-will-drop-to-100-in-10-years-2026-BTC-456-in-8-years-Does-Harvard-still-have-a-chance",
+    "source": "@btc_archive",
+    "published": "Thu Aug 13 2026 16:16:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Solana’s Tokenized Fund Market Surges $468M in 2026 as RWA Ecosystem Hits $3.9B ATH",
     "link": "https://cryptopanic.com/news/33207451/Solanas-Tokenized-Fund-Market-Surges-468M-in-2026-as-RWA-Ecosystem-Hits-39B-ATH",
     "source": "solanafloor.com",
@@ -56,6 +154,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "JUST IN: Riot Platforms sold 4,300 $BTC in Q2 to fund operations and data center expansion, ending June with 11,380 $BTC worth roughly $666 million.",
+    "link": "https://cryptopanic.com/news/33207948/JUST-IN-Riot-Platforms-sold-4300-BTC-in-Q2-to-fund-operations-and-data-center-expansion-ending-June-with-11380-BTC-worth-roughly-666-million",
+    "source": "@cointelegraph",
+    "published": "Thu Aug 13 2026 16:01:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "$ETH Break from compression waiting room...\n\nThink a minimum of $2.1K or $1750 are the levels to watch once ETH can break above $1950 or below $1850 respectively.\n\nSo still a decent move to follow upon a break and that is exactly what I'll be waiting for.",
     "link": "https://cryptopanic.com/news/33207738/ETH-Break-from-compression-waiting-room-Think-a-minimum-of-21K-or-1750-are-the-levels-to-watch-once-ETH-can-break-above-1950-or-below-1850-respectively-So-still-a-decent-move-to-follow-upon-a-break-and-that-is-exactly-what-Ill-be-waiting-for",
     "source": "@daancrypto",
@@ -102,111 +207,6 @@
     "link": "https://cryptopanic.com/news/33207605/Goldman-Bets-225B-on-Crypto-Income-ETFs",
     "source": "catenaa.com",
     "published": "Thu Aug 13 2026 16:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Onchain lender Figure nearly triples quarterly profits as loan marketplace volume surges to $4.3 billion",
-    "link": "https://cryptopanic.com/news/33207590/Onchain-lender-Figure-nearly-triples-quarterly-profits-as-loan-marketplace-volume-surges-to-43-billion",
-    "source": "theblock.co",
-    "published": "Thu Aug 13 2026 15:54:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  BitGo posted a $19M net loss in Q2 despite revenue jumping 80% YoY to $4.3B, weighed down by an $18.8M unrealized digital asset loss.",
-    "link": "https://cryptopanic.com/news/33207596/LATEST-BitGo-posted-a-19M-net-loss-in-Q2-despite-revenue-jumping-80-YoY-to-43B-weighed-down-by-an-188M-unrealized-digital-asset-loss",
-    "source": "@coinmarketcap",
-    "published": "Thu Aug 13 2026 15:53:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Wall Street Giants SILENTLY LOADING UP ON BITCOIN??? [YOU ARE NOT PREPARED!!!] | EP 1568",
-    "link": "https://cryptopanic.com/news/33207589/Wall-Street-Giants-SILENTLY-LOADING-UP-ON-BITCOIN-YOU-ARE-NOT-PREPARED-EP-1568",
-    "source": "SimplyBitcoin",
-    "published": "Thu Aug 13 2026 15:51:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Aster Price Stays Trapped as AOS-2 Adds a New Supply Fight",
-    "link": "https://cryptopanic.com/news/33207578/Aster-Price-Stays-Trapped-as-AOS-2-Adds-a-New-Supply-Fight",
-    "source": "coindoo.com",
-    "published": "Thu Aug 13 2026 15:48:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Are Bitcoin 'OGs' Turning Bullish Again? Yes, but There's a Catch",
-    "link": "https://cryptopanic.com/news/33207625/Are-Bitcoin-OGs-Turning-Bullish-Again-Yes-but-Theres-a-Catch",
-    "source": "feeds2.benzinga.com",
-    "published": "Thu Aug 13 2026 15:47:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Evernorth Holdings Amends Nasdaq Listing Terms To Reflect XRP Treasury Value\n\n@Evernorthxrp updates its Nasdaq listing requirements to reflect its capital relative to the value of its $XRP treasury.\n\nThis new update, which is backed by over 95% of shareholders, including @Ripple",
-    "link": "https://cryptopanic.com/news/33207743/Evernorth-Holdings-Amends-Nasdaq-Listing-Terms-To-Reflect-XRP-Treasury-Value-Evernorthxrp-updates-its-Nasdaq-listing-requirements-to-reflect-its-capital-relative-to-the-value-of-its-XRP-treasury-This-new-update-which-is-backed-by-over-95-of-shareholders-including-Ripple",
-    "source": "@bscnews",
-    "published": "Thu Aug 13 2026 15:44:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hacker Uses Google Search Ad for Hyperliquid to Phish Users, Causing About $550,000 in Losses\n\nAccording to DarcyAri, a hacker used a Google sponsored ad for “Hyperliquid” to lure users into a phishing site, resulting in a Google Search paid-ad phishing attack that has caused",
-    "link": "https://cryptopanic.com/news/33207598/Hacker-Uses-Google-Search-Ad-for-Hyperliquid-to-Phish-Users-Causing-About-550000-in-Losses-According-to-DarcyAri-a-hacker-used-a-Google-sponsored-ad-for-Hyperliquid-to-lure-users-into-a-phishing-site-resulting-in-a-Google-Search-paid-ad-phishing-attack-that-has-caused",
-    "source": "@wublockchain",
-    "published": "Thu Aug 13 2026 15:42:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "New ETF eyes 95% allocation to MicroStrategy’s STRC",
-    "link": "https://cryptopanic.com/news/33207613/New-ETF-eyes-95-allocation-to-MicroStrategys-STRC",
-    "source": "thestreet.com",
-    "published": "Thu Aug 13 2026 15:42:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BIG: Manhattan’s median rent hit a record $5,000 in July as listings fell more than 39% year over year, while Brooklyn rents reached $4,500.",
-    "link": "https://cryptopanic.com/news/33207603/BIG-Manhattans-median-rent-hit-a-record-5000-in-July-as-listings-fell-more-than-39-year-over-year-while-Brooklyn-rents-reached-4500",
-    "source": "@cointelegraph",
-    "published": "Thu Aug 13 2026 15:40:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tokenization was only step one.\n\nThe real unlock begins when on-chain assets can be traded, lent, borrowed and used as liquidity.\n\n@Vet_X0 believes DeFi’s future significance is still massively underestimated and XRPL is expanding to capture it. @XRPLF $XRP",
-    "link": "https://cryptopanic.com/news/33207740/Tokenization-was-only-step-one-The-real-unlock-begins-when-on-chain-assets-can-be-traded-lent-borrowed-and-used-as-liquidity-Vet_X0-believes-DeFis-future-significance-is-still-massively-underestimated-and-XRPL-is-expanding-to-capture-it-XRPLF-XRP",
-    "source": "@realallincrypto",
-    "published": "Thu Aug 13 2026 15:40:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Clarity Act will spark next institutional wave — Bullish CEO\n\n“The closer we get to elections, the harder it will be to compromise.” \n\n“Clarity Act approval odds don’t look good.”",
-    "link": "https://cryptopanic.com/news/33207550/JUST-IN-Clarity-Act-will-spark-next-institutional-wave-Bullish-CEO-The-closer-we-get-to-elections-the-harder-it-will-be-to-compromise-Clarity-Act-approval-odds-dont-look-good",
-    "source": "@btc_archive",
-    "published": "Thu Aug 13 2026 15:31:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "In 2023, Microsoft considered exiting China, where it generated about 1.5% of its global revenue while facing geopolitical risks. The US company has since remained in the market and adopted a new approach to service the Chinese market",
-    "link": "https://cryptopanic.com/news/33207604/In-2023-Microsoft-considered-exiting-China-where-it-generated-about-15-of-its-global-revenue-while-facing-geopolitical-risks-The-US-company-has-since-remained-in-the-market-and-adopted-a-new-approach-to-service-the-Chinese-market",
-    "source": "@reutersbiz",
-    "published": "Thu Aug 13 2026 15:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: XRP treasury firm @evernorthxrp amends its SPAC merger terms, tying share issuance to $XRP's price at closing rather than the original $2.36 reference.",
-    "link": "https://cryptopanic.com/news/33207600/JUST-IN-XRP-treasury-firm-evernorthxrp-amends-its-SPAC-merger-terms-tying-share-issuance-to-XRPs-price-at-closing-rather-than-the-original-236-reference",
-    "source": "@coindesk",
-    "published": "Thu Aug 13 2026 15:28:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP’s Break Below $1 Rekindles Debate Over a Deeper Slide",
-    "link": "https://cryptopanic.com/news/33207453/XRPs-Break-Below-1-Rekindles-Debate-Over-a-Deeper-Slide",
-    "source": "dailycoin.com",
-    "published": "Thu Aug 13 2026 15:26:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: 🇪🇺 Deutsche has become the first European clearing bank for China's renminbi, per FT",
-    "link": "https://cryptopanic.com/news/33207599/NEW-Deutsche-has-become-the-first-European-clearing-bank-for-Chinas-renminbi-per-FT",
-    "source": "@cryptonwsuk",
-    "published": "Thu Aug 13 2026 15:25:07 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
