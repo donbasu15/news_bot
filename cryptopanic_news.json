@@ -1,5 +1,68 @@
 [
   {
+    "title": "Baltimore sues Kalshi and Polymarket, roping Coinbase, Robinhood and Webull into the fight",
+    "link": "https://cryptopanic.com/news/33208565/Baltimore-sues-Kalshi-and-Polymarket-roping-Coinbase-Robinhood-and-Webull-into-the-fight",
+    "source": "theblock.co",
+    "published": "Thu Aug 13 2026 18:51:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "DoubleZero Embraces Prediction Market Data, Adds Kalshi Orderbooks to Edge Dataset",
+    "link": "https://cryptopanic.com/news/33208056/DoubleZero-Embraces-Prediction-Market-Data-Adds-Kalshi-Orderbooks-to-Edge-Dataset",
+    "source": "solanafloor.com",
+    "published": "Thu Aug 13 2026 18:51:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "USENIX Security '26 Study Identifies 65,000+ High-Risk Crypto Addresses Linked to $574.8M in Losses\n\nA study presented at USENIX Security '26 identified 65,340 high-risk cryptocurrency addresses involved in abuse across Ethereum and BNB Chain, with estimated losses exceeding",
+    "link": "https://cryptopanic.com/news/33208585/USENIX-Security-26-Study-Identifies-65000-High-Risk-Crypto-Addresses-Linked-to-5748M-in-Losses-A-study-presented-at-USENIX-Security-26-identified-65340-high-risk-cryptocurrency-addresses-involved-in-abuse-across-Ethereum-and-BNB-Chain-with-estimated-losses-exceeding",
+    "source": "@wublockchain",
+    "published": "Thu Aug 13 2026 18:48:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Treasury Giant Evernorth Inches Closer to Nasdaq Debut With Bigger Ambitions on the Horizon",
+    "link": "https://cryptopanic.com/news/33208549/XRP-Treasury-Giant-Evernorth-Inches-Closer-to-Nasdaq-Debut-With-Bigger-Ambitions-on-the-Horizon",
+    "source": "coinpaper.com",
+    "published": "Thu Aug 13 2026 18:46:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tether Says It Completed Big Four Audit of Finances Behind $180B USDT Stablecoin",
+    "link": "https://cryptopanic.com/news/33208529/Tether-Says-It-Completed-Big-Four-Audit-of-Finances-Behind-180B-USDT-Stablecoin",
+    "source": "coincu.com",
+    "published": "Thu Aug 13 2026 18:45:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Google ad phishing scam drains $550,000 from Hyperliquid user, security specialist says",
+    "link": "https://cryptopanic.com/news/33208551/Google-ad-phishing-scam-drains-550000-from-Hyperliquid-user-security-specialist-says",
+    "source": "theblock.co",
+    "published": "Thu Aug 13 2026 18:45:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸🇨🇳 US accuses over 40 countries including Japan, Canada, and Mexico of helping China illegally bypass US tariffs.",
+    "link": "https://cryptopanic.com/news/33208540/JUST-IN-US-accuses-over-40-countries-including-Japan-Canada-and-Mexico-of-helping-China-illegally-bypass-US-tariffs",
+    "source": "@watcherguru",
+    "published": "Thu Aug 13 2026 18:45:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Justin Drake: The EF Is Moving Away From Poseidon for Ethereum L1",
+    "link": "https://cryptopanic.com/news/33208527/Justin-Drake-The-EF-Is-Moving-Away-From-Poseidon-for-Ethereum-L1",
+    "source": "bankless.com",
+    "published": "Thu Aug 13 2026 18:44:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "️ JUST IN: KPMG U.S issues Tether the largest inaugural financial audit in its history. \n\nEvery gold bar was physically counted, with reserves exceeding liabilities by $6.814 billion.",
+    "link": "https://cryptopanic.com/news/33208589/JUST-IN-KPMG-US-issues-Tether-the-largest-inaugural-financial-audit-in-its-history-Every-gold-bar-was-physically-counted-with-reserves-exceeding-liabilities-by-6814-billion",
+    "source": "@cointelegraph",
+    "published": "Thu Aug 13 2026 18:40:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Tether Claims 'Largest Inaugural Financial Audit' as KPMG Signs Off on 2025 Statements",
     "link": "https://cryptopanic.com/news/33208521/Tether-Claims-Largest-Inaugural-Financial-Audit-as-KPMG-Signs-Off-on-2025-Statements",
     "source": "decrypt.co",
@@ -49,10 +112,31 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Saudi Aramco estimates the world lost 2.6 billion barrels of oil since the US-Iran conflict began, erasing about 25 days of pre-war global consumption",
+    "link": "https://cryptopanic.com/news/33208591/Saudi-Aramco-estimates-the-world-lost-26-billion-barrels-of-oil-since-the-US-Iran-conflict-began-erasing-about-25-days-of-pre-war-global-consumption",
+    "source": "@reutersbiz",
+    "published": "Thu Aug 13 2026 18:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Top analyst turns bullish on HIVE ahead of earnings",
+    "link": "https://cryptopanic.com/news/33208566/Top-analyst-turns-bullish-on-HIVE-ahead-of-earnings",
+    "source": "thestreet.com",
+    "published": "Thu Aug 13 2026 18:29:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Stablecoin Issuer Tether Completes First Audit",
     "link": "https://cryptopanic.com/news/33208468/Stablecoin-Issuer-Tether-Completes-First-Audit",
     "source": "cryptoprowl.com",
     "published": "Thu Aug 13 2026 18:27:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin",
+    "link": "https://cryptopanic.com/news/33208572/Tether-says-it-completed-long-promised-Big-Four-audit-of-finances-behind-180-billion-USDT-stablecoin",
+    "source": "coindesk.com",
+    "published": "Thu Aug 13 2026 18:26:21 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -74,6 +158,27 @@
     "link": "https://cryptopanic.com/news/33208463/Etherfi-Unveils-Major-Revamp-of-Its-Neobank",
     "source": "bankless.com",
     "published": "Thu Aug 13 2026 18:21:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 JUST IN: The CFTC will discuss crypto regulation, AI agents and prediction markets at its inaugural Innovation Advisory Committee meeting on Aug. 20.",
+    "link": "https://cryptopanic.com/news/33208588/JUST-IN-The-CFTC-will-discuss-crypto-regulation-AI-agents-and-prediction-markets-at-its-inaugural-Innovation-Advisory-Committee-meeting-on-Aug-20",
+    "source": "@cointelegraph",
+    "published": "Thu Aug 13 2026 18:20:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Another top @OpenAI executive is out.\n\nCRO Denise Dresser is leaving after 8 months, joining Brad Lightcap (out Tuesday) and Fidji Simo (out last month) in a wave of senior exits ahead of the company's IPO.",
+    "link": "https://cryptopanic.com/news/33208586/JUST-IN-Another-top-OpenAI-executive-is-out-CRO-Denise-Dresser-is-leaving-after-8-months-joining-Brad-Lightcap-out-Tuesday-and-Fidji-Simo-out-last-month-in-a-wave-of-senior-exits-ahead-of-the-companys-IPO",
+    "source": "@coindesk",
+    "published": "Thu Aug 13 2026 18:20:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Standard Chartered says its $100 UNI price target for 2030 may be too low, as Uniswap’s token burn rate annualizes to $89.1M, with Robinhood Chain supplying about 60% of protocol revenue.",
+    "link": "https://cryptopanic.com/news/33208582/LATEST-Standard-Chartered-says-its-100-UNI-price-target-for-2030-may-be-too-low-as-Uniswaps-token-burn-rate-annualizes-to-891M-with-Robinhood-Chain-supplying-about-60-of-protocol-revenue",
+    "source": "@coinmarketcap",
+    "published": "Thu Aug 13 2026 18:17:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -102,111 +207,6 @@
     "link": "https://cryptopanic.com/news/33208389/Citigroup-CEO-Wants-Clarity-Act-Progress-Amid-Stablecoin-Debate",
     "source": "coincu.com",
     "published": "Thu Aug 13 2026 18:14:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Riot Platforms Sells 4,300 Bitcoin To Fund Operations",
-    "link": "https://cryptopanic.com/news/33208390/Riot-Platforms-Sells-4300-Bitcoin-To-Fund-Operations",
-    "source": "cryptoprowl.com",
-    "published": "Thu Aug 13 2026 18:14:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: MSCI could REMOVE Michael Saylor's Strategy and Metaplanet from indexes \n\n• Study looks cash flow & 'real business'\n\n• Hits firms that raise cash to buy assets \n\n• Still under review, decision due in October",
-    "link": "https://cryptopanic.com/news/33208541/JUST-IN-MSCI-could-REMOVE-Michael-Saylors-Strategy-and-Metaplanet-from-indexes-Study-looks-cash-flow-amp-real-business-Hits-firms-that-raise-cash-to-buy-assets-Still-under-review-decision-due-in-October",
-    "source": "@btc_archive",
-    "published": "Thu Aug 13 2026 18:10:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "We found HTX’s reserves at Poloniex",
-    "link": "https://cryptopanic.com/news/33208365/We-found-HTXs-reserves-at-Poloniex",
-    "source": "protos.com",
-    "published": "Thu Aug 13 2026 18:05:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🤖 JUST IN: OpenAI says the top 10% of enterprises use plugins twice as often and skills six times as often as typical firms.",
-    "link": "https://cryptopanic.com/news/33208387/JUST-IN-OpenAI-says-the-top-10-of-enterprises-use-plugins-twice-as-often-and-skills-six-times-as-often-as-typical-firms",
-    "source": "@cointelegraph",
-    "published": "Thu Aug 13 2026 18:00:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "24/7 stocks are coming: Why SEC’s tokenization push matters for crypto",
-    "link": "https://cryptopanic.com/news/33208320/247-stocks-are-coming-Why-SECs-tokenization-push-matters-for-crypto",
-    "source": "ambcrypto.com",
-    "published": "Thu Aug 13 2026 18:00:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "This is the famous Wall Street Cheat Sheet which maps the emotions investors go through during a market cycle.\n\nWhere do you think crypto sits right now and which stage best matches how you personally feel today?\n\nDrop your answer in the below",
-    "link": "https://cryptopanic.com/news/33208469/This-is-the-famous-Wall-Street-Cheat-Sheet-which-maps-the-emotions-investors-go-through-during-a-market-cycle-Where-do-you-think-crypto-sits-right-now-and-which-stage-best-matches-how-you-personally-feel-today-Drop-your-answer-in-the-below",
-    "source": "@realallincrypto",
-    "published": "Thu Aug 13 2026 18:00:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Ivan on Tech predicts $ADA could skyrocket \"if it can go above $0.25.\"",
-    "link": "https://cryptopanic.com/news/33208384/UPDATE-Ivan-on-Tech-predicts-ADA-could-skyrocket-if-it-can-go-above-025",
-    "source": "@angrycryptoshow",
-    "published": "Thu Aug 13 2026 18:00:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Robinhood To Speed Up Debuts Of Publicly Traded Funds",
-    "link": "https://cryptopanic.com/news/33208321/Robinhood-To-Speed-Up-Debuts-Of-Publicly-Traded-Funds",
-    "source": "catenaa.com",
-    "published": "Thu Aug 13 2026 18:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "KPMG signs off on Tether's first full financial statement audit\n\nThe Big Four firm gave an unqualified opinion on Tether International's balance sheet, income statement and cash flows for 2025. Auditors physically inspected each gold bar rather than relying on custodian reports.",
-    "link": "https://cryptopanic.com/news/33208470/KPMG-signs-off-on-Tethers-first-full-financial-statement-audit-The-Big-Four-firm-gave-an-unqualified-opinion-on-Tether-Internationals-balance-sheet-income-statement-and-cash-flows-for-2025-Auditors-physically-inspected-each-gold-bar-rather-than-relying-on-custodian-reports",
-    "source": "@bscnews",
-    "published": "Thu Aug 13 2026 17:58:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Ivan on Tech appreciates Charles Hoskinson, says \"we love Cardano still, at least they have Charles. He's there, he's emotional, he's fun to watch, he's angry that people ask him about ETH, he's in the news, he's in the media. $ADA has Charles, and I love Charles.\"",
-    "link": "https://cryptopanic.com/news/33208383/UPDATE-Ivan-on-Tech-appreciates-Charles-Hoskinson-says-we-love-Cardano-still-at-least-they-have-Charles-Hes-there-hes-emotional-hes-fun-to-watch-hes-angry-that-people-ask-him-about-ETH-hes-in-the-news-hes-in-the-media-ADA-has-Charles-and-I-love-Charles",
-    "source": "@angrycryptoshow",
-    "published": "Thu Aug 13 2026 17:56:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Billionaire issues major U.S. debt warning",
-    "link": "https://cryptopanic.com/news/33208462/Billionaire-issues-major-US-debt-warning",
-    "source": "thestreet.com",
-    "published": "Thu Aug 13 2026 17:56:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: JPMorgan is hiring an Executive Director for Digital Assets.\n\nOne by one!",
-    "link": "https://cryptopanic.com/news/33208318/JUST-IN-JPMorgan-is-hiring-an-Executive-Director-for-Digital-Assets-One-by-one",
-    "source": "@btc_archive",
-    "published": "Thu Aug 13 2026 17:56:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Polymarket Acquihires Turf's Sports Prediction Team",
-    "link": "https://cryptopanic.com/news/33208316/Polymarket-Acquihires-Turfs-Sports-Prediction-Team",
-    "source": "bankless.com",
-    "published": "Thu Aug 13 2026 17:54:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Ivan on Tech says \"I will do something crazy just for Cardano. I will add Cardano to my morning market analysis, so everyday I know what's happening to Cardano.\"",
-    "link": "https://cryptopanic.com/news/33208382/UPDATE-Ivan-on-Tech-says-I-will-do-something-crazy-just-for-Cardano-I-will-add-Cardano-to-my-morning-market-analysis-so-everyday-I-know-whats-happening-to-Cardano",
-    "source": "@angrycryptoshow",
-    "published": "Thu Aug 13 2026 17:54:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Kimi K3 Scan Uncovers Critical Vulnerabilities Across Bitcoin Open-Source Projects\n\nBitcoin Red Team researcher calle said that after using Kimi K3 for two weeks, the team identified numerous critical and high-severity vulnerabilities across Bitcoin open-source projects, with",
-    "link": "https://cryptopanic.com/news/33208379/Kimi-K3-Scan-Uncovers-Critical-Vulnerabilities-Across-Bitcoin-Open-Source-Projects-Bitcoin-Red-Team-researcher-calle-said-that-after-using-Kimi-K3-for-two-weeks-the-team-identified-numerous-critical-and-high-severity-vulnerabilities-across-Bitcoin-open-source-projects-with",
-    "source": "@wublockchain",
-    "published": "Thu Aug 13 2026 17:54:05 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
