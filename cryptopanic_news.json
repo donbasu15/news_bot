@@ -1,9 +1,72 @@
 [
   {
+    "title": "LATEST: US-listed China ETFs saw $3.4 billion in outflows from May through July, flipping their one-year cumulative flows back into negative territory.",
+    "link": "https://cryptopanic.com/news/33209536/LATEST-US-listed-China-ETFs-saw-34-billion-in-outflows-from-May-through-July-flipping-their-one-year-cumulative-flows-back-into-negative-territory",
+    "source": "@cointelegraph",
+    "published": "Thu Aug 13 2026 23:20:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Multicoin exits the $1.65 billion Solana treasury company it helped launch eight months ago",
+    "link": "https://cryptopanic.com/news/33209522/Multicoin-exits-the-165-billion-Solana-treasury-company-it-helped-launch-eight-months-ago",
+    "source": "cryptoslate.com",
+    "published": "Thu Aug 13 2026 23:20:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tether Completes First Full Financial Audit, KPMG Issues Unqualified Opinion\n\nTether announced that KPMG U.S. completed the first full independent audit of Tether International’s 2025 financial statements and issued an unqualified opinion, finding that its financial position,",
+    "link": "https://cryptopanic.com/news/33209533/Tether-Completes-First-Full-Financial-Audit-KPMG-Issues-Unqualified-Opinion-Tether-announced-that-KPMG-US-completed-the-first-full-independent-audit-of-Tether-Internationals-2025-financial-statements-and-issued-an-unqualified-opinion-finding-that-its-financial-position",
+    "source": "@wublockchain",
+    "published": "Thu Aug 13 2026 23:20:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Why Kaspa doesn't throw away competing blocks\n\nA normal chain picks one block per round and discards the rest as orphans, meaning every miner who lost the race did the work for nothing.\n\nKaspa orders every block instead, including ones mined at the same moment, through GHOSTDAG",
+    "link": "https://cryptopanic.com/news/33209623/Why-Kaspa-doesnt-throw-away-competing-blocks-A-normal-chain-picks-one-block-per-round-and-discards-the-rest-as-orphans-meaning-every-miner-who-lost-the-race-did-the-work-for-nothing-Kaspa-orders-every-block-instead-including-ones-mined-at-the-same-moment-through-GHOSTDAG",
+    "source": "@bscnews",
+    "published": "Thu Aug 13 2026 23:15:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇺🇸 CFTC Chair Michael Selig released the agenda for the Innovation Advisory Committee's inaugural meeting on Aug. 20, covering crypto assets, AI, and prediction markets.",
+    "link": "https://cryptopanic.com/news/33209531/LATEST-CFTC-Chair-Michael-Selig-released-the-agenda-for-the-Innovation-Advisory-Committees-inaugural-meeting-on-Aug-20-covering-crypto-assets-AI-and-prediction-markets",
+    "source": "@coinmarketcap",
+    "published": "Thu Aug 13 2026 23:05:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "TRADING: @DoubleZero's @Austin_Federa explains how Double Zero Edge gives any trader in the world the same low-latency market data that previously cost Wall Street firms hundreds of thousands of dollars a month.\n\nThank you to @realfi_co  for being a sponsor of the CoinDesk",
+    "link": "https://cryptopanic.com/news/33209534/TRADING-DoubleZeros-Austin_Federa-explains-how-Double-Zero-Edge-gives-any-trader-in-the-world-the-same-low-latency-market-data-that-previously-cost-Wall-Street-firms-hundreds-of-thousands-of-dollars-a-month-Thank-you-to-realfi_co-for-being-a-sponsor-of-the-CoinDesk",
+    "source": "@coindesk",
+    "published": "Thu Aug 13 2026 23:03:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33209532/Source",
+    "source": "@wublockchain",
+    "published": "Thu Aug 13 2026 23:03:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Uniswap’s RWA volume hits 2.5B – ‘Crazy to see it happening after all these years’",
     "link": "https://cryptopanic.com/news/33209470/Uniswaps-RWA-volume-hits-25B-Crazy-to-see-it-happening-after-all-these-years",
     "source": "ambcrypto.com",
     "published": "Thu Aug 13 2026 23:00:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🤖 NEW: ChatGPT is rolling out Computer History in its desktop app, letting it remember activity across your apps and websites for more personalized, context-aware conversations.",
+    "link": "https://cryptopanic.com/news/33209535/NEW-ChatGPT-is-rolling-out-Computer-History-in-its-desktop-app-letting-it-remember-activity-across-your-apps-and-websites-for-more-personalized-context-aware-conversations",
+    "source": "@cointelegraph",
+    "published": "Thu Aug 13 2026 23:00:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "TRON is operating at a scale most chains can only dream of.\n\nQ2 ended with $87.9B in USDT circulating on the $TRX network and $2.1 TRILLION in stablecoin transfers processed in just three months.\n\nStablecoins are becoming global payment rails and @trondao is already one of the",
+    "link": "https://cryptopanic.com/news/33209622/TRON-is-operating-at-a-scale-most-chains-can-only-dream-of-Q2-ended-with-879B-in-USDT-circulating-on-the-TRX-network-and-21-TRILLION-in-stablecoin-transfers-processed-in-just-three-months-Stablecoins-are-becoming-global-payment-rails-and-trondao-is-already-one-of-the",
+    "source": "@realallincrypto",
+    "published": "Thu Aug 13 2026 23:00:36 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -32,6 +95,13 @@
     "link": "https://cryptopanic.com/news/33209493/Trump-floated-paying-the-35T-national-debt-with-Bitcoin-Debt-is-now-40T-Still-waiting-on-that-little-Bitcoin-check",
     "source": "@btc_archive",
     "published": "Thu Aug 13 2026 22:52:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 The SEC canceled a Friday vote on exemptions that would let crypto startups raise capital without complying with traditional securities rules, citing an \"unforeseen scheduling issue.\"",
+    "link": "https://cryptopanic.com/news/33209530/JUST-IN-The-SEC-canceled-a-Friday-vote-on-exemptions-that-would-let-crypto-startups-raise-capital-without-complying-with-traditional-securities-rules-citing-an-unforeseen-scheduling-issue",
+    "source": "@coinmarketcap",
+    "published": "Thu Aug 13 2026 22:49:06 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/33209439/QUESTION-Which-job-will-AI-replace-first-coding-trading-customer-support-or-content-creation",
     "source": "@cointelegraph",
     "published": "Thu Aug 13 2026 22:00:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Evaluating why CASHCAT’s 18% rally may still have room to run",
-    "link": "https://cryptopanic.com/news/33209300/Evaluating-why-CASHCATs-18-rally-may-still-have-room-to-run",
-    "source": "ambcrypto.com",
-    "published": "Thu Aug 13 2026 22:00:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Goldman Sachs is buying NEOS to deepen it's crypto exposure.\n\nIts $2.25B NEOS deal brings $BTC and $ETH income ETFs into Goldman’s growing ETF empire.\n\nOne of Wall Street’s biggest names is stepping into crypto by buying the infrastructure that lets clients invest in it.",
-    "link": "https://cryptopanic.com/news/33209327/Goldman-Sachs-is-buying-NEOS-to-deepen-its-crypto-exposure-Its-225B-NEOS-deal-brings-BTC-and-ETH-income-ETFs-into-Goldmans-growing-ETF-empire-One-of-Wall-Streets-biggest-names-is-stepping-into-crypto-by-buying-the-infrastructure-that-lets-clients-invest-in-it",
-    "source": "@realallincrypto",
-    "published": "Thu Aug 13 2026 22:00:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin to Millions? The Ultimate Investment Argument!",
-    "link": "https://cryptopanic.com/news/33209302/Bitcoin-to-Millions-The-Ultimate-Investment-Argument",
-    "source": "SimplyBitcoin",
-    "published": "Thu Aug 13 2026 22:00:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Morpho records its largest single-day exchange outflow since spot trading began\n\nSantiment tracked a net 5.59 million $MORPHO leaving exchanges, the largest daily outflow since the token became transferable in November 2024. Fewer coins on exchanges leaves less supply available",
-    "link": "https://cryptopanic.com/news/33209331/Morpho-records-its-largest-single-day-exchange-outflow-since-spot-trading-began-Santiment-tracked-a-net-559-million-MORPHO-leaving-exchanges-the-largest-daily-outflow-since-the-token-became-transferable-in-November-2024-Fewer-coins-on-exchanges-leaves-less-supply-available",
-    "source": "@bscnews",
-    "published": "Thu Aug 13 2026 21:59:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Non-Custodial Bitcoin Bridge Boltz Shuts Down After AI-Assisted Attacks",
-    "link": "https://cryptopanic.com/news/33209316/Non-Custodial-Bitcoin-Bridge-Boltz-Shuts-Down-After-AI-Assisted-Attacks",
-    "source": "cryptopotato.com",
-    "published": "Thu Aug 13 2026 21:58:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  The Blockchain Association is urging the Supreme Court to hear Custodia Bank's Fed master account case, warning the ruling gives the Fed broad power to debank crypto firms.",
-    "link": "https://cryptopanic.com/news/33209275/LATEST-The-Blockchain-Association-is-urging-the-Supreme-Court-to-hear-Custodia-Banks-Fed-master-account-case-warning-the-ruling-gives-the-Fed-broad-power-to-debank-crypto-firms",
-    "source": "@coinmarketcap",
-    "published": "Thu Aug 13 2026 21:53:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "EtherFi leads the day's gainers with the market flat\n\n$ETHFI +15.4% to $0.4316\n$ATOM +8.3% to $1.51\nbase:0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf +7.0% to $12.29\n$PUMP +6.3% to $0.002844\n$OKB +5.1% to $102.86\n\n@ether_fi relaunched its neobank app with tokenized stocks and",
-    "link": "https://cryptopanic.com/news/33209330/EtherFi-leads-the-days-gainers-with-the-market-flat-ETHFI-154-to-04316-ATOM-83-to-151-base0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf-70-to-1229-PUMP-63-to-0002844-OKB-51-to-10286-ether_fi-relaunched-its-neobank-app-with-tokenized-stocks-and",
-    "source": "@bscnews",
-    "published": "Thu Aug 13 2026 21:52:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Gemini Shares Slide After $108 Million Loss: What Happened",
-    "link": "https://cryptopanic.com/news/33209272/Gemini-Shares-Slide-After-108-Million-Loss-What-Happened",
-    "source": "coincu.com",
-    "published": "Thu Aug 13 2026 21:52:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Algorand Just Made Quantum Resistance Native",
-    "link": "https://cryptopanic.com/news/33209246/Algorand-Just-Made-Quantum-Resistance-Native",
-    "source": "dailycoin.com",
-    "published": "Thu Aug 13 2026 21:47:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Anthropic's AI Agents Started a Virtual War. The Quotes Are Unhinged",
-    "link": "https://cryptopanic.com/news/33209241/Anthropics-AI-Agents-Started-a-Virtual-War-The-Quotes-Are-Unhinged",
-    "source": "decrypt.co",
-    "published": "Thu Aug 13 2026 21:45:04 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
