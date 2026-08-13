@@ -1,5 +1,96 @@
 [
   {
+    "title": "Bullish Q2 adjusted earnings in line as rise in subscription revenue offsets digital asset slowdown",
+    "link": "https://cryptopanic.com/news/33206300/Bullish-Q2-adjusted-earnings-in-line-as-rise-in-subscription-revenue-offsets-digital-asset-slowdown",
+    "source": "coindesk.com",
+    "published": "Thu Aug 13 2026 12:09:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: Brazil's largest Bitcoin treasury firm @OranjeBTC plans to list $DIGY11, an ETF holding 95% $STRC and 5% $SATA preferred shares on Brazil's B3 exchange.",
+    "link": "https://cryptopanic.com/news/33206213/LATEST-Brazils-largest-Bitcoin-treasury-firm-OranjeBTC-plans-to-list-DIGY11-an-ETF-holding-95-STRC-and-5-SATA-preferred-shares-on-Brazils-B3-exchange",
+    "source": "@coindesk",
+    "published": "Thu Aug 13 2026 12:08:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "EXCLUSIVE: “DeFi doesn’t exist anymore,” says @flyingtulip_ founder @AndreCronjeTech at #CHAINREACTION.\n\nRead more",
+    "link": "https://cryptopanic.com/news/33206214/EXCLUSIVE-DeFi-doesnt-exist-anymore-says-flyingtulip_-founder-AndreCronjeTech-at-CHAINREACTION-Read-more",
+    "source": "@cointelegraph",
+    "published": "Thu Aug 13 2026 12:04:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Holds Near $63,500 as In-Line CPI Leaves Fed Catalysts in Control",
+    "link": "https://cryptopanic.com/news/33206163/Bitcoin-Holds-Near-63500-as-In-Line-CPI-Leaves-Fed-Catalysts-in-Control",
+    "source": "btcusa.com",
+    "published": "Thu Aug 13 2026 12:04:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Why Printing Money Fuels BTC!",
+    "link": "https://cryptopanic.com/news/33206174/Why-Printing-Money-Fuels-BTC",
+    "source": "SimplyBitcoin",
+    "published": "Thu Aug 13 2026 12:00:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Can Dogecoin (DOGE) Finally Reverse? Price Scratches Bottom",
+    "link": "https://cryptopanic.com/news/33206298/Can-Dogecoin-DOGE-Finally-Reverse-Price-Scratches-Bottom",
+    "source": "u.today",
+    "published": "Thu Aug 13 2026 11:59:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hyperliquid targets $58 resistance as retail demand strengthen",
+    "link": "https://cryptopanic.com/news/33206086/Hyperliquid-targets-58-resistance-as-retail-demand-strengthen",
+    "source": "coinjournal.net",
+    "published": "Thu Aug 13 2026 11:59:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin (BTC) Is Coiling for an Explosive Move: Bullish Breakout or Sharp Drop?",
+    "link": "https://cryptopanic.com/news/33206140/Bitcoin-BTC-Is-Coiling-for-an-Explosive-Move-Bullish-Breakout-or-Sharp-Drop",
+    "source": "cryptopotato.com",
+    "published": "Thu Aug 13 2026 11:59:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "South Korea hits Delio CEO with 15-year sentence as crypto stays in regulatory crosshairs",
+    "link": "https://cryptopanic.com/news/33206166/South-Korea-hits-Delio-CEO-with-15-year-sentence-as-crypto-stays-in-regulatory-crosshairs",
+    "source": "cryptopolitan.com",
+    "published": "Thu Aug 13 2026 11:58:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Morning Minute: The SEC Plans Rules for Tokenized Stocks",
+    "link": "https://cryptopanic.com/news/33206070/Morning-Minute-The-SEC-Plans-Rules-for-Tokenized-Stocks",
+    "source": "decrypt.co",
+    "published": "Thu Aug 13 2026 11:53:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MiCA Trap: 14 European Stablecoin Issuers Cut Off From Custodying Their Own Tokens",
+    "link": "https://cryptopanic.com/news/33206148/MiCA-Trap-14-European-Stablecoin-Issuers-Cut-Off-From-Custodying-Their-Own-Tokens",
+    "source": "u.today",
+    "published": "Thu Aug 13 2026 11:53:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Bear Market Bottom in Sight? The Next 60 Days Are Key, Analyst Says",
+    "link": "https://cryptopanic.com/news/33206188/Bitcoin-Bear-Market-Bottom-in-Sight-The-Next-60-Days-Are-Key-Analyst-Says",
+    "source": "feeds2.benzinga.com",
+    "published": "Thu Aug 13 2026 11:52:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hyperion DeFi Books $31 Million Profit While Peer Crypto Treasuries Bleed",
+    "link": "https://cryptopanic.com/news/33206247/Hyperion-DeFi-Books-31-Million-Profit-While-Peer-Crypto-Treasuries-Bleed",
+    "source": "beincrypto.com",
+    "published": "Thu Aug 13 2026 11:50:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "BitGo Posts $19M Loss Despite Revenue Jumping 80%",
     "link": "https://cryptopanic.com/news/33206043/BitGo-Posts-19M-Loss-Despite-Revenue-Jumping-80",
     "source": "cryptointelligence.co.uk",
@@ -42,6 +133,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "LATEST:  A French couple who bought a home once owned by crypto millionaires suffered three break-ins in under a month after attackers found the old owners' leaked address online.",
+    "link": "https://cryptopanic.com/news/33206209/LATEST-A-French-couple-who-bought-a-home-once-owned-by-crypto-millionaires-suffered-three-break-ins-in-under-a-month-after-attackers-found-the-old-owners-leaked-address-online",
+    "source": "@coinmarketcap",
+    "published": "Thu Aug 13 2026 11:41:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Can You Get Money Back From a Crypto ATM Scam?",
     "link": "https://cryptopanic.com/news/33205997/Can-You-Get-Money-Back-From-a-Crypto-ATM-Scam",
     "source": "coinpaper.com",
@@ -63,6 +161,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33206211/Source",
+    "source": "@wublockchain",
+    "published": "Thu Aug 13 2026 11:36:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Goldman Sachs is paying $2.25 billion to get into Bitcoin income game",
     "link": "https://cryptopanic.com/news/33206067/Goldman-Sachs-is-paying-225-billion-to-get-into-Bitcoin-income-game",
     "source": "thestreet.com",
@@ -74,6 +179,13 @@
     "link": "https://cryptopanic.com/news/33206055/Strategy-Metaplanet-unrealized-bitcoin-losses-highlight-risk-of-concentrating-on-just-one-token",
     "source": "coindesk.com",
     "published": "Thu Aug 13 2026 11:35:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UK FCA and HTX in Settlement Talks Over Alleged Illegal Crypto Promotions \n\nAccording to CNA, the UK Financial Conduct Authority (FCA) and crypto exchange HTX are in settlement talks over allegations that the platform illegally promoted crypto services to UK consumers, court",
+    "link": "https://cryptopanic.com/news/33206210/UK-FCA-and-HTX-in-Settlement-Talks-Over-Alleged-Illegal-Crypto-Promotions-According-to-CNA-the-UK-Financial-Conduct-Authority-FCA-and-crypto-exchange-HTX-are-in-settlement-talks-over-allegations-that-the-platform-illegally-promoted-crypto-services-to-UK-consumers-court",
+    "source": "@wublockchain",
+    "published": "Thu Aug 13 2026 11:35:21 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -95,118 +207,6 @@
     "link": "https://cryptopanic.com/news/33206021/Big-crypto-deals-keep-landing-in-2026-but-token-prices-barely-move-Heres-why-institutional-adoption-and-market-prices-have-split-apart",
     "source": "@bscnews",
     "published": "Thu Aug 13 2026 11:30:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AI Memory Stocks Rally on Temasek Report",
-    "link": "https://cryptopanic.com/news/33205874/AI-Memory-Stocks-Rally-on-Temasek-Report",
-    "source": "catenaa.com",
-    "published": "Thu Aug 13 2026 11:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BIP-110 Is Dead. Bitcoin's Governance Just Answered Its Own Question.",
-    "link": "https://cryptopanic.com/news/33205868/BIP-110-Is-Dead-Bitcoins-Governance-Just-Answered-Its-Own-Question",
-    "source": "www.blockhead.co",
-    "published": "Thu Aug 13 2026 11:29:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP price set to crash below $1",
-    "link": "https://cryptopanic.com/news/33205850/XRP-price-set-to-crash-below-1",
-    "source": "finbold.com",
-    "published": "Thu Aug 13 2026 11:27:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Robinhood Opens UK Trading As Shiba Inu Metrics Diverge",
-    "link": "https://cryptopanic.com/news/33205849/Robinhood-Opens-UK-Trading-As-Shiba-Inu-Metrics-Diverge",
-    "source": "dailycoin.com",
-    "published": "Thu Aug 13 2026 11:27:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN:  Diamond prices plunge to their lowest level this century.",
-    "link": "https://cryptopanic.com/news/33205875/JUST-IN-Diamond-prices-plunge-to-their-lowest-level-this-century",
-    "source": "@cryptonwsuk",
-    "published": "Thu Aug 13 2026 11:24:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "New Brazil ETF Puts 95% Into Strategy’s STRC",
-    "link": "https://cryptopanic.com/news/33205821/New-Brazil-ETF-Puts-95-Into-Strategys-STRC",
-    "source": "coindoo.com",
-    "published": "Thu Aug 13 2026 11:21:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana Price Prediction: SOL Accumulation Setup Points to $80-$100 Before Recovery",
-    "link": "https://cryptopanic.com/news/33205820/Solana-Price-Prediction-SOL-Accumulation-Setup-Points-to-80-100-Before-Recovery",
-    "source": "coinpaper.com",
-    "published": "Thu Aug 13 2026 11:20:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇯🇵 LATEST: $2.7T MUFG is launching a proof-of-concept to bring Japanese government bond repo transactions onchain using Canton Network.",
-    "link": "https://cryptopanic.com/news/33205879/LATEST-27T-MUFG-is-launching-a-proof-of-concept-to-bring-Japanese-government-bond-repo-transactions-onchain-using-Canton-Network",
-    "source": "@cointelegraph",
-    "published": "Thu Aug 13 2026 11:20:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Study finds 65,340 risky crypto addresses tied to $574 million in losses",
-    "link": "https://cryptopanic.com/news/33205822/Study-finds-65340-risky-crypto-addresses-tied-to-574-million-in-losses",
-    "source": "cryptoslate.com",
-    "published": "Thu Aug 13 2026 11:20:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nvidia partners with six major financial institutions to launch compute financing platforms, while China emerges as a leading player in the race to improve weather prediction through AI. Here are this week’s big stories from the AI revolution",
-    "link": "https://cryptopanic.com/news/33205885/Nvidia-partners-with-six-major-financial-institutions-to-launch-compute-financing-platforms-while-China-emerges-as-a-leading-player-in-the-race-to-improve-weather-prediction-through-AI-Here-are-this-weeks-big-stories-from-the-AI-revolution",
-    "source": "@reutersbiz",
-    "published": "Thu Aug 13 2026 11:15:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Internet Computer’s AI Code Generator is Unreal\n\nAccording to the founder of ICP (@Dfinity), the AI coding assistant @Caffeineai has generated 15 billion lines of code. \n\nA large portion of that was generated for Motoko, the native language of the Internet Computer’s autonomous",
-    "link": "https://cryptopanic.com/news/33206019/Internet-Computers-AI-Code-Generator-is-Unreal-According-to-the-founder-of-ICP-Dfinity-the-AI-coding-assistant-Caffeineai-has-generated-15-billion-lines-of-code-A-large-portion-of-that-was-generated-for-Motoko-the-native-language-of-the-Internet-Computers-autonomous",
-    "source": "@bscnews",
-    "published": "Thu Aug 13 2026 11:10:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple Clarity Act: SEC Vote Could Set Crypto Rulemaking in Motion on August 14",
-    "link": "https://cryptopanic.com/news/33205794/Ripple-Clarity-Act-SEC-Vote-Could-Set-Crypto-Rulemaking-in-Motion-on-August-14",
-    "source": "cryptonews.com",
-    "published": "Thu Aug 13 2026 11:09:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Price Prediction: BTC Liquidity Signals $61K Sweep Before Next Rebound",
-    "link": "https://cryptopanic.com/news/33205751/Bitcoin-Price-Prediction-BTC-Liquidity-Signals-61K-Sweep-Before-Next-Rebound",
-    "source": "coinpaper.com",
-    "published": "Thu Aug 13 2026 11:06:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Binance CSO Jimmy Su says phishing and malware are still bigger threats to crypto than quantum computers today, but warns research suggests the industry has less time to prepare than previously thought.",
-    "link": "https://cryptopanic.com/news/33205871/LATEST-Binance-CSO-Jimmy-Su-says-phishing-and-malware-are-still-bigger-threats-to-crypto-than-quantum-computers-today-but-warns-research-suggests-the-industry-has-less-time-to-prepare-than-previously-thought",
-    "source": "@coinmarketcap",
-    "published": "Thu Aug 13 2026 11:05:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: IBM and OpenAI partner to accelerate enterprise AI adoption.",
-    "link": "https://cryptopanic.com/news/33205877/NEW-IBM-and-OpenAI-partner-to-accelerate-enterprise-AI-adoption",
-    "source": "@cointelegraph",
-    "published": "Thu Aug 13 2026 11:02:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin holds steady near $64,000 as monero, hyperliquid outperform",
-    "link": "https://cryptopanic.com/news/33205918/Bitcoin-holds-steady-near-64000-as-monero-hyperliquid-outperform",
-    "source": "coindesk.com",
-    "published": "Thu Aug 13 2026 11:02:43 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
