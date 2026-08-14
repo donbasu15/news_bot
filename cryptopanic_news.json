@@ -1,9 +1,23 @@
 [
   {
+    "title": "Cardano transactions can't fail after you pay\n\n@ethereum runs an account model where contract state changes as transactions execute. You learn the fee and the outcome after it runs, and a failed transaction still costs gas.\n\n@Cardano uses extended UTXO, where the inputs determine",
+    "link": "https://cryptopanic.com/news/33209778/Cardano-transactions-cant-fail-after-you-pay-ethereum-runs-an-account-model-where-contract-state-changes-as-transactions-execute-You-learn-the-fee-and-the-outcome-after-it-runs-and-a-failed-transaction-still-costs-gas-Cardano-uses-extended-UTXO-where-the-inputs-determine",
+    "source": "@bscnews",
+    "published": "Fri Aug 14 2026 00:15:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "TRON’s $1B stablecoin surge outpaces every chain – What it means",
     "link": "https://cryptopanic.com/news/33209664/TRONs-1B-stablecoin-surge-outpaces-every-chain-What-it-means",
     "source": "ambcrypto.com",
     "published": "Fri Aug 14 2026 00:00:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: $230B VanEck says Bitcoin is approaching a cyclical bottom",
+    "link": "https://cryptopanic.com/news/33209821/JUST-IN-230B-VanEck-says-Bitcoin-is-approaching-a-cyclical-bottom",
+    "source": "@btc_archive",
+    "published": "Fri Aug 14 2026 00:00:39 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33209437/UPDATE-Cardano-ADA-Founder-Charles-Hoskinson-says-the-Glacier-Drop-is-the-largest-Hydra-application-thats-been-deployed-on-the-network-and-a-lot-of-people-are-productizing-Hydra-on-an-app-by-app-basis-for-example-Gummiworm-for-a-DEX",
     "source": "@angrycryptoshow",
     "published": "Thu Aug 13 2026 22:44:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: #Cardano $ADA Founder Charles Hoskinson says \"Hydra is working, it's an isomorphic state channel, so you basically lock and send in and send back, and everything that happens in the channel is preserved through, and you have a math-based guarantee for that.\"",
-    "link": "https://cryptopanic.com/news/33209436/UPDATE-Cardano-ADA-Founder-Charles-Hoskinson-says-Hydra-is-working-its-an-isomorphic-state-channel-so-you-basically-lock-and-send-in-and-send-back-and-everything-that-happens-in-the-channel-is-preserved-through-and-you-have-a-math-based-guarantee-for-that",
-    "source": "@angrycryptoshow",
-    "published": "Thu Aug 13 2026 22:44:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: #Cardano $ADA Founder Charles Hoskinson gives a health update, says \"I lost 20lbs, that's a good start, moving in the right direction. I've been fasting 3 days a week. My hope is to get down to the 220s or 210s by TOKEN2049. It's nice, I was up 254.\"",
-    "link": "https://cryptopanic.com/news/33209435/UPDATE-Cardano-ADA-Founder-Charles-Hoskinson-gives-a-health-update-says-I-lost-20lbs-thats-a-good-start-moving-in-the-right-direction-Ive-been-fasting-3-days-a-week-My-hope-is-to-get-down-to-the-220s-or-210s-by-TOKEN2049-Its-nice-I-was-up-254",
-    "source": "@angrycryptoshow",
-    "published": "Thu Aug 13 2026 22:43:17 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
