@@ -1,5 +1,19 @@
 [
   {
+    "title": "This video will stick with you for a while...",
+    "link": "https://cryptopanic.com/news/33209647/This-video-will-stick-with-you-for-a-while",
+    "source": "AnthonyPompliano",
+    "published": "Thu Aug 13 2026 23:46:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hedera isn't a blockchain\n\nThere are no blocks and no mining on @hedera. Nodes pass transactions to each other at random, along with a record of who told them what.\n\nFrom that record every node works out how the others would vote without a vote ever happening. \n\n@The_Hashgraph",
+    "link": "https://cryptopanic.com/news/33209624/Hedera-isnt-a-blockchain-There-are-no-blocks-and-no-mining-on-hedera-Nodes-pass-transactions-to-each-other-at-random-along-with-a-record-of-who-told-them-what-From-that-record-every-node-works-out-how-the-others-would-vote-without-a-vote-ever-happening-The_Hashgraph",
+    "source": "@bscnews",
+    "published": "Thu Aug 13 2026 23:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST: US-listed China ETFs saw $3.4 billion in outflows from May through July, flipping their one-year cumulative flows back into negative territory.",
     "link": "https://cryptopanic.com/news/33209536/LATEST-US-listed-China-ETFs-saw-34-billion-in-outflows-from-May-through-July-flipping-their-one-year-cumulative-flows-back-into-negative-territory",
     "source": "@cointelegraph",
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33209303/Bitcoin-Is-About-to-Leave-You-Behind-Why-This-Could-Be-Your-Last-Shot",
     "source": "SimplyBitcoin",
     "published": "Thu Aug 13 2026 22:01:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "T. Rowe Price Crypto Chief Says AI Stole Crypto's 'Marginal Buyer' but She Still Remains Bullish",
-    "link": "https://cryptopanic.com/news/33209363/T-Rowe-Price-Crypto-Chief-Says-AI-Stole-Cryptos-Marginal-Buyer-but-She-Still-Remains-Bullish",
-    "source": "feeds2.benzinga.com",
-    "published": "Thu Aug 13 2026 22:01:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ QUESTION: Which job will AI replace first: coding, trading, customer support, or content creation?",
-    "link": "https://cryptopanic.com/news/33209439/QUESTION-Which-job-will-AI-replace-first-coding-trading-customer-support-or-content-creation",
-    "source": "@cointelegraph",
-    "published": "Thu Aug 13 2026 22:00:53 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
