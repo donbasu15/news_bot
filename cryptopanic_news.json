@@ -1,5 +1,33 @@
 [
   {
+    "title": "SharpLink Deploys $200M in Ethereum Through Lido to Expand DeFi Yield Strategy",
+    "link": "https://cryptopanic.com/news/33209905/SharpLink-Deploys-200M-in-Ethereum-Through-Lido-to-Expand-DeFi-Yield-Strategy",
+    "source": "cryptoprowl.com",
+    "published": "Fri Aug 14 2026 01:15:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Where staking yield actually comes from\n\nMost of it is new issuance. The chain prints tokens and hands them to stakers, which dilutes everyone who didn't stake rather than generating revenue.\n\nThe other source is transaction fees and MEV, which is real money paid by users.",
+    "link": "https://cryptopanic.com/news/33209884/Where-staking-yield-actually-comes-from-Most-of-it-is-new-issuance-The-chain-prints-tokens-and-hands-them-to-stakers-which-dilutes-everyone-who-didnt-stake-rather-than-generating-revenue-The-other-source-is-transaction-fees-and-MEV-which-is-real-money-paid-by-users",
+    "source": "@bscnews",
+    "published": "Fri Aug 14 2026 01:13:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Matt Hougan: Crypto Is Down 50%… Wall Street Is ALL-IN",
+    "link": "https://cryptopanic.com/news/33209868/Matt-Hougan-Crypto-Is-Down-50-Wall-Street-Is-ALL-IN",
+    "source": "MilkRoadYoutube",
+    "published": "Fri Aug 14 2026 01:07:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The Weird Marriage Theory That Actually Works",
+    "link": "https://cryptopanic.com/news/33209888/The-Weird-Marriage-Theory-That-Actually-Works",
+    "source": "AnthonyPompliano",
+    "published": "Fri Aug 14 2026 01:02:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "The S&P 500 notched a record-high close, fueled by advances in Sandisk and other heavyweight technology stocks, as tame producer price inflation data supported expectations the Federal Reserve will not raise interest rates at its September meeting",
     "link": "https://cryptopanic.com/news/33209846/The-SampP-500-notched-a-record-high-close-fueled-by-advances-in-Sandisk-and-other-heavyweight-technology-stocks-as-tame-producer-price-inflation-data-supported-expectations-the-Federal-Reserve-will-not-raise-interest-rates-at-its-September-meeting",
     "source": "@reutersbiz",
@@ -14,10 +42,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "The @StellarOrg blockchain was purpose-built for RWA tokenization and crossborder payments. As a result, there's a few things that make $XLM's chain different from other L1s...\n\n- The Stellar Consensus Protocol: Stellar uses Federated Byzantine Agreement instead of PoW or PoS.",
+    "link": "https://cryptopanic.com/news/33209883/The-StellarOrg-blockchain-was-purpose-built-for-RWA-tokenization-and-crossborder-payments-As-a-result-theres-a-few-things-that-make-XLMs-chain-different-from-other-L1s-The-Stellar-Consensus-Protocol-Stellar-uses-Federated-Byzantine-Agreement-instead-of-PoW-or-PoS",
+    "source": "@bscnews",
+    "published": "Fri Aug 14 2026 00:44:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Castle Labs: MegaETH Stablecoin USDm Supply Falls Over 95% From May Peak \n\nAccording to a new report from Castle Labs, the supply of MegaETH’s native stablecoin USDm has fallen to around $18 million, down more than 95% from its May peak of roughly $600 million. USDm was launched",
     "link": "https://cryptopanic.com/news/33209842/Castle-Labs-MegaETH-Stablecoin-USDm-Supply-Falls-Over-95-From-May-Peak-According-to-a-new-report-from-Castle-Labs-the-supply-of-MegaETHs-native-stablecoin-USDm-has-fallen-to-around-18-million-down-more-than-95-from-its-May-peak-of-roughly-600-million-USDm-was-launched",
     "source": "@wublockchain",
     "published": "Fri Aug 14 2026 00:43:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The largest on-chain $BTC bear, 0x66f8, has closed his 2,136 $BTC($136M) short, making a $1.65M profit.\n\nHe then flipped long, opening a 40x long on 200.82 $BTC($12.74M).",
+    "link": "https://cryptopanic.com/news/33209887/The-largest-on-chain-BTC-bear-0x66f8-has-closed-his-2136-BTC136M-short-making-a-165M-profit-He-then-flipped-long-opening-a-40x-long-on-20082-BTC1274M",
+    "source": "@lookonchain",
+    "published": "Fri Aug 14 2026 00:41:22 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -32,6 +74,13 @@
     "link": "https://cryptopanic.com/news/33209841/LATEST-The-SEC-issued-a-no-action-letter-letting-Franklin-Templetons-traditional-registered-funds-hold-shares-of-its-onchain-BENJI-fund-for-cash-management",
     "source": "@coinmarketcap",
     "published": "Fri Aug 14 2026 00:39:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Insane!\n\nA whale has placed ~$203.47M worth of $SPCX limit short orders at $141.93–$142.90.",
+    "link": "https://cryptopanic.com/news/33209886/Insane-A-whale-has-placed-20347M-worth-of-SPCX-limit-short-orders-at-1419314290",
+    "source": "@lookonchain",
+    "published": "Fri Aug 14 2026 00:35:30 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -158,55 +207,6 @@
     "link": "https://cryptopanic.com/news/33209623/Why-Kaspa-doesnt-throw-away-competing-blocks-A-normal-chain-picks-one-block-per-round-and-discards-the-rest-as-orphans-meaning-every-miner-who-lost-the-race-did-the-work-for-nothing-Kaspa-orders-every-block-instead-including-ones-mined-at-the-same-moment-through-GHOSTDAG",
     "source": "@bscnews",
     "published": "Thu Aug 13 2026 23:15:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇺🇸 CFTC Chair Michael Selig released the agenda for the Innovation Advisory Committee's inaugural meeting on Aug. 20, covering crypto assets, AI, and prediction markets.",
-    "link": "https://cryptopanic.com/news/33209531/LATEST-CFTC-Chair-Michael-Selig-released-the-agenda-for-the-Innovation-Advisory-Committees-inaugural-meeting-on-Aug-20-covering-crypto-assets-AI-and-prediction-markets",
-    "source": "@coinmarketcap",
-    "published": "Thu Aug 13 2026 23:05:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "TRADING: @DoubleZero's @Austin_Federa explains how Double Zero Edge gives any trader in the world the same low-latency market data that previously cost Wall Street firms hundreds of thousands of dollars a month.\n\nThank you to @realfi_co  for being a sponsor of the CoinDesk",
-    "link": "https://cryptopanic.com/news/33209534/TRADING-DoubleZeros-Austin_Federa-explains-how-Double-Zero-Edge-gives-any-trader-in-the-world-the-same-low-latency-market-data-that-previously-cost-Wall-Street-firms-hundreds-of-thousands-of-dollars-a-month-Thank-you-to-realfi_co-for-being-a-sponsor-of-the-CoinDesk",
-    "source": "@coindesk",
-    "published": "Thu Aug 13 2026 23:03:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33209532/Source",
-    "source": "@wublockchain",
-    "published": "Thu Aug 13 2026 23:03:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Uniswap’s RWA volume hits 2.5B – ‘Crazy to see it happening after all these years’",
-    "link": "https://cryptopanic.com/news/33209470/Uniswaps-RWA-volume-hits-25B-Crazy-to-see-it-happening-after-all-these-years",
-    "source": "ambcrypto.com",
-    "published": "Thu Aug 13 2026 23:00:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🤖 NEW: ChatGPT is rolling out Computer History in its desktop app, letting it remember activity across your apps and websites for more personalized, context-aware conversations.",
-    "link": "https://cryptopanic.com/news/33209535/NEW-ChatGPT-is-rolling-out-Computer-History-in-its-desktop-app-letting-it-remember-activity-across-your-apps-and-websites-for-more-personalized-context-aware-conversations",
-    "source": "@cointelegraph",
-    "published": "Thu Aug 13 2026 23:00:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "TRON is operating at a scale most chains can only dream of.\n\nQ2 ended with $87.9B in USDT circulating on the $TRX network and $2.1 TRILLION in stablecoin transfers processed in just three months.\n\nStablecoins are becoming global payment rails and @trondao is already one of the",
-    "link": "https://cryptopanic.com/news/33209622/TRON-is-operating-at-a-scale-most-chains-can-only-dream-of-Q2-ended-with-879B-in-USDT-circulating-on-the-TRX-network-and-21-TRILLION-in-stablecoin-transfers-processed-in-just-three-months-Stablecoins-are-becoming-global-payment-rails-and-trondao-is-already-one-of-the",
-    "source": "@realallincrypto",
-    "published": "Thu Aug 13 2026 23:00:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "How Pokémon Cards Outpaced the S&P 500 and Bitcoin",
-    "link": "https://cryptopanic.com/news/33209517/How-Pokemon-Cards-Outpaced-the-SP-500-and-Bitcoin",
-    "source": "beincrypto.com",
-    "published": "Thu Aug 13 2026 22:58:40 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
