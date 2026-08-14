@@ -1,5 +1,68 @@
 [
   {
+    "title": "SEC Proposes Easing Regulations On Political Donations",
+    "link": "https://cryptopanic.com/news/33214791/SEC-Proposes-Easing-Regulations-On-Political-Donations",
+    "source": "catenaa.com",
+    "published": "Fri Aug 14 2026 18:15:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LG sends wheeled robots to a Tennessee line this year, humanoid waits until 2027",
+    "link": "https://cryptopanic.com/news/33214792/LG-sends-wheeled-robots-to-a-Tennessee-line-this-year-humanoid-waits-until-2027",
+    "source": "cryptopolitan.com",
+    "published": "Fri Aug 14 2026 18:05:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Bitwise is exploring putting its Solana staking ETF on-chain, partnering with Superstate to tokenize fund shares for investors.",
+    "link": "https://cryptopanic.com/news/33214786/LATEST-Bitwise-is-exploring-putting-its-Solana-staking-ETF-on-chain-partnering-with-Superstate-to-tokenize-fund-shares-for-investors",
+    "source": "@coinmarketcap",
+    "published": "Fri Aug 14 2026 18:05:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The AI That Escaped: Inside OpenAI's Rogue Agent Incident | Connor Leahy",
+    "link": "https://cryptopanic.com/news/33214779/The-AI-That-Escaped-Inside-OpenAIs-Rogue-Agent-Incident-Connor-Leahy",
+    "source": "whatbitcoindid",
+    "published": "Fri Aug 14 2026 18:00:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: #Cardano $ADA Founder Charles Hoskinson responds to USDM now being deployable on Midnight, unlocking new use cases with privacy-enhancing technology, says \"welcome home $USDM. Can't wait for your ATMs in the city.\"",
+    "link": "https://cryptopanic.com/news/33214788/JUST-IN-Cardano-ADA-Founder-Charles-Hoskinson-responds-to-USDM-now-being-deployable-on-Midnight-unlocking-new-use-cases-with-privacy-enhancing-technology-says-welcome-home-USDM-Cant-wait-for-your-ATMs-in-the-city",
+    "source": "@angrycryptoshow",
+    "published": "Fri Aug 14 2026 17:57:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: #Cardano $ADA Founder Charles Hoskinson on executive function and the \"need for a governance Discord,\" says \"we are actively working on it.\"",
+    "link": "https://cryptopanic.com/news/33214787/UPDATE-Cardano-ADA-Founder-Charles-Hoskinson-on-executive-function-and-the-need-for-a-governance-Discord-says-we-are-actively-working-on-it",
+    "source": "@angrycryptoshow",
+    "published": "Fri Aug 14 2026 17:54:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Shiba Inu’s Shibarium Sees 507% Transaction Surge Before Sharp Reversal Wipes Out Momentum",
+    "link": "https://cryptopanic.com/news/33214778/Shiba-Inus-Shibarium-Sees-507-Transaction-Surge-Before-Sharp-Reversal-Wipes-Out-Momentum",
+    "source": "zycrypto.com",
+    "published": "Fri Aug 14 2026 17:53:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "️ INSIGHT: Elon Musk says orbital computing may be the only way to scale AI by 2029 due to power availability and permitting constraints on Earth.",
+    "link": "https://cryptopanic.com/news/33214790/INSIGHT-Elon-Musk-says-orbital-computing-may-be-the-only-way-to-scale-AI-by-2029-due-to-power-availability-and-permitting-constraints-on-Earth",
+    "source": "@cointelegraph",
+    "published": "Fri Aug 14 2026 17:50:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: @Binance will block transactions involving 16 crypto platforms starting August 23, including HTX and EXMO, with restrictions applying to all Binance users globally.",
+    "link": "https://cryptopanic.com/news/33214789/LATEST-Binance-will-block-transactions-involving-16-crypto-platforms-starting-August-23-including-HTX-and-EXMO-with-restrictions-applying-to-all-Binance-users-globally",
+    "source": "@coindesk",
+    "published": "Fri Aug 14 2026 17:49:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: Gemini discloses adding 1,689 BTC Bitcoin to their treasury, now totaling 5,528 BTC!",
     "link": "https://cryptopanic.com/news/33214694/JUST-IN-Gemini-discloses-adding-1689-BTC-Bitcoin-to-their-treasury-now-totaling-5528-BTC",
     "source": "@bitcoinmagazine",
@@ -7,10 +70,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Tokenization stocks slip as SEC delay puts 'speed bump' in crypto’s Wall Street push",
+    "link": "https://cryptopanic.com/news/33214742/Tokenization-stocks-slip-as-SEC-delay-puts-speed-bump-in-cryptos-Wall-Street-push",
+    "source": "coindesk.com",
+    "published": "Fri Aug 14 2026 17:48:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Coldcard Bitcoin Thefts Slow, But Losses Could Top $150 Million: Galaxy",
     "link": "https://cryptopanic.com/news/33214662/Coldcard-Bitcoin-Thefts-Slow-But-Losses-Could-Top-150-Million-Galaxy",
     "source": "decrypt.co",
     "published": "Fri Aug 14 2026 17:46:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ANALYSIS:  Are institutions calling Bitcoin’s price bottom?\n\nLarge CME traders recently flipped to become modestly net long, hedge funds have cut short exposure by nearly 40% since May, and ETF inflows are returning.\n\nInstitutions appear to be turning more bullish after BTC’s",
+    "link": "https://cryptopanic.com/news/33214785/ANALYSIS-Are-institutions-calling-Bitcoins-price-bottom-Large-CME-traders-recently-flipped-to-become-modestly-net-long-hedge-funds-have-cut-short-exposure-by-nearly-40-since-May-and-ETF-inflows-are-returning-Institutions-appear-to-be-turning-more-bullish-after-BTCs",
+    "source": "@coinmarketcap",
+    "published": "Fri Aug 14 2026 17:45:03 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -130,83 +207,6 @@
     "link": "https://cryptopanic.com/news/33214502/Stellars-new-partner-has-a-global-audience-of-486-MILLION-followers-FCBarcelona-says-its-official-accounts-reach-nearly-half-a-billion-people-worldwide-Now-Barca-Mobile-is-building-on-StellarOrg-Going-to-be-some-huge-distribution-on-the-XLM-network",
     "source": "@realallincrypto",
     "published": "Fri Aug 14 2026 17:00:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tether Clears First Full KPMG Audit, Gold Bars Counted by Hand",
-    "link": "https://cryptopanic.com/news/33214516/Tether-Clears-First-Full-KPMG-Audit-Gold-Bars-Counted-by-Hand",
-    "source": "coinpaprika.com",
-    "published": "Fri Aug 14 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$2,499,248,649,828 Wealth Fund Discloses Billion-Dollar Stake in Elon Musk’s SpaceX",
-    "link": "https://cryptopanic.com/news/33214548/2499248649828-Wealth-Fund-Discloses-Billion-Dollar-Stake-in-Elon-Musks-SpaceX",
-    "source": "dailyhodl.com",
-    "published": "Fri Aug 14 2026 16:55:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Forget Bitcoin, S&P 500: Pokémon Cards Are Up 28% In 2026 and Beating Them Both",
-    "link": "https://cryptopanic.com/news/33214562/Forget-Bitcoin-SampP-500-Pokemon-Cards-Are-Up-28-In-2026-and-Beating-Them-Both",
-    "source": "feeds2.benzinga.com",
-    "published": "Fri Aug 14 2026 16:55:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  The Ethereum Foundation is switching to more widely used SHA or BLAKE cryptography in its plans to protect Ethereum from future quantum attacks, with a production-ready leanVM targeted for 2027.",
-    "link": "https://cryptopanic.com/news/33214611/LATEST-The-Ethereum-Foundation-is-switching-to-more-widely-used-SHA-or-BLAKE-cryptography-in-its-plans-to-protect-Ethereum-from-future-quantum-attacks-with-a-production-ready-leanVM-targeted-for-2027",
-    "source": "@coinmarketcap",
-    "published": "Fri Aug 14 2026 16:53:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "QUICK SPARK: Morgan Stanley, JPMorgan Load Up on Bitcoin, Ethereum ETFs",
-    "link": "https://cryptopanic.com/news/33214553/QUICK-SPARK-Morgan-Stanley-JPMorgan-Load-Up-on-Bitcoin-Ethereum-ETFs",
-    "source": "feeds2.benzinga.com",
-    "published": "Fri Aug 14 2026 16:52:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Kraken Parent Payward Posts $508M Q2 Revenue, Up 17% Year Over Year",
-    "link": "https://cryptopanic.com/news/33214520/Kraken-Parent-Payward-Posts-508M-Q2-Revenue-Up-17-Year-Over-Year",
-    "source": "cryptoprowl.com",
-    "published": "Fri Aug 14 2026 16:52:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: OpenAI’s chief revenue officer Denise Dresser has left, days after longtime executive Brad Lightcap announced his departure.",
-    "link": "https://cryptopanic.com/news/33214614/LATEST-OpenAIs-chief-revenue-officer-Denise-Dresser-has-left-days-after-longtime-executive-Brad-Lightcap-announced-his-departure",
-    "source": "@cointelegraph",
-    "published": "Fri Aug 14 2026 16:50:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stock Market Today: S&P 500 Holds Near Record High as Dow Slips on Weak Retail Sales",
-    "link": "https://cryptopanic.com/news/33214434/Stock-Market-Today-SP-500-Holds-Near-Record-High-as-Dow-Slips-on-Weak-Retail-Sales",
-    "source": "coinpaper.com",
-    "published": "Fri Aug 14 2026 16:45:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "If you invested $1,000 in XRP at the start of 2026; Here’s how much you’d have now",
-    "link": "https://cryptopanic.com/news/33214449/If-you-invested-1000-in-XRP-at-the-start-of-2026-Heres-how-much-youd-have-now",
-    "source": "finbold.com",
-    "published": "Fri Aug 14 2026 16:45:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Successful crypto extortions dropped from 67% in 2024 to just 26% in 2026.\n\nAre crypto users finally getting harder to exploit?\n\n@rkbaggs sits down with @Chainalysis Head of Research Eric Jardine on #CHAINREACTION to discuss wrench attacks, self-custody and the biggest trends",
-    "link": "https://cryptopanic.com/news/33214447/Successful-crypto-extortions-dropped-from-67-in-2024-to-just-26-in-2026-Are-crypto-users-finally-getting-harder-to-exploit-rkbaggs-sits-down-with-Chainalysis-Head-of-Research-Eric-Jardine-on-CHAINREACTION-to-discuss-wrench-attacks-self-custody-and-the-biggest-trends",
-    "source": "@cointelegraph",
-    "published": "Fri Aug 14 2026 16:45:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INSIGHT: 2,598 agents are in queue to enter Midnight City, with 301 currently online. Active agents grew by 9 since August 10th, with 134 added to the queue, showcasing strong demand.",
-    "link": "https://cryptopanic.com/news/33214437/INSIGHT-2598-agents-are-in-queue-to-enter-Midnight-City-with-301-currently-online-Active-agents-grew-by-9-since-August-10th-with-134-added-to-the-queue-showcasing-strong-demand",
-    "source": "@angrycryptoshow",
-    "published": "Fri Aug 14 2026 16:41:04 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
