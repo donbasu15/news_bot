@@ -1,9 +1,51 @@
 [
   {
+    "title": "KAITO crashes 68%, erases its July rally – What went wrong?",
+    "link": "https://cryptopanic.com/news/33210366/KAITO-crashes-68-erases-its-July-rally-What-went-wrong",
+    "source": "ambcrypto.com",
+    "published": "Fri Aug 14 2026 03:00:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "️ Need to catch up on the news? Here's our top 10 from today:\n\n The SEC's tokenization innovation exemption has been further delayed, possibly tied to ongoing back-and-forth over the Clarity Act's tokenization section, per Eleanor Terrett.\n\n VanEck says Bitcoin is",
+    "link": "https://cryptopanic.com/news/33210391/Need-to-catch-up-on-the-news-Heres-our-top-10-from-today-The-SECs-tokenization-innovation-exemption-has-been-further-delayed-possibly-tied-to-ongoing-back-and-forth-over-the-Clarity-Acts-tokenization-section-per-Eleanor-Terrett-VanEck-says-Bitcoin-is",
+    "source": "@cointelegraph",
+    "published": "Fri Aug 14 2026 03:00:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Clarity Act Faces Narrow September Window in Senate",
+    "link": "https://cryptopanic.com/news/33210360/Clarity-Act-Faces-Narrow-September-Window-in-Senate",
+    "source": "catenaa.com",
+    "published": "Fri Aug 14 2026 03:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Gemini posts $108 million loss as crypto slump drains exchange volumes",
+    "link": "https://cryptopanic.com/news/33210368/Gemini-posts-108-million-loss-as-crypto-slump-drains-exchange-volumes",
+    "source": "cryptopolitan.com",
+    "published": "Fri Aug 14 2026 02:58:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "White House to Meet Crypto and Prediction Market Executives Days After Baltimore Sues Kalshi and Polymarket",
+    "link": "https://cryptopanic.com/news/33210356/White-House-to-Meet-Crypto-and-Prediction-Market-Executives-Days-After-Baltimore-Sues-Kalshi-and-Polymarket",
+    "source": "www.blockhead.co",
+    "published": "Fri Aug 14 2026 02:56:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Trump Truth API Lawsuit Opens Prediction-Market Data Fight",
     "link": "https://cryptopanic.com/news/33210336/Trump-Truth-API-Lawsuit-Opens-Prediction-Market-Data-Fight",
     "source": "catenaa.com",
     "published": "Fri Aug 14 2026 02:50:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: OpenAI is on track to top $40 billion in annualized revenue, roughly doubling since the end of 2025 as it gears up for a Wall Street IPO.",
+    "link": "https://cryptopanic.com/news/33210390/NEW-OpenAI-is-on-track-to-top-40-billion-in-annualized-revenue-roughly-doubling-since-the-end-of-2025-as-it-gears-up-for-a-Wall-Street-IPO",
+    "source": "@cointelegraph",
+    "published": "Fri Aug 14 2026 02:40:35 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -165,48 +207,6 @@
     "link": "https://cryptopanic.com/news/33209964/NEW-The-SECs-tokenization-innovation-exemption-has-been-further-delayed-possibly-tied-to-ongoing-back-and-forth-over-the-Clarity-Acts-tokenization-section-per-Eleanor-Terrett",
     "source": "@cointelegraph",
     "published": "Fri Aug 14 2026 01:40:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "China's exports of electric trucks to other Asian countries have spiked, adding to a surge in domestic sales as higher fuel costs as a result of the Iran war accelerate regional electrification. More here",
-    "link": "https://cryptopanic.com/news/33209966/Chinas-exports-of-electric-trucks-to-other-Asian-countries-have-spiked-adding-to-a-surge-in-domestic-sales-as-higher-fuel-costs-as-a-result-of-the-Iran-war-accelerate-regional-electrification-More-here",
-    "source": "@reutersbiz",
-    "published": "Fri Aug 14 2026 01:40:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ASIA MARKET OPEN | Seoul's KOSPI Tops 7,000 at Open, Tokyo Rallies as Chip Stocks Track US Highs; Hong Kong Slips on JD Miss",
-    "link": "https://cryptopanic.com/news/33210230/ASIA-MARKET-OPEN-Seouls-KOSPI-Tops-7000-at-Open-Tokyo-Rallies-as-Chip-Stocks-Track-US-Highs-Hong-Kong-Slips-on-JD-Miss",
-    "source": "square.binance.com",
-    "published": "Fri Aug 14 2026 01:40:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "STOCKS | Hua Hong Semiconductor Slumps Nearly 10% After Earnings",
-    "link": "https://cryptopanic.com/news/33210229/STOCKS-Hua-Hong-Semiconductor-Slumps-Nearly-10-After-Earnings",
-    "source": "square.binance.com",
-    "published": "Fri Aug 14 2026 01:39:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "STOCKS | Hang Seng Tech Index Falls More Than 1% as JD.com and Meituan Slide",
-    "link": "https://cryptopanic.com/news/33210228/STOCKS-Hang-Seng-Tech-Index-Falls-More-Than-1-as-JDcom-and-Meituan-Slide",
-    "source": "square.binance.com",
-    "published": "Fri Aug 14 2026 01:38:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SMIC Rises 4.74% After Forecasting Q3 Revenue Growth",
-    "link": "https://cryptopanic.com/news/33210227/SMIC-Rises-474-After-Forecasting-Q3-Revenue-Growth",
-    "source": "square.binance.com",
-    "published": "Fri Aug 14 2026 01:33:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Exclusive: Private equity firm Silver ‌Lake is in talks to acquire Workday in a deal that would rank among the largest software buyouts in history. More here -",
-    "link": "https://cryptopanic.com/news/33209965/Exclusive-Private-equity-firm-Silver-Lake-is-in-talks-to-acquire-Workday-in-a-deal-that-would-rank-among-the-largest-software-buyouts-in-history-More-here-",
-    "source": "@reutersbiz",
-    "published": "Fri Aug 14 2026 01:33:09 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
