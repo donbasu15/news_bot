@@ -1,5 +1,19 @@
 [
   {
+    "title": "XRP Ledger has had a built-in exchange since 2012\n\nThe order book is part of @Ripple's protocol rather than a smart contract someone deployed. There is no team to rug and no contract to exploit.\n\nIt also auto-bridges. A trade between two currencies with no direct order book",
+    "link": "https://cryptopanic.com/news/33210002/XRP-Ledger-has-had-a-built-in-exchange-since-2012-The-order-book-is-part-of-Ripples-protocol-rather-than-a-smart-contract-someone-deployed-There-is-no-team-to-rug-and-no-contract-to-exploit-It-also-auto-bridges-A-trade-between-two-currencies-with-no-direct-order-book",
+    "source": "@bscnews",
+    "published": "Fri Aug 14 2026 01:46:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Canton just landed a partnership with MUFG one of Japan’s Big 3 Mega Banks.\n\nMUFG plans to test 24/7 onchain settlement for Japanese gov bonds, cutting repo settlement from up to 3 days toward real time.\n\n@CantonNetwork is barely a year old, yet keeps showing up with the",
+    "link": "https://cryptopanic.com/news/33210001/Canton-just-landed-a-partnership-with-MUFG-one-of-Japans-Big-3-Mega-Banks-MUFG-plans-to-test-247-onchain-settlement-for-Japanese-gov-bonds-cutting-repo-settlement-from-up-to-3-days-toward-real-time-CantonNetwork-is-barely-a-year-old-yet-keeps-showing-up-with-the",
+    "source": "@realallincrypto",
+    "published": "Fri Aug 14 2026 01:45:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "🇺🇸 NEW: The SEC's tokenization innovation exemption has been further delayed, possibly tied to ongoing back-and-forth over the Clarity Act's tokenization section, per Eleanor Terrett.",
     "link": "https://cryptopanic.com/news/33209964/NEW-The-SECs-tokenization-innovation-exemption-has-been-further-delayed-possibly-tied-to-ongoing-back-and-forth-over-the-Clarity-Acts-tokenization-section-per-Eleanor-Terrett",
     "source": "@cointelegraph",
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33209717/Source",
     "source": "@wublockchain",
     "published": "Thu Aug 13 2026 23:56:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Hyperliquid treasury firm Hyperion DeFi posted a record $31M net income in Q2, more than 3x Q1's $8.8M, as it grew its holdings to 2.04 million HYPE.",
-    "link": "https://cryptopanic.com/news/33209716/LATEST-Hyperliquid-treasury-firm-Hyperion-DeFi-posted-a-record-31M-net-income-in-Q2-more-than-3x-Q1s-88M-as-it-grew-its-holdings-to-204-million-HYPE",
-    "source": "@coinmarketcap",
-    "published": "Thu Aug 13 2026 23:52:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: Gemini increased Bitcoin treasury holdings to 5,528 worth $324M\n\n• 80% are borrowed from Winklevoss twins\n\n• Added BTC 1,689 in 2Q",
-    "link": "https://cryptopanic.com/news/33209648/BREAKING-Gemini-increased-Bitcoin-treasury-holdings-to-5528-worth-324M-80-are-borrowed-from-Winklevoss-twins-Added-BTC-1689-in-2Q",
-    "source": "@btc_archive",
-    "published": "Thu Aug 13 2026 23:51:39 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
