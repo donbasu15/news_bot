@@ -1,5 +1,54 @@
 [
   {
+    "title": "The S&P 500 notched a record-high close, fueled by advances in Sandisk and other heavyweight technology stocks, as tame producer price inflation data supported expectations the Federal Reserve will not raise interest rates at its September meeting",
+    "link": "https://cryptopanic.com/news/33209846/The-SampP-500-notched-a-record-high-close-fueled-by-advances-in-Sandisk-and-other-heavyweight-technology-stocks-as-tame-producer-price-inflation-data-supported-expectations-the-Federal-Reserve-will-not-raise-interest-rates-at-its-September-meeting",
+    "source": "@reutersbiz",
+    "published": "Fri Aug 14 2026 00:50:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$RDDT has now bounced nearly +30% from the key support level, with the latest move up coming on the news that it will be added to the S&P 500.",
+    "link": "https://cryptopanic.com/news/33209822/RDDT-has-now-bounced-nearly-30-from-the-key-support-level-with-the-latest-move-up-coming-on-the-news-that-it-will-be-added-to-the-SampP-500",
+    "source": "@stackersatoshi",
+    "published": "Fri Aug 14 2026 00:45:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Castle Labs: MegaETH Stablecoin USDm Supply Falls Over 95% From May Peak \n\nAccording to a new report from Castle Labs, the supply of MegaETH’s native stablecoin USDm has fallen to around $18 million, down more than 95% from its May peak of roughly $600 million. USDm was launched",
+    "link": "https://cryptopanic.com/news/33209842/Castle-Labs-MegaETH-Stablecoin-USDm-Supply-Falls-Over-95-From-May-Peak-According-to-a-new-report-from-Castle-Labs-the-supply-of-MegaETHs-native-stablecoin-USDm-has-fallen-to-around-18-million-down-more-than-95-from-its-May-peak-of-roughly-600-million-USDm-was-launched",
+    "source": "@wublockchain",
+    "published": "Fri Aug 14 2026 00:43:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "️ NEW: Binance founder CZ weighs in on the Trezor data breach, noting it reinforces an advantage of software self-custody wallets. \n\nUnlike hardware wallets, they don't require a physical device tied to your identity and shipping address.",
+    "link": "https://cryptopanic.com/news/33209845/NEW-Binance-founder-CZ-weighs-in-on-the-Trezor-data-breach-noting-it-reinforces-an-advantage-of-software-self-custody-wallets-Unlike-hardware-wallets-they-dont-require-a-physical-device-tied-to-your-identity-and-shipping-address",
+    "source": "@cointelegraph",
+    "published": "Fri Aug 14 2026 00:40:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇺🇸 The SEC issued a no-action letter letting Franklin Templeton's traditional registered funds hold shares of its onchain BENJI fund for cash management.",
+    "link": "https://cryptopanic.com/news/33209841/LATEST-The-SEC-issued-a-no-action-letter-letting-Franklin-Templetons-traditional-registered-funds-hold-shares-of-its-onchain-BENJI-fund-for-cash-management",
+    "source": "@coinmarketcap",
+    "published": "Fri Aug 14 2026 00:39:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Daily #Cardano News! ️\n\nIvan Predicts $ADA Breakout?\nTokenized Silver Goes Live!",
+    "link": "https://cryptopanic.com/news/33209843/Daily-Cardano-News-Ivan-Predicts-ADA-Breakout-Tokenized-Silver-Goes-Live",
+    "source": "@angrycryptoshow",
+    "published": "Fri Aug 14 2026 00:24:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NOW: Elon Musk discloses a 48.4% stake in SpaceX, worth over $900 billion, per regulatory filing.",
+    "link": "https://cryptopanic.com/news/33209844/NOW-Elon-Musk-discloses-a-484-stake-in-SpaceX-worth-over-900-billion-per-regulatory-filing",
+    "source": "@cointelegraph",
+    "published": "Fri Aug 14 2026 00:20:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Cardano transactions can't fail after you pay\n\n@ethereum runs an account model where contract state changes as transactions execute. You learn the fee and the outcome after it runs, and a failed transaction still costs gas.\n\n@Cardano uses extended UTXO, where the inputs determine",
     "link": "https://cryptopanic.com/news/33209778/Cardano-transactions-cant-fail-after-you-pay-ethereum-runs-an-account-model-where-contract-state-changes-as-transactions-execute-You-learn-the-fee-and-the-outcome-after-it-runs-and-a-failed-transaction-still-costs-gas-Cardano-uses-extended-UTXO-where-the-inputs-determine",
     "source": "@bscnews",
@@ -158,55 +207,6 @@
     "link": "https://cryptopanic.com/news/33209517/How-Pokemon-Cards-Outpaced-the-SP-500-and-Bitcoin",
     "source": "beincrypto.com",
     "published": "Thu Aug 13 2026 22:58:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Reddit Stock Pops 11% on S&P 500 Inclusion Despite Google AI Traffic Concerns",
-    "link": "https://cryptopanic.com/news/33209516/Reddit-Stock-Pops-11-on-SP-500-Inclusion-Despite-Google-AI-Traffic-Concerns",
-    "source": "beincrypto.com",
-    "published": "Thu Aug 13 2026 22:55:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SEC Cancels Reg Crypto Proposal and Delays Meeting Without New Date",
-    "link": "https://cryptopanic.com/news/33209462/SEC-Cancels-Reg-Crypto-Proposal-and-Delays-Meeting-Without-New-Date",
-    "source": "coincu.com",
-    "published": "Thu Aug 13 2026 22:55:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump floated paying the $35T national debt with Bitcoin.\n\nDebt is now $40T\n\nStill waiting on that “little Bitcoin” check. 🤨",
-    "link": "https://cryptopanic.com/news/33209493/Trump-floated-paying-the-35T-national-debt-with-Bitcoin-Debt-is-now-40T-Still-waiting-on-that-little-Bitcoin-check",
-    "source": "@btc_archive",
-    "published": "Thu Aug 13 2026 22:52:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 The SEC canceled a Friday vote on exemptions that would let crypto startups raise capital without complying with traditional securities rules, citing an \"unforeseen scheduling issue.\"",
-    "link": "https://cryptopanic.com/news/33209530/JUST-IN-The-SEC-canceled-a-Friday-vote-on-exemptions-that-would-let-crypto-startups-raise-capital-without-complying-with-traditional-securities-rules-citing-an-unforeseen-scheduling-issue",
-    "source": "@coinmarketcap",
-    "published": "Thu Aug 13 2026 22:49:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "S&P 500 Hits Record High 7,799 as Cool Inflation Data Lifts Rate-Cut Hopes",
-    "link": "https://cryptopanic.com/news/33209515/SP-500-Hits-Record-High-7799-as-Cool-Inflation-Data-Lifts-Rate-Cut-Hopes",
-    "source": "beincrypto.com",
-    "published": "Thu Aug 13 2026 22:48:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: #Cardano $ADA Founder Charles Hoskinson says \"AlphaGrowth plus Draper functionally replaces what EMURGO was supposed to be. They're competent and capable, I absolutely think that they will do a great job.\"",
-    "link": "https://cryptopanic.com/news/33209438/UPDATE-Cardano-ADA-Founder-Charles-Hoskinson-says-AlphaGrowth-plus-Draper-functionally-replaces-what-EMURGO-was-supposed-to-be-Theyre-competent-and-capable-I-absolutely-think-that-they-will-do-a-great-job",
-    "source": "@angrycryptoshow",
-    "published": "Thu Aug 13 2026 22:45:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: #Cardano $ADA Founder Charles Hoskinson says \"the Glacier Drop is the largest Hydra application that's been deployed on the network, and a lot of people are productizing Hydra on an app by app basis, for example, Gummiworm for a DEX.\"",
-    "link": "https://cryptopanic.com/news/33209437/UPDATE-Cardano-ADA-Founder-Charles-Hoskinson-says-the-Glacier-Drop-is-the-largest-Hydra-application-thats-been-deployed-on-the-network-and-a-lot-of-people-are-productizing-Hydra-on-an-app-by-app-basis-for-example-Gummiworm-for-a-DEX",
-    "source": "@angrycryptoshow",
-    "published": "Thu Aug 13 2026 22:44:33 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
