@@ -1,9 +1,37 @@
 [
   {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33216842/Source",
+    "source": "@wublockchain",
+    "published": "Sat Aug 15 2026 06:34:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Spot ETFs See $57.63M Net Outflow, Ether ETFs Record Zero Flows\n\nAccording to SoSoValue data, on August 14 (ET), spot Bitcoin ETFs recorded a total net outflow of $57.63 million, marking the third consecutive day of net outflows. Spot Ether ETFs recorded zero net inflows",
+    "link": "https://cryptopanic.com/news/33216841/Bitcoin-Spot-ETFs-See-5763M-Net-Outflow-Ether-ETFs-Record-Zero-Flows-According-to-SoSoValue-data-on-August-14-ET-spot-Bitcoin-ETFs-recorded-a-total-net-outflow-of-5763-million-marking-the-third-consecutive-day-of-net-outflows-Spot-Ether-ETFs-recorded-zero-net-inflows",
+    "source": "@wublockchain",
+    "published": "Sat Aug 15 2026 06:33:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "North Korea’s Kimsuky Turns Local AI Into Crypto Attack Tool",
     "link": "https://cryptopanic.com/news/33216792/North-Koreas-Kimsuky-Turns-Local-AI-Into-Crypto-Attack-Tool",
     "source": "catenaa.com",
     "published": "Sat Aug 15 2026 06:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INSIGHT: Crypto executives have been lying to you. \nBitcoin probably isn't going to $1 million by 2030.\n\nIn the latest episode of Trade Secrets, @itsciaranlyons sits down with Markus Thielen (@markus10x) of 10x Research (@10xresearch) to unpack why the $1M Bitcoin prediction",
+    "link": "https://cryptopanic.com/news/33216843/INSIGHT-Crypto-executives-have-been-lying-to-you-Bitcoin-probably-isnt-going-to-1-million-by-2030-In-the-latest-episode-of-Trade-Secrets-itsciaranlyons-sits-down-with-Markus-Thielen-markus10x-of-10x-Research-10xresearch-to-unpack-why-the-1M-Bitcoin-prediction",
+    "source": "@cointelegraph",
+    "published": "Sat Aug 15 2026 06:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Morgan Stanley boosted its iShares Bitcoin Trust ETF position by 23% to 16.5M shares in Q2, while increasing its iShares Ethereum Trust ETF position by about 202% to 4.6M shares.",
+    "link": "https://cryptopanic.com/news/33216840/LATEST-Morgan-Stanley-boosted-its-iShares-Bitcoin-Trust-ETF-position-by-23-to-165M-shares-in-Q2-while-increasing-its-iShares-Ethereum-Trust-ETF-position-by-about-202-to-46M-shares",
+    "source": "@coinmarketcap",
+    "published": "Sat Aug 15 2026 06:22:10 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33216383/GEOPOLITICS-Modi-Pledges-More-Chip-Plants-and-Nuclear-Reactors-in-India",
     "source": "square.binance.com",
     "published": "Sat Aug 15 2026 03:01:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "-1.2 Billion Shiba Inu (SHIB) Burned in 24 Hours Is Not Bullish Enough",
-    "link": "https://cryptopanic.com/news/33216424/-12-Billion-Shiba-Inu-SHIB-Burned-in-24-Hours-Is-Not-Bullish-Enough",
-    "source": "u.today",
-    "published": "Sat Aug 15 2026 03:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nvidia discloses 122.8 million SpaceX shares worth $21 billion in surprise filing",
-    "link": "https://cryptopanic.com/news/33216189/Nvidia-discloses-1228-million-SpaceX-shares-worth-21-billion-in-surprise-filing",
-    "source": "cryptopolitan.com",
-    "published": "Sat Aug 15 2026 02:50:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Singapore police warn that fake job offer scams targeting crypto and tech workers have resulted in $11.8M in losses, with malware hidden in coding assessments letting attackers drain company accounts.",
-    "link": "https://cryptopanic.com/news/33216427/LATEST-Singapore-police-warn-that-fake-job-offer-scams-targeting-crypto-and-tech-workers-have-resulted-in-118M-in-losses-with-malware-hidden-in-coding-assessments-letting-attackers-drain-company-accounts",
-    "source": "@coinmarketcap",
-    "published": "Sat Aug 15 2026 02:35:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "So far, the initial reaction at the key $150 level has been a rejection and drop of as much as -9.5%.",
-    "link": "https://cryptopanic.com/news/33216223/So-far-the-initial-reaction-at-the-key-150-level-has-been-a-rejection-and-drop-of-as-much-as-95",
-    "source": "@stackersatoshi",
-    "published": "Sat Aug 15 2026 02:33:52 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
