@@ -1,9 +1,44 @@
 [
   {
+    "title": "30-year Treasury auction clears at 5.216%",
+    "link": "https://cryptopanic.com/news/33217381/30-year-Treasury-auction-clears-at-5216",
+    "source": "catenaa.com",
+    "published": "Sat Aug 15 2026 11:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Deribit Dubai licence bolsters Coinbase in UAE",
+    "link": "https://cryptopanic.com/news/33217382/Deribit-Dubai-licence-bolsters-Coinbase-in-UAE",
+    "source": "catenaa.com",
+    "published": "Sat Aug 15 2026 11:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MARKET: Crypto wiped out $2.1T in less than a year.\n\nCan the market reclaim $4T?",
+    "link": "https://cryptopanic.com/news/33217388/MARKET-Crypto-wiped-out-21T-in-less-than-a-year-Can-the-market-reclaim-4T",
+    "source": "@cointelegraph",
+    "published": "Sat Aug 15 2026 11:26:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cosmos Ecosystem’s Second-Largest Wallet Cosmostation to Shut Down\n\nCosmos ecosystem wallet Cosmostation announced it will discontinue its wallet services. Starting September 1, Cosmostation Wallet will retain only seed phrase and private key export functions, while all other",
+    "link": "https://cryptopanic.com/news/33217386/Cosmos-Ecosystems-Second-Largest-Wallet-Cosmostation-to-Shut-Down-Cosmos-ecosystem-wallet-Cosmostation-announced-it-will-discontinue-its-wallet-services-Starting-September-1-Cosmostation-Wallet-will-retain-only-seed-phrase-and-private-key-export-functions-while-all-other",
+    "source": "@wublockchain",
+    "published": "Sat Aug 15 2026 11:20:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Can VELVET defend $1 after its 54% surge? Examining…",
     "link": "https://cryptopanic.com/news/33217312/Can-VELVET-defend-1-after-its-54-surge-Examining",
     "source": "ambcrypto.com",
     "published": "Sat Aug 15 2026 11:00:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Report from $XLM new partner BNY says interoperability is the key to the next financial system.\n\nThe goal is to make deposits, stocks, bonds and other assets moving seamlessly between traditional finance and blockchain 24/7, with instant settlement.\n\nThe two protocols that can",
+    "link": "https://cryptopanic.com/news/33217419/Report-from-XLM-new-partner-BNY-says-interoperability-is-the-key-to-the-next-financial-system-The-goal-is-to-make-deposits-stocks-bonds-and-other-assets-moving-seamlessly-between-traditional-finance-and-blockchain-247-with-instant-settlement-The-two-protocols-that-can",
+    "source": "@realallincrypto",
+    "published": "Sat Aug 15 2026 11:00:23 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33217133/Ethereum-Might-Get-Destroyed-By-Solana-Cardano-Very-Soon-Whale-Bitcoin-Buying-Is-Taking-Over",
     "source": "TheModernInvestor",
     "published": "Sat Aug 15 2026 09:05:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$XLM new partner and banking giant @BNYglobal says global finance is moving towards blockchain and DLT!\n\nThey released a report last year called \"The Digital Revolution\" says DLT is becoming mainstream, boosting liquidity, transparency and mobility across capital markets.\n\nNow",
-    "link": "https://cryptopanic.com/news/33217155/XLM-new-partner-and-banking-giant-BNYglobal-says-global-finance-is-moving-towards-blockchain-and-DLT-They-released-a-report-last-year-called-The-Digital-Revolution-says-DLT-is-becoming-mainstream-boosting-liquidity-transparency-and-mobility-across-capital-markets-Now",
-    "source": "@realallincrypto",
-    "published": "Sat Aug 15 2026 09:00:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Just one last chart before bed...\n\n30 minutes later:  🤔",
-    "link": "https://cryptopanic.com/news/33217126/Just-one-last-chart-before-bed-30-minutes-later",
-    "source": "@coinmarketcap",
-    "published": "Sat Aug 15 2026 09:00:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "DTCC Cleared Its Tokenization Trial. The IMF Wants Everyone to Slow Down.",
-    "link": "https://cryptopanic.com/news/33217096/DTCC-Cleared-Its-Tokenization-Trial-The-IMF-Wants-Everyone-to-Slow-Down",
-    "source": "coinpaprika.com",
-    "published": "Sat Aug 15 2026 09:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AI Red Team Finds Critical Flaws Across Bitcoin Software",
-    "link": "https://cryptopanic.com/news/33217092/AI-Red-Team-Finds-Critical-Flaws-Across-Bitcoin-Software",
-    "source": "catenaa.com",
-    "published": "Sat Aug 15 2026 09:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  SharpLink will stake $200M of Ethereum through Lido's wstETH, keeping the position liquid while Anchorage Digital custodies the tokens.",
-    "link": "https://cryptopanic.com/news/33217125/LATEST-SharpLink-will-stake-200M-of-Ethereum-through-Lidos-wstETH-keeping-the-position-liquid-while-Anchorage-Digital-custodies-the-tokens",
-    "source": "@coinmarketcap",
-    "published": "Sat Aug 15 2026 08:55:10 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
