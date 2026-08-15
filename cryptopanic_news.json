@@ -1,5 +1,26 @@
 [
   {
+    "title": "Read it",
+    "link": "https://cryptopanic.com/news/33217278/Read-it",
+    "source": "@cointelegraph",
+    "published": "Sat Aug 15 2026 10:35:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: Galaxy has slashed the CLARITY Act’s 2026 passage odds to just 10% due to unresolved issues and a tight Senate timeline.",
+    "link": "https://cryptopanic.com/news/33217279/NEW-Galaxy-has-slashed-the-CLARITY-Acts-2026-passage-odds-to-just-10-due-to-unresolved-issues-and-a-tight-Senate-timeline",
+    "source": "@cointelegraph",
+    "published": "Sat Aug 15 2026 10:35:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: President Trump is expected to attend next Wednesday's White House meeting with crypto CEOs including @Coinbase, @Ripple, @Gemini, @RobinhoodApp, @Polymarket and @Kalshi.",
+    "link": "https://cryptopanic.com/news/33217277/NEW-President-Trump-is-expected-to-attend-next-Wednesdays-White-House-meeting-with-crypto-CEOs-including-Coinbase-Ripple-Gemini-RobinhoodApp-Polymarket-and-Kalshi",
+    "source": "@coindesk",
+    "published": "Sat Aug 15 2026 10:18:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Galaxy Cuts CLARITY Act Odds to 10% as Senate Clock Runs Out",
     "link": "https://cryptopanic.com/news/33217213/Galaxy-Cuts-CLARITY-Act-Odds-to-10-as-Senate-Clock-Runs-Out",
     "source": "coindoo.com",
@@ -7,10 +28,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "LATEST: 🇺🇸 Mizuho cut its BitGo price target to $11 from $14 but kept its Outperform rating, saying Clarity Act delays could actually extend BitGo's regulatory head start over rivals.",
+    "link": "https://cryptopanic.com/news/33217276/LATEST-Mizuho-cut-its-BitGo-price-target-to-11-from-14-but-kept-its-Outperform-rating-saying-Clarity-Act-delays-could-actually-extend-BitGos-regulatory-head-start-over-rivals",
+    "source": "@coinmarketcap",
+    "published": "Sat Aug 15 2026 10:11:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "IBM + OpenAI are now working together and they both have very interesting crypto overlaps.\n\nIBM is embedding GPT-5.6, Codex and ChatGPT Work across enterprise operations. \n\nThis is @IBM who sits on @hedera's Council and previously built World Wire on @StellarOrg \n\nOpen AI",
     "link": "https://cryptopanic.com/news/33217215/IBM-OpenAI-are-now-working-together-and-they-both-have-very-interesting-crypto-overlaps-IBM-is-embedding-GPT-56-Codex-and-ChatGPT-Work-across-enterprise-operations-This-is-IBM-who-sits-on-hederas-Council-and-previously-built-World-Wire-on-StellarOrg-Open-AI",
     "source": "@realallincrypto",
     "published": "Sat Aug 15 2026 10:00:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cardano Prepares Major Node Changes as Dijkstra Era Takes Shape",
+    "link": "https://cryptopanic.com/news/33217286/Cardano-Prepares-Major-Node-Changes-as-Dijkstra-Era-Takes-Shape",
+    "source": "u.today",
+    "published": "Sat Aug 15 2026 10:00:20 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33217026/LATEST-Cboe-BZX-has-asked-the-SEC-to-approve-the-first-US-3x-leveraged-Bitcoin-and-Ethereum-ETFs-alongside-triple-leveraged-gold-silver-oil-and-gas-funds",
     "source": "@coinmarketcap",
     "published": "Sat Aug 15 2026 08:21:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Banking Giant Morgan Stanley Makes Bold XRP ETF Move in New 13F Filing",
-    "link": "https://cryptopanic.com/news/33217016/Banking-Giant-Morgan-Stanley-Makes-Bold-XRP-ETF-Move-in-New-13F-Filing",
-    "source": "coinpaper.com",
-    "published": "Sat Aug 15 2026 08:18:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Injective runs a real orderbook, not an AMM\n\n@Uniswap and most of DeFi price trades against a liquidity pool, which is why large orders slip and liquidity providers can lose money in a rising market.\n\n@Injective runs a central limit orderbook at the protocol level, the same",
-    "link": "https://cryptopanic.com/news/33217071/Injective-runs-a-real-orderbook-not-an-AMM-Uniswap-and-most-of-DeFi-price-trades-against-a-liquidity-pool-which-is-why-large-orders-slip-and-liquidity-providers-can-lose-money-in-a-rising-market-Injective-runs-a-central-limit-orderbook-at-the-protocol-level-the-same",
-    "source": "@bscnews",
-    "published": "Sat Aug 15 2026 08:12:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Chainlink strikes another partnership with Radiant Prime \n\nAs @chainlink continues to becoming the trust layer for tokenised finance, @RadiantPrimeXYZ is the latest to integrate with Chainlink's Proof of Reserve.\n\nThe partnership will allow smart contracts to verify the assets",
-    "link": "https://cryptopanic.com/news/33217070/Chainlink-strikes-another-partnership-with-Radiant-Prime-As-chainlink-continues-to-becoming-the-trust-layer-for-tokenised-finance-RadiantPrimeXYZ-is-the-latest-to-integrate-with-Chainlinks-Proof-of-Reserve-The-partnership-will-allow-smart-contracts-to-verify-the-assets",
-    "source": "@realallincrypto",
-    "published": "Sat Aug 15 2026 08:00:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Robinhood Adds Crypto Trading to Main UK Investment App",
-    "link": "https://cryptopanic.com/news/33216973/Robinhood-Adds-Crypto-Trading-to-Main-UK-Investment-App",
-    "source": "catenaa.com",
-    "published": "Sat Aug 15 2026 08:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "OpenAI faces executive turmoil as Altman reshuffles leadership ahead of $1T IPO",
-    "link": "https://cryptopanic.com/news/33216985/OpenAI-faces-executive-turmoil-as-Altman-reshuffles-leadership-ahead-of-1T-IPO",
-    "source": "cryptopolitan.com",
-    "published": "Sat Aug 15 2026 07:55:06 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
