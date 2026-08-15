@@ -1,5 +1,12 @@
 [
   {
+    "title": "North Korea’s Kimsuky Turns Local AI Into Crypto Attack Tool",
+    "link": "https://cryptopanic.com/news/33216792/North-Koreas-Kimsuky-Turns-Local-AI-Into-Crypto-Attack-Tool",
+    "source": "catenaa.com",
+    "published": "Sat Aug 15 2026 06:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Crypto ‘address misuse’ drained $574.8M in ETH and BNB — USENIX study",
     "link": "https://cryptopanic.com/news/33216732/Crypto-address-misuse-drained-5748M-in-ETH-and-BNB-USENIX-study",
     "source": "ambcrypto.com",
@@ -11,6 +18,13 @@
     "link": "https://cryptopanic.com/news/33216734/Bitcoin-erased-118-million-from-Abu-Dhabis-ETF-holdings-but-its-sovereign-funds-kept-every-share",
     "source": "cryptoslate.com",
     "published": "Sat Aug 15 2026 06:00:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Chainlink now secures $33.43 trillion in transaction value\n\nCCIP has moved $23.3 billion across chains and runs on 78 networks, with BitGo migrating its $7.7B WBTC treasury onto it this month.\n\n@LlamaRisk launched as the first automated risk oracle built on @chainlink, pushing",
+    "link": "https://cryptopanic.com/news/33216798/Chainlink-now-secures-3343-trillion-in-transaction-value-CCIP-has-moved-233-billion-across-chains-and-runs-on-78-networks-with-BitGo-migrating-its-77B-WBTC-treasury-onto-it-this-month-LlamaRisk-launched-as-the-first-automated-risk-oracle-built-on-chainlink-pushing",
+    "source": "@bscnews",
+    "published": "Sat Aug 15 2026 05:54:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33216223/So-far-the-initial-reaction-at-the-key-150-level-has-been-a-rejection-and-drop-of-as-much-as-95",
     "source": "@stackersatoshi",
     "published": "Sat Aug 15 2026 02:33:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Circle Issues $5.4 Billion USDC as Circulating Supply Rises by 100 Million",
-    "link": "https://cryptopanic.com/news/33216382/Circle-Issues-54-Billion-USDC-as-Circulating-Supply-Rises-by-100-Million",
-    "source": "square.binance.com",
-    "published": "Sat Aug 15 2026 02:33:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CITIC Securities: Fund Duration Extension Trade Continues, but Ultra-Long-End Risk-Reward Has Shifted",
-    "link": "https://cryptopanic.com/news/33216381/CITIC-Securities-Fund-Duration-Extension-Trade-Continues-but-Ultra-Long-End-Risk-Reward-Has-Shifted",
-    "source": "square.binance.com",
-    "published": "Sat Aug 15 2026 02:32:26 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
