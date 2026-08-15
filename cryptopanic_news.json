@@ -21,6 +21,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Fund Monetalis appears to have sold $UNI and bought $HYPE.\n\nWallets linked to #Monetalis sold 3.72M $UNI($13M) through Cumberland, then bought 171,543 $HYPE($9.56M).",
+    "link": "https://cryptopanic.com/news/33216068/Fund-Monetalis-appears-to-have-sold-UNI-and-bought-HYPE-Wallets-linked-to-Monetalis-sold-372M-UNI13M-through-Cumberland-then-bought-171543-HYPE956M",
+    "source": "@lookonchain",
+    "published": "Sat Aug 15 2026 01:26:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST:  A new quarterly filing from JPMorgan shows it increased its BlackRock Bitcoin ETF stake by 25% to 10.4M shares while more than quadrupling its Ethereum ETF position to 1.17M shares.",
     "link": "https://cryptopanic.com/news/33216044/LATEST-A-new-quarterly-filing-from-JPMorgan-shows-it-increased-its-BlackRock-Bitcoin-ETF-stake-by-25-to-104M-shares-while-more-than-quadrupling-its-Ethereum-ETF-position-to-117M-shares",
     "source": "@coinmarketcap",
@@ -200,13 +207,6 @@
     "link": "https://cryptopanic.com/news/33215774/UPDATE-Ivan-on-Tech-says-Cardano-ADAs-tech-is-very-good-its-peer-reviewed-unfortunately-no-transactions",
     "source": "@angrycryptoshow",
     "published": "Fri Aug 14 2026 22:48:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Here's what Polygon's $POL token is actually used for...\n\n- $POL serves as the base native asset required to pay transaction and gas fees on the @0xPolygon network.\n\n- It is staked directly by network validators to secure the PoS consensus mechanism. Validators must lock $POL as",
-    "link": "https://cryptopanic.com/news/33215683/Heres-what-Polygons-POL-token-is-actually-used-for-POL-serves-as-the-base-native-asset-required-to-pay-transaction-and-gas-fees-on-the-0xPolygon-network-It-is-staked-directly-by-network-validators-to-secure-the-PoS-consensus-mechanism-Validators-must-lock-POL-as",
-    "source": "@bscnews",
-    "published": "Fri Aug 14 2026 22:45:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
