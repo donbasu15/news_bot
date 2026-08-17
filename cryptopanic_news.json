@@ -1,9 +1,23 @@
 [
   {
+    "title": "NEW: OpenAI has reportedly disbanded its preparedness team, which assessed whether its models could pose catastrophic risks, per FT.",
+    "link": "https://cryptopanic.com/news/33221484/NEW-OpenAI-has-reportedly-disbanded-its-preparedness-team-which-assessed-whether-its-models-could-pose-catastrophic-risks-per-FT",
+    "source": "@cointelegraph",
+    "published": "Mon Aug 17 2026 00:40:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Whales keep buying $ETH.\n\nWhale 0x8447 withdrew another 5,300 $ETH ($9.98M) from Kraken 8 hours ago.",
     "link": "https://cryptopanic.com/news/33221433/Whales-keep-buying-ETH-Whale-0x8447-withdrew-another-5300-ETH-998M-from-Kraken-8-hours-ago",
     "source": "@lookonchain",
     "published": "Mon Aug 17 2026 00:25:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "TODAY: Coinbase CEO Brian Armstrong argues agents need programmable, global, low-fee money to operate, declaring \"crypto is the currency of AiFi (agentic finance).\"",
+    "link": "https://cryptopanic.com/news/33221483/TODAY-Coinbase-CEO-Brian-Armstrong-argues-agents-need-programmable-global-low-fee-money-to-operate-declaring-crypto-is-the-currency-of-AiFi-agentic-finance",
+    "source": "@cointelegraph",
+    "published": "Mon Aug 17 2026 00:20:44 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33221056/Solana-adds-378M-in-tokenized-T-bills-Is-Ethereum-losing-ground",
     "source": "ambcrypto.com",
     "published": "Sun Aug 16 2026 21:00:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "This is why @StellarOrg keeps winning institutional attention.\n\nMoney can move in seconds, fees are practically nothing, costs don’t suddenly explode when things get busy, and businesses get the controls they need to operate safely. $XLM",
-    "link": "https://cryptopanic.com/news/33221084/This-is-why-StellarOrg-keeps-winning-institutional-attention-Money-can-move-in-seconds-fees-are-practically-nothing-costs-dont-suddenly-explode-when-things-get-busy-and-businesses-get-the-controls-they-need-to-operate-safely-XLM",
-    "source": "@realallincrypto",
-    "published": "Sun Aug 16 2026 21:00:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "WARNING: SafePal says a flaw exposed data of nearly 40,000 customers, but no private keys or seed phrases were compromised.",
-    "link": "https://cryptopanic.com/news/33220991/WARNING-SafePal-says-a-flaw-exposed-data-of-nearly-40000-customers-but-no-private-keys-or-seed-phrases-were-compromised",
-    "source": "@cointelegraph",
-    "published": "Sun Aug 16 2026 20:30:33 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
