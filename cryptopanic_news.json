@@ -1,5 +1,54 @@
 [
   {
+    "title": "UPDATE: Cardano $ADA's Ouroboros Leios advances closer to mainnet with prototype upgrades: \"The node now generates and sends endorser-block announcements to peers, the first step towards full announcement-based diffusion.\" IOG is targeting a mainnet hard fork by the end of 2026.",
+    "link": "https://cryptopanic.com/news/33227196/UPDATE-Cardano-ADAs-Ouroboros-Leios-advances-closer-to-mainnet-with-prototype-upgrades-The-node-now-generates-and-sends-endorser-block-announcements-to-peers-the-first-step-towards-full-announcement-based-diffusion-IOG-is-targeting-a-mainnet-hard-fork-by-the-end-of-2026",
+    "source": "@angrycryptoshow",
+    "published": "Mon Aug 17 2026 21:48:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Compound bets $52M on institutional pivot as COMP jumps 10%",
+    "link": "https://cryptopanic.com/news/33227189/Compound-bets-52M-on-institutional-pivot-as-COMP-jumps-10",
+    "source": "cryptopolitan.com",
+    "published": "Mon Aug 17 2026 21:45:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "It's never too late to get into Bitcoin",
+    "link": "https://cryptopanic.com/news/33227176/Its-never-too-late-to-get-into-Bitcoin",
+    "source": "@bitcoinmagazine",
+    "published": "Mon Aug 17 2026 21:41:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Solana ETFs pulled in $10.26M last week, their strongest week since May.",
+    "link": "https://cryptopanic.com/news/33227194/LATEST-Solana-ETFs-pulled-in-1026M-last-week-their-strongest-week-since-May",
+    "source": "@coinmarketcap",
+    "published": "Mon Aug 17 2026 21:41:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: The U.S. 30-year Treasury yield has hit 5.30% for the first time since 2007",
+    "link": "https://cryptopanic.com/news/33227198/JUST-IN-The-US-30-year-Treasury-yield-has-hit-530-for-the-first-time-since-2007",
+    "source": "@cryptonwsuk",
+    "published": "Mon Aug 17 2026 21:36:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trump-backed World Liberty Financial is collaborating with a Hong Kong-based venture offering AI models developed by Chinese companies flagged by the US administration over national security concerns",
+    "link": "https://cryptopanic.com/news/33227201/Trump-backed-World-Liberty-Financial-is-collaborating-with-a-Hong-Kong-based-venture-offering-AI-models-developed-by-Chinese-companies-flagged-by-the-US-administration-over-national-security-concerns",
+    "source": "@reutersbiz",
+    "published": "Mon Aug 17 2026 21:36:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 Nasdaq to launch overnight stock trading from 9 PM to 4 AM ET in December.",
+    "link": "https://cryptopanic.com/news/33227197/JUST-IN-Nasdaq-to-launch-overnight-stock-trading-from-9-PM-to-4-AM-ET-in-December",
+    "source": "@cryptonwsuk",
+    "published": "Mon Aug 17 2026 21:36:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Crypto miner warns of potential bankruptcy as unclosed financing leaves $33 million in maturing debt exposed",
     "link": "https://cryptopanic.com/news/33227164/Crypto-miner-warns-of-potential-bankruptcy-as-unclosed-financing-leaves-33-million-in-maturing-debt-exposed",
     "source": "cryptoslate.com",
@@ -18,6 +67,27 @@
     "link": "https://cryptopanic.com/news/33227173/Bitcoin-Could-Become-the-SampP-500-Of-The-Future-Thanks-to-AI-Development-Macro-Veteran-Jordi-Visser-Says",
     "source": "feeds2.benzinga.com",
     "published": "Mon Aug 17 2026 21:31:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: Kraken parent Payward has joined Anthropic’s Project Glasswing and is integrating Mythos 5 into its cybersecurity defenses.",
+    "link": "https://cryptopanic.com/news/33227199/LATEST-Kraken-parent-Payward-has-joined-Anthropics-Project-Glasswing-and-is-integrating-Mythos-5-into-its-cybersecurity-defenses",
+    "source": "@cointelegraph",
+    "published": "Mon Aug 17 2026 21:30:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Top US Stock Picks From Warren Buffett Successor Greg Abel",
+    "link": "https://cryptopanic.com/news/33227195/Top-US-Stock-Picks-From-Warren-Buffett-Successor-Greg-Abel",
+    "source": "beincrypto.com",
+    "published": "Mon Aug 17 2026 21:27:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Pirated copies of Nolan's Odyssey could steal your funds",
+    "link": "https://cryptopanic.com/news/33227191/Pirated-copies-of-Nolans-Odyssey-could-steal-your-funds",
+    "source": "thestreet.com",
+    "published": "Mon Aug 17 2026 21:25:32 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/33227143/Kraken-operator-joins-Anthropics-Project-Glasswing-for-access-to-restricted-Mythos-5-AI-krakenfx-operator-Payward-said-that-it-has-joined-Project-Glasswing-AnthropicAIs-initiative-to-secure-critical-software-gaining-access-to-Claude-Mythos-5-a-restricted-model-the",
     "source": "@bscnews",
     "published": "Mon Aug 17 2026 20:53:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Gold is making another attempt to break through this area of resistance after multiple small rejections last week.",
-    "link": "https://cryptopanic.com/news/33227066/Gold-is-making-another-attempt-to-break-through-this-area-of-resistance-after-multiple-small-rejections-last-week",
-    "source": "@stackersatoshi",
-    "published": "Mon Aug 17 2026 20:49:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Canadian dollar hits two-week high as inflation accelerates",
-    "link": "https://cryptopanic.com/news/33227105/Canadian-dollar-hits-two-week-high-as-inflation-accelerates",
-    "source": "@reutersbiz",
-    "published": "Mon Aug 17 2026 20:45:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 Nasdaq officially begins talks with regulators to enable 24-hour stock trading.",
-    "link": "https://cryptopanic.com/news/33227062/JUST-IN-Nasdaq-officially-begins-talks-with-regulators-to-enable-24-hour-stock-trading",
-    "source": "@watcherguru",
-    "published": "Mon Aug 17 2026 20:41:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: $20B Graham Capital sold 75% of its Bitcoin ETF position in 2Q \n\nNow holds $9M of $IBIT BTC ETF",
-    "link": "https://cryptopanic.com/news/33227065/BREAKING-20B-Graham-Capital-sold-75-of-its-Bitcoin-ETF-position-in-2Q-Now-holds-9M-of-IBIT-BTC-ETF",
-    "source": "@btc_archive",
-    "published": "Mon Aug 17 2026 20:40:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 Nasdaq to launch overnight stock trading from 9 PM to 4 AM ET in December.",
-    "link": "https://cryptopanic.com/news/33227060/JUST-IN-Nasdaq-to-launch-overnight-stock-trading-from-9-PM-to-4-AM-ET-in-December",
-    "source": "@watcherguru",
-    "published": "Mon Aug 17 2026 20:36:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Venice Token leads daily gainers as co-founder reports $100 million in annualized revenue\n\nVenice Token base:0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf rose about 7% to $12.64 today, topping CoinMarketCap's daily gainers among major tokens with volume up over 140%. The move",
-    "link": "https://cryptopanic.com/news/33227023/Venice-Token-leads-daily-gainers-as-co-founder-reports-100-million-in-annualized-revenue-Venice-Token-base0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf-rose-about-7-to-1264-today-topping-CoinMarketCaps-daily-gainers-among-major-tokens-with-volume-up-over-140-The-move",
-    "source": "@bscnews",
-    "published": "Mon Aug 17 2026 20:36:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ETH Is a Better Bet Than BTC, Prominent Trader Argues: Bitcoin Just Needs to Break $65,000 First",
-    "link": "https://cryptopanic.com/news/33227020/ETH-Is-a-Better-Bet-Than-BTC-Prominent-Trader-Argues-Bitcoin-Just-Needs-to-Break-65000-First",
-    "source": "feeds2.benzinga.com",
-    "published": "Mon Aug 17 2026 20:31:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Treasury Proposes Rules Defining Who Can Legally Sell Stablecoins in US",
-    "link": "https://cryptopanic.com/news/33226964/Treasury-Proposes-Rules-Defining-Who-Can-Legally-Sell-Stablecoins-in-US",
-    "source": "decrypt.co",
-    "published": "Mon Aug 17 2026 20:31:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump to Meet Crypto and Prediction Market CEOs This Week: What It Means",
-    "link": "https://cryptopanic.com/news/33226943/Trump-to-Meet-Crypto-and-Prediction-Market-CEOs-This-Week-What-It-Means",
-    "source": "coincu.com",
-    "published": "Mon Aug 17 2026 20:31:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Ethereum is considering Hegotá upgrades to improve privacy and censorship resistance, including self-funded privacy transactions.",
-    "link": "https://cryptopanic.com/news/33226942/UPDATE-Ethereum-is-considering-Hegota-upgrades-to-improve-privacy-and-censorship-resistance-including-self-funded-privacy-transactions",
-    "source": "@cointelegraph",
-    "published": "Mon Aug 17 2026 20:30:46 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
