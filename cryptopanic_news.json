@@ -1,5 +1,26 @@
 [
   {
+    "title": "Not that atypical: OpenAI president Brockman dismisses executive exodus",
+    "link": "https://cryptopanic.com/news/33226618/Not-that-atypical-OpenAI-president-Brockman-dismisses-executive-exodus",
+    "source": "cryptopolitan.com",
+    "published": "Mon Aug 17 2026 18:50:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Wall Street Is Locked and Loaded on Crypto… It’s Not If, It’s When",
+    "link": "https://cryptopanic.com/news/33226574/Wall-Street-Is-Locked-and-Loaded-on-Crypto-Its-Not-If-Its-When",
+    "source": "MilkRoadYoutube",
+    "published": "Mon Aug 17 2026 18:45:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Bitcoin held on exchanges has risen by about 28,000 BTC in under three weeks to its highest level since June 15, per Santiment.",
+    "link": "https://cryptopanic.com/news/33226632/LATEST-Bitcoin-held-on-exchanges-has-risen-by-about-28000-BTC-in-under-three-weeks-to-its-highest-level-since-June-15-per-Santiment",
+    "source": "@coinmarketcap",
+    "published": "Mon Aug 17 2026 18:41:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "BREAKING: $28B Schonfeld Advisors SOLD 20% of its Bitcoin ETF holdings in Q2.\n\nPosition drops to $384M",
     "link": "https://cryptopanic.com/news/33226585/BREAKING-28B-Schonfeld-Advisors-SOLD-20-of-its-Bitcoin-ETF-holdings-in-Q2-Position-drops-to-384M",
     "source": "@btc_archive",
@@ -18,6 +39,13 @@
     "link": "https://cryptopanic.com/news/33226501/Solanas-Pump-Token-Leads-Crypto-Market-Gainers-as-Chart-Paints-Golden-Cross",
     "source": "@decryptmedia",
     "published": "Mon Aug 17 2026 18:31:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INSIGHT: The tokenized RWA market has grown to $44.7B, with Ethereum leading at $23.3B, per Token Terminal.",
+    "link": "https://cryptopanic.com/news/33226635/INSIGHT-The-tokenized-RWA-market-has-grown-to-447B-with-Ethereum-leading-at-233B-per-Token-Terminal",
+    "source": "@cointelegraph",
+    "published": "Mon Aug 17 2026 18:30:48 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33226355/JUST-IN-US-30-year-bond-yield-reaches-highest-level-in-over-19-years",
     "source": "@watcherguru",
     "published": "Mon Aug 17 2026 17:46:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stripe Is Acquiring AI Router OpenRouter for +$8B",
-    "link": "https://cryptopanic.com/news/33226309/Stripe-Is-Acquiring-AI-Router-OpenRouter-for-8B",
-    "source": "bankless.com",
-    "published": "Mon Aug 17 2026 17:45:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Musk is putting Dogecoin on the moon in 28 days, here's what $1,000 then is worth today",
-    "link": "https://cryptopanic.com/news/33226383/Musk-is-putting-Dogecoin-on-the-moon-in-28-days-heres-what-1000-then-is-worth-today",
-    "source": "thestreet.com",
-    "published": "Mon Aug 17 2026 17:43:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "U.S. Treasury Department Issues Official Announcement on the Country’s Second Most Important Cryptocurrency Law—Key Dates Revealed",
-    "link": "https://cryptopanic.com/news/33226445/US-Treasury-Department-Issues-Official-Announcement-on-the-Countrys-Second-Most-Important-Cryptocurrency-LawKey-Dates-Revealed",
-    "source": "r/hedera",
-    "published": "Mon Aug 17 2026 17:41:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cap goes live on LayerZero's OVault for cross-chain stablecoin staking\n\nStablecoin credit protocol Cap (@CapApp) launched on LayerZero's OVault, letting users deposit cUSD and stake into yield-bearing stcUSD from any supported chain without manual bridging. The integration covers",
-    "link": "https://cryptopanic.com/news/33226318/Cap-goes-live-on-LayerZeros-OVault-for-cross-chain-stablecoin-staking-Stablecoin-credit-protocol-Cap-CapApp-launched-on-LayerZeros-OVault-letting-users-deposit-cUSD-and-stake-into-yield-bearing-stcUSD-from-any-supported-chain-without-manual-bridging-The-integration-covers",
-    "source": "@bscnews",
-    "published": "Mon Aug 17 2026 17:39:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
