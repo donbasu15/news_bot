@@ -1,5 +1,40 @@
 [
   {
+    "title": "S17 E38: Keagan McClellan (Keags) on Lightning Metrics, Covenants, Consensus Politics & Verifying Bitcoin",
+    "link": "https://cryptopanic.com/news/33227475/S17-E38-Keagan-McClellan-Keags-on-Lightning-Metrics-Covenants-Consensus-Politics-Verifying-Bitcoin",
+    "source": "BitcoinTakeover",
+    "published": "Mon Aug 17 2026 23:37:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Kraken Parent Payward Joins Anthropic Project Glasswing for AI Security",
+    "link": "https://cryptopanic.com/news/33227470/Kraken-Parent-Payward-Joins-Anthropic-Project-Glasswing-for-AI-Security",
+    "source": "coincu.com",
+    "published": "Mon Aug 17 2026 23:36:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 NEW: Nasdaq plans to add overnight trading from 9 PM to 4 AM ET starting in December.",
+    "link": "https://cryptopanic.com/news/33227459/NEW-Nasdaq-plans-to-add-overnight-trading-from-9-PM-to-4-AM-ET-starting-in-December",
+    "source": "@cointelegraph",
+    "published": "Mon Aug 17 2026 23:30:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: ️ Dutch prosecutors sold $2.5M in seized crypto from bankrupt platform Knaken, according to trustee Carl Hamm, with the proceeds going to creditors.",
+    "link": "https://cryptopanic.com/news/33227455/LATEST-Dutch-prosecutors-sold-25M-in-seized-crypto-from-bankrupt-platform-Knaken-according-to-trustee-Carl-Hamm-with-the-proceeds-going-to-creditors",
+    "source": "@coinmarketcap",
+    "published": "Mon Aug 17 2026 23:25:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Algorand's \"biggest upgrade since staking rewards\" is about to hit the road.\n\nFour days ago, @Algorand released its v5.0.0 upgrade, expected to bring several major improvements across...\n\n- Increased smart contract size through expanded AVM.\n- Introduction of post-quantum",
+    "link": "https://cryptopanic.com/news/33227478/Algorands-biggest-upgrade-since-staking-rewards-is-about-to-hit-the-road-Four-days-ago-Algorand-released-its-v500-upgrade-expected-to-bring-several-major-improvements-across-Increased-smart-contract-size-through-expanded-AVM-Introduction-of-post-quantum",
+    "source": "@bscnews",
+    "published": "Mon Aug 17 2026 23:19:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "IREN’s $9.7B Microsoft AI deal hits first major milestone",
     "link": "https://cryptopanic.com/news/33227426/IRENs-97B-Microsoft-AI-deal-hits-first-major-milestone",
     "source": "cryptopolitan.com",
@@ -35,10 +70,38 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Read more",
+    "link": "https://cryptopanic.com/news/33227457/Read-more",
+    "source": "@cointelegraph",
+    "published": "Mon Aug 17 2026 23:00:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 UPDATE: The OCC conditionally approved Trump-linked WLFI for a national trust bank charter to issue USD1 and custody digital assets.",
+    "link": "https://cryptopanic.com/news/33227458/UPDATE-The-OCC-conditionally-approved-Trump-linked-WLFI-for-a-national-trust-bank-charter-to-issue-USD1-and-custody-digital-assets",
+    "source": "@cointelegraph",
+    "published": "Mon Aug 17 2026 23:00:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Crypto loans decline 16% in Q2 – Is the lending market resetting?",
     "link": "https://cryptopanic.com/news/33227404/Crypto-loans-decline-16-in-Q2-Is-the-lending-market-resetting",
     "source": "ambcrypto.com",
     "published": "Mon Aug 17 2026 23:00:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "TRON is absolutely dominating stablecoin growth right now.\n\nStablecoins on @trondao added $1 BILLION in just 7 days, more than 10× any other chain, according to @tokenterminal. $TRX",
+    "link": "https://cryptopanic.com/news/33227477/TRON-is-absolutely-dominating-stablecoin-growth-right-now-Stablecoins-on-trondao-added-1-BILLION-in-just-7-days-more-than-10-any-other-chain-according-to-tokenterminal-TRX",
+    "source": "@realallincrypto",
+    "published": "Mon Aug 17 2026 23:00:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇦🇹 Austria's FMA fined Bitpanda €70,000 for breaching MiCA white paper and marketing rules, marking the regulator's first published penalty under the law.",
+    "link": "https://cryptopanic.com/news/33227454/LATEST-Austrias-FMA-fined-Bitpanda-70000-for-breaching-MiCA-white-paper-and-marketing-rules-marking-the-regulators-first-published-penalty-under-the-law",
+    "source": "@coinmarketcap",
+    "published": "Mon Aug 17 2026 22:53:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -144,69 +207,6 @@
     "link": "https://cryptopanic.com/news/33227265/Minnesota-Says-xAIs-Grok-Created-Marketplace-for-Digital-Sexual-Violence",
     "source": "decrypt.co",
     "published": "Mon Aug 17 2026 22:16:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: #Cardano $ADA 24h trade volume reached as high as $230,000,000 according to CoinGecko.",
-    "link": "https://cryptopanic.com/news/33227366/JUST-IN-Cardano-ADA-24h-trade-volume-reached-as-high-as-230000000-according-to-CoinGecko",
-    "source": "@angrycryptoshow",
-    "published": "Mon Aug 17 2026 22:12:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Serve Robotics adds Grubhub to delivery network after Uber Eats split",
-    "link": "https://cryptopanic.com/news/33227252/Serve-Robotics-adds-Grubhub-to-delivery-network-after-Uber-Eats-split",
-    "source": "cryptopolitan.com",
-    "published": "Mon Aug 17 2026 22:10:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Harvard invest $2B+ in $SPCX! \n\nUntil this news we were unaware Harvard was running a mega investment fund! \n\nHarvard’s endowment is worth about $57B, and it has now disclosed a $2.2B SpaceX stake, nearly 4% of the entire fund. \n\nHarvard has invested in $BTC too, its",
-    "link": "https://cryptopanic.com/news/33227245/Harvard-invest-2B-in-SPCX-Until-this-news-we-were-unaware-Harvard-was-running-a-mega-investment-fund-Harvards-endowment-is-worth-about-57B-and-it-has-now-disclosed-a-22B-SpaceX-stake-nearly-4-of-the-entire-fund-Harvard-has-invested-in-BTC-too-its",
-    "source": "@realallincrypto",
-    "published": "Mon Aug 17 2026 22:00:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Unitree’s new “Superman” robot reportedly beats human standing-jump and running-speed records.",
-    "link": "https://cryptopanic.com/news/33227200/NEW-Unitrees-new-Superman-robot-reportedly-beats-human-standing-jump-and-running-speed-records",
-    "source": "@cointelegraph",
-    "published": "Mon Aug 17 2026 22:00:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Money Printer Is Surging and Bitcoin Won't Move — What's Really Going On?",
-    "link": "https://cryptopanic.com/news/33227230/The-Money-Printer-Is-Surging-and-Bitcoin-Wont-Move-Whats-Really-Going-On",
-    "source": "SimplyBitcoin",
-    "published": "Mon Aug 17 2026 21:59:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cursor launches Origin code hosting platform in beta to challenge GitHub\n\n@cursor_ai began rolling out Origin, its own code hosting platform, in beta today. The AI coding firm pitched the service as fast and deeply integrated with its editor, with onboarding built around syncing",
-    "link": "https://cryptopanic.com/news/33227247/Cursor-launches-Origin-code-hosting-platform-in-beta-to-challenge-GitHub-cursor_ai-began-rolling-out-Origin-its-own-code-hosting-platform-in-beta-today-The-AI-coding-firm-pitched-the-service-as-fast-and-deeply-integrated-with-its-editor-with-onboarding-built-around-syncing",
-    "source": "@bscnews",
-    "published": "Mon Aug 17 2026 21:57:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Aave Moves to Pull the Plug on Its Aptos Bug Bounty",
-    "link": "https://cryptopanic.com/news/33227202/Aave-Moves-to-Pull-the-Plug-on-Its-Aptos-Bug-Bounty",
-    "source": "coindoo.com",
-    "published": "Mon Aug 17 2026 21:57:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Cardano $ADA's Ouroboros Leios advances closer to mainnet with prototype upgrades: \"The node now generates and sends endorser-block announcements to peers, the first step towards full announcement-based diffusion.\" IOG is targeting a mainnet hard fork by the end of 2026.",
-    "link": "https://cryptopanic.com/news/33227196/UPDATE-Cardano-ADAs-Ouroboros-Leios-advances-closer-to-mainnet-with-prototype-upgrades-The-node-now-generates-and-sends-endorser-block-announcements-to-peers-the-first-step-towards-full-announcement-based-diffusion-IOG-is-targeting-a-mainnet-hard-fork-by-the-end-of-2026",
-    "source": "@angrycryptoshow",
-    "published": "Mon Aug 17 2026 21:48:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Compound bets $52M on institutional pivot as COMP jumps 10%",
-    "link": "https://cryptopanic.com/news/33227189/Compound-bets-52M-on-institutional-pivot-as-COMP-jumps-10",
-    "source": "cryptopolitan.com",
-    "published": "Mon Aug 17 2026 21:45:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
