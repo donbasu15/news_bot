@@ -1,9 +1,107 @@
 [
   {
+    "title": "Markets Confident OpenAI Releases Its Next AI Model in Weeks",
+    "link": "https://cryptopanic.com/news/33232698/Markets-Confident-OpenAI-Releases-Its-Next-AI-Model-in-Weeks",
+    "source": "decrypt.co",
+    "published": "Tue Aug 18 2026 19:15:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Most tokenized assets sit on chains investors cannot trade on\n\nRepresented assets, which use a chain only as a recordkeeping layer, total $345.33B, @CantonNetwork accounts for $306.6B of that. Distributed assets, which investors hold and move through their own wallets, total",
+    "link": "https://cryptopanic.com/news/33232699/Most-tokenized-assets-sit-on-chains-investors-cannot-trade-on-Represented-assets-which-use-a-chain-only-as-a-recordkeeping-layer-total-34533B-CantonNetwork-accounts-for-3066B-of-that-Distributed-assets-which-investors-hold-and-move-through-their-own-wallets-total",
+    "source": "@bscnews",
+    "published": "Tue Aug 18 2026 19:11:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Top 8 DEXs to trade on in August 2026",
+    "link": "https://cryptopanic.com/news/33232688/Top-8-DEXs-to-trade-on-in-August-2026",
+    "source": "ambcrypto.com",
+    "published": "Tue Aug 18 2026 19:10:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Justin Sun calls HTX address-poisoning reports ‘made up’",
+    "link": "https://cryptopanic.com/news/33232701/Justin-Sun-calls-HTX-address-poisoning-reports-made-up",
+    "source": "cryptopolitan.com",
+    "published": "Tue Aug 18 2026 19:10:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$PUMP Buyback Position Back in Profit After 9 Months Underwater",
+    "link": "https://cryptopanic.com/news/33232222/PUMP-Buyback-Position-Back-in-Profit-After-9-Months-Underwater",
+    "source": "solanafloor.com",
+    "published": "Tue Aug 18 2026 19:08:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin ETF flows jumped by $137 million, but it only recouped a third of recent losses",
+    "link": "https://cryptopanic.com/news/33232680/Bitcoin-ETF-flows-jumped-by-137-million-but-it-only-recouped-a-third-of-recent-losses",
+    "source": "cryptoslate.com",
+    "published": "Tue Aug 18 2026 19:05:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Binance Helped Russia Target a Possible EU Resident Over Ukraine Aid",
+    "link": "https://cryptopanic.com/news/33232682/Binance-Helped-Russia-Target-a-Possible-EU-Resident-Over-Ukraine-Aid",
+    "source": "dailycoin.com",
+    "published": "Tue Aug 18 2026 19:05:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cardano’s ADA Displays 3 Key Warning Signals as Market Attempts to Stabilize",
+    "link": "https://cryptopanic.com/news/33232690/Cardanos-ADA-Displays-3-Key-Warning-Signals-as-Market-Attempts-to-Stabilize",
+    "source": "zycrypto.com",
+    "published": "Tue Aug 18 2026 19:02:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$ONDO Stocks hits MASSIVE $1B TVL milestone!\n\n@Ondo Stocks has crossed $1 BILLION in TVL, with $27B in total volume across 440+ tokenised stocks and ETFs.\n\nIt has also scaled to 200k+ holders, USDY is now at $2.15B, and transfers jumped 25% in a month.",
+    "link": "https://cryptopanic.com/news/33232695/ONDO-Stocks-hits-MASSIVE-1B-TVL-milestone-Ondo-Stocks-has-crossed-1-BILLION-in-TVL-with-27B-in-total-volume-across-440-tokenised-stocks-and-ETFs-It-has-also-scaled-to-200k-holders-USDY-is-now-at-215B-and-transfers-jumped-25-in-a-month",
+    "source": "@realallincrypto",
+    "published": "Tue Aug 18 2026 19:00:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Breaking: China Just Sent A Massive Bitcoin Warning At America!!! | Ep 1572",
+    "link": "https://cryptopanic.com/news/33231747/BREAKING-CHINA-JUST-SENT-A-MASSIVE-BITCOIN-WARNING-AT-AMERICA-EP-1572",
+    "source": "SimplyBitcoin",
+    "published": "Tue Aug 18 2026 18:58:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Wyoming joins $15 billion LayerZero exodus with state stablecoin move",
+    "link": "https://cryptopanic.com/news/33232693/Wyoming-joins-15-billion-LayerZero-exodus-with-state-stablecoin-move",
+    "source": "coindesk.com",
+    "published": "Tue Aug 18 2026 18:57:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BitBox disclosed two severe firmware flaws in its hardware wallets\n\nThe Zurich company said that internal audits, which included frontier AI models, found a memory-corruption issue on Multi edition devices and a bootloader weakness more serious than described in July. A third",
+    "link": "https://cryptopanic.com/news/33232697/BitBox-disclosed-two-severe-firmware-flaws-in-its-hardware-wallets-The-Zurich-company-said-that-internal-audits-which-included-frontier-AI-models-found-a-memory-corruption-issue-on-Multi-edition-devices-and-a-bootloader-weakness-more-serious-than-described-in-July-A-third",
+    "source": "@bscnews",
+    "published": "Tue Aug 18 2026 18:55:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Stock Market Today: S&P 500 Falls as Chip Rout, Treasury Yields Pressure Wall Street",
+    "link": "https://cryptopanic.com/news/33232641/Stock-Market-Today-SP-500-Falls-as-Chip-Rout-Treasury-Yields-Pressure-Wall-Street",
+    "source": "coinpaper.com",
+    "published": "Tue Aug 18 2026 18:52:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin correction may be nearing an end with 8 of 12 capitulation signals flashing, VanEck says",
     "link": "https://cryptopanic.com/news/33232634/Bitcoin-correction-may-be-nearing-an-end-with-8-of-12-capitulation-signals-flashing-VanEck-says",
     "source": "theblock.co",
     "published": "Tue Aug 18 2026 18:49:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "How much gold and Bitcoin could Elon Musk buy with his entire fortune?",
+    "link": "https://cryptopanic.com/news/33232689/How-much-gold-and-Bitcoin-could-Elon-Musk-buy-with-his-entire-fortune",
+    "source": "thestreet.com",
+    "published": "Tue Aug 18 2026 18:48:28 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -42,6 +140,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Bitcoin whales added about 43,000 BTC over the past 60 days\n\nThe holdings are worth roughly $2.75B at current prices, per CryptoQuant, whose count excludes exchanges and mining pools. Buying resumed after months of selling, once the price settled near $60,000.\n\nTotal whale",
+    "link": "https://cryptopanic.com/news/33232696/Bitcoin-whales-added-about-43000-BTC-over-the-past-60-days-The-holdings-are-worth-roughly-275B-at-current-prices-per-CryptoQuant-whose-count-excludes-exchanges-and-mining-pools-Buying-resumed-after-months-of-selling-once-the-price-settled-near-60000-Total-whale",
+    "source": "@bscnews",
+    "published": "Tue Aug 18 2026 18:39:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Trump Family Crypto Firm Tied to Chinese AI Models US Government Called a Security Risk",
     "link": "https://cryptopanic.com/news/33232565/Trump-Family-Crypto-Firm-Tied-to-Chinese-AI-Models-US-Government-Called-a-Security-Risk",
     "source": "decrypt.co",
@@ -49,17 +154,17 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Full story",
-    "link": "https://cryptopanic.com/news/33232648/Full-story",
-    "source": "@coindesk",
-    "published": "Tue Aug 18 2026 18:33:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
     "title": "MARKETS: Traders are rotating into AI stocks, tokenized equities and prediction markets to find the swings bitcoin no longer offers.\n\nRead the full story from @OKnightCrypto on CoinDesk.",
     "link": "https://cryptopanic.com/news/33232647/MARKETS-Traders-are-rotating-into-AI-stocks-tokenized-equities-and-prediction-markets-to-find-the-swings-bitcoin-no-longer-offers-Read-the-full-story-from-OKnightCrypto-on-CoinDesk",
     "source": "@coindesk",
     "published": "Tue Aug 18 2026 18:33:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "China Triples e-CNY Operators as Eight New Banks Join Network",
+    "link": "https://cryptopanic.com/news/33232663/China-Triples-e-CNY-Operators-as-Eight-New-Banks-Join-Network",
+    "source": "cryptodnes.bg",
+    "published": "Tue Aug 18 2026 18:31:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -102,111 +207,6 @@
     "link": "https://cryptopanic.com/news/33232611/JUST-IN-VanEck-says-Bitcoin-capitulation-signals-at-full-force-BTC-wont-fall-as-low-during-this-cycle",
     "source": "@btc_archive",
     "published": "Tue Aug 18 2026 18:21:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$16 Billion Of Dubai’s Skyline Is Heading To The XRP Chain",
-    "link": "https://cryptopanic.com/news/33232516/16-Billion-Of-Dubais-Skyline-Is-Heading-To-The-XRP-Chain",
-    "source": "dailycoin.com",
-    "published": "Tue Aug 18 2026 18:21:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The coinbase $BTC discount has shrunk from -0.12% to -0.05% over the past 24 hours, indicating that US-based sell pressure has been easing.",
-    "link": "https://cryptopanic.com/news/33232613/The-coinbase-BTC-discount-has-shrunk-from-012-to-005-over-the-past-24-hours-indicating-that-US-based-sell-pressure-has-been-easing",
-    "source": "@stackersatoshi",
-    "published": "Tue Aug 18 2026 18:18:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Aave TVL still down 43% since KelpDAO hack",
-    "link": "https://cryptopanic.com/news/33232467/Aave-TVL-still-down-43-since-KelpDAO-hack",
-    "source": "protos.com",
-    "published": "Tue Aug 18 2026 18:13:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Ripple signed its third South Korean partnership of 2026, teaming up with Jeonbuk Bank for near-real-time cross-border payments.",
-    "link": "https://cryptopanic.com/news/33232451/LATEST-Ripple-signed-its-third-South-Korean-partnership-of-2026-teaming-up-with-Jeonbuk-Bank-for-near-real-time-cross-border-payments",
-    "source": "@coinmarketcap",
-    "published": "Tue Aug 18 2026 18:11:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "RLUSD accounts for 62% of tokenized assets on the XRP Ledger\n\nOndo ranks second at $212.9M with a 14.78% share, followed by VERT Capital at $116.1M and Archax at $55.4M.\n\n@Ripple's $RLUSD totals $898.8M, up 1.82% over 30 days. In the same period, Braza Crypto fell 49.5%, the",
-    "link": "https://cryptopanic.com/news/33232525/RLUSD-accounts-for-62-of-tokenized-assets-on-the-XRP-Ledger-Ondo-ranks-second-at-2129M-with-a-1478-share-followed-by-VERT-Capital-at-1161M-and-Archax-at-554M-Ripples-RLUSD-totals-8988M-up-182-over-30-days-In-the-same-period-Braza-Crypto-fell-495-the",
-    "source": "@bscnews",
-    "published": "Tue Aug 18 2026 18:08:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INSIGHT: Tom Lee says rising AI and robotics capabilities make crypto more relevant, with Ethereum his top L1 pick.",
-    "link": "https://cryptopanic.com/news/33232460/INSIGHT-Tom-Lee-says-rising-AI-and-robotics-capabilities-make-crypto-more-relevant-with-Ethereum-his-top-L1-pick",
-    "source": "@cointelegraph",
-    "published": "Tue Aug 18 2026 18:07:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 The White House to host a crypto summit tomorrow with crypto industry leaders",
-    "link": "https://cryptopanic.com/news/33232607/JUST-IN-The-White-House-to-host-a-crypto-summit-tomorrow-with-crypto-industry-leaders",
-    "source": "@bitcoinmagazine",
-    "published": "Tue Aug 18 2026 18:07:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Wallet Maker BitBox Says AI Found Severe Flaws in Firmware",
-    "link": "https://cryptopanic.com/news/33232426/Bitcoin-Wallet-Maker-BitBox-Says-AI-Found-Severe-Flaws-in-Firmware",
-    "source": "decrypt.co",
-    "published": "Tue Aug 18 2026 18:06:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Prediction Markets Assign 67-71% Odds to Fed Holding Rates Steady in September",
-    "link": "https://cryptopanic.com/news/33232436/Prediction-Markets-Assign-67-71-Odds-to-Fed-Holding-Rates-Steady-in-September",
-    "source": "dailyhodl.com",
-    "published": "Tue Aug 18 2026 18:05:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Breakingviews - The great bond tailwind for stocks is over",
-    "link": "https://cryptopanic.com/news/33232462/Breakingviews-The-great-bond-tailwind-for-stocks-is-over",
-    "source": "@reutersbiz",
-    "published": "Tue Aug 18 2026 18:01:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Aún en la pecera",
-    "link": "https://cryptopanic.com/news/33232432/Aun-en-la-pecera",
-    "source": "r/hedera",
-    "published": "Tue Aug 18 2026 18:01:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "38 million embedded wallets is real distribution if the integration lands. 🇰🇷",
-    "link": "https://cryptopanic.com/news/33232524/38-million-embedded-wallets-is-real-distribution-if-the-integration-lands",
-    "source": "@bscnews",
-    "published": "Tue Aug 18 2026 18:00:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stellar winning once again in real world payments!\n\nJust 2 months after launch, Zebec Enterprise already has 9 companies running USDC payroll on @StellarOrg now at a $4M annual run rate.\n\n$XLM is being used to pay salaries for eal businesses.",
-    "link": "https://cryptopanic.com/news/33232522/Stellar-winning-once-again-in-real-world-payments-Just-2-months-after-launch-Zebec-Enterprise-already-has-9-companies-running-USDC-payroll-on-StellarOrg-now-at-a-4M-annual-run-rate-XLM-is-being-used-to-pay-salaries-for-eal-businesses",
-    "source": "@realallincrypto",
-    "published": "Tue Aug 18 2026 18:00:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "\"We Are In The Final Stages Of Western Collapse\" | Barry Strauss",
-    "link": "https://cryptopanic.com/news/33232468/We-Are-In-The-Final-Stages-Of-Western-Collapse-Barry-Strauss",
-    "source": "whatbitcoindid",
-    "published": "Tue Aug 18 2026 18:00:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto industry hit by 3 hacks in 15 days",
-    "link": "https://cryptopanic.com/news/33232480/Crypto-industry-hit-by-3-hacks-in-15-days",
-    "source": "thestreet.com",
-    "published": "Tue Aug 18 2026 18:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
