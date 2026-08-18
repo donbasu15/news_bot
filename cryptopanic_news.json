@@ -1,5 +1,68 @@
 [
   {
+    "title": "Bitcoin Will Bottom Against Stocks Within 4 to 12 Weeks, Analyst Forecasts",
+    "link": "https://cryptopanic.com/news/33231238/Bitcoin-Will-Bottom-Against-Stocks-Within-4-to-12-Weeks-Analyst-Forecasts",
+    "source": "feeds2.benzinga.com",
+    "published": "Tue Aug 18 2026 14:07:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Polymarket Is Now Illegal in South Korea",
+    "link": "https://cryptopanic.com/news/33231163/Polymarket-Is-Now-Illegal-in-South-Korea",
+    "source": "dailycoin.com",
+    "published": "Tue Aug 18 2026 14:05:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Wallet Untouched for 15 Years Suddenly Springs to Life",
+    "link": "https://cryptopanic.com/news/33231132/Bitcoin-Wallet-Untouched-for-15-Years-Suddenly-Springs-to-Life",
+    "source": "decrypt.co",
+    "published": "Tue Aug 18 2026 14:03:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Baidu Q2 revenue slips 4% as ad decline outruns AI cloud gains",
+    "link": "https://cryptopanic.com/news/33231133/Baidu-Q2-revenue-slips-4-as-ad-decline-outruns-AI-cloud-gains",
+    "source": "cryptopolitan.com",
+    "published": "Tue Aug 18 2026 14:02:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP whales turn active with 280% surge – Can price reclaim $1?",
+    "link": "https://cryptopanic.com/news/33231118/XRP-whales-turn-active-with-280-surge-Can-price-reclaim-1",
+    "source": "ambcrypto.com",
+    "published": "Tue Aug 18 2026 14:00:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto News: Nasdaq Takes on Crypto With 23-Hour Stock Trading",
+    "link": "https://cryptopanic.com/news/33231096/Crypto-News-Nasdaq-Takes-on-Crypto-With-23-Hour-Stock-Trading",
+    "source": "thecoinrepublic.com",
+    "published": "Tue Aug 18 2026 14:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Falls Below $1 For First Time Since 2024",
+    "link": "https://cryptopanic.com/news/33231098/XRP-Falls-Below-1-For-First-Time-Since-2024",
+    "source": "cryptoprowl.com",
+    "published": "Tue Aug 18 2026 13:59:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "What happened to the Berachain ecosystem?\n\n@Berachain’s ecosystem numbers have been declining for months, with TVL, token price, and DEX volume dropping substantially. \n\nIn the last 30 days, TVL fell 36.3%, while DEX volume fell 48.5%. Year-over-year TVL fell by about 90%. There",
+    "link": "https://cryptopanic.com/news/33231088/What-happened-to-the-Berachain-ecosystem-Berachains-ecosystem-numbers-have-been-declining-for-months-with-TVL-token-price-and-DEX-volume-dropping-substantially-In-the-last-30-days-TVL-fell-363-while-DEX-volume-fell-485-Year-over-year-TVL-fell-by-about-90-There",
+    "source": "@bscnews",
+    "published": "Tue Aug 18 2026 13:58:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "China Takes the Digital Yuan Deeper Into Regional Banking",
+    "link": "https://cryptopanic.com/news/33231090/China-Takes-the-Digital-Yuan-Deeper-Into-Regional-Banking",
+    "source": "coindoo.com",
+    "published": "Tue Aug 18 2026 13:58:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Ripple in, Polymarket out in South Korea as market evolution continues",
     "link": "https://cryptopanic.com/news/33231036/Ripple-in-Polymarket-out-in-South-Korea-as-market-evolution-continues",
     "source": "cryptopolitan.com",
@@ -11,6 +74,13 @@
     "link": "https://cryptopanic.com/news/33231020/ETFs-Turned-Green-on-Aug-17-the-Trailing-Week-Did-Not-As-of-Aug-17-BTC-ETFs-1261M-price-269-ETH-ETFs-50M-price-204-The-session-snapped-two-days-of-outflows-but-the-trailing-seven-ETF-sessions-still-run-595M-BTC-carries-998M-of-that-ETH-is-the",
     "source": "@coinmarketcap",
     "published": "Tue Aug 18 2026 13:38:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Memory stocks are pulling back today after their recent pumps. It's time to see if this was just a recovery bounce or if these will be putting in higher lows to establish an uptrend.",
+    "link": "https://cryptopanic.com/news/33231205/Memory-stocks-are-pulling-back-today-after-their-recent-pumps-Its-time-to-see-if-this-was-just-a-recovery-bounce-or-if-these-will-be-putting-in-higher-lows-to-establish-an-uptrend",
+    "source": "@stackersatoshi",
+    "published": "Tue Aug 18 2026 13:37:38 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/33230843/Crypto-firms-are-struggling-in-South-Korea",
     "source": "protos.com",
     "published": "Tue Aug 18 2026 13:18:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "MoonPay integrates with Cash App Pay to make crypto purchases easier in the U.S. \n\nThe @MoonPay integration with @CashApp Pay lets customers in the United States buy crypto assets directly with their existing Cash App balance.\n\nThis new feature takes effect today, giving millions",
-    "link": "https://cryptopanic.com/news/33231084/MoonPay-integrates-with-Cash-App-Pay-to-make-crypto-purchases-easier-in-the-US-The-MoonPay-integration-with-CashApp-Pay-lets-customers-in-the-United-States-buy-crypto-assets-directly-with-their-existing-Cash-App-balance-This-new-feature-takes-effect-today-giving-millions",
-    "source": "@bscnews",
-    "published": "Tue Aug 18 2026 13:18:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AI Predicts XRP: Claude Makes a Prediction that May Anger the Ripple Maxis",
-    "link": "https://cryptopanic.com/news/33230810/AI-Predicts-XRP-Claude-Makes-a-Prediction-that-May-Anger-the-Ripple-Maxis",
-    "source": "cryptonews.com",
-    "published": "Tue Aug 18 2026 13:16:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UK retailer Frasers raises stake in Hugo Boss to nearly 48%",
-    "link": "https://cryptopanic.com/news/33231032/UK-retailer-Frasers-raises-stake-in-Hugo-Boss-to-nearly-48",
-    "source": "@reutersbiz",
-    "published": "Tue Aug 18 2026 13:15:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hyperliquid Policy Center and trade[XYZ] Urge SEC to Establish Pre-IPO Perpetuals Framework\n\nHyperliquid Policy Center and trade[XYZ], a Hyperliquid perpetual markets deployer, jointly submitted a comment letter to the U.S. SEC proposing a regulatory framework for pre-IPO",
-    "link": "https://cryptopanic.com/news/33231021/Hyperliquid-Policy-Center-and-tradeXYZ-Urge-SEC-to-Establish-Pre-IPO-Perpetuals-Framework-Hyperliquid-Policy-Center-and-tradeXYZ-a-Hyperliquid-perpetual-markets-deployer-jointly-submitted-a-comment-letter-to-the-US-SEC-proposing-a-regulatory-framework-for-pre-IPO",
-    "source": "@wublockchain",
-    "published": "Tue Aug 18 2026 13:12:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: New U.S. Bitcoin treasury just dropped. 🪙\n\nSuperplanet launches with 2,100 BTC. \n\nFunded & controlled by Japan’s Metaplanet.",
-    "link": "https://cryptopanic.com/news/33230868/JUST-IN-New-US-Bitcoin-treasury-just-dropped-Superplanet-launches-with-2100-BTC-Funded-amp-controlled-by-Japans-Metaplanet",
-    "source": "@btc_archive",
-    "published": "Tue Aug 18 2026 13:11:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Price Pinned as Jane Street Disclosed $1 Billion Stake",
-    "link": "https://cryptopanic.com/news/33230794/Bitcoin-Price-Pinned-as-Jane-Street-Disclosed-1-Billion-Stake",
-    "source": "coinspeaker.com",
-    "published": "Tue Aug 18 2026 13:09:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: $2.8T AUM @Citi plans to launch Bitcoin custody services through its Custody+ platform, offering 24/7 access, near-instant settlement and secure key management for institutional clients.",
-    "link": "https://cryptopanic.com/news/33231026/NEW-28T-AUM-Citi-plans-to-launch-Bitcoin-custody-services-through-its-Custody-platform-offering-247-access-near-instant-settlement-and-secure-key-management-for-institutional-clients",
-    "source": "@coindesk",
-    "published": "Tue Aug 18 2026 13:08:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Money Expo India 2026 Set to Bring Traders, Investors to Mumbai",
-    "link": "https://cryptopanic.com/news/33230846/Money-Expo-India-2026-Set-to-Bring-Traders-Investors-to-Mumbai",
-    "source": "sfctoday.com",
-    "published": "Tue Aug 18 2026 13:08:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Jane Street Holds $1 Billion in Bitcoin ETFs: Not a Bet, an Engine",
-    "link": "https://cryptopanic.com/news/33230792/Jane-Street-Holds-1-Billion-in-Bitcoin-ETFs-Not-a-Bet-an-Engine",
-    "source": "spaziocrypto.com",
-    "published": "Tue Aug 18 2026 13:02:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Born as a bug. Grew into a movement.\n\n@PepeKCC20 started as an accidental deploy during a Kaspa covenant test. No launch plan, no team behind it. The community found it and ran with it anyway.\n\n Community driven from day one\n No presale, no team allocation\n🤝 Partnerships",
-    "link": "https://cryptopanic.com/news/33230806/Born-as-a-bug-Grew-into-a-movement-PepeKCC20-started-as-an-accidental-deploy-during-a-Kaspa-covenant-test-No-launch-plan-no-team-behind-it-The-community-found-it-and-ran-with-it-anyway-Community-driven-from-day-one-No-presale-no-team-allocation-Partnerships",
-    "source": "@bscnews",
-    "published": "Tue Aug 18 2026 13:01:02 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
