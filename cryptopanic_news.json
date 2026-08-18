@@ -1,5 +1,61 @@
 [
   {
+    "title": "Mozilla Tests an AI 'Smart Window' in Firefox—But Only If You Opt In",
+    "link": "https://cryptopanic.com/news/33233369/Mozilla-Tests-an-AI-Smart-Window-in-FirefoxBut-Only-If-You-Opt-In",
+    "source": "decrypt.co",
+    "published": "Tue Aug 18 2026 22:31:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "This public company now controls 18% of Zcash mining power after $33 million Winklevoss-linked deal",
+    "link": "https://cryptopanic.com/news/33233368/This-public-company-now-controls-18-of-Zcash-mining-power-after-33-million-Winklevoss-linked-deal",
+    "source": "cryptoslate.com",
+    "published": "Tue Aug 18 2026 22:30:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: OpenAI paused AI training for two weeks following Hugging Face breach and rolled out new security measures.",
+    "link": "https://cryptopanic.com/news/33233448/UPDATE-OpenAI-paused-AI-training-for-two-weeks-following-Hugging-Face-breach-and-rolled-out-new-security-measures",
+    "source": "@cointelegraph",
+    "published": "Tue Aug 18 2026 22:30:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Italy's largest bank Intesa Sanpaolo disclosed holding a nearly $1B stake in SpaceX as of June 30, its single largest US holding.",
+    "link": "https://cryptopanic.com/news/33233443/LATEST-Italys-largest-bank-Intesa-Sanpaolo-disclosed-holding-a-nearly-1B-stake-in-SpaceX-as-of-June-30-its-single-largest-US-holding",
+    "source": "@coinmarketcap",
+    "published": "Tue Aug 18 2026 22:23:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Wyoming Stable Token Commission Executive Director Anthony Apollo said in an interview with CoinDesk:\n\n“The Commission decided to adopt Chainlink CCIP as it’s the only cross-chain infrastructure meeting stringent security and reliability requirements across the board.”",
+    "link": "https://cryptopanic.com/news/33233446/UPDATE-Wyoming-Stable-Token-Commission-Executive-Director-Anthony-Apollo-said-in-an-interview-with-CoinDesk-The-Commission-decided-to-adopt-Chainlink-CCIP-as-its-the-only-cross-chain-infrastructure-meeting-stringent-security-and-reliability-requirements-across-the-board",
+    "source": "@coindesk",
+    "published": "Tue Aug 18 2026 22:21:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: TRUMP ORDERS ENVOYS TO HALT ALL NEGOTIATIONS WITH IRAN | PER CNN",
+    "link": "https://cryptopanic.com/news/33233367/INTEL-TRUMP-ORDERS-ENVOYS-TO-HALT-ALL-NEGOTIATIONS-WITH-IRAN-PER-CNN",
+    "source": "@solidintel_x",
+    "published": "Tue Aug 18 2026 22:20:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: Robinhood CEO @vladtenev calls on U.S. policymakers to allow tokenized stocks, arguing they offer real-time settlement, 24/7 trading and greater control over assets.\n\n“American investors should benefit from this innovation, too.”",
+    "link": "https://cryptopanic.com/news/33233445/LATEST-Robinhood-CEO-vladtenev-calls-on-US-policymakers-to-allow-tokenized-stocks-arguing-they-offer-real-time-settlement-247-trading-and-greater-control-over-assets-American-investors-should-benefit-from-this-innovation-too",
+    "source": "@coindesk",
+    "published": "Tue Aug 18 2026 22:18:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Robinhood CEO Vlad Tenev says we are at the beginning of a \"tokenization supercycle\" that will \"eat the entire financial system.\"",
+    "link": "https://cryptopanic.com/news/33233370/JUST-IN-Robinhood-CEO-Vlad-Tenev-says-we-are-at-the-beginning-of-a-tokenization-supercycle-that-will-eat-the-entire-financial-system",
+    "source": "@watcherguru",
+    "published": "Tue Aug 18 2026 22:07:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "@Algorand is being used to bring ownership back to the customer! \n\nTravelX built on $ALGO is tokenising flight tickets meaning your ticket becomes something you actually own, not just a booking the airline controls.\n\nYou can hold it, transfer it or sell it. @StaciW_DC explains",
     "link": "https://cryptopanic.com/news/33233305/Algorand-is-being-used-to-bring-ownership-back-to-the-customer-TravelX-built-on-ALGO-is-tokenising-flight-tickets-meaning-your-ticket-becomes-something-you-actually-own-not-just-a-booking-the-airline-controls-You-can-hold-it-transfer-it-or-sell-it-StaciW_DC-explains",
     "source": "@realallincrypto",
@@ -11,6 +67,13 @@
     "link": "https://cryptopanic.com/news/33233270/Hyperliquids-336M-whale-move-meets-rising-exchange-inflows-Whats-next",
     "source": "ambcrypto.com",
     "published": "Tue Aug 18 2026 22:00:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Brian Armstrong says x402 becomes inevitable as billions of AI agents need to transact.",
+    "link": "https://cryptopanic.com/news/33233447/UPDATE-Brian-Armstrong-says-x402-becomes-inevitable-as-billions-of-AI-agents-need-to-transact",
+    "source": "@cointelegraph",
+    "published": "Tue Aug 18 2026 22:00:45 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -144,69 +207,6 @@
     "link": "https://cryptopanic.com/news/33233148/LATEST-Binance-Pay-has-integrated-with-Bhutans-DK-Bank-QR-network-enabling-crypto-payments-at-3700-merchants-nationwide",
     "source": "@coinmarketcap",
     "published": "Tue Aug 18 2026 21:11:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: About 43,000 Bitcoin worth $2.7 billion has been bought over the past 60 days by large holders, Bloomberg reports. \n\nBullish",
-    "link": "https://cryptopanic.com/news/33233237/JUST-IN-About-43000-Bitcoin-worth-27-billion-has-been-bought-over-the-past-60-days-by-large-holders-Bloomberg-reports-Bullish",
-    "source": "@bitcoinmagazine",
-    "published": "Tue Aug 18 2026 21:07:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple Prime raised $275M in an upsized private placement of senior notes\n\n@Ripple said the senior unsecured notes drew institutional investors across major financial markets, with Piper Sandler as lead placement agent. Proceeds go to working capital and general corporate",
-    "link": "https://cryptopanic.com/news/33233191/Ripple-Prime-raised-275M-in-an-upsized-private-placement-of-senior-notes-Ripple-said-the-senior-unsecured-notes-drew-institutional-investors-across-major-financial-markets-with-Piper-Sandler-as-lead-placement-agent-Proceeds-go-to-working-capital-and-general-corporate",
-    "source": "@bscnews",
-    "published": "Tue Aug 18 2026 21:06:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trading Technologies to Add Crypto.com Prediction Markets, Crypto Derivatives",
-    "link": "https://cryptopanic.com/news/33233116/Trading-Technologies-to-Add-Cryptocom-Prediction-Markets-Crypto-Derivatives",
-    "source": "dailycoin.com",
-    "published": "Tue Aug 18 2026 21:05:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tom Lee Says Ethereum Is the 'Downstream Story' for AI's New 'Hive Mind'",
-    "link": "https://cryptopanic.com/news/33233177/Tom-Lee-Says-Ethereum-Is-the-Downstream-Story-for-AIs-New-Hive-Mind",
-    "source": "feeds2.benzinga.com",
-    "published": "Tue Aug 18 2026 21:04:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SEC proposes $75M crypto offering exemption—and a path out of securities rules",
-    "link": "https://cryptopanic.com/news/33233106/SEC-proposes-75M-crypto-offering-exemptionand-a-path-out-of-securities-rules",
-    "source": "ambcrypto.com",
-    "published": "Tue Aug 18 2026 21:04:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 REGULATION: The CFTC is seeking comment on exemptions that would reduce registration burdens for some CPOs and CTAs.",
-    "link": "https://cryptopanic.com/news/33233154/REGULATION-The-CFTC-is-seeking-comment-on-exemptions-that-would-reduce-registration-burdens-for-some-CPOs-and-CTAs",
-    "source": "@cointelegraph",
-    "published": "Tue Aug 18 2026 21:00:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$XRP HITS NEW RECORD!\n\n$XRP has now closed above $0.75 for 642 consecutive days, the longest streak in its history (@MSBIntel).\n\nEven after everything the market has thrown at it, $XRP continues to hold levels it once struggled to reach.",
-    "link": "https://cryptopanic.com/news/33233189/XRP-HITS-NEW-RECORD-XRP-has-now-closed-above-075-for-642-consecutive-days-the-longest-streak-in-its-history-MSBIntel-Even-after-everything-the-market-has-thrown-at-it-XRP-continues-to-hold-levels-it-once-struggled-to-reach",
-    "source": "@realallincrypto",
-    "published": "Tue Aug 18 2026 21:00:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Anthropic Copies Elon Musk’s SpaceX IPO Playbook With One Major Difference",
-    "link": "https://cryptopanic.com/news/33233186/Anthropic-Copies-Elon-Musks-SpaceX-IPO-Playbook-With-One-Major-Difference",
-    "source": "beincrypto.com",
-    "published": "Tue Aug 18 2026 20:52:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ondo's tokenized asset holder count rose 48.57% in a month \n\n@Ondo Finance counts 252,935 holders across 441 tokenized assets, per rwa(.)xyz. Distributed asset value sits at $3.62B, down 0.04% over the same 30 days, with a monthly transfer volume of $2.63B.\n\nTesla and NVIDIA lead",
-    "link": "https://cryptopanic.com/news/33233190/Ondos-tokenized-asset-holder-count-rose-4857-in-a-month-Ondo-Finance-counts-252935-holders-across-441-tokenized-assets-per-rwaxyz-Distributed-asset-value-sits-at-362B-down-004-over-the-same-30-days-with-a-monthly-transfer-volume-of-263B-Tesla-and-NVIDIA-lead",
-    "source": "@bscnews",
-    "published": "Tue Aug 18 2026 20:50:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
