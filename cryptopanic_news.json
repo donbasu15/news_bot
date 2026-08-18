@@ -1,9 +1,44 @@
 [
   {
+    "title": "Ripple CLO says Sept. 15 will be a ‘bellwether’ for Clarity Act market structure bill",
+    "link": "https://cryptopanic.com/news/33232807/Ripple-CLO-says-Sept-15-will-be-a-bellwether-for-Clarity-Act-market-structure-bill",
+    "source": "theblock.co",
+    "published": "Tue Aug 18 2026 19:49:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Perplexity’s India revenue hits $156,000 a month after Airtel giveaway ends",
+    "link": "https://cryptopanic.com/news/33232806/Perplexitys-India-revenue-hits-156000-a-month-after-Airtel-giveaway-ends",
+    "source": "cryptopolitan.com",
+    "published": "Tue Aug 18 2026 19:45:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Wyoming moved its state stablecoin off LayerZero to Chainlink's CCIP\n\nThe Wyoming Stable Token Commission completed the move of its Frontier Stable Token and will retire the LayerZero version after a security review, according to CoinDesk. @chainlink's CCIP becomes the token's",
+    "link": "https://cryptopanic.com/news/33232829/Wyoming-moved-its-state-stablecoin-off-LayerZero-to-Chainlinks-CCIP-The-Wyoming-Stable-Token-Commission-completed-the-move-of-its-Frontier-Stable-Token-and-will-retire-the-LayerZero-version-after-a-security-review-according-to-CoinDesk-chainlinks-CCIP-becomes-the-tokens",
+    "source": "@bscnews",
+    "published": "Tue Aug 18 2026 19:43:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "NEW: Wyoming has moved its Frontier Stable Token (FRNT) from LayerZero to @Chainlink's CCIP following an extensive security review.\n\nRead the full story from @FranciscoMemor on CoinDesk.",
     "link": "https://cryptopanic.com/news/33232799/NEW-Wyoming-has-moved-its-Frontier-Stable-Token-FRNT-from-LayerZero-to-Chainlinks-CCIP-following-an-extensive-security-review-Read-the-full-story-from-FranciscoMemor-on-CoinDesk",
     "source": "@coindesk",
     "published": "Tue Aug 18 2026 19:39:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin's Investment Case Hasn't Changed, BlackRock Says, Backs up to 2% Portfolio Allocation",
+    "link": "https://cryptopanic.com/news/33232812/Bitcoins-Investment-Case-Hasnt-Changed-BlackRock-Says-Backs-up-to-2-Portfolio-Allocation",
+    "source": "feeds2.benzinga.com",
+    "published": "Tue Aug 18 2026 19:33:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Top economists warn of wealth inequality in U.S. surpassing Gilded Age",
+    "link": "https://cryptopanic.com/news/33232822/Top-economists-warn-of-wealth-inequality-in-US-surpassing-Gilded-Age",
+    "source": "thestreet.com",
+    "published": "Tue Aug 18 2026 19:32:12 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -18,6 +53,13 @@
     "link": "https://cryptopanic.com/news/33232731/Anthropic-Pre-IPO-Credit-Facility-Surges-Above-10Bn",
     "source": "catenaa.com",
     "published": "Tue Aug 18 2026 19:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The SEC proposed two registration exemptions for crypto fundraising\n\nThe SEC (@SECGov) would allow a one-time offering of up to $5M over four years and a second route of $75M in each 12-month period, both without registration. Issuers using the larger one would file financial",
+    "link": "https://cryptopanic.com/news/33232828/The-SEC-proposed-two-registration-exemptions-for-crypto-fundraising-The-SEC-SECGov-would-allow-a-one-time-offering-of-up-to-5M-over-four-years-and-a-second-route-of-75M-in-each-12-month-period-both-without-registration-Issuers-using-the-larger-one-would-file-financial",
+    "source": "@bscnews",
+    "published": "Tue Aug 18 2026 19:27:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -67,6 +109,13 @@
     "link": "https://cryptopanic.com/news/33232718/ADA-price-slips-to-017-as-Cardano-maps-out-Dijkstra-upgrade",
     "source": "ambcrypto.com",
     "published": "Tue Aug 18 2026 19:21:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Markets Confident OpenAI Releases Its Next AI Model in Weeks",
+    "link": "https://cryptopanic.com/news/33232832/Markets-Confident-OpenAI-Releases-Its-Next-AI-Model-in-Weeks",
+    "source": "@decryptmedia",
+    "published": "Tue Aug 18 2026 19:16:45 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -158,55 +207,6 @@
     "link": "https://cryptopanic.com/news/33231747/BREAKING-CHINA-JUST-SENT-A-MASSIVE-BITCOIN-WARNING-AT-AMERICA-EP-1572",
     "source": "SimplyBitcoin",
     "published": "Tue Aug 18 2026 18:58:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Wyoming joins $15 billion LayerZero exodus with state stablecoin move",
-    "link": "https://cryptopanic.com/news/33232693/Wyoming-joins-15-billion-LayerZero-exodus-with-state-stablecoin-move",
-    "source": "coindesk.com",
-    "published": "Tue Aug 18 2026 18:57:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BitBox disclosed two severe firmware flaws in its hardware wallets\n\nThe Zurich company said that internal audits, which included frontier AI models, found a memory-corruption issue on Multi edition devices and a bootloader weakness more serious than described in July. A third",
-    "link": "https://cryptopanic.com/news/33232697/BitBox-disclosed-two-severe-firmware-flaws-in-its-hardware-wallets-The-Zurich-company-said-that-internal-audits-which-included-frontier-AI-models-found-a-memory-corruption-issue-on-Multi-edition-devices-and-a-bootloader-weakness-more-serious-than-described-in-July-A-third",
-    "source": "@bscnews",
-    "published": "Tue Aug 18 2026 18:55:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "United States of Iran: Trump’s Delusion or Strategy? Bitcoin Doesn’t Care",
-    "link": "https://cryptopanic.com/news/33232726/United-States-of-Iran-Trumps-Delusion-or-Strategy-Bitcoin-Doesnt-Care",
-    "source": "beincrypto.com",
-    "published": "Tue Aug 18 2026 18:53:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 SEC proposes new \"Regulation Crypto Assets\" rules to create a framework for investment contracts involving crypto assets",
-    "link": "https://cryptopanic.com/news/33232737/JUST-IN-SEC-proposes-new-Regulation-Crypto-Assets-rules-to-create-a-framework-for-investment-contracts-involving-crypto-assets",
-    "source": "@bitcoinmagazine",
-    "published": "Tue Aug 18 2026 18:53:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stock Market Today: S&P 500 Falls as Chip Rout, Treasury Yields Pressure Wall Street",
-    "link": "https://cryptopanic.com/news/33232641/Stock-Market-Today-SP-500-Falls-as-Chip-Rout-Treasury-Yields-Pressure-Wall-Street",
-    "source": "coinpaper.com",
-    "published": "Tue Aug 18 2026 18:52:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin correction may be nearing an end with 8 of 12 capitulation signals flashing, VanEck says",
-    "link": "https://cryptopanic.com/news/33232634/Bitcoin-correction-may-be-nearing-an-end-with-8-of-12-capitulation-signals-flashing-VanEck-says",
-    "source": "theblock.co",
-    "published": "Tue Aug 18 2026 18:49:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "How much gold and Bitcoin could Elon Musk buy with his entire fortune?",
-    "link": "https://cryptopanic.com/news/33232689/How-much-gold-and-Bitcoin-could-Elon-Musk-buy-with-his-entire-fortune",
-    "source": "thestreet.com",
-    "published": "Tue Aug 18 2026 18:48:28 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
