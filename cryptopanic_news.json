@@ -1,9 +1,58 @@
 [
   {
+    "title": "China declares opposition to US push for countries to pick sides in AI race",
+    "link": "https://cryptopanic.com/news/33237489/China-declares-opposition-to-US-push-for-countries-to-pick-sides-in-AI-race",
+    "source": "cryptopolitan.com",
+    "published": "Wed Aug 19 2026 12:50:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 JUST IN: US Treasury to at least double long-term Treasury buybacks to $4B per operation starting Sept. 9.",
+    "link": "https://cryptopanic.com/news/33237504/JUST-IN-US-Treasury-to-at-least-double-long-term-Treasury-buybacks-to-4B-per-operation-starting-Sept-9",
+    "source": "@cointelegraph",
+    "published": "Wed Aug 19 2026 12:50:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Telegram Applies for .gram Domain as Durov Targets 1 Billion Users, GRAM Falls 35% in 90 Days",
+    "link": "https://cryptopanic.com/news/33237440/Telegram-Applies-for-gram-Domain-as-Durov-Targets-1-Billion-Users-GRAM-Falls-35-in-90-Days",
+    "source": "coinpaper.com",
+    "published": "Wed Aug 19 2026 12:47:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Washington’s Nvidia chip crackdown has a big blind spot: Overseas data centers",
+    "link": "https://cryptopanic.com/news/33237448/Washingtons-Nvidia-chip-crackdown-has-a-big-blind-spot-Overseas-data-centers",
+    "source": "cryptopolitan.com",
+    "published": "Wed Aug 19 2026 12:45:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "GTA VI leaker is using game footage to pump crypto token",
     "link": "https://cryptopanic.com/news/33237393/GTA-VI-leaker-is-using-game-footage-to-pump-crypto-token",
     "source": "protos.com",
     "published": "Wed Aug 19 2026 12:36:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  BlackRock says Bitcoin's ~50% pullback was driven by deleveraging rather than a fundamental change to BTC's long-term investment thesis, still advocating for a 1–2% allocation.",
+    "link": "https://cryptopanic.com/news/33237495/LATEST-BlackRock-says-Bitcoins-50-pullback-was-driven-by-deleveraging-rather-than-a-fundamental-change-to-BTCs-long-term-investment-thesis-still-advocating-for-a-12-allocation",
+    "source": "@coinmarketcap",
+    "published": "Wed Aug 19 2026 12:35:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MARKETS: bitcoin:native holds near $64,000 as surging global bond yields pressure risk assets, the U.S. 30-year Treasury briefly hits 5.333%, its highest in nearly two decades, ahead of today's FOMC minutes release.",
+    "link": "https://cryptopanic.com/news/33237500/MARKETS-bitcoinnative-holds-near-64000-as-surging-global-bond-yields-pressure-risk-assets-the-US-30-year-Treasury-briefly-hits-5333-its-highest-in-nearly-two-decades-ahead-of-todays-FOMC-minutes-release",
+    "source": "@coindesk",
+    "published": "Wed Aug 19 2026 12:34:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 NEW: PayPal and Venmo can now be used to pay college tuition at participating US schools.",
+    "link": "https://cryptopanic.com/news/33237501/NEW-PayPal-and-Venmo-can-now-be-used-to-pay-college-tuition-at-participating-US-schools",
+    "source": "@cointelegraph",
+    "published": "Wed Aug 19 2026 12:33:01 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -158,55 +207,6 @@
     "link": "https://cryptopanic.com/news/33237246/NEW-Trump-suspends-50-tariffs-against-Canada",
     "source": "@cryptonwsuk",
     "published": "Wed Aug 19 2026 11:48:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Citi Unveils Custody+ Suite for Real-Time Institutional Solutions and Bitcoin (BTC) Custody",
-    "link": "https://cryptopanic.com/news/33237103/Citi-Unveils-Custody-Suite-for-Real-Time-Institutional-Solutions-and-Bitcoin-BTC-Custody",
-    "source": "dailyhodl.com",
-    "published": "Wed Aug 19 2026 11:45:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP RSI Divergence: Breaking Down the Technical Signal and Its Implications",
-    "link": "https://cryptopanic.com/news/33237122/XRP-RSI-Divergence-Breaking-Down-the-Technical-Signal-and-Its-Implications",
-    "source": "u.today",
-    "published": "Wed Aug 19 2026 11:45:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Quiet Metric That Could Spark Hedera’s Next Move",
-    "link": "https://cryptopanic.com/news/33237074/The-Quiet-Metric-That-Could-Spark-Hederas-Next-Move",
-    "source": "techgaged.com",
-    "published": "Wed Aug 19 2026 11:44:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Unitree Stock Soars 460% in Blockbuster Shanghai IPO Debut",
-    "link": "https://cryptopanic.com/news/33237004/Unitree-Stock-Soars-460-in-Blockbuster-Shanghai-IPO-Debut",
-    "source": "coinpaper.com",
-    "published": "Wed Aug 19 2026 11:42:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Looks like PayPal is supporting Pi Network\n\n@PayPal has revamped its official developer ecosystem by adding support for Pi Network ($PI) through its 'Pay with Crypto' checkout program.\n\nThe revision, finalized on August 11, 2026, adds $PI to the whitelist of about 100 crypto",
-    "link": "https://cryptopanic.com/news/33237067/Looks-like-PayPal-is-supporting-Pi-Network-PayPal-has-revamped-its-official-developer-ecosystem-by-adding-support-for-Pi-Network-PI-through-its-Pay-with-Crypto-checkout-program-The-revision-finalized-on-August-11-2026-adds-PI-to-the-whitelist-of-about-100-crypto",
-    "source": "@bscnews",
-    "published": "Wed Aug 19 2026 11:41:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum’s Biggest Test Yet Begins On August 20",
-    "link": "https://cryptopanic.com/news/33236986/Ethereums-Biggest-Test-Yet-Begins-On-August-20",
-    "source": "techgaged.com",
-    "published": "Wed Aug 19 2026 11:33:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitwise CIO sees potential for 10-100x blockchain transaction growth as AI agents meet tokenized markets",
-    "link": "https://cryptopanic.com/news/33236985/Bitwise-CIO-sees-potential-for-10-100x-blockchain-transaction-growth-as-AI-agents-meet-tokenized-markets",
-    "source": "theblock.co",
-    "published": "Wed Aug 19 2026 11:32:48 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
