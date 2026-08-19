@@ -1,9 +1,128 @@
 [
   {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33238632/Source",
-    "source": "@angrycryptoshow",
-    "published": "Wed Aug 19 2026 15:50:12 GMT+0000 (Coordinated Universal Time)",
+    "title": "Bitcoin Surges Toward $70K as $1.14 Billion in Crypto Shorts Get Rekt in an Hour",
+    "link": "https://cryptopanic.com/news/33238728/Bitcoin-Surges-Toward-70K-as-114-Billion-in-Crypto-Shorts-Get-Rekt-in-an-Hour",
+    "source": "decrypt.co",
+    "published": "Wed Aug 19 2026 16:10:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Flare staking reaches 20 billion FLR after tokenomics overhaul\n\n@FlareNetworks' Chief Product Officer Filip Koprivec (@j00sko) said that the staked total has climbed from 11 billion since FIP.16 was announced in March. That puts the staked share near 23% of the 86.9 billion $FLR",
+    "link": "https://cryptopanic.com/news/33238750/Flare-staking-reaches-20-billion-FLR-after-tokenomics-overhaul-FlareNetworks-Chief-Product-Officer-Filip-Koprivec-j00sko-said-that-the-staked-total-has-climbed-from-11-billion-since-FIP16-was-announced-in-March-That-puts-the-staked-share-near-23-of-the-869-billion-FLR",
+    "source": "@bscnews",
+    "published": "Wed Aug 19 2026 16:09:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Stablecoin Liquidity Falls as Reserves Concentrate on Binance",
+    "link": "https://cryptopanic.com/news/33238714/Stablecoin-Liquidity-Falls-as-Reserves-Concentrate-on-Binance",
+    "source": "dailycoin.com",
+    "published": "Wed Aug 19 2026 16:05:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Datavault AI Agrees to Buy BankWyse, Reports 287% Q2 Revenue Growth",
+    "link": "https://cryptopanic.com/news/33238777/Datavault-AI-Agrees-to-Buy-BankWyse-Reports-287-Q2-Revenue-Growth",
+    "source": "cryptoprowl.com",
+    "published": "Wed Aug 19 2026 16:04:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum engineering firm Nethermind leaves LayerZero verifier role for Chainlink",
+    "link": "https://cryptopanic.com/news/33238678/Ethereum-engineering-firm-Nethermind-leaves-LayerZero-verifier-role-for-Chainlink",
+    "source": "theblock.co",
+    "published": "Wed Aug 19 2026 16:01:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Binance Is Rugging Bitcoiners and Crypto Holders",
+    "link": "https://cryptopanic.com/news/33238742/Binance-Is-Rugging-Bitcoiners-and-Crypto-Holders",
+    "source": "BTCSessions",
+    "published": "Wed Aug 19 2026 16:00:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethena wallet transfers 170M ENA – Will $0.09 remain out of reach?",
+    "link": "https://cryptopanic.com/news/33238668/Ethena-wallet-transfers-170M-ENA-Will-009-remain-out-of-reach",
+    "source": "ambcrypto.com",
+    "published": "Wed Aug 19 2026 16:00:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "THE U.S. TREASURY JUST STEPPED INTO THE MARKET.\n\nAfter soaring bond yields rattled markets, Treasury is DOUBLING long term bond buybacks to $4B+ per operation.\n\nThis comes just weeks after the U.S. helped Japan support the yen.\n\nLower yields, a weaker dollar can be fuel for",
+    "link": "https://cryptopanic.com/news/33238747/THE-US-TREASURY-JUST-STEPPED-INTO-THE-MARKET-After-soaring-bond-yields-rattled-markets-Treasury-is-DOUBLING-long-term-bond-buybacks-to-4B-per-operation-This-comes-just-weeks-after-the-US-helped-Japan-support-the-yen-Lower-yields-a-weaker-dollar-can-be-fuel-for",
+    "source": "@realallincrypto",
+    "published": "Wed Aug 19 2026 16:00:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Coinbase Adds 50x Crypto Perps to Base App Through Hyperliquid",
+    "link": "https://cryptopanic.com/news/33238670/Coinbase-Adds-50x-Crypto-Perps-to-Base-App-Through-Hyperliquid",
+    "source": "decrypt.co",
+    "published": "Wed Aug 19 2026 16:00:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Yields Have Just SPIKED To 2007 Levels. Is A Crisis Coming?",
+    "link": "https://cryptopanic.com/news/33238712/Yields-Have-Just-SPIKED-To-2007-Levels-Is-A-Crisis-Coming",
+    "source": "CryptoTips",
+    "published": "Wed Aug 19 2026 16:00:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "OCC Opens Bank Charter Door to Fintechs",
+    "link": "https://cryptopanic.com/news/33238642/OCC-Opens-Bank-Charter-Door-to-Fintechs",
+    "source": "catenaa.com",
+    "published": "Wed Aug 19 2026 16:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Small Caps Hit Record as Retail Sales Slip",
+    "link": "https://cryptopanic.com/news/33238639/Small-Caps-Hit-Record-as-Retail-Sales-Slip",
+    "source": "catenaa.com",
+    "published": "Wed Aug 19 2026 16:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Strategy Pauses Bitcoin Buying an Eighth Week",
+    "link": "https://cryptopanic.com/news/33238637/Strategy-Pauses-Bitcoin-Buying-an-Eighth-Week",
+    "source": "catenaa.com",
+    "published": "Wed Aug 19 2026 16:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trump to Host Crypto Executives at White House as SEC Proposes New Rules",
+    "link": "https://cryptopanic.com/news/33238648/Trump-to-Host-Crypto-Executives-at-White-House-as-SEC-Proposes-New-Rules",
+    "source": "cryptoprowl.com",
+    "published": "Wed Aug 19 2026 15:59:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸🇨🇦 Trump says the US and Canada have agreed to a new trade deal.",
+    "link": "https://cryptopanic.com/news/33238633/JUST-IN-Trump-says-the-US-and-Canada-have-agreed-to-a-new-trade-deal",
+    "source": "@cryptonwsuk",
+    "published": "Wed Aug 19 2026 15:57:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Shorts cooked",
+    "link": "https://cryptopanic.com/news/33238746/Shorts-cooked",
+    "source": "@realallincrypto",
+    "published": "Wed Aug 19 2026 15:56:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Rises Above $68,000 as Crypto Liquidations Reach $1.31 Billion in One Hour\n\nBinance market data shows that BTC rose above $68,000 to $68,418, up 5.47% over the past 24 hours. ETH rose above $2,000 to $2,081, up 8.4%.\n\nCoinGlass data shows that approximately $1.31 billion",
+    "link": "https://cryptopanic.com/news/33238627/Bitcoin-Rises-Above-68000-as-Crypto-Liquidations-Reach-131-Billion-in-One-Hour-Binance-market-data-shows-that-BTC-rose-above-68000-to-68418-up-547-over-the-past-24-hours-ETH-rose-above-2000-to-2081-up-84-CoinGlass-data-shows-that-approximately-131-billion",
+    "source": "@wublockchain",
+    "published": "Wed Aug 19 2026 15:56:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "FTX’s Caroline Ellison and Gary Wang hit with five-year trading ban",
+    "link": "https://cryptopanic.com/news/33238617/FTXs-Caroline-Ellison-and-Gary-Wang-hit-with-five-year-trading-ban",
+    "source": "protos.com",
+    "published": "Wed Aug 19 2026 15:53:05 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -11,6 +130,20 @@
     "link": "https://cryptopanic.com/news/33238631/UPDATE-Brave-with-over-122M-users-has-improved-Cardano-ADA-dApp-support-on-desktop-since-v193129-on-July-30th",
     "source": "@angrycryptoshow",
     "published": "Wed Aug 19 2026 15:50:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "In just the past hour, $1.13B in shorts were liquidated!\n\n0x8c96 had his entire 1,800 $BTC($117M) short liquidated today.\n\n0x431f was completely wiped out, with 677 $BTC ($44M) liquidated.\n\n0x004e was completely wiped out, with 500 $BTC ($33M) liquidated.",
+    "link": "https://cryptopanic.com/news/33238756/In-just-the-past-hour-113B-in-shorts-were-liquidated-0x8c96-had-his-entire-1800-BTC117M-short-liquidated-today-0x431f-was-completely-wiped-out-with-677-BTC-44M-liquidated-0x004e-was-completely-wiped-out-with-500-BTC-33M-liquidated",
+    "source": "@lookonchain",
+    "published": "Wed Aug 19 2026 15:49:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Emergency White House Bitcoin Meeting Forced Bitcoin To Explode?! | Ep 1573",
+    "link": "https://cryptopanic.com/news/33238719/EMERGENCY-WHITE-HOUSE-BITCOIN-MEETING-FORCED-BITCOIN-TO-EXPLODE-EP-1573",
+    "source": "SimplyBitcoin",
+    "published": "Wed Aug 19 2026 15:47:52 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -28,10 +161,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Wall Street financier who rightly predicted the Bitcoin crash has a new warning",
+    "link": "https://cryptopanic.com/news/33238679/Wall-Street-financier-who-rightly-predicted-the-Bitcoin-crash-has-a-new-warning",
+    "source": "thestreet.com",
+    "published": "Wed Aug 19 2026 15:46:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: LunarCrush ranks #Cardano as the 12th most mentioned cryptocurrency, highlighting $ADA's social dominance.",
     "link": "https://cryptopanic.com/news/33238630/JUST-IN-LunarCrush-ranks-Cardano-as-the-12th-most-mentioned-cryptocurrency-highlighting-ADAs-social-dominance",
     "source": "@angrycryptoshow",
     "published": "Wed Aug 19 2026 15:45:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Pepe, Zcash, Solana rally as Bitcoin crosses $68K!\n\nIt's no surprise that Bitcoin affects other assets' prices. \n\nThis time around, $PEPE, $SOL, and $ZEC have experienced a slight push following Bitcoin's latest run in the past hour. \n\nThe altcoin market is also booming, with",
+    "link": "https://cryptopanic.com/news/33238749/Pepe-Zcash-Solana-rally-as-Bitcoin-crosses-68K-Its-no-surprise-that-Bitcoin-affects-other-assets-prices-This-time-around-PEPE-SOL-and-ZEC-have-experienced-a-slight-push-following-Bitcoins-latest-run-in-the-past-hour-The-altcoin-market-is-also-booming-with",
+    "source": "@bscnews",
+    "published": "Wed Aug 19 2026 15:45:24 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -60,153 +207,6 @@
     "link": "https://cryptopanic.com/news/33238521/Bitcoin-Jumps-6-Toward-69000-Ahead-of-Key-Fed-Minutes-Release",
     "source": "coinpaper.com",
     "published": "Wed Aug 19 2026 15:39:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Eskimo Adds Stablecoin Payments to Global eSIM Plans Through Triple-A",
-    "link": "https://cryptopanic.com/news/33238534/Eskimo-Adds-Stablecoin-Payments-to-Global-eSIM-Plans-Through-Triple-A",
-    "source": "cryptoprowl.com",
-    "published": "Wed Aug 19 2026 15:38:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BEARS JUST GOT REKT. \n\n$1.2B+ of short liquidations in a single hour.",
-    "link": "https://cryptopanic.com/news/33238579/BEARS-JUST-GOT-REKT-12B-of-short-liquidations-in-a-single-hour",
-    "source": "@stackersatoshi",
-    "published": "Wed Aug 19 2026 15:36:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇦🇺 Nexo has launched regulated crypto-backed credit lines in Australia, letting users borrow against digital assets at rates from 0.9% to 21.9%.",
-    "link": "https://cryptopanic.com/news/33238625/LATEST-Nexo-has-launched-regulated-crypto-backed-credit-lines-in-Australia-letting-users-borrow-against-digital-assets-at-rates-from-09-to-219",
-    "source": "@coinmarketcap",
-    "published": "Wed Aug 19 2026 15:35:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: Over $1.2B in crypto shorts liquidated in 60 minutes as bitcoin:native surges to $69,000",
-    "link": "https://cryptopanic.com/news/33238566/INTEL-Over-12B-in-crypto-shorts-liquidated-in-60-minutes-as-bitcoinnative-surges-to-69000",
-    "source": "@solidintel_x",
-    "published": "Wed Aug 19 2026 15:33:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "REKT: $1.19B liquidated from crypto in the past hour, including $1.10B in shorts.",
-    "link": "https://cryptopanic.com/news/33238634/REKT-119B-liquidated-from-crypto-in-the-past-hour-including-110B-in-shorts",
-    "source": "@cointelegraph",
-    "published": "Wed Aug 19 2026 15:32:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Over $1B in shorts just got liquidated out in 1 hour.\n\nMuch more in open interest got wiped out",
-    "link": "https://cryptopanic.com/news/33238452/Over-1B-in-shorts-just-got-liquidated-out-in-1-hour-Much-more-in-open-interest-got-wiped-out",
-    "source": "@daancrypto",
-    "published": "Wed Aug 19 2026 15:31:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Sonic is processing real economic activity\n\nDaily active users of @SonicLabs increased by 12.0% in just 10 days, rising from 5,467 on Aug 9 to 6,122 on Aug 18. \n\nThis is definitely a short-term spike in the user base.\n\nMoreover, economic activity is happening on the chain",
-    "link": "https://cryptopanic.com/news/33238456/Sonic-is-processing-real-economic-activity-Daily-active-users-of-SonicLabs-increased-by-120-in-just-10-days-rising-from-5467-on-Aug-9-to-6122-on-Aug-18-This-is-definitely-a-short-term-spike-in-the-user-base-Moreover-economic-activity-is-happening-on-the-chain",
-    "source": "@bscnews",
-    "published": "Wed Aug 19 2026 15:31:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Bitcoin surges to $69,000 as $1,100,000,000 in crypto shorts are liquidated in 60 minutes.",
-    "link": "https://cryptopanic.com/news/33238574/JUST-IN-Bitcoin-surges-to-69000-as-1100000000-in-crypto-shorts-are-liquidated-in-60-minutes",
-    "source": "@watcherguru",
-    "published": "Wed Aug 19 2026 15:31:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Volatility Craters to 27% as VanEck Flags 8 Of 12 Capitulation Signals Firing",
-    "link": "https://cryptopanic.com/news/33238568/Bitcoin-Volatility-Craters-to-27-as-VanEck-Flags-8-Of-12-Capitulation-Signals-Firing",
-    "source": "feeds2.benzinga.com",
-    "published": "Wed Aug 19 2026 15:31:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Breakingviews - Munich Re goes bottom feeding in murky cyber world",
-    "link": "https://cryptopanic.com/news/33238635/Breakingviews-Munich-Re-goes-bottom-feeding-in-murky-cyber-world",
-    "source": "@reutersbiz",
-    "published": "Wed Aug 19 2026 15:31:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$BTC Massive squeeze just occurred.\n\nBroke the June & July highs for a new higher high and squeezed all the shorts after the big compression.",
-    "link": "https://cryptopanic.com/news/33238450/BTC-Massive-squeeze-just-occurred-Broke-the-June-amp-July-highs-for-a-new-higher-high-and-squeezed-all-the-shorts-after-the-big-compression",
-    "source": "@daancrypto",
-    "published": "Wed Aug 19 2026 15:29:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: Bitcoin on the brink of a 10-month bear breakout!",
-    "link": "https://cryptopanic.com/news/33238577/BREAKING-Bitcoin-on-the-brink-of-a-10-month-bear-breakout",
-    "source": "@btc_archive",
-    "published": "Wed Aug 19 2026 15:28:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: Bitcoin pumps above $69,000!",
-    "link": "https://cryptopanic.com/news/33238570/BREAKING-Bitcoin-pumps-above-69000",
-    "source": "@bitcoinmagazine",
-    "published": "Wed Aug 19 2026 15:28:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Fintech on the Seas organizers want to build a Caribbean bloc for digital assets",
-    "link": "https://cryptopanic.com/news/33238605/Fintech-on-the-Seas-organizers-want-to-build-a-Caribbean-bloc-for-digital-assets",
-    "source": "thestreet.com",
-    "published": "Wed Aug 19 2026 15:27:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin nears key technical breakout that could propel prices to $76,000",
-    "link": "https://cryptopanic.com/news/33238543/Bitcoin-nears-key-technical-breakout-that-could-propel-prices-to-76000",
-    "source": "coindesk.com",
-    "published": "Wed Aug 19 2026 15:22:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Coinbase, Circle and Bullish jump as Clarity Act proponents express optimism about bill",
-    "link": "https://cryptopanic.com/news/33238542/Coinbase-Circle-and-Bullish-jump-as-Clarity-Act-proponents-express-optimism-about-bill",
-    "source": "coindesk.com",
-    "published": "Wed Aug 19 2026 15:22:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Injective Becomes SEC-Registered Transfer Agent To Accelerate Institutional RWA Adoption\n\n@Injective has earned SEC-registered transfer agent status, becoming the first Layer 1 to receive the regulation-compliant right to maintain proper records in the U.S. capital markets",
-    "link": "https://cryptopanic.com/news/33238455/Injective-Becomes-SEC-Registered-Transfer-Agent-To-Accelerate-Institutional-RWA-Adoption-Injective-has-earned-SEC-registered-transfer-agent-status-becoming-the-first-Layer-1-to-receive-the-regulation-compliant-right-to-maintain-proper-records-in-the-US-capital-markets",
-    "source": "@bscnews",
-    "published": "Wed Aug 19 2026 15:21:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto and Gold Rise as US Treasury Doubles Long-Bond Buybacks",
-    "link": "https://cryptopanic.com/news/33238541/Crypto-and-Gold-Rise-as-US-Treasury-Doubles-Long-Bond-Buybacks",
-    "source": "coindoo.com",
-    "published": "Wed Aug 19 2026 15:15:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NOW: Ether hits $2,000.",
-    "link": "https://cryptopanic.com/news/33238350/NOW-Ether-hits-2000",
-    "source": "@cointelegraph",
-    "published": "Wed Aug 19 2026 15:15:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hey, check this out!\n $ETH just broke $2,000",
-    "link": "https://cryptopanic.com/news/33238341/Hey-check-this-out-ETH-just-broke-2000",
-    "source": "@coinmarketcap",
-    "published": "Wed Aug 19 2026 15:15:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$BTC 4 days later we did indeed get out break from the structure and a big volatility increase.\n\nThe big level right above at $67K would mark a higher high and a market structure break.",
-    "link": "https://cryptopanic.com/news/33238449/BTC-4-days-later-we-did-indeed-get-out-break-from-the-structure-and-a-big-volatility-increase-The-big-level-right-above-at-67K-would-mark-a-higher-high-and-a-market-structure-break",
-    "source": "@daancrypto",
-    "published": "Wed Aug 19 2026 15:15:05 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
