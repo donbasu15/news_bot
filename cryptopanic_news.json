@@ -1,5 +1,124 @@
 [
   {
+    "title": "Bitcoin Tops $72K, but Glassnode Says BTC Rally Still Faces $75,800 Test",
+    "link": "https://cryptopanic.com/news/33244571/Bitcoin-Tops-72K-but-Glassnode-Says-BTC-Rally-Still-Faces-75800-Test",
+    "source": "coinpaper.com",
+    "published": "Thu Aug 20 2026 12:10:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP, Stellar & Algorand Take Center Stage in Government-Linked Digital Asset Push",
+    "link": "https://cryptopanic.com/news/33244570/XRP-Stellar-Algorand-Take-Center-Stage-in-Government-Linked-Digital-Asset-Push",
+    "source": "coinpaper.com",
+    "published": "Thu Aug 20 2026 12:09:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "20% Ethereum Rally Boosts Bitmine (BMNR) by $2.2 Billion: Tom Lee Backs Ether as Vital Layer for AI",
+    "link": "https://cryptopanic.com/news/33244646/20-Ethereum-Rally-Boosts-Bitmine-BMNR-by-22-Billion-Tom-Lee-Backs-Ether-as-Vital-Layer-for-AI",
+    "source": "u.today",
+    "published": "Thu Aug 20 2026 12:08:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Full report from @CoinDesk Research, commissioned by @genzcash",
+    "link": "https://cryptopanic.com/news/33244602/Full-report-from-CoinDesk-Research-commissioned-by-genzcash",
+    "source": "@coindesk",
+    "published": "Thu Aug 20 2026 12:07:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The community mandate is already there as Tachyon drew universal or near-universal support across every constituency in the February 2026 NU7 poll, and the deeper stack ships in stages on its own track. \n\nScaling encrypted money is moving from whiteboard to testnet.",
+    "link": "https://cryptopanic.com/news/33244600/The-community-mandate-is-already-there-as-Tachyon-drew-universal-or-near-universal-support-across-every-constituency-in-the-February-2026-NU7-poll-and-the-deeper-stack-ships-in-stages-on-its-own-track-Scaling-encrypted-money-is-moving-from-whiteboard-to-testnet",
+    "source": "@coindesk",
+    "published": "Thu Aug 20 2026 12:07:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "A first release candidate reached testnet on May 22, 2026, trialing 25-second blocks and doubled Orchard throughput, built by Valar Group. \n\nPruning also lowers the hardware bar for running a node, a scaling change that widens the operator base rather than narrowing it.",
+    "link": "https://cryptopanic.com/news/33244601/A-first-release-candidate-reached-testnet-on-May-22-2026-trialing-25-second-blocks-and-doubled-Orchard-throughput-built-by-Valar-Group-Pruning-also-lowers-the-hardware-bar-for-running-a-node-a-scaling-change-that-widens-the-operator-base-rather-than-narrowing-it",
+    "source": "@coindesk",
+    "published": "Thu Aug 20 2026 12:07:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The design is elegant as instead of every wallet scanning the whole chain to find its funds, each wallet carries a recursive proof of its own balance. \n\nNodes keep nullifiers for a recent window and prune the rest.",
+    "link": "https://cryptopanic.com/news/33244598/The-design-is-elegant-as-instead-of-every-wallet-scanning-the-whole-chain-to-find-its-funds-each-wallet-carries-a-recursive-proof-of-its-own-balance-Nodes-keep-nullifiers-for-a-recent-window-and-prune-the-rest",
+    "source": "@coindesk",
+    "published": "Thu Aug 20 2026 12:07:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "RESEARCH: @Zcash is redesigning how shielded money scales, and the first evidence is already running on a public testnet launched by the Valar Group. \n\nProject Tachyon, led by Sean Bowe, reworks the state model so throughput can rise without slowing wallets down.",
+    "link": "https://cryptopanic.com/news/33244599/RESEARCH-Zcash-is-redesigning-how-shielded-money-scales-and-the-first-evidence-is-already-running-on-a-public-testnet-launched-by-the-Valar-Group-Project-Tachyon-led-by-Sean-Bowe-reworks-the-state-model-so-throughput-can-rise-without-slowing-wallets-down",
+    "source": "@coindesk",
+    "published": "Thu Aug 20 2026 12:07:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "White House Crypto Meeting Revives the CLARITY Act as Bitcoin Clears $71,000",
+    "link": "https://cryptopanic.com/news/33244562/White-House-Crypto-Meeting-Revives-the-CLARITY-Act-as-Bitcoin-Clears-71000",
+    "source": "btcusa.com",
+    "published": "Thu Aug 20 2026 12:06:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UK tax service sent 80K warning letters to crypto holders in last financial year",
+    "link": "https://cryptopanic.com/news/33244555/UK-tax-service-sent-80K-warning-letters-to-crypto-holders-in-last-financial-year",
+    "source": "protos.com",
+    "published": "Thu Aug 20 2026 12:05:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Europe Stocks Attract $13.5B as Iran Reportedly Eyes US Military Targets",
+    "link": "https://cryptopanic.com/news/33244521/Europe-Stocks-Attract-135B-as-Iran-Reportedly-Eyes-US-Military-Targets",
+    "source": "coinpaper.com",
+    "published": "Thu Aug 20 2026 12:03:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "PAOLO ARDOINO: \"Bitcoin + Gold = hedge against doom\"",
+    "link": "https://cryptopanic.com/news/33244603/PAOLO-ARDOINO-Bitcoin-Gold-hedge-against-doom",
+    "source": "@cointelegraph",
+    "published": "Thu Aug 20 2026 12:01:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Gold Won't Work, The NEW Store of Value Explained!",
+    "link": "https://cryptopanic.com/news/33244577/Gold-Wont-Work-The-NEW-Store-of-Value-Explained",
+    "source": "SimplyBitcoin",
+    "published": "Thu Aug 20 2026 12:00:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Optimism-funded team's deciding vote shifts $49 million in OP tokens away from users",
+    "link": "https://cryptopanic.com/news/33244597/Optimism-funded-teams-deciding-vote-shifts-49-million-in-OP-tokens-away-from-users",
+    "source": "coindesk.com",
+    "published": "Thu Aug 20 2026 12:00:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "This DOES NOT Happen In A Bear Market… MOTHER OF ALL BITCOIN SQUEEZES (w/ Joe Consorti)",
+    "link": "https://cryptopanic.com/news/33244528/This-DOES-NOT-Happen-In-A-Bear-Market-MOTHER-OF-ALL-BITCOIN-SQUEEZES-w-Joe-Consorti",
+    "source": "BTCSessions",
+    "published": "Thu Aug 20 2026 12:00:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tether has publicly listed a company that partially controls USDS",
+    "link": "https://cryptopanic.com/news/33244477/Tether-has-publicly-listed-a-company-that-partially-controls-USDS",
+    "source": "protos.com",
+    "published": "Thu Aug 20 2026 11:55:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "2-Year Dormant Solana Whale Accumulates $3.6 Million in Solana as Price Nears $90",
+    "link": "https://cryptopanic.com/news/33244526/2-Year-Dormant-Solana-Whale-Accumulates-36-Million-in-Solana-as-Price-Nears-90",
+    "source": "zycrypto.com",
+    "published": "Thu Aug 20 2026 11:53:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "China’s police force gains humanoid recruits as robotics push enters new stage",
     "link": "https://cryptopanic.com/news/33244445/Chinas-police-force-gains-humanoid-recruits-as-robotics-push-enters-new-stage",
     "source": "cryptopolitan.com",
@@ -21,6 +140,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Shares in China's humanoid robot maker Unitree soared almost six-fold, while Anthropic prepares for what could be one of the biggest IPOs on record. Here are this week’s big stories from the AI revolution",
+    "link": "https://cryptopanic.com/news/33244604/Shares-in-Chinas-humanoid-robot-maker-Unitree-soared-almost-six-fold-while-Anthropic-prepares-for-what-could-be-one-of-the-biggest-IPOs-on-record-Here-are-this-weeks-big-stories-from-the-AI-revolution",
+    "source": "@reutersbiz",
+    "published": "Thu Aug 20 2026 11:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Crude Oil Prices: Brent, WTI Rise for Fifth Day",
     "link": "https://cryptopanic.com/news/33244364/Crude-Oil-Prices-Brent-WTI-Rise-for-Fifth-Day",
     "source": "coinpaper.com",
@@ -28,10 +154,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "LATEST: 🇺🇸 The Fed's July minutes show \"many\" officials believe rate hikes may be needed if inflation doesn't cool, even as the FOMC held rates steady for a fifth straight meeting.",
+    "link": "https://cryptopanic.com/news/33244596/LATEST-The-Feds-July-minutes-show-many-officials-believe-rate-hikes-may-be-needed-if-inflation-doesnt-cool-even-as-the-FOMC-held-rates-steady-for-a-fifth-straight-meeting",
+    "source": "@coinmarketcap",
+    "published": "Thu Aug 20 2026 11:41:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Ripple-linked XRP jumps 15% as data shows 'banker hours' onchain pattern",
     "link": "https://cryptopanic.com/news/33244476/Ripple-linked-XRP-jumps-15-as-data-shows-banker-hours-onchain-pattern",
     "source": "coindesk.com",
     "published": "Thu Aug 20 2026 11:35:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "OrdinalsBot, Bitcoin’s First Inscription Service, Is Shutting Down After 3 Years",
+    "link": "https://cryptopanic.com/news/33244513/OrdinalsBot-Bitcoins-First-Inscription-Service-Is-Shutting-Down-After-3-Years",
+    "source": "beincrypto.com",
+    "published": "Thu Aug 20 2026 11:34:53 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -67,146 +207,6 @@
     "link": "https://cryptopanic.com/news/33244435/We-had-a-little-Wednesday-on-FOMO-HOUR-ft-Tyler_Did_It-and-farokh",
     "source": "@decryptmedia",
     "published": "Thu Aug 20 2026 11:33:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SEC Crypto Proposal Offers New Paths for Crypto Asset Issuers",
-    "link": "https://cryptopanic.com/news/33244341/SEC-Crypto-Proposal-Offers-New-Paths-for-Crypto-Asset-Issuers",
-    "source": "cryptonews.com",
-    "published": "Thu Aug 20 2026 11:32:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana Price Prediction: SOL Could Climb Toward $125-$150 if Bitcoin Turns Higher",
-    "link": "https://cryptopanic.com/news/33244300/Solana-Price-Prediction-SOL-Could-Climb-Toward-125-150-if-Bitcoin-Turns-Higher",
-    "source": "coinpaper.com",
-    "published": "Thu Aug 20 2026 11:31:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "More data. More requests. Fresher signals. \n\nSee the changes ⤵️",
-    "link": "https://cryptopanic.com/news/33244285/More-data-More-requests-Fresher-signals-See-the-changes",
-    "source": "@cryptoquant_com",
-    "published": "Thu Aug 20 2026 11:31:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Fed liquidity promises, dollar weakness could determine bitcoin's next move",
-    "link": "https://cryptopanic.com/news/33244471/Fed-liquidity-promises-dollar-weakness-could-determine-bitcoins-next-move",
-    "source": "coindesk.com",
-    "published": "Thu Aug 20 2026 11:31:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Flock's New AI Police Tool Can Track Drivers Without a Name or License Plate",
-    "link": "https://cryptopanic.com/news/33244303/Flocks-New-AI-Police-Tool-Can-Track-Drivers-Without-a-Name-or-License-Plate",
-    "source": "decrypt.co",
-    "published": "Thu Aug 20 2026 11:31:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CryptoQuant API just got a major upgrade \n\nRate limits are increasing significantly:\n\n→ Basic: 50/day → 10/min\n→ Advanced: 100/day → 60/min\n→ Pro: 20/min → 120/min\n\nPlus, Advanced gets hourly data and Pro gets minute-level data.\n\nBuilt for faster, more serious analysis.",
-    "link": "https://cryptopanic.com/news/33244284/CryptoQuant-API-just-got-a-major-upgrade-Rate-limits-are-increasing-significantly-Basic-50day-10min-Advanced-100day-60min-Pro-20min-120min-Plus-Advanced-gets-hourly-data-and-Pro-gets-minute-level-data-Built-for-faster-more-serious-analysis",
-    "source": "@cryptoquant_com",
-    "published": "Thu Aug 20 2026 11:30:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why is the market rallying?\n\nICYMI, @itsciaranlyons explains.",
-    "link": "https://cryptopanic.com/news/33244291/Why-is-the-market-rallying-ICYMI-itsciaranlyons-explains",
-    "source": "@cointelegraph",
-    "published": "Thu Aug 20 2026 11:30:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Treasury Bond Buybacks Cool Global Stress",
-    "link": "https://cryptopanic.com/news/33244276/Treasury-Bond-Buybacks-Cool-Global-Stress",
-    "source": "catenaa.com",
-    "published": "Thu Aug 20 2026 11:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "News from Solana DEX aggregators! OKX crossed 30% of daily DEX aggregator volume for the first time.\n\nAggregator share is a scoreboard for one thing: execution quality. \n\n@Solana traders are decidedly choosing @OKX for trading.",
-    "link": "https://cryptopanic.com/news/33244432/News-from-Solana-DEX-aggregators-OKX-crossed-30-of-daily-DEX-aggregator-volume-for-the-first-time-Aggregator-share-is-a-scoreboard-for-one-thing-execution-quality-Solana-traders-are-decidedly-choosing-OKX-for-trading",
-    "source": "@bscnews",
-    "published": "Thu Aug 20 2026 11:28:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Surges Above $71,000 as Raoul Pal Says It's The 'Bessent Put' and 'The Signal Is Enormous'",
-    "link": "https://cryptopanic.com/news/33244366/Bitcoin-Surges-Above-71000-as-Raoul-Pal-Says-Its-The-Bessent-Put-and-The-Signal-Is-Enormous",
-    "source": "feeds2.benzinga.com",
-    "published": "Thu Aug 20 2026 11:27:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Price Prediction: BTC Reclaims 200-Day SMA With $71,500-$72,000 in Sight",
-    "link": "https://cryptopanic.com/news/33244273/Bitcoin-Price-Prediction-BTC-Reclaims-200-Day-SMA-With-71500-72000-in-Sight",
-    "source": "coinpaper.com",
-    "published": "Thu Aug 20 2026 11:26:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ICP's National Messenger App Is Making Progress...\n\nInternet Computer (@DFINITY) is accelerating the launch of Pakistan’s sovereign national messenger, now running on a localized cloud computing platform and in the testing stage with a smaller group.\n\nAccording to ICP's CBO,",
-    "link": "https://cryptopanic.com/news/33244431/ICPs-National-Messenger-App-Is-Making-Progress-Internet-Computer-DFINITY-is-accelerating-the-launch-of-Pakistans-sovereign-national-messenger-now-running-on-a-localized-cloud-computing-platform-and-in-the-testing-stage-with-a-smaller-group-According-to-ICPs-CBO",
-    "source": "@bscnews",
-    "published": "Thu Aug 20 2026 11:20:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ETH’s Rare Double-Digit Surge Could Be Just the Beginning",
-    "link": "https://cryptopanic.com/news/33244222/ETHs-Rare-Double-Digit-Surge-Could-Be-Just-the-Beginning",
-    "source": "cryptopotato.com",
-    "published": "Thu Aug 20 2026 11:16:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: $3,100,000,000 worth of crypto shorts liquidated in the past 24 hours.",
-    "link": "https://cryptopanic.com/news/33244217/JUST-IN-3100000000-worth-of-crypto-shorts-liquidated-in-the-past-24-hours",
-    "source": "@watcherguru",
-    "published": "Thu Aug 20 2026 11:16:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "GnosisDAO Approves Gnosis Chain Shift Toward Ethereum Rollup Model",
-    "link": "https://cryptopanic.com/news/33244212/GnosisDAO-Approves-Gnosis-Chain-Shift-Toward-Ethereum-Rollup-Model",
-    "source": "newsbtc.com",
-    "published": "Thu Aug 20 2026 11:15:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "MARKETS: $BTC briefly surges past $72K, up 15% since Monday, after Treasury Secretary Bessent announces debt buybacks and Trump pushes Congress to pass the CLARITY Act at yesterday's White House crypto event.",
-    "link": "https://cryptopanic.com/news/33244289/MARKETS-BTC-briefly-surges-past-72K-up-15-since-Monday-after-Treasury-Secretary-Bessent-announces-debt-buybacks-and-Trump-pushes-Congress-to-pass-the-CLARITY-Act-at-yesterdays-White-House-crypto-event",
-    "source": "@coindesk",
-    "published": "Thu Aug 20 2026 11:14:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33244288/Source",
-    "source": "@wublockchain",
-    "published": "Thu Aug 20 2026 11:14:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "User Loses Over 1,000 ETH in Phishing Attack After Using Tornado Cash’s Expired Official Domain\n\nAccording to community users, a user clicked an old link left in a related bookmark and was redirected to a phishing site through the expired official domain tornado. cash, which had",
-    "link": "https://cryptopanic.com/news/33244287/User-Loses-Over-1000-ETH-in-Phishing-Attack-After-Using-Tornado-Cashs-Expired-Official-Domain-According-to-community-users-a-user-clicked-an-old-link-left-in-a-related-bookmark-and-was-redirected-to-a-phishing-site-through-the-expired-official-domain-tornado-cash-which-had",
-    "source": "@wublockchain",
-    "published": "Thu Aug 20 2026 11:12:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Uniswap Launchpad on Robinhood Chain Breaks Records After 2 Weeks\n\n@TradePools ecosystem activity has surged, with 56,294 tokens launched on the @RobinhoodCrypto chain in just 14 days.\n\nWith @Uniswap's launchpad integration, retail users can easily bypass technical limitations",
-    "link": "https://cryptopanic.com/news/33244430/Uniswap-Launchpad-on-Robinhood-Chain-Breaks-Records-After-2-Weeks-TradePools-ecosystem-activity-has-surged-with-56294-tokens-launched-on-the-RobinhoodCrypto-chain-in-just-14-days-With-Uniswaps-launchpad-integration-retail-users-can-easily-bypass-technical-limitations",
-    "source": "@bscnews",
-    "published": "Thu Aug 20 2026 11:07:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Banks grew their Ethereum exposure 3x faster than Bitcoin in Q2 2026, based on their 13F regulatory filings, per DWF Labs.",
-    "link": "https://cryptopanic.com/news/33244283/LATEST-Banks-grew-their-Ethereum-exposure-3x-faster-than-Bitcoin-in-Q2-2026-based-on-their-13F-regulatory-filings-per-DWF-Labs",
-    "source": "@coinmarketcap",
-    "published": "Thu Aug 20 2026 11:05:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
