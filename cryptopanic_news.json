@@ -1,9 +1,79 @@
 [
   {
+    "title": "BTC Digital Stock Soars Over 111% After-Hours, BitMine Shares Trending as Bitcoin and Ethereum Regain Their Mojo",
+    "link": "https://cryptopanic.com/news/33242590/BTC-Digital-Stock-Soars-Over-111-After-Hours-BitMine-Shares-Trending-as-Bitcoin-and-Ethereum-Regain-Their-Mojo",
+    "source": "feeds2.benzinga.com",
+    "published": "Thu Aug 20 2026 06:06:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Ethereum's exchange supply has fallen roughly 15% over eleven weeks while Bitcoin's balances quietly climbed back, per Santiment.",
+    "link": "https://cryptopanic.com/news/33242526/UPDATE-Ethereums-exchange-supply-has-fallen-roughly-15-over-eleven-weeks-while-Bitcoins-balances-quietly-climbed-back-per-Santiment",
+    "source": "@cointelegraph",
+    "published": "Thu Aug 20 2026 06:01:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trump's Crypto Comments Cheered: Robinhood CEO Stresses 'Broad Ownership' At White House Event, Binance Founder Says, 'We're So Back'",
+    "link": "https://cryptopanic.com/news/33242537/Trumps-Crypto-Comments-Cheered-Robinhood-CEO-Stresses-Broad-Ownership-At-White-House-Event-Binance-Founder-Says-Were-So-Back",
+    "source": "feeds2.benzinga.com",
+    "published": "Thu Aug 20 2026 06:00:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "AI in Blockchain: How Trust and Automation Converge",
+    "link": "https://cryptopanic.com/news/33242449/AI-in-Blockchain-How-Trust-and-Automation-Converge",
+    "source": "techgaged.com",
+    "published": "Thu Aug 20 2026 06:00:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ionic Digital Posts First Public Earnings, With AI Leasing Now 90% of Revenue",
+    "link": "https://cryptopanic.com/news/33242446/Ionic-Digital-Posts-First-Public-Earnings-With-AI-Leasing-Now-90-of-Revenue",
+    "source": "www.blockhead.co",
+    "published": "Thu Aug 20 2026 06:00:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "A senior executive under investigation for sexual harassment and bullying is still working at mining major Fortescue while an inquiry is underway, the company's energy chief Gus Pichot said.\n\nFortescue has hired law firm MinterEllison to investigate the allegations which the",
+    "link": "https://cryptopanic.com/news/33242530/A-senior-executive-under-investigation-for-sexual-harassment-and-bullying-is-still-working-at-mining-major-Fortescue-while-an-inquiry-is-underway-the-companys-energy-chief-Gus-Pichot-said-Fortescue-has-hired-law-firm-MinterEllison-to-investigate-the-allegations-which-the",
+    "source": "@reutersbiz",
+    "published": "Thu Aug 20 2026 06:00:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  HSBC and Standard Chartered completed the first live interbank transaction on Swift's new blockchain-based ledger.",
+    "link": "https://cryptopanic.com/news/33242525/LATEST-HSBC-and-Standard-Chartered-completed-the-first-live-interbank-transaction-on-Swifts-new-blockchain-based-ledger",
+    "source": "@coinmarketcap",
+    "published": "Thu Aug 20 2026 05:55:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Federal Reserve Chairman Kevin Warsh has promised that the US central bank will deliver price stability, but Treasury Secretary Scott Bessent's decision to double buybacks of longer-dated US debt may complicate any effort to do so. More here",
+    "link": "https://cryptopanic.com/news/33242528/Federal-Reserve-Chairman-Kevin-Warsh-has-promised-that-the-US-central-bank-will-deliver-price-stability-but-Treasury-Secretary-Scott-Bessents-decision-to-double-buybacks-of-longer-dated-US-debt-may-complicate-any-effort-to-do-so-More-here",
+    "source": "@reutersbiz",
+    "published": "Thu Aug 20 2026 05:55:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "US Debt Crosses $40 Trillion — Here’s Why Markets Are Worried",
     "link": "https://cryptopanic.com/news/33242402/US-Debt-Crosses-40-Trillion-Heres-Why-Markets-Are-Worried",
     "source": "coinpaper.com",
     "published": "Thu Aug 20 2026 05:47:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The billionaire founder of China Evergrande Group, the world's most-indebted property developer, was sentenced to life in prison by a Chinese court, which ordered all his personal property be confiscated. More here",
+    "link": "https://cryptopanic.com/news/33242527/The-billionaire-founder-of-China-Evergrande-Group-the-worlds-most-indebted-property-developer-was-sentenced-to-life-in-prison-by-a-Chinese-court-which-ordered-all-his-personal-property-be-confiscated-More-here",
+    "source": "@reutersbiz",
+    "published": "Thu Aug 20 2026 05:44:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trader who made $49 million shorting crypto lost $24 million on ether in 12 seconds",
+    "link": "https://cryptopanic.com/news/33242591/Trader-who-made-49-million-shorting-crypto-lost-24-million-on-ether-in-12-seconds",
+    "source": "coindesk.com",
+    "published": "Thu Aug 20 2026 05:40:54 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/33242170/XRP-Ledger-Stablecoin-Activity-is-Surging-Stablecoin-transfer-volume-on-the-ripplenative-Ledger-has-climbed-14-to-449-billion-over-the-last-30-days-The-increase-comes-as-the-network-sees-stronger-adoption-despite-XRPs-recent-price-struggles-Stablecoin-holders-have-also",
     "source": "@bscnews",
     "published": "Thu Aug 20 2026 04:28:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇺🇸 President Trump declared he \"ended the war on crypto once and for all\" by terminating Operation Choke Point 2.0.",
-    "link": "https://cryptopanic.com/news/33242123/LATEST-President-Trump-declared-he-ended-the-war-on-crypto-once-and-for-all-by-terminating-Operation-Choke-Point-20",
-    "source": "@coinmarketcap",
-    "published": "Thu Aug 20 2026 04:25:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Coinbase Adds Hyperliquid Perpetual Futures Trading to Base App\n\nCoinbase has integrated Hyperliquid perpetual futures trading into its Base App, allowing eligible users to access more than 290 perpetual markets, including BTC, ETH, equities and commodity-related markets, with up",
-    "link": "https://cryptopanic.com/news/33242124/Coinbase-Adds-Hyperliquid-Perpetual-Futures-Trading-to-Base-App-Coinbase-has-integrated-Hyperliquid-perpetual-futures-trading-into-its-Base-App-allowing-eligible-users-to-access-more-than-290-perpetual-markets-including-BTC-ETH-equities-and-commodity-related-markets-with-up",
-    "source": "@wublockchain",
-    "published": "Thu Aug 20 2026 04:24:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "FalconX moves $14M in HYPE to Gate, raising fresh sell-pressure concerns",
-    "link": "https://cryptopanic.com/news/33242025/FalconX-moves-14M-in-HYPE-to-Gate-raising-fresh-sell-pressure-concerns",
-    "source": "cryptopolitan.com",
-    "published": "Thu Aug 20 2026 04:18:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ether jumps 18% to $2,250 as bitcoin tops $69,000 in broad crypto rally",
-    "link": "https://cryptopanic.com/news/33242072/Ether-jumps-18-to-2250-as-bitcoin-tops-69000-in-broad-crypto-rally",
-    "source": "coindesk.com",
-    "published": "Thu Aug 20 2026 04:10:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Eric Trump Says It's 'Exciting to See' Bitcoin's Massive Surge, Deems Digital Assets as the 'Future'— ABTC Stock Rips 13%",
-    "link": "https://cryptopanic.com/news/33242056/Eric-Trump-Says-Its-Exciting-to-See-Bitcoins-Massive-Surge-Deems-Digital-Assets-as-the-Future-ABTC-Stock-Rips-13",
-    "source": "feeds2.benzinga.com",
-    "published": "Thu Aug 20 2026 04:09:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump Backs CLARITY As Senate Debate Continues\n\nDonald Trump called on Congress to pass what he described as a fair version of CLARITY, during a Wednesday press conference.\n\nThe bill would establish a broader regulatory framework for digital assets. It has faced delays over",
-    "link": "https://cryptopanic.com/news/33241996/Trump-Backs-CLARITY-As-Senate-Debate-Continues-Donald-Trump-called-on-Congress-to-pass-what-he-described-as-a-fair-version-of-CLARITY-during-a-Wednesday-press-conference-The-bill-would-establish-a-broader-regulatory-framework-for-digital-assets-It-has-faced-delays-over",
-    "source": "@bscnews",
-    "published": "Thu Aug 20 2026 04:04:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "India's markets regulator is set to overhaul decades-old rules and stem soaring outflows of foreign funds, three sources said, in a move some investors say would help the South Asian nation beef up its weighting in global stock market indexes. More here",
-    "link": "https://cryptopanic.com/news/33242130/Indias-markets-regulator-is-set-to-overhaul-decades-old-rules-and-stem-soaring-outflows-of-foreign-funds-three-sources-said-in-a-move-some-investors-say-would-help-the-South-Asian-nation-beef-up-its-weighting-in-global-stock-market-indexes-More-here",
-    "source": "@reutersbiz",
-    "published": "Thu Aug 20 2026 04:02:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NOW: Cognition CEO Scott Wu and Elon Musk deny SpaceX ever pursued an acquisition of Cognition, calling the reports untrue.",
-    "link": "https://cryptopanic.com/news/33242128/NOW-Cognition-CEO-Scott-Wu-and-Elon-Musk-deny-SpaceX-ever-pursued-an-acquisition-of-Cognition-calling-the-reports-untrue",
-    "source": "@cointelegraph",
-    "published": "Thu Aug 20 2026 04:00:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Metaplanet BitBonds Open New Debt Route for Bitcoin Buys",
-    "link": "https://cryptopanic.com/news/33241952/Metaplanet-BitBonds-Open-New-Debt-Route-for-Bitcoin-Buys",
-    "source": "catenaa.com",
-    "published": "Thu Aug 20 2026 04:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "As the market rebounded, whale bc1qsy sold another 2,000 $BTC ($136.48M).\n\nOver the past month, the whale has sold a total of 9,513 $BTC ($623.43M).",
-    "link": "https://cryptopanic.com/news/33241997/As-the-market-rebounded-whale-bc1qsy-sold-another-2000-BTC-13648M-Over-the-past-month-the-whale-has-sold-a-total-of-9513-BTC-62343M",
-    "source": "@lookonchain",
-    "published": "Thu Aug 20 2026 03:49:54 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
