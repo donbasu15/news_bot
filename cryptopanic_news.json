@@ -1,9 +1,177 @@
 [
   {
+    "title": "OpenLedger’s Ram Kumar sees agentic payments as crypto’s first AI ‘killer app’",
+    "link": "https://cryptopanic.com/news/33244348/OpenLedgers-Ram-Kumar-sees-agentic-payments-as-cryptos-first-AI-killer-app",
+    "source": "theblock.co",
+    "published": "Thu Aug 20 2026 11:34:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Evernorth eyes DeFi opportunities as XRP Ledger weighs native lending",
+    "link": "https://cryptopanic.com/news/33244347/Evernorth-eyes-DeFi-opportunities-as-XRP-Ledger-weighs-native-lending",
+    "source": "theblock.co",
+    "published": "Thu Aug 20 2026 11:34:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BitGo (@BitGo) is the first global crypto firm to receive VASP registration from the Korean Financial Intelligence Unit. \n\nBitGo Korea is authorized to offer custodial and transfer solutions for virtual assets to institutional and enterprise customers, combining BitGo's",
+    "link": "https://cryptopanic.com/news/33244433/BitGo-BitGo-is-the-first-global-crypto-firm-to-receive-VASP-registration-from-the-Korean-Financial-Intelligence-Unit-BitGo-Korea-is-authorized-to-offer-custodial-and-transfer-solutions-for-virtual-assets-to-institutional-and-enterprise-customers-combining-BitGos",
+    "source": "@bscnews",
+    "published": "Thu Aug 20 2026 11:34:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "We had a little Wednesday on FOMO HOUR\n\nft @Tyler_Did_It and @farokh \n🟩 \n🟥",
+    "link": "https://cryptopanic.com/news/33244435/We-had-a-little-Wednesday-on-FOMO-HOUR-ft-Tyler_Did_It-and-farokh",
+    "source": "@decryptmedia",
+    "published": "Thu Aug 20 2026 11:33:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SEC Crypto Proposal Offers New Paths for Crypto Asset Issuers",
+    "link": "https://cryptopanic.com/news/33244341/SEC-Crypto-Proposal-Offers-New-Paths-for-Crypto-Asset-Issuers",
+    "source": "cryptonews.com",
+    "published": "Thu Aug 20 2026 11:32:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Solana Price Prediction: SOL Could Climb Toward $125-$150 if Bitcoin Turns Higher",
+    "link": "https://cryptopanic.com/news/33244300/Solana-Price-Prediction-SOL-Could-Climb-Toward-125-150-if-Bitcoin-Turns-Higher",
+    "source": "coinpaper.com",
+    "published": "Thu Aug 20 2026 11:31:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "More data. More requests. Fresher signals. \n\nSee the changes ⤵️",
+    "link": "https://cryptopanic.com/news/33244285/More-data-More-requests-Fresher-signals-See-the-changes",
+    "source": "@cryptoquant_com",
+    "published": "Thu Aug 20 2026 11:31:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Flock's New AI Police Tool Can Track Drivers Without a Name or License Plate",
+    "link": "https://cryptopanic.com/news/33244303/Flocks-New-AI-Police-Tool-Can-Track-Drivers-Without-a-Name-or-License-Plate",
+    "source": "decrypt.co",
+    "published": "Thu Aug 20 2026 11:31:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CryptoQuant API just got a major upgrade \n\nRate limits are increasing significantly:\n\n→ Basic: 50/day → 10/min\n→ Advanced: 100/day → 60/min\n→ Pro: 20/min → 120/min\n\nPlus, Advanced gets hourly data and Pro gets minute-level data.\n\nBuilt for faster, more serious analysis.",
+    "link": "https://cryptopanic.com/news/33244284/CryptoQuant-API-just-got-a-major-upgrade-Rate-limits-are-increasing-significantly-Basic-50day-10min-Advanced-100day-60min-Pro-20min-120min-Plus-Advanced-gets-hourly-data-and-Pro-gets-minute-level-data-Built-for-faster-more-serious-analysis",
+    "source": "@cryptoquant_com",
+    "published": "Thu Aug 20 2026 11:30:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Why is the market rallying?\n\nICYMI, @itsciaranlyons explains.",
+    "link": "https://cryptopanic.com/news/33244291/Why-is-the-market-rallying-ICYMI-itsciaranlyons-explains",
+    "source": "@cointelegraph",
+    "published": "Thu Aug 20 2026 11:30:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Treasury Bond Buybacks Cool Global Stress",
+    "link": "https://cryptopanic.com/news/33244276/Treasury-Bond-Buybacks-Cool-Global-Stress",
+    "source": "catenaa.com",
+    "published": "Thu Aug 20 2026 11:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "News from Solana DEX aggregators! OKX crossed 30% of daily DEX aggregator volume for the first time.\n\nAggregator share is a scoreboard for one thing: execution quality. \n\n@Solana traders are decidedly choosing @OKX for trading.",
+    "link": "https://cryptopanic.com/news/33244432/News-from-Solana-DEX-aggregators-OKX-crossed-30-of-daily-DEX-aggregator-volume-for-the-first-time-Aggregator-share-is-a-scoreboard-for-one-thing-execution-quality-Solana-traders-are-decidedly-choosing-OKX-for-trading",
+    "source": "@bscnews",
+    "published": "Thu Aug 20 2026 11:28:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Surges Above $71,000 as Raoul Pal Says It's The 'Bessent Put' and 'The Signal Is Enormous'",
+    "link": "https://cryptopanic.com/news/33244366/Bitcoin-Surges-Above-71000-as-Raoul-Pal-Says-Its-The-Bessent-Put-and-The-Signal-Is-Enormous",
+    "source": "feeds2.benzinga.com",
+    "published": "Thu Aug 20 2026 11:27:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Price Prediction: BTC Reclaims 200-Day SMA With $71,500-$72,000 in Sight",
+    "link": "https://cryptopanic.com/news/33244273/Bitcoin-Price-Prediction-BTC-Reclaims-200-Day-SMA-With-71500-72000-in-Sight",
+    "source": "coinpaper.com",
+    "published": "Thu Aug 20 2026 11:26:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ICP's National Messenger App Is Making Progress...\n\nInternet Computer (@DFINITY) is accelerating the launch of Pakistan’s sovereign national messenger, now running on a localized cloud computing platform and in the testing stage with a smaller group.\n\nAccording to ICP's CBO,",
+    "link": "https://cryptopanic.com/news/33244431/ICPs-National-Messenger-App-Is-Making-Progress-Internet-Computer-DFINITY-is-accelerating-the-launch-of-Pakistans-sovereign-national-messenger-now-running-on-a-localized-cloud-computing-platform-and-in-the-testing-stage-with-a-smaller-group-According-to-ICPs-CBO",
+    "source": "@bscnews",
+    "published": "Thu Aug 20 2026 11:20:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ETH’s Rare Double-Digit Surge Could Be Just the Beginning",
+    "link": "https://cryptopanic.com/news/33244222/ETHs-Rare-Double-Digit-Surge-Could-Be-Just-the-Beginning",
+    "source": "cryptopotato.com",
+    "published": "Thu Aug 20 2026 11:16:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: $3,100,000,000 worth of crypto shorts liquidated in the past 24 hours.",
+    "link": "https://cryptopanic.com/news/33244217/JUST-IN-3100000000-worth-of-crypto-shorts-liquidated-in-the-past-24-hours",
+    "source": "@watcherguru",
+    "published": "Thu Aug 20 2026 11:16:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "GnosisDAO Approves Gnosis Chain Shift Toward Ethereum Rollup Model",
     "link": "https://cryptopanic.com/news/33244212/GnosisDAO-Approves-Gnosis-Chain-Shift-Toward-Ethereum-Rollup-Model",
     "source": "newsbtc.com",
     "published": "Thu Aug 20 2026 11:15:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MARKETS: $BTC briefly surges past $72K, up 15% since Monday, after Treasury Secretary Bessent announces debt buybacks and Trump pushes Congress to pass the CLARITY Act at yesterday's White House crypto event.",
+    "link": "https://cryptopanic.com/news/33244289/MARKETS-BTC-briefly-surges-past-72K-up-15-since-Monday-after-Treasury-Secretary-Bessent-announces-debt-buybacks-and-Trump-pushes-Congress-to-pass-the-CLARITY-Act-at-yesterdays-White-House-crypto-event",
+    "source": "@coindesk",
+    "published": "Thu Aug 20 2026 11:14:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33244288/Source",
+    "source": "@wublockchain",
+    "published": "Thu Aug 20 2026 11:14:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "User Loses Over 1,000 ETH in Phishing Attack After Using Tornado Cash’s Expired Official Domain\n\nAccording to community users, a user clicked an old link left in a related bookmark and was redirected to a phishing site through the expired official domain tornado. cash, which had",
+    "link": "https://cryptopanic.com/news/33244287/User-Loses-Over-1000-ETH-in-Phishing-Attack-After-Using-Tornado-Cashs-Expired-Official-Domain-According-to-community-users-a-user-clicked-an-old-link-left-in-a-related-bookmark-and-was-redirected-to-a-phishing-site-through-the-expired-official-domain-tornado-cash-which-had",
+    "source": "@wublockchain",
+    "published": "Thu Aug 20 2026 11:12:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Uniswap Launchpad on Robinhood Chain Breaks Records After 2 Weeks\n\n@TradePools ecosystem activity has surged, with 56,294 tokens launched on the @RobinhoodCrypto chain in just 14 days.\n\nWith @Uniswap's launchpad integration, retail users can easily bypass technical limitations",
+    "link": "https://cryptopanic.com/news/33244430/Uniswap-Launchpad-on-Robinhood-Chain-Breaks-Records-After-2-Weeks-TradePools-ecosystem-activity-has-surged-with-56294-tokens-launched-on-the-RobinhoodCrypto-chain-in-just-14-days-With-Uniswaps-launchpad-integration-retail-users-can-easily-bypass-technical-limitations",
+    "source": "@bscnews",
+    "published": "Thu Aug 20 2026 11:07:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Banks grew their Ethereum exposure 3x faster than Bitcoin in Q2 2026, based on their 13F regulatory filings, per DWF Labs.",
+    "link": "https://cryptopanic.com/news/33244283/LATEST-Banks-grew-their-Ethereum-exposure-3x-faster-than-Bitcoin-in-Q2-2026-based-on-their-13F-regulatory-filings-per-DWF-Labs",
+    "source": "@coinmarketcap",
+    "published": "Thu Aug 20 2026 11:05:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: DEX volume cracked $10B, first time since June 5.",
+    "link": "https://cryptopanic.com/news/33244290/UPDATE-DEX-volume-cracked-10B-first-time-since-June-5",
+    "source": "@cointelegraph",
+    "published": "Thu Aug 20 2026 11:01:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Both $BTC & $ETH saw big spot inflow days after yesterday's move.\n\nWhat is key now is that if the flows keep coming, which they usually do after a huge move & momentum, that price also keeps going with it.\n\nIf price now stalls and we see billions of inflows without any movement,",
+    "link": "https://cryptopanic.com/news/33244429/Both-BTC-amp-ETH-saw-big-spot-inflow-days-after-yesterdays-move-What-is-key-now-is-that-if-the-flows-keep-coming-which-they-usually-do-after-a-huge-move-amp-momentum-that-price-also-keeps-going-with-it-If-price-now-stalls-and-we-see-billions-of-inflows-without-any-movement",
+    "source": "@daancrypto",
+    "published": "Thu Aug 20 2026 11:01:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -35,178 +203,10 @@
     "sentiment": "neutral"
   },
   {
-    "title": "MemeCore Arrives on Nasdaq Through $1 Billion Landmark Treasury Transaction！",
-    "link": "https://cryptopanic.com/news/33244254/MemeCore-Arrives-on-Nasdaq-Through-1-Billion-Landmark-Treasury-Transaction",
-    "source": "beincrypto.com",
-    "published": "Thu Aug 20 2026 10:58:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: $USDT issuer Tether CEO Paolo Ardoino says \"Bitcoin + Gold = hedge against doom.\"",
-    "link": "https://cryptopanic.com/news/33244216/JUST-IN-USDT-issuer-Tether-CEO-Paolo-Ardoino-says-Bitcoin-Gold-hedge-against-doom",
-    "source": "@watcherguru",
-    "published": "Thu Aug 20 2026 10:51:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum ETFs Draw $189 Million in Biggest Single-Day Haul in 10 Months",
-    "link": "https://cryptopanic.com/news/33244253/Ethereum-ETFs-Draw-189-Million-in-Biggest-Single-Day-Haul-in-10-Months",
-    "source": "beincrypto.com",
-    "published": "Thu Aug 20 2026 10:48:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "All the OG memecoins, including SHIB, are awake!\n\nFollowing yesterday's rally, memecoins are in the spotlight today. \n\n@ShibainuCoin's $SHIB, @dogecoin's $DOGE, and @pepecoineth's $PEPE have experienced a decent price surge in 24 hours. \n\nHowever, of the three OG memecoins, PEPE",
-    "link": "https://cryptopanic.com/news/33244054/All-the-OG-memecoins-including-SHIB-are-awake-Following-yesterdays-rally-memecoins-are-in-the-spotlight-today-ShibainuCoins-SHIB-dogecoins-DOGE-and-pepecoineths-PEPE-have-experienced-a-decent-price-surge-in-24-hours-However-of-the-three-OG-memecoins-PEPE",
-    "source": "@bscnews",
-    "published": "Thu Aug 20 2026 10:48:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Also, a lot of projects usually save up good news and announcements during bearish/choppy times knowing it has gets little attention otherwise.\n\nMoves like these usually set those things in motion.",
-    "link": "https://cryptopanic.com/news/33244049/Also-a-lot-of-projects-usually-save-up-good-news-and-announcements-during-bearishchoppy-times-knowing-it-has-gets-little-attention-otherwise-Moves-like-these-usually-set-those-things-in-motion",
-    "source": "@daancrypto",
-    "published": "Thu Aug 20 2026 10:42:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "KuCoin lands ISO 42001 certification as crypto’s AI race raises trust concerns",
-    "link": "https://cryptopanic.com/news/33244039/KuCoin-lands-ISO-42001-certification-as-cryptos-AI-race-raises-trust-concerns",
-    "source": "coinjournal.net",
-    "published": "Thu Aug 20 2026 10:41:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SCOOP: Elon Musk's @X is exploring stablecoin payments for content creators as the platform overhauls its creator rewards program.\n\n@IanAllison123 reports.",
-    "link": "https://cryptopanic.com/news/33244006/SCOOP-Elon-Musks-X-is-exploring-stablecoin-payments-for-content-creators-as-the-platform-overhauls-its-creator-rewards-program-IanAllison123-reports",
-    "source": "@coindesk",
-    "published": "Thu Aug 20 2026 10:41:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin grabs 77% of $1.3 billion crypto fund surge as BlackRock leads the rebound",
-    "link": "https://cryptopanic.com/news/33243976/Bitcoin-grabs-77-of-13-billion-crypto-fund-surge-as-BlackRock-leads-the-rebound",
-    "source": "cryptoslate.com",
-    "published": "Thu Aug 20 2026 10:40:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Happy we have volatility again. It was very boring for a long time. Excited to post more altcoin charts again too.\n\nEnjoy it however long it lasts. Could be a week, could be months. You never know how this market moves.\n\nDon't overleverage, there will always be opportunities,",
-    "link": "https://cryptopanic.com/news/33244048/Happy-we-have-volatility-again-It-was-very-boring-for-a-long-time-Excited-to-post-more-altcoin-charts-again-too-Enjoy-it-however-long-it-lasts-Could-be-a-week-could-be-months-You-never-know-how-this-market-moves-Dont-overleverage-there-will-always-be-opportunities",
-    "source": "@daancrypto",
-    "published": "Thu Aug 20 2026 10:36:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HYPE, Pepe, XRP, lead crypto supercycle... \n\nThe crypto market cap has surged by over 11% in the past 24 hours.\n\nAs a result, it is safe to say that we are in a crypto supercycle, as this is the first time in 2026 that Bitcoin and most altcoins have pumped 10+% in a day. \n\nFor",
-    "link": "https://cryptopanic.com/news/33244053/HYPE-Pepe-XRP-lead-crypto-supercycle-The-crypto-market-cap-has-surged-by-over-11-in-the-past-24-hours-As-a-result-it-is-safe-to-say-that-we-are-in-a-crypto-supercycle-as-this-is-the-first-time-in-2026-that-Bitcoin-and-most-altcoins-have-pumped-10-in-a-day-For",
-    "source": "@bscnews",
-    "published": "Thu Aug 20 2026 10:36:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto Giant OKX Bans Claude Use",
-    "link": "https://cryptopanic.com/news/33244032/Crypto-Giant-OKX-Bans-Claude-Use",
-    "source": "u.today",
-    "published": "Thu Aug 20 2026 10:35:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP price jumps 15% with $9 billion inflow in a day",
-    "link": "https://cryptopanic.com/news/33243956/XRP-price-jumps-15-with-9-billion-inflow-in-a-day",
-    "source": "finbold.com",
-    "published": "Thu Aug 20 2026 10:34:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "How Barron Trump Built a $150 Million Crypto Fortune at 20—The Youngest Trump Is Worth More Than Mother Melania",
-    "link": "https://cryptopanic.com/news/33244027/How-Barron-Trump-Built-a-150-Million-Crypto-Fortune-at-20The-Youngest-Trump-Is-Worth-More-Than-Mother-Melania",
-    "source": "feeds2.benzinga.com",
-    "published": "Thu Aug 20 2026 10:34:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Record Bitcoin short squeeze pushes price above USD 70,000",
-    "link": "https://cryptopanic.com/news/33243929/Record-Bitcoin-short-squeeze-pushes-price-above-USD-70000",
-    "source": "cryptovalleyjournal.com",
-    "published": "Thu Aug 20 2026 10:32:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇲🇾 LATEST: Bitdeer signs a five-year offtake deal worth about $400M for roughly half of its 9.5 MW AI cloud facility in Malaysia.",
-    "link": "https://cryptopanic.com/news/33244009/LATEST-Bitdeer-signs-a-five-year-offtake-deal-worth-about-400M-for-roughly-half-of-its-95-MW-AI-cloud-facility-in-Malaysia",
-    "source": "@cointelegraph",
-    "published": "Thu Aug 20 2026 10:30:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "What Does Injective Becoming a SEC-Registered Transfer Agent Mean?\n\nInjective (@injective) Institutional Services, an Injective affiliate, is now registered with the U.S. Securities and Exchange Commission as a transfer agent.\n\nThis is significant because a transfer agent handles",
-    "link": "https://cryptopanic.com/news/33244052/What-Does-Injective-Becoming-a-SEC-Registered-Transfer-Agent-Mean-Injective-injective-Institutional-Services-an-Injective-affiliate-is-now-registered-with-the-US-Securities-and-Exchange-Commission-as-a-transfer-agent-This-is-significant-because-a-transfer-agent-handles",
-    "source": "@bscnews",
-    "published": "Thu Aug 20 2026 10:30:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Whales Are Profiting From $BTC And $ETH Surge\n\nBig market players have started selling large amounts after the rise in $BTC & $ETH prices.\n\nAccording to Lookonchain, whale 0x4cee liquidated 5,250 $ETH worth $11.76M, for a profit of $1.76M.\n\nMeanwhile, whale bc1qqt sold 550 $BTC",
-    "link": "https://cryptopanic.com/news/33244051/Whales-Are-Profiting-From-BTC-And-ETH-Surge-Big-market-players-have-started-selling-large-amounts-after-the-rise-in-BTC-amp-ETH-prices-According-to-Lookonchain-whale-0x4cee-liquidated-5250-ETH-worth-1176M-for-a-profit-of-176M-Meanwhile-whale-bc1qqt-sold-550-BTC",
-    "source": "@bscnews",
-    "published": "Thu Aug 20 2026 10:26:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Standard Chartered says Bitcoin could hit $100K by year-end after the Treasury doubled some long-term bond buybacks, calling the move \"exactly the type of thing Bitcoin loves.\"",
-    "link": "https://cryptopanic.com/news/33243994/LATEST-Standard-Chartered-says-Bitcoin-could-hit-100K-by-year-end-after-the-Treasury-doubled-some-long-term-bond-buybacks-calling-the-move-exactly-the-type-of-thing-Bitcoin-loves",
-    "source": "@coinmarketcap",
-    "published": "Thu Aug 20 2026 10:25:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BITCOIN JUST SMASHED $72,000\n\nAre we back yet, anon?",
-    "link": "https://cryptopanic.com/news/33243914/BITCOIN-JUST-SMASHED-72000-Are-we-back-yet-anon",
-    "source": "@btc_archive",
-    "published": "Thu Aug 20 2026 10:20:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Pumps 12% in a Day: What the Chart Shows Next",
-    "link": "https://cryptopanic.com/news/33243849/Bitcoin-Pumps-12-in-a-Day-What-the-Chart-Shows-Next",
-    "source": "coindoo.com",
-    "published": "Thu Aug 20 2026 10:16:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "73% of Global Stock Money is Coming to Europe as Iran Threatens the Region",
-    "link": "https://cryptopanic.com/news/33243975/73-of-Global-Stock-Money-is-Coming-to-Europe-as-Iran-Threatens-the-Region",
-    "source": "beincrypto.com",
-    "published": "Thu Aug 20 2026 10:16:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Had One of Its Best Days Since 2020, but Is the Price Rally Worth Trusting?",
-    "link": "https://cryptopanic.com/news/33243973/XRP-Had-One-of-Its-Best-Days-Since-2020-but-Is-the-Price-Rally-Worth-Trusting",
-    "source": "beincrypto.com",
-    "published": "Thu Aug 20 2026 10:14:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "X may soon start paying creators in stablecoins!\n\nImagine receiving @X creator earnings in @Ripple's $RLUSD, @Tether's $USDT, and @Circle's $USDC.",
-    "link": "https://cryptopanic.com/news/33243833/X-may-soon-start-paying-creators-in-stablecoins-Imagine-receiving-X-creator-earnings-in-Ripples-RLUSD-Tethers-USDT-and-Circles-USDC",
-    "source": "@bscnews",
-    "published": "Thu Aug 20 2026 10:12:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SWIFT Taps XRP-Tied Bank For Fresh Cross-Border Deeds",
-    "link": "https://cryptopanic.com/news/33243819/SWIFT-Taps-XRP-Tied-Bank-For-Fresh-Cross-Border-Deeds",
-    "source": "dailycoin.com",
-    "published": "Thu Aug 20 2026 10:12:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Senate GOP tells AI firms data centers are sinking Husted in Ohio",
-    "link": "https://cryptopanic.com/news/33243841/Senate-GOP-tells-AI-firms-data-centers-are-sinking-Husted-in-Ohio",
-    "source": "cryptopolitan.com",
-    "published": "Thu Aug 20 2026 10:10:24 GMT+0000 (Coordinated Universal Time)",
+    "title": "KuCoin announced that its Artificial Intelligence Management System (AIMS) has officially achieved ISO/IEC 42001:2023 certification, reinforcing its capabilities in responsible AI deployment, governance, and continuous improvement. As the world’s first international standard for",
+    "link": "https://cryptopanic.com/news/33244286/KuCoin-announced-that-its-Artificial-Intelligence-Management-System-AIMS-has-officially-achieved-ISOIEC-420012023-certification-reinforcing-its-capabilities-in-responsible-AI-deployment-governance-and-continuous-improvement-As-the-worlds-first-international-standard-for",
+    "source": "@wublockchain",
+    "published": "Thu Aug 20 2026 10:58:43 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
