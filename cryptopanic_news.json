@@ -1,9 +1,51 @@
 [
   {
+    "title": "OpenAI could go public before 2027 if business ‘continues to inflect,’ CFO Friar tells staff",
+    "link": "https://cryptopanic.com/news/33241222/OpenAI-could-go-public-before-2027-if-business-continues-to-inflect-CFO-Friar-tells-staff",
+    "source": "cryptopolitan.com",
+    "published": "Thu Aug 20 2026 01:09:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ADA Price Prediction Eyes $2.60 as Cardano Activity Slows",
+    "link": "https://cryptopanic.com/news/33241208/ADA-Price-Prediction-Eyes-260-as-Cardano-Activity-Slows",
+    "source": "thecoinrepublic.com",
+    "published": "Thu Aug 20 2026 01:05:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "US Housing Slumps as AI Lifts Factory Output",
+    "link": "https://cryptopanic.com/news/33241190/US-Housing-Slumps-as-AI-Lifts-Factory-Output",
+    "source": "catenaa.com",
+    "published": "Thu Aug 20 2026 01:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP is less volatile than it has been in FOUR YEARS.\n\nAccording to commentary from @MSBIntel, @Ripple's native token has an annualised 30 day volatility of just 30%, less than in nearly half a decade.\n\nThe firm pointed out that such levels have historically seen an average price",
+    "link": "https://cryptopanic.com/news/33241226/XRP-is-less-volatile-than-it-has-been-in-FOUR-YEARS-According-to-commentary-from-MSBIntel-Ripples-native-token-has-an-annualised-30-day-volatility-of-just-30-less-than-in-nearly-half-a-decade-The-firm-pointed-out-that-such-levels-have-historically-seen-an-average-price",
+    "source": "@bscnews",
+    "published": "Thu Aug 20 2026 00:59:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Stellar Foundation CEO Denelle Dixon says the CLARITY Act won't open the floodgates for tokenization because \"the floodgates have already opened.\"\n\n“Everybody is already doing this.\"",
+    "link": "https://cryptopanic.com/news/33241184/LATEST-Stellar-Foundation-CEO-Denelle-Dixon-says-the-CLARITY-Act-wont-open-the-floodgates-for-tokenization-because-the-floodgates-have-already-opened-Everybody-is-already-doing-this",
+    "source": "@coinmarketcap",
+    "published": "Thu Aug 20 2026 00:55:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "🇺🇸 TODAY: Crypto executives met with Commerce Secretary Howard Lutnick ahead of Trump's White House remarks to discuss passing the CLARITY Act and easing hurdles to bipartisan passage, per Eleanor Terrett.",
     "link": "https://cryptopanic.com/news/33241188/TODAY-Crypto-executives-met-with-Commerce-Secretary-Howard-Lutnick-ahead-of-Trumps-White-House-remarks-to-discuss-passing-the-CLARITY-Act-and-easing-hurdles-to-bipartisan-passage-per-Eleanor-Terrett",
     "source": "@cointelegraph",
     "published": "Thu Aug 20 2026 00:49:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "What a coincidence!\n\n13 hours ago, a whale created a new wallet (0xedcd), deposited 20M $USDC into Hyperliquid, and opened a 4x long on 20,000 $ETH($45.38M).\n\nShortly after he opened the position, $ETH started surging. \n\nHe is now sitting on an unrealized profit of $6.66M.",
+    "link": "https://cryptopanic.com/news/33241227/What-a-coincidence-13-hours-ago-a-whale-created-a-new-wallet-0xedcd-deposited-20M-USDC-into-Hyperliquid-and-opened-a-4x-long-on-20000-ETH4538M-Shortly-after-he-opened-the-position-ETH-started-surging-He-is-now-sitting-on-an-unrealized-profit-of-666M",
+    "source": "@lookonchain",
+    "published": "Thu Aug 20 2026 00:47:59 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -165,48 +207,6 @@
     "link": "https://cryptopanic.com/news/33241026/JUST-IN-Midnight-surpasses-130000-transactions-on-mainnet-according-to-Midnight-Explorer",
     "source": "@angrycryptoshow",
     "published": "Wed Aug 19 2026 23:36:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 President Trump says \"when our business is good, we should lower interest rates, and you want to build America? You're gonna see building like you've never seen. We're doing great, even despite the fact of what's happening with interest rates.\"",
-    "link": "https://cryptopanic.com/news/33241025/JUST-IN-President-Trump-says-when-our-business-is-good-we-should-lower-interest-rates-and-you-want-to-build-America-Youre-gonna-see-building-like-youve-never-seen-Were-doing-great-even-despite-the-fact-of-whats-happening-with-interest-rates",
-    "source": "@angrycryptoshow",
-    "published": "Wed Aug 19 2026 23:35:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 President Trump says \"interest rates should go down, because the country is strong.\"",
-    "link": "https://cryptopanic.com/news/33241024/JUST-IN-President-Trump-says-interest-rates-should-go-down-because-the-country-is-strong",
-    "source": "@angrycryptoshow",
-    "published": "Wed Aug 19 2026 23:35:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 President Trump signals potential plans for the U.S. government to accumulate various digital assets. Trump says \"it's been talked about, and it's very good for the dollar. If (Paul Atkins and Mike Selig) came in with some recommendations, I would certainly listen.\"",
-    "link": "https://cryptopanic.com/news/33241023/JUST-IN-President-Trump-signals-potential-plans-for-the-US-government-to-accumulate-various-digital-assets-Trump-says-its-been-talked-about-and-its-very-good-for-the-dollar-If-Paul-Atkins-and-Mike-Selig-came-in-with-some-recommendations-I-would-certainly-listen",
-    "source": "@angrycryptoshow",
-    "published": "Wed Aug 19 2026 23:34:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 CFTC Chairman Mike Selig says \"with Congress advancing the CLARITY Act towards the finish line, we stand ready to implement the bill once the President signs it—but we'll use every tool available to move the President's pro-innovation agenda forward in the meantime.\"",
-    "link": "https://cryptopanic.com/news/33240869/JUST-IN-CFTC-Chairman-Mike-Selig-says-with-Congress-advancing-the-CLARITY-Act-towards-the-finish-line-we-stand-ready-to-implement-the-bill-once-the-President-signs-itbut-well-use-every-tool-available-to-move-the-Presidents-pro-innovation-agenda-forward-in-the-meantime",
-    "source": "@angrycryptoshow",
-    "published": "Wed Aug 19 2026 23:31:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Trump declares the Strategic Bitcoin Reserve a major success.\n\n\"It's been amazing!\"",
-    "link": "https://cryptopanic.com/news/33240952/JUST-IN-Trump-declares-the-Strategic-Bitcoin-Reserve-a-major-success-Its-been-amazing",
-    "source": "@btc_archive",
-    "published": "Wed Aug 19 2026 23:31:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: 🇺🇸 President Trump says \"now we need Congress to take the next step by passing the CLARITY Act, a fair version of the CLARITY Act. This powerful legislation will keep us ahead of China, everyone else, and will open the door to the next wave of innovations and innovators.\"",
-    "link": "https://cryptopanic.com/news/33240868/NEW-President-Trump-says-now-we-need-Congress-to-take-the-next-step-by-passing-the-CLARITY-Act-a-fair-version-of-the-CLARITY-Act-This-powerful-legislation-will-keep-us-ahead-of-China-everyone-else-and-will-open-the-door-to-the-next-wave-of-innovations-and-innovators",
-    "source": "@angrycryptoshow",
-    "published": "Wed Aug 19 2026 23:31:23 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
