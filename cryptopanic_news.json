@@ -1,9 +1,65 @@
 [
   {
+    "title": "Market here",
+    "link": "https://cryptopanic.com/news/33254951/Market-here",
+    "source": "@bitcoinmagazine",
+    "published": "Fri Aug 21 2026 21:36:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Grayscale moves closer to launching first Zcash ETF in US with fresh amended SEC filing",
+    "link": "https://cryptopanic.com/news/33254925/Grayscale-moves-closer-to-launching-first-Zcash-ETF-in-US-with-fresh-amended-SEC-filing",
+    "source": "theblock.co",
+    "published": "Fri Aug 21 2026 21:34:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit",
+    "link": "https://cryptopanic.com/news/33254916/Coldcard-Adds-New-Security-Measures-After-130-Million-Bitcoin-Exploit",
+    "source": "decrypt.co",
+    "published": "Fri Aug 21 2026 21:31:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Surges 40% off the Lows: Short Squeeze or Something Bigger?",
+    "link": "https://cryptopanic.com/news/33254949/XRP-Surges-40-off-the-Lows-Short-Squeeze-or-Something-Bigger",
+    "source": "feeds2.benzinga.com",
+    "published": "Fri Aug 21 2026 21:30:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ondo crypto leads the tokenized stocks market – But xStocks is catching up",
+    "link": "https://cryptopanic.com/news/33254914/Ondo-crypto-leads-the-tokenized-stocks-market-But-xStocks-is-catching-up",
+    "source": "ambcrypto.com",
+    "published": "Fri Aug 21 2026 21:30:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: There's now a 66% chance Bitcoin will be above $80,000 this month, according to Polymarket⁠",
+    "link": "https://cryptopanic.com/news/33254950/JUST-IN-Theres-now-a-66-chance-Bitcoin-will-be-above-80000-this-month-according-to-Polymarket",
+    "source": "@bitcoinmagazine",
+    "published": "Fri Aug 21 2026 21:26:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Aptos runs transactions in parallel first and sorts out the collisions after\n\nMost parallel chains require transactions to declare in advance which data they touch. @Aptos does not, per its docs, taking the opposite bet to Solana and Sui.\n\nThe engine called Block-STM runs a",
+    "link": "https://cryptopanic.com/news/33254898/Aptos-runs-transactions-in-parallel-first-and-sorts-out-the-collisions-after-Most-parallel-chains-require-transactions-to-declare-in-advance-which-data-they-touch-Aptos-does-not-per-its-docs-taking-the-opposite-bet-to-Solana-and-Sui-The-engine-called-Block-STM-runs-a",
+    "source": "@bscnews",
+    "published": "Fri Aug 21 2026 21:23:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Cardano will win",
     "link": "https://cryptopanic.com/news/33254802/Cardano-will-win",
     "source": "@angrycryptoshow",
     "published": "Fri Aug 21 2026 21:11:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cardano's Peras proposal would cut waiting for near-certainty from hours to minutes\n\n@Cardano today offers settlement, not finality. An $ADA block gets safer as more stack on top of it, and near-certainty can take hours, per Input Output's documentation.\n\nPeras, a proposed",
+    "link": "https://cryptopanic.com/news/33254896/Cardanos-Peras-proposal-would-cut-waiting-for-near-certainty-from-hours-to-minutes-Cardano-today-offers-settlement-not-finality-An-ADA-block-gets-safer-as-more-stack-on-top-of-it-and-near-certainty-can-take-hours-per-Input-Outputs-documentation-Peras-a-proposed",
+    "source": "@bscnews",
+    "published": "Fri Aug 21 2026 21:07:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -25,6 +81,27 @@
     "link": "https://cryptopanic.com/news/33254766/Assessing-HYPEs-recovery-as-Hyperliquid-whales-move-7738M",
     "source": "ambcrypto.com",
     "published": "Fri Aug 21 2026 21:00:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$AVAX IS BECOMING SERIOUS FINANCIAL INFRASTRUCTURE.\n\nRWA value on @avax has exploded toward $3B+, while billions are flowing through tokenised credit, yield products and global payments as @Delphi_Digital reports.\n\nOut of nowhere Avax has made a huge return, looking like it",
+    "link": "https://cryptopanic.com/news/33254894/AVAX-IS-BECOMING-SERIOUS-FINANCIAL-INFRASTRUCTURE-RWA-value-on-avax-has-exploded-toward-3B-while-billions-are-flowing-through-tokenised-credit-yield-products-and-global-payments-as-Delphi_Digital-reports-Out-of-nowhere-Avax-has-made-a-huge-return-looking-like-it",
+    "source": "@realallincrypto",
+    "published": "Fri Aug 21 2026 21:00:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ray Dalio Sees Japan Debt Crisis Coming to America: 2 Assets Are His Escape Plan",
+    "link": "https://cryptopanic.com/news/33254932/Ray-Dalio-Sees-Japan-Debt-Crisis-Coming-to-America-2-Assets-Are-His-Escape-Plan",
+    "source": "beincrypto.com",
+    "published": "Fri Aug 21 2026 20:58:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Zcash crosses $700 as an ETF push stacks onto the market rally\n\n@Zcash pushed past $700 today, reclaiming the zone that capped its November rally, up 21.5% on the day and 42.7% over the week, with volume more than doubling to $1.44B. zcash:native ranks #11 by market cap at",
+    "link": "https://cryptopanic.com/news/33254895/Zcash-crosses-700-as-an-ETF-push-stacks-onto-the-market-rally-Zcash-pushed-past-700-today-reclaiming-the-zone-that-capped-its-November-rally-up-215-on-the-day-and-427-over-the-week-with-volume-more-than-doubling-to-144B-zcashnative-ranks-11-by-market-cap-at",
+    "source": "@bscnews",
+    "published": "Fri Aug 21 2026 20:51:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -56,16 +133,16 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Weekly Wrap: Bitcoin Breaks Out",
-    "link": "https://cryptopanic.com/news/33254684/Weekly-Wrap-Bitcoin-Breaks-Out",
-    "source": "cryptoprowl.com",
+    "title": "Ripple Says XRP Can Withstand a CLARITY Act Defeat",
+    "link": "https://cryptopanic.com/news/33254643/Ripple-Says-XRP-Can-Withstand-a-CLARITY-Act-Defeat",
+    "source": "dailycoin.com",
     "published": "Fri Aug 21 2026 20:34:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Ripple Says XRP Can Withstand a CLARITY Act Defeat",
-    "link": "https://cryptopanic.com/news/33254643/Ripple-Says-XRP-Can-Withstand-a-CLARITY-Act-Defeat",
-    "source": "dailycoin.com",
+    "title": "Weekly Wrap: Bitcoin Breaks Out",
+    "link": "https://cryptopanic.com/news/33254684/Weekly-Wrap-Bitcoin-Breaks-Out",
+    "source": "cryptoprowl.com",
     "published": "Fri Aug 21 2026 20:34:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -130,83 +207,6 @@
     "link": "https://cryptopanic.com/news/33254640/If-You-Invested-1000-in-Pepe-Coin-When-Elon-Musk-Shared-a-Pepe-Meme-Heres-How-Much-Youd-Have-Today",
     "source": "feeds2.benzinga.com",
     "published": "Fri Aug 21 2026 20:17:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Germany sold 49,858 Bitcoin in July 2024 for €2.64B.\n\nToday, that BTC is worth €3.29B.\n\nThat’s €650M left on the table. Pain.",
-    "link": "https://cryptopanic.com/news/33254596/Germany-sold-49858-Bitcoin-in-July-2024-for-264B-Today-that-BTC-is-worth-329B-Thats-650M-left-on-the-table-Pain",
-    "source": "@btc_archive",
-    "published": "Fri Aug 21 2026 20:13:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Wall Street and Washington Fuel Bitcoin Rally: Here's What's Going On",
-    "link": "https://cryptopanic.com/news/33254541/Wall-Street-and-Washington-Fuel-Bitcoin-Rally-Heres-Whats-Going-On",
-    "source": "decrypt.co",
-    "published": "Fri Aug 21 2026 20:07:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  AI adoption in crypto crime has risen 40% YoY, with deepfake-scam losses already up 263% from all of 2025, per TRM Labs.",
-    "link": "https://cryptopanic.com/news/33254634/LATEST-AI-adoption-in-crypto-crime-has-risen-40-YoY-with-deepfake-scam-losses-already-up-263-from-all-of-2025-per-TRM-Labs",
-    "source": "@coinmarketcap",
-    "published": "Fri Aug 21 2026 20:05:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Justin Sun Scores Court Win Against World Liberty Financial",
-    "link": "https://cryptopanic.com/news/33254540/Justin-Sun-Scores-Court-Win-Against-World-Liberty-Financial",
-    "source": "cryptopotato.com",
-    "published": "Fri Aug 21 2026 20:04:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Whatever the U.S. Treasury picks from its \"Big Toolkit,\" Bitcoin wins.",
-    "link": "https://cryptopanic.com/news/33254595/Whatever-the-US-Treasury-picks-from-its-Big-Toolkit-Bitcoin-wins",
-    "source": "@btc_archive",
-    "published": "Fri Aug 21 2026 20:03:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Injective's synthetic markets stay open when the price feed goes dark\n\n@injective's iAssets track equities, commodities, and FX as synthetic perpetuals, with no wrapping or pre-funding of the underlying. Margin is posted in stablecoins and positions settle in $USDT.\n\nThe markets",
-    "link": "https://cryptopanic.com/news/33254701/Injectives-synthetic-markets-stay-open-when-the-price-feed-goes-dark-injectives-iAssets-track-equities-commodities-and-FX-as-synthetic-perpetuals-with-no-wrapping-or-pre-funding-of-the-underlying-Margin-is-posted-in-stablecoins-and-positions-settle-in-USDT-The-markets",
-    "source": "@bscnews",
-    "published": "Fri Aug 21 2026 20:03:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bessent's Bond Band-Aid, Bitcoin's Best Week Since 2023: This Week on Wall Street",
-    "link": "https://cryptopanic.com/news/33254598/Bessents-Bond-Band-Aid-Bitcoins-Best-Week-Since-2023-This-Week-on-Wall-Street",
-    "source": "feeds2.benzinga.com",
-    "published": "Fri Aug 21 2026 20:01:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UK CRYPTO TAX CRACKDOWN IS RAMPING UP.\n\nHMRC sent 81,172 crypto tax warnings in FY25/26, nearly 3x the number from two years earlier.\n\nWhile crypto ownership is growing, exchanges are increasingly sharing more data in the UK and HMRC now has far better visibility.\n\nThe “they’ll",
-    "link": "https://cryptopanic.com/news/33254700/UK-CRYPTO-TAX-CRACKDOWN-IS-RAMPING-UP-HMRC-sent-81172-crypto-tax-warnings-in-FY2526-nearly-3x-the-number-from-two-years-earlier-While-crypto-ownership-is-growing-exchanges-are-increasingly-sharing-more-data-in-the-UK-and-HMRC-now-has-far-better-visibility-The-theyll",
-    "source": "@realallincrypto",
-    "published": "Fri Aug 21 2026 20:00:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin topped $77,000 for its best week since 2023, CFTC Chair Mike Selig says the agency will write crypto rules itself if Congress can't pass the CLARITY Act, and XRP surges as Ripple backs a new institutional credit fund built around RLUSD.\n\n@uyendoe has what you need to",
-    "link": "https://cryptopanic.com/news/33254637/Bitcoin-topped-77000-for-its-best-week-since-2023-CFTC-Chair-Mike-Selig-says-the-agency-will-write-crypto-rules-itself-if-Congress-cant-pass-the-CLARITY-Act-and-XRP-surges-as-Ripple-backs-a-new-institutional-credit-fund-built-around-RLUSD-uyendoe-has-what-you-need-to",
-    "source": "@coindesk",
-    "published": "Fri Aug 21 2026 20:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Bitcoin consolidated near $77,000 as gold hit a 14-week high, with both assets boosted by US debt policy and growing concerns over deficits and inflation.\n\nDo you think $BTC hits $100,000 before 2027?",
-    "link": "https://cryptopanic.com/news/33254638/UPDATE-Bitcoin-consolidated-near-77000-as-gold-hit-a-14-week-high-with-both-assets-boosted-by-US-debt-policy-and-growing-concerns-over-deficits-and-inflation-Do-you-think-BTC-hits-100000-before-2027",
-    "source": "@cointelegraph",
-    "published": "Fri Aug 21 2026 19:59:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Zcash Rally Extends to 40%: Can ZEC Hit $1,000 This Cycle?",
-    "link": "https://cryptopanic.com/news/33254623/Zcash-Rally-Extends-to-40-Can-ZEC-Hit-1000-This-Cycle",
-    "source": "beincrypto.com",
-    "published": "Fri Aug 21 2026 19:59:24 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
