@@ -1,9 +1,51 @@
 [
   {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33249587/Source",
+    "source": "@wublockchain",
+    "published": "Fri Aug 21 2026 04:41:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NOW: Apple, Amazon, Meta, Microsoft, Nvidia, and Samsung face Chicago class action lawsuits alleging they used thousands of hours of recorded human voices without permission to train AI.",
+    "link": "https://cryptopanic.com/news/33249589/NOW-Apple-Amazon-Meta-Microsoft-Nvidia-and-Samsung-face-Chicago-class-action-lawsuits-alleging-they-used-thousands-of-hours-of-recorded-human-voices-without-permission-to-train-AI",
+    "source": "@cointelegraph",
+    "published": "Fri Aug 21 2026 04:30:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "European markets are back in favor, thanks to the economy weathering the Iran war better than anticipated, a clearer monetary policy outlook versus other regions and limited exposure to AI-driven volatility. More here",
+    "link": "https://cryptopanic.com/news/33249590/European-markets-are-back-in-favor-thanks-to-the-economy-weathering-the-Iran-war-better-than-anticipated-a-clearer-monetary-policy-outlook-versus-other-regions-and-limited-exposure-to-AI-driven-volatility-More-here",
+    "source": "@reutersbiz",
+    "published": "Fri Aug 21 2026 04:22:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Tops $75,000, Ether Jumps 5% as Rally Continues",
+    "link": "https://cryptopanic.com/news/33249513/Bitcoin-Tops-75000-Ether-Jumps-5-as-Rally-Continues",
+    "source": "www.blockhead.co",
+    "published": "Fri Aug 21 2026 04:20:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Binance Employees Reportedly Detained by UAE — Crypto Platform Says Staff Faced 'Routine Enquiries,' All Were 'Promptly Cleared and Released'",
+    "link": "https://cryptopanic.com/news/33249531/Binance-Employees-Reportedly-Detained-by-UAE-Crypto-Platform-Says-Staff-Faced-Routine-Enquiries-All-Were-Promptly-Cleared-and-Released",
+    "source": "feeds2.benzinga.com",
+    "published": "Fri Aug 21 2026 04:14:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "CZ Sees Tokenization Changing How Countries Attract Global Investment\n\nBinance co-founder Changpeng Zhao (@cz_binance) believes tokenization could help countries attract more foreign investment.\n\nHe said tokenized stocks could eventually allow companies to reach investors across",
     "link": "https://cryptopanic.com/news/33249477/CZ-Sees-Tokenization-Changing-How-Countries-Attract-Global-Investment-Binance-co-founder-Changpeng-Zhao-cz_binance-believes-tokenization-could-help-countries-attract-more-foreign-investment-He-said-tokenized-stocks-could-eventually-allow-companies-to-reach-investors-across",
     "source": "@bscnews",
     "published": "Fri Aug 21 2026 04:06:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 BIG: President Trump signs a memorandum aimed at reviving US space transportation leadership, targeting over 1,000 launches and reentries on American soil annually by 2030.",
+    "link": "https://cryptopanic.com/news/33249588/BIG-President-Trump-signs-a-memorandum-aimed-at-reviving-US-space-transportation-leadership-targeting-over-1000-launches-and-reentries-on-American-soil-annually-by-2030",
+    "source": "@cointelegraph",
+    "published": "Fri Aug 21 2026 04:00:57 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -21,6 +63,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Asian Stocks Slide on Bond Stress: Will Safe Havens BTC and Gold Keep Rallying?",
+    "link": "https://cryptopanic.com/news/33249542/Asian-Stocks-Slide-on-Bond-Stress-Will-Safe-Havens-BTC-and-Gold-Keep-Rallying",
+    "source": "beincrypto.com",
+    "published": "Fri Aug 21 2026 03:43:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Shein aims to launch its Hong Kong initial public offering on August 24, according to a source familiar with the matter, and is targeting a listing on September 1, two other sources said, slightly later than previously planned. More here",
     "link": "https://cryptopanic.com/news/33249407/Shein-aims-to-launch-its-Hong-Kong-initial-public-offering-on-August-24-according-to-a-source-familiar-with-the-matter-and-is-targeting-a-listing-on-September-1-two-other-sources-said-slightly-later-than-previously-planned-More-here",
     "source": "@reutersbiz",
@@ -32,6 +81,13 @@
     "link": "https://cryptopanic.com/news/33249475/Binance-Faces-Fresh-UAE-Scrutiny-Over-Third-Party-Fund-Flows-Two-Binance-employees-were-detained-by-UAE-authorities-in-recent-weeks-The-New-York-Times-reported-The-questioning-came-as-authorities-examined-potential-financial-crimes-involving-third-party-fund-flows-Binance",
     "source": "@bscnews",
     "published": "Fri Aug 21 2026 03:38:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Inverse Cramer Strikes Again as Jim Tells Caller to Buy the Bitcoin He Sold",
+    "link": "https://cryptopanic.com/news/33249541/Inverse-Cramer-Strikes-Again-as-Jim-Tells-Caller-to-Buy-the-Bitcoin-He-Sold",
+    "source": "beincrypto.com",
+    "published": "Fri Aug 21 2026 03:37:44 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -151,62 +207,6 @@
     "link": "https://cryptopanic.com/news/33249181/NBA-Stars-Bitcoin-Secret-Financial-Freedom-Revealed",
     "source": "SimplyBitcoin",
     "published": "Fri Aug 21 2026 02:30:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Upbit will list CRV/KRW and CRV/USDT trading pairs at 13:00 local time on August 21. Curve Finance is a decentralized exchange (DEX) and automated market maker (AMM).",
-    "link": "https://cryptopanic.com/news/33249142/Upbit-will-list-CRVKRW-and-CRVUSDT-trading-pairs-at-1300-local-time-on-August-21-Curve-Finance-is-a-decentralized-exchange-DEX-and-automated-market-maker-AMM",
-    "source": "@wublockchain",
-    "published": "Fri Aug 21 2026 02:27:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin breaks through $75,500 while analyst calls current rally ‘premature’",
-    "link": "https://cryptopanic.com/news/33249122/Bitcoin-breaks-through-75500-while-analyst-calls-current-rally-premature",
-    "source": "theblock.co",
-    "published": "Fri Aug 21 2026 02:22:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "DeFi TVL Jumps 9.15% to $83.2 Billion as Spot DEX Volume Tops $10 Billion",
-    "link": "https://cryptopanic.com/news/33249088/DeFi-TVL-Jumps-915-to-832-Billion-as-Spot-DEX-Volume-Tops-10-Billion",
-    "source": "square.binance.com",
-    "published": "Fri Aug 21 2026 02:13:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Chainlink Co-Founder Sergey Nazarov Urges Unified U.S. Crypto Regulation and Tokenization Push",
-    "link": "https://cryptopanic.com/news/33249087/Chainlink-Co-Founder-Sergey-Nazarov-Urges-Unified-US-Crypto-Regulation-and-Tokenization-Push",
-    "source": "square.binance.com",
-    "published": "Fri Aug 21 2026 02:13:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Washington Nationals Option Drops to 14.5% on Polymarket Amid Sharp Volatility",
-    "link": "https://cryptopanic.com/news/33249086/Washington-Nationals-Option-Drops-to-145-on-Polymarket-Amid-Sharp-Volatility",
-    "source": "square.binance.com",
-    "published": "Fri Aug 21 2026 02:13:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: Nvidia has reportedly agreed to pay $6 billion to license AI model-development software and hire 109 employees from startup Poolside, per The Information.",
-    "link": "https://cryptopanic.com/news/33249144/LATEST-Nvidia-has-reportedly-agreed-to-pay-6-billion-to-license-AI-model-development-software-and-hire-109-employees-from-startup-Poolside-per-The-Information",
-    "source": "@cointelegraph",
-    "published": "Fri Aug 21 2026 02:10:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "STOCKS | Shanghai Composite Opens 0.32% Lower as PBOC Conducts RMB 95 Billion Reverse Repo",
-    "link": "https://cryptopanic.com/news/33249085/STOCKS-Shanghai-Composite-Opens-032-Lower-as-PBOC-Conducts-RMB-95-Billion-Reverse-Repo",
-    "source": "square.binance.com",
-    "published": "Fri Aug 21 2026 02:10:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Price Prediction: Will Bitcoin Hit $80K and Surpass $120K?",
-    "link": "https://cryptopanic.com/news/33249490/Bitcoin-Price-Prediction-Will-Bitcoin-Hit-80K-and-Surpass-120K",
-    "source": "coinpedia.org",
-    "published": "Fri Aug 21 2026 02:07:42 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
