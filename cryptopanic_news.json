@@ -1,5 +1,61 @@
 [
   {
+    "title": "MicroCloud Hologram Adds $15.76M Strategy Stake, Shares Rise 5%",
+    "link": "https://cryptopanic.com/news/33254213/MicroCloud-Hologram-Adds-1576M-Strategy-Stake-Shares-Rise-5",
+    "source": "cryptoprowl.com",
+    "published": "Fri Aug 21 2026 18:39:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Is Up 23% and Everyone Is Crediting the Wrong Catalyst",
+    "link": "https://cryptopanic.com/news/33254167/Bitcoin-Is-Up-23-and-Everyone-Is-Crediting-the-Wrong-Catalyst",
+    "source": "dailycoinpost.com",
+    "published": "Fri Aug 21 2026 18:30:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin's True Value! What M2 Chart Reveals Now!",
+    "link": "https://cryptopanic.com/news/33254212/Bitcoins-True-Value-What-M2-Chart-Reveals-Now",
+    "source": "SimplyBitcoin",
+    "published": "Fri Aug 21 2026 18:30:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Standard Chartered says $100K year-end Bitcoin target is \"too low.\"\n\nBTC rally to accelerate after October, predicts research head Geoff Kendrick.",
+    "link": "https://cryptopanic.com/news/33254221/JUST-IN-Standard-Chartered-says-100K-year-end-Bitcoin-target-is-too-low-BTC-rally-to-accelerate-after-October-predicts-research-head-Geoff-Kendrick",
+    "source": "@btc_archive",
+    "published": "Fri Aug 21 2026 18:24:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Pakistan opens crypto licensing as its regulator declares the prohibition era over\n\nPakistan's Virtual Assets Regulatory Authority (@PakistanVARA) notified its licensing regulations Friday and opened the application portal, with Chairman Bilal Bin Saqib (@BilalBinSaqib) declaring",
+    "link": "https://cryptopanic.com/news/33254166/Pakistan-opens-crypto-licensing-as-its-regulator-declares-the-prohibition-era-over-Pakistans-Virtual-Assets-Regulatory-Authority-PakistanVARA-notified-its-licensing-regulations-Friday-and-opened-the-application-portal-with-Chairman-Bilal-Bin-Saqib-BilalBinSaqib-declaring",
+    "source": "@bscnews",
+    "published": "Fri Aug 21 2026 18:20:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "China orders Tesla to recall 2.98 million cars over hidden door releases",
+    "link": "https://cryptopanic.com/news/33254132/China-orders-Tesla-to-recall-298-million-cars-over-hidden-door-releases",
+    "source": "cryptopolitan.com",
+    "published": "Fri Aug 21 2026 18:19:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Billionaire Ray Dalio Says He Expects Bitcoin to 'Do Well'",
+    "link": "https://cryptopanic.com/news/33254190/Billionaire-Ray-Dalio-Says-He-Expects-Bitcoin-to-Do-Well",
+    "source": "u.today",
+    "published": "Fri Aug 21 2026 18:18:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ray Dalio recommends investing 5% to 15% in hard assets, including Bitcoin.",
+    "link": "https://cryptopanic.com/news/33254220/Ray-Dalio-recommends-investing-5-to-15-in-hard-assets-including-Bitcoin",
+    "source": "@btc_archive",
+    "published": "Fri Aug 21 2026 18:17:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "SEC Opens Comment Period On Cboe 3x Bitcoin And Ethereum ETF Proposal",
     "link": "https://cryptopanic.com/news/33254128/SEC-Opens-Comment-Period-On-Cboe-3x-Bitcoin-And-Ethereum-ETF-Proposal",
     "source": "newsbtc.com",
@@ -11,6 +67,20 @@
     "link": "https://cryptopanic.com/news/33253429/The-Bitcoin-Short-Squeeze-Just-CONFIRMED-Wall-Street-Has-LOST-CONTROL-of-Bitcoin-EP-1575",
     "source": "SimplyBitcoin",
     "published": "Fri Aug 21 2026 18:13:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Billionaire Ray Dalio suggests diversifying into gold, bonds, \"and a bit of Bitcoin.\"",
+    "link": "https://cryptopanic.com/news/33254219/JUST-IN-Billionaire-Ray-Dalio-suggests-diversifying-into-gold-bonds-and-a-bit-of-Bitcoin",
+    "source": "@bitcoinmagazine",
+    "published": "Fri Aug 21 2026 18:13:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Another leg up for gold today as the debasement trade appears to be back in full force.\n\nThe record high is +21% from current prices.",
+    "link": "https://cryptopanic.com/news/33254223/Another-leg-up-for-gold-today-as-the-debasement-trade-appears-to-be-back-in-full-force-The-record-high-is-21-from-current-prices",
+    "source": "@stackersatoshi",
+    "published": "Fri Aug 21 2026 18:12:48 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -32,6 +102,13 @@
     "link": "https://cryptopanic.com/news/33254068/Washington-Goes-All-In-on-Crypto-Trump-Pushes-Clarity-SEC-Rules-and-CFTC-Warnings",
     "source": "decrypt.co",
     "published": "Fri Aug 21 2026 18:06:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Why Dogecoin's mining security has run through Litecoin since 2014\n\n@dogecoin descends from @litecoin's codebase and uses the same Scrypt mining algorithm as litecoin:native. That overlap became a security concern in 2014, as miners swung between the two chains chasing rewards.",
+    "link": "https://cryptopanic.com/news/33254165/Why-Dogecoins-mining-security-has-run-through-Litecoin-since-2014-dogecoin-descends-from-litecoins-codebase-and-uses-the-same-Scrypt-mining-algorithm-as-litecoinnative-That-overlap-became-a-security-concern-in-2014-as-miners-swung-between-the-two-chains-chasing-rewards",
+    "source": "@bscnews",
+    "published": "Fri Aug 21 2026 18:04:37 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -60,6 +137,13 @@
     "link": "https://cryptopanic.com/news/33254123/With-the-US-Treasury-Department-proposing-GENIUS-Act-stablecoin-rule-you-dont-want-to-miss-Jasmine-Burgess-of-Blockstream-Capital-Partners-Aaron-Iovine-of-JPMorgan-Chase-and-AmyDavineKim-of-PayPal-for-a-roundtable-on-stablecoins-at-CoinDesk-Policy-amp-Regulation",
     "source": "@coindesk",
     "published": "Fri Aug 21 2026 18:00:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Binance employee's detained in UAE!\n\n$BNB back in the spotlight for the wrong reasons as two employees were detained in the UAE related to possible financial crimes!\n\nBinance has faced plenty of past scrutiny around listings, liquidations and compliance, so naturally, people",
+    "link": "https://cryptopanic.com/news/33254164/Binance-employees-detained-in-UAE-BNB-back-in-the-spotlight-for-the-wrong-reasons-as-two-employees-were-detained-in-the-UAE-related-to-possible-financial-crimes-Binance-has-faced-plenty-of-past-scrutiny-around-listings-liquidations-and-compliance-so-naturally-people",
+    "source": "@realallincrypto",
+    "published": "Fri Aug 21 2026 18:00:21 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -123,90 +207,6 @@
     "link": "https://cryptopanic.com/news/33254115/LATEST-Nasdaq-listed-SharpLink-Gaming-has-staked-another-39319-ETH-per-Lookonchain",
     "source": "@coinmarketcap",
     "published": "Fri Aug 21 2026 17:41:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ALERT: Walmart just had its worst day in four years, but JPMorgan says the dip is a buying opportunity.",
-    "link": "https://cryptopanic.com/news/33254125/ALERT-Walmart-just-had-its-worst-day-in-four-years-but-JPMorgan-says-the-dip-is-a-buying-opportunity",
-    "source": "@cointelegraph",
-    "published": "Fri Aug 21 2026 17:41:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: #Cardano $ADA Founder Charles Hoskinson says \"don't bet against me, we're gonna win this fight.\"",
-    "link": "https://cryptopanic.com/news/33254122/JUST-IN-Cardano-ADA-Founder-Charles-Hoskinson-says-dont-bet-against-me-were-gonna-win-this-fight",
-    "source": "@angrycryptoshow",
-    "published": "Fri Aug 21 2026 17:39:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: #Cardano $ADA Founder Charles Hoskinson says \"crypto is about power to the people, and power to the edges.\"",
-    "link": "https://cryptopanic.com/news/33254121/JUST-IN-Cardano-ADA-Founder-Charles-Hoskinson-says-crypto-is-about-power-to-the-people-and-power-to-the-edges",
-    "source": "@angrycryptoshow",
-    "published": "Fri Aug 21 2026 17:39:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: #Cardano $ADA Founder Charles Hoskinson on Bitcoin DeFi, says \"on the retail side, it'll be B2B2C, and so Pogun will be an underlying protocol and work its way into places where you already have your Bitcoin, then you click a toggle for a basic mode and advanced mode.\"",
-    "link": "https://cryptopanic.com/news/33254120/JUST-IN-Cardano-ADA-Founder-Charles-Hoskinson-on-Bitcoin-DeFi-says-on-the-retail-side-itll-be-B2B2C-and-so-Pogun-will-be-an-underlying-protocol-and-work-its-way-into-places-where-you-already-have-your-Bitcoin-then-you-click-a-toggle-for-a-basic-mode-and-advanced-mode",
-    "source": "@angrycryptoshow",
-    "published": "Fri Aug 21 2026 17:38:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Charles Hoskinson on Bitcoin DeFi, says \"I want to get the retail B2B2C experience, just click the button, and I think you'll see like $50B or $100B of BTC flow through. If you make yield by lending stables and Cardano's hosting that—we're right behind Ethereum on TVL.\"",
-    "link": "https://cryptopanic.com/news/33254119/JUST-IN-Charles-Hoskinson-on-Bitcoin-DeFi-says-I-want-to-get-the-retail-B2B2C-experience-just-click-the-button-and-I-think-youll-see-like-50B-or-100B-of-BTC-flow-through-If-you-make-yield-by-lending-stables-and-Cardanos-hosting-thatwere-right-behind-Ethereum-on-TVL",
-    "source": "@angrycryptoshow",
-    "published": "Fri Aug 21 2026 17:38:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: #Cardano $ADA Founder Charles Hoskinson is focused on a simple user experience for Bitcoin DeFi, says \"my goal is just click the button and start making some yield on your Bitcoin.\"",
-    "link": "https://cryptopanic.com/news/33254118/JUST-IN-Cardano-ADA-Founder-Charles-Hoskinson-is-focused-on-a-simple-user-experience-for-Bitcoin-DeFi-says-my-goal-is-just-click-the-button-and-start-making-some-yield-on-your-Bitcoin",
-    "source": "@angrycryptoshow",
-    "published": "Fri Aug 21 2026 17:37:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Michael Saylor’s Strategy Bitcoin reserve is BACK IN THE GREEN! \n\nAverage cost: $75,385 per BTC.",
-    "link": "https://cryptopanic.com/news/33254045/JUST-IN-Michael-Saylors-Strategy-Bitcoin-reserve-is-BACK-IN-THE-GREEN-Average-cost-75385-per-BTC",
-    "source": "@btc_archive",
-    "published": "Fri Aug 21 2026 17:37:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Breakingviews - ZIM’s shipping boom softens deal shipwreck",
-    "link": "https://cryptopanic.com/news/33253923/Breakingviews-ZIMs-shipping-boom-softens-deal-shipwreck",
-    "source": "@reutersbiz",
-    "published": "Fri Aug 21 2026 17:31:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: #Cardano $ADA Founder Charles Hoskinson says SEC Chairman Paul Atkins is \"favorable\" to digital assets, and \"thinks that it's part of the story of America's innovation. What the SEC released is basically as much as they can do without an act of Congress.\"",
-    "link": "https://cryptopanic.com/news/33253918/JUST-IN-Cardano-ADA-Founder-Charles-Hoskinson-says-SEC-Chairman-Paul-Atkins-is-favorable-to-digital-assets-and-thinks-that-its-part-of-the-story-of-Americas-innovation-What-the-SEC-released-is-basically-as-much-as-they-can-do-without-an-act-of-Congress",
-    "source": "@angrycryptoshow",
-    "published": "Fri Aug 21 2026 17:31:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Edge & Node CEO says AI agents are ready to spend money, but humans aren’t ready to let them",
-    "link": "https://cryptopanic.com/news/33254015/Edge-Node-CEO-says-AI-agents-are-ready-to-spend-money-but-humans-arent-ready-to-let-them",
-    "source": "thestreet.com",
-    "published": "Fri Aug 21 2026 17:30:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Canary Files Fourth Staked TRX ETF Amendment With 1.10% Fee",
-    "link": "https://cryptopanic.com/news/33253914/Canary-Files-Fourth-Staked-TRX-ETF-Amendment-With-110-Fee",
-    "source": "newsbtc.com",
-    "published": "Fri Aug 21 2026 17:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: #Cardano $ADA Founder Charles Hoskinson says the CLARITY Act \"had a lot of problems, but they actually listened, and they fixed it. There were over 300 pages of adjustments, modifications, and other things. I don't think anybody realizes how much work's gone into it.\"",
-    "link": "https://cryptopanic.com/news/33253916/JUST-IN-Cardano-ADA-Founder-Charles-Hoskinson-says-the-CLARITY-Act-had-a-lot-of-problems-but-they-actually-listened-and-they-fixed-it-There-were-over-300-pages-of-adjustments-modifications-and-other-things-I-dont-think-anybody-realizes-how-much-works-gone-into-it",
-    "source": "@angrycryptoshow",
-    "published": "Fri Aug 21 2026 17:29:31 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
