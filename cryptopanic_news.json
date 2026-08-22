@@ -1,5 +1,54 @@
 [
   {
+    "title": "Cardano will win",
+    "link": "https://cryptopanic.com/news/33254802/Cardano-will-win",
+    "source": "@angrycryptoshow",
+    "published": "Fri Aug 21 2026 21:11:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Was At Peak Fear Just Before The Market Turned",
+    "link": "https://cryptopanic.com/news/33251469/Ethereum-Was-At-Peak-Fear-Just-Before-The-Market-Turned",
+    "source": "techgaged.com",
+    "published": "Fri Aug 21 2026 10:25:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ETH's Comeback Is Overdue",
+    "link": "https://cryptopanic.com/news/33247879/ETHs-Comeback-Is-Overdue",
+    "source": "bankless.com",
+    "published": "Thu Aug 20 2026 20:58:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Nobody is actually competing with Ethereum...\n\n@Ethereum's dominance on just about every onchain metric has been overshadowed by $ETH's poor price performance in 2026.\n\nBut don't let this fool you.\n\n$ETH still holds more than 55% of the entire industry's TVL, and nearly 50% of",
+    "link": "https://cryptopanic.com/news/33183100/Nobody-is-actually-competing-with-Ethereum-Ethereums-dominance-on-just-about-every-onchain-metric-has-been-overshadowed-by-ETHs-poor-price-performance-in-2026-But-dont-let-this-fool-you-ETH-still-holds-more-than-55-of-the-entire-industrys-TVL-and-nearly-50-of",
+    "source": "@bscnews",
+    "published": "Mon Aug 10 2026 00:41:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Foundation To Hire An A.I. Security Researcher",
+    "link": "https://cryptopanic.com/news/33169053/Ethereum-Foundation-To-Hire-An-AI-Security-Researcher",
+    "source": "cryptoprowl.com",
+    "published": "Thu Aug 06 2026 19:27:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum researchers propose burning validator rewards to cap staking at 50%",
+    "link": "https://cryptopanic.com/news/33154573/Ethereum-researchers-propose-burning-validator-rewards-to-cap-staking-at-50",
+    "source": "theblock.co",
+    "published": "Tue Aug 04 2026 19:49:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Just Had Its Best Month in a Year: Can ETH Keep Rallying in August?",
+    "link": "https://cryptopanic.com/news/33140592/Ethereum-Just-Had-Its-Best-Month-in-a-Year-Can-ETH-Keep-Rallying-in-August",
+    "source": "cryptopotato.com",
+    "published": "Sun Aug 02 2026 11:27:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "XRP Stops at $1.70 After 60% Weekly Gain: Key Levels Now",
     "link": "https://cryptopanic.com/news/33256743/XRP-Stops-at-170-After-60-Weekly-Gain-Key-Levels-Now",
     "source": "coindoo.com",
@@ -18,6 +67,13 @@
     "link": "https://cryptopanic.com/news/33256750/Woke-up-with-most-of-my-coins-higher-Saw-there-was-a-20-flush-on-many-alts-while-I-slept-That-are-exactly-the-things-you-want-to-see-for-runs-to-keep-going-longer-Quick-leverage-flushes-into-full-on-reversals-Much-better-than-a-pump-into-sideways-chop-which-then-proceeds",
     "source": "@daancrypto",
     "published": "Sat Aug 22 2026 08:23:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The Sandbox Contains Bridge Exploit After Unbacked SAND Minted on Base and BSC",
+    "link": "https://cryptopanic.com/news/33256760/The-Sandbox-Contains-Bridge-Exploit-After-Unbacked-SAND-Minted-on-Base-and-BSC",
+    "source": "beincrypto.com",
+    "published": "Sat Aug 22 2026 08:20:49 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -126,15 +182,15 @@
     "sentiment": "neutral"
   },
   {
-    "title": "RWA Narrative in Crypto: Hype or Long-Term Trend?",
-    "link": "https://cryptopanic.com/news/33256501/RWA-Narrative-in-Crypto-Hype-or-Long-Term-Trend",
+    "title": "Kraken Parent Wants Full Bank Status, But Not in the US Yet",
+    "link": "https://cryptopanic.com/news/33256466/Kraken-Parent-Wants-Full-Bank-Status-But-Not-in-the-US-Yet",
     "source": "coinpaprika.com",
     "published": "Sat Aug 22 2026 07:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Kraken Parent Wants Full Bank Status, But Not in the US Yet",
-    "link": "https://cryptopanic.com/news/33256466/Kraken-Parent-Wants-Full-Bank-Status-But-Not-in-the-US-Yet",
+    "title": "RWA Narrative in Crypto: Hype or Long-Term Trend?",
+    "link": "https://cryptopanic.com/news/33256501/RWA-Narrative-in-Crypto-Hype-or-Long-Term-Trend",
     "source": "coinpaprika.com",
     "published": "Sat Aug 22 2026 07:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
@@ -151,62 +207,6 @@
     "link": "https://cryptopanic.com/news/33256462/Spot-Bitcoin-ETFs-Record-307-Million-in-Net-Inflows-on-August-21-Extending-Five-Day-Streak-On-August-21-ET-spot-Bitcoin-ETFs-recorded-total-net-inflows-of-307-million-marking-five-consecutive-days-of-net-inflows-Spot-Ethereum-ETFs-recorded-total-net-inflows-of-185",
     "source": "@wublockchain",
     "published": "Sat Aug 22 2026 06:57:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana Crosses $94, but $5.8B Is Still on the Line",
-    "link": "https://cryptopanic.com/news/33256441/Solana-Crosses-94-but-58B-Is-Still-on-the-Line",
-    "source": "coindoo.com",
-    "published": "Sat Aug 22 2026 06:46:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stellar has hit a brand-new all-time high TVL!\n\nOn August 21, @StellarOrg's TVL broke past $258 million for the first time in history.\n\nThe new record eclipses the previous ATH of around $244 million, recorded in mid-June, and reflects $XLM's ongoing traction throughout 2026.",
-    "link": "https://cryptopanic.com/news/33256522/Stellar-has-hit-a-brand-new-all-time-high-TVL-On-August-21-StellarOrgs-TVL-broke-past-258-million-for-the-first-time-in-history-The-new-record-eclipses-the-previous-ATH-of-around-244-million-recorded-in-mid-June-and-reflects-XLMs-ongoing-traction-throughout-2026",
-    "source": "@bscnews",
-    "published": "Sat Aug 22 2026 06:46:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source：",
-    "link": "https://cryptopanic.com/news/33256461/Source",
-    "source": "@wublockchain",
-    "published": "Sat Aug 22 2026 06:41:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: ️ Robinhood says Robinhood Chain has crossed $1B in total value locked.",
-    "link": "https://cryptopanic.com/news/33256459/LATEST-Robinhood-says-Robinhood-Chain-has-crossed-1B-in-total-value-locked",
-    "source": "@coinmarketcap",
-    "published": "Sat Aug 22 2026 06:39:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto News: Justin Sun Wins Procedural Battle Against World Liberty Financial",
-    "link": "https://cryptopanic.com/news/33256679/Crypto-News-Justin-Sun-Wins-Procedural-Battle-Against-World-Liberty-Financial",
-    "source": "coinpedia.org",
-    "published": "Sat Aug 22 2026 06:32:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Jane Street Bitcoin ETF Holdings Near $1B, Led by IBIT",
-    "link": "https://cryptopanic.com/news/33256427/Jane-Street-Bitcoin-ETF-Holdings-Near-1B-Led-by-IBIT",
-    "source": "catenaa.com",
-    "published": "Sat Aug 22 2026 06:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "According to Binance market data, TRUMP climbed as high as 3.680 USDT over the past 24 hours, up approximately 116.5% from its 24-hour reference price. It subsequently retreated to 2.862 USDT, down approximately 22.2% from its intraday high, while its 24-hour gain narrowed to",
-    "link": "https://cryptopanic.com/news/33256460/According-to-Binance-market-data-TRUMP-climbed-as-high-as-3680-USDT-over-the-past-24-hours-up-approximately-1165-from-its-24-hour-reference-price-It-subsequently-retreated-to-2862-USDT-down-approximately-222-from-its-intraday-high-while-its-24-hour-gain-narrowed-to",
-    "source": "@wublockchain",
-    "published": "Sat Aug 22 2026 06:21:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: $550,000,000 worth of longs liquidated from the crypto market in the past 60 minutes.",
-    "link": "https://cryptopanic.com/news/33256445/JUST-IN-550000000-worth-of-longs-liquidated-from-the-crypto-market-in-the-past-60-minutes",
-    "source": "@watcherguru",
-    "published": "Sat Aug 22 2026 06:16:42 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
