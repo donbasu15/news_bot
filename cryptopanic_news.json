@@ -1,9 +1,44 @@
 [
   {
+    "title": "The Big Short: Is Our Economy About to Collapse?!",
+    "link": "https://cryptopanic.com/news/33258000/The-Big-Short-Is-Our-Economy-About-to-Collapse",
+    "source": "SimplyBitcoin",
+    "published": "Sat Aug 22 2026 16:35:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Grayscale Is Turning Zcash Into an ETF and the SEC Might Actually Let It Happen",
+    "link": "https://cryptopanic.com/news/33257992/Grayscale-Is-Turning-Zcash-Into-an-ETF-and-the-SEC-Might-Actually-Let-It-Happen",
+    "source": "dailycoinpost.com",
+    "published": "Sat Aug 22 2026 16:32:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ZEC Jumps on Grayscale ETF SEC Update as Zcash Reclaims 2018 Price Levels",
+    "link": "https://cryptopanic.com/news/33257963/ZEC-Jumps-on-Grayscale-ETF-SEC-Update-as-Zcash-Reclaims-2018-Price-Levels",
+    "source": "coinpaper.com",
+    "published": "Sat Aug 22 2026 16:19:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Bitwise CIO Matt Hougan says every asset will trade in tokenized form within 3 to 5 years. \n\n(Source: Bitcoin Magazine Podcast)",
+    "link": "https://cryptopanic.com/news/33258015/LATEST-Bitwise-CIO-Matt-Hougan-says-every-asset-will-trade-in-tokenized-form-within-3-to-5-years-Source-Bitcoin-Magazine-Podcast",
+    "source": "@coinmarketcap",
+    "published": "Sat Aug 22 2026 16:15:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "$ETH Quickly moved back above the Daily 200MA/EMA and the $2.4K level.\n\nPretty key area here in the short term.\n\nPrice did make a higher high technically but is now testing the Weekly 200MA/EMA in this region. Eyes on the weekly close.",
     "link": "https://cryptopanic.com/news/33257952/ETH-Quickly-moved-back-above-the-Daily-200MAEMA-and-the-24K-level-Pretty-key-area-here-in-the-short-term-Price-did-make-a-higher-high-technically-but-is-now-testing-the-Weekly-200MAEMA-in-this-region-Eyes-on-the-weekly-close",
     "source": "@daancrypto",
     "published": "Sat Aug 22 2026 16:09:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "\"The most violent rallies happen in a bear market\"\n\nNope.\nData clearly shows the strongest rallies happen in bull markets.",
+    "link": "https://cryptopanic.com/news/33257979/The-most-violent-rallies-happen-in-a-bear-market-Nope-Data-clearly-shows-the-strongest-rallies-happen-in-bull-markets",
+    "source": "@btc_archive",
+    "published": "Sat Aug 22 2026 16:05:19 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -14,10 +49,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "UPDATE: Aave V4 added over $300M in deposits this week, bringing the total close to $750M.",
+    "link": "https://cryptopanic.com/news/33258017/UPDATE-Aave-V4-added-over-300M-in-deposits-this-week-bringing-the-total-close-to-750M",
+    "source": "@cointelegraph",
+    "published": "Sat Aug 22 2026 16:00:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Chainlink ETFs record five straight inflow days – Is $14 next for LINK?",
     "link": "https://cryptopanic.com/news/33257910/Chainlink-ETFs-record-five-straight-inflow-days-Is-14-next-for-LINK",
     "source": "ambcrypto.com",
     "published": "Sat Aug 22 2026 16:00:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Solana cuts mainnet slot time to 350 milliseconds in first step toward 200ms goal",
+    "link": "https://cryptopanic.com/news/33258021/Solana-cuts-mainnet-slot-time-to-350-milliseconds-in-first-step-toward-200ms-goal",
+    "source": "theblock.co",
+    "published": "Sat Aug 22 2026 15:54:13 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -126,6 +175,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Why Justin Sun Lawsuit Against World Liberty Stays Publicly Important?",
+    "link": "https://cryptopanic.com/news/33258001/Why-Justin-Sun-Lawsuit-Against-World-Liberty-Stays-Publicly-Important",
+    "source": "coinpedia.org",
+    "published": "Sat Aug 22 2026 14:49:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Ripple CEO Speaks Out After White House and CFTC Meetings: Here’s What He Said",
     "link": "https://cryptopanic.com/news/33257676/Ripple-CEO-Speaks-Out-After-White-House-and-CFTC-Meetings-Heres-What-He-Said",
     "source": "cryptopotato.com",
@@ -151,62 +207,6 @@
     "link": "https://cryptopanic.com/news/33257666/Galaxy-Research-Analysis-Flags-Bitcoin-50-Week-MA-Reclaim-as-Bull-Market-Trigger",
     "source": "dailyhodl.com",
     "published": "Sat Aug 22 2026 14:30:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "'Shibarium Isn't Abandoned': SHIB Veteran Debunks Claims of Shiba Inu L2 Not Working",
-    "link": "https://cryptopanic.com/news/33257668/Shibarium-Isnt-Abandoned-SHIB-Veteran-Debunks-Claims-of-Shiba-Inu-L2-Not-Working",
-    "source": "u.today",
-    "published": "Sat Aug 22 2026 14:20:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
-    "link": "https://cryptopanic.com/news/33257776/Web3-gaming-network-Sandbox-stops-Base-and-BNB-chain-bridging-after-exploit",
-    "source": "coindesk.com",
-    "published": "Sat Aug 22 2026 14:10:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "MORE AWARDS FOR $HBAR ECOSYSTEM!\n\nHashgraph CEO @episcini has been named a finalist for Director of the Year at the @usa_fintech Awards.\n\nAs @hedera pushes deeper into institutional finance, AI and real-world adoption, recognition like this matters.",
-    "link": "https://cryptopanic.com/news/33257670/MORE-AWARDS-FOR-HBAR-ECOSYSTEM-Hashgraph-CEO-episcini-has-been-named-a-finalist-for-Director-of-the-Year-at-the-usa_fintech-Awards-As-hedera-pushes-deeper-into-institutional-finance-AI-and-real-world-adoption-recognition-like-this-matters",
-    "source": "@realallincrypto",
-    "published": "Sat Aug 22 2026 14:01:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇺🇸 SEC Commissioner Mark Uyeda says the agency's three immediate crypto goals have been ending regulation by enforcement, issuing interpretive guidance, and working with Congress.",
-    "link": "https://cryptopanic.com/news/33257637/LATEST-SEC-Commissioner-Mark-Uyeda-says-the-agencys-three-immediate-crypto-goals-have-been-ending-regulation-by-enforcement-issuing-interpretive-guidance-and-working-with-Congress",
-    "source": "@coinmarketcap",
-    "published": "Sat Aug 22 2026 14:00:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Harmony says its rollback is complete and the network is operating normally.",
-    "link": "https://cryptopanic.com/news/33257638/UPDATE-Harmony-says-its-rollback-is-complete-and-the-network-is-operating-normally",
-    "source": "@cointelegraph",
-    "published": "Sat Aug 22 2026 14:00:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tokenized stocks risk repeating Wall Street’s 1960s ‘paper crisis,’ Fairmint CEO says",
-    "link": "https://cryptopanic.com/news/33257775/Tokenized-stocks-risk-repeating-Wall-Streets-1960s-paper-crisis-Fairmint-CEO-says",
-    "source": "coindesk.com",
-    "published": "Sat Aug 22 2026 14:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XDC token trading volumes have tumbled in the past year...\n\nAccording to data from @artemis, daily trading volumes on exchanges for @XDCNetwork's $XDC token have collapsed since August 2025.\n\nA year ago, daily volumes typically hovered between $25M and $50M, even reaching a peak",
-    "link": "https://cryptopanic.com/news/33257563/XDC-token-trading-volumes-have-tumbled-in-the-past-year-According-to-data-from-artemis-daily-trading-volumes-on-exchanges-for-XDCNetworks-XDC-token-have-collapsed-since-August-2025-A-year-ago-daily-volumes-typically-hovered-between-25M-and-50M-even-reaching-a-peak",
-    "source": "@bscnews",
-    "published": "Sat Aug 22 2026 13:55:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto Sentiment Flips — Another Major Market Shift May Be Underway",
-    "link": "https://cryptopanic.com/news/33257560/Crypto-Sentiment-Flips-Another-Major-Market-Shift-May-Be-Underway",
-    "source": "techgaged.com",
-    "published": "Sat Aug 22 2026 13:53:38 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
