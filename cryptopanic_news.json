@@ -1,5 +1,47 @@
 [
   {
+    "title": "According to PeckShield monitoring, The Sandbox appears to have been exploited, with approximately 14.9 billion SAND minted across two addresses. The Sandbox has yet to publicly clarify the cause or full scope of the incident.",
+    "link": "https://cryptopanic.com/news/33256388/According-to-PeckShield-monitoring-The-Sandbox-appears-to-have-been-exploited-with-approximately-149-billion-SAND-minted-across-two-addresses-The-Sandbox-has-yet-to-publicly-clarify-the-cause-or-full-scope-of-the-incident",
+    "source": "@wublockchain",
+    "published": "Sat Aug 22 2026 06:09:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "According to OKX market data, TRUMP climbed as high as 3.679 USDT over the past 24 hours, up approximately 117% from its 24-hour reference price. It subsequently retreated to 3.024 USDT, down approximately 17.8% from its intraday high, while its 24-hour gain narrowed to 78.2%.",
+    "link": "https://cryptopanic.com/news/33256387/According-to-OKX-market-data-TRUMP-climbed-as-high-as-3679-USDT-over-the-past-24-hours-up-approximately-117-from-its-24-hour-reference-price-It-subsequently-retreated-to-3024-USDT-down-approximately-178-from-its-intraday-high-while-its-24-hour-gain-narrowed-to-782",
+    "source": "@wublockchain",
+    "published": "Sat Aug 22 2026 06:07:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Spot demand and whales back FET rally, but THIS level could flip the trend",
+    "link": "https://cryptopanic.com/news/33256364/Spot-demand-and-whales-back-FET-rally-but-THIS-level-could-flip-the-trend",
+    "source": "ambcrypto.com",
+    "published": "Sat Aug 22 2026 06:00:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: USDC accounts for virtually all agent-initiated stablecoin transfers through x402, per Token Terminal,",
+    "link": "https://cryptopanic.com/news/33256389/UPDATE-USDC-accounts-for-virtually-all-agent-initiated-stablecoin-transfers-through-x402-per-Token-Terminal",
+    "source": "@cointelegraph",
+    "published": "Sat Aug 22 2026 06:00:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UNI Sets All-Time High Daily Burn Value of ~$590k on August 21\n\nAccording to WuBlockchain Data Center, on August 21, UNI recorded a single-day burn value of approximately $590k, setting a new all-time high in USD terms. Of this, Ethereum accounted for $267k worth of UNI burned,",
+    "link": "https://cryptopanic.com/news/33256386/UNI-Sets-All-Time-High-Daily-Burn-Value-of-590k-on-August-21-According-to-WuBlockchain-Data-Center-on-August-21-UNI-recorded-a-single-day-burn-value-of-approximately-590k-setting-a-new-all-time-high-in-USD-terms-Of-this-Ethereum-accounted-for-267k-worth-of-UNI-burned",
+    "source": "@wublockchain",
+    "published": "Sat Aug 22 2026 05:57:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇺🇸 The Crypto Council for Innovation and Blockchain Association filed suit to block Illinois' 0.2% crypto tax, calling it unconstitutional discrimination against digital assets.",
+    "link": "https://cryptopanic.com/news/33256385/LATEST-The-Crypto-Council-for-Innovation-and-Blockchain-Association-filed-suit-to-block-Illinois-02-crypto-tax-calling-it-unconstitutional-discrimination-against-digital-assets",
+    "source": "@coinmarketcap",
+    "published": "Sat Aug 22 2026 05:52:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "CLARITY Act will get 60+ Senate votes says Coinbase CEO.\n\n@Coinbase CEO @brian_armstrong has shared his belief that the CLARITY Act, scheduled for a US Senate vote on September 15, will receive more than 60 different votes.\n\nThis would be significantly more than is required for",
     "link": "https://cryptopanic.com/news/33256335/CLARITY-Act-will-get-60-Senate-votes-says-Coinbase-CEO-Coinbase-CEO-brian_armstrong-has-shared-his-belief-that-the-CLARITY-Act-scheduled-for-a-US-Senate-vote-on-September-15-will-receive-more-than-60-different-votes-This-would-be-significantly-more-than-is-required-for",
     "source": "@bscnews",
@@ -18,6 +60,13 @@
     "link": "https://cryptopanic.com/news/33256313/What-Is-a-Cross-Chain-Bridge-and-How-Does-It-Work-in-2026",
     "source": "techgaged.com",
     "published": "Sat Aug 22 2026 05:30:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Mainnet TPS",
+    "link": "https://cryptopanic.com/news/33256417/Mainnet-TPS",
+    "source": "r/hedera",
+    "published": "Sat Aug 22 2026 05:30:14 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -158,55 +207,6 @@
     "link": "https://cryptopanic.com/news/33256081/Source",
     "source": "@wublockchain",
     "published": "Sat Aug 22 2026 03:49:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Over 500M SAND Minted in Suspected The Sandbox Security Breach; Upbit Issues Warning, Bithumb Suspends Transfers\n\nMajor metaverse project The Sandbox is suspected of suffering a serious security breach on Base, with an attacker reportedly gaining token minting permissions and",
-    "link": "https://cryptopanic.com/news/33256080/Over-500M-SAND-Minted-in-Suspected-The-Sandbox-Security-Breach-Upbit-Issues-Warning-Bithumb-Suspends-Transfers-Major-metaverse-project-The-Sandbox-is-suspected-of-suffering-a-serious-security-breach-on-Base-with-an-attacker-reportedly-gaining-token-minting-permissions-and",
-    "source": "@wublockchain",
-    "published": "Sat Aug 22 2026 03:48:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Pantera Capital's Cosmo Jiang says \"smart money\" is flooding back into Bitcoin, with the next resistance level around $82,000.",
-    "link": "https://cryptopanic.com/news/33256079/LATEST-Pantera-Capitals-Cosmo-Jiang-says-smart-money-is-flooding-back-into-Bitcoin-with-the-next-resistance-level-around-82000",
-    "source": "@coinmarketcap",
-    "published": "Sat Aug 22 2026 03:35:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Pi Network News: 3 Unconfirmed Catalysts That Could Send PI Higher",
-    "link": "https://cryptopanic.com/news/33256195/Pi-Network-News-3-Unconfirmed-Catalysts-That-Could-Send-PI-Higher",
-    "source": "coinpedia.org",
-    "published": "Sat Aug 22 2026 03:33:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Zcash price jumps 17% as Grayscale advances ZCSH listing plan",
-    "link": "https://cryptopanic.com/news/33255998/Zcash-price-jumps-17-as-Grayscale-advances-ZCSH-listing-plan",
-    "source": "ambcrypto.com",
-    "published": "Sat Aug 22 2026 03:30:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Machi(@machibigbrother), who has been liquidated nearly 500 times, turned just $152K into $12.72M in only 3 days, making a profit of over $12.5M!\n\nLooks like he doesn't need to sell his Bored Apes to keep his longs going anymore.",
-    "link": "https://cryptopanic.com/news/33255996/Machimachibigbrother-who-has-been-liquidated-nearly-500-times-turned-just-152K-into-1272M-in-only-3-days-making-a-profit-of-over-125M-Looks-like-he-doesnt-need-to-sell-his-Bored-Apes-to-keep-his-longs-going-anymore",
-    "source": "@lookonchain",
-    "published": "Sat Aug 22 2026 03:15:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Institutions throw $13 MILLION at $XRP in a single day.\n\nSpot @Ripple ETFs absorbed +$13.24M in net inflows on August 20, bringing the products to a three-day net inflow streak.\n\nSince the start of July, $XRP ETFs have seen only three days of net outflows, and now hold nearly",
-    "link": "https://cryptopanic.com/news/33255994/Institutions-throw-13-MILLION-at-XRP-in-a-single-day-Spot-Ripple-ETFs-absorbed-1324M-in-net-inflows-on-August-20-bringing-the-products-to-a-three-day-net-inflow-streak-Since-the-start-of-July-XRP-ETFs-have-seen-only-three-days-of-net-outflows-and-now-hold-nearly",
-    "source": "@bscnews",
-    "published": "Sat Aug 22 2026 03:14:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BULLISH: Strategy is back in profit on its Bitcoin holdings, with Saylor now up $1.72B, per Arkham.",
-    "link": "https://cryptopanic.com/news/33255943/BULLISH-Strategy-is-back-in-profit-on-its-Bitcoin-holdings-with-Saylor-now-up-172B-per-Arkham",
-    "source": "@cointelegraph",
-    "published": "Sat Aug 22 2026 03:00:12 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
