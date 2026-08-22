@@ -1,51 +1,9 @@
 [
   {
-    "title": "Cardano will win",
-    "link": "https://cryptopanic.com/news/33254802/Cardano-will-win",
-    "source": "@angrycryptoshow",
-    "published": "Fri Aug 21 2026 21:11:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum Was At Peak Fear Just Before The Market Turned",
-    "link": "https://cryptopanic.com/news/33251469/Ethereum-Was-At-Peak-Fear-Just-Before-The-Market-Turned",
-    "source": "techgaged.com",
-    "published": "Fri Aug 21 2026 10:25:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ETH's Comeback Is Overdue",
-    "link": "https://cryptopanic.com/news/33247879/ETHs-Comeback-Is-Overdue",
-    "source": "bankless.com",
-    "published": "Thu Aug 20 2026 20:58:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nobody is actually competing with Ethereum...\n\n@Ethereum's dominance on just about every onchain metric has been overshadowed by $ETH's poor price performance in 2026.\n\nBut don't let this fool you.\n\n$ETH still holds more than 55% of the entire industry's TVL, and nearly 50% of",
-    "link": "https://cryptopanic.com/news/33183100/Nobody-is-actually-competing-with-Ethereum-Ethereums-dominance-on-just-about-every-onchain-metric-has-been-overshadowed-by-ETHs-poor-price-performance-in-2026-But-dont-let-this-fool-you-ETH-still-holds-more-than-55-of-the-entire-industrys-TVL-and-nearly-50-of",
-    "source": "@bscnews",
-    "published": "Mon Aug 10 2026 00:41:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum Foundation To Hire An A.I. Security Researcher",
-    "link": "https://cryptopanic.com/news/33169053/Ethereum-Foundation-To-Hire-An-AI-Security-Researcher",
-    "source": "cryptoprowl.com",
-    "published": "Thu Aug 06 2026 19:27:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum researchers propose burning validator rewards to cap staking at 50%",
-    "link": "https://cryptopanic.com/news/33154573/Ethereum-researchers-propose-burning-validator-rewards-to-cap-staking-at-50",
-    "source": "theblock.co",
-    "published": "Tue Aug 04 2026 19:49:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum Just Had Its Best Month in a Year: Can ETH Keep Rallying in August?",
-    "link": "https://cryptopanic.com/news/33140592/Ethereum-Just-Had-Its-Best-Month-in-a-Year-Can-ETH-Keep-Rallying-in-August",
-    "source": "cryptopotato.com",
-    "published": "Sun Aug 02 2026 11:27:10 GMT+0000 (Coordinated Universal Time)",
+    "title": "Spot BTC ETFs saw net inflows of +$1.9B over the past week, helping fuel the rally from $63k to $80k.\n\nThis is what healthy spot demand looks like.",
+    "link": "https://cryptopanic.com/news/33257342/Spot-BTC-ETFs-saw-net-inflows-of-19B-over-the-past-week-helping-fuel-the-rally-from-63k-to-80k-This-is-what-healthy-spot-demand-looks-like",
+    "source": "@stackersatoshi",
+    "published": "Sat Aug 22 2026 12:21:36 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -67,6 +25,13 @@
     "link": "https://cryptopanic.com/news/33257261/INSIGHT-Trump-probably-isnt-going-to-aggressively-buy-Bitcoin-anytime-soon-In-the-latest-episode-of-Trade-Secrets-itsciaranlyons-sits-down-with-Gracy-Chen-gracybitget-of-Bitget-bitget-to-unpack-the-chances-of-the-US-actually-adding-Bitcoin-to-its-national-reserve",
     "source": "@cointelegraph",
     "published": "Sat Aug 22 2026 12:01:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$XRP IS ABSOLUTELY FLYING.\n\n$XRP surged as much as 38% in the past 7 days, ripping from around $1 to above $1.40 at the highs.\n\nOnce again reminding us when $XRP moves, it MOVES.",
+    "link": "https://cryptopanic.com/news/33257303/XRP-IS-ABSOLUTELY-FLYING-XRP-surged-as-much-as-38-in-the-past-7-days-ripping-from-around-1-to-above-140-at-the-highs-Once-again-reminding-us-when-XRP-moves-it-MOVES",
+    "source": "@realallincrypto",
+    "published": "Sat Aug 22 2026 12:00:28 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -95,6 +60,13 @@
     "link": "https://cryptopanic.com/news/33257142/LATEST-Brian-Armstrong-says-the-CLARITY-Acts-clear-rules-would-not-only-protect-consumers-but-also-protect-us-from-bad-government-or-overreach",
     "source": "@coinmarketcap",
     "published": "Sat Aug 22 2026 11:30:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ripple Stablecoin Lead: This XRP Ledger Feature Could Matter Big for RLUSD",
+    "link": "https://cryptopanic.com/news/33257346/Ripple-Stablecoin-Lead-This-XRP-Ledger-Feature-Could-Matter-Big-for-RLUSD",
+    "source": "u.today",
+    "published": "Sat Aug 22 2026 11:30:05 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -207,6 +179,34 @@
     "link": "https://cryptopanic.com/news/33257084/No-Cardano-Drama-Hoskinson-Thinks-ADA-Price-Connection-Is-No-Coincidence",
     "source": "u.today",
     "published": "Sat Aug 22 2026 10:30:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Meet the crypto industry's most decentralised blockchains...\n\nBased on Nakamoto Coefficient, these are the current rankings, per @chainspect_app data:\n\n(1) @Polkadot $DOT \n(2) @ton_blockchain $TON / $GRAM\n(3) @avax $AVAX \n(4) @SuiNetwork $SUI \n(5) @solana $SOL \n(6) @Cardano $ADA",
+    "link": "https://cryptopanic.com/news/33257055/Meet-the-crypto-industrys-most-decentralised-blockchains-Based-on-Nakamoto-Coefficient-these-are-the-current-rankings-per-chainspect_app-data-1-Polkadot-DOT-2-ton_blockchain-TON-GRAM-3-avax-AVAX-4-SuiNetwork-SUI-5-solana-SOL-6-Cardano-ADA",
+    "source": "@bscnews",
+    "published": "Sat Aug 22 2026 10:19:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin, Ethereum, and XRP Crash as $1.7B Got Liquidated in 24 Hours",
+    "link": "https://cryptopanic.com/news/33257166/Bitcoin-Ethereum-and-XRP-Crash-as-17B-Got-Liquidated-in-24-Hours",
+    "source": "coinpedia.org",
+    "published": "Sat Aug 22 2026 10:16:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "How Low Can Bitcoin Price Drop After the Flash Crash?",
+    "link": "https://cryptopanic.com/news/33257165/How-Low-Can-Bitcoin-Price-Drop-After-the-Flash-Crash",
+    "source": "coinpedia.org",
+    "published": "Sat Aug 22 2026 10:13:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Big $XRP Ledger news: The $BXE powered Banx Network partners with BiFinance on August 26 to further bridge media onto $XRPL. For context, the media industry is worth around $2.5 trillion.\n\n@banxnetwork",
+    "link": "https://cryptopanic.com/news/33256960/Big-XRP-Ledger-news-The-BXE-powered-Banx-Network-partners-with-BiFinance-on-August-26-to-further-bridge-media-onto-XRPL-For-context-the-media-industry-is-worth-around-25-trillion-banxnetwork",
+    "source": "@bscnews",
+    "published": "Sat Aug 22 2026 10:11:38 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
