@@ -1,9 +1,37 @@
 [
   {
+    "title": "Internet Computer contracts can hold and spend Bitcoin without a bridge\n\nSmart contracts on @dfinity's Internet Computer, called canisters, can control Bitcoin, Ethereum, and Solana addresses outright, signing and submitting transactions with no bridge, wrapped asset, or oracle",
+    "link": "https://cryptopanic.com/news/33267169/Internet-Computer-contracts-can-hold-and-spend-Bitcoin-without-a-bridge-Smart-contracts-on-dfinitys-Internet-Computer-called-canisters-can-control-Bitcoin-Ethereum-and-Solana-addresses-outright-signing-and-submitting-transactions-with-no-bridge-wrapped-asset-or-oracle",
+    "source": "@bscnews",
+    "published": "Mon Aug 24 2026 19:50:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Coinbase Brings Tokenized Stocks to Ethereum L2 Base",
+    "link": "https://cryptopanic.com/news/33267171/Coinbase-Brings-Tokenized-Stocks-to-Ethereum-L2-Base",
+    "source": "@decryptmedia",
+    "published": "Mon Aug 24 2026 19:45:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Coinbase Brings Tokenized Stocks to Ethereum L2 Base",
+    "link": "https://cryptopanic.com/news/33267142/Coinbase-Brings-Tokenized-Stocks-to-Ethereum-L2-Base",
+    "source": "decrypt.co",
+    "published": "Mon Aug 24 2026 19:43:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Xpeng’s robotics arm hits $$6.3B valuation with IDG-led $900M funding",
     "link": "https://cryptopanic.com/news/33267137/Xpengs-robotics-arm-hits-63B-valuation-with-IDG-led-900M-funding",
     "source": "cryptopolitan.com",
     "published": "Mon Aug 24 2026 19:40:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cosmos EVM chains told to halt as security incident widens\n\nValidators across chains running the Cosmos EVM module are being asked to stop their networks, with @cosmoslabs_io saying today that its security teams are responding to an ongoing incident affecting the module's users.",
+    "link": "https://cryptopanic.com/news/33267168/Cosmos-EVM-chains-told-to-halt-as-security-incident-widens-Validators-across-chains-running-the-Cosmos-EVM-module-are-being-asked-to-stop-their-networks-with-cosmoslabs_io-saying-today-that-its-security-teams-are-responding-to-an-ongoing-incident-affecting-the-modules-users",
+    "source": "@bscnews",
+    "published": "Mon Aug 24 2026 19:34:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -60,6 +88,13 @@
     "link": "https://cryptopanic.com/news/33267146/LATEST-President-Trump-said-the-US-will-raise-tariffs-on-Canadian-cars-trucks-and-auto-parts-to-50-starting-Jan-1-2027-after-trade-negotiations-broke-down",
     "source": "@cointelegraph",
     "published": "Mon Aug 24 2026 19:20:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Every month, up to 1 billion $XRP unlocks from escrow. Most of it goes straight back in.\n\nHere's how @Ripple's code-enforced supply schedule actually works, and when it might run out ⬇️",
+    "link": "https://cryptopanic.com/news/33267167/Every-month-up-to-1-billion-XRP-unlocks-from-escrow-Most-of-it-goes-straight-back-in-Heres-how-Ripples-code-enforced-supply-schedule-actually-works-and-when-it-might-run-out",
+    "source": "@bscnews",
+    "published": "Mon Aug 24 2026 19:18:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33266999/Peter-Schiff-says-AI-competes-with-Bitcoin-for-capital-power-and-space",
     "source": "cryptopolitan.com",
     "published": "Mon Aug 24 2026 18:52:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Strategy Creates $1.6B Flexible Cash Pool",
-    "link": "https://cryptopanic.com/news/33266994/Strategy-Creates-16B-Flexible-Cash-Pool",
-    "source": "bankless.com",
-    "published": "Mon Aug 24 2026 18:50:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 18% of Americans own Bitcoin & crypto — Survey\n\n14% consider themselves knowledgeable in BTC.\n\nSource: Bitcoin Policy Institute / Cygnal\n\nWe are still so early!",
-    "link": "https://cryptopanic.com/news/33267092/JUST-IN-18-of-Americans-own-Bitcoin-amp-crypto-Survey-14-consider-themselves-knowledgeable-in-BTC-Source-Bitcoin-Policy-Institute-Cygnal-We-are-still-so-early",
-    "source": "@btc_archive",
-    "published": "Mon Aug 24 2026 18:49:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stellar contract data pays rent to stay live and gets archived when it stops\n\nEvery Soroban contract entry on stellar:native's network carries a time-to-live measured in ledgers, a design meant to stop active ledger state from growing without limit. Contracts choose between three",
-    "link": "https://cryptopanic.com/news/33267057/Stellar-contract-data-pays-rent-to-stay-live-and-gets-archived-when-it-stops-Every-Soroban-contract-entry-on-stellarnatives-network-carries-a-time-to-live-measured-in-ledgers-a-design-meant-to-stop-active-ledger-state-from-growing-without-limit-Contracts-choose-between-three",
-    "source": "@bscnews",
-    "published": "Mon Aug 24 2026 18:46:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin, Ethereum, XRP, Dogecoin Hold Ground on Low-Volatility Monday",
-    "link": "https://cryptopanic.com/news/33267032/Bitcoin-Ethereum-XRP-Dogecoin-Hold-Ground-on-Low-Volatility-Monday",
-    "source": "feeds2.benzinga.com",
-    "published": "Mon Aug 24 2026 18:45:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum Could Be the Biggest Winner of the Next Crypto Cycle",
-    "link": "https://cryptopanic.com/news/33267000/Ethereum-Could-Be-the-Biggest-Winner-of-the-Next-Crypto-Cycle",
-    "source": "MilkRoadYoutube",
-    "published": "Mon Aug 24 2026 18:45:28 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
