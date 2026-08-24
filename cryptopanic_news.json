@@ -1,9 +1,79 @@
 [
   {
+    "title": "Cardano will win",
+    "link": "https://cryptopanic.com/news/33254802/Cardano-will-win",
+    "source": "@angrycryptoshow",
+    "published": "Fri Aug 21 2026 21:11:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Was At Peak Fear Just Before The Market Turned",
+    "link": "https://cryptopanic.com/news/33251469/Ethereum-Was-At-Peak-Fear-Just-Before-The-Market-Turned",
+    "source": "techgaged.com",
+    "published": "Fri Aug 21 2026 10:25:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ETH's Comeback Is Overdue",
+    "link": "https://cryptopanic.com/news/33247879/ETHs-Comeback-Is-Overdue",
+    "source": "bankless.com",
+    "published": "Thu Aug 20 2026 20:58:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Nobody is actually competing with Ethereum...\n\n@Ethereum's dominance on just about every onchain metric has been overshadowed by $ETH's poor price performance in 2026.\n\nBut don't let this fool you.\n\n$ETH still holds more than 55% of the entire industry's TVL, and nearly 50% of",
+    "link": "https://cryptopanic.com/news/33183100/Nobody-is-actually-competing-with-Ethereum-Ethereums-dominance-on-just-about-every-onchain-metric-has-been-overshadowed-by-ETHs-poor-price-performance-in-2026-But-dont-let-this-fool-you-ETH-still-holds-more-than-55-of-the-entire-industrys-TVL-and-nearly-50-of",
+    "source": "@bscnews",
+    "published": "Mon Aug 10 2026 00:41:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Foundation To Hire An A.I. Security Researcher",
+    "link": "https://cryptopanic.com/news/33169053/Ethereum-Foundation-To-Hire-An-AI-Security-Researcher",
+    "source": "cryptoprowl.com",
+    "published": "Thu Aug 06 2026 19:27:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum researchers propose burning validator rewards to cap staking at 50%",
+    "link": "https://cryptopanic.com/news/33154573/Ethereum-researchers-propose-burning-validator-rewards-to-cap-staking-at-50",
+    "source": "theblock.co",
+    "published": "Tue Aug 04 2026 19:49:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Just Had Its Best Month in a Year: Can ETH Keep Rallying in August?",
+    "link": "https://cryptopanic.com/news/33140592/Ethereum-Just-Had-Its-Best-Month-in-a-Year-Can-ETH-Keep-Rallying-in-August",
+    "source": "cryptopotato.com",
+    "published": "Sun Aug 02 2026 11:27:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tether’s Uruguay Mining Exit Shows the Risk of Unsecured Power",
+    "link": "https://cryptopanic.com/news/33263052/Tethers-Uruguay-Mining-Exit-Shows-the-Risk-of-Unsecured-Power",
+    "source": "coinspeaker.com",
+    "published": "Mon Aug 24 2026 07:50:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Upbit And Bithumb Flag ethereum:0x3845badade8e6dff049820680d1f14bd3903a5d0 Over Security Concerns\n\nThe exchanges cited unresolved security incidents involving The Sandbox ecosystem.\n\nPotential wallet or distributed ledger hacks were among the concerns raised.",
+    "link": "https://cryptopanic.com/news/33263071/Upbit-And-Bithumb-Flag-ethereum0x3845badade8e6dff049820680d1f14bd3903a5d0-Over-Security-Concerns-The-exchanges-cited-unresolved-security-incidents-involving-The-Sandbox-ecosystem-Potential-wallet-or-distributed-ledger-hacks-were-among-the-concerns-raised",
+    "source": "@bscnews",
+    "published": "Mon Aug 24 2026 07:49:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST:  Grayscale Research says adoption trends, cycle stage, and macro conditions all indicate current Bitcoin prices are a favorable entry point for long-term investors.",
     "link": "https://cryptopanic.com/news/33263016/LATEST-Grayscale-Research-says-adoption-trends-cycle-stage-and-macro-conditions-all-indicate-current-Bitcoin-prices-are-a-favorable-entry-point-for-long-term-investors",
     "source": "@coinmarketcap",
     "published": "Mon Aug 24 2026 07:37:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LayerZero to Wind Down Support for 15 Low-Activity Chains\n\nLayerZero (@LayerZero_Core) is winding down offchain support for 15 chains with minimal activity.\n\nThe change means its DVN and Executor services will no longer operate on these networks.\n\nAffected chains include EDU",
+    "link": "https://cryptopanic.com/news/33263070/LayerZero-to-Wind-Down-Support-for-15-Low-Activity-Chains-LayerZero-LayerZero_Core-is-winding-down-offchain-support-for-15-chains-with-minimal-activity-The-change-means-its-DVN-and-Executor-services-will-no-longer-operate-on-these-networks-Affected-chains-include-EDU",
+    "source": "@bscnews",
+    "published": "Mon Aug 24 2026 07:33:51 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -39,6 +109,13 @@
     "link": "https://cryptopanic.com/news/33262879/Phantom-Is-Dropping-Sui-Support-What-Happens-to-the-Tokens",
     "source": "coindoo.com",
     "published": "Mon Aug 24 2026 07:19:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "3 Token Unlocks to Watch in the Final Week of August 2026",
+    "link": "https://cryptopanic.com/news/33263048/3-Token-Unlocks-to-Watch-in-the-Final-Week-of-August-2026",
+    "source": "beincrypto.com",
+    "published": "Mon Aug 24 2026 07:19:23 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -130,83 +207,6 @@
     "link": "https://cryptopanic.com/news/33263019/UPDATE-Crypto-Fear-amp-Greed-Index-jumps-to-73-Greed-a-sharp-reversal-from-Fear-territory-just-a-week-ago",
     "source": "@cointelegraph",
     "published": "Mon Aug 24 2026 07:00:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "WATCH: Electric vehicle sales across much of Europe continued to accelerate in July, as high oil prices, subsidies and availability of more affordable models encouraged more consumers to ditch their combustion-engine cars, data provided to Reuters showed",
-    "link": "https://cryptopanic.com/news/33262745/WATCH-Electric-vehicle-sales-across-much-of-Europe-continued-to-accelerate-in-July-as-high-oil-prices-subsidies-and-availability-of-more-affordable-models-encouraged-more-consumers-to-ditch-their-combustion-engine-cars-data-provided-to-Reuters-showed",
-    "source": "@reutersbiz",
-    "published": "Mon Aug 24 2026 07:00:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP And HYPE Face Big Short Bets From Wintermute\n\nMarket maker Wintermute is holding about $190.8 million in short positions on Hyperliquid.\n\nOnchain Lens data shows the positions span ethereum:native, bitcoin:native, solana:So11111111111111111111111111111111111111112,",
-    "link": "https://cryptopanic.com/news/33262847/XRP-And-HYPE-Face-Big-Short-Bets-From-Wintermute-Market-maker-Wintermute-is-holding-about-1908-million-in-short-positions-on-Hyperliquid-Onchain-Lens-data-shows-the-positions-span-ethereumnative-bitcoinnative-solanaSo11111111111111111111111111111111111111112",
-    "source": "@bscnews",
-    "published": "Mon Aug 24 2026 06:56:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Over the past 30 minutes, #Ceffu deposited 136.54M $USDC into #Binance, then withdrew 1,524 $BTC ($117.89M) and 59,484 $ETH ($145.92M) from #Binance.",
-    "link": "https://cryptopanic.com/news/33262849/Over-the-past-30-minutes-Ceffu-deposited-13654M-USDC-into-Binance-then-withdrew-1524-BTC-11789M-and-59484-ETH-14592M-from-Binance",
-    "source": "@lookonchain",
-    "published": "Mon Aug 24 2026 06:47:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇵🇰 LATEST: Pakistan opens its crypto licensing portal, giving virtual asset firms until September 5 to apply for approval or shut down operations.",
-    "link": "https://cryptopanic.com/news/33262743/LATEST-Pakistan-opens-its-crypto-licensing-portal-giving-virtual-asset-firms-until-September-5-to-apply-for-approval-or-shut-down-operations",
-    "source": "@cointelegraph",
-    "published": "Mon Aug 24 2026 06:45:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tron Inc. Treasury Tops 711 Million TRX as Stock Jumps 7.49%",
-    "link": "https://cryptopanic.com/news/33262836/Tron-Inc-Treasury-Tops-711-Million-TRX-as-Stock-Jumps-749",
-    "source": "beincrypto.com",
-    "published": "Mon Aug 24 2026 06:34:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Lummis Accuses Banks Of Blocking Crypto CLARITY Act\n\nSenator Cynthia Lummis (@SenLummis) has accused major banks of deliberately obstructing progress on the CLARITY Act.\n\nShe claims banks are demanding changes to the legislation before offering their support.\n\nThe bill is viewed",
-    "link": "https://cryptopanic.com/news/33262846/Lummis-Accuses-Banks-Of-Blocking-Crypto-CLARITY-Act-Senator-Cynthia-Lummis-SenLummis-has-accused-major-banks-of-deliberately-obstructing-progress-on-the-CLARITY-Act-She-claims-banks-are-demanding-changes-to-the-legislation-before-offering-their-support-The-bill-is-viewed",
-    "source": "@bscnews",
-    "published": "Mon Aug 24 2026 06:34:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: Hugging Face is reportedly exploring a sale that could value the AI platform at $13 billion or more, nearly triple its 2023 valuation, per Business Insider.",
-    "link": "https://cryptopanic.com/news/33262742/LATEST-Hugging-Face-is-reportedly-exploring-a-sale-that-could-value-the-AI-platform-at-13-billion-or-more-nearly-triple-its-2023-valuation-per-Business-Insider",
-    "source": "@cointelegraph",
-    "published": "Mon Aug 24 2026 06:30:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Kalshi Pushes Perpetual Futures Beyond Crypto Into Stocks, Copper",
-    "link": "https://cryptopanic.com/news/33262645/Kalshi-Pushes-Perpetual-Futures-Beyond-Crypto-Into-Stocks-Copper",
-    "source": "catenaa.com",
-    "published": "Mon Aug 24 2026 06:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "WATCH: From a trade war in North America, to economic ‘D-day’ in Iran, there is plenty for markets to digest over the week ahead. Moomoo ANZ CEO Michael McCarthy joins us with his take on what to watch",
-    "link": "https://cryptopanic.com/news/33262744/WATCH-From-a-trade-war-in-North-America-to-economic-D-day-in-Iran-there-is-plenty-for-markets-to-digest-over-the-week-ahead-Moomoo-ANZ-CEO-Michael-McCarthy-joins-us-with-his-take-on-what-to-watch",
-    "source": "@reutersbiz",
-    "published": "Mon Aug 24 2026 06:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum lending app Term Finance loses $8.5 million after attacker buys voting power",
-    "link": "https://cryptopanic.com/news/33262730/Ethereum-lending-app-Term-Finance-loses-85-million-after-attacker-buys-voting-power",
-    "source": "coindesk.com",
-    "published": "Mon Aug 24 2026 06:27:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33262741/Source",
-    "source": "@wublockchain",
-    "published": "Mon Aug 24 2026 06:22:51 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
