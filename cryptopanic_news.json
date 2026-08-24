@@ -1,5 +1,82 @@
 [
   {
+    "title": "Crypto Exchange Trading Volumes Double In Five Days",
+    "link": "https://cryptopanic.com/news/33267253/Crypto-Exchange-Trading-Volumes-Double-In-Five-Days",
+    "source": "cryptoprowl.com",
+    "published": "Mon Aug 24 2026 20:15:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Bitcoin is currently having its 3rd best August EVER, currently up 25% this month",
+    "link": "https://cryptopanic.com/news/33267250/JUST-IN-Bitcoin-is-currently-having-its-3rd-best-August-EVER-currently-up-25-this-month",
+    "source": "@bitcoinmagazine",
+    "published": "Mon Aug 24 2026 20:13:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "HPC asks SEC, CFTC to treat equity perps as security futures",
+    "link": "https://cryptopanic.com/news/33267243/HPC-asks-SEC-CFTC-to-treat-equity-perps-as-security-futures",
+    "source": "cryptopolitan.com",
+    "published": "Mon Aug 24 2026 20:10:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Bitcoin ETF volume is surging \n\n$5B traded today — 72% above average.\n\nInstitutional appetite is officially back!",
+    "link": "https://cryptopanic.com/news/33267252/JUST-IN-Bitcoin-ETF-volume-is-surging-5B-traded-today-72-above-average-Institutional-appetite-is-officially-back",
+    "source": "@btc_archive",
+    "published": "Mon Aug 24 2026 20:02:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MASSIVE! QUANT JUST LOCKED IN A MASSIVE U.S. PATENT!\n\n@quantnetwork has officially been granted U.S. Patent 12,695,634 for a secure system designed to connect multiple distributed ledgers.\n\nThat goes straight to Quant’s core thesis, interoperability between financial networks",
+    "link": "https://cryptopanic.com/news/33267166/MASSIVE-QUANT-JUST-LOCKED-IN-A-MASSIVE-US-PATENT-quantnetwork-has-officially-been-granted-US-Patent-12695634-for-a-secure-system-designed-to-connect-multiple-distributed-ledgers-That-goes-straight-to-Quants-core-thesis-interoperability-between-financial-networks",
+    "source": "@realallincrypto",
+    "published": "Mon Aug 24 2026 20:00:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "IGNORE U.S.Treasury \"Emergency Meeting\": The Money Printing DEATH SPIRAL JUST Started... | EP 1576",
+    "link": "https://cryptopanic.com/news/33266167/IGNORE-USTreasury-Emergency-Meeting-The-Money-Printing-DEATH-SPIRAL-JUST-Started-EP-1576",
+    "source": "SimplyBitcoin",
+    "published": "Mon Aug 24 2026 19:59:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Eight years after launch day, now, hedera-hashgraph:native ranks in the top 25 by market cap. Happy birthday to the @hedera team",
+    "link": "https://cryptopanic.com/news/33267170/Eight-years-after-launch-day-now-hedera-hashgraphnative-ranks-in-the-top-25-by-market-cap-Happy-birthday-to-the-hedera-team",
+    "source": "@bscnews",
+    "published": "Mon Aug 24 2026 19:56:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "TAC climbs off record low after exploit forces chain halt",
+    "link": "https://cryptopanic.com/news/33267172/TAC-climbs-off-record-low-after-exploit-forces-chain-halt",
+    "source": "cryptopolitan.com",
+    "published": "Mon Aug 24 2026 19:55:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Why should your rate depend on your loan size? With SALT, it doesn't.\n\n7.49% APR at 30% LTV. \n\nGet started now",
+    "link": "https://cryptopanic.com/news/33267249/Why-should-your-rate-depend-on-your-loan-size-With-SALT-it-doesnt-749-APR-at-30-LTV-Get-started-now",
+    "source": "@bitcoinmagazine",
+    "published": "Mon Aug 24 2026 19:53:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Solana’s RWA Economy Hits $4 Billion as Tokenized Equities Supply Surpasses $486 Million",
+    "link": "https://cryptopanic.com/news/33267016/Solanas-RWA-Economy-Hits-4-Billion-as-Tokenized-Equities-Supply-Surpasses-486-Million",
+    "source": "solanafloor.com",
+    "published": "Mon Aug 24 2026 19:53:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Analyst predicts 60% upside for Circle stock",
+    "link": "https://cryptopanic.com/news/33267222/Analyst-predicts-60-upside-for-Circle-stock",
+    "source": "thestreet.com",
+    "published": "Mon Aug 24 2026 19:52:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Internet Computer contracts can hold and spend Bitcoin without a bridge\n\nSmart contracts on @dfinity's Internet Computer, called canisters, can control Bitcoin, Ethereum, and Solana addresses outright, signing and submitting transactions with no bridge, wrapped asset, or oracle",
     "link": "https://cryptopanic.com/news/33267169/Internet-Computer-contracts-can-hold-and-spend-Bitcoin-without-a-bridge-Smart-contracts-on-dfinitys-Internet-Computer-called-canisters-can-control-Bitcoin-Ethereum-and-Solana-addresses-outright-signing-and-submitting-transactions-with-no-bridge-wrapped-asset-or-oracle",
     "source": "@bscnews",
@@ -7,10 +84,17 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Coinbase Brings Tokenized Stocks to Ethereum L2 Base",
-    "link": "https://cryptopanic.com/news/33267171/Coinbase-Brings-Tokenized-Stocks-to-Ethereum-L2-Base",
-    "source": "@decryptmedia",
-    "published": "Mon Aug 24 2026 19:45:01 GMT+0000 (Coordinated Universal Time)",
+    "title": "JUST IN: Treasury buybacks ended Bitcoin’s ‘cruel summer’ — Eric Balchunas \n\n@EricBalchunas",
+    "link": "https://cryptopanic.com/news/33267251/JUST-IN-Treasury-buybacks-ended-Bitcoins-cruel-summer-Eric-Balchunas-EricBalchunas",
+    "source": "@btc_archive",
+    "published": "Mon Aug 24 2026 19:47:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum, Circle, Coinbase Make Up Analyst's 'Galactic Three'—Here's Why",
+    "link": "https://cryptopanic.com/news/33267192/Ethereum-Circle-Coinbase-Make-Up-Analysts-Galactic-ThreeHeres-Why",
+    "source": "feeds2.benzinga.com",
+    "published": "Mon Aug 24 2026 19:46:32 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -25,6 +109,13 @@
     "link": "https://cryptopanic.com/news/33267137/Xpengs-robotics-arm-hits-63B-valuation-with-IDG-led-900M-funding",
     "source": "cryptopolitan.com",
     "published": "Mon Aug 24 2026 19:40:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Top 3 Altcoins Benefiting Most From Bitcoin's Latest Rally",
+    "link": "https://cryptopanic.com/news/33267232/Top-3-Altcoins-Benefiting-Most-From-Bitcoins-Latest-Rally",
+    "source": "beincrypto.com",
+    "published": "Mon Aug 24 2026 19:35:20 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -116,97 +207,6 @@
     "link": "https://cryptopanic.com/news/33267062/Wintermutes-Big-XRP-Short-to-Burn-Bright-if-Price-Hits-10",
     "source": "dailycoin.com",
     "published": "Mon Aug 24 2026 19:15:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇺🇸 The Hyperliquid Policy Center is urging the SEC and CFTC to adopt a unified framework for perpetual contracts, arguing perps should be classified by economic structure rather than by underlying asset.",
-    "link": "https://cryptopanic.com/news/33267139/LATEST-The-Hyperliquid-Policy-Center-is-urging-the-SEC-and-CFTC-to-adopt-a-unified-framework-for-perpetual-contracts-arguing-perps-should-be-classified-by-economic-structure-rather-than-by-underlying-asset",
-    "source": "@coinmarketcap",
-    "published": "Mon Aug 24 2026 19:11:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BitMine sits 187,000 ETH short of owning 5% of Ethereum’s supply",
-    "link": "https://cryptopanic.com/news/33267060/BitMine-sits-187000-ETH-short-of-owning-5-of-Ethereums-supply",
-    "source": "cryptopolitan.com",
-    "published": "Mon Aug 24 2026 19:10:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto News: Phantom and Sui Split as Wallet Support Ends Sept. 24",
-    "link": "https://cryptopanic.com/news/33267049/Crypto-News-Phantom-and-Sui-Split-as-Wallet-Support-Ends-Sept-24",
-    "source": "thecoinrepublic.com",
-    "published": "Mon Aug 24 2026 19:09:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ZachXBT Links M1llionz to $667K in French Crypto Robberies as Tether Freezes $93K",
-    "link": "https://cryptopanic.com/news/33267050/ZachXBT-Links-M1llionz-to-667K-in-French-Crypto-Robberies-as-Tether-Freezes-93K",
-    "source": "theholycoins.com",
-    "published": "Mon Aug 24 2026 19:08:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Webull CEO tells CNBC \"the increased purchase operations with treasuries...that really sparked a nice rally in Bitcoin.\" \n\n\"We are seeing almost a 300% increase in buy side orders for the big cryptos, Bitcoin and ETH.\"",
-    "link": "https://cryptopanic.com/news/33267091/JUST-IN-Webull-CEO-tells-CNBC-the-increased-purchase-operations-with-treasuriesthat-really-sparked-a-nice-rally-in-Bitcoin-We-are-seeing-almost-a-300-increase-in-buy-side-orders-for-the-big-cryptos-Bitcoin-and-ETH",
-    "source": "@bitcoinmagazine",
-    "published": "Mon Aug 24 2026 19:05:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitmine shares rise 6% as ETH treasury reaches 5.85 million coins\n\n@BitMNR stock trades near $24.22, up 6% intraday, after the company's weekly update put its holdings at 5,847,611 ETH alongside 210 $BTC and $308 million in cash, a total it values at $14.9 billion, including what",
-    "link": "https://cryptopanic.com/news/33267058/Bitmine-shares-rise-6-as-ETH-treasury-reaches-585-million-coins-BitMNR-stock-trades-near-2422-up-6-intraday-after-the-companys-weekly-update-put-its-holdings-at-5847611-ETH-alongside-210-BTC-and-308-million-in-cash-a-total-it-values-at-149-billion-including-what",
-    "source": "@bscnews",
-    "published": "Mon Aug 24 2026 19:02:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 JUST IN: Crypto advocacy groups CCI and Blockchain Association sued Illinois over its 0.2% crypto tax, arguing it violates the US Constitution and federal and state laws.",
-    "link": "https://cryptopanic.com/news/33267145/JUST-IN-Crypto-advocacy-groups-CCI-and-Blockchain-Association-sued-Illinois-over-its-02-crypto-tax-arguing-it-violates-the-US-Constitution-and-federal-and-state-laws",
-    "source": "@cointelegraph",
-    "published": "Mon Aug 24 2026 19:00:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ALGORAND JUST CROSSED 3.5 BILLION TRANSACTIONS.\n\nThat’s 3,500,000,000 transactions finalised on a network built for speed, scale and near-instant settlement.\n\nWhile others talk about adoption, $ALGO keeps proving it onchain. Huge milestone!\n\nFor perspective, 3.5 billion seconds",
-    "link": "https://cryptopanic.com/news/33267053/ALGORAND-JUST-CROSSED-35-BILLION-TRANSACTIONS-Thats-3500000000-transactions-finalised-on-a-network-built-for-speed-scale-and-near-instant-settlement-While-others-talk-about-adoption-ALGO-keeps-proving-it-onchain-Huge-milestone-For-perspective-35-billion-seconds",
-    "source": "@realallincrypto",
-    "published": "Mon Aug 24 2026 19:00:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tron Inc. Expands TRX Treasury To $245M In Nasdaq Corporate Crypto Bet",
-    "link": "https://cryptopanic.com/news/33267014/Tron-Inc-Expands-TRX-Treasury-To-245M-In-Nasdaq-Corporate-Crypto-Bet",
-    "source": "newsbtc.com",
-    "published": "Mon Aug 24 2026 19:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Phantom to Drop Sui in Second Chain Exit",
-    "link": "https://cryptopanic.com/news/33267017/Phantom-to-Drop-Sui-in-Second-Chain-Exit",
-    "source": "bankless.com",
-    "published": "Mon Aug 24 2026 18:59:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Perplexity’s revenue tripled to $750M ahead of Nvidia’s $30B talks",
-    "link": "https://cryptopanic.com/news/33267010/Perplexitys-revenue-tripled-to-750M-ahead-of-Nvidias-30B-talks",
-    "source": "cryptopolitan.com",
-    "published": "Mon Aug 24 2026 18:55:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INSIGHT: Stand With Crypto backs 32 U.S. House incumbents in 2026, with more endorsements on the way. \n\nThe crypto advocacy group rates politicians on industry friendliness and is expanding its congressional ally list ahead of midterms.\n\n@jesseahamilton reports.",
-    "link": "https://cryptopanic.com/news/33267006/INSIGHT-Stand-With-Crypto-backs-32-US-House-incumbents-in-2026-with-more-endorsements-on-the-way-The-crypto-advocacy-group-rates-politicians-on-industry-friendliness-and-is-expanding-its-congressional-ally-list-ahead-of-midterms-jesseahamilton-reports",
-    "source": "@coindesk",
-    "published": "Mon Aug 24 2026 18:52:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Peter Schiff says AI competes with Bitcoin for capital, power, and space",
-    "link": "https://cryptopanic.com/news/33266999/Peter-Schiff-says-AI-competes-with-Bitcoin-for-capital-power-and-space",
-    "source": "cryptopolitan.com",
-    "published": "Mon Aug 24 2026 18:52:35 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
