@@ -1,5 +1,82 @@
 [
   {
+    "title": "Bitcoin, Ethereum ETFs Grew $23 Billion Last Week—Only $2.6 Billion Was New Money",
+    "link": "https://cryptopanic.com/news/33266593/Bitcoin-Ethereum-ETFs-Grew-23-Billion-Last-WeekOnly-26-Billion-Was-New-Money",
+    "source": "decrypt.co",
+    "published": "Mon Aug 24 2026 17:07:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CRCL Could Hit $140, Says Bernstein as Cathie Wood Praises Circle's Disruption",
+    "link": "https://cryptopanic.com/news/33266642/CRCL-Could-Hit-140-Says-Bernstein-as-Cathie-Wood-Praises-Circles-Disruption",
+    "source": "feeds2.benzinga.com",
+    "published": "Mon Aug 24 2026 17:04:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MORPHO surges 17% on DeFi rotation, but can the rally survive selling?",
+    "link": "https://cryptopanic.com/news/33266534/MORPHO-surges-17-on-DeFi-rotation-but-can-the-rally-survive-selling",
+    "source": "ambcrypto.com",
+    "published": "Mon Aug 24 2026 17:00:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Saylor sat out Bitcoin’s 20% rally while Tom Lee bought Ethereum after a 30% surge",
+    "link": "https://cryptopanic.com/news/33266538/Saylor-sat-out-Bitcoins-20-rally-while-Tom-Lee-bought-Ethereum-after-a-30-surge",
+    "source": "cryptoslate.com",
+    "published": "Mon Aug 24 2026 17:00:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "HAPPY BIRTHDAY $HBAR!\n\nHedera Mainnet celebrates it's 8th Birthday TODAY!\n\nEight years ago, @hedera’s mainnet came to life. Today, $HBAR is powering payments, tokenisation, AI, enterprise applications and billions of transactions.\n\nAnd it’s only getting started.",
+    "link": "https://cryptopanic.com/news/33266497/HAPPY-BIRTHDAY-HBAR-Hedera-Mainnet-celebrates-its-8th-Birthday-TODAY-Eight-years-ago-hederas-mainnet-came-to-life-Today-HBAR-is-powering-payments-tokenisation-AI-enterprise-applications-and-billions-of-transactions-And-its-only-getting-started",
+    "source": "@realallincrypto",
+    "published": "Mon Aug 24 2026 17:00:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Samsung Stock Drops As Shareholder Return Plan Disappoints",
+    "link": "https://cryptopanic.com/news/33266510/Samsung-Stock-Drops-As-Shareholder-Return-Plan-Disappoints",
+    "source": "catenaa.com",
+    "published": "Mon Aug 24 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 Public company Ionic Digital increased their treasury by 21 Bitcoin, now totaling 2,882 BTC worth $168 million!",
+    "link": "https://cryptopanic.com/news/33266612/JUST-IN-Public-company-Ionic-Digital-increased-their-treasury-by-21-Bitcoin-now-totaling-2882-BTC-worth-168-million",
+    "source": "@bitcoinmagazine",
+    "published": "Mon Aug 24 2026 16:57:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "One of Asia’s most regulated crypto markets just said yes to Shiba Inu",
+    "link": "https://cryptopanic.com/news/33266597/One-of-Asias-most-regulated-crypto-markets-just-said-yes-to-Shiba-Inu",
+    "source": "thestreet.com",
+    "published": "Mon Aug 24 2026 16:55:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "How is Canada doing so far in the Trump economic spat?",
+    "link": "https://cryptopanic.com/news/33266494/How-is-Canada-doing-so-far-in-the-Trump-economic-spat",
+    "source": "cryptopolitan.com",
+    "published": "Mon Aug 24 2026 16:54:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Just as banks don't publish your balance to the world, crypto privacy tools serve \"essential protective functions\" for users, according to a new @ChangeNOW x @CoinRabbitLoans report",
+    "link": "https://cryptopanic.com/news/33266508/Just-as-banks-dont-publish-your-balance-to-the-world-crypto-privacy-tools-serve-essential-protective-functions-for-users-according-to-a-new-ChangeNOW-x-CoinRabbitLoans-report",
+    "source": "@decryptmedia",
+    "published": "Mon Aug 24 2026 16:52:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "21.56 billion $ADA staked across 2,882 pools, and not a single coin held in custody.\n\nSix years on from Shelley, here's why @Cardano's staking model still holds up ⬇️",
+    "link": "https://cryptopanic.com/news/33266507/2156-billion-ADA-staked-across-2882-pools-and-not-a-single-coin-held-in-custody-Six-years-on-from-Shelley-heres-why-Cardanos-staking-model-still-holds-up",
+    "source": "@bscnews",
+    "published": "Mon Aug 24 2026 16:52:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "What Is the USD1 RWA Vault? How One Stablecoin Product Connects Digital Dollars to Real-World Yield\n\nThe USD1 RWA vault is a new product from @ConcreteXYZ that lets holders put the stablecoin to work. \n\nInstead of holding the USD1 stablecoin to avoid price swings, users can",
     "link": "https://cryptopanic.com/news/33266506/What-Is-the-USD1-RWA-Vault-How-One-Stablecoin-Product-Connects-Digital-Dollars-to-Real-World-Yield-The-USD1-RWA-vault-is-a-new-product-from-ConcreteXYZ-that-lets-holders-put-the-stablecoin-to-work-Instead-of-holding-the-USD1-stablecoin-to-avoid-price-swings-users-can",
     "source": "@bscnews",
@@ -14,6 +91,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Learn more",
+    "link": "https://cryptopanic.com/news/33266443/Learn-more",
+    "source": "@cointelegraph",
+    "published": "Mon Aug 24 2026 16:42:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "️NEW: Console Visa Card by @ConsoleWallet has passed initial testing and is rolling out to wider access.\n\nThe first card on Canton that lets users spend Canton Coin directly for real-world payments.",
     "link": "https://cryptopanic.com/news/33266444/NEW-Console-Visa-Card-by-ConsoleWallet-has-passed-initial-testing-and-is-rolling-out-to-wider-access-The-first-card-on-Canton-that-lets-users-spend-Canton-Coin-directly-for-real-world-payments",
     "source": "@cointelegraph",
@@ -21,10 +105,10 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Learn more",
-    "link": "https://cryptopanic.com/news/33266443/Learn-more",
-    "source": "@cointelegraph",
-    "published": "Mon Aug 24 2026 16:42:19 GMT+0000 (Coordinated Universal Time)",
+    "title": "Bitcoin vs. Gold rebound just started! \n\nPattern points to 98% gains by Jan 2027.",
+    "link": "https://cryptopanic.com/news/33266613/Bitcoin-vs-Gold-rebound-just-started-Pattern-points-to-98-gains-by-Jan-2027",
+    "source": "@btc_archive",
+    "published": "Mon Aug 24 2026 16:40:57 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -123,90 +207,6 @@
     "link": "https://cryptopanic.com/news/33266501/Injective-climbs-39-in-a-week-as-INJ-leads-mid-cap-gainers-injective-protocolnative-trades-at-574-after-adding-94-in-24-hours-with-volume-up-62-to-132-million-The-weekly-gain-stands-at-39-far-ahead-of-a-broader-market-rising-low-single-digits-today-The-advance",
     "source": "@bscnews",
     "published": "Mon Aug 24 2026 16:19:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hyperliquid Policy Center urges SEC, CFTC to harmonize rules for perpetual contracts",
-    "link": "https://cryptopanic.com/news/33266484/Hyperliquid-Policy-Center-urges-SEC-CFTC-to-harmonize-rules-for-perpetual-contracts",
-    "source": "theblock.co",
-    "published": "Mon Aug 24 2026 16:18:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": ".@RebeccaRettig1 tells crypto lawyers their years of advocacy and submissions helped shape the SEC's \"Reg Crypto\" rulemaking, even when it felt like \"yelling into the void.\"",
-    "link": "https://cryptopanic.com/news/33266439/RebeccaRettig1-tells-crypto-lawyers-their-years-of-advocacy-and-submissions-helped-shape-the-SECs-Reg-Crypto-rulemaking-even-when-it-felt-like-yelling-into-the-void",
-    "source": "@coindesk",
-    "published": "Mon Aug 24 2026 16:18:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Going to be wild if he announces this!",
-    "link": "https://cryptopanic.com/news/33266496/Going-to-be-wild-if-he-announces-this",
-    "source": "@realallincrypto",
-    "published": "Mon Aug 24 2026 16:16:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Returns Above $80,000 After 113 Days, $179 Million in Futures Liquidated\n\nAccording to Binance market data, BTC has broken above the $80,000 level, reaching a nearly three-month high, and is currently trading at around $79,174. BTC last broke above $80,000 on May 4, 2026,",
-    "link": "https://cryptopanic.com/news/33266435/Bitcoin-Returns-Above-80000-After-113-Days-179-Million-in-Futures-Liquidated-According-to-Binance-market-data-BTC-has-broken-above-the-80000-level-reaching-a-nearly-three-month-high-and-is-currently-trading-at-around-79174-BTC-last-broke-above-80000-on-May-4-2026",
-    "source": "@wublockchain",
-    "published": "Mon Aug 24 2026 16:16:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Will Go To $85,000 Before a Dip but the Real Story Is Its Role in the AI Economy, Expert Argues",
-    "link": "https://cryptopanic.com/news/33266341/Bitcoin-Will-Go-To-85000-Before-a-Dip-but-the-Real-Story-Is-Its-Role-in-the-AI-Economy-Expert-Argues",
-    "source": "feeds2.benzinga.com",
-    "published": "Mon Aug 24 2026 16:14:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  \"The Big Print\" author Lawrence Lepard pushed back on claims that stablecoins could rescue the Treasury market, noting USDC and USDT's combined supply covers only 3% of the $8T+ in US debt rolled annually.",
-    "link": "https://cryptopanic.com/news/33266431/LATEST-The-Big-Print-author-Lawrence-Lepard-pushed-back-on-claims-that-stablecoins-could-rescue-the-Treasury-market-noting-USDC-and-USDTs-combined-supply-covers-only-3-of-the-8T-in-US-debt-rolled-annually",
-    "source": "@coinmarketcap",
-    "published": "Mon Aug 24 2026 16:11:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 Citadel warns the Treasury's expanded bond buybacks could weaken the US dollar and increase inflation.",
-    "link": "https://cryptopanic.com/news/33266352/JUST-IN-Citadel-warns-the-Treasurys-expanded-bond-buybacks-could-weaken-the-US-dollar-and-increase-inflation",
-    "source": "@watcherguru",
-    "published": "Mon Aug 24 2026 16:10:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: Kalshi traders give a 56% chance that Treasury yields will stay elevated through year-end, despite Bessent’s bond-buyback plan.",
-    "link": "https://cryptopanic.com/news/33266440/LATEST-Kalshi-traders-give-a-56-chance-that-Treasury-yields-will-stay-elevated-through-year-end-despite-Bessents-bond-buyback-plan",
-    "source": "@cointelegraph",
-    "published": "Mon Aug 24 2026 16:10:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cardano (ADA) Jumps Past $0.20: 3 AIs Debate Whether a Rally to $1 Is Possible in 2026",
-    "link": "https://cryptopanic.com/news/33266324/Cardano-ADA-Jumps-Past-020-3-AIs-Debate-Whether-a-Rally-to-1-Is-Possible-in-2026",
-    "source": "cryptopotato.com",
-    "published": "Mon Aug 24 2026 16:10:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Don't sleep on the tokenisation of US real estate!\n\n@asx_capital is a pioneer when it comes to RWAs and real estate. Through ASX' @BNBChain tokenised assets, you can get...\n\n(i) exposure to the appreciation of prime US property.\n\n(ii) monthly yield from the rental income on",
-    "link": "https://cryptopanic.com/news/33266296/Dont-sleep-on-the-tokenisation-of-US-real-estate-asx_capital-is-a-pioneer-when-it-comes-to-RWAs-and-real-estate-Through-ASX-BNBChain-tokenised-assets-you-can-get-i-exposure-to-the-appreciation-of-prime-US-property-ii-monthly-yield-from-the-rental-income-on",
-    "source": "@bscnews",
-    "published": "Mon Aug 24 2026 16:09:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Market here",
-    "link": "https://cryptopanic.com/news/33266351/Market-here",
-    "source": "@bitcoinmagazine",
-    "published": "Mon Aug 24 2026 16:07:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why It Doesn't Matter Who's President",
-    "link": "https://cryptopanic.com/news/33266339/Why-It-Doesnt-Matter-Whos-President",
-    "source": "AnthonyPompliano",
-    "published": "Mon Aug 24 2026 16:06:28 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
