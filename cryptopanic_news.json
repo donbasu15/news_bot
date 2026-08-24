@@ -1,9 +1,44 @@
 [
   {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33262239/Source",
+    "source": "@wublockchain",
+    "published": "Mon Aug 24 2026 04:34:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tether CEO Says USDT Use Is Rising Across Several Developing Countries\n\nTether CEO Paolo Ardoino said on Aug. 23 that USDT adoption is increasing in developing countries including Venezuela, Argentina, Bolivia and Turkey, according to CriptoNoticias.\n\nHe said the stablecoin is",
+    "link": "https://cryptopanic.com/news/33262240/Tether-CEO-Says-USDT-Use-Is-Rising-Across-Several-Developing-Countries-Tether-CEO-Paolo-Ardoino-said-on-Aug-23-that-USDT-adoption-is-increasing-in-developing-countries-including-Venezuela-Argentina-Bolivia-and-Turkey-according-to-CriptoNoticias-He-said-the-stablecoin-is",
+    "source": "@wublockchain",
+    "published": "Mon Aug 24 2026 04:34:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: SoftBank plans a record $6.3 billion retail bond sale in Japan to help fund its massive OpenAI investment commitments, per Bloomberg.",
+    "link": "https://cryptopanic.com/news/33262241/LATEST-SoftBank-plans-a-record-63-billion-retail-bond-sale-in-Japan-to-help-fund-its-massive-OpenAI-investment-commitments-per-Bloomberg",
+    "source": "@cointelegraph",
+    "published": "Mon Aug 24 2026 04:30:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Phantom will drop Sui support in September as network activity remains weak",
+    "link": "https://cryptopanic.com/news/33262152/Phantom-will-drop-Sui-support-in-September-as-network-activity-remains-weak",
+    "source": "cryptopolitan.com",
+    "published": "Mon Aug 24 2026 04:17:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Trump Memecoin Sees Fresh Team Sales\n\nTrump solana:6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN memecoin team sold tokens and collected 3.39 million USDC over the past 11 hours, per Lookonchain.\n\nEarlier Lookonchain data showed 646000 TRUMP moved to the OKX exchange. The value of",
     "link": "https://cryptopanic.com/news/33262140/Trump-Memecoin-Sees-Fresh-Team-Sales-Trump-solana6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN-memecoin-team-sold-tokens-and-collected-339-million-USDC-over-the-past-11-hours-per-Lookonchain-Earlier-Lookonchain-data-showed-646000-TRUMP-moved-to-the-OKX-exchange-The-value-of",
     "source": "@bscnews",
     "published": "Mon Aug 24 2026 04:08:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ledger CTO: Vulnerability in Certain Signing Flows of Ledger’s Ethereum App Fixed\n\nLedger CTO Charles Guillemet said a vulnerability in certain clear-signing flows in the Ledger Ethereum app was discovered by Ledger Donjon and fixed two weeks ago.\n\nUsers who keep their Ledger",
+    "link": "https://cryptopanic.com/news/33262238/Ledger-CTO-Vulnerability-in-Certain-Signing-Flows-of-Ledgers-Ethereum-App-Fixed-Ledger-CTO-Charles-Guillemet-said-a-vulnerability-in-certain-clear-signing-flows-in-the-Ledger-Ethereum-app-was-discovered-by-Ledger-Donjon-and-fixed-two-weeks-ago-Users-who-keep-their-Ledger",
+    "source": "@wublockchain",
+    "published": "Mon Aug 24 2026 04:00:53 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33261922/TSLA-has-shown-considerable-strength-recently-with-225-from-its-local-low-It-is-now-approaching-the-first-major-test-of-this-move-as-it-nears-the-resistance-around-368",
     "source": "@stackersatoshi",
     "published": "Mon Aug 24 2026 02:21:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Phantom to End Support for Sui Network on Sept. 24\n\nPhantom will end support for the Sui network on Sept. 24, 2026. After the transition date, users will no longer be able to view, send, swap or interact with Sui assets in Phantom. The assets will remain onchain and can be",
-    "link": "https://cryptopanic.com/news/33261830/Phantom-to-End-Support-for-Sui-Network-on-Sept-24-Phantom-will-end-support-for-the-Sui-network-on-Sept-24-2026-After-the-transition-date-users-will-no-longer-be-able-to-view-send-swap-or-interact-with-Sui-assets-in-Phantom-The-assets-will-remain-onchain-and-can-be",
-    "source": "@wublockchain",
-    "published": "Mon Aug 24 2026 02:15:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Gold surpasses $4,650",
-    "link": "https://cryptopanic.com/news/33261794/JUST-IN-Gold-surpasses-4650",
-    "source": "@watcherguru",
-    "published": "Mon Aug 24 2026 02:14:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Brent Drops 1.87% as Bessent Vows to Sever Iran’s Economic Lifelines",
-    "link": "https://cryptopanic.com/news/33261930/Brent-Drops-187-as-Bessent-Vows-to-Sever-Irans-Economic-Lifelines",
-    "source": "beincrypto.com",
-    "published": "Mon Aug 24 2026 02:13:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Peter Thiel’s Fund Shows the Next Big AI Bet Is Power, Not Chips",
-    "link": "https://cryptopanic.com/news/33261929/Peter-Thiels-Fund-Shows-the-Next-Big-AI-Bet-Is-Power-Not-Chips",
-    "source": "beincrypto.com",
-    "published": "Mon Aug 24 2026 02:07:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The #Trump team is selling $TRUMP by adding and removing liquidity.\n\nOver the past 10 hours, they have received 3.39M $USDC from selling $TRUMP.",
-    "link": "https://cryptopanic.com/news/33261886/The-Trump-team-is-selling-TRUMP-by-adding-and-removing-liquidity-Over-the-past-10-hours-they-have-received-339M-USDC-from-selling-TRUMP",
-    "source": "@lookonchain",
-    "published": "Mon Aug 24 2026 02:03:25 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
