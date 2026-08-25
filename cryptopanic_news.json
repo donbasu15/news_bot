@@ -1,9 +1,23 @@
 [
   {
+    "title": "Breaking: Bitcoin hits $80k for the first time since May as rally continues",
+    "link": "https://cryptopanic.com/news/33269373/Breaking-Bitcoin-hits-80k-for-the-first-time-since-May-as-rally-continues",
+    "source": "coinjournal.net",
+    "published": "Tue Aug 25 2026 05:41:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "GENIUS Act Rules Face Call For Clearer Stablecoin Boundaries\n\nThe Blockchain Association has submitted comments on proposed customer identification requirements under the GENIUS Act.\n\nIt wants regulators to focus those requirements on primary market issuer customer relationships.",
     "link": "https://cryptopanic.com/news/33269318/GENIUS-Act-Rules-Face-Call-For-Clearer-Stablecoin-Boundaries-The-Blockchain-Association-has-submitted-comments-on-proposed-customer-identification-requirements-under-the-GENIUS-Act-It-wants-regulators-to-focus-those-requirements-on-primary-market-issuer-customer-relationships",
     "source": "@bscnews",
     "published": "Tue Aug 25 2026 05:40:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Strive Buys More Bitcoin While Sitting on a $292 Million Paper Loss",
+    "link": "https://cryptopanic.com/news/33269372/Strive-Buys-More-Bitcoin-While-Sitting-on-a-292-Million-Paper-Loss",
+    "source": "beincrypto.com",
+    "published": "Tue Aug 25 2026 05:36:46 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -28,6 +42,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Bitcoin tops $80,000, solana jumps 8% but rally now runs into overbought warning",
+    "link": "https://cryptopanic.com/news/33269364/Bitcoin-tops-80000-solana-jumps-8-but-rally-now-runs-into-overbought-warning",
+    "source": "coindesk.com",
+    "published": "Tue Aug 25 2026 05:25:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Blockchain Association backs Treasury’s proposed GENIUS Act rules for stablecoin issuers",
     "link": "https://cryptopanic.com/news/33269338/Blockchain-Association-backs-Treasurys-proposed-GENIUS-Act-rules-for-stablecoin-issuers",
     "source": "theblock.co",
@@ -39,6 +60,13 @@
     "link": "https://cryptopanic.com/news/33269317/How-is-XDC-Network-XDCNetwork-enabling-AI-agents-to-make-autonomous-payments-Explore-XDC-AI-the-x402-standard-USDC-settlements-smart-wallets-spending-controls-and-the-future-of-agentic-commerce",
     "source": "@bscnews",
     "published": "Tue Aug 25 2026 05:23:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Two wallets(possibly belonging to the same whale) closed their $BTC longs 1 hour ago after holding them for nearly 2 months, making a $11.6M profit.\n\nWallets:\n0x5FA92137445B8cAA21a85a4B69156B7Fc40C3C83\n0x237152b038d88f4156a0cd71090462de7e3f0883",
+    "link": "https://cryptopanic.com/news/33269378/Two-walletspossibly-belonging-to-the-same-whale-closed-their-BTC-longs-1-hour-ago-after-holding-them-for-nearly-2-months-making-a-116M-profit-Wallets-0x5FA92137445B8cAA21a85a4B69156B7Fc40C3C83-0x237152b038d88f4156a0cd71090462de7e3f0883",
+    "source": "@lookonchain",
+    "published": "Tue Aug 25 2026 05:16:53 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33269110/Cashcat-Just-Hit-a-New-All-Time-High-Robinhood-RobinhoodCrypto-Chains-Cash-Cat-cashcat_token-has-surged-108-this-week-with-the-rally-accelerating-over-the-past-24-hours-The-memecoin-gained-another-52-during-that-period-and-reached-a-new-all-time-high-of-02288-per",
     "source": "@bscnews",
     "published": "Tue Aug 25 2026 04:28:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bessent's Former Mentor Druckenmiller Slams Treasury Bond Buyback Plan",
-    "link": "https://cryptopanic.com/news/33269175/Bessents-Former-Mentor-Druckenmiller-Slams-Treasury-Bond-Buyback-Plan",
-    "source": "beincrypto.com",
-    "published": "Tue Aug 25 2026 04:25:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump Going to TACO on Canada is 'Most Likely Scenario,' Says Anthony Scaramucci: Crypto Punters Weigh Trade Deal Odds",
-    "link": "https://cryptopanic.com/news/33269013/Trump-Going-to-TACO-on-Canada-is-Most-Likely-Scenario-Says-Anthony-Scaramucci-Crypto-Punters-Weigh-Trade-Deal-Odds",
-    "source": "feeds2.benzinga.com",
-    "published": "Tue Aug 25 2026 04:18:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Strive’s Bitcoin Holdings Surge Past 21,000 BTC\n\nStrive has expanded its Bitcoin treasury to 21,356 bitcoin:native following its latest acquisition.\n\nThe company bought 1,110 BTC for roughly $81.5 million last week. The purchase increased its Bitcoin holdings by about 5.5% from",
-    "link": "https://cryptopanic.com/news/33269109/Strives-Bitcoin-Holdings-Surge-Past-21000-BTC-Strive-has-expanded-its-Bitcoin-treasury-to-21356-bitcoinnative-following-its-latest-acquisition-The-company-bought-1110-BTC-for-roughly-815-million-last-week-The-purchase-increased-its-Bitcoin-holdings-by-about-55-from",
-    "source": "@bscnews",
-    "published": "Tue Aug 25 2026 04:18:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Kylie Jenner's X Account Reportedly Hacked to Push Meme Coin That Crashed 68%",
-    "link": "https://cryptopanic.com/news/33269024/Kylie-Jenners-X-Account-Reportedly-Hacked-to-Push-Meme-Coin-That-Crashed-68",
-    "source": "beincrypto.com",
-    "published": "Tue Aug 25 2026 04:13:14 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
