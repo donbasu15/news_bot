@@ -1,5 +1,19 @@
 [
   {
+    "title": "German broker Scalable opens investment platform to major AI chatbots",
+    "link": "https://cryptopanic.com/news/33270228/German-broker-Scalable-opens-investment-platform-to-major-AI-chatbots",
+    "source": "@reutersbiz",
+    "published": "Tue Aug 25 2026 08:45:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Gemini Brings Direct XRP Ledger Transfers To Singapore\n\nGemini has enabled ripple:native deposits and withdrawals through the XRP Ledger for customers in Singapore.\n\nUsers can now transfer XRP between Gemini and external XRPL addresses. They can withdraw XRP directly to",
+    "link": "https://cryptopanic.com/news/33270238/Gemini-Brings-Direct-XRP-Ledger-Transfers-To-Singapore-Gemini-has-enabled-ripplenative-deposits-and-withdrawals-through-the-XRP-Ledger-for-customers-in-Singapore-Users-can-now-transfer-XRP-between-Gemini-and-external-XRPL-addresses-They-can-withdraw-XRP-directly-to",
+    "source": "@bscnews",
+    "published": "Tue Aug 25 2026 08:44:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "The Real Reason XRP Is Stuck: Analyst Blames Massive Trading Walls on Coinbase",
     "link": "https://cryptopanic.com/news/33270206/The-Real-Reason-XRP-Is-Stuck-Analyst-Blames-Massive-Trading-Walls-on-Coinbase",
     "source": "cryptopotato.com",
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33269904/Source",
     "source": "@wublockchain",
     "published": "Tue Aug 25 2026 07:40:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Live updates: Bitcoin ETFs draw a seventh straight day of inflows as the rally holds above $80,000",
-    "link": "https://cryptopanic.com/news/33269956/Live-updates-Bitcoin-ETFs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-80000",
-    "source": "coindesk.com",
-    "published": "Tue Aug 25 2026 07:40:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum Developers Propose Post-Quantum Deposit Contract to Phase Out BLS\n\nEthereum developers have proposed a new post-quantum-ready deposit contract that would support variable-length public keys and credential metadata, using scheme identifiers to distinguish cryptographic",
-    "link": "https://cryptopanic.com/news/33269903/Ethereum-Developers-Propose-Post-Quantum-Deposit-Contract-to-Phase-Out-BLS-Ethereum-developers-have-proposed-a-new-post-quantum-ready-deposit-contract-that-would-support-variable-length-public-keys-and-credential-metadata-using-scheme-identifiers-to-distinguish-cryptographic",
-    "source": "@wublockchain",
-    "published": "Tue Aug 25 2026 07:39:55 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
