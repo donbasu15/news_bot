@@ -1,5 +1,47 @@
 [
   {
+    "title": "Ripple CEO: $16 Trillion In Motion Shows Visa-Scale Reach",
+    "link": "https://cryptopanic.com/news/33274425/Ripple-CEO-16-Trillion-In-Motion-Shows-Visa-Scale-Reach",
+    "source": "dailycoin.com",
+    "published": "Tue Aug 25 2026 23:31:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇯🇵 JUST IN: Japan is reportedly exploring blockchain tech to enable instant settlement of stock and government bond trades, with a formal plan expected by 2027, per Nikkei.",
+    "link": "https://cryptopanic.com/news/33274471/JUST-IN-Japan-is-reportedly-exploring-blockchain-tech-to-enable-instant-settlement-of-stock-and-government-bond-trades-with-a-formal-plan-expected-by-2027-per-Nikkei",
+    "source": "@cointelegraph",
+    "published": "Tue Aug 25 2026 23:30:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  BNB Smart Chain activated the Pasteur hard fork, closing bridge and validator security gaps and boosting block throughput by 88% in internal tests.",
+    "link": "https://cryptopanic.com/news/33274404/LATEST-BNB-Smart-Chain-activated-the-Pasteur-hard-fork-closing-bridge-and-validator-security-gaps-and-boosting-block-throughput-by-88-in-internal-tests",
+    "source": "@coinmarketcap",
+    "published": "Tue Aug 25 2026 23:25:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "We can hardly believe the performance of spot $XRP ETFs...\n\nSpot @Ripple ETFs have seen +$54 MILLION in net inflows in the past five trading days, outpacing practically ever other altcoin ETF suite.\n\nAt the same time, $XRPL has seen massive growth in its stablecoin ecosystem,",
+    "link": "https://cryptopanic.com/news/33274473/We-can-hardly-believe-the-performance-of-spot-XRP-ETFs-Spot-Ripple-ETFs-have-seen-54-MILLION-in-net-inflows-in-the-past-five-trading-days-outpacing-practically-ever-other-altcoin-ETF-suite-At-the-same-time-XRPL-has-seen-massive-growth-in-its-stablecoin-ecosystem",
+    "source": "@bscnews",
+    "published": "Tue Aug 25 2026 23:13:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BIG: Solana processed a record 4.2 billion transactions in July as SOL rallied 40% in eight days and tokenized real-world assets on the network neared $4 billion.",
+    "link": "https://cryptopanic.com/news/33274470/BIG-Solana-processed-a-record-42-billion-transactions-in-July-as-SOL-rallied-40-in-eight-days-and-tokenized-real-world-assets-on-the-network-neared-4-billion",
+    "source": "@cointelegraph",
+    "published": "Tue Aug 25 2026 23:10:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Leveraged positions are being tested in both directions today with $322M of longs and $330M of shorts being liquidated.",
+    "link": "https://cryptopanic.com/news/33274402/Leveraged-positions-are-being-tested-in-both-directions-today-with-322M-of-longs-and-330M-of-shorts-being-liquidated",
+    "source": "@stackersatoshi",
+    "published": "Tue Aug 25 2026 23:02:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Lighter rejects $3.79 – Can THIS absorb Cumberland’s $6.94M LIT transfer?",
     "link": "https://cryptopanic.com/news/33274372/Lighter-rejects-379-Can-THIS-absorb-Cumberlands-694M-LIT-transfer",
     "source": "ambcrypto.com",
@@ -7,10 +49,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "TRON DOMINATES STABLECOIN GROWTH AGAIN.\n\nUSDT on $TRX added $1.1 BILLION in just 30 days the biggest increase across all networks tracked by @TokenTerminal.\n\nStablecoin liquidity keeps flooding into @trondao.\n\nHonourable mention to @avax too, adding another $35.1M, $AVAX",
+    "link": "https://cryptopanic.com/news/33274472/TRON-DOMINATES-STABLECOIN-GROWTH-AGAIN-USDT-on-TRX-added-11-BILLION-in-just-30-days-the-biggest-increase-across-all-networks-tracked-by-TokenTerminal-Stablecoin-liquidity-keeps-flooding-into-trondao-Honourable-mention-to-avax-too-adding-another-351M-AVAX",
+    "source": "@realallincrypto",
+    "published": "Tue Aug 25 2026 23:00:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Learn about @PiCoreTeam's $PI Ventures' latest investment, and why it seems to make a lot of sense... ⬇️",
     "link": "https://cryptopanic.com/news/33274355/Learn-about-PiCoreTeams-PI-Ventures-latest-investment-and-why-it-seems-to-make-a-lot-of-sense",
     "source": "@bscnews",
     "published": "Tue Aug 25 2026 22:59:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇹🇭 Thailand's SEC released draft rules for spot Bitcoin and Ethereum ETFs to trade on the Stock Exchange of Thailand.",
+    "link": "https://cryptopanic.com/news/33274403/LATEST-Thailands-SEC-released-draft-rules-for-spot-Bitcoin-and-Ethereum-ETFs-to-trade-on-the-Stock-Exchange-of-Thailand",
+    "source": "@coinmarketcap",
+    "published": "Tue Aug 25 2026 22:53:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -151,62 +207,6 @@
     "link": "https://cryptopanic.com/news/33274261/Japan-plans-blockchain-based-instant-settlement-for-stocks-and-government-bonds-Japans-FSA-JFSA_en-Ministry-of-Finance-MOF_Japan-and-Bank-of-Japan-Bank_of_Japan_e-will-form-a-study-group-with-financial-institutions-this-summer-to-design-the-system-per-Nikkei-The",
     "source": "@bscnews",
     "published": "Tue Aug 25 2026 21:50:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Hot Streak Cools as Traders Hit a Wall: Where Does It Go Next?",
-    "link": "https://cryptopanic.com/news/33274195/XRP-Hot-Streak-Cools-as-Traders-Hit-a-Wall-Where-Does-It-Go-Next",
-    "source": "decrypt.co",
-    "published": "Tue Aug 25 2026 21:46:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ECB set for September rate hike with no appetite to signal more, sources say",
-    "link": "https://cryptopanic.com/news/33274257/ECB-set-for-September-rate-hike-with-no-appetite-to-signal-more-sources-say",
-    "source": "@reutersbiz",
-    "published": "Tue Aug 25 2026 21:45:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Bitwise CIO Matt Hougan says it's uniquely easy to be bullish on crypto in 2026, pointing to regulatory progress, tokenization, and more.",
-    "link": "https://cryptopanic.com/news/33274219/LATEST-Bitwise-CIO-Matt-Hougan-says-its-uniquely-easy-to-be-bullish-on-crypto-in-2026-pointing-to-regulatory-progress-tokenization-and-more",
-    "source": "@coinmarketcap",
-    "published": "Tue Aug 25 2026 21:41:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Zerohash back for second effort at OCC trust bank charter",
-    "link": "https://cryptopanic.com/news/33274216/Zerohash-back-for-second-effort-at-OCC-trust-bank-charter",
-    "source": "coindesk.com",
-    "published": "Tue Aug 25 2026 21:38:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Sui skips consensus entirely for transactions that only one person can touch\n\nMost chains put every transaction through the same pipeline: validators agree on a global order first, then execute. @SuiNetwork stores everything as objects, each owned by a single address, shared, or",
-    "link": "https://cryptopanic.com/news/33274260/Sui-skips-consensus-entirely-for-transactions-that-only-one-person-can-touch-Most-chains-put-every-transaction-through-the-same-pipeline-validators-agree-on-a-global-order-first-then-execute-SuiNetwork-stores-everything-as-objects-each-owned-by-a-single-address-shared-or",
-    "source": "@bscnews",
-    "published": "Tue Aug 25 2026 21:38:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum May Let Validators Receive Staking Rewards Sooner",
-    "link": "https://cryptopanic.com/news/33274150/Ethereum-May-Let-Validators-Receive-Staking-Rewards-Sooner",
-    "source": "coindoo.com",
-    "published": "Tue Aug 25 2026 21:33:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Oil has dropped -6.5% so far this week as the US launches their new \"economic war\" against Iran and Trump states that the Strait of Hormuz is now free of mines.\n\nElevated energy costs remain a key driver of global inflation, with oil still up +41% ytd.",
-    "link": "https://cryptopanic.com/news/33274218/Oil-has-dropped-65-so-far-this-week-as-the-US-launches-their-new-economic-war-against-Iran-and-Trump-states-that-the-Strait-of-Hormuz-is-now-free-of-mines-Elevated-energy-costs-remain-a-key-driver-of-global-inflation-with-oil-still-up-41-ytd",
-    "source": "@stackersatoshi",
-    "published": "Tue Aug 25 2026 21:30:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tom Lee Sees ETH 'Easily' Hitting $10,000, Says BitMine Could Buy More Than 5%",
-    "link": "https://cryptopanic.com/news/33274194/Tom-Lee-Sees-ETH-Easily-Hitting-10000-Says-BitMine-Could-Buy-More-Than-5",
-    "source": "feeds2.benzinga.com",
-    "published": "Tue Aug 25 2026 21:30:43 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
