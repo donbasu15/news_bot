@@ -1,5 +1,19 @@
 [
   {
+    "title": "INSIGHT: Cardano $ADA's Strike Finance has generated over $1.4B in total trade volume across more than 1.5M total trades, with support for 26 assets, including 9 cryptocurrencies and 17 TradFi products.",
+    "link": "https://cryptopanic.com/news/33274333/INSIGHT-Cardano-ADAs-Strike-Finance-has-generated-over-14B-in-total-trade-volume-across-more-than-15M-total-trades-with-support-for-26-assets-including-9-cryptocurrencies-and-17-TradFi-products",
+    "source": "@angrycryptoshow",
+    "published": "Tue Aug 25 2026 22:34:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Security firm Socket discovered 40 malicious Firefox extensions impersonating crypto wallets and Web3 apps in order to steal wallet secrets or credentials.",
+    "link": "https://cryptopanic.com/news/33274332/LATEST-Security-firm-Socket-discovered-40-malicious-Firefox-extensions-impersonating-crypto-wallets-and-Web3-apps-in-order-to-steal-wallet-secrets-or-credentials",
+    "source": "@coinmarketcap",
+    "published": "Tue Aug 25 2026 22:17:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Elon Musk’s SpaceX Plans $100 Billion Louisiana Spaceport",
     "link": "https://cryptopanic.com/news/33274275/Elon-Musks-SpaceX-Plans-100-Billion-Louisiana-Spaceport",
     "source": "decrypt.co",
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33274092/ELON-MUSK-Fiat-is-hopeless-Embrace-Bitcoin-July-2025",
     "source": "@btc_archive",
     "published": "Tue Aug 25 2026 21:12:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Injective keeps stacking announcements: a buyback round tomorrow, and now a privacy teaser for institutional transactions and RWAs. If it ships as framed, it will be a serious pitch to institutions.",
-    "link": "https://cryptopanic.com/news/33274128/Injective-keeps-stacking-announcements-a-buyback-round-tomorrow-and-now-a-privacy-teaser-for-institutional-transactions-and-RWAs-If-it-ships-as-framed-it-will-be-a-serious-pitch-to-institutions",
-    "source": "@bscnews",
-    "published": "Tue Aug 25 2026 21:08:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🤖 The Algorand Foundation launched AC2, an open protocol letting users approve individual AI agent signing requests, like payments or code commits, without exposing their private keys.",
-    "link": "https://cryptopanic.com/news/33274097/LATEST-The-Algorand-Foundation-launched-AC2-an-open-protocol-letting-users-approve-individual-AI-agent-signing-requests-like-payments-or-code-commits-without-exposing-their-private-keys",
-    "source": "@coinmarketcap",
-    "published": "Tue Aug 25 2026 21:05:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
