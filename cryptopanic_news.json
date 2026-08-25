@@ -1,5 +1,61 @@
 [
   {
+    "title": "Mistral and HUMAIN Are Building 'Sovereign AI' in Saudi Arabia",
+    "link": "https://cryptopanic.com/news/33273539/Mistral-and-HUMAIN-Are-Building-Sovereign-AI-in-Saudi-Arabia",
+    "source": "decrypt.co",
+    "published": "Tue Aug 25 2026 18:39:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "World Liberty’s Witkoff cites USD1 trading volume to rebut cronyism claims",
+    "link": "https://cryptopanic.com/news/33273533/World-Libertys-Witkoff-cites-USD1-trading-volume-to-rebut-cronyism-claims",
+    "source": "cryptopolitan.com",
+    "published": "Tue Aug 25 2026 18:35:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BIG: Aave V4 active loans hit a new all-time high of $213 million.",
+    "link": "https://cryptopanic.com/news/33273470/BIG-Aave-V4-active-loans-hit-a-new-all-time-high-of-213-million",
+    "source": "@cointelegraph",
+    "published": "Tue Aug 25 2026 18:30:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "90 Years of Lies! Government Debt & Inflation Pain!",
+    "link": "https://cryptopanic.com/news/33273559/90-Years-of-Lies-Government-Debt-Inflation-Pain",
+    "source": "SimplyBitcoin",
+    "published": "Tue Aug 25 2026 18:30:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Galaxy Now Lets You Borrow Against Your BTC, ETH, SOL Holdings",
+    "link": "https://cryptopanic.com/news/33273549/Galaxy-Now-Lets-You-Borrow-Against-Your-BTC-ETH-SOL-Holdings",
+    "source": "feeds2.benzinga.com",
+    "published": "Tue Aug 25 2026 18:29:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Canton Network holds nearly 90% of all represented tokenized asset value\n\n@CantonNetwork accounts for $314.1B of the $353.1B in represented real-world assets tracked by rwa(.)xyz, a category where blockchains serve as the recordkeeping layer rather than letting investors hold",
+    "link": "https://cryptopanic.com/news/33273478/Canton-Network-holds-nearly-90-of-all-represented-tokenized-asset-value-CantonNetwork-accounts-for-3141B-of-the-3531B-in-represented-real-world-assets-tracked-by-rwaxyz-a-category-where-blockchains-serve-as-the-recordkeeping-layer-rather-than-letting-investors-hold",
+    "source": "@bscnews",
+    "published": "Tue Aug 25 2026 18:28:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: Bitcoin demand has turned positive in both the spot and perpetual futures markets for the first time since its October 2025 all-time high.",
+    "link": "https://cryptopanic.com/news/33273469/LATEST-Bitcoin-demand-has-turned-positive-in-both-the-spot-and-perpetual-futures-markets-for-the-first-time-since-its-October-2025-all-time-high",
+    "source": "@cointelegraph",
+    "published": "Tue Aug 25 2026 18:20:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hugging Face rejected Nvidia at $7B, now weighs a $13B sale",
+    "link": "https://cryptopanic.com/news/33273430/Hugging-Face-rejected-Nvidia-at-7B-now-weighs-a-13B-sale",
+    "source": "cryptopolitan.com",
+    "published": "Tue Aug 25 2026 18:20:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "UPDATE: #Cardano $ADA Founder Charles Hoskinson on Midnight Passport, identity, and ZK unlocking wallet and bridge insurance, says \"that's some emerging technology that we're really excited to bring in. We think there'll be a lot of great capital pool products that solve that.\"",
     "link": "https://cryptopanic.com/news/33273409/UPDATE-Cardano-ADA-Founder-Charles-Hoskinson-on-Midnight-Passport-identity-and-ZK-unlocking-wallet-and-bridge-insurance-says-thats-some-emerging-technology-that-were-really-excited-to-bring-in-We-think-therell-be-a-lot-of-great-capital-pool-products-that-solve-that",
     "source": "@angrycryptoshow",
@@ -14,6 +70,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Internet Computer contracts pay their own gas and get deleted if they run out\n\nMost blockchains charge the user a fee for every interaction. @dfinity's Internet Computer flips that: each contract holds its own balance of \"cycles\" and pays for its own compute, storage, and",
+    "link": "https://cryptopanic.com/news/33273477/Internet-Computer-contracts-pay-their-own-gas-and-get-deleted-if-they-run-out-Most-blockchains-charge-the-user-a-fee-for-every-interaction-dfinitys-Internet-Computer-flips-that-each-contract-holds-its-own-balance-of-cycles-and-pays-for-its-own-compute-storage-and",
+    "source": "@bscnews",
+    "published": "Tue Aug 25 2026 18:12:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "UPDATE: Charles Hoskinson says wallet and bridge insurance are \"good for the industry: Insurance means pool collateral and return, so those are RWAs with big TVL and big ROI. Fast-moving jurisdictions like Bermuda can create regulatory frameworks to make these things happen.\"",
     "link": "https://cryptopanic.com/news/33273407/UPDATE-Charles-Hoskinson-says-wallet-and-bridge-insurance-are-good-for-the-industry-Insurance-means-pool-collateral-and-return-so-those-are-RWAs-with-big-TVL-and-big-ROI-Fast-moving-jurisdictions-like-Bermuda-can-create-regulatory-frameworks-to-make-these-things-happen",
     "source": "@angrycryptoshow",
@@ -24,6 +87,13 @@
     "title": "UPDATE: Charles Hoskinson says \"you need wallet and bridge insurance—I was just in Bermuda, I spent time with the BMA, Penrose, and other insurance companies. We had serious conversations about insurance products where a wallet holder can pay a premium and get their money back.\"",
     "link": "https://cryptopanic.com/news/33273406/UPDATE-Charles-Hoskinson-says-you-need-wallet-and-bridge-insuranceI-was-just-in-Bermuda-I-spent-time-with-the-BMA-Penrose-and-other-insurance-companies-We-had-serious-conversations-about-insurance-products-where-a-wallet-holder-can-pay-a-premium-and-get-their-money-back",
     "source": "@angrycryptoshow",
+    "published": "Tue Aug 25 2026 18:09:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BVI touts perfect FATF scorecard as Lorna Smith presses regulators for ‘a little more speed’",
+    "link": "https://cryptopanic.com/news/33273473/BVI-touts-perfect-FATF-scorecard-as-Lorna-Smith-presses-regulators-for-a-little-more-speed",
+    "source": "thestreet.com",
     "published": "Tue Aug 25 2026 18:09:42 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -49,9 +119,51 @@
     "sentiment": "neutral"
   },
   {
+    "title": "US real estate is one of the world's hottest assets...\n\n... and @asx_capital is letting you own it for as little as $1.\n\nLive on @BNBChain, ASX has open mints for tokenised assets backed by premium and actively managed US real estate properties.\n\nThose properties even pay you",
+    "link": "https://cryptopanic.com/news/33273476/US-real-estate-is-one-of-the-worlds-hottest-assets-and-asx_capital-is-letting-you-own-it-for-as-little-as-1-Live-on-BNBChain-ASX-has-open-mints-for-tokenised-assets-backed-by-premium-and-actively-managed-US-real-estate-properties-Those-properties-even-pay-you",
+    "source": "@bscnews",
+    "published": "Tue Aug 25 2026 18:05:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Italy says won't sell MPS stake before M&A battle concluded",
+    "link": "https://cryptopanic.com/news/33273471/Italy-says-wont-sell-MPS-stake-before-MampA-battle-concluded",
+    "source": "@reutersbiz",
+    "published": "Tue Aug 25 2026 18:02:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INSIGHT: Markus Thielen of @10xresearch sees $100K as a major Bitcoin milestone.\n\nBut @markus10x tells @itsciaranlyons he’s not calling for new all-time highs anytime soon.\n\nInstead, he sees $100K as a “big, big achievement” and believes Bitcoin can still make a decent rally.",
+    "link": "https://cryptopanic.com/news/33273468/INSIGHT-Markus-Thielen-of-10xresearch-sees-100K-as-a-major-Bitcoin-milestone-But-markus10x-tells-itsciaranlyons-hes-not-calling-for-new-all-time-highs-anytime-soon-Instead-he-sees-100K-as-a-big-big-achievement-and-believes-Bitcoin-can-still-make-a-decent-rally",
+    "source": "@cointelegraph",
+    "published": "Tue Aug 25 2026 18:02:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ETF inflows hit $2.26bn over 6 green days",
+    "link": "https://cryptopanic.com/news/33273556/ETF-inflows-hit-226bn-over-6-green-days",
+    "source": "@decryptmedia",
+    "published": "Tue Aug 25 2026 18:00:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$AVAX IS BUILDING A GLOBAL PAYMENTS NETWORK.\n\nThe Avalanche Payments Collective brings together giants across stablecoins, FX, settlement, treasury and payouts.\n\nThis includes huge names like Franklin Templeton, VanEck, Paxos, Kraken, WisdomTree and more.\n\nIt’s @avax",
+    "link": "https://cryptopanic.com/news/33273474/AVAX-IS-BUILDING-A-GLOBAL-PAYMENTS-NETWORK-The-Avalanche-Payments-Collective-brings-together-giants-across-stablecoins-FX-settlement-treasury-and-payouts-This-includes-huge-names-like-Franklin-Templeton-VanEck-Paxos-Kraken-WisdomTree-and-more-Its-avax",
+    "source": "@realallincrypto",
+    "published": "Tue Aug 25 2026 18:00:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "BlackBerry Says Its Robotics Business Is the Fastest-Growing Arm",
     "link": "https://cryptopanic.com/news/33273356/BlackBerry-Says-Its-Robotics-Business-Is-the-Fastest-Growing-Arm",
     "source": "catenaa.com",
+    "published": "Tue Aug 25 2026 18:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: Thailand's SEC opens public consultation on a draft framework for domestic crypto ETFs, initially limited to $BTC and $ETH with the comment period running until September 20.",
+    "link": "https://cryptopanic.com/news/33273466/NEW-Thailands-SEC-opens-public-consultation-on-a-draft-framework-for-domestic-crypto-ETFs-initially-limited-to-BTC-and-ETH-with-the-comment-period-running-until-September-20",
+    "source": "@coindesk",
     "published": "Tue Aug 25 2026 18:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -60,6 +172,13 @@
     "link": "https://cryptopanic.com/news/33273358/OpenAI-rolls-out-Jalapeno-chip-with-big-Nvidia-GB300-claim",
     "source": "cryptopolitan.com",
     "published": "Tue Aug 25 2026 17:59:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Zcash opens a shielded coinholder vote on its next network upgrade\n\n@Zcash holders can now vote directly with shielded ZEC on questions tied to the NU7 upgrade, through wallets supporting a new protocol built by @ValarGroup. Co-founder and Engineer Sean Bowe (@ebfull) calls it",
+    "link": "https://cryptopanic.com/news/33273475/Zcash-opens-a-shielded-coinholder-vote-on-its-next-network-upgrade-Zcash-holders-can-now-vote-directly-with-shielded-ZEC-on-questions-tied-to-the-NU7-upgrade-through-wallets-supporting-a-new-protocol-built-by-ValarGroup-Co-founder-and-Engineer-Sean-Bowe-ebfull-calls-it",
+    "source": "@bscnews",
+    "published": "Tue Aug 25 2026 17:57:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -88,125 +207,6 @@
     "link": "https://cryptopanic.com/news/33273283/The-1996-Warning-Crypto-Pivot",
     "source": "www.blockhead.co",
     "published": "Tue Aug 25 2026 17:49:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin just had its best August since 2017, here is what history says comes next",
-    "link": "https://cryptopanic.com/news/33273371/Bitcoin-just-had-its-best-August-since-2017-here-is-what-history-says-comes-next",
-    "source": "thestreet.com",
-    "published": "Tue Aug 25 2026 17:47:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "No Traditional Fund Required! Bitwise Launches Tokenized Stock Portfolios Powered by Coinbase",
-    "link": "https://cryptopanic.com/news/33273355/No-Traditional-Fund-Required-Bitwise-Launches-Tokenized-Stock-Portfolios-Powered-by-Coinbase",
-    "source": "feeds2.benzinga.com",
-    "published": "Tue Aug 25 2026 17:46:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Did Trump Just Move SpaceX Stock With One Truth Social Post?",
-    "link": "https://cryptopanic.com/news/33273426/Did-Trump-Just-Move-SpaceX-Stock-With-One-Truth-Social-Post",
-    "source": "beincrypto.com",
-    "published": "Tue Aug 25 2026 17:43:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Wall Street Journal featured a full-page Bitcoin ad today!  \n\n“The fringe phase is officially over.\"",
-    "link": "https://cryptopanic.com/news/33273352/JUST-IN-Wall-Street-Journal-featured-a-full-page-Bitcoin-ad-today-The-fringe-phase-is-officially-over",
-    "source": "@bitcoinmagazine",
-    "published": "Tue Aug 25 2026 17:42:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple's RLUSD stablecoin crosses $2B in market cap\n\nThe dollar-pegged token recently hit the milestone, about 20 months after launching in December 2024. @Ripple says close to $1B of the $RLUSD supply is issued on the XRP Ledger.\n\nThe stablecoin now ranks 37th among all crypto",
-    "link": "https://cryptopanic.com/news/33273282/Ripples-RLUSD-stablecoin-crosses-2B-in-market-cap-The-dollar-pegged-token-recently-hit-the-milestone-about-20-months-after-launching-in-December-2024-Ripple-says-close-to-1B-of-the-RLUSD-supply-is-issued-on-the-XRP-Ledger-The-stablecoin-now-ranks-37th-among-all-crypto",
-    "source": "@bscnews",
-    "published": "Tue Aug 25 2026 17:41:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Nvidia has partnered with Perplexity to bring local-first AI directly to users’ desktops.",
-    "link": "https://cryptopanic.com/news/33273275/NEW-Nvidia-has-partnered-with-Perplexity-to-bring-local-first-AI-directly-to-users-desktops",
-    "source": "@cointelegraph",
-    "published": "Tue Aug 25 2026 17:40:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Galaxy Launches BTC, ETH and SOL-Backed Credit Line on GalaxyOne",
-    "link": "https://cryptopanic.com/news/33273248/Galaxy-Launches-BTC-ETH-and-SOL-Backed-Credit-Line-on-GalaxyOne",
-    "source": "cryptoprowl.com",
-    "published": "Tue Aug 25 2026 17:40:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Galaxy Unveils Crypto-Backed Line of Credit Service",
-    "link": "https://cryptopanic.com/news/33273225/Galaxy-Unveils-Crypto-Backed-Line-of-Credit-Service",
-    "source": "bankless.com",
-    "published": "Tue Aug 25 2026 17:35:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Wall Street won't fully move onchain for one simple reason",
-    "link": "https://cryptopanic.com/news/33273285/Wall-Street-wont-fully-move-onchain-for-one-simple-reason",
-    "source": "thestreet.com",
-    "published": "Tue Aug 25 2026 17:33:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "How Ethereum’s new 2,048 ETH staking rule could lock up user rewards longer than expected",
-    "link": "https://cryptopanic.com/news/33273214/How-Ethereums-new-2048-ETH-staking-rule-could-lock-up-user-rewards-longer-than-expected",
-    "source": "cryptoslate.com",
-    "published": "Tue Aug 25 2026 17:30:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇹🇭 Thailand SEC advances regulations for spot Bitcoin and Ethereum ETFs.",
-    "link": "https://cryptopanic.com/news/33273353/JUST-IN-Thailand-SEC-advances-regulations-for-spot-Bitcoin-and-Ethereum-ETFs",
-    "source": "@watcherguru",
-    "published": "Tue Aug 25 2026 17:29:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The AI race isn’t just about better models. It’s about who controls the GPUs, data and infrastructure behind them. @Gaurav_ionet CEO of @ionet explains why decentralized compute could become one of crypto’s most important real-world use cases.",
-    "link": "https://cryptopanic.com/news/33273278/The-AI-race-isnt-just-about-better-models-Its-about-who-controls-the-GPUs-data-and-infrastructure-behind-them-Gaurav_ionet-CEO-of-ionet-explains-why-decentralized-compute-could-become-one-of-cryptos-most-important-real-world-use-cases",
-    "source": "@realallincrypto",
-    "published": "Tue Aug 25 2026 17:27:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$30 Trillion Dream: Can Anthropic Sell the Biggest IPO Ever?",
-    "link": "https://cryptopanic.com/news/33273425/30-Trillion-Dream-Can-Anthropic-Sell-the-Biggest-IPO-Ever",
-    "source": "beincrypto.com",
-    "published": "Tue Aug 25 2026 17:27:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The US30Y is dropping today as Bessent and the US Treasury make it clear they are serious about pushing long term yields down. \n\nSo far:\n1. The Treasury announced they are increasing buybacks of long-dated bonds by at least 2X from $2B to $4B+\n2. The $950B TGA account may be used",
-    "link": "https://cryptopanic.com/news/33273207/The-US30Y-is-dropping-today-as-Bessent-and-the-US-Treasury-make-it-clear-they-are-serious-about-pushing-long-term-yields-down-So-far-1-The-Treasury-announced-they-are-increasing-buybacks-of-long-dated-bonds-by-at-least-2X-from-2B-to-4B-2-The-950B-TGA-account-may-be-used",
-    "source": "@stackersatoshi",
-    "published": "Tue Aug 25 2026 17:26:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Kaspa nodes delete most of the chain's history by design\n\nBitcoin nodes store and replay every block back to 2009. #Kaspa takes the opposite approach: nodes keep only recent blocks and discard everything older than a cutoff known as the pruning point.\n\nSince the Crescendo upgrade",
-    "link": "https://cryptopanic.com/news/33273281/Kaspa-nodes-delete-most-of-the-chains-history-by-design-Bitcoin-nodes-store-and-replay-every-block-back-to-2009-Kaspa-takes-the-opposite-approach-nodes-keep-only-recent-blocks-and-discard-everything-older-than-a-cutoff-known-as-the-pruning-point-Since-the-Crescendo-upgrade",
-    "source": "@bscnews",
-    "published": "Tue Aug 25 2026 17:26:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Dogecoin price prediction as DOGE nears $0.1",
-    "link": "https://cryptopanic.com/news/33273202/Dogecoin-price-prediction-as-DOGE-nears-01",
-    "source": "finbold.com",
-    "published": "Tue Aug 25 2026 17:25:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇮🇳 India will launch its first tokenized corporate bonds in September, with state-owned REC set to issue under $57M in bonds settled using the country's CBDC, per Reuters.",
-    "link": "https://cryptopanic.com/news/33273209/LATEST-India-will-launch-its-first-tokenized-corporate-bonds-in-September-with-state-owned-REC-set-to-issue-under-57M-in-bonds-settled-using-the-countrys-CBDC-per-Reuters",
-    "source": "@coinmarketcap",
-    "published": "Tue Aug 25 2026 17:25:13 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
