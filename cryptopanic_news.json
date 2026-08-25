@@ -1,5 +1,19 @@
 [
   {
+    "title": "The 1996 Warning & Crypto Pivot",
+    "link": "https://cryptopanic.com/news/33273283/The-1996-Warning-Crypto-Pivot",
+    "source": "www.blockhead.co",
+    "published": "Tue Aug 25 2026 17:49:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Wall Street Journal featured a full-page Bitcoin ad today!  \n\n“The fringe phase is officially over.\"",
+    "link": "https://cryptopanic.com/news/33273352/JUST-IN-Wall-Street-Journal-featured-a-full-page-Bitcoin-ad-today-The-fringe-phase-is-officially-over",
+    "source": "@bitcoinmagazine",
+    "published": "Tue Aug 25 2026 17:42:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Ripple's RLUSD stablecoin crosses $2B in market cap\n\nThe dollar-pegged token recently hit the milestone, about 20 months after launching in December 2024. @Ripple says close to $1B of the $RLUSD supply is issued on the XRP Ledger.\n\nThe stablecoin now ranks 37th among all crypto",
     "link": "https://cryptopanic.com/news/33273282/Ripples-RLUSD-stablecoin-crosses-2B-in-market-cap-The-dollar-pegged-token-recently-hit-the-milestone-about-20-months-after-launching-in-December-2024-Ripple-says-close-to-1B-of-the-RLUSD-supply-is-issued-on-the-XRP-Ledger-The-stablecoin-now-ranks-37th-among-all-crypto",
     "source": "@bscnews",
@@ -28,10 +42,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Wall Street won't fully move onchain for one simple reason",
+    "link": "https://cryptopanic.com/news/33273285/Wall-Street-wont-fully-move-onchain-for-one-simple-reason",
+    "source": "thestreet.com",
+    "published": "Tue Aug 25 2026 17:33:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "How Ethereum’s new 2,048 ETH staking rule could lock up user rewards longer than expected",
     "link": "https://cryptopanic.com/news/33273214/How-Ethereums-new-2048-ETH-staking-rule-could-lock-up-user-rewards-longer-than-expected",
     "source": "cryptoslate.com",
     "published": "Tue Aug 25 2026 17:30:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇹🇭 Thailand SEC advances regulations for spot Bitcoin and Ethereum ETFs.",
+    "link": "https://cryptopanic.com/news/33273353/JUST-IN-Thailand-SEC-advances-regulations-for-spot-Bitcoin-and-Ethereum-ETFs",
+    "source": "@watcherguru",
+    "published": "Tue Aug 25 2026 17:29:25 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33273075/Coinbase-Brings-Apple-and-Nvidia-Stocks-Onchain-Under-Abu-Dhabi-Framework",
     "source": "coinpaprika.com",
     "published": "Tue Aug 25 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cisco To Add AI Servers From Super Micro To Data Centers",
-    "link": "https://cryptopanic.com/news/33273066/Cisco-To-Add-AI-Servers-From-Super-Micro-To-Data-Centers",
-    "source": "catenaa.com",
-    "published": "Tue Aug 25 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source:\nBaseScan",
-    "link": "https://cryptopanic.com/news/33273212/Source-BaseScan",
-    "source": "@angrycryptoshow",
-    "published": "Tue Aug 25 2026 16:59:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Coinbase Wrapped $ADA ($cbADA) surpasses 5,800 holders, highlighting rising interest in cross-chain #Cardano.",
-    "link": "https://cryptopanic.com/news/33273211/JUST-IN-Coinbase-Wrapped-ADA-cbADA-surpasses-5800-holders-highlighting-rising-interest-in-cross-chain-Cardano",
-    "source": "@angrycryptoshow",
-    "published": "Tue Aug 25 2026 16:59:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: #Cardano $ADA 24h trade volume surpasses $620,000,000 according to CoinGecko.",
-    "link": "https://cryptopanic.com/news/33273210/JUST-IN-Cardano-ADA-24h-trade-volume-surpasses-620000000-according-to-CoinGecko",
-    "source": "@angrycryptoshow",
-    "published": "Tue Aug 25 2026 16:58:39 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
