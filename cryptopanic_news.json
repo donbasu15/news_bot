@@ -1,9 +1,128 @@
 [
   {
+    "title": "Do your KYC once, carry it to every asset issuer on the chain. That's the pitch behind @plumenetwork's compliance layer, and it's pulled in Apollo, WisdomTree, Invesco, and a seat at the DTCC's table. How it works ⬇️",
+    "link": "https://cryptopanic.com/news/33280220/Do-your-KYC-once-carry-it-to-every-asset-issuer-on-the-chain-Thats-the-pitch-behind-plumenetworks-compliance-layer-and-its-pulled-in-Apollo-WisdomTree-Invesco-and-a-seat-at-the-DTCCs-table-How-it-works",
+    "source": "@bscnews",
+    "published": "Wed Aug 26 2026 19:11:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "IBM advances quantum march with HRL Laboratories acquisition",
+    "link": "https://cryptopanic.com/news/33280208/IBM-advances-quantum-march-with-HRL-Laboratories-acquisition",
+    "source": "cryptopolitan.com",
+    "published": "Wed Aug 26 2026 19:10:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Meta agreed to pay up to $18 billion to resolve claims by most US states that it designed Facebook and Instagram to addict children. Victoria Hinks, whose daughter died by suicide at age 16, said she is ‘very pleased’ by the settlements. More here",
+    "link": "https://cryptopanic.com/news/33280215/Meta-agreed-to-pay-up-to-18-billion-to-resolve-claims-by-most-US-states-that-it-designed-Facebook-and-Instagram-to-addict-children-Victoria-Hinks-whose-daughter-died-by-suicide-at-age-16-said-she-is-very-pleased-by-the-settlements-More-here",
+    "source": "@reutersbiz",
+    "published": "Wed Aug 26 2026 19:10:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "️ UPDATE: Options traders are pricing in a 5.6% post-earnings move for Nvidia, with call activity suggesting stronger positioning for an upside rally than a sell-off.",
+    "link": "https://cryptopanic.com/news/33280214/UPDATE-Options-traders-are-pricing-in-a-56-post-earnings-move-for-Nvidia-with-call-activity-suggesting-stronger-positioning-for-an-upside-rally-than-a-sell-off",
+    "source": "@cointelegraph",
+    "published": "Wed Aug 26 2026 19:00:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SWIFT saw crypto taking over YEARS AGO!\n\nIn this 2023 report, the backbone of global banking said tokenisation could “revolutionise asset management.\"\n\nWhile identifying fragmentation and interoperability between blockchains as one of the biggest barriers.\n\nThink about that,",
+    "link": "https://cryptopanic.com/news/33280216/SWIFT-saw-crypto-taking-over-YEARS-AGO-In-this-2023-report-the-backbone-of-global-banking-said-tokenisation-could-revolutionise-asset-management-While-identifying-fragmentation-and-interoperability-between-blockchains-as-one-of-the-biggest-barriers-Think-about-that",
+    "source": "@realallincrypto",
+    "published": "Wed Aug 26 2026 19:00:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "FAANG in 2021 vs FAANG now. Not all of them made it. #faang #stocks #bitcoin #investing #stockmarket",
+    "link": "https://cryptopanic.com/news/33280187/FAANG-in-2021-vs-FAANG-now-Not-all-of-them-made-it-faang-stocks-bitcoin-investing-stockmarket",
+    "source": "CoinGecko",
+    "published": "Wed Aug 26 2026 19:00:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "@fomo co-founder @seyong says prediction markets will \"make people realize that they're traders\" by letting them trade odds in and out during events.\n\nThank you to @realfi_co  for being a sponsor of the CoinDesk Media Network.",
+    "link": "https://cryptopanic.com/news/33280212/fomo-co-founder-seyong-says-prediction-markets-will-make-people-realize-that-theyre-traders-by-letting-them-trade-odds-in-and-out-during-events-Thank-you-to-realfi_co-for-being-a-sponsor-of-the-CoinDesk-Media-Network",
+    "source": "@coindesk",
+    "published": "Wed Aug 26 2026 18:59:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Top Banks Warm Up to Stablecoins, WSJ Says",
+    "link": "https://cryptopanic.com/news/33280206/Top-Banks-Warm-Up-to-Stablecoins-WSJ-Says",
+    "source": "u.today",
+    "published": "Wed Aug 26 2026 18:57:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "U.S. Inflation Rises Above Forecast – Here Is What It Means for the Fed",
+    "link": "https://cryptopanic.com/news/33280145/US-Inflation-Rises-Above-Forecast-Here-Is-What-It-Means-for-the-Fed",
+    "source": "blocknews.com",
+    "published": "Wed Aug 26 2026 18:57:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Apple Intelligence toggle surfaces on Apple TV and HomePod before new hardware ships",
+    "link": "https://cryptopanic.com/news/33280165/Apple-Intelligence-toggle-surfaces-on-Apple-TV-and-HomePod-before-new-hardware-ships",
+    "source": "cryptopolitan.com",
+    "published": "Wed Aug 26 2026 18:55:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Quant's docs list staked QNT as a factor in which node serves your request\n\nEvery call through @quantnetwork's Overledger passes a Connector, one per blockchain family, which checks node health and routes the request to a healthy node from its pool. Selection weighs each node's",
+    "link": "https://cryptopanic.com/news/33280219/Quants-docs-list-staked-QNT-as-a-factor-in-which-node-serves-your-request-Every-call-through-quantnetworks-Overledger-passes-a-Connector-one-per-blockchain-family-which-checks-node-health-and-routes-the-request-to-a-healthy-node-from-its-pool-Selection-weighs-each-nodes",
+    "source": "@bscnews",
+    "published": "Wed Aug 26 2026 18:55:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Analyst reveals timeline for Bitcoin to hit $1 million",
+    "link": "https://cryptopanic.com/news/33280205/Analyst-reveals-timeline-for-Bitcoin-to-hit-1-million",
+    "source": "thestreet.com",
+    "published": "Wed Aug 26 2026 18:54:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin, Ethereum, XRP, Dogecoin Hold Ground as Traders Brace for Dip",
+    "link": "https://cryptopanic.com/news/33280196/Bitcoin-Ethereum-XRP-Dogecoin-Hold-Ground-as-Traders-Brace-for-Dip",
+    "source": "feeds2.benzinga.com",
+    "published": "Wed Aug 26 2026 18:53:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Goldman Sachs raised its Coinbase price target from $173 to $196 while also lifting its Robinhood target from $123 to $124, citing regulatory progress and crypto trading upside.",
+    "link": "https://cryptopanic.com/news/33280153/LATEST-Goldman-Sachs-raised-its-Coinbase-price-target-from-173-to-196-while-also-lifting-its-Robinhood-target-from-123-to-124-citing-regulatory-progress-and-crypto-trading-upside",
+    "source": "@coinmarketcap",
+    "published": "Wed Aug 26 2026 18:53:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Chainalysis: Global On-Chain Taxable Crypto Activity Reached at Least $457 Billion in 2025\n\nChainalysis estimates that global on-chain potentially taxable crypto activity reached at least $457 billion in 2025, led by the United States at $112.6 billion. The total includes",
     "link": "https://cryptopanic.com/news/33280154/Chainalysis-Global-On-Chain-Taxable-Crypto-Activity-Reached-at-Least-457-Billion-in-2025-Chainalysis-estimates-that-global-on-chain-potentially-taxable-crypto-activity-reached-at-least-457-billion-in-2025-led-by-the-United-States-at-1126-billion-The-total-includes",
     "source": "@wublockchain",
     "published": "Wed Aug 26 2026 18:51:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Want a chance to win $1,000...?\n\nStart trading on TxFlow's new blockchain today: \n\nHot new L1 @TxFlow_L1 is running an all-new giveaway.\n\nAt the end of a four-week period, one trader who joined using the above link and trades more than $1M in volume, will",
+    "link": "https://cryptopanic.com/news/33280218/Want-a-chance-to-win-1000-Start-trading-on-TxFlows-new-blockchain-today-Hot-new-L1-TxFlow_L1-is-running-an-all-new-giveaway-At-the-end-of-a-four-week-period-one-trader-who-joined-using-the-above-link-and-trades-more-than-1M-in-volume-will",
+    "source": "@bscnews",
+    "published": "Wed Aug 26 2026 18:51:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitwise Just Launched the Next Generation of Onchain Investing",
+    "link": "https://cryptopanic.com/news/33280197/Bitwise-Just-Launched-the-Next-Generation-of-Onchain-Investing",
+    "source": "MilkRoadYoutube",
+    "published": "Wed Aug 26 2026 18:45:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: The DOJ and FBI seized domains used by China-linked hackers to operate platforms targeting U.S. critical infrastructure and sensitive government networks.",
+    "link": "https://cryptopanic.com/news/33280213/UPDATE-The-DOJ-and-FBI-seized-domains-used-by-China-linked-hackers-to-operate-platforms-targeting-US-critical-infrastructure-and-sensitive-government-networks",
+    "source": "@cointelegraph",
+    "published": "Wed Aug 26 2026 18:44:37 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -32,6 +151,13 @@
     "link": "https://cryptopanic.com/news/33280118/NEW-Pakistan-introduces-new-regulatory-framework-for-Bitcoin-and-crypto-They-have-the-rules-the-regulator-and-the-licensing-framework-to-bring-virtual-assets-into-the-economy-protect-consumers-and-build-the-foundation-for-the-next-generation-says-PVARA-Chairman",
     "source": "@bitcoinmagazine",
     "published": "Wed Aug 26 2026 18:40:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Ledger's main developer libraries add support for version 3.3.0\n\nThe XRP Ledger Foundation's (@XRPLF) and xrpl-py libraries now support XRPL version 3.3.0, with Java due within a day, per developer @JulianBerridi. A community-built PHP library has matched the update,",
+    "link": "https://cryptopanic.com/news/33280217/XRP-Ledgers-main-developer-libraries-add-support-for-version-330-The-XRP-Ledger-Foundations-XRPLF-and-xrpl-py-libraries-now-support-XRPL-version-330-with-Java-due-within-a-day-per-developer-JulianBerridi-A-community-built-PHP-library-has-matched-the-update",
+    "source": "@bscnews",
+    "published": "Wed Aug 26 2026 18:40:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -81,132 +207,6 @@
     "link": "https://cryptopanic.com/news/33280150/Michael-Saylor-after-Bitcoin-broke-above-his-754k-average",
     "source": "@btc_archive",
     "published": "Wed Aug 26 2026 18:25:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "25 Years on Wall Street, Now Crypto: GSR’s Baehr Sees a New Bitcoin Regime",
-    "link": "https://cryptopanic.com/news/33280141/25-Years-on-Wall-Street-Now-Crypto-GSRs-Baehr-Sees-a-New-Bitcoin-Regime",
-    "source": "beincrypto.com",
-    "published": "Wed Aug 26 2026 18:25:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cardano's core protocol engineers move to new firm BlockPQR\n\nInput Output (@IOGroup) today said that the IO Labs engineers behind @Cardano's ledger, indexer, formal methods, and uptime work are moving to @blockpqr, a firm founded by former IO delivery director Leonard Hegarty.",
-    "link": "https://cryptopanic.com/news/33280064/Cardanos-core-protocol-engineers-move-to-new-firm-BlockPQR-Input-Output-IOGroup-today-said-that-the-IO-Labs-engineers-behind-Cardanos-ledger-indexer-formal-methods-and-uptime-work-are-moving-to-blockpqr-a-firm-founded-by-former-IO-delivery-director-Leonard-Hegarty",
-    "source": "@bscnews",
-    "published": "Wed Aug 26 2026 18:24:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Bull Case for Fake World Assets",
-    "link": "https://cryptopanic.com/news/33280046/The-Bull-Case-for-Fake-World-Assets",
-    "source": "bankless.com",
-    "published": "Wed Aug 26 2026 18:21:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Strategy now holds 840,447 Bitcoin, equal to 4% of the total 21 million $BTC supply.",
-    "link": "https://cryptopanic.com/news/33280060/UPDATE-Strategy-now-holds-840447-Bitcoin-equal-to-4-of-the-total-21-million-BTC-supply",
-    "source": "@cointelegraph",
-    "published": "Wed Aug 26 2026 18:20:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇺🇸 The SEC has sent proposed crypto custody rule changes to the White House for review, aiming to clarify how investment advisers can hold digital assets for clients.",
-    "link": "https://cryptopanic.com/news/33280152/LATEST-The-SEC-has-sent-proposed-crypto-custody-rule-changes-to-the-White-House-for-review-aiming-to-clarify-how-investment-advisers-can-hold-digital-assets-for-clients",
-    "source": "@coinmarketcap",
-    "published": "Wed Aug 26 2026 18:17:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Is $ETH going to break its all-time high this year?\n\n@itsciaranlyons reports.",
-    "link": "https://cryptopanic.com/news/33280059/Is-ETH-going-to-break-its-all-time-high-this-year-itsciaranlyons-reports",
-    "source": "@cointelegraph",
-    "published": "Wed Aug 26 2026 18:15:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "EU Crypto Sanctions Expand August 25: What Every CASP Must Know",
-    "link": "https://cryptopanic.com/news/33280003/EU-Crypto-Sanctions-Expand-August-25-What-Every-CASP-Must-Know",
-    "source": "spaziocrypto.com",
-    "published": "Wed Aug 26 2026 18:14:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Critical vulnerability discovered in Ethereum app on Ledger wallets",
-    "link": "https://cryptopanic.com/news/33279978/Critical-vulnerability-discovered-in-Ethereum-app-on-Ledger-wallets",
-    "source": "finbold.com",
-    "published": "Wed Aug 26 2026 18:10:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Shinhan signs Visa stablecoin deal months after Solana Card trial",
-    "link": "https://cryptopanic.com/news/33279992/Shinhan-signs-Visa-stablecoin-deal-months-after-Solana-Card-trial",
-    "source": "cryptopolitan.com",
-    "published": "Wed Aug 26 2026 18:10:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Congrats to everyone who held through the 2026 Bitcoin bear market. 🫡\n\nYou deserve what’s coming next.\n\nSend it to $120k and higher!",
-    "link": "https://cryptopanic.com/news/33279984/Congrats-to-everyone-who-held-through-the-2026-Bitcoin-bear-market-You-deserve-whats-coming-next-Send-it-to-120k-and-higher",
-    "source": "@btc_archive",
-    "published": "Wed Aug 26 2026 18:10:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "GTA VI leaker’s token crashes despite ‘first true spoiler’",
-    "link": "https://cryptopanic.com/news/33279979/GTA-VI-leakers-token-crashes-despite-first-true-spoiler",
-    "source": "protos.com",
-    "published": "Wed Aug 26 2026 18:08:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Did you know staking CORE can boost what your Bitcoin earns?\n\nBitcoin holders can earn CORE rewards on @Coredao_Org by timelocking coins, locking them on the Bitcoin network for a set period without giving up custody. The rate those coins earn is not fixed.\n\nDual Staking sorts",
-    "link": "https://cryptopanic.com/news/33280063/Did-you-know-staking-CORE-can-boost-what-your-Bitcoin-earns-Bitcoin-holders-can-earn-CORE-rewards-on-Coredao_Org-by-timelocking-coins-locking-them-on-the-Bitcoin-network-for-a-set-period-without-giving-up-custody-The-rate-those-coins-earn-is-not-fixed-Dual-Staking-sorts",
-    "source": "@bscnews",
-    "published": "Wed Aug 26 2026 18:08:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BingX Reaches №1 in TradFi Perpetual Assets Coverage with 500+ Listings",
-    "link": "https://cryptopanic.com/news/33280138/BingX-Reaches-No1-in-TradFi-Perpetual-Assets-Coverage-with-500-Listings",
-    "source": "beincrypto.com",
-    "published": "Wed Aug 26 2026 18:00:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: According to a CryptoQuant analyst, XRP whales withdrew 231 million XRP from Binance, the highest outflow in six months.",
-    "link": "https://cryptopanic.com/news/33280058/LATEST-According-to-a-CryptoQuant-analyst-XRP-whales-withdrew-231-million-XRP-from-Binance-the-highest-outflow-in-six-months",
-    "source": "@cointelegraph",
-    "published": "Wed Aug 26 2026 18:00:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "RLUSD supply grows 30% while USDT slips – Is XRP gaining a liquidity edge?",
-    "link": "https://cryptopanic.com/news/33279940/RLUSD-supply-grows-30-while-USDT-slips-Is-XRP-gaining-a-liquidity-edge",
-    "source": "ambcrypto.com",
-    "published": "Wed Aug 26 2026 18:00:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AI Has Accidentally Replicated The Human Brain | Moran Cerf",
-    "link": "https://cryptopanic.com/news/33279950/AI-Has-Accidentally-Replicated-The-Human-Brain-Moran-Cerf",
-    "source": "whatbitcoindid",
-    "published": "Wed Aug 26 2026 18:00:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HUGE: Quant’s newly granted U.S. patent drops huge hint as it mentions @Ripple and @Hedera’s Hashgraph.\n\nThe patent is built around communication between different DLTs, meaning networks like XRPL and Hedera fit the exact multi chain world Quant is building to connect.\n\nWill we",
-    "link": "https://cryptopanic.com/news/33280061/HUGE-Quants-newly-granted-US-patent-drops-huge-hint-as-it-mentions-Ripple-and-Hederas-Hashgraph-The-patent-is-built-around-communication-between-different-DLTs-meaning-networks-like-XRPL-and-Hedera-fit-the-exact-multi-chain-world-Quant-is-building-to-connect-Will-we",
-    "source": "@realallincrypto",
-    "published": "Wed Aug 26 2026 18:00:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: @Mastercard sponsors the XRP Ledger Hackathon in New York on October 24-25, ahead of @Ripple's Swell conference.",
-    "link": "https://cryptopanic.com/news/33280056/NEW-Mastercard-sponsors-the-XRP-Ledger-Hackathon-in-New-York-on-October-24-25-ahead-of-Ripples-Swell-conference",
-    "source": "@coindesk",
-    "published": "Wed Aug 26 2026 18:00:01 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
