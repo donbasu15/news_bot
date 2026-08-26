@@ -1,5 +1,75 @@
 [
   {
+    "title": "🇺🇸 ETF FLOWS: BTC, ETH, SOL and XRP spot ETFs saw net inflows on Aug. 25.\n\nBTC: $314.37M\nETH: $179.8M\nSOL: $32.25M\nXRP: $23.87M",
+    "link": "https://cryptopanic.com/news/33275955/ETF-FLOWS-BTC-ETH-SOL-and-XRP-spot-ETFs-saw-net-inflows-on-Aug-25-BTC-31437M-ETH-1798M-SOL-3225M-XRP-2387M",
+    "source": "@cointelegraph",
+    "published": "Wed Aug 26 2026 07:15:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tokenized Stocks Push Robinhood Chain RWA Volume Past $85 Million for the First Time",
+    "link": "https://cryptopanic.com/news/33275945/Tokenized-Stocks-Push-Robinhood-Chain-RWA-Volume-Past-85-Million-for-the-First-Time",
+    "source": "cryptopolitan.com",
+    "published": "Wed Aug 26 2026 07:10:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SpaceX Commits $100,000,000,000 To Build World’s Largest Spaceport in Louisiana",
+    "link": "https://cryptopanic.com/news/33275981/SpaceX-Commits-100000000000-To-Build-Worlds-Largest-Spaceport-in-Louisiana",
+    "source": "dailyhodl.com",
+    "published": "Wed Aug 26 2026 07:04:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bonk Expands Into Onchain Casino Gaming With Betmode\n\nBONK (@bonk_inu) is expanding beyond its meme coin identity through officially branded games on Betmode.\n\nThe onchain gaming platform will add solana:DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263 themed experiences to its",
+    "link": "https://cryptopanic.com/news/33275959/Bonk-Expands-Into-Onchain-Casino-Gaming-With-Betmode-BONK-bonk_inu-is-expanding-beyond-its-meme-coin-identity-through-officially-branded-games-on-Betmode-The-onchain-gaming-platform-will-add-solanaDezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263-themed-experiences-to-its",
+    "source": "@bscnews",
+    "published": "Wed Aug 26 2026 07:04:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Polymarket Blocked in Italy: Urgent Case Dropped, Merits Battle Begins",
+    "link": "https://cryptopanic.com/news/33275933/Polymarket-Blocked-in-Italy-Urgent-Case-Dropped-Merits-Battle-Begins",
+    "source": "spaziocrypto.com",
+    "published": "Wed Aug 26 2026 07:03:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "️ LATEST: AI labs are debating giving cyber-testing sandboxes internet access, after models from OpenAI, Anthropic, and Meta reportedly broke out of test environments and touched real-world systems.",
+    "link": "https://cryptopanic.com/news/33275954/LATEST-AI-labs-are-debating-giving-cyber-testing-sandboxes-internet-access-after-models-from-OpenAI-Anthropic-and-Meta-reportedly-broke-out-of-test-environments-and-touched-real-world-systems",
+    "source": "@cointelegraph",
+    "published": "Wed Aug 26 2026 07:00:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "€22 TRILLION IS HEADING TOWARD TOKENISATION.\n\nClearstream is preparing to let clients tokenise parts of the €22T in assets it custodies, moving issuance, settlement, custody and collateral deeper onchain.\n\nClearstream is already partnered with @Ondo, and also with tokenised",
+    "link": "https://cryptopanic.com/news/33275957/22-TRILLION-IS-HEADING-TOWARD-TOKENISATION-Clearstream-is-preparing-to-let-clients-tokenise-parts-of-the-22T-in-assets-it-custodies-moving-issuance-settlement-custody-and-collateral-deeper-onchain-Clearstream-is-already-partnered-with-Ondo-and-also-with-tokenised",
+    "source": "@realallincrypto",
+    "published": "Wed Aug 26 2026 07:00:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "India Turns to the Digital Rupee to Settle Its First Tokenised Bonds",
+    "link": "https://cryptopanic.com/news/33275868/India-Turns-to-the-Digital-Rupee-to-Settle-Its-First-Tokenised-Bonds",
+    "source": "coinpaprika.com",
+    "published": "Wed Aug 26 2026 07:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin's 'Fringe Phase' is Over, Declares This Front-Page Advertisement: Nonprofit's Campaign Aims to Educate Americans",
+    "link": "https://cryptopanic.com/news/33275944/Bitcoins-Fringe-Phase-is-Over-Declares-This-Front-Page-Advertisement-Nonprofits-Campaign-Aims-to-Educate-Americans",
+    "source": "feeds2.benzinga.com",
+    "published": "Wed Aug 26 2026 06:53:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Uniswap founder sees tokenization as AMMs’ next big test",
+    "link": "https://cryptopanic.com/news/33275832/Uniswap-founder-sees-tokenization-as-AMMs-next-big-test",
+    "source": "cryptopolitan.com",
+    "published": "Wed Aug 26 2026 06:51:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Source",
     "link": "https://cryptopanic.com/news/33275853/Source",
     "source": "@wublockchain",
@@ -11,6 +81,20 @@
     "link": "https://cryptopanic.com/news/33275848/Hyperliquid-Officially-Activates-AQAv2-to-Buy-Back-and-Burn-HYPE-with-USDC-Reserve-Yield-Hyperliquid-announced-the-activation-of-its-AQAv2-Aligned-Quote-Asset-v2-framework-starting-August-26-which-directs-yield-generated-from-USDC-reserves-toward-programmatic-market",
     "source": "@wublockchain",
     "published": "Wed Aug 26 2026 06:50:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BIG: Elon Musk's SpaceX plans to build a $100 billion Starship launch complex in Louisiana, aiming for thousands of flights a year with launches starting in 2029.",
+    "link": "https://cryptopanic.com/news/33275953/BIG-Elon-Musks-SpaceX-plans-to-build-a-100-billion-Starship-launch-complex-in-Louisiana-aiming-for-thousands-of-flights-a-year-with-launches-starting-in-2029",
+    "source": "@cointelegraph",
+    "published": "Wed Aug 26 2026 06:45:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "US Regulators Could Move Without The CLARITY Act\n\nBitGo CEO Mike Belshe warned during a recent interview that regulators may move without the Clarity Act.\n\nHis comments come as SEC Chair Paul Atkins and CFTC Chair Michael Selig signal similar plans. Both agencies have indicated",
+    "link": "https://cryptopanic.com/news/33275958/US-Regulators-Could-Move-Without-The-CLARITY-Act-BitGo-CEO-Mike-Belshe-warned-during-a-recent-interview-that-regulators-may-move-without-the-Clarity-Act-His-comments-come-as-SEC-Chair-Paul-Atkins-and-CFTC-Chair-Michael-Selig-signal-similar-plans-Both-agencies-have-indicated",
+    "source": "@bscnews",
+    "published": "Wed Aug 26 2026 06:43:33 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -123,90 +207,6 @@
     "link": "https://cryptopanic.com/news/33275737/HUGE-US-banks-are-sitting-on-3267B-in-unrealized-losses-on-investment-securities-with-the-total-growing-for-two-straight-quarters",
     "source": "@cointelegraph",
     "published": "Wed Aug 26 2026 06:00:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nvidia Earnings Today: What Its Earnings Will Reveal About AI Bubble Risk",
-    "link": "https://cryptopanic.com/news/33275827/Nvidia-Earnings-Today-What-Its-Earnings-Will-Reveal-About-AI-Bubble-Risk",
-    "source": "beincrypto.com",
-    "published": "Wed Aug 26 2026 06:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "It's not too late to FOMO in to Asia's largest Bitcoin event    \n\nTrust us, you don't want to miss this \n\n10% off here",
-    "link": "https://cryptopanic.com/news/33275611/Its-not-too-late-to-FOMO-in-to-Asias-largest-Bitcoin-event-Trust-us-you-dont-want-to-miss-this-10-off-here",
-    "source": "@bitcoinmagazine",
-    "published": "Wed Aug 26 2026 05:56:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: ️ Arcus, built by dYdX Labs and Robinhood Crypto, launched pTokens on Robinhood Chain, turning leveraged perp accounts into transferable ERC-20s usable across DeFi.",
-    "link": "https://cryptopanic.com/news/33275680/LATEST-Arcus-built-by-dYdX-Labs-and-Robinhood-Crypto-launched-pTokens-on-Robinhood-Chain-turning-leveraged-perp-accounts-into-transferable-ERC-20s-usable-across-DeFi",
-    "source": "@coinmarketcap",
-    "published": "Wed Aug 26 2026 05:55:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cardano Governance Could Face A Major Roadblock\n\nCardano’s (@Cardano) vote to seat four elected Constitutional Committee members enters its final week.\n\nDRep support stands at 43%, below the required 67% threshold. Stake pool operator support is only 15%, compared with the 51%",
-    "link": "https://cryptopanic.com/news/33275742/Cardano-Governance-Could-Face-A-Major-Roadblock-Cardanos-Cardano-vote-to-seat-four-elected-Constitutional-Committee-members-enters-its-final-week-DRep-support-stands-at-43-below-the-required-67-threshold-Stake-pool-operator-support-is-only-15-compared-with-the-51",
-    "source": "@bscnews",
-    "published": "Wed Aug 26 2026 05:55:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BlackRock cuts bitcoin ETF swap minimum to $1 million: Report",
-    "link": "https://cryptopanic.com/news/33275644/BlackRock-cuts-bitcoin-ETF-swap-minimum-to-1-million-Report",
-    "source": "coindesk.com",
-    "published": "Wed Aug 26 2026 05:52:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "50 Wind Turbines Changed the Economics of This 7,000-Acre Kansas Ranch",
-    "link": "https://cryptopanic.com/news/33275597/50-Wind-Turbines-Changed-the-Economics-of-This-7000-Acre-Kansas-Ranch",
-    "source": "coinpaper.com",
-    "published": "Wed Aug 26 2026 05:52:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "WATCH: Shopkeepers in Iran's southern port city of Bandar Abbas said expanded US sanctions were worsening economic hardship, while voicing defiance over pressure on Tehran",
-    "link": "https://cryptopanic.com/news/33275576/WATCH-Shopkeepers-in-Irans-southern-port-city-of-Bandar-Abbas-said-expanded-US-sanctions-were-worsening-economic-hardship-while-voicing-defiance-over-pressure-on-Tehran",
-    "source": "@reutersbiz",
-    "published": "Wed Aug 26 2026 05:45:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "US Banking Groups Plan Nationwide Blockchain for 2027",
-    "link": "https://cryptopanic.com/news/33275509/US-Banking-Groups-Plan-Nationwide-Blockchain-for-2027",
-    "source": "coindoo.com",
-    "published": "Wed Aug 26 2026 05:36:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Germany's top financial regulator has questioned a regional bank over its financing of one of Europe's largest brothels, a person with direct knowledge of the matter said. More here",
-    "link": "https://cryptopanic.com/news/33275575/Germanys-top-financial-regulator-has-questioned-a-regional-bank-over-its-financing-of-one-of-Europes-largest-brothels-a-person-with-direct-knowledge-of-the-matter-said-More-here",
-    "source": "@reutersbiz",
-    "published": "Wed Aug 26 2026 05:36:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "I watched the video and wow.",
-    "link": "https://cryptopanic.com/news/33275733/I-watched-the-video-and-wow",
-    "source": "r/hedera",
-    "published": "Wed Aug 26 2026 05:36:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Can LUNC’s New Burn Tax Finally Move the Needle?\n\nTerra Classic just raised its burn tax to 1.5%, with 1.2% going directly toward burning terra-luna:native.\n\nBut with 5.5 trillion LUNC still in circulation, can the higher burn rate actually make a difference?\n\nOur latest guide",
-    "link": "https://cryptopanic.com/news/33275579/Can-LUNCs-New-Burn-Tax-Finally-Move-the-Needle-Terra-Classic-just-raised-its-burn-tax-to-15-with-12-going-directly-toward-burning-terra-lunanative-But-with-55-trillion-LUNC-still-in-circulation-can-the-higher-burn-rate-actually-make-a-difference-Our-latest-guide",
-    "source": "@bscnews",
-    "published": "Wed Aug 26 2026 05:35:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Six months into the US-Iran war, Qatar is among the conflict's biggest economic casualties, with its liquefied natural gas exports slashed by 96%, data shows. Qatar has lost $24 billion in gas sales, which is about five months’ worth of income for the country based on 2025 data,",
-    "link": "https://cryptopanic.com/news/33275574/Six-months-into-the-US-Iran-war-Qatar-is-among-the-conflicts-biggest-economic-casualties-with-its-liquefied-natural-gas-exports-slashed-by-96-data-shows-Qatar-has-lost-24-billion-in-gas-sales-which-is-about-five-months-worth-of-income-for-the-country-based-on-2025-data",
-    "source": "@reutersbiz",
-    "published": "Wed Aug 26 2026 05:35:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
