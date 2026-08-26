@@ -1,9 +1,79 @@
 [
   {
+    "title": "Crypto CEO Faces US Extradition Over Alleged $20 Million Token Scheme",
+    "link": "https://cryptopanic.com/news/33279752/Crypto-CEO-Faces-US-Extradition-Over-Alleged-20-Million-Token-Scheme",
+    "source": "decrypt.co",
+    "published": "Wed Aug 26 2026 17:15:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: OpenAI says it will achieve AGI by the end of this year.",
+    "link": "https://cryptopanic.com/news/33279755/JUST-IN-OpenAI-says-it-will-achieve-AGI-by-the-end-of-this-year",
+    "source": "@watcherguru",
+    "published": "Wed Aug 26 2026 17:10:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 Coinbase announces the expansion of their Bitcoin-backed mortgages \n\n\"Borrowers in the US can now use Bitcoin as collateral for a down payment - without having to sell it or face margin calls.\"",
+    "link": "https://cryptopanic.com/news/33279754/JUST-IN-Coinbase-announces-the-expansion-of-their-Bitcoin-backed-mortgages-Borrowers-in-the-US-can-now-use-Bitcoin-as-collateral-for-a-down-payment-without-having-to-sell-it-or-face-margin-calls",
+    "source": "@bitcoinmagazine",
+    "published": "Wed Aug 26 2026 17:09:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Banks Build Their Own Blockchain to Take On Crypto Stablecoins",
+    "link": "https://cryptopanic.com/news/33279681/Banks-Build-Their-Own-Blockchain-to-Take-On-Crypto-Stablecoins",
+    "source": "coinpaprika.com",
+    "published": "Wed Aug 26 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Fed’s Preferred Inflation Gauge Rises 3.7% In July",
+    "link": "https://cryptopanic.com/news/33279676/Feds-Preferred-Inflation-Gauge-Rises-37-In-July",
+    "source": "catenaa.com",
+    "published": "Wed Aug 26 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Price Prediction: Is $1.46 the Launchpad for the Next Big Move as 8.5 Year Cup & Handle Cements its significance?",
+    "link": "https://cryptopanic.com/news/33279666/XRP-Price-Prediction-Is-146-the-Launchpad-for-the-Next-Big-Move-as-85-Year-Cup-Handle-Cements-its-significance",
+    "source": "coinpaper.com",
+    "published": "Wed Aug 26 2026 16:56:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "María José Ruiz de Olano on DeFi Regulation and DAO Governance",
+    "link": "https://cryptopanic.com/news/33279667/Maria-Jose-Ruiz-de-Olano-on-DeFi-Regulation-and-DAO-Governance",
+    "source": "cryptomegaphone.com",
+    "published": "Wed Aug 26 2026 16:55:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Alleged Scammers Drain $1,780,000 in Cash, Jewelry and Precious Metals From Florida Woman After Posing as Bank of America and Chase Bank Employees",
+    "link": "https://cryptopanic.com/news/33279729/Alleged-Scammers-Drain-1780000-in-Cash-Jewelry-and-Precious-Metals-From-Florida-Woman-After-Posing-as-Bank-of-America-and-Chase-Bank-Employees",
+    "source": "dailyhodl.com",
+    "published": "Wed Aug 26 2026 16:55:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Become a real US landlord today... For just $1.\n\nFor as little as $1, you can mint one of @asx_capital's real estate-backed tokenised assets, giving you both...\n\n(a) Exposure to premium US real estate.\n(b) Yield of as much as 7.3% APY.\n\nLive on @BNBChain, don't miss your chance",
+    "link": "https://cryptopanic.com/news/33279675/Become-a-real-US-landlord-today-For-just-1-For-as-little-as-1-you-can-mint-one-of-asx_capitals-real-estate-backed-tokenised-assets-giving-you-both-a-Exposure-to-premium-US-real-estate-b-Yield-of-as-much-as-73-APY-Live-on-BNBChain-dont-miss-your-chance",
+    "source": "@bscnews",
+    "published": "Wed Aug 26 2026 16:53:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Senior police officers in Russia sentenced for stealing crypto exchange Garantex money",
     "link": "https://cryptopanic.com/news/33279592/Senior-police-officers-in-Russia-sentenced-for-stealing-crypto-exchange-Garantex-money",
     "source": "cryptopolitan.com",
     "published": "Wed Aug 26 2026 16:48:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Coinbase CEO weighs leaving California over wealth tax",
+    "link": "https://cryptopanic.com/news/33279745/Coinbase-CEO-weighs-leaving-California-over-wealth-tax",
+    "source": "thestreet.com",
+    "published": "Wed Aug 26 2026 16:46:50 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/33279584/Ethereums-Next-Upgrade-Could-Change-How-Fast-It-Can-Really-Go",
     "source": "beincrypto.com",
     "published": "Wed Aug 26 2026 16:16:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "0x and Matcha add support for Ondo's tokenized stocks\n\nTokenized asset issuer @Ondo Finance announced today that @0xProject and @matchaxyz now support Ondo Stocks, routing trades across more than 130 liquidity sources through the 0x Swap API.\n\nThe",
-    "link": "https://cryptopanic.com/news/33279409/0x-and-Matcha-add-support-for-Ondos-tokenized-stocks-Tokenized-asset-issuer-Ondo-Finance-announced-today-that-0xProject-and-matchaxyz-now-support-Ondo-Stocks-routing-trades-across-more-than-130-liquidity-sources-through-the-0x-Swap-API-The",
-    "source": "@bscnews",
-    "published": "Wed Aug 26 2026 16:14:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Chases $2 Tag: Millions Of Institutional Capital Enter",
-    "link": "https://cryptopanic.com/news/33279382/XRP-Chases-2-Tag-Millions-Of-Institutional-Capital-Enter",
-    "source": "dailycoin.com",
-    "published": "Wed Aug 26 2026 16:12:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bernstein: Bitcoin Could Hit $500,000 By 2029, MSTR to $350",
-    "link": "https://cryptopanic.com/news/33279458/Bernstein-Bitcoin-Could-Hit-500000-By-2029-MSTR-to-350",
-    "source": "feeds2.benzinga.com",
-    "published": "Wed Aug 26 2026 16:11:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Aptos adds Circle's CCTP V2 for seconds-fast USDC transfers",
-    "link": "https://cryptopanic.com/news/33279477/Aptos-adds-Circles-CCTP-V2-for-seconds-fast-USDC-transfers",
-    "source": "thestreet.com",
-    "published": "Wed Aug 26 2026 16:09:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: BlackRock's Head of Digital Assets tells Bloomberg that Bitcoin is \"going to keep growing because we keep expanding the access\" \n\nThey currently hold 765,000 bitcoin worth $60 billion on behalf of their investors",
-    "link": "https://cryptopanic.com/news/33279478/JUST-IN-BlackRocks-Head-of-Digital-Assets-tells-Bloomberg-that-Bitcoin-is-going-to-keep-growing-because-we-keep-expanding-the-access-They-currently-hold-765000-bitcoin-worth-60-billion-on-behalf-of-their-investors",
-    "source": "@bitcoinmagazine",
-    "published": "Wed Aug 26 2026 16:08:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hyperliquid Policy Center, trade[XYZ] urges CFTC to create path for US oil perpetuals",
-    "link": "https://cryptopanic.com/news/33279365/Hyperliquid-Policy-Center-tradeXYZ-urges-CFTC-to-create-path-for-US-oil-perpetuals",
-    "source": "theblock.co",
-    "published": "Wed Aug 26 2026 16:06:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "An Insider's Account: I Worked at Three Exchanges That All Imploded?\n\nA former employee of WebSea, JuCoin and CoinUP told WuBlockchain that some small and mid-sized exchanges rely on rising platform-token prices, discounted token purchases, high-yield products, copy trading and",
-    "link": "https://cryptopanic.com/news/33279591/An-Insiders-Account-I-Worked-at-Three-Exchanges-That-All-Imploded-A-former-employee-of-WebSea-JuCoin-and-CoinUP-told-WuBlockchain-that-some-small-and-mid-sized-exchanges-rely-on-rising-platform-token-prices-discounted-token-purchases-high-yield-products-copy-trading-and",
-    "source": "@wublockchain",
-    "published": "Wed Aug 26 2026 16:02:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 Bank of America, Wells Fargo, Santander & over a dozen major banks move forward with plans to launch a crypto stablecoin.",
-    "link": "https://cryptopanic.com/news/33279479/JUST-IN-Bank-of-America-Wells-Fargo-Santander-amp-over-a-dozen-major-banks-move-forward-with-plans-to-launch-a-crypto-stablecoin",
-    "source": "@watcherguru",
-    "published": "Wed Aug 26 2026 16:02:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CryptoQuant says bitcoin has entered bull market but needs to cross $83,000 for ‘official’ confirmation",
-    "link": "https://cryptopanic.com/news/33279331/CryptoQuant-says-bitcoin-has-entered-bull-market-but-needs-to-cross-83000-for-official-confirmation",
-    "source": "theblock.co",
-    "published": "Wed Aug 26 2026 16:02:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "STOXX 600 seen rising modestly by year-end, poll shows",
-    "link": "https://cryptopanic.com/news/33279401/STOXX-600-seen-rising-modestly-by-year-end-poll-shows",
-    "source": "@reutersbiz",
-    "published": "Wed Aug 26 2026 16:01:52 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
