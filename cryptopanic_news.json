@@ -1,9 +1,128 @@
 [
   {
+    "title": "EU Crypto Sanctions Expand August 25: What Every CASP Must Know",
+    "link": "https://cryptopanic.com/news/33280003/EU-Crypto-Sanctions-Expand-August-25-What-Every-CASP-Must-Know",
+    "source": "spaziocrypto.com",
+    "published": "Wed Aug 26 2026 18:14:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Critical vulnerability discovered in Ethereum app on Ledger wallets",
+    "link": "https://cryptopanic.com/news/33279978/Critical-vulnerability-discovered-in-Ethereum-app-on-Ledger-wallets",
+    "source": "finbold.com",
+    "published": "Wed Aug 26 2026 18:10:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Shinhan signs Visa stablecoin deal months after Solana Card trial",
+    "link": "https://cryptopanic.com/news/33279992/Shinhan-signs-Visa-stablecoin-deal-months-after-Solana-Card-trial",
+    "source": "cryptopolitan.com",
+    "published": "Wed Aug 26 2026 18:10:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Congrats to everyone who held through the 2026 Bitcoin bear market. 🫡\n\nYou deserve what’s coming next.\n\nSend it to $120k and higher!",
+    "link": "https://cryptopanic.com/news/33279984/Congrats-to-everyone-who-held-through-the-2026-Bitcoin-bear-market-You-deserve-whats-coming-next-Send-it-to-120k-and-higher",
+    "source": "@btc_archive",
+    "published": "Wed Aug 26 2026 18:10:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "GTA VI leaker’s token crashes despite ‘first true spoiler’",
+    "link": "https://cryptopanic.com/news/33279979/GTA-VI-leakers-token-crashes-despite-first-true-spoiler",
+    "source": "protos.com",
+    "published": "Wed Aug 26 2026 18:08:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "RLUSD supply grows 30% while USDT slips – Is XRP gaining a liquidity edge?",
+    "link": "https://cryptopanic.com/news/33279940/RLUSD-supply-grows-30-while-USDT-slips-Is-XRP-gaining-a-liquidity-edge",
+    "source": "ambcrypto.com",
+    "published": "Wed Aug 26 2026 18:00:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "AI Has Accidentally Replicated The Human Brain | Moran Cerf",
+    "link": "https://cryptopanic.com/news/33279950/AI-Has-Accidentally-Replicated-The-Human-Brain-Moran-Cerf",
+    "source": "whatbitcoindid",
+    "published": "Wed Aug 26 2026 18:00:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Meta Agrees To Pay $18Bn To Settle Children’s Safety Lawsuit",
+    "link": "https://cryptopanic.com/news/33279922/Meta-Agrees-To-Pay-18Bn-To-Settle-Childrens-Safety-Lawsuit",
+    "source": "catenaa.com",
+    "published": "Wed Aug 26 2026 18:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Midnight surpasses 573,000 transactions on Preprod testnet according to Midnight Explorer, highlighting rising community and developer activity.",
+    "link": "https://cryptopanic.com/news/33279994/JUST-IN-Midnight-surpasses-573000-transactions-on-Preprod-testnet-according-to-Midnight-Explorer-highlighting-rising-community-and-developer-activity",
+    "source": "@angrycryptoshow",
+    "published": "Wed Aug 26 2026 17:59:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Better Opens Crypto-Backed Mortgages to Coinbase One Members",
+    "link": "https://cryptopanic.com/news/33279929/Better-Opens-Crypto-Backed-Mortgages-to-Coinbase-One-Members",
+    "source": "cryptoprowl.com",
+    "published": "Wed Aug 26 2026 17:57:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ECB says offline digital euro payments stay private, banks see the rest",
+    "link": "https://cryptopanic.com/news/33279925/ECB-says-offline-digital-euro-payments-stay-private-banks-see-the-rest",
+    "source": "cryptopolitan.com",
+    "published": "Wed Aug 26 2026 17:55:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Charles Hoskinson says \"I'm so tired of a trillion dollar company mandating to me, how I'm supposed to live my life. I want to have some say in the relationship, and if they want to earn my business, I have to give consent, and have control. Only crypto can bring that.\"",
+    "link": "https://cryptopanic.com/news/33279993/UPDATE-Charles-Hoskinson-says-Im-so-tired-of-a-trillion-dollar-company-mandating-to-me-how-Im-supposed-to-live-my-life-I-want-to-have-some-say-in-the-relationship-and-if-they-want-to-earn-my-business-I-have-to-give-consent-and-have-control-Only-crypto-can-bring-that",
+    "source": "@angrycryptoshow",
+    "published": "Wed Aug 26 2026 17:52:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Solana Treasury Firm Invites Investors to Look 'Beyond the Price of SOL'",
+    "link": "https://cryptopanic.com/news/33279913/Solana-Treasury-Firm-Invites-Investors-to-Look-Beyond-the-Price-of-SOL",
+    "source": "decrypt.co",
+    "published": "Wed Aug 26 2026 17:52:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: #Cardano $ADA Founder Charles Hoskinson on Midnight City, says \"some of the stuff we're working on on is so incredible and so advanced. We keep pushing the boundaries of the possible. You only see the minimal tip of the iceberg. We're holding things back a little bit.\"",
+    "link": "https://cryptopanic.com/news/33279991/UPDATE-Cardano-ADA-Founder-Charles-Hoskinson-on-Midnight-City-says-some-of-the-stuff-were-working-on-on-is-so-incredible-and-so-advanced-We-keep-pushing-the-boundaries-of-the-possible-You-only-see-the-minimal-tip-of-the-iceberg-Were-holding-things-back-a-little-bit",
+    "source": "@angrycryptoshow",
+    "published": "Wed Aug 26 2026 17:52:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Charles Hoskinson on Midnight City, says \"if we get the mechanics right, it'll grow parabolically, and make Midnight City the most useful place in the world for agentic search, commerce, and development. It has agents to agents talking, and a whole economy around that.\"",
+    "link": "https://cryptopanic.com/news/33279990/UPDATE-Charles-Hoskinson-on-Midnight-City-says-if-we-get-the-mechanics-right-itll-grow-parabolically-and-make-Midnight-City-the-most-useful-place-in-the-world-for-agentic-search-commerce-and-development-It-has-agents-to-agents-talking-and-a-whole-economy-around-that",
+    "source": "@angrycryptoshow",
+    "published": "Wed Aug 26 2026 17:51:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: #Cardano $ADA Founder Charles Hoskinson is upgrading the Open Wallet Standard, says \"we're even evolving standards. When we integrated OWS, it didn't have any Web support. You can do mobile apps and desktop apps, so I said let's extend the standard to work in a browser.\"",
+    "link": "https://cryptopanic.com/news/33279989/UPDATE-Cardano-ADA-Founder-Charles-Hoskinson-is-upgrading-the-Open-Wallet-Standard-says-were-even-evolving-standards-When-we-integrated-OWS-it-didnt-have-any-Web-support-You-can-do-mobile-apps-and-desktop-apps-so-I-said-lets-extend-the-standard-to-work-in-a-browser",
+    "source": "@angrycryptoshow",
+    "published": "Wed Aug 26 2026 17:50:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "US Crypto Investors Face a $955 Retirement Wake-Up Call",
     "link": "https://cryptopanic.com/news/33279908/US-Crypto-Investors-Face-a-955-Retirement-Wake-Up-Call",
     "source": "coindoo.com",
     "published": "Wed Aug 26 2026 17:48:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Is 'Not Overbought' Yet, Fairlead's Katie Stockton Says",
+    "link": "https://cryptopanic.com/news/33279941/Bitcoin-Is-Not-Overbought-Yet-Fairleads-Katie-Stockton-Says",
+    "source": "feeds2.benzinga.com",
+    "published": "Wed Aug 26 2026 17:45:59 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -28,6 +147,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "LATEST:  JPMorgan recently evaluated launching its own stablecoin, while Bank of America, Wells Fargo and Santander are exploring a global bank-backed stablecoin venture, per the WSJ.",
+    "link": "https://cryptopanic.com/news/33279986/LATEST-JPMorgan-recently-evaluated-launching-its-own-stablecoin-while-Bank-of-America-Wells-Fargo-and-Santander-are-exploring-a-global-bank-backed-stablecoin-venture-per-the-WSJ",
+    "source": "@coinmarketcap",
+    "published": "Wed Aug 26 2026 17:41:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "UPDATE: A new survey found 77% of Americans view crypto in workplace retirement plans as risky, while 53% oppose employers offering it as an investment option.",
     "link": "https://cryptopanic.com/news/33279863/UPDATE-A-new-survey-found-77-of-Americans-view-crypto-in-workplace-retirement-plans-as-risky-while-53-oppose-employers-offering-it-as-an-investment-option",
     "source": "@cointelegraph",
@@ -39,6 +165,13 @@
     "link": "https://cryptopanic.com/news/33279847/Cathie-Woods-ARKK-has-trailed-BTC-SP-500-since-inception",
     "source": "protos.com",
     "published": "Wed Aug 26 2026 17:40:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Coinbase says demand to finance home purchases with Bitcoin & crypto tops $260M.",
+    "link": "https://cryptopanic.com/news/33279982/JUST-IN-Coinbase-says-demand-to-finance-home-purchases-with-Bitcoin-amp-crypto-tops-260M",
+    "source": "@btc_archive",
+    "published": "Wed Aug 26 2026 17:38:46 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -64,13 +197,6 @@
   },
   {
     "title": "'The Government Doesn't Own Our Data': Prosecuted GrapheneOS User",
-    "link": "https://cryptopanic.com/news/33279920/The-Government-Doesnt-Own-Our-Data-Prosecuted-GrapheneOS-User",
-    "source": "@decryptmedia",
-    "published": "Wed Aug 26 2026 17:26:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "'The Government Doesn't Own Our Data': Prosecuted GrapheneOS User",
     "link": "https://cryptopanic.com/news/33279793/The-Government-Doesnt-Own-Our-Data-Prosecuted-GrapheneOS-User",
     "source": "decrypt.co",
     "published": "Wed Aug 26 2026 17:24:52 GMT+0000 (Coordinated Universal Time)",
@@ -81,132 +207,6 @@
     "link": "https://cryptopanic.com/news/33279805/JUST-IN-Cardano-ADAs-VESPR-Wallet-is-focused-on-making-that-first-experience-fast-simple-and-clear-providing-a-retail-friendly-UX",
     "source": "@angrycryptoshow",
     "published": "Wed Aug 26 2026 17:24:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "More Than 100 Million XRP Flows Into This DeFi System",
-    "link": "https://cryptopanic.com/news/33279787/More-Than-100-Million-XRP-Flows-Into-This-DeFi-System",
-    "source": "dailycoin.com",
-    "published": "Wed Aug 26 2026 17:23:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Wyoming stablecoin chief says he’s not fighting Tether, he’s franchising statehood",
-    "link": "https://cryptopanic.com/news/33279848/Wyoming-stablecoin-chief-says-hes-not-fighting-Tether-hes-franchising-statehood",
-    "source": "thestreet.com",
-    "published": "Wed Aug 26 2026 17:21:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Special Thanks:\n@Cardanians_io",
-    "link": "https://cryptopanic.com/news/33279804/Special-Thanks-Cardanians_io",
-    "source": "@angrycryptoshow",
-    "published": "Wed Aug 26 2026 17:21:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BIG: Tokenized real-world assets have reached a $44.7B market cap, with $2.9B deployed in DeFi and $321.8M traded on DEXs over the past 24 hours.",
-    "link": "https://cryptopanic.com/news/33279862/BIG-Tokenized-real-world-assets-have-reached-a-447B-market-cap-with-29B-deployed-in-DeFi-and-3218M-traded-on-DEXs-over-the-past-24-hours",
-    "source": "@cointelegraph",
-    "published": "Wed Aug 26 2026 17:20:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Injective's Community BuyBack fills the same day it opens\n\nSeptember's injective-protocol:native BuyBack round filled within its opening day, per @injective, which values the event at more than $168,000. Participants commit tokens for a pro rata share of ecosystem revenue, and",
-    "link": "https://cryptopanic.com/news/33279869/Injectives-Community-BuyBack-fills-the-same-day-it-opens-Septembers-injective-protocolnative-BuyBack-round-filled-within-its-opening-day-per-injective-which-values-the-event-at-more-than-168000-Participants-commit-tokens-for-a-pro-rata-share-of-ecosystem-revenue-and",
-    "source": "@bscnews",
-    "published": "Wed Aug 26 2026 17:17:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto CEO Faces US Extradition Over Alleged $20 Million Token Scheme",
-    "link": "https://cryptopanic.com/news/33279752/Crypto-CEO-Faces-US-Extradition-Over-Alleged-20-Million-Token-Scheme",
-    "source": "decrypt.co",
-    "published": "Wed Aug 26 2026 17:15:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "New SEC filing hints Ripple could unlock more XRP every month",
-    "link": "https://cryptopanic.com/news/33279802/New-SEC-filing-hints-Ripple-could-unlock-more-XRP-every-month",
-    "source": "thestreet.com",
-    "published": "Wed Aug 26 2026 17:14:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$NVDA is moving lower again today ahead of their earnings report after the US session.\n\nThe entire market is waiting for their earnings both because NVDA is the largest company in the world and because they will provide a strong signal as to how AI growth/demand is changing.",
-    "link": "https://cryptopanic.com/news/33279800/NVDA-is-moving-lower-again-today-ahead-of-their-earnings-report-after-the-US-session-The-entire-market-is-waiting-for-their-earnings-both-because-NVDA-is-the-largest-company-in-the-world-and-because-they-will-provide-a-strong-signal-as-to-how-AI-growthdemand-is-changing",
-    "source": "@stackersatoshi",
-    "published": "Wed Aug 26 2026 17:13:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: Fidelity says it makes sense to hold Bitcoin in today’s economy.\n\n“Data shows BTC has done better than other assets after geopolitical events.”\n\n“Historically, holding a little BTC goes a long way.”",
-    "link": "https://cryptopanic.com/news/33279799/BREAKING-Fidelity-says-it-makes-sense-to-hold-Bitcoin-in-todays-economy-Data-shows-BTC-has-done-better-than-other-assets-after-geopolitical-events-Historically-holding-a-little-BTC-goes-a-long-way",
-    "source": "@btc_archive",
-    "published": "Wed Aug 26 2026 17:12:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: OpenAI says it will achieve AGI by the end of this year.",
-    "link": "https://cryptopanic.com/news/33279755/JUST-IN-OpenAI-says-it-will-achieve-AGI-by-the-end-of-this-year",
-    "source": "@watcherguru",
-    "published": "Wed Aug 26 2026 17:10:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 Coinbase announces the expansion of their Bitcoin-backed mortgages \n\n\"Borrowers in the US can now use Bitcoin as collateral for a down payment - without having to sell it or face margin calls.\"",
-    "link": "https://cryptopanic.com/news/33279754/JUST-IN-Coinbase-announces-the-expansion-of-their-Bitcoin-backed-mortgages-Borrowers-in-the-US-can-now-use-Bitcoin-as-collateral-for-a-down-payment-without-having-to-sell-it-or-face-margin-calls",
-    "source": "@bitcoinmagazine",
-    "published": "Wed Aug 26 2026 17:09:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Sui Co-Founder Kostas Kryptos Unveils Regulated Exchange Havenex as Series A Nears Close\n\nSui co-founder Kostas Kryptos said Havenex is currently raising a Series A round that is close to completion and has already applied for the licenses required for its planned operations. The",
-    "link": "https://cryptopanic.com/news/33279803/Sui-Co-Founder-Kostas-Kryptos-Unveils-Regulated-Exchange-Havenex-as-Series-A-Nears-Close-Sui-co-founder-Kostas-Kryptos-said-Havenex-is-currently-raising-a-Series-A-round-that-is-close-to-completion-and-has-already-applied-for-the-licenses-required-for-its-planned-operations-The",
-    "source": "@wublockchain",
-    "published": "Wed Aug 26 2026 17:08:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto-Rich but House-Hunting? Coinbase and Better Unveil Token-Backed Mortgage",
-    "link": "https://cryptopanic.com/news/33279789/Crypto-Rich-but-House-Hunting-Coinbase-and-Better-Unveil-Token-Backed-Mortgage",
-    "source": "feeds2.benzinga.com",
-    "published": "Wed Aug 26 2026 17:07:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Only about 1 in 10,000 people worldwide, or roughly 825,000 people, own one whole Bitcoin after adjusting for exchanges, governments, ETFs and corporate treasuries, per River.",
-    "link": "https://cryptopanic.com/news/33279801/LATEST-Only-about-1-in-10000-people-worldwide-or-roughly-825000-people-own-one-whole-Bitcoin-after-adjusting-for-exchanges-governments-ETFs-and-corporate-treasuries-per-River",
-    "source": "@coinmarketcap",
-    "published": "Wed Aug 26 2026 17:05:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Internet Computer responses verify against one key that has not changed since genesis\n\nOn most blockchains, checking that a response is genuine means running a light client, software that tracks the chain's headers. The Internet Computer takes a different route.\n\nThe network is",
-    "link": "https://cryptopanic.com/news/33279867/Internet-Computer-responses-verify-against-one-key-that-has-not-changed-since-genesis-On-most-blockchains-checking-that-a-response-is-genuine-means-running-a-light-client-software-that-tracks-the-chains-headers-The-Internet-Computer-takes-a-different-route-The-network-is",
-    "source": "@bscnews",
-    "published": "Wed Aug 26 2026 17:02:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Revolut is officially entering the stablecoin race.\n\nOne of Europe’s biggest digital banking giants has launched EURR, its own euro backed stablecoin.\n\nBanks are now building onchain, and stablecoins seem like the gateway drug into broader crypto and DLT adoption!.\n\nAnother",
-    "link": "https://cryptopanic.com/news/33279866/Revolut-is-officially-entering-the-stablecoin-race-One-of-Europes-biggest-digital-banking-giants-has-launched-EURR-its-own-euro-backed-stablecoin-Banks-are-now-building-onchain-and-stablecoins-seem-like-the-gateway-drug-into-broader-crypto-and-DLT-adoption-Another",
-    "source": "@realallincrypto",
-    "published": "Wed Aug 26 2026 17:01:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ALERT: U.S. mortgage demand weakened as the average 30-year fixed rate rose to a three-week high of 6.78%, with home-purchase applications down 5% year over year.",
-    "link": "https://cryptopanic.com/news/33279861/ALERT-US-mortgage-demand-weakened-as-the-average-30-year-fixed-rate-rose-to-a-three-week-high-of-678-with-home-purchase-applications-down-5-year-over-year",
-    "source": "@cointelegraph",
-    "published": "Wed Aug 26 2026 17:01:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tomorrow on CoinMarketCal:\n\n$PEAQ: Economics 2.0 Implementation (impact 7.5/10)\n\nFull calendar",
-    "link": "https://cryptopanic.com/news/33279865/Tomorrow-on-CoinMarketCal-PEAQ-Economics-20-Implementation-impact-7510-Full-calendar",
-    "source": "@coinmarketcal",
-    "published": "Wed Aug 26 2026 17:00:32 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
