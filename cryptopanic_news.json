@@ -1,5 +1,89 @@
 [
   {
+    "title": "For the complete article and weekly curated reports, subscribe to our Substack",
+    "link": "https://cryptopanic.com/news/33279593/For-the-complete-article-and-weekly-curated-reports-subscribe-to-our-Substack",
+    "source": "@wublockchain",
+    "published": "Wed Aug 26 2026 16:38:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Anthropic expected to IPO at larger market cap than SpaceX after telling investors its revenue could exceed $30 trillion.",
+    "link": "https://cryptopanic.com/news/33279480/JUST-IN-Anthropic-expected-to-IPO-at-larger-market-cap-than-SpaceX-after-telling-investors-its-revenue-could-exceed-30-trillion",
+    "source": "@watcherguru",
+    "published": "Wed Aug 26 2026 16:31:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  BlackRock has slashed its IBIT in-kind swap minimum to $1M from $25M, while Bitwise cut its threshold to $3M from $100M, per Bloomberg.",
+    "link": "https://cryptopanic.com/news/33279587/LATEST-BlackRock-has-slashed-its-IBIT-in-kind-swap-minimum-to-1M-from-25M-while-Bitwise-cut-its-threshold-to-3M-from-100M-per-Bloomberg",
+    "source": "@coinmarketcap",
+    "published": "Wed Aug 26 2026 16:31:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Analyst says Bitcoin surge is a warning sign for U.S. dollar",
+    "link": "https://cryptopanic.com/news/33279598/Analyst-says-Bitcoin-surge-is-a-warning-sign-for-US-dollar",
+    "source": "thestreet.com",
+    "published": "Wed Aug 26 2026 16:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: BlackRock converted nearly $2B of spot Bitcoin into its ETF over the past 10 months.",
+    "link": "https://cryptopanic.com/news/33279586/JUST-IN-BlackRock-converted-nearly-2B-of-spot-Bitcoin-into-its-ETF-over-the-past-10-months",
+    "source": "@btc_archive",
+    "published": "Wed Aug 26 2026 16:28:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Long-term holders sit on 1.05M Bitcoin supply wall near $83k — Glassnode data",
+    "link": "https://cryptopanic.com/news/33279585/JUST-IN-Long-term-holders-sit-on-105M-Bitcoin-supply-wall-near-83k-Glassnode-data",
+    "source": "@btc_archive",
+    "published": "Wed Aug 26 2026 16:23:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Payment Giant Mastercard Backs XRP Ledger Hackathon as Builders Target AI Finance and On-Chain Lending",
+    "link": "https://cryptopanic.com/news/33279450/Payment-Giant-Mastercard-Backs-XRP-Ledger-Hackathon-as-Builders-Target-AI-Finance-and-On-Chain-Lending",
+    "source": "coinpaper.com",
+    "published": "Wed Aug 26 2026 16:22:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JPMorgan Weighs a Stablecoin as Banks Test Two Paths",
+    "link": "https://cryptopanic.com/news/33279431/JPMorgan-Weighs-a-Stablecoin-as-Banks-Test-Two-Paths",
+    "source": "coindoo.com",
+    "published": "Wed Aug 26 2026 16:19:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tokenized Deposits Could Drain $700 Billion From Bank Lending, Dallas Fed Warns",
+    "link": "https://cryptopanic.com/news/33279433/Tokenized-Deposits-Could-Drain-700-Billion-From-Bank-Lending-Dallas-Fed-Warns",
+    "source": "decrypt.co",
+    "published": "Wed Aug 26 2026 16:18:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Mastercard Makes Surprise XRP Ledger Move",
+    "link": "https://cryptopanic.com/news/33279476/Mastercard-Makes-Surprise-XRP-Ledger-Move",
+    "source": "u.today",
+    "published": "Wed Aug 26 2026 16:17:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SEC Moves to Modernize Crypto Custody Rules – Here Is What Could Change",
+    "link": "https://cryptopanic.com/news/33279430/SEC-Moves-to-Modernize-Crypto-Custody-Rules-Here-Is-What-Could-Change",
+    "source": "blocknews.com",
+    "published": "Wed Aug 26 2026 16:17:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum’s Next Upgrade Could Change How Fast It Can Really Go",
+    "link": "https://cryptopanic.com/news/33279584/Ethereums-Next-Upgrade-Could-Change-How-Fast-It-Can-Really-Go",
+    "source": "beincrypto.com",
+    "published": "Wed Aug 26 2026 16:16:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "0x and Matcha add support for Ondo's tokenized stocks\n\nTokenized asset issuer @Ondo Finance announced today that @0xProject and @matchaxyz now support Ondo Stocks, routing trades across more than 130 liquidity sources through the 0x Swap API.\n\nThe",
     "link": "https://cryptopanic.com/news/33279409/0x-and-Matcha-add-support-for-Ondos-tokenized-stocks-Tokenized-asset-issuer-Ondo-Finance-announced-today-that-0xProject-and-matchaxyz-now-support-Ondo-Stocks-routing-trades-across-more-than-130-liquidity-sources-through-the-0x-Swap-API-The",
     "source": "@bscnews",
@@ -14,10 +98,45 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Bernstein: Bitcoin Could Hit $500,000 By 2029, MSTR to $350",
+    "link": "https://cryptopanic.com/news/33279458/Bernstein-Bitcoin-Could-Hit-500000-By-2029-MSTR-to-350",
+    "source": "feeds2.benzinga.com",
+    "published": "Wed Aug 26 2026 16:11:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Aptos adds Circle's CCTP V2 for seconds-fast USDC transfers",
+    "link": "https://cryptopanic.com/news/33279477/Aptos-adds-Circles-CCTP-V2-for-seconds-fast-USDC-transfers",
+    "source": "thestreet.com",
+    "published": "Wed Aug 26 2026 16:09:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: BlackRock's Head of Digital Assets tells Bloomberg that Bitcoin is \"going to keep growing because we keep expanding the access\" \n\nThey currently hold 765,000 bitcoin worth $60 billion on behalf of their investors",
+    "link": "https://cryptopanic.com/news/33279478/JUST-IN-BlackRocks-Head-of-Digital-Assets-tells-Bloomberg-that-Bitcoin-is-going-to-keep-growing-because-we-keep-expanding-the-access-They-currently-hold-765000-bitcoin-worth-60-billion-on-behalf-of-their-investors",
+    "source": "@bitcoinmagazine",
+    "published": "Wed Aug 26 2026 16:08:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Hyperliquid Policy Center, trade[XYZ] urges CFTC to create path for US oil perpetuals",
     "link": "https://cryptopanic.com/news/33279365/Hyperliquid-Policy-Center-tradeXYZ-urges-CFTC-to-create-path-for-US-oil-perpetuals",
     "source": "theblock.co",
     "published": "Wed Aug 26 2026 16:06:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "An Insider's Account: I Worked at Three Exchanges That All Imploded?\n\nA former employee of WebSea, JuCoin and CoinUP told WuBlockchain that some small and mid-sized exchanges rely on rising platform-token prices, discounted token purchases, high-yield products, copy trading and",
+    "link": "https://cryptopanic.com/news/33279591/An-Insiders-Account-I-Worked-at-Three-Exchanges-That-All-Imploded-A-former-employee-of-WebSea-JuCoin-and-CoinUP-told-WuBlockchain-that-some-small-and-mid-sized-exchanges-rely-on-rising-platform-token-prices-discounted-token-purchases-high-yield-products-copy-trading-and",
+    "source": "@wublockchain",
+    "published": "Wed Aug 26 2026 16:02:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 Bank of America, Wells Fargo, Santander & over a dozen major banks move forward with plans to launch a crypto stablecoin.",
+    "link": "https://cryptopanic.com/news/33279479/JUST-IN-Bank-of-America-Wells-Fargo-Santander-amp-over-a-dozen-major-banks-move-forward-with-plans-to-launch-a-crypto-stablecoin",
+    "source": "@watcherguru",
+    "published": "Wed Aug 26 2026 16:02:16 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -70,16 +189,16 @@
     "sentiment": "neutral"
   },
   {
-    "title": "“A No Brainer Yes” - Anatoly Yakovenko Backs Controversial SGP-003 Vote as App Builders Push Back",
-    "link": "https://cryptopanic.com/news/33278666/A-No-Brainer-Yes-Anatoly-Yakovenko-Backs-Controversial-SGP-003-Vote-as-App-Builders-Push-Back",
-    "source": "solanafloor.com",
+    "title": "Visa Tests 7-Day Stablecoin Settlement in Asia",
+    "link": "https://cryptopanic.com/news/33279303/Visa-Tests-7-Day-Stablecoin-Settlement-in-Asia",
+    "source": "catenaa.com",
     "published": "Wed Aug 26 2026 16:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Visa Tests 7-Day Stablecoin Settlement in Asia",
-    "link": "https://cryptopanic.com/news/33279303/Visa-Tests-7-Day-Stablecoin-Settlement-in-Asia",
-    "source": "catenaa.com",
+    "title": "“A No Brainer Yes” - Anatoly Yakovenko Backs Controversial SGP-003 Vote as App Builders Push Back",
+    "link": "https://cryptopanic.com/news/33278666/A-No-Brainer-Yes-Anatoly-Yakovenko-Backs-Controversial-SGP-003-Vote-as-App-Builders-Push-Back",
+    "source": "solanafloor.com",
     "published": "Wed Aug 26 2026 16:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -88,125 +207,6 @@
     "link": "https://cryptopanic.com/news/33279317/JPMorgan-Eases-SpaceX-Lending-Rules-to-Capture-AI-Wealth",
     "source": "cryptoprowl.com",
     "published": "Wed Aug 26 2026 15:58:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "DeFi Development Launches Real-Time Solana Data Platform",
-    "link": "https://cryptopanic.com/news/33279291/DeFi-Development-Launches-Real-Time-Solana-Data-Platform",
-    "source": "cryptoprowl.com",
-    "published": "Wed Aug 26 2026 15:57:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: LunarCrush ranks #Cardano as the 15th most mentioned cryptocurrency, with over 14,800 mentions, up 19% in 24h, highlighting $ADA's social dominance.",
-    "link": "https://cryptopanic.com/news/33279300/JUST-IN-LunarCrush-ranks-Cardano-as-the-15th-most-mentioned-cryptocurrency-with-over-14800-mentions-up-19-in-24h-highlighting-ADAs-social-dominance",
-    "source": "@angrycryptoshow",
-    "published": "Wed Aug 26 2026 15:56:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Cardano $ADA's Strike Finance surpasses 5,000 unique traders.",
-    "link": "https://cryptopanic.com/news/33279299/JUST-IN-Cardano-ADAs-Strike-Finance-surpasses-5000-unique-traders",
-    "source": "@angrycryptoshow",
-    "published": "Wed Aug 26 2026 15:55:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JPMorgan Weighs Stablecoin as Bank Push Accelerates",
-    "link": "https://cryptopanic.com/news/33279283/JPMorgan-Weighs-Stablecoin-as-Bank-Push-Accelerates",
-    "source": "bankless.com",
-    "published": "Wed Aug 26 2026 15:53:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: ️ Rapper Pitbull announced his new album called \"Pitcoin,\" sparking a flurry of Pitbull-themed memecoins to be launched.",
-    "link": "https://cryptopanic.com/news/33279294/LATEST-Rapper-Pitbull-announced-his-new-album-called-Pitcoin-sparking-a-flurry-of-Pitbull-themed-memecoins-to-be-launched",
-    "source": "@coinmarketcap",
-    "published": "Wed Aug 26 2026 15:53:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why this XRP ETF could drift from XRP price as fees, trading costs and fund structure stack up",
-    "link": "https://cryptopanic.com/news/33279278/Why-this-XRP-ETF-could-drift-from-XRP-price-as-fees-trading-costs-and-fund-structure-stack-up",
-    "source": "cryptoslate.com",
-    "published": "Wed Aug 26 2026 15:50:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: @JPMorgan evaluates launching its own stablecoin, while a group including @BankofAmerica, @WellsFargo and @bancosantander moves forward on a cross-border stablecoin venture, per WSJ.",
-    "link": "https://cryptopanic.com/news/33279398/LATEST-JPMorgan-evaluates-launching-its-own-stablecoin-while-a-group-including-BankofAmerica-WellsFargo-and-bancosantander-moves-forward-on-a-cross-border-stablecoin-venture-per-WSJ",
-    "source": "@coindesk",
-    "published": "Wed Aug 26 2026 15:49:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Asia's Stablecoin Projects Secure US VC Backing As Real-World Use Grows",
-    "link": "https://cryptopanic.com/news/33279327/Asias-Stablecoin-Projects-Secure-US-VC-Backing-As-Real-World-Use-Grows",
-    "source": "feeds2.benzinga.com",
-    "published": "Wed Aug 26 2026 15:48:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BTC Falls Below $78K as July PCE Inflation Stays Above Fed Target",
-    "link": "https://cryptopanic.com/news/33279251/BTC-Falls-Below-78K-as-July-PCE-Inflation-Stays-Above-Fed-Target",
-    "source": "coinpaper.com",
-    "published": "Wed Aug 26 2026 15:47:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Will Bitcoin (BTC) Reach $100K This Quarter? Here’s What 3 AIs Predict",
-    "link": "https://cryptopanic.com/news/33279280/Will-Bitcoin-BTC-Reach-100K-This-Quarter-Heres-What-3-AIs-Predict",
-    "source": "cryptopotato.com",
-    "published": "Wed Aug 26 2026 15:45:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Revolut's EURR Stablecoin is live on Polygon \n\n@Revolut officially launches its native euro-backed stablecoin, $EURR, on the @0xPolygon network. \n\nThe rollout lets the fintech giant offer its 45M+ users a regulated digital euro for 24/7 cross-border settlement and peer-to-peer",
-    "link": "https://cryptopanic.com/news/33279408/Revoluts-EURR-Stablecoin-is-live-on-Polygon-Revolut-officially-launches-its-native-euro-backed-stablecoin-EURR-on-the-0xPolygon-network-The-rollout-lets-the-fintech-giant-offer-its-45M-users-a-regulated-digital-euro-for-247-cross-border-settlement-and-peer-to-peer",
-    "source": "@bscnews",
-    "published": "Wed Aug 26 2026 15:44:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "TODAY: Nearly all top $XRP traders on Hyperliquid are currently positioned short.",
-    "link": "https://cryptopanic.com/news/33279399/TODAY-Nearly-all-top-XRP-traders-on-Hyperliquid-are-currently-positioned-short",
-    "source": "@cointelegraph",
-    "published": "Wed Aug 26 2026 15:40:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Big XRP Imbalance: Why 72% ETF Inflow Spike Fails to Lift Price",
-    "link": "https://cryptopanic.com/news/33279276/Big-XRP-Imbalance-Why-72-ETF-Inflow-Spike-Fails-to-Lift-Price",
-    "source": "u.today",
-    "published": "Wed Aug 26 2026 15:40:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "I miss @TapTools",
-    "link": "https://cryptopanic.com/news/33279298/I-miss-TapTools",
-    "source": "@angrycryptoshow",
-    "published": "Wed Aug 26 2026 15:37:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "What do we think generational bottom or biggest bull trap in our to date history for crypto?",
-    "link": "https://cryptopanic.com/news/33279406/What-do-we-think-generational-bottom-or-biggest-bull-trap-in-our-to-date-history-for-crypto",
-    "source": "@realallincrypto",
-    "published": "Wed Aug 26 2026 15:35:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Your 60/40 Portfolio May Be 100% Exposed to a Dying Dollar, Bitwise Says",
-    "link": "https://cryptopanic.com/news/33279373/Your-6040-Portfolio-May-Be-100-Exposed-to-a-Dying-Dollar-Bitwise-Says",
-    "source": "beincrypto.com",
-    "published": "Wed Aug 26 2026 15:34:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Ivan on Tech mentions Ascend Market, says \"this is good that they have some type of Hyperliquid thing but on #Cardano $ADA.\"",
-    "link": "https://cryptopanic.com/news/33279297/JUST-IN-Ivan-on-Tech-mentions-Ascend-Market-says-this-is-good-that-they-have-some-type-of-Hyperliquid-thing-but-on-Cardano-ADA",
-    "source": "@angrycryptoshow",
-    "published": "Wed Aug 26 2026 15:33:16 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
