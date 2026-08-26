@@ -1,5 +1,103 @@
 [
   {
+    "title": "Bitcoin The Point Of No Return",
+    "link": "https://cryptopanic.com/news/33277778/Bitcoin-The-Point-Of-No-Return",
+    "source": "TheCryptoLark",
+    "published": "Wed Aug 26 2026 12:14:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Coinbase and Brian Armstrong are threatening to leave California… again",
+    "link": "https://cryptopanic.com/news/33277720/Coinbase-and-Brian-Armstrong-are-threatening-to-leave-California-again",
+    "source": "protos.com",
+    "published": "Wed Aug 26 2026 12:14:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Dogecoin Price Finds Strength At $0.085 Amid Meme-Coin Rotation",
+    "link": "https://cryptopanic.com/news/33277700/Dogecoin-Price-Finds-Strength-At-0085-Amid-Meme-Coin-Rotation",
+    "source": "cryptonews.com",
+    "published": "Wed Aug 26 2026 12:10:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Stuck Below $80,000 as Ethereum Funding Rates Hit 1-Year High",
+    "link": "https://cryptopanic.com/news/33277771/Bitcoin-Stuck-Below-80000-as-Ethereum-Funding-Rates-Hit-1-Year-High",
+    "source": "feeds2.benzinga.com",
+    "published": "Wed Aug 26 2026 12:09:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitdeer’s $4.7 Billion Norway Lease Recasts Bitcoin Mining as AI Infrastructure",
+    "link": "https://cryptopanic.com/news/33277688/Bitdeers-47-Billion-Norway-Lease-Recasts-Bitcoin-Mining-as-AI-Infrastructure",
+    "source": "btcusa.com",
+    "published": "Wed Aug 26 2026 12:07:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Nears a Decision Point as Its 4H Range Tightens",
+    "link": "https://cryptopanic.com/news/33277661/Ethereum-Nears-a-Decision-Point-as-Its-4H-Range-Tightens",
+    "source": "coindoo.com",
+    "published": "Wed Aug 26 2026 12:05:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin’s Next Big Test Emerges As $5B In IBIT Options Near Expiry",
+    "link": "https://cryptopanic.com/news/33277645/Bitcoins-Next-Big-Test-Emerges-As-5B-In-IBIT-Options-Near-Expiry",
+    "source": "techgaged.com",
+    "published": "Wed Aug 26 2026 12:02:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bernstein Sees Bitcoin at $150K by Mid-2027, Cuts Strategy Price Target to $350\n\nBernstein analysts expect Bitcoin to reach roughly $125k by the end of 2026, a new high of $150k by mid-2027 and a cycle peak of around $300k in 2029 under their base case.\n\nIf currency debasement",
+    "link": "https://cryptopanic.com/news/33277712/Bernstein-Sees-Bitcoin-at-150K-by-Mid-2027-Cuts-Strategy-Price-Target-to-350-Bernstein-analysts-expect-Bitcoin-to-reach-roughly-125k-by-the-end-of-2026-a-new-high-of-150k-by-mid-2027-and-a-cycle-peak-of-around-300k-in-2029-under-their-base-case-If-currency-debasement",
+    "source": "@wublockchain",
+    "published": "Wed Aug 26 2026 12:01:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Three critical US reports arrive in 30 minutes as Bitcoin’s $2.5 billion ETF streak faces its first real test",
+    "link": "https://cryptopanic.com/news/33277634/Three-critical-US-reports-arrive-in-30-minutes-as-Bitcoins-25-billion-ETF-streak-faces-its-first-real-test",
+    "source": "cryptoslate.com",
+    "published": "Wed Aug 26 2026 12:00:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Has Saylor STOPPED Buying Bitcoin?",
+    "link": "https://cryptopanic.com/news/33277724/Has-Saylor-STOPPED-Buying-Bitcoin",
+    "source": "BTCSessions",
+    "published": "Wed Aug 26 2026 12:00:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Understanding Fartcoin’s 11% rally – 3 factors keeping bulls in control",
+    "link": "https://cryptopanic.com/news/33277630/Understanding-Fartcoins-11-rally-3-factors-keeping-bulls-in-control",
+    "source": "ambcrypto.com",
+    "published": "Wed Aug 26 2026 12:00:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Calm Before the Storm: 3 Semiconductor Giants Share 1 Chart Pattern",
+    "link": "https://cryptopanic.com/news/33277739/Calm-Before-the-Storm-3-Semiconductor-Giants-Share-1-Chart-Pattern",
+    "source": "beincrypto.com",
+    "published": "Wed Aug 26 2026 11:58:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "China’s Moonshot AI nears 30% revenue sharing talks with US cloud giants",
+    "link": "https://cryptopanic.com/news/33277615/Chinas-Moonshot-AI-nears-30-revenue-sharing-talks-with-US-cloud-giants",
+    "source": "cryptopolitan.com",
+    "published": "Wed Aug 26 2026 11:58:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cardano (ADA) Slips 6% in 24 Hours: Healthy Correction or the Return of the Bears?",
+    "link": "https://cryptopanic.com/news/33277616/Cardano-ADA-Slips-6-in-24-Hours-Healthy-Correction-or-the-Return-of-the-Bears",
+    "source": "cryptopotato.com",
+    "published": "Wed Aug 26 2026 11:55:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Morning Minute: LayerZero Announces ATLAS as New Settlement Engine",
     "link": "https://cryptopanic.com/news/33277575/Morning-Minute-LayerZero-Announces-ATLAS-as-New-Settlement-Engine",
     "source": "decrypt.co",
@@ -49,6 +147,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Dallas Fed warns tokenized deposits could strip $700 billion from U.S. banks' lending capacity",
+    "link": "https://cryptopanic.com/news/33277660/Dallas-Fed-warns-tokenized-deposits-could-strip-700-billion-from-US-banks-lending-capacity",
+    "source": "coindesk.com",
+    "published": "Wed Aug 26 2026 11:46:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Pennsylvania Attorney General Suing Snapchat Over Addictive Features And Misleading Ratings",
     "link": "https://cryptopanic.com/news/33277582/Pennsylvania-Attorney-General-Suing-Snapchat-Over-Addictive-Features-And-Misleading-Ratings",
     "source": "dailyhodl.com",
@@ -67,6 +172,13 @@
     "link": "https://cryptopanic.com/news/33277520/Real-Time-Decentralization-is-Kaspas-North-Star-Real-time-decentralization-is-kaspaunchaineds-absolute-non-negotiable-north-star-Kaspa-needs-Satoshis-fundamentals-censorship-resistance-permissionless-settlement-and-competitive-mining-to-be-delivered-in-real-time",
     "source": "@bscnews",
     "published": "Wed Aug 26 2026 11:44:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: ️ 39 US state bankers associations have formed BankChain Alliance, an industry-owned blockchain network targeting a 2027 launch to offer stablecoins, tokenized deposits, and automated settlement.",
+    "link": "https://cryptopanic.com/news/33277710/LATEST-39-US-state-bankers-associations-have-formed-BankChain-Alliance-an-industry-owned-blockchain-network-targeting-a-2027-launch-to-offer-stablecoins-tokenized-deposits-and-automated-settlement",
+    "source": "@coinmarketcap",
+    "published": "Wed Aug 26 2026 11:41:10 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -95,118 +207,6 @@
     "link": "https://cryptopanic.com/news/33277513/EU-says-UPM-Sappi-deal-could-hurt-competition-in-print-paper-market",
     "source": "@reutersbiz",
     "published": "Wed Aug 26 2026 11:30:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BULLISH: Bernstein predicts Bitcoin will hit $300,000 by 2029.",
-    "link": "https://cryptopanic.com/news/33277512/BULLISH-Bernstein-predicts-Bitcoin-will-hit-300000-by-2029",
-    "source": "@cointelegraph",
-    "published": "Wed Aug 26 2026 11:30:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The 3 biggest stablecoins by market cap, month by month since 2021 #stablecoins #usdt #usdc #crypto",
-    "link": "https://cryptopanic.com/news/33277573/The-3-biggest-stablecoins-by-market-cap-month-by-month-since-2021-stablecoins-usdt-usdc-crypto",
-    "source": "CoinGecko",
-    "published": "Wed Aug 26 2026 11:30:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Want this read on any token?\n\nThe same numbers come from our API:\n Quotes/latest returns 7d moves for both\n Compare the two for relative strength\n The keyless path needs no signup at all\n\nCheck it here",
-    "link": "https://cryptopanic.com/news/33277433/Want-this-read-on-any-token-The-same-numbers-come-from-our-API-Quoteslatest-returns-7d-moves-for-both-Compare-the-two-for-relative-strength-The-keyless-path-needs-no-signup-at-all-Check-it-here",
-    "source": "@coinmarketcap",
-    "published": "Wed Aug 26 2026 11:30:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CoinMarketCap | AI Insights $ETH \n\nETH is outperforming BTC by 4.6% over 7 days.\n\n ETFs have added $885.7M in five days\n Odds are 71.5% for $2,750 this year\n RSI at 84 marks overbought ground\n\nPowered by the CMC Agent Hub.\n\nFull $ETH breakdown on CoinMarketCap",
-    "link": "https://cryptopanic.com/news/33277432/CoinMarketCap-AI-Insights-ETH-ETH-is-outperforming-BTC-by-46-over-7-days-ETFs-have-added-8857M-in-five-days-Odds-are-715-for-2750-this-year-RSI-at-84-marks-overbought-ground-Powered-by-the-CMC-Agent-Hub-Full-ETH-breakdown-on-CoinMarketCap",
-    "source": "@coinmarketcap",
-    "published": "Wed Aug 26 2026 11:30:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Strategy Bitcoin Buys Pause as Cash Pile Grows",
-    "link": "https://cryptopanic.com/news/33277417/Strategy-Bitcoin-Buys-Pause-as-Cash-Pile-Grows",
-    "source": "catenaa.com",
-    "published": "Wed Aug 26 2026 11:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Asian Markets Slide as Chip Selloff Deepens",
-    "link": "https://cryptopanic.com/news/33277418/Asian-Markets-Slide-as-Chip-Selloff-Deepens",
-    "source": "catenaa.com",
-    "published": "Wed Aug 26 2026 11:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Altcoin Volume Dominance Hits Two-Year High as $135B Flows In\n\n“This divergence speaks volumes about how liquidity is currently being redistributed across the market.” – By @Darkfost_Coc\n\nComplete breakdown ⤵️",
-    "link": "https://cryptopanic.com/news/33277434/Altcoin-Volume-Dominance-Hits-Two-Year-High-as-135B-Flows-In-This-divergence-speaks-volumes-about-how-liquidity-is-currently-being-redistributed-across-the-market-By-Darkfost_Coc-Complete-breakdown",
-    "source": "@cryptoquant_com",
-    "published": "Wed Aug 26 2026 11:29:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Shiba Inu (SHIB) Breaks 11-Month Downtrend After Japan Approval",
-    "link": "https://cryptopanic.com/news/33277490/Shiba-Inu-SHIB-Breaks-11-Month-Downtrend-After-Japan-Approval",
-    "source": "beincrypto.com",
-    "published": "Wed Aug 26 2026 11:20:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "DeepSeek revenue jumps tenfold as it nears $74 billion funding round",
-    "link": "https://cryptopanic.com/news/33277343/DeepSeek-revenue-jumps-tenfold-as-it-nears-74-billion-funding-round",
-    "source": "cryptopolitan.com",
-    "published": "Wed Aug 26 2026 11:14:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ECB claims digital euro will offer 'maximum level of privacy' amid surveillance fears",
-    "link": "https://cryptopanic.com/news/33277464/ECB-claims-digital-euro-will-offer-maximum-level-of-privacy-amid-surveillance-fears",
-    "source": "coindesk.com",
-    "published": "Wed Aug 26 2026 11:14:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INSIGHT: Michael @Saylor's @Strategy reduces its net leverage to near zero after building $6.69B in dollar liquidity.\n\nIts USD reserve now covers 4 years of preferred stock dividends as $STRC recovers 35% from its June lows.",
-    "link": "https://cryptopanic.com/news/33277510/INSIGHT-Michael-Saylors-Strategy-reduces-its-net-leverage-to-near-zero-after-building-669B-in-dollar-liquidity-Its-USD-reserve-now-covers-4-years-of-preferred-stock-dividends-as-STRC-recovers-35-from-its-June-lows",
-    "source": "@coindesk",
-    "published": "Wed Aug 26 2026 11:08:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Robinhood Chain has reached $25B in total DEX trading volume.",
-    "link": "https://cryptopanic.com/news/33277511/UPDATE-Robinhood-Chain-has-reached-25B-in-total-DEX-trading-volume",
-    "source": "@cointelegraph",
-    "published": "Wed Aug 26 2026 11:06:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin price prediction for 2026 Midterm Elections",
-    "link": "https://cryptopanic.com/news/33277304/Bitcoin-price-prediction-for-2026-Midterm-Elections",
-    "source": "finbold.com",
-    "published": "Wed Aug 26 2026 11:06:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🤖 JPMorgan kept an Overweight rating on SpaceX with a $240 price target, remaining bullish on Grok's growth potential.",
-    "link": "https://cryptopanic.com/news/33277430/LATEST-JPMorgan-kept-an-Overweight-rating-on-SpaceX-with-a-240-price-target-remaining-bullish-on-Groks-growth-potential",
-    "source": "@coinmarketcap",
-    "published": "Wed Aug 26 2026 11:05:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Kraken Freezes Accounts After HTX-Linked Dust Attack Hits Customers",
-    "link": "https://cryptopanic.com/news/33277300/Kraken-Freezes-Accounts-After-HTX-Linked-Dust-Attack-Hits-Customers",
-    "source": "dailycoin.com",
-    "published": "Wed Aug 26 2026 11:05:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "After holding $ETH for over 2 years, this whale just deposited all of his remaining 6,504 $ETH($15.94M) into #Binance, with a total loss of $10.58M.",
-    "link": "https://cryptopanic.com/news/33277339/After-holding-ETH-for-over-2-years-this-whale-just-deposited-all-of-his-remaining-6504-ETH1594M-into-Binance-with-a-total-loss-of-1058M",
-    "source": "@lookonchain",
-    "published": "Wed Aug 26 2026 11:02:57 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
