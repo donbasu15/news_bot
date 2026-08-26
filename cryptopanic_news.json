@@ -1,9 +1,79 @@
 [
   {
+    "title": "Sam Altman’s OpenAI says it will achieve AGI before 2026 is over: ‘80% of the way’",
+    "link": "https://cryptopanic.com/news/33280870/Sam-Altmans-OpenAI-says-it-will-achieve-AGI-before-2026-is-over-80-of-the-way",
+    "source": "cryptopolitan.com",
+    "published": "Wed Aug 26 2026 21:40:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin dominance holds strong at over 60% — Is altseason still on hold?",
+    "link": "https://cryptopanic.com/news/33280840/Bitcoin-dominance-holds-strong-at-over-60-Is-altseason-still-on-hold",
+    "source": "ambcrypto.com",
+    "published": "Wed Aug 26 2026 21:30:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🤖 JUST IN: OpenAI says its own AI agents hacked internal systems, escaped testing environments and attempted to conceal their behavior during internal tests.",
+    "link": "https://cryptopanic.com/news/33280831/JUST-IN-OpenAI-says-its-own-AI-agents-hacked-internal-systems-escaped-testing-environments-and-attempted-to-conceal-their-behavior-during-internal-tests",
+    "source": "@cointelegraph",
+    "published": "Wed Aug 26 2026 21:20:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Could Hit $3 in Months, Says Canary Capital CEO as XRPL Lending Grows",
+    "link": "https://cryptopanic.com/news/33280812/XRP-Could-Hit-3-in-Months-Says-Canary-Capital-CEO-as-XRPL-Lending-Grows",
+    "source": "zycrypto.com",
+    "published": "Wed Aug 26 2026 21:19:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Algorand Foundation releases open protocol for verifying AI agent approvals\n\n@Algorand and Pera Wallet (@PeraAlgoWallet) released AC2 this week, an open protocol that replaces chat-based AI agent approvals with hardware-bound passkey signatures. Approving an agent's action",
+    "link": "https://cryptopanic.com/news/33280835/Algorand-Foundation-releases-open-protocol-for-verifying-AI-agent-approvals-Algorand-and-Pera-Wallet-PeraAlgoWallet-released-AC2-this-week-an-open-protocol-that-replaces-chat-based-AI-agent-approvals-with-hardware-bound-passkey-signatures-Approving-an-agents-action",
+    "source": "@bscnews",
+    "published": "Wed Aug 26 2026 21:17:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "OpenAI report says its network was hacked by its own rogue AI agents",
+    "link": "https://cryptopanic.com/news/33280832/OpenAI-report-says-its-network-was-hacked-by-its-own-rogue-AI-agents",
+    "source": "@reutersbiz",
+    "published": "Wed Aug 26 2026 21:15:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "The 5 reasons Bitcoin is about to EXPLODE!!! [PREPARE NOW] | EP 1578",
     "link": "https://cryptopanic.com/news/33279238/The-5-reasons-Bitcoin-is-about-to-EXPLODE-PREPARE-NOW-EP-1578",
     "source": "SimplyBitcoin",
     "published": "Wed Aug 26 2026 21:12:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 U.S. Government moved 24.4 BTC worth $1.9 million to a new wallet, according to Galaxy Research",
+    "link": "https://cryptopanic.com/news/33280897/JUST-IN-US-Government-moved-244-BTC-worth-19-million-to-a-new-wallet-according-to-Galaxy-Research",
+    "source": "@bitcoinmagazine",
+    "published": "Wed Aug 26 2026 21:04:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "A NEAR account derives a separate key for every chain it signs on\n\nChain signatures let @NEARProtocol accounts, including smart contracts, sign transactions for other blockchains. No single machine holds the key: a multi-party computation service spreads it across several",
+    "link": "https://cryptopanic.com/news/33280834/A-NEAR-account-derives-a-separate-key-for-every-chain-it-signs-on-Chain-signatures-let-NEARProtocol-accounts-including-smart-contracts-sign-transactions-for-other-blockchains-No-single-machine-holds-the-key-a-multi-party-computation-service-spreads-it-across-several",
+    "source": "@bscnews",
+    "published": "Wed Aug 26 2026 21:01:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INSIGHT: Nvidia CEO Jensen Huang says AI has officially reached its inflection point, shifting from experimental technology to productive, profitable work.",
+    "link": "https://cryptopanic.com/news/33280830/INSIGHT-Nvidia-CEO-Jensen-Huang-says-AI-has-officially-reached-its-inflection-point-shifting-from-experimental-technology-to-productive-profitable-work",
+    "source": "@cointelegraph",
+    "published": "Wed Aug 26 2026 21:00:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Another major institution just dropped a huge $BTC target.\n\n$800B asset manager Bernstein now sees $BTC hitting $150k by mid 2027! \n\nThey also see $300k by 2029. Wall Street’s message keeps getting louder:\n\nWe can't wait for this cycle to get started!",
+    "link": "https://cryptopanic.com/news/33280833/Another-major-institution-just-dropped-a-huge-BTC-target-800B-asset-manager-Bernstein-now-sees-BTC-hitting-150k-by-mid-2027-They-also-see-300k-by-2029-Wall-Streets-message-keeps-getting-louder-We-cant-wait-for-this-cycle-to-get-started",
+    "source": "@realallincrypto",
+    "published": "Wed Aug 26 2026 21:00:41 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -18,6 +88,13 @@
     "link": "https://cryptopanic.com/news/33280709/Big-SHIB-Withdrawal-Lands-Amid-Debunked-System-Restart",
     "source": "dailycoin.com",
     "published": "Wed Aug 26 2026 20:57:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: The SEC posts a filing for the 21Shares XRP ETF associated with $XRP.",
+    "link": "https://cryptopanic.com/news/33280829/LATEST-The-SEC-posts-a-filing-for-the-21Shares-XRP-ETF-associated-with-XRP",
+    "source": "@cointelegraph",
+    "published": "Wed Aug 26 2026 20:52:37 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -130,83 +207,6 @@
     "link": "https://cryptopanic.com/news/33280481/Meta-Agrees-to-18-Billion-Settlement-Here-Is-What-Will-Change",
     "source": "blocknews.com",
     "published": "Wed Aug 26 2026 20:28:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Institutions arrived. Research got serious.\n\nWith 50 million tokens in existence, the question is no longer \"what's the price\", it's \"what's driving this & what comes next.\"\n\nOur Head of Research Alice Liu joined Raghda Ibraheem on @FINTECHTVglobal 's Capital Markets: Wall Street",
-    "link": "https://cryptopanic.com/news/33280492/Institutions-arrived-Research-got-serious-With-50-million-tokens-in-existence-the-question-is-no-longer-whats-the-price-its-whats-driving-this-amp-what-comes-next-Our-Head-of-Research-Alice-Liu-joined-Raghda-Ibraheem-on-FINTECHTVglobal-s-Capital-Markets-Wall-Street",
-    "source": "@coinmarketcap",
-    "published": "Wed Aug 26 2026 20:28:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ALL OUT Financial Warfare — China Hacks U.S Fed and NASA",
-    "link": "https://cryptopanic.com/news/33280701/ALL-OUT-Financial-Warfare-China-Hacks-US-Fed-and-NASA",
-    "source": "BTCSessions",
-    "published": "Wed Aug 26 2026 20:27:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Nvidia’s second-quarter revenue reached $96.2 billion, beating forecasts of $92.38 billion.",
-    "link": "https://cryptopanic.com/news/33280600/JUST-IN-Nvidias-second-quarter-revenue-reached-962-billion-beating-forecasts-of-9238-billion",
-    "source": "@cointelegraph",
-    "published": "Wed Aug 26 2026 20:27:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Enters a “New Regime” After $80K Breakout, GSR’s Andy Baehr Says",
-    "link": "https://cryptopanic.com/news/33280459/Bitcoin-Enters-a-New-Regime-After-80K-Breakout-GSRs-Andy-Baehr-Says",
-    "source": "coinpaper.com",
-    "published": "Wed Aug 26 2026 20:24:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nvidia tops earnings estimates, guides to $108 billion in revenue next quarter",
-    "link": "https://cryptopanic.com/news/33280569/Nvidia-tops-earnings-estimates-guides-to-108-billion-in-revenue-next-quarter",
-    "source": "coindesk.com",
-    "published": "Wed Aug 26 2026 20:24:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bill Gates pushes robot tax and ‘Human Reserved’ jobs to blunt AI job losses",
-    "link": "https://cryptopanic.com/news/33280461/Bill-Gates-pushes-robot-tax-and-Human-Reserved-jobs-to-blunt-AI-job-losses",
-    "source": "cryptopolitan.com",
-    "published": "Wed Aug 26 2026 20:24:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nvidia Q2 Earnings Reveal $96.2 Billion Beat, So Why Is NVDA Falling?",
-    "link": "https://cryptopanic.com/news/33280707/Nvidia-Q2-Earnings-Reveal-962-Billion-Beat-So-Why-Is-NVDA-Falling",
-    "source": "beincrypto.com",
-    "published": "Wed Aug 26 2026 20:24:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: Nvidia’s second-quarter revenue hit $96.2 billion, beating the $92.38 billion forecast",
-    "link": "https://cryptopanic.com/news/33280712/INTEL-Nvidias-second-quarter-revenue-hit-962-billion-beating-the-9238-billion-forecast",
-    "source": "@solidintel_x",
-    "published": "Wed Aug 26 2026 20:23:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "What Traders Are Watching for Bitcoin's Next Move",
-    "link": "https://cryptopanic.com/news/33280460/What-Traders-Are-Watching-for-Bitcoins-Next-Move",
-    "source": "decrypt.co",
-    "published": "Wed Aug 26 2026 20:22:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Nvidia $NVDA reports $96.2 billion in revenue for Q2, beating expectations.",
-    "link": "https://cryptopanic.com/news/33280714/JUST-IN-Nvidia-NVDA-reports-962-billion-in-revenue-for-Q2-beating-expectations",
-    "source": "@watcherguru",
-    "published": "Wed Aug 26 2026 20:21:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NVDA Earnings Call Today: 5 Signals That Could Move Nvidia Stock",
-    "link": "https://cryptopanic.com/news/33280454/NVDA-Earnings-Call-Today-5-Signals-That-Could-Move-Nvidia-Stock",
-    "source": "coinpaper.com",
-    "published": "Wed Aug 26 2026 20:21:14 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
