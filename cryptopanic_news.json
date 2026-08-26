@@ -1,5 +1,40 @@
 [
   {
+    "title": "Senior police officers in Russia sentenced for stealing crypto exchange Garantex money",
+    "link": "https://cryptopanic.com/news/33279592/Senior-police-officers-in-Russia-sentenced-for-stealing-crypto-exchange-Garantex-money",
+    "source": "cryptopolitan.com",
+    "published": "Wed Aug 26 2026 16:48:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "bitcoin:native punched past $80K for the first time since May, ethereum:native just printed its best week since 2021, and the first Zcash ETF hit the NYSE. The 48-hour debrief covers it all ⬇️",
+    "link": "https://cryptopanic.com/news/33279674/bitcoinnative-punched-past-80K-for-the-first-time-since-May-ethereumnative-just-printed-its-best-week-since-2021-and-the-first-Zcash-ETF-hit-the-NYSE-The-48-hour-debrief-covers-it-all",
+    "source": "@bscnews",
+    "published": "Wed Aug 26 2026 16:46:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin’s $4B Short Squeeze Meets a Critical $80,000 Ceiling",
+    "link": "https://cryptopanic.com/news/33279596/Bitcoins-4B-Short-Squeeze-Meets-a-Critical-80000-Ceiling",
+    "source": "dailycoin.com",
+    "published": "Wed Aug 26 2026 16:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Whales Have Moved $5B Into BlackRock’s IBIT: Here’s Why",
+    "link": "https://cryptopanic.com/news/33279656/Bitcoin-Whales-Have-Moved-5B-Into-BlackRocks-IBIT-Heres-Why",
+    "source": "cryptopotato.com",
+    "published": "Wed Aug 26 2026 16:44:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto VCs pivoting to AI are already too late and may be forced to put their capital back into crypto, says @0xmiden cofounder @azeemk.\n\n#CHAINREACTION",
+    "link": "https://cryptopanic.com/news/33279671/Crypto-VCs-pivoting-to-AI-are-already-too-late-and-may-be-forced-to-put-their-capital-back-into-crypto-says-0xmiden-cofounder-azeemk-CHAINREACTION",
+    "source": "@cointelegraph",
+    "published": "Wed Aug 26 2026 16:40:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "For the complete article and weekly curated reports, subscribe to our Substack",
     "link": "https://cryptopanic.com/news/33279593/For-the-complete-article-and-weekly-curated-reports-subscribe-to-our-Substack",
     "source": "@wublockchain",
@@ -28,6 +63,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Kaspa prices transactions by how much permanent storage they create\n\nA dust attack once flooded #Kaspa with tiny coin fragments that every full node must store forever. Unlike old blocks, which nodes can discard, these coin records never expire.\n\nKIP-9, a protocol rule",
+    "link": "https://cryptopanic.com/news/33279673/Kaspa-prices-transactions-by-how-much-permanent-storage-they-create-A-dust-attack-once-flooded-Kaspa-with-tiny-coin-fragments-that-every-full-node-must-store-forever-Unlike-old-blocks-which-nodes-can-discard-these-coin-records-never-expire-KIP-9-a-protocol-rule",
+    "source": "@bscnews",
+    "published": "Wed Aug 26 2026 16:28:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: BlackRock converted nearly $2B of spot Bitcoin into its ETF over the past 10 months.",
     "link": "https://cryptopanic.com/news/33279586/JUST-IN-BlackRock-converted-nearly-2B-of-spot-Bitcoin-into-its-ETF-over-the-past-10-months",
     "source": "@btc_archive",
@@ -49,10 +91,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "🇺🇸 JUST IN: US says Chinese hackers breached the Justice Department, NASA, Federal Reserve, Senate and other organizations.",
+    "link": "https://cryptopanic.com/news/33279670/JUST-IN-US-says-Chinese-hackers-breached-the-Justice-Department-NASA-Federal-Reserve-Senate-and-other-organizations",
+    "source": "@cointelegraph",
+    "published": "Wed Aug 26 2026 16:20:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JPMorgan Weighs a Stablecoin as Banks Test Two Paths",
     "link": "https://cryptopanic.com/news/33279431/JPMorgan-Weighs-a-Stablecoin-as-Banks-Test-Two-Paths",
     "source": "coindoo.com",
     "published": "Wed Aug 26 2026 16:19:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 🇨🇳 NEW: The U.S. says it seized two hacking platforms allegedly tied to China that were used to breach NASA, the Federal Reserve, the Senate and other sensitive networks since 2018.",
+    "link": "https://cryptopanic.com/news/33279669/NEW-The-US-says-it-seized-two-hacking-platforms-allegedly-tied-to-China-that-were-used-to-breach-NASA-the-Federal-Reserve-the-Senate-and-other-sensitive-networks-since-2018",
+    "source": "@coindesk",
+    "published": "Wed Aug 26 2026 16:19:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -151,62 +207,6 @@
     "link": "https://cryptopanic.com/news/33279401/STOXX-600-seen-rising-modestly-by-year-end-poll-shows",
     "source": "@reutersbiz",
     "published": "Wed Aug 26 2026 16:01:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ UPDATE: AI, infrastructure, defense, space and nuclear have emerged as the leading ETF themes of 2026, per Bloomberg and J.P. Morgan.\n\nh/t: @a16z",
-    "link": "https://cryptopanic.com/news/33279400/UPDATE-AI-infrastructure-defense-space-and-nuclear-have-emerged-as-the-leading-ETF-themes-of-2026-per-Bloomberg-and-JP-Morgan-ht-a16z",
-    "source": "@cointelegraph",
-    "published": "Wed Aug 26 2026 16:01:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Grayscale Sees Zcash Price at $8,100 if ZEC Captures 10% of Bitcoin’s MCap",
-    "link": "https://cryptopanic.com/news/33279329/Grayscale-Sees-Zcash-Price-at-8100-if-ZEC-Captures-10-of-Bitcoins-MCap",
-    "source": "coinpaper.com",
-    "published": "Wed Aug 26 2026 16:01:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Moderna jumped over 100% in a week#moderna #mrna #stocks #marketupdate #cancertreatment",
-    "link": "https://cryptopanic.com/news/33279432/Moderna-jumped-over-100-in-a-weekmoderna-mrna-stocks-marketupdate-cancertreatment",
-    "source": "CoinGecko",
-    "published": "Wed Aug 26 2026 16:00:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "WATCH: As @Ondo’s John Hoffman states tokenised markets WILL explode to $100 TRILLION!\n\nHis thesis is capital flows to wherever it can move cheapest, fastest and easiest.\n\nTokenisation removes the friction and $ONDO is building the infrastructure to capture that migration.",
-    "link": "https://cryptopanic.com/news/33279407/WATCH-As-Ondos-John-Hoffman-states-tokenised-markets-WILL-explode-to-100-TRILLION-His-thesis-is-capital-flows-to-wherever-it-can-move-cheapest-fastest-and-easiest-Tokenisation-removes-the-friction-and-ONDO-is-building-the-infrastructure-to-capture-that-migration",
-    "source": "@realallincrypto",
-    "published": "Wed Aug 26 2026 16:00:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nobody Sees This Coming For Bitcoin",
-    "link": "https://cryptopanic.com/news/33279304/Nobody-Sees-This-Coming-For-Bitcoin",
-    "source": "CryptoTips",
-    "published": "Wed Aug 26 2026 16:00:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Visa Tests 7-Day Stablecoin Settlement in Asia",
-    "link": "https://cryptopanic.com/news/33279303/Visa-Tests-7-Day-Stablecoin-Settlement-in-Asia",
-    "source": "catenaa.com",
-    "published": "Wed Aug 26 2026 16:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "“A No Brainer Yes” - Anatoly Yakovenko Backs Controversial SGP-003 Vote as App Builders Push Back",
-    "link": "https://cryptopanic.com/news/33278666/A-No-Brainer-Yes-Anatoly-Yakovenko-Backs-Controversial-SGP-003-Vote-as-App-Builders-Push-Back",
-    "source": "solanafloor.com",
-    "published": "Wed Aug 26 2026 16:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JPMorgan Eases SpaceX Lending Rules to Capture AI Wealth",
-    "link": "https://cryptopanic.com/news/33279317/JPMorgan-Eases-SpaceX-Lending-Rules-to-Capture-AI-Wealth",
-    "source": "cryptoprowl.com",
-    "published": "Wed Aug 26 2026 15:58:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
