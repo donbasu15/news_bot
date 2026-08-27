@@ -1,5 +1,54 @@
 [
   {
+    "title": "Bitcoin Privacy Wallet Sparrow Issues Update After AI Flags Fixes",
+    "link": "https://cryptopanic.com/news/33287738/Bitcoin-Privacy-Wallet-Sparrow-Issues-Update-After-AI-Flags-Fixes",
+    "source": "decrypt.co",
+    "published": "Thu Aug 27 2026 21:36:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Public Citizen says Trump crypto ventures left investors $4.7B underwater",
+    "link": "https://cryptopanic.com/news/33287760/Public-Citizen-says-Trump-crypto-ventures-left-investors-47B-underwater",
+    "source": "cryptopolitan.com",
+    "published": "Thu Aug 27 2026 21:35:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Nvidia $NVDA added over $400,000,000,000 to its market cap today, its second-largest single-day gain ever.",
+    "link": "https://cryptopanic.com/news/33287777/JUST-IN-Nvidia-NVDA-added-over-400000000000-to-its-market-cap-today-its-second-largest-single-day-gain-ever",
+    "source": "@watcherguru",
+    "published": "Thu Aug 27 2026 21:23:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Bitcoin's weekly candle last week was \"the single largest weekly gain by dollar amount in Bitcoin history\", reports Galaxy Research",
+    "link": "https://cryptopanic.com/news/33287776/JUST-IN-Bitcoins-weekly-candle-last-week-was-the-single-largest-weekly-gain-by-dollar-amount-in-Bitcoin-history-reports-Galaxy-Research",
+    "source": "@bitcoinmagazine",
+    "published": "Thu Aug 27 2026 21:21:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 LATEST: Fed Chair Kevin Warsh will deliver his Jackson Hole keynote Friday, with markets watching for clarity on the conditions that could lead to interest-rate changes.",
+    "link": "https://cryptopanic.com/news/33287714/LATEST-Fed-Chair-Kevin-Warsh-will-deliver-his-Jackson-Hole-keynote-Friday-with-markets-watching-for-clarity-on-the-conditions-that-could-lead-to-interest-rate-changes",
+    "source": "@cointelegraph",
+    "published": "Thu Aug 27 2026 21:20:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The next currency crisis may be harder to contain because of stablecoins, New York Fed report shows",
+    "link": "https://cryptopanic.com/news/33287696/The-next-currency-crisis-may-be-harder-to-contain-because-of-stablecoins-New-York-Fed-report-shows",
+    "source": "cryptoslate.com",
+    "published": "Thu Aug 27 2026 21:20:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethena Foundation buys out selling investors as 95% revenue buyback goes to a vote\n\nThe @EthenaFndtn acquired the locked tokens of major investors who sold any ethereum:0x57e114b691db790c35207b2e685d4a43181e6061 after the October 2025 peak, and remaining investor unlocks",
+    "link": "https://cryptopanic.com/news/33287718/Ethena-Foundation-buys-out-selling-investors-as-95-revenue-buyback-goes-to-a-vote-The-EthenaFndtn-acquired-the-locked-tokens-of-major-investors-who-sold-any-ethereum0x57e114b691db790c35207b2e685d4a43181e6061-after-the-October-2025-peak-and-remaining-investor-unlocks",
+    "source": "@bscnews",
+    "published": "Thu Aug 27 2026 21:16:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "\"I only invest in what I fully understand.\"\n\nMeanwhile, the U.S. Dollar",
     "link": "https://cryptopanic.com/news/33287641/I-only-invest-in-what-I-fully-understand-Meanwhile-the-US-Dollar",
     "source": "@btc_archive",
@@ -28,10 +77,38 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Flare selects its price data providers by random draw on every block\n\n@FlareNetworks builds its price oracle into the chain's core protocol, so every feed is secured by the same economic weight as the network itself, as stated in Flare's developer docs.\n\nEach block, roughly every",
+    "link": "https://cryptopanic.com/news/33287717/Flare-selects-its-price-data-providers-by-random-draw-on-every-block-FlareNetworks-builds-its-price-oracle-into-the-chains-core-protocol-so-every-feed-is-secured-by-the-same-economic-weight-as-the-network-itself-as-stated-in-Flares-developer-docs-Each-block-roughly-every",
+    "source": "@bscnews",
+    "published": "Thu Aug 27 2026 21:02:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BULLISH: Fidelity’s Jurrien Timmer said gold and Bitcoin, the year’s momentum laggards, are now catching up and still have plenty of room to run.",
+    "link": "https://cryptopanic.com/news/33287713/BULLISH-Fidelitys-Jurrien-Timmer-said-gold-and-Bitcoin-the-years-momentum-laggards-are-now-catching-up-and-still-have-plenty-of-room-to-run",
+    "source": "@cointelegraph",
+    "published": "Thu Aug 27 2026 21:00:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Red Flag? OpenAI's Agentic ChatGPT Work Signs Into Your Accounts Without You",
     "link": "https://cryptopanic.com/news/33287602/Red-Flag-OpenAIs-Agentic-ChatGPT-Work-Signs-Into-Your-Accounts-Without-You",
     "source": "decrypt.co",
     "published": "Thu Aug 27 2026 21:00:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CHARLES SCHWAB ADDS $SOL, $AVAX & $LINK!\n\nHuge news as one of the oldest institutions and $10T+ brokerage giant Charles Schwab has added $SOL, $AVAX & $LINK to its crypto trading platform alongside $BTC & $ETH.\n\nThese aren’t niche assets anymore. Some of America’s biggest",
+    "link": "https://cryptopanic.com/news/33287716/CHARLES-SCHWAB-ADDS-SOL-AVAX-amp-LINK-Huge-news-as-one-of-the-oldest-institutions-and-10T-brokerage-giant-Charles-Schwab-has-added-SOL-AVAX-amp-LINK-to-its-crypto-trading-platform-alongside-BTC-amp-ETH-These-arent-niche-assets-anymore-Some-of-Americas-biggest",
+    "source": "@realallincrypto",
+    "published": "Thu Aug 27 2026 21:00:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: Kevin Durant turned an early $250,000 investment in Hugging Face into a stake potentially worth more than $60 million after Nvidia agreed to buy the open-source AI platform for $12.9 billion.\n\nHugging Face has become a major hub for AI models and has also crossed into crypto",
+    "link": "https://cryptopanic.com/news/33287712/NEW-Kevin-Durant-turned-an-early-250000-investment-in-Hugging-Face-into-a-stake-potentially-worth-more-than-60-million-after-Nvidia-agreed-to-buy-the-open-source-AI-platform-for-129-billion-Hugging-Face-has-become-a-major-hub-for-AI-models-and-has-also-crossed-into-crypto",
+    "source": "@coindesk",
+    "published": "Thu Aug 27 2026 21:00:01 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -130,83 +207,6 @@
     "link": "https://cryptopanic.com/news/33287472/FRIEND-Explodes-Over-1600-After-Machi-Big-Brother-Proposes-1M-Takeover",
     "source": "cryptopotato.com",
     "published": "Thu Aug 27 2026 20:25:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: CoinMarketCap ranks #Cardano $ADA as the 11th most viewed cryptocurrency.",
-    "link": "https://cryptopanic.com/news/33287467/JUST-IN-CoinMarketCap-ranks-Cardano-ADA-as-the-11th-most-viewed-cryptocurrency",
-    "source": "@angrycryptoshow",
-    "published": "Thu Aug 27 2026 20:21:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: #Cardano $ADA 24h trade volume surpasses $430,000,000 according to CoinGecko.",
-    "link": "https://cryptopanic.com/news/33287466/JUST-IN-Cardano-ADA-24h-trade-volume-surpasses-430000000-according-to-CoinGecko",
-    "source": "@angrycryptoshow",
-    "published": "Thu Aug 27 2026 20:21:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INSIGHT: Peter Schiff said Strategy’s MSTR rally may be driven by short covering, but he still believes the company faces a “death spiral” once Bitcoin’s temporary rally fades.",
-    "link": "https://cryptopanic.com/news/33287516/INSIGHT-Peter-Schiff-said-Strategys-MSTR-rally-may-be-driven-by-short-covering-but-he-still-believes-the-company-faces-a-death-spiral-once-Bitcoins-temporary-rally-fades",
-    "source": "@cointelegraph",
-    "published": "Thu Aug 27 2026 20:20:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Agents transacting onchain is coming either way. The real fight is over who controls the execution layer when they arrive. NEAR is one of the early ones that staked its claim on intents.",
-    "link": "https://cryptopanic.com/news/33287523/Agents-transacting-onchain-is-coming-either-way-The-real-fight-is-over-who-controls-the-execution-layer-when-they-arrive-NEAR-is-one-of-the-early-ones-that-staked-its-claim-on-intents",
-    "source": "@bscnews",
-    "published": "Thu Aug 27 2026 20:20:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto Taxable Activity Totaled $457 Billion In 2025: Report",
-    "link": "https://cryptopanic.com/news/33287512/Crypto-Taxable-Activity-Totaled-457-Billion-In-2025-Report",
-    "source": "cryptoprowl.com",
-    "published": "Thu Aug 27 2026 20:20:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "What Could a $12.9B Hugging Face Deal Mean for Nvidia’s AI Strategy?",
-    "link": "https://cryptopanic.com/news/33287444/What-Could-a-129B-Hugging-Face-Deal-Mean-for-Nvidias-AI-Strategy",
-    "source": "coinpaper.com",
-    "published": "Thu Aug 27 2026 20:19:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Abu Dhabi Sheikh Tahnoon and Co-Investors Hold 49% Stake in World Liberty’s New Bank Holding Company\n\nSheikh Tahnoon bin Zayed al Nahyan, the UAE’s national security adviser, and co-investors hold a 49% stake in WLTC Holdings, the holding company for World Liberty Financial’s",
-    "link": "https://cryptopanic.com/news/33287463/Abu-Dhabi-Sheikh-Tahnoon-and-Co-Investors-Hold-49-Stake-in-World-Libertys-New-Bank-Holding-Company-Sheikh-Tahnoon-bin-Zayed-al-Nahyan-the-UAEs-national-security-adviser-and-co-investors-hold-a-49-stake-in-WLTC-Holdings-the-holding-company-for-World-Liberty-Financials",
-    "source": "@wublockchain",
-    "published": "Thu Aug 27 2026 20:17:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Bitcoin and Gold ETFs have accounted for a record $7 billion over the past 5 days, according to Bloomberg's Eric Balchunas",
-    "link": "https://cryptopanic.com/news/33287587/NEW-Bitcoin-and-Gold-ETFs-have-accounted-for-a-record-7-billion-over-the-past-5-days-according-to-Bloombergs-Eric-Balchunas",
-    "source": "@bitcoinmagazine",
-    "published": "Thu Aug 27 2026 20:17:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: #Cardano generated over 550,000 transactions in August, with only 5 failed transactions, highlighting $ADA's near-flawless transaction success rate at 99.9991%, according to data from Blockworks.",
-    "link": "https://cryptopanic.com/news/33287465/NEW-Cardano-generated-over-550000-transactions-in-August-with-only-5-failed-transactions-highlighting-ADAs-near-flawless-transaction-success-rate-at-999991-according-to-data-from-Blockworks",
-    "source": "@angrycryptoshow",
-    "published": "Thu Aug 27 2026 20:16:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INSIGHT: $ADA's ETF AUM reaches $60.5M, up $13.4M in the past month, according to data from Blockworks.",
-    "link": "https://cryptopanic.com/news/33287464/INSIGHT-ADAs-ETF-AUM-reaches-605M-up-134M-in-the-past-month-according-to-data-from-Blockworks",
-    "source": "@angrycryptoshow",
-    "published": "Thu Aug 27 2026 20:16:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HIVE gets a price target boost after a strong quarter",
-    "link": "https://cryptopanic.com/news/33287458/HIVE-gets-a-price-target-boost-after-a-strong-quarter",
-    "source": "thestreet.com",
-    "published": "Thu Aug 27 2026 20:12:05 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
