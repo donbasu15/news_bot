@@ -1,5 +1,103 @@
 [
   {
+    "title": "Solana Is Having Its Best Month Since 2024—With a Historic Governance Vote on Deck",
+    "link": "https://cryptopanic.com/news/33285946/Solana-Is-Having-Its-Best-Month-Since-2024With-a-Historic-Governance-Vote-on-Deck",
+    "source": "decrypt.co",
+    "published": "Thu Aug 27 2026 15:12:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Just Broke $80,000 and the Two Reasons Have Nothing to Do With Each Other",
+    "link": "https://cryptopanic.com/news/33285936/Bitcoin-Just-Broke-80000-and-the-Two-Reasons-Have-Nothing-to-Do-With-Each-Other",
+    "source": "dailycoinpost.com",
+    "published": "Thu Aug 27 2026 15:08:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Every fiat money eventually dies.\n\nProtect your wealth.\n\nBuy Bitcoin!",
+    "link": "https://cryptopanic.com/news/33285945/Every-fiat-money-eventually-dies-Protect-your-wealth-Buy-Bitcoin",
+    "source": "@btc_archive",
+    "published": "Thu Aug 27 2026 15:05:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Analysts split on Revolut’s EURR stablecoin: ‘Nobody wants euros, forced to use them’",
+    "link": "https://cryptopanic.com/news/33285896/Analysts-split-on-Revoluts-EURR-stablecoin-Nobody-wants-euros-forced-to-use-them",
+    "source": "ambcrypto.com",
+    "published": "Thu Aug 27 2026 15:00:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "'Probably a Scam': CFTC Issues Crypto ATM Warning After $388 Million Loss",
+    "link": "https://cryptopanic.com/news/33285938/Probably-a-Scam-CFTC-Issues-Crypto-ATM-Warning-After-388-Million-Loss",
+    "source": "u.today",
+    "published": "Thu Aug 27 2026 15:00:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Keynote by @thedamooo",
+    "link": "https://cryptopanic.com/news/33285864/Keynote-by-thedamooo",
+    "source": "@bitcoinmagazine",
+    "published": "Thu Aug 27 2026 14:54:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "PURR jumps 15% as Hyperliquid Strategies updates $1.9 billion HYPE treasury and ‘fortress balance sheet’",
+    "link": "https://cryptopanic.com/news/33285849/PURR-jumps-15-as-Hyperliquid-Strategies-updates-19-billion-HYPE-treasury-and-fortress-balance-sheet",
+    "source": "theblock.co",
+    "published": "Thu Aug 27 2026 14:52:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin ETFs Pull In $2.8B as Investors Rotate From AI Into the ‘Debasement Trade’",
+    "link": "https://cryptopanic.com/news/33285898/Bitcoin-ETFs-Pull-In-28B-as-Investors-Rotate-From-AI-Into-the-Debasement-Trade",
+    "source": "feeds2.benzinga.com",
+    "published": "Thu Aug 27 2026 14:47:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Attackers hit Moonwell for almost $9M in price manipulation exploit",
+    "link": "https://cryptopanic.com/news/33285832/Attackers-hit-Moonwell-for-almost-9M-in-price-manipulation-exploit",
+    "source": "cryptopolitan.com",
+    "published": "Thu Aug 27 2026 14:46:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Want to trade crypto assets with 1,001x leverage...?!\n\nSomething that makes @Aster_DEX unique is its crazy 1,001x leverage option, specifically for majors like $BTC.\n\nAs far as we know, no one outside of $ASTER offers this, but be careful - 1,001x is a lot more than you think!",
+    "link": "https://cryptopanic.com/news/33285819/Want-to-trade-crypto-assets-with-1001x-leverage-Something-that-makes-Aster_DEX-unique-is-its-crazy-1001x-leverage-option-specifically-for-majors-like-BTC-As-far-as-we-know-no-one-outside-of-ASTER-offers-this-but-be-careful-1001x-is-a-lot-more-than-you-think",
+    "source": "@bscnews",
+    "published": "Thu Aug 27 2026 14:43:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INSIGHT: @Binance co-founders @cz_binance and @heyibinance went by \"Homer\" and \"Marge\" in internal meetings, with Yi still using the alias today.",
+    "link": "https://cryptopanic.com/news/33285810/INSIGHT-Binance-co-founders-cz_binance-and-heyibinance-went-by-Homer-and-Marge-in-internal-meetings-with-Yi-still-using-the-alias-today",
+    "source": "@coindesk",
+    "published": "Thu Aug 27 2026 14:42:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "As a Cardano DRep,\n\nI'm committed to being accessible to the $ADA community, whether it's a DM on X, a comment on YouTube, or a direct email.\n\nCommunication is paramount.",
+    "link": "https://cryptopanic.com/news/33285954/As-a-Cardano-DRep-Im-committed-to-being-accessible-to-the-ADA-community-whether-its-a-DM-on-X-a-comment-on-YouTube-or-a-direct-email-Communication-is-paramount",
+    "source": "@angrycryptoshow",
+    "published": "Thu Aug 27 2026 14:41:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  StarkWare completed a quantum-resistant Bitcoin transaction on mainnet using Avihu Levy’s QSB method, showing it can work under existing rules but requiring up to $200 in off-chain computing.",
+    "link": "https://cryptopanic.com/news/33285948/LATEST-StarkWare-completed-a-quantum-resistant-Bitcoin-transaction-on-mainnet-using-Avihu-Levys-QSB-method-showing-it-can-work-under-existing-rules-but-requiring-up-to-200-in-off-chain-computing",
+    "source": "@coinmarketcap",
+    "published": "Thu Aug 27 2026 14:41:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethena Buys Out All Locked Tokens from Seed Investors Who Sold ENA in Last 9 Months\n\nEthena Foundation has announced four major updates across the Ethena ecosystem: First, the Foundation executed a buyout of all locked tokens from certain major seed investors that sold any ENA",
+    "link": "https://cryptopanic.com/news/33285953/Ethena-Buys-Out-All-Locked-Tokens-from-Seed-Investors-Who-Sold-ENA-in-Last-9-Months-Ethena-Foundation-has-announced-four-major-updates-across-the-Ethena-ecosystem-First-the-Foundation-executed-a-buyout-of-all-locked-tokens-from-certain-major-seed-investors-that-sold-any-ENA",
+    "source": "@wublockchain",
+    "published": "Thu Aug 27 2026 14:39:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "XRP’s Rally Meets Crowded Leverage At This Price Range",
     "link": "https://cryptopanic.com/news/33285778/XRPs-Rally-Meets-Crowded-Leverage-At-This-Price-Range",
     "source": "dailycoin.com",
@@ -21,6 +119,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Clearing firm RQD* raises $74 million as Wall Street prepares for tokenized markets",
+    "link": "https://cryptopanic.com/news/33285920/Clearing-firm-RQD-raises-74-million-as-Wall-Street-prepares-for-tokenized-markets",
+    "source": "coindesk.com",
+    "published": "Thu Aug 27 2026 14:32:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "ALERT: Crypto industry lost $3.63B across 245 security incidents from January 2025 to July 2026, per CoinGecko report.",
     "link": "https://cryptopanic.com/news/33285815/ALERT-Crypto-industry-lost-363B-across-245-security-incidents-from-January-2025-to-July-2026-per-CoinGecko-report",
     "source": "@cointelegraph",
@@ -39,6 +144,13 @@
     "link": "https://cryptopanic.com/news/33285786/Top-10-US-Companies-Capture-Record-Share-of-SP-500-Earnings-While-Holding-Massive-Market-Weight",
     "source": "dailyhodl.com",
     "published": "Thu Aug 27 2026 14:30:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin eyes $6.4 billion options expiry on 'choppy' Friday",
+    "link": "https://cryptopanic.com/news/33285850/Bitcoin-eyes-64-billion-options-expiry-on-choppy-Friday",
+    "source": "thestreet.com",
+    "published": "Thu Aug 27 2026 14:30:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -95,118 +207,6 @@
     "link": "https://cryptopanic.com/news/33285714/HOT-TOPIC-Wall-Street-just-flipped-bull-on-bitcoinnative-Bernsteins-new-roadmap-125K-by-December-300K-by-2029-near-1M-by-2033-All-while-bitcoinnative-fights-to-hold-79K-Bottom-already-in-Cast-your-vote",
     "source": "@coinmarketcap",
     "published": "Thu Aug 27 2026 14:18:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Kalshi Nears Sponsorship Deal With The Athletic Sports Platform",
-    "link": "https://cryptopanic.com/news/33285658/Kalshi-Nears-Sponsorship-Deal-With-The-Athletic-Sports-Platform",
-    "source": "cryptoprowl.com",
-    "published": "Thu Aug 27 2026 14:17:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hut 8 CFO Sells Company Stock",
-    "link": "https://cryptopanic.com/news/33285627/Hut-8-CFO-Sells-Company-Stock",
-    "source": "cryptoprowl.com",
-    "published": "Thu Aug 27 2026 14:16:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stock Market Today: S&P 500, Nasdaq Futures Rise on Nvidia Earnings as Dow Jones Lags",
-    "link": "https://cryptopanic.com/news/33285616/Stock-Market-Today-SP-500-Nasdaq-Futures-Rise-on-Nvidia-Earnings-as-Dow-Jones-Lags",
-    "source": "coinpaper.com",
-    "published": "Thu Aug 27 2026 14:15:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nasdaq-listed stock plunges 29% after announcing plan to buy Bitcoin",
-    "link": "https://cryptopanic.com/news/33285709/Nasdaq-listed-stock-plunges-29-after-announcing-plan-to-buy-Bitcoin",
-    "source": "thestreet.com",
-    "published": "Thu Aug 27 2026 14:12:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ECB Pontes Launches in 2026: Tokenized Finance Goes Operational",
-    "link": "https://cryptopanic.com/news/33285606/ECB-Pontes-Launches-in-2026-Tokenized-Finance-Goes-Operational",
-    "source": "spaziocrypto.com",
-    "published": "Thu Aug 27 2026 14:07:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇺🇸 A CNBC survey finds 77% of economists doubt Treasury Secretary Scott Bessent's push to buy more long-dated debt will succeed in taming rising bond yields.",
-    "link": "https://cryptopanic.com/news/33285713/LATEST-A-CNBC-survey-finds-77-of-economists-doubt-Treasury-Secretary-Scott-Bessents-push-to-buy-more-long-dated-debt-will-succeed-in-taming-rising-bond-yields",
-    "source": "@coinmarketcap",
-    "published": "Thu Aug 27 2026 14:05:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 U.S. Bitcoin ETFs saw a $232.12 million inflow yesterday",
-    "link": "https://cryptopanic.com/news/33285624/JUST-IN-US-Bitcoin-ETFs-saw-a-23212-million-inflow-yesterday",
-    "source": "@bitcoinmagazine",
-    "published": "Thu Aug 27 2026 14:05:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cointelegraph CONNECT lands in Singapore on Oct. 9 during TOKEN2049 week.\n\nCONNECT: Singapore brings together leaders across the Web3 ecosystem who are building and shaping what comes next.\n\nFeatured speakers:\n• @MikeSilagadze, CEO, @ether_fi \n• Alex Pack, Managing Partner,",
-    "link": "https://cryptopanic.com/news/33285812/Cointelegraph-CONNECT-lands-in-Singapore-on-Oct-9-during-TOKEN2049-week-CONNECT-Singapore-brings-together-leaders-across-the-Web3-ecosystem-who-are-building-and-shaping-what-comes-next-Featured-speakers-MikeSilagadze-CEO-ether_fi-Alex-Pack-Managing-Partner",
-    "source": "@cointelegraph",
-    "published": "Thu Aug 27 2026 14:01:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto traders brace for Fed Chair Kevin Warsh’s Jackson Hole speech",
-    "link": "https://cryptopanic.com/news/33285723/Crypto-traders-brace-for-Fed-Chair-Kevin-Warshs-Jackson-Hole-speech",
-    "source": "coindesk.com",
-    "published": "Thu Aug 27 2026 14:01:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BLACKROCK'S ROBBIE MITCHNICK: $BTC is “going to keep growing.”\n\nTheir Head of Digital Assets says the reason for $BTC is simple as the access keeps expanding.\n\nBlackRock now holds 765k+ $BTC worth around $60 BILLION for investors.",
-    "link": "https://cryptopanic.com/news/33285816/BLACKROCKS-ROBBIE-MITCHNICK-BTC-is-going-to-keep-growing-Their-Head-of-Digital-Assets-says-the-reason-for-BTC-is-simple-as-the-access-keeps-expanding-BlackRock-now-holds-765k-BTC-worth-around-60-BILLION-for-investors",
-    "source": "@realallincrypto",
-    "published": "Thu Aug 27 2026 14:00:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇬🇧 The Telegraph says Bitcoin is becoming a \"must-have.\"\n\n\"The hot money chasing the AI picks-and-shovels trade is now looking for a new home.\"",
-    "link": "https://cryptopanic.com/news/33285711/JUST-IN-The-Telegraph-says-Bitcoin-is-becoming-a-must-have-The-hot-money-chasing-the-AI-picks-and-shovels-trade-is-now-looking-for-a-new-home",
-    "source": "@btc_archive",
-    "published": "Thu Aug 27 2026 14:00:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nike Stock Hits 12-Year Low, on Pace for Worst Year Since Michael Jordan First Retired",
-    "link": "https://cryptopanic.com/news/33285666/Nike-Stock-Hits-12-Year-Low-on-Pace-for-Worst-Year-Since-Michael-Jordan-First-Retired",
-    "source": "beincrypto.com",
-    "published": "Thu Aug 27 2026 14:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Canopy builds system to wall off high-value signing keys ahead of token launch",
-    "link": "https://cryptopanic.com/news/33285513/Canopy-builds-system-to-wall-off-high-value-signing-keys-ahead-of-token-launch",
-    "source": "cryptopolitan.com",
-    "published": "Thu Aug 27 2026 14:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: @CharlesSchwab adds $SOL, $AVAX and $LINK to its crypto trading platform, expanding beyond $BTC and $ETH as the $10T+ brokerage giant continues its digital asset push.",
-    "link": "https://cryptopanic.com/news/33285504/JUST-IN-CharlesSchwab-adds-SOL-AVAX-and-LINK-to-its-crypto-trading-platform-expanding-beyond-BTC-and-ETH-as-the-10T-brokerage-giant-continues-its-digital-asset-push",
-    "source": "@coindesk",
-    "published": "Thu Aug 27 2026 13:54:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: Coinbase Bitcoin premium flips POSITIVE.\n\nFirst time in over 3 months.\n\nThe bear market is over!",
-    "link": "https://cryptopanic.com/news/33285710/BREAKING-Coinbase-Bitcoin-premium-flips-POSITIVE-First-time-in-over-3-months-The-bear-market-is-over",
-    "source": "@btc_archive",
-    "published": "Thu Aug 27 2026 13:54:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Chainalysis says global crypto taxable activity topped $457 billion in 2025",
-    "link": "https://cryptopanic.com/news/33285498/Chainalysis-says-global-crypto-taxable-activity-topped-457-billion-in-2025",
-    "source": "theblock.co",
-    "published": "Thu Aug 27 2026 13:54:19 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
