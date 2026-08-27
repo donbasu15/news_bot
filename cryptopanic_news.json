@@ -1,5 +1,12 @@
 [
   {
+    "title": "Coldcard Flaw Shows Why Three Hardware Wallets May Share One Risk",
+    "link": "https://cryptopanic.com/news/33282425/Coldcard-Flaw-Shows-Why-Three-Hardware-Wallets-May-Share-One-Risk",
+    "source": "coindoo.com",
+    "published": "Thu Aug 27 2026 05:43:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "BlackRock Sees a Bigger Bitcoin Catalyst Than The CLARITY Act\n\nBlackRock digital assets head Robbie Mitchnick says Bitcoin’s $BTC long term case extends beyond the CLARITY Act.\n\nHe pointed to America’s $40 trillion debt and persistent fiscal deficits as bigger structural factors.",
     "link": "https://cryptopanic.com/news/33282427/BlackRock-Sees-a-Bigger-Bitcoin-Catalyst-Than-The-CLARITY-Act-BlackRock-digital-assets-head-Robbie-Mitchnick-says-Bitcoins-BTC-long-term-case-extends-beyond-the-CLARITY-Act-He-pointed-to-Americas-40-trillion-debt-and-persistent-fiscal-deficits-as-bigger-structural-factors",
     "source": "@bscnews",
@@ -18,6 +25,20 @@
     "link": "https://cryptopanic.com/news/33282424/The-Graph-and-Geo-Protocol-cofounder-yanivgraph-sees-opportunity-for-long-term-crypto-believers-Crypto-is-still-relatively-young-and-relatively-unpopular-CHAINREACTION",
     "source": "@cointelegraph",
     "published": "Thu Aug 27 2026 05:31:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: The first post-quantum resistant Bitcoin transaction was mined today.\n\n\"It required no soft forks. It required no hard forks. It required no core protocol upgrades. And it's live today.\"",
+    "link": "https://cryptopanic.com/news/33282456/JUST-IN-The-first-post-quantum-resistant-Bitcoin-transaction-was-mined-today-It-required-no-soft-forks-It-required-no-hard-forks-It-required-no-core-protocol-upgrades-And-its-live-today",
+    "source": "@bitcoinmagazine",
+    "published": "Thu Aug 27 2026 05:27:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Salesforce CEO Uses Record Quarter to Kill ‘AI Will Replace SaaS' Narrative",
+    "link": "https://cryptopanic.com/news/33282453/Salesforce-CEO-Uses-Record-Quarter-to-Kill-AI-Will-Replace-SaaS-Narrative",
+    "source": "beincrypto.com",
+    "published": "Thu Aug 27 2026 05:22:14 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -60,6 +81,13 @@
     "link": "https://cryptopanic.com/news/33282354/LATEST-Ethereum-devs-propose-rebuilding-the-validator-deposit-contract-to-allow-future-quantum-resistant-signature-types-before-eventually-phasing-out-todays-BLS-format-an-early-step-to-shield-ETH-staking-from-quantum-attacks",
     "source": "@coinmarketcap",
     "published": "Thu Aug 27 2026 05:05:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Rent TRON Energy and Reduce USDT Fees: TronBid Expands Marketplace",
+    "link": "https://cryptopanic.com/news/33282452/Rent-TRON-Energy-and-Reduce-USDT-Fees-TronBid-Expands-Marketplace",
+    "source": "beincrypto.com",
+    "published": "Thu Aug 27 2026 05:04:49 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33282162/Lesser-tracked-bitcoin-market-dynamic-lends-credibility-to-August-surge-to-80000",
     "source": "coindesk.com",
     "published": "Thu Aug 27 2026 04:02:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple (XRP) Whales Are Pulling Millions Off Binance: The $2 Level Is Back in Focus",
-    "link": "https://cryptopanic.com/news/33282068/Ripple-XRP-Whales-Are-Pulling-Millions-Off-Binance-The-2-Level-Is-Back-in-Focus",
-    "source": "cryptopotato.com",
-    "published": "Thu Aug 27 2026 04:01:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Sui co-founder Kostas Chalkias unveils Havenex, a fully regulated crypto exchange promising institutional-grade transparency, with its Series A already closing.",
-    "link": "https://cryptopanic.com/news/33282080/NEW-Sui-co-founder-Kostas-Chalkias-unveils-Havenex-a-fully-regulated-crypto-exchange-promising-institutional-grade-transparency-with-its-Series-A-already-closing",
-    "source": "@cointelegraph",
-    "published": "Thu Aug 27 2026 04:00:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HYPE holds $80 with 40% weekly gains as whale activity intensifies – What’s next?",
-    "link": "https://cryptopanic.com/news/33282046/HYPE-holds-80-with-40-weekly-gains-as-whale-activity-intensifies-Whats-next",
-    "source": "ambcrypto.com",
-    "published": "Thu Aug 27 2026 04:00:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nethermind Leaves LayerZero for Chainlink After Review",
-    "link": "https://cryptopanic.com/news/33282018/Nethermind-Leaves-LayerZero-for-Chainlink-After-Review",
-    "source": "catenaa.com",
-    "published": "Thu Aug 27 2026 04:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
