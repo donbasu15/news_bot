@@ -1,9 +1,51 @@
 [
   {
+    "title": "Dashboard ⤵️",
+    "link": "https://cryptopanic.com/news/33283771/Dashboard",
+    "source": "@cryptoquant_com",
+    "published": "Thu Aug 27 2026 09:50:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Complete breakdown ⤵️",
+    "link": "https://cryptopanic.com/news/33283770/Complete-breakdown",
+    "source": "@cryptoquant_com",
+    "published": "Thu Aug 27 2026 09:48:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Binance Spot Volume Is Now 10% of Perpetual Volume\n\n“If Spot participation begins to expand relative to derivatives, that could become an important signal to watch for a broader shift in market demand.” – By @joao_wedson",
+    "link": "https://cryptopanic.com/news/33283769/Binance-Spot-Volume-Is-Now-10-of-Perpetual-Volume-If-Spot-participation-begins-to-expand-relative-to-derivatives-that-could-become-an-important-signal-to-watch-for-a-broader-shift-in-market-demand-By-joao_wedson",
+    "source": "@cryptoquant_com",
+    "published": "Thu Aug 27 2026 09:47:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Rogue OpenAI Agents Sacrificed Their Own Runs to Hack Hugging Face, Report Finds",
+    "link": "https://cryptopanic.com/news/33283719/Rogue-OpenAI-Agents-Sacrificed-Their-Own-Runs-to-Hack-Hugging-Face-Report-Finds",
+    "source": "decrypt.co",
+    "published": "Thu Aug 27 2026 09:46:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JP Morgan Is Weighing Its Own Stablecoin – Here's Why the Bank That Resisted Longest Just Moved",
+    "link": "https://cryptopanic.com/news/33283718/JP-Morgan-Is-Weighing-Its-Own-Stablecoin-Heres-Why-the-Bank-That-Resisted-Longest-Just-Moved",
+    "source": "www.blockhead.co",
+    "published": "Thu Aug 27 2026 09:45:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bithumb wins lawsuit over proceeds from 620,000 BTC fat-finger error: report",
     "link": "https://cryptopanic.com/news/33283705/Bithumb-wins-lawsuit-over-proceeds-from-620000-BTC-fat-finger-error-report",
     "source": "theblock.co",
     "published": "Thu Aug 27 2026 09:37:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Plume Vault’s nOPAL is now available through Bybit RWA Earn, allowing Bybit users to access yields linked to Brazilian credit card receivables through an RWA vault managed by BlackOpal.",
+    "link": "https://cryptopanic.com/news/33283774/Plume-Vaults-nOPAL-is-now-available-through-Bybit-RWA-Earn-allowing-Bybit-users-to-access-yields-linked-to-Brazilian-credit-card-receivables-through-an-RWA-vault-managed-by-BlackOpal",
+    "source": "@wublockchain",
+    "published": "Thu Aug 27 2026 09:35:14 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -46,6 +88,27 @@
     "link": "https://cryptopanic.com/news/33283672/Trump-Coin-or-Dogecoin-Which-Memecoin-Gave-You-More-Wow-for-Your-Buck-This-Month",
     "source": "feeds2.benzinga.com",
     "published": "Thu Aug 27 2026 09:20:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "@CryptoHayes Source",
+    "link": "https://cryptopanic.com/news/33283773/CryptoHayes-Source",
+    "source": "@wublockchain",
+    "published": "Thu Aug 27 2026 09:19:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Arthur Hayes: Why Did BitMEX Choose to End Its Operations?\n\nOn August 22, 2026, BitMEX co-founder @CryptoHayes  said in an interview that BitMEX’s decision to cease operations was not due to a hack or regulatory pressure, but rather a decision made voluntarily by the team. He",
+    "link": "https://cryptopanic.com/news/33283772/Arthur-Hayes-Why-Did-BitMEX-Choose-to-End-Its-Operations-On-August-22-2026-BitMEX-co-founder-CryptoHayes-said-in-an-interview-that-BitMEXs-decision-to-cease-operations-was-not-due-to-a-hack-or-regulatory-pressure-but-rather-a-decision-made-voluntarily-by-the-team-He",
+    "source": "@wublockchain",
+    "published": "Thu Aug 27 2026 09:19:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: ️ Anthropic struck a roughly $45B cloud deal with UK-based AI infrastructure firm Nscale to secure computing power for its Claude models, per CNBC.",
+    "link": "https://cryptopanic.com/news/33283766/LATEST-Anthropic-struck-a-roughly-45B-cloud-deal-with-UK-based-AI-infrastructure-firm-Nscale-to-secure-computing-power-for-its-Claude-models-per-CNBC",
+    "source": "@coinmarketcap",
+    "published": "Thu Aug 27 2026 09:17:10 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -144,69 +207,6 @@
     "link": "https://cryptopanic.com/news/33283408/INTEL-Ukraines-Budanov-says-Ukrainian-delegation-should-meet-Russian-and-US-officials-in-September",
     "source": "@solidintel_x",
     "published": "Thu Aug 27 2026 08:54:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Live updates: Bitcoin ETF inflows hit eight straight days as August tops $3 billion",
-    "link": "https://cryptopanic.com/news/33283600/Live-updates-Bitcoin-ETF-inflows-hit-eight-straight-days-as-August-tops-3-billion",
-    "source": "coindesk.com",
-    "published": "Thu Aug 27 2026 08:51:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Pumpfun Expands Beyond Solana With HyperEVM Token Trading\n\nPumpfun said its app now fully supports HyperEVM, allowing users to trade any HyperEVM token with USDC. The dominant Solana memecoin launchpad charges 0% trading fees on Solana and 0.1% on HyperEVM, Robinhood, BNB, Base",
-    "link": "https://cryptopanic.com/news/33283553/Pumpfun-Expands-Beyond-Solana-With-HyperEVM-Token-Trading-Pumpfun-said-its-app-now-fully-supports-HyperEVM-allowing-users-to-trade-any-HyperEVM-token-with-USDC-The-dominant-Solana-memecoin-launchpad-charges-0-trading-fees-on-Solana-and-01-on-HyperEVM-Robinhood-BNB-Base",
-    "source": "@wublockchain",
-    "published": "Thu Aug 27 2026 08:45:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Chainalysis found on-chain taxable crypto activity hit $457B globally in 2025, with the US alone accounting for $112.6B across gains, income, and payments.",
-    "link": "https://cryptopanic.com/news/33283549/LATEST-Chainalysis-found-on-chain-taxable-crypto-activity-hit-457B-globally-in-2025-with-the-US-alone-accounting-for-1126B-across-gains-income-and-payments",
-    "source": "@coinmarketcap",
-    "published": "Thu Aug 27 2026 08:41:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Near Brings More Privacy To Bitcoin Payments \n\nUnstoppable Wallet (@unstoppablebyhs) has integrated NEAR Intents’ (@near_intents) Confidential Execution for more private on-chain payments. \n\nIts new Private Send feature lets users send bitcoin:native without exposing their",
-    "link": "https://cryptopanic.com/news/33283370/Near-Brings-More-Privacy-To-Bitcoin-Payments-Unstoppable-Wallet-unstoppablebyhs-has-integrated-NEAR-Intents-near_intents-Confidential-Execution-for-more-private-on-chain-payments-Its-new-Private-Send-feature-lets-users-send-bitcoinnative-without-exposing-their",
-    "source": "@bscnews",
-    "published": "Thu Aug 27 2026 08:38:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ UPDATE: Justin Sun says Tron aims to complete its quantum-resistant network upgrade by year-end.",
-    "link": "https://cryptopanic.com/news/33283364/UPDATE-Justin-Sun-says-Tron-aims-to-complete-its-quantum-resistant-network-upgrade-by-year-end",
-    "source": "@cointelegraph",
-    "published": "Thu Aug 27 2026 08:36:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana solana:So11111111111111111111111111111111111111112 just broke out again...",
-    "link": "https://cryptopanic.com/news/33283369/Solana-solanaSo11111111111111111111111111111111111111112-just-broke-out-again",
-    "source": "@realallincrypto",
-    "published": "Thu Aug 27 2026 08:34:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum ethereum:native Breakout on the smaller time frames",
-    "link": "https://cryptopanic.com/news/33283368/Ethereum-ethereumnative-Breakout-on-the-smaller-time-frames",
-    "source": "@realallincrypto",
-    "published": "Thu Aug 27 2026 08:32:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto Market Hits $2.66T as Bitcoin Holds $79,000 Level",
-    "link": "https://cryptopanic.com/news/33283492/Crypto-Market-Hits-266T-as-Bitcoin-Holds-79000-Level",
-    "source": "cryptodnes.bg",
-    "published": "Thu Aug 27 2026 08:31:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cardano and Solana: The weaknesses of on-chain governance",
-    "link": "https://cryptopanic.com/news/33283242/Cardano-and-Solana-The-weaknesses-of-on-chain-governance",
-    "source": "cryptovalleyjournal.com",
-    "published": "Thu Aug 27 2026 08:26:03 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
