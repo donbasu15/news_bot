@@ -1,9 +1,65 @@
 [
   {
+    "title": "NOW: A new Bitcoin Improvement Proposal for the SHRINCS signature scheme has just been published to upgrade Bitcoin to quantum secure. \n\nHere’s everything you need to know",
+    "link": "https://cryptopanic.com/news/33281848/NOW-A-new-Bitcoin-Improvement-Proposal-for-the-SHRINCS-signature-scheme-has-just-been-published-to-upgrade-Bitcoin-to-quantum-secure-Heres-everything-you-need-to-know",
+    "source": "@cointelegraph",
+    "published": "Thu Aug 27 2026 02:30:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "First quantum-resistant Bitcoin transaction successfully executed, StarkWare says",
+    "link": "https://cryptopanic.com/news/33281798/First-quantum-resistant-Bitcoin-transaction-successfully-executed-StarkWare-says",
+    "source": "theblock.co",
+    "published": "Thu Aug 27 2026 02:24:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "KKR has agreed to pay $250 million to settle a US antitrust case which accused the private equity giant of repeatedly violating federal premerger filing requirements and evading antitrust scrutiny in at least 16 transactions. More here",
+    "link": "https://cryptopanic.com/news/33281851/KKR-has-agreed-to-pay-250-million-to-settle-a-US-antitrust-case-which-accused-the-private-equity-giant-of-repeatedly-violating-federal-premerger-filing-requirements-and-evading-antitrust-scrutiny-in-at-least-16-transactions-More-here",
+    "source": "@reutersbiz",
+    "published": "Thu Aug 27 2026 02:15:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$TSLA has seen an initial rejection and drop of -6% after reaching this key resistance level. Bulls will want to see a higher low form next if this uptrend is going to continue.",
+    "link": "https://cryptopanic.com/news/33281813/TSLA-has-seen-an-initial-rejection-and-drop-of-6-after-reaching-this-key-resistance-level-Bulls-will-want-to-see-a-higher-low-form-next-if-this-uptrend-is-going-to-continue",
+    "source": "@stackersatoshi",
+    "published": "Thu Aug 27 2026 02:12:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Nvidia has agreed to buy AI platform Hugging Face for $12.9 billion, per The Information.",
+    "link": "https://cryptopanic.com/news/33281847/UPDATE-Nvidia-has-agreed-to-buy-AI-platform-Hugging-Face-for-129-billion-per-The-Information",
+    "source": "@cointelegraph",
+    "published": "Thu Aug 27 2026 02:09:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Synopsys lifts 2026 outlook as AI chip race drives design-tool demand",
     "link": "https://cryptopanic.com/news/33281771/Synopsys-lifts-2026-outlook-as-AI-chip-race-drives-design-tool-demand",
     "source": "cryptopolitan.com",
     "published": "Thu Aug 27 2026 02:09:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Grayscale's Zach Pandl says the US Treasury's bond buybacks treat the symptoms of rising yields without fixing structural deficits, and that unchecked debt growth could benefit Bitcoin, Ethereum, and Zcash.",
+    "link": "https://cryptopanic.com/news/33281814/LATEST-Grayscales-Zach-Pandl-says-the-US-Treasurys-bond-buybacks-treat-the-symptoms-of-rising-yields-without-fixing-structural-deficits-and-that-unchecked-debt-growth-could-benefit-Bitcoin-Ethereum-and-Zcash",
+    "source": "@coinmarketcap",
+    "published": "Thu Aug 27 2026 02:05:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Robinhood Chain might be the most successful crypto launch in history...\n\nLess than two months after launching and @RobinhoodApp's $ETH L2 network has reached $25B in total DEX volume.\n\nBeyond this @RobinhoodCrypto has already established itself as a major stablecoin network, now",
+    "link": "https://cryptopanic.com/news/33281852/Robinhood-Chain-might-be-the-most-successful-crypto-launch-in-history-Less-than-two-months-after-launching-and-RobinhoodApps-ETH-L2-network-has-reached-25B-in-total-DEX-volume-Beyond-this-RobinhoodCrypto-has-already-established-itself-as-a-major-stablecoin-network-now",
+    "source": "@bscnews",
+    "published": "Thu Aug 27 2026 02:05:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Independent investigators brought in ‌to examine the hack of Hugging Face say about 700 AI agents spun up by the company OpenAI participated in the breach. More here",
+    "link": "https://cryptopanic.com/news/33281850/Independent-investigators-brought-in-to-examine-the-hack-of-Hugging-Face-say-about-700-AI-agents-spun-up-by-the-company-OpenAI-participated-in-the-breach-More-here",
+    "source": "@reutersbiz",
+    "published": "Thu Aug 27 2026 02:03:49 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -38,6 +94,13 @@
     "title": "China Shock 2.0 Shows US Tariffs Falling Short, Setser Says",
     "link": "https://cryptopanic.com/news/33281751/China-Shock-20-Shows-US-Tariffs-Falling-Short-Setser-Says",
     "source": "catenaa.com",
+    "published": "Thu Aug 27 2026 02:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Nvidia's Record Results Aren't ‘Impressive Enough' Because It's Sold Out, Analyst Says",
+    "link": "https://cryptopanic.com/news/33281810/Nvidias-Record-Results-Arent-Impressive-Enough-Because-Its-Sold-Out-Analyst-Says",
+    "source": "beincrypto.com",
     "published": "Thu Aug 27 2026 02:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -144,69 +207,6 @@
     "link": "https://cryptopanic.com/news/33281639/STOCKS-Hong-Kong-ADR-Rises-14-Points-As-Night-Futures-Fall-55",
     "source": "square.binance.com",
     "published": "Thu Aug 27 2026 01:07:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "GEOPOLITICS | India Issues Flood Alert as Nepal Deluge Leaves 133 Citizens Missing",
-    "link": "https://cryptopanic.com/news/33281638/GEOPOLITICS-India-Issues-Flood-Alert-as-Nepal-Deluge-Leaves-133-Citizens-Missing",
-    "source": "square.binance.com",
-    "published": "Thu Aug 27 2026 01:06:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Samsung Affiliates Face Activist’s 45% Premium Bid for S-1 Stakes",
-    "link": "https://cryptopanic.com/news/33281637/Samsung-Affiliates-Face-Activists-45-Premium-Bid-for-S-1-Stakes",
-    "source": "square.binance.com",
-    "published": "Thu Aug 27 2026 01:05:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "StarkWare’s Avihu Levy Uses Signature Grinding to Protect Public Key Data",
-    "link": "https://cryptopanic.com/news/33281636/StarkWares-Avihu-Levy-Uses-Signature-Grinding-to-Protect-Public-Key-Data",
-    "source": "square.binance.com",
-    "published": "Thu Aug 27 2026 01:04:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "StarkWare Executes First Quantum-Resistant Bitcoin Transaction",
-    "link": "https://cryptopanic.com/news/33281635/StarkWare-Executes-First-Quantum-Resistant-Bitcoin-Transaction",
-    "source": "square.binance.com",
-    "published": "Thu Aug 27 2026 01:03:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "STOCKS | FTSE China A50 Index Futures Open Up 0.07%",
-    "link": "https://cryptopanic.com/news/33281634/STOCKS-FTSE-China-A50-Index-Futures-Open-Up-007",
-    "source": "square.binance.com",
-    "published": "Thu Aug 27 2026 01:03:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Jensen Huang Defends Nvidia's AI Company Investments",
-    "link": "https://cryptopanic.com/news/33281633/Jensen-Huang-Defends-Nvidias-AI-Company-Investments",
-    "source": "square.binance.com",
-    "published": "Thu Aug 27 2026 01:03:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "TODAY: Bill Gates warns AI could trigger mass unemployment, cyberattacks and bioterrorism, urging global institutions to help manage the transition.",
-    "link": "https://cryptopanic.com/news/33281433/TODAY-Bill-Gates-warns-AI-could-trigger-mass-unemployment-cyberattacks-and-bioterrorism-urging-global-institutions-to-help-manage-the-transition",
-    "source": "@cointelegraph",
-    "published": "Thu Aug 27 2026 01:00:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Tops $80,000 as ETF Demand Accelerates",
-    "link": "https://cryptopanic.com/news/33281397/Bitcoin-Tops-80000-as-ETF-Demand-Accelerates",
-    "source": "catenaa.com",
-    "published": "Thu Aug 27 2026 01:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Want to know how much money Uniswap has made since launch...?\n\n@Uniswap, for years now the industry's #1 DEX, has generated an eye-watering $5.79B in cumulative fees per DefiLlama.\n\nIt has also seen an unbelievable $3.8T in total trading volume.\n\nThere's no stopping @haydenzadams",
-    "link": "https://cryptopanic.com/news/33281436/Want-to-know-how-much-money-Uniswap-has-made-since-launch-Uniswap-for-years-now-the-industrys-1-DEX-has-generated-an-eye-watering-579B-in-cumulative-fees-per-DefiLlama-It-has-also-seen-an-unbelievable-38T-in-total-trading-volume-Theres-no-stopping-haydenzadams",
-    "source": "@bscnews",
-    "published": "Thu Aug 27 2026 00:59:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
