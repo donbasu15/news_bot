@@ -1,9 +1,100 @@
 [
   {
+    "title": "InterLink ID verifies humans without storing the face it scans\n\nInterLink ID starts with a face scan, and @inter_link runs an AI deepfake and liveness check before anything is stored.\n\nThe face becomes a feature vector, a string of numbers describing facial geometry rather than",
+    "link": "https://cryptopanic.com/news/33287340/InterLink-ID-verifies-humans-without-storing-the-face-it-scans-InterLink-ID-starts-with-a-face-scan-and-inter_link-runs-an-AI-deepfake-and-liveness-check-before-anything-is-stored-The-face-becomes-a-feature-vector-a-string-of-numbers-describing-facial-geometry-rather-than",
+    "source": "@bscnews",
+    "published": "Thu Aug 27 2026 19:50:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin’s Core Lightning tells nodes to await the patch, not shut down",
+    "link": "https://cryptopanic.com/news/33287324/Bitcoins-Core-Lightning-tells-nodes-to-await-the-patch-not-shut-down",
+    "source": "cryptopolitan.com",
+    "published": "Thu Aug 27 2026 19:50:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Charles Hoskinson says Bitcoin DeFi's \"security model has to be BTC. Mirroring, not wrapped. Non-custodial, no bridge, no taxes, lendable into a stablecoin—with Midnight's MCS, you can make yield on HYPE, BNB, SOL, ADA, ETH. Midnight is like a VPN for financial privacy.\"",
+    "link": "https://cryptopanic.com/news/33287293/UPDATE-Charles-Hoskinson-says-Bitcoin-DeFis-security-model-has-to-be-BTC-Mirroring-not-wrapped-Non-custodial-no-bridge-no-taxes-lendable-into-a-stablecoinwith-Midnights-MCS-you-can-make-yield-on-HYPE-BNB-SOL-ADA-ETH-Midnight-is-like-a-VPN-for-financial-privacy",
+    "source": "@angrycryptoshow",
+    "published": "Thu Aug 27 2026 19:47:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$6.4 Billion in Bitcoin Options Expire Tomorrow—Here's What It Means",
+    "link": "https://cryptopanic.com/news/33287310/64-Billion-in-Bitcoin-Options-Expire-TomorrowHeres-What-It-Means",
+    "source": "decrypt.co",
+    "published": "Thu Aug 27 2026 19:47:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: #Cardano $ADA Founder Charles Hoskinson says \"Ethereum thinks they're just gonna copy paste the Bitcoin UTXO model and put smart contracts on it. I got a news flash for you, you can't do that. I spent 11 years figuring out how to do this, writing papers, building code.\"",
+    "link": "https://cryptopanic.com/news/33287292/UPDATE-Cardano-ADA-Founder-Charles-Hoskinson-says-Ethereum-thinks-theyre-just-gonna-copy-paste-the-Bitcoin-UTXO-model-and-put-smart-contracts-on-it-I-got-a-news-flash-for-you-you-cant-do-that-I-spent-11-years-figuring-out-how-to-do-this-writing-papers-building-code",
+    "source": "@angrycryptoshow",
+    "published": "Thu Aug 27 2026 19:47:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Rich Sees $3.40 XRP as Conservative Ahead Of Crypto Vote",
+    "link": "https://cryptopanic.com/news/33287311/Rich-Sees-340-XRP-as-Conservative-Ahead-Of-Crypto-Vote",
+    "source": "dailycoin.com",
+    "published": "Thu Aug 27 2026 19:47:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: #Cardano $ADA Founder Charles Hoskinson says crypto \"solves determinism for AI, I'll prove this with trading bots. What if you have to solve a ZK proof to execute something? You have hallucination-free agents when you put crypto together with AI, so we're gonna do that.\"",
+    "link": "https://cryptopanic.com/news/33287291/UPDATE-Cardano-ADA-Founder-Charles-Hoskinson-says-crypto-solves-determinism-for-AI-Ill-prove-this-with-trading-bots-What-if-you-have-to-solve-a-ZK-proof-to-execute-something-You-have-hallucination-free-agents-when-you-put-crypto-together-with-AI-so-were-gonna-do-that",
+    "source": "@angrycryptoshow",
+    "published": "Thu Aug 27 2026 19:46:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Fiscally hawkish EU countries are pushing for a smaller seven-year budget, prompting debate over taxing billionaires to fill the gap, with Nomura's George Buckley saying taxes must rise sharply to make a real difference",
+    "link": "https://cryptopanic.com/news/33287337/Fiscally-hawkish-EU-countries-are-pushing-for-a-smaller-seven-year-budget-prompting-debate-over-taxing-billionaires-to-fill-the-gap-with-Nomuras-George-Buckley-saying-taxes-must-rise-sharply-to-make-a-real-difference",
+    "source": "@reutersbiz",
+    "published": "Thu Aug 27 2026 19:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇦🇪 JUST IN: The Trump family’s planned World Liberty crypto bank is backed by Sheikh Tahnoon bin Zayed al Nahyan, whose entity holds a 49% stake in its parent company, according to the Wall Street Journal.",
+    "link": "https://cryptopanic.com/news/33287335/JUST-IN-The-Trump-familys-planned-World-Liberty-crypto-bank-is-backed-by-Sheikh-Tahnoon-bin-Zayed-al-Nahyan-whose-entity-holds-a-49-stake-in-its-parent-company-according-to-the-Wall-Street-Journal",
+    "source": "@cointelegraph",
+    "published": "Thu Aug 27 2026 19:40:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Off to a great start",
+    "link": "https://cryptopanic.com/news/33287338/Off-to-a-great-start",
+    "source": "@realallincrypto",
+    "published": "Thu Aug 27 2026 19:37:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Mark Cuban says chips will be the new crypto, but CEO of The Bitcoin Bond Company @BitcoinPierre argues Bitcoin is different:\n\n“AI is really a technology of abundance. And Bitcoin, its scarcity will continue.”\n\nThank you to @realfi_co for being a sponsor of the CoinDesk Media",
+    "link": "https://cryptopanic.com/news/33287333/Mark-Cuban-says-chips-will-be-the-new-crypto-but-CEO-of-The-Bitcoin-Bond-Company-BitcoinPierre-argues-Bitcoin-is-different-AI-is-really-a-technology-of-abundance-And-Bitcoin-its-scarcity-will-continue-Thank-you-to-realfi_co-for-being-a-sponsor-of-the-CoinDesk-Media",
+    "source": "@coindesk",
+    "published": "Thu Aug 27 2026 19:36:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "HPC urges CFTC to put perpetual contracts at the center of its innovation push",
     "link": "https://cryptopanic.com/news/33287280/HPC-urges-CFTC-to-put-perpetual-contracts-at-the-center-of-its-innovation-push",
     "source": "cryptopolitan.com",
     "published": "Thu Aug 27 2026 19:35:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Sui weekly DEX volume more than triples to $540 million\n\nDecentralized exchanges on @SuiNetwork processed $540.77 million over the past seven days, up 258% week over week per DefiLlama data, including $37.3 million in the past 24 hours. Perps volume added $257.6 million and is up",
+    "link": "https://cryptopanic.com/news/33287339/Sui-weekly-DEX-volume-more-than-triples-to-540-million-Decentralized-exchanges-on-SuiNetwork-processed-54077-million-over-the-past-seven-days-up-258-week-over-week-per-DefiLlama-data-including-373-million-in-the-past-24-hours-Perps-volume-added-2576-million-and-is-up",
+    "source": "@bscnews",
+    "published": "Thu Aug 27 2026 19:33:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Analyst's 22% price target cut on Strategy still means 176% upside",
+    "link": "https://cryptopanic.com/news/33287326/Analysts-22-price-target-cut-on-Strategy-still-means-176-upside",
+    "source": "thestreet.com",
+    "published": "Thu Aug 27 2026 19:28:45 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -18,6 +109,13 @@
     "link": "https://cryptopanic.com/news/33287243/XRP-ETF-News-21Shares-Moves-TOXR-to-FTSE-Pricing-as-Assets-Near-150M",
     "source": "coinpaper.com",
     "published": "Thu Aug 27 2026 19:23:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "️ NEW: Anthropic launched MHS, a new research-preview standard designed to help AI agents operate and communicate with programmable machines across science, robotics and manufacturing.",
+    "link": "https://cryptopanic.com/news/33287334/NEW-Anthropic-launched-MHS-a-new-research-preview-standard-designed-to-help-AI-agents-operate-and-communicate-with-programmable-machines-across-science-robotics-and-manufacturing",
+    "source": "@cointelegraph",
+    "published": "Thu Aug 27 2026 19:20:53 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -46,6 +144,13 @@
     "link": "https://cryptopanic.com/news/33287218/Pudgy-Penguins-token-goes-live-on-Robinhood-Chain-solana2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv-is-now-tradable-on-Robinhood-Chain-RobinhoodCrypto-per-a-pudgypenguins-announcement-that-included-the-contract-address-and-a-warning-to-verify-through-official-channels",
     "source": "@bscnews",
     "published": "Thu Aug 27 2026 19:15:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Anthropic IPO Could Come in September, But It Has a Massive Risk Factor",
+    "link": "https://cryptopanic.com/news/33287318/Anthropic-IPO-Could-Come-in-September-But-It-Has-a-Massive-Risk-Factor",
+    "source": "beincrypto.com",
+    "published": "Thu Aug 27 2026 19:14:09 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -102,111 +207,6 @@
     "link": "https://cryptopanic.com/news/33287150/Google-adds-hotel-booking-to-AI-Mode-but-partners-keep-customer-service",
     "source": "cryptopolitan.com",
     "published": "Thu Aug 27 2026 19:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: Michael Saylor's Strategy cracks top-15 U.S. volume leaders today with $4.4 billion.",
-    "link": "https://cryptopanic.com/news/33287137/BREAKING-Michael-Saylors-Strategy-cracks-top-15-US-volume-leaders-today-with-44-billion",
-    "source": "@btc_archive",
-    "published": "Thu Aug 27 2026 18:59:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: IOG on Leios' dynamic performance, says \"Leios runs dormant as an overlay on Praos, the protocol #Cardano $ADA uses today, and steps in when transactions arrive faster than Praos alone can clear. Security stays with Praos. Capacity arrives when demand asks for it.\"",
-    "link": "https://cryptopanic.com/news/33287148/JUST-IN-IOG-on-Leios-dynamic-performance-says-Leios-runs-dormant-as-an-overlay-on-Praos-the-protocol-Cardano-ADA-uses-today-and-steps-in-when-transactions-arrive-faster-than-Praos-alone-can-clear-Security-stays-with-Praos-Capacity-arrives-when-demand-asks-for-it",
-    "source": "@angrycryptoshow",
-    "published": "Thu Aug 27 2026 18:59:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: IOG on $ADA's Ouroboros Leios, says \"the goal is mainnet-ready by the end of the year.\"",
-    "link": "https://cryptopanic.com/news/33287147/JUST-IN-IOG-on-ADAs-Ouroboros-Leios-says-the-goal-is-mainnet-ready-by-the-end-of-the-year",
-    "source": "@angrycryptoshow",
-    "published": "Thu Aug 27 2026 18:56:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: IOG on strengthening the resilience of $ADA's Ouroboros Leios, says a dedicated team is \"already attacking the network. Nothing so far threatens the safety of #Cardano's underlying Praos layer.\"",
-    "link": "https://cryptopanic.com/news/33287146/JUST-IN-IOG-on-strengthening-the-resilience-of-ADAs-Ouroboros-Leios-says-a-dedicated-team-is-already-attacking-the-network-Nothing-so-far-threatens-the-safety-of-Cardanos-underlying-Praos-layer",
-    "source": "@angrycryptoshow",
-    "published": "Thu Aug 27 2026 18:54:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: IOG says $ADA's Ouroboros Leios \"lifts Cardano's transaction capacity well above today's limit without changing its security model. In its first public test, it peaked at roughly 6x what mainnet handles now.\"",
-    "link": "https://cryptopanic.com/news/33287145/JUST-IN-IOG-says-ADAs-Ouroboros-Leios-lifts-Cardanos-transaction-capacity-well-above-todays-limit-without-changing-its-security-model-In-its-first-public-test-it-peaked-at-roughly-6x-what-mainnet-handles-now",
-    "source": "@angrycryptoshow",
-    "published": "Thu Aug 27 2026 18:54:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Blockstream researchers proposed SHRINCS, a quantum-resistant Bitcoin signature scheme to block attacks that reverse private keys from exposed public keys.",
-    "link": "https://cryptopanic.com/news/33287140/LATEST-Blockstream-researchers-proposed-SHRINCS-a-quantum-resistant-Bitcoin-signature-scheme-to-block-attacks-that-reverse-private-keys-from-exposed-public-keys",
-    "source": "@coinmarketcap",
-    "published": "Thu Aug 27 2026 18:53:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: IOG says #Cardano $ADA chose the rigorous approach to solving the blockchain trilemma, in the order of \"security, decentralization, then scale.\"",
-    "link": "https://cryptopanic.com/news/33287144/JUST-IN-IOG-says-Cardano-ADA-chose-the-rigorous-approach-to-solving-the-blockchain-trilemma-in-the-order-of-security-decentralization-then-scale",
-    "source": "@angrycryptoshow",
-    "published": "Thu Aug 27 2026 18:53:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HMRC data shows 240 people declared over £1 million in crypto gains last tax year\n\nThe UK tax authority's first official statistics on cryptoasset gains show 17,600 people reported taxable disposals in the 2024-25 year, with £1.38 billion in combined gains on £13.8 billion of",
-    "link": "https://cryptopanic.com/news/33287217/HMRC-data-shows-240-people-declared-over-1-million-in-crypto-gains-last-tax-year-The-UK-tax-authoritys-first-official-statistics-on-cryptoasset-gains-show-17600-people-reported-taxable-disposals-in-the-2024-25-year-with-138-billion-in-combined-gains-on-138-billion-of",
-    "source": "@bscnews",
-    "published": "Thu Aug 27 2026 18:52:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Over the last 2 years we went from “This AI thing is pretty cool but buggy” to “This is incredible we need to be tokenmaxxing or get left behind”\n\nWe are entering that transition phase for robotics now",
-    "link": "https://cryptopanic.com/news/33287138/Over-the-last-2-years-we-went-from-This-AI-thing-is-pretty-cool-but-buggy-to-This-is-incredible-we-need-to-be-tokenmaxxing-or-get-left-behind-We-are-entering-that-transition-phase-for-robotics-now",
-    "source": "@rewkang",
-    "published": "Thu Aug 27 2026 18:49:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tom Lee: The Next 5 Years of Crypto Will Be About Ethereum",
-    "link": "https://cryptopanic.com/news/33287077/Tom-Lee-The-Next-5-Years-of-Crypto-Will-Be-About-Ethereum",
-    "source": "MilkRoadYoutube",
-    "published": "Thu Aug 27 2026 18:45:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump Pays 10 US Businesses With His Meme Coin. Real Utility or Fake Pump?",
-    "link": "https://cryptopanic.com/news/33287202/Trump-Pays-10-US-Businesses-With-His-Meme-Coin-Real-Utility-or-Fake-Pump",
-    "source": "beincrypto.com",
-    "published": "Thu Aug 27 2026 18:43:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ Are retail investors done with crypto regulation?\n\n@CryptoMichNL says retail investors don’t care about the CLARITY Act because they’re “fed up” after FTX and Luna.\n\nWatch the latest #CHAINREACTION.",
-    "link": "https://cryptopanic.com/news/33287212/Are-retail-investors-done-with-crypto-regulation-CryptoMichNL-says-retail-investors-dont-care-about-the-CLARITY-Act-because-theyre-fed-up-after-FTX-and-Luna-Watch-the-latest-CHAINREACTION",
-    "source": "@cointelegraph",
-    "published": "Thu Aug 27 2026 18:43:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nvidia shares jump after another earnings beat, bitcoin runs into a major wall of supply around $80,000, and AI-generated security reports put Bitcoin's Lightning Network on alert.\n\n@uyendoe has what you need to know.",
-    "link": "https://cryptopanic.com/news/33287211/Nvidia-shares-jump-after-another-earnings-beat-bitcoin-runs-into-a-major-wall-of-supply-around-80000-and-AI-generated-security-reports-put-Bitcoins-Lightning-Network-on-alert-uyendoe-has-what-you-need-to-know",
-    "source": "@coindesk",
-    "published": "Thu Aug 27 2026 18:41:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: $45B Grayscale says institutional backing made this cycle's dip shallower.\n\nThe bear market is officially over!",
-    "link": "https://cryptopanic.com/news/33287135/JUST-IN-45B-Grayscale-says-institutional-backing-made-this-cycles-dip-shallower-The-bear-market-is-officially-over",
-    "source": "@btc_archive",
-    "published": "Thu Aug 27 2026 18:41:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Eight straight days of inflows totaling $2.8B, and August is already the strongest month of 2026 for the Bitcoin ETFs. Gold funds are printing records on the same thesis.",
-    "link": "https://cryptopanic.com/news/33287216/Eight-straight-days-of-inflows-totaling-28B-and-August-is-already-the-strongest-month-of-2026-for-the-Bitcoin-ETFs-Gold-funds-are-printing-records-on-the-same-thesis",
-    "source": "@bscnews",
-    "published": "Thu Aug 27 2026 18:40:25 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
