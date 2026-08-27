@@ -1,9 +1,65 @@
 [
   {
+    "title": "Fidelity Clients Keep Buying Bitcoin As Nine-Day Streak Continues",
+    "link": "https://cryptopanic.com/news/33284980/Fidelity-Clients-Keep-Buying-Bitcoin-As-Nine-Day-Streak-Continues",
+    "source": "techgaged.com",
+    "published": "Thu Aug 27 2026 12:36:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Dominance and Altseason: How the BTC.D Indicator Works",
+    "link": "https://cryptopanic.com/news/33284967/Bitcoin-Dominance-and-Altseason-How-the-BTCD-Indicator-Works",
+    "source": "coinpaper.com",
+    "published": "Thu Aug 27 2026 12:35:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Ripple Prime launched Delta One, marking its first expansion into stock trading for institutional investors.",
+    "link": "https://cryptopanic.com/news/33284932/UPDATE-Ripple-Prime-launched-Delta-One-marking-its-first-expansion-into-stock-trading-for-institutional-investors",
+    "source": "@cointelegraph",
+    "published": "Thu Aug 27 2026 12:30:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SEC crypto custody rewrite enters White House review with key rules still undisclosed",
+    "link": "https://cryptopanic.com/news/33284928/SEC-crypto-custody-rewrite-enters-White-House-review-with-key-rules-still-undisclosed",
+    "source": "cryptoslate.com",
+    "published": "Thu Aug 27 2026 12:30:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cosmos EVM Security Flaw Hits Nesa, KiiChain, TAC and MANTRA Networks",
+    "link": "https://cryptopanic.com/news/33284904/Cosmos-EVM-Security-Flaw-Hits-Nesa-KiiChain-TAC-and-MANTRA-Networks",
+    "source": "coinpaper.com",
+    "published": "Thu Aug 27 2026 12:19:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "AQAv2 Launch Could Boost HYPE Revenue by 18% and Fuel Buybacks",
+    "link": "https://cryptopanic.com/news/33284893/AQAv2-Launch-Could-Boost-HYPE-Revenue-by-18-and-Fuel-Buybacks",
+    "source": "techgaged.com",
+    "published": "Thu Aug 27 2026 12:19:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Morning Minute: Robinhood Chain Levels Up as Memes and RWAs Soar",
+    "link": "https://cryptopanic.com/news/33285018/Morning-Minute-Robinhood-Chain-Levels-Up-as-Memes-and-RWAs-Soar",
+    "source": "@decryptmedia",
+    "published": "Thu Aug 27 2026 12:14:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Morning Minute: Robinhood Chain Levels Up as Memes and RWAs Soar",
     "link": "https://cryptopanic.com/news/33284859/Morning-Minute-Robinhood-Chain-Levels-Up-as-Memes-and-RWAs-Soar",
     "source": "decrypt.co",
     "published": "Thu Aug 27 2026 12:13:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: JPMorgan warns a global food shock could hit within the next year, with food inflation seen nearly doubling to 5% by early 2027",
+    "link": "https://cryptopanic.com/news/33285020/INTEL-JPMorgan-warns-a-global-food-shock-could-hit-within-the-next-year-with-food-inflation-seen-nearly-doubling-to-5-by-early-2027",
+    "source": "@solidintel_x",
+    "published": "Thu Aug 27 2026 12:12:45 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -18,6 +74,41 @@
     "link": "https://cryptopanic.com/news/33284911/Bitcoins-Big-Test-The-Supply-Wall-Between-81000-and-86000",
     "source": "feeds2.benzinga.com",
     "published": "Thu Aug 27 2026 12:08:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "AI bug reports trigger emergency warning for bitcoin Lightning node operators",
+    "link": "https://cryptopanic.com/news/33284943/AI-bug-reports-trigger-emergency-warning-for-bitcoin-Lightning-node-operators",
+    "source": "coindesk.com",
+    "published": "Thu Aug 27 2026 12:08:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Bitfinex Securities launches a $50M tokenized capital raise backed by $1.6B in industrial nickel wire, the first tokenized nickel product and first tokenized commodity under El Salvador's digital asset framework.",
+    "link": "https://cryptopanic.com/news/33284927/JUST-IN-Bitfinex-Securities-launches-a-50M-tokenized-capital-raise-backed-by-16B-in-industrial-nickel-wire-the-first-tokenized-nickel-product-and-first-tokenized-commodity-under-El-Salvadors-digital-asset-framework",
+    "source": "@coindesk",
+    "published": "Thu Aug 27 2026 12:07:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: JPMorgan warns a large-scale food supply crisis could hit within the next year.",
+    "link": "https://cryptopanic.com/news/33285023/JUST-IN-JPMorgan-warns-a-large-scale-food-supply-crisis-could-hit-within-the-next-year",
+    "source": "@watcherguru",
+    "published": "Thu Aug 27 2026 12:03:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: Bitfinex Securities completes a record $50M tokenized capital raise backed by nickel assets.",
+    "link": "https://cryptopanic.com/news/33284929/LATEST-Bitfinex-Securities-completes-a-record-50M-tokenized-capital-raise-backed-by-nickel-assets",
+    "source": "@cointelegraph",
+    "published": "Thu Aug 27 2026 12:01:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "THE FUTURE IS HERE AS COINBASE ANNOUNCES $BTC BACKED MORTGAGES IN THE US!\n\nCoinbase is bringing Bitcoin backed mortgages to qualified U.S. buyers, letting people use $BTC for a home down payment WITHOUT selling it.\n\nThis is mega, $BTC is becoming collateral for real life. ₿",
+    "link": "https://cryptopanic.com/news/33284938/THE-FUTURE-IS-HERE-AS-COINBASE-ANNOUNCES-BTC-BACKED-MORTGAGES-IN-THE-US-Coinbase-is-bringing-Bitcoin-backed-mortgages-to-qualified-US-buyers-letting-people-use-BTC-for-a-home-down-payment-WITHOUT-selling-it-This-is-mega-BTC-is-becoming-collateral-for-real-life",
+    "source": "@realallincrypto",
+    "published": "Thu Aug 27 2026 12:00:27 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -116,97 +207,6 @@
     "link": "https://cryptopanic.com/news/33284628/Gold-Price-Forecast-Gold-Eyes-4700-Ahead-of-Kevin-Warshs-Jackson-Hole-Speech",
     "source": "coinpaper.com",
     "published": "Thu Aug 27 2026 11:41:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  OpenAI published a report on the Hugging Face breach, revealing autonomous AI agents using GPT-5.6 Sol and an internal model — running without safeguards — teamed up to successfully attack production systems.",
-    "link": "https://cryptopanic.com/news/33284857/LATEST-OpenAI-published-a-report-on-the-Hugging-Face-breach-revealing-autonomous-AI-agents-using-GPT-56-Sol-and-an-internal-model-running-without-safeguards-teamed-up-to-successfully-attack-production-systems",
-    "source": "@coinmarketcap",
-    "published": "Thu Aug 27 2026 11:41:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto expert reveals best time to buy Bitcoin ahead of $100,000 rally",
-    "link": "https://cryptopanic.com/news/33284634/Crypto-expert-reveals-best-time-to-buy-Bitcoin-ahead-of-100000-rally",
-    "source": "finbold.com",
-    "published": "Thu Aug 27 2026 11:38:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Mirae Asset eyes $109 billion crypto empire after acquiring Digital X",
-    "link": "https://cryptopanic.com/news/33284744/Mirae-Asset-eyes-109-billion-crypto-empire-after-acquiring-Digital-X",
-    "source": "coindesk.com",
-    "published": "Thu Aug 27 2026 11:37:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bithumb scores court wins in Bitcoin transfer error case",
-    "link": "https://cryptopanic.com/news/33284599/Bithumb-scores-court-wins-in-Bitcoin-transfer-error-case",
-    "source": "cryptopolitan.com",
-    "published": "Thu Aug 27 2026 11:30:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SimpleSwap Marks a Year Inside Exodus Wallet, Ships Five Partner Updates WithNo Integration Changes",
-    "link": "https://cryptopanic.com/news/33284855/SimpleSwap-Marks-a-Year-Inside-Exodus-Wallet-Ships-Five-Partner-Updates-WithNo-Integration-Changes",
-    "source": "beincrypto.com",
-    "published": "Thu Aug 27 2026 11:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "People have been calling for a final BTC pullback. Did they miss the chance?\n\nFOMO HOUR ft @Tyler_Did_It and @farokh",
-    "link": "https://cryptopanic.com/news/33284742/People-have-been-calling-for-a-final-BTC-pullback-Did-they-miss-the-chance-FOMO-HOUR-ft-Tyler_Did_It-and-farokh",
-    "source": "@decryptmedia",
-    "published": "Thu Aug 27 2026 11:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nvidia Options Price a $280 Billion Swing",
-    "link": "https://cryptopanic.com/news/33284576/Nvidia-Options-Price-a-280-Billion-Swing",
-    "source": "catenaa.com",
-    "published": "Thu Aug 27 2026 11:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Bank of England looks set to advance stablecoin and crypto innovation.",
-    "link": "https://cryptopanic.com/news/33284677/The-Bank-of-England-looks-set-to-advance-stablecoin-and-crypto-innovation",
-    "source": "@bscnews",
-    "published": "Thu Aug 27 2026 11:26:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Interesting",
-    "link": "https://cryptopanic.com/news/33284674/Interesting",
-    "source": "@realallincrypto",
-    "published": "Thu Aug 27 2026 11:24:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Amount of Staked Polkadot Tokens Is Closing In On Huge Milestone\n\n$DOT staked on @Polkadot has crossed 900 million as the blockchain network nears the 1 billion milestone.\n\nCurrently, the cryptocurrency's rewards are offered at an average rate of 2.8%.",
-    "link": "https://cryptopanic.com/news/33284676/Amount-of-Staked-Polkadot-Tokens-Is-Closing-In-On-Huge-Milestone-DOT-staked-on-Polkadot-has-crossed-900-million-as-the-blockchain-network-nears-the-1-billion-milestone-Currently-the-cryptocurrencys-rewards-are-offered-at-an-average-rate-of-28",
-    "source": "@bscnews",
-    "published": "Thu Aug 27 2026 11:22:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: @nvidia beats earnings with $96.2B in revenue and guides to $108B next quarter, sending $NVDA up 8% premarket.",
-    "link": "https://cryptopanic.com/news/33284667/NEW-nvidia-beats-earnings-with-962B-in-revenue-and-guides-to-108B-next-quarter-sending-NVDA-up-8-premarket",
-    "source": "@coindesk",
-    "published": "Thu Aug 27 2026 11:22:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "British Prime Minister Andy Burnham faces a far tougher test when Parliament returns next week, with the spotlight on how he will fund his agenda. James Smith from ING tells Reuters 'boring budgets don’t win elections' — keeping the surprise factor alive and businesses on edge",
-    "link": "https://cryptopanic.com/news/33284671/British-Prime-Minister-Andy-Burnham-faces-a-far-tougher-test-when-Parliament-returns-next-week-with-the-spotlight-on-how-he-will-fund-his-agenda-James-Smith-from-ING-tells-Reuters-boring-budgets-dont-win-elections-keeping-the-surprise-factor-alive-and-businesses-on-edge",
-    "source": "@reutersbiz",
-    "published": "Thu Aug 27 2026 11:20:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BingX Returns as Title Sponsor of TOKEN2049 Singapore 2026, Showcasing Its Multi-Asset Trading Vision",
-    "link": "https://cryptopanic.com/news/33284854/BingX-Returns-as-Title-Sponsor-of-TOKEN2049-Singapore-2026-Showcasing-Its-Multi-Asset-Trading-Vision",
-    "source": "beincrypto.com",
-    "published": "Thu Aug 27 2026 11:18:15 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
