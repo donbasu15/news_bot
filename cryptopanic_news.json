@@ -1,9 +1,30 @@
 [
   {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33282011/Source",
+    "source": "@wublockchain",
+    "published": "Thu Aug 27 2026 03:44:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "StarkWare Researcher Executes First Quantum-Safe Bitcoin Transaction on Mainnet\n\nStarkWare researcher Avihu Levy’s Quantum-Safe Bitcoin (QSB) scheme has completed its first confirmed transaction on the Bitcoin mainnet, demonstrating a way to protect transactions from",
+    "link": "https://cryptopanic.com/news/33282010/StarkWare-Researcher-Executes-First-Quantum-Safe-Bitcoin-Transaction-on-Mainnet-StarkWare-researcher-Avihu-Levys-Quantum-Safe-Bitcoin-QSB-scheme-has-completed-its-first-confirmed-transaction-on-the-Bitcoin-mainnet-demonstrating-a-way-to-protect-transactions-from",
+    "source": "@wublockchain",
+    "published": "Thu Aug 27 2026 03:44:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Nvidia’s reported $12.9 billion Hugging Face deal puts open-source AI’s neutral hub in play",
     "link": "https://cryptopanic.com/news/33281976/Nvidias-reported-129-billion-Hugging-Face-deal-puts-open-source-AIs-neutral-hub-in-play",
     "source": "cryptopolitan.com",
     "published": "Thu Aug 27 2026 03:40:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  VanEck's Matthew Sigel called Strategy's Bitcoin sales a \"newspaper headline bottom\" that lined up with all 12 of the firm's capitulation signals firing.",
+    "link": "https://cryptopanic.com/news/33282009/LATEST-VanEcks-Matthew-Sigel-called-Strategys-Bitcoin-sales-a-newspaper-headline-bottom-that-lined-up-with-all-12-of-the-firms-capitulation-signals-firing",
+    "source": "@coinmarketcap",
+    "published": "Thu Aug 27 2026 03:35:10 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -18,6 +39,20 @@
     "link": "https://cryptopanic.com/news/33281955/Elizabeth-Warren-Says-Trump-Most-Corrupt-President-in-American-History-Calls-His-14-Billion-Crypto-Windfall-Scam",
     "source": "feeds2.benzinga.com",
     "published": "Thu Aug 27 2026 03:12:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Jim Cramer Says Falling Oil Prices Make PepsiCo His Next Stock Pick",
+    "link": "https://cryptopanic.com/news/33282006/Jim-Cramer-Says-Falling-Oil-Prices-Make-PepsiCo-His-Next-Stock-Pick",
+    "source": "beincrypto.com",
+    "published": "Thu Aug 27 2026 03:05:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Michael Burry Shorts This AI Giant, Then Buys Calls as a Hedge: Why?",
+    "link": "https://cryptopanic.com/news/33282005/Michael-Burry-Shorts-This-AI-Giant-Then-Buys-Calls-as-a-Hedge-Why",
+    "source": "beincrypto.com",
+    "published": "Thu Aug 27 2026 03:01:07 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33281751/China-Shock-20-Shows-US-Tariffs-Falling-Short-Setser-Says",
     "source": "catenaa.com",
     "published": "Thu Aug 27 2026 02:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nvidia's Record Results Aren't ‘Impressive Enough' Because It's Sold Out, Analyst Says",
-    "link": "https://cryptopanic.com/news/33281810/Nvidias-Record-Results-Arent-Impressive-Enough-Because-Its-Sold-Out-Analyst-Says",
-    "source": "beincrypto.com",
-    "published": "Thu Aug 27 2026 02:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Mysterious whale 0x6436 keeps buying $HYPE.\n\nIn just the past 2 days, the whale has bought 387,952 $HYPE ($31.5M) through Hyperliquid, OKX, Bybit, and Gate.",
-    "link": "https://cryptopanic.com/news/33281781/Mysterious-whale-0x6436-keeps-buying-HYPE-In-just-the-past-2-days-the-whale-has-bought-387952-HYPE-315M-through-Hyperliquid-OKX-Bybit-and-Gate",
-    "source": "@lookonchain",
-    "published": "Thu Aug 27 2026 01:58:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Franklin Templeton is bringing its tokenised U.S. government funds to Asian investors through HashKey!\n\nThe $1.8T asset manager who has historic ties to @StellarOrg through BENJI.\n\nThis collab is bringing access to Asian investors to tokenised U.S. government debt onchain",
-    "link": "https://cryptopanic.com/news/33281748/Franklin-Templeton-is-bringing-its-tokenised-US-government-funds-to-Asian-investors-through-HashKey-The-18T-asset-manager-who-has-historic-ties-to-StellarOrg-through-BENJI-This-collab-is-bringing-access-to-Asian-investors-to-tokenised-US-government-debt-onchain",
-    "source": "@realallincrypto",
-    "published": "Thu Aug 27 2026 01:45:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ondo's activity metrics are only moving one way...\n\n@Ondo's weekly active addresses have done nothing but climb upwards over the past three years.\n\nFrom around 5,000-6,000 this time last year, $ONDO's weekly usership has grown to around the 22,000 level at time of writing, per",
-    "link": "https://cryptopanic.com/news/33281749/Ondos-activity-metrics-are-only-moving-one-way-Ondos-weekly-active-addresses-have-done-nothing-but-climb-upwards-over-the-past-three-years-From-around-5000-6000-this-time-last-year-ONDOs-weekly-usership-has-grown-to-around-the-22000-level-at-time-of-writing-per",
-    "source": "@bscnews",
-    "published": "Thu Aug 27 2026 01:31:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: OpenAI CEO Sam Altman says that “by the end of the year the company would have an internal system he would call AGI.”",
-    "link": "https://cryptopanic.com/news/33281746/NEW-OpenAI-CEO-Sam-Altman-says-that-by-the-end-of-the-year-the-company-would-have-an-internal-system-he-would-call-AGI",
-    "source": "@cointelegraph",
-    "published": "Thu Aug 27 2026 01:30:55 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
