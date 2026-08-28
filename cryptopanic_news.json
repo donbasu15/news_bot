@@ -1,5 +1,54 @@
 [
   {
+    "title": "Bitcoin Rally Faces a Massive $6.36B Options Expiry Test Today",
+    "link": "https://cryptopanic.com/news/33291216/Bitcoin-Rally-Faces-a-Massive-636B-Options-Expiry-Test-Today",
+    "source": "cryptopotato.com",
+    "published": "Fri Aug 28 2026 11:05:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto Tax: 240 UK Taxpayers Report £1M Gains – What Changes?",
+    "link": "https://cryptopanic.com/news/33291189/Crypto-Tax-240-UK-Taxpayers-Report-1M-Gains-What-Changes",
+    "source": "coindoo.com",
+    "published": "Fri Aug 28 2026 11:03:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "240 Crypto Millionaires Booked Over Half of Britain's Taxable Crypto Gains",
+    "link": "https://cryptopanic.com/news/33291167/240-Crypto-Millionaires-Booked-Over-Half-of-Britains-Taxable-Crypto-Gains",
+    "source": "decrypt.co",
+    "published": "Fri Aug 28 2026 11:03:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Circle strikes Chelsea front-of-shirt sponsorship deal featuring USDC",
+    "link": "https://cryptopanic.com/news/33291155/Circle-strikes-Chelsea-front-of-shirt-sponsorship-deal-featuring-USDC",
+    "source": "theblock.co",
+    "published": "Fri Aug 28 2026 11:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CARF Captures Just 14% of $457B in Taxable Onchain Crypto Activity",
+    "link": "https://cryptopanic.com/news/33291156/CARF-Captures-Just-14-of-457B-in-Taxable-Onchain-Crypto-Activity",
+    "source": "coinpaprika.com",
+    "published": "Fri Aug 28 2026 11:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ICP Protected Itself from AI-Powered Attacks... \n\nAccording to Founder @dominic_w, the Internet Computer network (@dfinity) has successfully protected itself from a widespread, AI-powered attack involving several hundred canisters running malicious Wasm modules.\n\n\"Last night, the",
+    "link": "https://cryptopanic.com/news/33291143/ICP-Protected-Itself-from-AI-Powered-Attacks-According-to-Founder-dominic_w-the-Internet-Computer-network-dfinity-has-successfully-protected-itself-from-a-widespread-AI-powered-attack-involving-several-hundred-canisters-running-malicious-Wasm-modules-Last-night-the",
+    "source": "@bscnews",
+    "published": "Fri Aug 28 2026 10:56:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Kevin Warsh’s Jackson Hole Speech Could Shake Markets, Fed Rate Hike Odds Climb",
+    "link": "https://cryptopanic.com/news/33291128/Kevin-Warshs-Jackson-Hole-Speech-Could-Shake-Markets-Fed-Rate-Hike-Odds-Climb",
+    "source": "coinpaper.com",
+    "published": "Fri Aug 28 2026 10:54:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "What is Plume Network?\n\nPlume (@plumenetwork) is a blockchain built specifically for bringing real-world assets onchain and making them usable in DeFi.\n\nUnlike blockchains that treat tokenization as just another application, Plume is building an entire financial ecosystem around",
     "link": "https://cryptopanic.com/news/33291142/What-is-Plume-Network-Plume-plumenetwork-is-a-blockchain-built-specifically-for-bringing-real-world-assets-onchain-and-making-them-usable-in-DeFi-Unlike-blockchains-that-treat-tokenization-as-just-another-application-Plume-is-building-an-entire-financial-ecosystem-around",
     "source": "@bscnews",
@@ -158,55 +207,6 @@
     "link": "https://cryptopanic.com/news/33254328/Bitcoin-Asia-2026-Day-2-Livestream",
     "source": "BitcoinMagazine",
     "published": "Fri Aug 28 2026 10:15:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Evernorth Advances $1 Billion XRP Treasury Deal Toward Nasdaq Listing\n\nEvernorth said the SEC has declared effective its Form S-4 registration statement for the proposed merger with Armada Acquisition Corp. II, with a shareholder vote scheduled for September 30. If approved and",
-    "link": "https://cryptopanic.com/news/33291085/Evernorth-Advances-1-Billion-XRP-Treasury-Deal-Toward-Nasdaq-Listing-Evernorth-said-the-SEC-has-declared-effective-its-Form-S-4-registration-statement-for-the-proposed-merger-with-Armada-Acquisition-Corp-II-with-a-shareholder-vote-scheduled-for-September-30-If-approved-and",
-    "source": "@wublockchain",
-    "published": "Fri Aug 28 2026 10:14:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Judge Rules Trump Administration Illegally Retaliated Against Anthropic Over AI Red Lines",
-    "link": "https://cryptopanic.com/news/33290825/Judge-Rules-Trump-Administration-Illegally-Retaliated-Against-Anthropic-Over-AI-Red-Lines",
-    "source": "decrypt.co",
-    "published": "Fri Aug 28 2026 10:11:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stellar Takes Protocol 28 Closer To Mainnet With Testnet Launch\n\nStellar (@StellarOrg) has launched its Adapter (Protocol 28) on testnet ahead of September’s mainnet upgrade vote.\n\nThe network says the release focuses on improving tools for JavaScript and TypeScript developers.",
-    "link": "https://cryptopanic.com/news/33290850/Stellar-Takes-Protocol-28-Closer-To-Mainnet-With-Testnet-Launch-Stellar-StellarOrg-has-launched-its-Adapter-Protocol-28-on-testnet-ahead-of-Septembers-mainnet-upgrade-vote-The-network-says-the-release-focuses-on-improving-tools-for-JavaScript-and-TypeScript-developers",
-    "source": "@bscnews",
-    "published": "Fri Aug 28 2026 10:05:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: Fed Chair Warsh speaks at Jackson Hole at 10am ET today, markets watching for any signal on whether the Fed will support the Treasury's $4B bond buyback program.",
-    "link": "https://cryptopanic.com/news/33290844/LATEST-Fed-Chair-Warsh-speaks-at-Jackson-Hole-at-10am-ET-today-markets-watching-for-any-signal-on-whether-the-Fed-will-support-the-Treasurys-4B-bond-buyback-program",
-    "source": "@coindesk",
-    "published": "Fri Aug 28 2026 10:05:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33291084/Source",
-    "source": "@wublockchain",
-    "published": "Fri Aug 28 2026 10:05:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Whales Yank 231 Million XRP From Binance — Largest Withdrawal in 6 Months",
-    "link": "https://cryptopanic.com/news/33291127/Whales-Yank-231-Million-XRP-From-Binance-Largest-Withdrawal-in-6-Months",
-    "source": "beincrypto.com",
-    "published": "Fri Aug 28 2026 10:03:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇯🇵 UPDATE: Metaplanet's Dylan LeClair says Metaplanet ranked 33rd among Japanese equities by value traded.",
-    "link": "https://cryptopanic.com/news/33290846/UPDATE-Metaplanets-Dylan-LeClair-says-Metaplanet-ranked-33rd-among-Japanese-equities-by-value-traded",
-    "source": "@cointelegraph",
-    "published": "Fri Aug 28 2026 10:01:18 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
