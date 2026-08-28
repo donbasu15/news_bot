@@ -1,9 +1,58 @@
 [
   {
+    "title": "Ninth Circuit deals blow to Kalshi in Nevada sports betting fight, challenging CFTC’s exclusive jurisdiction claim",
+    "link": "https://cryptopanic.com/news/33294062/Ninth-Circuit-deals-blow-to-Kalshi-in-Nevada-sports-betting-fight-challenging-CFTCs-exclusive-jurisdiction-claim",
+    "source": "theblock.co",
+    "published": "Fri Aug 28 2026 19:50:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitwise Solana ETF Crosses $1 Billion Mark",
+    "link": "https://cryptopanic.com/news/33294065/Bitwise-Solana-ETF-Crosses-1-Billion-Mark",
+    "source": "cryptoprowl.com",
+    "published": "Fri Aug 28 2026 19:48:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Treasury Company Gets One Step Closer to Listing on Nasdaq",
+    "link": "https://cryptopanic.com/news/33294059/XRP-Treasury-Company-Gets-One-Step-Closer-to-Listing-on-Nasdaq",
+    "source": "decrypt.co",
+    "published": "Fri Aug 28 2026 19:46:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The Total Altcoin Market Cap made a nice move right into resistance.\n\nFor continuation of the bounce, it will need to break above this area which held as support/resistance for the past 2 years.",
+    "link": "https://cryptopanic.com/news/33294074/The-Total-Altcoin-Market-Cap-made-a-nice-move-right-into-resistance-For-continuation-of-the-bounce-it-will-need-to-break-above-this-area-which-held-as-supportresistance-for-the-past-2-years",
+    "source": "@daancrypto",
+    "published": "Fri Aug 28 2026 19:45:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: $2B Strive potentially buys another $66M in Bitcoin.\n\n• Enough volume for 843 BTC this week\n\n• Capital raised via preferred shares $SATA",
+    "link": "https://cryptopanic.com/news/33294051/JUST-IN-2B-Strive-potentially-buys-another-66M-in-Bitcoin-Enough-volume-for-843-BTC-this-week-Capital-raised-via-preferred-shares-SATA",
+    "source": "@btc_archive",
+    "published": "Fri Aug 28 2026 19:44:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: a16z has raised a $1.1 billion Machine Age Fund to invest in AI infrastructure, from chips and data centers to robotics and power.",
+    "link": "https://cryptopanic.com/news/33294072/NEW-a16z-has-raised-a-11-billion-Machine-Age-Fund-to-invest-in-AI-infrastructure-from-chips-and-data-centers-to-robotics-and-power",
+    "source": "@cointelegraph",
+    "published": "Fri Aug 28 2026 19:40:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin's biggest rival for global monetary supremacy.\n\nSpot the difference. 🤡",
     "link": "https://cryptopanic.com/news/33294047/Bitcoins-biggest-rival-for-global-monetary-supremacy-Spot-the-difference",
     "source": "@btc_archive",
     "published": "Fri Aug 28 2026 19:40:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Stellar validators choose for themselves which nodes to trust\n\nProof of work secures a chain with hashpower, and proof of stake with locked tokens. Stellar (@StellarOrg) uses neither.\n\nEach validator publishes a quorum slice, its own list of nodes it trusts. Overlap between those",
+    "link": "https://cryptopanic.com/news/33294077/Stellar-validators-choose-for-themselves-which-nodes-to-trust-Proof-of-work-secures-a-chain-with-hashpower-and-proof-of-stake-with-locked-tokens-Stellar-StellarOrg-uses-neither-Each-validator-publishes-a-quorum-slice-its-own-list-of-nodes-it-trusts-Overlap-between-those",
+    "source": "@bscnews",
+    "published": "Fri Aug 28 2026 19:39:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -21,10 +70,31 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Bitcoin, Bonds, and Stocks Enter a Dangerous September Pattern",
+    "link": "https://cryptopanic.com/news/33294061/Bitcoin-Bonds-and-Stocks-Enter-a-Dangerous-September-Pattern",
+    "source": "beincrypto.com",
+    "published": "Fri Aug 28 2026 19:25:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST:  Visa is partnering with Upbit parent Dunamu to explore stablecoin payments, cross-border remittances, and AI-powered commerce.",
     "link": "https://cryptopanic.com/news/33294052/LATEST-Visa-is-partnering-with-Upbit-parent-Dunamu-to-explore-stablecoin-payments-cross-border-remittances-and-AI-powered-commerce",
     "source": "@coinmarketcap",
     "published": "Fri Aug 28 2026 19:25:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Analysts track ongoing exploit draining Avici user accounts as its token drops over 43%\n\nOn-chain researchers say an attacker gained admin rights over more than 1,100 collateral accounts on the Solana neobank and is draining card balances in thousands of small transactions, with",
+    "link": "https://cryptopanic.com/news/33294076/Analysts-track-ongoing-exploit-draining-Avici-user-accounts-as-its-token-drops-over-43-On-chain-researchers-say-an-attacker-gained-admin-rights-over-more-than-1100-collateral-accounts-on-the-Solana-neobank-and-is-draining-card-balances-in-thousands-of-small-transactions-with",
+    "source": "@bscnews",
+    "published": "Fri Aug 28 2026 19:23:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "️ LATEST: Claude’s automated researchers closed 26% to 96% of the safety gap across 10 alignment failures, outperforming human researchers in tests.",
+    "link": "https://cryptopanic.com/news/33294071/LATEST-Claudes-automated-researchers-closed-26-to-96-of-the-safety-gap-across-10-alignment-failures-outperforming-human-researchers-in-tests",
+    "source": "@cointelegraph",
+    "published": "Fri Aug 28 2026 19:20:59 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/33293832/Crazy-Ripple-Prediction-Is-XRP-Preparing-for-a-1000-Explosion",
     "source": "cryptopotato.com",
     "published": "Fri Aug 28 2026 18:49:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Wall Street Is Moving Onchain Faster Than Most Investors Realize",
-    "link": "https://cryptopanic.com/news/33293874/Wall-Street-Is-Moving-Onchain-Faster-Than-Most-Investors-Realize",
-    "source": "MilkRoadYoutube",
-    "published": "Fri Aug 28 2026 18:45:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Kevin Warsh hinted the Fed may need to raise rates to curb inflation, in what Reuters reporter Ann Saphir called his first substantive remarks on the economy since becoming Fed Chair",
-    "link": "https://cryptopanic.com/news/33293944/Kevin-Warsh-hinted-the-Fed-may-need-to-raise-rates-to-curb-inflation-in-what-Reuters-reporter-Ann-Saphir-called-his-first-substantive-remarks-on-the-economy-since-becoming-Fed-Chair",
-    "source": "@reutersbiz",
-    "published": "Fri Aug 28 2026 18:45:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 UPDATE: September Fed hike odds are now a near coin flip, with futures markets pricing a 56% chance of a 25-basis-point increase.",
-    "link": "https://cryptopanic.com/news/33293942/UPDATE-September-Fed-hike-odds-are-now-a-near-coin-flip-with-futures-markets-pricing-a-56-chance-of-a-25-basis-point-increase",
-    "source": "@cointelegraph",
-    "published": "Fri Aug 28 2026 18:40:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 $13 trillion Charles Schwab says \"We've really seen a rebirth of the debasement trade, whether you're looking at gold and precious metals or cryptocurrencies such as Bitcoin.\"",
-    "link": "https://cryptopanic.com/news/33293804/JUST-IN-13-trillion-Charles-Schwab-says-Weve-really-seen-a-rebirth-of-the-debasement-trade-whether-youre-looking-at-gold-and-precious-metals-or-cryptocurrencies-such-as-Bitcoin",
-    "source": "@bitcoinmagazine",
-    "published": "Fri Aug 28 2026 18:38:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Clearstar's XRP yield vault lifts its deposit cap again\n\nThe vault holds 33.73 million FXRP. ripple:native represented one-to-one on Flare (@FlareNetworks), worth around $46.5 million against a 5 million token cap at its December launch. Flare posted that the cap had been raised",
-    "link": "https://cryptopanic.com/news/33293948/Clearstars-XRP-yield-vault-lifts-its-deposit-cap-again-The-vault-holds-3373-million-FXRP-ripplenative-represented-one-to-one-on-Flare-FlareNetworks-worth-around-465-million-against-a-5-million-token-cap-at-its-December-launch-Flare-posted-that-the-cap-had-been-raised",
-    "source": "@bscnews",
-    "published": "Fri Aug 28 2026 18:35:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Schwab Takes Aim at Crypto Exchanges With SOL, AVAX and LINK",
-    "link": "https://cryptopanic.com/news/33293746/Schwab-Takes-Aim-at-Crypto-Exchanges-With-SOL-AVAX-and-LINK",
-    "source": "dailycoin.com",
-    "published": "Fri Aug 28 2026 18:35:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HMRC Data: 240 UK Crypto Millionaires Hold 52% of Sector Gains",
-    "link": "https://cryptopanic.com/news/33293951/HMRC-Data-240-UK-Crypto-Millionaires-Hold-52-of-Sector-Gains",
-    "source": "cryptodnes.bg",
-    "published": "Fri Aug 28 2026 18:31:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin buy orders stacking between $76k and $77.5k\n\nIs $79k next?",
-    "link": "https://cryptopanic.com/news/33293875/Bitcoin-buy-orders-stacking-between-76k-and-775k-Is-79k-next",
-    "source": "@btc_archive",
-    "published": "Fri Aug 28 2026 18:31:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "I like Cardano",
-    "link": "https://cryptopanic.com/news/33293881/I-like-Cardano",
-    "source": "@angrycryptoshow",
-    "published": "Fri Aug 28 2026 18:31:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Plunges to $78,000 After Jackson Hole but Crypto Bulls Stay Upbeat",
-    "link": "https://cryptopanic.com/news/33293800/Bitcoin-Plunges-to-78000-After-Jackson-Hole-but-Crypto-Bulls-Stay-Upbeat",
-    "source": "feeds2.benzinga.com",
-    "published": "Fri Aug 28 2026 18:31:13 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
