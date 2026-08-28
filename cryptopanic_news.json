@@ -1,5 +1,12 @@
 [
   {
+    "title": "LATEST:  Grayscale head of research Zach Pandl says Bitcoin's correlation with gold has surged to above 50% as its Nasdaq correlation falls to ~33%, signaling a regime shift toward the debasement trade.",
+    "link": "https://cryptopanic.com/news/33288842/LATEST-Grayscale-head-of-research-Zach-Pandl-says-Bitcoins-correlation-with-gold-has-surged-to-above-50-as-its-Nasdaq-correlation-falls-to-33-signaling-a-regime-shift-toward-the-debasement-trade",
+    "source": "@coinmarketcap",
+    "published": "Fri Aug 28 2026 03:35:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "️ Need to catch up on the news? Here's our top 10 from today:\n\n X's Safety team says it uncovered a 200,000-account Chinese bot farm, with 200 accounts posting AI-generated content designed to manipulate the debate around American AI and energy policy.\n\n Bitcoin just posted",
     "link": "https://cryptopanic.com/news/33288800/Need-to-catch-up-on-the-news-Heres-our-top-10-from-today-Xs-Safety-team-says-it-uncovered-a-200000-account-Chinese-bot-farm-with-200-accounts-posting-AI-generated-content-designed-to-manipulate-the-debate-around-American-AI-and-energy-policy-Bitcoin-just-posted",
     "source": "@cointelegraph",
@@ -25,6 +32,13 @@
     "link": "https://cryptopanic.com/news/33288786/Ethereum-and-Solana-are-hosting-trillions-in-dollar-volume-yet-their-native-tokens-risk-losing-direct-consumer-demand",
     "source": "cryptoslate.com",
     "published": "Fri Aug 28 2026 03:20:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "OneKey Founder Says Team “Hacked” the Largest Hardware Wallet, Ledger\n\nOneKey founder Yishi said the OneKey Anzen team reproduced a transaction-replacement attack on Ledger Ethereum App 1.22.1 in the lab. He said a race condition between display logic and the transaction buffer",
+    "link": "https://cryptopanic.com/news/33288843/OneKey-Founder-Says-Team-Hacked-the-Largest-Hardware-Wallet-Ledger-OneKey-founder-Yishi-said-the-OneKey-Anzen-team-reproduced-a-transaction-replacement-attack-on-Ledger-Ethereum-App-1221-in-the-lab-He-said-a-race-condition-between-display-logic-and-the-transaction-buffer",
+    "source": "@wublockchain",
+    "published": "Fri Aug 28 2026 03:17:49 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33288514/TODAY-Bitwise-president-Teddy-Fusaro-says-BSOL-volume-smashed-Mondays-record-marking-the-highest-single-day-trading-volume-ever-for-a-Solana-ETF-The-fund-has-now-traded-500mm-total-over-its-first-7-sessions",
     "source": "@cointelegraph",
     "published": "Fri Aug 28 2026 01:31:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: $81,000 Bitcoin",
-    "link": "https://cryptopanic.com/news/33288450/JUST-IN-81000-Bitcoin",
-    "source": "@watcherguru",
-    "published": "Fri Aug 28 2026 01:20:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ESA signs three launcher contracts, each must reach orbit before 2028",
-    "link": "https://cryptopanic.com/news/33288412/ESA-signs-three-launcher-contracts-each-must-reach-orbit-before-2028",
-    "source": "cryptopolitan.com",
-    "published": "Fri Aug 28 2026 01:13:41 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
