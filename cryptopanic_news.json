@@ -1,5 +1,61 @@
 [
   {
+    "title": "Zcash Price Pauses After 80% Rally – 2 Levels Hold the Key",
+    "link": "https://cryptopanic.com/news/33289606/Zcash-Price-Pauses-After-80-Rally-2-Levels-Hold-the-Key",
+    "source": "coindoo.com",
+    "published": "Fri Aug 28 2026 06:39:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "️ NEW: President Trump's crypto ventures left investors at least $4.7 billion underwater since 2022, per Public Citizen, with the bulk of losses coming from his $TRUMP memecoin.",
+    "link": "https://cryptopanic.com/news/33289562/NEW-President-Trumps-crypto-ventures-left-investors-at-least-47-billion-underwater-since-2022-per-Public-Citizen-with-the-bulk-of-losses-coming-from-his-TRUMP-memecoin",
+    "source": "@cointelegraph",
+    "published": "Fri Aug 28 2026 06:30:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CZ Says Tokenization Could Draw FDI, Warns of Fragmentation",
+    "link": "https://cryptopanic.com/news/33289557/CZ-Says-Tokenization-Could-Draw-FDI-Warns-of-Fragmentation",
+    "source": "catenaa.com",
+    "published": "Fri Aug 28 2026 06:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cardano to Bring Bitcoin Lightning Style Payments To ADA\n\nCardano (@cardano) developers have revealed a new state channel system called Cardano Lightning.\n\nThe architecture borrows from Bitcoin’s Lightning Network but is built for Cardano’s eUTXO model. It combines an LDK Node",
+    "link": "https://cryptopanic.com/news/33289566/Cardano-to-Bring-Bitcoin-Lightning-Style-Payments-To-ADA-Cardano-cardano-developers-have-revealed-a-new-state-channel-system-called-Cardano-Lightning-The-architecture-borrows-from-Bitcoins-Lightning-Network-but-is-built-for-Cardanos-eUTXO-model-It-combines-an-LDK-Node",
+    "source": "@bscnews",
+    "published": "Fri Aug 28 2026 06:28:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Solana’s faster supply cuts lead vote while $800,000 daily burn plan trails",
+    "link": "https://cryptopanic.com/news/33289611/Solanas-faster-supply-cuts-lead-vote-while-800000-daily-burn-plan-trails",
+    "source": "coindesk.com",
+    "published": "Fri Aug 28 2026 06:22:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MANTRA Chain is back online, but silent code changes spark developer concerns",
+    "link": "https://cryptopanic.com/news/33289540/MANTRA-Chain-is-back-online-but-silent-code-changes-spark-developer-concerns",
+    "source": "cryptoslate.com",
+    "published": "Fri Aug 28 2026 06:20:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Peter Brandt Reveals He Is Long Bitcoin",
+    "link": "https://cryptopanic.com/news/33289552/Peter-Brandt-Reveals-He-Is-Long-Bitcoin",
+    "source": "u.today",
+    "published": "Fri Aug 28 2026 06:15:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Rising AI Cyberattacks Fuel Demand for CrowdStrike, Sending Stock Up 20.5%",
+    "link": "https://cryptopanic.com/news/33289633/Rising-AI-Cyberattacks-Fuel-Demand-for-CrowdStrike-Sending-Stock-Up-205",
+    "source": "beincrypto.com",
+    "published": "Fri Aug 28 2026 06:15:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Live chart",
     "link": "https://cryptopanic.com/news/33289499/Live-chart",
     "source": "@cryptoquant_com",
@@ -11,6 +67,27 @@
     "link": "https://cryptopanic.com/news/33289497/Stablecoin-growth-and-Circles-valuation-are-moving-in-tandem-USDC-7153B-7355BCircle-54-90-The-signal-is-getting-clearer-investors-appear-to-be-pricing-USDCs-expansion-into-CRCL",
     "source": "@cryptoquant_com",
     "published": "Fri Aug 28 2026 06:12:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Stellar’s RWA Boom Has Yet to Reach DeFi\n\nStellar’s (@StellarOrg) tokenized real world asset market has crossed $3 billion in July from roughly $785 million in January, according to RedStone.\n\nMajor growth came from tokenized Treasuries, money market funds and corporate credit.",
+    "link": "https://cryptopanic.com/news/33289565/Stellars-RWA-Boom-Has-Yet-to-Reach-DeFi-Stellars-StellarOrg-tokenized-real-world-asset-market-has-crossed-3-billion-in-July-from-roughly-785-million-in-January-according-to-RedStone-Major-growth-came-from-tokenized-Treasuries-money-market-funds-and-corporate-credit",
+    "source": "@bscnews",
+    "published": "Fri Aug 28 2026 06:11:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "️ What happens when Bitcoin reaches $1 million?\n\n@CryptoMichNL says the entire financial system is cooked if Bitcoin hits $1 million.\n\nWatch the latest #CHAINREACTION.",
+    "link": "https://cryptopanic.com/news/33289561/What-happens-when-Bitcoin-reaches-1-million-CryptoMichNL-says-the-entire-financial-system-is-cooked-if-Bitcoin-hits-1-million-Watch-the-latest-CHAINREACTION",
+    "source": "@cointelegraph",
+    "published": "Fri Aug 28 2026 06:01:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇵🇰 Chairman of Pakistan's Virtual Assets Regulatory Authority on establishing a Strategic Bitcoin Reserve:\n\n\"It's about the future. It's about preparing for the future.\"",
+    "link": "https://cryptopanic.com/news/33289635/JUST-IN-Chairman-of-Pakistans-Virtual-Assets-Regulatory-Authority-on-establishing-a-Strategic-Bitcoin-Reserve-Its-about-the-future-Its-about-preparing-for-the-future",
+    "source": "@bitcoinmagazine",
+    "published": "Fri Aug 28 2026 06:01:09 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -46,6 +123,20 @@
     "link": "https://cryptopanic.com/news/33289494/LATEST-DeFi-Development-Corp-resumed-its-Solana-buys-acquiring-roughly-19000-SOL-at-an-average-9814-to-bring-its-treasury-to-about-233M-SOL-and-SOL-equivalents",
     "source": "@coinmarketcap",
     "published": "Fri Aug 28 2026 05:52:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Polkadot Staking ETF Gets Key DTCC Listing\n\n21Shares’ Polkadot Staking ETF has been listed by DTCC under the ticker TDOT.\n\nThe fund was renamed from the \"21Shares Polkadot ETF\" to the “21Shares Polkadot Staking ETF,” on August 27.\n\nTDOT holds polkadot:native and stakes between",
+    "link": "https://cryptopanic.com/news/33289564/Polkadot-Staking-ETF-Gets-Key-DTCC-Listing-21Shares-Polkadot-Staking-ETF-has-been-listed-by-DTCC-under-the-ticker-TDOT-The-fund-was-renamed-from-the-21Shares-Polkadot-ETF-to-the-21Shares-Polkadot-Staking-ETF-on-August-27-TDOT-holds-polkadotnative-and-stakes-between",
+    "source": "@bscnews",
+    "published": "Fri Aug 28 2026 05:50:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "WATCH: Lefties opened in Liverpool as Zara owner Inditex launched its most affordable brand in the UK, stretching its fashion empire further to meet growing demand from inflation-hit shoppers looking for value",
+    "link": "https://cryptopanic.com/news/33289563/WATCH-Lefties-opened-in-Liverpool-as-Zara-owner-Inditex-launched-its-most-affordable-brand-in-the-UK-stretching-its-fashion-empire-further-to-meet-growing-demand-from-inflation-hit-shoppers-looking-for-value",
+    "source": "@reutersbiz",
+    "published": "Fri Aug 28 2026 05:50:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -116,97 +207,6 @@
     "link": "https://cryptopanic.com/news/33289258/Bitcoin-Posted-Its-Largest-Weekly-Dollar-Gain-on-Record-Last-Week-and-Its-Biggest-Weekly-Percentage-Gain-Since-March-2023-According-to-Galaxy-Research-Bitcoin-rose-from-62818-to-77593-last-week-from-Aug-17-to-Aug-23-for-a-weekly-gain-of-14775-the-largest-weekly",
     "source": "@wublockchain",
     "published": "Fri Aug 28 2026 05:09:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Clearing firm RQD* Clearing raised $74M, led by Bain Capital, to build out digital asset and tokenization infrastructure for institutions.",
-    "link": "https://cryptopanic.com/news/33289256/LATEST-Clearing-firm-RQD-Clearing-raised-74M-led-by-Bain-Capital-to-build-out-digital-asset-and-tokenization-infrastructure-for-institutions",
-    "source": "@coinmarketcap",
-    "published": "Fri Aug 28 2026 05:05:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin is trading at a premium on Coinbase after a long time. Here's what it means",
-    "link": "https://cryptopanic.com/news/33289187/Bitcoin-is-trading-at-a-premium-on-Coinbase-after-a-long-time-Heres-what-it-means",
-    "source": "coindesk.com",
-    "published": "Fri Aug 28 2026 05:02:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Mirae Asset Targets $109 Billion Digital Asset Business Built Around Digital X",
-    "link": "https://cryptopanic.com/news/33289135/Mirae-Asset-Targets-109-Billion-Digital-Asset-Business-Built-Around-Digital-X",
-    "source": "www.blockhead.co",
-    "published": "Fri Aug 28 2026 05:01:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Smart Contract Wallets Explained: Features and Security",
-    "link": "https://cryptopanic.com/news/33289137/Smart-Contract-Wallets-Explained-Features-and-Security",
-    "source": "techgaged.com",
-    "published": "Fri Aug 28 2026 05:01:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 NEW: US federal authorities are preparing insider trading charges against a servicemember who made over $1M betting on Polymarket using knowledge of military operations, per WSJ.",
-    "link": "https://cryptopanic.com/news/33289299/NEW-US-federal-authorities-are-preparing-insider-trading-charges-against-a-servicemember-who-made-over-1M-betting-on-Polymarket-using-knowledge-of-military-operations-per-WSJ",
-    "source": "@cointelegraph",
-    "published": "Fri Aug 28 2026 05:01:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin ETFs Extend Inflow Streak to 9 Days With $242M Added",
-    "link": "https://cryptopanic.com/news/33289240/Bitcoin-ETFs-Extend-Inflow-Streak-to-9-Days-With-242M-Added",
-    "source": "beincrypto.com",
-    "published": "Fri Aug 28 2026 05:01:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "5 infrastructure requirements institutional traders demand from crypto venues",
-    "link": "https://cryptopanic.com/news/33288780/5-infrastructure-requirements-institutional-traders-demand-from-crypto-venues",
-    "source": "cryptovalleyjournal.com",
-    "published": "Fri Aug 28 2026 05:00:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Vietnam Speeds Crypto Pilot Under FATF Pressure",
-    "link": "https://cryptopanic.com/news/33289115/Vietnam-Speeds-Crypto-Pilot-Under-FATF-Pressure",
-    "source": "catenaa.com",
-    "published": "Fri Aug 28 2026 05:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Japan Anime Industry Gets Bitcoin Payment Platform\n\nJapan Bitcoin Industry (JBI) has introduced Aurora at Bitcoin Asia 2026 in Hong Kong.\n\nThe platform helps Japanese merchants accept Bitcoin bitcoin:native from customers worldwide. It targets anime, manga, games and other",
-    "link": "https://cryptopanic.com/news/33289117/Japan-Anime-Industry-Gets-Bitcoin-Payment-Platform-Japan-Bitcoin-Industry-JBI-has-introduced-Aurora-at-Bitcoin-Asia-2026-in-Hong-Kong-The-platform-helps-Japanese-merchants-accept-Bitcoin-bitcoinnative-from-customers-worldwide-It-targets-anime-manga-games-and-other",
-    "source": "@bscnews",
-    "published": "Fri Aug 28 2026 04:57:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Spot bitcoin:native ETFs have now seen >$3B of net inflows over the past 9 days.\n\nTradfi is accumulating bitcoin again.",
-    "link": "https://cryptopanic.com/news/33289255/Spot-bitcoinnative-ETFs-have-now-seen-gt3B-of-net-inflows-over-the-past-9-days-Tradfi-is-accumulating-bitcoin-again",
-    "source": "@stackersatoshi",
-    "published": "Fri Aug 28 2026 04:55:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The GTA 6 Leak Saga May Be Over — the Money Trail Shows Where It Went",
-    "link": "https://cryptopanic.com/news/33289239/The-GTA-6-Leak-Saga-May-Be-Over-the-Money-Trail-Shows-Where-It-Went",
-    "source": "beincrypto.com",
-    "published": "Fri Aug 28 2026 04:51:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethena’s USDe Surpasses $320 Million on Robinhood Chain Within 8 Weeks of Launch, Accounting for 42% of the Chain’s Stablecoin Supply\n\nAccording to Token Terminal data, Ethena’s USDe surpassed $320 million on Robinhood Chain within eight weeks of launch and currently accounts for",
-    "link": "https://cryptopanic.com/news/33289257/Ethenas-USDe-Surpasses-320-Million-on-Robinhood-Chain-Within-8-Weeks-of-Launch-Accounting-for-42-of-the-Chains-Stablecoin-Supply-According-to-Token-Terminal-data-Ethenas-USDe-surpassed-320-million-on-Robinhood-Chain-within-eight-weeks-of-launch-and-currently-accounts-for",
-    "source": "@wublockchain",
-    "published": "Fri Aug 28 2026 04:50:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Upbit's operator Dunamu has entered a strategic partnership with Visa to build next-gen financial and payment services around stablecoins and AI.",
-    "link": "https://cryptopanic.com/news/33289112/JUST-IN-Upbits-operator-Dunamu-has-entered-a-strategic-partnership-with-Visa-to-build-next-gen-financial-and-payment-services-around-stablecoins-and-AI",
-    "source": "@cointelegraph",
-    "published": "Fri Aug 28 2026 04:46:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
