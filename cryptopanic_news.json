@@ -42,6 +42,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "LATEST:  Bitcoin treasury firm Capital B raised $24.5M in a private placement backed by Adam Back and TOBAM, planning to buy 270 BTC to increase its holdings to 3,415 BTC.",
+    "link": "https://cryptopanic.com/news/33294554/LATEST-Bitcoin-treasury-firm-Capital-B-raised-245M-in-a-private-placement-backed-by-Adam-Back-and-TOBAM-planning-to-buy-270-BTC-to-increase-its-holdings-to-3415-BTC",
+    "source": "@coinmarketcap",
+    "published": "Fri Aug 28 2026 21:17:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "BNB Chain hosts the majority of AI agent registrations tracked by 8004scan\n\nThe count on @BNBCHAIN stands at 289,765 agents registered under ERC-8004, the standard giving AI agents an on-chain identity, roughly 62% of the 468,600 across all 27 networks on explorer @8004_scan's",
     "link": "https://cryptopanic.com/news/33294452/BNB-Chain-hosts-the-majority-of-AI-agent-registrations-tracked-by-8004scan-The-count-on-BNBCHAIN-stands-at-289765-agents-registered-under-ERC-8004-the-standard-giving-AI-agents-an-on-chain-identity-roughly-62-of-the-468600-across-all-27-networks-on-explorer-8004_scans",
     "source": "@bscnews",
@@ -67,6 +74,13 @@
     "link": "https://cryptopanic.com/news/33294524/JUST-IN-BitGo-CEO-tells-CNBC-The-one-thing-thats-been-steady-is-the-thesis-behind-Bitcoin-continues-to-grow-and-so-all-these-products-behind-it-grow-Everybody-from-traditional-finance-is-announcing-their-products-and-plansits-just-been-growing-every-day",
     "source": "@bitcoinmagazine",
     "published": "Fri Aug 28 2026 21:13:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Solana Neobank Avici Hacked for $650,000. Token Crashes 40%",
+    "link": "https://cryptopanic.com/news/33294553/Solana-Neobank-Avici-Hacked-for-650000-Token-Crashes-40",
+    "source": "beincrypto.com",
+    "published": "Fri Aug 28 2026 21:07:40 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33294289/The-Fed-Is-Trapped-Bitcoin-Already-Knows",
     "source": "SimplyBitcoin",
     "published": "Fri Aug 28 2026 20:31:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin\"s 50 Week Moving Average: Is the Bottom In?!",
-    "link": "https://cryptopanic.com/news/33294288/Bitcoins-50-Week-Moving-Average-Is-the-Bottom-In",
-    "source": "SimplyBitcoin",
-    "published": "Fri Aug 28 2026 20:30:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Mirae Asset Targets $109 Billion Crypto Push",
-    "link": "https://cryptopanic.com/news/33294235/Mirae-Asset-Targets-109-Billion-Crypto-Push",
-    "source": "catenaa.com",
-    "published": "Fri Aug 28 2026 20:30:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
