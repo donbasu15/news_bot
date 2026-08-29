@@ -1,5 +1,47 @@
 [
   {
+    "title": "Justice Department Revises Chinese Hacking Claims, Clarifying Agencies Were Targets Not Victims",
+    "link": "https://cryptopanic.com/news/33296461/Justice-Department-Revises-Chinese-Hacking-Claims-Clarifying-Agencies-Were-Targets-Not-Victims",
+    "source": "dailyhodl.com",
+    "published": "Sat Aug 29 2026 09:15:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Reform UK conference draws tech giants as crypto industry takes a back seat",
+    "link": "https://cryptopanic.com/news/33296430/Reform-UK-conference-draws-tech-giants-as-crypto-industry-takes-a-back-seat",
+    "source": "cryptopolitan.com",
+    "published": "Sat Aug 29 2026 09:07:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto News: Grayscale Warns U.S. Debt Crisis Could Push Investors Toward BTC, ETH, and ZEC",
+    "link": "https://cryptopanic.com/news/33296436/Crypto-News-Grayscale-Warns-US-Debt-Crisis-Could-Push-Investors-Toward-BTC-ETH-and-ZEC",
+    "source": "thecoinrepublic.com",
+    "published": "Sat Aug 29 2026 09:06:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "None Of You Will Guess What Just Happened To Bitcoin Banks Are Getting Scared Of What Comes Next",
+    "link": "https://cryptopanic.com/news/33296462/None-Of-You-Will-Guess-What-Just-Happened-To-Bitcoin-Banks-Are-Getting-Scared-Of-What-Comes-Next",
+    "source": "TheModernInvestor",
+    "published": "Sat Aug 29 2026 09:03:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Best meme project?",
+    "link": "https://cryptopanic.com/news/33296442/Best-meme-project",
+    "source": "@coinmarketcap",
+    "published": "Sat Aug 29 2026 09:00:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BitGo Buys NYDIG's Trading Business as NYDIG Turns to Power and Mining",
+    "link": "https://cryptopanic.com/news/33296402/BitGo-Buys-NYDIGs-Trading-Business-as-NYDIG-Turns-to-Power-and-Mining",
+    "source": "coinpaprika.com",
+    "published": "Sat Aug 29 2026 09:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "ProShares XRP ETF Appears in SEC Filing as U.S. XRP Fund Market Grows",
     "link": "https://cryptopanic.com/news/33296385/ProShares-XRP-ETF-Appears-in-SEC-Filing-as-US-XRP-Fund-Market-Grows",
     "source": "coinpaper.com",
@@ -11,6 +53,13 @@
     "link": "https://cryptopanic.com/news/33296375/XRP-Ledgers-Quantum-Roadmap-Is-Back-in-Focus-Now-Comes-the-Hard-Part",
     "source": "coindoo.com",
     "published": "Sat Aug 29 2026 08:45:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Galaxy Research's Alex Thorn says Bitcoin is \"knocking on the door\" of its 50-week moving average, and a weekly close above it would historically suggest the bear market may be over.",
+    "link": "https://cryptopanic.com/news/33296441/LATEST-Galaxy-Researchs-Alex-Thorn-says-Bitcoin-is-knocking-on-the-door-of-its-50-week-moving-average-and-a-weekly-close-above-it-would-historically-suggest-the-bear-market-may-be-over",
+    "source": "@coinmarketcap",
+    "published": "Sat Aug 29 2026 08:41:10 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -158,55 +207,6 @@
     "link": "https://cryptopanic.com/news/33296081/Visa-Recruits-Upbit-Operator-Dunamu-for-Korea-Stablecoin-Payments-Push",
     "source": "coinpaprika.com",
     "published": "Sat Aug 29 2026 07:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The @injective network operates one of crypto's most interesting burn mechanisms. Understand how $INJ burn auctions actually work... ⬇️",
-    "link": "https://cryptopanic.com/news/33296135/The-injective-network-operates-one-of-cryptos-most-interesting-burn-mechanisms-Understand-how-INJ-burn-auctions-actually-work",
-    "source": "@bscnews",
-    "published": "Sat Aug 29 2026 06:43:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Polymarket US hit $870M in weekly volume, up from $60M six months ago, closing fast on the offshore Polymarket's $1.2B, per Galaxy Research.",
-    "link": "https://cryptopanic.com/news/33296074/LATEST-Polymarket-US-hit-870M-in-weekly-volume-up-from-60M-six-months-ago-closing-fast-on-the-offshore-Polymarkets-12B-per-Galaxy-Research",
-    "source": "@coinmarketcap",
-    "published": "Sat Aug 29 2026 06:39:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ETFS: The ETH ETFs have now seen 10 straight days on net inflows while BTC just broke its own streak after Friday's net outflow of $201M",
-    "link": "https://cryptopanic.com/news/33296009/ETFS-The-ETH-ETFs-have-now-seen-10-straight-days-on-net-inflows-while-BTC-just-broke-its-own-streak-after-Fridays-net-outflow-of-201M",
-    "source": "@cointelegraph",
-    "published": "Sat Aug 29 2026 06:31:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Term Finance Loses $8.5M in Governance Exploit",
-    "link": "https://cryptopanic.com/news/33296006/Term-Finance-Loses-85M-in-Governance-Exploit",
-    "source": "catenaa.com",
-    "published": "Sat Aug 29 2026 06:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump Digital Gold Crashes 98% in Hours After Suspected $330,000 Rug Pull",
-    "link": "https://cryptopanic.com/news/33296057/Trump-Digital-Gold-Crashes-98-in-Hours-After-Suspected-330000-Rug-Pull",
-    "source": "beincrypto.com",
-    "published": "Sat Aug 29 2026 06:11:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump-Themed Meme Coin Tanks 95% in Minutes as Traders Get Rugged: What Happened?",
-    "link": "https://cryptopanic.com/news/33295972/Trump-Themed-Meme-Coin-Tanks-95-in-Minutes-as-Traders-Get-Rugged-What-Happened",
-    "source": "cryptopotato.com",
-    "published": "Sat Aug 29 2026 06:08:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana Backs 18.9M Less SOL Issuance by a 0.334-Point Margin",
-    "link": "https://cryptopanic.com/news/33295943/Solana-Backs-189M-Less-SOL-Issuance-by-a-0334-Point-Margin",
-    "source": "coindoo.com",
-    "published": "Sat Aug 29 2026 06:03:27 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
