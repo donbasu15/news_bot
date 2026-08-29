@@ -1,5 +1,75 @@
 [
   {
+    "title": "Petra Wallet just made $APT private...\n\n@PetraWallet, built by @AptosLabs, has announced support for the confidential version of @Aptos' $APT token on its browser extension.\n\nOpt-in in nature, users will have their balances fully encrypted, brining compliant privacy to an",
+    "link": "https://cryptopanic.com/news/33297338/Petra-Wallet-just-made-APT-private-PetraWallet-built-by-AptosLabs-has-announced-support-for-the-confidential-version-of-Aptos-APT-token-on-its-browser-extension-Opt-in-in-nature-users-will-have-their-balances-fully-encrypted-brining-compliant-privacy-to-an",
+    "source": "@bscnews",
+    "published": "Sat Aug 29 2026 14:41:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "QCP: Bitcoin’s Current Rally Is Backed by Solid Spot Support\n\nQCP Capital reported that from an underlying market structure perspective, BTC's current rally from $63,500 to above $80,000 is backed by solid spot support. The rally from $63,500 has been supported by ~$2.8B in spot",
+    "link": "https://cryptopanic.com/news/33297300/QCP-Bitcoins-Current-Rally-Is-Backed-by-Solid-Spot-Support-QCP-Capital-reported-that-from-an-underlying-market-structure-perspective-BTCs-current-rally-from-63500-to-above-80000-is-backed-by-solid-spot-support-The-rally-from-63500-has-been-supported-by-28B-in-spot",
+    "source": "@wublockchain",
+    "published": "Sat Aug 29 2026 14:31:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BTC: Bitcoin hasn't had an August this good since 2017.",
+    "link": "https://cryptopanic.com/news/33297335/BTC-Bitcoin-hasnt-had-an-August-this-good-since-2017",
+    "source": "@cointelegraph",
+    "published": "Sat Aug 29 2026 14:31:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Price Prediction: Bernstein's $1 Million Target!",
+    "link": "https://cryptopanic.com/news/33297319/Bitcoin-Price-Prediction-Bernsteins-1-Million-Target",
+    "source": "SimplyBitcoin",
+    "published": "Sat Aug 29 2026 14:30:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SpaceX IPO vs Nvidia: Why the Biggest Listing May Not Create the Biggest Return",
+    "link": "https://cryptopanic.com/news/33297311/SpaceX-IPO-vs-Nvidia-Why-the-Biggest-Listing-May-Not-Create-the-Biggest-Return",
+    "source": "coinpaper.com",
+    "published": "Sat Aug 29 2026 14:30:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Broad U.S. Money Supply Climbs to Fresh Record of $23,220,000,000,000 With Ongoing Monthly Gains",
+    "link": "https://cryptopanic.com/news/33297320/Broad-US-Money-Supply-Climbs-to-Fresh-Record-of-23220000000000-With-Ongoing-Monthly-Gains",
+    "source": "dailyhodl.com",
+    "published": "Sat Aug 29 2026 14:30:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Sei Network just teamed up with Mastercard...\n\n@Mastercard, together with @SeiNetwork's Foundation, have published a joint report titled \"The foundations of institutional blockchain\".\n\nThe report details how major financial institutions can assess blockchain solutions, detailing",
+    "link": "https://cryptopanic.com/news/33297337/Sei-Network-just-teamed-up-with-Mastercard-Mastercard-together-with-SeiNetworks-Foundation-have-published-a-joint-report-titled-The-foundations-of-institutional-blockchain-The-report-details-how-major-financial-institutions-can-assess-blockchain-solutions-detailing",
+    "source": "@bscnews",
+    "published": "Sat Aug 29 2026 14:29:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "US Secures 65 Billion Barrels of Venezuelan Oil: Could This Be Bullish for Bitcoin?",
+    "link": "https://cryptopanic.com/news/33297288/US-Secures-65-Billion-Barrels-of-Venezuelan-Oil-Could-This-Be-Bullish-for-Bitcoin",
+    "source": "cryptopotato.com",
+    "published": "Sat Aug 29 2026 14:23:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "AI Crypto Wallets Explained: How Agentic Wallets Work",
+    "link": "https://cryptopanic.com/news/33297272/AI-Crypto-Wallets-Explained-How-Agentic-Wallets-Work",
+    "source": "coinpaper.com",
+    "published": "Sat Aug 29 2026 14:18:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Tom Lee told Milk Road that Ethereum is still \"vastly, vastly undervalued\" and remains best positioned to capture the future growth of the financial system.",
+    "link": "https://cryptopanic.com/news/33297297/LATEST-Tom-Lee-told-Milk-Road-that-Ethereum-is-still-vastly-vastly-undervalued-and-remains-best-positioned-to-capture-the-future-growth-of-the-financial-system",
+    "source": "@coinmarketcap",
+    "published": "Sat Aug 29 2026 14:15:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "What Is Solana (SOL) and How Does Its Blockchain Work?",
     "link": "https://cryptopanic.com/news/33297260/What-Is-Solana-SOL-and-How-Does-Its-Blockchain-Work",
     "source": "coindoo.com",
@@ -7,10 +77,31 @@
     "sentiment": "neutral"
   },
   {
+    "title": "The first Outcome DEX, “OUT,” built on HIP-4 has been deployed. According to Hyperliquid developer documentation, HIP-4 allows deployers to permissionlessly create YES/NO or multi-outcome markets based on templates approved through validator voting.",
+    "link": "https://cryptopanic.com/news/33297299/The-first-Outcome-DEX-OUT-built-on-HIP-4-has-been-deployed-According-to-Hyperliquid-developer-documentation-HIP-4-allows-deployers-to-permissionlessly-create-YESNO-or-multi-outcome-markets-based-on-templates-approved-through-validator-voting",
+    "source": "@wublockchain",
+    "published": "Sat Aug 29 2026 14:09:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Avici pledges full refunds as hackers hit Ajna next",
     "link": "https://cryptopanic.com/news/33297240/Avici-pledges-full-refunds-as-hackers-hit-Ajna-next",
     "source": "cryptopolitan.com",
     "published": "Sat Aug 29 2026 14:00:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SPECTRA FINANCE IS COMING TO $XLM.\n\nYield on Stellar is about to become tradable through fixed income markets and an order book from day one on @spectra_finance.\n\nThat means more utility, deeper markets and more reasons for capital to stay onchain.\n\n@StellarOrg's financial",
+    "link": "https://cryptopanic.com/news/33297336/SPECTRA-FINANCE-IS-COMING-TO-XLM-Yield-on-Stellar-is-about-to-become-tradable-through-fixed-income-markets-and-an-order-book-from-day-one-on-spectra_finance-That-means-more-utility-deeper-markets-and-more-reasons-for-capital-to-stay-onchain-StellarOrgs-financial",
+    "source": "@realallincrypto",
+    "published": "Sat Aug 29 2026 14:00:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Reform UK Drops Crypto Sponsors: What Does Farage Want Instead?",
+    "link": "https://cryptopanic.com/news/33297293/Reform-UK-Drops-Crypto-Sponsors-What-Does-Farage-Want-Instead",
+    "source": "beincrypto.com",
+    "published": "Sat Aug 29 2026 14:00:04 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -116,97 +207,6 @@
     "link": "https://cryptopanic.com/news/33297062/Ajna-Protocol-loses-775K-as-attacker-exploits-liquidation-accounting",
     "source": "cryptopolitan.com",
     "published": "Sat Aug 29 2026 12:57:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana Price Prediction: Will ETF Hopes and Network Growth Push SOL Higher?",
-    "link": "https://cryptopanic.com/news/33297061/Solana-Price-Prediction-Will-ETF-Hopes-and-Network-Growth-Push-SOL-Higher",
-    "source": "coinpaper.com",
-    "published": "Sat Aug 29 2026 12:54:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INSIGHT: Six Bitcoin wallets dormant since 2011-2014 just woke up, moving 553.59 bitcoin:native between Aug. 16-26.\n\nBut dormant bitcoin:native movement overall just hit its lowest level since Q3 2022, per Galaxy Research.",
-    "link": "https://cryptopanic.com/news/33297104/INSIGHT-Six-Bitcoin-wallets-dormant-since-2011-2014-just-woke-up-moving-55359-bitcoinnative-between-Aug-16-26-But-dormant-bitcoinnative-movement-overall-just-hit-its-lowest-level-since-Q3-2022-per-Galaxy-Research",
-    "source": "@coindesk",
-    "published": "Sat Aug 29 2026 12:52:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Price Prediction: Can BTC Break $85K After August Short Squeeze?",
-    "link": "https://cryptopanic.com/news/33297057/Bitcoin-Price-Prediction-Can-BTC-Break-85K-After-August-Short-Squeeze",
-    "source": "coinpaper.com",
-    "published": "Sat Aug 29 2026 12:48:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇮🇷🇺🇸 Iranian President says \"we do not want war.\"\n\n\"It is in the interest of Iran, the region, and the world that Trump does not stir up chaos.\"",
-    "link": "https://cryptopanic.com/news/33297065/JUST-IN-Iranian-President-says-we-do-not-want-war-It-is-in-the-interest-of-Iran-the-region-and-the-world-that-Trump-does-not-stir-up-chaos",
-    "source": "@cryptonwsuk",
-    "published": "Sat Aug 29 2026 12:32:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Trump-linked Real Trump Coins promoted GOLD before team-linked wallets dumped $330,000 worth, sending the token crashing 99%.",
-    "link": "https://cryptopanic.com/news/33296989/UPDATE-Trump-linked-Real-Trump-Coins-promoted-GOLD-before-team-linked-wallets-dumped-330000-worth-sending-the-token-crashing-99",
-    "source": "@cointelegraph",
-    "published": "Sat Aug 29 2026 12:31:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Read it here",
-    "link": "https://cryptopanic.com/news/33296988/Read-it-here",
-    "source": "@cointelegraph",
-    "published": "Sat Aug 29 2026 12:31:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "China’s top memory-chip maker sues Pentagon as AI demand strains DRAM",
-    "link": "https://cryptopanic.com/news/33296969/Chinas-top-memory-chip-maker-sues-Pentagon-as-AI-demand-strains-DRAM",
-    "source": "cryptopolitan.com",
-    "published": "Sat Aug 29 2026 12:22:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "First-ever spot XRP ETF crashes 45%",
-    "link": "https://cryptopanic.com/news/33296972/First-ever-spot-XRP-ETF-crashes-45",
-    "source": "finbold.com",
-    "published": "Sat Aug 29 2026 12:21:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UAE “Spy Sheikh” Behind Trump Crypto Bank: 49% Ownership, $500M and Questions MAGA Can’t Avoid",
-    "link": "https://cryptopanic.com/news/33296968/UAE-Spy-Sheikh-Behind-Trump-Crypto-Bank-49-Ownership-500M-and-Questions-MAGA-Cant-Avoid",
-    "source": "cryptonews.com",
-    "published": "Sat Aug 29 2026 12:20:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "tZERO is bringing Wall Street to Sui Network...\n\n@tZERO has partnered with leading L1 @SuiNetwork to bring its regulated financial infrastructure to the $SUI ecosystem.\n\nThe firm boasts 7+ years of experience in digital securities infrastructure, and will bring key components",
-    "link": "https://cryptopanic.com/news/33296992/tZERO-is-bringing-Wall-Street-to-Sui-Network-tZERO-has-partnered-with-leading-L1-SuiNetwork-to-bring-its-regulated-financial-infrastructure-to-the-SUI-ecosystem-The-firm-boasts-7-years-of-experience-in-digital-securities-infrastructure-and-will-bring-key-components",
-    "source": "@bscnews",
-    "published": "Sat Aug 29 2026 12:19:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SpaceX Stock Price at $141.50 as Elon Musk Targets $3.5T Revenue by 2033",
-    "link": "https://cryptopanic.com/news/33297141/SpaceX-Stock-Price-at-14150-as-Elon-Musk-Targets-35T-Revenue-by-2033",
-    "source": "coinpedia.org",
-    "published": "Sat Aug 29 2026 12:18:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin ETF Outflows Break the Streak as Ethereum Funds Keep Pulling In Cash",
-    "link": "https://cryptopanic.com/news/33296946/Bitcoin-ETF-Outflows-Break-the-Streak-as-Ethereum-Funds-Keep-Pulling-In-Cash",
-    "source": "btcusa.com",
-    "published": "Sat Aug 29 2026 12:12:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  CryptoQuant founder Ki Young Ju told Coinage that institutional investors view Bitcoin as a “very attractive asset” again, which is why BTC and gold are moving together.",
-    "link": "https://cryptopanic.com/news/33296947/LATEST-CryptoQuant-founder-Ki-Young-Ju-told-Coinage-that-institutional-investors-view-Bitcoin-as-a-very-attractive-asset-again-which-is-why-BTC-and-gold-are-moving-together",
-    "source": "@coinmarketcap",
-    "published": "Sat Aug 29 2026 12:10:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
