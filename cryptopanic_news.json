@@ -1,5 +1,82 @@
 [
   {
+    "title": "Crypto stock tokens barely move over weekend, revealing markets become illiquid when Wall Street goes offline",
+    "link": "https://cryptopanic.com/news/33299840/Crypto-stock-tokens-barely-move-over-weekend-revealing-markets-become-illiquid-when-Wall-Street-goes-offline",
+    "source": "cryptoslate.com",
+    "published": "Sun Aug 30 2026 11:40:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin ETF Flows Explained: Why Inflows and Outflows Move BTC",
+    "link": "https://cryptopanic.com/news/33299838/Bitcoin-ETF-Flows-Explained-Why-Inflows-and-Outflows-Move-BTC",
+    "source": "coinpaper.com",
+    "published": "Sun Aug 30 2026 11:38:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Read it all",
+    "link": "https://cryptopanic.com/news/33299850/Read-it-all",
+    "source": "@cointelegraph",
+    "published": "Sun Aug 30 2026 11:31:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: Polygon quietly patched serious DoS flaws in its latest hard forks before they were publicly disclosed.\n\nNo exploits reported. Just a reminder that even major chains need constant security upgrades.",
+    "link": "https://cryptopanic.com/news/33299849/NEW-Polygon-quietly-patched-serious-DoS-flaws-in-its-latest-hard-forks-before-they-were-publicly-disclosed-No-exploits-reported-Just-a-reminder-that-even-major-chains-need-constant-security-upgrades",
+    "source": "@cointelegraph",
+    "published": "Sun Aug 30 2026 11:31:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto markets predict XRP to trade at this price on September 1",
+    "link": "https://cryptopanic.com/news/33299812/Crypto-markets-predict-XRP-to-trade-at-this-price-on-September-1",
+    "source": "finbold.com",
+    "published": "Sun Aug 30 2026 11:30:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Arthur Hayes says ETH is due for a \"hated rally\" after years of underperformance, telling the Pomp Podcast the RWA and tokenization narrative will push institutions onto Ethereum.",
+    "link": "https://cryptopanic.com/news/33299806/LATEST-Arthur-Hayes-says-ETH-is-due-for-a-hated-rally-after-years-of-underperformance-telling-the-Pomp-Podcast-the-RWA-and-tokenization-narrative-will-push-institutions-onto-Ethereum",
+    "source": "@coinmarketcap",
+    "published": "Sun Aug 30 2026 11:30:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Old Coins Move Again as 2011 Wallet Records 503,000% Price Gain",
+    "link": "https://cryptopanic.com/news/33299802/Bitcoin-Old-Coins-Move-Again-as-2011-Wallet-Records-503000-Price-Gain",
+    "source": "coinpaper.com",
+    "published": "Sun Aug 30 2026 11:26:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Sui User Growth Surges to New Highs — Bullish?",
+    "link": "https://cryptopanic.com/news/33299804/Sui-User-Growth-Surges-to-New-Highs-Bullish",
+    "source": "techgaged.com",
+    "published": "Sun Aug 30 2026 11:26:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Stellar RWA Market Nears $4 Billion as Institutional Tokenization Surges, but XLM Price Lags",
+    "link": "https://cryptopanic.com/news/33299792/Stellar-RWA-Market-Nears-4-Billion-as-Institutional-Tokenization-Surges-but-XLM-Price-Lags",
+    "source": "coinpaper.com",
+    "published": "Sun Aug 30 2026 11:21:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Fed Rate: Warsh’s Inflation Warning Sends 2-Year Yield Higher as Bitcoin Holds Near $78K",
+    "link": "https://cryptopanic.com/news/33299787/Fed-Rate-Warshs-Inflation-Warning-Sends-2-Year-Yield-Higher-as-Bitcoin-Holds-Near-78K",
+    "source": "coinpaper.com",
+    "published": "Sun Aug 30 2026 11:17:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The Cardano Foundation is putting a German data cooperative's payment flows on chain\n\n@Cardano_CF partnered with Reef Data eG, a Hamburg cooperative, to record payment flows auditably using Reeve, the Foundation's open-source reporting platform.\n\nReef Data built the application",
+    "link": "https://cryptopanic.com/news/33299853/The-Cardano-Foundation-is-putting-a-German-data-cooperatives-payment-flows-on-chain-Cardano_CF-partnered-with-Reef-Data-eG-a-Hamburg-cooperative-to-record-payment-flows-auditably-using-Reeve-the-Foundations-open-source-reporting-platform-Reef-Data-built-the-application",
+    "source": "@bscnews",
+    "published": "Sun Aug 30 2026 11:15:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Solana Price Prediction: Is SOL Ready for Its Next Big Rally?",
     "link": "https://cryptopanic.com/news/33299786/Solana-Price-Prediction-Is-SOL-Ready-for-Its-Next-Big-Rally",
     "source": "coinpaper.com",
@@ -14,10 +91,38 @@
     "sentiment": "neutral"
   },
   {
+    "title": "You don't want to see $BTC.D go down a lot when Bitcoin is trying to flip its high timeframe market structure back to bullish.\n\nAll the liquidity and buying power BTC can get is useful. Bitcoin is and has always been the asset leading this market into bull and bear markets.\n\nSo",
+    "link": "https://cryptopanic.com/news/33299851/You-dont-want-to-see-BTCD-go-down-a-lot-when-Bitcoin-is-trying-to-flip-its-high-timeframe-market-structure-back-to-bullish-All-the-liquidity-and-buying-power-BTC-can-get-is-useful-Bitcoin-is-and-has-always-been-the-asset-leading-this-market-into-bull-and-bear-markets-So",
+    "source": "@daancrypto",
+    "published": "Sun Aug 30 2026 11:02:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "According to @chainspect_app, **@dfinity has become the first blockchain to cross 300 BILLION transactions.**\n\nThat’s roughly 36 transactions for every person on Earth. 🤯\n\nThis is why $ICP is so different: it isn’t just trying to move money onchain — it’s building blockchain",
+    "link": "https://cryptopanic.com/news/33299852/According-to-chainspect_app-dfinity-has-become-the-first-blockchain-to-cross-300-BILLION-transactions-Thats-roughly-36-transactions-for-every-person-on-Earth-This-is-why-ICP-is-so-different-it-isnt-just-trying-to-move-money-onchain-its-building-blockchain",
+    "source": "@realallincrypto",
+    "published": "Sun Aug 30 2026 11:00:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MANTRA (OM): RWA Layer 1 Blockchain Deep Dive",
+    "link": "https://cryptopanic.com/news/33299844/MANTRA-OM-RWA-Layer-1-Blockchain-Deep-Dive",
+    "source": "coinpaprika.com",
+    "published": "Sun Aug 30 2026 11:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Options That Never Close: Bybit Launches 24/7 SpaceX and Nvidia Contracts",
     "link": "https://cryptopanic.com/news/33299720/Options-That-Never-Close-Bybit-Launches-247-SpaceX-and-Nvidia-Contracts",
     "source": "coinpaprika.com",
     "published": "Sun Aug 30 2026 11:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Vietnam’s New Crypto Rules Take Effect September 1; No Exchange License Issued Yet\n\nAccording to the Vietnamplus, Vietnam’s new rules on penalties for violations involving crypto assets and markets will take effect on September 1. Vietnam has yet to issue its first crypto asset",
+    "link": "https://cryptopanic.com/news/33299807/Vietnams-New-Crypto-Rules-Take-Effect-September-1-No-Exchange-License-Issued-Yet-According-to-the-Vietnamplus-Vietnams-new-rules-on-penalties-for-violations-involving-crypto-assets-and-markets-will-take-effect-on-September-1-Vietnam-has-yet-to-issue-its-first-crypto-asset",
+    "source": "@wublockchain",
+    "published": "Sun Aug 30 2026 10:50:21 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -102,111 +207,6 @@
     "link": "https://cryptopanic.com/news/33299622/The-battle-to-build-a-global-defence-bank",
     "source": "@reutersbiz",
     "published": "Sun Aug 30 2026 09:45:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Russia's largest bank Sberbank plans to accept bitcoin:native, $ETH, and $USDT as loan collateral once new crypto regulations take full effect.",
-    "link": "https://cryptopanic.com/news/33299621/JUST-IN-Russias-largest-bank-Sberbank-plans-to-accept-bitcoinnative-ETH-and-USDT-as-loan-collateral-once-new-crypto-regulations-take-full-effect",
-    "source": "@coindesk",
-    "published": "Sun Aug 30 2026 09:33:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HUGE: RedotPay expects stablecoin card spending to hit $50B/year by 2028, quadrupling from today.",
-    "link": "https://cryptopanic.com/news/33299506/HUGE-RedotPay-expects-stablecoin-card-spending-to-hit-50Byear-by-2028-quadrupling-from-today",
-    "source": "@cointelegraph",
-    "published": "Sun Aug 30 2026 09:30:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Popular Bitcoin wallets risk losing support for new hardware devices as critical security bridge stops accepting new devices",
-    "link": "https://cryptopanic.com/news/33299512/Popular-Bitcoin-wallets-risk-losing-support-for-new-hardware-devices-as-critical-security-bridge-stops-accepting-new-devices",
-    "source": "cryptoslate.com",
-    "published": "Sun Aug 30 2026 09:30:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SEC Proposes $75M Crypto Fundraising Exemption",
-    "link": "https://cryptopanic.com/news/33299505/SEC-Proposes-75M-Crypto-Fundraising-Exemption",
-    "source": "catenaa.com",
-    "published": "Sun Aug 30 2026 09:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Clothing Retailer Breached, Affecting 12,900,000 Accounts – Names, Addresses and More Exposed",
-    "link": "https://cryptopanic.com/news/33299502/Clothing-Retailer-Breached-Affecting-12900000-Accounts-Names-Addresses-and-More-Exposed",
-    "source": "dailyhodl.com",
-    "published": "Sun Aug 30 2026 09:15:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Satoshi's Bitcoin Genesis Block Puzzle Gets New Clues, but Mystery Remains",
-    "link": "https://cryptopanic.com/news/33299532/Satoshis-Bitcoin-Genesis-Block-Puzzle-Gets-New-Clues-but-Mystery-Remains",
-    "source": "u.today",
-    "published": "Sun Aug 30 2026 09:15:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "VeChain sees token price explosion this week.\n\n@vechainofficial's token is up more than any other token of CMC's top-100 list, surging close to +32% in the last seven days.\n\nIt is followed by @GoKiteAI $KITE and @Uniswap $UNI, both of which have also seen double-digit gains in",
-    "link": "https://cryptopanic.com/news/33299509/VeChain-sees-token-price-explosion-this-week-vechainofficials-token-is-up-more-than-any-other-token-of-CMCs-top-100-list-surging-close-to-32-in-the-last-seven-days-It-is-followed-by-GoKiteAI-KITE-and-Uniswap-UNI-both-of-which-have-also-seen-double-digit-gains-in",
-    "source": "@bscnews",
-    "published": "Sun Aug 30 2026 09:05:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto Built Robinhood Chain’s $25B – Are Stocks Going to Catch Up?",
-    "link": "https://cryptopanic.com/news/33299431/Crypto-Built-Robinhood-Chains-25B-Are-Stocks-Going-to-Catch-Up",
-    "source": "coindoo.com",
-    "published": "Sun Aug 30 2026 09:03:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "PONS crypto hits new ATH – Can $640K in buybacks sustain the rally?",
-    "link": "https://cryptopanic.com/news/33299430/PONS-crypto-hits-new-ATH-Can-640K-in-buybacks-sustain-the-rally",
-    "source": "ambcrypto.com",
-    "published": "Sun Aug 30 2026 09:00:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Chainlink just landed another major expansion with Lighter.\n\nLighter has processed $1.7 TRILLION in trading volume and is now using @chainlink data across 100+ more markets, from stocks and crypto to FX and commodities.\n\nAs more finance moves onchain, more of it is relying on",
-    "link": "https://cryptopanic.com/news/33299508/Chainlink-just-landed-another-major-expansion-with-Lighter-Lighter-has-processed-17-TRILLION-in-trading-volume-and-is-now-using-chainlink-data-across-100-more-markets-from-stocks-and-crypto-to-FX-and-commodities-As-more-finance-moves-onchain-more-of-it-is-relying-on",
-    "source": "@realallincrypto",
-    "published": "Sun Aug 30 2026 09:00:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Dear Algorithm, \n\nOnly show us \"1000x\" projects.\n\nThank you.",
-    "link": "https://cryptopanic.com/news/33299469/Dear-Algorithm-Only-show-us-1000x-projects-Thank-you",
-    "source": "@coinmarketcap",
-    "published": "Sun Aug 30 2026 09:00:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "OpenAI News: OpenAI Dumps Cursor After SpaceX Deal, Sets November Cutoff",
-    "link": "https://cryptopanic.com/news/33299427/OpenAI-News-OpenAI-Dumps-Cursor-After-SpaceX-Deal-Sets-November-Cutoff",
-    "source": "thecoinrepublic.com",
-    "published": "Sun Aug 30 2026 09:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Central Banks' Bank Backs Tokenised Deposits Over Stablecoins",
-    "link": "https://cryptopanic.com/news/33299429/The-Central-Banks-Bank-Backs-Tokenised-Deposits-Over-Stablecoins",
-    "source": "coinpaprika.com",
-    "published": "Sun Aug 30 2026 09:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "“We still have the ability to change it.”\n\n@Gaurav_ionet argues Web3 AI could give users more visibility into data, models and biases before centralized AI becomes too entrenched to challenge.\n\nHis warning: the window to build alternatives may be closing.",
-    "link": "https://cryptopanic.com/news/33299507/We-still-have-the-ability-to-change-it-Gaurav_ionet-argues-Web3-AI-could-give-users-more-visibility-into-data-models-and-biases-before-centralized-AI-becomes-too-entrenched-to-challenge-His-warning-the-window-to-build-alternatives-may-be-closing",
-    "source": "@realallincrypto",
-    "published": "Sun Aug 30 2026 08:58:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Freedom of Speech, Not Freedom of Reach",
-    "link": "https://cryptopanic.com/news/33299466/Freedom-of-Speech-Not-Freedom-of-Reach",
-    "source": "medium.com/pivx",
-    "published": "Sun Aug 30 2026 08:56:01 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
