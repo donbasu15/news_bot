@@ -14,6 +14,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Source：",
+    "link": "https://cryptopanic.com/news/33298969/Source",
+    "source": "@wublockchain",
+    "published": "Sun Aug 30 2026 04:55:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: Ripple has donated $300,000 to help provide food and water to the people devastated by flooding in Nepal and Tibet.",
     "link": "https://cryptopanic.com/news/33298908/JUST-IN-Ripple-has-donated-300000-to-help-provide-food-and-water-to-the-people-devastated-by-flooding-in-Nepal-and-Tibet",
     "source": "@cointelegraph",
@@ -147,6 +154,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "HBAR Weekly Update- Hedera Builders Deliver: Monolith, GoDaddy, Sodax and more",
+    "link": "https://cryptopanic.com/news/33299010/HBAR-Weekly-Update-Hedera-Builders-Deliver-Monolith-GoDaddy-Sodax-and-more",
+    "source": "r/hedera",
+    "published": "Sun Aug 30 2026 02:02:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Here's what to be ready for this week \n\nAll Week:\n-Fed officials speaking\n\nMonday:\n-Strategy 8-k\n\nTuesday:\n-US JOLTs job openings July\n-US manufacturing PMI August\n\nWednesday:\n-BoC rate decision\n\nThursday:\n-US services PMI August\n\nFriday:\n-US nonfarm payrolls + unemployment",
     "link": "https://cryptopanic.com/news/33298530/Heres-what-to-be-ready-for-this-week-All-Week-Fed-officials-speaking-Monday-Strategy-8-k-Tuesday-US-JOLTs-job-openings-July-US-manufacturing-PMI-August-Wednesday-BoC-rate-decision-Thursday-US-services-PMI-August-Friday-US-nonfarm-payrolls-unemployment",
     "source": "@stackersatoshi",
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33298616/NASA-and-SpaceX-Adjust-Crew-13-Launch-Date",
     "source": "square.binance.com",
     "published": "Sun Aug 30 2026 01:41:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "High-Leverage Rolling Strategy Leaves Huang Licheng Vulnerable to Market Pullbacks",
-    "link": "https://cryptopanic.com/news/33298615/High-Leverage-Rolling-Strategy-Leaves-Huang-Licheng-Vulnerable-to-Market-Pullbacks",
-    "source": "square.binance.com",
-    "published": "Sun Aug 30 2026 01:34:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Switchboard Suspends Aptos, Sui, Iota, and Movement Services After Reported Move Network Intrusion",
-    "link": "https://cryptopanic.com/news/33298614/Switchboard-Suspends-Aptos-Sui-Iota-and-Movement-Services-After-Reported-Move-Network-Intrusion",
-    "source": "square.binance.com",
-    "published": "Sun Aug 30 2026 01:33:47 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
