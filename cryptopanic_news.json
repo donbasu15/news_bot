@@ -1,5 +1,33 @@
 [
   {
+    "title": "Hyperliquid permissionless prediction markets go live",
+    "link": "https://cryptopanic.com/news/33304150/Hyperliquid-permissionless-prediction-markets-go-live",
+    "source": "cryptopolitan.com",
+    "published": "Mon Aug 31 2026 11:49:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Shiba Inu Gives Back August Rally as 200-Day Average Rejects SHIB",
+    "link": "https://cryptopanic.com/news/33304135/Shiba-Inu-Gives-Back-August-Rally-as-200-Day-Average-Rejects-SHIB",
+    "source": "coinpaper.com",
+    "published": "Mon Aug 31 2026 11:45:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Polygon Crypto Secures Bor and Heimdall Clients Before Disclosure",
+    "link": "https://cryptopanic.com/news/33304155/Polygon-Crypto-Secures-Bor-and-Heimdall-Clients-Before-Disclosure",
+    "source": "cryptonews.com",
+    "published": "Mon Aug 31 2026 11:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "A wallet linked to #Cumberland withdrew 15,390 $ETH($37.66M) from #Binance an hour ago.",
+    "link": "https://cryptopanic.com/news/33304224/A-wallet-linked-to-Cumberland-withdrew-15390-ETH3766M-from-Binance-an-hour-ago",
+    "source": "@lookonchain",
+    "published": "Mon Aug 31 2026 11:41:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Alderoty Uses Crypto Jobs Estimate to Press Senate on CLARITY Act",
     "link": "https://cryptopanic.com/news/33304138/Alderoty-Uses-Crypto-Jobs-Estimate-to-Press-Senate-on-CLARITY-Act",
     "source": "coinspeaker.com",
@@ -39,6 +67,20 @@
     "link": "https://cryptopanic.com/news/33304074/Bitcoin-Holds-78K-As-Strait-Of-Hormuz-Strike-Lifts-Oil-Above-90",
     "source": "newsbtc.com",
     "published": "Mon Aug 31 2026 11:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Sberbank plans to add ether and USDT as collateral for crypto-backed loans: Report",
+    "link": "https://cryptopanic.com/news/33304190/Sberbank-plans-to-add-ether-and-USDT-as-collateral-for-crypto-backed-loans-Report",
+    "source": "coindesk.com",
+    "published": "Mon Aug 31 2026 11:26:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Here's 1 metric on U.S. debt that makes bitcoin's bull case look stronger than ever",
+    "link": "https://cryptopanic.com/news/33304189/Heres-1-metric-on-US-debt-that-makes-bitcoins-bull-case-look-stronger-than-ever",
+    "source": "coindesk.com",
+    "published": "Mon Aug 31 2026 11:25:34 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -165,48 +207,6 @@
     "link": "https://cryptopanic.com/news/33303920/Crypto-Hack-Cronos-Freezes-Network-After-Tectonic-Attacker-Drains-an-Estimated-75M",
     "source": "thecoinrepublic.com",
     "published": "Mon Aug 31 2026 11:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Pendle Finance & RWA Yield: How to Trade Future Yield On-Chain",
-    "link": "https://cryptopanic.com/news/33304003/Pendle-Finance-RWA-Yield-How-to-Trade-Future-Yield-On-Chain",
-    "source": "coinpaprika.com",
-    "published": "Mon Aug 31 2026 11:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Lighter Puts 100 More Markets on Chainlink as Volume Tops $1.7 Trillion",
-    "link": "https://cryptopanic.com/news/33303922/Lighter-Puts-100-More-Markets-on-Chainlink-as-Volume-Tops-17-Trillion",
-    "source": "coinpaprika.com",
-    "published": "Mon Aug 31 2026 11:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "MiCA Crypto Blacklist: 165 of 167 ESMA Records Come From Italy's Consob",
-    "link": "https://cryptopanic.com/news/33303878/MiCA-Crypto-Blacklist-165-of-167-ESMA-Records-Come-From-Italys-Consob",
-    "source": "spaziocrypto.com",
-    "published": "Mon Aug 31 2026 10:54:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin’s 24% August Rally Hits $80K Wall as ETF Demand Starts to Cool",
-    "link": "https://cryptopanic.com/news/33303883/Bitcoins-24-August-Rally-Hits-80K-Wall-as-ETF-Demand-Starts-to-Cool",
-    "source": "coinpaper.com",
-    "published": "Mon Aug 31 2026 10:53:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Confidential APT hides Aptos (@Aptos) wallet balances and transfer amounts using zero-knowledge proofs, while keeping sender and receiver addresses public.",
-    "link": "https://cryptopanic.com/news/33303904/Confidential-APT-hides-Aptos-Aptos-wallet-balances-and-transfer-amounts-using-zero-knowledge-proofs-while-keeping-sender-and-receiver-addresses-public",
-    "source": "@bscnews",
-    "published": "Mon Aug 31 2026 10:51:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  IMF chief Kristalina Georgieva says stablecoins could make large-value cross-border payments cheaper but risk currency substitution and exchange-rate instability in emerging markets.",
-    "link": "https://cryptopanic.com/news/33304077/LATEST-IMF-chief-Kristalina-Georgieva-says-stablecoins-could-make-large-value-cross-border-payments-cheaper-but-risk-currency-substitution-and-exchange-rate-instability-in-emerging-markets",
-    "source": "@coinmarketcap",
-    "published": "Mon Aug 31 2026 10:49:10 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
