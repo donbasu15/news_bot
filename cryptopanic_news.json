@@ -1,5 +1,103 @@
 [
   {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33303835/Source",
+    "source": "@wublockchain",
+    "published": "Mon Aug 31 2026 10:34:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Chainalysis Accuses ICE of Steering $95M Blockchain Contract to TRM Labs \n\nChainalysis Government Solutions has filed seven claims against the U.S. government, alleging that ICE improperly steered a $94.66 million sole-source blockchain analytics contract to rival TRM Labs.",
+    "link": "https://cryptopanic.com/news/33303834/Chainalysis-Accuses-ICE-of-Steering-95M-Blockchain-Contract-to-TRM-Labs-Chainalysis-Government-Solutions-has-filed-seven-claims-against-the-US-government-alleging-that-ICE-improperly-steered-a-9466-million-sole-source-blockchain-analytics-contract-to-rival-TRM-Labs",
+    "source": "@wublockchain",
+    "published": "Mon Aug 31 2026 10:34:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Monero (XMR) Hits a 7-Month Peak: What Happened and What’s Ahead?",
+    "link": "https://cryptopanic.com/news/33303790/Monero-XMR-Hits-a-7-Month-Peak-What-Happened-and-Whats-Ahead",
+    "source": "cryptopotato.com",
+    "published": "Mon Aug 31 2026 10:33:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Ledger Shows 200% Activity Spike, but Payment Volume Falls 89%",
+    "link": "https://cryptopanic.com/news/33303737/XRP-Ledger-Shows-200-Activity-Spike-but-Payment-Volume-Falls-89",
+    "source": "coinpaper.com",
+    "published": "Mon Aug 31 2026 10:31:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Monero Jumps 10% as Trading Volume Triples",
+    "link": "https://cryptopanic.com/news/33303726/Monero-Jumps-10-as-Trading-Volume-Triples",
+    "source": "coindoo.com",
+    "published": "Mon Aug 31 2026 10:26:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crude Oil Prices Surge as Brent Tops $90 on Iran-Hormuz Escalation",
+    "link": "https://cryptopanic.com/news/33303722/Crude-Oil-Prices-Surge-as-Brent-Tops-90-on-Iran-Hormuz-Escalation",
+    "source": "coinpaper.com",
+    "published": "Mon Aug 31 2026 10:22:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "T-Mobile Layoffs Expand as Carrier Closes Stores and Pushes Digital Strategy",
+    "link": "https://cryptopanic.com/news/33303693/T-Mobile-Layoffs-Expand-as-Carrier-Closes-Stores-and-Pushes-Digital-Strategy",
+    "source": "coinpaper.com",
+    "published": "Mon Aug 31 2026 10:21:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Analyst Floats $6.76 HBAR Target On ETH Comparison",
+    "link": "https://cryptopanic.com/news/33303714/Analyst-Floats-676-HBAR-Target-On-ETH-Comparison",
+    "source": "dailycoin.com",
+    "published": "Mon Aug 31 2026 10:21:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Mortgage Rates Today: 30-Year Rate Hits 6.81% as Treasury Yields Stay High",
+    "link": "https://cryptopanic.com/news/33303692/Mortgage-Rates-Today-30-Year-Rate-Hits-681-as-Treasury-Yields-Stay-High",
+    "source": "coinpaper.com",
+    "published": "Mon Aug 31 2026 10:20:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trump Coin Was Among the 10-Best Performing Coins This Month, But Here's The Crypto That Took The Cake",
+    "link": "https://cryptopanic.com/news/33303775/Trump-Coin-Was-Among-the-10-Best-Performing-Coins-This-Month-But-Heres-The-Crypto-That-Took-The-Cake",
+    "source": "feeds2.benzinga.com",
+    "published": "Mon Aug 31 2026 10:20:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Faces a Three-Way Macro Test Near $78,000",
+    "link": "https://cryptopanic.com/news/33303709/Bitcoin-Faces-a-Three-Way-Macro-Test-Near-78000",
+    "source": "cryptonews.com",
+    "published": "Mon Aug 31 2026 10:20:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Zakura Common Targets Zcash’s Wallet-Side Privacy Bottleneck",
+    "link": "https://cryptopanic.com/news/33303708/Zakura-Common-Targets-Zcashs-Wallet-Side-Privacy-Bottleneck",
+    "source": "cryptonews.com",
+    "published": "Mon Aug 31 2026 10:20:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRPL consensus freezes after removing just 12% of central nodes – but a simple tweak triples XRP defense",
+    "link": "https://cryptopanic.com/news/33303694/XRPL-consensus-freezes-after-removing-just-12-of-central-nodes-but-a-simple-tweak-triples-XRP-defense",
+    "source": "cryptoslate.com",
+    "published": "Mon Aug 31 2026 10:19:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Solana Price Prediction: Can SOL Reach $500?",
+    "link": "https://cryptopanic.com/news/33303691/Solana-Price-Prediction-Can-SOL-Reach-500",
+    "source": "coinpaper.com",
+    "published": "Mon Aug 31 2026 10:18:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin Price Prediction: Can BTC Reach $150K?",
     "link": "https://cryptopanic.com/news/33303656/Bitcoin-Price-Prediction-Can-BTC-Reach-150K",
     "source": "coinpaper.com",
@@ -11,6 +109,20 @@
     "link": "https://cryptopanic.com/news/33303637/WATCH-US-Treasury-Secretary-Scott-Bessent-said-he-will-encourage-G20-members-to-re-examine-terms-of-trade-with-China-to-shrink-global-imbalances-and-press-Beijing-to-rebalance-its-economy-away-from-exports-and-toward-domestic-consumption",
     "source": "@reutersbiz",
     "published": "Mon Aug 31 2026 10:15:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Brian Armstrong says tokenized assets will spawn entirely new financial companies, just as the iPhone gave rise to Uber and TikTok.",
+    "link": "https://cryptopanic.com/news/33303833/LATEST-Brian-Armstrong-says-tokenized-assets-will-spawn-entirely-new-financial-companies-just-as-the-iPhone-gave-rise-to-Uber-and-TikTok",
+    "source": "@coinmarketcap",
+    "published": "Mon Aug 31 2026 10:13:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Robinhood Chain Hits Record $874.8 Million Volume — Are Meme Coins Back?",
+    "link": "https://cryptopanic.com/news/33303736/Robinhood-Chain-Hits-Record-8748-Million-Volume-Are-Meme-Coins-Back",
+    "source": "beincrypto.com",
+    "published": "Mon Aug 31 2026 10:07:25 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -95,118 +207,6 @@
     "link": "https://cryptopanic.com/news/33303475/A-Hollow-Recovery",
     "source": "www.blockhead.co",
     "published": "Mon Aug 31 2026 09:45:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 INSIGHT: Sec. Bessent dismisses concerns over rising US debt, saying the US market is the “best performing” among its global peers this year, per Reuters.",
-    "link": "https://cryptopanic.com/news/33303633/INSIGHT-Sec-Bessent-dismisses-concerns-over-rising-US-debt-saying-the-US-market-is-the-best-performing-among-its-global-peers-this-year-per-Reuters",
-    "source": "@cointelegraph",
-    "published": "Mon Aug 31 2026 09:45:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto.com's Cronos Halts Entire Blockchain After $75M Tectonic Exploit",
-    "link": "https://cryptopanic.com/news/33303476/Cryptocoms-Cronos-Halts-Entire-Blockchain-After-75M-Tectonic-Exploit",
-    "source": "decrypt.co",
-    "published": "Mon Aug 31 2026 09:41:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Internet Computer Faced a Major Security Test...\n\nHundreds of canisters reportedly deployed malformed Wasm modules against the Internet Computer.\n\nThe network stayed operational.\n\nRead more",
-    "link": "https://cryptopanic.com/news/33303639/Internet-Computer-Faced-a-Major-Security-Test-Hundreds-of-canisters-reportedly-deployed-malformed-Wasm-modules-against-the-Internet-Computer-The-network-stayed-operational-Read-more",
-    "source": "@bscnews",
-    "published": "Mon Aug 31 2026 09:40:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: ️ The CFTC ordered ex-White House teleprompter operator Gabriel Perez to pay roughly $172,000 for trading presidential mention market contracts using speeches he saw before they were delivered.",
-    "link": "https://cryptopanic.com/news/33303544/LATEST-The-CFTC-ordered-ex-White-House-teleprompter-operator-Gabriel-Perez-to-pay-roughly-172000-for-trading-presidential-mention-market-contracts-using-speeches-he-saw-before-they-were-delivered",
-    "source": "@coinmarketcap",
-    "published": "Mon Aug 31 2026 09:37:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stock Market Today: S&P 500, Dow Futures Fall as US-Iran Tensions Flare Up—WMT, RZLV, FNGR in Focus",
-    "link": "https://cryptopanic.com/news/33303531/Stock-Market-Today-SampP-500-Dow-Futures-Fall-as-US-Iran-Tensions-Flare-UpWMT-RZLV-FNGR-in-Focus",
-    "source": "feeds2.benzinga.com",
-    "published": "Mon Aug 31 2026 09:37:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$96M Trump-linked USD1 transfer trail puts Binance concentration back in focus",
-    "link": "https://cryptopanic.com/news/33303425/96M-Trump-linked-USD1-transfer-trail-puts-Binance-concentration-back-in-focus",
-    "source": "cryptopolitan.com",
-    "published": "Mon Aug 31 2026 09:35:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitrue AI Review 2026: How Its Free AI Trading Copilot Works",
-    "link": "https://cryptopanic.com/news/33303530/Bitrue-AI-Review-2026-How-Its-Free-AI-Trading-Copilot-Works",
-    "source": "beincrypto.com",
-    "published": "Mon Aug 31 2026 09:31:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cronos crypto faces KEY test after Tectonic’s $75M exploit – Will CRO hold?",
-    "link": "https://cryptopanic.com/news/33303418/Cronos-crypto-faces-KEY-test-after-Tectonics-75M-exploit-Will-CRO-hold",
-    "source": "ambcrypto.com",
-    "published": "Mon Aug 31 2026 09:30:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple’s RLUSD is Getting Bigger Fast\n\nRipple has minted 19.9 million ethereum:0x8292bb45bf1ee4d140127049757c2e0ff06317ed at its treasury, according to Ripple Stablecoin Tracker.\n\nThe latest issuance follows an 11 million RLUSD mint and another 11 million burn on August 31.",
-    "link": "https://cryptopanic.com/news/33303394/Ripples-RLUSD-is-Getting-Bigger-Fast-Ripple-has-minted-199-million-ethereum0x8292bb45bf1ee4d140127049757c2e0ff06317ed-at-its-treasury-according-to-Ripple-Stablecoin-Tracker-The-latest-issuance-follows-an-11-million-RLUSD-mint-and-another-11-million-burn-on-August-31",
-    "source": "@bscnews",
-    "published": "Mon Aug 31 2026 09:29:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "FOMO HOUR ft @Tyler_Did_It and @farokh",
-    "link": "https://cryptopanic.com/news/33303489/FOMO-HOUR-ft-Tyler_Did_It-and-farokh",
-    "source": "@decryptmedia",
-    "published": "Mon Aug 31 2026 09:27:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": ".@gmoneyNFT explains why he doesn't think NFTs are dead",
-    "link": "https://cryptopanic.com/news/33303488/gmoneyNFT-explains-why-he-doesnt-think-NFTs-are-dead",
-    "source": "@decryptmedia",
-    "published": "Mon Aug 31 2026 09:27:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Price Prediction for September 2026: A Repeat Pattern Could Undo August's 28% Rally",
-    "link": "https://cryptopanic.com/news/33303528/XRP-Price-Prediction-for-September-2026-A-Repeat-Pattern-Could-Undo-Augusts-28-Rally",
-    "source": "beincrypto.com",
-    "published": "Mon Aug 31 2026 09:23:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CLARITY Act Lags as Bitcoin ETFs Slip",
-    "link": "https://cryptopanic.com/news/33303369/CLARITY-Act-Lags-as-Bitcoin-ETFs-Slip",
-    "source": "cryptonews.com",
-    "published": "Mon Aug 31 2026 09:20:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INSIGHT: All eyes on Friday's jobs report as September kicks off.\n\nJuly payrolls fell 23K, with May/June revised down a combined 103K, raising the stakes for August's reading (est. +58K).\n\nA weaker print could cool rate-hike bets; a rebound could do the opposite.",
-    "link": "https://cryptopanic.com/news/33303387/INSIGHT-All-eyes-on-Fridays-jobs-report-as-September-kicks-off-July-payrolls-fell-23K-with-MayJune-revised-down-a-combined-103K-raising-the-stakes-for-Augusts-reading-est-58K-A-weaker-print-could-cool-rate-hike-bets-a-rebound-could-do-the-opposite",
-    "source": "@coindesk",
-    "published": "Mon Aug 31 2026 09:15:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Logs Strongest August in Nine Years, Setting Stage for Q4",
-    "link": "https://cryptopanic.com/news/33303372/Bitcoin-Logs-Strongest-August-in-Nine-Years-Setting-Stage-for-Q4",
-    "source": "u.today",
-    "published": "Mon Aug 31 2026 09:07:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BYD dips 5% after revenue falls despite a Q2 profit rebound",
-    "link": "https://cryptopanic.com/news/33303299/BYD-dips-5-after-revenue-falls-despite-a-Q2-profit-rebound",
-    "source": "cryptopolitan.com",
-    "published": "Mon Aug 31 2026 09:05:20 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
