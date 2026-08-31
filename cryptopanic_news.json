@@ -1,9 +1,72 @@
 [
   {
+    "title": "ETH ETFs Draw Wall Street Interest, Staking Moves Closer",
+    "link": "https://cryptopanic.com/news/33306849/ETH-ETFs-Draw-Wall-Street-Interest-Staking-Moves-Closer",
+    "source": "dailycoin.com",
+    "published": "Mon Aug 31 2026 19:34:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cardano (ADA) Enters Its Worst Month: 3 AIs Examine Its September Prospects",
+    "link": "https://cryptopanic.com/news/33306868/Cardano-ADA-Enters-Its-Worst-Month-3-AIs-Examine-Its-September-Prospects",
+    "source": "cryptopotato.com",
+    "published": "Mon Aug 31 2026 19:33:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "California Could've Ended Homelessness TWICE",
+    "link": "https://cryptopanic.com/news/33306865/California-Couldve-Ended-Homelessness-TWICE",
+    "source": "AnthonyPompliano",
+    "published": "Mon Aug 31 2026 19:31:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP ETFs Extend Inflow Streak to 9 Days, Pulling In $1.6 Billion Since Launch",
+    "link": "https://cryptopanic.com/news/33306827/XRP-ETFs-Extend-Inflow-Streak-to-9-Days-Pulling-In-16-Billion-Since-Launch",
+    "source": "decrypt.co",
+    "published": "Mon Aug 31 2026 19:31:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Nested protobuf fields let one cheap transaction force work on every Polygon validator",
+    "link": "https://cryptopanic.com/news/33306848/Nested-protobuf-fields-let-one-cheap-transaction-force-work-on-every-Polygon-validator",
+    "source": "cryptopolitan.com",
+    "published": "Mon Aug 31 2026 19:30:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Nvidia Will Invest $3.5Bn In Chipmaker MediaTek",
+    "link": "https://cryptopanic.com/news/33306824/Nvidia-Will-Invest-35Bn-In-Chipmaker-MediaTek",
+    "source": "catenaa.com",
+    "published": "Mon Aug 31 2026 19:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Simon Gerovich: They Said Metaplanet Lost Its Mind. Now It Owns 43,000 BTC",
+    "link": "https://cryptopanic.com/news/33306823/Simon-Gerovich-They-Said-Metaplanet-Lost-Its-Mind-Now-It-Owns-43000-BTC",
+    "source": "BitcoinMagazine",
+    "published": "Mon Aug 31 2026 19:15:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Sony and Warner sue Anthropic, latest AI firm hit with copyright suit",
     "link": "https://cryptopanic.com/news/33306796/Sony-and-Warner-sue-Anthropic-latest-AI-firm-hit-with-copyright-suit",
     "source": "cryptopolitan.com",
     "published": "Mon Aug 31 2026 19:15:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: ️ Steak 'n Shake declared itself a \"Bitcoin company,\" saying loyalty and support from Bitcoiners has allowed the chain to reinvest in food quality.",
+    "link": "https://cryptopanic.com/news/33306881/LATEST-Steak-n-Shake-declared-itself-a-Bitcoin-company-saying-loyalty-and-support-from-Bitcoiners-has-allowed-the-chain-to-reinvest-in-food-quality",
+    "source": "@coinmarketcap",
+    "published": "Mon Aug 31 2026 19:11:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin, Ethereum, XRP, Dogecoin Trade Sideways After Strategy's BTC Purchase",
+    "link": "https://cryptopanic.com/news/33306822/Bitcoin-Ethereum-XRP-Dogecoin-Trade-Sideways-After-Strategys-BTC-Purchase",
+    "source": "feeds2.benzinga.com",
+    "published": "Mon Aug 31 2026 19:07:54 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -18,6 +81,13 @@
     "link": "https://cryptopanic.com/news/33306782/Cardano-picks-its-block-producers-through-a-lottery-only-the-winner-can-see-At-every-slot-a-tick-of-Cardanos-clock-each-stake-pool-privately-runs-a-random-function-keyed-to-its-own-secret-Land-below-a-threshold-sized-by-the-pools-stake-and-it-wins-that-block-Outsiders",
     "source": "@bscnews",
     "published": "Mon Aug 31 2026 19:06:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Crypto ETFs attracted $3.2 billion in inflows last week, \"their largest weekly intake since October 2025\", The Kobeissi Letter reports. \n\nBlackRock's IBIT led with $928 million last week, adding to their $1.3 billion from the prior week, and marking the biggest 2-week",
+    "link": "https://cryptopanic.com/news/33306830/JUST-IN-Crypto-ETFs-attracted-32-billion-in-inflows-last-week-their-largest-weekly-intake-since-October-2025-The-Kobeissi-Letter-reports-BlackRocks-IBIT-led-with-928-million-last-week-adding-to-their-13-billion-from-the-prior-week-and-marking-the-biggest-2-week",
+    "source": "@bitcoinmagazine",
+    "published": "Mon Aug 31 2026 19:05:06 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/33306638/BankChain-Alliance-39-US-Banking-Groups-Plan-a-Blockchain-for-Stablecoins-and-Deposits",
     "source": "spaziocrypto.com",
     "published": "Mon Aug 31 2026 18:40:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  ECB board member Isabel Schnabel says central banks should \"go on-chain\" and issue natively tokenized reserves on DLT platforms, arguing stablecoins cannot replace central bank money.",
-    "link": "https://cryptopanic.com/news/33306715/LATEST-ECB-board-member-Isabel-Schnabel-says-central-banks-should-go-on-chain-and-issue-natively-tokenized-reserves-on-DLT-platforms-arguing-stablecoins-cannot-replace-central-bank-money",
-    "source": "@coinmarketcap",
-    "published": "Mon Aug 31 2026 18:35:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: Strive ($ASST) bought 1,800 BTC for $143 million at an average price of $79,431 per bitcoin.\n\nThe company now holds 23,156 BTC, worth nearly $1.8 billion.",
-    "link": "https://cryptopanic.com/news/33306776/LATEST-Strive-ASST-bought-1800-BTC-for-143-million-at-an-average-price-of-79431-per-bitcoin-The-company-now-holds-23156-BTC-worth-nearly-18-billion",
-    "source": "@coindesk",
-    "published": "Mon Aug 31 2026 18:35:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Metaplanet’s $96,191 cost basis meets a $78,000 Bitcoin as 4,750 coins reach Coinbase",
-    "link": "https://cryptopanic.com/news/33306630/Metaplanets-96191-cost-basis-meets-a-78000-Bitcoin-as-4750-coins-reach-Coinbase",
-    "source": "cryptopolitan.com",
-    "published": "Mon Aug 31 2026 18:35:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Metaplanet CEO Says Bitcoin's Next Cycle Could Belong To Asia: 'The Bottom Is In'",
-    "link": "https://cryptopanic.com/news/33306674/Metaplanet-CEO-Says-Bitcoins-Next-Cycle-Could-Belong-To-Asia-The-Bottom-Is-In",
-    "source": "feeds2.benzinga.com",
-    "published": "Mon Aug 31 2026 18:33:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Your fingerprint as the login, a different identity for every app, and no seed phrase to lose.\n\nHow Internet Identity on internet-computer:native makes cross-app tracking structurally impossible ⬇️",
-    "link": "https://cryptopanic.com/news/33306780/Your-fingerprint-as-the-login-a-different-identity-for-every-app-and-no-seed-phrase-to-lose-How-Internet-Identity-on-internet-computernative-makes-cross-app-tracking-structurally-impossible",
-    "source": "@bscnews",
-    "published": "Mon Aug 31 2026 18:33:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: Bitwise’s XRP ETF has surpassed $500M in assets under management just nine months after launch.",
-    "link": "https://cryptopanic.com/news/33306556/LATEST-Bitwises-XRP-ETF-has-surpassed-500M-in-assets-under-management-just-nine-months-after-launch",
-    "source": "@cointelegraph",
-    "published": "Mon Aug 31 2026 18:31:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Billionaire says Bitcoin is not a real asset, has no link to gold",
-    "link": "https://cryptopanic.com/news/33306669/Billionaire-says-Bitcoin-is-not-a-real-asset-has-no-link-to-gold",
-    "source": "thestreet.com",
-    "published": "Mon Aug 31 2026 18:30:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "\"Why didn't you buy Bitcoin in 2012?\"\n\n- Hum...",
-    "link": "https://cryptopanic.com/news/33306711/Why-didnt-you-buy-Bitcoin-in-2012-Hum",
-    "source": "@btc_archive",
-    "published": "Mon Aug 31 2026 18:20:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hyperliquid seeks US foothold through Kraken parent Payward in crypto perpetuals deal: Bloomberg",
-    "link": "https://cryptopanic.com/news/33306527/Hyperliquid-seeks-US-foothold-through-Kraken-parent-Payward-in-crypto-perpetuals-deal-Bloomberg",
-    "source": "theblock.co",
-    "published": "Mon Aug 31 2026 18:16:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Telegram begins rolling out its non-custodial Gram Wallet to first users\n\n@telegram CEO Pavel Durov said on Monday that Gram Wallet has started reaching a select group of users, with a gradual rollout to the app's billion-plus user base over the coming weeks. The launch lands on",
-    "link": "https://cryptopanic.com/news/33306560/Telegram-begins-rolling-out-its-non-custodial-Gram-Wallet-to-first-users-telegram-CEO-Pavel-Durov-said-on-Monday-that-Gram-Wallet-has-started-reaching-a-select-group-of-users-with-a-gradual-rollout-to-the-apps-billion-plus-user-base-over-the-coming-weeks-The-launch-lands-on",
-    "source": "@bscnews",
-    "published": "Mon Aug 31 2026 18:16:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
