@@ -1,5 +1,12 @@
 [
   {
+    "title": "Tectonic (@TectonicFi) was exploited on Cronos Network, losing over $75M!\n\nThe attacker has already bridged $6.29M to Ethereum and swapped it for 2,592 $ETH, while another $68.7M remains on Cronos Network.\n\nCronos Network is currently paused.",
+    "link": "https://cryptopanic.com/news/33301474/Tectonic-TectonicFi-was-exploited-on-Cronos-Network-losing-over-75M-The-attacker-has-already-bridged-629M-to-Ethereum-and-swapped-it-for-2592-ETH-while-another-687M-remains-on-Cronos-Network-Cronos-Network-is-currently-paused",
+    "source": "@lookonchain",
+    "published": "Mon Aug 31 2026 01:11:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "The @StellarOrg network is known for its remittance capabilities. Discover what truly positions Stellar above the rest when it comes to international transfers... ⬇️",
     "link": "https://cryptopanic.com/news/33301458/The-StellarOrg-network-is-known-for-its-remittance-capabilities-Discover-what-truly-positions-Stellar-above-the-rest-when-it-comes-to-international-transfers",
     "source": "@bscnews",
@@ -18,6 +25,13 @@
     "link": "https://cryptopanic.com/news/33301442/Measuring-Bitcoin-Against-Global-Wealth-The-Bitcoin-Black-Hole-Bitcoin-Asia-2026",
     "source": "BitcoinMagazine",
     "published": "Mon Aug 31 2026 01:00:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Whale/institution 0x2Ea2 is dumping 51,387 $ETH($125.94M)!\n\nOver the past 2 days, 0x2Ea2 has deposited 40,881 $ETH($100.67M) into exchanges, with 10,506 $ETH($25.52M) remaining.",
+    "link": "https://cryptopanic.com/news/33301473/Whaleinstitution-0x2Ea2-is-dumping-51387-ETH12594M-Over-the-past-2-days-0x2Ea2-has-deposited-40881-ETH10067M-into-exchanges-with-10506-ETH2552M-remaining",
+    "source": "@lookonchain",
+    "published": "Mon Aug 31 2026 00:54:20 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33301134/JUST-IN-Brent-Crude-Oil-surges-back-over-90-as-US-and-Iran-resume-strikes",
     "source": "@watcherguru",
     "published": "Sun Aug 30 2026 22:06:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto market’s weekly winners and losers – VET, RAIN, STABLE, ARB",
-    "link": "https://cryptopanic.com/news/33301074/Crypto-markets-weekly-winners-and-losers-VET-RAIN-STABLE-ARB",
-    "source": "ambcrypto.com",
-    "published": "Sun Aug 30 2026 22:00:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Fed Just Revealed Bitcoin’s $900 Trillion Opportunity",
-    "link": "https://cryptopanic.com/news/33301113/The-Fed-Just-Revealed-Bitcoins-900-Trillion-Opportunity",
-    "source": "SimplyBitcoin",
-    "published": "Sun Aug 30 2026 22:00:25 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
