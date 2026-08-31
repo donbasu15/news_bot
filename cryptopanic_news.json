@@ -1,9 +1,44 @@
 [
   {
+    "title": "A Hollow Recovery?",
+    "link": "https://cryptopanic.com/news/33303475/A-Hollow-Recovery",
+    "source": "www.blockhead.co",
+    "published": "Mon Aug 31 2026 09:45:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto.com's Cronos Halts Entire Blockchain After $75M Tectonic Exploit",
+    "link": "https://cryptopanic.com/news/33303476/Cryptocoms-Cronos-Halts-Entire-Blockchain-After-75M-Tectonic-Exploit",
+    "source": "decrypt.co",
+    "published": "Mon Aug 31 2026 09:41:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: ️ The CFTC ordered ex-White House teleprompter operator Gabriel Perez to pay roughly $172,000 for trading presidential mention market contracts using speeches he saw before they were delivered.",
+    "link": "https://cryptopanic.com/news/33303544/LATEST-The-CFTC-ordered-ex-White-House-teleprompter-operator-Gabriel-Perez-to-pay-roughly-172000-for-trading-presidential-mention-market-contracts-using-speeches-he-saw-before-they-were-delivered",
+    "source": "@coinmarketcap",
+    "published": "Mon Aug 31 2026 09:37:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Stock Market Today: S&P 500, Dow Futures Fall as US-Iran Tensions Flare Up—WMT, RZLV, FNGR in Focus",
+    "link": "https://cryptopanic.com/news/33303531/Stock-Market-Today-SampP-500-Dow-Futures-Fall-as-US-Iran-Tensions-Flare-UpWMT-RZLV-FNGR-in-Focus",
+    "source": "feeds2.benzinga.com",
+    "published": "Mon Aug 31 2026 09:37:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "$96M Trump-linked USD1 transfer trail puts Binance concentration back in focus",
     "link": "https://cryptopanic.com/news/33303425/96M-Trump-linked-USD1-transfer-trail-puts-Binance-concentration-back-in-focus",
     "source": "cryptopolitan.com",
     "published": "Mon Aug 31 2026 09:35:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitrue AI Review 2026: How Its Free AI Trading Copilot Works",
+    "link": "https://cryptopanic.com/news/33303530/Bitrue-AI-Review-2026-How-Its-Free-AI-Trading-Copilot-Works",
+    "source": "beincrypto.com",
+    "published": "Mon Aug 31 2026 09:31:04 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -32,6 +67,13 @@
     "link": "https://cryptopanic.com/news/33303488/gmoneyNFT-explains-why-he-doesnt-think-NFTs-are-dead",
     "source": "@decryptmedia",
     "published": "Mon Aug 31 2026 09:27:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Price Prediction for September 2026: A Repeat Pattern Could Undo August's 28% Rally",
+    "link": "https://cryptopanic.com/news/33303528/XRP-Price-Prediction-for-September-2026-A-Repeat-Pattern-Could-Undo-Augusts-28-Rally",
+    "source": "beincrypto.com",
+    "published": "Mon Aug 31 2026 09:23:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -165,48 +207,6 @@
     "link": "https://cryptopanic.com/news/33303123/LATEST-US-spot-Bitcoin-ETFs-snapped-a-nine-day-inflow-streak-with-2018M-in-net-outflows-on-Friday-as-BTC-dipped-below-78000",
     "source": "@coinmarketcap",
     "published": "Mon Aug 31 2026 08:25:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "U.S. jobs report, Russia’s digital ruble rollout: Crypto Week Ahead",
-    "link": "https://cryptopanic.com/news/33303233/US-jobs-report-Russias-digital-ruble-rollout-Crypto-Week-Ahead",
-    "source": "coindesk.com",
-    "published": "Mon Aug 31 2026 08:22:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple’s (XRP) Sharpe Ratio Just Did Something It Hasn’t Done In a Year",
-    "link": "https://cryptopanic.com/news/33303100/Ripples-XRP-Sharpe-Ratio-Just-Did-Something-It-Hasnt-Done-In-a-Year",
-    "source": "cryptopotato.com",
-    "published": "Mon Aug 31 2026 08:19:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Live updates: Bitcoin holds $78,000 as yen breaks 160 and rate-hike bets lift the dollar",
-    "link": "https://cryptopanic.com/news/33303163/Live-updates-Bitcoin-holds-78000-as-yen-breaks-160-and-rate-hike-bets-lift-the-dollar",
-    "source": "coindesk.com",
-    "published": "Mon Aug 31 2026 08:18:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Russia’s largest bank forecasts $46 billion in first-year crypto exchange trading under new rules: report",
-    "link": "https://cryptopanic.com/news/33303059/Russias-largest-bank-forecasts-46-billion-in-first-year-crypto-exchange-trading-under-new-rules-report",
-    "source": "theblock.co",
-    "published": "Mon Aug 31 2026 08:15:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cronos Network Halts Blockchain After Tectonic Lending Protocol Exploit",
-    "link": "https://cryptopanic.com/news/33303114/Cronos-Network-Halts-Blockchain-After-Tectonic-Lending-Protocol-Exploit",
-    "source": "dailyhodl.com",
-    "published": "Mon Aug 31 2026 08:15:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Navigating the Noise: HTX Turns 13 with Resilience in Action",
-    "link": "https://cryptopanic.com/news/33303315/Navigating-the-Noise-HTX-Turns-13-with-Resilience-in-Action",
-    "source": "beincrypto.com",
-    "published": "Mon Aug 31 2026 08:15:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
