@@ -1,5 +1,47 @@
 [
   {
+    "title": "Confidential APT hides Aptos (@Aptos) wallet balances and transfer amounts using zero-knowledge proofs, while keeping sender and receiver addresses public.",
+    "link": "https://cryptopanic.com/news/33303904/Confidential-APT-hides-Aptos-Aptos-wallet-balances-and-transfer-amounts-using-zero-knowledge-proofs-while-keeping-sender-and-receiver-addresses-public",
+    "source": "@bscnews",
+    "published": "Mon Aug 31 2026 10:51:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The founder of @Binance, @cz_binance, admitted he underestimated the growth of the RWA sector...\n\n... and @asx_capital is pioneering real estate-backed RWAs with its yield-bearing assets.\n\nMembers of the ASX community have the chance right now to mint a tokenised asset backed by",
+    "link": "https://cryptopanic.com/news/33303903/The-founder-of-Binance-cz_binance-admitted-he-underestimated-the-growth-of-the-RWA-sector-and-asx_capital-is-pioneering-real-estate-backed-RWAs-with-its-yield-bearing-assets-Members-of-the-ASX-community-have-the-chance-right-now-to-mint-a-tokenised-asset-backed-by",
+    "source": "@bscnews",
+    "published": "Mon Aug 31 2026 10:48:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Attackers drain 15.5M WFLOW from More Markets in suspected $9.3M Flow exploit",
+    "link": "https://cryptopanic.com/news/33303840/Attackers-drain-155M-WFLOW-from-More-Markets-in-suspected-93M-Flow-exploit",
+    "source": "cryptopolitan.com",
+    "published": "Mon Aug 31 2026 10:47:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Ledger Lending Could Bring On-Chain Credit — If Validators Approve It",
+    "link": "https://cryptopanic.com/news/33303824/XRP-Ledger-Lending-Could-Bring-On-Chain-Credit-If-Validators-Approve-It",
+    "source": "coinpaper.com",
+    "published": "Mon Aug 31 2026 10:41:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Algorand Network sees a huge surge in activity! \n\n@AlgoFoundation recorded a localized surge in activity, processing over 584,000 transactions in a single 24-hour window. \n\nThis volume marks the busiest day for the algorand:native network within the past seven days.",
+    "link": "https://cryptopanic.com/news/33303902/Algorand-Network-sees-a-huge-surge-in-activity-AlgoFoundation-recorded-a-localized-surge-in-activity-processing-over-584000-transactions-in-a-single-24-hour-window-This-volume-marks-the-busiest-day-for-the-algorandnative-network-within-the-past-seven-days",
+    "source": "@bscnews",
+    "published": "Mon Aug 31 2026 10:39:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Stellar’s tokenized real-world asset market has surged 360% this year to nearly $4B.",
+    "link": "https://cryptopanic.com/news/33303898/UPDATE-Stellars-tokenized-real-world-asset-market-has-surged-360-this-year-to-nearly-4B",
+    "source": "@cointelegraph",
+    "published": "Mon Aug 31 2026 10:38:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Source",
     "link": "https://cryptopanic.com/news/33303835/Source",
     "source": "@wublockchain",
@@ -21,10 +63,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Chainalysis Sues Over $94.6M Government Crypto Contract",
+    "link": "https://cryptopanic.com/news/33303876/Chainalysis-Sues-Over-946M-Government-Crypto-Contract",
+    "source": "cryptodnes.bg",
+    "published": "Mon Aug 31 2026 10:32:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "XRP Ledger Shows 200% Activity Spike, but Payment Volume Falls 89%",
     "link": "https://cryptopanic.com/news/33303737/XRP-Ledger-Shows-200-Activity-Spike-but-Payment-Volume-Falls-89",
     "source": "coinpaper.com",
     "published": "Mon Aug 31 2026 10:31:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin, Ethereum & XRP Aren't Done Yet This Is Going To Shock The Living Daylights Out Of You",
+    "link": "https://cryptopanic.com/news/33303874/Bitcoin-Ethereum-XRP-Arent-Done-Yet-This-Is-Going-To-Shock-The-Living-Daylights-Out-Of-You",
+    "source": "TheModernInvestor",
+    "published": "Mon Aug 31 2026 10:29:47 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -35,6 +91,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "What is Hedera Hashgraph?\n\nUnlike traditional blockchains, Hedera (@hedera) does not organize transactions into a single chain of blocks.\n\nInstead, it uses a different distributed ledger structure called Hashgraph, designed to reach consensus quickly without proof-of-work mining.",
+    "link": "https://cryptopanic.com/news/33303901/What-is-Hedera-Hashgraph-Unlike-traditional-blockchains-Hedera-hedera-does-not-organize-transactions-into-a-single-chain-of-blocks-Instead-it-uses-a-different-distributed-ledger-structure-called-Hashgraph-designed-to-reach-consensus-quickly-without-proof-of-work-mining",
+    "source": "@bscnews",
+    "published": "Mon Aug 31 2026 10:23:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Crude Oil Prices Surge as Brent Tops $90 on Iran-Hormuz Escalation",
     "link": "https://cryptopanic.com/news/33303722/Crude-Oil-Prices-Surge-as-Brent-Tops-90-on-Iran-Hormuz-Escalation",
     "source": "coinpaper.com",
@@ -42,16 +105,16 @@
     "sentiment": "neutral"
   },
   {
-    "title": "T-Mobile Layoffs Expand as Carrier Closes Stores and Pushes Digital Strategy",
-    "link": "https://cryptopanic.com/news/33303693/T-Mobile-Layoffs-Expand-as-Carrier-Closes-Stores-and-Pushes-Digital-Strategy",
-    "source": "coinpaper.com",
+    "title": "Analyst Floats $6.76 HBAR Target On ETH Comparison",
+    "link": "https://cryptopanic.com/news/33303714/Analyst-Floats-676-HBAR-Target-On-ETH-Comparison",
+    "source": "dailycoin.com",
     "published": "Mon Aug 31 2026 10:21:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Analyst Floats $6.76 HBAR Target On ETH Comparison",
-    "link": "https://cryptopanic.com/news/33303714/Analyst-Floats-676-HBAR-Target-On-ETH-Comparison",
-    "source": "dailycoin.com",
+    "title": "T-Mobile Layoffs Expand as Carrier Closes Stores and Pushes Digital Strategy",
+    "link": "https://cryptopanic.com/news/33303693/T-Mobile-Layoffs-Expand-as-Carrier-Closes-Stores-and-Pushes-Digital-Strategy",
+    "source": "coinpaper.com",
     "published": "Mon Aug 31 2026 10:21:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -144,69 +207,6 @@
     "link": "https://cryptopanic.com/news/33303568/Sberbank-forecasts-USD-46-billion-crypto-trading-in-Russia",
     "source": "cryptovalleyjournal.com",
     "published": "Mon Aug 31 2026 10:00:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ECB Board Member is urging central banks to \"go onchain!\" \n\nThis is bigger than it looks, the ECB is hardly known for moving fast on financial innovation.\n\n So one of its own board members is now saying this indicates blockchain adoption is entering a very different phase.",
-    "link": "https://cryptopanic.com/news/33303638/ECB-Board-Member-is-urging-central-banks-to-go-onchain-This-is-bigger-than-it-looks-the-ECB-is-hardly-known-for-moving-fast-on-financial-innovation-So-one-of-its-own-board-members-is-now-saying-this-indicates-blockchain-adoption-is-entering-a-very-different-phase",
-    "source": "@realallincrypto",
-    "published": "Mon Aug 31 2026 10:00:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Can you guess the project? \n\n🦄",
-    "link": "https://cryptopanic.com/news/33303545/Can-you-guess-the-project",
-    "source": "@coinmarketcap",
-    "published": "Mon Aug 31 2026 10:00:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana ETF from Bitwise passes $1bn mark",
-    "link": "https://cryptopanic.com/news/33303548/Solana-ETF-from-Bitwise-passes-1bn-mark",
-    "source": "catenaa.com",
-    "published": "Mon Aug 31 2026 10:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Warsh’s Jackson Hole Speech Jolts Markets",
-    "link": "https://cryptopanic.com/news/33303546/Warshs-Jackson-Hole-Speech-Jolts-Markets",
-    "source": "catenaa.com",
-    "published": "Mon Aug 31 2026 10:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Regulated Crypto Exchanges Gain Ground in Canada as Oversight Tightens",
-    "link": "https://cryptopanic.com/news/32997081/Regulated-Crypto-Exchanges-Gain-Ground-in-Canada-as-Oversight-Tightens",
-    "source": "coinpaper.com",
-    "published": "Mon Aug 31 2026 10:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Advent, Stripe Abandon $50B Bid for PayPal",
-    "link": "https://cryptopanic.com/news/33303547/Advent-Stripe-Abandon-50B-Bid-for-PayPal",
-    "source": "catenaa.com",
-    "published": "Mon Aug 31 2026 10:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Vietnam's 17M Crypto Users Face a New Regulatory Test\n\nVietnam's new crypto enforcement regime takes effect September 1.\n\nInvestors using unlicensed trading platforms could face fines of 30 million to 50 million VND. The penalties are part of a five-year regulatory pilot launched",
-    "link": "https://cryptopanic.com/news/33303640/Vietnams-17M-Crypto-Users-Face-a-New-Regulatory-Test-Vietnams-new-crypto-enforcement-regime-takes-effect-September-1-Investors-using-unlicensed-trading-platforms-could-face-fines-of-30-million-to-50-million-VND-The-penalties-are-part-of-a-five-year-regulatory-pilot-launched",
-    "source": "@bscnews",
-    "published": "Mon Aug 31 2026 09:53:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HDFC Bank Shares Jump Nearly 3% After CEO Jagdishan Exits",
-    "link": "https://cryptopanic.com/news/33303559/HDFC-Bank-Shares-Jump-Nearly-3-After-CEO-Jagdishan-Exits",
-    "source": "sfctoday.com",
-    "published": "Mon Aug 31 2026 09:51:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "A Hollow Recovery?",
-    "link": "https://cryptopanic.com/news/33303475/A-Hollow-Recovery",
-    "source": "www.blockhead.co",
-    "published": "Mon Aug 31 2026 09:45:36 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
