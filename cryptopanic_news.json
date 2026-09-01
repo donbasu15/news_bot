@@ -1,5 +1,89 @@
 [
   {
+    "title": "Read more ⤵️",
+    "link": "https://cryptopanic.com/news/33309194/Read-more",
+    "source": "@cryptoquant_com",
+    "published": "Tue Sep 01 2026 07:15:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Korean Investors are Returning to the Crypto Market\n\n“And much like the Coinbase Premium, the shift from negative to positive territory has typically been followed by a positive trend.” – By @t0_god",
+    "link": "https://cryptopanic.com/news/33309193/Korean-Investors-are-Returning-to-the-Crypto-Market-And-much-like-the-Coinbase-Premium-the-shift-from-negative-to-positive-territory-has-typically-been-followed-by-a-positive-trend-By-t0_god",
+    "source": "@cryptoquant_com",
+    "published": "Tue Sep 01 2026 07:15:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Meta Pulls Dozens of Porn Ads Linked to Banking Malware After India Warning",
+    "link": "https://cryptopanic.com/news/33309187/Meta-Pulls-Dozens-of-Porn-Ads-Linked-to-Banking-Malware-After-India-Warning",
+    "source": "dailyhodl.com",
+    "published": "Tue Sep 01 2026 07:04:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Strategy hits back at MSCI proposal, calling it ‘discriminatory’ against DATs",
+    "link": "https://cryptopanic.com/news/33309163/Strategy-hits-back-at-MSCI-proposal-calling-it-discriminatory-against-DATs",
+    "source": "theblock.co",
+    "published": "Tue Sep 01 2026 07:03:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "August was crypto’s best month, but here are the bearish signs you probably missed!",
+    "link": "https://cryptopanic.com/news/33309152/August-was-cryptos-best-month-but-here-are-the-bearish-signs-you-probably-missed",
+    "source": "ambcrypto.com",
+    "published": "Tue Sep 01 2026 07:00:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Robinhood Built a Chain for Stocks. Memecoins Now Outearn Ethereum on It",
+    "link": "https://cryptopanic.com/news/33309148/Robinhood-Built-a-Chain-for-Stocks-Memecoins-Now-Outearn-Ethereum-on-It",
+    "source": "coinpaprika.com",
+    "published": "Tue Sep 01 2026 07:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Singapore Proposes Stablecoin License With 100% Reserves, No Holder Interest",
+    "link": "https://cryptopanic.com/news/33309135/Singapore-Proposes-Stablecoin-License-With-100-Reserves-No-Holder-Interest",
+    "source": "www.blockhead.co",
+    "published": "Tue Sep 01 2026 06:58:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "OpenAI’s ‘Trust Us’ TIME cover raises an old warning for AI bulls",
+    "link": "https://cryptopanic.com/news/33309196/OpenAIs-Trust-Us-TIME-cover-raises-an-old-warning-for-AI-bulls",
+    "source": "coindesk.com",
+    "published": "Tue Sep 01 2026 06:52:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "A Massive ETH Selling Event Could be Taking Shape...\n\nA mysterious Ethereum whale is moving 167,855 ethereum:native worth roughly $408 million toward exchanges.\n\nLookonchain says the whale has already deposited 70,739 ETH worth approximately $174 million.\n\nThe deposits were made",
+    "link": "https://cryptopanic.com/news/33309092/A-Massive-ETH-Selling-Event-Could-be-Taking-Shape-A-mysterious-Ethereum-whale-is-moving-167855-ethereumnative-worth-roughly-408-million-toward-exchanges-Lookonchain-says-the-whale-has-already-deposited-70739-ETH-worth-approximately-174-million-The-deposits-were-made",
+    "source": "@bscnews",
+    "published": "Tue Sep 01 2026 06:42:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Hyperliquid and Pump.​fun drove nearly 90% of crypto's record $638M in token buybacks so far in 2026, per an FT report.",
+    "link": "https://cryptopanic.com/news/33309192/LATEST-Hyperliquid-and-Pumpfun-drove-nearly-90-of-cryptos-record-638M-in-token-buybacks-so-far-in-2026-per-an-FT-report",
+    "source": "@coinmarketcap",
+    "published": "Tue Sep 01 2026 06:42:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Is AI America's Next 9/11-Scale Blind Spot? House Intel Thinks It Might Be",
+    "link": "https://cryptopanic.com/news/33309164/Is-AI-Americas-Next-911-Scale-Blind-Spot-House-Intel-Thinks-It-Might-Be",
+    "source": "beincrypto.com",
+    "published": "Tue Sep 01 2026 06:35:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ripple Unlocks 1 Billion XRP Tokens: How Much Is Left?",
+    "link": "https://cryptopanic.com/news/33309086/Ripple-Unlocks-1-Billion-XRP-Tokens-How-Much-Is-Left",
+    "source": "u.today",
+    "published": "Tue Sep 01 2026 06:30:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "ShardLab Invests in StoreHub for Southeast Asia Payments JV",
     "link": "https://cryptopanic.com/news/33309000/ShardLab-Invests-in-StoreHub-for-Southeast-Asia-Payments-JV",
     "source": "catenaa.com",
@@ -32,13 +116,6 @@
     "link": "https://cryptopanic.com/news/33308933/Crypto-Payment-Cards-Had-Their-Best-Month-in-August-Across-Volume-Transactions-and-Users",
     "source": "cryptopolitan.com",
     "published": "Tue Sep 01 2026 06:07:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Largest XRP ETF Crosses $500 Million in Assets Just 9 Months After Launch",
-    "link": "https://cryptopanic.com/news/33308934/Largest-XRP-ETF-Crosses-500-Million-in-Assets-Just-9-Months-After-Launch",
-    "source": "cryptopotato.com",
-    "published": "Tue Sep 01 2026 06:03:40 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -112,6 +189,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Bitcoin steady above $78,000, HYPE leads as majors slip on hawkish Fed bets",
+    "link": "https://cryptopanic.com/news/33309105/Bitcoin-steady-above-78000-HYPE-leads-as-majors-slip-on-hawkish-Fed-bets",
+    "source": "coindesk.com",
+    "published": "Tue Sep 01 2026 04:30:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Flowra Opens Solana Block Building to Competitive Auction",
     "link": "https://cryptopanic.com/news/33308636/Flowra-Opens-Solana-Block-Building-to-Competitive-Auction",
     "source": "catenaa.com",
@@ -123,90 +207,6 @@
     "link": "https://cryptopanic.com/news/33308985/RAM-Token-Up-3500-Today-Should-You-Buy-Ramses-Now",
     "source": "coinpedia.org",
     "published": "Tue Sep 01 2026 04:29:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SEC scrutiny of pre-IPO SPVs lands on the AI names driving the private-market boom",
-    "link": "https://cryptopanic.com/news/33308607/SEC-scrutiny-of-pre-IPO-SPVs-lands-on-the-AI-names-driving-the-private-market-boom",
-    "source": "cryptopolitan.com",
-    "published": "Tue Sep 01 2026 04:19:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33308708/Source",
-    "source": "@wublockchain",
-    "published": "Tue Sep 01 2026 04:11:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "U.S. spot Bitcoin ETFs recorded $217 million in net inflows on Aug. 31, led by BlackRock’s IBIT with about $206 million, while spot Ether ETFs drew $87.68 million, with BlackRock’s ETHA accounting for roughly $59.94 million. BlackRock is the world’s largest asset manager,",
-    "link": "https://cryptopanic.com/news/33308707/US-spot-Bitcoin-ETFs-recorded-217-million-in-net-inflows-on-Aug-31-led-by-BlackRocks-IBIT-with-about-206-million-while-spot-Ether-ETFs-drew-8768-million-with-BlackRocks-ETHA-accounting-for-roughly-5994-million-BlackRock-is-the-worlds-largest-asset-manager",
-    "source": "@wublockchain",
-    "published": "Tue Sep 01 2026 04:11:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Polkadot Outpaces Ton And Avalanche on Decentralization Metric\n\nPolkadot (@Polkadot) currently has the highest Nakamoto Coefficient among several major networks tracked by public Chainspect data.\n\nIts coefficient stands at 168, while Ton Network (@ton_blockchain) follows with 82",
-    "link": "https://cryptopanic.com/news/33308589/Polkadot-Outpaces-Ton-And-Avalanche-on-Decentralization-Metric-Polkadot-Polkadot-currently-has-the-highest-Nakamoto-Coefficient-among-several-major-networks-tracked-by-public-Chainspect-data-Its-coefficient-stands-at-168-while-Ton-Network-ton_blockchain-follows-with-82",
-    "source": "@bscnews",
-    "published": "Tue Sep 01 2026 04:10:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: John Ternus officially becomes Apple $AAPL CEO, replacing Tim Cook.",
-    "link": "https://cryptopanic.com/news/33308643/JUST-IN-John-Ternus-officially-becomes-Apple-AAPL-CEO-replacing-Tim-Cook",
-    "source": "@watcherguru",
-    "published": "Tue Sep 01 2026 04:02:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: Apple claims in a new court filing that OpenAI is destroying evidence tied to a former Apple engineer's use of confidential technical documents, per Bloomberg.",
-    "link": "https://cryptopanic.com/news/33308586/LATEST-Apple-claims-in-a-new-court-filing-that-OpenAI-is-destroying-evidence-tied-to-a-former-Apple-engineers-use-of-confidential-technical-documents-per-Bloomberg",
-    "source": "@cointelegraph",
-    "published": "Tue Sep 01 2026 04:01:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple (XRP) Breakout Confirmed? Analyst Sets the Next Big Target",
-    "link": "https://cryptopanic.com/news/33308570/Ripple-XRP-Breakout-Confirmed-Analyst-Sets-the-Next-Big-Target",
-    "source": "cryptopotato.com",
-    "published": "Tue Sep 01 2026 04:00:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Dogecoin and Bitcoin Advanced in August, but this Solana-Based Token Soared Nearly 100% and Outpaced Them All",
-    "link": "https://cryptopanic.com/news/33308598/Dogecoin-and-Bitcoin-Advanced-in-August-but-this-Solana-Based-Token-Soared-Nearly-100-and-Outpaced-Them-All",
-    "source": "feeds2.benzinga.com",
-    "published": "Tue Sep 01 2026 03:59:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CME’s share of XRP futures jumps as token rallies 40% in a week",
-    "link": "https://cryptopanic.com/news/33308599/CMEs-share-of-XRP-futures-jumps-as-token-rallies-40-in-a-week",
-    "source": "coindesk.com",
-    "published": "Tue Sep 01 2026 03:49:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Polymarket Valuation Surges as Trump Jr. Linked Fund Plans $300M\n\nPolymarket (@Polymarket) is reportedly set to receive another $300 million from 1789 Capital, where Trump Jr. is a partner.\n\nThe investment would form part of a roughly $1 billion funding round for the prediction",
-    "link": "https://cryptopanic.com/news/33308588/Polymarket-Valuation-Surges-as-Trump-Jr-Linked-Fund-Plans-300M-Polymarket-Polymarket-is-reportedly-set-to-receive-another-300-million-from-1789-Capital-where-Trump-Jr-is-a-partner-The-investment-would-form-part-of-a-roughly-1-billion-funding-round-for-the-prediction",
-    "source": "@bscnews",
-    "published": "Tue Sep 01 2026 03:46:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "DeFi Development Corp proposes $20 million preferred stock offering to buy more SOL",
-    "link": "https://cryptopanic.com/news/33308508/DeFi-Development-Corp-proposes-20-million-preferred-stock-offering-to-buy-more-SOL",
-    "source": "theblock.co",
-    "published": "Tue Sep 01 2026 03:46:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇰🇷 South Korea plans to give every citizen free access to AI tools with unlimited tokens, aiming to boost nationwide adoption of the technology.",
-    "link": "https://cryptopanic.com/news/33308540/LATEST-South-Korea-plans-to-give-every-citizen-free-access-to-AI-tools-with-unlimited-tokens-aiming-to-boost-nationwide-adoption-of-the-technology",
-    "source": "@coinmarketcap",
-    "published": "Tue Sep 01 2026 03:45:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
