@@ -1,5 +1,26 @@
 [
   {
+    "title": "CNBC’s Ran Neuner Declares Solana and Ethereum as the Winners of the “Layer 1 War” — Details",
+    "link": "https://cryptopanic.com/news/33314100/CNBCs-Ran-Neuner-Declares-Solana-and-Ethereum-as-the-Winners-of-the-Layer-1-War-Details",
+    "source": "zycrypto.com",
+    "published": "Tue Sep 01 2026 20:47:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NYDFS orders X to cut X Money interest for New York users on October 1",
+    "link": "https://cryptopanic.com/news/33314057/NYDFS-orders-X-to-cut-X-Money-interest-for-New-York-users-on-October-1",
+    "source": "cryptopolitan.com",
+    "published": "Tue Sep 01 2026 20:45:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Interesting retweet",
+    "link": "https://cryptopanic.com/news/33314110/Interesting-retweet",
+    "source": "@realallincrypto",
+    "published": "Tue Sep 01 2026 20:41:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST: 🇬🇧 The London Stock Exchange is teaming up with Kraken owner Payward to bring the UK's biggest listed stocks onchain using its xStocks framework.",
     "link": "https://cryptopanic.com/news/33314028/LATEST-The-London-Stock-Exchange-is-teaming-up-with-Kraken-owner-Payward-to-bring-the-UKs-biggest-listed-stocks-onchain-using-its-xStocks-framework",
     "source": "@coinmarketcap",
@@ -7,10 +28,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "NEW: Claude has reset its five-hour and weekly usage limits for all users alongside the release of Fable 5.1.",
+    "link": "https://cryptopanic.com/news/33314108/NEW-Claude-has-reset-its-five-hour-and-weekly-usage-limits-for-all-users-alongside-the-release-of-Fable-51",
+    "source": "@cointelegraph",
+    "published": "Tue Sep 01 2026 20:41:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Malware Discovered In 19 Google Chrome Browser Extensions As Hackers Push To Drain Crypto and Harvest Data",
     "link": "https://cryptopanic.com/news/33313996/Malware-Discovered-In-19-Google-Chrome-Browser-Extensions-As-Hackers-Push-To-Drain-Crypto-and-Harvest-Data",
     "source": "dailyhodl.com",
     "published": "Tue Sep 01 2026 20:36:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Apple's new CEO John Ternus joins X on his first day and posts a single word\n\nThe @johnternus account went public today with a single post reading \"hello.\" Ternus took over from Tim Cook, who became executive chairman. The post passed 21M views within hours and drew a \"Congrats!\"",
+    "link": "https://cryptopanic.com/news/33314111/Apples-new-CEO-John-Ternus-joins-X-on-his-first-day-and-posts-a-single-word-The-johnternus-account-went-public-today-with-a-single-post-reading-hello-Ternus-took-over-from-Tim-Cook-who-became-executive-chairman-The-post-passed-21M-views-within-hours-and-drew-a-Congrats",
+    "source": "@bscnews",
+    "published": "Tue Sep 01 2026 20:32:30 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -35,9 +70,30 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Roundtable 100 analysts put Nvidia at No. 76 in new tech power ranking",
+    "link": "https://cryptopanic.com/news/33314074/Roundtable-100-analysts-put-Nvidia-at-No-76-in-new-tech-power-ranking",
+    "source": "thestreet.com",
+    "published": "Tue Sep 01 2026 20:28:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Dell Stock Jumps 10% After Hours on Blowout AI Quarter, Guide Raise",
+    "link": "https://cryptopanic.com/news/33314071/Dell-Stock-Jumps-10-After-Hours-on-Blowout-AI-Quarter-Guide-Raise",
+    "source": "beincrypto.com",
+    "published": "Tue Sep 01 2026 20:26:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "How recovery of 61 BTC unlocked a potential $432M treasure hunt for early Bitcoin users",
     "link": "https://cryptopanic.com/news/33313936/How-recovery-of-61-BTC-unlocked-a-potential-432M-treasure-hunt-for-early-Bitcoin-users",
     "source": "cryptoslate.com",
+    "published": "Tue Sep 01 2026 20:25:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BIG: Robinhood Chain has overtaken Solana, Base and Ethereum in chain-fee generation, fueled by $1.49B in DEX volume and 5.52M daily transactions.",
+    "link": "https://cryptopanic.com/news/33314107/BIG-Robinhood-Chain-has-overtaken-Solana-Base-and-Ethereum-in-chain-fee-generation-fueled-by-149B-in-DEX-volume-and-552M-daily-transactions",
+    "source": "@cointelegraph",
     "published": "Tue Sep 01 2026 20:25:59 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -133,6 +189,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Bitcoin Slides Below $77,000 After Trump Confirms New Strikes on Iran",
+    "link": "https://cryptopanic.com/news/33314069/Bitcoin-Slides-Below-77000-After-Trump-Confirms-New-Strikes-on-Iran",
+    "source": "beincrypto.com",
+    "published": "Tue Sep 01 2026 19:59:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bank of America, Wells Fargo, Citi and Goldman Join 21-Firm Plan to Launch Stablecoin",
     "link": "https://cryptopanic.com/news/33313820/Bank-of-America-Wells-Fargo-Citi-and-Goldman-Join-21-Firm-Plan-to-Launch-Stablecoin",
     "source": "dailyhodl.com",
@@ -144,69 +207,6 @@
     "link": "https://cryptopanic.com/news/33313901/New-Claude-just-dropped-and-the-two-numbers-that-matter-are-526-and-75-The-first-is-Anthropics-score-on-an-agentic-science-benchmark-more-than-double-that-of-its-previous-model-The-second-is-the-cache-read-discount-which-the-company-says-takes-a-quarter-off-typical-costs",
     "source": "@bscnews",
     "published": "Tue Sep 01 2026 19:52:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 U.S. spot Bitcoin ETFs saw a $3.5 billion inflow in August, the largest since July 2025, Bloomberg reports",
-    "link": "https://cryptopanic.com/news/33313953/JUST-IN-US-spot-Bitcoin-ETFs-saw-a-35-billion-inflow-in-August-the-largest-since-July-2025-Bloomberg-reports",
-    "source": "@bitcoinmagazine",
-    "published": "Tue Sep 01 2026 19:51:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "@Bitcoinconfasia @cz_binance WATCH NOW: The Bitcoin Century w/ CZ | Bitcoin Asia 2026 \n\nCZ breaks down why Bitcoin reaching $1,000,000 is only a matter of time and explains why nation-states must establish strategic Bitcoin reserves.",
-    "link": "https://cryptopanic.com/news/33313952/Bitcoinconfasia-cz_binance-WATCH-NOW-The-Bitcoin-Century-w-CZ-Bitcoin-Asia-2026-CZ-breaks-down-why-Bitcoin-reaching-1000000-is-only-a-matter-of-time-and-explains-why-nation-states-must-establish-strategic-Bitcoin-reserves",
-    "source": "@bitcoinmagazine",
-    "published": "Tue Sep 01 2026 19:51:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "If only one person can touch an object, there is nothing to race against, so @SuiNetwork skips the ordering step entirely. Owned-object transactions settle in about 400 milliseconds with no consensus, while a busy DEX pool still queues. ⬇️",
-    "link": "https://cryptopanic.com/news/33313900/If-only-one-person-can-touch-an-object-there-is-nothing-to-race-against-so-SuiNetwork-skips-the-ordering-step-entirely-Owned-object-transactions-settle-in-about-400-milliseconds-with-no-consensus-while-a-busy-DEX-pool-still-queues",
-    "source": "@bscnews",
-    "published": "Tue Sep 01 2026 19:48:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "S&P 500 Retesting its previous high as we speak",
-    "link": "https://cryptopanic.com/news/33313898/SampP-500-Retesting-its-previous-high-as-we-speak",
-    "source": "@daancrypto",
-    "published": "Tue Sep 01 2026 19:47:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Google LOST Money for the First Time in History",
-    "link": "https://cryptopanic.com/news/33313853/Google-LOST-Money-for-the-First-Time-in-History",
-    "source": "AnthonyPompliano",
-    "published": "Tue Sep 01 2026 19:46:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Solana is auctioning nine ad spots on its logo, with 100% of proceeds going to Nepal flood relief.",
-    "link": "https://cryptopanic.com/news/33313895/NEW-Solana-is-auctioning-nine-ad-spots-on-its-logo-with-100-of-proceeds-going-to-Nepal-flood-relief",
-    "source": "@cointelegraph",
-    "published": "Tue Sep 01 2026 19:40:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Meta Is Catching Google in Ads. Which Stock Does Wall Street Favor?",
-    "link": "https://cryptopanic.com/news/33313890/Meta-Is-Catching-Google-in-Ads-Which-Stock-Does-Wall-Street-Favor",
-    "source": "beincrypto.com",
-    "published": "Tue Sep 01 2026 19:36:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Buying memecoins with credit cards on Robinhood Wallet and Fomo appears to sidestep card-network crypto rules",
-    "link": "https://cryptopanic.com/news/33313761/Buying-memecoins-with-credit-cards-on-Robinhood-Wallet-and-Fomo-appears-to-sidestep-card-network-crypto-rules",
-    "source": "theblock.co",
-    "published": "Tue Sep 01 2026 19:33:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Core DAO says validator reward exploit is contained and an emergency hardfork is being coordinated\n\nCore DAO just said that the validators drawing block rewards above the protocol's intended issuance can no longer do so, and that an emergency hardfork is being coordinated with",
-    "link": "https://cryptopanic.com/news/33313737/Core-DAO-says-validator-reward-exploit-is-contained-and-an-emergency-hardfork-is-being-coordinated-Core-DAO-just-said-that-the-validators-drawing-block-rewards-above-the-protocols-intended-issuance-can-no-longer-do-so-and-that-an-emergency-hardfork-is-being-coordinated-with",
-    "source": "@bscnews",
-    "published": "Tue Sep 01 2026 19:31:30 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
