@@ -1,9 +1,44 @@
 [
   {
-    "title": "Read more ⤵️",
-    "link": "https://cryptopanic.com/news/33309194/Read-more",
-    "source": "@cryptoquant_com",
-    "published": "Tue Sep 01 2026 07:15:27 GMT+0000 (Coordinated Universal Time)",
+    "title": "Russia’s Crypto Law Takes Effect: What Changes",
+    "link": "https://cryptopanic.com/news/33309328/Russias-Crypto-Law-Takes-Effect-What-Changes",
+    "source": "coindoo.com",
+    "published": "Tue Sep 01 2026 07:36:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hyperliquid Eyes US Market via Kraken: Perpetuals Seek a Regulated Path",
+    "link": "https://cryptopanic.com/news/33309294/Hyperliquid-Eyes-US-Market-via-Kraken-Perpetuals-Seek-a-Regulated-Path",
+    "source": "spaziocrypto.com",
+    "published": "Tue Sep 01 2026 07:34:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Breakingviews - COMMENTARY: Shein’s humbling IPO presages more pain",
+    "link": "https://cryptopanic.com/news/33309275/Breakingviews-COMMENTARY-Sheins-humbling-IPO-presages-more-pain",
+    "source": "@reutersbiz",
+    "published": "Tue Sep 01 2026 07:30:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Lazarus-Linked Wallet Moves $30M Through Hyperliquid\n\nArkham researcher Emmett Gallic says wallets linked to Lazarus moved over $30 million through Hyperliquid.\n\nThe funds entered as bitcoin:native before being converted into ethereum:native and",
+    "link": "https://cryptopanic.com/news/33309279/Lazarus-Linked-Wallet-Moves-30M-Through-Hyperliquid-Arkham-researcher-Emmett-Gallic-says-wallets-linked-to-Lazarus-moved-over-30-million-through-Hyperliquid-The-funds-entered-as-bitcoinnative-before-being-converted-into-ethereumnative-and",
+    "source": "@bscnews",
+    "published": "Tue Sep 01 2026 07:26:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "While the Bank of Japan was already widely expected to lift rates in September as inflation pressures grew, US Treasury Secretary Scott Bessent’s comments that he hoped BOJ Governor Kazuo Ueda would ‘do the right thing’ effectively lock the bank into doing so and put pressure on",
+    "link": "https://cryptopanic.com/news/33309274/While-the-Bank-of-Japan-was-already-widely-expected-to-lift-rates-in-September-as-inflation-pressures-grew-US-Treasury-Secretary-Scott-Bessents-comments-that-he-hoped-BOJ-Governor-Kazuo-Ueda-would-do-the-right-thing-effectively-lock-the-bank-into-doing-so-and-put-pressure-on",
+    "source": "@reutersbiz",
+    "published": "Tue Sep 01 2026 07:25:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trump Warns Towns Rejecting Data Centers Will End Up “Backwards and Poor”",
+    "link": "https://cryptopanic.com/news/33309363/Trump-Warns-Towns-Rejecting-Data-Centers-Will-End-Up-Backwards-and-Poor",
+    "source": "beincrypto.com",
+    "published": "Tue Sep 01 2026 07:19:06 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -11,6 +46,20 @@
     "link": "https://cryptopanic.com/news/33309193/Korean-Investors-are-Returning-to-the-Crypto-Market-And-much-like-the-Coinbase-Premium-the-shift-from-negative-to-positive-territory-has-typically-been-followed-by-a-positive-trend-By-t0_god",
     "source": "@cryptoquant_com",
     "published": "Tue Sep 01 2026 07:15:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Russia’s Crypto Market Gets Massive Forecast\n\nRussia’s regulated crypto trading market could grow from $46.4 billion initially to $87.1 billion by 2029.\n\nThe projection comes from Sberbank deputy chairman Anatoly Popov, according to TASS.\n\nRussia’s new cryptocurrency framework",
+    "link": "https://cryptopanic.com/news/33309278/Russias-Crypto-Market-Gets-Massive-Forecast-Russias-regulated-crypto-trading-market-could-grow-from-464-billion-initially-to-871-billion-by-2029-The-projection-comes-from-Sberbank-deputy-chairman-Anatoly-Popov-according-to-TASS-Russias-new-cryptocurrency-framework",
+    "source": "@bscnews",
+    "published": "Tue Sep 01 2026 07:14:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "France started imposing penalties on the extreme end of fast fashion to try to curb a surge in sales of cheap clothing sold by e-commerce sites including Shein and Temu. More here",
+    "link": "https://cryptopanic.com/news/33309273/France-started-imposing-penalties-on-the-extreme-end-of-fast-fashion-to-try-to-curb-a-surge-in-sales-of-cheap-clothing-sold-by-e-commerce-sites-including-Shein-and-Temu-More-here",
+    "source": "@reutersbiz",
+    "published": "Tue Sep 01 2026 07:13:39 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -25,6 +74,20 @@
     "link": "https://cryptopanic.com/news/33309163/Strategy-hits-back-at-MSCI-proposal-calling-it-discriminatory-against-DATs",
     "source": "theblock.co",
     "published": "Tue Sep 01 2026 07:03:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Cronos Network is back online and producing blocks again after halting earlier to protect users from a Tectonic protocol exploit, with a full postmortem to follow soon.",
+    "link": "https://cryptopanic.com/news/33309267/UPDATE-Cronos-Network-is-back-online-and-producing-blocks-again-after-halting-earlier-to-protect-users-from-a-Tectonic-protocol-exploit-with-a-full-postmortem-to-follow-soon",
+    "source": "@cointelegraph",
+    "published": "Tue Sep 01 2026 07:01:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Aave is absolutely DOMINATING DeFi lending.\n\n@aave now accounts for $12.5B of the entire $26.1B active loan market n,early 50% on its own!\n\nWhen almost half an entire financial market runs through one protocol, that’s not just growth. That’s a serious competitive moat. $AAVE",
+    "link": "https://cryptopanic.com/news/33309276/Aave-is-absolutely-DOMINATING-DeFi-lending-aave-now-accounts-for-125B-of-the-entire-261B-active-loan-market-nearly-50-on-its-own-When-almost-half-an-entire-financial-market-runs-through-one-protocol-thats-not-just-growth-Thats-a-serious-competitive-moat-AAVE",
+    "source": "@realallincrypto",
+    "published": "Tue Sep 01 2026 07:00:31 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -46,6 +109,20 @@
     "link": "https://cryptopanic.com/news/33309135/Singapore-Proposes-Stablecoin-License-With-100-Reserves-No-Holder-Interest",
     "source": "www.blockhead.co",
     "published": "Tue Sep 01 2026 06:58:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Letsbonk(.)fun is Bonk's Solana memecoin launchpad built with Raydium. See how it works, its fees, tokenomics, and current 2026 market position.",
+    "link": "https://cryptopanic.com/news/33309277/Letsbonkfun-is-Bonks-Solana-memecoin-launchpad-built-with-Raydium-See-how-it-works-its-fees-tokenomics-and-current-2026-market-position",
+    "source": "@bscnews",
+    "published": "Tue Sep 01 2026 06:58:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Gold Drops 5.5% From 3-Month High but Goldman Sachs Still Sees 10% Upside",
+    "link": "https://cryptopanic.com/news/33309362/Gold-Drops-55-From-3-Month-High-but-Goldman-Sachs-Still-Sees-10-Upside",
+    "source": "beincrypto.com",
+    "published": "Tue Sep 01 2026 06:54:07 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -74,6 +151,13 @@
     "link": "https://cryptopanic.com/news/33309164/Is-AI-Americas-Next-911-Scale-Blind-Spot-House-Intel-Thinks-It-Might-Be",
     "source": "beincrypto.com",
     "published": "Tue Sep 01 2026 06:35:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LTH Distribution Rose 62% to 282K BTC After the Short Squeeze",
+    "link": "https://cryptopanic.com/news/33309153/LTH-Distribution-Rose-62-to-282K-BTC-After-the-Short-Squeeze",
+    "source": "axeladlerjr.com",
+    "published": "Tue Sep 01 2026 06:31:01 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -123,90 +207,6 @@
     "link": "https://cryptopanic.com/news/33308853/British-Man-Recovers-33M-in-Bitcoin-After-12-Years",
     "source": "coinpaper.com",
     "published": "Tue Sep 01 2026 05:47:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Wall Street Faces Historically Weak September After Record-Setting August for S&P 500",
-    "link": "https://cryptopanic.com/news/33308987/Wall-Street-Faces-Historically-Weak-September-After-Record-Setting-August-for-SP-500",
-    "source": "beincrypto.com",
-    "published": "Tue Sep 01 2026 05:31:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "99.98% Less Energy, New Risks: PoS vs PoW for Developers & Stakers",
-    "link": "https://cryptopanic.com/news/33308775/9998-Less-Energy-New-Risks-PoS-vs-PoW-for-Developers-Stakers",
-    "source": "techgaged.com",
-    "published": "Tue Sep 01 2026 05:31:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "T-REX Rebrands as Rexy With Privacy-Based Rewards App",
-    "link": "https://cryptopanic.com/news/33308741/T-REX-Rebrands-as-Rexy-With-Privacy-Based-Rewards-App",
-    "source": "catenaa.com",
-    "published": "Tue Sep 01 2026 05:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ark Invest buys $37 million worth of shares in Jack Dorsey’s Block Inc",
-    "link": "https://cryptopanic.com/news/33308746/Ark-Invest-buys-37-million-worth-of-shares-in-Jack-Dorseys-Block-Inc",
-    "source": "theblock.co",
-    "published": "Tue Sep 01 2026 04:57:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple Takes The Lead Over Kraken in Institutional Bet\n\nRipple (@Ripple) has emerged as the largest holding in a newly disclosed private crypto portfolio.\n\nC1 Fund Inc. has disclosed Ripple as its largest portfolio holding at 17.5% of net assets.\n\nKraken’s (@krakenfx) parent",
-    "link": "https://cryptopanic.com/news/33308742/Ripple-Takes-The-Lead-Over-Kraken-in-Institutional-Bet-Ripple-Ripple-has-emerged-as-the-largest-holding-in-a-newly-disclosed-private-crypto-portfolio-C1-Fund-Inc-has-disclosed-Ripple-as-its-largest-portfolio-holding-at-175-of-net-assets-Krakens-krakenfx-parent",
-    "source": "@bscnews",
-    "published": "Tue Sep 01 2026 04:46:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "TRON’s Virtual Machine just turned 8!\n\n And with age it’s becoming even more compatible with $ETH!\n\nNew Prague & Osaka upgrades make it easier for Ethereum apps and developers to work with @trondao.\n\nAfter 8 years of growth, $TRX keeps making itself easier for the wider crypto",
-    "link": "https://cryptopanic.com/news/33308739/TRONs-Virtual-Machine-just-turned-8-And-with-age-its-becoming-even-more-compatible-with-ETH-New-Prague-amp-Osaka-upgrades-make-it-easier-for-Ethereum-apps-and-developers-to-work-with-trondao-After-8-years-of-growth-TRX-keeps-making-itself-easier-for-the-wider-crypto",
-    "source": "@realallincrypto",
-    "published": "Tue Sep 01 2026 04:45:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tradfi is back to buying bitcoin:native with +$216.7M net inflows to spot ETFs to start the week.",
-    "link": "https://cryptopanic.com/news/33308680/Tradfi-is-back-to-buying-bitcoinnative-with-2167M-net-inflows-to-spot-ETFs-to-start-the-week",
-    "source": "@stackersatoshi",
-    "published": "Tue Sep 01 2026 04:34:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BULLISH: Tom Lee's Bitmine just bought another 51,000 $ETH worth $126M from FalconX and BitGo today.",
-    "link": "https://cryptopanic.com/news/33308738/BULLISH-Tom-Lees-Bitmine-just-bought-another-51000-ETH-worth-126M-from-FalconX-and-BitGo-today",
-    "source": "@cointelegraph",
-    "published": "Tue Sep 01 2026 04:31:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CLARITY Act Faces Three Big Fights Before Senate Vote\n\nThe CLARITY Act faces pressure over crypto ethics, stablecoin rewards, and DeFi protections.\n\nThose disputes could make the 60 votes needed for cloture harder to secure.\n\nKalshi traders still price a 91% chance of a Senate",
-    "link": "https://cryptopanic.com/news/33308740/CLARITY-Act-Faces-Three-Big-Fights-Before-Senate-Vote-The-CLARITY-Act-faces-pressure-over-crypto-ethics-stablecoin-rewards-and-DeFi-protections-Those-disputes-could-make-the-60-votes-needed-for-cloture-harder-to-secure-Kalshi-traders-still-price-a-91-chance-of-a-Senate",
-    "source": "@bscnews",
-    "published": "Tue Sep 01 2026 04:30:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin steady above $78,000, HYPE leads as majors slip on hawkish Fed bets",
-    "link": "https://cryptopanic.com/news/33309105/Bitcoin-steady-above-78000-HYPE-leads-as-majors-slip-on-hawkish-Fed-bets",
-    "source": "coindesk.com",
-    "published": "Tue Sep 01 2026 04:30:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Flowra Opens Solana Block Building to Competitive Auction",
-    "link": "https://cryptopanic.com/news/33308636/Flowra-Opens-Solana-Block-Building-to-Competitive-Auction",
-    "source": "catenaa.com",
-    "published": "Tue Sep 01 2026 04:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "RAM Token Up 3500% Today: Should You Buy Ramses Now?",
-    "link": "https://cryptopanic.com/news/33308985/RAM-Token-Up-3500-Today-Should-You-Buy-Ramses-Now",
-    "source": "coinpedia.org",
-    "published": "Tue Sep 01 2026 04:29:36 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
