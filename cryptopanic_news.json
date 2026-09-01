@@ -1,9 +1,100 @@
 [
   {
+    "title": "LATEST:  Donald Trump Jr.'s venture firm 1789 Capital is leading a $1B funding round for Polymarket, valuing the prediction market platform at $21B, per WSJ.",
+    "link": "https://cryptopanic.com/news/33313266/LATEST-Donald-Trump-Jrs-venture-firm-1789-Capital-is-leading-a-1B-funding-round-for-Polymarket-valuing-the-prediction-market-platform-at-21B-per-WSJ",
+    "source": "@coinmarketcap",
+    "published": "Tue Sep 01 2026 17:41:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Toncoin price falls 3% as legacy bridge shuts down",
+    "link": "https://cryptopanic.com/news/33313246/Toncoin-price-falls-3-as-legacy-bridge-shuts-down",
+    "source": "ambcrypto.com",
+    "published": "Tue Sep 01 2026 17:41:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "US presses G20 to hold off on new AI rules at Chapel Hill summit",
+    "link": "https://cryptopanic.com/news/33313216/US-presses-G20-to-hold-off-on-new-AI-rules-at-Chapel-Hill-summit",
+    "source": "cryptopolitan.com",
+    "published": "Tue Sep 01 2026 17:30:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Gary Cardone Calls $5M Bitcoin 'Stupid' but Critic Says That's a 'Logical Fallacy'",
+    "link": "https://cryptopanic.com/news/33313259/Gary-Cardone-Calls-5M-Bitcoin-Stupid-but-Critic-Says-Thats-a-Logical-Fallacy",
+    "source": "feeds2.benzinga.com",
+    "published": "Tue Sep 01 2026 17:30:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Tom Lee says \"institutional investors are buying crypto stocks, that's really evident, the volumes have really jumped, and that's a sign that they're betting on a big Q4.\"",
+    "link": "https://cryptopanic.com/news/33313271/UPDATE-Tom-Lee-says-institutional-investors-are-buying-crypto-stocks-thats-really-evident-the-volumes-have-really-jumped-and-thats-a-sign-that-theyre-betting-on-a-big-Q4",
+    "source": "@angrycryptoshow",
+    "published": "Tue Sep 01 2026 17:26:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Tom Lee says crypto winter is likely over, \"there was a massive amount of deleveraging, like October was a big step down, and then earlier this year twice, so I think very few people own crypto, that's why I think Bitcoin could easily be in the 6 figures.\"",
+    "link": "https://cryptopanic.com/news/33313270/UPDATE-Tom-Lee-says-crypto-winter-is-likely-over-there-was-a-massive-amount-of-deleveraging-like-October-was-a-big-step-down-and-then-earlier-this-year-twice-so-I-think-very-few-people-own-crypto-thats-why-I-think-Bitcoin-could-easily-be-in-the-6-figures",
+    "source": "@angrycryptoshow",
+    "published": "Tue Sep 01 2026 17:25:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Jim Cramer breaks silence on major S&P 500 stock’s August rally",
+    "link": "https://cryptopanic.com/news/33313248/Jim-Cramer-breaks-silence-on-major-SP-500-stocks-August-rally",
+    "source": "thestreet.com",
+    "published": "Tue Sep 01 2026 17:23:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Tom Lee says \"if CLARITY Act passes, which could happen this year, and if it does, I think Bitcoin and Ethereum have a huge Q4.\"",
+    "link": "https://cryptopanic.com/news/33313269/UPDATE-Tom-Lee-says-if-CLARITY-Act-passes-which-could-happen-this-year-and-if-it-does-I-think-Bitcoin-and-Ethereum-have-a-huge-Q4",
+    "source": "@angrycryptoshow",
+    "published": "Tue Sep 01 2026 17:23:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Tom Lee says \"the crypto 4-year cycle basically ends next month, so I think people who've turned off crypto on their screens are gonna come back. We're already seeing volumes pick up in Korea, so they're rotating back into crypto.\"",
+    "link": "https://cryptopanic.com/news/33313268/UPDATE-Tom-Lee-says-the-crypto-4-year-cycle-basically-ends-next-month-so-I-think-people-whove-turned-off-crypto-on-their-screens-are-gonna-come-back-Were-already-seeing-volumes-pick-up-in-Korea-so-theyre-rotating-back-into-crypto",
+    "source": "@angrycryptoshow",
+    "published": "Tue Sep 01 2026 17:22:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Tom Lee says \"crypto is the best performing macro asset in Q3 so far, so I think September and Q4 there's gonna be institutional allocation to crypto.\"",
+    "link": "https://cryptopanic.com/news/33313267/UPDATE-Tom-Lee-says-crypto-is-the-best-performing-macro-asset-in-Q3-so-far-so-I-think-September-and-Q4-theres-gonna-be-institutional-allocation-to-crypto",
+    "source": "@angrycryptoshow",
+    "published": "Tue Sep 01 2026 17:22:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: CNBC says Clarity Act passing is a win, but failure won't bring disaster.\n\nYears of regulatory hostility forced the market to adapt.\n\nMainstream media got it right!",
+    "link": "https://cryptopanic.com/news/33313258/JUST-IN-CNBC-says-Clarity-Act-passing-is-a-win-but-failure-wont-bring-disaster-Years-of-regulatory-hostility-forced-the-market-to-adapt-Mainstream-media-got-it-right",
+    "source": "@btc_archive",
+    "published": "Tue Sep 01 2026 17:18:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "GTA VI Hacker Cashing Out Crypto",
+    "link": "https://cryptopanic.com/news/33313206/GTA-VI-Hacker-Cashing-Out-Crypto",
+    "source": "u.today",
+    "published": "Tue Sep 01 2026 17:17:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "SEC seeks to update its 1970s-era transfer agent rules for the blockchain age",
     "link": "https://cryptopanic.com/news/33313175/SEC-seeks-to-update-its-1970s-era-transfer-agent-rules-for-the-blockchain-age",
     "source": "theblock.co",
     "published": "Tue Sep 01 2026 17:16:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Don't forget that this is still happening in the background with a final decision expected by October 16th. \n\nStrategy recently responded to the proposal, stating \"the proposal is misguided, flawed, and conflicts with established securities laws and accounting principles.\"",
+    "link": "https://cryptopanic.com/news/33313260/Dont-forget-that-this-is-still-happening-in-the-background-with-a-final-decision-expected-by-October-16th-Strategy-recently-responded-to-the-proposal-stating-the-proposal-is-misguided-flawed-and-conflicts-with-established-securities-laws-and-accounting-principles",
+    "source": "@stackersatoshi",
+    "published": "Tue Sep 01 2026 17:15:50 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -18,6 +109,13 @@
     "link": "https://cryptopanic.com/news/33313165/NEW-The-United-Nations-Development-Programme-partners-with-Dfinity-to-pilot-decentralized-AI-and-sovereign-cloud-infrastructure-across-governments-and-civil-society-organizations",
     "source": "@coindesk",
     "published": "Tue Sep 01 2026 17:05:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Ethereum ETFs extended their inflow streak to 11 straight sessions on Monday, while XRP and Solana funds each hit a 10th consecutive positive day.",
+    "link": "https://cryptopanic.com/news/33313265/LATEST-Ethereum-ETFs-extended-their-inflow-streak-to-11-straight-sessions-on-Monday-while-XRP-and-Solana-funds-each-hit-a-10th-consecutive-positive-day",
+    "source": "@coinmarketcap",
+    "published": "Tue Sep 01 2026 17:05:19 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -77,16 +175,16 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Binance News in Focus Amid Stock Options Launch on Over 1,000 US Stocks and ETFs",
-    "link": "https://cryptopanic.com/news/33313105/Binance-News-in-Focus-Amid-Stock-Options-Launch-on-Over-1000-US-Stocks-and-ETFs",
-    "source": "thecoinrepublic.com",
+    "title": "Strategy Warns MSCI That Deleting It Would Damage the Index Provider's Reputation",
+    "link": "https://cryptopanic.com/news/33313110/Strategy-Warns-MSCI-That-Deleting-It-Would-Damage-the-Index-Providers-Reputation",
+    "source": "coinpaprika.com",
     "published": "Tue Sep 01 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Strategy Warns MSCI That Deleting It Would Damage the Index Provider's Reputation",
-    "link": "https://cryptopanic.com/news/33313110/Strategy-Warns-MSCI-That-Deleting-It-Would-Damage-the-Index-Providers-Reputation",
-    "source": "coinpaprika.com",
+    "title": "Binance News in Focus Amid Stock Options Launch on Over 1,000 US Stocks and ETFs",
+    "link": "https://cryptopanic.com/news/33313105/Binance-News-in-Focus-Amid-Stock-Options-Launch-on-Over-1000-US-Stocks-and-ETFs",
+    "source": "thecoinrepublic.com",
     "published": "Tue Sep 01 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -98,115 +196,17 @@
     "sentiment": "neutral"
   },
   {
+    "title": "JUST IN: 🇺🇸 SEC proposes new rules to support the use of blockchain technology for securities transactions.",
+    "link": "https://cryptopanic.com/news/33313208/JUST-IN-SEC-proposes-new-rules-to-support-the-use-of-blockchain-technology-for-securities-transactions",
+    "source": "@watcherguru",
+    "published": "Tue Sep 01 2026 16:59:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "FTC Suing Amazon Over Alleged Secret Ad Overcharges Exceeding $20,000,000,000",
     "link": "https://cryptopanic.com/news/33313107/FTC-Suing-Amazon-Over-Alleged-Secret-Ad-Overcharges-Exceeding-20000000000",
     "source": "dailyhodl.com",
     "published": "Tue Sep 01 2026 16:55:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: CoinMarketCap ranks #Cardano $ADA as the 10th most viewed cryptocurrency.",
-    "link": "https://cryptopanic.com/news/33313101/JUST-IN-CoinMarketCap-ranks-Cardano-ADA-as-the-10th-most-viewed-cryptocurrency",
-    "source": "@angrycryptoshow",
-    "published": "Tue Sep 01 2026 16:52:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: U.S. diesel margins hit a record above $106 per barrel as supply disruptions push retail prices near $5.63 per gallon.",
-    "link": "https://cryptopanic.com/news/33313167/LATEST-US-diesel-margins-hit-a-record-above-106-per-barrel-as-supply-disruptions-push-retail-prices-near-563-per-gallon",
-    "source": "@cointelegraph",
-    "published": "Tue Sep 01 2026 16:50:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "X Users Report Unsolicited Password Reset Emails, No Confirmed System Breach\n\nNews Multiple X users reported receiving password reset emails on September 1 that they did not initiate, with some suspecting that attackers may be mass-triggering the reset process using public",
-    "link": "https://cryptopanic.com/news/33313095/X-Users-Report-Unsolicited-Password-Reset-Emails-No-Confirmed-System-Breach-News-Multiple-X-users-reported-receiving-password-reset-emails-on-September-1-that-they-did-not-initiate-with-some-suspecting-that-attackers-may-be-mass-triggering-the-reset-process-using-public",
-    "source": "@wublockchain",
-    "published": "Tue Sep 01 2026 16:47:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Kaspa's kHeavyHash mining algorithm traces back to a 2019 optical proof-of-work paper\n\n#Kaspa was built to be mined on light-based chips that do not exist yet. Its proof-of-work algorithm, kHeavyHash, comes from a 2019 arXiv paper called Optical Proof of Work, whose authors",
-    "link": "https://cryptopanic.com/news/33313171/Kaspas-kHeavyHash-mining-algorithm-traces-back-to-a-2019-optical-proof-of-work-paper-Kaspa-was-built-to-be-mined-on-light-based-chips-that-do-not-exist-yet-Its-proof-of-work-algorithm-kHeavyHash-comes-from-a-2019-arXiv-paper-called-Optical-Proof-of-Work-whose-authors",
-    "source": "@bscnews",
-    "published": "Tue Sep 01 2026 16:45:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Congrats to our partners at @FINTECHTV on becoming the first live financial news channel on Truth+.\n\nA great milestone for bringing real-time financial coverage to new audiences.",
-    "link": "https://cryptopanic.com/news/33313166/Congrats-to-our-partners-at-FINTECHTV-on-becoming-the-first-live-financial-news-channel-on-Truth-A-great-milestone-for-bringing-real-time-financial-coverage-to-new-audiences",
-    "source": "@cointelegraph",
-    "published": "Tue Sep 01 2026 16:42:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 U.S. Senator Kevin Cramer says there is a good chance Clarity passes on Sept. 15.\n\n\"Democrats are unwilling to do something good for the country because it might be good for President Trump.\"",
-    "link": "https://cryptopanic.com/news/33313092/JUST-IN-US-Senator-Kevin-Cramer-says-there-is-a-good-chance-Clarity-passes-on-Sept-15-Democrats-are-unwilling-to-do-something-good-for-the-country-because-it-might-be-good-for-President-Trump",
-    "source": "@btc_archive",
-    "published": "Tue Sep 01 2026 16:40:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Charles Hoskinson says \"we gotta get the last mile of governance put in, reinforce the institutions we have—to a point where they can recursively self-improve things, get the roadmap and vision done, and make sure year after year the budget process continues to improve.\"",
-    "link": "https://cryptopanic.com/news/33313100/UPDATE-Charles-Hoskinson-says-we-gotta-get-the-last-mile-of-governance-put-in-reinforce-the-institutions-we-haveto-a-point-where-they-can-recursively-self-improve-things-get-the-roadmap-and-vision-done-and-make-sure-year-after-year-the-budget-process-continues-to-improve",
-    "source": "@angrycryptoshow",
-    "published": "Tue Sep 01 2026 16:40:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ETF Boom Meets an XRP Battling Short-Term Momentum",
-    "link": "https://cryptopanic.com/news/33312975/ETF-Boom-Meets-an-XRP-Battling-Short-Term-Momentum",
-    "source": "dailycoin.com",
-    "published": "Tue Sep 01 2026 16:40:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: #Cardano $ADA Founder Charles Hoskinson says \"we gotta get Leios out, we gotta get the hard fork turned on.\"",
-    "link": "https://cryptopanic.com/news/33313099/UPDATE-Cardano-ADA-Founder-Charles-Hoskinson-says-we-gotta-get-Leios-out-we-gotta-get-the-hard-fork-turned-on",
-    "source": "@angrycryptoshow",
-    "published": "Tue Sep 01 2026 16:39:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: #Cardano $ADA Founder Charles Hoskinson says \"we have made enormous progress when you actually widen the aperture, and you look at ventures launching, technology evolving. We've been able to keep up with the best of them.\"",
-    "link": "https://cryptopanic.com/news/33313097/UPDATE-Cardano-ADA-Founder-Charles-Hoskinson-says-we-have-made-enormous-progress-when-you-actually-widen-the-aperture-and-you-look-at-ventures-launching-technology-evolving-Weve-been-able-to-keep-up-with-the-best-of-them",
-    "source": "@angrycryptoshow",
-    "published": "Tue Sep 01 2026 16:38:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: #Cardano $ADA Founder Charles Hoskinson on development decentralization, says \"the last milestone in that transition, is to get Leios into the Haskell node. Get it working, ready for Preprod, all set up, fired up, we just wanna flip a switch, hard fork, and turn it on.\"",
-    "link": "https://cryptopanic.com/news/33313096/UPDATE-Cardano-ADA-Founder-Charles-Hoskinson-on-development-decentralization-says-the-last-milestone-in-that-transition-is-to-get-Leios-into-the-Haskell-node-Get-it-working-ready-for-Preprod-all-set-up-fired-up-we-just-wanna-flip-a-switch-hard-fork-and-turn-it-on",
-    "source": "@angrycryptoshow",
-    "published": "Tue Sep 01 2026 16:37:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin’s Korea Premium Flips Positive After Its Longest Losing Streak",
-    "link": "https://cryptopanic.com/news/33312980/Bitcoins-Korea-Premium-Flips-Positive-After-Its-Longest-Losing-Streak",
-    "source": "cryptopotato.com",
-    "published": "Tue Sep 01 2026 16:36:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nashville's Imagine IF summit is back with a bigger roster",
-    "link": "https://cryptopanic.com/news/33313074/Nashvilles-Imagine-IF-summit-is-back-with-a-bigger-roster",
-    "source": "thestreet.com",
-    "published": "Tue Sep 01 2026 16:33:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Justin Sun seeks out Chinese ‘troll king’ in dispute with ex",
-    "link": "https://cryptopanic.com/news/33312949/Justin-Sun-seeks-out-Chinese-troll-king-in-dispute-with-ex",
-    "source": "protos.com",
-    "published": "Tue Sep 01 2026 16:33:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "21 banks including Goldman Sachs and Citi plan joint USD stablecoin for 2027",
-    "link": "https://cryptopanic.com/news/33312926/21-banks-including-Goldman-Sachs-and-Citi-plan-joint-USD-stablecoin-for-2027",
-    "source": "cryptopolitan.com",
-    "published": "Tue Sep 01 2026 16:31:20 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
