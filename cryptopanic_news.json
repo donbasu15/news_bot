@@ -1,5 +1,89 @@
 [
   {
+    "title": "Hyperliquid in Talks With Kraken Parent Payward on US Market Entry",
+    "link": "https://cryptopanic.com/news/33310206/Hyperliquid-in-Talks-With-Kraken-Parent-Payward-on-US-Market-Entry",
+    "source": "www.blockhead.co",
+    "published": "Tue Sep 01 2026 09:15:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ripple and SettleMint Tackle What Comes After Token Issuance",
+    "link": "https://cryptopanic.com/news/33310207/Ripple-and-SettleMint-Tackle-What-Comes-After-Token-Issuance",
+    "source": "coindoo.com",
+    "published": "Tue Sep 01 2026 09:15:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Machine learning algorithm predicts Bitcoin price for September 30, 2026",
+    "link": "https://cryptopanic.com/news/33310204/Machine-learning-algorithm-predicts-Bitcoin-price-for-September-30-2026",
+    "source": "finbold.com",
+    "published": "Tue Sep 01 2026 09:15:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Binance Founder CZ Says His X Follower Count Has Been a 'Consistent Early Indicator’ of Crypto Cycles",
+    "link": "https://cryptopanic.com/news/33310246/Binance-Founder-CZ-Says-His-X-Follower-Count-Has-Been-a-Consistent-Early-Indicator-of-Crypto-Cycles",
+    "source": "feeds2.benzinga.com",
+    "published": "Tue Sep 01 2026 09:10:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Shein IPO Falls Flat as Tariffs and Slowing Growth Threaten Fast-Fashion Giant",
+    "link": "https://cryptopanic.com/news/33310146/Shein-IPO-Falls-Flat-as-Tariffs-and-Slowing-Growth-Threaten-Fast-Fashion-Giant",
+    "source": "coinpaper.com",
+    "published": "Tue Sep 01 2026 09:05:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Will Cash Cat break THIS key resistance? Watch out for 2 major signs!",
+    "link": "https://cryptopanic.com/news/33310124/Will-Cash-Cat-break-THIS-key-resistance-Watch-out-for-2-major-signs",
+    "source": "ambcrypto.com",
+    "published": "Tue Sep 01 2026 09:00:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Polymarket is raising $1 BILLION at a staggering $21 BILLION valuation, led by 1789 Capital. \n\nThis is showing that prediction markets are rapidly becoming a major new financial sector, turning real-world information, news and probabilities into tradable markets.",
+    "link": "https://cryptopanic.com/news/33310111/Polymarket-is-raising-1-BILLION-at-a-staggering-21-BILLION-valuation-led-by-1789-Capital-This-is-showing-that-prediction-markets-are-rapidly-becoming-a-major-new-financial-sector-turning-real-world-information-news-and-probabilities-into-tradable-markets",
+    "source": "@realallincrypto",
+    "published": "Tue Sep 01 2026 09:00:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Arbitrum ZK Upgrade Could Slash Withdrawals",
+    "link": "https://cryptopanic.com/news/33310114/Arbitrum-ZK-Upgrade-Could-Slash-Withdrawals",
+    "source": "catenaa.com",
+    "published": "Tue Sep 01 2026 09:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NYSE Owner ICE Bets on tZERO to Wire Wall Street's Tokenized Markets",
+    "link": "https://cryptopanic.com/news/33310118/NYSE-Owner-ICE-Bets-on-tZERO-to-Wire-Wall-Streets-Tokenized-Markets",
+    "source": "coinpaprika.com",
+    "published": "Tue Sep 01 2026 09:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Zcash Crypto Liquidates Short-Term Bulls as Major Upgrade Launches",
+    "link": "https://cryptopanic.com/news/33310117/Zcash-Crypto-Liquidates-Short-Term-Bulls-as-Major-Upgrade-Launches",
+    "source": "thecoinrepublic.com",
+    "published": "Tue Sep 01 2026 09:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cronos validators erase transaction history to contain massive $75 million lending protocol exploit",
+    "link": "https://cryptopanic.com/news/33310102/Cronos-validators-erase-transaction-history-to-contain-massive-75-million-lending-protocol-exploit",
+    "source": "cryptoslate.com",
+    "published": "Tue Sep 01 2026 08:56:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Price Prediction: What’s Next for BTC?",
+    "link": "https://cryptopanic.com/news/33310101/Bitcoin-Price-Prediction-Whats-Next-for-BTC",
+    "source": "coinpaper.com",
+    "published": "Tue Sep 01 2026 08:54:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "MARKETS: Institutional money is quietly piling into ripple:native futures on CME even as the broader market cuts exposure. \n\nCME's share of open interest jumped from 10% to 17% in two weeks, while ripple:native rallied nearly 40%.",
     "link": "https://cryptopanic.com/news/33310105/MARKETS-Institutional-money-is-quietly-piling-into-ripplenative-futures-on-CME-even-as-the-broader-market-cuts-exposure-CMEs-share-of-open-interest-jumped-from-10-to-17-in-two-weeks-while-ripplenative-rallied-nearly-40",
     "source": "@coindesk",
@@ -123,90 +207,6 @@
     "link": "https://cryptopanic.com/news/33310003/Ontology-Injective-Hit-by-Block-Halts-Suspected-Injective-Exploit-Nets-49-Million-Layer-1-networks-Ontology-and-Injective-both-suffered-block-production-halts-around-Aug-31-amid-security-concerns-Ontology-an-identity-focused-public-blockchain-initially-paused-its-mainnet",
     "source": "@wublockchain",
     "published": "Tue Sep 01 2026 08:14:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: The London Stock Exchange is bringing its 100 largest listed companies onto the blockchain, partnering with @krakenfx owner @Payward to launch them as tokenized xStocks.",
-    "link": "https://cryptopanic.com/news/33309578/NEW-The-London-Stock-Exchange-is-bringing-its-100-largest-listed-companies-onto-the-blockchain-partnering-with-krakenfx-owner-Payward-to-launch-them-as-tokenized-xStocks",
-    "source": "@coindesk",
-    "published": "Tue Sep 01 2026 08:10:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: Von der Leyen calls Europe’s €10T in savings “lazy” and says they should be put “at the service of its businesses” instead of sitting in bank deposits",
-    "link": "https://cryptopanic.com/news/33309680/INTEL-Von-der-Leyen-calls-Europes-10T-in-savings-lazy-and-says-they-should-be-put-at-the-service-of-its-businesses-instead-of-sitting-in-bank-deposits",
-    "source": "@solidintel_x",
-    "published": "Tue Sep 01 2026 08:09:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Robinhood Chain infrastructure coins doing well as the RH chain as outpacing any other chain in chain fees paid.\n\nethereum:0xb50721bcf8d664c30412cfbc6cf7a15145234ad1 & $UNI the biggest recent winners. Besides the on chain coins of course.",
-    "link": "https://cryptopanic.com/news/33309586/The-Robinhood-Chain-infrastructure-coins-doing-well-as-the-RH-chain-as-outpacing-any-other-chain-in-chain-fees-paid-ethereum0xb50721bcf8d664c30412cfbc6cf7a15145234ad1-amp-UNI-the-biggest-recent-winners-Besides-the-on-chain-coins-of-course",
-    "source": "@daancrypto",
-    "published": "Tue Sep 01 2026 08:06:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🤖 Bill Gates told The Atlantic that some job categories should be legally reserved for humans, such as childcare, even if AI or robots could do them just as well.",
-    "link": "https://cryptopanic.com/news/33309999/LATEST-Bill-Gates-told-The-Atlantic-that-some-job-categories-should-be-legally-reserved-for-humans-such-as-childcare-even-if-AI-or-robots-could-do-them-just-as-well",
-    "source": "@coinmarketcap",
-    "published": "Tue Sep 01 2026 08:05:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Singapore Targets Foreign Stablecoin Issuers\n\nSingapore’s MAS has proposed new Stablecoin rules that would expand oversight to foreign issuers.\n\nThe proposal would create a dedicated license for Stablecoin issuance under the Payment Services Act.\n\nOnly licensed issuers could",
-    "link": "https://cryptopanic.com/news/33309590/Singapore-Targets-Foreign-Stablecoin-Issuers-Singapores-MAS-has-proposed-new-Stablecoin-rules-that-would-expand-oversight-to-foreign-issuers-The-proposal-would-create-a-dedicated-license-for-Stablecoin-issuance-under-the-Payment-Services-Act-Only-licensed-issuers-could",
-    "source": "@bscnews",
-    "published": "Tue Sep 01 2026 08:04:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Price Prediction for September 2026: What Follows a $3.5 Billion ETF Month?",
-    "link": "https://cryptopanic.com/news/33309674/Bitcoin-Price-Prediction-for-September-2026-What-Follows-a-35-Billion-ETF-Month",
-    "source": "beincrypto.com",
-    "published": "Tue Sep 01 2026 08:02:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 ETF FLOWS: BTC, ETH, SOL and XRP spot ETFs saw net inflows on Aug. 31.\n\nBTC: $216.7M\nETH: $87.68M\nSOL: $925.01K\nXRP: $5.64M",
-    "link": "https://cryptopanic.com/news/33309580/ETF-FLOWS-BTC-ETH-SOL-and-XRP-spot-ETFs-saw-net-inflows-on-Aug-31-BTC-2167M-ETH-8768M-SOL-92501K-XRP-564M",
-    "source": "@cointelegraph",
-    "published": "Tue Sep 01 2026 08:01:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$ETH Still sitting in this really tight area between its Weekly 200MA/EMA & Horizontal level.\n\nPretty sure we'll see this move away from this area soon.\n\n$2.4K & $2.5K levels to watch on the daily closes. The past ~11 days have been closing in between those.",
-    "link": "https://cryptopanic.com/news/33309585/ETH-Still-sitting-in-this-really-tight-area-between-its-Weekly-200MAEMA-amp-Horizontal-level-Pretty-sure-well-see-this-move-away-from-this-area-soon-24K-amp-25K-levels-to-watch-on-the-daily-closes-The-past-11-days-have-been-closing-in-between-those",
-    "source": "@daancrypto",
-    "published": "Tue Sep 01 2026 08:00:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why Robinhood Chain’s $1M revenue milestone signals a new on-chain battle",
-    "link": "https://cryptopanic.com/news/33309476/Why-Robinhood-Chains-1M-revenue-milestone-signals-a-new-on-chain-battle",
-    "source": "ambcrypto.com",
-    "published": "Tue Sep 01 2026 08:00:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Brian Armstrong says tokenisation could do for finance what the iPhone did for technology!\n\nHe makes the point that Apple never imagined Uber or TikTok, it simply built the platform that made them possible. \n\nAnd the @coinbase CEO believes blockchain could do the same for an",
-    "link": "https://cryptopanic.com/news/33309587/Brian-Armstrong-says-tokenisation-could-do-for-finance-what-the-iPhone-did-for-technology-He-makes-the-point-that-Apple-never-imagined-Uber-or-TikTok-it-simply-built-the-platform-that-made-them-possible-And-the-coinbase-CEO-believes-blockchain-could-do-the-same-for-an",
-    "source": "@realallincrypto",
-    "published": "Tue Sep 01 2026 08:00:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "human.tech Launches Multichain AI Wallet",
-    "link": "https://cryptopanic.com/news/33309739/humantech-Launches-Multichain-AI-Wallet",
-    "source": "catenaa.com",
-    "published": "Tue Sep 01 2026 08:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "human.tech Launches Multichain Wallet Protocol for AI Agents",
-    "link": "https://cryptopanic.com/news/33309451/humantech-Launches-Multichain-Wallet-Protocol-for-AI-Agents",
-    "source": "catenaa.com",
-    "published": "Tue Sep 01 2026 08:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
