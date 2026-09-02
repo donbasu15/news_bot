@@ -1,5 +1,103 @@
 [
   {
+    "title": "Tether Sued For Freezing Stablecoin",
+    "link": "https://cryptopanic.com/news/33318520/Tether-Sued-For-Freezing-Stablecoin",
+    "source": "cryptoprowl.com",
+    "published": "Wed Sep 02 2026 13:39:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Solana Price Prediction: Can ETF Momentum Push SOL Toward $300?",
+    "link": "https://cryptopanic.com/news/33318500/Solana-Price-Prediction-Can-ETF-Momentum-Push-SOL-Toward-300",
+    "source": "coinpaper.com",
+    "published": "Wed Sep 02 2026 13:37:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trading Volumes On Kalshi And Polymarket Fell 15% In August",
+    "link": "https://cryptopanic.com/news/33318519/Trading-Volumes-On-Kalshi-And-Polymarket-Fell-15-In-August",
+    "source": "cryptoprowl.com",
+    "published": "Wed Sep 02 2026 13:37:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Wyoming Sets National Transparency Standard With Chainlink Proof Of Reserve\n\nThe Wyoming Stable Token Commission (@wyostable) is using the @Chainlink Proof of Reserve for real-time, on-chain verification of its $FRNT stablecoin.\n\nThrough this, $FRNT is the first asset released by",
+    "link": "https://cryptopanic.com/news/33318447/Wyoming-Sets-National-Transparency-Standard-With-Chainlink-Proof-Of-Reserve-The-Wyoming-Stable-Token-Commission-wyostable-is-using-the-Chainlink-Proof-of-Reserve-for-real-time-on-chain-verification-of-its-FRNT-stablecoin-Through-this-FRNT-is-the-first-asset-released-by",
+    "source": "@bscnews",
+    "published": "Wed Sep 02 2026 13:30:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 JUST IN: The US Mint launches a $1 coin featuring Donald Trump, the first sitting president on a circulating US coin.",
+    "link": "https://cryptopanic.com/news/33318438/JUST-IN-The-US-Mint-launches-a-1-coin-featuring-Donald-Trump-the-first-sitting-president-on-a-circulating-US-coin",
+    "source": "@cointelegraph",
+    "published": "Wed Sep 02 2026 13:30:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Your Bank Won't Show You the Math. Bitcoin Will.",
+    "link": "https://cryptopanic.com/news/33318527/Your-Bank-Wont-Show-You-the-Math-Bitcoin-Will",
+    "source": "BitcoinMagazine",
+    "published": "Wed Sep 02 2026 13:30:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "FOMO HOUR ft @Tyler_Did_It and @farokh",
+    "link": "https://cryptopanic.com/news/33318550/FOMO-HOUR-ft-Tyler_Did_It-and-farokh",
+    "source": "@decryptmedia",
+    "published": "Wed Sep 02 2026 13:30:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Artificial Inu, a token paired with tokenized $NVDA, became the number 1 @RobinhoodCrypto runner overtaking Cashcat and smashing $320M yesterday.",
+    "link": "https://cryptopanic.com/news/33318551/Artificial-Inu-a-token-paired-with-tokenized-NVDA-became-the-number-1-RobinhoodCrypto-runner-overtaking-Cashcat-and-smashing-320M-yesterday",
+    "source": "@decryptmedia",
+    "published": "Wed Sep 02 2026 13:30:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "What if World War III is already underway just not in the way most people imagine?\n\nToday, @DoombergT joins us to connect the dots between geopolitics, the dollar, bitcoin:native, gold, China and the accelerating AI revolution.\n\nJoin us today at 6:30 PM UK time.",
+    "link": "https://cryptopanic.com/news/33318442/What-if-World-War-III-is-already-underway-just-not-in-the-way-most-people-imagine-Today-DoombergT-joins-us-to-connect-the-dots-between-geopolitics-the-dollar-bitcoinnative-gold-China-and-the-accelerating-AI-revolution-Join-us-today-at-630-PM-UK-time",
+    "source": "@realallincrypto",
+    "published": "Wed Sep 02 2026 13:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Price Prediction: Is $120K Next as ETF Flows and Liquidity Improve?",
+    "link": "https://cryptopanic.com/news/33318430/Bitcoin-Price-Prediction-Is-120K-Next-as-ETF-Flows-and-Liquidity-Improve",
+    "source": "coinpaper.com",
+    "published": "Wed Sep 02 2026 13:29:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ripple’s $88T Opportunity: Inside Its New Custody-to-Tokenization Pipeline",
+    "link": "https://cryptopanic.com/news/33318408/Ripples-88T-Opportunity-Inside-Its-New-Custody-to-Tokenization-Pipeline",
+    "source": "coinpaper.com",
+    "published": "Wed Sep 02 2026 13:22:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇧🇹 TODAY: Bhutan’s government transfers another 400 Bitcoin worth $30.6M, per Lookonchain.",
+    "link": "https://cryptopanic.com/news/33318435/TODAY-Bhutans-government-transfers-another-400-Bitcoin-worth-306M-per-Lookonchain",
+    "source": "@cointelegraph",
+    "published": "Wed Sep 02 2026 13:20:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Kravata Launches Zero-Fee Stablecoin Payment Rails On Sui\n\n@Kravataweb3 has deployed its payment and collection infrastructure on the @SuiNetwork, enabling embedded global accounts powered by stablecoins. \n\nThe rollout facilitates instant cross-border settlement with a",
+    "link": "https://cryptopanic.com/news/33318446/Kravata-Launches-Zero-Fee-Stablecoin-Payment-Rails-On-Sui-Kravataweb3-has-deployed-its-payment-and-collection-infrastructure-on-the-SuiNetwork-enabling-embedded-global-accounts-powered-by-stablecoins-The-rollout-facilitates-instant-cross-border-settlement-with-a",
+    "source": "@bscnews",
+    "published": "Wed Sep 02 2026 13:20:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CrowdStrike and federal authorities dismantle Russian malware that secretly stole crypto for 8 years",
+    "link": "https://cryptopanic.com/news/33318506/CrowdStrike-and-federal-authorities-dismantle-Russian-malware-that-secretly-stole-crypto-for-8-years",
+    "source": "coindesk.com",
+    "published": "Wed Sep 02 2026 13:14:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "XRP ETFs Add $14.38M as Bitcoin Funds Lose $236.5M and XRP Falls",
     "link": "https://cryptopanic.com/news/33318322/XRP-ETFs-Add-1438M-as-Bitcoin-Funds-Lose-2365M-and-XRP-Falls",
     "source": "coinpaper.com",
@@ -14,6 +112,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Just in: A crypto content creator has posted an article on upcoming memecoin #MARIANHOOD, highlighting the bullish potential of a major exchange listing due to the strong community behind it and growing volume.\n\nLaunching tomorrow - make sure to follow the account for updates",
+    "link": "https://cryptopanic.com/news/33318445/Just-in-A-crypto-content-creator-has-posted-an-article-on-upcoming-memecoin-MARIANHOOD-highlighting-the-bullish-potential-of-a-major-exchange-listing-due-to-the-strong-community-behind-it-and-growing-volume-Launching-tomorrow-make-sure-to-follow-the-account-for-updates",
+    "source": "@bscnews",
+    "published": "Wed Sep 02 2026 13:06:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: 🇫🇷 French company Capital B raises $8.8M from Adam Back to buy 376 BTC \n\n• Follows $23M raised last week \n\n• Treasury will hold 3,521 BTC, worth $270M",
     "link": "https://cryptopanic.com/news/33318349/JUST-IN-French-company-Capital-B-raises-88M-from-Adam-Back-to-buy-376-BTC-Follows-23M-raised-last-week-Treasury-will-hold-3521-BTC-worth-270M",
     "source": "@btc_archive",
@@ -25,6 +130,41 @@
     "link": "https://cryptopanic.com/news/33318281/Wyoming-expands-Chainlink-partnership-with-onchain-reserve-verification-for-FRNT",
     "source": "theblock.co",
     "published": "Wed Sep 02 2026 13:05:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: US Mint launches 2026 Trump $1 coin, making him the first sitting US president featured on a circulating coin",
+    "link": "https://cryptopanic.com/news/33318553/INTEL-US-Mint-launches-2026-Trump-1-coin-making-him-the-first-sitting-US-president-featured-on-a-circulating-coin",
+    "source": "@solidintel_x",
+    "published": "Wed Sep 02 2026 13:01:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Just 3.59 Million SHIB Burned in Slow September Start",
+    "link": "https://cryptopanic.com/news/33318530/Just-359-Million-SHIB-Burned-in-Slow-September-Start",
+    "source": "u.today",
+    "published": "Wed Sep 02 2026 13:00:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Uber reportedly plans to cut 3,300 jobs, or 10% of its workforce.",
+    "link": "https://cryptopanic.com/news/33318434/JUST-IN-Uber-reportedly-plans-to-cut-3300-jobs-or-10-of-its-workforce",
+    "source": "@cointelegraph",
+    "published": "Wed Sep 02 2026 13:00:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$HYPE's Hyperliquid Strategies just expanded its stock purchase agreement from $1B to a massive $2.5 BILLION!\n\nThat potentially gives the company far more firepower to raise capital as it builds around the @HyperliquidX ecosystem.\n\nWall Street so clearly love exposure to",
+    "link": "https://cryptopanic.com/news/33318441/HYPEs-Hyperliquid-Strategies-just-expanded-its-stock-purchase-agreement-from-1B-to-a-massive-25-BILLION-That-potentially-gives-the-company-far-more-firepower-to-raise-capital-as-it-builds-around-the-HyperliquidX-ecosystem-Wall-Street-so-clearly-love-exposure-to",
+    "source": "@realallincrypto",
+    "published": "Wed Sep 02 2026 13:00:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Midweek calendar check:\n\n297 events were added across 178 coins in the last 7 days.\n\n2 high-impact events are already on the calendar for the next 7 days. See what's coming: \n\nFor new events and breaking news, follow @cmcal_bot.",
+    "link": "https://cryptopanic.com/news/33318439/Midweek-calendar-check-297-events-were-added-across-178-coins-in-the-last-7-days-2-high-impact-events-are-already-on-the-calendar-for-the-next-7-days-See-whats-coming-For-new-events-and-breaking-news-follow-cmcal_bot",
+    "source": "@coinmarketcal",
+    "published": "Wed Sep 02 2026 13:00:31 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -67,146 +207,6 @@
     "link": "https://cryptopanic.com/news/33318348/BREAKING-Thailand-SEC-demands-ID-on-Bitcoin-amp-crypto-transfers-starting-March-2027-Collect-ID-on-every-external-transfer-Verify-control-of-external-self-hosted-wallets-Keep-sender-and-receiver-ID-for-five-years",
     "source": "@btc_archive",
     "published": "Wed Sep 02 2026 12:57:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇺🇸 Former NY Governor Andrew Cuomo told CNBC that \"if we don't pass the CLARITY Act, it costs us internationally. Europe is ahead of us. Asia is ahead of us.\"",
-    "link": "https://cryptopanic.com/news/33318350/LATEST-Former-NY-Governor-Andrew-Cuomo-told-CNBC-that-if-we-dont-pass-the-CLARITY-Act-it-costs-us-internationally-Europe-is-ahead-of-us-Asia-is-ahead-of-us",
-    "source": "@coinmarketcap",
-    "published": "Wed Sep 02 2026 12:53:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP's 20% Pullback Hits Critical Support: Is $2 Still in Play?",
-    "link": "https://cryptopanic.com/news/33318261/XRPs-20-Pullback-Hits-Critical-Support-Is-2-Still-in-Play",
-    "source": "feeds2.benzinga.com",
-    "published": "Wed Sep 02 2026 12:47:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Volvo Cars June-August sales volumes down 7.4% year-on-year",
-    "link": "https://cryptopanic.com/news/33318156/Volvo-Cars-June-August-sales-volumes-down-74-year-on-year",
-    "source": "@reutersbiz",
-    "published": "Wed Sep 02 2026 12:45:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: @adam3us invests $8.8M in Paris-listed Bitcoin treasury firm Capital B, backing a purchase of up to 376 bitcoin:native that would make it Europe's second-largest listed corporate Bitcoin holder.",
-    "link": "https://cryptopanic.com/news/33318152/LATEST-adam3us-invests-88M-in-Paris-listed-Bitcoin-treasury-firm-Capital-B-backing-a-purchase-of-up-to-376-bitcoinnative-that-would-make-it-Europes-second-largest-listed-corporate-Bitcoin-holder",
-    "source": "@coindesk",
-    "published": "Wed Sep 02 2026 12:44:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Dogecoin (DOGE) Invalidates Most Important Level Since May",
-    "link": "https://cryptopanic.com/news/33318222/Dogecoin-DOGE-Invalidates-Most-Important-Level-Since-May",
-    "source": "u.today",
-    "published": "Wed Sep 02 2026 12:40:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Core DAO's biggest DeFi platform release update on staking\n\n@Coredao_Org suspended staking reward emissions yesterday after a recent malicious validator attack. \n\nThis suspension applies to all Core staking, including b14g, dualCORE, stCORE, and direct validator staking.\n\nIn the",
-    "link": "https://cryptopanic.com/news/33318164/Core-DAOs-biggest-DeFi-platform-release-update-on-staking-Coredao_Org-suspended-staking-reward-emissions-yesterday-after-a-recent-malicious-validator-attack-This-suspension-applies-to-all-Core-staking-including-b14g-dualCORE-stCORE-and-direct-validator-staking-In-the",
-    "source": "@bscnews",
-    "published": "Wed Sep 02 2026 12:33:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Adam Back invests another $8.8 million in Capital B as bitcoin treasury firm targets 3,521 BTC",
-    "link": "https://cryptopanic.com/news/33318063/Adam-Back-invests-another-88-million-in-Capital-B-as-bitcoin-treasury-firm-targets-3521-BTC",
-    "source": "theblock.co",
-    "published": "Wed Sep 02 2026 12:31:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: HashKey becomes the first Asian digital asset firm to join DTCC’s digital assets working group.",
-    "link": "https://cryptopanic.com/news/33318155/LATEST-HashKey-becomes-the-first-Asian-digital-asset-firm-to-join-DTCCs-digital-assets-working-group",
-    "source": "@cointelegraph",
-    "published": "Wed Sep 02 2026 12:30:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Robinhood Chain has exploded, reigniting CT with incredible momentum.\n\nDid @vladtenev save the trenches?",
-    "link": "https://cryptopanic.com/news/33318231/Robinhood-Chain-has-exploded-reigniting-CT-with-incredible-momentum-Did-vladtenev-save-the-trenches",
-    "source": "@decryptmedia",
-    "published": "Wed Sep 02 2026 12:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "FOMO HOUR ft @Tyler_Did_It and @farokh",
-    "link": "https://cryptopanic.com/news/33318229/FOMO-HOUR-ft-Tyler_Did_It-and-farokh",
-    "source": "@decryptmedia",
-    "published": "Wed Sep 02 2026 12:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "A little GoDaddy and ANS thinking outside of the Box....",
-    "link": "https://cryptopanic.com/news/33318204/A-little-GoDaddy-and-ANS-thinking-outside-of-the-Box",
-    "source": "r/hedera",
-    "published": "Wed Sep 02 2026 12:22:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "GoMining Academy launches free eight-lesson crypto and blockchain course",
-    "link": "https://cryptopanic.com/news/33318027/GoMining-Academy-launches-free-eight-lesson-crypto-and-blockchain-course",
-    "source": "finbold.com",
-    "published": "Wed Sep 02 2026 12:21:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: 🇲🇽 Mexican billionaire Ricardo Salinas says \"Bitcoin changes one fundamental rule: no one can print more just because they want to.\"\n\n\"Fiat inflation is a hidden tax. Don’t be fooled: learn, protect your savings, and defend your freedom, buy Bitcoin and hold it.\"",
-    "link": "https://cryptopanic.com/news/33318238/NEW-Mexican-billionaire-Ricardo-Salinas-says-Bitcoin-changes-one-fundamental-rule-no-one-can-print-more-just-because-they-want-to-Fiat-inflation-is-a-hidden-tax-Dont-be-fooled-learn-protect-your-savings-and-defend-your-freedom-buy-Bitcoin-and-hold-it",
-    "source": "@bitcoinmagazine",
-    "published": "Wed Sep 02 2026 12:20:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Robinhood Chain Leads 24H Revenue After a Four-Day Surge\n\nRobinhood Chain generated $3.38M in revenue over the past 24 hours, nearly 2x Canton’s $1.71M and 3.5x Tron’s $960K. Every other chain on the chart was below $120K.\n\nFour days ago, Robinhood Chain was generating only about",
-    "link": "https://cryptopanic.com/news/33318055/Robinhood-Chain-Leads-24H-Revenue-After-a-Four-Day-Surge-Robinhood-Chain-generated-338M-in-revenue-over-the-past-24-hours-nearly-2x-Cantons-171M-and-35x-Trons-960K-Every-other-chain-on-the-chart-was-below-120K-Four-days-ago-Robinhood-Chain-was-generating-only-about",
-    "source": "@coinmarketcap",
-    "published": "Wed Sep 02 2026 12:20:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "3 Altcoins Crypto Whales Are Buying In September 2026",
-    "link": "https://cryptopanic.com/news/33318233/3-Altcoins-Crypto-Whales-Are-Buying-In-September-2026",
-    "source": "beincrypto.com",
-    "published": "Wed Sep 02 2026 12:19:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Binance recorded roughly $15.7B in net inflows during August's rally, about 8.4x the second-largest exchange, per Binance Research.",
-    "link": "https://cryptopanic.com/news/33318054/LATEST-Binance-recorded-roughly-157B-in-net-inflows-during-Augusts-rally-about-84x-the-second-largest-exchange-per-Binance-Research",
-    "source": "@coinmarketcap",
-    "published": "Wed Sep 02 2026 12:17:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: US private employers added 38,000 jobs in August, below the 47,000 forecast",
-    "link": "https://cryptopanic.com/news/33317925/INTEL-US-private-employers-added-38000-jobs-in-August-below-the-47000-forecast",
-    "source": "@solidintel_x",
-    "published": "Wed Sep 02 2026 12:15:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hyperscale Data Halts Michigan Bitcoin Mining for AI Data Center Shift",
-    "link": "https://cryptopanic.com/news/33317921/Hyperscale-Data-Halts-Michigan-Bitcoin-Mining-for-AI-Data-Center-Shift",
-    "source": "btcusa.com",
-    "published": "Wed Sep 02 2026 12:14:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP and bitcoin may be forming the 'Bart Simpson pattern' as prices pull back",
-    "link": "https://cryptopanic.com/news/33318044/XRP-and-bitcoin-may-be-forming-the-Bart-Simpson-pattern-as-prices-pull-back",
-    "source": "coindesk.com",
-    "published": "Wed Sep 02 2026 12:13:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HashKey Group Collaborates With DTCC For Standardized Global Infrastructure For Tokenized Assets\n\n@HashKeyGroup teams up with @The_DTCC, joining the Digital Assets Advisory Services Industry Working Group as the first digital asset service provider in Asia to do so.\n\nHashKey",
-    "link": "https://cryptopanic.com/news/33318163/HashKey-Group-Collaborates-With-DTCC-For-Standardized-Global-Infrastructure-For-Tokenized-Assets-HashKeyGroup-teams-up-with-The_DTCC-joining-the-Digital-Assets-Advisory-Services-Industry-Working-Group-as-the-first-digital-asset-service-provider-in-Asia-to-do-so-HashKey",
-    "source": "@bscnews",
-    "published": "Wed Sep 02 2026 12:12:17 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
