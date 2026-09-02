@@ -1,5 +1,82 @@
 [
   {
+    "title": "INTEL: US private employers added 38,000 jobs in August, below the 47,000 forecast",
+    "link": "https://cryptopanic.com/news/33317925/INTEL-US-private-employers-added-38000-jobs-in-August-below-the-47000-forecast",
+    "source": "@solidintel_x",
+    "published": "Wed Sep 02 2026 12:15:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hyperscale Data Halts Michigan Bitcoin Mining for AI Data Center Shift",
+    "link": "https://cryptopanic.com/news/33317921/Hyperscale-Data-Halts-Michigan-Bitcoin-Mining-for-AI-Data-Center-Shift",
+    "source": "btcusa.com",
+    "published": "Wed Sep 02 2026 12:14:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto Top 10 Roles With Salaries Reaching $240k",
+    "link": "https://cryptopanic.com/news/33317885/Crypto-Top-10-Roles-With-Salaries-Reaching-240k",
+    "source": "cryptopolitan.com",
+    "published": "Wed Sep 02 2026 12:07:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Is 'Not Exactly Gold' but That's a Good Thing, Bitwise Exec Says",
+    "link": "https://cryptopanic.com/news/33318024/Bitcoin-Is-Not-Exactly-Gold-but-Thats-a-Good-Thing-Bitwise-Exec-Says",
+    "source": "feeds2.benzinga.com",
+    "published": "Wed Sep 02 2026 12:07:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Gold Just Erased All Its August Gains – Bitcoin Is Holding Up Better at $77K",
+    "link": "https://cryptopanic.com/news/33317860/Gold-Just-Erased-All-Its-August-Gains-Bitcoin-Is-Holding-Up-Better-at-77K",
+    "source": "cryptopotato.com",
+    "published": "Wed Sep 02 2026 12:02:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The dollar is holding near a two-week high, but growing US fiscal uncertainty is prompting some investors to revive the bear case for the greenback. Francesco Pesole from ING told Reuters that interest rate expectations will ultimately drive the dollar",
+    "link": "https://cryptopanic.com/news/33317831/The-dollar-is-holding-near-a-two-week-high-but-growing-US-fiscal-uncertainty-is-prompting-some-investors-to-revive-the-bear-case-for-the-greenback-Francesco-Pesole-from-ING-told-Reuters-that-interest-rate-expectations-will-ultimately-drive-the-dollar",
+    "source": "@reutersbiz",
+    "published": "Wed Sep 02 2026 12:00:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Global Debt Collapse? Is Bitcoin the Solution?!",
+    "link": "https://cryptopanic.com/news/33317864/Global-Debt-Collapse-Is-Bitcoin-the-Solution",
+    "source": "SimplyBitcoin",
+    "published": "Wed Sep 02 2026 12:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "What are the chances of Pi Network burning PI tokens?\n\nSimply put, Pi Network (@PiCoreTeam) has little chance of running an extensive $PI burn program. \n\nThe official token economics limit supply to 100 billion tokens: 65% from community mining, 20% from the core team, 10% from",
+    "link": "https://cryptopanic.com/news/33317839/What-are-the-chances-of-Pi-Network-burning-PI-tokens-Simply-put-Pi-Network-PiCoreTeam-has-little-chance-of-running-an-extensive-PI-burn-program-The-official-token-economics-limit-supply-to-100-billion-tokens-65-from-community-mining-20-from-the-core-team-10-from",
+    "source": "@bscnews",
+    "published": "Wed Sep 02 2026 11:59:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "bitcoin:native Another test of the same range low.\n\nSwept the Tuesday low with this one too.\n\nBulls need to hold on to this area.",
+    "link": "https://cryptopanic.com/news/33317832/bitcoinnative-Another-test-of-the-same-range-low-Swept-the-Tuesday-low-with-this-one-too-Bulls-need-to-hold-on-to-this-area",
+    "source": "@daancrypto",
+    "published": "Wed Sep 02 2026 11:57:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Morning Minute: Bitcoin Enters ‘Rektember’ After Best August Since 2017",
+    "link": "https://cryptopanic.com/news/33317822/Morning-Minute-Bitcoin-Enters-Rektember-After-Best-August-Since-2017",
+    "source": "decrypt.co",
+    "published": "Wed Sep 02 2026 11:55:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: Uber is laying off 3,300 employees, cutting 10% of its workforce and 20% of managers as it prepares to spend over $10B on robotaxi partnerships",
+    "link": "https://cryptopanic.com/news/33317924/INTEL-Uber-is-laying-off-3300-employees-cutting-10-of-its-workforce-and-20-of-managers-as-it-prepares-to-spend-over-10B-on-robotaxi-partnerships",
+    "source": "@solidintel_x",
+    "published": "Wed Sep 02 2026 11:52:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: @HashKeyGroup becomes the first Asian digital asset firm to join @The_DTCC's Digital Assets Advisory Services Industry Working Group, joining @JPMorgan, @GoldmanSachs, @Nasdaq and @NYSE in shaping how tokenized securities move through global capital markets.",
     "link": "https://cryptopanic.com/news/33317828/JUST-IN-HashKeyGroup-becomes-the-first-Asian-digital-asset-firm-to-join-The_DTCCs-Digital-Assets-Advisory-Services-Industry-Working-Group-joining-JPMorgan-GoldmanSachs-Nasdaq-and-NYSE-in-shaping-how-tokenized-securities-move-through-global-capital-markets",
     "source": "@coindesk",
@@ -11,6 +88,20 @@
     "link": "https://cryptopanic.com/news/33317824/JPMorgan-Strategist-Says-Hyperscalers-Could-Add-1500000000000-In-Debt-Amid-AI-Growth",
     "source": "dailyhodl.com",
     "published": "Wed Sep 02 2026 11:45:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Capital B aims to add 376 BTC to bitcoin treasury following $8.8 million Adam Back investment",
+    "link": "https://cryptopanic.com/news/33317914/Capital-B-aims-to-add-376-BTC-to-bitcoin-treasury-following-88-million-Adam-Back-investment",
+    "source": "coindesk.com",
+    "published": "Wed Sep 02 2026 11:45:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Pons Earned More Fees in 24 Hours Than Hyperliquid, Polymarket, and Fomo Combined",
+    "link": "https://cryptopanic.com/news/33318014/Pons-Earned-More-Fees-in-24-Hours-Than-Hyperliquid-Polymarket-and-Fomo-Combined",
+    "source": "beincrypto.com",
+    "published": "Wed Sep 02 2026 11:42:45 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -49,6 +140,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Trader 0x9a49 sold all 7,201 $ETH ($17.2M) he bought a week ago, making a $780K profit.",
+    "link": "https://cryptopanic.com/news/33317923/Trader-0x9a49-sold-all-7201-ETH-172M-he-bought-a-week-ago-making-a-780K-profit",
+    "source": "@lookonchain",
+    "published": "Wed Sep 02 2026 11:36:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "BlockchainFX BFX Auction Ends as Token Jumps 1,400% on Just $1,591 in USDC Liquidity",
     "link": "https://cryptopanic.com/news/33317734/BlockchainFX-BFX-Auction-Ends-as-Token-Jumps-1400-on-Just-1591-in-USDC-Liquidity",
     "source": "theholycoins.com",
@@ -84,6 +182,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Record Short Flush Resets Crypto Leverage",
+    "link": "https://cryptopanic.com/news/33317883/Record-Short-Flush-Resets-Crypto-Leverage",
+    "source": "catenaa.com",
+    "published": "Wed Sep 02 2026 11:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "TODAY: Circle minted 500,000,000 $USDC on Solana.",
     "link": "https://cryptopanic.com/news/33317829/TODAY-Circle-minted-500000000-USDC-on-Solana",
     "source": "@cointelegraph",
@@ -102,111 +207,6 @@
     "link": "https://cryptopanic.com/news/33317651/XRP-reserves-on-Binance-fall-by-over-500-million-in-9-months",
     "source": "finbold.com",
     "published": "Wed Sep 02 2026 11:25:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Royal Government of #Bhutan just transferred out another 400 bitcoin:native($30.62M).",
-    "link": "https://cryptopanic.com/news/33317663/The-Royal-Government-of-Bhutan-just-transferred-out-another-400-bitcoinnative3062M",
-    "source": "@lookonchain",
-    "published": "Wed Sep 02 2026 11:25:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Edges Bitcoin Across Korea’s Top Platforms",
-    "link": "https://cryptopanic.com/news/33317649/XRP-Edges-Bitcoin-Across-Koreas-Top-Platforms",
-    "source": "dailycoin.com",
-    "published": "Wed Sep 02 2026 11:25:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "X Money can’t pay New Yorkers interest, gives them a $300 ‘bonus’ instead",
-    "link": "https://cryptopanic.com/news/33317653/X-Money-cant-pay-New-Yorkers-interest-gives-them-a-300-bonus-instead",
-    "source": "protos.com",
-    "published": "Wed Sep 02 2026 11:24:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Japanese Firm dumps XRP, DOGE, and alt holdings for Bitcoin\n\nJapanese publicly traded platform Remixpoint divests its entire holdings of various digital assets, including $ETH, $SOL, ripple:native, and $DOGE. \n\nThe move brings in ¥878.8M (about 5.5M) of gross revenue, enabling",
-    "link": "https://cryptopanic.com/news/33317836/Japanese-Firm-dumps-XRP-DOGE-and-alt-holdings-for-Bitcoin-Japanese-publicly-traded-platform-Remixpoint-divests-its-entire-holdings-of-various-digital-assets-including-ETH-SOL-ripplenative-and-DOGE-The-move-brings-in-8788M-about-55M-of-gross-revenue-enabling",
-    "source": "@bscnews",
-    "published": "Wed Sep 02 2026 11:19:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "European Gas Hits 3-Year High With Winter Storage at 13-Year Low",
-    "link": "https://cryptopanic.com/news/33317717/European-Gas-Hits-3-Year-High-With-Winter-Storage-at-13-Year-Low",
-    "source": "beincrypto.com",
-    "published": "Wed Sep 02 2026 11:18:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "You can win $1,000 for just trading crypto!\n\nHot new L1 blockchain @TxFlow_L1 is offering the chance to win $1,000 upfront when you sign up using the below link and trade $1M on its platform.\n\nTxFlow offers perps and spot trading for every crypto asset you could possibly want,",
-    "link": "https://cryptopanic.com/news/33317834/You-can-win-1000-for-just-trading-crypto-Hot-new-L1-blockchain-TxFlow_L1-is-offering-the-chance-to-win-1000-upfront-when-you-sign-up-using-the-below-link-and-trade-1M-on-its-platform-TxFlow-offers-perps-and-spot-trading-for-every-crypto-asset-you-could-possibly-want",
-    "source": "@bscnews",
-    "published": "Wed Sep 02 2026 11:17:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The yen carry trade is still unwinding – Why is BTC not crashing?",
-    "link": "https://cryptopanic.com/news/33317588/The-yen-carry-trade-is-still-unwinding-Why-is-BTC-not-crashing",
-    "source": "cryptopolitan.com",
-    "published": "Wed Sep 02 2026 11:16:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Wall Street is now racing to control the $1.9T stablecoin shift to avoid losing its customer base",
-    "link": "https://cryptopanic.com/news/33317612/Wall-Street-is-now-racing-to-control-the-19T-stablecoin-shift-to-avoid-losing-its-customer-base",
-    "source": "cryptoslate.com",
-    "published": "Wed Sep 02 2026 11:15:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "A Fed rate increase would be a mistake, some observers say as bitcoin, gold, stocks fall",
-    "link": "https://cryptopanic.com/news/33317671/A-Fed-rate-increase-would-be-a-mistake-some-observers-say-as-bitcoin-gold-stocks-fall",
-    "source": "coindesk.com",
-    "published": "Wed Sep 02 2026 11:14:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Over the past month, the $USDT supply on #Tron increased by $4B to $94.27B, surpassing the total supply on #Ethereum.",
-    "link": "https://cryptopanic.com/news/33317662/Over-the-past-month-the-USDT-supply-on-Tron-increased-by-4B-to-9427B-surpassing-the-total-supply-on-Ethereum",
-    "source": "@lookonchain",
-    "published": "Wed Sep 02 2026 11:14:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "bitcoin:native The current monthly high ($79.2K) is a weak one. In all of the previous ~8 years of history, it has never been so low and early in the month.\n\nThis makes it a very likely level to get taken out at some point.\n\nThis is why I mentioned about a deviation early in the",
-    "link": "https://cryptopanic.com/news/33317592/bitcoinnative-The-current-monthly-high-792K-is-a-weak-one-In-all-of-the-previous-8-years-of-history-it-has-never-been-so-low-and-early-in-the-month-This-makes-it-a-very-likely-level-to-get-taken-out-at-some-point-This-is-why-I-mentioned-about-a-deviation-early-in-the",
-    "source": "@daancrypto",
-    "published": "Wed Sep 02 2026 11:12:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tether Sued Over $42 Million USDT Freeze",
-    "link": "https://cryptopanic.com/news/33317716/Tether-Sued-Over-42-Million-USDT-Freeze",
-    "source": "beincrypto.com",
-    "published": "Wed Sep 02 2026 11:06:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Bitcoin's one-month correlation with the S&P 500 has fallen toward zero as BTC decouples from stocks, according to Glassnode.",
-    "link": "https://cryptopanic.com/news/33317760/LATEST-Bitcoins-one-month-correlation-with-the-SampP-500-has-fallen-toward-zero-as-BTC-decouples-from-stocks-according-to-Glassnode",
-    "source": "@coinmarketcap",
-    "published": "Wed Sep 02 2026 11:05:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: The U.S. Department of Commerce brings official GDP, PCE and economic data on-chain via @Chainlink across 10 blockchains, letting blockchain applications access live U.S. government economic figures as they're released.",
-    "link": "https://cryptopanic.com/news/33317584/NEW-The-US-Department-of-Commerce-brings-official-GDP-PCE-and-economic-data-on-chain-via-Chainlink-across-10-blockchains-letting-blockchain-applications-access-live-US-government-economic-figures-as-theyre-released",
-    "source": "@coindesk",
-    "published": "Wed Sep 02 2026 11:04:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Lawsuit challenges Tether for allegedly freezing $42.4 million USDT before U.S. warrant",
-    "link": "https://cryptopanic.com/news/33317670/Lawsuit-challenges-Tether-for-allegedly-freezing-424-million-USDT-before-US-warrant",
-    "source": "coindesk.com",
-    "published": "Wed Sep 02 2026 11:03:46 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
