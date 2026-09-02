@@ -1,9 +1,107 @@
 [
   {
+    "title": "Coinbase opens regulated crypto derivatives to Canadian traders",
+    "link": "https://cryptopanic.com/news/33320253/Coinbase-opens-regulated-crypto-derivatives-to-Canadian-traders",
+    "source": "cryptopolitan.com",
+    "published": "Wed Sep 02 2026 19:15:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "'The Right Trade': Strategy CEO Has No Regrets Selling Bitcoin at $60K Before Buying Back Higher",
+    "link": "https://cryptopanic.com/news/33320243/The-Right-Trade-Strategy-CEO-Has-No-Regrets-Selling-Bitcoin-at-60K-Before-Buying-Back-Higher",
+    "source": "decrypt.co",
+    "published": "Wed Sep 02 2026 19:15:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Japan's 10Y Bond Yield Hits 3%. Why Bitcoin Should Pay Attention",
+    "link": "https://cryptopanic.com/news/33320213/Japans-10Y-Bond-Yield-Hits-3-Why-Bitcoin-Should-Pay-Attention",
+    "source": "dailycoin.com",
+    "published": "Wed Sep 02 2026 19:05:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trump's Crypto Ally Fights to Save His Company After a 99% Crash",
+    "link": "https://cryptopanic.com/news/33320237/Trumps-Crypto-Ally-Fights-to-Save-His-Company-After-a-99-Crash",
+    "source": "feeds2.benzinga.com",
+    "published": "Wed Sep 02 2026 19:00:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Uniswap trading volume explodes to record levels over 7 million per day – but actual fees lag far behind",
+    "link": "https://cryptopanic.com/news/33320192/Uniswap-trading-volume-explodes-to-record-levels-over-7-million-per-day-but-actual-fees-lag-far-behind",
+    "source": "cryptoslate.com",
+    "published": "Wed Sep 02 2026 19:00:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Google escapes ad tech breakup as US judge rejects DOJ sale demand",
+    "link": "https://cryptopanic.com/news/33320207/Google-escapes-ad-tech-breakup-as-US-judge-rejects-DOJ-sale-demand",
+    "source": "cryptopolitan.com",
+    "published": "Wed Sep 02 2026 19:00:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Citi, Goldman and 19 Rivals Line Up Behind One Dollar Stablecoin",
+    "link": "https://cryptopanic.com/news/33320189/Citi-Goldman-and-19-Rivals-Line-Up-Behind-One-Dollar-Stablecoin",
+    "source": "coinpaprika.com",
+    "published": "Wed Sep 02 2026 19:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tennessee Bank Teller Accused of Draining $60,000 From Customer Accounts Using Old Withdrawal Slips",
+    "link": "https://cryptopanic.com/news/33320214/Tennessee-Bank-Teller-Accused-of-Draining-60000-From-Customer-Accounts-Using-Old-Withdrawal-Slips",
+    "source": "dailyhodl.com",
+    "published": "Wed Sep 02 2026 18:59:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Senator Lummis: 🇺🇸 U.S. Treasury buying Bitcoin is “the most asymmetric bet ever.” \n\n“The downside is manageable. The upside is generational.”\n\n(June 2026)",
+    "link": "https://cryptopanic.com/news/33320239/Senator-Lummis-US-Treasury-buying-Bitcoin-is-the-most-asymmetric-bet-ever-The-downside-is-manageable-The-upside-is-generational-June-2026",
+    "source": "@btc_archive",
+    "published": "Wed Sep 02 2026 18:55:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  New York Fed president John Williams says the recent surge in Treasury yields reflects \"really a strong U.S. economy\" and economic outlook.",
+    "link": "https://cryptopanic.com/news/33320242/LATEST-New-York-Fed-president-John-Williams-says-the-recent-surge-in-Treasury-yields-reflects-really-a-strong-US-economy-and-economic-outlook",
+    "source": "@coinmarketcap",
+    "published": "Wed Sep 02 2026 18:53:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "3 Reasons Why September Could Be Bullish for Ethereum (ETH)",
+    "link": "https://cryptopanic.com/news/33320184/3-Reasons-Why-September-Could-Be-Bullish-for-Ethereum-ETH",
+    "source": "cryptopotato.com",
+    "published": "Wed Sep 02 2026 18:51:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tether's Stablecoin Goes Live on Stellar",
+    "link": "https://cryptopanic.com/news/33320198/Tethers-Stablecoin-Goes-Live-on-Stellar",
+    "source": "u.today",
+    "published": "Wed Sep 02 2026 18:51:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "First ICOs, Then ETFs… This Could Be Crypto’s Next Capital Wave",
     "link": "https://cryptopanic.com/news/33320159/First-ICOs-Then-ETFs-This-Could-Be-Cryptos-Next-Capital-Wave",
     "source": "MilkRoadYoutube",
     "published": "Wed Sep 02 2026 18:45:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Grayscale Battles SEC Over Future of Crypto ETFs: “Don’t Break What Works”",
+    "link": "https://cryptopanic.com/news/33320215/Grayscale-Battles-SEC-Over-Future-of-Crypto-ETFs-Dont-Break-What-Works",
+    "source": "beincrypto.com",
+    "published": "Wed Sep 02 2026 18:44:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇳🇱 Netherlands spent 6 months moving $12B in gold.\n\n• Secret operation. Military-base site involved. \n\n• 59tons sold in NY, bought back in London.\n\nAnyone know something cheaper, faster, more secure?",
+    "link": "https://cryptopanic.com/news/33320238/JUST-IN-Netherlands-spent-6-months-moving-12B-in-gold-Secret-operation-Military-base-site-involved-59tons-sold-in-NY-bought-back-in-London-Anyone-know-something-cheaper-faster-more-secure",
+    "source": "@btc_archive",
+    "published": "Wed Sep 02 2026 18:44:25 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -49,17 +147,17 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Is Bitcoin About to Flash Crash? What a 'Bart Simpson' Pattern Would Actually Take",
-    "link": "https://cryptopanic.com/news/33320185/Is-Bitcoin-About-to-Flash-Crash-What-a-Bart-Simpson-Pattern-Would-Actually-Take",
-    "source": "@decryptmedia",
-    "published": "Wed Sep 02 2026 18:31:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
     "title": "JUST IN: 🇺🇸 President Trump says the stock market will go up.",
     "link": "https://cryptopanic.com/news/33320188/JUST-IN-President-Trump-says-the-stock-market-will-go-up",
     "source": "@watcherguru",
     "published": "Wed Sep 02 2026 18:31:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Thailand SEC to Enforce Crypto Travel Rule by February 2027",
+    "link": "https://cryptopanic.com/news/33320255/Thailand-SEC-to-Enforce-Crypto-Travel-Rule-by-February-2027",
+    "source": "cryptodnes.bg",
+    "published": "Wed Sep 02 2026 18:30:51 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -109,104 +207,6 @@
     "link": "https://cryptopanic.com/news/33320141/BIG-Arbitrum-Foundation-reports-Arbitrum-processed-478-million-transactions-in-the-first-half-of-2026-bringing-its-lifetime-total-to-27-billion",
     "source": "@cointelegraph",
     "published": "Wed Sep 02 2026 18:20:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "New Jersey asks Supreme Court to decide who regulates sports betting on prediction markets",
-    "link": "https://cryptopanic.com/news/33320005/New-Jersey-asks-Supreme-Court-to-decide-who-regulates-sports-betting-on-prediction-markets",
-    "source": "theblock.co",
-    "published": "Wed Sep 02 2026 18:18:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Grayscale: BTC correlation to gold hits 50% on persistent deficits and rising yields.\n\n​Zoom out. BTC is winning!",
-    "link": "https://cryptopanic.com/news/33320049/Grayscale-BTC-correlation-to-gold-hits-50-on-persistent-deficits-and-rising-yields-Zoom-out-BTC-is-winning",
-    "source": "@btc_archive",
-    "published": "Wed Sep 02 2026 18:18:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇺🇸 Wyoming has adopted Chainlink Proof of Reserve to give near-real-time onchain verification of the reserves backing its Frontier Stable Token.",
-    "link": "https://cryptopanic.com/news/33320053/LATEST-Wyoming-has-adopted-Chainlink-Proof-of-Reserve-to-give-near-real-time-onchain-verification-of-the-reserves-backing-its-Frontier-Stable-Token",
-    "source": "@coinmarketcap",
-    "published": "Wed Sep 02 2026 18:17:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin, Ethereum, XRP, Dogecoin Trade Sideways as $78,000 Emerges as Key Level",
-    "link": "https://cryptopanic.com/news/33320050/Bitcoin-Ethereum-XRP-Dogecoin-Trade-Sideways-as-78000-Emerges-as-Key-Level",
-    "source": "feeds2.benzinga.com",
-    "published": "Wed Sep 02 2026 18:15:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Connecticut Law Firm Bookkeeper Admits Stealing Over $750,000 Using Fake Checks and Rental Cash",
-    "link": "https://cryptopanic.com/news/33320012/Connecticut-Law-Firm-Bookkeeper-Admits-Stealing-Over-750000-Using-Fake-Checks-and-Rental-Cash",
-    "source": "dailyhodl.com",
-    "published": "Wed Sep 02 2026 18:14:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Dropbox Says Hackers Accessed About 5,000 Accounts Without Passwords",
-    "link": "https://cryptopanic.com/news/33320011/Dropbox-Says-Hackers-Accessed-About-5000-Accounts-Without-Passwords",
-    "source": "dailyhodl.com",
-    "published": "Wed Sep 02 2026 18:13:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": ".@Base’s Ben Spiegelman says the killer DeFi use case for tokenized stocks is borrowing against your holdings without selling:\n\n“Being able to borrow against your position, but be able to still be long the actual stock, gives people that flexibility and that freedom.”",
-    "link": "https://cryptopanic.com/news/33320140/Bases-Ben-Spiegelman-says-the-killer-DeFi-use-case-for-tokenized-stocks-is-borrowing-against-your-holdings-without-selling-Being-able-to-borrow-against-your-position-but-be-able-to-still-be-long-the-actual-stock-gives-people-that-flexibility-and-that-freedom",
-    "source": "@coindesk",
-    "published": "Wed Sep 02 2026 18:10:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Missing Bitcoin financier sells $51.5 million Miami mansion",
-    "link": "https://cryptopanic.com/news/33320057/Missing-Bitcoin-financier-sells-515-million-Miami-mansion",
-    "source": "thestreet.com",
-    "published": "Wed Sep 02 2026 18:10:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tether News: $42.4M USDT Freeze Sparks Court Dispute Over Government Seizure",
-    "link": "https://cryptopanic.com/news/33319968/Tether-News-424M-USDT-Freeze-Sparks-Court-Dispute-Over-Government-Seizure",
-    "source": "thecoinrepublic.com",
-    "published": "Wed Sep 02 2026 18:10:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Roundtable 100 analysts rank Bitcoin lower than Ether, Solana, and HYPE",
-    "link": "https://cryptopanic.com/news/33320056/Roundtable-100-analysts-rank-Bitcoin-lower-than-Ether-Solana-and-HYPE",
-    "source": "thestreet.com",
-    "published": "Wed Sep 02 2026 18:08:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "World Open-Sources ProveKit for Private Identity Proofs",
-    "link": "https://cryptopanic.com/news/33319945/World-Open-Sources-ProveKit-for-Private-Identity-Proofs",
-    "source": "bankless.com",
-    "published": "Wed Sep 02 2026 18:06:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Arbitrum Foundation reports $6.19 million in first-half income to its DAO\n\nThe @arbitrum Foundation reported $6.19 million accrued to the ArbitrumDAO from four income lines in the six months to June 30. The network handled 478 million transactions in the period, lifting its",
-    "link": "https://cryptopanic.com/news/33320145/Arbitrum-Foundation-reports-619-million-in-first-half-income-to-its-DAO-The-arbitrum-Foundation-reported-619-million-accrued-to-the-ArbitrumDAO-from-four-income-lines-in-the-six-months-to-June-30-The-network-handled-478-million-transactions-in-the-period-lifting-its",
-    "source": "@bscnews",
-    "published": "Wed Sep 02 2026 18:05:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "21 Banks Are Not Just Building a Stablecoin. They’re Fighting for Control.",
-    "link": "https://cryptopanic.com/news/33319942/21-Banks-Are-Not-Just-Building-a-Stablecoin-Theyre-Fighting-for-Control",
-    "source": "dailycoin.com",
-    "published": "Wed Sep 02 2026 18:05:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Breakingviews - COMMENTARY: BP's steady chair piles pressure on new CEO",
-    "link": "https://cryptopanic.com/news/33320143/Breakingviews-COMMENTARY-BPs-steady-chair-piles-pressure-on-new-CEO",
-    "source": "@reutersbiz",
-    "published": "Wed Sep 02 2026 18:01:25 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
