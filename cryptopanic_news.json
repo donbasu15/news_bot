@@ -1,5 +1,12 @@
 [
   {
+    "title": "An AI Training Data Startup Just Became Y Combinator's Fastest-Ever Unicorn",
+    "link": "https://cryptopanic.com/news/33320899/An-AI-Training-Data-Startup-Just-Became-Y-Combinators-Fastest-Ever-Unicorn",
+    "source": "decrypt.co",
+    "published": "Wed Sep 02 2026 23:16:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "American Airlines is adding more premium seats to its Boeing 777-300ER planes used on long-haul routes to improve profitability as US carriers increasingly chase higher-spending travelers. More here",
     "link": "https://cryptopanic.com/news/33320887/American-Airlines-is-adding-more-premium-seats-to-its-Boeing-777-300ER-planes-used-on-long-haul-routes-to-improve-profitability-as-US-carriers-increasingly-chase-higher-spending-travelers-More-here",
     "source": "@reutersbiz",
@@ -11,6 +18,13 @@
     "link": "https://cryptopanic.com/news/33320890/US-backs-OpenAI-fair-use-claim-warns-of-AI-licensing-oligopoly",
     "source": "cryptopolitan.com",
     "published": "Wed Sep 02 2026 23:13:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇺🇸 Ondo Finance filed comment letters with the SEC and CFTC arguing existing US law already accommodates stock perpetual futures, modern onchain margin, and blockchain-native data reporting, without needing new rules.",
+    "link": "https://cryptopanic.com/news/33320943/LATEST-Ondo-Finance-filed-comment-letters-with-the-SEC-and-CFTC-arguing-existing-US-law-already-accommodates-stock-perpetual-futures-modern-onchain-margin-and-blockchain-native-data-reporting-without-needing-new-rules",
+    "source": "@coinmarketcap",
+    "published": "Wed Sep 02 2026 23:05:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33320829/Bitcoin-Jobs-Report-Preview-What-Fridays-Payrolls-Could-Mean-for-BTC",
     "source": "bitcoinalmanack.com",
     "published": "Wed Sep 02 2026 21:55:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Uniswap says volume in Robinhood's tokenized stocks passed $3 billion\n\n@Uniswap said $2 billion in Robinhood-issued tokenized equities moved through the protocol over the past two weeks, lifting the all-time total past $3 billion. The chart accompanying the claim is credited to",
-    "link": "https://cryptopanic.com/news/33320792/Uniswap-says-volume-in-Robinhoods-tokenized-stocks-passed-3-billion-Uniswap-said-2-billion-in-Robinhood-issued-tokenized-equities-moved-through-the-protocol-over-the-past-two-weeks-lifting-the-all-time-total-past-3-billion-The-chart-accompanying-the-claim-is-credited-to",
-    "source": "@bscnews",
-    "published": "Wed Sep 02 2026 21:54:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  World open-sourced ProveKit, a zero-knowledge toolkit that lets users prove age, nationality, or ID validity via phone or browser without exposing personal data.",
-    "link": "https://cryptopanic.com/news/33320760/LATEST-World-open-sourced-ProveKit-a-zero-knowledge-toolkit-that-lets-users-prove-age-nationality-or-ID-validity-via-phone-or-browser-without-exposing-personal-data",
-    "source": "@coinmarketcap",
-    "published": "Wed Sep 02 2026 21:53:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
