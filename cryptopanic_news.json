@@ -1,5 +1,12 @@
 [
   {
+    "title": "AI predicts XRP price for September 30, 2026",
+    "link": "https://cryptopanic.com/news/33317433/AI-predicts-XRP-price-for-September-30-2026",
+    "source": "finbold.com",
+    "published": "Wed Sep 02 2026 10:46:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "London Stock Exchange Brings 100 UK Equities On-Chain via Kraken Deal",
     "link": "https://cryptopanic.com/news/33317403/London-Stock-Exchange-Brings-100-UK-Equities-On-Chain-via-Kraken-Deal",
     "source": "spaziocrypto.com",
@@ -35,13 +42,6 @@
     "sentiment": "neutral"
   },
   {
-    "title": "SEC Proposes First Transfer Agent Overhaul in 40 Years, Citing Tokenization",
-    "link": "https://cryptopanic.com/news/33317426/SEC-Proposes-First-Transfer-Agent-Overhaul-in-40-Years-Citing-Tokenization",
-    "source": "@decryptmedia",
-    "published": "Wed Sep 02 2026 10:26:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
     "title": "Elon Musk Grok AI Predicts Ethereum Price by January 1, 2027",
     "link": "https://cryptopanic.com/news/33317337/Elon-Musk-Grok-AI-Predicts-Ethereum-Price-by-January-1-2027",
     "source": "99bitcoins.com",
@@ -49,10 +49,31 @@
     "sentiment": "neutral"
   },
   {
+    "title": "LATEST: 🤖 Elon Musk says AI will \"probably increase the global economy by 20% to 30%,\" or roughly $20T to $30T per year.",
+    "link": "https://cryptopanic.com/news/33317500/LATEST-Elon-Musk-says-AI-will-probably-increase-the-global-economy-by-20-to-30-or-roughly-20T-to-30T-per-year",
+    "source": "@coinmarketcap",
+    "published": "Wed Sep 02 2026 10:25:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "SEC Proposes First Transfer Agent Overhaul in 40 Years, Citing Tokenization",
     "link": "https://cryptopanic.com/news/33317310/SEC-Proposes-First-Transfer-Agent-Overhaul-in-40-Years-Citing-Tokenization",
     "source": "decrypt.co",
     "published": "Wed Sep 02 2026 10:25:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Overnight: BTC Near $77K as Iran Lifts Oil and Yields",
+    "link": "https://cryptopanic.com/news/33317489/Bitcoin-Overnight-BTC-Near-77K-as-Iran-Lifts-Oil-and-Yields",
+    "source": "bitcoinalmanack.com",
+    "published": "Wed Sep 02 2026 10:25:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Aston Martin Bondholders Go to Court Over £450M Loan That Moved Its Brand Rights",
+    "link": "https://cryptopanic.com/news/33317496/Aston-Martin-Bondholders-Go-to-Court-Over-450M-Loan-That-Moved-Its-Brand-Rights",
+    "source": "beincrypto.com",
+    "published": "Wed Sep 02 2026 10:22:36 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -186,27 +207,6 @@
     "link": "https://cryptopanic.com/news/33317246/Thanks-Crypto",
     "source": "@coinmarketcap",
     "published": "Wed Sep 02 2026 10:00:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin August Rally Is Being Put to the Test With Higher Treasury Yields",
-    "link": "https://cryptopanic.com/news/33317138/Bitcoin-August-Rally-Is-Being-Put-to-the-Test-With-Higher-Treasury-Yields",
-    "source": "cryptonews.com",
-    "published": "Wed Sep 02 2026 09:57:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: ️ Bitget CEO Gracy Chen called 2026 a \"monkey market\" rather than a bull or bear market, since it keeps jumping up and down, speaking with Schwab Network.",
-    "link": "https://cryptopanic.com/news/33317243/LATEST-Bitget-CEO-Gracy-Chen-called-2026-a-monkey-market-rather-than-a-bull-or-bear-market-since-it-keeps-jumping-up-and-down-speaking-with-Schwab-Network",
-    "source": "@coinmarketcap",
-    "published": "Wed Sep 02 2026 09:53:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Robinhood Chain's CHUMP Memecoin Surges Into The Spotlight\n\nchump-coin:native (@ChumpCoinX) has become one of Robinhood Chain’s latest memecoin stories after gaining 180% over the last week.\n\nThe token now carries a market value of roughly $30.7 million. CHUMP currently trades",
-    "link": "https://cryptopanic.com/news/33317332/Robinhood-Chains-CHUMP-Memecoin-Surges-Into-The-Spotlight-chump-coinnative-ChumpCoinX-has-become-one-of-Robinhood-Chains-latest-memecoin-stories-after-gaining-180-over-the-last-week-The-token-now-carries-a-market-value-of-roughly-307-million-CHUMP-currently-trades",
-    "source": "@bscnews",
-    "published": "Wed Sep 02 2026 09:52:24 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
