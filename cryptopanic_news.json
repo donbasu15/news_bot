@@ -21,6 +21,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "LATEST:  A mysterious Ethereum whale deposited 70,739 ETH ($174M) into exchanges over two days after receiving 167,855 ETH ($408M) from multiple wallets, per Lookonchain.",
+    "link": "https://cryptopanic.com/news/33316483/LATEST-A-mysterious-Ethereum-whale-deposited-70739-ETH-174M-into-exchanges-over-two-days-after-receiving-167855-ETH-408M-from-multiple-wallets-per-Lookonchain",
+    "source": "@coinmarketcap",
+    "published": "Wed Sep 02 2026 07:25:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Aave Sees DeFi Borrowing Demand Surge To $12.5B\n\nAave (@aave) has recorded $12.5 billion in active loans as demand for DeFi lending continues to grow.\n\nActive loans increased by more than $1.5 billion over the past month.\n\nAave is a decentralized lending platform supporting",
     "link": "https://cryptopanic.com/news/33316371/Aave-Sees-DeFi-Borrowing-Demand-Surge-To-125B-Aave-aave-has-recorded-125-billion-in-active-loans-as-demand-for-DeFi-lending-continues-to-grow-Active-loans-increased-by-more-than-15-billion-over-the-past-month-Aave-is-a-decentralized-lending-platform-supporting",
     "source": "@bscnews",
@@ -200,13 +207,6 @@
     "link": "https://cryptopanic.com/news/33316121/Higher-long-end-Treasury-yields-are-unlikely-to-retreat-anytime-soon-and-a-host-of-intertwined-supply-and-demand-factors-will-likely-hamstring-US-policymakers-seeking-to-cap-borrowing-costs-More-here",
     "source": "@reutersbiz",
     "published": "Wed Sep 02 2026 06:27:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "MIP-12 cut Monad's block time from 400ms to 300ms. See how the upgrade works, what changed in rewards and gas limits, and how it compares to rivals.",
-    "link": "https://cryptopanic.com/news/33316124/MIP-12-cut-Monads-block-time-from-400ms-to-300ms-See-how-the-upgrade-works-what-changed-in-rewards-and-gas-limits-and-how-it-compares-to-rivals",
-    "source": "@bscnews",
-    "published": "Wed Sep 02 2026 06:19:38 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
