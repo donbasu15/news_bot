@@ -1,5 +1,47 @@
 [
   {
+    "title": "Is Now The Perfect Time to Invest in Bitcoin?!",
+    "link": "https://cryptopanic.com/news/33327270/Is-Now-The-Perfect-Time-to-Invest-in-Bitcoin",
+    "source": "SimplyBitcoin",
+    "published": "Thu Sep 03 2026 20:30:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Stock-Paired Meme Squeeze?",
+    "link": "https://cryptopanic.com/news/33327211/Stock-Paired-Meme-Squeeze",
+    "source": "bankless.com",
+    "published": "Thu Sep 03 2026 20:30:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Chevron Bets $7bn On Venezuela Oil Revival",
+    "link": "https://cryptopanic.com/news/33327204/Chevron-Bets-7bn-On-Venezuela-Oil-Revival",
+    "source": "catenaa.com",
+    "published": "Thu Sep 03 2026 20:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "App developers sue Apple for £2 billion in London over tracking rules",
+    "link": "https://cryptopanic.com/news/33327206/App-developers-sue-Apple-for-2-billion-in-London-over-tracking-rules",
+    "source": "cryptopolitan.com",
+    "published": "Thu Sep 03 2026 20:25:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Uneasy Money: Inside the AI Agent Scandal That Cheated, Then Covered Its Tracks",
+    "link": "https://cryptopanic.com/news/33327195/Uneasy-Money-Inside-the-AI-Agent-Scandal-That-Cheated-Then-Covered-Its-Tracks",
+    "source": "Unchained",
+    "published": "Thu Sep 03 2026 20:21:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: BlackRock’s iShares Bitcoin ETF traded $3.6B today.\n\nRanked #6 among ALL U.S. ETFs.\n\nMassive institutional liquidity.",
+    "link": "https://cryptopanic.com/news/33327283/JUST-IN-BlackRocks-iShares-Bitcoin-ETF-traded-36B-today-Ranked-6-among-ALL-US-ETFs-Massive-institutional-liquidity",
+    "source": "@btc_archive",
+    "published": "Thu Sep 03 2026 20:19:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bernie Sanders Pushes Bill to Ban Advanced AI Development",
     "link": "https://cryptopanic.com/news/33327165/Bernie-Sanders-Pushes-Bill-to-Ban-Advanced-AI-Development",
     "source": "decrypt.co",
@@ -14,6 +56,20 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Jim Cramer issues bullish call on Robinhood after Morgan Stanley upgrade",
+    "link": "https://cryptopanic.com/news/33327210/Jim-Cramer-issues-bullish-call-on-Robinhood-after-Morgan-Stanley-upgrade",
+    "source": "thestreet.com",
+    "published": "Thu Sep 03 2026 20:14:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Coinbase Moves to Bring Single-Stock Perpetuals to U.S., Files SEC Notice Registrations\n\nCoinbase said it is working to bring single-stock perpetual contracts to the U.S. and has filed SEC notice registrations this week for its derivatives exchange and broker. The company said it",
+    "link": "https://cryptopanic.com/news/33327287/Coinbase-Moves-to-Bring-Single-Stock-Perpetuals-to-US-Files-SEC-Notice-Registrations-Coinbase-said-it-is-working-to-bring-single-stock-perpetual-contracts-to-the-US-and-has-filed-SEC-notice-registrations-this-week-for-its-derivatives-exchange-and-broker-The-company-said-it",
+    "source": "@wublockchain",
+    "published": "Thu Sep 03 2026 20:14:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "£172B investment service Hargreaves Lansdown opens crypto ETNs to UK users",
     "link": "https://cryptopanic.com/news/33327155/172B-investment-service-Hargreaves-Lansdown-opens-crypto-ETNs-to-UK-users",
     "source": "cryptopolitan.com",
@@ -25,6 +81,20 @@
     "link": "https://cryptopanic.com/news/33327144/Crypto-market-cap-surges-to-282-trillion-as-Zcash-leads-rally-alongside-stocks",
     "source": "theblock.co",
     "published": "Thu Sep 03 2026 20:09:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BREAKING: Michael Saylor’s Strategy flips Bayer, Sumitomo, and Nasdaq in market cap. \n\nNext target: London Stock Exchange at $58B.",
+    "link": "https://cryptopanic.com/news/33327282/BREAKING-Michael-Saylors-Strategy-flips-Bayer-Sumitomo-and-Nasdaq-in-market-cap-Next-target-London-Stock-Exchange-at-58B",
+    "source": "@btc_archive",
+    "published": "Thu Sep 03 2026 20:06:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Tokenized equity trading hit new highs in August, but only ~5% of the market is actually deployed onchain, per Grayscale Research's Zach Pandl.",
+    "link": "https://cryptopanic.com/news/33327284/LATEST-Tokenized-equity-trading-hit-new-highs-in-August-but-only-5-of-the-market-is-actually-deployed-onchain-per-Grayscale-Researchs-Zach-Pandl",
+    "source": "@coinmarketcap",
+    "published": "Thu Sep 03 2026 20:05:13 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/33326988/Bitcoin-Self-Custody-Without-Explaining-Lightning-Liquidity-to-Anyone",
     "source": "BitcoinMagazine",
     "published": "Thu Sep 03 2026 19:30:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Waymo To Raise First-Ever Debt Deal Worth $3Bn With Blackstone",
-    "link": "https://cryptopanic.com/news/33326905/Waymo-To-Raise-First-Ever-Debt-Deal-Worth-3Bn-With-Blackstone",
-    "source": "catenaa.com",
-    "published": "Thu Sep 03 2026 19:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 Coinbase files to launch perpetual stock trading in the US.",
-    "link": "https://cryptopanic.com/news/33327001/JUST-IN-Coinbase-files-to-launch-perpetual-stock-trading-in-the-US",
-    "source": "@watcherguru",
-    "published": "Thu Sep 03 2026 19:27:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Algorand secures its network without asking holders to lock anything up\n\nEvery block gets a fresh proposer and committee, drawn from accounts registered online and weighted by balance. A verifiable random function runs the draw privately, so nobody learns who was picked until",
-    "link": "https://cryptopanic.com/news/33326916/Algorand-secures-its-network-without-asking-holders-to-lock-anything-up-Every-block-gets-a-fresh-proposer-and-committee-drawn-from-accounts-registered-online-and-weighted-by-balance-A-verifiable-random-function-runs-the-draw-privately-so-nobody-learns-who-was-picked-until",
-    "source": "@bscnews",
-    "published": "Thu Sep 03 2026 19:25:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🤖 Tom Lee says AI progress \"continues at a rapid pace\" despite AI stocks being under pressure partly due to backlash against data centers.",
-    "link": "https://cryptopanic.com/news/33327076/LATEST-Tom-Lee-says-AI-progress-continues-at-a-rapid-pace-despite-AI-stocks-being-under-pressure-partly-due-to-backlash-against-data-centers",
-    "source": "@coinmarketcap",
-    "published": "Thu Sep 03 2026 19:25:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "OpenAI Releases GPT-6 Astra: The Closest AI Model Yet to AGI",
-    "link": "https://cryptopanic.com/news/33326901/OpenAI-Releases-GPT-6-Astra-The-Closest-AI-Model-Yet-to-AGI",
-    "source": "decrypt.co",
-    "published": "Thu Sep 03 2026 19:24:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "What happens when the world’s reserve asset is no longer seen as neutral?\n\n@DoombergT argues sanctions have fundamentally changed the equation:\n\n“US Treasuries can’t be a neutral reserve asset for the settlement of imbalances in international trade anymore.”",
-    "link": "https://cryptopanic.com/news/33326911/What-happens-when-the-worlds-reserve-asset-is-no-longer-seen-as-neutral-DoombergT-argues-sanctions-have-fundamentally-changed-the-equation-US-Treasuries-cant-be-a-neutral-reserve-asset-for-the-settlement-of-imbalances-in-international-trade-anymore",
-    "source": "@realallincrypto",
-    "published": "Thu Sep 03 2026 19:22:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: The FBI seized $560,000 in crypto from Hamas over the past 18 months after tracing a network of wallets tied to fundraising and money laundering, per Chainalysis.",
-    "link": "https://cryptopanic.com/news/33326908/UPDATE-The-FBI-seized-560000-in-crypto-from-Hamas-over-the-past-18-months-after-tracing-a-network-of-wallets-tied-to-fundraising-and-money-laundering-per-Chainalysis",
-    "source": "@cointelegraph",
-    "published": "Thu Sep 03 2026 19:20:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Traditional stock markets are closed on evenings and weekends. The tokenized versions keep trading, and @PancakeSwap now takes a larger share of bStocks volume on @BNBChain than any other decentralized venue. $CAKE ⬇️",
-    "link": "https://cryptopanic.com/news/33326915/Traditional-stock-markets-are-closed-on-evenings-and-weekends-The-tokenized-versions-keep-trading-and-PancakeSwap-now-takes-a-larger-share-of-bStocks-volume-on-BNBChain-than-any-other-decentralized-venue-CAKE",
-    "source": "@bscnews",
-    "published": "Thu Sep 03 2026 19:09:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SoFi Taps Kraken to Power Crypto Trading Behind Its Banking App",
-    "link": "https://cryptopanic.com/news/33326799/SoFi-Taps-Kraken-to-Power-Crypto-Trading-Behind-Its-Banking-App",
-    "source": "dailycoin.com",
-    "published": "Thu Sep 03 2026 19:05:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "2027 Social Security COLA Could Lift Average Retiree Check Above $2,160",
-    "link": "https://cryptopanic.com/news/33326795/2027-Social-Security-COLA-Could-Lift-Average-Retiree-Check-Above-2160",
-    "source": "coinpaper.com",
-    "published": "Thu Sep 03 2026 19:04:29 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
