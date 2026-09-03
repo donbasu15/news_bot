@@ -1,9 +1,51 @@
 [
   {
+    "title": "House Majority Whip Tom Emmer says the House has done its work on crypto market structure and puts the pressure on the Senate to act on the CLARITY Act:\n\n“The Senate's got to get the work done.”",
+    "link": "https://cryptopanic.com/news/33326451/House-Majority-Whip-Tom-Emmer-says-the-House-has-done-its-work-on-crypto-market-structure-and-puts-the-pressure-on-the-Senate-to-act-on-the-CLARITY-Act-The-Senates-got-to-get-the-work-done",
+    "source": "@coindesk",
+    "published": "Thu Sep 03 2026 17:49:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Nvidia to Acquire Hugging Face for $12.9 Billion",
+    "link": "https://cryptopanic.com/news/33326406/Nvidia-to-Acquire-Hugging-Face-for-129-Billion",
+    "source": "cryptoprowl.com",
+    "published": "Thu Sep 03 2026 17:46:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "One NEAR (@NEARProtocol) account can sign on Bitcoin, Solana, XRP and a stack of EVM chains. The key is split across an MPC network, so no single node ever holds it. $NEAR ⬇️",
+    "link": "https://cryptopanic.com/news/33326457/One-NEAR-NEARProtocol-account-can-sign-on-Bitcoin-Solana-XRP-and-a-stack-of-EVM-chains-The-key-is-split-across-an-MPC-network-so-no-single-node-ever-holds-it-NEAR",
+    "source": "@bscnews",
+    "published": "Thu Sep 03 2026 17:46:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Standard Chartered Launches Spot Bitcoin, Ether Trading for UAE Institutions",
+    "link": "https://cryptopanic.com/news/33326405/Standard-Chartered-Launches-Spot-Bitcoin-Ether-Trading-for-UAE-Institutions",
+    "source": "cryptoprowl.com",
+    "published": "Thu Sep 03 2026 17:43:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 JUST IN: SEC Chair Mike Selig says the Trump administration is working to ensure the “new frontier of finance” is built in the U.S.",
+    "link": "https://cryptopanic.com/news/33326453/JUST-IN-SEC-Chair-Mike-Selig-says-the-Trump-administration-is-working-to-ensure-the-new-frontier-of-finance-is-built-in-the-US",
+    "source": "@cointelegraph",
+    "published": "Thu Sep 03 2026 17:40:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST: 🇦🇪 Dubai's Virtual Assets Regulatory Authority signed an MoU with Securitize to collaborate on regulated tokenization initiatives and digital asset infrastructure across the Emirate.",
     "link": "https://cryptopanic.com/news/33326399/LATEST-Dubais-Virtual-Assets-Regulatory-Authority-signed-an-MoU-with-Securitize-to-collaborate-on-regulated-tokenization-initiatives-and-digital-asset-infrastructure-across-the-Emirate",
     "source": "@coinmarketcap",
     "published": "Thu Sep 03 2026 17:38:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "This Meme Coin App Made Robinhood $6M in Fees: Is That Why HOOD Is Surging?",
+    "link": "https://cryptopanic.com/news/33326443/This-Meme-Coin-App-Made-Robinhood-6M-in-Fees-Is-That-Why-HOOD-Is-Surging",
+    "source": "feeds2.benzinga.com",
+    "published": "Thu Sep 03 2026 17:38:06 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -28,6 +70,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Monero payments arrive at addresses the recipient never published\n\nEvery Monero payment goes to a one-time address the sender builds for the recipient, so one published address collects payments that never share a location on the chain.\n\nThree keys make that work. The public",
+    "link": "https://cryptopanic.com/news/33326456/Monero-payments-arrive-at-addresses-the-recipient-never-published-Every-Monero-payment-goes-to-a-one-time-address-the-sender-builds-for-the-recipient-so-one-published-address-collects-payments-that-never-share-a-location-on-the-chain-Three-keys-make-that-work-The-public",
+    "source": "@bscnews",
+    "published": "Thu Sep 03 2026 17:30:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: Elon Musk's SpaceX $SPCX surges 7.5% to $150",
     "link": "https://cryptopanic.com/news/33326344/JUST-IN-Elon-Musks-SpaceX-SPCX-surges-75-to-150",
     "source": "@watcherguru",
@@ -38,6 +87,13 @@
     "title": "Justin Sun has ruined his reputation in China",
     "link": "https://cryptopanic.com/news/33326337/Justin-Sun-has-ruined-his-reputation-in-China",
     "source": "protos.com",
+    "published": "Thu Sep 03 2026 17:25:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "HIVE stock pops 14% as crypto market heats up",
+    "link": "https://cryptopanic.com/news/33326439/HIVE-stock-pops-14-as-crypto-market-heats-up",
+    "source": "thestreet.com",
     "published": "Thu Sep 03 2026 17:25:28 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -67,6 +123,13 @@
     "link": "https://cryptopanic.com/news/33326400/JUST-IN-WhatsApps-3B-monthly-active-users-can-now-send-and-receive-ADA-USDCx-USDM-and-USDA-to-any-WhatsApp-user-globally-fully-permissionless-and-gasless-powered-by-ChatterPay-a-user-friendly-non-custodial-wallet-with-abstraction-for-WhatsApp",
     "source": "@angrycryptoshow",
     "published": "Thu Sep 03 2026 17:21:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 INSIGHT: Senator Cynthia Lummis says the Clarity Act would take Wyoming’s crypto-friendly framework nationwide, bringing clearer rules for digital asset companies.",
+    "link": "https://cryptopanic.com/news/33326452/INSIGHT-Senator-Cynthia-Lummis-says-the-Clarity-Act-would-take-Wyomings-crypto-friendly-framework-nationwide-bringing-clearer-rules-for-digital-asset-companies",
+    "source": "@cointelegraph",
+    "published": "Thu Sep 03 2026 17:20:24 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -144,69 +207,6 @@
     "link": "https://cryptopanic.com/news/33326260/The-BIS-show-their-cost-model-for-their-system-they-BUILT-on-the-XRP-Ledger-They-paid-the-transaction-fee-in-XRP-and-converted-into-fiat-Chris-Larsens-vision-is-coming-true-every-day-it-looks-more-likely-that-XRP-is-going-to-play-a-CRUCIAL-role-in-the-future-of-finace",
     "source": "@realallincrypto",
     "published": "Thu Sep 03 2026 17:00:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Injective Froze for Four Hours to Stop a $4.9M Exploit, Then Called It an Upgrade",
-    "link": "https://cryptopanic.com/news/33326183/Injective-Froze-for-Four-Hours-to-Stop-a-49M-Exploit-Then-Called-It-an-Upgrade",
-    "source": "coinpaprika.com",
-    "published": "Thu Sep 03 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: Revolut has received conditional approval for a U.S. national bank charter, according to the Financial Times.\n\nThe fintech plans to launch its U.S. bank in the first half of 2027, with stablecoins and business banking among the products it plans to add over time.",
-    "link": "https://cryptopanic.com/news/33326254/LATEST-Revolut-has-received-conditional-approval-for-a-US-national-bank-charter-according-to-the-Financial-Times-The-fintech-plans-to-launch-its-US-bank-in-the-first-half-of-2027-with-stablecoins-and-business-banking-among-the-products-it-plans-to-add-over-time",
-    "source": "@coindesk",
-    "published": "Thu Sep 03 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin futures here",
-    "link": "https://cryptopanic.com/news/33326342/Bitcoin-futures-here",
-    "source": "@bitcoinmagazine",
-    "published": "Thu Sep 03 2026 16:57:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Coinbase Lend deposits pass $500M less than a year after launch\n\n@coinbase confirmed the total on Thursday alongside @Morpho, which supplies the infrastructure. Deposits route through Steakhouse Financial (@SteakhouseFi) vaults on @base, where they are lent out. \n\nThe product",
-    "link": "https://cryptopanic.com/news/33326264/Coinbase-Lend-deposits-pass-500M-less-than-a-year-after-launch-coinbase-confirmed-the-total-on-Thursday-alongside-Morpho-which-supplies-the-infrastructure-Deposits-route-through-Steakhouse-Financial-SteakhouseFi-vaults-on-base-where-they-are-lent-out-The-product",
-    "source": "@bscnews",
-    "published": "Thu Sep 03 2026 16:57:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Thai Businessmen Sue Tether for Freezing $42,417,785 in USDT on Informal Government Request",
-    "link": "https://cryptopanic.com/news/33326227/Thai-Businessmen-Sue-Tether-for-Freezing-42417785-in-USDT-on-Informal-Government-Request",
-    "source": "dailyhodl.com",
-    "published": "Thu Sep 03 2026 16:55:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Revolut hit by Washington crypto boom illusion, exposing massive two-tier banking system",
-    "link": "https://cryptopanic.com/news/33326170/Revolut-hit-by-Washington-crypto-boom-illusion-exposing-massive-two-tier-banking-system",
-    "source": "cryptoslate.com",
-    "published": "Thu Sep 03 2026 16:55:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Can AI Crash the Global Financial System? Andrew Bailey Warns",
-    "link": "https://cryptopanic.com/news/33326163/Can-AI-Crash-the-Global-Financial-System-Andrew-Bailey-Warns",
-    "source": "spaziocrypto.com",
-    "published": "Thu Sep 03 2026 16:53:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INSIGHT: 3,140 agents are in queue to enter Midnight City, with 432 currently online. Active agents are steadily growing, with 53 more added in 3 days.",
-    "link": "https://cryptopanic.com/news/33326179/INSIGHT-3140-agents-are-in-queue-to-enter-Midnight-City-with-432-currently-online-Active-agents-are-steadily-growing-with-53-more-added-in-3-days",
-    "source": "@angrycryptoshow",
-    "published": "Thu Sep 03 2026 16:48:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Midnight midnight-3:native reclaims the Top 100, now ranking #94 on CoinMarketCap.",
-    "link": "https://cryptopanic.com/news/33326177/JUST-IN-Midnight-midnight-3native-reclaims-the-Top-100-now-ranking-94-on-CoinMarketCap",
-    "source": "@angrycryptoshow",
-    "published": "Thu Sep 03 2026 16:48:27 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
