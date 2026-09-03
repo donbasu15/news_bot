@@ -1,5 +1,75 @@
 [
   {
+    "title": "JUST IN: Bitcoin's correlation with gold hit a six-year high, according to Bitwise \n\n\"The last time it was this high was 2020, after the Covid stimulus.\"",
+    "link": "https://cryptopanic.com/news/33327000/JUST-IN-Bitcoins-correlation-with-gold-hit-a-six-year-high-according-to-Bitwise-The-last-time-it-was-this-high-was-2020-after-the-Covid-stimulus",
+    "source": "@bitcoinmagazine",
+    "published": "Thu Sep 03 2026 19:40:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The Quantum Issue: Letter From the Editor ️\n\nThe Quantum Issue takes a look at the risk of quantum computing to Bitcoin, how exposed the network is, and the current state of solutions to protect it.\n\nRead now",
+    "link": "https://cryptopanic.com/news/33326999/The-Quantum-Issue-Letter-From-the-Editor-The-Quantum-Issue-takes-a-look-at-the-risk-of-quantum-computing-to-Bitcoin-how-exposed-the-network-is-and-the-current-state-of-solutions-to-protect-it-Read-now",
+    "source": "@bitcoinmagazine",
+    "published": "Thu Sep 03 2026 19:35:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Self-Custody Without Explaining Lightning Liquidity to Anyone",
+    "link": "https://cryptopanic.com/news/33326988/Bitcoin-Self-Custody-Without-Explaining-Lightning-Liquidity-to-Anyone",
+    "source": "BitcoinMagazine",
+    "published": "Thu Sep 03 2026 19:30:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Waymo To Raise First-Ever Debt Deal Worth $3Bn With Blackstone",
+    "link": "https://cryptopanic.com/news/33326905/Waymo-To-Raise-First-Ever-Debt-Deal-Worth-3Bn-With-Blackstone",
+    "source": "catenaa.com",
+    "published": "Thu Sep 03 2026 19:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 Coinbase files to launch perpetual stock trading in the US.",
+    "link": "https://cryptopanic.com/news/33327001/JUST-IN-Coinbase-files-to-launch-perpetual-stock-trading-in-the-US",
+    "source": "@watcherguru",
+    "published": "Thu Sep 03 2026 19:27:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Algorand secures its network without asking holders to lock anything up\n\nEvery block gets a fresh proposer and committee, drawn from accounts registered online and weighted by balance. A verifiable random function runs the draw privately, so nobody learns who was picked until",
+    "link": "https://cryptopanic.com/news/33326916/Algorand-secures-its-network-without-asking-holders-to-lock-anything-up-Every-block-gets-a-fresh-proposer-and-committee-drawn-from-accounts-registered-online-and-weighted-by-balance-A-verifiable-random-function-runs-the-draw-privately-so-nobody-learns-who-was-picked-until",
+    "source": "@bscnews",
+    "published": "Thu Sep 03 2026 19:25:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "OpenAI Releases GPT-6 Astra: The Closest AI Model Yet to AGI",
+    "link": "https://cryptopanic.com/news/33326901/OpenAI-Releases-GPT-6-Astra-The-Closest-AI-Model-Yet-to-AGI",
+    "source": "decrypt.co",
+    "published": "Thu Sep 03 2026 19:24:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "What happens when the world’s reserve asset is no longer seen as neutral?\n\n@DoombergT argues sanctions have fundamentally changed the equation:\n\n“US Treasuries can’t be a neutral reserve asset for the settlement of imbalances in international trade anymore.”",
+    "link": "https://cryptopanic.com/news/33326911/What-happens-when-the-worlds-reserve-asset-is-no-longer-seen-as-neutral-DoombergT-argues-sanctions-have-fundamentally-changed-the-equation-US-Treasuries-cant-be-a-neutral-reserve-asset-for-the-settlement-of-imbalances-in-international-trade-anymore",
+    "source": "@realallincrypto",
+    "published": "Thu Sep 03 2026 19:22:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: The FBI seized $560,000 in crypto from Hamas over the past 18 months after tracing a network of wallets tied to fundraising and money laundering, per Chainalysis.",
+    "link": "https://cryptopanic.com/news/33326908/UPDATE-The-FBI-seized-560000-in-crypto-from-Hamas-over-the-past-18-months-after-tracing-a-network-of-wallets-tied-to-fundraising-and-money-laundering-per-Chainalysis",
+    "source": "@cointelegraph",
+    "published": "Thu Sep 03 2026 19:20:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Traditional stock markets are closed on evenings and weekends. The tokenized versions keep trading, and @PancakeSwap now takes a larger share of bStocks volume on @BNBChain than any other decentralized venue. $CAKE ⬇️",
+    "link": "https://cryptopanic.com/news/33326915/Traditional-stock-markets-are-closed-on-evenings-and-weekends-The-tokenized-versions-keep-trading-and-PancakeSwap-now-takes-a-larger-share-of-bStocks-volume-on-BNBChain-than-any-other-decentralized-venue-CAKE",
+    "source": "@bscnews",
+    "published": "Thu Sep 03 2026 19:09:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "SoFi Taps Kraken to Power Crypto Trading Behind Its Banking App",
     "link": "https://cryptopanic.com/news/33326799/SoFi-Taps-Kraken-to-Power-Crypto-Trading-Behind-Its-Banking-App",
     "source": "dailycoin.com",
@@ -14,10 +84,31 @@
     "sentiment": "neutral"
   },
   {
+    "title": "ALERT: Safety experts warn OpenAI’s upcoming Astra model could make future AI agents’ reasoning harder for humans to monitor, despite cutting compute costs.",
+    "link": "https://cryptopanic.com/news/33326907/ALERT-Safety-experts-warn-OpenAIs-upcoming-Astra-model-could-make-future-AI-agents-reasoning-harder-for-humans-to-monitor-despite-cutting-compute-costs",
+    "source": "@cointelegraph",
+    "published": "Thu Sep 03 2026 19:00:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "What Solana’s failed fee vote reveals about Anatoly Yakovenko’s power",
     "link": "https://cryptopanic.com/news/33326770/What-Solanas-failed-fee-vote-reveals-about-Anatoly-Yakovenkos-power",
     "source": "cryptoslate.com",
     "published": "Thu Sep 03 2026 19:00:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The BIS write it out as clear as day the steps they took in SUCCESSFULLY using the $XRP Ledger to make official data easier to trust, verify in real time, and share securely between central banks, governments and international organisations.\n\nWorth noting the BIS is made up of 63",
+    "link": "https://cryptopanic.com/news/33326910/The-BIS-write-it-out-as-clear-as-day-the-steps-they-took-in-SUCCESSFULLY-using-the-XRP-Ledger-to-make-official-data-easier-to-trust-verify-in-real-time-and-share-securely-between-central-banks-governments-and-international-organisations-Worth-noting-the-BIS-is-made-up-of-63",
+    "source": "@realallincrypto",
+    "published": "Thu Sep 03 2026 19:00:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Commerzbank to buy back own shares for €1.2 billion",
+    "link": "https://cryptopanic.com/news/33326909/Commerzbank-to-buy-back-own-shares-for-12-billion",
+    "source": "@reutersbiz",
+    "published": "Thu Sep 03 2026 19:00:12 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -42,10 +133,31 @@
     "sentiment": "neutral"
   },
   {
+    "title": "@FlareNetworks Link to dashboard",
+    "link": "https://cryptopanic.com/news/33326914/FlareNetworks-Link-to-dashboard",
+    "source": "@bscnews",
+    "published": "Thu Sep 03 2026 18:53:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Mantle joins the Global Dollar Network and adds native USDG issuance\n\nMantle (@Mantle_Official) said on Thursday that solana:2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH, the dollar stablecoin issued by @Paxos, now mints natively on the network. Joining puts Mantle into the",
+    "link": "https://cryptopanic.com/news/33326913/Mantle-joins-the-Global-Dollar-Network-and-adds-native-USDG-issuance-Mantle-Mantle_Official-said-on-Thursday-that-solana2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH-the-dollar-stablecoin-issued-by-Paxos-now-mints-natively-on-the-network-Joining-puts-Mantle-into-the",
+    "source": "@bscnews",
+    "published": "Thu Sep 03 2026 18:53:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Effective altruism is back with an ‘anti AI’ campaign",
     "link": "https://cryptopanic.com/news/33326753/Effective-altruism-is-back-with-an-anti-AI-campaign",
     "source": "protos.com",
     "published": "Thu Sep 03 2026 18:52:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Astra is the first OpenAI model to hit the critical cybersecurity threshold in the company's own preparedness framework, meaning it can find and exploit unknown vulnerabilities without step by step human guidance.",
+    "link": "https://cryptopanic.com/news/33326912/Astra-is-the-first-OpenAI-model-to-hit-the-critical-cybersecurity-threshold-in-the-companys-own-preparedness-framework-meaning-it-can-find-and-exploit-unknown-vulnerabilities-without-step-by-step-human-guidance",
+    "source": "@bscnews",
+    "published": "Thu Sep 03 2026 18:51:15 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -95,118 +207,6 @@
     "link": "https://cryptopanic.com/news/33326762/Analyst-says-Bitcoin-adoption-just-surpassed-gold-and-the-SP-500",
     "source": "thestreet.com",
     "published": "Thu Sep 03 2026 18:40:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Arthur Hayes Puts $10K Ethereum Target On For 2026 End",
-    "link": "https://cryptopanic.com/news/33326703/Arthur-Hayes-Puts-10K-Ethereum-Target-On-For-2026-End",
-    "source": "dailycoin.com",
-    "published": "Thu Sep 03 2026 18:40:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin, XRP Blow Past 'Bart Simpson' Levels: Is the Pattern Already Dead?",
-    "link": "https://cryptopanic.com/news/33326752/Bitcoin-XRP-Blow-Past-Bart-Simpson-Levels-Is-the-Pattern-Already-Dead",
-    "source": "feeds2.benzinga.com",
-    "published": "Thu Sep 03 2026 18:37:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "DefiLlama has listed an investor relations dashboard for Flare\n\nFlare (@FlareNetworks) said on Thursday that DefiLlama published the page, vetted by its research arm, four months after FIP.16 cut annual inflation from 5% to 3%.\n\nThe dashboard puts chain TVL at $129M against",
-    "link": "https://cryptopanic.com/news/33326719/DefiLlama-has-listed-an-investor-relations-dashboard-for-Flare-Flare-FlareNetworks-said-on-Thursday-that-DefiLlama-published-the-page-vetted-by-its-research-arm-four-months-after-FIP16-cut-annual-inflation-from-5-to-3-The-dashboard-puts-chain-TVL-at-129M-against",
-    "source": "@bscnews",
-    "published": "Thu Sep 03 2026 18:37:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "\"I think $1.3 million by 2035, it's gonna be relatively easy for Bitcoin,\" says @bitwise’s @Matt_Hougan.\n\nWatch the full conversation on Markets Outlook with @jennsanasie\n\n00:00 - Matt Hougan Joins Markets Outlook\n00:45 - Despair to Euphoria: What Flipped the Market\n03:20 - AI",
-    "link": "https://cryptopanic.com/news/33326713/I-think-13-million-by-2035-its-gonna-be-relatively-easy-for-Bitcoin-says-bitwises-Matt_Hougan-Watch-the-full-conversation-on-Markets-Outlook-with-jennsanasie-0000-Matt-Hougan-Joins-Markets-Outlook-0045-Despair-to-Euphoria-What-Flipped-the-Market-0320-AI",
-    "source": "@coindesk",
-    "published": "Thu Sep 03 2026 18:35:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CLARITY Act before midterms is essentially dead.\n\nThe House canceled late September sessions, leaving only 4 days in Washington until after elections.\n\n— Alex Thorn, Galaxy Digital Assets Research.",
-    "link": "https://cryptopanic.com/news/33326854/CLARITY-Act-before-midterms-is-essentially-dead-The-House-canceled-late-September-sessions-leaving-only-4-days-in-Washington-until-after-elections-Alex-Thorn-Galaxy-Digital-Assets-Research",
-    "source": "@btc_archive",
-    "published": "Thu Sep 03 2026 18:34:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ChatGPT, Claude and Grok Outages Leave Users Asking How to Work Without AI",
-    "link": "https://cryptopanic.com/news/33326665/ChatGPT-Claude-and-Grok-Outages-Leave-Users-Asking-How-to-Work-Without-AI",
-    "source": "decrypt.co",
-    "published": "Thu Sep 03 2026 18:31:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin's 8X Surge Ahead?!",
-    "link": "https://cryptopanic.com/news/33326708/Bitcoins-8X-Surge-Ahead",
-    "source": "SimplyBitcoin",
-    "published": "Thu Sep 03 2026 18:30:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Who Will Win the Privacy Coin Battle in 2026: ZEC, XMR, or Another Competitor? (3 AIs Weigh In)",
-    "link": "https://cryptopanic.com/news/33326644/Who-Will-Win-the-Privacy-Coin-Battle-in-2026-ZEC-XMR-or-Another-Competitor-3-AIs-Weigh-In",
-    "source": "cryptopotato.com",
-    "published": "Thu Sep 03 2026 18:29:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why Is Cipher Digital Stock Surging Thursday?",
-    "link": "https://cryptopanic.com/news/33326706/Why-Is-Cipher-Digital-Stock-Surging-Thursday",
-    "source": "feeds2.benzinga.com",
-    "published": "Thu Sep 03 2026 18:27:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Revolut takes ‘important’ step toward becoming a US bank with conditional OCC approval",
-    "link": "https://cryptopanic.com/news/33326630/Revolut-takes-important-step-toward-becoming-a-US-bank-with-conditional-OCC-approval",
-    "source": "theblock.co",
-    "published": "Thu Sep 03 2026 18:23:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XDC Network processed 27.7 million transactions in August, a monthly record\n\n@XDCNetwork reported the total on Thursday and put the rise at 50% over six months. Its validator set grew about 26% over the quarter and now stands above 320.\n\nHex Trust, Clear Street and LinkPool",
-    "link": "https://cryptopanic.com/news/33326718/XDC-Network-processed-277-million-transactions-in-August-a-monthly-record-XDCNetwork-reported-the-total-on-Thursday-and-put-the-rise-at-50-over-six-months-Its-validator-set-grew-about-26-over-the-quarter-and-now-stands-above-320-Hex-Trust-Clear-Street-and-LinkPool",
-    "source": "@bscnews",
-    "published": "Thu Sep 03 2026 18:21:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Charles Hoskinson Has a Theory for AI Outage Affecting ChatGPT, Claude and Grok",
-    "link": "https://cryptopanic.com/news/33326853/Charles-Hoskinson-Has-a-Theory-for-AI-Outage-Affecting-ChatGPT-Claude-and-Grok",
-    "source": "beincrypto.com",
-    "published": "Thu Sep 03 2026 18:20:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: #Cardano $ADA 24h trade volume surges above $650,000,000, surpassing Chainlink, Monero, Stellar, and TRON, ranking 12th overall (excluding stablecoins), according to CoinGecko.",
-    "link": "https://cryptopanic.com/news/33326651/JUST-IN-Cardano-ADA-24h-trade-volume-surges-above-650000000-surpassing-Chainlink-Monero-Stellar-and-TRON-ranking-12th-overall-excluding-stablecoins-according-to-CoinGecko",
-    "source": "@angrycryptoshow",
-    "published": "Thu Sep 03 2026 18:20:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Strategy has become the fourth-largest U.S. equity issuer this year, raising $20.9 billion to fund its Bitcoin accumulation strategy.",
-    "link": "https://cryptopanic.com/news/33326715/UPDATE-Strategy-has-become-the-fourth-largest-US-equity-issuer-this-year-raising-209-billion-to-fund-its-Bitcoin-accumulation-strategy",
-    "source": "@cointelegraph",
-    "published": "Thu Sep 03 2026 18:20:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Cardano $ADA's Strike Finance has generated over $4.4M in volume from copy trading.",
-    "link": "https://cryptopanic.com/news/33326650/JUST-IN-Cardano-ADAs-Strike-Finance-has-generated-over-44M-in-volume-from-copy-trading",
-    "source": "@angrycryptoshow",
-    "published": "Thu Sep 03 2026 18:17:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin ETFs Rebound as Ethereum and XRP ETFs End Winning Streaks",
-    "link": "https://cryptopanic.com/news/33326578/Bitcoin-ETFs-Rebound-as-Ethereum-and-XRP-ETFs-End-Winning-Streaks",
-    "source": "decrypt.co",
-    "published": "Thu Sep 03 2026 18:15:07 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
