@@ -1,9 +1,86 @@
 [
   {
+    "title": "$HYPE and $PUMP Lead 2026 Token Buybacks",
+    "link": "https://cryptopanic.com/news/33323840/HYPE-and-PUMP-Lead-2026-Token-Buybacks",
+    "source": "@coinmarketcap",
+    "published": "Thu Sep 03 2026 11:41:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$1B in stablecoins returned to Binance in August",
+    "link": "https://cryptopanic.com/news/33323825/1B-in-stablecoins-returned-to-Binance-in-August",
+    "source": "cryptopolitan.com",
+    "published": "Thu Sep 03 2026 11:38:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33323844/Source",
+    "source": "@wublockchain",
+    "published": "Thu Sep 03 2026 11:36:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Mamdani Imposes One-Year Moratorium on Generative AI in NYC Schools",
+    "link": "https://cryptopanic.com/news/33323809/Mamdani-Imposes-One-Year-Moratorium-on-Generative-AI-in-NYC-Schools",
+    "source": "decrypt.co",
+    "published": "Thu Sep 03 2026 11:36:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hyperliquid to Add Optional Permissioned Market Functionality to HIP-3\n\nHyperliquid announced that a future network upgrade will add optional permissioned market functionality (HIP-3*) to HIP-3. Once enabled, market deployers or their sub-deployers can manage onchain whitelists",
+    "link": "https://cryptopanic.com/news/33323843/Hyperliquid-to-Add-Optional-Permissioned-Market-Functionality-to-HIP-3-Hyperliquid-announced-that-a-future-network-upgrade-will-add-optional-permissioned-market-functionality-HIP-3-to-HIP-3-Once-enabled-market-deployers-or-their-sub-deployers-can-manage-onchain-whitelists",
+    "source": "@wublockchain",
+    "published": "Thu Sep 03 2026 11:36:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "GTA VI, USDT, and Solana: Fact-Checking a Viral Crypto Rumor",
+    "link": "https://cryptopanic.com/news/33323803/GTA-VI-USDT-and-Solana-Fact-Checking-a-Viral-Crypto-Rumor",
+    "source": "spaziocrypto.com",
+    "published": "Thu Sep 03 2026 11:35:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "FOMO HOUR ft @Tyler_Did_It and @farokh",
+    "link": "https://cryptopanic.com/news/33323753/FOMO-HOUR-ft-Tyler_Did_It-and-farokh",
+    "source": "@decryptmedia",
+    "published": "Thu Sep 03 2026 11:30:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The ethereum:native ETF inflow streak continues!",
+    "link": "https://cryptopanic.com/news/33323752/The-ethereumnative-ETF-inflow-streak-continues",
+    "source": "@decryptmedia",
+    "published": "Thu Sep 03 2026 11:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin This Happens Every Cycle",
+    "link": "https://cryptopanic.com/news/33323827/Bitcoin-This-Happens-Every-Cycle",
+    "source": "TheCryptoLark",
+    "published": "Thu Sep 03 2026 11:29:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "TrueUSD’s $456M court case gives defendant days to reveal legal funding source – or face court sanctions",
+    "link": "https://cryptopanic.com/news/33323738/TrueUSDs-456M-court-case-gives-defendant-days-to-reveal-legal-funding-source-or-face-court-sanctions",
+    "source": "cryptoslate.com",
+    "published": "Thu Sep 03 2026 11:25:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Standard Chartered Brings Bitcoin And Ether Trading to UAE Institutions\n\nStandard Chartered has launched spot trading for Bitcoin bitcoin:native and Ether ethereum:native for eligible UAE institutional clients.\n\nThe service enables immediate delivery through the bank’s electronic",
     "link": "https://cryptopanic.com/news/33323692/Standard-Chartered-Brings-Bitcoin-And-Ether-Trading-to-UAE-Institutions-Standard-Chartered-has-launched-spot-trading-for-Bitcoin-bitcoinnative-and-Ether-ethereumnative-for-eligible-UAE-institutional-clients-The-service-enables-immediate-delivery-through-the-banks-electronic",
     "source": "@bscnews",
     "published": "Thu Sep 03 2026 11:11:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Bitcoin has had a lower correlation to US stocks than gold, small caps, EM, and even Treasurys over the past six months, per Bloomberg Intelligence's Eric Balchunas.",
+    "link": "https://cryptopanic.com/news/33323838/LATEST-Bitcoin-has-had-a-lower-correlation-to-US-stocks-than-gold-small-caps-EM-and-even-Treasurys-over-the-past-six-months-per-Bloomberg-Intelligences-Eric-Balchunas",
+    "source": "@coinmarketcap",
+    "published": "Thu Sep 03 2026 11:05:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -126,87 +203,10 @@
     "sentiment": "neutral"
   },
   {
-    "title": "What is Injective Mint?\n\nInjective (@injective) has introduced Mint, a unified real-world asset issuance platform designed for institutions and everyday users.\n\nTokenizing an asset is easy. However, Injective says, building the rules and infrastructure needed to operate it as a",
-    "link": "https://cryptopanic.com/news/33323690/What-is-Injective-Mint-Injective-injective-has-introduced-Mint-a-unified-real-world-asset-issuance-platform-designed-for-institutions-and-everyday-users-Tokenizing-an-asset-is-easy-However-Injective-says-building-the-rules-and-infrastructure-needed-to-operate-it-as-a",
-    "source": "@bscnews",
-    "published": "Thu Sep 03 2026 10:38:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Blockchain Life Returns to Dubai on December 1–2, 2026",
-    "link": "https://cryptopanic.com/news/33323531/Blockchain-Life-Returns-to-Dubai-on-December-12-2026",
-    "source": "theholycoins.com",
-    "published": "Thu Sep 03 2026 10:37:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana, XRP, Ethereum ETFs in Red as Bitcoin ETF Adds $100 Million",
-    "link": "https://cryptopanic.com/news/33323562/Solana-XRP-Ethereum-ETFs-in-Red-as-Bitcoin-ETF-Adds-100-Million",
-    "source": "u.today",
-    "published": "Thu Sep 03 2026 10:35:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ALERT: FBI reports that 153M US and Canadian driver’s license scans were offered for sale on the dark web.",
-    "link": "https://cryptopanic.com/news/33323461/ALERT-FBI-reports-that-153M-US-and-Canadian-drivers-license-scans-were-offered-for-sale-on-the-dark-web",
-    "source": "@cointelegraph",
-    "published": "Thu Sep 03 2026 10:30:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin recovers toward $78,000 as pons and arbitrum extend Robinhood Chain rally",
-    "link": "https://cryptopanic.com/news/33323582/Bitcoin-recovers-toward-78000-as-pons-and-arbitrum-extend-Robinhood-Chain-rally",
-    "source": "coindesk.com",
-    "published": "Thu Sep 03 2026 10:29:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "IRS Cuts Backfire as Audit Revenue Falls $3.5 Billion in One Year",
-    "link": "https://cryptopanic.com/news/33323451/IRS-Cuts-Backfire-as-Audit-Revenue-Falls-35-Billion-in-One-Year",
-    "source": "coinpaper.com",
-    "published": "Thu Sep 03 2026 10:28:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Read more ⤵️",
-    "link": "https://cryptopanic.com/news/33323608/Read-more",
-    "source": "@cryptoquant_com",
-    "published": "Thu Sep 03 2026 10:27:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BTC: Stablecoin Demand Spike Starts to Cool\n\n“If the 90D reading continues to fade and moves back below the High zone, confirmation from this oscillator would weaken.” – By @_Crypto_glass",
-    "link": "https://cryptopanic.com/news/33323606/BTC-Stablecoin-Demand-Spike-Starts-to-Cool-If-the-90D-reading-continues-to-fade-and-moves-back-below-the-High-zone-confirmation-from-this-oscillator-would-weaken-By-_Crypto_glass",
-    "source": "@cryptoquant_com",
-    "published": "Thu Sep 03 2026 10:26:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🤖 Nvidia CEO Jensen Huang says \"we're at the beginning of an industrial revolution,\" telling CNBC AI has become \"productive economic infrastructure.\"",
-    "link": "https://cryptopanic.com/news/33323605/LATEST-Nvidia-CEO-Jensen-Huang-says-were-at-the-beginning-of-an-industrial-revolution-telling-CNBC-AI-has-become-productive-economic-infrastructure",
-    "source": "@coinmarketcap",
-    "published": "Thu Sep 03 2026 10:25:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Robinhood put stocks on a permissionless blockchain- memecoin traders are stress-testing what happens next",
-    "link": "https://cryptopanic.com/news/33323410/Robinhood-put-stocks-on-a-permissionless-blockchain-memecoin-traders-are-stress-testing-what-happens-next",
-    "source": "cryptoslate.com",
-    "published": "Thu Sep 03 2026 10:20:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Sterling ticks up from three-week low as yen rallies and oil cools",
-    "link": "https://cryptopanic.com/news/33323463/Sterling-ticks-up-from-three-week-low-as-yen-rallies-and-oil-cools",
-    "source": "@reutersbiz",
-    "published": "Thu Sep 03 2026 10:15:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Memecoins on Robinhood Chain distort tokenized stock prices",
-    "link": "https://cryptopanic.com/news/33323323/Memecoins-on-Robinhood-Chain-distort-tokenized-stock-prices",
-    "source": "cryptovalleyjournal.com",
-    "published": "Thu Sep 03 2026 10:10:19 GMT+0000 (Coordinated Universal Time)",
+    "title": "BeInCrypto to Launch Its Legal & Regulatory Expert Council at the United Nations, Partnering with GBA's Future of Money, Governance, and the Law",
+    "link": "https://cryptopanic.com/news/33323808/BeInCrypto-to-Launch-Its-Legal-Regulatory-Expert-Council-at-the-United-Nations-Partnering-with-GBAs-Future-of-Money-Governance-and-the-Law",
+    "source": "beincrypto.com",
+    "published": "Thu Sep 03 2026 10:39:02 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
