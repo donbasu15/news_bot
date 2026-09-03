@@ -1,9 +1,23 @@
 [
   {
+    "title": "Odds of a rate hike in September dropped today, returning to a 50/50 split. The second expected rate hike is now not fully priced in until March rather than December.\n\nThis represents a notable shift away from the strong hawkishness expressed by the markets earlier this week.",
+    "link": "https://cryptopanic.com/news/33327880/Odds-of-a-rate-hike-in-September-dropped-today-returning-to-a-5050-split-The-second-expected-rate-hike-is-now-not-fully-priced-in-until-March-rather-than-December-This-represents-a-notable-shift-away-from-the-strong-hawkishness-expressed-by-the-markets-earlier-this-week",
+    "source": "@stackersatoshi",
+    "published": "Thu Sep 03 2026 23:17:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Chainlink deal to move $16 trillion with Bottomline lifts LINK",
     "link": "https://cryptopanic.com/news/33327803/Chainlink-deal-to-move-16-trillion-with-Bottomline-lifts-LINK",
     "source": "cryptopolitan.com",
     "published": "Thu Sep 03 2026 23:07:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: ️ The CFTC has asked a federal judge to dismiss CME's lawsuit over its approval of crypto perpetual futures, arguing CME can't show any concrete financial harm.",
+    "link": "https://cryptopanic.com/news/33327881/LATEST-The-CFTC-has-asked-a-federal-judge-to-dismiss-CMEs-lawsuit-over-its-approval-of-crypto-perpetual-futures-arguing-CME-cant-show-any-concrete-financial-harm",
+    "source": "@coinmarketcap",
+    "published": "Thu Sep 03 2026 23:05:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33327643/LATEST-Bitcoin-miner-Cango-has-regained-compliance-with-the-NYSEs-minimum-share-price-rule-after-its-average-close-over-30-trading-days-topped-1-as-of-Aug-31",
     "source": "@coinmarketcap",
     "published": "Thu Sep 03 2026 21:53:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "A bar tab for AI agents. Deposit a cap, let the agent spend against it, and settle once at the end. The million-per-second figure counts off-chain signatures rather than blocks, which is the entire point of the design.",
-    "link": "https://cryptopanic.com/news/33327678/A-bar-tab-for-AI-agents-Deposit-a-cap-let-the-agent-spend-against-it-and-settle-once-at-the-end-The-million-per-second-figure-counts-off-chain-signatures-rather-than-blocks-which-is-the-entire-point-of-the-design",
-    "source": "@bscnews",
-    "published": "Thu Sep 03 2026 21:51:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Rips to $82K in a Global Bond Crisis! Here's Why It's Just Getting Started",
-    "link": "https://cryptopanic.com/news/33327583/Bitcoin-Rips-to-82K-in-a-Global-Bond-Crisis-Heres-Why-Its-Just-Getting-Started",
-    "source": "SimplyBitcoin",
-    "published": "Thu Sep 03 2026 21:50:41 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
