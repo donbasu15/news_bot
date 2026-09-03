@@ -1,5 +1,75 @@
 [
   {
+    "title": "🤖 NEW: OpenAI has launched GPT-6 Astra, its best model yet for computer use, software engineering and visual understanding, with autonomous computer capabilities rolling out now to ChatGPT and API users.",
+    "link": "https://cryptopanic.com/news/33327530/NEW-OpenAI-has-launched-GPT-6-Astra-its-best-model-yet-for-computer-use-software-engineering-and-visual-understanding-with-autonomous-computer-capabilities-rolling-out-now-to-ChatGPT-and-API-users",
+    "source": "@cointelegraph",
+    "published": "Thu Sep 03 2026 21:40:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin hits $81,000 after Waller cools rate-hike bets",
+    "link": "https://cryptopanic.com/news/33327522/Bitcoin-hits-81000-after-Waller-cools-rate-hike-bets",
+    "source": "cryptopolitan.com",
+    "published": "Thu Sep 03 2026 21:40:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hyperliquid Opens the Door to Permissioned Perpetual Markets",
+    "link": "https://cryptopanic.com/news/33327520/Hyperliquid-Opens-the-Door-to-Permissioned-Perpetual-Markets",
+    "source": "coindoo.com",
+    "published": "Thu Sep 03 2026 21:36:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Miner Ditches Site for AI Deal That Could Top $1.2 Billion",
+    "link": "https://cryptopanic.com/news/33327473/Bitcoin-Miner-Ditches-Site-for-AI-Deal-That-Could-Top-12-Billion",
+    "source": "decrypt.co",
+    "published": "Thu Sep 03 2026 21:31:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "FLOKI routes a slice of every on-chain trade into its treasury\n\nA 0.3% tax applies to on-chain buys and sells of ethereum:0xcf0c122c6b73ff809c693db761e7baebe62b6a2e on Ethereum and BNB Chain, taken out of each trade.\n\nThe proceeds go to a treasury wallet funding development and",
+    "link": "https://cryptopanic.com/news/33327532/FLOKI-routes-a-slice-of-every-on-chain-trade-into-its-treasury-A-03-tax-applies-to-on-chain-buys-and-sells-of-ethereum0xcf0c122c6b73ff809c693db761e7baebe62b6a2e-on-Ethereum-and-BNB-Chain-taken-out-of-each-trade-The-proceeds-go-to-a-treasury-wallet-funding-development-and",
+    "source": "@bscnews",
+    "published": "Thu Sep 03 2026 21:26:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "This Japanese company made money on Ethereum, Solana, and XRP, but sold them anyway to keep its $121 million Bitcoin holdings",
+    "link": "https://cryptopanic.com/news/33327464/This-Japanese-company-made-money-on-Ethereum-Solana-and-XRP-but-sold-them-anyway-to-keep-its-121-million-Bitcoin-holdings",
+    "source": "cryptoslate.com",
+    "published": "Thu Sep 03 2026 21:25:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Analysts rank Bitcoin above Tesla in new tech growth asset list",
+    "link": "https://cryptopanic.com/news/33327525/Analysts-rank-Bitcoin-above-Tesla-in-new-tech-growth-asset-list",
+    "source": "thestreet.com",
+    "published": "Thu Sep 03 2026 21:23:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: The SEC proposed rescinding its “pay-to-play” rule for investment advisers that bars compensated work for government clients after certain political contributions.",
+    "link": "https://cryptopanic.com/news/33327529/NEW-The-SEC-proposed-rescinding-its-pay-to-play-rule-for-investment-advisers-that-bars-compensated-work-for-government-clients-after-certain-political-contributions",
+    "source": "@cointelegraph",
+    "published": "Thu Sep 03 2026 21:20:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🤖 New York City has imposed a one-year ban on generative AI for students from 2-K through eighth grade, starting in the 2026-27 school year.",
+    "link": "https://cryptopanic.com/news/33327470/LATEST-New-York-City-has-imposed-a-one-year-ban-on-generative-AI-for-students-from-2-K-through-eighth-grade-starting-in-the-2026-27-school-year",
+    "source": "@coinmarketcap",
+    "published": "Thu Sep 03 2026 21:17:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The White House has put five browser games on a site called \n\nThe White House (@WhiteHouse) posted the link on Thursday. The lineup runs Flappy Bill, Build The Wall, Rio Run, Supply Line and Trump Savings Tycoon, with a sixth slot marked as coming soon.",
+    "link": "https://cryptopanic.com/news/33327531/The-White-House-has-put-five-browser-games-on-a-site-called-The-White-House-WhiteHouse-posted-the-link-on-Thursday-The-lineup-runs-Flappy-Bill-Build-The-Wall-Rio-Run-Supply-Line-and-Trump-Savings-Tycoon-with-a-sixth-slot-marked-as-coming-soon",
+    "source": "@bscnews",
+    "published": "Thu Sep 03 2026 21:10:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Meta cuts Muse Spark prices up to 21x for developers who hand over their prompts",
     "link": "https://cryptopanic.com/news/33327411/Meta-cuts-Muse-Spark-prices-up-to-21x-for-developers-who-hand-over-their-prompts",
     "source": "cryptopolitan.com",
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/33327270/Is-Now-The-Perfect-Time-to-Invest-in-Bitcoin",
     "source": "SimplyBitcoin",
     "published": "Thu Sep 03 2026 20:30:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stock-Paired Meme Squeeze?",
-    "link": "https://cryptopanic.com/news/33327211/Stock-Paired-Meme-Squeeze",
-    "source": "bankless.com",
-    "published": "Thu Sep 03 2026 20:30:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Chevron Bets $7bn On Venezuela Oil Revival",
-    "link": "https://cryptopanic.com/news/33327204/Chevron-Bets-7bn-On-Venezuela-Oil-Revival",
-    "source": "catenaa.com",
-    "published": "Thu Sep 03 2026 20:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "App developers sue Apple for £2 billion in London over tracking rules",
-    "link": "https://cryptopanic.com/news/33327206/App-developers-sue-Apple-for-2-billion-in-London-over-tracking-rules",
-    "source": "cryptopolitan.com",
-    "published": "Thu Sep 03 2026 20:25:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Uneasy Money: Inside the AI Agent Scandal That Cheated, Then Covered Its Tracks",
-    "link": "https://cryptopanic.com/news/33327195/Uneasy-Money-Inside-the-AI-Agent-Scandal-That-Cheated-Then-Covered-Its-Tracks",
-    "source": "Unchained",
-    "published": "Thu Sep 03 2026 20:21:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Meet ChatGPT-6 Astra: A Supercomputer for Only $20?",
-    "link": "https://cryptopanic.com/news/33327420/Meet-ChatGPT-6-Astra-A-Supercomputer-for-Only-20",
-    "source": "beincrypto.com",
-    "published": "Thu Sep 03 2026 20:20:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BIG: The U.S. Treasury bought back $12.5 billion of its own debt in its latest Treasury buyback operation.",
-    "link": "https://cryptopanic.com/news/33327337/BIG-The-US-Treasury-bought-back-125-billion-of-its-own-debt-in-its-latest-Treasury-buyback-operation",
-    "source": "@cointelegraph",
-    "published": "Thu Sep 03 2026 20:20:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: BlackRock’s iShares Bitcoin ETF traded $3.6B today.\n\nRanked #6 among ALL U.S. ETFs.\n\nMassive institutional liquidity.",
-    "link": "https://cryptopanic.com/news/33327283/JUST-IN-BlackRocks-iShares-Bitcoin-ETF-traded-36B-today-Ranked-6-among-ALL-US-ETFs-Massive-institutional-liquidity",
-    "source": "@btc_archive",
-    "published": "Thu Sep 03 2026 20:19:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Litecoin's privacy layer is a separate block space you choose to enter\n\nMWEB takes two ideas first floated for Bitcoin, MimbleWimble privacy and extension blocks, and runs them together. @litecoin activated it as a soft fork in May 2022.\n\nUsing it is up to you. Peg LTC in",
-    "link": "https://cryptopanic.com/news/33327342/Litecoins-privacy-layer-is-a-separate-block-space-you-choose-to-enter-MWEB-takes-two-ideas-first-floated-for-Bitcoin-MimbleWimble-privacy-and-extension-blocks-and-runs-them-together-litecoin-activated-it-as-a-soft-fork-in-May-2022-Using-it-is-up-to-you-Peg-LTC-in",
-    "source": "@bscnews",
-    "published": "Thu Sep 03 2026 20:18:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bernie Sanders Pushes Bill to Ban Advanced AI Development",
-    "link": "https://cryptopanic.com/news/33327165/Bernie-Sanders-Pushes-Bill-to-Ban-Advanced-AI-Development",
-    "source": "decrypt.co",
-    "published": "Thu Sep 03 2026 20:16:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ECB Digital Euro Report Keeps Preparation Phase Moving",
-    "link": "https://cryptopanic.com/news/33327160/ECB-Digital-Euro-Report-Keeps-Preparation-Phase-Moving",
-    "source": "newsbtc.com",
-    "published": "Thu Sep 03 2026 20:15:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
