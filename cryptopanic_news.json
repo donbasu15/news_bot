@@ -1,5 +1,47 @@
 [
   {
+    "title": "LATEST:  Hyperscale Data shut down all Bitcoin mining at its Michigan facility as it preps the site for an AI data center deal that could bring in over $1.2B in revenue.",
+    "link": "https://cryptopanic.com/news/33322925/LATEST-Hyperscale-Data-shut-down-all-Bitcoin-mining-at-its-Michigan-facility-as-it-preps-the-site-for-an-AI-data-center-deal-that-could-bring-in-over-12B-in-revenue",
+    "source": "@coinmarketcap",
+    "published": "Thu Sep 03 2026 08:41:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Sam Altman ChatGPT AI Predicts Wild Bitcoin Price in 2027",
+    "link": "https://cryptopanic.com/news/33322873/Sam-Altman-ChatGPT-AI-Predicts-Wild-Bitcoin-Price-in-2027",
+    "source": "cryptonews.com",
+    "published": "Thu Sep 03 2026 08:33:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin ETFs Rebound as Ethereum and Solana Face Outflows",
+    "link": "https://cryptopanic.com/news/33322908/Bitcoin-ETFs-Rebound-as-Ethereum-and-Solana-Face-Outflows",
+    "source": "cryptodnes.bg",
+    "published": "Thu Sep 03 2026 08:31:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Meta Tests Robots for Data Center Maintenance",
+    "link": "https://cryptopanic.com/news/33322861/Meta-Tests-Robots-for-Data-Center-Maintenance",
+    "source": "catenaa.com",
+    "published": "Thu Sep 03 2026 08:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Pons (PONS) Token Surges Above $500 Million: Explaining Why",
+    "link": "https://cryptopanic.com/news/33322912/Pons-PONS-Token-Surges-Above-500-Million-Explaining-Why",
+    "source": "u.today",
+    "published": "Thu Sep 03 2026 08:27:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Google rebounds with Gemini 3.8 Flash and antitrust win as AI outlook brightens",
+    "link": "https://cryptopanic.com/news/33322822/Google-rebounds-with-Gemini-38-Flash-and-antitrust-win-as-AI-outlook-brightens",
+    "source": "cryptopolitan.com",
+    "published": "Thu Sep 03 2026 08:21:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Why a $91K Oracle Incident Ended an Entire DeFi Protocol",
     "link": "https://cryptopanic.com/news/33322736/Why-a-91K-Oracle-Incident-Ended-an-Entire-DeFi-Protocol",
     "source": "coindoo.com",
@@ -18,6 +60,13 @@
     "link": "https://cryptopanic.com/news/33322742/Polygons-Low-Fee-Model-is-Starting-to-Pay-Off-Polygon-0xPolygon-PoS-generated-over-13-million-in-network-revenue-over-the-past-30-days-Other-data-providers-put-monthly-revenue-between-17-million-and-26-million-Polygons-revenue-remains-smaller-than-Ethereums-but",
     "source": "@bscnews",
     "published": "Thu Sep 03 2026 08:10:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  G20 finance ministers and central bank governors pledged to build \"clear pathways\" for digital assets innovation while preserving financial stability.",
+    "link": "https://cryptopanic.com/news/33322924/LATEST-G20-finance-ministers-and-central-bank-governors-pledged-to-build-clear-pathways-for-digital-assets-innovation-while-preserving-financial-stability",
+    "source": "@coinmarketcap",
+    "published": "Thu Sep 03 2026 08:05:14 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -158,55 +207,6 @@
     "link": "https://cryptopanic.com/news/33322408/Morgan-Stanley-Projecting-Foldable-iPhone-To-Add-14000000000-In-Apple-December-Quarter-Revenue",
     "source": "dailyhodl.com",
     "published": "Thu Sep 03 2026 07:04:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin’s Quantum Threat is Getting Harder to Ignore\n\nFidelity Digital Assets says Bitcoin’s bitcoin:native private key protections may eventually need replacement or supplementation.\n\nCryptographically relevant quantum computers do not exist today, but future systems could",
-    "link": "https://cryptopanic.com/news/33322478/Bitcoins-Quantum-Threat-is-Getting-Harder-to-Ignore-Fidelity-Digital-Assets-says-Bitcoins-bitcoinnative-private-key-protections-may-eventually-need-replacement-or-supplementation-Cryptographically-relevant-quantum-computers-do-not-exist-today-but-future-systems-could",
-    "source": "@bscnews",
-    "published": "Thu Sep 03 2026 07:04:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin’s fabled golden cross is coming. And USDT may be the real signal this time",
-    "link": "https://cryptopanic.com/news/33322631/Bitcoins-fabled-golden-cross-is-coming-And-USDT-may-be-the-real-signal-this-time",
-    "source": "coindesk.com",
-    "published": "Thu Sep 03 2026 07:01:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 ETF FLOWS: BTC spot ETFs saw net inflows on Sept. 2, while ETH, SOL and XRP spot ETFs saw net outflows.\n\nBTC: $101.15M\nETH: -$48.08M\nSOL: -$6.13M\nXRP: -$7.2M",
-    "link": "https://cryptopanic.com/news/33322476/ETF-FLOWS-BTC-spot-ETFs-saw-net-inflows-on-Sept-2-while-ETH-SOL-and-XRP-spot-ETFs-saw-net-outflows-BTC-10115M-ETH-4808M-SOL-613M-XRP-72M",
-    "source": "@cointelegraph",
-    "published": "Thu Sep 03 2026 07:00:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bhutan’s Royal Government has reportedly sold $30M worth of $BTC!\n\nBhutan who have been mining $BTC behind the scenes for years using its hydropower resources, building a sovereign Bitcoin reserve in the background, are now cashing some profits!\n\nAgain showing even",
-    "link": "https://cryptopanic.com/news/33322477/Bhutans-Royal-Government-has-reportedly-sold-30M-worth-of-BTC-Bhutan-who-have-been-mining-BTC-behind-the-scenes-for-years-using-its-hydropower-resources-building-a-sovereign-Bitcoin-reserve-in-the-background-are-now-cashing-some-profits-Again-showing-even",
-    "source": "@realallincrypto",
-    "published": "Thu Sep 03 2026 07:00:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Wyoming Adopts Chainlink Proof of Reserve for State Stablecoin FRNT",
-    "link": "https://cryptopanic.com/news/33322359/Wyoming-Adopts-Chainlink-Proof-of-Reserve-for-State-Stablecoin-FRNT",
-    "source": "coinpaprika.com",
-    "published": "Thu Sep 03 2026 07:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum Tests What Happens When Finality Stops",
-    "link": "https://cryptopanic.com/news/33322349/Ethereum-Tests-What-Happens-When-Finality-Stops",
-    "source": "coindoo.com",
-    "published": "Thu Sep 03 2026 06:59:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Robinhood Chain Daily Fees and Revenue Both Clear $4 Million",
-    "link": "https://cryptopanic.com/news/33322338/Robinhood-Chain-Daily-Fees-and-Revenue-Both-Clear-4-Million",
-    "source": "cryptopolitan.com",
-    "published": "Thu Sep 03 2026 06:54:49 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
