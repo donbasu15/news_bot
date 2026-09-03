@@ -1,14 +1,133 @@
 [
   {
-    "title": "Fed Governor Christopher Waller Says Inflation Is Finally Slowing",
-    "link": "https://cryptopanic.com/news/33324441/Fed-Governor-Christopher-Waller-Says-Inflation-Is-Finally-Slowing",
+    "title": "$1 Billion in SOL Bought in Less Than a Year — Bitwise Isn’t Slowing Down",
+    "link": "https://cryptopanic.com/news/33324489/1-Billion-in-SOL-Bought-in-Less-Than-a-Year-Bitwise-Isnt-Slowing-Down",
+    "source": "techgaged.com",
+    "published": "Thu Sep 03 2026 13:04:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Anthony Pompliano's ProCap Financial sold 50 Bitcoin to buy back its own shares at a 40% discount. \n\nThe company still holds 5,305 BTC worth $415M.",
+    "link": "https://cryptopanic.com/news/33324535/JUST-IN-Anthony-Pomplianos-ProCap-Financial-sold-50-Bitcoin-to-buy-back-its-own-shares-at-a-40-discount-The-company-still-holds-5305-BTC-worth-415M",
+    "source": "@btc_archive",
+    "published": "Thu Sep 03 2026 13:03:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Build with CMC (DIY): How to Build a Monad High-Speed Trading Bot\n\nLearn how to build a Monad trading bot using CoinMarketCap API as the signal layer.\n\nLearn More",
+    "link": "https://cryptopanic.com/news/33324537/Build-with-CMC-DIY-How-to-Build-a-Monad-High-Speed-Trading-Bot-Learn-how-to-build-a-Monad-trading-bot-using-CoinMarketCap-API-as-the-signal-layer-Learn-More",
+    "source": "@coinmarketcap",
+    "published": "Thu Sep 03 2026 13:00:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The Chopping Block: Robinhood Chain's Memecoin Mania and Tokenized Stocks",
+    "link": "https://cryptopanic.com/news/33324493/The-Chopping-Block-Robinhood-Chains-Memecoin-Mania-and-Tokenized-Stocks",
+    "source": "Unchained",
+    "published": "Thu Sep 03 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Esports prediction markets hit $204 million during Dota 2 championship",
+    "link": "https://cryptopanic.com/news/33324369/Esports-prediction-markets-hit-204-million-during-Dota-2-championship",
+    "source": "finbold.com",
+    "published": "Thu Sep 03 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Altcoin Treasuries Outrun Bitcoin Rivals as Crypto DAT Sector Rebounds to $340 Billion",
+    "link": "https://cryptopanic.com/news/33324450/Altcoin-Treasuries-Outrun-Bitcoin-Rivals-as-Crypto-DAT-Sector-Rebounds-to-340-Billion",
+    "source": "coinpaprika.com",
+    "published": "Thu Sep 03 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Dips to $78,000 but $300,000 Remains the Big Target, Investor Says",
+    "link": "https://cryptopanic.com/news/33324531/Bitcoin-Dips-to-78000-but-300000-Remains-the-Big-Target-Investor-Says",
+    "source": "feeds2.benzinga.com",
+    "published": "Thu Sep 03 2026 12:58:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "AI TRENDS | Fed Governor Waller Says AI Could Ease Inflation Pressure",
+    "link": "https://cryptopanic.com/news/33324449/AI-TRENDS-Fed-Governor-Waller-Says-AI-Could-Ease-Inflation-Pressure",
     "source": "square.binance.com",
-    "published": "Thu Sep 03 2026 12:51:09 GMT+0000 (Coordinated Universal Time)",
+    "published": "Thu Sep 03 2026 12:57:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Fed Governor Christopher Waller: Give Inflation Time to Ease, We Can Wait Until the Next Meeting",
+    "link": "https://cryptopanic.com/news/33324448/Fed-Governor-Christopher-Waller-Give-Inflation-Time-to-Ease-We-Can-Wait-Until-the-Next-Meeting",
+    "source": "square.binance.com",
+    "published": "Thu Sep 03 2026 12:54:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "HiddenLayer Raises $100 Million Series B to Expand AI Agent Security",
+    "link": "https://cryptopanic.com/news/33324447/HiddenLayer-Raises-100-Million-Series-B-to-Expand-AI-Agent-Security",
+    "source": "square.binance.com",
+    "published": "Thu Sep 03 2026 12:54:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Strive's SATA Nears Par Value as Bitcoin Accumulation Is Set to Begin",
+    "link": "https://cryptopanic.com/news/33324446/Strives-SATA-Nears-Par-Value-as-Bitcoin-Accumulation-Is-Set-to-Begin",
+    "source": "square.binance.com",
+    "published": "Thu Sep 03 2026 12:53:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Strive's SATA Nears Par Value as Bitcoin Buying Is Set to Begin",
+    "link": "https://cryptopanic.com/news/33324445/Strives-SATA-Nears-Par-Value-as-Bitcoin-Buying-Is-Set-to-Begin",
+    "source": "square.binance.com",
+    "published": "Thu Sep 03 2026 12:53:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "STOCKS | US Stock Futures Edge Higher as Traders Weigh Waller Comments and Earnings",
+    "link": "https://cryptopanic.com/news/33324444/STOCKS-US-Stock-Futures-Edge-Higher-as-Traders-Weigh-Waller-Comments-and-Earnings",
+    "source": "square.binance.com",
+    "published": "Thu Sep 03 2026 12:53:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Jiuding New Material Flags Abnormal Trading After 3-Day 20% Share Price Surge",
+    "link": "https://cryptopanic.com/news/33324443/Jiuding-New-Material-Flags-Abnormal-Trading-After-3-Day-20-Share-Price-Surge",
+    "source": "square.binance.com",
+    "published": "Thu Sep 03 2026 12:53:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Solana captured ~97% of onchain spot tokenized equity trading volume in H1 2026 and settled over 22.5% of global stablecoin transactions, even as its revenue fell 87% YoY to $141M, per 21shares Research.",
+    "link": "https://cryptopanic.com/news/33324536/LATEST-Solana-captured-97-of-onchain-spot-tokenized-equity-trading-volume-in-H1-2026-and-settled-over-225-of-global-stablecoin-transactions-even-as-its-revenue-fell-87-YoY-to-141M-per-21shares-Research",
+    "source": "@coinmarketcap",
+    "published": "Thu Sep 03 2026 12:53:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 Fed Governor Waller says he would consider supporting a September interest rate hike if August inflation comes in strong.",
+    "link": "https://cryptopanic.com/news/33324350/JUST-IN-Fed-Governor-Waller-says-he-would-consider-supporting-a-September-interest-rate-hike-if-August-inflation-comes-in-strong",
+    "source": "@watcherguru",
+    "published": "Thu Sep 03 2026 12:53:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SoFi, Payward agree to link banking network with Kraken infrastructure",
+    "link": "https://cryptopanic.com/news/33324220/SoFi-Payward-agree-to-link-banking-network-with-Kraken-infrastructure",
+    "source": "theblock.co",
+    "published": "Thu Sep 03 2026 12:52:54 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
     "title": "Fed Governor Waller Says Inflation Data Should Start Easing",
     "link": "https://cryptopanic.com/news/33324442/Fed-Governor-Waller-Says-Inflation-Data-Should-Start-Easing",
+    "source": "square.binance.com",
+    "published": "Thu Sep 03 2026 12:51:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Fed Governor Christopher Waller Says Inflation Is Finally Slowing",
+    "link": "https://cryptopanic.com/news/33324441/Fed-Governor-Christopher-Waller-Says-Inflation-Is-Finally-Slowing",
     "source": "square.binance.com",
     "published": "Thu Sep 03 2026 12:51:09 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
@@ -88,125 +207,6 @@
     "link": "https://cryptopanic.com/news/33324428/STOCKS-Trump-Says-50-Canada-Aircraft-Tariff-Stemmed-From-Friends-Private-Jet-Purchase",
     "source": "square.binance.com",
     "published": "Thu Sep 03 2026 12:44:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Binance Wallet Launches Token Race on Event Meme With 30-Second Races",
-    "link": "https://cryptopanic.com/news/33324427/Binance-Wallet-Launches-Token-Race-on-Event-Meme-With-30-Second-Races",
-    "source": "square.binance.com",
-    "published": "Thu Sep 03 2026 12:44:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Binance Extends Lite Loan Promotion With 50% Service Fee Reduction",
-    "link": "https://cryptopanic.com/news/33324426/Binance-Extends-Lite-Loan-Promotion-With-50-Service-Fee-Reduction",
-    "source": "square.binance.com",
-    "published": "Thu Sep 03 2026 12:43:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Only Berkshire Hathaway Stands Above Strategy in This S&P 500 Ranking",
-    "link": "https://cryptopanic.com/news/33324151/Only-Berkshire-Hathaway-Stands-Above-Strategy-in-This-SP-500-Ranking",
-    "source": "techgaged.com",
-    "published": "Thu Sep 03 2026 12:43:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "U.S. Private Data Provider RevelioLabs Says Nonfarm Payrolls Rose 36,500 in August",
-    "link": "https://cryptopanic.com/news/33324425/US-Private-Data-Provider-RevelioLabs-Says-Nonfarm-Payrolls-Rose-36500-in-August",
-    "source": "square.binance.com",
-    "published": "Thu Sep 03 2026 12:43:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Uber Joins Taxi Unions to Slow Waymo's Robotaxi Rollout",
-    "link": "https://cryptopanic.com/news/33324424/Uber-Joins-Taxi-Unions-to-Slow-Waymos-Robotaxi-Rollout",
-    "source": "square.binance.com",
-    "published": "Thu Sep 03 2026 12:43:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "STOCKS | Campbell’s Slumps After Sales Fall, Dividend Cut and Cost-Savings Plan",
-    "link": "https://cryptopanic.com/news/33324423/STOCKS-Campbells-Slumps-After-Sales-Fall-Dividend-Cut-and-Cost-Savings-Plan",
-    "source": "square.binance.com",
-    "published": "Thu Sep 03 2026 12:43:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Fed Governor Christopher Waller Says Next Rate Move Hinges on August Inflation Data",
-    "link": "https://cryptopanic.com/news/33324422/Fed-Governor-Christopher-Waller-Says-Next-Rate-Move-Hinges-on-August-Inflation-Data",
-    "source": "square.binance.com",
-    "published": "Thu Sep 03 2026 12:42:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Wall Street Calls: Evercore Reiterates Apple, Bank of America Sticks With Nvidia",
-    "link": "https://cryptopanic.com/news/33324421/Wall-Street-Calls-Evercore-Reiterates-Apple-Bank-of-America-Sticks-With-Nvidia",
-    "source": "square.binance.com",
-    "published": "Thu Sep 03 2026 12:39:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin chart flashes infamous 'Bart Simpson' pattern",
-    "link": "https://cryptopanic.com/news/33324438/Bitcoin-chart-flashes-infamous-Bart-Simpson-pattern",
-    "source": "thestreet.com",
-    "published": "Thu Sep 03 2026 12:39:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple's RLUSD is becoming a major stablecoin...!\n\n@Ripple's own stablecoin offering has just hit a new all-time high supply of more than $2.38 BILLION, per CMC data.\n\nFor now, it is only the industry's 8th largest stablecoin, but is fast on its way to flipping @Paypal's PYUSD",
-    "link": "https://cryptopanic.com/news/33324176/Ripples-RLUSD-is-becoming-a-major-stablecoin-Ripples-own-stablecoin-offering-has-just-hit-a-new-all-time-high-supply-of-more-than-238-BILLION-per-CMC-data-For-now-it-is-only-the-industrys-8th-largest-stablecoin-but-is-fast-on-its-way-to-flipping-Paypals-PYUSD",
-    "source": "@bscnews",
-    "published": "Thu Sep 03 2026 12:39:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Market Cuts Fed Rate-Hike Bets After Waller Says Inflation Shows Signs of Improvement",
-    "link": "https://cryptopanic.com/news/33324420/Market-Cuts-Fed-Rate-Hike-Bets-After-Waller-Says-Inflation-Shows-Signs-of-Improvement",
-    "source": "square.binance.com",
-    "published": "Thu Sep 03 2026 12:38:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Fed Governor Waller: Pending Commerce Department Revisions to Nonmarket Price Estimates Could Lower 12-Month PCE by a Few Tenths of a Percentage Point",
-    "link": "https://cryptopanic.com/news/33324419/Fed-Governor-Waller-Pending-Commerce-Department-Revisions-to-Nonmarket-Price-Estimates-Could-Lower-12-Month-PCE-by-a-Few-Tenths-of-a-Percentage-Point",
-    "source": "square.binance.com",
-    "published": "Thu Sep 03 2026 12:38:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Taiwan's FSC says it's drafting nine subsidiary regulations under its Virtual Asset Service Act, including detailed stablecoin rules, with implementation targeted for Q1 2027.",
-    "link": "https://cryptopanic.com/news/33324161/NEW-Taiwans-FSC-says-its-drafting-nine-subsidiary-regulations-under-its-Virtual-Asset-Service-Act-including-detailed-stablecoin-rules-with-implementation-targeted-for-Q1-2027",
-    "source": "@coindesk",
-    "published": "Thu Sep 03 2026 12:38:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Coinbase Adds Elon Musk's Alumni to Board Amid Canada Expansion",
-    "link": "https://cryptopanic.com/news/33324221/Coinbase-Adds-Elon-Musks-Alumni-to-Board-Amid-Canada-Expansion",
-    "source": "feeds2.benzinga.com",
-    "published": "Thu Sep 03 2026 12:37:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Fed Governor Waller: Overall PCE and Core PCE Are Not the Best Indicators of Inflation Trends",
-    "link": "https://cryptopanic.com/news/33324418/Fed-Governor-Waller-Overall-PCE-and-Core-PCE-Are-Not-the-Best-Indicators-of-Inflation-Trends",
-    "source": "square.binance.com",
-    "published": "Thu Sep 03 2026 12:36:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Fed Governor Christopher Waller: Small Rate Adjustment Could Help Restore Progress if August Inflation Reverses",
-    "link": "https://cryptopanic.com/news/33324417/Fed-Governor-Christopher-Waller-Small-Rate-Adjustment-Could-Help-Restore-Progress-if-August-Inflation-Reverses",
-    "source": "square.binance.com",
-    "published": "Thu Sep 03 2026 12:36:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Fed Governor Christopher Waller: Three-Month Core Inflation Shows Significant Improvement",
-    "link": "https://cryptopanic.com/news/33324416/Fed-Governor-Christopher-Waller-Three-Month-Core-Inflation-Shows-Significant-Improvement",
-    "source": "square.binance.com",
-    "published": "Thu Sep 03 2026 12:36:13 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
