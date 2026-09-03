@@ -1,5 +1,54 @@
 [
   {
+    "title": "Coinbase seeks SEC greenlight to list 24/7 equity perpetuals",
+    "link": "https://cryptopanic.com/news/33327288/Coinbase-seeks-SEC-greenlight-to-list-247-equity-perpetuals",
+    "source": "theblock.co",
+    "published": "Thu Sep 03 2026 20:46:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "What Is Pons? The Robinhood Chain Meme Coin Factory Token Up 18,000% Since July",
+    "link": "https://cryptopanic.com/news/33327286/What-Is-Pons-The-Robinhood-Chain-Meme-Coin-Factory-Token-Up-18000-Since-July",
+    "source": "decrypt.co",
+    "published": "Thu Sep 03 2026 20:46:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  NVIDIA confirmed it has agreed to acquire Hugging Face for $12.93B, with NVIDIA CEO Jensen Huang vowing to keep the platform open and multi-cloud.",
+    "link": "https://cryptopanic.com/news/33327285/LATEST-NVIDIA-confirmed-it-has-agreed-to-acquire-Hugging-Face-for-1293B-with-NVIDIA-CEO-Jensen-Huang-vowing-to-keep-the-platform-open-and-multi-cloud",
+    "source": "@coinmarketcap",
+    "published": "Thu Sep 03 2026 20:41:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "️ UPDATE: Bitcoin’s 90-day correlation with gold has climbed to a near six-year high, according to Bitwise.",
+    "link": "https://cryptopanic.com/news/33327339/UPDATE-Bitcoins-90-day-correlation-with-gold-has-climbed-to-a-near-six-year-high-according-to-Bitwise",
+    "source": "@cointelegraph",
+    "published": "Thu Sep 03 2026 20:40:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Injective says INJ now swaps straight into Robinhood Chain tokens on Jumper\n\n@injective said on Thursday that users can trade injective-protocol:native or native $USDC for any token on Robinhood Chain through Jumper, with the bridging and swapping handled inside one route.",
+    "link": "https://cryptopanic.com/news/33327343/Injective-says-INJ-now-swaps-straight-into-Robinhood-Chain-tokens-on-Jumper-injective-said-on-Thursday-that-users-can-trade-injective-protocolnative-or-native-USDC-for-any-token-on-Robinhood-Chain-through-Jumper-with-the-bridging-and-swapping-handled-inside-one-route",
+    "source": "@bscnews",
+    "published": "Thu Sep 03 2026 20:38:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "️ @RedStone_DeFi founder @marcinredstone says the CLARITY Act could unlock the next wave of institutional adoption in the RWA sector.\n\n“Many institutions have been stalling until there’s more legal clarity.”\n\n#CHAINREACTION",
+    "link": "https://cryptopanic.com/news/33327338/RedStone_DeFi-founder-marcinredstone-says-the-CLARITY-Act-could-unlock-the-next-wave-of-institutional-adoption-in-the-RWA-sector-Many-institutions-have-been-stalling-until-theres-more-legal-clarity-CHAINREACTION",
+    "source": "@cointelegraph",
+    "published": "Thu Sep 03 2026 20:37:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Hits $81,000, Ethereum Gains 4% as XRP, Dogecoin Surge 10%",
+    "link": "https://cryptopanic.com/news/33327327/Bitcoin-Hits-81000-Ethereum-Gains-4-as-XRP-Dogecoin-Surge-10",
+    "source": "feeds2.benzinga.com",
+    "published": "Thu Sep 03 2026 20:33:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Is Now The Perfect Time to Invest in Bitcoin?!",
     "link": "https://cryptopanic.com/news/33327270/Is-Now-The-Perfect-Time-to-Invest-in-Bitcoin",
     "source": "SimplyBitcoin",
@@ -35,10 +84,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "BIG: The U.S. Treasury bought back $12.5 billion of its own debt in its latest Treasury buyback operation.",
+    "link": "https://cryptopanic.com/news/33327337/BIG-The-US-Treasury-bought-back-125-billion-of-its-own-debt-in-its-latest-Treasury-buyback-operation",
+    "source": "@cointelegraph",
+    "published": "Thu Sep 03 2026 20:20:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: BlackRock’s iShares Bitcoin ETF traded $3.6B today.\n\nRanked #6 among ALL U.S. ETFs.\n\nMassive institutional liquidity.",
     "link": "https://cryptopanic.com/news/33327283/JUST-IN-BlackRocks-iShares-Bitcoin-ETF-traded-36B-today-Ranked-6-among-ALL-US-ETFs-Massive-institutional-liquidity",
     "source": "@btc_archive",
     "published": "Thu Sep 03 2026 20:19:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Litecoin's privacy layer is a separate block space you choose to enter\n\nMWEB takes two ideas first floated for Bitcoin, MimbleWimble privacy and extension blocks, and runs them together. @litecoin activated it as a soft fork in May 2022.\n\nUsing it is up to you. Peg LTC in",
+    "link": "https://cryptopanic.com/news/33327342/Litecoins-privacy-layer-is-a-separate-block-space-you-choose-to-enter-MWEB-takes-two-ideas-first-floated-for-Bitcoin-MimbleWimble-privacy-and-extension-blocks-and-runs-them-together-litecoin-activated-it-as-a-soft-fork-in-May-2022-Using-it-is-up-to-you-Peg-LTC-in",
+    "source": "@bscnews",
+    "published": "Thu Sep 03 2026 20:18:34 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -144,69 +207,6 @@
     "link": "https://cryptopanic.com/news/33327075/216M-in-Bitcoin-shorts-liquidated-in-24h-We-havent-even-broken-Mays-high-yet-Bears-are-REKT",
     "source": "@btc_archive",
     "published": "Thu Sep 03 2026 19:47:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Zcash Up 2,000% in 1 Year as Trader Puts 'Majority of Net Worth' in ZEC",
-    "link": "https://cryptopanic.com/news/33327099/Zcash-Up-2000-in-1-Year-as-Trader-Puts-Majority-of-Net-Worth-in-ZEC",
-    "source": "feeds2.benzinga.com",
-    "published": "Thu Sep 03 2026 19:46:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Chainlink data feeds are running on the Stripe-backed Tempo blockchain\n\n@tempo said on Thursday that developers on the payments chain can now pull @chainlink feeds to value collateral, compare FX rates, and set risk controls without running their own oracles.\n\nThe chain reached",
-    "link": "https://cryptopanic.com/news/33327158/Chainlink-data-feeds-are-running-on-the-Stripe-backed-Tempo-blockchain-tempo-said-on-Thursday-that-developers-on-the-payments-chain-can-now-pull-chainlink-feeds-to-value-collateral-compare-FX-rates-and-set-risk-controls-without-running-their-own-oracles-The-chain-reached",
-    "source": "@bscnews",
-    "published": "Thu Sep 03 2026 19:41:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Polymarket has added never-expiring oil contracts to its perpetual futures lineup\n\n@Polymarket launched perpetual futures on Thursday across crypto, equities and commodities, including Brent and West Texas Intermediate contracts. Leverage runs to 20x.\n\nBloomberg reports",
-    "link": "https://cryptopanic.com/news/33327157/Polymarket-has-added-never-expiring-oil-contracts-to-its-perpetual-futures-lineup-Polymarket-launched-perpetual-futures-on-Thursday-across-crypto-equities-and-commodities-including-Brent-and-West-Texas-Intermediate-contracts-Leverage-runs-to-20x-Bloomberg-reports",
-    "source": "@bscnews",
-    "published": "Thu Sep 03 2026 19:41:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Bitcoin's correlation with gold hit a six-year high, according to Bitwise \n\n\"The last time it was this high was 2020, after the Covid stimulus.\"",
-    "link": "https://cryptopanic.com/news/33327000/JUST-IN-Bitcoins-correlation-with-gold-hit-a-six-year-high-according-to-Bitwise-The-last-time-it-was-this-high-was-2020-after-the-Covid-stimulus",
-    "source": "@bitcoinmagazine",
-    "published": "Thu Sep 03 2026 19:40:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ NEW: Kraken parent Payward has partnered with SoFi to bring SoFiUSD to Kraken and give SoFi access to Kraken Prime’s crypto liquidity.",
-    "link": "https://cryptopanic.com/news/33327151/NEW-Kraken-parent-Payward-has-partnered-with-SoFi-to-bring-SoFiUSD-to-Kraken-and-give-SoFi-access-to-Kraken-Primes-crypto-liquidity",
-    "source": "@cointelegraph",
-    "published": "Thu Sep 03 2026 19:40:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Quantum Issue: Letter From the Editor ️\n\nThe Quantum Issue takes a look at the risk of quantum computing to Bitcoin, how exposed the network is, and the current state of solutions to protect it.\n\nRead now",
-    "link": "https://cryptopanic.com/news/33326999/The-Quantum-Issue-Letter-From-the-Editor-The-Quantum-Issue-takes-a-look-at-the-risk-of-quantum-computing-to-Bitcoin-how-exposed-the-network-is-and-the-current-state-of-solutions-to-protect-it-Read-now",
-    "source": "@bitcoinmagazine",
-    "published": "Thu Sep 03 2026 19:35:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "IMPRESSIVE: Jack Dorsey’s Block is sitting on $433M in unrealized Bitcoin gains. \n\n• Cost basis $310M on 9,117 BTC.\n\nPure diamond hands.",
-    "link": "https://cryptopanic.com/news/33327074/IMPRESSIVE-Jack-Dorseys-Block-is-sitting-on-433M-in-unrealized-Bitcoin-gains-Cost-basis-310M-on-9117-BTC-Pure-diamond-hands",
-    "source": "@btc_archive",
-    "published": "Thu Sep 03 2026 19:35:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Hargreaves Lansdown, one of the UK's largest retail investment platforms, has started offering bitcoin:native and $ETH ETNs nearly a year after the FCA restored retail access to crypto ETNs in October 2025.",
-    "link": "https://cryptopanic.com/news/33327150/JUST-IN-Hargreaves-Lansdown-one-of-the-UKs-largest-retail-investment-platforms-has-started-offering-bitcoinnative-and-ETH-ETNs-nearly-a-year-after-the-FCA-restored-retail-access-to-crypto-ETNs-in-October-2025",
-    "source": "@coindesk",
-    "published": "Thu Sep 03 2026 19:35:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Self-Custody Without Explaining Lightning Liquidity to Anyone",
-    "link": "https://cryptopanic.com/news/33326988/Bitcoin-Self-Custody-Without-Explaining-Lightning-Liquidity-to-Anyone",
-    "source": "BitcoinMagazine",
-    "published": "Thu Sep 03 2026 19:30:35 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
