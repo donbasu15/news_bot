@@ -1,5 +1,75 @@
 [
   {
+    "title": "Ripple's RLUSD is becoming a major stablecoin...!\n\n@Ripple's own stablecoin offering has just hit a new all-time high supply of more than $2.38 BILLION, per CMC data.\n\nFor now, it is only the industry's 8th largest stablecoin, but is fast on its way to flipping @Paypal's PYUSD",
+    "link": "https://cryptopanic.com/news/33324176/Ripples-RLUSD-is-becoming-a-major-stablecoin-Ripples-own-stablecoin-offering-has-just-hit-a-new-all-time-high-supply-of-more-than-238-BILLION-per-CMC-data-For-now-it-is-only-the-industrys-8th-largest-stablecoin-but-is-fast-on-its-way-to-flipping-Paypals-PYUSD",
+    "source": "@bscnews",
+    "published": "Thu Sep 03 2026 12:39:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: Taiwan's FSC says it's drafting nine subsidiary regulations under its Virtual Asset Service Act, including detailed stablecoin rules, with implementation targeted for Q1 2027.",
+    "link": "https://cryptopanic.com/news/33324161/NEW-Taiwans-FSC-says-its-drafting-nine-subsidiary-regulations-under-its-Virtual-Asset-Service-Act-including-detailed-stablecoin-rules-with-implementation-targeted-for-Q1-2027",
+    "source": "@coindesk",
+    "published": "Thu Sep 03 2026 12:38:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Every Kraken IPO plan has failed",
+    "link": "https://cryptopanic.com/news/33324125/Every-Kraken-IPO-plan-has-failed",
+    "source": "protos.com",
+    "published": "Thu Sep 03 2026 12:34:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Standard Chartered Launches Spot Crypto Trading in UAE",
+    "link": "https://cryptopanic.com/news/33324141/Standard-Chartered-Launches-Spot-Crypto-Trading-in-UAE",
+    "source": "cryptodnes.bg",
+    "published": "Thu Sep 03 2026 12:30:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BULLISH: Mexican billionaire Ricardo Salinas Pliego says fiat inflation is a “hidden tax” that steals the value of people’s work, urging them to buy and hold Bitcoin.",
+    "link": "https://cryptopanic.com/news/33324164/BULLISH-Mexican-billionaire-Ricardo-Salinas-Pliego-says-fiat-inflation-is-a-hidden-tax-that-steals-the-value-of-peoples-work-urging-them-to-buy-and-hold-Bitcoin",
+    "source": "@cointelegraph",
+    "published": "Thu Sep 03 2026 12:30:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NVIDIA to Acquire Hugging Face",
+    "link": "https://cryptopanic.com/news/33324058/NVIDIA-to-Acquire-Hugging-Face",
+    "source": "r/hedera",
+    "published": "Thu Sep 03 2026 12:28:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Why Ex-Ripple Vice President Has 'Déjà Vu' Over Goldman Sachs' New Bank-Backed Stablecoin",
+    "link": "https://cryptopanic.com/news/33324126/Why-Ex-Ripple-Vice-President-Has-Deja-Vu-Over-Goldman-Sachs-New-Bank-Backed-Stablecoin",
+    "source": "u.today",
+    "published": "Thu Sep 03 2026 12:21:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Lumber is down 35% since crypto started trading it",
+    "link": "https://cryptopanic.com/news/33324041/Lumber-is-down-35-since-crypto-started-trading-it",
+    "source": "protos.com",
+    "published": "Thu Sep 03 2026 12:18:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Bitcoin is back at $78,000.",
+    "link": "https://cryptopanic.com/news/33324163/JUST-IN-Bitcoin-is-back-at-78000",
+    "source": "@cointelegraph",
+    "published": "Thu Sep 03 2026 12:17:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Users can now buy crypto with @CashApp balance via @MoonPay in @TrustWallet for Android. \n\nThe feature was initially rolled out to iOS users in the U.S., but it's now available to Android users as aswell.",
+    "link": "https://cryptopanic.com/news/33324175/Users-can-now-buy-crypto-with-CashApp-balance-via-MoonPay-in-TrustWallet-for-Android-The-feature-was-initially-rolled-out-to-iOS-users-in-the-US-but-its-now-available-to-Android-users-as-aswell",
+    "source": "@bscnews",
+    "published": "Thu Sep 03 2026 12:16:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Google recycles DDR4 from dead servers as DRAM shortage bites",
     "link": "https://cryptopanic.com/news/33323996/Google-recycles-DDR4-from-dead-servers-as-DRAM-shortage-bites",
     "source": "cryptopolitan.com",
@@ -7,10 +77,38 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Bitcoin-Gold Correlation Hits 6-Year High: What Is Going On?",
+    "link": "https://cryptopanic.com/news/33324059/Bitcoin-Gold-Correlation-Hits-6-Year-High-What-Is-Going-On",
+    "source": "feeds2.benzinga.com",
+    "published": "Thu Sep 03 2026 12:13:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Uniswap now making more money than Circle?!\n\nFor as long as we can remember, @Circle and @Tether have dominated DefiLlama's protocol fees dashboard.\n\nBut now, @Uniswap has flipped Circle on both 24 hour and 1 week fee generation, generating over $10M in the past day, and over",
+    "link": "https://cryptopanic.com/news/33324174/Uniswap-now-making-more-money-than-Circle-For-as-long-as-we-can-remember-Circle-and-Tether-have-dominated-DefiLlamas-protocol-fees-dashboard-But-now-Uniswap-has-flipped-Circle-on-both-24-hour-and-1-week-fee-generation-generating-over-10M-in-the-past-day-and-over",
+    "source": "@bscnews",
+    "published": "Thu Sep 03 2026 12:13:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$XPL Chart looks very interesting.\n\nMaybe squeeze before the big unlock? Wouldn't be the first time. Would always recommend to just play the chart with these kind of coins. You never know what is playing in the background.",
+    "link": "https://cryptopanic.com/news/33324172/XPL-Chart-looks-very-interesting-Maybe-squeeze-before-the-big-unlock-Wouldnt-be-the-first-time-Would-always-recommend-to-just-play-the-chart-with-these-kind-of-coins-You-never-know-what-is-playing-in-the-background",
+    "source": "@daancrypto",
+    "published": "Thu Sep 03 2026 12:10:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Standard Chartered Opens UAE Bitcoin and Ether Spot Trading to Institutions",
     "link": "https://cryptopanic.com/news/33323959/Standard-Chartered-Opens-UAE-Bitcoin-and-Ether-Spot-Trading-to-Institutions",
     "source": "btcusa.com",
     "published": "Thu Sep 03 2026 12:07:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin ETFs bought $2.4B since Aug. 17.\n\nInstitutional appetite remains solid.",
+    "link": "https://cryptopanic.com/news/33324076/Bitcoin-ETFs-bought-24B-since-Aug-17-Institutional-appetite-remains-solid",
+    "source": "@btc_archive",
+    "published": "Thu Sep 03 2026 12:05:23 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -28,6 +126,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Is the Crypto Fear & Greed Index a reliable market indicator?\n\n@carlmoon explains why he doesn’t care about the index. #CHAINREACTION",
+    "link": "https://cryptopanic.com/news/33324162/Is-the-Crypto-Fear-amp-Greed-Index-a-reliable-market-indicator-carlmoon-explains-why-he-doesnt-care-about-the-index-CHAINREACTION",
+    "source": "@cointelegraph",
+    "published": "Thu Sep 03 2026 12:02:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Robinhood Chain Beats Tron in 24-Hour Revenue",
     "link": "https://cryptopanic.com/news/33324006/Robinhood-Chain-Beats-Tron-in-24-Hour-Revenue",
     "source": "u.today",
@@ -42,6 +147,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "When you find a new gem but the top 10 wallets hold 90%.",
+    "link": "https://cryptopanic.com/news/33324077/When-you-find-a-new-gem-but-the-top-10-wallets-hold-90",
+    "source": "@coinmarketcap",
+    "published": "Thu Sep 03 2026 12:00:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "The UK government is walking a tightrope ahead of the Autumn budget, but if it breaks the rules and goes on a spending spree, Prime Minister Andy Burnham's time in Number 10 could be short-lived",
     "link": "https://cryptopanic.com/news/33323898/The-UK-government-is-walking-a-tightrope-ahead-of-the-Autumn-budget-but-if-it-breaks-the-rules-and-goes-on-a-spending-spree-Prime-Minister-Andy-Burnhams-time-in-Number-10-could-be-short-lived",
     "source": "@reutersbiz",
@@ -53,6 +165,13 @@
     "link": "https://cryptopanic.com/news/33324022/SoFi-Kraken-tie-up-as-crypto-and-banking-push-into-each-others-turf",
     "source": "coindesk.com",
     "published": "Thu Sep 03 2026 12:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Alliance Global Partners initiated coverage on Strategy with a BUY rating.\n\n$252 price target for $MSTR — 97% upside.",
+    "link": "https://cryptopanic.com/news/33324075/JUST-IN-Alliance-Global-Partners-initiated-coverage-on-Strategy-with-a-BUY-rating-252-price-target-for-MSTR-97-upside",
+    "source": "@btc_archive",
+    "published": "Thu Sep 03 2026 11:55:17 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -88,125 +207,6 @@
     "link": "https://cryptopanic.com/news/33323831/Morning-Minute-Strategy-CEO-Says-Selling-The-Bottom-Was-Correct-Move",
     "source": "decrypt.co",
     "published": "Thu Sep 03 2026 11:43:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Could Hit $90,000 By October Under One Condition, Analyst Says",
-    "link": "https://cryptopanic.com/news/33323887/Bitcoin-Could-Hit-90000-By-October-Under-One-Condition-Analyst-Says",
-    "source": "feeds2.benzinga.com",
-    "published": "Thu Sep 03 2026 11:42:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$HYPE and $PUMP Lead 2026 Token Buybacks",
-    "link": "https://cryptopanic.com/news/33323840/HYPE-and-PUMP-Lead-2026-Token-Buybacks",
-    "source": "@coinmarketcap",
-    "published": "Thu Sep 03 2026 11:41:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$1B in stablecoins returned to Binance in August",
-    "link": "https://cryptopanic.com/news/33323825/1B-in-stablecoins-returned-to-Binance-in-August",
-    "source": "cryptopolitan.com",
-    "published": "Thu Sep 03 2026 11:38:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: @StanChart launches institutional spot crypto trading in the UAE, covering bitcoin:native, $ETH and 75+ assets, integrated directly into its regulated banking and FX platforms.",
-    "link": "https://cryptopanic.com/news/33323894/JUST-IN-StanChart-launches-institutional-spot-crypto-trading-in-the-UAE-covering-bitcoinnative-ETH-and-75-assets-integrated-directly-into-its-regulated-banking-and-FX-platforms",
-    "source": "@coindesk",
-    "published": "Thu Sep 03 2026 11:38:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33323844/Source",
-    "source": "@wublockchain",
-    "published": "Thu Sep 03 2026 11:36:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Mamdani Imposes One-Year Moratorium on Generative AI in NYC Schools",
-    "link": "https://cryptopanic.com/news/33323809/Mamdani-Imposes-One-Year-Moratorium-on-Generative-AI-in-NYC-Schools",
-    "source": "decrypt.co",
-    "published": "Thu Sep 03 2026 11:36:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hyperliquid to Add Optional Permissioned Market Functionality to HIP-3\n\nHyperliquid announced that a future network upgrade will add optional permissioned market functionality (HIP-3*) to HIP-3. Once enabled, market deployers or their sub-deployers can manage onchain whitelists",
-    "link": "https://cryptopanic.com/news/33323843/Hyperliquid-to-Add-Optional-Permissioned-Market-Functionality-to-HIP-3-Hyperliquid-announced-that-a-future-network-upgrade-will-add-optional-permissioned-market-functionality-HIP-3-to-HIP-3-Once-enabled-market-deployers-or-their-sub-deployers-can-manage-onchain-whitelists",
-    "source": "@wublockchain",
-    "published": "Thu Sep 03 2026 11:36:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "GTA VI, USDT, and Solana: Fact-Checking a Viral Crypto Rumor",
-    "link": "https://cryptopanic.com/news/33323803/GTA-VI-USDT-and-Solana-Fact-Checking-a-Viral-Crypto-Rumor",
-    "source": "spaziocrypto.com",
-    "published": "Thu Sep 03 2026 11:35:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "TODAY: Circle minted another 250M USDC on Solana, bringing its total September minting to $1.25B in just three days.",
-    "link": "https://cryptopanic.com/news/33323895/TODAY-Circle-minted-another-250M-USDC-on-Solana-bringing-its-total-September-minting-to-125B-in-just-three-days",
-    "source": "@cointelegraph",
-    "published": "Thu Sep 03 2026 11:30:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "FOMO HOUR ft @Tyler_Did_It and @farokh",
-    "link": "https://cryptopanic.com/news/33323753/FOMO-HOUR-ft-Tyler_Did_It-and-farokh",
-    "source": "@decryptmedia",
-    "published": "Thu Sep 03 2026 11:30:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The ethereum:native ETF inflow streak continues!",
-    "link": "https://cryptopanic.com/news/33323752/The-ethereumnative-ETF-inflow-streak-continues",
-    "source": "@decryptmedia",
-    "published": "Thu Sep 03 2026 11:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin This Happens Every Cycle",
-    "link": "https://cryptopanic.com/news/33323827/Bitcoin-This-Happens-Every-Cycle",
-    "source": "TheCryptoLark",
-    "published": "Thu Sep 03 2026 11:29:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Jim Cramer's Says This Stock Is Primed for a “Huge Move”",
-    "link": "https://cryptopanic.com/news/33324002/Jim-Cramers-Says-This-Stock-Is-Primed-for-a-Huge-Move",
-    "source": "beincrypto.com",
-    "published": "Thu Sep 03 2026 11:28:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "FX has stopped reading bond yields the old way. Bitcoin should too.",
-    "link": "https://cryptopanic.com/news/33323921/FX-has-stopped-reading-bond-yields-the-old-way-Bitcoin-should-too",
-    "source": "coindesk.com",
-    "published": "Thu Sep 03 2026 11:26:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "TrueUSD’s $456M court case gives defendant days to reveal legal funding source – or face court sanctions",
-    "link": "https://cryptopanic.com/news/33323738/TrueUSDs-456M-court-case-gives-defendant-days-to-reveal-legal-funding-source-or-face-court-sanctions",
-    "source": "cryptoslate.com",
-    "published": "Thu Sep 03 2026 11:25:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Avalanche cheaper to use than nearly every major blockchain.\n\nAccording to data from @frostymetrics, the @Avax blockchain is cheaper than nearly all other blue-chip networks including @0xPolygon, @BNBChain, @solana, @base, and @arbitrum.\n\nIn fact, fees on Avax are a staggering",
-    "link": "https://cryptopanic.com/news/33323902/Avalanche-cheaper-to-use-than-nearly-every-major-blockchain-According-to-data-from-frostymetrics-the-Avax-blockchain-is-cheaper-than-nearly-all-other-blue-chip-networks-including-0xPolygon-BNBChain-solana-base-and-arbitrum-In-fact-fees-on-Avax-are-a-staggering",
-    "source": "@bscnews",
-    "published": "Thu Sep 03 2026 11:21:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Workers locked out of BP's Whiting, Indiana refinery since March describe the financial and emotional strain of the contract standoff, while BP says its position is aimed at keeping the refinery competitive",
-    "link": "https://cryptopanic.com/news/33323896/Workers-locked-out-of-BPs-Whiting-Indiana-refinery-since-March-describe-the-financial-and-emotional-strain-of-the-contract-standoff-while-BP-says-its-position-is-aimed-at-keeping-the-refinery-competitive",
-    "source": "@reutersbiz",
-    "published": "Thu Sep 03 2026 11:20:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
