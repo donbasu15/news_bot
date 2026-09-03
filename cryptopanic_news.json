@@ -1,5 +1,75 @@
 [
   {
+    "title": "Bernie Sanders Pushes Bill to Ban Advanced AI Development",
+    "link": "https://cryptopanic.com/news/33327165/Bernie-Sanders-Pushes-Bill-to-Ban-Advanced-AI-Development",
+    "source": "decrypt.co",
+    "published": "Thu Sep 03 2026 20:16:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ECB Digital Euro Report Keeps Preparation Phase Moving",
+    "link": "https://cryptopanic.com/news/33327160/ECB-Digital-Euro-Report-Keeps-Preparation-Phase-Moving",
+    "source": "newsbtc.com",
+    "published": "Thu Sep 03 2026 20:15:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "£172B investment service Hargreaves Lansdown opens crypto ETNs to UK users",
+    "link": "https://cryptopanic.com/news/33327155/172B-investment-service-Hargreaves-Lansdown-opens-crypto-ETNs-to-UK-users",
+    "source": "cryptopolitan.com",
+    "published": "Thu Sep 03 2026 20:10:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto market cap surges to $2.82 trillion as Zcash leads rally alongside stocks",
+    "link": "https://cryptopanic.com/news/33327144/Crypto-market-cap-surges-to-282-trillion-as-Zcash-leads-rally-alongside-stocks",
+    "source": "theblock.co",
+    "published": "Thu Sep 03 2026 20:09:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The Total #Altcoin Market Cap has seen a big change in market structure & sentiment after the recent move.\n\nMade a new higher high, now needs to find its higher low and get the trend going.\n\nIn the middle of the big range which it has spend the past ~2 years in.",
+    "link": "https://cryptopanic.com/news/33327154/The-Total-Altcoin-Market-Cap-has-seen-a-big-change-in-market-structure-amp-sentiment-after-the-recent-move-Made-a-new-higher-high-now-needs-to-find-its-higher-low-and-get-the-trend-going-In-the-middle-of-the-big-range-which-it-has-spend-the-past-2-years-in",
+    "source": "@daancrypto",
+    "published": "Thu Sep 03 2026 20:03:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ripple HQ today after seeing $XRP has been endorsed by the institution that represents 95% of global GDP.",
+    "link": "https://cryptopanic.com/news/33327156/Ripple-HQ-today-after-seeing-XRP-has-been-endorsed-by-the-institution-that-represents-95-of-global-GDP",
+    "source": "@realallincrypto",
+    "published": "Thu Sep 03 2026 20:00:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Inflation pressures are broadening, with about half of all U.S. goods and service prices now rising faster than 3%, per Bloomberg Economics.",
+    "link": "https://cryptopanic.com/news/33327152/UPDATE-Inflation-pressures-are-broadening-with-about-half-of-all-US-goods-and-service-prices-now-rising-faster-than-3-per-Bloomberg-Economics",
+    "source": "@cointelegraph",
+    "published": "Thu Sep 03 2026 20:00:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cynthia Lummis points to Wyoming's rules as the model for the CLARITY Act\n\n@SenLummis, one of the bill's drafters, said on Thursday that her state built a digital asset framework before Washington engaged, and that the CLARITY Act applies the same approach nationally.\n\nA",
+    "link": "https://cryptopanic.com/news/33327159/Cynthia-Lummis-points-to-Wyomings-rules-as-the-model-for-the-CLARITY-Act-SenLummis-one-of-the-bills-drafters-said-on-Thursday-that-her-state-built-a-digital-asset-framework-before-Washington-engaged-and-that-the-CLARITY-Act-applies-the-same-approach-nationally-A",
+    "source": "@bscnews",
+    "published": "Thu Sep 03 2026 19:58:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Only 25 Wallets Cleared $10K as Solana Meme Coins Surge",
+    "link": "https://cryptopanic.com/news/33327086/Only-25-Wallets-Cleared-10K-as-Solana-Meme-Coins-Surge",
+    "source": "dailycoin.com",
+    "published": "Thu Sep 03 2026 19:57:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "HUMAIN readies large venture fund to widen Saudi Arabia’s AI bet",
+    "link": "https://cryptopanic.com/news/33327082/HUMAIN-readies-large-venture-fund-to-widen-Saudi-Arabias-AI-bet",
+    "source": "cryptopolitan.com",
+    "published": "Thu Sep 03 2026 19:55:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "$216M in Bitcoin shorts liquidated in 24h.\n\nWe haven't even broken May's high yet.\n\nBears are REKT.",
     "link": "https://cryptopanic.com/news/33327075/216M-in-Bitcoin-shorts-liquidated-in-24h-We-havent-even-broken-Mays-high-yet-Bears-are-REKT",
     "source": "@btc_archive",
@@ -7,9 +77,37 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Zcash Up 2,000% in 1 Year as Trader Puts 'Majority of Net Worth' in ZEC",
+    "link": "https://cryptopanic.com/news/33327099/Zcash-Up-2000-in-1-Year-as-Trader-Puts-Majority-of-Net-Worth-in-ZEC",
+    "source": "feeds2.benzinga.com",
+    "published": "Thu Sep 03 2026 19:46:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Chainlink data feeds are running on the Stripe-backed Tempo blockchain\n\n@tempo said on Thursday that developers on the payments chain can now pull @chainlink feeds to value collateral, compare FX rates, and set risk controls without running their own oracles.\n\nThe chain reached",
+    "link": "https://cryptopanic.com/news/33327158/Chainlink-data-feeds-are-running-on-the-Stripe-backed-Tempo-blockchain-tempo-said-on-Thursday-that-developers-on-the-payments-chain-can-now-pull-chainlink-feeds-to-value-collateral-compare-FX-rates-and-set-risk-controls-without-running-their-own-oracles-The-chain-reached",
+    "source": "@bscnews",
+    "published": "Thu Sep 03 2026 19:41:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Polymarket has added never-expiring oil contracts to its perpetual futures lineup\n\n@Polymarket launched perpetual futures on Thursday across crypto, equities and commodities, including Brent and West Texas Intermediate contracts. Leverage runs to 20x.\n\nBloomberg reports",
+    "link": "https://cryptopanic.com/news/33327157/Polymarket-has-added-never-expiring-oil-contracts-to-its-perpetual-futures-lineup-Polymarket-launched-perpetual-futures-on-Thursday-across-crypto-equities-and-commodities-including-Brent-and-West-Texas-Intermediate-contracts-Leverage-runs-to-20x-Bloomberg-reports",
+    "source": "@bscnews",
+    "published": "Thu Sep 03 2026 19:41:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: Bitcoin's correlation with gold hit a six-year high, according to Bitwise \n\n\"The last time it was this high was 2020, after the Covid stimulus.\"",
     "link": "https://cryptopanic.com/news/33327000/JUST-IN-Bitcoins-correlation-with-gold-hit-a-six-year-high-according-to-Bitwise-The-last-time-it-was-this-high-was-2020-after-the-Covid-stimulus",
     "source": "@bitcoinmagazine",
+    "published": "Thu Sep 03 2026 19:40:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "️ NEW: Kraken parent Payward has partnered with SoFi to bring SoFiUSD to Kraken and give SoFi access to Kraken Prime’s crypto liquidity.",
+    "link": "https://cryptopanic.com/news/33327151/NEW-Kraken-parent-Payward-has-partnered-with-SoFi-to-bring-SoFiUSD-to-Kraken-and-give-SoFi-access-to-Kraken-Primes-crypto-liquidity",
+    "source": "@cointelegraph",
     "published": "Thu Sep 03 2026 19:40:23 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -28,10 +126,10 @@
     "sentiment": "neutral"
   },
   {
-    "title": "JUST IN: 🇺🇸 Coinbase files to launch perpetual stock trading in the US.",
-    "link": "https://cryptopanic.com/news/33327077/JUST-IN-Coinbase-files-to-launch-perpetual-stock-trading-in-the-US",
-    "source": "@cryptonwsuk",
-    "published": "Thu Sep 03 2026 19:33:52 GMT+0000 (Coordinated Universal Time)",
+    "title": "JUST IN: Hargreaves Lansdown, one of the UK's largest retail investment platforms, has started offering bitcoin:native and $ETH ETNs nearly a year after the FCA restored retail access to crypto ETNs in October 2025.",
+    "link": "https://cryptopanic.com/news/33327150/JUST-IN-Hargreaves-Lansdown-one-of-the-UKs-largest-retail-investment-platforms-has-started-offering-bitcoinnative-and-ETH-ETNs-nearly-a-year-after-the-FCA-restored-retail-access-to-crypto-ETNs-in-October-2025",
+    "source": "@coindesk",
+    "published": "Thu Sep 03 2026 19:35:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -109,104 +207,6 @@
     "link": "https://cryptopanic.com/news/33326795/2027-Social-Security-COLA-Could-Lift-Average-Retiree-Check-Above-2160",
     "source": "coinpaper.com",
     "published": "Thu Sep 03 2026 19:04:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ALERT: Safety experts warn OpenAI’s upcoming Astra model could make future AI agents’ reasoning harder for humans to monitor, despite cutting compute costs.",
-    "link": "https://cryptopanic.com/news/33326907/ALERT-Safety-experts-warn-OpenAIs-upcoming-Astra-model-could-make-future-AI-agents-reasoning-harder-for-humans-to-monitor-despite-cutting-compute-costs",
-    "source": "@cointelegraph",
-    "published": "Thu Sep 03 2026 19:00:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "What Solana’s failed fee vote reveals about Anatoly Yakovenko’s power",
-    "link": "https://cryptopanic.com/news/33326770/What-Solanas-failed-fee-vote-reveals-about-Anatoly-Yakovenkos-power",
-    "source": "cryptoslate.com",
-    "published": "Thu Sep 03 2026 19:00:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The BIS write it out as clear as day the steps they took in SUCCESSFULLY using the $XRP Ledger to make official data easier to trust, verify in real time, and share securely between central banks, governments and international organisations.\n\nWorth noting the BIS is made up of 63",
-    "link": "https://cryptopanic.com/news/33326910/The-BIS-write-it-out-as-clear-as-day-the-steps-they-took-in-SUCCESSFULLY-using-the-XRP-Ledger-to-make-official-data-easier-to-trust-verify-in-real-time-and-share-securely-between-central-banks-governments-and-international-organisations-Worth-noting-the-BIS-is-made-up-of-63",
-    "source": "@realallincrypto",
-    "published": "Thu Sep 03 2026 19:00:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Commerzbank to buy back own shares for €1.2 billion",
-    "link": "https://cryptopanic.com/news/33326909/Commerzbank-to-buy-back-own-shares-for-12-billion",
-    "source": "@reutersbiz",
-    "published": "Thu Sep 03 2026 19:00:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Artificial Inu jumps 20% amid NVDA stock pairing surge – What’s next for AI?",
-    "link": "https://cryptopanic.com/news/33326768/Artificial-Inu-jumps-20-amid-NVDA-stock-pairing-surge-Whats-next-for-AI",
-    "source": "ambcrypto.com",
-    "published": "Thu Sep 03 2026 19:00:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why is Singapore SO RICH?",
-    "link": "https://cryptopanic.com/news/33326846/Why-is-Singapore-SO-RICH",
-    "source": "AnthonyPompliano",
-    "published": "Thu Sep 03 2026 18:59:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Investor Who Went 30 Years Without a Loss Just Bet $125 Million on Bitcoin",
-    "link": "https://cryptopanic.com/news/33327071/Investor-Who-Went-30-Years-Without-a-Loss-Just-Bet-125-Million-on-Bitcoin",
-    "source": "beincrypto.com",
-    "published": "Thu Sep 03 2026 18:59:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CPI vs PCE Inflation: Which One Does the Fed Really Watch?",
-    "link": "https://cryptopanic.com/news/33326756/CPI-vs-PCE-Inflation-Which-One-Does-the-Fed-Really-Watch",
-    "source": "coinpaper.com",
-    "published": "Thu Sep 03 2026 18:57:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "@FlareNetworks Link to dashboard",
-    "link": "https://cryptopanic.com/news/33326914/FlareNetworks-Link-to-dashboard",
-    "source": "@bscnews",
-    "published": "Thu Sep 03 2026 18:53:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Mantle joins the Global Dollar Network and adds native USDG issuance\n\nMantle (@Mantle_Official) said on Thursday that solana:2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH, the dollar stablecoin issued by @Paxos, now mints natively on the network. Joining puts Mantle into the",
-    "link": "https://cryptopanic.com/news/33326913/Mantle-joins-the-Global-Dollar-Network-and-adds-native-USDG-issuance-Mantle-Mantle_Official-said-on-Thursday-that-solana2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH-the-dollar-stablecoin-issued-by-Paxos-now-mints-natively-on-the-network-Joining-puts-Mantle-into-the",
-    "source": "@bscnews",
-    "published": "Thu Sep 03 2026 18:53:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Effective altruism is back with an ‘anti AI’ campaign",
-    "link": "https://cryptopanic.com/news/33326753/Effective-altruism-is-back-with-an-anti-AI-campaign",
-    "source": "protos.com",
-    "published": "Thu Sep 03 2026 18:52:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Astra is the first OpenAI model to hit the critical cybersecurity threshold in the company's own preparedness framework, meaning it can find and exploit unknown vulnerabilities without step by step human guidance.",
-    "link": "https://cryptopanic.com/news/33326912/Astra-is-the-first-OpenAI-model-to-hit-the-critical-cybersecurity-threshold-in-the-companys-own-preparedness-framework-meaning-it-can-find-and-exploit-unknown-vulnerabilities-without-step-by-step-human-guidance",
-    "source": "@bscnews",
-    "published": "Thu Sep 03 2026 18:51:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "REMINDER: Michael Saylor's Strategy is INELIGIBLE for Friday's S&P 500 rebalance.\n\nNegative GAAP earnings keep $MSTR below the index profitability threshold.",
-    "link": "https://cryptopanic.com/news/33326855/REMINDER-Michael-Saylors-Strategy-is-INELIGIBLE-for-Fridays-SampP-500-rebalance-Negative-GAAP-earnings-keep-MSTR-below-the-index-profitability-threshold",
-    "source": "@btc_archive",
-    "published": "Thu Sep 03 2026 18:50:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 $META CEO Mark Zuckerberg tells President Trump he is against a national AI regulator.",
-    "link": "https://cryptopanic.com/news/33326758/JUST-IN-META-CEO-Mark-Zuckerberg-tells-President-Trump-he-is-against-a-national-AI-regulator",
-    "source": "@watcherguru",
-    "published": "Thu Sep 03 2026 18:50:23 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
