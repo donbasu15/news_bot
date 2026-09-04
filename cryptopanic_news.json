@@ -1,5 +1,12 @@
 [
   {
+    "title": "There was HUGE $BTC demand from tradfi on Thursday with ETFs seeing +$730.8M net inflows. This marked the largest day of inflows since January and the 3rd largest inflow since BTC topped in October.",
+    "link": "https://cryptopanic.com/news/33329210/There-was-HUGE-BTC-demand-from-tradfi-on-Thursday-with-ETFs-seeing-7308M-net-inflows-This-marked-the-largest-day-of-inflows-since-January-and-the-3rd-largest-inflow-since-BTC-topped-in-October",
+    "source": "@stackersatoshi",
+    "published": "Fri Sep 04 2026 05:24:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Germany warming to UniCredit on Commerzbank seen bolstering way for European bank deals",
     "link": "https://cryptopanic.com/news/33329091/Germany-warming-to-UniCredit-on-Commerzbank-seen-bolstering-way-for-European-bank-deals",
     "source": "@reutersbiz",
@@ -60,6 +67,27 @@
     "link": "https://cryptopanic.com/news/33328979/a16z-says-blockchains-next-test-is-fair-execution-not-raw-speed",
     "source": "cryptopolitan.com",
     "published": "Fri Sep 04 2026 04:39:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Apple's Memory Costs Jump 400%, iPhone 18 Pro Price May Rise $100",
+    "link": "https://cryptopanic.com/news/33329162/Apples-Memory-Costs-Jump-400-iPhone-18-Pro-Price-May-Rise-100",
+    "source": "beincrypto.com",
+    "published": "Fri Sep 04 2026 04:37:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Volkswagen Approves Future Plan 2030 With 50,000 Job Cuts",
+    "link": "https://cryptopanic.com/news/33329161/Volkswagen-Approves-Future-Plan-2030-With-50000-Job-Cuts",
+    "source": "beincrypto.com",
+    "published": "Fri Sep 04 2026 04:37:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Hits $82,000 and Fidelity Says It's Unsure If the Bear Market Is Over",
+    "link": "https://cryptopanic.com/news/33329160/Bitcoin-Hits-82000-and-Fidelity-Says-Its-Unsure-If-the-Bear-Market-Is-Over",
+    "source": "beincrypto.com",
+    "published": "Fri Sep 04 2026 04:32:47 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -168,13 +196,6 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Fidelity: Despite Bitcoin’s Strong August Rally, It Remains Unclear Whether the Bear Market Has Ended\n\nFidelity said that despite strong gains in Bitcoin and the broader crypto market in August, it remains unclear whether the bear market has ended. Some investors are watching for",
-    "link": "https://cryptopanic.com/news/33328764/Fidelity-Despite-Bitcoins-Strong-August-Rally-It-Remains-Unclear-Whether-the-Bear-Market-Has-Ended-Fidelity-said-that-despite-strong-gains-in-Bitcoin-and-the-broader-crypto-market-in-August-it-remains-unclear-whether-the-bear-market-has-ended-Some-investors-are-watching-for",
-    "source": "@wublockchain",
-    "published": "Fri Sep 04 2026 03:28:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
     "title": "Source",
     "link": "https://cryptopanic.com/news/33328763/Source",
     "source": "@wublockchain",
@@ -182,31 +203,10 @@
     "sentiment": "neutral"
   },
   {
-    "title": "U.S. banking agency gives blockchain bank OpenReserve initial OK to operate",
-    "link": "https://cryptopanic.com/news/33328921/US-banking-agency-gives-blockchain-bank-OpenReserve-initial-OK-to-operate",
-    "source": "coindesk.com",
-    "published": "Fri Sep 04 2026 03:26:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Apple to lift iPhone 18 Pro prices 10-20% as memory costs quadruple",
-    "link": "https://cryptopanic.com/news/33328538/Apple-to-lift-iPhone-18-Pro-prices-10-20-as-memory-costs-quadruple",
-    "source": "cryptopolitan.com",
-    "published": "Fri Sep 04 2026 03:18:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "U.S. 30-Year Mortgage Rate Rises To 6.71%, Highest In More Than A Year",
-    "link": "https://cryptopanic.com/news/33328740/US-30-Year-Mortgage-Rate-Rises-To-671-Highest-In-More-Than-A-Year",
-    "source": "square.binance.com",
-    "published": "Fri Sep 04 2026 03:17:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "io.net to Unlock 14.14 Million IO Tokens on September 11",
-    "link": "https://cryptopanic.com/news/33328739/ionet-to-Unlock-1414-Million-IO-Tokens-on-September-11",
-    "source": "square.binance.com",
-    "published": "Fri Sep 04 2026 03:14:12 GMT+0000 (Coordinated Universal Time)",
+    "title": "Fidelity: Despite Bitcoin’s Strong August Rally, It Remains Unclear Whether the Bear Market Has Ended\n\nFidelity said that despite strong gains in Bitcoin and the broader crypto market in August, it remains unclear whether the bear market has ended. Some investors are watching for",
+    "link": "https://cryptopanic.com/news/33328764/Fidelity-Despite-Bitcoins-Strong-August-Rally-It-Remains-Unclear-Whether-the-Bear-Market-Has-Ended-Fidelity-said-that-despite-strong-gains-in-Bitcoin-and-the-broader-crypto-market-in-August-it-remains-unclear-whether-the-bear-market-has-ended-Some-investors-are-watching-for",
+    "source": "@wublockchain",
+    "published": "Fri Sep 04 2026 03:28:47 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
