@@ -1,5 +1,110 @@
 [
   {
+    "title": "ByteDance lands $29.6 billion syndicated loan for AI data centers",
+    "link": "https://cryptopanic.com/news/33331819/ByteDance-lands-296-billion-syndicated-loan-for-AI-data-centers",
+    "source": "cryptopolitan.com",
+    "published": "Fri Sep 04 2026 13:40:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Robinhood Chain transactions resume after roughly 30 minutes of no new activity on Blockscout",
+    "link": "https://cryptopanic.com/news/33331846/Robinhood-Chain-transactions-resume-after-roughly-30-minutes-of-no-new-activity-on-Blockscout",
+    "source": "@solidintel_x",
+    "published": "Fri Sep 04 2026 13:40:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trezor says mailing breach leaked 67K more users than first thought",
+    "link": "https://cryptopanic.com/news/33331795/Trezor-says-mailing-breach-leaked-67K-more-users-than-first-thought",
+    "source": "protos.com",
+    "published": "Fri Sep 04 2026 13:35:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "South Korea builds tokenized trading rails as its memory-chip boom runs on",
+    "link": "https://cryptopanic.com/news/33331757/South-Korea-builds-tokenized-trading-rails-as-its-memory-chip-boom-runs-on",
+    "source": "cryptopolitan.com",
+    "published": "Fri Sep 04 2026 13:33:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "What Happens When a Crypto Asset Enters the Top 10 by Market Cap?",
+    "link": "https://cryptopanic.com/news/33331752/What-Happens-When-a-Crypto-Asset-Enters-the-Top-10-by-Market-Cap",
+    "source": "coinpaper.com",
+    "published": "Fri Sep 04 2026 13:33:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 White House Hassett says the case for the Federal Reserve to keep interest rates unchanged is \"very strong.\"",
+    "link": "https://cryptopanic.com/news/33331852/JUST-IN-White-House-Hassett-says-the-case-for-the-Federal-Reserve-to-keep-interest-rates-unchanged-is-very-strong",
+    "source": "@watcherguru",
+    "published": "Fri Sep 04 2026 13:31:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The Clarity Act ensures customers' funds are safe if crypto exchanges go bankrupt. \n\n\"By making digital commodities customer property, my bill ensures people get their funds back first.\" - Sen. Cynthia Lummis.",
+    "link": "https://cryptopanic.com/news/33331741/The-Clarity-Act-ensures-customers-funds-are-safe-if-crypto-exchanges-go-bankrupt-By-making-digital-commodities-customer-property-my-bill-ensures-people-get-their-funds-back-first-Sen-Cynthia-Lummis",
+    "source": "@bscnews",
+    "published": "Fri Sep 04 2026 13:30:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: $ZEC hits $1,020, up 20%, as the rally to the $1,000 milestone liquidates $34 million in short positions.",
+    "link": "https://cryptopanic.com/news/33331731/JUST-IN-ZEC-hits-1020-up-20-as-the-rally-to-the-1000-milestone-liquidates-34-million-in-short-positions",
+    "source": "@coindesk",
+    "published": "Fri Sep 04 2026 13:29:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto trader turns $1,491 into $1.2 million in 7 hours",
+    "link": "https://cryptopanic.com/news/33331728/Crypto-trader-turns-1491-into-12-million-in-7-hours",
+    "source": "finbold.com",
+    "published": "Fri Sep 04 2026 13:29:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Pi Network continues trending despite dwindling price\n\nYesterday, Pi Network (@PiCoreTeam) climbed to the top of the OKX trending chart, outranking Bitcoin, Ethereum, @BNBCHAIN, @Solana, and @Uniswap.\n\nThe move can be attributed to renewed community interest in the project's",
+    "link": "https://cryptopanic.com/news/33331740/Pi-Network-continues-trending-despite-dwindling-price-Yesterday-Pi-Network-PiCoreTeam-climbed-to-the-top-of-the-OKX-trending-chart-outranking-Bitcoin-Ethereum-BNBCHAIN-Solana-and-Uniswap-The-move-can-be-attributed-to-renewed-community-interest-in-the-projects",
+    "source": "@bscnews",
+    "published": "Fri Sep 04 2026 13:27:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Bulls Crave For $2: They Got To Clear The Traffic First",
+    "link": "https://cryptopanic.com/news/33331724/XRP-Bulls-Crave-For-2-They-Got-To-Clear-The-Traffic-First",
+    "source": "dailycoin.com",
+    "published": "Fri Sep 04 2026 13:25:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 LATEST: Kalshi’s US web traffic surged 1,520% in under a year. Monthly trading volume also jumped 4,500% to $40 billion as regulatory scrutiny intensified.",
+    "link": "https://cryptopanic.com/news/33331734/LATEST-Kalshis-US-web-traffic-surged-1520-in-under-a-year-Monthly-trading-volume-also-jumped-4500-to-40-billion-as-regulatory-scrutiny-intensified",
+    "source": "@cointelegraph",
+    "published": "Fri Sep 04 2026 13:22:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "67,000 more Americans using Trezor exposed to data breach",
+    "link": "https://cryptopanic.com/news/33331829/67000-more-Americans-using-Trezor-exposed-to-data-breach",
+    "source": "thestreet.com",
+    "published": "Fri Sep 04 2026 13:22:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "US Envoys Head Toward Russia and Ukraine as Iran De-Escalation Push Grows",
+    "link": "https://cryptopanic.com/news/33331689/US-Envoys-Head-Toward-Russia-and-Ukraine-as-Iran-De-Escalation-Push-Grows",
+    "source": "coinpaper.com",
+    "published": "Fri Sep 04 2026 13:21:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ZEC tops $1,000 for the first time as Grayscale’s ZCSH ETF draws inflows",
+    "link": "https://cryptopanic.com/news/33331670/ZEC-tops-1000-for-the-first-time-as-Grayscales-ZCSH-ETF-draws-inflows",
+    "source": "cryptopolitan.com",
+    "published": "Fri Sep 04 2026 13:16:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Robinhood Chain Suspected of Outage After No New Blocks for Over 6 Minutes\n\nAccording to the Robinhood Chain block explorer, the network appears to have experienced an outage, with no new blocks produced for more than six minutes.\n\nAs of 21:08 UTC+8, block production had",
     "link": "https://cryptopanic.com/news/33331658/Robinhood-Chain-Suspected-of-Outage-After-No-New-Blocks-for-Over-6-Minutes-According-to-the-Robinhood-Chain-block-explorer-the-network-appears-to-have-experienced-an-outage-with-no-new-blocks-produced-for-more-than-six-minutes-As-of-2108-UTC8-block-production-had",
     "source": "@wublockchain",
@@ -7,10 +112,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "It's going to be a BIG few days...\n\nWe checked @ElanInsights's pro-level crypto calendar tool and found some big updates arriving in the next few days.\n\nMake an account today: \n\n[September 4] @ONEchain_game rebrands CROSS ticker to ONE.\n\n[September 4]",
+    "link": "https://cryptopanic.com/news/33331739/Its-going-to-be-a-BIG-few-days-We-checked-ElanInsightss-pro-level-crypto-calendar-tool-and-found-some-big-updates-arriving-in-the-next-few-days-Make-an-account-today-September-4-ONEchain_game-rebrands-CROSS-ticker-to-ONE-September-4",
+    "source": "@bscnews",
+    "published": "Fri Sep 04 2026 13:09:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Hedera Board Member Duncan Moir STOKED to see Aberdeen in A TIER on the rankings",
     "link": "https://cryptopanic.com/news/33331683/Hedera-Board-Member-Duncan-Moir-STOKED-to-see-Aberdeen-in-A-TIER-on-the-rankings",
     "source": "r/hedera",
     "published": "Fri Sep 04 2026 13:05:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "@Algorand is already putting RWAs onchain with post-quantum security LIVE!\n\nFrom tokenised real estate and energy to carbon credits and NYSE-listed shares, $ALGO is building infrastructure designed to last for decades.\n\n@AlgoFoundation is certainly not waiting for Q-Day.",
+    "link": "https://cryptopanic.com/news/33331737/Algorand-is-already-putting-RWAs-onchain-with-post-quantum-security-LIVE-From-tokenised-real-estate-and-energy-to-carbon-credits-and-NYSE-listed-shares-ALGO-is-building-infrastructure-designed-to-last-for-decades-AlgoFoundation-is-certainly-not-waiting-for-Q-Day",
+    "source": "@realallincrypto",
+    "published": "Fri Sep 04 2026 13:01:02 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -39,6 +158,13 @@
     "link": "https://cryptopanic.com/news/33331654/Prototype-and-production-share-the-same-response-envelope-Delete-trial-pro-api-from-the-URL-Add-X-CMC_PRO_API_KEY-Your-parsing-code-survives-the-migration-That-is-the-whole-point-Build-with-CMC-API",
     "source": "@coinmarketcap",
     "published": "Fri Sep 04 2026 13:00:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Last week, we reviewed 6,109 sources.\n\nOnly 4% became CoinMarketCal events.\n\nSee the calendar",
+    "link": "https://cryptopanic.com/news/33331735/Last-week-we-reviewed-6109-sources-Only-4-became-CoinMarketCal-events-See-the-calendar",
+    "source": "@coinmarketcal",
+    "published": "Fri Sep 04 2026 13:00:05 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -77,136 +203,10 @@
     "sentiment": "neutral"
   },
   {
-    "title": "ZEC Hits $1,023 After 2,300% Rally as Zcash Cracks Crypto’s Top 10",
-    "link": "https://cryptopanic.com/news/33331506/ZEC-Hits-1023-After-2300-Rally-as-Zcash-Cracks-Cryptos-Top-10",
-    "source": "coinpaper.com",
-    "published": "Fri Sep 04 2026 12:53:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇺🇸 Senator Bernie Sanders has unveiled a bill to ban artificial superintelligence and pause advanced AI development, with violations carrying up to 20 years in prison.",
-    "link": "https://cryptopanic.com/news/33331653/LATEST-Senator-Bernie-Sanders-has-unveiled-a-bill-to-ban-artificial-superintelligence-and-pause-advanced-AI-development-with-violations-carrying-up-to-20-years-in-prison",
-    "source": "@coinmarketcap",
-    "published": "Fri Sep 04 2026 12:53:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "In less than a day, James Wynn (@JamesWynnReal)'s bitcoin:native and $CASHCAT longs have been fully liquidated again!",
-    "link": "https://cryptopanic.com/news/33331524/In-less-than-a-day-James-Wynn-JamesWynnReals-bitcoinnative-and-CASHCAT-longs-have-been-fully-liquidated-again",
-    "source": "@lookonchain",
-    "published": "Fri Sep 04 2026 12:51:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Rebounds As Softer Fed Bets Revive Demand",
-    "link": "https://cryptopanic.com/news/33331495/XRP-Rebounds-As-Softer-Fed-Bets-Revive-Demand",
-    "source": "dailycoin.com",
-    "published": "Fri Sep 04 2026 12:50:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin, Nvidia and Nasdaq Await US Jobs Report With Just 55K Expected",
-    "link": "https://cryptopanic.com/news/33331482/Bitcoin-Nvidia-and-Nasdaq-Await-US-Jobs-Report-With-Just-55K-Expected",
-    "source": "coinpaper.com",
-    "published": "Fri Sep 04 2026 12:49:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BITCOIN DROPS $2,100 IN 15 MINS \n\n$75M IN LEVERAGE LONGS LIQUIDATED",
-    "link": "https://cryptopanic.com/news/33331651/BITCOIN-DROPS-2100-IN-15-MINS-75M-IN-LEVERAGE-LONGS-LIQUIDATED",
-    "source": "@btc_archive",
-    "published": "Fri Sep 04 2026 12:47:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: $200,000,000 worth of crypto longs liquidated in the past 15 minutes.",
-    "link": "https://cryptopanic.com/news/33331532/JUST-IN-200000000-worth-of-crypto-longs-liquidated-in-the-past-15-minutes",
-    "source": "@watcherguru",
-    "published": "Fri Sep 04 2026 12:46:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "USELESS just flipped $BONK and $ANSEM today!\n\nUnipcs (@theunipcs) currently holds 15.9M solana:Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk ($4.06M), with over $3.2M in unrealized profit.",
-    "link": "https://cryptopanic.com/news/33331523/USELESS-just-flipped-BONK-and-ANSEM-today-Unipcs-theunipcs-currently-holds-159M-solanaDz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk-406M-with-over-32M-in-unrealized-profit",
-    "source": "@lookonchain",
-    "published": "Fri Sep 04 2026 12:45:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Injective Activates No-Code Token Launch Infrastructure\n\n@Injective has integrated two no-code protocols, Trippy Pump and TokenStation, to streamline on-chain asset creation for retail and developer cohorts. \n\nTrippy Pump utilizes a bonding curve mechanism for $INJ, $USDC, and",
-    "link": "https://cryptopanic.com/news/33331443/Injective-Activates-No-Code-Token-Launch-Infrastructure-Injective-has-integrated-two-no-code-protocols-Trippy-Pump-and-TokenStation-to-streamline-on-chain-asset-creation-for-retail-and-developer-cohorts-Trippy-Pump-utilizes-a-bonding-curve-mechanism-for-INJ-USDC-and",
+    "title": "James Wynn (@JamesWynnReal)'s $CASHCAT and $BTC longs were liquidated in under 24 hours. \n\nRekt?",
+    "link": "https://cryptopanic.com/news/33331738/James-Wynn-JamesWynnReals-CASHCAT-and-BTC-longs-were-liquidated-in-under-24-hours-Rekt",
     "source": "@bscnews",
-    "published": "Fri Sep 04 2026 12:44:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: The Bank for International Settlements publishes a paper using the XRP Ledger as a proof-of-concept for verifying official statistics on-chain.\n\nThe BIS cites XRPL's low fees, 3-5 second settlement and proven track record, though no adoption decision has been made.",
-    "link": "https://cryptopanic.com/news/33331435/LATEST-The-Bank-for-International-Settlements-publishes-a-paper-using-the-XRP-Ledger-as-a-proof-of-concept-for-verifying-official-statistics-on-chain-The-BIS-cites-XRPLs-low-fees-3-5-second-settlement-and-proven-track-record-though-no-adoption-decision-has-been-made",
-    "source": "@coindesk",
-    "published": "Fri Sep 04 2026 12:44:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin and Gold Fall As US Payrolls Crush Forecasts by 3x",
-    "link": "https://cryptopanic.com/news/33331617/Bitcoin-and-Gold-Fall-As-US-Payrolls-Crush-Forecasts-by-3x",
-    "source": "beincrypto.com",
-    "published": "Fri Sep 04 2026 12:42:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "9/9 🤑\n\n Start trading on Binance: \n\n Code: 139196532",
-    "link": "https://cryptopanic.com/news/33331522/99-Start-trading-on-Binance-Code-139196532",
-    "source": "@cryptokingkeyur",
-    "published": "Fri Sep 04 2026 12:42:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "7/8 \n\nBut none of this works without trust.\n\nFor #Binance, rebuilding trust with Indian regulators means sustained dialogue, compliance, transparency and localization.\n\nAnd Seker argues that taxation, licensing and permitted innovation need to be addressed as a bundle, rather",
-    "link": "https://cryptopanic.com/news/33331521/78-But-none-of-this-works-without-trust-For-Binance-rebuilding-trust-with-Indian-regulators-means-sustained-dialogue-compliance-transparency-and-localization-And-Seker-argues-that-taxation-licensing-and-permitted-innovation-need-to-be-addressed-as-a-bundle-rather",
-    "source": "@cryptokingkeyur",
-    "published": "Fri Sep 04 2026 12:42:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "8/8 \n\nThe bigger story isn't “#crypto vs traditional finance.”\n\nIt's whether India can build an integrated digital-finance ecosystem around its existing strengths — from UPI to tokenization, stablecoins and the Digital Rupee.\n\n“India showed the world what inclusive finance",
-    "link": "https://cryptopanic.com/news/33331520/88-The-bigger-story-isnt-crypto-vs-traditional-finance-Its-whether-India-can-build-an-integrated-digital-finance-ecosystem-around-its-existing-strengths-from-UPI-to-tokenization-stablecoins-and-the-Digital-Rupee-India-showed-the-world-what-inclusive-finance",
-    "source": "@cryptokingkeyur",
-    "published": "Fri Sep 04 2026 12:42:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "6/8 ⏳\n\nAnd timing matters.\n\nSeker believes the next 18–24 months could be critical for India to capture the RWA opportunity.\n\nHong Kong, Singapore and Japan are already positioning themselves around tokenization, issuance and distribution.\n\nFirst-mover advantage matters.",
-    "link": "https://cryptopanic.com/news/33331519/68-And-timing-matters-Seker-believes-the-next-1824-months-could-be-critical-for-India-to-capture-the-RWA-opportunity-Hong-Kong-Singapore-and-Japan-are-already-positioning-themselves-around-tokenization-issuance-and-distribution-First-mover-advantage-matters",
-    "source": "@cryptokingkeyur",
-    "published": "Fri Sep 04 2026 12:42:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "5/8 \n\nBut stablecoins are only one piece of the puzzle.\n\nIndia could also be sitting on a massive Real-World Assets (RWA) opportunity.\n\nBonds may be relatively straightforward.\nLand, agriculture and livestock? Much harder.\n\nTokenization needs more than blockchain — it needs",
-    "link": "https://cryptopanic.com/news/33331518/58-But-stablecoins-are-only-one-piece-of-the-puzzle-India-could-also-be-sitting-on-a-massive-Real-World-Assets-RWA-opportunity-Bonds-may-be-relatively-straightforward-Land-agriculture-and-livestock-Much-harder-Tokenization-needs-more-than-blockchain-it-needs",
-    "source": "@cryptokingkeyur",
-    "published": "Fri Sep 04 2026 12:42:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple CEO Beside Trump, But the Bigger XRP Story Is His Seat at the CFTC Table",
-    "link": "https://cryptopanic.com/news/33331428/Ripple-CEO-Beside-Trump-But-the-Bigger-XRP-Story-Is-His-Seat-at-the-CFTC-Table",
-    "source": "coinpaper.com",
-    "published": "Fri Sep 04 2026 12:40:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 JUST IN: US payrolls rose by 162,000 in August, far above the 56,000 expected.",
-    "link": "https://cryptopanic.com/news/33331439/JUST-IN-US-payrolls-rose-by-162000-in-August-far-above-the-56000-expected",
-    "source": "@cointelegraph",
-    "published": "Fri Sep 04 2026 12:40:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Rep. French Hill says there may be enough votes to PASS the CLARITY Act. \n\nHuge statement coming directly from the House Financial Services Chair. ️",
-    "link": "https://cryptopanic.com/news/33331650/JUST-IN-Rep-French-Hill-says-there-may-be-enough-votes-to-PASS-the-CLARITY-Act-Huge-statement-coming-directly-from-the-House-Financial-Services-Chair",
-    "source": "@btc_archive",
-    "published": "Fri Sep 04 2026 12:40:45 GMT+0000 (Coordinated Universal Time)",
+    "published": "Fri Sep 04 2026 12:54:28 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
