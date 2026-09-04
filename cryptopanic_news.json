@@ -1,5 +1,47 @@
 [
   {
+    "title": "XRP Repricing Call Leans On Washington & BIS Language",
+    "link": "https://cryptopanic.com/news/33330737/XRP-Repricing-Call-Leans-On-Washington-amp-BIS-Language",
+    "source": "dailycoin.com",
+    "published": "Fri Sep 04 2026 10:47:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "FBI seizes $560,000 in crypto from Hamas in past 18 months",
+    "link": "https://cryptopanic.com/news/33330739/FBI-seizes-560000-in-crypto-from-Hamas-in-past-18-months",
+    "source": "finbold.com",
+    "published": "Fri Sep 04 2026 10:44:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Italian NPLs Hit the Blockchain: doValue and Weltix Tokenize €10M Deal",
+    "link": "https://cryptopanic.com/news/33330747/Italian-NPLs-Hit-the-Blockchain-doValue-and-Weltix-Tokenize-10M-Deal",
+    "source": "spaziocrypto.com",
+    "published": "Fri Sep 04 2026 10:44:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Grayscale XRP Position Drops 27% to 12.3M Tokens in New SEC Filing",
+    "link": "https://cryptopanic.com/news/33330713/Grayscale-XRP-Position-Drops-27-to-123M-Tokens-in-New-SEC-Filing",
+    "source": "coinpaper.com",
+    "published": "Fri Sep 04 2026 10:43:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇨🇳 🇯🇵 With China's warships cruising close to its shores, Japan is facing its gravest security questions since World War II,\" per WSJ",
+    "link": "https://cryptopanic.com/news/33330820/JUST-IN-With-Chinas-warships-cruising-close-to-its-shores-Japan-is-facing-its-gravest-security-questions-since-World-War-II-per-WSJ",
+    "source": "@cryptonwsuk",
+    "published": "Fri Sep 04 2026 10:42:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 The U.S. Department of Justice has stated it supports OpenAI, arguing that training large language models on copyrighted works qualifies as protected \"fair use\" under U.S. copyright law",
+    "link": "https://cryptopanic.com/news/33330819/JUST-IN-The-US-Department-of-Justice-has-stated-it-supports-OpenAI-arguing-that-training-large-language-models-on-copyrighted-works-qualifies-as-protected-fair-use-under-US-copyright-law",
+    "source": "@cryptonwsuk",
+    "published": "Fri Sep 04 2026 10:41:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "XRP Eyes El Salvador Bitcoin Mystery After IMF Says Taxpayers Didn’t Fund It",
     "link": "https://cryptopanic.com/news/33330706/XRP-Eyes-El-Salvador-Bitcoin-Mystery-After-IMF-Says-Taxpayers-Didnt-Fund-It",
     "source": "coinpaper.com",
@@ -11,6 +53,41 @@
     "link": "https://cryptopanic.com/news/33330708/Trezor-Breach-Is-Much-Bigger-Than-Initially-Thought-Another-67000-Customers-Exposed",
     "source": "cryptopotato.com",
     "published": "Fri Sep 04 2026 10:36:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Key Takeaways:\n> BTC +1.22%, ETH +0.24%: mcap ticks 0.74% higher to $2.71T and keeps outrunning equities despite Iran and inflation fears\n> Saylor returns to the bid with 4,603 BTC for $370M, his first purchase since July\n> Hyperliquid nears a compliant US launch via talks with",
+    "link": "https://cryptopanic.com/news/33330817/Key-Takeaways-gt-BTC-122-ETH-024-mcap-ticks-074-higher-to-271T-and-keeps-outrunning-equities-despite-Iran-and-inflation-fears-gt-Saylor-returns-to-the-bid-with-4603-BTC-for-370M-his-first-purchase-since-July-gt-Hyperliquid-nears-a-compliant-US-launch-via-talks-with",
+    "source": "@coinmarketcap",
+    "published": "Fri Sep 04 2026 10:31:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "DeFi Brief:\n\n> Cronos-based money market Tectonic exploited for $75M, with the Cronos Network briefly halted to limit damage before resuming.\n> Solana neobank Avici exploited for $500K through a card contract vulnerability; all users have been refunded.\n> HyENA, a perp DEX",
+    "link": "https://cryptopanic.com/news/33330815/DeFi-Brief-gt-Cronos-based-money-market-Tectonic-exploited-for-75M-with-the-Cronos-Network-briefly-halted-to-limit-damage-before-resuming-gt-Solana-neobank-Avici-exploited-for-500K-through-a-card-contract-vulnerability-all-users-have-been-refunded-gt-HyENA-a-perp-DEX",
+    "source": "@coinmarketcap",
+    "published": "Fri Sep 04 2026 10:31:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Narrative of the Week: Hyperliquid Knocks on America's Door\n\n> Hyperliquid is in talks with Kraken's parent company Payward to bring perpetuals to the US officially.\n> Permissionless HIP-4 deployments arrive in the next network upgrade, letting outcome markets launch from",
+    "link": "https://cryptopanic.com/news/33330813/Narrative-of-the-Week-Hyperliquid-Knocks-on-Americas-Door-gt-Hyperliquid-is-in-talks-with-Krakens-parent-company-Payward-to-bring-perpetuals-to-the-US-officially-gt-Permissionless-HIP-4-deployments-arrive-in-the-next-network-upgrade-letting-outcome-markets-launch-from",
+    "source": "@coinmarketcap",
+    "published": "Fri Sep 04 2026 10:31:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Major Project Updates:\n> Binance introduces Stock Options on US stocks and ETFs with physical settlement, building on its stock trading launch earlier this year.\n> Solana's double disinflation proposal passes in a close governance vote, cutting projected issuance by 18.9M SOL",
+    "link": "https://cryptopanic.com/news/33330812/Major-Project-Updates-gt-Binance-introduces-Stock-Options-on-US-stocks-and-ETFs-with-physical-settlement-building-on-its-stock-trading-launch-earlier-this-year-gt-Solanas-double-disinflation-proposal-passes-in-a-close-governance-vote-cutting-projected-issuance-by-189M-SOL",
+    "source": "@coinmarketcap",
+    "published": "Fri Sep 04 2026 10:31:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Market Overview:\n\n> Crypto mcap up 0.74% to $2.71T. BTC +1.22%, ETH +0.24%.\n> Liquidations start muted and long-leaning before over $400M in shorts get cleared into the week close.\n> Funding rates stay healthy, with most majors under 10%.\n> Strategy acquires 4,603 BTC for $370M,",
+    "link": "https://cryptopanic.com/news/33330811/Market-Overview-gt-Crypto-mcap-up-074-to-271T-BTC-122-ETH-024-gt-Liquidations-start-muted-and-long-leaning-before-over-400M-in-shorts-get-cleared-into-the-week-close-gt-Funding-rates-stay-healthy-with-most-majors-under-10-gt-Strategy-acquires-4603-BTC-for-370M",
+    "source": "@coinmarketcap",
+    "published": "Fri Sep 04 2026 10:31:17 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -39,6 +116,13 @@
     "link": "https://cryptopanic.com/news/33330617/Machine-learning-algorithm-sets-Ethereum-price-on-September-30-2026",
     "source": "finbold.com",
     "published": "Fri Sep 04 2026 10:24:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "AMC CEO Urges Robinhood to Halt AMC Stock Token Trading, Questions Legality\n\nAMC Entertainment CEO Adam Aron criticized Robinhood’s AMC Stock Token, saying AMC has no connection to, authorization of, or endorsement of the product. He described the practice as “contemptible,",
+    "link": "https://cryptopanic.com/news/33330818/AMC-CEO-Urges-Robinhood-to-Halt-AMC-Stock-Token-Trading-Questions-Legality-AMC-Entertainment-CEO-Adam-Aron-criticized-Robinhoods-AMC-Stock-Token-saying-AMC-has-no-connection-to-authorization-of-or-endorsement-of-the-product-He-described-the-practice-as-contemptible",
+    "source": "@wublockchain",
+    "published": "Fri Sep 04 2026 10:23:38 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -123,90 +207,6 @@
     "link": "https://cryptopanic.com/news/33330435/Goldman-Sachs-lifts-2026-bond-forecast-to-23T-on-AI-demand",
     "source": "cryptopolitan.com",
     "published": "Fri Sep 04 2026 10:01:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HashKey just joined DTCC’s institutional tokenisation working group!\n\nAsia’s HashKey just joined its institutional working group alongside JPMorgan, Goldman & Nasdaq.\n\nMeanwhile, DTCC is connecting tokenised assets to @StellarOrg and using @chainlink infrastructure.\n\nThe",
-    "link": "https://cryptopanic.com/news/33330650/HashKey-just-joined-DTCCs-institutional-tokenisation-working-group-Asias-HashKey-just-joined-its-institutional-working-group-alongside-JPMorgan-Goldman-amp-Nasdaq-Meanwhile-DTCC-is-connecting-tokenised-assets-to-StellarOrg-and-using-chainlink-infrastructure-The",
-    "source": "@realallincrypto",
-    "published": "Fri Sep 04 2026 10:00:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Open  and start  now.",
-    "link": "https://cryptopanic.com/news/33330496/Open-and-start-now",
-    "source": "@coinmarketcap",
-    "published": "Fri Sep 04 2026 10:00:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Weekly Roundup 09/04/26 (HuggingFace hack breaks containment, Hyperliquid onshoring, RSA260 factored, is the stablecoin sandwich cheaper?) (EP.738)",
-    "link": "https://cryptopanic.com/news/33330516/Weekly-Roundup-090426-HuggingFace-hack-breaks-containment-Hyperliquid-onshoring-RSA260-factored-is-the-stablecoin-sandwich-cheaper-EP738",
-    "source": "OnTheBrinkwithCastleIsland",
-    "published": "Fri Sep 04 2026 10:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 JUST IN: The National Sheriffs’ Association drops its opposition to the CLARITY Act, shifting its position to neutral.",
-    "link": "https://cryptopanic.com/news/33330632/JUST-IN-The-National-Sheriffs-Association-drops-its-opposition-to-the-CLARITY-Act-shifting-its-position-to-neutral",
-    "source": "@cointelegraph",
-    "published": "Fri Sep 04 2026 09:59:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "IMF Reveals Where El Salvador’s New Bitcoin Came From",
-    "link": "https://cryptopanic.com/news/33330415/IMF-Reveals-Where-El-Salvadors-New-Bitcoin-Came-From",
-    "source": "coindoo.com",
-    "published": "Fri Sep 04 2026 09:59:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Binance Adds Four Tokens To Monitoring Tag as 14 Leave Alpha\n\nBinance is adding AVA, GNS, SCR and TOWNS to its Monitoring Tag list on September 4.\n\nThe move follows recent reviews of the tokens against Binance’s listing standards. Assets carrying the Monitoring Tag face closer",
-    "link": "https://cryptopanic.com/news/33330651/Binance-Adds-Four-Tokens-To-Monitoring-Tag-as-14-Leave-Alpha-Binance-is-adding-AVA-GNS-SCR-and-TOWNS-to-its-Monitoring-Tag-list-on-September-4-The-move-follows-recent-reviews-of-the-tokens-against-Binances-listing-standards-Assets-carrying-the-Monitoring-Tag-face-closer",
-    "source": "@bscnews",
-    "published": "Fri Sep 04 2026 09:58:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "America’s Crypto Future Could Take a Major Turn This Month",
-    "link": "https://cryptopanic.com/news/33330417/Americas-Crypto-Future-Could-Take-a-Major-Turn-This-Month",
-    "source": "techgaged.com",
-    "published": "Fri Sep 04 2026 09:57:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin clears $81,000 as privacy coins lead a broad crypto rally",
-    "link": "https://cryptopanic.com/news/33330661/Bitcoin-clears-81000-as-privacy-coins-lead-a-broad-crypto-rally",
-    "source": "coindesk.com",
-    "published": "Fri Sep 04 2026 09:57:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Garrett Jin’s ZEC Short Bleeds Over $18M as Zcash Explodes Past $1,000",
-    "link": "https://cryptopanic.com/news/33330416/Garrett-Jins-ZEC-Short-Bleeds-Over-18M-as-Zcash-Explodes-Past-1000",
-    "source": "cryptopotato.com",
-    "published": "Fri Sep 04 2026 09:56:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Major U.S. law enforcement organization National Sheriffs’ Association no longer opposes The Clarity Act  \n\n“We believe the most appropriate course is to step back and allow the legislative process to proceed to establish a…much needed regulatory framework.” 🇺🇸",
-    "link": "https://cryptopanic.com/news/33330418/JUST-IN-Major-US-law-enforcement-organization-National-Sheriffs-Association-no-longer-opposes-The-Clarity-Act-We-believe-the-most-appropriate-course-is-to-step-back-and-allow-the-legislative-process-to-proceed-to-establish-amuch-needed-regulatory-framework",
-    "source": "@bitcoinmagazine",
-    "published": "Fri Sep 04 2026 09:56:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: ️ House Financial Services Committee Chair French Hill told Fox Business that Senate Majority Leader John Thune \"could have the votes\" to pass the CLARITY Act.",
-    "link": "https://cryptopanic.com/news/33330495/LATEST-House-Financial-Services-Committee-Chair-French-Hill-told-Fox-Business-that-Senate-Majority-Leader-John-Thune-could-have-the-votes-to-pass-the-CLARITY-Act",
-    "source": "@coinmarketcap",
-    "published": "Fri Sep 04 2026 09:53:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Someone is betting big on $MEME!\n\nA new wallet created just 1 day ago spent 752,723 $USDC to buy 10.2M $MEME at $0.074 2 hours ago.\n\nIt is now sitting on a $388K unrealized profit.",
-    "link": "https://cryptopanic.com/news/33330412/Someone-is-betting-big-on-MEME-A-new-wallet-created-just-1-day-ago-spent-752723-USDC-to-buy-102M-MEME-at-0074-2-hours-ago-It-is-now-sitting-on-a-388K-unrealized-profit",
-    "source": "@lookonchain",
-    "published": "Fri Sep 04 2026 09:50:18 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
