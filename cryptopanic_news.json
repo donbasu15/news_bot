@@ -1,5 +1,26 @@
 [
   {
+    "title": "South Korea sets February 2027 rollout for Tokenized securities — Details",
+    "link": "https://cryptopanic.com/news/33333200/South-Korea-sets-February-2027-rollout-for-Tokenized-securities-Details",
+    "source": "ambcrypto.com",
+    "published": "Fri Sep 04 2026 17:47:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇺🇸 FinCEN says overseas \"pig butchering\" scam networks have driven nearly $12.7B in suspicious crypto activity across the US since September 2023.",
+    "link": "https://cryptopanic.com/news/33333204/LATEST-FinCEN-says-overseas-pig-butchering-scam-networks-have-driven-nearly-127B-in-suspicious-crypto-activity-across-the-US-since-September-2023",
+    "source": "@coinmarketcap",
+    "published": "Fri Sep 04 2026 17:41:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The Cardano Foundation has published its full developer training path online\n\nSeven modules cover everything from fundamentals to smart contracts, dapps, security, and scaling. The Cardano Foundation (@Cardano_CF) released the material under an MIT license, so anyone can copy,",
+    "link": "https://cryptopanic.com/news/33333261/The-Cardano-Foundation-has-published-its-full-developer-training-path-online-Seven-modules-cover-everything-from-fundamentals-to-smart-contracts-dapps-security-and-scaling-The-Cardano-Foundation-Cardano_CF-released-the-material-under-an-MIT-license-so-anyone-can-copy",
+    "source": "@bscnews",
+    "published": "Fri Sep 04 2026 17:40:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "David Abramovitz on Digital Asset Regulation and Financial Market Structure",
     "link": "https://cryptopanic.com/news/33333177/David-Abramovitz-on-Digital-Asset-Regulation-and-Financial-Market-Structure",
     "source": "cryptomegaphone.com",
@@ -49,6 +70,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Zcash miners are leaving zcashd behind for the Zallet wallet\n\nA number of miners have switched over completely, and the migration is working well now, developers said on Thursday's Arborist Call, hosted by @ZcashFoundation. Beta 3 shipped with fixes for problems miners had",
+    "link": "https://cryptopanic.com/news/33333260/Zcash-miners-are-leaving-zcashd-behind-for-the-Zallet-wallet-A-number-of-miners-have-switched-over-completely-and-the-migration-is-working-well-now-developers-said-on-Thursdays-Arborist-Call-hosted-by-ZcashFoundation-Beta-3-shipped-with-fixes-for-problems-miners-had",
+    "source": "@bscnews",
+    "published": "Fri Sep 04 2026 17:23:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Why Prediction Markets Can Differ From Wall Street Forecasts",
     "link": "https://cryptopanic.com/news/33333096/Why-Prediction-Markets-Can-Differ-From-Wall-Street-Forecasts",
     "source": "coinpaper.com",
@@ -63,6 +91,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Biggest UK Investment Platform Lists Bitcoin For 2 Million Users",
+    "link": "https://cryptopanic.com/news/33333253/Biggest-UK-Investment-Platform-Lists-Bitcoin-For-2-Million-Users",
+    "source": "beincrypto.com",
+    "published": "Fri Sep 04 2026 17:21:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "The recent bottom didn't follow the usual playbook.\n\n@dpuellARK breaks down what's actually different this cycle, and Bitcoin's biggest emerging risk: quantum computing.\n\nWatch the full episode ⤵️",
     "link": "https://cryptopanic.com/news/33333207/The-recent-bottom-didnt-follow-the-usual-playbook-dpuellARK-breaks-down-whats-actually-different-this-cycle-and-Bitcoins-biggest-emerging-risk-quantum-computing-Watch-the-full-episode",
     "source": "@cryptoquant_com",
@@ -70,10 +105,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "🇺🇸 JUST IN: Trump blasted the Fed’s inflation fears after strong jobs data, arguing lower interest rates would unlock faster growth and help cut U.S. debt costs.",
+    "link": "https://cryptopanic.com/news/33333258/JUST-IN-Trump-blasted-the-Feds-inflation-fears-after-strong-jobs-data-arguing-lower-interest-rates-would-unlock-faster-growth-and-help-cut-US-debt-costs",
+    "source": "@cointelegraph",
+    "published": "Fri Sep 04 2026 17:20:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "A16z-Backed OpenReserve Gets Approval for Full-Service National Bank",
     "link": "https://cryptopanic.com/news/33333085/A16z-Backed-OpenReserve-Gets-Approval-for-Full-Service-National-Bank",
     "source": "decrypt.co",
     "published": "Fri Sep 04 2026 17:19:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Quantum Memory: The Device That Breaks Bitcoin and Replaces It",
+    "link": "https://cryptopanic.com/news/33333252/Quantum-Memory-The-Device-That-Breaks-Bitcoin-and-Replaces-It",
+    "source": "beincrypto.com",
+    "published": "Fri Sep 04 2026 17:13:46 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -158,55 +207,6 @@
     "link": "https://cryptopanic.com/news/33332975/For-the-complete-weekly-curated-reports-subscribe-to-our-Substack",
     "source": "@wublockchain",
     "published": "Fri Sep 04 2026 17:00:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: @StellarOrg's RWA market is up 360% this year, reaching $4B, and is now #1 across all blockchains in tokenized non-U.S. government debt.\n\n@DenelleDixon says, \"real-world assets do not just belong to the United States.\"\n\nThis week's Brand New Rails with @jennsanasie.",
-    "link": "https://cryptopanic.com/news/33333059/NEW-StellarOrgs-RWA-market-is-up-360-this-year-reaching-4B-and-is-now-1-across-all-blockchains-in-tokenized-non-US-government-debt-DenelleDixon-says-real-world-assets-do-not-just-belong-to-the-United-States-This-weeks-Brand-New-Rails-with-jennsanasie",
-    "source": "@coindesk",
-    "published": "Fri Sep 04 2026 17:00:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CFTC Calls CME's Crypto Perpetuals Lawsuit 'Much Ado About Nothing'",
-    "link": "https://cryptopanic.com/news/33332986/CFTC-Calls-CMEs-Crypto-Perpetuals-Lawsuit-Much-Ado-About-Nothing",
-    "source": "coinpaprika.com",
-    "published": "Fri Sep 04 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Oura Files for US IPO After Revenue Surged 74%",
-    "link": "https://cryptopanic.com/news/33332973/Oura-Files-for-US-IPO-After-Revenue-Surged-74",
-    "source": "catenaa.com",
-    "published": "Fri Sep 04 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "A butter shop in Paris celebrates the beloved French staple with 30 different flavors including raspberry, chocolate and wild garlic",
-    "link": "https://cryptopanic.com/news/33333061/A-butter-shop-in-Paris-celebrates-the-beloved-French-staple-with-30-different-flavors-including-raspberry-chocolate-and-wild-garlic",
-    "source": "@reutersbiz",
-    "published": "Fri Sep 04 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Meanwhile, STHs are sending 27.5K BTC/day to exchanges, worth ~$2.2B.\n\nThat's 29% above the prior 3-month average.\n\nYet BTC keeps moving higher.\n\nSo far, demand is absorbing the profit-taking.",
-    "link": "https://cryptopanic.com/news/33332972/Meanwhile-STHs-are-sending-275K-BTCday-to-exchanges-worth-22B-Thats-29-above-the-prior-3-month-average-Yet-BTC-keeps-moving-higher-So-far-demand-is-absorbing-the-profit-taking",
-    "source": "@cryptoquant_com",
-    "published": "Fri Sep 04 2026 16:59:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 INSIGHT: Peter Schiff says the U.S. economy is weaker than at the end of Biden’s term, challenging claims from National Economic Council Director Kevin Hassett that it is booming.",
-    "link": "https://cryptopanic.com/news/33333060/INSIGHT-Peter-Schiff-says-the-US-economy-is-weaker-than-at-the-end-of-Bidens-term-challenging-claims-from-National-Economic-Council-Director-Kevin-Hassett-that-it-is-booming",
-    "source": "@cointelegraph",
-    "published": "Fri Sep 04 2026 16:59:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin, Ethereum, XRP Retreat but September Could Hold a Surprise, Data Shows",
-    "link": "https://cryptopanic.com/news/33333080/Bitcoin-Ethereum-XRP-Retreat-but-September-Could-Hold-a-Surprise-Data-Shows",
-    "source": "feeds2.benzinga.com",
-    "published": "Fri Sep 04 2026 16:59:38 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
