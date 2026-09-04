@@ -1,5 +1,12 @@
 [
   {
+    "title": "Bitcoin’s $82K Breakout Just Got REKT by the Fed!",
+    "link": "https://cryptopanic.com/news/33334343/Bitcoins-82K-Breakout-Just-Got-REKT-by-the-Fed",
+    "source": "SimplyBitcoin",
+    "published": "Fri Sep 04 2026 23:20:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Robinhood defies AMC as fight tests issuer control over stock tokens",
     "link": "https://cryptopanic.com/news/33334292/Robinhood-defies-AMC-as-fight-tests-issuer-control-over-stock-tokens",
     "source": "cryptopolitan.com",
@@ -11,6 +18,13 @@
     "link": "https://cryptopanic.com/news/33334290/El-Salvador-added-1540-Bitcoin-but-the-IMF-says-Bukeles-government-didnt-pay-for-them",
     "source": "cryptoslate.com",
     "published": "Fri Sep 04 2026 23:15:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Zcash surged past $1,000 on Friday, hitting its highest price since November 2016.",
+    "link": "https://cryptopanic.com/news/33334342/LATEST-Zcash-surged-past-1000-on-Friday-hitting-its-highest-price-since-November-2016",
+    "source": "@coinmarketcap",
+    "published": "Fri Sep 04 2026 23:05:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33334022/LATEST-Women-accounted-for-158000-of-the-162000-jobs-added-in-August-or-roughly-98-of-total-US-payroll-growth-per-BLS-data",
     "source": "@cointelegraph",
     "published": "Fri Sep 04 2026 21:30:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEAR validators verify blocks without keeping a copy of the chain's state\n\nA blockchain's state is the full record of every account and balance on it. Validators normally keep a copy of everything they check, and that cost grows as the chain grows.\n\nOn near:native, each block",
-    "link": "https://cryptopanic.com/news/33334029/NEAR-validators-verify-blocks-without-keeping-a-copy-of-the-chains-state-A-blockchains-state-is-the-full-record-of-every-account-and-balance-on-it-Validators-normally-keep-a-copy-of-everything-they-check-and-that-cost-grows-as-the-chain-grows-On-nearnative-each-block",
-    "source": "@bscnews",
-    "published": "Fri Sep 04 2026 21:27:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇬🇧 Hargreaves Lansdown, the UK's largest retail investment platform, now offers nine Bitcoin and Ethereum ETNs, less than a year after warning against crypto investments.",
-    "link": "https://cryptopanic.com/news/33333978/LATEST-Hargreaves-Lansdown-the-UKs-largest-retail-investment-platform-now-offers-nine-Bitcoin-and-Ethereum-ETNs-less-than-a-year-after-warning-against-crypto-investments",
-    "source": "@coinmarketcap",
-    "published": "Fri Sep 04 2026 21:17:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
