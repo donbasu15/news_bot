@@ -1,5 +1,33 @@
 [
   {
+    "title": "Monad’s mainnet upgrade makes storing data together 98% cheaper",
+    "link": "https://cryptopanic.com/news/33328384/Monads-mainnet-upgrade-makes-storing-data-together-98-cheaper",
+    "source": "cryptoslate.com",
+    "published": "Fri Sep 04 2026 02:30:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Two RTX Spark configurations arrive in October with up to 128GB of memory",
+    "link": "https://cryptopanic.com/news/33328372/Two-RTX-Spark-configurations-arrive-in-October-with-up-to-128GB-of-memory",
+    "source": "cryptopolitan.com",
+    "published": "Fri Sep 04 2026 02:23:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "DEX Volume Exploded Over 9,000x. Now Crypto Has a New Problem",
+    "link": "https://cryptopanic.com/news/33328436/DEX-Volume-Exploded-Over-9000x-Now-Crypto-Has-a-New-Problem",
+    "source": "beincrypto.com",
+    "published": "Fri Sep 04 2026 02:18:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Kospi Jumps, Following Wall Street, as Fed's Waller Signals Rate Hold",
+    "link": "https://cryptopanic.com/news/33328435/Kospi-Jumps-Following-Wall-Street-as-Feds-Waller-Signals-Rate-Hold",
+    "source": "beincrypto.com",
+    "published": "Fri Sep 04 2026 02:12:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Ondo just said it's better than Coinbase and Robinhood...?\n\n@Ondo recently boasted that its 'Ondo Stocks' tokenised stocks product is better than similar offerings from @Coinbase and @RobinhoodApp.\n\nIn particular, Ondo Stocks are (at the weekend), 207x cheaper than Coinbase",
     "link": "https://cryptopanic.com/news/33328306/Ondo-just-said-its-better-than-Coinbase-and-Robinhood-Ondo-recently-boasted-that-its-Ondo-Stocks-tokenised-stocks-product-is-better-than-similar-offerings-from-Coinbase-and-RobinhoodApp-In-particular-Ondo-Stocks-are-at-the-weekend-207x-cheaper-than-Coinbase",
     "source": "@bscnews",
@@ -11,6 +39,27 @@
     "link": "https://cryptopanic.com/news/33328283/Hyperscale-pulls-a-Michigan-site-off-the-Bitcoin-network-for-a-12-billion-AI-deal",
     "source": "cryptopolitan.com",
     "published": "Fri Sep 04 2026 02:07:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🤖 Solana launched Payment Channels, letting AI agents authorize a spending limit once and settle usage in a single onchain transaction instead of approving every call.",
+    "link": "https://cryptopanic.com/news/33328430/LATEST-Solana-launched-Payment-Channels-letting-AI-agents-authorize-a-spending-limit-once-and-settle-usage-in-a-single-onchain-transaction-instead-of-approving-every-call",
+    "source": "@coinmarketcap",
+    "published": "Fri Sep 04 2026 02:05:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Lululemon Stock Drops 18% to 8-Year Low After Third Guidance Cut",
+    "link": "https://cryptopanic.com/news/33328434/Lululemon-Stock-Drops-18-to-8-Year-Low-After-Third-Guidance-Cut",
+    "source": "beincrypto.com",
+    "published": "Fri Sep 04 2026 02:05:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "AI Regulation Showdown: Zuckerberg Wants Speed, Sanders Calls for a Pause",
+    "link": "https://cryptopanic.com/news/33328433/AI-Regulation-Showdown-Zuckerberg-Wants-Speed-Sanders-Calls-for-a-Pause",
+    "source": "beincrypto.com",
+    "published": "Fri Sep 04 2026 02:01:08 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -158,55 +207,6 @@
     "link": "https://cryptopanic.com/news/33328012/INTERESTING-Theres-an-Easter-egg-hidden-in-the-129303-billion-NvidiaHugging-Face-deal-price-with-the-digits-129303-matching-the-Unicode-code-point-for-the-emoji",
     "source": "@cointelegraph",
     "published": "Fri Sep 04 2026 00:30:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Kravata leads Sui's LATAM stablecoin push...\n\n@KravataWeb3, which specialises in crypto-as-a-service infrastructure for stables, cross-border payments and more, is now live in the @SuiNetwork ecosystem.\n\nAccording to Sui, this means as many as 5M users in LATAM that are now on",
-    "link": "https://cryptopanic.com/news/33328013/Kravata-leads-Suis-LATAM-stablecoin-push-KravataWeb3-which-specialises-in-crypto-as-a-service-infrastructure-for-stables-cross-border-payments-and-more-is-now-live-in-the-SuiNetwork-ecosystem-According-to-Sui-this-means-as-many-as-5M-users-in-LATAM-that-are-now-on",
-    "source": "@bscnews",
-    "published": "Fri Sep 04 2026 00:27:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Scan reveals 96,000 fake-address outputs clogging Bitcoin’s unspent database",
-    "link": "https://cryptopanic.com/news/33327950/Scan-reveals-96000-fake-address-outputs-clogging-Bitcoins-unspent-database",
-    "source": "cryptoslate.com",
-    "published": "Fri Sep 04 2026 00:20:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HAS BITCOIN BOTTOMED? \n\nCMS Holdings: \"We still have a conflict in the Middle East, inflation, and a stock market fueled by AI. \n\nBut if that all stays good, BTC has already bottomed.\"\n— Dan Matuszewski",
-    "link": "https://cryptopanic.com/news/33327961/HAS-BITCOIN-BOTTOMED-CMS-Holdings-We-still-have-a-conflict-in-the-Middle-East-inflation-and-a-stock-market-fueled-by-AI-But-if-that-all-stays-good-BTC-has-already-bottomed-Dan-Matuszewski",
-    "source": "@btc_archive",
-    "published": "Fri Sep 04 2026 00:11:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Coinbase Seeks U.S. Approval for Equity Perpetuals",
-    "link": "https://cryptopanic.com/news/33327924/Coinbase-Seeks-US-Approval-for-Equity-Perpetuals",
-    "source": "btcusa.com",
-    "published": "Fri Sep 04 2026 00:06:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇪🇺 NOW: Treasury Secretary Bessent says the EU has joined \"Operation Economic Outcast,\" cutting off Iran's access to global finance to choke its nuclear program, weapons, and terror funding.",
-    "link": "https://cryptopanic.com/news/33328011/NOW-Treasury-Secretary-Bessent-says-the-EU-has-joined-Operation-Economic-Outcast-cutting-off-Irans-access-to-global-finance-to-choke-its-nuclear-program-weapons-and-terror-funding",
-    "source": "@cointelegraph",
-    "published": "Fri Sep 04 2026 00:06:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Most Important Parenting Decision You'll Make",
-    "link": "https://cryptopanic.com/news/33327928/The-Most-Important-Parenting-Decision-Youll-Make",
-    "source": "AnthonyPompliano",
-    "published": "Fri Sep 04 2026 00:05:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Michigan blocks Kalshi sports bets as Supreme Court fight nears",
-    "link": "https://cryptopanic.com/news/33327913/Michigan-blocks-Kalshi-sports-bets-as-Supreme-Court-fight-nears",
-    "source": "cryptopolitan.com",
-    "published": "Fri Sep 04 2026 00:02:52 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
