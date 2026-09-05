@@ -1,5 +1,26 @@
 [
   {
+    "title": "Weekly review: 21 financial institutions launch dollar stablecoin",
+    "link": "https://cryptopanic.com/news/33335593/Weekly-review-21-financial-institutions-launch-dollar-stablecoin",
+    "source": "cryptovalleyjournal.com",
+    "published": "Sat Sep 05 2026 07:52:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Court Platform Breach Exposes Social Security Numbers of Americans Across 12 States",
+    "link": "https://cryptopanic.com/news/33335595/Court-Platform-Breach-Exposes-Social-Security-Numbers-of-Americans-Across-12-States",
+    "source": "dailyhodl.com",
+    "published": "Sat Sep 05 2026 07:50:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Happy Weekend ️",
+    "link": "https://cryptopanic.com/news/33335600/Happy-Weekend",
+    "source": "@cryptonwsuk",
+    "published": "Sat Sep 05 2026 07:31:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "HUGE: The BTC ETFs have now seen weekly net inflows for 3 weeks in a row.\n\nCan we go for 4?",
     "link": "https://cryptopanic.com/news/33335540/HUGE-The-BTC-ETFs-have-now-seen-weekly-net-inflows-for-3-weeks-in-a-row-Can-we-go-for-4",
     "source": "@cointelegraph",
@@ -7,10 +28,31 @@
     "sentiment": "neutral"
   },
   {
+    "title": "LATEST:  Bitwise CIO Matt Hougan told CoinDesk that Bitcoin hitting $1.3M by 2035 will be \"relatively easy\" as institutional flows grow.",
+    "link": "https://cryptopanic.com/news/33335597/LATEST-Bitwise-CIO-Matt-Hougan-told-CoinDesk-that-Bitcoin-hitting-13M-by-2035-will-be-relatively-easy-as-institutional-flows-grow",
+    "source": "@coinmarketcap",
+    "published": "Sat Sep 05 2026 07:30:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "FBI Investigates Dark Web Sale of 153,000,000 Stolen American Driver’s Licenses",
     "link": "https://cryptopanic.com/news/33335563/FBI-Investigates-Dark-Web-Sale-of-153000000-Stolen-American-Drivers-Licenses",
     "source": "dailyhodl.com",
     "published": "Sat Sep 05 2026 07:30:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🤖 TikTok parent ByteDance has secured a $29.6B unsecured loan from nearly 30 banks to fund its overseas AI expansion, per Reuters.",
+    "link": "https://cryptopanic.com/news/33335596/LATEST-TikTok-parent-ByteDance-has-secured-a-296B-unsecured-loan-from-nearly-30-banks-to-fund-its-overseas-AI-expansion-per-Reuters",
+    "source": "@coinmarketcap",
+    "published": "Sat Sep 05 2026 07:25:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇮🇱🇺🇸 Israel refuses to cooperate with US President Trump’s ‘Peace Council’ in Gaza.",
+    "link": "https://cryptopanic.com/news/33335599/JUST-IN-Israel-refuses-to-cooperate-with-US-President-Trumps-Peace-Council-in-Gaza",
+    "source": "@cryptonwsuk",
+    "published": "Sat Sep 05 2026 07:18:38 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -165,48 +207,6 @@
     "link": "https://cryptopanic.com/news/33335206/BitGo-Buys-NYDIG-Trading-Arm-to-Expand-Derivatives",
     "source": "catenaa.com",
     "published": "Sat Sep 05 2026 05:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Southeast Asia’s crypto funding rebounds to $680 million as investors focus on mature firms",
-    "link": "https://cryptopanic.com/news/33335269/Southeast-Asias-crypto-funding-rebounds-to-680-million-as-investors-focus-on-mature-firms",
-    "source": "coindesk.com",
-    "published": "Sat Sep 05 2026 05:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33335204/Source",
-    "source": "@wublockchain",
-    "published": "Sat Sep 05 2026 04:34:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stop Losing Crypto: Self-Custody Security, Multisig, and Inheritance",
-    "link": "https://cryptopanic.com/news/33335152/Stop-Losing-Crypto-Self-Custody-Security-Multisig-and-Inheritance",
-    "source": "techgaged.com",
-    "published": "Sat Sep 05 2026 04:31:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "MINT: Circle minted another 250M USDC on Solana.\n\nWhere is it going?",
-    "link": "https://cryptopanic.com/news/33335145/MINT-Circle-minted-another-250M-USDC-on-Solana-Where-is-it-going",
-    "source": "@cointelegraph",
-    "published": "Sat Sep 05 2026 04:30:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33335203/Source",
-    "source": "@wublockchain",
-    "published": "Sat Sep 05 2026 04:28:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Spot Bitcoin ETFs Take In $175M; Ethereum ETFs Record $26.46M Inflow\n\nAccording to SoSoValue, U.S. spot Bitcoin ETFs recorded $175 million in net inflows on September 4 (ET), marking their third consecutive day of inflows. BlackRock's IBIT led with $117 million, followed by",
-    "link": "https://cryptopanic.com/news/33335202/Spot-Bitcoin-ETFs-Take-In-175M-Ethereum-ETFs-Record-2646M-Inflow-According-to-SoSoValue-US-spot-Bitcoin-ETFs-recorded-175-million-in-net-inflows-on-September-4-ET-marking-their-third-consecutive-day-of-inflows-BlackRocks-IBIT-led-with-117-million-followed-by",
-    "source": "@wublockchain",
-    "published": "Sat Sep 05 2026 04:26:43 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
