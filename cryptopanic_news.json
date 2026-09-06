@@ -1,5 +1,40 @@
 [
   {
+    "title": "Bitcoin ETFs see $770M in inflows – Is September breaking its curse?",
+    "link": "https://cryptopanic.com/news/33338068/Bitcoin-ETFs-see-770M-in-inflows-Is-September-breaking-its-curse",
+    "source": "ambcrypto.com",
+    "published": "Sun Sep 06 2026 01:00:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Dave Smith's Bitcoin Fiat Plan: $800K Bitcoin Bull Run?",
+    "link": "https://cryptopanic.com/news/33338089/Dave-Smiths-Bitcoin-Fiat-Plan-800K-Bitcoin-Bull-Run",
+    "source": "SimplyBitcoin",
+    "published": "Sun Sep 06 2026 01:00:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Removing Hedera GC member term limits is BAD news but I AGREE with the decision",
+    "link": "https://cryptopanic.com/news/33338086/Removing-Hedera-GC-member-term-limits-is-BAD-news-but-I-AGREE-with-the-decision",
+    "source": "r/hedera",
+    "published": "Sun Sep 06 2026 00:55:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "7 miner wallets woke up after 16.5 years of inactivity and moved 350 $BTC ($28M) 6 hours ago.\n\nThese miners earned the 350 $BTC from mining in March 2010.\n\nWallets:\n1LqKzBmdLGfEmvQPvzRQYBsb1VuBLFMeJ8\n1Q9oY6c8T3KyjzrT7NVgx6qcoPXc3fU1R1\n15VmQyGwCwiDmTk1e9jn2RbfGBLpusSJeP",
+    "link": "https://cryptopanic.com/news/33338063/7-miner-wallets-woke-up-after-165-years-of-inactivity-and-moved-350-BTC-28M-6-hours-ago-These-miners-earned-the-350-BTC-from-mining-in-March-2010-Wallets-1LqKzBmdLGfEmvQPvzRQYBsb1VuBLFMeJ8-1Q9oY6c8T3KyjzrT7NVgx6qcoPXc3fU1R1-15VmQyGwCwiDmTk1e9jn2RbfGBLpusSJeP",
+    "source": "@lookonchain",
+    "published": "Sun Sep 06 2026 00:54:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Robinhood chain activity metrics are seeing insane growth.\n\nThere are new coins launching and hitting 10-50X here everyday as the ecosystem takes off.\n\nWhat are you buying?",
+    "link": "https://cryptopanic.com/news/33338087/Robinhood-chain-activity-metrics-are-seeing-insane-growth-There-are-new-coins-launching-and-hitting-10-50X-here-everyday-as-the-ecosystem-takes-off-What-are-you-buying",
+    "source": "@stackersatoshi",
+    "published": "Sun Sep 06 2026 00:49:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Arthur Hayes(@CryptoHayes) bought 244,406 $UNI($1.73M) an hour ago.",
     "link": "https://cryptopanic.com/news/33338062/Arthur-HayesCryptoHayes-bought-244406-UNI173M-an-hour-ago",
     "source": "@lookonchain",
@@ -14,16 +49,16 @@
     "sentiment": "neutral"
   },
   {
-    "title": "10.74 Trillion SHIB? Shiba Inu Reclaims Key Level Amid 19% OI Surge",
-    "link": "https://cryptopanic.com/news/33338026/1074-Trillion-SHIB-Shiba-Inu-Reclaims-Key-Level-Amid-19-OI-Surge",
-    "source": "u.today",
+    "title": "PancakeSwap's $CAKE has seen 35 straight months of deflation.\n\n@PancakeSwap is one of few crypto platforms to implement a truly successful token burn mechanism.\n\nSince peaking in 2023, the supply of $CAKE tokens has been reduced by some 53 million $CAKE, equivalent to a reduction",
+    "link": "https://cryptopanic.com/news/33338032/PancakeSwaps-CAKE-has-seen-35-straight-months-of-deflation-PancakeSwap-is-one-of-few-crypto-platforms-to-implement-a-truly-successful-token-burn-mechanism-Since-peaking-in-2023-the-supply-of-CAKE-tokens-has-been-reduced-by-some-53-million-CAKE-equivalent-to-a-reduction",
+    "source": "@bscnews",
     "published": "Sun Sep 06 2026 00:30:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "PancakeSwap's $CAKE has seen 35 straight months of deflation.\n\n@PancakeSwap is one of few crypto platforms to implement a truly successful token burn mechanism.\n\nSince peaking in 2023, the supply of $CAKE tokens has been reduced by some 53 million $CAKE, equivalent to a reduction",
-    "link": "https://cryptopanic.com/news/33338032/PancakeSwaps-CAKE-has-seen-35-straight-months-of-deflation-PancakeSwap-is-one-of-few-crypto-platforms-to-implement-a-truly-successful-token-burn-mechanism-Since-peaking-in-2023-the-supply-of-CAKE-tokens-has-been-reduced-by-some-53-million-CAKE-equivalent-to-a-reduction",
-    "source": "@bscnews",
+    "title": "10.74 Trillion SHIB? Shiba Inu Reclaims Key Level Amid 19% OI Surge",
+    "link": "https://cryptopanic.com/news/33338026/1074-Trillion-SHIB-Shiba-Inu-Reclaims-Key-Level-Amid-19-OI-Surge",
+    "source": "u.today",
     "published": "Sun Sep 06 2026 00:30:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33337668/Ethereum-is-having-its-3rd-best-Q3-EVER-ETH-is-up-565-this-quarter-beaten-only-by-Q3-2020-and-Q3-2025-After-two-brutal-quarters-to-start-2026-Ethereum-has-completely-flipped-momentum",
     "source": "@realallincrypto",
     "published": "Sat Sep 05 2026 21:00:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ex-South Carolina Officer Charged With Bank Fraud, Prostitution, Obstruction of Justice After Massage Parlor Payment: Report",
-    "link": "https://cryptopanic.com/news/33337687/Ex-South-Carolina-Officer-Charged-With-Bank-Fraud-Prostitution-Obstruction-of-Justice-After-Massage-Parlor-Payment-Report",
-    "source": "dailyhodl.com",
-    "published": "Sat Sep 05 2026 20:56:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Illinois Man Turns Birthday Gift Into $1,000,000 Million Lottery Jackpot",
-    "link": "https://cryptopanic.com/news/33337660/Illinois-Man-Turns-Birthday-Gift-Into-1000000-Million-Lottery-Jackpot",
-    "source": "dailyhodl.com",
-    "published": "Sat Sep 05 2026 20:42:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Elon Musk says he does not have a \"big pile of cash.\"\n\n\"I have stock in SpaceX and Tesla.\"",
-    "link": "https://cryptopanic.com/news/33337641/JUST-IN-Elon-Musk-says-he-does-not-have-a-big-pile-of-cash-I-have-stock-in-SpaceX-and-Tesla",
-    "source": "@watcherguru",
-    "published": "Sat Sep 05 2026 20:31:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CNBC: Trump’s Venezuela oil deal marks an unprecedented move toward state capitalism, with the U.S. government directly steering a major commercial energy deal.",
-    "link": "https://cryptopanic.com/news/33337667/CNBC-Trumps-Venezuela-oil-deal-marks-an-unprecedented-move-toward-state-capitalism-with-the-US-government-directly-steering-a-major-commercial-energy-deal",
-    "source": "@cointelegraph",
-    "published": "Sat Sep 05 2026 20:30:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Payrolls Jump 162,000 as Hike Odds Firm",
-    "link": "https://cryptopanic.com/news/33337637/Payrolls-Jump-162000-as-Hike-Odds-Firm",
-    "source": "catenaa.com",
-    "published": "Sat Sep 05 2026 20:30:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
