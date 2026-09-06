@@ -1,9 +1,23 @@
 [
   {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33338158/Source",
+    "source": "@wublockchain",
+    "published": "Sun Sep 06 2026 01:37:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "🇰🇬 BIG: Kyrgyzstan is pushing deeper into crypto, with plans to pilot its digital som and expand regulation, licensing, and stablecoin infrastructure.",
     "link": "https://cryptopanic.com/news/33338108/BIG-Kyrgyzstan-is-pushing-deeper-into-crypto-with-plans-to-pilot-its-digital-som-and-expand-regulation-licensing-and-stablecoin-infrastructure",
     "source": "@cointelegraph",
     "published": "Sun Sep 06 2026 01:30:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CZ: YZi Labs’ Investments Made Near the Depths of the Crypto Winter Could Be Among Its Best Performers\n\nAccording to BeInCrypto, Binance founder CZ said he believes YZi Labs’ investments over the past few months could become some of its best performers, largely because they were",
+    "link": "https://cryptopanic.com/news/33338157/CZ-YZi-Labs-Investments-Made-Near-the-Depths-of-the-Crypto-Winter-Could-Be-Among-Its-Best-Performers-According-to-BeInCrypto-Binance-founder-CZ-said-he-believes-YZi-Labs-investments-over-the-past-few-months-could-become-some-of-its-best-performers-largely-because-they-were",
+    "source": "@wublockchain",
+    "published": "Sun Sep 06 2026 01:18:12 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33337711/MARKET-The-crypto-market-added-14B-in-less-than-24-hours",
     "source": "@cointelegraph",
     "published": "Sat Sep 05 2026 21:30:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "MemeToro Presale Review: Is the MT Token Legit or a Scam",
-    "link": "https://cryptopanic.com/news/33337697/MemeToro-Presale-Review-Is-the-MT-Token-Legit-or-a-Scam",
-    "source": "theholycoins.com",
-    "published": "Sat Sep 05 2026 21:14:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trezor Warns 67,000 U.S. Customers As Data Breach Discovery Expands",
-    "link": "https://cryptopanic.com/news/33337701/Trezor-Warns-67000-US-Customers-As-Data-Breach-Discovery-Expands",
-    "source": "dailyhodl.com",
-    "published": "Sat Sep 05 2026 21:10:23 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
