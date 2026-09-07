@@ -1,9 +1,65 @@
 [
   {
+    "title": "Singapore-to-New York dollar transfer drops from two days to minutes on Swift’s tokenized ledger",
+    "link": "https://cryptopanic.com/news/33346853/Singapore-to-New-York-dollar-transfer-drops-from-two-days-to-minutes-on-Swifts-tokenized-ledger",
+    "source": "cryptopolitan.com",
+    "published": "Mon Sep 07 2026 22:34:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Economic War with China: Bitcoin & Strait of Hormuz",
+    "link": "https://cryptopanic.com/news/33346836/Economic-War-with-China-Bitcoin-Strait-of-Hormuz",
+    "source": "SimplyBitcoin",
+    "published": "Mon Sep 07 2026 22:30:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INSIGHT: OpenAI chief scientist Jakub Pachocki warns self-improving AI could soon become hard to control.",
+    "link": "https://cryptopanic.com/news/33346835/INSIGHT-OpenAI-chief-scientist-Jakub-Pachocki-warns-self-improving-AI-could-soon-become-hard-to-control",
+    "source": "@cointelegraph",
+    "published": "Mon Sep 07 2026 22:23:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Stablecoins moving to altcoin ecosystems...?\n\nSeveral major blockchain networks have seen significant growth in their native stablecoin supplies this past week:\n\n@StellarOrg +2.54%\n@ton_blockchain +1.94%\n@monad +2.62%\n@SuiNetwork +2.33%\n\nWhile @Ethereum is still very much the",
+    "link": "https://cryptopanic.com/news/33346841/Stablecoins-moving-to-altcoin-ecosystems-Several-major-blockchain-networks-have-seen-significant-growth-in-their-native-stablecoin-supplies-this-past-week-StellarOrg-254-ton_blockchain-194-monad-262-SuiNetwork-233-While-Ethereum-is-still-very-much-the",
+    "source": "@bscnews",
+    "published": "Mon Sep 07 2026 22:17:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Lululemon Stock Crashed 80%, and Founders are Now Divorcing",
+    "link": "https://cryptopanic.com/news/33346883/Lululemon-Stock-Crashed-80-and-Founders-are-Now-Divorcing",
+    "source": "beincrypto.com",
+    "published": "Mon Sep 07 2026 22:15:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hackers Return 85% of Stolen Bitcoin from Last Week’s Bridge Attack",
+    "link": "https://cryptopanic.com/news/33346882/Hackers-Return-85-of-Stolen-Bitcoin-from-Last-Weeks-Bridge-Attack",
+    "source": "beincrypto.com",
+    "published": "Mon Sep 07 2026 22:11:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The negotiations were conducted entirely in OP_RETURN messages, ending with 3,400 BTC back in the federation wallet. The white hats held out until Blockstream confirmed that every bridge node was patched; about 4 hours later, they moved the coins but kept 598.5 BTC as a bounty.",
+    "link": "https://cryptopanic.com/news/33346840/The-negotiations-were-conducted-entirely-in-OP_RETURN-messages-ending-with-3400-BTC-back-in-the-federation-wallet-The-white-hats-held-out-until-Blockstream-confirmed-that-every-bridge-node-was-patched-about-4-hours-later-they-moved-the-coins-but-kept-5985-BTC-as-a-bounty",
+    "source": "@bscnews",
+    "published": "Mon Sep 07 2026 22:03:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Harmony to abandon its blockchain, citing the security cost of standing alone",
     "link": "https://cryptopanic.com/news/33346711/Harmony-to-abandon-its-blockchain-citing-the-security-cost-of-standing-alone",
     "source": "cryptopolitan.com",
     "published": "Mon Sep 07 2026 22:01:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Wall Street is loading up on $HYPE!\n\n13F filings show UBS, Bank of Montreal and Jane Street among confirmed $HYPE ETF holders.\n\nInstitutional exposure to @HyperliquidX is becoming VERY real.",
+    "link": "https://cryptopanic.com/news/33346838/Wall-Street-is-loading-up-on-HYPE-13F-filings-show-UBS-Bank-of-Montreal-and-Jane-Street-among-confirmed-HYPE-ETF-holders-Institutional-exposure-to-HyperliquidX-is-becoming-VERY-real",
+    "source": "@realallincrypto",
+    "published": "Mon Sep 07 2026 22:00:29 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -18,6 +74,20 @@
     "link": "https://cryptopanic.com/news/33346765/JUST-IN-IAEA-says-Syrias-Assad-era-nuclear-reactor-was-configured-for-nuclear-weapons",
     "source": "@cryptonwsuk",
     "published": "Mon Sep 07 2026 21:56:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Who wins September: Bitcoin bulls or bears? \n\nDrop your end-of-month $BTC price prediction below.",
+    "link": "https://cryptopanic.com/news/33346834/Who-wins-September-Bitcoin-bulls-or-bears-Drop-your-end-of-month-BTC-price-prediction-below",
+    "source": "@cointelegraph",
+    "published": "Mon Sep 07 2026 21:50:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Chainlink auctions the right to liquidate loans that a price update just broke\n\nWhen an oracle update lands onchain, bots race to liquidate the loans it pushed underwater, and the protocol loses that profit entirely. The industry calls it Oracle Extractable Value.\n\nSmart Value",
+    "link": "https://cryptopanic.com/news/33346839/Chainlink-auctions-the-right-to-liquidate-loans-that-a-price-update-just-broke-When-an-oracle-update-lands-onchain-bots-race-to-liquidate-the-loans-it-pushed-underwater-and-the-protocol-loses-that-profit-entirely-The-industry-calls-it-Oracle-Extractable-Value-Smart-Value",
+    "source": "@bscnews",
+    "published": "Mon Sep 07 2026 21:49:15 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/33346641/JUST-IN-OpenAIs-top-scientist-warns-AI-is-advancing-so-fast-it-is-becoming-increasingly-difficult-for-humans-to-understand-and-control",
     "source": "@watcherguru",
     "published": "Mon Sep 07 2026 20:56:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "DBS, Citi Complete First Weekend Cross-Border Payment",
-    "link": "https://cryptopanic.com/news/33346599/DBS-Citi-Complete-First-Weekend-Cross-Border-Payment",
-    "source": "cryptoprowl.com",
-    "published": "Mon Sep 07 2026 20:56:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Can something happen",
-    "link": "https://cryptopanic.com/news/33346795/Can-something-happen",
-    "source": "r/hedera",
-    "published": "Mon Sep 07 2026 20:54:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BNB Chain now holds close to 60% of the total registered ERC-8004 agent identities, and there is no good way to browse them. Two days left to build the marketplace that will win the honor and the $40K prize.",
-    "link": "https://cryptopanic.com/news/33346595/BNB-Chain-now-holds-close-to-60-of-the-total-registered-ERC-8004-agent-identities-and-there-is-no-good-way-to-browse-them-Two-days-left-to-build-the-marketplace-that-will-win-the-honor-and-the-40K-prize",
-    "source": "@bscnews",
-    "published": "Mon Sep 07 2026 20:50:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: Short-term holder whales just hit a record $9.07B in unrealized profit, the highest since 2016.",
-    "link": "https://cryptopanic.com/news/33346587/LATEST-Short-term-holder-whales-just-hit-a-record-907B-in-unrealized-profit-the-highest-since-2016",
-    "source": "@cointelegraph",
-    "published": "Mon Sep 07 2026 20:50:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum Foundation grades all 62 Hegotá EIPs in first unified tier list",
-    "link": "https://cryptopanic.com/news/33346583/Ethereum-Foundation-grades-all-62-Hegota-EIPs-in-first-unified-tier-list",
-    "source": "cryptopolitan.com",
-    "published": "Mon Sep 07 2026 20:50:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Ledger Fix Nears Activation: What Changes",
-    "link": "https://cryptopanic.com/news/33346561/XRP-Ledger-Fix-Nears-Activation-What-Changes",
-    "source": "coindoo.com",
-    "published": "Mon Sep 07 2026 20:45:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tether Alloy Gold-Backed Reserves Cross $210M",
-    "link": "https://cryptopanic.com/news/33346562/Tether-Alloy-Gold-Backed-Reserves-Cross-210M",
-    "source": "newsbtc.com",
-    "published": "Mon Sep 07 2026 20:45:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Brazilian Banks Expand Crypto Offerings as Regulation Takes Hold",
-    "link": "https://cryptopanic.com/news/33346519/Brazilian-Banks-Expand-Crypto-Offerings-as-Regulation-Takes-Hold",
-    "source": "decrypt.co",
-    "published": "Mon Sep 07 2026 20:31:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Kaspa comes close to a $1 billion market cap after a 17% day\n\nkaspa:native traded near $0.0359 on Monday, up around 30% across the week. The market cap currently sits at $994.5M, and volume rose to $50.12M, up almost 500% on the day.\n\nMost KAS coins are already in circulation,",
-    "link": "https://cryptopanic.com/news/33346594/Kaspa-comes-close-to-a-1-billion-market-cap-after-a-17-day-kaspanative-traded-near-00359-on-Monday-up-around-30-across-the-week-The-market-cap-currently-sits-at-9945M-and-volume-rose-to-5012M-up-almost-500-on-the-day-Most-KAS-coins-are-already-in-circulation",
-    "source": "@bscnews",
-    "published": "Mon Sep 07 2026 20:30:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Iran China Impact: Protect Your Portfolio Now!",
-    "link": "https://cryptopanic.com/news/33346543/Iran-China-Impact-Protect-Your-Portfolio-Now",
-    "source": "SimplyBitcoin",
-    "published": "Mon Sep 07 2026 20:30:19 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
