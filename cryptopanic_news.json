@@ -1,5 +1,19 @@
 [
   {
+    "title": "ALERT: Liquid Network says ~4,000 BTC ($320M) was withdrawn from its Federation wallet by purported white-hat hackers.\n\nThe Liquid sidechain is paused until the issue is resolved.",
+    "link": "https://cryptopanic.com/news/33341348/ALERT-Liquid-Network-says-4000-BTC-320M-was-withdrawn-from-its-Federation-wallet-by-purported-white-hat-hackers-The-Liquid-sidechain-is-paused-until-the-issue-is-resolved",
+    "source": "@cointelegraph",
+    "published": "Mon Sep 07 2026 00:30:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Algorand might be the best positioned network for the quantum future.\n\n@Algorand, steered by the @AlgoFoundation, has just hit an impressive 1,000,000 post-quantum transactions on its blockchain.\n\nThe milestone comes at a time when hype around crypto's quantum risks appears to be",
+    "link": "https://cryptopanic.com/news/33341349/Algorand-might-be-the-best-positioned-network-for-the-quantum-future-Algorand-steered-by-the-AlgoFoundation-has-just-hit-an-impressive-1000000-post-quantum-transactions-on-its-blockchain-The-milestone-comes-at-a-time-when-hype-around-cryptos-quantum-risks-appears-to-be",
+    "source": "@bscnews",
+    "published": "Mon Sep 07 2026 00:24:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Liquid Network Pauses After 4,019 BTC Leaves Federation Reserve",
     "link": "https://cryptopanic.com/news/33341286/Liquid-Network-Pauses-After-4019-BTC-Leaves-Federation-Reserve",
     "source": "btcusa.com",
@@ -11,6 +25,13 @@
     "link": "https://cryptopanic.com/news/33341298/Bond-Buyer-Hiding-Bitcoin-Crashes-US-Iran-Crisis-Explained",
     "source": "SimplyBitcoin",
     "published": "Mon Sep 07 2026 00:00:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CZ: Bitcoin May Flip Gold in the Next Bull Run\n\nIn a Bitcoin Asia fireside chat published by Bitcoin Magazine on Aug. 28, 2026, Binance founder CZ @cz_binance said that if Bitcoin gradually becomes a strategic reserve asset for countries, its ultimate importance will likely",
+    "link": "https://cryptopanic.com/news/33341318/CZ-Bitcoin-May-Flip-Gold-in-the-Next-Bull-Run-In-a-Bitcoin-Asia-fireside-chat-published-by-Bitcoin-Magazine-on-Aug-28-2026-Binance-founder-CZ-cz_binance-said-that-if-Bitcoin-gradually-becomes-a-strategic-reserve-asset-for-countries-its-ultimate-importance-will-likely",
+    "source": "@wublockchain",
+    "published": "Mon Sep 07 2026 00:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -186,27 +207,6 @@
     "link": "https://cryptopanic.com/news/33340992/The-CLARITY-Act-Is-Slipping-While-Washington-Moves-On-AI",
     "source": "BTCSessions",
     "published": "Sun Sep 06 2026 21:00:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Liquid Network confirmed a security incident, saying the funds were withdrawn via SideSwap’s Peg-out Authorization Key (PAK), while the key itself and other keys were not compromised. Exchanges have been notified and have paused or will pause LBTC deposits and withdrawals. Other",
-    "link": "https://cryptopanic.com/news/33341019/Liquid-Network-confirmed-a-security-incident-saying-the-funds-were-withdrawn-via-SideSwaps-Peg-out-Authorization-Key-PAK-while-the-key-itself-and-other-keys-were-not-compromised-Exchanges-have-been-notified-and-have-paused-or-will-pause-LBTC-deposits-and-withdrawals-Other",
-    "source": "@wublockchain",
-    "published": "Sun Sep 06 2026 20:56:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "STONK surges 250% to $140 million market cap as stock-paired Solana launchpad StonkFun pulls volume to Raydium and Jupiter",
-    "link": "https://cryptopanic.com/news/33340965/STONK-surges-250-to-140-million-market-cap-as-stock-paired-Solana-launchpad-StonkFun-pulls-volume-to-Raydium-and-Jupiter",
-    "source": "theblock.co",
-    "published": "Sun Sep 06 2026 20:51:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Is Backed by Nothing? Peter Schiff Revives Old War",
-    "link": "https://cryptopanic.com/news/33341028/Bitcoin-Is-Backed-by-Nothing-Peter-Schiff-Revives-Old-War",
-    "source": "beincrypto.com",
-    "published": "Sun Sep 06 2026 20:43:43 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
