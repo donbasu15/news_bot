@@ -14,6 +14,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "JUST IN: 🇺🇸 Hunter Biden to launch crypto memecoin, named after his infamous laptop.",
+    "link": "https://cryptopanic.com/news/33345839/JUST-IN-Hunter-Biden-to-launch-crypto-memecoin-named-after-his-infamous-laptop",
+    "source": "@cryptonwsuk",
+    "published": "Mon Sep 07 2026 16:29:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "It's Labor Day and Wall Street isn't trading, but tokenized stocks keep trading through holidays and weekends because they dont have a bell that rings.",
     "link": "https://cryptopanic.com/news/33345736/Its-Labor-Day-and-Wall-Street-isnt-trading-but-tokenized-stocks-keep-trading-through-holidays-and-weekends-because-they-dont-have-a-bell-that-rings",
     "source": "@bscnews",
@@ -53,6 +60,13 @@
     "link": "https://cryptopanic.com/news/33345735/Injective-staking-reaches-an-all-time-high-injective-shared-that-588-million-injective-protocolnative-roughly-59-of-the-100-million-total-supply-is-now-staked-and-sits-with-validators-Injective-billed-the-staked-INJ-as-one-of-the-highest-staked-supplies-among-layer-1s",
     "source": "@bscnews",
     "published": "Mon Sep 07 2026 16:19:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇰🇷 South Korea's Hanwha Investment & Securities has built a tokenized securities platform on Avalanche and Hyperledger Besu with FairSquare Lab, per Seoul Economic Daily.",
+    "link": "https://cryptopanic.com/news/33345837/LATEST-South-Koreas-Hanwha-Investment-amp-Securities-has-built-a-tokenized-securities-platform-on-Avalanche-and-Hyperledger-Besu-with-FairSquare-Lab-per-Seoul-Economic-Daily",
+    "source": "@coinmarketcap",
+    "published": "Mon Sep 07 2026 16:17:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33345728/BIG-Hong-Kongs-imports-of-Russian-gold-have-gone-from-near-zero-in-2019-to-145bn-in-just-seven-months-of-2026-according-to-the-FT",
     "source": "@cointelegraph",
     "published": "Mon Sep 07 2026 15:50:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum may soon accept Ripple's RLUSD for Gas payments \n\n@Ethereum core developers confirm a roadmap update that allows users to settle transaction fees using regulated stablecoins instead of $ETH. \n\nThis protocol-level shift, targeted for a 2027 mainnet activation, aims to",
-    "link": "https://cryptopanic.com/news/33345734/Ethereum-may-soon-accept-Ripples-RLUSD-for-Gas-payments-Ethereum-core-developers-confirm-a-roadmap-update-that-allows-users-to-settle-transaction-fees-using-regulated-stablecoins-instead-of-ETH-This-protocol-level-shift-targeted-for-a-2027-mainnet-activation-aims-to",
-    "source": "@bscnews",
-    "published": "Mon Sep 07 2026 15:49:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$200B Hanwha builds tokenized securities platform on Avalanche as AVAX climbs",
-    "link": "https://cryptopanic.com/news/33345509/200B-Hanwha-builds-tokenized-securities-platform-on-Avalanche-as-AVAX-climbs",
-    "source": "cryptopolitan.com",
-    "published": "Mon Sep 07 2026 15:45:50 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
