@@ -1,5 +1,26 @@
 [
   {
+    "title": "Kevin O’Leary Says $500,000 Is Enough to Retire, But There’s One Big Catch",
+    "link": "https://cryptopanic.com/news/33342385/Kevin-OLeary-Says-500000-Is-Enough-to-Retire-But-Theres-One-Big-Catch",
+    "source": "coinpaper.com",
+    "published": "Mon Sep 07 2026 05:37:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Liquid Network Crisis: Nearly 4,000 BTC Exit Reserves as Blockstream Sidechain Halts",
+    "link": "https://cryptopanic.com/news/33342392/Liquid-Network-Crisis-Nearly-4000-BTC-Exit-Reserves-as-Blockstream-Sidechain-Halts",
+    "source": "spaziocrypto.com",
+    "published": "Mon Sep 07 2026 05:35:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Is this true? SpaceX to send HBAR powered satellite to space?",
+    "link": "https://cryptopanic.com/news/33342439/Is-this-true-SpaceX-to-send-HBAR-powered-satellite-to-space",
+    "source": "r/hedera",
+    "published": "Mon Sep 07 2026 05:26:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Another rate hike, just for insurance: Five questions for the ECB",
     "link": "https://cryptopanic.com/news/33342302/Another-rate-hike-just-for-insurance-Five-questions-for-the-ECB",
     "source": "@reutersbiz",
@@ -24,6 +45,13 @@
     "title": "Recalibrate MVRV Now, Analysts: Why 3.5 Fails in the ETF Era",
     "link": "https://cryptopanic.com/news/33342272/Recalibrate-MVRV-Now-Analysts-Why-35-Fails-in-the-ETF-Era",
     "source": "techgaged.com",
+    "published": "Mon Sep 07 2026 05:00:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 4,000 Bitcoin worth $320 million withdrawn following Liquid Network hack.\n\nThe hacker is now communicating with network maintainers through on-chain Bitcoin transactions & intends to return the $BTC after the vulnerability is fixed.",
+    "link": "https://cryptopanic.com/news/33342348/JUST-IN-4000-Bitcoin-worth-320-million-withdrawn-following-Liquid-Network-hack-The-hacker-is-now-communicating-with-network-maintainers-through-on-chain-Bitcoin-transactions-amp-intends-to-return-the-BTC-after-the-vulnerability-is-fixed",
+    "source": "@watcherguru",
     "published": "Mon Sep 07 2026 05:00:58 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -60,6 +88,13 @@
     "link": "https://cryptopanic.com/news/33342304/Harmony-To-Shut-Down-Layer-1-And-Move-ONE-To-Ethereum-Harmony-harmonyprotocol-has-announced-plans-to-fully-sunset-its-Layer-1-blockchain-citing-growing-security-threats-The-project-is-proposing-to-migrate-its-native-ONE-token-to-Ethereum-Harmony-said-state-actors-and-AI",
     "source": "@bscnews",
     "published": "Mon Sep 07 2026 04:52:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Oil up, bitcoin down as U.S. strikes Iranian crude carriers",
+    "link": "https://cryptopanic.com/news/33342410/Oil-up-bitcoin-down-as-US-strikes-Iranian-crude-carriers",
+    "source": "coindesk.com",
+    "published": "Mon Sep 07 2026 04:44:16 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33342148/Liquid-Network-Sees-320M-Bitcoin-Drain-In-White-Hat-Hack-Liquid-Network-said-purported-white-hat-hackers-withdrew-about-4000-bitcoinnative-from-its-federation-wallet-The-Bitcoin-was-worth-roughly-320-million-when-the-withdrawal-occurred-The-network-disabled-bridge",
     "source": "@bscnews",
     "published": "Mon Sep 07 2026 03:51:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Liquid's Attackers Called Themselves White Hats, Ledger's CTO Isn't Buying It",
-    "link": "https://cryptopanic.com/news/33342174/Liquids-Attackers-Called-Themselves-White-Hats-Ledgers-CTO-Isnt-Buying-It",
-    "source": "beincrypto.com",
-    "published": "Mon Sep 07 2026 03:44:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'",
-    "link": "https://cryptopanic.com/news/33342205/Bitcoin-network-used-by-exchanges-hit-by-320-million-exploit-Hackers-claim-theyre-the-good-guys",
-    "source": "coindesk.com",
-    "published": "Mon Sep 07 2026 03:43:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Zcash ETF Net Assets Reach $463 Million as ZEC Nears $1,200",
-    "link": "https://cryptopanic.com/news/33342173/Zcash-ETF-Net-Assets-Reach-463-Million-as-ZEC-Nears-1200",
-    "source": "beincrypto.com",
-    "published": "Mon Sep 07 2026 03:42:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇺🇸🇮🇷 Oil futures rose after the US struck three Iranian tankers in response to Tehran firing missiles at US Navy warships. WTI climbed 0.8% to $92.18, while Brent reached $96.82.",
-    "link": "https://cryptopanic.com/news/33342087/LATEST-Oil-futures-rose-after-the-US-struck-three-Iranian-tankers-in-response-to-Tehran-firing-missiles-at-US-Navy-warships-WTI-climbed-08-to-9218-while-Brent-reached-9682",
-    "source": "@cryptonwsuk",
-    "published": "Mon Sep 07 2026 03:38:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇺🇸🇨🇳 The US and China are reportedly preparing to put AI safety on the agenda at the upcoming Trump-Xi summit, potentially opening a rare channel for dialogue despite their intensifying tech rivalry, according to Nikkei Asia.",
-    "link": "https://cryptopanic.com/news/33342086/LATEST-The-US-and-China-are-reportedly-preparing-to-put-AI-safety-on-the-agenda-at-the-upcoming-Trump-Xi-summit-potentially-opening-a-rare-channel-for-dialogue-despite-their-intensifying-tech-rivalry-according-to-Nikkei-Asia",
-    "source": "@cryptonwsuk",
-    "published": "Mon Sep 07 2026 03:37:51 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
