@@ -35,6 +35,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "JUST IN: Block applies to establish Builders Bank & Trust with the OCC, which would provide federally regulated custody and \"fiduciary services\" for Bitcoin and stablecoins.",
+    "link": "https://cryptopanic.com/news/33353138/JUST-IN-Block-applies-to-establish-Builders-Bank-amp-Trust-with-the-OCC-which-would-provide-federally-regulated-custody-and-fiduciary-services-for-Bitcoin-and-stablecoins",
+    "source": "@bitcoinmagazine",
+    "published": "Tue Sep 08 2026 21:28:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Liquid Network publishes incident report, and network stays offline\n\nThe report attributes Sunday's exploit to a flaw in how Liquid nodes cache range proof verifications in the open-source Elements software, and states that no federation keys were compromised.\n\nBlockstream is",
     "link": "https://cryptopanic.com/news/33353099/Liquid-Network-publishes-incident-report-and-network-stays-offline-The-report-attributes-Sundays-exploit-to-a-flaw-in-how-Liquid-nodes-cache-range-proof-verifications-in-the-open-source-Elements-software-and-states-that-no-federation-keys-were-compromised-Blockstream-is",
     "source": "@bscnews",
@@ -200,13 +207,6 @@
     "link": "https://cryptopanic.com/news/33352932/Trumps-Bombardier-warning-triggers-80-million-jet-listing",
     "source": "thestreet.com",
     "published": "Tue Sep 08 2026 20:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: The US military has struck targets, including Iranian tankers, near Kharg Island, according to Fox News report.",
-    "link": "https://cryptopanic.com/news/33352909/BREAKING-The-US-military-has-struck-targets-including-Iranian-tankers-near-Kharg-Island-according-to-Fox-News-report",
-    "source": "@cryptonwsuk",
-    "published": "Tue Sep 08 2026 20:20:10 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
