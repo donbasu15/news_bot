@@ -1,9 +1,23 @@
 [
   {
+    "title": "Mistral Raises $3.5 Billion at $24 Billion Valuation in Massive AI Funding Round",
+    "link": "https://cryptopanic.com/news/33349655/Mistral-Raises-35-Billion-at-24-Billion-Valuation-in-Massive-AI-Funding-Round",
+    "source": "coinpaper.com",
+    "published": "Tue Sep 08 2026 10:43:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Ethereum’s 2029 quantum deadline is starting to reshape what gets built next",
     "link": "https://cryptopanic.com/news/33349640/Ethereums-2029-quantum-deadline-is-starting-to-reshape-what-gets-built-next",
     "source": "cryptoslate.com",
     "published": "Tue Sep 08 2026 10:40:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cronos executes controversial blockchain rollback to recover crypto worth $111 million",
+    "link": "https://cryptopanic.com/news/33349735/Cronos-executes-controversial-blockchain-rollback-to-recover-crypto-worth-111-million",
+    "source": "coindesk.com",
+    "published": "Tue Sep 08 2026 10:39:33 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -21,10 +35,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Bitcoin slips to $78,800 as BNB and DeFi tokens buck the selloff",
+    "link": "https://cryptopanic.com/news/33349734/Bitcoin-slips-to-78800-as-BNB-and-DeFi-tokens-buck-the-selloff",
+    "source": "coindesk.com",
+    "published": "Tue Sep 08 2026 10:33:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "What you need to know about Hunter Biden’s LAPTOP meme coin",
     "link": "https://cryptopanic.com/news/33349563/What-you-need-to-know-about-Hunter-Bidens-LAPTOP-meme-coin",
     "source": "finbold.com",
     "published": "Tue Sep 08 2026 10:26:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  UBS now forecasts two 25-bps Fed rate hikes in 2026, reversing its earlier no-hike call after a stronger-than-expected US jobs report added 162,000 positions in August.",
+    "link": "https://cryptopanic.com/news/33349747/LATEST-UBS-now-forecasts-two-25-bps-Fed-rate-hikes-in-2026-reversing-its-earlier-no-hike-call-after-a-stronger-than-expected-US-jobs-report-added-162000-positions-in-August",
+    "source": "@coinmarketcap",
+    "published": "Tue Sep 08 2026 10:25:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33349370/Flare-FlareNetworks-is-Turning-Network-Fees-Into-flare-networksnative-Buybacks-FIP16-introduced-FIRE-which-uses-network-revenue-to-buy-FLR-The-tokens-are-then-sent-to-a-burn-address-permanently-Heres-how-it-works",
     "source": "@bscnews",
     "published": "Tue Sep 08 2026 09:47:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Zcash Jumps Above $1,200 — Top 4 Reasons ZEC Won’t Stop Rising",
-    "link": "https://cryptopanic.com/news/33349330/Zcash-Jumps-Above-1200-Top-4-Reasons-ZEC-Wont-Stop-Rising",
-    "source": "coinpaper.com",
-    "published": "Tue Sep 08 2026 09:41:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tracking cocoa may be just the beginning for PwC, Merck, Hashgraph provenance system",
-    "link": "https://cryptopanic.com/news/33349599/Tracking-cocoa-may-be-just-the-beginning-for-PwC-Merck-Hashgraph-provenance-system",
-    "source": "coindesk.com",
-    "published": "Tue Sep 08 2026 09:39:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hunter Biden’s new “LAPTOP” memecoin targets traders who lost money on TRUMP",
-    "link": "https://cryptopanic.com/news/33349322/Hunter-Bidens-new-LAPTOP-memecoin-targets-traders-who-lost-money-on-TRUMP",
-    "source": "cryptoslate.com",
-    "published": "Tue Sep 08 2026 09:35:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stock Market Today: S&P 500, Dow Futures Fall as Oil Tops $99 Despite Trump’s Price Drop Prediction — ASML, NVS, CASY in Focus",
-    "link": "https://cryptopanic.com/news/33349366/Stock-Market-Today-SP-500-Dow-Futures-Fall-as-Oil-Tops-99-Despite-Trumps-Price-Drop-Prediction-ASML-NVS-CASY-in-Focus",
-    "source": "feeds2.benzinga.com",
-    "published": "Tue Sep 08 2026 09:32:34 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
