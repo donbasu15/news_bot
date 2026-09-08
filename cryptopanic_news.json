@@ -1,9 +1,51 @@
 [
   {
+    "title": "Banks Lose Over $1,800,000 to Forged Treasury Checks in Alabama and Mississippi Scheme",
+    "link": "https://cryptopanic.com/news/33348544/Banks-Lose-Over-1800000-to-Forged-Treasury-Checks-in-Alabama-and-Mississippi-Scheme",
+    "source": "dailyhodl.com",
+    "published": "Tue Sep 08 2026 07:04:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Economic War: Doomsday Assets Reset Scenario",
+    "link": "https://cryptopanic.com/news/33348502/Economic-War-Doomsday-Assets-Reset-Scenario",
+    "source": "SimplyBitcoin",
+    "published": "Tue Sep 08 2026 07:00:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tether Wins a Rating Upgrade, but $91 Billion Sits Behind Two Keys",
+    "link": "https://cryptopanic.com/news/33348489/Tether-Wins-a-Rating-Upgrade-but-91-Billion-Sits-Behind-Two-Keys",
+    "source": "coinpaprika.com",
+    "published": "Tue Sep 08 2026 07:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: Canada’s retaliatory tariffs on $20B of US goods are now in effect, with rates as high as 50%",
+    "link": "https://cryptopanic.com/news/33348483/INTEL-Canadas-retaliatory-tariffs-on-20B-of-US-goods-are-now-in-effect-with-rates-as-high-as-50",
+    "source": "@solidintel_x",
+    "published": "Tue Sep 08 2026 06:55:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LG’s Texas privacy deal left the tracking opt-out switched off by default",
+    "link": "https://cryptopanic.com/news/33348471/LGs-Texas-privacy-deal-left-the-tracking-opt-out-switched-off-by-default",
+    "source": "cryptopolitan.com",
+    "published": "Tue Sep 08 2026 06:52:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin Price Dips Under $78.5K as Golden Cross Forms",
     "link": "https://cryptopanic.com/news/33348462/Bitcoin-Price-Dips-Under-785K-as-Golden-Cross-Forms",
     "source": "coindoo.com",
     "published": "Tue Sep 08 2026 06:49:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: ️ The Ethereum Foundation's Protocol cluster published a tier list grading 62 EIPs proposed for the Hegotá fork, naming FOCIL and Frame Transactions as S-tier.",
+    "link": "https://cryptopanic.com/news/33348550/LATEST-The-Ethereum-Foundations-Protocol-cluster-published-a-tier-list-grading-62-EIPs-proposed-for-the-Hegota-fork-naming-FOCIL-and-Frame-Transactions-as-S-tier",
+    "source": "@coinmarketcap",
+    "published": "Tue Sep 08 2026 06:42:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -46,6 +88,13 @@
     "link": "https://cryptopanic.com/news/33348481/The-whale-who-spent-473M-buying-PONS-UNI-AAVE-and-CASHCAT-just-spent-another-163256-USDT-to-buy-348M-4Stock",
     "source": "@lookonchain",
     "published": "Tue Sep 08 2026 06:26:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto traders turn on Hunter Biden’s LAPTOP memecoin before it even launches",
+    "link": "https://cryptopanic.com/news/33348499/Crypto-traders-turn-on-Hunter-Bidens-LAPTOP-memecoin-before-it-even-launches",
+    "source": "coindesk.com",
+    "published": "Tue Sep 08 2026 06:23:53 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -158,55 +207,6 @@
     "link": "https://cryptopanic.com/news/33348349/Is-Coppers-All-Time-High-Built-on-Tariffs-or-Geology-Washington-Holds-the-Answer",
     "source": "beincrypto.com",
     "published": "Tue Sep 08 2026 05:46:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump Threatens Bombardier With US Sales Ban Unless It Builds Jets in America",
-    "link": "https://cryptopanic.com/news/33348204/Trump-Threatens-Bombardier-With-US-Sales-Ban-Unless-It-Builds-Jets-in-America",
-    "source": "coinpaper.com",
-    "published": "Tue Sep 08 2026 05:41:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Anthropic has walked away from a ~$6B deal to acquire AI chip-efficiency startup Decart after completing due diligence, per Bloomberg.",
-    "link": "https://cryptopanic.com/news/33348258/JUST-IN-Anthropic-has-walked-away-from-a-6B-deal-to-acquire-AI-chip-efficiency-startup-Decart-after-completing-due-diligence-per-Bloomberg",
-    "source": "@cointelegraph",
-    "published": "Tue Sep 08 2026 05:30:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cronos Reverses $111M After Aug. 30 Exploit\n\nCronos (@CronosNetwork) says an attacker manipulated collateral values to borrow about $120.4 million from Tectonic on Aug. 30.\n\nCronos validators halted the network at 14:32 UTC to protect remaining user funds.\n\nThe chain was restored",
-    "link": "https://cryptopanic.com/news/33348261/Cronos-Reverses-111M-After-Aug-30-Exploit-Cronos-CronosNetwork-says-an-attacker-manipulated-collateral-values-to-borrow-about-1204-million-from-Tectonic-on-Aug-30-Cronos-validators-halted-the-network-at-1432-UTC-to-protect-remaining-user-funds-The-chain-was-restored",
-    "source": "@bscnews",
-    "published": "Tue Sep 08 2026 05:28:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "A former partner of Swiss private bank Mirabaud & Cie, who once headed Switzerland's banking lobby, has admitted paying tens of millions of dollars in bribes and a verdict is expected in the country's top criminal court on September 8, court documents showed. More here",
-    "link": "https://cryptopanic.com/news/33348259/A-former-partner-of-Swiss-private-bank-Mirabaud-amp-Cie-who-once-headed-Switzerlands-banking-lobby-has-admitted-paying-tens-of-millions-of-dollars-in-bribes-and-a-verdict-is-expected-in-the-countrys-top-criminal-court-on-September-8-court-documents-showed-More-here",
-    "source": "@reutersbiz",
-    "published": "Tue Sep 08 2026 05:25:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tokenized Assets Were Crypto's Boredom Trade. August Ended the Boredom",
-    "link": "https://cryptopanic.com/news/33348203/Tokenized-Assets-Were-Cryptos-Boredom-Trade-August-Ended-the-Boredom",
-    "source": "beincrypto.com",
-    "published": "Tue Sep 08 2026 05:20:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Democratic Republic of Congo plans to tighten control over geological data that guides billions of dollars in mining exploration, potentially extending state influence over the development of future mineral discoveries. More here",
-    "link": "https://cryptopanic.com/news/33348088/Democratic-Republic-of-Congo-plans-to-tighten-control-over-geological-data-that-guides-billions-of-dollars-in-mining-exploration-potentially-extending-state-influence-over-the-development-of-future-mineral-discoveries-More-here",
-    "source": "@reutersbiz",
-    "published": "Tue Sep 08 2026 05:15:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇮🇪 Ireland's Criminal Assets Bureau says organized crime gangs are renting private vaults to hide crypto seed phrases and private keys.",
-    "link": "https://cryptopanic.com/news/33348217/LATEST-Irelands-Criminal-Assets-Bureau-says-organized-crime-gangs-are-renting-private-vaults-to-hide-crypto-seed-phrases-and-private-keys",
-    "source": "@coinmarketcap",
-    "published": "Tue Sep 08 2026 05:10:10 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
