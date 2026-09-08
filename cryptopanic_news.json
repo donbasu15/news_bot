@@ -1,5 +1,19 @@
 [
   {
+    "title": "CLARITY Act Heads Into a Vote Republicans Expect to Fail",
+    "link": "https://cryptopanic.com/news/33350955/CLARITY-Act-Heads-Into-a-Vote-Republicans-Expect-to-Fail",
+    "source": "coindoo.com",
+    "published": "Tue Sep 08 2026 13:51:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Chainlink Hits $34T in Enabled Transactions — The Infrastructure Race Is Heating Up",
+    "link": "https://cryptopanic.com/news/33350872/Chainlink-Hits-34T-in-Enabled-Transactions-The-Infrastructure-Race-Is-Heating-Up",
+    "source": "techgaged.com",
+    "published": "Tue Sep 08 2026 13:42:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "4,011 XRP Wallets Drained in 3 Hours: 267,664 XRP Flows to Ethereum",
     "link": "https://cryptopanic.com/news/33350834/4011-XRP-Wallets-Drained-in-3-Hours-267664-XRP-Flows-to-Ethereum",
     "source": "coinpaper.com",
@@ -14,10 +28,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33350980/Source",
+    "source": "@wublockchain",
+    "published": "Tue Sep 08 2026 13:37:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Expert sets key XRP price level to watch",
     "link": "https://cryptopanic.com/news/33350837/Expert-sets-key-XRP-price-level-to-watch",
     "source": "finbold.com",
     "published": "Tue Sep 08 2026 13:37:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 Sen. Lummis: Failing the Clarity Act on Sept. 15 kills U.S. crypto leadership.\n\n• No second chances for the Senate before 2030.",
+    "link": "https://cryptopanic.com/news/33350977/Sen-Lummis-Failing-the-Clarity-Act-on-Sept-15-kills-US-crypto-leadership-No-second-chances-for-the-Senate-before-2030",
+    "source": "@btc_archive",
+    "published": "Tue Sep 08 2026 13:34:27 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -32,6 +60,13 @@
     "link": "https://cryptopanic.com/news/33350798/Bitcoin-miner-burns-through-millions-in-BTC-to-buy-compute-but-new-coins-are-not-returning-to-treasury",
     "source": "cryptoslate.com",
     "published": "Tue Sep 08 2026 13:30:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BitMine ETH Holdings Reach 5.93M, Representing 4.9% of Total Supply\n\nBitMine, the largest Ethereum treasury company, said it held 5,929,198 ETH as of Sep. 7, worth about $14.79 billion at $2,495 per ETH and representing roughly 4.9% of Ethereum’s 122 million total supply. The",
+    "link": "https://cryptopanic.com/news/33350979/BitMine-ETH-Holdings-Reach-593M-Representing-49-of-Total-Supply-BitMine-the-largest-Ethereum-treasury-company-said-it-held-5929198-ETH-as-of-Sep-7-worth-about-1479-billion-at-2495-per-ETH-and-representing-roughly-49-of-Ethereums-122-million-total-supply-The",
+    "source": "@wublockchain",
+    "published": "Tue Sep 08 2026 13:29:44 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -53,6 +88,13 @@
     "link": "https://cryptopanic.com/news/33350789/Robinhood-RobinhoodApp-selects-OG_com-as-its-infrastructure-and-clearing-provider-for-prediction-markets-Robinhood-takes-equity-stakes-in-both-OGcom-and-Cryptocom-expanding-access-to-CFTC-regulated-event-contracts-OG-is-Cryptocoms-prediction-markets-platform",
     "source": "@bscnews",
     "published": "Tue Sep 08 2026 13:28:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Cronos published a post-mortem on the Aug. 30 Tectonic exploit, saying ~$111.2M of $120.4M in funds at risk was recovered when the chain was rolled back, with ~$9.19M stolen before the chain was halted.",
+    "link": "https://cryptopanic.com/news/33350978/LATEST-Cronos-published-a-post-mortem-on-the-Aug-30-Tectonic-exploit-saying-1112M-of-1204M-in-funds-at-risk-was-recovered-when-the-chain-was-rolled-back-with-919M-stolen-before-the-chain-was-halted",
+    "source": "@coinmarketcap",
+    "published": "Tue Sep 08 2026 13:25:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -165,48 +207,6 @@
     "link": "https://cryptopanic.com/news/33350735/XRP-eyes-breakout-above-142-as-traders-increase-long-exposure",
     "source": "coinjournal.net",
     "published": "Tue Sep 08 2026 13:05:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ledger",
-    "link": "https://cryptopanic.com/news/33350621/Ledger",
-    "source": "spaziocrypto.com",
-    "published": "Tue Sep 08 2026 13:05:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "MetaMask",
-    "link": "https://cryptopanic.com/news/33350616/MetaMask",
-    "source": "spaziocrypto.com",
-    "published": "Tue Sep 08 2026 13:05:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "VOO Tops $1 Trillion, but 38 Vanguard ETFs Are Beating the S&P 500 in 2026",
-    "link": "https://cryptopanic.com/news/33350532/VOO-Tops-1-Trillion-but-38-Vanguard-ETFs-Are-Beating-the-SP-500-in-2026",
-    "source": "coinpaper.com",
-    "published": "Tue Sep 08 2026 13:03:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tom Lee’s Bitmine is approaching 6 Million Ethereum warchest \n\n@Bitmine aggressively expands its treasury, acquiring an additional 28,086 $ETH over the last seven days. \n\nThis acquisition brings the firm’s total Ethereum reserves to 5.93M $ETH, currently valued at approximately",
-    "link": "https://cryptopanic.com/news/33350786/Tom-Lees-Bitmine-is-approaching-6-Million-Ethereum-warchest-Bitmine-aggressively-expands-its-treasury-acquiring-an-additional-28086-ETH-over-the-last-seven-days-This-acquisition-brings-the-firms-total-Ethereum-reserves-to-593M-ETH-currently-valued-at-approximately",
-    "source": "@bscnews",
-    "published": "Tue Sep 08 2026 13:01:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Strategy Repurchases $176M in STRC Shares, Doubles Program",
-    "link": "https://cryptopanic.com/news/33350692/Strategy-Repurchases-176M-in-STRC-Shares-Doubles-Program",
-    "source": "cryptodnes.bg",
-    "published": "Tue Sep 08 2026 13:01:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$XRP futures trading volume hit a 6-month high!\n\nIn August on Binance alone seeing around $37 BILLION in volume!\n\nAt the same time, $XRP has rebounded nearly 30% showing some momentum is returning to XRP.",
-    "link": "https://cryptopanic.com/news/33350784/XRP-futures-trading-volume-hit-a-6-month-high-In-August-on-Binance-alone-seeing-around-37-BILLION-in-volume-At-the-same-time-XRP-has-rebounded-nearly-30-showing-some-momentum-is-returning-to-XRP",
-    "source": "@realallincrypto",
-    "published": "Tue Sep 08 2026 13:00:48 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
