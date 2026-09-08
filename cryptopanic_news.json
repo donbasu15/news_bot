@@ -1,5 +1,12 @@
 [
   {
+    "title": "UPDATE: Liquid Network hackers have returned 3,400 BTC (85%) to the Federation wallet after negotiating on-chain with Blockstream.\n\nThey kept ~598 BTC (~$47M) as an apparent bounty.",
+    "link": "https://cryptopanic.com/news/33347001/UPDATE-Liquid-Network-hackers-have-returned-3400-BTC-85-to-the-Federation-wallet-after-negotiating-on-chain-with-Blockstream-They-kept-598-BTC-47M-as-an-apparent-bounty",
+    "source": "@cointelegraph",
+    "published": "Mon Sep 07 2026 23:32:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Adam Back backs Capital B’s $29 million bitcoin buy, its largest in a year",
     "link": "https://cryptopanic.com/news/33346983/Adam-Back-backs-Capital-Bs-29-million-bitcoin-buy-its-largest-in-a-year",
     "source": "cryptopolitan.com",
@@ -11,6 +18,13 @@
     "link": "https://cryptopanic.com/news/33346992/LATEST-Solanas-tokenized-RWAs-topped-4B-across-350000-addresses-in-August-as-xStocks-crossed-500M-in-AUM-and-Raydium-hit-4B-in-cumulative-tokenized-stock-volume",
     "source": "@coinmarketcap",
     "published": "Mon Sep 07 2026 23:25:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XDC Network welcomes multiple new start-ups to its ecosystem.\n\n@XDCNetwork and @PlugandPlayTC have announced several projects joining the XDC ecosystem through the 'XDC AI Agents & Blockchain Accelerator program'.\n\nThese projects include...\n\n@t54ai\n@astrasyncai\n@BlockRunAI",
+    "link": "https://cryptopanic.com/news/33347002/XDC-Network-welcomes-multiple-new-start-ups-to-its-ecosystem-XDCNetwork-and-PlugandPlayTC-have-announced-several-projects-joining-the-XDC-ecosystem-through-the-XDC-AI-Agents-amp-Blockchain-Accelerator-program-These-projects-include-t54ai-astrasyncai-BlockRunAI",
+    "source": "@bscnews",
+    "published": "Mon Sep 07 2026 23:23:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33346834/Who-wins-September-Bitcoin-bulls-or-bears-Drop-your-end-of-month-BTC-price-prediction-below",
     "source": "@cointelegraph",
     "published": "Mon Sep 07 2026 21:50:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Chainlink auctions the right to liquidate loans that a price update just broke\n\nWhen an oracle update lands onchain, bots race to liquidate the loans it pushed underwater, and the protocol loses that profit entirely. The industry calls it Oracle Extractable Value.\n\nSmart Value",
-    "link": "https://cryptopanic.com/news/33346839/Chainlink-auctions-the-right-to-liquidate-loans-that-a-price-update-just-broke-When-an-oracle-update-lands-onchain-bots-race-to-liquidate-the-loans-it-pushed-underwater-and-the-protocol-loses-that-profit-entirely-The-industry-calls-it-Oracle-Extractable-Value-Smart-Value",
-    "source": "@bscnews",
-    "published": "Mon Sep 07 2026 21:49:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Your LG TV Might Still Be Listening to You—Even When It Looks Like It’s Off",
-    "link": "https://cryptopanic.com/news/33346693/Your-LG-TV-Might-Still-Be-Listening-to-YouEven-When-It-Looks-Like-Its-Off",
-    "source": "decrypt.co",
-    "published": "Mon Sep 07 2026 21:46:04 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
