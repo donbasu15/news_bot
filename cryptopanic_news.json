@@ -1,5 +1,12 @@
 [
   {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33347498/Source",
+    "source": "@wublockchain",
+    "published": "Tue Sep 08 2026 01:41:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Abraxas Capital bought another 13,000 $ETH ($32.39M) spot to hedge its 141,180 $ETH ($353.27M) short on Hyperliquid.",
     "link": "https://cryptopanic.com/news/33347462/Abraxas-Capital-bought-another-13000-ETH-3239M-spot-to-hedge-its-141180-ETH-35327M-short-on-Hyperliquid",
     "source": "@lookonchain",
@@ -200,13 +207,6 @@
     "link": "https://cryptopanic.com/news/33347357/Xiaomi-Launches-Four-New-YU7-Models-Starting-at-209900-Yuan",
     "source": "square.binance.com",
     "published": "Tue Sep 08 2026 00:53:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Botaichl Announces Up To 4.89 Million New H Shares Placed At HK$120.28 Each",
-    "link": "https://cryptopanic.com/news/33347356/Botaichl-Announces-Up-To-489-Million-New-H-Shares-Placed-At-HK12028-Each",
-    "source": "square.binance.com",
-    "published": "Tue Sep 08 2026 00:52:50 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
