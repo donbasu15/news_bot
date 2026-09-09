@@ -1,9 +1,121 @@
 [
   {
+    "title": "MARA stock rose as Bitcoin fell, but the $12 test remains",
+    "link": "https://cryptopanic.com/news/33358162/MARA-stock-rose-as-Bitcoin-fell-but-the-12-test-remains",
+    "source": "ambcrypto.com",
+    "published": "Wed Sep 09 2026 15:16:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Prediction Markets Abandon Cheap Oil as Brent Passes $100",
+    "link": "https://cryptopanic.com/news/33358168/Prediction-Markets-Abandon-Cheap-Oil-as-Brent-Passes-100",
+    "source": "decrypt.co",
+    "published": "Wed Sep 09 2026 15:15:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Visa Brings On-Chain Credit to Real Payments: $20B Annual Stablecoin Volume",
+    "link": "https://cryptopanic.com/news/33358179/Visa-Brings-On-Chain-Credit-to-Real-Payments-20B-Annual-Stablecoin-Volume",
+    "source": "spaziocrypto.com",
+    "published": "Wed Sep 09 2026 15:13:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Bitcoin ASIC manufacturer Canaan bought 108 BTC in Q2.\n\n• Reserves reached 1,915 BTC, worth $150M.\n\n• 63% tied up in financial derivatives.",
+    "link": "https://cryptopanic.com/news/33358165/JUST-IN-Bitcoin-ASIC-manufacturer-Canaan-bought-108-BTC-in-Q2-Reserves-reached-1915-BTC-worth-150M-63-tied-up-in-financial-derivatives",
+    "source": "@btc_archive",
+    "published": "Wed Sep 09 2026 15:09:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Consensys Is Splitting in Two as MetaMask Goes Its Own Way",
+    "link": "https://cryptopanic.com/news/33358152/Consensys-Is-Splitting-in-Two-as-MetaMask-Goes-Its-Own-Way",
+    "source": "decrypt.co",
+    "published": "Wed Sep 09 2026 15:07:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto industry groups escalate fight against Illinois, asking court to block controversial crypto tax",
+    "link": "https://cryptopanic.com/news/33358125/Crypto-industry-groups-escalate-fight-against-Illinois-asking-court-to-block-controversial-crypto-tax",
+    "source": "theblock.co",
+    "published": "Wed Sep 09 2026 15:04:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The US Treasury just announced that they will buy back up to $6B of longer-dated US debt on Thursday, an increase from the previous announcement of up to $4B. \n\nThe US10Y is now the highest it has been since 2023 following this news.",
+    "link": "https://cryptopanic.com/news/33358167/The-US-Treasury-just-announced-that-they-will-buy-back-up-to-6B-of-longer-dated-US-debt-on-Thursday-an-increase-from-the-previous-announcement-of-up-to-4B-The-US10Y-is-now-the-highest-it-has-been-since-2023-following-this-news",
+    "source": "@stackersatoshi",
+    "published": "Wed Sep 09 2026 15:04:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin analyst spots two signals of a bear market bottom",
+    "link": "https://cryptopanic.com/news/33358257/Bitcoin-analyst-spots-two-signals-of-a-bear-market-bottom",
+    "source": "thestreet.com",
+    "published": "Wed Sep 09 2026 15:04:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE:  Liquid Network released an emergency Elements patch and outlined a 3-stage recovery plan to resume block production, replay valid transactions, then restore peg operations once funds are returned.",
+    "link": "https://cryptopanic.com/news/33358170/UPDATE-Liquid-Network-released-an-emergency-Elements-patch-and-outlined-a-3-stage-recovery-plan-to-resume-block-production-replay-valid-transactions-then-restore-peg-operations-once-funds-are-returned",
+    "source": "@coinmarketcap",
+    "published": "Wed Sep 09 2026 15:00:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The First Staked Tron ETF Reaches US Markets as Yield Accrues to the Fund",
+    "link": "https://cryptopanic.com/news/33358058/The-First-Staked-Tron-ETF-Reaches-US-Markets-as-Yield-Accrues-to-the-Fund",
+    "source": "coinpaprika.com",
+    "published": "Wed Sep 09 2026 15:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Samsung to build custom AI chip for OpenAI as partnership widens",
+    "link": "https://cryptopanic.com/news/33358051/Samsung-to-build-custom-AI-chip-for-OpenAI-as-partnership-widens",
+    "source": "cryptopolitan.com",
+    "published": "Wed Sep 09 2026 14:59:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto Long & Short:  Inside the 300-to-1 onchain gap between the dollar and euro",
+    "link": "https://cryptopanic.com/news/33358166/Crypto-Long-Short-Inside-the-300-to-1-onchain-gap-between-the-dollar-and-euro",
+    "source": "coindesk.com",
+    "published": "Wed Sep 09 2026 14:58:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Wall Street Journal publishes guest essay titled \"Bitcoin's Overlooked Promise: Freedom\" \n\n\"More than an investment, bitcoin offers economic security where traditional money and rights fail.\"",
+    "link": "https://cryptopanic.com/news/33358053/JUST-IN-Wall-Street-Journal-publishes-guest-essay-titled-Bitcoins-Overlooked-Promise-Freedom-More-than-an-investment-bitcoin-offers-economic-security-where-traditional-money-and-rights-fail",
+    "source": "@bitcoinmagazine",
+    "published": "Wed Sep 09 2026 14:54:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Consensys splits MetaMask from institutional and Ethereum infrastructure businesses",
+    "link": "https://cryptopanic.com/news/33358036/Consensys-splits-MetaMask-from-institutional-and-Ethereum-infrastructure-businesses",
+    "source": "theblock.co",
+    "published": "Wed Sep 09 2026 14:54:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: French firm Sequans sells 100 Bitcoin, leaving just 63 BTC.\n\n• Officially ended treasury strategy in May 2026.\n\n• Holdings peaked at 3,234 BTC in October 2025.\n\nFumble of the century?",
+    "link": "https://cryptopanic.com/news/33358164/JUST-IN-French-firm-Sequans-sells-100-Bitcoin-leaving-just-63-BTC-Officially-ended-treasury-strategy-in-May-2026-Holdings-peaked-at-3234-BTC-in-October-2025-Fumble-of-the-century",
+    "source": "@btc_archive",
+    "published": "Wed Sep 09 2026 14:54:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Ink Foundation, GSR and others open Charter Foundation to help cut token launch costs",
     "link": "https://cryptopanic.com/news/33358024/Ink-Foundation-GSR-and-others-open-Charter-Foundation-to-help-cut-token-launch-costs",
     "source": "theblock.co",
     "published": "Wed Sep 09 2026 14:49:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hunter Biden's LAPTOP Coin Creates A Crypto Millionaire and a $200,000 Bagholder",
+    "link": "https://cryptopanic.com/news/33358139/Hunter-Bidens-LAPTOP-Coin-Creates-A-Crypto-Millionaire-and-a-200000-Bagholder",
+    "source": "beincrypto.com",
+    "published": "Wed Sep 09 2026 14:46:10 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -14,17 +126,17 @@
     "sentiment": "neutral"
   },
   {
+    "title": "LATEST:  Canaan reported $31.9M in Q2 2026 revenue, down from $62.7M in Q1, with a $69.5M operating loss that included $25.3M in inventory-related charges.",
+    "link": "https://cryptopanic.com/news/33358169/LATEST-Canaan-reported-319M-in-Q2-2026-revenue-down-from-627M-in-Q1-with-a-695M-operating-loss-that-included-253M-in-inventory-related-charges",
+    "source": "@coinmarketcap",
+    "published": "Wed Sep 09 2026 14:41:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: Hunter Biden's crypto memecoin $LAPTOP crashes 99% two hours after launch.",
     "link": "https://cryptopanic.com/news/33358056/JUST-IN-Hunter-Bidens-crypto-memecoin-LAPTOP-crashes-99-two-hours-after-launch",
     "source": "@watcherguru",
     "published": "Wed Sep 09 2026 14:39:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "German Finance Ministry Drafts 25% Tax on Crypto Gains From 2027",
-    "link": "https://cryptopanic.com/news/33358046/German-Finance-Ministry-Drafts-25-Tax-on-Crypto-Gains-From-2027",
-    "source": "@decryptmedia",
-    "published": "Wed Sep 09 2026 14:38:30 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -95,118 +207,6 @@
     "link": "https://cryptopanic.com/news/33357854/Platinum-is-trying-to-break-through-a-key-resistance-level-to-push-to-new-local-highs-After-this-level-the-next-target-would-be-2150",
     "source": "@stackersatoshi",
     "published": "Wed Sep 09 2026 14:26:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: Hunter Biden's $LAPTOP memecoin hit $190.81 within two minutes of opening on Base on Wednesday, then fell as low as $3.70 inside the first hour.\n\n@OKnightCrypto reports.",
-    "link": "https://cryptopanic.com/news/33357977/LATEST-Hunter-Bidens-LAPTOP-memecoin-hit-19081-within-two-minutes-of-opening-on-Base-on-Wednesday-then-fell-as-low-as-370-inside-the-first-hour-OKnightCrypto-reports",
-    "source": "@coindesk",
-    "published": "Wed Sep 09 2026 14:25:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Live with @rektmando discussing $HOOD and more!",
-    "link": "https://cryptopanic.com/news/33358045/Live-with-rektmando-discussing-HOOD-and-more",
-    "source": "@decryptmedia",
-    "published": "Wed Sep 09 2026 14:24:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Interlink is about to have its own integrated messaging platform\n\n@Inter_link has announced the upcoming launch of InterLink Chat. \n\nThe integrated product, as the name implies, is a native messaging architecture designed to unify communication and financial transactions. \n\nThe",
-    "link": "https://cryptopanic.com/news/33357985/Interlink-is-about-to-have-its-own-integrated-messaging-platform-Inter_link-has-announced-the-upcoming-launch-of-InterLink-Chat-The-integrated-product-as-the-name-implies-is-a-native-messaging-architecture-designed-to-unify-communication-and-financial-transactions-The",
-    "source": "@bscnews",
-    "published": "Wed Sep 09 2026 14:21:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Jack Dorsey's Block makes major move to become a U.S. crypto bank",
-    "link": "https://cryptopanic.com/news/33357940/Jack-Dorseys-Block-makes-major-move-to-become-a-US-crypto-bank",
-    "source": "thestreet.com",
-    "published": "Wed Sep 09 2026 14:20:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Elon Musk says AI and robots will \"more than double\" the global economy in less than 10 years.",
-    "link": "https://cryptopanic.com/news/33358055/JUST-IN-Elon-Musk-says-AI-and-robots-will-more-than-double-the-global-economy-in-less-than-10-years",
-    "source": "@watcherguru",
-    "published": "Wed Sep 09 2026 14:20:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Found a skilled sniper who spent just 900 $USDC to buy 2,268.56 $LAPTOP at only $0.40 each.\n\nHe quickly sold it all for 251,270 $USDC at an average price of $111, making over $250K in profit — a 278x return!",
-    "link": "https://cryptopanic.com/news/33358047/Found-a-skilled-sniper-who-spent-just-900-USDC-to-buy-226856-LAPTOP-at-only-040-each-He-quickly-sold-it-all-for-251270-USDC-at-an-average-price-of-111-making-over-250K-in-profit-a-278x-return",
-    "source": "@lookonchain",
-    "published": "Wed Sep 09 2026 14:16:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Outperforms Bitcoin, Ethereum and Solana in Latest U.S. ETF Flows",
-    "link": "https://cryptopanic.com/news/33357744/XRP-Outperforms-Bitcoin-Ethereum-and-Solana-in-Latest-US-ETF-Flows",
-    "source": "coinpaper.com",
-    "published": "Wed Sep 09 2026 14:12:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇸🇬 @Yannimoto has spent 15+ years as a founder, operator and investor across crypto and fintech. \n\nToday he leads Onchain Special Projects at @Bitwise Asset Management, building out the firm's vault curation business and the partnerships bringing its onchain products to market.",
-    "link": "https://cryptopanic.com/news/33357978/Yannimoto-has-spent-15-years-as-a-founder-operator-and-investor-across-crypto-and-fintech-Today-he-leads-Onchain-Special-Projects-at-Bitwise-Asset-Management-building-out-the-firms-vault-curation-business-and-the-partnerships-bringing-its-onchain-products-to-market",
-    "source": "@cointelegraph",
-    "published": "Wed Sep 09 2026 14:09:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum Foundation Aims To Be ‘Quantum Resistant’ By 2029",
-    "link": "https://cryptopanic.com/news/33357730/Ethereum-Foundation-Aims-To-Be-Quantum-Resistant-By-2029",
-    "source": "cryptoprowl.com",
-    "published": "Wed Sep 09 2026 14:06:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: ️ 22-year-old Malone Lam pleaded guilty to leading a racketeering scheme that stole and laundered more than $245M in crypto, now facing up to 20 years in prison.",
-    "link": "https://cryptopanic.com/news/33357855/UPDATE-22-year-old-Malone-Lam-pleaded-guilty-to-leading-a-racketeering-scheme-that-stole-and-laundered-more-than-245M-in-crypto-now-facing-up-to-20-years-in-prison",
-    "source": "@coinmarketcap",
-    "published": "Wed Sep 09 2026 14:05:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Coinbase Jumps to No. 3 on XRP Rich List After XRPScan Wallet Update",
-    "link": "https://cryptopanic.com/news/33357690/Coinbase-Jumps-to-No-3-on-XRP-Rich-List-After-XRPScan-Wallet-Update",
-    "source": "coinpaper.com",
-    "published": "Wed Sep 09 2026 14:04:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$BTC & $ETH Steady, BSC Memes Higher, Laptop Debacle, and News.",
-    "link": "https://cryptopanic.com/news/33357747/BTC-amp-ETH-Steady-BSC-Memes-Higher-Laptop-Debacle-and-News",
-    "source": "@decryptmedia",
-    "published": "Wed Sep 09 2026 14:02:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇸🇬 @Yannimoto has spent 15+ years as a founder, operator and investor across crypto and fintech.\n\nToday he leads Onchain Special Projects at Bitwise Asset Management, building out the firm's vault curation business and the partnerships bringing its onchain products to market.",
-    "link": "https://cryptopanic.com/news/33357616/Yannimoto-has-spent-15-years-as-a-founder-operator-and-investor-across-crypto-and-fintech-Today-he-leads-Onchain-Special-Projects-at-Bitwise-Asset-Management-building-out-the-firms-vault-curation-business-and-the-partnerships-bringing-its-onchain-products-to-market",
-    "source": "@cointelegraph",
-    "published": "Wed Sep 09 2026 14:01:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HUGE ALGORAND NEWS!\n\n@Algorand has appointed William Herkelrath as their new CEO who has replaced Staci Warden!\n\nHis impressive CV pans 20+ years in fintech, Curv who were acquired by PayPal and is also the former Managing Director of Chainlink Labs!\n\nAlgorand built the rails.",
-    "link": "https://cryptopanic.com/news/33357617/HUGE-ALGORAND-NEWS-Algorand-has-appointed-William-Herkelrath-as-their-new-CEO-who-has-replaced-Staci-Warden-His-impressive-CV-pans-20-years-in-fintech-Curv-who-were-acquired-by-PayPal-and-is-also-the-former-Managing-Director-of-Chainlink-Labs-Algorand-built-the-rails",
-    "source": "@realallincrypto",
-    "published": "Wed Sep 09 2026 14:00:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "DCENT Unveils New Brand Identity Eight Years After Its Launch, Expanding Beyond Digital Asset Storage",
-    "link": "https://cryptopanic.com/news/33357840/DCENT-Unveils-New-Brand-Identity-Eight-Years-After-Its-Launch-Expanding-Beyond-Digital-Asset-Storage",
-    "source": "beincrypto.com",
-    "published": "Wed Sep 09 2026 14:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Kalshi election data goes live on DoubleZero ahead of U.S. midterms",
-    "link": "https://cryptopanic.com/news/33357993/Kalshi-election-data-goes-live-on-DoubleZero-ahead-of-US-midterms",
-    "source": "coindesk.com",
-    "published": "Wed Sep 09 2026 14:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
