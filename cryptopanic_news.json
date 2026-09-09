@@ -1,9 +1,86 @@
 [
   {
+    "title": "Crypto Crime Empire Crumbles as 22-Year-Old Ringleader Malone Lam Pleads Guilty",
+    "link": "https://cryptopanic.com/news/33360282/Crypto-Crime-Empire-Crumbles-as-22-Year-Old-Ringleader-Malone-Lam-Pleads-Guilty",
+    "source": "cryptopotato.com",
+    "published": "Wed Sep 09 2026 22:14:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "TODAY: Hunter Biden denies a LAPTOP memecoin rug pull amid reports of a 99% crash, blaming liquidity issues and “snipers” while claiming neither he nor his team sold any tokens.",
+    "link": "https://cryptopanic.com/news/33360277/TODAY-Hunter-Biden-denies-a-LAPTOP-memecoin-rug-pull-amid-reports-of-a-99-crash-blaming-liquidity-issues-and-snipers-while-claiming-neither-he-nor-his-team-sold-any-tokens",
+    "source": "@cointelegraph",
+    "published": "Wed Sep 09 2026 22:13:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Only XRP and HBAR ETFs see inflows this week...\n\nOnly spot @Hedera and @Ripple ETFs saw net inflows on September 8, with +$431K and +$1.55M respectively.\n\nBoth product suites have been among the best-performing ETFs this year, with Canary's spot Hedera ETF holding 1.7% of HBAR's",
+    "link": "https://cryptopanic.com/news/33360280/Only-XRP-and-HBAR-ETFs-see-inflows-this-week-Only-spot-Hedera-and-Ripple-ETFs-saw-net-inflows-on-September-8-with-431K-and-155M-respectively-Both-product-suites-have-been-among-the-best-performing-ETFs-this-year-with-Canarys-spot-Hedera-ETF-holding-17-of-HBARs",
+    "source": "@bscnews",
+    "published": "Wed Sep 09 2026 22:13:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Apple’s first foldable iPhone is finally here, seven years after Samsung started the trend",
+    "link": "https://cryptopanic.com/news/33360269/Apples-first-foldable-iPhone-is-finally-here-seven-years-after-Samsung-started-the-trend",
+    "source": "cryptopolitan.com",
+    "published": "Wed Sep 09 2026 22:05:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Pyth Pro and 24/7 Indices are now live on $XLM!\n\nThey will be bringing trusted, real time prices from global markets directly onto the @StellarOrg network!\n\nDevelopers can now build financial apps that never close. Once again Stellar is building a market that runs 24/7!",
+    "link": "https://cryptopanic.com/news/33360278/Pyth-Pro-and-247-Indices-are-now-live-on-XLM-They-will-be-bringing-trusted-real-time-prices-from-global-markets-directly-onto-the-StellarOrg-network-Developers-can-now-build-financial-apps-that-never-close-Once-again-Stellar-is-building-a-market-that-runs-247",
+    "source": "@realallincrypto",
+    "published": "Wed Sep 09 2026 22:00:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Why FORM crypto faces THESE risks despite 14% weekly gains",
+    "link": "https://cryptopanic.com/news/33360216/Why-FORM-crypto-faces-THESE-risks-despite-14-weekly-gains",
+    "source": "ambcrypto.com",
+    "published": "Wed Sep 09 2026 22:00:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 1inch has routed over $800 billion in trades but has never turned a profit, with co-founder Sergej Kunz saying DeFi is still too small to focus on extracting revenue.",
+    "link": "https://cryptopanic.com/news/33360276/LATEST-1inch-has-routed-over-800-billion-in-trades-but-has-never-turned-a-profit-with-co-founder-Sergej-Kunz-saying-DeFi-is-still-too-small-to-focus-on-extracting-revenue",
+    "source": "@cointelegraph",
+    "published": "Wed Sep 09 2026 21:59:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Stay ahead of the market with custom watchlists and real-time alerts on the CoinDesk app.\n\nDownload now: CoinDesk app: \n\nExclusively sponsored by @Grayscale.",
+    "link": "https://cryptopanic.com/news/33360274/Stay-ahead-of-the-market-with-custom-watchlists-and-real-time-alerts-on-the-CoinDesk-app-Download-now-CoinDesk-app-Exclusively-sponsored-by-Grayscale",
+    "source": "@coindesk",
+    "published": "Wed Sep 09 2026 21:55:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  StoneX analyst Mark Palmer gives Robinhood a Buy rating and $170 price target, citing Robinhood Chain and prediction markets as growth drivers.",
+    "link": "https://cryptopanic.com/news/33360210/LATEST-StoneX-analyst-Mark-Palmer-gives-Robinhood-a-Buy-rating-and-170-price-target-citing-Robinhood-Chain-and-prediction-markets-as-growth-drivers",
+    "source": "@coinmarketcap",
+    "published": "Wed Sep 09 2026 21:53:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cardano nodes can skip most of the chain and still verify it\n\nStarting a node normally means downloading the whole chain and replaying every block from genesis. On @Cardano, Mithril lets stake pool operators sign a snapshot of the node database. Once pools holding enough of the",
+    "link": "https://cryptopanic.com/news/33360279/Cardano-nodes-can-skip-most-of-the-chain-and-still-verify-it-Starting-a-node-normally-means-downloading-the-whole-chain-and-replaying-every-block-from-genesis-On-Cardano-Mithril-lets-stake-pool-operators-sign-a-snapshot-of-the-node-database-Once-pools-holding-enough-of-the",
+    "source": "@bscnews",
+    "published": "Wed Sep 09 2026 21:44:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin Weekly Chart: Can Spot Buyers Clear $79,600 and $82,800?",
     "link": "https://cryptopanic.com/news/33360168/Bitcoin-Weekly-Chart-Can-Spot-Buyers-Clear-79600-and-82800",
     "source": "coindoo.com",
     "published": "Wed Sep 09 2026 21:40:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "️ NEW: DoubleZero adds real-time Kalshi election market data as prediction market trading heats up ahead of the US midterms.",
+    "link": "https://cryptopanic.com/news/33360275/NEW-DoubleZero-adds-real-time-Kalshi-election-market-data-as-prediction-market-trading-heats-up-ahead-of-the-US-midterms",
+    "source": "@cointelegraph",
+    "published": "Wed Sep 09 2026 21:40:18 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -130,83 +207,6 @@
     "link": "https://cryptopanic.com/news/33360178/JUST-IN-22-year-old-Malone-Lam-pleads-guilty-to-stealing-245-million-in-Bitcoin-and-spending-it-on-luxury-homes-exotic-cars-and-private-jets",
     "source": "@watcherguru",
     "published": "Wed Sep 09 2026 21:02:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Apple ties $119 Quest blood panel to new Health Age score",
-    "link": "https://cryptopanic.com/news/33360001/Apple-ties-119-Quest-blood-panel-to-new-Health-Age-score",
-    "source": "cryptopolitan.com",
-    "published": "Wed Sep 09 2026 21:00:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Most people are only now waking up to the capabilites of the $XRP Ledger.\n\nYet in 2022, Balmain and Lotus were already bringing luxury fashion and automotive on-chain, while @Ripple backed creators building real use cases.\n\nThe $XRP story didn’t begin with today’s hype. It’s been",
-    "link": "https://cryptopanic.com/news/33360122/Most-people-are-only-now-waking-up-to-the-capabilites-of-the-XRP-Ledger-Yet-in-2022-Balmain-and-Lotus-were-already-bringing-luxury-fashion-and-automotive-on-chain-while-Ripple-backed-creators-building-real-use-cases-The-XRP-story-didnt-begin-with-todays-hype-Its-been",
-    "source": "@realallincrypto",
-    "published": "Wed Sep 09 2026 21:00:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Billionaire Reveals The 41 Principles That Built a $125B Empire",
-    "link": "https://cryptopanic.com/news/33360062/Billionaire-Reveals-The-41-Principles-That-Built-a-125B-Empire",
-    "source": "AnthonyPompliano",
-    "published": "Wed Sep 09 2026 21:00:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Plume launches FACTOR, a vault paying yield from invoice and working capital financing\n\n@plumenetwork put the vault at a 14% target APY with weekly redemptions, holding tokenized receivable facilities sourced and underwritten with Deep Ocean Partners and tokenized by Tradable.",
-    "link": "https://cryptopanic.com/news/33360125/Plume-launches-FACTOR-a-vault-paying-yield-from-invoice-and-working-capital-financing-plumenetwork-put-the-vault-at-a-14-target-APY-with-weekly-redemptions-holding-tokenized-receivable-facilities-sourced-and-underwritten-with-Deep-Ocean-Partners-and-tokenized-by-Tradable",
-    "source": "@bscnews",
-    "published": "Wed Sep 09 2026 21:00:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: Anthropic claims Claude can now autonomously improve AI alignment, finding successful fixes across 10 failure categories without hurting model performance.",
-    "link": "https://cryptopanic.com/news/33360066/LATEST-Anthropic-claims-Claude-can-now-autonomously-improve-AI-alignment-finding-successful-fixes-across-10-failure-categories-without-hurting-model-performance",
-    "source": "@cryptonwsuk",
-    "published": "Wed Sep 09 2026 20:59:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 MARKET: U.S. stocks fall as war escalation coincides with an oil spike that continues.",
-    "link": "https://cryptopanic.com/news/33360119/MARKET-US-stocks-fall-as-war-escalation-coincides-with-an-oil-spike-that-continues",
-    "source": "@cointelegraph",
-    "published": "Wed Sep 09 2026 20:59:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇷🇺🇺🇦 President Trump says Russian President Putin and Ukraine's President Zelensky are tired of fighting and could hold a meeting soon.",
-    "link": "https://cryptopanic.com/news/33360065/JUST-IN-President-Trump-says-Russian-President-Putin-and-Ukraines-President-Zelensky-are-tired-of-fighting-and-could-hold-a-meeting-soon",
-    "source": "@cryptonwsuk",
-    "published": "Wed Sep 09 2026 20:58:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump Gives Timeline for Oil Prices to Fall, Brent Pushes to May Highs",
-    "link": "https://cryptopanic.com/news/33360081/Trump-Gives-Timeline-for-Oil-Prices-to-Fall-Brent-Pushes-to-May-Highs",
-    "source": "beincrypto.com",
-    "published": "Wed Sep 09 2026 20:54:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana’s 300ms speed boost to outrun trading bots might come with a hidden cost",
-    "link": "https://cryptopanic.com/news/33359974/Solanas-300ms-speed-boost-to-outrun-trading-bots-might-come-with-a-hidden-cost",
-    "source": "cryptoslate.com",
-    "published": "Wed Sep 09 2026 20:50:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Kansas Resident Admits To Draining Over $30,000 From Multiple Bank Accounts in Maine",
-    "link": "https://cryptopanic.com/news/33359921/Kansas-Resident-Admits-To-Draining-Over-30000-From-Multiple-Bank-Accounts-in-Maine",
-    "source": "dailyhodl.com",
-    "published": "Wed Sep 09 2026 20:41:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "PumpFun Adds Tokenized Stocks as Pairing Assets for Token Launches\n\nPumpFun has launched support for tokenized stocks as pairing assets for token creators, expanding beyond SOL and USDC. Available options include tokenized assets linked to Tesla, NVIDIA, Circle, the Nasdaq, the",
-    "link": "https://cryptopanic.com/news/33360064/PumpFun-Adds-Tokenized-Stocks-as-Pairing-Assets-for-Token-Launches-PumpFun-has-launched-support-for-tokenized-stocks-as-pairing-assets-for-token-creators-expanding-beyond-SOL-and-USDC-Available-options-include-tokenized-assets-linked-to-Tesla-NVIDIA-Circle-the-Nasdaq-the",
-    "source": "@wublockchain",
-    "published": "Wed Sep 09 2026 20:41:37 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
