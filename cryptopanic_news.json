@@ -1,5 +1,82 @@
 [
   {
+    "title": "Malone Lam Faces 20 Years After Guilty Plea in $245M Crypto Scheme",
+    "link": "https://cryptopanic.com/news/33356711/Malone-Lam-Faces-20-Years-After-Guilty-Plea-in-245M-Crypto-Scheme",
+    "source": "coinpaper.com",
+    "published": "Wed Sep 09 2026 11:40:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "base:0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf jumps 85% on the month and ascends to a new all time high.",
+    "link": "https://cryptopanic.com/news/33356653/base0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf-jumps-85-on-the-month-and-ascends-to-a-new-all-time-high",
+    "source": "@decryptmedia",
+    "published": "Wed Sep 09 2026 11:30:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "FOMO HOUR ft @Tyler_Did_It and @farokh",
+    "link": "https://cryptopanic.com/news/33356652/FOMO-HOUR-ft-Tyler_Did_It-and-farokh",
+    "source": "@decryptmedia",
+    "published": "Wed Sep 09 2026 11:30:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "IDBI Bank Sale: Fairfax’s Rs. 81 Bid Hits Valuation Roadblock",
+    "link": "https://cryptopanic.com/news/33356696/IDBI-Bank-Sale-Fairfaxs-Rs-81-Bid-Hits-Valuation-Roadblock",
+    "source": "sfctoday.com",
+    "published": "Wed Sep 09 2026 11:26:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "OpenAI says 10,000 AI agents solved a $1 million math problem. Now mathematicians are fighting",
+    "link": "https://cryptopanic.com/news/33356712/OpenAI-says-10000-AI-agents-solved-a-1-million-math-problem-Now-mathematicians-are-fighting",
+    "source": "coindesk.com",
+    "published": "Wed Sep 09 2026 11:23:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Wall Street's newest crypto fund comes with a staking feature to boost returns",
+    "link": "https://cryptopanic.com/news/33356710/Wall-Streets-newest-crypto-fund-comes-with-a-staking-feature-to-boost-returns",
+    "source": "coindesk.com",
+    "published": "Wed Sep 09 2026 11:23:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Germany Eyes 25% Crypto Tax From 2027",
+    "link": "https://cryptopanic.com/news/33356623/Germany-Eyes-25-Crypto-Tax-From-2027",
+    "source": "coindoo.com",
+    "published": "Wed Sep 09 2026 11:22:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Can OpenAI’s math breakthrough be trusted? Mathematicians cry foul",
+    "link": "https://cryptopanic.com/news/33356571/Can-OpenAIs-math-breakthrough-be-trusted-Mathematicians-cry-foul",
+    "source": "cryptopolitan.com",
+    "published": "Wed Sep 09 2026 11:16:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The Vesting Schedule for Biden’s $LAPTOP just went live on CMC - submitted by the team to lock in a Profile Score of 86% (which measures data completeness and freshness).\n\nAdd it to your watchlist to catch the launch the moment it drops.",
+    "link": "https://cryptopanic.com/news/33356731/The-Vesting-Schedule-for-Bidens-LAPTOP-just-went-live-on-CMC-submitted-by-the-team-to-lock-in-a-Profile-Score-of-86-which-measures-data-completeness-and-freshness-Add-it-to-your-watchlist-to-catch-the-launch-the-moment-it-drops",
+    "source": "@coinmarketcap",
+    "published": "Wed Sep 09 2026 11:15:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto Thieves Arrested After $240,000,000 Bitcoin Heist and Lavish Spree",
+    "link": "https://cryptopanic.com/news/33356648/Crypto-Thieves-Arrested-After-240000000-Bitcoin-Heist-and-Lavish-Spree",
+    "source": "dailyhodl.com",
+    "published": "Wed Sep 09 2026 11:15:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "[CMC Live] Build with CMC: API Features & Hackathon\n\n⏰ September 9th, 3pm UTC\n\n Set a reminder: \n\n Szymon Delekta and Justus S. dive into CoinMarketCap API's features and how you can win a CMC Keyboard through our $10K API Hackathon.",
+    "link": "https://cryptopanic.com/news/33356730/CMC-Live-Build-with-CMC-API-Features-amp-Hackathon-September-9th-3pm-UTC-Set-a-reminder-Szymon-Delekta-and-Justus-S-dive-into-CoinMarketCap-APIs-features-and-how-you-can-win-a-CMC-Keyboard-through-our-10K-API-Hackathon",
+    "source": "@coinmarketcap",
+    "published": "Wed Sep 09 2026 11:15:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Circle taps $15B in stablecoin flows with Tazapay deal – Can USDC capitalize?",
     "link": "https://cryptopanic.com/news/33356558/Circle-taps-15B-in-stablecoin-flows-with-Tazapay-deal-Can-USDC-capitalize",
     "source": "ambcrypto.com",
@@ -14,6 +91,27 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Gate Holds 3rd in TradFi Volume Share While Leading in Asset Coverage\n\n“Gate leads all tracked exchanges with 1,022 TradFi instruments, more than 4× the second place platform.” – By @TheoAnalyticsHQ\n\nFull analysis ⤵️",
+    "link": "https://cryptopanic.com/news/33356733/Gate-Holds-3rd-in-TradFi-Volume-Share-While-Leading-in-Asset-Coverage-Gate-leads-all-tracked-exchanges-with-1022-TradFi-instruments-more-than-4-the-second-place-platform-By-TheoAnalyticsHQ-Full-analysis",
+    "source": "@cryptoquant_com",
+    "published": "Wed Sep 09 2026 11:10:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Citi to Become Japan’s First Foreign Bank to Launch Tokenized Deposit-Based Cross-Border Transfers by Year-End\n\nCiti plans to launch tokenized deposit-based international transfers for Japanese companies by year-end. The service will enable instant, 24/7 cross-border payments",
+    "link": "https://cryptopanic.com/news/33356736/Citi-to-Become-Japans-First-Foreign-Bank-to-Launch-Tokenized-Deposit-Based-Cross-Border-Transfers-by-Year-End-Citi-plans-to-launch-tokenized-deposit-based-international-transfers-for-Japanese-companies-by-year-end-The-service-will-enable-instant-247-cross-border-payments",
+    "source": "@wublockchain",
+    "published": "Wed Sep 09 2026 11:09:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tokenized Stocks Now Have Nearly 3 Million Holders, But Trading Volume Halved",
+    "link": "https://cryptopanic.com/news/33356702/Tokenized-Stocks-Now-Have-Nearly-3-Million-Holders-But-Trading-Volume-Halved",
+    "source": "beincrypto.com",
+    "published": "Wed Sep 09 2026 11:08:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LayerZero (@LayerZero_Core) Labs launched Zero, a Layer-1 blockchain built with Citadel Securities, DTCC, ICE, and Google Cloud to bring institutional finance on-chain.",
     "link": "https://cryptopanic.com/news/33356553/LayerZero-LayerZero_Core-Labs-launched-Zero-a-Layer-1-blockchain-built-with-Citadel-Securities-DTCC-ICE-and-Google-Cloud-to-bring-institutional-finance-on-chain",
     "source": "@bscnews",
@@ -21,10 +119,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "INTEL: Germany plans to scrap its one-year crypto tax exemption and impose a flat 25% capital gains tax on new holdings from 2027",
+    "link": "https://cryptopanic.com/news/33356654/INTEL-Germany-plans-to-scrap-its-one-year-crypto-tax-exemption-and-impose-a-flat-25-capital-gains-tax-on-new-holdings-from-2027",
+    "source": "@solidintel_x",
+    "published": "Wed Sep 09 2026 11:06:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Cryptopolitan Report: Bill Gates Says Nobody Has A Plan For AI. 56% Of Our Readers Agree",
     "link": "https://cryptopanic.com/news/33356519/Cryptopolitan-Report-Bill-Gates-Says-Nobody-Has-A-Plan-For-AI-56-Of-Our-Readers-Agree",
     "source": "cryptopolitan.com",
     "published": "Wed Sep 09 2026 11:06:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  JAN3 CEO Samson Mow called Zcash \"an obvious pump and dump,\" saying AI needs it \"like it needs a rubber tire.\"",
+    "link": "https://cryptopanic.com/news/33356729/LATEST-JAN3-CEO-Samson-Mow-called-Zcash-an-obvious-pump-and-dump-saying-AI-needs-it-like-it-needs-a-rubber-tire",
+    "source": "@coinmarketcap",
+    "published": "Wed Sep 09 2026 11:05:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -95,118 +207,6 @@
     "link": "https://cryptopanic.com/news/33356463/JUST-IN-US-Defense-contractor-files-for-bankruptcy-after-losing-a-12-billion-Pentagon-contract",
     "source": "@cryptonwsuk",
     "published": "Wed Sep 09 2026 10:58:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Super Cycle, Altcoin Season, Tesla Robots, and QE Is Here",
-    "link": "https://cryptopanic.com/news/33356488/Bitcoin-Super-Cycle-Altcoin-Season-Tesla-Robots-and-QE-Is-Here",
-    "source": "TheCryptoLark",
-    "published": "Wed Sep 09 2026 10:58:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Trump will not oppose UK sanctions on Israeli settlements, per Axios",
-    "link": "https://cryptopanic.com/news/33356461/JUST-IN-Trump-will-not-oppose-UK-sanctions-on-Israeli-settlements-per-Axios",
-    "source": "@cryptonwsuk",
-    "published": "Wed Sep 09 2026 10:58:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Google will invest over $15 billion in Finnish AI infrastructure, its \"largest single\" bet in Europe",
-    "link": "https://cryptopanic.com/news/33356460/JUST-IN-Google-will-invest-over-15-billion-in-Finnish-AI-infrastructure-its-largest-single-bet-in-Europe",
-    "source": "@cryptonwsuk",
-    "published": "Wed Sep 09 2026 10:57:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇩🇪 JUST IN: Germany plans to impose a 25% tax on cryptocurrency gains starting in 2027.",
-    "link": "https://cryptopanic.com/news/33356540/JUST-IN-Germany-plans-to-impose-a-25-tax-on-cryptocurrency-gains-starting-in-2027",
-    "source": "@cointelegraph",
-    "published": "Wed Sep 09 2026 10:55:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: Former Anthropic and OpenAI researcher Jacob Coxon warns that “by the end of next year things could be out of control already” as AI systems become increasingly powerful.",
-    "link": "https://cryptopanic.com/news/33356459/BREAKING-Former-Anthropic-and-OpenAI-researcher-Jacob-Coxon-warns-that-by-the-end-of-next-year-things-could-be-out-of-control-already-as-AI-systems-become-increasingly-powerful",
-    "source": "@cryptonwsuk",
-    "published": "Wed Sep 09 2026 10:54:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: Brent crude oil price hits $100 for first time since 23rd of July",
-    "link": "https://cryptopanic.com/news/33356458/BREAKING-Brent-crude-oil-price-hits-100-for-first-time-since-23rd-of-July",
-    "source": "@cryptonwsuk",
-    "published": "Wed Sep 09 2026 10:54:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: @Citi launches tokenized deposit-based international transfers for Japanese companies by year-end, enabling instant 24/7 cross-border payments across five countries, the first foreign bank to offer this service in Japan.",
-    "link": "https://cryptopanic.com/news/33356539/JUST-IN-Citi-launches-tokenized-deposit-based-international-transfers-for-Japanese-companies-by-year-end-enabling-instant-247-cross-border-payments-across-five-countries-the-first-foreign-bank-to-offer-this-service-in-Japan",
-    "source": "@coindesk",
-    "published": "Wed Sep 09 2026 10:53:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "What is the Ondo Network, and What is it Built to Solve?\n\nOn July 27, Ondo Finance (@Ondo) introduced the Ondo Network as the execution layer for a new generation of financial markets.\n\nThis effectively replaces Ondo's previously planned Layer-1 blockchain, Ondo Chain. \n\nOndo",
-    "link": "https://cryptopanic.com/news/33356552/What-is-the-Ondo-Network-and-What-is-it-Built-to-Solve-On-July-27-Ondo-Finance-Ondo-introduced-the-Ondo-Network-as-the-execution-layer-for-a-new-generation-of-financial-markets-This-effectively-replaces-Ondos-previously-planned-Layer-1-blockchain-Ondo-Chain-Ondo",
-    "source": "@bscnews",
-    "published": "Wed Sep 09 2026 10:47:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin climbs as oil tops $100, equities drop after Iran strikes",
-    "link": "https://cryptopanic.com/news/33356565/Bitcoin-climbs-as-oil-tops-100-equities-drop-after-Iran-strikes",
-    "source": "coindesk.com",
-    "published": "Wed Sep 09 2026 10:47:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Polkadot is rolling out a major update for developers\n\n@Polkadot is launching an important update to its Product Devnet.\n\nThis update will roll out to both mobile and desktop applications simultaneously.\n\nIt also introduces changes to the Devnet environment that will require",
-    "link": "https://cryptopanic.com/news/33356550/Polkadot-is-rolling-out-a-major-update-for-developers-Polkadot-is-launching-an-important-update-to-its-Product-Devnet-This-update-will-roll-out-to-both-mobile-and-desktop-applications-simultaneously-It-also-introduces-changes-to-the-Devnet-environment-that-will-require",
-    "source": "@bscnews",
-    "published": "Wed Sep 09 2026 10:47:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Iran’s crypto adoption reaches $10B as U.S. sanctions cut off traditional banking routes",
-    "link": "https://cryptopanic.com/news/33356390/Irans-crypto-adoption-reaches-10B-as-US-sanctions-cut-off-traditional-banking-routes",
-    "source": "ambcrypto.com",
-    "published": "Wed Sep 09 2026 10:45:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Viral Altcoin VVV Hits a New ATH: More Fuel Left or Time to Take Profits?",
-    "link": "https://cryptopanic.com/news/33356404/Viral-Altcoin-VVV-Hits-a-New-ATH-More-Fuel-Left-or-Time-to-Take-Profits",
-    "source": "cryptopotato.com",
-    "published": "Wed Sep 09 2026 10:43:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Did reflection tokens peak, or are they just starting out?",
-    "link": "https://cryptopanic.com/news/33356346/Did-reflection-tokens-peak-or-are-they-just-starting-out",
-    "source": "cryptopolitan.com",
-    "published": "Wed Sep 09 2026 10:38:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "In just 6 months, whale 0x7378 made $14.93M from $VVV and $LIT!\n\n6 months ago, he bought 102,189 $VVV at $7.87. \n\nAfter the price jumped today, he sold 92,189 $VVV ($2.37M) at $25.75 and still holds 10K $VVV ($259.5K), making $1.83M in profit.\n\nHe also spent $11.3M to buy 4.74M",
-    "link": "https://cryptopanic.com/news/33356395/In-just-6-months-whale-0x7378-made-1493M-from-VVV-and-LIT-6-months-ago-he-bought-102189-VVV-at-787-After-the-price-jumped-today-he-sold-92189-VVV-237M-at-2575-and-still-holds-10K-VVV-2595K-making-183M-in-profit-He-also-spent-113M-to-buy-474M",
-    "source": "@lookonchain",
-    "published": "Wed Sep 09 2026 10:37:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Gaming Contacts Became a $245 Million Crypto Theft Ring, Leader Pleads Guilty",
-    "link": "https://cryptopanic.com/news/33356446/Gaming-Contacts-Became-a-245-Million-Crypto-Theft-Ring-Leader-Pleads-Guilty",
-    "source": "beincrypto.com",
-    "published": "Wed Sep 09 2026 10:35:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "FourMeme's (@fourdotmemezh) 4Stock Could Change How Stock Memes Launch\n\nFourmeme’s 4Stock removes a key bottleneck for Stock Memes on BNB Chain.\n\nA stock can now be tokenized first, giving communities an asset to build around before a bStock arrives.\n\nRead the full breakdown",
-    "link": "https://cryptopanic.com/news/33356298/FourMemes-fourdotmemezh-4Stock-Could-Change-How-Stock-Memes-Launch-Fourmemes-4Stock-removes-a-key-bottleneck-for-Stock-Memes-on-BNB-Chain-A-stock-can-now-be-tokenized-first-giving-communities-an-asset-to-build-around-before-a-bStock-arrives-Read-the-full-breakdown",
-    "source": "@bscnews",
-    "published": "Wed Sep 09 2026 10:32:01 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
