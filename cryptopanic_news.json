@@ -1,5 +1,33 @@
 [
   {
+    "title": "World.xyz Goes Offline Due to Unprecedented Traffic on Website Hours After Launch",
+    "link": "https://cryptopanic.com/news/33359494/Worldxyz-Goes-Offline-Due-to-Unprecedented-Traffic-on-Website-Hours-After-Launch",
+    "source": "solanafloor.com",
+    "published": "Wed Sep 09 2026 19:49:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Native lending on the XRP Ledger is still stuck in voting. XLS-65 sits at 13 of 35 validators, XLS-66 at 11, and both need 28 held for two straight weeks. ⬇️",
+    "link": "https://cryptopanic.com/news/33359724/Native-lending-on-the-XRP-Ledger-is-still-stuck-in-voting-XLS-65-sits-at-13-of-35-validators-XLS-66-at-11-and-both-need-28-held-for-two-straight-weeks",
+    "source": "@bscnews",
+    "published": "Wed Sep 09 2026 19:44:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Stonk Flips Pump in Launchpad Revenue, Sets Next Target at Robinhood’s Pons",
+    "link": "https://cryptopanic.com/news/33359145/Stonk-Flips-Pump-in-Launchpad-Revenue-Sets-Next-Target-at-Robinhoods-Pons",
+    "source": "solanafloor.com",
+    "published": "Wed Sep 09 2026 19:42:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MARKET: Federal Reserve Bank of New York is scheduled to buy 2.12 billion in Treasury bills this week.",
+    "link": "https://cryptopanic.com/news/33359722/MARKET-Federal-Reserve-Bank-of-New-York-is-scheduled-to-buy-212-billion-in-Treasury-bills-this-week",
+    "source": "@cointelegraph",
+    "published": "Wed Sep 09 2026 19:40:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "There is no second best. \n\nBuy Bitcoin!",
     "link": "https://cryptopanic.com/news/33359702/There-is-no-second-best-Buy-Bitcoin",
     "source": "@btc_archive",
@@ -14,10 +42,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "NEW: Treasury Secretary Scott Bessent is urging the Senate to advance the CLARITY Act when lawmakers return from August recess, warning that failure to move forward would signal the U.S. is “unwilling to lead on the future of digital assets.”",
+    "link": "https://cryptopanic.com/news/33359719/NEW-Treasury-Secretary-Scott-Bessent-is-urging-the-Senate-to-advance-the-CLARITY-Act-when-lawmakers-return-from-August-recess-warning-that-failure-to-move-forward-would-signal-the-US-is-unwilling-to-lead-on-the-future-of-digital-assets",
+    "source": "@coindesk",
+    "published": "Wed Sep 09 2026 19:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Longing Inference Markets",
     "link": "https://cryptopanic.com/news/33359640/Longing-Inference-Markets",
     "source": "bankless.com",
     "published": "Wed Sep 09 2026 19:26:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Lummis presses the case for the CLARITY Act ahead of next week's Senate vote\n\n@SenLummis argued that the United States should write its own digital asset rules instead of \"watching from the sidelines while Singapore or the UAE write them for us.\" \n\nThe chamber returns from recess",
+    "link": "https://cryptopanic.com/news/33359723/Lummis-presses-the-case-for-the-CLARITY-Act-ahead-of-next-weeks-Senate-vote-SenLummis-argued-that-the-United-States-should-write-its-own-digital-asset-rules-instead-of-watching-from-the-sidelines-while-Singapore-or-the-UAE-write-them-for-us-The-chamber-returns-from-recess",
+    "source": "@bscnews",
+    "published": "Wed Sep 09 2026 19:22:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -105,6 +147,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "MicroStrategy Says It Has the One Thing JPMorgan Lacks",
+    "link": "https://cryptopanic.com/news/33359717/MicroStrategy-Says-It-Has-the-One-Thing-JPMorgan-Lacks",
+    "source": "beincrypto.com",
+    "published": "Wed Sep 09 2026 18:58:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Crypto, Banks Take Clarity Act Lobbying Fight to Senators' Home States",
     "link": "https://cryptopanic.com/news/33359444/Crypto-Banks-Take-Clarity-Act-Lobbying-Fight-to-Senators-Home-States",
     "source": "decrypt.co",
@@ -158,55 +207,6 @@
     "link": "https://cryptopanic.com/news/33359541/An-Anthropic-researcher-quits-with-a-warning-over-self-improving-AI-US-security-agencies-accuse-Chinese-AI-firms-of-extracting-data-from-American-models-and-Iran-turns-to-crypto-to-keep-trade-flowing-under-US-sanctions-JennSanasie-has-what-you-need-to-know-Thank-you-to",
     "source": "@coindesk",
     "published": "Wed Sep 09 2026 18:43:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Zebec adds MoneyGram cash pickup to its Stellar stablecoin payroll\n\n@Zebec_HQ streams employee and contractor pay in stablecoins on the @StellarOrg network. With @MoneyGram Ramps built into that flow, workers can now collect their earnings as cash in local currency at an agent",
-    "link": "https://cryptopanic.com/news/33359547/Zebec-adds-MoneyGram-cash-pickup-to-its-Stellar-stablecoin-payroll-Zebec_HQ-streams-employee-and-contractor-pay-in-stablecoins-on-the-StellarOrg-network-With-MoneyGram-Ramps-built-into-that-flow-workers-can-now-collect-their-earnings-as-cash-in-local-currency-at-an-agent",
-    "source": "@bscnews",
-    "published": "Wed Sep 09 2026 18:42:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$11B Asset Manager Debunks the Biggest Misconception Surrounding Ripple-Linked XRP",
-    "link": "https://cryptopanic.com/news/33359390/11B-Asset-Manager-Debunks-the-Biggest-Misconception-Surrounding-Ripple-Linked-XRP",
-    "source": "zycrypto.com",
-    "published": "Wed Sep 09 2026 18:40:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Coinbase Grabs XRP Rich-List Bronze After 5.5B Relabel",
-    "link": "https://cryptopanic.com/news/33359379/Coinbase-Grabs-XRP-Rich-List-Bronze-After-55B-Relabel",
-    "source": "dailycoin.com",
-    "published": "Wed Sep 09 2026 18:40:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇬🇧 Met Police launches criminal investigation into Reform UK over foreign donor claims, per BBC",
-    "link": "https://cryptopanic.com/news/33359453/JUST-IN-Met-Police-launches-criminal-investigation-into-Reform-UK-over-foreign-donor-claims-per-BBC",
-    "source": "@cryptonwsuk",
-    "published": "Wed Sep 09 2026 18:34:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "India Targets 15 Crypto Exchanges Over AML Compliance Failures",
-    "link": "https://cryptopanic.com/news/33359391/India-Targets-15-Crypto-Exchanges-Over-AML-Compliance-Failures",
-    "source": "cryptodnes.bg",
-    "published": "Wed Sep 09 2026 18:33:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto Groups Ask Illinois Court to Halt Digital Asset Tax",
-    "link": "https://cryptopanic.com/news/33359337/Crypto-Groups-Ask-Illinois-Court-to-Halt-Digital-Asset-Tax",
-    "source": "cryptoprowl.com",
-    "published": "Wed Sep 09 2026 18:33:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: EU tightens grip on cross-border crypto exchanges — AML Intelligence.\n\n• Targets cross-border firms without local bases.\n\n• AML fines can reach 10% of annual turnover.\n\n• Framework passed, but not officially active yet.",
-    "link": "https://cryptopanic.com/news/33359441/JUST-IN-EU-tightens-grip-on-cross-border-crypto-exchanges-AML-Intelligence-Targets-cross-border-firms-without-local-bases-AML-fines-can-reach-10-of-annual-turnover-Framework-passed-but-not-officially-active-yet",
-    "source": "@btc_archive",
-    "published": "Wed Sep 09 2026 18:32:58 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
