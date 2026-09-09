@@ -1,5 +1,33 @@
 [
   {
+    "title": "Bitcoin Wallet Maker Trezor Says Hackers Breached Its Email Provider",
+    "link": "https://cryptopanic.com/news/33360415/Bitcoin-Wallet-Maker-Trezor-Says-Hackers-Breached-Its-Email-Provider",
+    "source": "decrypt.co",
+    "published": "Wed Sep 09 2026 23:02:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Falcon Finance market cap crosses $465M: Profit-taking can test FF’s $0.11 support",
+    "link": "https://cryptopanic.com/news/33360412/Falcon-Finance-market-cap-crosses-465M-Profit-taking-can-test-FFs-011-support",
+    "source": "ambcrypto.com",
+    "published": "Wed Sep 09 2026 23:00:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Anthropic Models 3 AI Futures for 2030 After Its Researcher Warns of Extinction",
+    "link": "https://cryptopanic.com/news/33360486/Anthropic-Models-3-AI-Futures-for-2030-After-Its-Researcher-Warns-of-Extinction",
+    "source": "beincrypto.com",
+    "published": "Wed Sep 09 2026 23:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin miners miss the rally as exchanges and stablecoin firms pull ahead",
+    "link": "https://cryptopanic.com/news/33360403/Bitcoin-miners-miss-the-rally-as-exchanges-and-stablecoin-firms-pull-ahead",
+    "source": "cryptopolitan.com",
+    "published": "Wed Sep 09 2026 22:57:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Spot HYPE ETFs just saw their worst day in history...\n\nThe three spot @HyperliquidX ETFs in the US collectively lost -$13M on September 8.\n\nPrior to this, the worst day the products had seen came on July 29, when they lost some -$8.8M.",
     "link": "https://cryptopanic.com/news/33360401/Spot-HYPE-ETFs-just-saw-their-worst-day-in-history-The-three-spot-HyperliquidX-ETFs-in-the-US-collectively-lost-13M-on-September-8-Prior-to-this-the-worst-day-the-products-had-seen-came-on-July-29-when-they-lost-some-88M",
     "source": "@bscnews",
@@ -7,10 +35,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Bitcoin's Spot-Backed Rally Hides an Altcoin Leverage Trap Last Seen in 2025",
+    "link": "https://cryptopanic.com/news/33360485/Bitcoins-Spot-Backed-Rally-Hides-an-Altcoin-Leverage-Trap-Last-Seen-in-2025",
+    "source": "beincrypto.com",
+    "published": "Wed Sep 09 2026 22:40:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "️ NEW: Changelly has partnered with Tether to spotlight ethereum:0x68749665ff8d2d112fa859aa293f07a622782f38, Tether's gold-backed token, through qualifying swaps on the Changelly platform. \n\nThe campaign runs through Sept. 21.\n\nethereum:0x68749665ff8d2d112fa859aa293f07a622782f38",
     "link": "https://cryptopanic.com/news/33360400/NEW-Changelly-has-partnered-with-Tether-to-spotlight-ethereum0x68749665ff8d2d112fa859aa293f07a622782f38-Tethers-gold-backed-token-through-qualifying-swaps-on-the-Changelly-platform-The-campaign-runs-through-Sept-21-ethereum0x68749665ff8d2d112fa859aa293f07a622782f38",
     "source": "@cointelegraph",
     "published": "Wed Sep 09 2026 22:36:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Robinhood CEO Vlad Tenev Defends Stock Tokens After AMC Criticism",
+    "link": "https://cryptopanic.com/news/33360484/Robinhood-CEO-Vlad-Tenev-Defends-Stock-Tokens-After-AMC-Criticism",
+    "source": "beincrypto.com",
+    "published": "Wed Sep 09 2026 22:32:14 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -165,48 +207,6 @@
     "link": "https://cryptopanic.com/news/33360179/JUST-IN-Hunter-Biden-says-he-has-not-made-a-single-dollar-on-his-crypto-memecoin-LAPTOP",
     "source": "@watcherguru",
     "published": "Wed Sep 09 2026 21:40:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin, Ethereum, XRP, Dogecoin Trade Flat as Traders Brace for Key Macro Events",
-    "link": "https://cryptopanic.com/news/33360205/Bitcoin-Ethereum-XRP-Dogecoin-Trade-Flat-as-Traders-Brace-for-Key-Macro-Events",
-    "source": "feeds2.benzinga.com",
-    "published": "Wed Sep 09 2026 21:39:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Scott Bessent’s Treasury to buy back $6 billion in debt after defending yen intervention",
-    "link": "https://cryptopanic.com/news/33360143/Scott-Bessents-Treasury-to-buy-back-6-billion-in-debt-after-defending-yen-intervention",
-    "source": "cryptopolitan.com",
-    "published": "Wed Sep 09 2026 21:30:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEAR crypto jumps 11% as Intents volume crosses $27B",
-    "link": "https://cryptopanic.com/news/33360134/NEAR-crypto-jumps-11-as-Intents-volume-crosses-27B",
-    "source": "ambcrypto.com",
-    "published": "Wed Sep 09 2026 21:30:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trezor's email provider was breached, and attackers sent fake emails from real Trezor email addresses.\nThe fake email is titled \"Critical Security Alert: STM32 Entropy Vulnerability\" and claims a hardware defect in Trezor devices. \n\nRemember that wallet vendors will never ask",
-    "link": "https://cryptopanic.com/news/33360127/Trezors-email-provider-was-breached-and-attackers-sent-fake-emails-from-real-Trezor-email-addresses-The-fake-email-is-titled-Critical-Security-Alert-STM32-Entropy-Vulnerability-and-claims-a-hardware-defect-in-Trezor-devices-Remember-that-wallet-vendors-will-never-ask",
-    "source": "@bscnews",
-    "published": "Wed Sep 09 2026 21:27:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Zcash trades above $1,250 and closes on Hyperliquid for ninth spot\n\nzcash:native traded near $1,250 on Wednesday, up almost 8% for the day and about 54% over the week. Its $21.09B market cap ranks it tenth, inching in on Hyperliquid's ninth spot.\n\nThe token ranged between $1,146",
-    "link": "https://cryptopanic.com/news/33360126/Zcash-trades-above-1250-and-closes-on-Hyperliquid-for-ninth-spot-zcashnative-traded-near-1250-on-Wednesday-up-almost-8-for-the-day-and-about-54-over-the-week-Its-2109B-market-cap-ranks-it-tenth-inching-in-on-Hyperliquids-ninth-spot-The-token-ranged-between-1146",
-    "source": "@bscnews",
-    "published": "Wed Sep 09 2026 21:22:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33360211/Source",
-    "source": "@wublockchain",
-    "published": "Wed Sep 09 2026 21:20:48 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
