@@ -1,5 +1,54 @@
 [
   {
+    "title": "Arthur Hayes: Bitcoin Is the 'Fastest Horse' During 'Central Bank Money Printing'",
+    "link": "https://cryptopanic.com/news/33360102/Arthur-Hayes-Bitcoin-Is-the-Fastest-Horse-During-Central-Bank-Money-Printing",
+    "source": "feeds2.benzinga.com",
+    "published": "Wed Sep 09 2026 21:09:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Trump: Oil prices will decrease with decrease after election.",
+    "link": "https://cryptopanic.com/news/33360067/JUST-IN-Trump-Oil-prices-will-decrease-with-decrease-after-election",
+    "source": "@cryptonwsuk",
+    "published": "Wed Sep 09 2026 21:03:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Apple ties $119 Quest blood panel to new Health Age score",
+    "link": "https://cryptopanic.com/news/33360001/Apple-ties-119-Quest-blood-panel-to-new-Health-Age-score",
+    "source": "cryptopolitan.com",
+    "published": "Wed Sep 09 2026 21:00:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Billionaire Reveals The 41 Principles That Built a $125B Empire",
+    "link": "https://cryptopanic.com/news/33360062/Billionaire-Reveals-The-41-Principles-That-Built-a-125B-Empire",
+    "source": "AnthonyPompliano",
+    "published": "Wed Sep 09 2026 21:00:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: Anthropic claims Claude can now autonomously improve AI alignment, finding successful fixes across 10 failure categories without hurting model performance.",
+    "link": "https://cryptopanic.com/news/33360066/LATEST-Anthropic-claims-Claude-can-now-autonomously-improve-AI-alignment-finding-successful-fixes-across-10-failure-categories-without-hurting-model-performance",
+    "source": "@cryptonwsuk",
+    "published": "Wed Sep 09 2026 20:59:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇷🇺🇺🇦 President Trump says Russian President Putin and Ukraine's President Zelensky are tired of fighting and could hold a meeting soon.",
+    "link": "https://cryptopanic.com/news/33360065/JUST-IN-President-Trump-says-Russian-President-Putin-and-Ukraines-President-Zelensky-are-tired-of-fighting-and-could-hold-a-meeting-soon",
+    "source": "@cryptonwsuk",
+    "published": "Wed Sep 09 2026 20:58:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trump Gives Timeline for Oil Prices to Fall, Brent Pushes to May Highs",
+    "link": "https://cryptopanic.com/news/33360081/Trump-Gives-Timeline-for-Oil-Prices-to-Fall-Brent-Pushes-to-May-Highs",
+    "source": "beincrypto.com",
+    "published": "Wed Sep 09 2026 20:54:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Solana’s 300ms speed boost to outrun trading bots might come with a hidden cost",
     "link": "https://cryptopanic.com/news/33359974/Solanas-300ms-speed-boost-to-outrun-trading-bots-might-come-with-a-hidden-cost",
     "source": "cryptoslate.com",
@@ -11,6 +60,20 @@
     "link": "https://cryptopanic.com/news/33359921/Kansas-Resident-Admits-To-Draining-Over-30000-From-Multiple-Bank-Accounts-in-Maine",
     "source": "dailyhodl.com",
     "published": "Wed Sep 09 2026 20:41:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "PumpFun Adds Tokenized Stocks as Pairing Assets for Token Launches\n\nPumpFun has launched support for tokenized stocks as pairing assets for token creators, expanding beyond SOL and USDC. Available options include tokenized assets linked to Tesla, NVIDIA, Circle, the Nasdaq, the",
+    "link": "https://cryptopanic.com/news/33360064/PumpFun-Adds-Tokenized-Stocks-as-Pairing-Assets-for-Token-Launches-PumpFun-has-launched-support-for-tokenized-stocks-as-pairing-assets-for-token-creators-expanding-beyond-SOL-and-USDC-Available-options-include-tokenized-assets-linked-to-Tesla-NVIDIA-Circle-the-Nasdaq-the",
+    "source": "@wublockchain",
+    "published": "Wed Sep 09 2026 20:41:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  DoubleZero has added Kalshi's real-time election market data to its low-latency platform, giving institutional traders live political prediction data ahead of the Nov. 3 US midterms.",
+    "link": "https://cryptopanic.com/news/33360063/LATEST-DoubleZero-has-added-Kalshis-real-time-election-market-data-to-its-low-latency-platform-giving-institutional-traders-live-political-prediction-data-ahead-of-the-Nov-3-US-midterms",
+    "source": "@coinmarketcap",
+    "published": "Wed Sep 09 2026 20:41:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -144,69 +207,6 @@
     "link": "https://cryptopanic.com/news/33359762/Mortgage-Rates-Near-7-as-CPI-and-Fed-Risk-Hit-Housing-Bitcoin-and-Bonds",
     "source": "coinpaper.com",
     "published": "Wed Sep 09 2026 20:03:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Sui pays you back when you delete your data\n\nEvery transaction on @SuiNetwork, in addition to the cost of computation, also charges for storage. That fee goes into a storage fund rather than straight to validators. The fund is staked, so future validators keep earning for holding",
-    "link": "https://cryptopanic.com/news/33359936/Sui-pays-you-back-when-you-delete-your-data-Every-transaction-on-SuiNetwork-in-addition-to-the-cost-of-computation-also-charges-for-storage-That-fee-goes-into-a-storage-fund-rather-than-straight-to-validators-The-fund-is-staked-so-future-validators-keep-earning-for-holding",
-    "source": "@bscnews",
-    "published": "Wed Sep 09 2026 20:03:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple Exec Pushes Senate to Meet 'a Real American Crypto Holder' Before CLARITY Vote",
-    "link": "https://cryptopanic.com/news/33359822/Ripple-Exec-Pushes-Senate-to-Meet-a-Real-American-Crypto-Holder-Before-CLARITY-Vote",
-    "source": "feeds2.benzinga.com",
-    "published": "Wed Sep 09 2026 20:02:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "bitcoin:native Sitting right at its range high after a few failed breakout attempts.\n\nOn the downside, $76K has been holding as support.\n\nCan recommend to just wait patiently for a resolution at this area. We've been seeing a lot of pre-positioning from longs and shorts the past",
-    "link": "https://cryptopanic.com/news/33359931/bitcoinnative-Sitting-right-at-its-range-high-after-a-few-failed-breakout-attempts-On-the-downside-76K-has-been-holding-as-support-Can-recommend-to-just-wait-patiently-for-a-resolution-at-this-area-Weve-been-seeing-a-lot-of-pre-positioning-from-longs-and-shorts-the-past",
-    "source": "@daancrypto",
-    "published": "Wed Sep 09 2026 20:01:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "PONS crypto commands 82% of Robinhood launchpad activity – Here’s what it means",
-    "link": "https://cryptopanic.com/news/33359754/PONS-crypto-commands-82-of-Robinhood-launchpad-activity-Heres-what-it-means",
-    "source": "ambcrypto.com",
-    "published": "Wed Sep 09 2026 20:00:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ONDO ASSET HOLDERS HAVE SURGED 116% IN JUST 30 DAYS, SMASHING PAST 439K!\n\nThe number of people holding @Ondo’s tokenised assets has more than doubled in one month.\n\nAs Wall Street moves onchain $ONDO is becoming one of its biggest gateways.",
-    "link": "https://cryptopanic.com/news/33359933/ONDO-ASSET-HOLDERS-HAVE-SURGED-116-IN-JUST-30-DAYS-SMASHING-PAST-439K-The-number-of-people-holding-Ondos-tokenised-assets-has-more-than-doubled-in-one-month-As-Wall-Street-moves-onchain-ONDO-is-becoming-one-of-its-biggest-gateways",
-    "source": "@realallincrypto",
-    "published": "Wed Sep 09 2026 20:00:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AMC’s CEO called tokenized stocks “vile.” @Krakenfx and @Bullish are betting big on them anyway.\n\nOn today’s Public Keys at the @NYSE, @jennsanasie and 21Shares co-founder @OpheliaBSnyder dig into tokenized equities and why putting stocks on-chain could reshape the shareholder",
-    "link": "https://cryptopanic.com/news/33359720/AMCs-CEO-called-tokenized-stocks-vile-Krakenfx-and-Bullish-are-betting-big-on-them-anyway-On-todays-Public-Keys-at-the-NYSE-jennsanasie-and-21Shares-co-founder-OpheliaBSnyder-dig-into-tokenized-equities-and-why-putting-stocks-on-chain-could-reshape-the-shareholder",
-    "source": "@coindesk",
-    "published": "Wed Sep 09 2026 20:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UK crime agency elevates crypto to third economic-crime priority, seizes £25M",
-    "link": "https://cryptopanic.com/news/33359725/UK-crime-agency-elevates-crypto-to-third-economic-crime-priority-seizes-25M",
-    "source": "cryptopolitan.com",
-    "published": "Wed Sep 09 2026 19:55:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HIVE joins Google, Microsoft, and Amazon in new Canada data center pledge",
-    "link": "https://cryptopanic.com/news/33359808/HIVE-joins-Google-Microsoft-and-Amazon-in-new-Canada-data-center-pledge",
-    "source": "thestreet.com",
-    "published": "Wed Sep 09 2026 19:53:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "World.xyz Goes Offline Due to Unprecedented Traffic on Website Hours After Launch",
-    "link": "https://cryptopanic.com/news/33359494/Worldxyz-Goes-Offline-Due-to-Unprecedented-Traffic-on-Website-Hours-After-Launch",
-    "source": "solanafloor.com",
-    "published": "Wed Sep 09 2026 19:49:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
