@@ -1,5 +1,89 @@
 [
   {
+    "title": "Robinhood Blockchain Volume Hits Record $1.3B as Meme Coin Trading Surges",
+    "link": "https://cryptopanic.com/news/33312184/Robinhood-Blockchain-Volume-Hits-Record-13B-as-Meme-Coin-Trading-Surges",
+    "source": "cryptoprowl.com",
+    "published": "Tue Sep 01 2026 14:16:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum price outlook turns bullish as ETF inflows support $2,800 target",
+    "link": "https://cryptopanic.com/news/33284414/Ethereum-price-outlook-turns-bullish-as-ETF-inflows-support-2800-target",
+    "source": "coinjournal.net",
+    "published": "Thu Aug 27 2026 10:41:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cardano will win",
+    "link": "https://cryptopanic.com/news/33254802/Cardano-will-win",
+    "source": "@angrycryptoshow",
+    "published": "Fri Aug 21 2026 21:11:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Was At Peak Fear Just Before The Market Turned",
+    "link": "https://cryptopanic.com/news/33251469/Ethereum-Was-At-Peak-Fear-Just-Before-The-Market-Turned",
+    "source": "techgaged.com",
+    "published": "Fri Aug 21 2026 10:25:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ETH's Comeback Is Overdue",
+    "link": "https://cryptopanic.com/news/33247879/ETHs-Comeback-Is-Overdue",
+    "source": "bankless.com",
+    "published": "Thu Aug 20 2026 20:58:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Nobody is actually competing with Ethereum...\n\n@Ethereum's dominance on just about every onchain metric has been overshadowed by $ETH's poor price performance in 2026.\n\nBut don't let this fool you.\n\n$ETH still holds more than 55% of the entire industry's TVL, and nearly 50% of",
+    "link": "https://cryptopanic.com/news/33183100/Nobody-is-actually-competing-with-Ethereum-Ethereums-dominance-on-just-about-every-onchain-metric-has-been-overshadowed-by-ETHs-poor-price-performance-in-2026-But-dont-let-this-fool-you-ETH-still-holds-more-than-55-of-the-entire-industrys-TVL-and-nearly-50-of",
+    "source": "@bscnews",
+    "published": "Mon Aug 10 2026 00:41:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Foundation To Hire An A.I. Security Researcher",
+    "link": "https://cryptopanic.com/news/33169053/Ethereum-Foundation-To-Hire-An-AI-Security-Researcher",
+    "source": "cryptoprowl.com",
+    "published": "Thu Aug 06 2026 19:27:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Memecoin degens are providing the spark for Wall Street to turn stock tokens into real capital",
+    "link": "https://cryptopanic.com/news/33363972/Memecoin-degens-are-providing-the-spark-for-Wall-Street-to-turn-stock-tokens-into-real-capital",
+    "source": "cryptoslate.com",
+    "published": "Thu Sep 10 2026 11:50:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trump Promises $5,000 ‘Dividend’ if Republicans Win Midterms",
+    "link": "https://cryptopanic.com/news/33363925/Trump-Promises-5000-Dividend-if-Republicans-Win-Midterms",
+    "source": "coinpaper.com",
+    "published": "Thu Sep 10 2026 11:48:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP vs. Algorand: Which Network Is Winning the Quantum Security Race?",
+    "link": "https://cryptopanic.com/news/33363906/XRP-vs-Algorand-Which-Network-Is-Winning-the-Quantum-Security-Race",
+    "source": "coinpaper.com",
+    "published": "Thu Sep 10 2026 11:45:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Pennsylvania Healthcare Firm Breached, Affecting 4,115,802 Americans – Names, Contact Details, Health Records and More at Risk",
+    "link": "https://cryptopanic.com/news/33364003/Pennsylvania-Healthcare-Firm-Breached-Affecting-4115802-Americans-Names-Contact-Details-Health-Records-and-More-at-Risk",
+    "source": "dailyhodl.com",
+    "published": "Thu Sep 10 2026 11:45:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "WATCH: A rate hike from the European Central Bank is seen as locked, but analysts don't agree on whether they'll need to raise rates further from here. Laura Cooper of Nuveen told Reuters the data doesn't justify more hikes",
+    "link": "https://cryptopanic.com/news/33363924/WATCH-A-rate-hike-from-the-European-Central-Bank-is-seen-as-locked-but-analysts-dont-agree-on-whether-theyll-need-to-raise-rates-further-from-here-Laura-Cooper-of-Nuveen-told-Reuters-the-data-doesnt-justify-more-hikes",
+    "source": "@reutersbiz",
+    "published": "Thu Sep 10 2026 11:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "🇮🇳 NEW: India’s Arya(.)ag is testing tokenized grain ownership records on Avalanche.",
     "link": "https://cryptopanic.com/news/33363920/NEW-Indias-Aryaag-is-testing-tokenized-grain-ownership-records-on-Avalanche",
     "source": "@cointelegraph",
@@ -14,10 +98,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Crypto exchange giant Bybit to offer European ‘super-app’ with stocks, derivatives",
+    "link": "https://cryptopanic.com/news/33363970/Crypto-exchange-giant-Bybit-to-offer-European-super-app-with-stocks-derivatives",
+    "source": "coindesk.com",
+    "published": "Thu Sep 10 2026 11:36:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Trezor Warns of Phishing Attack via Official Email Domain",
     "link": "https://cryptopanic.com/news/33363934/Trezor-Warns-of-Phishing-Attack-via-Official-Email-Domain",
     "source": "cryptodnes.bg",
     "published": "Thu Sep 10 2026 11:31:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Nasdaq Invests $100M in Kraken Parent Payward at $21B Valuation",
+    "link": "https://cryptopanic.com/news/33363994/Nasdaq-Invests-100M-in-Kraken-Parent-Payward-at-21B-Valuation",
+    "source": "@decryptmedia",
+    "published": "Thu Sep 10 2026 11:30:36 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -109,104 +207,6 @@
     "link": "https://cryptopanic.com/news/33363811/LATEST-TRM-Labs-has-doubled-its-valuation-to-2B-in-a-Series-C-expansion-led-by-Blockchain-Capital-with-annual-recurring-revenue-quadrupling-over-the-past-three-years",
     "source": "@coinmarketcap",
     "published": "Thu Sep 10 2026 11:05:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Nasdaq invests $100,000,000 in Kraken's parent company Payward.",
-    "link": "https://cryptopanic.com/news/33363704/JUST-IN-Nasdaq-invests-100000000-in-Krakens-parent-company-Payward",
-    "source": "@watcherguru",
-    "published": "Thu Sep 10 2026 11:04:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "It is now possible to write readable Smart Contracts on Kaspa! \n\n@Kaspaunchained announced the launch of Silverscript v1, a high-level smart contract language designed to streamline the development of complex, stateful applications on the Kaspa ledger. \n\nThe language removes the",
-    "link": "https://cryptopanic.com/news/33363927/It-is-now-possible-to-write-readable-Smart-Contracts-on-Kaspa-Kaspaunchained-announced-the-launch-of-Silverscript-v1-a-high-level-smart-contract-language-designed-to-streamline-the-development-of-complex-stateful-applications-on-the-Kaspa-ledger-The-language-removes-the",
-    "source": "@bscnews",
-    "published": "Thu Sep 10 2026 11:01:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Pudgy Penguins plush toys are now in 1,800+ Target stores. Here's how the retail push connects to PENGU tokenomics",
-    "link": "https://cryptopanic.com/news/33363926/Pudgy-Penguins-plush-toys-are-now-in-1800-Target-stores-Heres-how-the-retail-push-connects-to-PENGU-tokenomics",
-    "source": "@bscnews",
-    "published": "Thu Sep 10 2026 11:01:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HUNTER BIDEN’S $LAPTOP MEMECOIN IS DOWN 99% AS HE DENIES A RUG PULL.\n\nHe claims neither he nor his team sold any tokens, instead blaming sniper bots and thin liquidity for the collapse.🤣🤣\n\nA 99% sell off though and neither him or his team sold any tokens? “Rug pull” remains",
-    "link": "https://cryptopanic.com/news/33363602/HUNTER-BIDENS-LAPTOP-MEMECOIN-IS-DOWN-99-AS-HE-DENIES-A-RUG-PULL-He-claims-neither-he-nor-his-team-sold-any-tokens-instead-blaming-sniper-bots-and-thin-liquidity-for-the-collapse-A-99-sell-off-though-and-neither-him-or-his-team-sold-any-tokens-Rug-pull-remains",
-    "source": "@realallincrypto",
-    "published": "Thu Sep 10 2026 11:00:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Germany Moves to Tax Bitcoin Like Stocks",
-    "link": "https://cryptopanic.com/news/33363615/Germany-Moves-to-Tax-Bitcoin-Like-Stocks",
-    "source": "coinpaprika.com",
-    "published": "Thu Sep 10 2026 11:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33363814/Source",
-    "source": "@wublockchain",
-    "published": "Thu Sep 10 2026 10:57:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nasdaq Invests $100M in Kraken Parent Payward at $21 Billion Valuation\n\nAccording to Bloomberg, Nasdaq is investing $100 million in Payward, the parent company of cryptocurrency exchange Kraken, through its venture investment arm. The capital injection values Payward at $21",
-    "link": "https://cryptopanic.com/news/33363812/Nasdaq-Invests-100M-in-Kraken-Parent-Payward-at-21-Billion-Valuation-According-to-Bloomberg-Nasdaq-is-investing-100-million-in-Payward-the-parent-company-of-cryptocurrency-exchange-Kraken-through-its-venture-investment-arm-The-capital-injection-values-Payward-at-21",
-    "source": "@wublockchain",
-    "published": "Thu Sep 10 2026 10:57:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "PEPE risks a deeper correction as whales sell 80 billion tokens",
-    "link": "https://cryptopanic.com/news/33363664/PEPE-risks-a-deeper-correction-as-whales-sell-80-billion-tokens",
-    "source": "coinjournal.net",
-    "published": "Thu Sep 10 2026 10:50:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Italy's Parliament Tackles Bitcoin Strategy: 14 Working Groups Set the Agenda",
-    "link": "https://cryptopanic.com/news/33363553/Italys-Parliament-Tackles-Bitcoin-Strategy-14-Working-Groups-Set-the-Agenda",
-    "source": "spaziocrypto.com",
-    "published": "Thu Sep 10 2026 10:46:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Arizona Handing Out 2,100,000 Free Eggs to Families In Price-Fixing Settlement",
-    "link": "https://cryptopanic.com/news/33363614/Arizona-Handing-Out-2100000-Free-Eggs-to-Families-In-Price-Fixing-Settlement",
-    "source": "dailyhodl.com",
-    "published": "Thu Sep 10 2026 10:45:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nasdaq Invests Big in Kraken's Parent Company Payward \n\n@Nasdaq has secured a direct investment in Payward Inc., the parent company of @krakenfx. \n\nThe deal, finalized at a $21B valuation, marks a monumental convergence between legacy capital market infrastructure and",
-    "link": "https://cryptopanic.com/news/33363608/Nasdaq-Invests-Big-in-Krakens-Parent-Company-Payward-Nasdaq-has-secured-a-direct-investment-in-Payward-Inc-the-parent-company-of-krakenfx-The-deal-finalized-at-a-21B-valuation-marks-a-monumental-convergence-between-legacy-capital-market-infrastructure-and",
-    "source": "@bscnews",
-    "published": "Thu Sep 10 2026 10:44:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: Nasdaq buys $100M stake in Kraken at $21B valuation.\n\nWall Street giants fear crypto growth!",
-    "link": "https://cryptopanic.com/news/33363535/BREAKING-Nasdaq-buys-100M-stake-in-Kraken-at-21B-valuation-Wall-Street-giants-fear-crypto-growth",
-    "source": "@btc_archive",
-    "published": "Thu Sep 10 2026 10:42:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Nasdaq is investing $100M in Kraken’s parent company Payward at a $21B valuation.",
-    "link": "https://cryptopanic.com/news/33363600/JUST-IN-Nasdaq-is-investing-100M-in-Krakens-parent-company-Payward-at-a-21B-valuation",
-    "source": "@cointelegraph",
-    "published": "Thu Sep 10 2026 10:40:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Start trading on @OhayoGlobal and be at the forefront of perps trading innovation.\n\nOHAYO is the first of a new generation of perps DEXs.\n\nThrough its cutting-edge user interface, you can trade with leverage on assets like $XRP, $LINK, $DOT, $SHIB, and countless others.\n\nBe",
-    "link": "https://cryptopanic.com/news/33363606/Start-trading-on-OhayoGlobal-and-be-at-the-forefront-of-perps-trading-innovation-OHAYO-is-the-first-of-a-new-generation-of-perps-DEXs-Through-its-cutting-edge-user-interface-you-can-trade-with-leverage-on-assets-like-XRP-LINK-DOT-SHIB-and-countless-others-Be",
-    "source": "@bscnews",
-    "published": "Thu Sep 10 2026 10:39:16 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
