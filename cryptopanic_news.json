@@ -1,5 +1,26 @@
 [
   {
+    "title": "Liquid Network resumes transactions as hacker keeps 600 BTC",
+    "link": "https://cryptopanic.com/news/33367350/Liquid-Network-resumes-transactions-as-hacker-keeps-600-BTC",
+    "source": "cryptopolitan.com",
+    "published": "Thu Sep 10 2026 21:48:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 Treasury Secretary Bessent says the US will sanction a large bank next week.",
+    "link": "https://cryptopanic.com/news/33367329/JUST-IN-Treasury-Secretary-Bessent-says-the-US-will-sanction-a-large-bank-next-week",
+    "source": "@watcherguru",
+    "published": "Thu Sep 10 2026 21:43:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CLARITY Act Faces New Fight Over 'Vertical Integration' In Crypto",
+    "link": "https://cryptopanic.com/news/33367366/CLARITY-Act-Faces-New-Fight-Over-Vertical-Integration-In-Crypto",
+    "source": "feeds2.benzinga.com",
+    "published": "Thu Sep 10 2026 21:36:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "INTEL: Trump says the $5,000 payment to Americans does not need Congressional approval.",
     "link": "https://cryptopanic.com/news/33367322/INTEL-Trump-says-the-5000-payment-to-Americans-does-not-need-Congressional-approval",
     "source": "@solidintel_x",
@@ -25,6 +46,13 @@
     "link": "https://cryptopanic.com/news/33367236/Senate-Republicans-Release-Revised-Clarity-Act-Ahead-of-September-15-Vote",
     "source": "decrypt.co",
     "published": "Thu Sep 10 2026 21:18:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Bitwise will liquidate its Dogecoin ETF, citing efforts to optimize its product lineup for investor demand, with trading ending Oct. 14.",
+    "link": "https://cryptopanic.com/news/33367375/LATEST-Bitwise-will-liquidate-its-Dogecoin-ETF-citing-efforts-to-optimize-its-product-lineup-for-investor-demand-with-trading-ending-Oct-14",
+    "source": "@coinmarketcap",
+    "published": "Thu Sep 10 2026 21:17:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33367289/Bitwise-Dogecoin-ETF-Shuts-Down-With-722000-Left-Will-Rival-Funds-Follow",
     "source": "beincrypto.com",
     "published": "Thu Sep 10 2026 20:39:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HIVE brings in enterprise veteran to scale BUZZ HPC's AI cloud business",
-    "link": "https://cryptopanic.com/news/33367107/HIVE-brings-in-enterprise-veteran-to-scale-BUZZ-HPCs-AI-cloud-business",
-    "source": "thestreet.com",
-    "published": "Thu Sep 10 2026 20:36:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Mesh ships a @Cardano and Bitcoin wallet SDK funded through Catalyst\n\nThe extension gives developers one interface across both chains, with headless wallets, equivalent Bitcoin primitives for addresses and script handling, and transaction and data signing. The code is open source",
-    "link": "https://cryptopanic.com/news/33367042/Mesh-ships-a-Cardano-and-Bitcoin-wallet-SDK-funded-through-Catalyst-The-extension-gives-developers-one-interface-across-both-chains-with-headless-wallets-equivalent-Bitcoin-primitives-for-addresses-and-script-handling-and-transaction-and-data-signing-The-code-is-open-source",
-    "source": "@bscnews",
-    "published": "Thu Sep 10 2026 20:35:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AI Agents Just Slashed the Cost of a Quantum Attack on Bitcoin",
-    "link": "https://cryptopanic.com/news/33367013/AI-Agents-Just-Slashed-the-Cost-of-a-Quantum-Attack-on-Bitcoin",
-    "source": "decrypt.co",
-    "published": "Thu Sep 10 2026 20:34:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: #Cardano $ADA generated the 10th highest 24h trade volume on Polymarket's crypto perpetuals, surpassing BNB, XRP, Dogecoin, Zcash, and Monero.",
-    "link": "https://cryptopanic.com/news/33367189/JUST-IN-Cardano-ADA-generated-the-10th-highest-24h-trade-volume-on-Polymarkets-crypto-perpetuals-surpassing-BNB-XRP-Dogecoin-Zcash-and-Monero",
-    "source": "@angrycryptoshow",
-    "published": "Thu Sep 10 2026 20:34:38 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
