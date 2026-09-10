@@ -1,5 +1,19 @@
 [
   {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33362133/Source",
+    "source": "@wublockchain",
+    "published": "Thu Sep 10 2026 06:42:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: ️ Ethereum co-founder Joe Lubin says the era of money \"belonging to institutions rather than individuals\" is ending, with self-custody becoming mainstream and stablecoins becoming internet-native money.",
+    "link": "https://cryptopanic.com/news/33362132/LATEST-Ethereum-co-founder-Joe-Lubin-says-the-era-of-money-belonging-to-institutions-rather-than-individuals-is-ending-with-self-custody-becoming-mainstream-and-stablecoins-becoming-internet-native-money",
+    "source": "@coinmarketcap",
+    "published": "Thu Sep 10 2026 06:39:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "INTEL: ️ Trezor's email provider has been breached.\nPhishing emails titled \"Critical Security Alert: STM32 Entropy Vulnerability\" are going out from Trezor's legitimate domain, passing spam filters and looking real.\n\nDo not click any link and never enter your recovery seed on a",
     "link": "https://cryptopanic.com/news/33362085/INTEL-Trezors-email-provider-has-been-breached-Phishing-emails-titled-Critical-Security-Alert-STM32-Entropy-Vulnerability-are-going-out-from-Trezors-legitimate-domain-passing-spam-filters-and-looking-real-Do-not-click-any-link-and-never-enter-your-recovery-seed-on-a",
     "source": "@solidintel_x",
@@ -39,6 +53,13 @@
     "link": "https://cryptopanic.com/news/33361979/Trump-makes-another-5000-stimulus-promise-to-Americans-if-they-vote-Republican-in-midterms",
     "source": "cryptopolitan.com",
     "published": "Thu Sep 10 2026 06:19:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Scott Bessents Bitcoin ATTACK JUST BACKFIRED! HERES THE PROOF | EP 1588",
+    "link": "https://cryptopanic.com/news/33358571/Scott-Bessents-Bitcoin-ATTACK-JUST-BACKFIRED-HERES-THE-PROOF-EP-1588",
+    "source": "SimplyBitcoin",
+    "published": "Thu Sep 10 2026 06:15:32 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -186,27 +207,6 @@
     "link": "https://cryptopanic.com/news/33361862/Trader-XXAntiWar-who-made-over-27M-on-TRUMP-in-just-2-days-is-now-shorting-ZEC-She-deposited-219M-USDC-into-Hyperliquid-and-opened-a-3x-short-on-5200-ZEC-649M-Liquidation-price-161347",
     "source": "@lookonchain",
     "published": "Thu Sep 10 2026 05:18:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Exclusive: China bought 14 to 15 cargoes of US soybeans this week, or around 1 million metric tons, as the world's top oilseed buyer steps up purchases ahead of Chinese President Xi Jinping's visit to Washington later this month. Read more -",
-    "link": "https://cryptopanic.com/news/33361827/Exclusive-China-bought-14-to-15-cargoes-of-US-soybeans-this-week-or-around-1-million-metric-tons-as-the-worlds-top-oilseed-buyer-steps-up-purchases-ahead-of-Chinese-President-Xi-Jinpings-visit-to-Washington-later-this-month-Read-more-",
-    "source": "@reutersbiz",
-    "published": "Thu Sep 10 2026 05:15:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ CZ: “The market gives you plenty of opportunities to enter (or exit). All you have to do is to make the right decisions.”",
-    "link": "https://cryptopanic.com/news/33361824/CZ-The-market-gives-you-plenty-of-opportunities-to-enter-or-exit-All-you-have-to-do-is-to-make-the-right-decisions",
-    "source": "@cointelegraph",
-    "published": "Thu Sep 10 2026 05:11:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto wins regardless of Clarity Act vote, Coinbase's Armstrong says",
-    "link": "https://cryptopanic.com/news/33361765/Crypto-wins-regardless-of-Clarity-Act-vote-Coinbases-Armstrong-says",
-    "source": "coindesk.com",
-    "published": "Thu Sep 10 2026 05:05:41 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
