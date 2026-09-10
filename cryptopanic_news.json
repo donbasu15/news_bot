@@ -1,5 +1,47 @@
 [
   {
+    "title": "INTEL: ️ Trezor's email provider has been breached.\nPhishing emails titled \"Critical Security Alert: STM32 Entropy Vulnerability\" are going out from Trezor's legitimate domain, passing spam filters and looking real.\n\nDo not click any link and never enter your recovery seed on a",
+    "link": "https://cryptopanic.com/news/33362085/INTEL-Trezors-email-provider-has-been-breached-Phishing-emails-titled-Critical-Security-Alert-STM32-Entropy-Vulnerability-are-going-out-from-Trezors-legitimate-domain-passing-spam-filters-and-looking-real-Do-not-click-any-link-and-never-enter-your-recovery-seed-on-a",
+    "source": "@solidintel_x",
+    "published": "Thu Sep 10 2026 06:38:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Another Major Pi Network (PI) Update Is Here – What Changes for Pioneers?",
+    "link": "https://cryptopanic.com/news/33362068/Another-Major-Pi-Network-PI-Update-Is-Here-What-Changes-for-Pioneers",
+    "source": "cryptopotato.com",
+    "published": "Thu Sep 10 2026 06:35:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 NOW: The market is pricing a 60.2% chance of a rate hike at the Fed's September 16 meeting, up from 44.4% a month ago.",
+    "link": "https://cryptopanic.com/news/33362010/NOW-The-market-is-pricing-a-602-chance-of-a-rate-hike-at-the-Feds-September-16-meeting-up-from-444-a-month-ago",
+    "source": "@cointelegraph",
+    "published": "Thu Sep 10 2026 06:30:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "OpenReserve Wins Preliminary OCC Nod for National Bank",
+    "link": "https://cryptopanic.com/news/33362005/OpenReserve-Wins-Preliminary-OCC-Nod-for-National-Bank",
+    "source": "catenaa.com",
+    "published": "Thu Sep 10 2026 06:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "How does Ondo (@Ondo) keep tokenized stocks tied to real shares?\n\nThe answer lies in its custodial model, where real securities remain inside regulated U.S. custody.\n\nBut how does the process work, and why do shareholder rights matter?",
+    "link": "https://cryptopanic.com/news/33362013/How-does-Ondo-Ondo-keep-tokenized-stocks-tied-to-real-shares-The-answer-lies-in-its-custodial-model-where-real-securities-remain-inside-regulated-US-custody-But-how-does-the-process-work-and-why-do-shareholder-rights-matter",
+    "source": "@bscnews",
+    "published": "Thu Sep 10 2026 06:23:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trump makes another $5,000 stimulus promise to Americans if they vote Republican in midterms",
+    "link": "https://cryptopanic.com/news/33361979/Trump-makes-another-5000-stimulus-promise-to-Americans-if-they-vote-Republican-in-midterms",
+    "source": "cryptopolitan.com",
+    "published": "Thu Sep 10 2026 06:19:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Fake Trezor Warning Claims 25% of Devices Are Vulnerable in Latest Phishing Campaign",
     "link": "https://cryptopanic.com/news/33361958/Fake-Trezor-Warning-Claims-25-of-Devices-Are-Vulnerable-in-Latest-Phishing-Campaign",
     "source": "cryptopotato.com",
@@ -21,6 +63,20 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Sui Takes Another Step Toward Autonomous DeFi Agents\n\nSui (@SuiNetwork) says AI agents can now operate wallets through the Human Tech Wallet Protocol (@WaaPxyz).\n\nThe setup gives agents scoped authority while keeping wallet control with the user. \n\nAgents can fund wallets with",
+    "link": "https://cryptopanic.com/news/33362012/Sui-Takes-Another-Step-Toward-Autonomous-DeFi-Agents-Sui-SuiNetwork-says-AI-agents-can-now-operate-wallets-through-the-Human-Tech-Wallet-Protocol-WaaPxyz-The-setup-gives-agents-scoped-authority-while-keeping-wallet-control-with-the-user-Agents-can-fund-wallets-with",
+    "source": "@bscnews",
+    "published": "Thu Sep 10 2026 06:00:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇨🇳 LATEST: China says it's open to AI talks with the US but will retaliate if Washington acts on claims of systematic tech theft by Chinese firms.",
+    "link": "https://cryptopanic.com/news/33362009/LATEST-China-says-its-open-to-AI-talks-with-the-US-but-will-retaliate-if-Washington-acts-on-claims-of-systematic-tech-theft-by-Chinese-firms",
+    "source": "@cointelegraph",
+    "published": "Thu Sep 10 2026 06:00:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LAPTOP Team Explains Price Drop, Cites Bots and Thin Liquidity",
     "link": "https://cryptopanic.com/news/33361861/LAPTOP-Team-Explains-Price-Drop-Cites-Bots-and-Thin-Liquidity",
     "source": "coindoo.com",
@@ -39,6 +95,13 @@
     "link": "https://cryptopanic.com/news/33361997/KOSPI-Struggles-to-Hold-7000-as-Bank-of-Korea-Flags-Record-Volatility",
     "source": "beincrypto.com",
     "published": "Thu Sep 10 2026 05:52:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 JUST IN: Coinbase CEO Brian Armstrong says crypto regulation in the US is moving forward either way, with SEC and CFTC rulemaking as a fallback if the Clarity Act stalls.",
+    "link": "https://cryptopanic.com/news/33362008/JUST-IN-Coinbase-CEO-Brian-Armstrong-says-crypto-regulation-in-the-US-is-moving-forward-either-way-with-SEC-and-CFTC-rulemaking-as-a-fallback-if-the-Clarity-Act-stalls",
+    "source": "@cointelegraph",
+    "published": "Thu Sep 10 2026 05:48:31 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -144,69 +207,6 @@
     "link": "https://cryptopanic.com/news/33361765/Crypto-wins-regardless-of-Clarity-Act-vote-Coinbases-Armstrong-says",
     "source": "coindesk.com",
     "published": "Thu Sep 10 2026 05:05:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: ️ Mexican federal prosecutors, the Navy and state police seized 300 crypto mining rigs illegally drawing power from a hydroelectric complex in Tlaola.",
-    "link": "https://cryptopanic.com/news/33361739/LATEST-Mexican-federal-prosecutors-the-Navy-and-state-police-seized-300-crypto-mining-rigs-illegally-drawing-power-from-a-hydroelectric-complex-in-Tlaola",
-    "source": "@coinmarketcap",
-    "published": "Thu Sep 10 2026 05:05:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitget And UNICEF Bring Blockchain Education to Young Learners\n\nBitget (@bitget) and UNICEF have launched a free financial literacy course introducing young learners to blockchain.\n\nThe self paced programme combines money basics with lessons about the changing digital financial",
-    "link": "https://cryptopanic.com/news/33361829/Bitget-And-UNICEF-Bring-Blockchain-Education-to-Young-Learners-Bitget-bitget-and-UNICEF-have-launched-a-free-financial-literacy-course-introducing-young-learners-to-blockchain-The-self-paced-programme-combines-money-basics-with-lessons-about-the-changing-digital-financial",
-    "source": "@bscnews",
-    "published": "Thu Sep 10 2026 05:03:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Close the 850M ID Gap: Decentralized Identity, Standards, and Risks",
-    "link": "https://cryptopanic.com/news/33361641/Close-the-850M-ID-Gap-Decentralized-Identity-Standards-and-Risks",
-    "source": "techgaged.com",
-    "published": "Thu Sep 10 2026 05:00:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ NOW: Anthropic disclosed a fourth incident of an AI model hacking external systems during testing, this one involving an early Claude Opus 4.6 and missed in its earlier review.",
-    "link": "https://cryptopanic.com/news/33361823/NOW-Anthropic-disclosed-a-fourth-incident-of-an-AI-model-hacking-external-systems-during-testing-this-one-involving-an-early-Claude-Opus-46-and-missed-in-its-earlier-review",
-    "source": "@cointelegraph",
-    "published": "Thu Sep 10 2026 05:00:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "WATCH: China's Tiangong Ultra made headlines in August after smashing multiple records at the World Humanoid Robot Games in Beijing. Reuters gets behind-the-scenes access to the Beijing Humanoid Robot Innovation Center. Eduardo Baptista has more",
-    "link": "https://cryptopanic.com/news/33361628/WATCH-Chinas-Tiangong-Ultra-made-headlines-in-August-after-smashing-multiple-records-at-the-World-Humanoid-Robot-Games-in-Beijing-Reuters-gets-behind-the-scenes-access-to-the-Beijing-Humanoid-Robot-Innovation-Center-Eduardo-Baptista-has-more",
-    "source": "@reutersbiz",
-    "published": "Thu Sep 10 2026 05:00:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Coinbase Seeks SEC Approval for Equity Perpetuals",
-    "link": "https://cryptopanic.com/news/33361633/Coinbase-Seeks-SEC-Approval-for-Equity-Perpetuals",
-    "source": "catenaa.com",
-    "published": "Thu Sep 10 2026 05:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Dubai’s Zamanat brings GCC private credit on-chain with $100M tokenized fund targeting underserved SMEs",
-    "link": "https://cryptopanic.com/news/33361654/Dubais-Zamanat-brings-GCC-private-credit-on-chain-with-100M-tokenized-fund-targeting-underserved-SMEs",
-    "source": "finbold.com",
-    "published": "Thu Sep 10 2026 05:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Barclays Sees 4% Upside for the S&P 500 on Tech Earnings Strength",
-    "link": "https://cryptopanic.com/news/33361800/Barclays-Sees-4-Upside-for-the-SP-500-on-Tech-Earnings-Strength",
-    "source": "beincrypto.com",
-    "published": "Thu Sep 10 2026 04:51:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bankrupt ATM network sells 2,446 machines below $1M",
-    "link": "https://cryptopanic.com/news/33361685/Bankrupt-ATM-network-sells-2446-machines-below-1M",
-    "source": "thestreet.com",
-    "published": "Thu Sep 10 2026 04:48:46 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
