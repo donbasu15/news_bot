@@ -1,5 +1,82 @@
 [
   {
+    "title": "Short-Term Holders Sold 549K BTC After the Short Squeeze",
+    "link": "https://cryptopanic.com/news/33362659/Short-Term-Holders-Sold-549K-BTC-After-the-Short-Squeeze",
+    "source": "axeladlerjr.com",
+    "published": "Thu Sep 10 2026 08:15:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Coinbase's Armstrong Says CLARITY Act Will Clear Sept. 15 Senate Vote, Dismisses Dimon's \"Regulatory Arbitrage\" Attack",
+    "link": "https://cryptopanic.com/news/33362627/Coinbases-Armstrong-Says-CLARITY-Act-Will-Clear-Sept-15-Senate-Vote-Dismisses-Dimons-Regulatory-Arbitrage-Attack",
+    "source": "www.blockhead.co",
+    "published": "Thu Sep 10 2026 08:12:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin ETFs Bleed $147 Million in Two-Day Outflow Streak",
+    "link": "https://cryptopanic.com/news/33362648/Bitcoin-ETFs-Bleed-147-Million-in-Two-Day-Outflow-Streak",
+    "source": "u.today",
+    "published": "Thu Sep 10 2026 08:04:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$225M in Scam Crypto Was Seized – Why Victims Still Wait?",
+    "link": "https://cryptopanic.com/news/33362625/225M-in-Scam-Crypto-Was-Seized-Why-Victims-Still-Wait",
+    "source": "coindoo.com",
+    "published": "Thu Sep 10 2026 08:04:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Why an Anthropic Exit Has Congress Talking About Pausing AI",
+    "link": "https://cryptopanic.com/news/33362698/Why-an-Anthropic-Exit-Has-Congress-Talking-About-Pausing-AI",
+    "source": "beincrypto.com",
+    "published": "Thu Sep 10 2026 08:02:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEAR price prediction — Here’s why $3-level is the next short-term target",
+    "link": "https://cryptopanic.com/news/33362578/NEAR-price-prediction-Heres-why-3-level-is-the-next-short-term-target",
+    "source": "ambcrypto.com",
+    "published": "Thu Sep 10 2026 08:00:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UBS, Jane Street Disclose Hyperliquid ETF Holdings",
+    "link": "https://cryptopanic.com/news/33362558/UBS-Jane-Street-Disclose-Hyperliquid-ETF-Holdings",
+    "source": "catenaa.com",
+    "published": "Thu Sep 10 2026 08:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hyperliquid Open Interest Tops $14.7 Billion, Highest Since October 2025",
+    "link": "https://cryptopanic.com/news/33362559/Hyperliquid-Open-Interest-Tops-147-Billion-Highest-Since-October-2025",
+    "source": "cryptopolitan.com",
+    "published": "Thu Sep 10 2026 07:58:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "David Sacks throws Anthropic’s $2T IPO into question",
+    "link": "https://cryptopanic.com/news/33362551/David-Sacks-throws-Anthropics-2T-IPO-into-question",
+    "source": "cryptopolitan.com",
+    "published": "Thu Sep 10 2026 07:55:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$BTC & $ETH Same but different.\n\nETH has formed a tighter range while sitting on its ~$2460 support while $BTC has been more volatile and keeps bouncing from its $77.8K support.\n\nAll within their respective ranges.\n\nPretty clear which levels to watch and where the bulls need to",
+    "link": "https://cryptopanic.com/news/33362555/BTC-amp-ETH-Same-but-different-ETH-has-formed-a-tighter-range-while-sitting-on-its-2460-support-while-BTC-has-been-more-volatile-and-keeps-bouncing-from-its-778K-support-All-within-their-respective-ranges-Pretty-clear-which-levels-to-watch-and-where-the-bulls-need-to",
+    "source": "@daancrypto",
+    "published": "Thu Sep 10 2026 07:53:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "World LibertyFi’s USD1 Gets a Major Points Update on Aster\n\nAster (@Aster_DEX) will change how USD1 RWA Boost points are calculated from Epoch 3.\n\nTrading and OI Points will now calculate their values in a daily UTC period of 24 hours rather than hourly. This will keep the",
+    "link": "https://cryptopanic.com/news/33362557/World-LibertyFis-USD1-Gets-a-Major-Points-Update-on-Aster-Aster-Aster_DEX-will-change-how-USD1-RWA-Boost-points-are-calculated-from-Epoch-3-Trading-and-OI-Points-will-now-calculate-their-values-in-a-daily-UTC-period-of-24-hours-rather-than-hourly-This-will-keep-the",
+    "source": "@bscnews",
+    "published": "Thu Sep 10 2026 07:52:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "BREAKING: Anthropic is reportedly building an extensive surveillance and intelligence system to monitor activists and protests opposing artificial intelligence, according to The Prospect.",
     "link": "https://cryptopanic.com/news/33362522/BREAKING-Anthropic-is-reportedly-building-an-extensive-surveillance-and-intelligence-system-to-monitor-activists-and-protests-opposing-artificial-intelligence-according-to-The-Prospect",
     "source": "@cryptonwsuk",
@@ -130,83 +207,6 @@
     "link": "https://cryptopanic.com/news/33362463/Sanlam-Profit-Drops-22-on-Higher-Claims-and-India-Weakness",
     "source": "square.binance.com",
     "published": "Thu Sep 10 2026 07:28:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇺🇸 The US Treasury will buy back up to $6B in longer-term debt, tripling its normal operation, to try to keep bond markets liquid after yields hit their highest since before the 2008 crisis.",
-    "link": "https://cryptopanic.com/news/33362518/LATEST-The-US-Treasury-will-buy-back-up-to-6B-in-longer-term-debt-tripling-its-normal-operation-to-try-to-keep-bond-markets-liquid-after-yields-hit-their-highest-since-before-the-2008-crisis",
-    "source": "@coinmarketcap",
-    "published": "Thu Sep 10 2026 07:25:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Arthur Hayes Publishes Draft FLOP Network Yellow Paper, Testnet Planned for Q4 2026",
-    "link": "https://cryptopanic.com/news/33362462/Arthur-Hayes-Publishes-Draft-FLOP-Network-Yellow-Paper-Testnet-Planned-for-Q4-2026",
-    "source": "square.binance.com",
-    "published": "Thu Sep 10 2026 07:24:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Zhipu Launches Coding Subsidy Program in Hangzhou on September 10",
-    "link": "https://cryptopanic.com/news/33362461/Zhipu-Launches-Coding-Subsidy-Program-in-Hangzhou-on-September-10",
-    "source": "square.binance.com",
-    "published": "Thu Sep 10 2026 07:23:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Russian Pacific Oil Asking Prices Surge as Chinese Refiners Buy Spot Cargoes",
-    "link": "https://cryptopanic.com/news/33362460/Russian-Pacific-Oil-Asking-Prices-Surge-as-Chinese-Refiners-Buy-Spot-Cargoes",
-    "source": "square.binance.com",
-    "published": "Thu Sep 10 2026 07:22:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "PRECIOUS METALS | COMEX Gold Total Inventories Edge Lower on Small Eligible Withdrawals",
-    "link": "https://cryptopanic.com/news/33362459/PRECIOUS-METALS-COMEX-Gold-Total-Inventories-Edge-Lower-on-Small-Eligible-Withdrawals",
-    "source": "square.binance.com",
-    "published": "Thu Sep 10 2026 07:22:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "China Says Leaders’ Diplomacy Has Irreplaceable Strategic Role in U.S.-China Ties",
-    "link": "https://cryptopanic.com/news/33362458/China-Says-Leaders-Diplomacy-Has-Irreplaceable-Strategic-Role-in-US-China-Ties",
-    "source": "square.binance.com",
-    "published": "Thu Sep 10 2026 07:22:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cathie Wood is Optimistic About Blockchains — Ark Analyst Explains Why The Tech Underpinning Bitcoin Has Parallels With Fast Food Chains",
-    "link": "https://cryptopanic.com/news/33362350/Cathie-Wood-is-Optimistic-About-Blockchains-Ark-Analyst-Explains-Why-The-Tech-Underpinning-Bitcoin-Has-Parallels-With-Fast-Food-Chains",
-    "source": "feeds2.benzinga.com",
-    "published": "Thu Sep 10 2026 07:21:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "STOCKS | YF Financial Jumps 19.4% To One-Month High",
-    "link": "https://cryptopanic.com/news/33362457/STOCKS-YF-Financial-Jumps-194-To-One-Month-High",
-    "source": "square.binance.com",
-    "published": "Thu Sep 10 2026 07:16:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "STOCKS | Xiaomi Falls 2.1% As Apple Unveils Foldable iPhone Duo",
-    "link": "https://cryptopanic.com/news/33362456/STOCKS-Xiaomi-Falls-21-As-Apple-Unveils-Foldable-iPhone-Duo",
-    "source": "square.binance.com",
-    "published": "Thu Sep 10 2026 07:15:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AI Model Built by Bloomberg Sees Bank of England Rate Hike in February",
-    "link": "https://cryptopanic.com/news/33362455/AI-Model-Built-by-Bloomberg-Sees-Bank-of-England-Rate-Hike-in-February",
-    "source": "square.binance.com",
-    "published": "Thu Sep 10 2026 07:15:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stephen Jen Says U.S. May Pursue a Gradual Weak-Dollar Path",
-    "link": "https://cryptopanic.com/news/33362454/Stephen-Jen-Says-US-May-Pursue-a-Gradual-Weak-Dollar-Path",
-    "source": "square.binance.com",
-    "published": "Thu Sep 10 2026 07:14:35 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
