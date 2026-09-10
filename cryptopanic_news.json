@@ -1,9 +1,58 @@
 [
   {
+    "title": "Wall Street Buys Bitcoin While Retail Sleeps!",
+    "link": "https://cryptopanic.com/news/33360648/Wall-Street-Buys-Bitcoin-While-Retail-Sleeps",
+    "source": "SimplyBitcoin",
+    "published": "Thu Sep 10 2026 00:00:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Apple buries Siri AI and Image Playground usage caps in macOS 27 fine print",
+    "link": "https://cryptopanic.com/news/33360582/Apple-buries-Siri-AI-and-Image-Playground-usage-caps-in-macOS-27-fine-print",
+    "source": "cryptopolitan.com",
+    "published": "Wed Sep 09 2026 23:52:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🤖 Anthropic alignment lead Evan Hubinger says AI has a greater than 10% chance of killing all humans within the next decade.",
+    "link": "https://cryptopanic.com/news/33360642/LATEST-Anthropic-alignment-lead-Evan-Hubinger-says-AI-has-a-greater-than-10-chance-of-killing-all-humans-within-the-next-decade",
+    "source": "@coinmarketcap",
+    "published": "Wed Sep 09 2026 23:52:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Second-Largest Hardware Wallet Maker Trezor Warns of Phishing Email After Third-Party Email Provider Breach\n\nTrezor said its third-party email provider has been breached. The company warned that an email titled “Critical Security Alert: STM32 Entropy Vulnerability” did not come",
+    "link": "https://cryptopanic.com/news/33360644/Second-Largest-Hardware-Wallet-Maker-Trezor-Warns-of-Phishing-Email-After-Third-Party-Email-Provider-Breach-Trezor-said-its-third-party-email-provider-has-been-breached-The-company-warned-that-an-email-titled-Critical-Security-Alert-STM32-Entropy-Vulnerability-did-not-come",
+    "source": "@wublockchain",
+    "published": "Wed Sep 09 2026 23:49:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "OFAC sanctioned Xinbi Guarantee, a Chinese-language illicit marketplace, along with Anwen Technology and SafeW Technology for supporting its operations. The DOJ also seized related infrastructure and digital asset wallets. Treasury said Xinbi has processed more than $24 billion",
+    "link": "https://cryptopanic.com/news/33360643/OFAC-sanctioned-Xinbi-Guarantee-a-Chinese-language-illicit-marketplace-along-with-Anwen-Technology-and-SafeW-Technology-for-supporting-its-operations-The-DOJ-also-seized-related-infrastructure-and-digital-asset-wallets-Treasury-said-Xinbi-has-processed-more-than-24-billion",
+    "source": "@wublockchain",
+    "published": "Wed Sep 09 2026 23:48:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "3 Days of Losses: Dow, S&P, Nasdaq Slide as Yields, Oil Rise",
+    "link": "https://cryptopanic.com/news/33360600/3-Days-of-Losses-Dow-SP-Nasdaq-Slide-as-Yields-Oil-Rise",
+    "source": "beincrypto.com",
+    "published": "Wed Sep 09 2026 23:46:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "🇺🇸 NOW: White House crypto advisor Patrick Witt says, “All Senators, Republican and Democrat, should vote on Tuesday to get on the (Clarity) bill and allow the legislative process to continue.",
     "link": "https://cryptopanic.com/news/33360565/NOW-White-House-crypto-advisor-Patrick-Witt-says-All-Senators-Republican-and-Democrat-should-vote-on-Tuesday-to-get-on-the-Clarity-bill-and-allow-the-legislative-process-to-continue",
     "source": "@cointelegraph",
     "published": "Wed Sep 09 2026 23:39:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Daily $ADA News! ️\n\nx402 Integrates #Cardano!\nCharles: \"Rapid Evolution.\"",
+    "link": "https://cryptopanic.com/news/33360645/Daily-ADA-News-x402-Integrates-Cardano-Charles-Rapid-Evolution",
+    "source": "@angrycryptoshow",
+    "published": "Wed Sep 09 2026 23:33:31 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -158,55 +207,6 @@
     "link": "https://cryptopanic.com/news/33360368/NEW-Cardano-is-now-merged-as-a-working-implementation-in-the-official-x402-repository-unlocking-open-and-agentic-payments-on-ADA-Cardano-Foundation-is-a-member-of-the-x402-Foundation-alongside-Google-American-Express-Mastercard-Visa-Coinbase-Circle-Ripple-and-more",
     "source": "@angrycryptoshow",
     "published": "Wed Sep 09 2026 22:11:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$300B manager Ric Edelman expects the Clarity Act to pass, unlocking Bitcoin’s path to a new all-time high.\n\n-March 2026",
-    "link": "https://cryptopanic.com/news/33360365/300B-manager-Ric-Edelman-expects-the-Clarity-Act-to-pass-unlocking-Bitcoins-path-to-a-new-all-time-high-March-2026",
-    "source": "@btc_archive",
-    "published": "Wed Sep 09 2026 22:08:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Midnight City, with 591 active AI agents and over 3,200 agents in queue, integrates $USDM, Cardano $ADA's fiat-backed stablecoin, says \"the USDM ATM is now live in Midnight City for agents to test on Midnight preview network,\" setting the stage for upcoming agentic trading.",
-    "link": "https://cryptopanic.com/news/33360367/NEW-Midnight-City-with-591-active-AI-agents-and-over-3200-agents-in-queue-integrates-USDM-Cardano-ADAs-fiat-backed-stablecoin-says-the-USDM-ATM-is-now-live-in-Midnight-City-for-agents-to-test-on-Midnight-preview-network-setting-the-stage-for-upcoming-agentic-trading",
-    "source": "@angrycryptoshow",
-    "published": "Wed Sep 09 2026 22:07:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Apple’s first foldable iPhone is finally here, seven years after Samsung started the trend",
-    "link": "https://cryptopanic.com/news/33360269/Apples-first-foldable-iPhone-is-finally-here-seven-years-after-Samsung-started-the-trend",
-    "source": "cryptopolitan.com",
-    "published": "Wed Sep 09 2026 22:05:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Hunter Biden says his crypto memecoin $LAPTOP saw a \"sharp swing\" in price due to \"technical issues…which has since stabilized to healthy levels.\"\n\nThe coin is now down over 95% since launch.",
-    "link": "https://cryptopanic.com/news/33360321/JUST-IN-Hunter-Biden-says-his-crypto-memecoin-LAPTOP-saw-a-sharp-swing-in-price-due-to-technical-issueswhich-has-since-stabilized-to-healthy-levels-The-coin-is-now-down-over-95-since-launch",
-    "source": "@watcherguru",
-    "published": "Wed Sep 09 2026 22:01:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Pyth Pro and 24/7 Indices are now live on $XLM!\n\nThey will be bringing trusted, real time prices from global markets directly onto the @StellarOrg network!\n\nDevelopers can now build financial apps that never close. Once again Stellar is building a market that runs 24/7!",
-    "link": "https://cryptopanic.com/news/33360278/Pyth-Pro-and-247-Indices-are-now-live-on-XLM-They-will-be-bringing-trusted-real-time-prices-from-global-markets-directly-onto-the-StellarOrg-network-Developers-can-now-build-financial-apps-that-never-close-Once-again-Stellar-is-building-a-market-that-runs-247",
-    "source": "@realallincrypto",
-    "published": "Wed Sep 09 2026 22:00:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "We are LIVE!!!",
-    "link": "https://cryptopanic.com/news/33360322/We-are-LIVE",
-    "source": "@cultivatecrypto",
-    "published": "Wed Sep 09 2026 22:00:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why FORM crypto faces THESE risks despite 14% weekly gains",
-    "link": "https://cryptopanic.com/news/33360216/Why-FORM-crypto-faces-THESE-risks-despite-14-weekly-gains",
-    "source": "ambcrypto.com",
-    "published": "Wed Sep 09 2026 22:00:28 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
