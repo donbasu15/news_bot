@@ -1,5 +1,68 @@
 [
   {
+    "title": "JUST IN: Spot Bitcoin ETFs sold $166M over two days. \n\nHesitation at $80k or full trend reversal?",
+    "link": "https://cryptopanic.com/news/33363534/JUST-IN-Spot-Bitcoin-ETFs-sold-166M-over-two-days-Hesitation-at-80k-or-full-trend-reversal",
+    "source": "@btc_archive",
+    "published": "Thu Sep 10 2026 10:37:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Coinbase CEO Brian Armstrong says bitcoin has bottomed for current cycle, expects uptrend over next two years",
+    "link": "https://cryptopanic.com/news/33363413/Coinbase-CEO-Brian-Armstrong-says-bitcoin-has-bottomed-for-current-cycle-expects-uptrend-over-next-two-years",
+    "source": "theblock.co",
+    "published": "Thu Sep 10 2026 10:31:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "FOMO HOUR ft @Tyler_Did_It and @farokh",
+    "link": "https://cryptopanic.com/news/33363411/FOMO-HOUR-ft-Tyler_Did_It-and-farokh",
+    "source": "@decryptmedia",
+    "published": "Thu Sep 10 2026 10:25:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Would @vladtenev ever launch a HOOD stock meme?",
+    "link": "https://cryptopanic.com/news/33363412/Would-vladtenev-ever-launch-a-HOOD-stock-meme",
+    "source": "@decryptmedia",
+    "published": "Thu Sep 10 2026 10:25:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Strategy says 91% of its balance sheet is funded by permanent capital vs. JPMorgan's 48% funded by withdrawable deposits, arguing \"MSTR inverts TradFi.\"",
+    "link": "https://cryptopanic.com/news/33363540/LATEST-Strategy-says-91-of-its-balance-sheet-is-funded-by-permanent-capital-vs-JPMorgans-48-funded-by-withdrawable-deposits-arguing-MSTR-inverts-TradFi",
+    "source": "@coinmarketcap",
+    "published": "Thu Sep 10 2026 10:25:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Near Protocol (NEAR) Golden Cross is Coming: But Will Spinnig Top Limit It?",
+    "link": "https://cryptopanic.com/news/33363444/Near-Protocol-NEAR-Golden-Cross-is-Coming-But-Will-Spinnig-Top-Limit-It",
+    "source": "u.today",
+    "published": "Thu Sep 10 2026 10:24:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Important Ripple News and XRP Price Update: September 10",
+    "link": "https://cryptopanic.com/news/33363372/Important-Ripple-News-and-XRP-Price-Update-September-10",
+    "source": "cryptopotato.com",
+    "published": "Thu Sep 10 2026 10:18:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "New Jersey Resident Caught at New York Airport, Accused of Orchestrating $250,000,000 Gold Theft Ring",
+    "link": "https://cryptopanic.com/news/33363415/New-Jersey-Resident-Caught-at-New-York-Airport-Accused-of-Orchestrating-250000000-Gold-Theft-Ring",
+    "source": "dailyhodl.com",
+    "published": "Thu Sep 10 2026 10:15:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto Mastermind Used 'Anne Hathaway' Alias in $245 Million Heist — Now He's Pleading Guilty",
+    "link": "https://cryptopanic.com/news/33363382/Crypto-Mastermind-Used-Anne-Hathaway-Alias-in-245-Million-Heist-Now-Hes-Pleading-Guilty",
+    "source": "feeds2.benzinga.com",
+    "published": "Thu Sep 10 2026 10:12:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Vitalik Buterin Pushes Ethereum Plan to Slash Quantum-Safe Privacy Costs",
     "link": "https://cryptopanic.com/news/33363307/Vitalik-Buterin-Pushes-Ethereum-Plan-to-Slash-Quantum-Safe-Privacy-Costs",
     "source": "decrypt.co",
@@ -35,6 +98,27 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Three CMC AI endpoints, one API integration:\n\n /v5/cmc-ai/latest, the market feed, refreshed every 30 minutes\n /v5/cmc-ai/coins/latest, insights for the top 100 coins\n /v5/cmc-ai/coins/map, coverage at a glance\n\n Live on Enterprise, all plans next\n\n️ Build with CMC",
+    "link": "https://cryptopanic.com/news/33363539/Three-CMC-AI-endpoints-one-API-integration-v5cmc-ailatest-the-market-feed-refreshed-every-30-minutes-v5cmc-aicoinslatest-insights-for-the-top-100-coins-v5cmc-aicoinsmap-coverage-at-a-glance-Live-on-Enterprise-all-plans-next-Build-with-CMC",
+    "source": "@coinmarketcap",
+    "published": "Thu Sep 10 2026 10:01:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Every CMC AI API answer comes back as structured JSON:\n\n A short TLDR and a full body, in markdown\n The source URLs behind it, with a true count\n A stable question key, so your labels never break\n\n No model to run. No news pipeline to maintain\n\n2/3",
+    "link": "https://cryptopanic.com/news/33363538/Every-CMC-AI-API-answer-comes-back-as-structured-JSON-A-short-TLDR-and-a-full-body-in-markdown-The-source-URLs-behind-it-with-a-true-count-A-stable-question-key-so-your-labels-never-break-No-model-to-run-No-news-pipeline-to-maintain-23",
+    "source": "@coinmarketcap",
+    "published": "Thu Sep 10 2026 10:01:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🤖 CMC AI answers questions across CoinMarketCap's homepage and every Coin Detail Page\n\n Why is Bitcoin's price up today?\n What are the trending narratives?\n What are KOLs discussing right now?\n\n Now these AI-powered insights are on CoinMarketCap’s industry leading API",
+    "link": "https://cryptopanic.com/news/33363537/CMC-AI-answers-questions-across-CoinMarketCaps-homepage-and-every-Coin-Detail-Page-Why-is-Bitcoins-price-up-today-What-are-the-trending-narratives-What-are-KOLs-discussing-right-now-Now-these-AI-powered-insights-are-on-CoinMarketCaps-industry-leading-API",
+    "source": "@coinmarketcap",
+    "published": "Thu Sep 10 2026 10:01:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "WORLD LAUNCHES ON $LINK AS CHAINLINK IS BECOMING THE KING OF PREDICTION MARKETS.\n\nWorld just launched its official prediction market platform on $SOL for it's 1M+ waitlisted users, powered by @chainlink.\n\nLiterally every major prediction market is using $LINK as it's oracle.",
     "link": "https://cryptopanic.com/news/33363308/WORLD-LAUNCHES-ON-LINK-AS-CHAINLINK-IS-BECOMING-THE-KING-OF-PREDICTION-MARKETS-World-just-launched-its-official-prediction-market-platform-on-SOL-for-its-1M-waitlisted-users-powered-by-chainlink-Literally-every-major-prediction-market-is-using-LINK-as-its-oracle",
     "source": "@realallincrypto",
@@ -49,10 +133,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Why Can't Bitcoin Hold $80,000 When Sellers Have Given Up?",
+    "link": "https://cryptopanic.com/news/33363403/Why-Cant-Bitcoin-Hold-80000-When-Sellers-Have-Given-Up",
+    "source": "beincrypto.com",
+    "published": "Thu Sep 10 2026 09:57:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST:  Fast food chain Steak 'n Shake says accepting Bitcoin payments has helped see its franchise-partner same-store sales grow 19% this quarter.",
     "link": "https://cryptopanic.com/news/33363230/LATEST-Fast-food-chain-Steak-n-Shake-says-accepting-Bitcoin-payments-has-helped-see-its-franchise-partner-same-store-sales-grow-19-this-quarter",
     "source": "@coinmarketcap",
     "published": "Thu Sep 10 2026 09:53:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Mysterious whale 0x6436 bought another 308,569 $HYPE($26M) today.\n\nThe whale has now bought a total of 4.05M $HYPE($322M) and staked it all.",
+    "link": "https://cryptopanic.com/news/33363414/Mysterious-whale-0x6436-bought-another-308569-HYPE26M-today-The-whale-has-now-bought-a-total-of-405M-HYPE322M-and-staked-it-all",
+    "source": "@lookonchain",
+    "published": "Thu Sep 10 2026 09:51:21 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -77,6 +175,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Indian agri warehouse giant is putting $2 billion in grain-backed loans onchain",
+    "link": "https://cryptopanic.com/news/33363388/Indian-agri-warehouse-giant-is-putting-2-billion-in-grain-backed-loans-onchain",
+    "source": "coindesk.com",
+    "published": "Thu Sep 10 2026 09:42:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "MARKETS: @CharlesSchwab's family of funds discloses $4.8M in $XRP ETF shares as collateral, spread across @Grayscale, @Canaryfunds and @FranklnTempletn $XRP ETFs, per an SEC filing.",
     "link": "https://cryptopanic.com/news/33363304/MARKETS-CharlesSchwabs-family-of-funds-discloses-48M-in-XRP-ETF-shares-as-collateral-spread-across-Grayscale-Canaryfunds-and-FranklnTempletn-XRP-ETFs-per-an-SEC-filing",
     "source": "@coindesk",
@@ -98,115 +203,10 @@
     "sentiment": "neutral"
   },
   {
-    "title": "No token fatigue: Solana marks all-time record with 263K tokens launched in a day",
-    "link": "https://cryptopanic.com/news/33363131/No-token-fatigue-Solana-marks-all-time-record-with-263K-tokens-launched-in-a-day",
-    "source": "cryptopolitan.com",
-    "published": "Thu Sep 10 2026 09:36:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "President Trump Says US-Iran War Will Likely End Immediately After November Midterms",
-    "link": "https://cryptopanic.com/news/33363161/President-Trump-Says-US-Iran-War-Will-Likely-End-Immediately-After-November-Midterms",
-    "source": "dailyhodl.com",
-    "published": "Thu Sep 10 2026 09:35:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Unicoin Sues Uniswap Just Weeks Before its Token Launch\n\nUnicoin has sued Uniswap Labs (@Uniswap) in New York, escalating a dispute over the UNICOIN name.\n\nThe company says its mark does not infringe Uniswap’s UNI, UNISWAP, or UNICHAIN trademarks.\n\nThe dispute began after Uniswap",
-    "link": "https://cryptopanic.com/news/33363074/Unicoin-Sues-Uniswap-Just-Weeks-Before-its-Token-Launch-Unicoin-has-sued-Uniswap-Labs-Uniswap-in-New-York-escalating-a-dispute-over-the-UNICOIN-name-The-company-says-its-mark-does-not-infringe-Uniswaps-UNI-UNISWAP-or-UNICHAIN-trademarks-The-dispute-began-after-Uniswap",
-    "source": "@bscnews",
-    "published": "Thu Sep 10 2026 09:29:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Coinbase CEO Makes Monster Bitcoin Call: $400,000 By 2030",
-    "link": "https://cryptopanic.com/news/33363142/Coinbase-CEO-Makes-Monster-Bitcoin-Call-400000-By-2030",
-    "source": "feeds2.benzinga.com",
-    "published": "Thu Sep 10 2026 09:21:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stock Market Today: Dow Jones, S&P 500 Futures Gain as Trump Promises $5,000 Dividend After Midterm Elections— AVAV, AEO, COO, ORCL in Focus",
-    "link": "https://cryptopanic.com/news/33363105/Stock-Market-Today-Dow-Jones-SP-500-Futures-Gain-as-Trump-Promises-5000-Dividend-After-Midterm-Elections-AVAV-AEO-COO-ORCL-in-Focus",
-    "source": "feeds2.benzinga.com",
-    "published": "Thu Sep 10 2026 09:20:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NVDA Earnings = AI Market ka FINAL EXAM \n\nNvidia ka result sirf $NVDA ko nahi, poore AI stack ko move karta hai:\n\n Compute → Memory → Optics → Fab → Cloud → Power\n\nAur jab Wall Street band hota hai, Binance 24/7 open rehta hai. \n\n Perps & bStocks ke through",
-    "link": "https://cryptopanic.com/news/33363178/NVDA-Earnings-AI-Market-ka-FINAL-EXAM-Nvidia-ka-result-sirf-NVDA-ko-nahi-poore-AI-stack-ko-move-karta-hai-Compute-Memory-Optics-Fab-Cloud-Power-Aur-jab-Wall-Street-band-hota-hai-Binance-247-open-rehta-hai-Perps-amp-bStocks-ke-through",
-    "source": "@cryptokingkeyur",
-    "published": "Thu Sep 10 2026 09:19:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "This Is Going To Shock You Bitcoin & Crypto Are About To Decimate Other Assets And No One Is Ready",
-    "link": "https://cryptopanic.com/news/33363059/This-Is-Going-To-Shock-You-Bitcoin-Crypto-Are-About-To-Decimate-Other-Assets-And-No-One-Is-Ready",
-    "source": "TheModernInvestor",
-    "published": "Thu Sep 10 2026 09:18:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Cosmos launched a Partner Network of 17 firms, including BitGo and Galaxy Digital, to help banks and financial institutions roll out tokenized deposits and digital asset products.",
-    "link": "https://cryptopanic.com/news/33363229/LATEST-Cosmos-launched-a-Partner-Network-of-17-firms-including-BitGo-and-Galaxy-Digital-to-help-banks-and-financial-institutions-roll-out-tokenized-deposits-and-digital-asset-products",
-    "source": "@coinmarketcap",
-    "published": "Thu Sep 10 2026 09:17:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$1,500,000 Drained From Minnesota Banks and Credit Unions in Six-Person Fraud Scheme: DOJ",
-    "link": "https://cryptopanic.com/news/33363068/1500000-Drained-From-Minnesota-Banks-and-Credit-Unions-in-Six-Person-Fraud-Scheme-DOJ",
-    "source": "dailyhodl.com",
-    "published": "Thu Sep 10 2026 09:15:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Apple Stock Climbs as Investors Digest New iPhone Lineup",
-    "link": "https://cryptopanic.com/news/33362983/Apple-Stock-Climbs-as-Investors-Digest-New-iPhone-Lineup",
-    "source": "coinpaper.com",
-    "published": "Thu Sep 10 2026 09:13:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump’s $5K Proposal Could Ignite an ‘Insane’ Altcoin Season: Analyst",
-    "link": "https://cryptopanic.com/news/33362988/Trumps-5K-Proposal-Could-Ignite-an-Insane-Altcoin-Season-Analyst",
-    "source": "cryptopotato.com",
-    "published": "Thu Sep 10 2026 09:11:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Former Ripple Engineer Warns AI Could Kill Humanity Within The Next Decade\n\nAnthropic alignment researcher and former Ripple engineer, Evan Hubinger, estimates over a 10% chance AI could kill humanity within a decade.\n\nHis warning came after researcher Jacob Coxon resigned over",
-    "link": "https://cryptopanic.com/news/33363073/Former-Ripple-Engineer-Warns-AI-Could-Kill-Humanity-Within-The-Next-Decade-Anthropic-alignment-researcher-and-former-Ripple-engineer-Evan-Hubinger-estimates-over-a-10-chance-AI-could-kill-humanity-within-a-decade-His-warning-came-after-researcher-Jacob-Coxon-resigned-over",
-    "source": "@bscnews",
-    "published": "Thu Sep 10 2026 09:08:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Ledger Targets 2028 Quantum Readiness, Outpaces Ethereum",
-    "link": "https://cryptopanic.com/news/33362994/XRP-Ledger-Targets-2028-Quantum-Readiness-Outpaces-Ethereum",
-    "source": "u.today",
-    "published": "Thu Sep 10 2026 09:03:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto Markets Slide as Bitcoin ETF Outflows Hit $166 Million",
-    "link": "https://cryptopanic.com/news/33363202/Crypto-Markets-Slide-as-Bitcoin-ETF-Outflows-Hit-166-Million",
-    "source": "cryptodnes.bg",
-    "published": "Thu Sep 10 2026 09:02:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INSIGHT: Bitcoin’s key level is $72,000–$73,000, per CryptoQuant. \n\nHolding above it could signal institutional reaccumulation, while a breakdown would weaken the trend.",
-    "link": "https://cryptopanic.com/news/33363071/INSIGHT-Bitcoins-key-level-is-7200073000-per-CryptoQuant-Holding-above-it-could-signal-institutional-reaccumulation-while-a-breakdown-would-weaken-the-trend",
-    "source": "@cointelegraph",
-    "published": "Thu Sep 10 2026 09:00:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "PRESIDENT TRUMP PLEDGES A $5K “TRUMP DIVIDEND” TO EVERY US ADULT IF REPUBLICANS WIN THE HOUSE & SENATE.\n\nA pretty crazy promise from the “crypto president” which would potentially cost over $1 TRILLION.\n\nThe big question is could he actually deliver this, & is that technically",
-    "link": "https://cryptopanic.com/news/33363072/PRESIDENT-TRUMP-PLEDGES-A-5K-TRUMP-DIVIDEND-TO-EVERY-US-ADULT-IF-REPUBLICANS-WIN-THE-HOUSE-amp-SENATE-A-pretty-crazy-promise-from-the-crypto-president-which-would-potentially-cost-over-1-TRILLION-The-big-question-is-could-he-actually-deliver-this-amp-is-that-technically",
-    "source": "@realallincrypto",
-    "published": "Thu Sep 10 2026 09:00:08 GMT+0000 (Coordinated Universal Time)",
+    "title": "Why Is Nintendo Stock Falling After Zelda? Look at What Wasn't Announced",
+    "link": "https://cryptopanic.com/news/33363402/Why-Is-Nintendo-Stock-Falling-After-Zelda-Look-at-What-Wasnt-Announced",
+    "source": "beincrypto.com",
+    "published": "Thu Sep 10 2026 09:37:38 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
