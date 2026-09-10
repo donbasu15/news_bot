@@ -1,9 +1,58 @@
 [
   {
+    "title": "INTEL: Trump says the $5,000 payment to Americans does not need Congressional approval.",
+    "link": "https://cryptopanic.com/news/33367322/INTEL-Trump-says-the-5000-payment-to-Americans-does-not-need-Congressional-approval",
+    "source": "@solidintel_x",
+    "published": "Thu Sep 10 2026 21:26:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Prediction markets land on ESMA radar over insider trading, authorization questions",
+    "link": "https://cryptopanic.com/news/33367237/Prediction-markets-land-on-ESMA-radar-over-insider-trading-authorization-questions",
+    "source": "cryptopolitan.com",
+    "published": "Thu Sep 10 2026 21:19:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Clean layout with staking, APY, and cumulative burn on the front page; currently, 68.91% of the supply is staked at 2.4681%.",
+    "link": "https://cryptopanic.com/news/33367253/Clean-layout-with-staking-APY-and-cumulative-burn-on-the-front-page-currently-6891-of-the-supply-is-staked-at-24681",
+    "source": "@bscnews",
+    "published": "Thu Sep 10 2026 21:18:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Senate Republicans Release Revised Clarity Act Ahead of September 15 Vote",
+    "link": "https://cryptopanic.com/news/33367236/Senate-Republicans-Release-Revised-Clarity-Act-Ahead-of-September-15-Vote",
+    "source": "decrypt.co",
+    "published": "Thu Sep 10 2026 21:18:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin, XRP, Solana, Dogecoin Remain Rangebound: Why Has the Rally Stalled?",
+    "link": "https://cryptopanic.com/news/33367258/Bitcoin-XRP-Solana-Dogecoin-Remain-Rangebound-Why-Has-the-Rally-Stalled",
+    "source": "feeds2.benzinga.com",
+    "published": "Thu Sep 10 2026 21:16:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "DeepSeek's New Model Nearly Matches GPT-6 Astra on Design—at 1.4% of the Cost",
+    "link": "https://cryptopanic.com/news/33367199/DeepSeeks-New-Model-Nearly-Matches-GPT-6-Astra-on-Designat-14-of-the-Cost",
+    "source": "decrypt.co",
+    "published": "Thu Sep 10 2026 21:16:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Cardano Price Now Hinges On This 5-Wave Advance",
     "link": "https://cryptopanic.com/news/33367176/Cardano-Price-Now-Hinges-On-This-5-Wave-Advance",
     "source": "dailycoin.com",
     "published": "Thu Sep 10 2026 21:12:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Bitwise will close its Dogecoin ETF $BWOW, with final NYSE trading set for October 14 and liquidation on October 22.",
+    "link": "https://cryptopanic.com/news/33367249/UPDATE-Bitwise-will-close-its-Dogecoin-ETF-BWOW-with-final-NYSE-trading-set-for-October-14-and-liquidation-on-October-22",
+    "source": "@cointelegraph",
+    "published": "Thu Sep 10 2026 21:10:17 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -28,6 +77,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "JUST IN: 🇺🇸 President Trump says he does not need approval from Congress to issue $5,000 dividend checks to Americans.\n\nCongress normally has sole authority to approve spending.",
+    "link": "https://cryptopanic.com/news/33367327/JUST-IN-President-Trump-says-he-does-not-need-approval-from-Congress-to-issue-5000-dividend-checks-to-Americans-Congress-normally-has-sole-authority-to-approve-spending",
+    "source": "@watcherguru",
+    "published": "Thu Sep 10 2026 21:05:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "10% Chance AI Will Kill Us And Other Good Tech News",
     "link": "https://cryptopanic.com/news/33367170/10-Chance-AI-Will-Kill-Us-And-Other-Good-Tech-News",
     "source": "TheCryptoLark",
@@ -35,10 +91,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "WATCH: $XLM\n\nUS Bank says it chose @StellarOrg because stablecoins only work at scale if they’re safe, trusted and built on reliable infrastructure.\n\nNow they've launched a stablecoin on A PUBLIC NETWORK, making them the 1st bank to ever do so!\n\nHuge validation for $XLM!",
+    "link": "https://cryptopanic.com/news/33367251/WATCH-XLM-US-Bank-says-it-chose-StellarOrg-because-stablecoins-only-work-at-scale-if-theyre-safe-trusted-and-built-on-reliable-infrastructure-Now-theyve-launched-a-stablecoin-on-A-PUBLIC-NETWORK-making-them-the-1st-bank-to-ever-do-so-Huge-validation-for-XLM",
+    "source": "@realallincrypto",
+    "published": "Thu Sep 10 2026 21:00:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Zac Prince on BlockFi, Bitcoin, and GalaxyOne",
     "link": "https://cryptopanic.com/news/33367151/Zac-Prince-on-BlockFi-Bitcoin-and-GalaxyOne",
     "source": "AnthonyPompliano",
     "published": "Thu Sep 10 2026 21:00:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Chainlink VRF sends a random number with a proof that it was not rigged\n\nA blockchain cannot produce randomness on its own. Anything drawn from block data can be steered by whoever builds the block, which is a problem for a lottery, a raffle, or an NFT mint.\n\nVRF returns a value",
+    "link": "https://cryptopanic.com/news/33367252/Chainlink-VRF-sends-a-random-number-with-a-proof-that-it-was-not-rigged-A-blockchain-cannot-produce-randomness-on-its-own-Anything-drawn-from-block-data-can-be-steered-by-whoever-builds-the-block-which-is-a-problem-for-a-lottery-a-raffle-or-an-NFT-mint-VRF-returns-a-value",
+    "source": "@bscnews",
+    "published": "Thu Sep 10 2026 20:56:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -53,6 +123,27 @@
     "link": "https://cryptopanic.com/news/33367187/Senate-Republicans-Release-Updated-CLARITY-Act-Add-CFTC-Registration-Requirement-for-Non-Decentralized-DeFi-Protocols-Crypto-journalist-Eleanor-Terrett-reported-that-Senate-Republicans-have-released-an-updated-version-of-the-CLARITY-Act-reflecting-changes-negotiated-during-the",
     "source": "@wublockchain",
     "published": "Thu Sep 10 2026 20:54:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Former Ripple CTO Makes Surprising XRP Prediction",
+    "link": "https://cryptopanic.com/news/33367290/Former-Ripple-CTO-Makes-Surprising-XRP-Prediction",
+    "source": "beincrypto.com",
+    "published": "Thu Sep 10 2026 20:50:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 JUST IN: Delegates greeted JD Vance with chants of “48,” backing him to become the 48th U.S. president.",
+    "link": "https://cryptopanic.com/news/33367248/JUST-IN-Delegates-greeted-JD-Vance-with-chants-of-48-backing-him-to-become-the-48th-US-president",
+    "source": "@cointelegraph",
+    "published": "Thu Sep 10 2026 20:49:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Warsh to hit the markets with 50bips next week. Calling it now",
+    "link": "https://cryptopanic.com/news/33367250/Warsh-to-hit-the-markets-with-50bips-next-week-Calling-it-now",
+    "source": "@realallincrypto",
+    "published": "Thu Sep 10 2026 20:48:55 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -84,6 +175,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Bitwise Dogecoin ETF Shuts Down With $722,000 Left: Will Rival Funds Follow?",
+    "link": "https://cryptopanic.com/news/33367289/Bitwise-Dogecoin-ETF-Shuts-Down-With-722000-Left-Will-Rival-Funds-Follow",
+    "source": "beincrypto.com",
+    "published": "Thu Sep 10 2026 20:39:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "HIVE brings in enterprise veteran to scale BUZZ HPC's AI cloud business",
     "link": "https://cryptopanic.com/news/33367107/HIVE-brings-in-enterprise-veteran-to-scale-BUZZ-HPCs-AI-cloud-business",
     "source": "thestreet.com",
@@ -109,104 +207,6 @@
     "link": "https://cryptopanic.com/news/33367189/JUST-IN-Cardano-ADA-generated-the-10th-highest-24h-trade-volume-on-Polymarkets-crypto-perpetuals-surpassing-BNB-XRP-Dogecoin-Zcash-and-Monero",
     "source": "@angrycryptoshow",
     "published": "Thu Sep 10 2026 20:34:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: #Cardano $ADA generated over $5.2M in 24h trade volume on Kalshi's crypto perpetuals, ranking 10th, surpassing BNB, Dogecoin, Chainlink, and Sui.",
-    "link": "https://cryptopanic.com/news/33367188/JUST-IN-Cardano-ADA-generated-over-52M-in-24h-trade-volume-on-Kalshis-crypto-perpetuals-ranking-10th-surpassing-BNB-Dogecoin-Chainlink-and-Sui",
-    "source": "@angrycryptoshow",
-    "published": "Thu Sep 10 2026 20:34:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ALERT: Glassnode warns Bitcoin faces heavy long-term holder resistance at $83K–$85K, with a break below $75K potentially opening the door to $60K.",
-    "link": "https://cryptopanic.com/news/33367031/ALERT-Glassnode-warns-Bitcoin-faces-heavy-long-term-holder-resistance-at-83K85K-with-a-break-below-75K-potentially-opening-the-door-to-60K",
-    "source": "@cointelegraph",
-    "published": "Thu Sep 10 2026 20:30:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Carry Trade Explained: How Yen Affects Your Portfolio?",
-    "link": "https://cryptopanic.com/news/33367024/Carry-Trade-Explained-How-Yen-Affects-Your-Portfolio",
-    "source": "SimplyBitcoin",
-    "published": "Thu Sep 10 2026 20:30:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CoinMarketCap | Privacy Tokens \n\nZcash is the largest privacy coin at $20.95B.\n\n It rose 51.17% in the last seven days\n Monero, the second largest, fell 2.79%\n Dash rose 57.28% over the same week\n\nCheck the privacy tokens list here",
-    "link": "https://cryptopanic.com/news/33366968/CoinMarketCap-Privacy-Tokens-Zcash-is-the-largest-privacy-coin-at-2095B-It-rose-5117-in-the-last-seven-days-Monero-the-second-largest-fell-279-Dash-rose-5728-over-the-same-week-Check-the-privacy-tokens-list-here",
-    "source": "@coinmarketcap",
-    "published": "Thu Sep 10 2026 20:30:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ramp Seeks Funding at $60bn Valuation",
-    "link": "https://cryptopanic.com/news/33366957/Ramp-Seeks-Funding-at-60bn-Valuation",
-    "source": "catenaa.com",
-    "published": "Thu Sep 10 2026 20:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Britain has spent nearly $40 million on SpaceX's satellite services for its military, deepening reliance on Elon Musk's company despite European concerns about dependence on US security infrastructure. Cassell Bryan-Low explains",
-    "link": "https://cryptopanic.com/news/33367036/Britain-has-spent-nearly-40-million-on-SpaceXs-satellite-services-for-its-military-deepening-reliance-on-Elon-Musks-company-despite-European-concerns-about-dependence-on-US-security-infrastructure-Cassell-Bryan-Low-explains",
-    "source": "@reutersbiz",
-    "published": "Thu Sep 10 2026 20:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Robinhood Stock Falling on August Figures: Here’s the Reason Why",
-    "link": "https://cryptopanic.com/news/33367032/Robinhood-Stock-Falling-on-August-Figures-Heres-the-Reason-Why",
-    "source": "feeds2.benzinga.com",
-    "published": "Thu Sep 10 2026 20:29:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitwise shuts down Dogecoin ETF less than a year after launch",
-    "link": "https://cryptopanic.com/news/33366962/Bitwise-shuts-down-Dogecoin-ETF-less-than-a-year-after-launch",
-    "source": "theblock.co",
-    "published": "Thu Sep 10 2026 20:28:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Pi Network Sets September 15 Upgrade Target: What Changes",
-    "link": "https://cryptopanic.com/news/33366956/Pi-Network-Sets-September-15-Upgrade-Target-What-Changes",
-    "source": "coindoo.com",
-    "published": "Thu Sep 10 2026 20:28:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Gold is seeing a potential breakdown from the support that has held it up since early August.",
-    "link": "https://cryptopanic.com/news/33366966/Gold-is-seeing-a-potential-breakdown-from-the-support-that-has-held-it-up-since-early-August",
-    "source": "@stackersatoshi",
-    "published": "Thu Sep 10 2026 20:24:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "\"Digital Real Estate is required reading for anyone who owns property and hasn't yet considered how Bitcoin is set to disrupt the real estate market.\" \n\nPreorder Leon Wankum's 'Digital Real Estate' now in the Bitcoin Magazine bookstore",
-    "link": "https://cryptopanic.com/news/33367110/Digital-Real-Estate-is-required-reading-for-anyone-who-owns-property-and-hasnt-yet-considered-how-Bitcoin-is-set-to-disrupt-the-real-estate-market-Preorder-Leon-Wankums-Digital-Real-Estate-now-in-the-Bitcoin-Magazine-bookstore",
-    "source": "@bitcoinmagazine",
-    "published": "Thu Sep 10 2026 20:22:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky",
-    "link": "https://cryptopanic.com/news/33367099/New-Clarity-Act-text-tweaks-DeFi-credit-union-provisions-but-road-ahead-for-bill-remains-murky",
-    "source": "coindesk.com",
-    "published": "Thu Sep 10 2026 20:21:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: White House advisor Patrick Witt calls out banks over the Clarity Act.\n\nStressed that crypto firms also gave up key demands.",
-    "link": "https://cryptopanic.com/news/33366965/JUST-IN-White-House-advisor-Patrick-Witt-calls-out-banks-over-the-Clarity-Act-Stressed-that-crypto-firms-also-gave-up-key-demands",
-    "source": "@btc_archive",
-    "published": "Thu Sep 10 2026 20:17:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Senate Republicans release updated Clarity Act text days before the cloture vote\n\nThe substitute amendment to H.R. 3633 keeps the ethics division and its 2029 sunset, the Blockchain Regulatory Certainty Act, and the section barring interest and yield on payment stablecoins. Title",
-    "link": "https://cryptopanic.com/news/33367041/Senate-Republicans-release-updated-Clarity-Act-text-days-before-the-cloture-vote-The-substitute-amendment-to-HR-3633-keeps-the-ethics-division-and-its-2029-sunset-the-Blockchain-Regulatory-Certainty-Act-and-the-section-barring-interest-and-yield-on-payment-stablecoins-Title",
-    "source": "@bscnews",
-    "published": "Thu Sep 10 2026 20:15:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
