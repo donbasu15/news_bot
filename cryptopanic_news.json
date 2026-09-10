@@ -1,5 +1,33 @@
 [
   {
+    "title": ".@OpheliaBSnyder says most people don’t want to manage their own transactions, and crypto needs traditional institutions on board to reach real scale:\n\n“If you want the flows, if you want the volumes, if you want people to actually participate, you wanna change the world, you",
+    "link": "https://cryptopanic.com/news/33367028/OpheliaBSnyder-says-most-people-dont-want-to-manage-their-own-transactions-and-crypto-needs-traditional-institutions-on-board-to-reach-real-scale-If-you-want-the-flows-if-you-want-the-volumes-if-you-want-people-to-actually-participate-you-wanna-change-the-world-you",
+    "source": "@coindesk",
+    "published": "Thu Sep 10 2026 20:42:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Man declares bankruptcy with 34 cents while hiding millions",
+    "link": "https://cryptopanic.com/news/33367109/Man-declares-bankruptcy-with-34-cents-while-hiding-millions",
+    "source": "thestreet.com",
+    "published": "Thu Sep 10 2026 20:41:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "HIVE brings in enterprise veteran to scale BUZZ HPC's AI cloud business",
+    "link": "https://cryptopanic.com/news/33367107/HIVE-brings-in-enterprise-veteran-to-scale-BUZZ-HPCs-AI-cloud-business",
+    "source": "thestreet.com",
+    "published": "Thu Sep 10 2026 20:36:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "AI Agents Just Slashed the Cost of a Quantum Attack on Bitcoin",
+    "link": "https://cryptopanic.com/news/33367103/AI-Agents-Just-Slashed-the-Cost-of-a-Quantum-Attack-on-Bitcoin",
+    "source": "@decryptmedia",
+    "published": "Thu Sep 10 2026 20:36:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Mesh ships a @Cardano and Bitcoin wallet SDK funded through Catalyst\n\nThe extension gives developers one interface across both chains, with headless wallets, equivalent Bitcoin primitives for addresses and script handling, and transaction and data signing. The code is open source",
     "link": "https://cryptopanic.com/news/33367042/Mesh-ships-a-Cardano-and-Bitcoin-wallet-SDK-funded-through-Catalyst-The-extension-gives-developers-one-interface-across-both-chains-with-headless-wallets-equivalent-Bitcoin-primitives-for-addresses-and-script-handling-and-transaction-and-data-signing-The-code-is-open-source",
     "source": "@bscnews",
@@ -74,6 +102,20 @@
     "link": "https://cryptopanic.com/news/33366966/Gold-is-seeing-a-potential-breakdown-from-the-support-that-has-held-it-up-since-early-August",
     "source": "@stackersatoshi",
     "published": "Thu Sep 10 2026 20:24:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "\"Digital Real Estate is required reading for anyone who owns property and hasn't yet considered how Bitcoin is set to disrupt the real estate market.\" \n\nPreorder Leon Wankum's 'Digital Real Estate' now in the Bitcoin Magazine bookstore",
+    "link": "https://cryptopanic.com/news/33367110/Digital-Real-Estate-is-required-reading-for-anyone-who-owns-property-and-hasnt-yet-considered-how-Bitcoin-is-set-to-disrupt-the-real-estate-market-Preorder-Leon-Wankums-Digital-Real-Estate-now-in-the-Bitcoin-Magazine-bookstore",
+    "source": "@bitcoinmagazine",
+    "published": "Thu Sep 10 2026 20:22:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky",
+    "link": "https://cryptopanic.com/news/33367099/New-Clarity-Act-text-tweaks-DeFi-credit-union-provisions-but-road-ahead-for-bill-remains-murky",
+    "source": "coindesk.com",
+    "published": "Thu Sep 10 2026 20:21:57 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -165,48 +207,6 @@
     "link": "https://cryptopanic.com/news/33366964/BREAKING-Major-banking-associations-urge-Senate-to-tighten-stablecoin-yield-bans-in-the-Clarity-Act-POLITICO",
     "source": "@btc_archive",
     "published": "Thu Sep 10 2026 19:53:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 JUST IN: An updated CLARITY Act featuring new DeFi requirements and a credit union fix has been released ahead of next week’s Senate floor vote.\n\nHuge!",
-    "link": "https://cryptopanic.com/news/33366830/JUST-IN-An-updated-CLARITY-Act-featuring-new-DeFi-requirements-and-a-credit-union-fix-has-been-released-ahead-of-next-weeks-Senate-floor-vote-Huge",
-    "source": "@cointelegraph",
-    "published": "Thu Sep 10 2026 19:51:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why Bitcoin Could Become a Quiet Winner in the AI Economy",
-    "link": "https://cryptopanic.com/news/33366884/Why-Bitcoin-Could-Become-a-Quiet-Winner-in-the-AI-Economy",
-    "source": "feeds2.benzinga.com",
-    "published": "Thu Sep 10 2026 19:51:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump’s $5,000 Midterm Plan Could Be Shockingly Good for Bitcoin",
-    "link": "https://cryptopanic.com/news/33366885/Trumps-5000-Midterm-Plan-Could-Be-Shockingly-Good-for-Bitcoin",
-    "source": "beincrypto.com",
-    "published": "Thu Sep 10 2026 19:48:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: Senate Republicans unveil a revised CLARITY Act days before the floor vote and privately expect it to fail",
-    "link": "https://cryptopanic.com/news/33366900/INTEL-Senate-Republicans-unveil-a-revised-CLARITY-Act-days-before-the-floor-vote-and-privately-expect-it-to-fail",
-    "source": "@solidintel_x",
-    "published": "Thu Sep 10 2026 19:46:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Wyoming Bank Shuts Down Systems, Limits Account Access After Cybersecurity Incident",
-    "link": "https://cryptopanic.com/news/33366838/Wyoming-Bank-Shuts-Down-Systems-Limits-Account-Access-After-Cybersecurity-Incident",
-    "source": "dailyhodl.com",
-    "published": "Thu Sep 10 2026 19:46:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: There appear to be no changes to ethics, stablecoin yield, and blockchain developer protection — Eleanor Terrett @EleanorTerrett",
-    "link": "https://cryptopanic.com/news/33366803/JUST-IN-There-appear-to-be-no-changes-to-ethics-stablecoin-yield-and-blockchain-developer-protection-Eleanor-Terrett-EleanorTerrett",
-    "source": "@btc_archive",
-    "published": "Thu Sep 10 2026 19:45:53 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
