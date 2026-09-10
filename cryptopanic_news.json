@@ -1,9 +1,30 @@
 [
   {
+    "title": "A crypto project paying nearly 1 million people a daily income just had its reserves looted",
+    "link": "https://cryptopanic.com/news/33366330/A-crypto-project-paying-nearly-1-million-people-a-daily-income-just-had-its-reserves-looted",
+    "source": "cryptoslate.com",
+    "published": "Thu Sep 10 2026 17:50:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "IBM and NASA release AI model built on decades of lunar data",
+    "link": "https://cryptopanic.com/news/33366331/IBM-and-NASA-release-AI-model-built-on-decades-of-lunar-data",
+    "source": "cryptopolitan.com",
+    "published": "Thu Sep 10 2026 17:45:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Visa and Mastercard sign on to Ant International's standard for verifying AI agents\n\nUnder the \"Know Your Agent\" framework, an agent cleared by one provider would skip re-registration with the others. @Visa, @Mastercard, and @Ant_Intl already run agent payment protocols",
     "link": "https://cryptopanic.com/news/33366294/Visa-and-Mastercard-sign-on-to-Ant-Internationals-standard-for-verifying-AI-agents-Under-the-Know-Your-Agent-framework-an-agent-cleared-by-one-provider-would-skip-re-registration-with-the-others-Visa-Mastercard-and-Ant_Intl-already-run-agent-payment-protocols",
     "source": "@bscnews",
     "published": "Thu Sep 10 2026 17:40:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "San Francisco billionaire slammed by Gen Z son over surveillance support",
+    "link": "https://cryptopanic.com/news/33366344/San-Francisco-billionaire-slammed-by-Gen-Z-son-over-surveillance-support",
+    "source": "thestreet.com",
+    "published": "Thu Sep 10 2026 17:38:40 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -21,10 +42,10 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Nasdaq Invests in Kraken Parent Payward at $21B Valuation",
-    "link": "https://cryptopanic.com/news/33366311/Nasdaq-Invests-in-Kraken-Parent-Payward-at-21B-Valuation",
-    "source": "cryptodnes.bg",
-    "published": "Thu Sep 10 2026 17:31:01 GMT+0000 (Coordinated Universal Time)",
+    "title": "JUST IN: 🇸🇦 Saudi Arabia oil production falls to lowest level in 36 years.",
+    "link": "https://cryptopanic.com/news/33366343/JUST-IN-Saudi-Arabia-oil-production-falls-to-lowest-level-in-36-years",
+    "source": "@watcherguru",
+    "published": "Thu Sep 10 2026 17:32:18 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -39,6 +60,13 @@
     "link": "https://cryptopanic.com/news/33366208/ANALYSIS-Crypto-projects-have-spent-a-record-638M-on-token-buybacks-this-year-with-Hyperliquid-and-Pumpfun-accounting-for-nearly-90-But-are-they-actually-working-Read-on-for-the-full-analysis",
     "source": "@coinmarketcap",
     "published": "Thu Sep 10 2026 17:20:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: 🇭🇰 Hong Kong Public company Boyaa Interactive buys 115 Bitcoin for its treasury \n\nThis brings their total to 4,316 BTC worth $332.7 million",
+    "link": "https://cryptopanic.com/news/33366342/NEW-Hong-Kong-Public-company-Boyaa-Interactive-buys-115-Bitcoin-for-its-treasury-This-brings-their-total-to-4316-BTC-worth-3327-million",
+    "source": "@bitcoinmagazine",
+    "published": "Thu Sep 10 2026 17:16:33 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33366037/Polkadot-Seeks-to-Create-Its-Own-Dollar-The-Story-so-Far-Polkadot-is-holding-a-referendum-where-DOT-owners-can-decide-whether-the-blockchain-should-issue-its-own-native-stablecoin-Referendum-1944-dotUSD-A-Native-Stablecoin-for-Polkadot-is-live-on-the-OpenGovs-Root",
     "source": "@bscnews",
     "published": "Thu Sep 10 2026 16:58:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nvidia, Palantir Stocks Fall 2% Despite New AI Supply Chain Partnership",
-    "link": "https://cryptopanic.com/news/33366022/Nvidia-Palantir-Stocks-Fall-2-Despite-New-AI-Supply-Chain-Partnership",
-    "source": "coinpaper.com",
-    "published": "Thu Sep 10 2026 16:56:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "US Tech Firms Post Record 24% Profit Margins Amid AI Surge, Outpacing Non-Tech Companies by Wide Margin",
-    "link": "https://cryptopanic.com/news/33366134/US-Tech-Firms-Post-Record-24-Profit-Margins-Amid-AI-Surge-Outpacing-Non-Tech-Companies-by-Wide-Margin",
-    "source": "dailyhodl.com",
-    "published": "Thu Sep 10 2026 16:55:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cosmos ecosystem shifts its USDC standard from Noble to Injective\n\nCircle-issued $USDC minted on the injective-protocol:native chain will route across Cosmos via IBC, with @cosmoshub and @dydx onboard. Skip:Go migration is opening on Friday. dYdX plans to make it the sole trading",
-    "link": "https://cryptopanic.com/news/33366036/Cosmos-ecosystem-shifts-its-USDC-standard-from-Noble-to-Injective-Circle-issued-USDC-minted-on-the-injective-protocolnative-chain-will-route-across-Cosmos-via-IBC-with-cosmoshub-and-dydx-onboard-SkipGo-migration-is-opening-on-Friday-dYdX-plans-to-make-it-the-sole-trading",
-    "source": "@bscnews",
-    "published": "Thu Sep 10 2026 16:52:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Join us tomorrow with @themarketsniper.\n\nHas crypto already bottomed?\nIs the bull market about to accelerate?\nCould $ZEC really reach $2,100?\n\nFrancis Hunt breaks down the charts, the debt crisis, privacy and what could come next.\n\nA must-watch episode.",
-    "link": "https://cryptopanic.com/news/33366033/Join-us-tomorrow-with-themarketsniper-Has-crypto-already-bottomed-Is-the-bull-market-about-to-accelerate-Could-ZEC-really-reach-2100-Francis-Hunt-breaks-down-the-charts-the-debt-crisis-privacy-and-what-could-come-next-A-must-watch-episode",
-    "source": "@realallincrypto",
-    "published": "Thu Sep 10 2026 16:52:21 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
