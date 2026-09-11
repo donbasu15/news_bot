@@ -1,5 +1,12 @@
 [
   {
+    "title": "Cyberattacks on Law Firms Nearly Double as Stolen Documents Hit the Dark Web",
+    "link": "https://cryptopanic.com/news/33373684/Cyberattacks-on-Law-Firms-Nearly-Double-as-Stolen-Documents-Hit-the-Dark-Web",
+    "source": "decrypt.co",
+    "published": "Fri Sep 11 2026 21:45:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Former Alameda CEO Caroline Ellison joins nonprofit charity Manifund",
     "link": "https://cryptopanic.com/news/33373674/Former-Alameda-CEO-Caroline-Ellison-joins-nonprofit-charity-Manifund",
     "source": "theblock.co",
@@ -25,6 +32,13 @@
     "link": "https://cryptopanic.com/news/33373652/UPDATE-The-CME-Group-now-sees-an-865-chance-that-well-see-a-rates-hike-next-week-Is-it-priced-in-yet",
     "source": "@cointelegraph",
     "published": "Fri Sep 11 2026 21:20:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🤖 Ripple has expanded GSmart, its governed AI product for enterprise treasury, adding AI-driven forecasting, liquidity, risk, reconciliation and reporting tools.",
+    "link": "https://cryptopanic.com/news/33373696/LATEST-Ripple-has-expanded-GSmart-its-governed-AI-product-for-enterprise-treasury-adding-AI-driven-forecasting-liquidity-risk-reconciliation-and-reporting-tools",
+    "source": "@coinmarketcap",
+    "published": "Fri Sep 11 2026 21:17:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33373513/Bitcoins-rebound-strengthens-the-case-that-the-crypto-low-is-in-while-Zcash-and-Monero-spotlight-a-privacy-token-rotation-Debt-stress-remains-the-major-tail-risk-What-it-means-for-BTC",
     "source": "@realallincrypto",
     "published": "Fri Sep 11 2026 20:06:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE:  A login flaw in email platform Brevo let an attacker access 138 client accounts, including Trezor, which they used to send a phishing email to Trezor's subscribers.",
-    "link": "https://cryptopanic.com/news/33373469/UPDATE-A-login-flaw-in-email-platform-Brevo-let-an-attacker-access-138-client-accounts-including-Trezor-which-they-used-to-send-a-phishing-email-to-Trezors-subscribers",
-    "source": "@coinmarketcap",
-    "published": "Fri Sep 11 2026 20:05:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Positions are being tested in both directions today with $345M of longs and $411M of shorts liquidated over the past 24 hours.\n\nBe careful with leverage.",
-    "link": "https://cryptopanic.com/news/33373467/Positions-are-being-tested-in-both-directions-today-with-345M-of-longs-and-411M-of-shorts-liquidated-over-the-past-24-hours-Be-careful-with-leverage",
-    "source": "@stackersatoshi",
-    "published": "Fri Sep 11 2026 20:03:21 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
