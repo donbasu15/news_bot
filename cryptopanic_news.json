@@ -1,9 +1,30 @@
 [
   {
+    "title": "A Texas judge ruled that TikTok violated the state's consumer protection law by misleading users about how it filtered content for minors and whether its ‘Restricted Mode’ feature shielded children from inappropriate material. More here",
+    "link": "https://cryptopanic.com/news/33368247/A-Texas-judge-ruled-that-TikTok-violated-the-states-consumer-protection-law-by-misleading-users-about-how-it-filtered-content-for-minors-and-whether-its-Restricted-Mode-feature-shielded-children-from-inappropriate-material-More-here",
+    "source": "@reutersbiz",
+    "published": "Fri Sep 11 2026 02:44:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trader 0x8ADd opened a 4x long on 43,500 $CL ($4.34M) and is now sitting on a $421K unrealized profit.",
+    "link": "https://cryptopanic.com/news/33368272/Trader-0x8ADd-opened-a-4x-long-on-43500-CL-434M-and-is-now-sitting-on-a-421K-unrealized-profit",
+    "source": "@lookonchain",
+    "published": "Fri Sep 11 2026 02:42:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitwise closes Dogecoin ETF, a warning that ETF access isn’t demand",
     "link": "https://cryptopanic.com/news/33368184/Bitwise-closes-Dogecoin-ETF-a-warning-that-ETF-access-isnt-demand",
     "source": "cryptopolitan.com",
     "published": "Fri Sep 11 2026 02:36:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cumberland bought another 2.7M $PONS ($1.55M) 3 hours ago and now holds 11.2M $PONS ($6.76M).",
+    "link": "https://cryptopanic.com/news/33368271/Cumberland-bought-another-27M-PONS-155M-3-hours-ago-and-now-holds-112M-PONS-676M",
+    "source": "@lookonchain",
+    "published": "Fri Sep 11 2026 02:33:16 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -186,27 +207,6 @@
     "link": "https://cryptopanic.com/news/33367921/LATEST-Coinbase-is-partnering-with-Moov-to-bring-stablecoin-payment-acceptance-settlement-and-real-time-funding-to-over-1000-US-community-banks-and-credit-unions",
     "source": "@coinmarketcap",
     "published": "Fri Sep 11 2026 00:39:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CEO admits Trust Wallet is no good for memecoin trading.\n\n@TrustWallet CEO @felix_fan has admitted that the application, while \"solid for crypto\" is not yet ideal for memecoin traders.\n\nHowever, Fan also shared several key feature changes that should change that, including...\n\n-",
-    "link": "https://cryptopanic.com/news/33367828/CEO-admits-Trust-Wallet-is-no-good-for-memecoin-trading-TrustWallet-CEO-felix_fan-has-admitted-that-the-application-while-solid-for-crypto-is-not-yet-ideal-for-memecoin-traders-However-Fan-also-shared-several-key-feature-changes-that-should-change-that-including-",
-    "source": "@bscnews",
-    "published": "Fri Sep 11 2026 00:31:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: Anthropic says it disrupted a suspected Russia-linked cyber espionage campaign and attempts by seven Chinese AI labs to copy Claude.",
-    "link": "https://cryptopanic.com/news/33367823/LATEST-Anthropic-says-it-disrupted-a-suspected-Russia-linked-cyber-espionage-campaign-and-attempts-by-seven-Chinese-AI-labs-to-copy-Claude",
-    "source": "@cointelegraph",
-    "published": "Fri Sep 11 2026 00:30:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Malone Lam’s $245 Million Bitcoin Guilty Plea Exposes Crypto’s Human Security Gap",
-    "link": "https://cryptopanic.com/news/33367781/Malone-Lams-245-Million-Bitcoin-Guilty-Plea-Exposes-Cryptos-Human-Security-Gap",
-    "source": "btcusa.com",
-    "published": "Fri Sep 11 2026 00:11:22 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
