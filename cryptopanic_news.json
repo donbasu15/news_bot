@@ -1,5 +1,12 @@
 [
   {
+    "title": "Solana… This Is Big",
+    "link": "https://cryptopanic.com/news/33376795/Solana-This-Is-Big",
+    "source": "TheCryptoLark",
+    "published": "Sat Sep 12 2026 21:00:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Revolut leak ties Bitcoin wallets to home addresses",
     "link": "https://cryptopanic.com/news/33376776/Revolut-leak-ties-Bitcoin-wallets-to-home-addresses",
     "source": "thestreet.com",
@@ -11,6 +18,13 @@
     "link": "https://cryptopanic.com/news/33376751/HUGE-Reform-UK-just-received-another-36M-crypto-backed-donation-bringing-its-total-from-billionaire-backers-to-72M-in-two-days",
     "source": "@cointelegraph",
     "published": "Sat Sep 12 2026 20:30:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ħ Dario Amodei, CEO of Anthropic, talks about the potential for AI swarms to take down the internet. Hedera is *IMMUNE* to botnet or \"follow-the-leader\" attacks; these send a huge amount of traffic which overwhelms computers, but Hedera is completely leaderless and has no single point of failure. Ħ",
+    "link": "https://cryptopanic.com/news/33376798/Dario-Amodei-CEO-of-Anthropic-talks-about-the-potential-for-AI-swarms-to-take-down-the-internet-Hedera-is-IMMUNE-to-botnet-or-follow-the-leader-attacks-these-send-a-huge-amount-of-traffic-which-overwhelms-computers-but-Hedera-is-completely-leaderless-and-has-no-single-point-of-failure",
+    "source": "r/hedera",
+    "published": "Sat Sep 12 2026 20:19:19 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33376574/HUGE-The-University-of-Nevada-launching-Rewards-on-Avalanche-The-University-Reno-is-launching-Wolf-Pack-fans-Rewards-on-avax-Which-is-another-great-example-of-blockchain-moving-quietly-into-everyday-life-Tickets-merch-fan-rewards-and-sponsor-experiences-all-powered",
     "source": "@realallincrypto",
     "published": "Sat Sep 12 2026 18:00:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Palantir Stock Remains Attractive Despite 50% Surge In Aug",
-    "link": "https://cryptopanic.com/news/33376539/Palantir-Stock-Remains-Attractive-Despite-50-Surge-In-Aug",
-    "source": "catenaa.com",
-    "published": "Sat Sep 12 2026 18:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Algorand L1 had an impressive August...\n\nThe @AlgoFoundation reported sizeable growth across several metrics last month.\n\nIn August, @Algorand saw active wallets grow +30% to some 677,000, while processing an impressive 1.2M post-quantum transactions.\n\nIt also saw a 4.7%",
-    "link": "https://cryptopanic.com/news/33376575/The-Algorand-L1-had-an-impressive-August-The-AlgoFoundation-reported-sizeable-growth-across-several-metrics-last-month-In-August-Algorand-saw-active-wallets-grow-30-to-some-677000-while-processing-an-impressive-12M-post-quantum-transactions-It-also-saw-a-47",
-    "source": "@bscnews",
-    "published": "Sat Sep 12 2026 17:55:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
