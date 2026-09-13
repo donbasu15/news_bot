@@ -1,5 +1,40 @@
 [
   {
+    "title": "🇺🇸 President Trump met with advisers Friday to discuss the CLARITY Act ethics proposal before the September 15 Senate cloture vote that needs 60 votes to proceed, with the outcome of the meeting undisclosed, per Politico.",
+    "link": "https://cryptopanic.com/news/33378622/President-Trump-met-with-advisers-Friday-to-discuss-the-CLARITY-Act-ethics-proposal-before-the-September-15-Senate-cloture-vote-that-needs-60-votes-to-proceed-with-the-outcome-of-the-meeting-undisclosed-per-Politico",
+    "source": "@cryptonwsuk",
+    "published": "Sun Sep 13 2026 12:15:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Strategy Maps Bitcoin Into Equity, Credit, Debt and Digital Money",
+    "link": "https://cryptopanic.com/news/33378616/Strategy-Maps-Bitcoin-Into-Equity-Credit-Debt-and-Digital-Money",
+    "source": "coinpaper.com",
+    "published": "Sun Sep 13 2026 12:13:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Home Sellers Outnumber Buyers by 58% With Listings at Six-Year High",
+    "link": "https://cryptopanic.com/news/33378595/Home-Sellers-Outnumber-Buyers-by-58-With-Listings-at-Six-Year-High",
+    "source": "coinpaper.com",
+    "published": "Sun Sep 13 2026 12:03:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The #1 Crypto Play This Cycle (best altcoins)",
+    "link": "https://cryptopanic.com/news/33378611/The-1-Crypto-Play-This-Cycle-best-altcoins",
+    "source": "TheCryptoLark",
+    "published": "Sun Sep 13 2026 12:00:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "RippleX Calls XRP Collateral a ‘Killer Use Case’ for Institutional Credit",
+    "link": "https://cryptopanic.com/news/33378568/RippleX-Calls-XRP-Collateral-a-Killer-Use-Case-for-Institutional-Credit",
+    "source": "coinpaper.com",
+    "published": "Sun Sep 13 2026 11:54:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Banks Risk 30% of Profits as Ripple Builds One-Stack Tokenization Infrastructure",
     "link": "https://cryptopanic.com/news/33378564/Banks-Risk-30-of-Profits-as-Ripple-Builds-One-Stack-Tokenization-Infrastructure",
     "source": "coinpaper.com",
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33378384/Source",
     "source": "@wublockchain",
     "published": "Sun Sep 13 2026 10:01:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "A Bitcoin Seed Generator Is Using Radioactive Decay for Entropy \n\nAn open-source project called Entropy32 Plus uses radioactive decay as a physical entropy source to generate Bitcoin BIP39 seed phrases. A Geiger counter captures decay events, whose timing is processed through",
-    "link": "https://cryptopanic.com/news/33378383/A-Bitcoin-Seed-Generator-Is-Using-Radioactive-Decay-for-Entropy-An-open-source-project-called-Entropy32-Plus-uses-radioactive-decay-as-a-physical-entropy-source-to-generate-Bitcoin-BIP39-seed-phrases-A-Geiger-counter-captures-decay-events-whose-timing-is-processed-through",
-    "source": "@wublockchain",
-    "published": "Sun Sep 13 2026 10:01:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: Trump met advisers on Friday to discuss CLARITY Act ethics rules as restrictions on family crypto businesses emerge as key sticking point.",
-    "link": "https://cryptopanic.com/news/33378338/INTEL-Trump-met-advisers-on-Friday-to-discuss-CLARITY-Act-ethics-rules-as-restrictions-on-family-crypto-businesses-emerge-as-key-sticking-point",
-    "source": "@solidintel_x",
-    "published": "Sun Sep 13 2026 10:00:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The company behind $XRP is trying to change the world in more ways then 1!\n\nIn 2025 alone, @Ripple committed $25M in RLUSD to expand U.S. economic opportunity, helped deploy $53.6M to small business owners, and supported nearly 12,000 water and sanitation loans.\n\nWhatever your",
-    "link": "https://cryptopanic.com/news/33378283/The-company-behind-XRP-is-trying-to-change-the-world-in-more-ways-then-1-In-2025-alone-Ripple-committed-25M-in-RLUSD-to-expand-US-economic-opportunity-helped-deploy-536M-to-small-business-owners-and-supported-nearly-12000-water-and-sanitation-loans-Whatever-your",
-    "source": "@realallincrypto",
-    "published": "Sun Sep 13 2026 10:00:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Hidden Cost of the American Dream Explained",
-    "link": "https://cryptopanic.com/news/33378317/The-Hidden-Cost-of-the-American-Dream-Explained",
-    "source": "SimplyBitcoin",
-    "published": "Sun Sep 13 2026 10:00:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CRYPTO 101: Do your own research. Always.",
-    "link": "https://cryptopanic.com/news/33378212/CRYPTO-101-Do-your-own-research-Always",
-    "source": "@coinmarketcap",
-    "published": "Sun Sep 13 2026 10:00:02 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
