@@ -1,5 +1,96 @@
 [
   {
+    "title": "Why Is Google Stock Rising After a Volatile Week?",
+    "link": "https://cryptopanic.com/news/33383165/Why-Is-Google-Stock-Rising-After-a-Volatile-Week",
+    "source": "coinpaper.com",
+    "published": "Mon Sep 14 2026 11:33:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CLARITY Act Failure Would Be 'The Worst Outcome,' Bernstein Says",
+    "link": "https://cryptopanic.com/news/33383233/CLARITY-Act-Failure-Would-Be-The-Worst-Outcome-Bernstein-Says",
+    "source": "feeds2.benzinga.com",
+    "published": "Mon Sep 14 2026 11:29:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UAE Selects Avalanche To Power National Digital Identity Infrastructure\n\n@tdrauae & Deca4 join forces with the UAE to incorporate @Avax into their digital identity ecosystem, UAE PASS.\n\nThis technology-driven framework enables the creation of the \"Digital Vault,\" which permits",
+    "link": "https://cryptopanic.com/news/33383245/UAE-Selects-Avalanche-To-Power-National-Digital-Identity-Infrastructure-tdrauae-amp-Deca4-join-forces-with-the-UAE-to-incorporate-Avax-into-their-digital-identity-ecosystem-UAE-PASS-This-technology-driven-framework-enables-the-creation-of-the-Digital-Vault-which-permits",
+    "source": "@bscnews",
+    "published": "Mon Sep 14 2026 11:21:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MACRO: The Bank of Japan is expected to hike rates to 1.25% this week, its highest since 1995, as $BTC holds near $78K despite the Nikkei losing 8.4% in a month.",
+    "link": "https://cryptopanic.com/news/33383237/MACRO-The-Bank-of-Japan-is-expected-to-hike-rates-to-125-this-week-its-highest-since-1995-as-BTC-holds-near-78K-despite-the-Nikkei-losing-84-in-a-month",
+    "source": "@coindesk",
+    "published": "Mon Sep 14 2026 11:20:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇦🇪 JUST IN: The UAE is working to integrate Avalanche into the UAE PASS Digital Vault, serving over 12M users.",
+    "link": "https://cryptopanic.com/news/33383238/JUST-IN-The-UAE-is-working-to-integrate-Avalanche-into-the-UAE-PASS-Digital-Vault-serving-over-12M-users",
+    "source": "@cointelegraph",
+    "published": "Mon Sep 14 2026 11:19:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇺🇸 President Donald Trump dismissed recent calls to slow AI development, saying \"whoever wins AI, wins.\"",
+    "link": "https://cryptopanic.com/news/33383159/LATEST-President-Donald-Trump-dismissed-recent-calls-to-slow-AI-development-saying-whoever-wins-AI-wins",
+    "source": "@coinmarketcap",
+    "published": "Mon Sep 14 2026 11:19:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Solana News: Tokenized-Stock Footprint Passes 800,000 Addresses",
+    "link": "https://cryptopanic.com/news/33383095/Solana-News-Tokenized-Stock-Footprint-Passes-800000-Addresses",
+    "source": "cryptonews.com",
+    "published": "Mon Sep 14 2026 11:18:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Monad's November 24, 2026 unlock releases 16.8 billion MON tokens worth roughly $450 million. Here's what the numbers say about the risk.",
+    "link": "https://cryptopanic.com/news/33383244/Monads-November-24-2026-unlock-releases-168-billion-MON-tokens-worth-roughly-450-million-Heres-what-the-numbers-say-about-the-risk",
+    "source": "@bscnews",
+    "published": "Mon Sep 14 2026 11:18:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Ledger sets record of transactions in a single block; Here’s what it means",
+    "link": "https://cryptopanic.com/news/33383102/XRP-Ledger-sets-record-of-transactions-in-a-single-block-Heres-what-it-means",
+    "source": "finbold.com",
+    "published": "Mon Sep 14 2026 11:17:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ECB's Kazaks sees growing case for more tightening",
+    "link": "https://cryptopanic.com/news/33383241/ECBs-Kazaks-sees-growing-case-for-more-tightening",
+    "source": "@reutersbiz",
+    "published": "Mon Sep 14 2026 11:15:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto market outperforms as call for slower AI development weighs on tech stocks",
+    "link": "https://cryptopanic.com/news/33383234/Crypto-market-outperforms-as-call-for-slower-AI-development-weighs-on-tech-stocks",
+    "source": "coindesk.com",
+    "published": "Mon Sep 14 2026 11:15:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Is artificial intelligence outpacing safety measures for the technology? Deepa Seetharaman explains what's driving the sudden push to 'slow down' AI development",
+    "link": "https://cryptopanic.com/news/33383240/Is-artificial-intelligence-outpacing-safety-measures-for-the-technology-Deepa-Seetharaman-explains-whats-driving-the-sudden-push-to-slow-down-AI-development",
+    "source": "@reutersbiz",
+    "published": "Mon Sep 14 2026 11:15:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Don't miss out on the next generation of perps trading.\n\n@OhayoGlobal might be the first Perps DEX to understand the important of UI and UX.\n\nThrough OHAYO, you can trade leveraged assets like $LINK, $DOT, $DOGE, $SHIB, and countless others, with just the click of a button.",
+    "link": "https://cryptopanic.com/news/33383243/Dont-miss-out-on-the-next-generation-of-perps-trading-OhayoGlobal-might-be-the-first-Perps-DEX-to-understand-the-important-of-UI-and-UX-Through-OHAYO-you-can-trade-leveraged-assets-like-LINK-DOT-DOGE-SHIB-and-countless-others-with-just-the-click-of-a-button",
+    "source": "@bscnews",
+    "published": "Mon Sep 14 2026 11:13:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "India Begins Tokenizing Its $620 Billion Corporate Bond Market",
     "link": "https://cryptopanic.com/news/33383008/India-Begins-Tokenizing-Its-620-Billion-Corporate-Bond-Market",
     "source": "decrypt.co",
@@ -7,10 +98,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "$HYPE FLIPS $ARB IN TVL MOVING UP TO #7!\n\n@HyperliquidX now sits at roughly $1.4B locked, while total TVL across the protocol has climbed to over $6.7B, up 11.6% in 30 days.\n\n$HYPE is no longer just a perp DEX anymore it is steadily turning into one of the most important, used",
+    "link": "https://cryptopanic.com/news/33383242/HYPE-FLIPS-ARB-IN-TVL-MOVING-UP-TO-7-HyperliquidX-now-sits-at-roughly-14B-locked-while-total-TVL-across-the-protocol-has-climbed-to-over-67B-up-116-in-30-days-HYPE-is-no-longer-just-a-perp-DEX-anymore-it-is-steadily-turning-into-one-of-the-most-important-used",
+    "source": "@realallincrypto",
+    "published": "Mon Sep 14 2026 11:00:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Lisk and Zcash Lead today's trending assets\n\nLisk (@Lisk) is in the news today after surging over 8--% in the past 7 days. \n\nThe protocol's $LSK token surge comes as a surprise, given the news that Lisk Chain is winding down. As a result, multiple short positions were liquidated.",
     "link": "https://cryptopanic.com/news/33382999/Lisk-and-Zcash-Lead-todays-trending-assets-Lisk-Lisk-is-in-the-news-today-after-surging-over-8-in-the-past-7-days-The-protocols-LSK-token-surge-comes-as-a-surprise-given-the-news-that-Lisk-Chain-is-winding-down-As-a-result-multiple-short-positions-were-liquidated",
     "source": "@bscnews",
     "published": "Mon Sep 14 2026 11:00:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "China urges more FX hedging as strong yuan hits exporters, sources say",
+    "link": "https://cryptopanic.com/news/33383239/China-urges-more-FX-hedging-as-strong-yuan-hits-exporters-sources-say",
+    "source": "@reutersbiz",
+    "published": "Mon Sep 14 2026 11:00:29 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -32,6 +137,13 @@
     "link": "https://cryptopanic.com/news/33383012/Ripple-on-the-Move-Is-XRP-Ready-for-a-Double-Digit-Pump",
     "source": "cryptopotato.com",
     "published": "Mon Sep 14 2026 10:58:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Australians will be able to switch off social media algorithms under planned legislation, per BBC",
+    "link": "https://cryptopanic.com/news/33383160/JUST-IN-Australians-will-be-able-to-switch-off-social-media-algorithms-under-planned-legislation-per-BBC",
+    "source": "@cryptonwsuk",
+    "published": "Mon Sep 14 2026 10:53:23 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -95,118 +207,6 @@
     "link": "https://cryptopanic.com/news/33382910/LATEST-The-UKs-FCA-Treasury-and-Bank-of-England-are-exploring-whether-to-exempt-tokenized-gold-from-certain-fund-rules-per-the-FT",
     "source": "@cryptonwsuk",
     "published": "Mon Sep 14 2026 10:27:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Worried AI Will Kill Everyone? A Former FTC Commissioner Says Ignore the Doomers",
-    "link": "https://cryptopanic.com/news/33383087/Worried-AI-Will-Kill-Everyone-A-Former-FTC-Commissioner-Says-Ignore-the-Doomers",
-    "source": "beincrypto.com",
-    "published": "Mon Sep 14 2026 10:21:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "How Did Pi Network Build a Huge User Base Before it Had a Fully Open Blockchain?\n\nLaunched in 2019 by Stanford graduates, Pi (@PiCoreTeam) made crypto participation possible through a smartphone app instead of expensive mining hardware.\n\nBut what exactly made its model different?",
-    "link": "https://cryptopanic.com/news/33382998/How-Did-Pi-Network-Build-a-Huge-User-Base-Before-it-Had-a-Fully-Open-Blockchain-Launched-in-2019-by-Stanford-graduates-Pi-PiCoreTeam-made-crypto-participation-possible-through-a-smartphone-app-instead-of-expensive-mining-hardware-But-what-exactly-made-its-model-different",
-    "source": "@bscnews",
-    "published": "Mon Sep 14 2026 10:19:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why is STONK crashing by 26%: Platform competition and an overheated market",
-    "link": "https://cryptopanic.com/news/33382712/Why-is-STONK-crashing-by-26-Platform-competition-and-an-overheated-market",
-    "source": "cryptopolitan.com",
-    "published": "Mon Sep 14 2026 10:19:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "MEXC Reports 21% MoM Growth in New-Token Traders and 31% Increase in Tokenized Stock Trading Volume in August",
-    "link": "https://cryptopanic.com/news/33382672/MEXC-Reports-21-MoM-Growth-in-New-Token-Traders-and-31-Increase-in-Tokenized-Stock-Trading-Volume-in-August",
-    "source": "newsbtc.com",
-    "published": "Mon Sep 14 2026 10:15:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Tiktok developer ByteDance secured a $29.6B loan from 28 banks to support its AI expansion, per Bloomberg.",
-    "link": "https://cryptopanic.com/news/33382657/NEW-Tiktok-developer-ByteDance-secured-a-296B-loan-from-28-banks-to-support-its-AI-expansion-per-Bloomberg",
-    "source": "@cointelegraph",
-    "published": "Mon Sep 14 2026 10:15:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "KuCoin Spotlight Returns With a Gno.land (GNOT) Pre-Listing Subscription, Featuring Pro-Rata Allocation, KCS Holder Benefits and Conditional Buyback Mechanism",
-    "link": "https://cryptopanic.com/news/33382670/KuCoin-Spotlight-Returns-With-a-Gnoland-GNOT-Pre-Listing-Subscription-Featuring-Pro-Rata-Allocation-KCS-Holder-Benefits-and-Conditional-Buyback-Mechanism",
-    "source": "newsbtc.com",
-    "published": "Mon Sep 14 2026 10:13:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Altman, Musk and Amodei Call to Slow AI: Industry Chiefs Pump the Brakes",
-    "link": "https://cryptopanic.com/news/33382651/Altman-Musk-and-Amodei-Call-to-Slow-AI-Industry-Chiefs-Pump-the-Brakes",
-    "source": "spaziocrypto.com",
-    "published": "Mon Sep 14 2026 10:10:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin climbs to $78,000 as crypto sits out the AI selloff",
-    "link": "https://cryptopanic.com/news/33383093/Bitcoin-climbs-to-78000-as-crypto-sits-out-the-AI-selloff",
-    "source": "coindesk.com",
-    "published": "Mon Sep 14 2026 10:09:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bank of Japan Set to Hike to 1.25%, Highest Since 1995. Bitcoin Isn't Flinching Yet",
-    "link": "https://cryptopanic.com/news/33382816/Bank-of-Japan-Set-to-Hike-to-125-Highest-Since-1995-Bitcoin-Isnt-Flinching-Yet",
-    "source": "beincrypto.com",
-    "published": "Mon Sep 14 2026 10:09:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto started outperforming since that Clarity Act update dropped.\n\nDefinitely some capital trying to frontrun a succesful vote outcome.\n\nObviously that will also weigh down on price in case of a negative resolution so keep that in mind.\n\nBut markets in general been having a bad",
-    "link": "https://cryptopanic.com/news/33382665/Crypto-started-outperforming-since-that-Clarity-Act-update-dropped-Definitely-some-capital-trying-to-frontrun-a-succesful-vote-outcome-Obviously-that-will-also-weigh-down-on-price-in-case-of-a-negative-resolution-so-keep-that-in-mind-But-markets-in-general-been-having-a-bad",
-    "source": "@daancrypto",
-    "published": "Mon Sep 14 2026 10:08:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trading expert sets Bitcoin’s price for end of October 2026",
-    "link": "https://cryptopanic.com/news/33382645/Trading-expert-sets-Bitcoins-price-for-end-of-October-2026",
-    "source": "finbold.com",
-    "published": "Mon Sep 14 2026 10:08:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Bittensor’s TAO expanded to Robinhood Chain through Forever Money’s bridge, built on Chainlink CCIP, following its launch on Base last month.",
-    "link": "https://cryptopanic.com/news/33382907/LATEST-Bittensors-TAO-expanded-to-Robinhood-Chain-through-Forever-Moneys-bridge-built-on-Chainlink-CCIP-following-its-launch-on-Base-last-month",
-    "source": "@coinmarketcap",
-    "published": "Mon Sep 14 2026 10:07:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump Agrees to Crypto Ethics Rules Ahead of CLARITY Act Senate Vote",
-    "link": "https://cryptopanic.com/news/33382592/Trump-Agrees-to-Crypto-Ethics-Rules-Ahead-of-CLARITY-Act-Senate-Vote",
-    "source": "dailycoin.com",
-    "published": "Mon Sep 14 2026 10:05:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple Sees a New Role For XRP\n\nInstitutional credit remains largely untapped in onchain finance despite growing interest from financial firms.\n\nRipple product head Jazzi Cooper believes this could become a major use case for ripple:native.\n\nThe XRPL's Lending Protocol enables",
-    "link": "https://cryptopanic.com/news/33382677/Ripple-Sees-a-New-Role-For-XRP-Institutional-credit-remains-largely-untapped-in-onchain-finance-despite-growing-interest-from-financial-firms-Ripple-product-head-Jazzi-Cooper-believes-this-could-become-a-major-use-case-for-ripplenative-The-XRPLs-Lending-Protocol-enables",
-    "source": "@bscnews",
-    "published": "Mon Sep 14 2026 10:02:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Lighter surges 11% as whale scoops up $2M LIT: Is $5 still on the cards?",
-    "link": "https://cryptopanic.com/news/33382572/Lighter-surges-11-as-whale-scoops-up-2M-LIT-Is-5-still-on-the-cards",
-    "source": "ambcrypto.com",
-    "published": "Mon Sep 14 2026 10:00:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Maersk, Hapag-Lloyd to sail more container ships through the Suez Canal",
-    "link": "https://cryptopanic.com/news/33382660/Maersk-Hapag-Lloyd-to-sail-more-container-ships-through-the-Suez-Canal",
-    "source": "@reutersbiz",
-    "published": "Mon Sep 14 2026 10:00:34 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
