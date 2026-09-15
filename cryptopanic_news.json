@@ -1,5 +1,82 @@
 [
   {
+    "title": "TODAY: Former Google DeepMind AI researcher Bilal Chughtai says in an exit post that he believes AI has the potential “to kill us all,” per Bloomberg.",
+    "link": "https://cryptopanic.com/news/33388020/TODAY-Former-Google-DeepMind-AI-researcher-Bilal-Chughtai-says-in-an-exit-post-that-he-believes-AI-has-the-potential-to-kill-us-all-per-Bloomberg",
+    "source": "@cointelegraph",
+    "published": "Tue Sep 15 2026 06:30:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "South Africa Crypto Coalition Challenges Cross-Border Rules",
+    "link": "https://cryptopanic.com/news/33388013/South-Africa-Crypto-Coalition-Challenges-Cross-Border-Rules",
+    "source": "catenaa.com",
+    "published": "Tue Sep 15 2026 06:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Avalanche's (@avax) Snowman consensus confirms transactions in under one second using repeated random sampling. Here's how it works and why it matters.",
+    "link": "https://cryptopanic.com/news/33388026/Avalanches-avax-Snowman-consensus-confirms-transactions-in-under-one-second-using-repeated-random-sampling-Heres-how-it-works-and-why-it-matters",
+    "source": "@bscnews",
+    "published": "Tue Sep 15 2026 06:29:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Ledger Nears a New Payments Update",
+    "link": "https://cryptopanic.com/news/33388015/XRP-Ledger-Nears-a-New-Payments-Update",
+    "source": "coindoo.com",
+    "published": "Tue Sep 15 2026 06:27:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Investors are showing some nervousness over the stock market's AI-led rally after industry leaders called for reining in the pace of development — although some say guardrails could ultimately benefit the AI sector. More here",
+    "link": "https://cryptopanic.com/news/33388021/Investors-are-showing-some-nervousness-over-the-stock-markets-AI-led-rally-after-industry-leaders-called-for-reining-in-the-pace-of-development-although-some-say-guardrails-could-ultimately-benefit-the-AI-sector-More-here",
+    "source": "@reutersbiz",
+    "published": "Tue Sep 15 2026 06:27:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto exchange CoinEx to shut down after 9 years, citing market slump",
+    "link": "https://cryptopanic.com/news/33388006/Crypto-exchange-CoinEx-to-shut-down-after-9-years-citing-market-slump",
+    "source": "theblock.co",
+    "published": "Tue Sep 15 2026 06:22:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Elizabeth Warren Says Trump Is First President to 'Own' a Bank, Calls for an End to 'Crypto Corruption' Amid CLARITY Act Buzz",
+    "link": "https://cryptopanic.com/news/33388069/Elizabeth-Warren-Says-Trump-Is-First-President-to-Own-a-Bank-Calls-for-an-End-to-Crypto-Corruption-Amid-CLARITY-Act-Buzz",
+    "source": "feeds2.benzinga.com",
+    "published": "Tue Sep 15 2026 06:21:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Coinbase to Drop Eight Crypto Trading Pairs",
+    "link": "https://cryptopanic.com/news/33388068/Coinbase-to-Drop-Eight-Crypto-Trading-Pairs",
+    "source": "u.today",
+    "published": "Tue Sep 15 2026 06:21:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Set Another Network Activity Record\n\nEthereum processed 203.9 million transactions during Q2 2026, according to Token Terminal. This represented an increase of 68.4% over Q2 2025.\n\nAverage throughput also reached a record 25.9 transactions per second.\n\nThe network",
+    "link": "https://cryptopanic.com/news/33388025/Ethereum-Set-Another-Network-Activity-Record-Ethereum-processed-2039-million-transactions-during-Q2-2026-according-to-Token-Terminal-This-represented-an-increase-of-684-over-Q2-2025-Average-throughput-also-reached-a-record-259-transactions-per-second-The-network",
+    "source": "@bscnews",
+    "published": "Tue Sep 15 2026 06:10:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP and XLM Explode 8% as the CLARITY Act Nears Crucial Vote",
+    "link": "https://cryptopanic.com/news/33388044/XRP-and-XLM-Explode-8-as-the-CLARITY-Act-Nears-Crucial-Vote",
+    "source": "beincrypto.com",
+    "published": "Tue Sep 15 2026 06:07:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Chip Stocks Sink on AI Slowdown Calls, But Analysts Doubt a Crash Is Near",
+    "link": "https://cryptopanic.com/news/33388043/Chip-Stocks-Sink-on-AI-Slowdown-Calls-But-Analysts-Doubt-a-Crash-Is-Near",
+    "source": "beincrypto.com",
+    "published": "Tue Sep 15 2026 06:05:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Analyzing CC’s price reaction after Canton unlocks $2.09M in new tokens",
     "link": "https://cryptopanic.com/news/33387916/Analyzing-CCs-price-reaction-after-Canton-unlocks-209M-in-new-tokens",
     "source": "ambcrypto.com",
@@ -14,10 +91,31 @@
     "sentiment": "neutral"
   },
   {
+    "title": "NEW: Anthropic has launched Claude for Financial Advisers, plugging its chatbot into investment and wealth-management software from BlackRock, Charles Schwab and Addepar.",
+    "link": "https://cryptopanic.com/news/33388019/NEW-Anthropic-has-launched-Claude-for-Financial-Advisers-plugging-its-chatbot-into-investment-and-wealth-management-software-from-BlackRock-Charles-Schwab-and-Addepar",
+    "source": "@cointelegraph",
+    "published": "Tue Sep 15 2026 06:00:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "XRP Ledger is one vote away from starting its next big payments upgrade",
     "link": "https://cryptopanic.com/news/33387977/XRP-Ledger-is-one-vote-away-from-starting-its-next-big-payments-upgrade",
     "source": "coindesk.com",
     "published": "Tue Sep 15 2026 05:58:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Top 3 Altcoins for the Third Week of September: The Biggest Gainer Has the Weakest Chart",
+    "link": "https://cryptopanic.com/news/33388042/Top-3-Altcoins-for-the-Third-Week-of-September-The-Biggest-Gainer-Has-the-Weakest-Chart",
+    "source": "beincrypto.com",
+    "published": "Tue Sep 15 2026 05:56:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Polygon Expands Payment Options For Onchain Purchases\n\nPolygon (@0xPolygon) has added Stripe (@stripe) as a funding option for one click onchain payments.\n\nCustomers can now use Stripe to pay for purchases through Polygon OMS. The integration supports funding from different",
+    "link": "https://cryptopanic.com/news/33388024/Polygon-Expands-Payment-Options-For-Onchain-Purchases-Polygon-0xPolygon-has-added-Stripe-stripe-as-a-funding-option-for-one-click-onchain-payments-Customers-can-now-use-Stripe-to-pay-for-purchases-through-Polygon-OMS-The-integration-supports-funding-from-different",
+    "source": "@bscnews",
+    "published": "Tue Sep 15 2026 05:51:23 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -109,104 +207,6 @@
     "link": "https://cryptopanic.com/news/33387685/Zoomex-Highlights-Stock-Perpetuals-Amid-Market-Volatility",
     "source": "catenaa.com",
     "published": "Tue Sep 15 2026 05:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Balancer Proposes to Wind Down After Turnaround Plan Fails to Lift Revenue",
-    "link": "https://cryptopanic.com/news/33387887/Balancer-Proposes-to-Wind-Down-After-Turnaround-Plan-Fails-to-Lift-Revenue",
-    "source": "beincrypto.com",
-    "published": "Tue Sep 15 2026 04:58:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CLARITY Act vs. MiCA: Two very different approaches to crypto regulation.\n\nOne starts with who regulates it, while the other focuses on what the asset does.\n\nFrom stablecoins to DeFi, see how the two frameworks compare.",
-    "link": "https://cryptopanic.com/news/33387688/CLARITY-Act-vs-MiCA-Two-very-different-approaches-to-crypto-regulation-One-starts-with-who-regulates-it-while-the-other-focuses-on-what-the-asset-does-From-stablecoins-to-DeFi-see-how-the-two-frameworks-compare",
-    "source": "@bscnews",
-    "published": "Tue Sep 15 2026 04:49:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Cryptocurrency exchange CoinEx to shut down all operations.",
-    "link": "https://cryptopanic.com/news/33387758/JUST-IN-Cryptocurrency-exchange-CoinEx-to-shut-down-all-operations",
-    "source": "@watcherguru",
-    "published": "Tue Sep 15 2026 04:49:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CoinEx to Wind Down Operations by December, Citing Market Downturn and Compliance Costs",
-    "link": "https://cryptopanic.com/news/33387640/CoinEx-to-Wind-Down-Operations-by-December-Citing-Market-Downturn-and-Compliance-Costs",
-    "source": "www.blockhead.co",
-    "published": "Tue Sep 15 2026 04:45:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Hunter Biden asking Elon Musk to unban the LAPTOP token account after the token is down 99.3%!\n\nIf prosecutors ever proved this was knowingly used to mislead investors, should that carry jail time?\n\nOr do you believe Hunter when he says he isn’t a scammer?",
-    "link": "https://cryptopanic.com/news/33387684/NEW-Hunter-Biden-asking-Elon-Musk-to-unban-the-LAPTOP-token-account-after-the-token-is-down-993-If-prosecutors-ever-proved-this-was-knowingly-used-to-mislead-investors-should-that-carry-jail-time-Or-do-you-believe-Hunter-when-he-says-he-isnt-a-scammer",
-    "source": "@realallincrypto",
-    "published": "Tue Sep 15 2026 04:45:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tokenized RWAs top $38 billion as market shifts from listings to utility",
-    "link": "https://cryptopanic.com/news/33387625/Tokenized-RWAs-top-38-billion-as-market-shifts-from-listings-to-utility",
-    "source": "cryptopolitan.com",
-    "published": "Tue Sep 15 2026 04:42:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CoinEx Shuts Down After 9 Years: Users Have Until December 22 to Withdraw Funds",
-    "link": "https://cryptopanic.com/news/33387967/CoinEx-Shuts-Down-After-9-Years-Users-Have-Until-December-22-to-Withdraw-Funds",
-    "source": "coinpedia.org",
-    "published": "Tue Sep 15 2026 04:41:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Oracle Begins New Layoff Round, Stock Falls by Nearly 4%",
-    "link": "https://cryptopanic.com/news/33387618/Oracle-Begins-New-Layoff-Round-Stock-Falls-by-Nearly-4",
-    "source": "coinpaper.com",
-    "published": "Tue Sep 15 2026 04:39:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum, Base developers abandon effort to align account abstraction proposals",
-    "link": "https://cryptopanic.com/news/33387602/Ethereum-Base-developers-abandon-effort-to-align-account-abstraction-proposals",
-    "source": "theblock.co",
-    "published": "Tue Sep 15 2026 04:35:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana transactions just got more than 3 times bigger, giving an edge over Ethereum",
-    "link": "https://cryptopanic.com/news/33387749/Solana-transactions-just-got-more-than-3-times-bigger-giving-an-edge-over-Ethereum",
-    "source": "coindesk.com",
-    "published": "Tue Sep 15 2026 04:34:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "China tightened travel curbs as new exit-and-entry rules took effect, barring citizens deemed a potential threat to national technology security from leaving the country. More here",
-    "link": "https://cryptopanic.com/news/33387683/China-tightened-travel-curbs-as-new-exit-and-entry-rules-took-effect-barring-citizens-deemed-a-potential-threat-to-national-technology-security-from-leaving-the-country-More-here",
-    "source": "@reutersbiz",
-    "published": "Tue Sep 15 2026 04:33:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: Oil executives say the fuel crisis has arrived, with the Saudi pipeline attack stranding 2.5 million barrels a day and diesel hitting a record $6.23 a gallon, per WSJ.",
-    "link": "https://cryptopanic.com/news/33387682/LATEST-Oil-executives-say-the-fuel-crisis-has-arrived-with-the-Saudi-pipeline-attack-stranding-25-million-barrels-a-day-and-diesel-hitting-a-record-623-a-gallon-per-WSJ",
-    "source": "@cointelegraph",
-    "published": "Tue Sep 15 2026 04:30:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "10-Year Yield Crosses 5%: What It Means for Bitcoin and Stocks",
-    "link": "https://cryptopanic.com/news/33387742/10-Year-Yield-Crosses-5-What-It-Means-for-Bitcoin-and-Stocks",
-    "source": "beincrypto.com",
-    "published": "Tue Sep 15 2026 04:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Aptos Targets Greater APT Scarcity With New Supply and Burn Rules\n\nAptos (@Aptos) has approved a major tokenomics overhaul that could make aptos:native scarcer.\n\nThe new rules set a 2.1 billion APT maximum supply.\n\nStaking rewards have been cut nearly in half to 2.6% annually.",
-    "link": "https://cryptopanic.com/news/33387686/Aptos-Targets-Greater-APT-Scarcity-With-New-Supply-and-Burn-Rules-Aptos-Aptos-has-approved-a-major-tokenomics-overhaul-that-could-make-aptosnative-scarcer-The-new-rules-set-a-21-billion-APT-maximum-supply-Staking-rewards-have-been-cut-nearly-in-half-to-26-annually",
-    "source": "@bscnews",
-    "published": "Tue Sep 15 2026 04:28:16 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
