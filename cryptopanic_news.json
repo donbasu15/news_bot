@@ -1,9 +1,44 @@
 [
   {
+    "title": "AI Slowdown Calls Fail to Stop Billion-Dollar Investment Wave",
+    "link": "https://cryptopanic.com/news/33390479/AI-Slowdown-Calls-Fail-to-Stop-Billion-Dollar-Investment-Wave",
+    "source": "spaziocrypto.com",
+    "published": "Tue Sep 15 2026 13:47:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Investor Cathie Wood Sells Crypto Stocks As Prices Rally",
+    "link": "https://cryptopanic.com/news/33390477/Investor-Cathie-Wood-Sells-Crypto-Stocks-As-Prices-Rally",
+    "source": "cryptoprowl.com",
+    "published": "Tue Sep 15 2026 13:47:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "US seizes $61M of Iranian crypto profits allegedly laundered through Binance",
+    "link": "https://cryptopanic.com/news/33390424/US-seizes-61M-of-Iranian-crypto-profits-allegedly-laundered-through-Binance",
+    "source": "protos.com",
+    "published": "Tue Sep 15 2026 13:41:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tokenized Stocks by Bitget Go Live on Arbitrum\n\n@BitgetWallet has now deployed rTokens such as $rAAPL, $rSPCX, and $rGOOGL in the @Arbitrum One ecosystem through @RealityFi_xyz. \n\nThis move will provide on-chain liquidity for tokenized stocks, enabling direct composability across",
+    "link": "https://cryptopanic.com/news/33390534/Tokenized-Stocks-by-Bitget-Go-Live-on-Arbitrum-BitgetWallet-has-now-deployed-rTokens-such-as-rAAPL-rSPCX-and-rGOOGL-in-the-Arbitrum-One-ecosystem-through-RealityFi_xyz-This-move-will-provide-on-chain-liquidity-for-tokenized-stocks-enabling-direct-composability-across",
+    "source": "@bscnews",
+    "published": "Tue Sep 15 2026 13:39:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST:  Solana has more than tripled the maximum size of v1 transactions to 4,096 bytes on mainnet, allowing operations such as ZK proofs to fit in a single transaction.",
     "link": "https://cryptopanic.com/news/33390457/LATEST-Solana-has-more-than-tripled-the-maximum-size-of-v1-transactions-to-4096-bytes-on-mainnet-allowing-operations-such-as-ZK-proofs-to-fit-in-a-single-transaction",
     "source": "@coinmarketcap",
     "published": "Tue Sep 15 2026 13:35:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "“Do you think crypto has bottomed?”\n\n“Yes. Short answer: yes.”\n\nFrancis Hunt believes $BTC has already put in its low and on the chart, he sees one major clue:\n\nThe bears are losing punching power.\n\n@themarketsniper",
+    "link": "https://cryptopanic.com/news/33390533/Do-you-think-crypto-has-bottomed-Yes-Short-answer-yes-Francis-Hunt-believes-BTC-has-already-put-in-its-low-and-on-the-chart-he-sees-one-major-clue-The-bears-are-losing-punching-power-themarketsniper",
+    "source": "@realallincrypto",
+    "published": "Tue Sep 15 2026 13:34:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -52,6 +87,27 @@
     "title": "Robinhood To Offer Share Redemptions And Voting Rights On Tokenized Stocks",
     "link": "https://cryptopanic.com/news/33390334/Robinhood-To-Offer-Share-Redemptions-And-Voting-Rights-On-Tokenized-Stocks",
     "source": "cryptoprowl.com",
+    "published": "Tue Sep 15 2026 13:25:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "2/ Users can deploy preconfigured models, run any model from Hugging Face, launch applications including ComfyUI, Open WebUI, JupyterLab and Open Code, or use Templates for workflows like video generation.\n\nRequests are handled on dedicated nodes, not shared infrastructure.",
+    "link": "https://cryptopanic.com/news/33390530/2-Users-can-deploy-preconfigured-models-run-any-model-from-Hugging-Face-launch-applications-including-ComfyUI-Open-WebUI-JupyterLab-and-Open-Code-or-use-Templates-for-workflows-like-video-generation-Requests-are-handled-on-dedicated-nodes-not-shared-infrastructure",
+    "source": "@cointelegraph",
+    "published": "Tue Sep 15 2026 13:25:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: @oceanprotocol Network has launched Inference, allowing users to deploy AI models and applications as dedicated, HTTP-accessible services on dedicated GPU hardware.\n\nSessions are booked by the hour, with the full cost shown upfront. 🧵",
+    "link": "https://cryptopanic.com/news/33390531/LATEST-oceanprotocol-Network-has-launched-Inference-allowing-users-to-deploy-AI-models-and-applications-as-dedicated-HTTP-accessible-services-on-dedicated-GPU-hardware-Sessions-are-booked-by-the-hour-with-the-full-cost-shown-upfront",
+    "source": "@cointelegraph",
+    "published": "Tue Sep 15 2026 13:25:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "3/H200 GPU access starts at $2.16 per hour, with payments handled onchain through an escrow contract on Base.\n\n@oceanprotocol Network is also offering six hours of complimentary inference on H200s at launch.",
+    "link": "https://cryptopanic.com/news/33390529/3H200-GPU-access-starts-at-216-per-hour-with-payments-handled-onchain-through-an-escrow-contract-on-Base-oceanprotocol-Network-is-also-offering-six-hours-of-complimentary-inference-on-H200s-at-launch",
+    "source": "@cointelegraph",
     "published": "Tue Sep 15 2026 13:25:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -151,62 +207,6 @@
     "link": "https://cryptopanic.com/news/33390179/Cardano-News-Hoskinson-Warns-Criticism-Could-Drive-Builders-Away",
     "source": "cryptonews.com",
     "published": "Tue Sep 15 2026 13:02:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Peru’s Economy Ministry had its official X account hacked and used to promote a fake crypto airdrop to the public.\n\nDozens of scam posts reportedly appeared before the government confirmed the breach.\n\nA pretty wild reminder, even a government account doesn’t automatically mean",
-    "link": "https://cryptopanic.com/news/33390268/Perus-Economy-Ministry-had-its-official-X-account-hacked-and-used-to-promote-a-fake-crypto-airdrop-to-the-public-Dozens-of-scam-posts-reportedly-appeared-before-the-government-confirmed-the-breach-A-pretty-wild-reminder-even-a-government-account-doesnt-automatically-mean",
-    "source": "@realallincrypto",
-    "published": "Tue Sep 15 2026 13:01:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Looking for something specific? Search by event or coin name.\n\nTry it on the calendar",
-    "link": "https://cryptopanic.com/news/33390267/Looking-for-something-specific-Search-by-event-or-coin-name-Try-it-on-the-calendar",
-    "source": "@coinmarketcal",
-    "published": "Tue Sep 15 2026 13:00:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Dogecoin Fully Retraces Friday's 5% Spike: What Is Going On With DOGE?",
-    "link": "https://cryptopanic.com/news/33390284/Dogecoin-Fully-Retraces-Fridays-5-Spike-What-Is-Going-On-With-DOGE",
-    "source": "feeds2.benzinga.com",
-    "published": "Tue Sep 15 2026 13:00:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33390161/Source",
-    "source": "@wublockchain",
-    "published": "Tue Sep 15 2026 13:00:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why an AI Slowdown Could Collapse Under Commercial and US-China Pressure",
-    "link": "https://cryptopanic.com/news/33390176/Why-an-AI-Slowdown-Could-Collapse-Under-Commercial-and-US-China-Pressure",
-    "source": "decrypt.co",
-    "published": "Tue Sep 15 2026 13:00:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Banks Say Stablecoin 'Circuit Breaker' Is No Safeguard as Senate Vote Nears",
-    "link": "https://cryptopanic.com/news/33390165/Banks-Say-Stablecoin-Circuit-Breaker-Is-No-Safeguard-as-Senate-Vote-Nears",
-    "source": "coinpaprika.com",
-    "published": "Tue Sep 15 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Miners Pay to Exit as Average Mining Cost Hits $75.5K per BTC\n\nCoinShares said listed Bitcoin miners fell below cash breakeven in aggregate in Q2 2026, with the weighted average pre-tax cash cost to produce one BTC reaching about $75,500, versus Bitcoin’s quarter-end",
-    "link": "https://cryptopanic.com/news/33390160/Bitcoin-Miners-Pay-to-Exit-as-Average-Mining-Cost-Hits-755K-per-BTC-CoinShares-said-listed-Bitcoin-miners-fell-below-cash-breakeven-in-aggregate-in-Q2-2026-with-the-weighted-average-pre-tax-cash-cost-to-produce-one-BTC-reaching-about-75500-versus-Bitcoins-quarter-end",
-    "source": "@wublockchain",
-    "published": "Tue Sep 15 2026 12:59:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CLARITY Act faces urgent Democratic counterproposal and growing opposition",
-    "link": "https://cryptopanic.com/news/33390253/CLARITY-Act-faces-urgent-Democratic-counterproposal-and-growing-opposition",
-    "source": "thestreet.com",
-    "published": "Tue Sep 15 2026 12:55:19 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
