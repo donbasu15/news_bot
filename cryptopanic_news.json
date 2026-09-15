@@ -1,9 +1,44 @@
 [
   {
+    "title": "Social Score is live on CoinMarketCap.\n\nIt turns scattered crypto chatter into one clear signal.\n\n• Social Sentiment reads the room, tracking mood shifts between bullish and bearish in real time.\n\n• Mindshare tracks the spotlight, showing which projects are dominating the",
+    "link": "https://cryptopanic.com/news/33390158/Social-Score-is-live-on-CoinMarketCap-It-turns-scattered-crypto-chatter-into-one-clear-signal-Social-Sentiment-reads-the-room-tracking-mood-shifts-between-bullish-and-bearish-in-real-time-Mindshare-tracks-the-spotlight-showing-which-projects-are-dominating-the",
+    "source": "@coinmarketcap",
+    "published": "Tue Sep 15 2026 12:49:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇺🇸 Galaxy CEO Mike Novogratz warns that if the CLARITY Act fails to advance today, \"we probably won't get crypto regulation for a long, long time — if ever.\"",
+    "link": "https://cryptopanic.com/news/33390157/LATEST-Galaxy-CEO-Mike-Novogratz-warns-that-if-the-CLARITY-Act-fails-to-advance-today-we-probably-wont-get-crypto-regulation-for-a-long-long-time-if-ever",
+    "source": "@coinmarketcap",
+    "published": "Tue Sep 15 2026 12:43:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BREAKING: Trump administration going \"all out\" to ease Senate Republicans' concerns on Clarity Act — Semafor\n\nGoal is to \"push back\" on banking groups, showing crypto did not cause deposit flight.",
+    "link": "https://cryptopanic.com/news/33390154/BREAKING-Trump-administration-going-all-out-to-ease-Senate-Republicans-concerns-on-Clarity-Act-Semafor-Goal-is-to-push-back-on-banking-groups-showing-crypto-did-not-cause-deposit-flight",
+    "source": "@btc_archive",
+    "published": "Tue Sep 15 2026 12:42:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Barclays raises Michael Saylor's Strategy target price to $160 from $125, maintains BUY.\n\nUpside capped by unrealized Bitcoin losses and modest software business revenue.",
+    "link": "https://cryptopanic.com/news/33390152/JUST-IN-Barclays-raises-Michael-Saylors-Strategy-target-price-to-160-from-125-maintains-BUY-Upside-capped-by-unrealized-Bitcoin-losses-and-modest-software-business-revenue",
+    "source": "@btc_archive",
+    "published": "Tue Sep 15 2026 12:37:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Strategy copycat Satsuma crashed 99%, liquidated treasury",
     "link": "https://cryptopanic.com/news/33390070/Strategy-copycat-Satsuma-crashed-99-liquidated-treasury",
     "source": "protos.com",
     "published": "Tue Sep 15 2026 12:32:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CoinMarketCap | AI Insights · $SOL \n\nSolana outperformed Bitcoin by 9.4% over 30 days.\n\n Solana tripled its maximum transaction size\n On-chain fees climbed 65.8% over 30 days\n Solana ETFs now hold $1.50B in assets\n\nPowered by the CMC Agent Hub.\n\nFull $SOL breakdown on",
+    "link": "https://cryptopanic.com/news/33390156/CoinMarketCap-AI-Insights-SOL-Solana-outperformed-Bitcoin-by-94-over-30-days-Solana-tripled-its-maximum-transaction-size-On-chain-fees-climbed-658-over-30-days-Solana-ETFs-now-hold-150B-in-assets-Powered-by-the-CMC-Agent-Hub-Full-SOL-breakdown-on",
+    "source": "@coinmarketcap",
+    "published": "Tue Sep 15 2026 12:30:17 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -18,6 +53,13 @@
     "link": "https://cryptopanic.com/news/33390006/Arbitrum-Standard-Chartered-Sets-10-Target-for-2030",
     "source": "coindoo.com",
     "published": "Tue Sep 15 2026 12:29:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: U.S. Lower House publishes Digital Asset Tax Certainty Act draft bill to be marked up tomorrow\n\nNo tax on tx fees under $10 (new).\n\nNo deferral on mined Bitcoin (unch.).\n\nBitcoin loans nonrecognition, like stocks (new).\n\nSell-and-rebuy losses: blocked for 30 days (new).",
+    "link": "https://cryptopanic.com/news/33390151/JUST-IN-US-Lower-House-publishes-Digital-Asset-Tax-Certainty-Act-draft-bill-to-be-marked-up-tomorrow-No-tax-on-tx-fees-under-10-new-No-deferral-on-mined-Bitcoin-unch-Bitcoin-loans-nonrecognition-like-stocks-new-Sell-and-rebuy-losses-blocked-for-30-days-new",
+    "source": "@btc_archive",
+    "published": "Tue Sep 15 2026 12:25:09 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -165,48 +207,6 @@
     "link": "https://cryptopanic.com/news/33390092/To-ensure-permanent-economic-innovation-we-must-pass-the-Clarity-Act-now",
     "source": "coindesk.com",
     "published": "Tue Sep 15 2026 12:00:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CoinEx Ends 9-Year Run as Crypto Trading Slump Hits Exchange",
-    "link": "https://cryptopanic.com/news/33389856/CoinEx-Ends-9-Year-Run-as-Crypto-Trading-Slump-Hits-Exchange",
-    "source": "thecoinrepublic.com",
-    "published": "Tue Sep 15 2026 12:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cardano is bringing its architecture to modern business infrastructure\n\n@Cardano_CF is now a member of Mastercard’s Crypto Partner Program, signaling strategic alignment to integrate public blockchain infrastructure into global payment networks.\n\nThrough the program's",
-    "link": "https://cryptopanic.com/news/33390021/Cardano-is-bringing-its-architecture-to-modern-business-infrastructure-Cardano_CF-is-now-a-member-of-Mastercards-Crypto-Partner-Program-signaling-strategic-alignment-to-integrate-public-blockchain-infrastructure-into-global-payment-networks-Through-the-programs",
-    "source": "@bscnews",
-    "published": "Tue Sep 15 2026 12:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BTC USD Analysis: Oil, Fed and Senate Uncertainty Weigh on Bitcoin",
-    "link": "https://cryptopanic.com/news/33389985/BTC-USD-Analysis-Oil-Fed-and-Senate-Uncertainty-Weigh-on-Bitcoin",
-    "source": "99bitcoins.com",
-    "published": "Tue Sep 15 2026 11:58:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INSIGHT: $367B Standard Chartered says Arbitrum’s $ARB could surge 70x to $10 by the end of 2030.",
-    "link": "https://cryptopanic.com/news/33390013/INSIGHT-367B-Standard-Chartered-says-Arbitrums-ARB-could-surge-70x-to-10-by-the-end-of-2030",
-    "source": "@cointelegraph",
-    "published": "Tue Sep 15 2026 11:55:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tyler says hes in Unc mode as ZCAT continues to hold above 100M",
-    "link": "https://cryptopanic.com/news/33389847/Tyler-says-hes-in-Unc-mode-as-ZCAT-continues-to-hold-above-100M",
-    "source": "@decryptmedia",
-    "published": "Tue Sep 15 2026 11:52:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "FOMO HOUR ft @Tyler_Did_It and @farokh\n- \n- \n-",
-    "link": "https://cryptopanic.com/news/33389846/FOMO-HOUR-ft-Tyler_Did_It-and-farokh-",
-    "source": "@decryptmedia",
-    "published": "Tue Sep 15 2026 11:52:49 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
