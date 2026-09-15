@@ -28,6 +28,20 @@
     "sentiment": "neutral"
   },
   {
+    "title": "The #LazarusGroup hackers sold 911 $ETH ($2.28M) at an average price of $2,499 over the past 2 hours.",
+    "link": "https://cryptopanic.com/news/33387898/The-LazarusGroup-hackers-sold-911-ETH-228M-at-an-average-price-of-2499-over-the-past-2-hours",
+    "source": "@lookonchain",
+    "published": "Tue Sep 15 2026 05:17:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ChatGPT Told Musk's DOGE a Museum Heating Grant Was DEI",
+    "link": "https://cryptopanic.com/news/33387888/ChatGPT-Told-Musks-DOGE-a-Museum-Heating-Grant-Was-DEI",
+    "source": "beincrypto.com",
+    "published": "Tue Sep 15 2026 05:15:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "U.S. DOJ seeks $61 million in what it calls Iran's crypto-laundered black market oil sales",
     "link": "https://cryptopanic.com/news/33387822/US-DOJ-seeks-61-million-in-what-it-calls-Irans-crypto-laundered-black-market-oil-sales",
     "source": "coindesk.com",
@@ -60,6 +74,13 @@
     "link": "https://cryptopanic.com/news/33387685/Zoomex-Highlights-Stock-Perpetuals-Amid-Market-Volatility",
     "source": "catenaa.com",
     "published": "Tue Sep 15 2026 05:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Balancer Proposes to Wind Down After Turnaround Plan Fails to Lift Revenue",
+    "link": "https://cryptopanic.com/news/33387887/Balancer-Proposes-to-Wind-Down-After-Turnaround-Plan-Fails-to-Lift-Revenue",
+    "source": "beincrypto.com",
+    "published": "Tue Sep 15 2026 04:58:59 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -186,27 +207,6 @@
     "link": "https://cryptopanic.com/news/33387869/Bank-Groups-Say-CLARITY-Acts-Stablecoin-Circuit-Breaker-Is-Not-a-Safeguard-at-All",
     "source": "coinpedia.org",
     "published": "Tue Sep 15 2026 04:04:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "US DOJ seeks $61 million in crypto proceeds from illicit Iranian oil sales laundered on Binance",
-    "link": "https://cryptopanic.com/news/33387468/US-DOJ-seeks-61-million-in-crypto-proceeds-from-illicit-Iranian-oil-sales-laundered-on-Binance",
-    "source": "theblock.co",
-    "published": "Tue Sep 15 2026 04:01:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto FOMO: Sold Early? Waiting for a Dip That Never Comes!",
-    "link": "https://cryptopanic.com/news/33387534/Crypto-FOMO-Sold-Early-Waiting-for-a-Dip-That-Never-Comes",
-    "source": "TheCryptoLark",
-    "published": "Tue Sep 15 2026 04:00:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Trump-backed World Liberty Financial has put up a governance proposal to reward $WLFI holders who lock their tokens for at least 180 days and vote, targeting an October 1 launch.",
-    "link": "https://cryptopanic.com/news/33387528/UPDATE-Trump-backed-World-Liberty-Financial-has-put-up-a-governance-proposal-to-reward-WLFI-holders-who-lock-their-tokens-for-at-least-180-days-and-vote-targeting-an-October-1-launch",
-    "source": "@cointelegraph",
-    "published": "Tue Sep 15 2026 04:00:14 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
