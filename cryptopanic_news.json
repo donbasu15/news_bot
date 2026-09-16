@@ -1,9 +1,30 @@
 [
   {
+    "title": "LATEST:  US spot Bitcoin ETFs shed $450M on Tuesday, their largest single-day outflow since June, on the same day the CLARITY Act failed its Senate cloture vote.",
+    "link": "https://cryptopanic.com/news/33398354/LATEST-US-spot-Bitcoin-ETFs-shed-450M-on-Tuesday-their-largest-single-day-outflow-since-June-on-the-same-day-the-CLARITY-Act-failed-its-Senate-cloture-vote",
+    "source": "@coinmarketcap",
+    "published": "Wed Sep 16 2026 16:47:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INSIGHT: Midnight $NIGHT has generated over 1.2M transactions on Cardano according to Cardanoscan.",
+    "link": "https://cryptopanic.com/news/33398361/INSIGHT-Midnight-NIGHT-has-generated-over-12M-transactions-on-Cardano-according-to-Cardanoscan",
+    "source": "@angrycryptoshow",
+    "published": "Wed Sep 16 2026 16:44:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Fake World Assets Officially Opens Its V2",
     "link": "https://cryptopanic.com/news/33398344/Fake-World-Assets-Officially-Opens-Its-V2",
     "source": "bankless.com",
     "published": "Wed Sep 16 2026 16:41:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Deutsche Bank plans to launch digital asset custody for European institutional clients \n\nGermany's largest lender will hold bitcoin:native, $ETH and selected stablecoins such as $USDC for clients, managing the private keys itself. Whether it goes live still depends on completing",
+    "link": "https://cryptopanic.com/news/33398414/Deutsche-Bank-plans-to-launch-digital-asset-custody-for-European-institutional-clients-Germanys-largest-lender-will-hold-bitcoinnative-ETH-and-selected-stablecoins-such-as-USDC-for-clients-managing-the-private-keys-itself-Whether-it-goes-live-still-depends-on-completing",
+    "source": "@bscnews",
+    "published": "Wed Sep 16 2026 16:40:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -18,6 +39,13 @@
     "link": "https://cryptopanic.com/news/33398362/NEW-US-House-committee-advances-crypto-tax-bill",
     "source": "@cryptonwsuk",
     "published": "Wed Sep 16 2026 16:36:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ondo, Aave, and Arc Feature in the Week RWAs Became Market Infrastructure\n\nA typical \"RWA week\" is a recurring tale. Yet another tokenized T-bill, another TVL screenshot, or a press release proclaiming that institutional involvement is on the horizon.\n\nBut that is different this",
+    "link": "https://cryptopanic.com/news/33398413/Ondo-Aave-and-Arc-Feature-in-the-Week-RWAs-Became-Market-Infrastructure-A-typical-RWA-week-is-a-recurring-tale-Yet-another-tokenized-T-bill-another-TVL-screenshot-or-a-press-release-proclaiming-that-institutional-involvement-is-on-the-horizon-But-that-is-different-this",
+    "source": "@bscnews",
+    "published": "Wed Sep 16 2026 16:36:02 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -42,6 +70,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Ondo becomes the first tokenization company on DTCC's Fund/SERV",
+    "link": "https://cryptopanic.com/news/33398380/Ondo-becomes-the-first-tokenization-company-on-DTCCs-FundSERV",
+    "source": "thestreet.com",
+    "published": "Wed Sep 16 2026 16:33:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin Made a Golden Cross—And Could Drop Below $75,000 Next, Analyst Says",
     "link": "https://cryptopanic.com/news/33398352/Bitcoin-Made-a-Golden-CrossAnd-Could-Drop-Below-75000-Next-Analyst-Says",
     "source": "feeds2.benzinga.com",
@@ -53,6 +88,13 @@
     "link": "https://cryptopanic.com/news/33398264/Zuckerberg-Pushes-Back-on-Coordinated-AI-Slowdown-Says-Labs-Can-Act-Alone",
     "source": "decrypt.co",
     "published": "Wed Sep 16 2026 16:31:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "German energy firm SEFE boosts gas storage in bid to secure winter reserves",
+    "link": "https://cryptopanic.com/news/33398409/German-energy-firm-SEFE-boosts-gas-storage-in-bid-to-secure-winter-reserves",
+    "source": "@reutersbiz",
+    "published": "Wed Sep 16 2026 16:30:26 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -70,6 +112,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "ALERT: JPMorgan warns the S&P 500 could swing as much as 2% today depending on the Fed’s rate decision and guidance.",
+    "link": "https://cryptopanic.com/news/33398407/ALERT-JPMorgan-warns-the-SampP-500-could-swing-as-much-as-2-today-depending-on-the-Feds-rate-decision-and-guidance",
+    "source": "@cointelegraph",
+    "published": "Wed Sep 16 2026 16:29:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Russian spies using crypto and Telegram to incite chaos across Europe",
     "link": "https://cryptopanic.com/news/33398240/Russian-spies-using-crypto-and-Telegram-to-incite-chaos-across-Europe",
     "source": "protos.com",
@@ -84,10 +133,31 @@
     "sentiment": "neutral"
   },
   {
+    "title": "The Clarity Act Didn't Get 60 Votes. Now What? [Ft. Adrian Wall] #CHAINREACTION",
+    "link": "https://cryptopanic.com/news/33398406/The-Clarity-Act-Didnt-Get-60-Votes-Now-What-Ft-Adrian-Wall-CHAINREACTION",
+    "source": "@cointelegraph",
+    "published": "Wed Sep 16 2026 16:19:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BabyDoge acquires LimeWire as founders Julian and Paul Zehetmayr hand over control\n\nThe @BabyDoge memecoin ecosystem now owns @limewire, led by Abel Czupor (@AbelCzupor). The Zehetmayr brothers spent the last five years rebuilding the platform. The announcement did not disclose",
+    "link": "https://cryptopanic.com/news/33398412/BabyDoge-acquires-LimeWire-as-founders-Julian-and-Paul-Zehetmayr-hand-over-control-The-BabyDoge-memecoin-ecosystem-now-owns-limewire-led-by-Abel-Czupor-AbelCzupor-The-Zehetmayr-brothers-spent-the-last-five-years-rebuilding-the-platform-The-announcement-did-not-disclose",
+    "source": "@bscnews",
+    "published": "Wed Sep 16 2026 16:19:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Fed Rates, Risk Assets, Digital Infrastructure | BMTV Sep. 17, 2026",
     "link": "https://cryptopanic.com/news/33398224/Fed-Rates-Risk-Assets-Digital-Infrastructure-BMTV-Sep-17-2026",
     "source": "BitcoinMagazine",
     "published": "Wed Sep 16 2026 16:18:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: @RobinhoodApp will soon support @Circle's Arc blockchain, enabling $USDC deposits and withdrawals directly on the network.",
+    "link": "https://cryptopanic.com/news/33398403/NEW-RobinhoodApp-will-soon-support-Circles-Arc-blockchain-enabling-USDC-deposits-and-withdrawals-directly-on-the-network",
+    "source": "@coindesk",
+    "published": "Wed Sep 16 2026 16:17:38 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/33398358/Source",
     "source": "@wublockchain",
     "published": "Wed Sep 16 2026 16:06:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Celsius Sues BitMEX 11 Days Before Exchange Shutdown, Seeking $495 Million\n\nCelsius’ bankruptcy estate sued entities linked to BitMEX in the U.S. Bankruptcy Court for the Southern District of New York on Sept. 12. The complaint alleges fraud, market manipulation and wrongful",
-    "link": "https://cryptopanic.com/news/33398357/Celsius-Sues-BitMEX-11-Days-Before-Exchange-Shutdown-Seeking-495-Million-Celsius-bankruptcy-estate-sued-entities-linked-to-BitMEX-in-the-US-Bankruptcy-Court-for-the-Southern-District-of-New-York-on-Sept-12-The-complaint-alleges-fraud-market-manipulation-and-wrongful",
-    "source": "@wublockchain",
-    "published": "Wed Sep 16 2026 16:06:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Payward to Launch Perpetual Futures via Hyperliquid Protocol",
-    "link": "https://cryptopanic.com/news/33398183/Payward-to-Launch-Perpetual-Futures-via-Hyperliquid-Protocol",
-    "source": "cryptodnes.bg",
-    "published": "Wed Sep 16 2026 16:01:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Solana co-founder Anatoly Yakovenko says he wants Solana to “win in all trading,” including perpetuals.",
-    "link": "https://cryptopanic.com/news/33398156/UPDATE-Solana-co-founder-Anatoly-Yakovenko-says-he-wants-Solana-to-win-in-all-trading-including-perpetuals",
-    "source": "@cointelegraph",
-    "published": "Wed Sep 16 2026 16:01:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stablecoin Activity on Solana Is Accelerating — The Next Phase Could Be Bigger",
-    "link": "https://cryptopanic.com/news/33398051/Stablecoin-Activity-on-Solana-Is-Accelerating-The-Next-Phase-Could-Be-Bigger",
-    "source": "techgaged.com",
-    "published": "Wed Sep 16 2026 16:00:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Arc mainnet goes live – Can USDC’s $74B scale fuel network growth?",
-    "link": "https://cryptopanic.com/news/33398066/Arc-mainnet-goes-live-Can-USDCs-74B-scale-fuel-network-growth",
-    "source": "ambcrypto.com",
-    "published": "Wed Sep 16 2026 16:00:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Under $80K & Comedy as Truth?",
-    "link": "https://cryptopanic.com/news/33398101/Bitcoin-Under-80K-Comedy-as-Truth",
-    "source": "SimplyBitcoin",
-    "published": "Wed Sep 16 2026 16:00:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Fed Hike Priced In? What REALLY Moves Bitcoin Next!",
-    "link": "https://cryptopanic.com/news/33398181/Fed-Hike-Priced-In-What-REALLY-Moves-Bitcoin-Next",
-    "source": "TheCryptoLark",
-    "published": "Wed Sep 16 2026 16:00:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HUGE: Deutsche Bank one of Europe's LARGEST BANKS is taking another major step into crypto!\n\nThe $1.7 TRILLION giant is planning to launch digital-asset custody for institutional and corporate clients across Europe this year.\n\nAgain more evidence digital assets are becoming",
-    "link": "https://cryptopanic.com/news/33398160/HUGE-Deutsche-Bank-one-of-Europes-LARGEST-BANKS-is-taking-another-major-step-into-crypto-The-17-TRILLION-giant-is-planning-to-launch-digital-asset-custody-for-institutional-and-corporate-clients-across-Europe-this-year-Again-more-evidence-digital-assets-are-becoming",
-    "source": "@realallincrypto",
-    "published": "Wed Sep 16 2026 15:58:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ZEC Surges 11% Despite Clarity Mayhem",
-    "link": "https://cryptopanic.com/news/33398182/ZEC-Surges-11-Despite-Clarity-Mayhem",
-    "source": "u.today",
-    "published": "Wed Sep 16 2026 15:57:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "You Won't Believe The TRUTH About the Clarity Act CANCELLATION [FULL BREAKDOWN] | EP 1593",
-    "link": "https://cryptopanic.com/news/33398050/You-Wont-Believe-The-TRUTH-About-the-Clarity-Act-CANCELLATION-FULL-BREAKDOWN-EP-1593",
-    "source": "SimplyBitcoin",
-    "published": "Wed Sep 16 2026 15:53:55 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
