@@ -1,9 +1,44 @@
 [
   {
+    "title": "OpenAI eyes $1.2 trillion valuation in pre-IPO funding talks",
+    "link": "https://cryptopanic.com/news/33394318/OpenAI-eyes-12-trillion-valuation-in-pre-IPO-funding-talks",
+    "source": "cryptopolitan.com",
+    "published": "Wed Sep 16 2026 05:12:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bulgaria tightens crypto tax rules, targets self-custody withdrawals",
+    "link": "https://cryptopanic.com/news/33394256/Bulgaria-tightens-crypto-tax-rules-targets-self-custody-withdrawals",
+    "source": "ambcrypto.com",
+    "published": "Wed Sep 16 2026 05:00:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin, Ether Rise as CPI Leaves Fed Outlook Intact",
+    "link": "https://cryptopanic.com/news/33394238/Bitcoin-Ether-Rise-as-CPI-Leaves-Fed-Outlook-Intact",
+    "source": "catenaa.com",
+    "published": "Wed Sep 16 2026 05:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "This guy has made $361K on $ARGUS on Arc Chain — a 302x return!\n\nHe spent just $1,200 to buy 12.1M $ARGUS, then sold 1.8M $ARGUS for $30.9K and still holds 10.1M $ARGUS ($332K).\n\nWallet:\n0xf950f0da8659c62fb8e0b5462f05f9cacdf56938",
+    "link": "https://cryptopanic.com/news/33394316/This-guy-has-made-361K-on-ARGUS-on-Arc-Chain-a-302x-return-He-spent-just-1200-to-buy-121M-ARGUS-then-sold-18M-ARGUS-for-309K-and-still-holds-101M-ARGUS-332K-Wallet-0xf950f0da8659c62fb8e0b5462f05f9cacdf56938",
+    "source": "@lookonchain",
+    "published": "Wed Sep 16 2026 04:56:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "XRP Ledger Rebuilds Batch After Critical Security Flaw\n\nRippleX has released a rebuilt version of the XRP Ledger's Batch amendment.\n\nThe original implementation was pulled after a signature validation flaw was discovered. The bug could have allowed unauthorized transactions",
     "link": "https://cryptopanic.com/news/33394237/XRP-Ledger-Rebuilds-Batch-After-Critical-Security-Flaw-RippleX-has-released-a-rebuilt-version-of-the-XRP-Ledgers-Batch-amendment-The-original-implementation-was-pulled-after-a-signature-validation-flaw-was-discovered-The-bug-could-have-allowed-unauthorized-transactions",
     "source": "@bscnews",
     "published": "Wed Sep 16 2026 04:47:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Robinhood Employees Charged For Allegedly Using 'Confidential Business Information' to Trade Crypto Futures",
+    "link": "https://cryptopanic.com/news/33394259/Robinhood-Employees-Charged-For-Allegedly-Using-Confidential-Business-Information-to-Trade-Crypto-Futures",
+    "source": "feeds2.benzinga.com",
+    "published": "Wed Sep 16 2026 04:46:52 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -32,6 +67,13 @@
     "link": "https://cryptopanic.com/news/33394178/Solana-nearly-froze-as-a-single-routing-error-took-29-of-the-network-stake-offline",
     "source": "cryptoslate.com",
     "published": "Wed Sep 16 2026 04:40:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "US Poverty Rate Fell to 10.2% in 2025, Before Inflation Turned Hotter",
+    "link": "https://cryptopanic.com/news/33394307/US-Poverty-Rate-Fell-to-102-in-2025-Before-Inflation-Turned-Hotter",
+    "source": "beincrypto.com",
+    "published": "Wed Sep 16 2026 04:33:21 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -67,6 +109,13 @@
     "link": "https://cryptopanic.com/news/33394058/CLARITY-Setback-Puts-US-Crypto-Rules-Under-Regulators-The-Senate-setback-has-shifted-attention-toward-US-financial-regulators-for-potential-crypto-rulemaking-The-CLARITY-Act-sought-to-create-an-overall-framework-for-the-digital-asset-market-Its-failure-leaves-questions-over",
     "source": "@bscnews",
     "published": "Wed Sep 16 2026 04:07:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto longs worth $570 million wiped out as Clarity Act fails",
+    "link": "https://cryptopanic.com/news/33394308/Crypto-longs-worth-570-million-wiped-out-as-Clarity-Act-fails",
+    "source": "coindesk.com",
+    "published": "Wed Sep 16 2026 04:07:27 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -158,55 +207,6 @@
     "link": "https://cryptopanic.com/news/33393901/Exclusive-Malaysias-government-has-asked-Malaysia-Airlines-and-Batik-Air-whether-they-could-absorb-AirAsias-domestic-market-share-as-part-of-what-they-described-as-scenario-planning-while-authorities-monitor-the-financial-health-of-Southeast-Asias-largest-low-cost-airline",
     "source": "@reutersbiz",
     "published": "Wed Sep 16 2026 03:05:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "X Introduces Trading Option to Cashtags, Partnering with IBKR, Coinbase, Kraken, and Others at Launch\n\nX has announced the rollout of the Cashtag Partner Program in the U.S., adding a dedicated \"Trade\" option to Cashtags (ticker symbols for stocks, ETFs, cryptocurrencies, and",
-    "link": "https://cryptopanic.com/news/33393869/X-Introduces-Trading-Option-to-Cashtags-Partnering-with-IBKR-Coinbase-Kraken-and-Others-at-Launch-X-has-announced-the-rollout-of-the-Cashtag-Partner-Program-in-the-US-adding-a-dedicated-Trade-option-to-Cashtags-ticker-symbols-for-stocks-ETFs-cryptocurrencies-and",
-    "source": "@wublockchain",
-    "published": "Wed Sep 16 2026 03:02:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cardano joins Mastercard crypto program – Can ADA turn it into adoption?",
-    "link": "https://cryptopanic.com/news/33393820/Cardano-joins-Mastercard-crypto-program-Can-ADA-turn-it-into-adoption",
-    "source": "ambcrypto.com",
-    "published": "Wed Sep 16 2026 03:00:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ Need to catch up on the news? Here's our top 10 from today:\n\n President Trump has made more trades than every member of Congress combined since returning to office, per Bloomberg.\n\n OpenAI is reportedly in early talks with investors on a new funding round that could value",
-    "link": "https://cryptopanic.com/news/33393899/Need-to-catch-up-on-the-news-Heres-our-top-10-from-today-President-Trump-has-made-more-trades-than-every-member-of-Congress-combined-since-returning-to-office-per-Bloomberg-OpenAI-is-reportedly-in-early-talks-with-investors-on-a-new-funding-round-that-could-value",
-    "source": "@cointelegraph",
-    "published": "Wed Sep 16 2026 03:00:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CLARITY Act Fails Senate Cloture Vote 49-50",
-    "link": "https://cryptopanic.com/news/33393815/CLARITY-Act-Fails-Senate-Cloture-Vote-49-50",
-    "source": "catenaa.com",
-    "published": "Wed Sep 16 2026 03:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "US presses Mexico for tighter North American content rules on AI servers",
-    "link": "https://cryptopanic.com/news/33393808/US-presses-Mexico-for-tighter-North-American-content-rules-on-AI-servers",
-    "source": "cryptopolitan.com",
-    "published": "Wed Sep 16 2026 02:58:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Clarity Act Fails Senate Cloture Vote, Sending Crypto Stocks Sharply Lower",
-    "link": "https://cryptopanic.com/news/33393803/Clarity-Act-Fails-Senate-Cloture-Vote-Sending-Crypto-Stocks-Sharply-Lower",
-    "source": "www.blockhead.co",
-    "published": "Wed Sep 16 2026 02:55:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Whale 0x4553 is rotating from $BTC into $ETH!\n\n12 hours ago, the whale swapped 512 $WBTC ($38.64M) and 354 $cbBTC ($26.73M) for 26,924 $ETH ($64.57M).",
-    "link": "https://cryptopanic.com/news/33393806/Whale-0x4553-is-rotating-from-BTC-into-ETH-12-hours-ago-the-whale-swapped-512-WBTC-3864M-and-354-cbBTC-2673M-for-26924-ETH-6457M",
-    "source": "@lookonchain",
-    "published": "Wed Sep 16 2026 02:52:18 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
