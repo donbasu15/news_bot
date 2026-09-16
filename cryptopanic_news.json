@@ -1,9 +1,100 @@
 [
   {
+    "title": "MARKETS: U.S. spot $BTC ETFs saw $450 million in outflows on Tuesday, the heaviest single day since June 25, after the Senate failed to advance the CLARITY Act.",
+    "link": "https://cryptopanic.com/news/33397294/MARKETS-US-spot-BTC-ETFs-saw-450-million-in-outflows-on-Tuesday-the-heaviest-single-day-since-June-25-after-the-Senate-failed-to-advance-the-CLARITY-Act",
+    "source": "@coindesk",
+    "published": "Wed Sep 16 2026 13:50:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin ETFs See $450 Million In Outflows After Clarity Act Vote",
+    "link": "https://cryptopanic.com/news/33397284/Bitcoin-ETFs-See-450-Million-In-Outflows-After-Clarity-Act-Vote",
+    "source": "cryptoprowl.com",
+    "published": "Wed Sep 16 2026 13:50:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "South Korea's SK Hynix is in talks with Intel about a deal that would see it manufacture memory chips on US soil for the first time, three people familiar with the discussions said",
+    "link": "https://cryptopanic.com/news/33397301/South-Koreas-SK-Hynix-is-in-talks-with-Intel-about-a-deal-that-would-see-it-manufacture-memory-chips-on-US-soil-for-the-first-time-three-people-familiar-with-the-discussions-said",
+    "source": "@reutersbiz",
+    "published": "Wed Sep 16 2026 13:50:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Apple Stock Rises as AAPL Develops AI Servers With Its Own Chips",
+    "link": "https://cryptopanic.com/news/33397254/Apple-Stock-Rises-as-AAPL-Develops-AI-Servers-With-Its-Own-Chips",
+    "source": "coinpaper.com",
+    "published": "Wed Sep 16 2026 13:49:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: ️ Meme project BabyDoge acquired 2000s-era file-sharing platform LimeWire, with plans to rebuild it as a \"digital refuge for creators.\"",
+    "link": "https://cryptopanic.com/news/33397238/LATEST-Meme-project-BabyDoge-acquired-2000s-era-file-sharing-platform-LimeWire-with-plans-to-rebuild-it-as-a-digital-refuge-for-creators",
+    "source": "@coinmarketcap",
+    "published": "Wed Sep 16 2026 13:47:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Analyst sets Dogecoin price target as whales accumulate 240 million DOGE in a week",
+    "link": "https://cryptopanic.com/news/33397256/Analyst-sets-Dogecoin-price-target-as-whales-accumulate-240-million-DOGE-in-a-week",
+    "source": "finbold.com",
+    "published": "Wed Sep 16 2026 13:46:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Belgian court rules country's treasury department lacks authority to decide on Russian bank's frozen assets",
+    "link": "https://cryptopanic.com/news/33397300/Belgian-court-rules-countrys-treasury-department-lacks-authority-to-decide-on-Russian-banks-frozen-assets",
+    "source": "@reutersbiz",
+    "published": "Wed Sep 16 2026 13:45:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin, Ethereum and XRP Brace for Fed Decision",
+    "link": "https://cryptopanic.com/news/33397214/Bitcoin-Ethereum-and-XRP-Brace-for-Fed-Decision",
+    "source": "coinpaper.com",
+    "published": "Wed Sep 16 2026 13:45:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto Stocks Plunge As Clarity Act Fails In U.S. Senate",
+    "link": "https://cryptopanic.com/news/33397263/Crypto-Stocks-Plunge-As-Clarity-Act-Fails-In-US-Senate",
+    "source": "cryptoprowl.com",
+    "published": "Wed Sep 16 2026 13:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33397239/Source",
+    "source": "@wublockchain",
+    "published": "Wed Sep 16 2026 13:43:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Circle Launches Arc Mainnet with BlackRock and Visa as Validators, Mints 10 Billion ARC Tokens\n\nCircle has launched the public mainnet of Arc, an open Layer 1 blockchain for financial markets and agentic activity.\n\nMore than 100 applications and 100+ institutions and ecosystem",
+    "link": "https://cryptopanic.com/news/33397240/Circle-Launches-Arc-Mainnet-with-BlackRock-and-Visa-as-Validators-Mints-10-Billion-ARC-Tokens-Circle-has-launched-the-public-mainnet-of-Arc-an-open-Layer-1-blockchain-for-financial-markets-and-agentic-activity-More-than-100-applications-and-100-institutions-and-ecosystem",
+    "source": "@wublockchain",
+    "published": "Wed Sep 16 2026 13:43:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Why Did CLARITY Act Fail in Senate Vote?",
+    "link": "https://cryptopanic.com/news/33397220/Why-Did-CLARITY-Act-Fail-in-Senate-Vote",
+    "source": "thecoinrepublic.com",
+    "published": "Wed Sep 16 2026 13:42:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "CoinMarketCap | DEX API \n\nThe same Arc data is also on our API!\n\n Pass network_slug=arc to every DEX request\n Resolve any Arc contract to its live pairs\n Pull the same data behind our DexScan page\n\nStart building on Arc here",
     "link": "https://cryptopanic.com/news/33397237/CoinMarketCap-DEX-API-The-same-Arc-data-is-also-on-our-API-Pass-network_slugarc-to-every-DEX-request-Resolve-any-Arc-contract-to-its-live-pairs-Pull-the-same-data-behind-our-DexScan-page-Start-building-on-Arc-here",
     "source": "@coinmarketcap",
     "published": "Wed Sep 16 2026 13:39:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "What's Going On With Coinbase Stock Wednesday?",
+    "link": "https://cryptopanic.com/news/33397276/Whats-Going-On-With-Coinbase-Stock-Wednesday",
+    "source": "feeds2.benzinga.com",
+    "published": "Wed Sep 16 2026 13:36:38 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -14,6 +105,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "What if the next crypto bull market starts with one final crash?\n\nFrancis Hunt puts roughly a 25% probability on a “Joker” scenario: an unexpected debt or geopolitical shock causing a violent final flush before the market recovers.\n\n$BTC @themarketsniper",
+    "link": "https://cryptopanic.com/news/33397305/What-if-the-next-crypto-bull-market-starts-with-one-final-crash-Francis-Hunt-puts-roughly-a-25-probability-on-a-Joker-scenario-an-unexpected-debt-or-geopolitical-shock-causing-a-violent-final-flush-before-the-market-recovers-BTC-themarketsniper",
+    "source": "@realallincrypto",
+    "published": "Wed Sep 16 2026 13:36:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: Apple $AAPL is developing enterprise servers powered by its own chips.",
     "link": "https://cryptopanic.com/news/33397157/JUST-IN-Apple-AAPL-is-developing-enterprise-servers-powered-by-its-own-chips",
     "source": "@watcherguru",
@@ -21,9 +119,30 @@
     "sentiment": "neutral"
   },
   {
+    "title": "TODAY: Circle CEO Jeremy Allaire says Arc mainnet is now live, calling it the “economic operating system” for the internet.",
+    "link": "https://cryptopanic.com/news/33397297/TODAY-Circle-CEO-Jeremy-Allaire-says-Arc-mainnet-is-now-live-calling-it-the-economic-operating-system-for-the-internet",
+    "source": "@cointelegraph",
+    "published": "Wed Sep 16 2026 13:30:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "FOMO HOUR ft @Tyler_Did_It and @farokh\n- \n- \n-",
     "link": "https://cryptopanic.com/news/33397154/FOMO-HOUR-ft-Tyler_Did_It-and-farokh-",
     "source": "@decryptmedia",
+    "published": "Wed Sep 16 2026 13:30:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The Federal Reserve is expected to raise interest rates, but that will put policymakers on a collision course with President Trump. Michael Sneyd of BNP Paribas says the Fed needs to show its independence",
+    "link": "https://cryptopanic.com/news/33397298/The-Federal-Reserve-is-expected-to-raise-interest-rates-but-that-will-put-policymakers-on-a-collision-course-with-President-Trump-Michael-Sneyd-of-BNP-Paribas-says-the-Fed-needs-to-show-its-independence",
+    "source": "@reutersbiz",
+    "published": "Wed Sep 16 2026 13:30:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "South Korean retail investors lost about $250 million to fraud in early 2026 as scammers exploited market swings during KOSPI's record run",
+    "link": "https://cryptopanic.com/news/33397299/South-Korean-retail-investors-lost-about-250-million-to-fraud-in-early-2026-as-scammers-exploited-market-swings-during-KOSPIs-record-run",
+    "source": "@reutersbiz",
     "published": "Wed Sep 16 2026 13:30:01 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -56,6 +175,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Chainlink (@Chainlink) is providing @Arc with cost-efficient access to institutional-grade oracle infrastructure via;\n\nData Feeds, Proof of Reserve, Data Streams, and CCIP.",
+    "link": "https://cryptopanic.com/news/33397307/Chainlink-Chainlink-is-providing-Arc-with-cost-efficient-access-to-institutional-grade-oracle-infrastructure-via-Data-Feeds-Proof-of-Reserve-Data-Streams-and-CCIP",
+    "source": "@bscnews",
+    "published": "Wed Sep 16 2026 13:22:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Celsius sues BitMEX for $495 million just 11 days before exchange shutdown",
     "link": "https://cryptopanic.com/news/33397120/Celsius-sues-BitMEX-for-495-million-just-11-days-before-exchange-shutdown",
     "source": "cryptoslate.com",
@@ -70,143 +196,17 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Aave is Launching a Specialized RWA Lending Hub on Avalanche\n\n@Aave is deploying its RWA Hub on @Avax, creating a dedicated lending market where institutions can use tokenized assets to borrow stablecoins, without \"selling their underlying positions.\"\n\nTether's $USAT serves as",
+    "link": "https://cryptopanic.com/news/33397306/Aave-is-Launching-a-Specialized-RWA-Lending-Hub-on-Avalanche-Aave-is-deploying-its-RWA-Hub-on-Avax-creating-a-dedicated-lending-market-where-institutions-can-use-tokenized-assets-to-borrow-stablecoins-without-selling-their-underlying-positions-Tethers-USAT-serves-as",
+    "source": "@bscnews",
+    "published": "Wed Sep 16 2026 13:17:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "CoinMarketCap | DexScan \n\nArc's mainnet is LIVE. You can now track it on DexScan.\n\n Arc uses stablecoins for gas, starting with USDC\n Transactions finish in under a second\n EVM compatible from day one\n\nTrack Arc tokens on DexScan",
     "link": "https://cryptopanic.com/news/33397236/CoinMarketCap-DexScan-Arcs-mainnet-is-LIVE-You-can-now-track-it-on-DexScan-Arc-uses-stablecoins-for-gas-starting-with-USDC-Transactions-finish-in-under-a-second-EVM-compatible-from-day-one-Track-Arc-tokens-on-DexScan",
     "source": "@coinmarketcap",
     "published": "Wed Sep 16 2026 13:15:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "European Commission President Ursula von der Leyen said the European Union is opening the door for Canada to become its first 'associate member.' Julia Payne explains what this 'unique alliance' means",
-    "link": "https://cryptopanic.com/news/33397051/European-Commission-President-Ursula-von-der-Leyen-said-the-European-Union-is-opening-the-door-for-Canada-to-become-its-first-associate-member-Julia-Payne-explains-what-this-unique-alliance-means",
-    "source": "@reutersbiz",
-    "published": "Wed Sep 16 2026 13:15:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Anthony Pompliano's ProCap Financial sold 50 Bitcoin to buy back its own shares at a 22% discount.\n\nThe company still holds 5,254 BTC worth $398M.",
-    "link": "https://cryptopanic.com/news/33397234/JUST-IN-Anthony-Pomplianos-ProCap-Financial-sold-50-Bitcoin-to-buy-back-its-own-shares-at-a-22-discount-The-company-still-holds-5254-BTC-worth-398M",
-    "source": "@btc_archive",
-    "published": "Wed Sep 16 2026 13:14:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum Price Prediction: Is ETH Heading Below $2,400?",
-    "link": "https://cryptopanic.com/news/33397040/Ethereum-Price-Prediction-Is-ETH-Heading-Below-2400",
-    "source": "coinpaper.com",
-    "published": "Wed Sep 16 2026 13:12:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "FCA Guidance Lands Two Weeks Before UK Crypto Authorization Window Opens",
-    "link": "https://cryptopanic.com/news/33397041/FCA-Guidance-Lands-Two-Weeks-Before-UK-Crypto-Authorization-Window-Opens",
-    "source": "decrypt.co",
-    "published": "Wed Sep 16 2026 13:12:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: ️ Circle launched the Arc mainnet, its new L1 blockchain designed for financial markets and the AI agent economy, with BlackRock, Visa, Mastercard, and the DTCC serving as founding validators.",
-    "link": "https://cryptopanic.com/news/33397235/LATEST-Circle-launched-the-Arc-mainnet-its-new-L1-blockchain-designed-for-financial-markets-and-the-AI-agent-economy-with-BlackRock-Visa-Mastercard-and-the-DTCC-serving-as-founding-validators",
-    "source": "@coinmarketcap",
-    "published": "Wed Sep 16 2026 13:11:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Price Prediction: Can BTC Reclaim $80K After the CLARITY Act Crash?",
-    "link": "https://cryptopanic.com/news/33397032/Bitcoin-Price-Prediction-Can-BTC-Reclaim-80K-After-the-CLARITY-Act-Crash",
-    "source": "coinpaper.com",
-    "published": "Wed Sep 16 2026 13:09:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ondo's Subsidiary Oasis Pro Markets Onboards to DTCC’s Fund/SERV Network\n\n@Ondo is now officially recognized as the first tokenization platform to onboard to DTCC’s Fund/SERV network, which currently processes over 85% of U.S. mutual funds’ transaction volume.\n\nThrough the",
-    "link": "https://cryptopanic.com/news/33397063/Ondos-Subsidiary-Oasis-Pro-Markets-Onboards-to-DTCCs-FundSERV-Network-Ondo-is-now-officially-recognized-as-the-first-tokenization-platform-to-onboard-to-DTCCs-FundSERV-network-which-currently-processes-over-85-of-US-mutual-funds-transaction-volume-Through-the",
-    "source": "@bscnews",
-    "published": "Wed Sep 16 2026 13:09:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "FCA maps out crypto authorization rules as UK funds £500M laundering crackdown",
-    "link": "https://cryptopanic.com/news/33397034/FCA-maps-out-crypto-authorization-rules-as-UK-funds-500M-laundering-crackdown",
-    "source": "cryptopolitan.com",
-    "published": "Wed Sep 16 2026 13:08:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto.com Exchange Expands Institutional Access in MENA Through ZagTrader",
-    "link": "https://cryptopanic.com/news/33397018/Cryptocom-Exchange-Expands-Institutional-Access-in-MENA-Through-ZagTrader",
-    "source": "dailycoin.com",
-    "published": "Wed Sep 16 2026 13:05:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Forget XRP ETFs, 473 Million XRP Could Soon Hit Nasdaq",
-    "link": "https://cryptopanic.com/news/33396981/Forget-XRP-ETFs-473-Million-XRP-Could-Soon-Hit-Nasdaq",
-    "source": "coinpaper.com",
-    "published": "Wed Sep 16 2026 13:03:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Michael Saylor says stalled CLARITY could push more capital toward Bitcoin as regulators advance rules under existing law.",
-    "link": "https://cryptopanic.com/news/33397049/UPDATE-Michael-Saylor-says-stalled-CLARITY-could-push-more-capital-toward-Bitcoin-as-regulators-advance-rules-under-existing-law",
-    "source": "@cointelegraph",
-    "published": "Wed Sep 16 2026 13:00:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$XLM processed $9 BILLION + in stablecoin transfers over the past 30 days.\n\nAnd the timing is no coincidence, more and more stablecoins and payment providers are launching or integrating with @StellarOrg, expanding the network’s reach.\n\nJust in recent weeks we've had USDT0, US",
-    "link": "https://cryptopanic.com/news/33397058/XLM-processed-9-BILLION-in-stablecoin-transfers-over-the-past-30-days-And-the-timing-is-no-coincidence-more-and-more-stablecoins-and-payment-providers-are-launching-or-integrating-with-StellarOrg-expanding-the-networks-reach-Just-in-recent-weeks-weve-had-USDT0-US",
-    "source": "@realallincrypto",
-    "published": "Wed Sep 16 2026 13:00:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Midweek calendar check:\n\n244 events were added across 173 coins in the last 7 days.\n\n1 high-impact events are already on the calendar for the next 7 days. See what's coming: \n\nFor new events and breaking news, follow @cmcal_bot.",
-    "link": "https://cryptopanic.com/news/33397052/Midweek-calendar-check-244-events-were-added-across-173-coins-in-the-last-7-days-1-high-impact-events-are-already-on-the-calendar-for-the-next-7-days-See-whats-coming-For-new-events-and-breaking-news-follow-cmcal_bot",
-    "source": "@coinmarketcal",
-    "published": "Wed Sep 16 2026 13:00:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana Raises Transaction Size From 1,232 to 4,096 Bytes in V1",
-    "link": "https://cryptopanic.com/news/33396932/Solana-Raises-Transaction-Size-From-1232-to-4096-Bytes-in-V1",
-    "source": "coinpaprika.com",
-    "published": "Wed Sep 16 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Revolut applies for a Swiss banking license with FINMA",
-    "link": "https://cryptopanic.com/news/33396922/Revolut-applies-for-a-Swiss-banking-license-with-FINMA",
-    "source": "cryptovalleyjournal.com",
-    "published": "Wed Sep 16 2026 12:58:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: Bernstein expects the SEC and CFTC to move “aggressively and swiftly” on crypto rules after the CLARITY Act failed to advance\n\nStablecoin rewards on idle balances can continue unchanged",
-    "link": "https://cryptopanic.com/news/33397155/INTEL-Bernstein-expects-the-SEC-and-CFTC-to-move-aggressively-and-swiftly-on-crypto-rules-after-the-CLARITY-Act-failed-to-advance-Stablecoin-rewards-on-idle-balances-can-continue-unchanged",
-    "source": "@solidintel_x",
-    "published": "Wed Sep 16 2026 12:58:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Users can now trade Arc tokens on PumpFun \n\n@Arc is now integrated into the leading multichain launchpad, @Pumpfun, letting users trade supported assets with $USDC. \n\nThrough this integration, users will earn \"Callout Rewards,\" and the network's high-speed infrastructure enables",
-    "link": "https://cryptopanic.com/news/33397062/Users-can-now-trade-Arc-tokens-on-PumpFun-Arc-is-now-integrated-into-the-leading-multichain-launchpad-Pumpfun-letting-users-trade-supported-assets-with-USDC-Through-this-integration-users-will-earn-Callout-Rewards-and-the-networks-high-speed-infrastructure-enables",
-    "source": "@bscnews",
-    "published": "Wed Sep 16 2026 12:58:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "3/ Memory Sold 2027, Not This Quarter\n\nEvery memory and storage name fell.\nThe week brought no new group-wide results confirming a collapse in current demand. The market was marking down the next stage of the AI buildout.\n\nTight supply can support this quarter’s prices. It cannot",
-    "link": "https://cryptopanic.com/news/33396923/3-Memory-Sold-2027-Not-This-Quarter-Every-memory-and-storage-name-fell-The-week-brought-no-new-group-wide-results-confirming-a-collapse-in-current-demand-The-market-was-marking-down-the-next-stage-of-the-AI-buildout-Tight-supply-can-support-this-quarters-prices-It-cannot",
-    "source": "@coinmarketcap",
-    "published": "Wed Sep 16 2026 12:58:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "2/ Apple Had a Product. Hardware Had a Forecast.\n\nApple launched a phone customers can order now.\nNVIDIA and TSMC were trading on how much AI capacity customers might need years from now.\n\nWhen investors shortened their time horizon, a ship date beat a capital-spending forecast.",
-    "link": "https://cryptopanic.com/news/33396921/2-Apple-Had-a-Product-Hardware-Had-a-Forecast-Apple-launched-a-phone-customers-can-order-now-NVIDIA-and-TSMC-were-trading-on-how-much-AI-capacity-customers-might-need-years-from-now-When-investors-shortened-their-time-horizon-a-ship-date-beat-a-capital-spending-forecast",
-    "source": "@coinmarketcap",
-    "published": "Wed Sep 16 2026 12:58:17 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
