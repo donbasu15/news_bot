@@ -1,5 +1,117 @@
 [
   {
+    "title": "US 20-year bond auction just had its worst showing ever",
+    "link": "https://cryptopanic.com/news/33396268/US-20-year-bond-auction-just-had-its-worst-showing-ever",
+    "source": "protos.com",
+    "published": "Wed Sep 16 2026 11:13:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto Bill Fails, BTC Dumps, SpaceX to $30, and Tom Lee’s Prediction",
+    "link": "https://cryptopanic.com/news/33396310/Crypto-Bill-Fails-BTC-Dumps-SpaceX-to-30-and-Tom-Lees-Prediction",
+    "source": "TheCryptoLark",
+    "published": "Wed Sep 16 2026 11:11:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Malicious Uniswap v4 hooks are baiting DeFi traders with fake swap quotes",
+    "link": "https://cryptopanic.com/news/33396242/Malicious-Uniswap-v4-hooks-are-baiting-DeFi-traders-with-fake-swap-quotes",
+    "source": "cryptoslate.com",
+    "published": "Wed Sep 16 2026 11:10:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "DOGE-1 Moon Mission Launches Today Amid Broader Crypto Market Pullback",
+    "link": "https://cryptopanic.com/news/33396244/DOGE-1-Moon-Mission-Launches-Today-Amid-Broader-Crypto-Market-Pullback",
+    "source": "cryptonews.com",
+    "published": "Wed Sep 16 2026 11:09:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Price Loses 10% as Crypto Weakness Deepens",
+    "link": "https://cryptopanic.com/news/33396243/XRP-Price-Loses-10-as-Crypto-Weakness-Deepens",
+    "source": "cryptonews.com",
+    "published": "Wed Sep 16 2026 11:09:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Lawyer reveals key reason XRP sank after CLARITY Act vote",
+    "link": "https://cryptopanic.com/news/33396226/Lawyer-reveals-key-reason-XRP-sank-after-CLARITY-Act-vote",
+    "source": "finbold.com",
+    "published": "Wed Sep 16 2026 11:07:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CoinEx to Cease Operations After Nine Years, Withdrawals End December 22",
+    "link": "https://cryptopanic.com/news/33396169/CoinEx-to-Cease-Operations-After-Nine-Years-Withdrawals-End-December-22",
+    "source": "coinpaprika.com",
+    "published": "Wed Sep 16 2026 11:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tokenized Private Credit in DeFi: The Biggest RWA Category",
+    "link": "https://cryptopanic.com/news/33396194/Tokenized-Private-Credit-in-DeFi-The-Biggest-RWA-Category",
+    "source": "coinpaprika.com",
+    "published": "Wed Sep 16 2026 11:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The Future of RWA + DeFi: What Comes After Tokenized Treasuries?",
+    "link": "https://cryptopanic.com/news/33396195/The-Future-of-RWA-DeFi-What-Comes-After-Tokenized-Treasuries",
+    "source": "coinpaprika.com",
+    "published": "Wed Sep 16 2026 11:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Two Prime makes onchain finance push with $10 million-backed bitcoin yield vault",
+    "link": "https://cryptopanic.com/news/33396283/Two-Prime-makes-onchain-finance-push-with-10-million-backed-bitcoin-yield-vault",
+    "source": "coindesk.com",
+    "published": "Wed Sep 16 2026 11:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin traders brace for Fed hike, but a surprise hold could pose bigger risk",
+    "link": "https://cryptopanic.com/news/33396284/Bitcoin-traders-brace-for-Fed-hike-but-a-surprise-hold-could-pose-bigger-risk",
+    "source": "coindesk.com",
+    "published": "Wed Sep 16 2026 11:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto's Biggest Senate Bet Collapses as Clarity Act Falls Short of 60 Votes",
+    "link": "https://cryptopanic.com/news/33396168/Cryptos-Biggest-Senate-Bet-Collapses-as-Clarity-Act-Falls-Short-of-60-Votes",
+    "source": "coinpaprika.com",
+    "published": "Wed Sep 16 2026 11:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: @Circle launches Arc mainnet, a Layer 1 blockchain with @BlackRock, @The_DTCC, @Visa and @Mastercard as founding validators.",
+    "link": "https://cryptopanic.com/news/33396152/NEW-Circle-launches-Arc-mainnet-a-Layer-1-blockchain-with-BlackRock-The_DTCC-Visa-and-Mastercard-as-founding-validators",
+    "source": "@coindesk",
+    "published": "Wed Sep 16 2026 10:59:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Failure to pass CLARITY Act paves the way for new focus... \n\nAlthough Congress recently failed to pass the CLARITY Act, legislative progress remains, as it is set to consider two crypto-related bills today.\n\nThe Crypto Tax Bill would change the rules so that small crypto",
+    "link": "https://cryptopanic.com/news/33396159/Failure-to-pass-CLARITY-Act-paves-the-way-for-new-focus-Although-Congress-recently-failed-to-pass-the-CLARITY-Act-legislative-progress-remains-as-it-is-set-to-consider-two-crypto-related-bills-today-The-Crypto-Tax-Bill-would-change-the-rules-so-that-small-crypto",
+    "source": "@bscnews",
+    "published": "Wed Sep 16 2026 10:57:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Is OpenAI Worth $1.2 Trillion? Some Investors Think So",
+    "link": "https://cryptopanic.com/news/33396305/Is-OpenAI-Worth-12-Trillion-Some-Investors-Think-So",
+    "source": "beincrypto.com",
+    "published": "Wed Sep 16 2026 10:57:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Deutsche Bank’s Crypto Custody Plan Explained",
+    "link": "https://cryptopanic.com/news/33396141/Deutsche-Banks-Crypto-Custody-Plan-Explained",
+    "source": "coindoo.com",
+    "published": "Wed Sep 16 2026 10:53:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Shiba Inu launched as a Dogecoin copycat in 2020. Six years later it holds a $2.85 billion market cap but still lacks a clear use case. Here's why.",
     "link": "https://cryptopanic.com/news/33396158/Shiba-Inu-launched-as-a-Dogecoin-copycat-in-2020-Six-years-later-it-holds-a-285-billion-market-cap-but-still-lacks-a-clear-use-case-Heres-why",
     "source": "@bscnews",
@@ -7,10 +119,38 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Bitcoin ETFs shed $450 million as Clarity Act fails",
+    "link": "https://cryptopanic.com/news/33396181/Bitcoin-ETFs-shed-450-million-as-Clarity-Act-fails",
+    "source": "coindesk.com",
+    "published": "Wed Sep 16 2026 10:48:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST:  AI could be Bitcoin's next adoption engine by removing wallet and onboarding complexity, Nakamoto Holdings CEO David Bailey told TD Cowen.",
     "link": "https://cryptopanic.com/news/33396090/LATEST-AI-could-be-Bitcoins-next-adoption-engine-by-removing-wallet-and-onboarding-complexity-Nakamoto-Holdings-CEO-David-Bailey-told-TD-Cowen",
     "source": "@coinmarketcap",
     "published": "Wed Sep 16 2026 10:47:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Justin Sun Establishes the Justin Sun Prize: “My Wealth Came from Mathematics and Will Return to Mathematics”",
+    "link": "https://cryptopanic.com/news/33396304/Justin-Sun-Establishes-the-Justin-Sun-Prize-My-Wealth-Came-from-Mathematics-and-Will-Return-to-Mathematics",
+    "source": "beincrypto.com",
+    "published": "Wed Sep 16 2026 10:46:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Deutsche Bank close to debuting crypto custody for institutions",
+    "link": "https://cryptopanic.com/news/33396180/Deutsche-Bank-close-to-debuting-crypto-custody-for-institutions",
+    "source": "coindesk.com",
+    "published": "Wed Sep 16 2026 10:46:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JPMorgan Says Institutions Don't Want Stablecoins Yet. Tether's CEO Just Laughed.",
+    "link": "https://cryptopanic.com/news/33396302/JPMorgan-Says-Institutions-Dont-Want-Stablecoins-Yet-Tethers-CEO-Just-Laughed",
+    "source": "beincrypto.com",
+    "published": "Wed Sep 16 2026 10:45:26 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -28,10 +168,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Live updates: Zcash climbs 6% as majors slide ahead of Fed rate decision",
+    "link": "https://cryptopanic.com/news/33396179/Live-updates-Zcash-climbs-6-as-majors-slide-ahead-of-Fed-rate-decision",
+    "source": "coindesk.com",
+    "published": "Wed Sep 16 2026 10:37:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Anthony Pompliano Says AI Doomers Are the Same People Who Were Once Crypto Doomers: 'Don’t Listen to Their Nonsense'",
     "link": "https://cryptopanic.com/news/33396125/Anthony-Pompliano-Says-AI-Doomers-Are-the-Same-People-Who-Were-Once-Crypto-Doomers-Dont-Listen-to-Their-Nonsense",
     "source": "feeds2.benzinga.com",
     "published": "Wed Sep 16 2026 10:35:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: Stand With Crypto says senators who voted against the CLARITY Act will be marked on its lawmaker scorecards ahead of November’s midterms",
+    "link": "https://cryptopanic.com/news/33396262/INTEL-Stand-With-Crypto-says-senators-who-voted-against-the-CLARITY-Act-will-be-marked-on-its-lawmaker-scorecards-ahead-of-Novembers-midterms",
+    "source": "@solidintel_x",
+    "published": "Wed Sep 16 2026 10:35:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -42,171 +196,17 @@
     "sentiment": "neutral"
   },
   {
+    "title": "A newly created wallet (0xF426) bought 99,834 $HYPE($7.72M) via #FalconX 2 hours ago.",
+    "link": "https://cryptopanic.com/news/33396259/A-newly-created-wallet-0xF426-bought-99834-HYPE772M-via-FalconX-2-hours-ago",
+    "source": "@lookonchain",
+    "published": "Wed Sep 16 2026 10:32:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Justin Sun’s $1 million mathematics prize puts AI and humans on equal footing",
     "link": "https://cryptopanic.com/news/33396135/Justin-Suns-1-million-mathematics-prize-puts-AI-and-humans-on-equal-footing",
     "source": "en.cryptonomist.ch",
     "published": "Wed Sep 16 2026 10:31:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Multi-party computation. Arbitrum. A textbook on Bitcoin itself. @sgoldfed has shaped how blockchain works from multiple angles.\n\nNow Co-Founder and CEO of @Offchain, he's bringing that same builder's instinct to his next act.\n\nDon't miss him at LONGITUDE SG",
-    "link": "https://cryptopanic.com/news/33396153/Multi-party-computation-Arbitrum-A-textbook-on-Bitcoin-itself-sgoldfed-has-shaped-how-blockchain-works-from-multiple-angles-Now-Co-Founder-and-CEO-of-Offchain-hes-bringing-that-same-builders-instinct-to-his-next-act-Dont-miss-him-at-LONGITUDE-SG",
-    "source": "@cointelegraph",
-    "published": "Wed Sep 16 2026 10:30:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Circle launches Arc mainnet with BlackRock and Visa among validators, mints 10 billion ARC tokens",
-    "link": "https://cryptopanic.com/news/33395966/Circle-launches-Arc-mainnet-with-BlackRock-and-Visa-among-validators-mints-10-billion-ARC-tokens",
-    "source": "theblock.co",
-    "published": "Wed Sep 16 2026 10:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Circle debuts Arc blockchain which Jeremy Allaire calls ‘more consequential’ than USDC",
-    "link": "https://cryptopanic.com/news/33396085/Circle-debuts-Arc-blockchain-which-Jeremy-Allaire-calls-more-consequential-than-USDC",
-    "source": "coindesk.com",
-    "published": "Wed Sep 16 2026 10:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇩🇪 €1.9 trillion Deutsche Bank announces it's launching Bitcoin custody services for institutional and corporate clients",
-    "link": "https://cryptopanic.com/news/33395985/JUST-IN-19-trillion-Deutsche-Bank-announces-its-launching-Bitcoin-custody-services-for-institutional-and-corporate-clients",
-    "source": "@bitcoinmagazine",
-    "published": "Wed Sep 16 2026 10:29:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Pump.fun and the PUMP Token: How It Works, Revenue, and Legal Risk",
-    "link": "https://cryptopanic.com/news/33395974/Pumpfun-and-the-PUMP-Token-How-It-Works-Revenue-and-Legal-Risk",
-    "source": "spaziocrypto.com",
-    "published": "Wed Sep 16 2026 10:27:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cumberland, which has been accumulating $PONS for the past 2 weeks, is now starting to sell!\n\nOver the past 2 weeks, it withdrew 17.64M $PONS from #Gate at an average price of $0.67.\n\nIn the past 5 hours, it deposited 1.5M $PONS ($877K) back into #Gate.",
-    "link": "https://cryptopanic.com/news/33395976/Cumberland-which-has-been-accumulating-PONS-for-the-past-2-weeks-is-now-starting-to-sell-Over-the-past-2-weeks-it-withdrew-1764M-PONS-from-Gate-at-an-average-price-of-067-In-the-past-5-hours-it-deposited-15M-PONS-877K-back-into-Gate",
-    "source": "@lookonchain",
-    "published": "Wed Sep 16 2026 10:24:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum risks 10% drop against Bitcoin as double-top pattern emerges",
-    "link": "https://cryptopanic.com/news/33396059/Ethereum-risks-10-drop-against-Bitcoin-as-double-top-pattern-emerges",
-    "source": "coinjournal.net",
-    "published": "Wed Sep 16 2026 10:24:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Biggest Bitcoin (BTC) Capitulation in September: Short-Term Holders Shake It Off",
-    "link": "https://cryptopanic.com/news/33396034/Biggest-Bitcoin-BTC-Capitulation-in-September-Short-Term-Holders-Shake-It-Off",
-    "source": "u.today",
-    "published": "Wed Sep 16 2026 10:20:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Holders, Mark Your Calendars for September 29: Network Upgrade Activates",
-    "link": "https://cryptopanic.com/news/33395962/XRP-Holders-Mark-Your-Calendars-for-September-29-Network-Upgrade-Activates",
-    "source": "u.today",
-    "published": "Wed Sep 16 2026 10:17:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Coinbase-Backed Group Warns of CLARITY Act Payback in Midterms\n\nCoinbase-backed PAC Stand With Crypto warned senators could face political consequences after the CLARITY Act vote.\n\nThe group said Tuesday’s Senate vote will be added to its lawmaker scorecards.\n\n“Today’s vote was a",
-    "link": "https://cryptopanic.com/news/33396156/Coinbase-Backed-Group-Warns-of-CLARITY-Act-Payback-in-Midterms-Coinbase-backed-PAC-Stand-With-Crypto-warned-senators-could-face-political-consequences-after-the-CLARITY-Act-vote-The-group-said-Tuesdays-Senate-vote-will-be-added-to-its-lawmaker-scorecards-Todays-vote-was-a",
-    "source": "@bscnews",
-    "published": "Wed Sep 16 2026 10:16:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Justin Sun Establishes the Justin Sun Prize: “My Wealth Came from Mathematics and Will Return to Mathematics”",
-    "link": "https://cryptopanic.com/news/33395932/Justin-Sun-Establishes-the-Justin-Sun-Prize-My-Wealth-Came-from-Mathematics-and-Will-Return-to-Mathematics",
-    "source": "newsbtc.com",
-    "published": "Wed Sep 16 2026 10:16:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tyson, Hormel and Other Pork Producers Handing $117,000,000 To Shoppers In 24 States After Alleged Price-Fixing",
-    "link": "https://cryptopanic.com/news/33395944/Tyson-Hormel-and-Other-Pork-Producers-Handing-117000000-To-Shoppers-In-24-States-After-Alleged-Price-Fixing",
-    "source": "dailyhodl.com",
-    "published": "Wed Sep 16 2026 10:15:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin and XRP Await the Fed After CLARITY Act's Failure: Another Blow Coming?",
-    "link": "https://cryptopanic.com/news/33396058/Bitcoin-and-XRP-Await-the-Fed-After-CLARITY-Acts-Failure-Another-Blow-Coming",
-    "source": "beincrypto.com",
-    "published": "Wed Sep 16 2026 10:14:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: The UK's FCA publishes guidance on its new crypto regulatory regime, with applications for authorisation opening September 30 and the full regime taking effect October 2027.",
-    "link": "https://cryptopanic.com/news/33395867/JUST-IN-The-UKs-FCA-publishes-guidance-on-its-new-crypto-regulatory-regime-with-applications-for-authorisation-opening-September-30-and-the-full-regime-taking-effect-October-2027",
-    "source": "@coindesk",
-    "published": "Wed Sep 16 2026 10:13:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33396102/Source",
-    "source": "@wublockchain",
-    "published": "Wed Sep 16 2026 10:13:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Stablecoins could reinforce dollar dominance, with 98% of the ~$300B market USD-denominated and USDT and USDC holding nearly $150B in Treasury bills at the end of 2025, a Bank of England official says.",
-    "link": "https://cryptopanic.com/news/33396088/LATEST-Stablecoins-could-reinforce-dollar-dominance-with-98-of-the-300B-market-USD-denominated-and-USDT-and-USDC-holding-nearly-150B-in-Treasury-bills-at-the-end-of-2025-a-Bank-of-England-official-says",
-    "source": "@coinmarketcap",
-    "published": "Wed Sep 16 2026 10:11:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin holds above key moving averages despite CLARITY Act sell-off",
-    "link": "https://cryptopanic.com/news/33395943/Bitcoin-holds-above-key-moving-averages-despite-CLARITY-Act-sell-off",
-    "source": "coinjournal.net",
-    "published": "Wed Sep 16 2026 10:08:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The UK’s FCA has released guidance on the scope of the country’s future cryptoasset regime. The regime will take effect on Oct. 25, 2027, with authorization applications opening on Sept. 30, 2026. The guidance covers qualifying stablecoin issuance, crypto trading platforms,",
-    "link": "https://cryptopanic.com/news/33396101/The-UKs-FCA-has-released-guidance-on-the-scope-of-the-countrys-future-cryptoasset-regime-The-regime-will-take-effect-on-Oct-25-2027-with-authorization-applications-opening-on-Sept-30-2026-The-guidance-covers-qualifying-stablecoin-issuance-crypto-trading-platforms",
-    "source": "@wublockchain",
-    "published": "Wed Sep 16 2026 10:07:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Deutsche Bank plans bitcoin, ether custody for institutional clients in Europe",
-    "link": "https://cryptopanic.com/news/33395815/Deutsche-Bank-plans-bitcoin-ether-custody-for-institutional-clients-in-Europe",
-    "source": "theblock.co",
-    "published": "Wed Sep 16 2026 10:05:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The CLARITY Act Just Hit a Senate Wall. What Should Crypto Expect Next?",
-    "link": "https://cryptopanic.com/news/33395810/The-CLARITY-Act-Just-Hit-a-Senate-Wall-What-Should-Crypto-Expect-Next",
-    "source": "dailycoin.com",
-    "published": "Wed Sep 16 2026 10:05:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Deutsche Bank crypto custody set for 2026, pending approval",
-    "link": "https://cryptopanic.com/news/33396132/Deutsche-Bank-crypto-custody-set-for-2026-pending-approval",
-    "source": "en.cryptonomist.ch",
-    "published": "Wed Sep 16 2026 10:01:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇬🇧 NEW: The UK FCA releases crypto regulatory guidance covering stablecoin issuance, trading, custody and staking.",
-    "link": "https://cryptopanic.com/news/33395869/NEW-The-UK-FCA-releases-crypto-regulatory-guidance-covering-stablecoin-issuance-trading-custody-and-staking",
-    "source": "@cointelegraph",
-    "published": "Wed Sep 16 2026 10:00:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Ominous Pattern: How Crises Shape Our Future",
-    "link": "https://cryptopanic.com/news/33395813/The-Ominous-Pattern-How-Crises-Shape-Our-Future",
-    "source": "SimplyBitcoin",
-    "published": "Wed Sep 16 2026 10:00:24 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
