@@ -1,9 +1,93 @@
 [
   {
+    "title": "CoinMarketCap | DEX API \n\nThe same Arc data is also on our API!\n\n Pass network_slug=arc to every DEX request\n Resolve any Arc contract to its live pairs\n Pull the same data behind our DexScan page\n\nStart building on Arc here",
+    "link": "https://cryptopanic.com/news/33397237/CoinMarketCap-DEX-API-The-same-Arc-data-is-also-on-our-API-Pass-network_slugarc-to-every-DEX-request-Resolve-any-Arc-contract-to-its-live-pairs-Pull-the-same-data-behind-our-DexScan-page-Start-building-on-Arc-here",
+    "source": "@coinmarketcap",
+    "published": "Wed Sep 16 2026 13:39:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cathie Wood Says Starship Could Generate $10 Trillion a Year by 2030",
+    "link": "https://cryptopanic.com/news/33397193/Cathie-Wood-Says-Starship-Could-Generate-10-Trillion-a-Year-by-2030",
+    "source": "coinpaper.com",
+    "published": "Wed Sep 16 2026 13:36:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Apple $AAPL is developing enterprise servers powered by its own chips.",
+    "link": "https://cryptopanic.com/news/33397157/JUST-IN-Apple-AAPL-is-developing-enterprise-servers-powered-by-its-own-chips",
+    "source": "@watcherguru",
+    "published": "Wed Sep 16 2026 13:31:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "FOMO HOUR ft @Tyler_Did_It and @farokh\n- \n- \n-",
+    "link": "https://cryptopanic.com/news/33397154/FOMO-HOUR-ft-Tyler_Did_It-and-farokh-",
+    "source": "@decryptmedia",
+    "published": "Wed Sep 16 2026 13:30:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "If Pons continues to do $1M in revenue per day, will we see it sharply reprice?",
+    "link": "https://cryptopanic.com/news/33397153/If-Pons-continues-to-do-1M-in-revenue-per-day-will-we-see-it-sharply-reprice",
+    "source": "@decryptmedia",
+    "published": "Wed Sep 16 2026 13:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Why XRP Was Hit Hardest After the CLARITY Act Senate Failure",
+    "link": "https://cryptopanic.com/news/33397170/Why-XRP-Was-Hit-Hardest-After-the-CLARITY-Act-Senate-Failure",
+    "source": "cryptopotato.com",
+    "published": "Wed Sep 16 2026 13:28:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Solana Price Finds Support near $95: Can It Hold?",
+    "link": "https://cryptopanic.com/news/33397145/Solana-Price-Finds-Support-near-95-Can-It-Hold",
+    "source": "coindoo.com",
+    "published": "Wed Sep 16 2026 13:27:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Strategic Bitcoin Reserve Bill Heads to House Committee: What You Need to Know",
+    "link": "https://cryptopanic.com/news/33397200/Strategic-Bitcoin-Reserve-Bill-Heads-to-House-Committee-What-You-Need-to-Know",
+    "source": "feeds2.benzinga.com",
+    "published": "Wed Sep 16 2026 13:24:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Celsius sues BitMEX for $495 million just 11 days before exchange shutdown",
+    "link": "https://cryptopanic.com/news/33397120/Celsius-sues-BitMEX-for-495-million-just-11-days-before-exchange-shutdown",
+    "source": "cryptoslate.com",
+    "published": "Wed Sep 16 2026 13:20:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Shiba Inu Price Prediction: Is SHIB About to Add Another Zero?",
+    "link": "https://cryptopanic.com/news/33397073/Shiba-Inu-Price-Prediction-Is-SHIB-About-to-Add-Another-Zero",
+    "source": "coinpaper.com",
+    "published": "Wed Sep 16 2026 13:17:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CoinMarketCap | DexScan \n\nArc's mainnet is LIVE. You can now track it on DexScan.\n\n Arc uses stablecoins for gas, starting with USDC\n Transactions finish in under a second\n EVM compatible from day one\n\nTrack Arc tokens on DexScan",
+    "link": "https://cryptopanic.com/news/33397236/CoinMarketCap-DexScan-Arcs-mainnet-is-LIVE-You-can-now-track-it-on-DexScan-Arc-uses-stablecoins-for-gas-starting-with-USDC-Transactions-finish-in-under-a-second-EVM-compatible-from-day-one-Track-Arc-tokens-on-DexScan",
+    "source": "@coinmarketcap",
+    "published": "Wed Sep 16 2026 13:15:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "European Commission President Ursula von der Leyen said the European Union is opening the door for Canada to become its first 'associate member.' Julia Payne explains what this 'unique alliance' means",
     "link": "https://cryptopanic.com/news/33397051/European-Commission-President-Ursula-von-der-Leyen-said-the-European-Union-is-opening-the-door-for-Canada-to-become-its-first-associate-member-Julia-Payne-explains-what-this-unique-alliance-means",
     "source": "@reutersbiz",
     "published": "Wed Sep 16 2026 13:15:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Anthony Pompliano's ProCap Financial sold 50 Bitcoin to buy back its own shares at a 22% discount.\n\nThe company still holds 5,254 BTC worth $398M.",
+    "link": "https://cryptopanic.com/news/33397234/JUST-IN-Anthony-Pomplianos-ProCap-Financial-sold-50-Bitcoin-to-buy-back-its-own-shares-at-a-22-discount-The-company-still-holds-5254-BTC-worth-398M",
+    "source": "@btc_archive",
+    "published": "Wed Sep 16 2026 13:14:13 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -18,6 +102,13 @@
     "link": "https://cryptopanic.com/news/33397041/FCA-Guidance-Lands-Two-Weeks-Before-UK-Crypto-Authorization-Window-Opens",
     "source": "decrypt.co",
     "published": "Wed Sep 16 2026 13:12:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: ️ Circle launched the Arc mainnet, its new L1 blockchain designed for financial markets and the AI agent economy, with BlackRock, Visa, Mastercard, and the DTCC serving as founding validators.",
+    "link": "https://cryptopanic.com/news/33397235/LATEST-Circle-launched-the-Arc-mainnet-its-new-L1-blockchain-designed-for-financial-markets-and-the-AI-agent-economy-with-BlackRock-Visa-Mastercard-and-the-DTCC-serving-as-founding-validators",
+    "source": "@coinmarketcap",
+    "published": "Wed Sep 16 2026 13:11:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -91,6 +182,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "INTEL: Bernstein expects the SEC and CFTC to move “aggressively and swiftly” on crypto rules after the CLARITY Act failed to advance\n\nStablecoin rewards on idle balances can continue unchanged",
+    "link": "https://cryptopanic.com/news/33397155/INTEL-Bernstein-expects-the-SEC-and-CFTC-to-move-aggressively-and-swiftly-on-crypto-rules-after-the-CLARITY-Act-failed-to-advance-Stablecoin-rewards-on-idle-balances-can-continue-unchanged",
+    "source": "@solidintel_x",
+    "published": "Wed Sep 16 2026 12:58:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Users can now trade Arc tokens on PumpFun \n\n@Arc is now integrated into the leading multichain launchpad, @Pumpfun, letting users trade supported assets with $USDC. \n\nThrough this integration, users will earn \"Callout Rewards,\" and the network's high-speed infrastructure enables",
     "link": "https://cryptopanic.com/news/33397062/Users-can-now-trade-Arc-tokens-on-PumpFun-Arc-is-now-integrated-into-the-leading-multichain-launchpad-Pumpfun-letting-users-trade-supported-assets-with-USDC-Through-this-integration-users-will-earn-Callout-Rewards-and-the-networks-high-speed-infrastructure-enables",
     "source": "@bscnews",
@@ -109,104 +207,6 @@
     "link": "https://cryptopanic.com/news/33396921/2-Apple-Had-a-Product-Hardware-Had-a-Forecast-Apple-launched-a-phone-customers-can-order-now-NVIDIA-and-TSMC-were-trading-on-how-much-AI-capacity-customers-might-need-years-from-now-When-investors-shortened-their-time-horizon-a-ship-date-beat-a-capital-spending-forecast",
     "source": "@coinmarketcap",
     "published": "Wed Sep 16 2026 12:58:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "1/ CMC Asset Watch: The AI Trade Flipped Overnight.\n\nOn Friday, hardware was still the AI trade. By Monday, safety was.\n\nCyber Became the Hedge 🧵\n\nCrowdStrike surged after AI leaders called for slower frontier development. Cloudflare entered the week with momentum behind a",
-    "link": "https://cryptopanic.com/news/33396920/1-CMC-Asset-Watch-The-AI-Trade-Flipped-Overnight-On-Friday-hardware-was-still-the-AI-trade-By-Monday-safety-was-Cyber-Became-the-Hedge-CrowdStrike-surged-after-AI-leaders-called-for-slower-frontier-development-Cloudflare-entered-the-week-with-momentum-behind-a",
-    "source": "@coinmarketcap",
-    "published": "Wed Sep 16 2026 12:58:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "REMINDER: U.S. House committee to vote on Bitcoin Strategic Reserve (HR 8957) at 10 AM ET today\n\n• Mandates study of budget-neutral BTC acquisition.\n\n• Extends wash-sale rules to crypto.\n\n• Requires 20-year hold on future reserves.",
-    "link": "https://cryptopanic.com/news/33396915/REMINDER-US-House-committee-to-vote-on-Bitcoin-Strategic-Reserve-HR-8957-at-10-AM-ET-today-Mandates-study-of-budget-neutral-BTC-acquisition-Extends-wash-sale-rules-to-crypto-Requires-20-year-hold-on-future-reserves",
-    "source": "@btc_archive",
-    "published": "Wed Sep 16 2026 12:57:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Bernstein expects \"aggressive and swift\" SEC and CFTC rulemaking to compensate for the CLARITY Act's failure, saying agencies will move to make up for time lost in negotiations.",
-    "link": "https://cryptopanic.com/news/33397048/JUST-IN-Bernstein-expects-aggressive-and-swift-SEC-and-CFTC-rulemaking-to-compensate-for-the-CLARITY-Acts-failure-saying-agencies-will-move-to-make-up-for-time-lost-in-negotiations",
-    "source": "@coindesk",
-    "published": "Wed Sep 16 2026 12:56:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Seoul's SHIB Phenomenon: Korean Demand Rivals Binance Spot Liquidity for Shiba Inu Coin",
-    "link": "https://cryptopanic.com/news/33397022/Seouls-SHIB-Phenomenon-Korean-Demand-Rivals-Binance-Spot-Liquidity-for-Shiba-Inu-Coin",
-    "source": "u.today",
-    "published": "Wed Sep 16 2026 12:55:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CLARITY Act Failure Sends XRP Down 8%, but ETFs Still Holding 1.1 Billion Tokens",
-    "link": "https://cryptopanic.com/news/33396909/CLARITY-Act-Failure-Sends-XRP-Down-8-but-ETFs-Still-Holding-11-Billion-Tokens",
-    "source": "coinpaper.com",
-    "published": "Wed Sep 16 2026 12:53:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Did CZ just say \"Buy the dip\"? \n\n@CZ_Binance once again reaffirms his well-known approach of aggressively accumulating capital during drawdowns, strengthening the foundation for both \"institutional bitcoin\" and retail adoption stories. \n\nIn a recent X post, he wrote, \"Every dip",
-    "link": "https://cryptopanic.com/news/33397061/Did-CZ-just-say-Buy-the-dip-CZ_Binance-once-again-reaffirms-his-well-known-approach-of-aggressively-accumulating-capital-during-drawdowns-strengthening-the-foundation-for-both-institutional-bitcoin-and-retail-adoption-stories-In-a-recent-X-post-he-wrote-Every-dip",
-    "source": "@bscnews",
-    "published": "Wed Sep 16 2026 12:52:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "From the Clarity Act being put on ice to big backing for UK's Reform from a crypto heavyweight. Here's what you need to know from the world of crypto",
-    "link": "https://cryptopanic.com/news/33397050/From-the-Clarity-Act-being-put-on-ice-to-big-backing-for-UKs-Reform-from-a-crypto-heavyweight-Heres-what-you-need-to-know-from-the-world-of-crypto",
-    "source": "@reutersbiz",
-    "published": "Wed Sep 16 2026 12:50:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bernstein says Clarity Act failure allows stablecoin rewards on idle balances to continue, expects ‘swift’ SEC and CFTC rulemaking",
-    "link": "https://cryptopanic.com/news/33396889/Bernstein-says-Clarity-Act-failure-allows-stablecoin-rewards-on-idle-balances-to-continue-expects-swift-SEC-and-CFTC-rulemaking",
-    "source": "theblock.co",
-    "published": "Wed Sep 16 2026 12:47:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitget Reports 122% Reserve Ratio as Protection Fund Averages $382M",
-    "link": "https://cryptopanic.com/news/33396847/Bitget-Reports-122-Reserve-Ratio-as-Protection-Fund-Averages-382M",
-    "source": "coinpaper.com",
-    "published": "Wed Sep 16 2026 12:40:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Near Intent Adoption is unreal\n\nThe @NEARProtocol “Intents” framework (@near_intents) has surpassed $4.06 billion in transaction volume over the past 30 days.\n\nThis indicates rapid adoption of the intent-based transaction mechanism, where users specify the outcome they want",
-    "link": "https://cryptopanic.com/news/33397060/Near-Intent-Adoption-is-unreal-The-NEARProtocol-Intents-framework-near_intents-has-surpassed-406-billion-in-transaction-volume-over-the-past-30-days-This-indicates-rapid-adoption-of-the-intent-based-transaction-mechanism-where-users-specify-the-outcome-they-want",
-    "source": "@bscnews",
-    "published": "Wed Sep 16 2026 12:38:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tired of not understanding the real impact of crypto news stories...?\n\nAt BSCN, we know that there's no shortage of significant crypto industry updates, but we also know that extracting actionable insights from the news can be difficult to say the least.\n\nIndustry-leading data",
-    "link": "https://cryptopanic.com/news/33397059/Tired-of-not-understanding-the-real-impact-of-crypto-news-stories-At-BSCN-we-know-that-theres-no-shortage-of-significant-crypto-industry-updates-but-we-also-know-that-extracting-actionable-insights-from-the-news-can-be-difficult-to-say-the-least-Industry-leading-data",
-    "source": "@bscnews",
-    "published": "Wed Sep 16 2026 12:38:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🤖 OpenAI president Greg Brockman says the company has slowed down several advanced AI runs and reworked internal safety processes following the Hugging Face hack.",
-    "link": "https://cryptopanic.com/news/33396919/LATEST-OpenAI-president-Greg-Brockman-says-the-company-has-slowed-down-several-advanced-AI-runs-and-reworked-internal-safety-processes-following-the-Hugging-Face-hack",
-    "source": "@coinmarketcap",
-    "published": "Wed Sep 16 2026 12:35:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "What does $BTC give you that gold can’t?\n\nChristopher Perkins says Bitcoin may be a “more perfect” store of value:\n\nFixed supply.\nGlobal portability.\n24/7 transferability.\n\nAnd in a crisis, mobility matters.\n\n@perkinscr97 from @FTDA_US explains.",
-    "link": "https://cryptopanic.com/news/33397057/What-does-BTC-give-you-that-gold-cant-Christopher-Perkins-says-Bitcoin-may-be-a-more-perfect-store-of-value-Fixed-supply-Global-portability-247-transferability-And-in-a-crisis-mobility-matters-perkinscr97-from-FTDA_US-explains",
-    "source": "@realallincrypto",
-    "published": "Wed Sep 16 2026 12:34:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Deutsche Bank to launch Bitcoin & crypto custody for institutional clients later this year",
-    "link": "https://cryptopanic.com/news/33396914/JUST-IN-Deutsche-Bank-to-launch-Bitcoin-amp-crypto-custody-for-institutional-clients-later-this-year",
-    "source": "@btc_archive",
-    "published": "Wed Sep 16 2026 12:31:30 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
