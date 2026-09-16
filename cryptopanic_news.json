@@ -1,5 +1,33 @@
 [
   {
+    "title": "🇺🇸 TRUMP: “I want the Fed to be independent, but my opinion, I'm very good at this stuff, is interest rates are too high.\"",
+    "link": "https://cryptopanic.com/news/33400115/TRUMP-I-want-the-Fed-to-be-independent-but-my-opinion-Im-very-good-at-this-stuff-is-interest-rates-are-too-high",
+    "source": "@cointelegraph",
+    "published": "Wed Sep 16 2026 23:39:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Get the full picture, not just the headline. The CoinDesk app keeps you ahead of what’s happening across crypto.\n\nDownload now: \n\nExclusively sponsored by \n@Grayscale\n.",
+    "link": "https://cryptopanic.com/news/33400113/Get-the-full-picture-not-just-the-headline-The-CoinDesk-app-keeps-you-ahead-of-whats-happening-across-crypto-Download-now-Exclusively-sponsored-by-Grayscale",
+    "source": "@coindesk",
+    "published": "Wed Sep 16 2026 23:25:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "New capital inflows for spot DOGE and HBAR ETFs.\n\nSpot ETF products for $DOGE and @Hedera came alive yesterday, with net inflows of +$285K and +$103K, respectively.\n\nCanary's ETF now holds 1.72% of HBAR's total supply, while the three Dogecoin ETFs hold only 0.09% of DOGE's",
+    "link": "https://cryptopanic.com/news/33400120/New-capital-inflows-for-spot-DOGE-and-HBAR-ETFs-Spot-ETF-products-for-DOGE-and-Hedera-came-alive-yesterday-with-net-inflows-of-285K-and-103K-respectively-Canarys-ETF-now-holds-172-of-HBARs-total-supply-while-the-three-Dogecoin-ETFs-hold-only-009-of-DOGEs",
+    "source": "@bscnews",
+    "published": "Wed Sep 16 2026 23:25:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇺🇸 House Majority Whip Tom Emmer told Fox Business the CLARITY Act's failed Senate cloture vote \"doesn't spell doom\" but \"just delays it until after the midterms.\"",
+    "link": "https://cryptopanic.com/news/33400084/LATEST-House-Majority-Whip-Tom-Emmer-told-Fox-Business-the-CLARITY-Acts-failed-Senate-cloture-vote-doesnt-spell-doom-but-just-delays-it-until-after-the-midterms",
+    "source": "@coinmarketcap",
+    "published": "Wed Sep 16 2026 23:23:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: 🇺🇸🇪🇺 President Trump threatens to \"stop trading with Europe\" if Canada joins the European Union as an associate member.",
     "link": "https://cryptopanic.com/news/33400060/JUST-IN-President-Trump-threatens-to-stop-trading-with-Europe-if-Canada-joins-the-European-Union-as-an-associate-member",
     "source": "@watcherguru",
@@ -7,10 +35,31 @@
     "sentiment": "neutral"
   },
   {
+    "title": "What is an @XDCNetwork Masternode Validator...?\n\nUnderstand one of the most important parts of the entire XDC ecosystem, in under 5 minutes ⬇️",
+    "link": "https://cryptopanic.com/news/33400119/What-is-an-XDCNetwork-Masternode-Validator-Understand-one-of-the-most-important-parts-of-the-entire-XDC-ecosystem-in-under-5-minutes",
+    "source": "@bscnews",
+    "published": "Wed Sep 16 2026 23:03:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hyperliquid is taking a ANOTHER HUGE step into regulated U.S. finance. 🇺🇸\n\nKraken’s parent Payward plans to use @HyperliquidX’s technology to bring regulated perpetual futures to American traders.\n\nWall Street markets moving onchain with the help of $HYPE",
+    "link": "https://cryptopanic.com/news/33400118/Hyperliquid-is-taking-a-ANOTHER-HUGE-step-into-regulated-US-finance-Krakens-parent-Payward-plans-to-use-HyperliquidXs-technology-to-bring-regulated-perpetual-futures-to-American-traders-Wall-Street-markets-moving-onchain-with-the-help-of-HYPE",
+    "source": "@realallincrypto",
+    "published": "Wed Sep 16 2026 23:00:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Peter Schiff: \"We Need Dramatic Cuts\" — Social Security, Medicare, Defense, All of It",
     "link": "https://cryptopanic.com/news/33400077/Peter-Schiff-We-Need-Dramatic-Cuts-Social-Security-Medicare-Defense-All-of-It",
     "source": "BitcoinMagazine",
     "published": "Wed Sep 16 2026 23:00:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "TODAY: OpenAI unveiled a new framework for disclosing AI misalignment alongside six cases involving models concealing mistakes, fabricating data and taking unauthorized actions.",
+    "link": "https://cryptopanic.com/news/33400114/TODAY-OpenAI-unveiled-a-new-framework-for-disclosing-AI-misalignment-alongside-six-cases-involving-models-concealing-mistakes-fabricating-data-and-taking-unauthorized-actions",
+    "source": "@cointelegraph",
+    "published": "Wed Sep 16 2026 23:00:21 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -158,55 +207,6 @@
     "link": "https://cryptopanic.com/news/33399827/Stock-Market-Today-Dow-Drops-12-SP-500-Falls-After-Fed-Rate-Hike",
     "source": "coinpaper.com",
     "published": "Wed Sep 16 2026 21:57:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana gets the default spot for stablecoins at FDIC-insured bank",
-    "link": "https://cryptopanic.com/news/33399875/Solana-gets-the-default-spot-for-stablecoins-at-FDIC-insured-bank",
-    "source": "thestreet.com",
-    "published": "Wed Sep 16 2026 21:53:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto Tax Bill Clears House Committee After Clarity Act Setback",
-    "link": "https://cryptopanic.com/news/33399803/Crypto-Tax-Bill-Clears-House-Committee-After-Clarity-Act-Setback",
-    "source": "@decryptmedia",
-    "published": "Wed Sep 16 2026 21:47:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Zebec and AllUnity launch German euro stablecoin employee-benefits program on Stellar \n\nEmployers can now pay staff perks like monthly benefit allowances in $EURAU, @AllUnityStable's regulated euro stablecoin. German tax law lets these perks go untaxed up to a set monthly limit.",
-    "link": "https://cryptopanic.com/news/33399895/Zebec-and-AllUnity-launch-German-euro-stablecoin-employee-benefits-program-on-Stellar-Employers-can-now-pay-staff-perks-like-monthly-benefit-allowances-in-EURAU-AllUnityStables-regulated-euro-stablecoin-German-tax-law-lets-these-perks-go-untaxed-up-to-a-set-monthly-limit",
-    "source": "@bscnews",
-    "published": "Wed Sep 16 2026 21:44:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Microsoft’s Suleyman calls Anthropic’s Claude training a dangerous mistake",
-    "link": "https://cryptopanic.com/news/33399791/Microsofts-Suleyman-calls-Anthropics-Claude-training-a-dangerous-mistake",
-    "source": "cryptopolitan.com",
-    "published": "Wed Sep 16 2026 21:43:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "WATCH: @IIICapital of @Strive - Why Bitcoin may be set up for an \"explosive bull market\" \n\nFrom @watchbmtv",
-    "link": "https://cryptopanic.com/news/33399806/WATCH-IIICapital-of-Strive-Why-Bitcoin-may-be-set-up-for-an-explosive-bull-market-From-watchbmtv",
-    "source": "@bitcoinmagazine",
-    "published": "Wed Sep 16 2026 21:41:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Scott Melker aka The Wolf of All Streets (@scottmelker) tells @itsciaranlyons he had “zero expectation” that the CLARITY Act would pass.\n\n“Everything rationally told me this was the way the CLARITY Act was going to go. The waters were just way too murky, with Democrats giving",
-    "link": "https://cryptopanic.com/news/33399882/Scott-Melker-aka-The-Wolf-of-All-Streets-scottmelker-tells-itsciaranlyons-he-had-zero-expectation-that-the-CLARITY-Act-would-pass-Everything-rationally-told-me-this-was-the-way-the-CLARITY-Act-was-going-to-go-The-waters-were-just-way-too-murky-with-Democrats-giving",
-    "source": "@cointelegraph",
-    "published": "Wed Sep 16 2026 21:41:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Anthropic IPO Underwriter Says AI Spending Won't Slow: Can He Be Neutral?",
-    "link": "https://cryptopanic.com/news/33399902/Anthropic-IPO-Underwriter-Says-AI-Spending-Wont-Slow-Can-He-Be-Neutral",
-    "source": "beincrypto.com",
-    "published": "Wed Sep 16 2026 21:41:12 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
