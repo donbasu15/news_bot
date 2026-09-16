@@ -1,5 +1,33 @@
 [
   {
+    "title": "XRP Ledger Rebuilds Batch After Critical Security Flaw\n\nRippleX has released a rebuilt version of the XRP Ledger's Batch amendment.\n\nThe original implementation was pulled after a signature validation flaw was discovered. The bug could have allowed unauthorized transactions",
+    "link": "https://cryptopanic.com/news/33394237/XRP-Ledger-Rebuilds-Batch-After-Critical-Security-Flaw-RippleX-has-released-a-rebuilt-version-of-the-XRP-Ledgers-Batch-amendment-The-original-implementation-was-pulled-after-a-signature-validation-flaw-was-discovered-The-bug-could-have-allowed-unauthorized-transactions",
+    "source": "@bscnews",
+    "published": "Wed Sep 16 2026 04:47:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BULLISH: Bitcoin miner MARA bought 1,292 BTC, worth roughly $98.6M, per onchain data.",
+    "link": "https://cryptopanic.com/news/33394231/BULLISH-Bitcoin-miner-MARA-bought-1292-BTC-worth-roughly-986M-per-onchain-data",
+    "source": "@cointelegraph",
+    "published": "Wed Sep 16 2026 04:45:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Breakingviews - COMMENTARY: Private credit hit is drama waiting for crisis",
+    "link": "https://cryptopanic.com/news/33394234/Breakingviews-COMMENTARY-Private-credit-hit-is-drama-waiting-for-crisis",
+    "source": "@reutersbiz",
+    "published": "Wed Sep 16 2026 04:45:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CoinEx is shutting down after nearly nine years in crypto.\n\nAfter launching in December 2017, the exchange survived multiple bull and bear markets, but says the prolonged downturn, falling trading volumes and rising compliance costs have made continuing unsustainable. \n\nSpot",
+    "link": "https://cryptopanic.com/news/33394235/CoinEx-is-shutting-down-after-nearly-nine-years-in-crypto-After-launching-in-December-2017-the-exchange-survived-multiple-bull-and-bear-markets-but-says-the-prolonged-downturn-falling-trading-volumes-and-rising-compliance-costs-have-made-continuing-unsustainable-Spot",
+    "source": "@realallincrypto",
+    "published": "Wed Sep 16 2026 04:45:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Solana nearly froze as a single routing error took 29% of the network stake offline",
     "link": "https://cryptopanic.com/news/33394178/Solana-nearly-froze-as-a-single-routing-error-took-29-of-the-network-stake-offline",
     "source": "cryptoslate.com",
@@ -7,10 +35,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "️ NOW: CZ says the silver lining of the CLARITY Act's failure is that stablecoins can keep offering yield, adding that \"technology advance continues.\"",
+    "link": "https://cryptopanic.com/news/33394230/NOW-CZ-says-the-silver-lining-of-the-CLARITY-Acts-failure-is-that-stablecoins-can-keep-offering-yield-adding-that-technology-advance-continues",
+    "source": "@cointelegraph",
+    "published": "Wed Sep 16 2026 04:30:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "US House moves to curb rising power bills linked to AI data centers",
     "link": "https://cryptopanic.com/news/33394115/US-House-moves-to-curb-rising-power-bills-linked-to-AI-data-centers",
     "source": "cryptopolitan.com",
     "published": "Wed Sep 16 2026 04:29:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "How does Avalanche (@avax) achieve sub-second finality?\n\nOur latest deep dive breaks down Snowman consensus, its random validator sampling, and how Avalanche avoids all-to-all communication.\n\nRead the full technical and ecosystem analysis",
+    "link": "https://cryptopanic.com/news/33394236/How-does-Avalanche-avax-achieve-sub-second-finality-Our-latest-deep-dive-breaks-down-Snowman-consensus-its-random-validator-sampling-and-how-Avalanche-avoids-all-to-all-communication-Read-the-full-technical-and-ecosystem-analysis",
+    "source": "@bscnews",
+    "published": "Wed Sep 16 2026 04:24:20 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -165,48 +207,6 @@
     "link": "https://cryptopanic.com/news/33393806/Whale-0x4553-is-rotating-from-BTC-into-ETH-12-hours-ago-the-whale-swapped-512-WBTC-3864M-and-354-cbBTC-2673M-for-26924-ETH-6457M",
     "source": "@lookonchain",
     "published": "Wed Sep 16 2026 02:52:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "‘Nothing truly structural’: Analysts downplay Clarity Act defeat as bitcoin, major crypto stocks dip",
-    "link": "https://cryptopanic.com/news/33393778/Nothing-truly-structural-Analysts-downplay-Clarity-Act-defeat-as-bitcoin-major-crypto-stocks-dip",
-    "source": "theblock.co",
-    "published": "Wed Sep 16 2026 02:48:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Glassnode says altcoins gained 21% over the past month but still lost 0.9 percentage points of market share to Bitcoin over 90 days, as capital keeps flowing toward BTC first.",
-    "link": "https://cryptopanic.com/news/33393867/LATEST-Glassnode-says-altcoins-gained-21-over-the-past-month-but-still-lost-09-percentage-points-of-market-share-to-Bitcoin-over-90-days-as-capital-keeps-flowing-toward-BTC-first",
-    "source": "@coinmarketcap",
-    "published": "Wed Sep 16 2026 02:35:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bank of Japan, Fed Rate Hikes Expected Same Week: Will Yen Rally?",
-    "link": "https://cryptopanic.com/news/33393822/Bank-of-Japan-Fed-Rate-Hikes-Expected-Same-Week-Will-Yen-Rally",
-    "source": "beincrypto.com",
-    "published": "Wed Sep 16 2026 02:31:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ NOW: Meta CEO Mark Zuckerberg says AI labs have strong incentives to build safe, aligned models, arguing that \"any lab that doesn't focus on alignment will fall behind.\"",
-    "link": "https://cryptopanic.com/news/33393770/NOW-Meta-CEO-Mark-Zuckerberg-says-AI-labs-have-strong-incentives-to-build-safe-aligned-models-arguing-that-any-lab-that-doesnt-focus-on-alignment-will-fall-behind",
-    "source": "@cointelegraph",
-    "published": "Wed Sep 16 2026 02:30:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stellar is now THE home of tokenised funds.\n\nAccording to data from The @RWAFoundation_, @StellarOrg has added $2.5B in tokenised funds in 2026 - Something achieved by only one other network in @BNBCHAIN.\n\nStellar is now the #1 chain for tokenised funds, beating out the likes of",
-    "link": "https://cryptopanic.com/news/33393772/Stellar-is-now-THE-home-of-tokenised-funds-According-to-data-from-The-RWAFoundation_-StellarOrg-has-added-25B-in-tokenised-funds-in-2026-Something-achieved-by-only-one-other-network-in-BNBCHAIN-Stellar-is-now-the-1-chain-for-tokenised-funds-beating-out-the-likes-of",
-    "source": "@bscnews",
-    "published": "Wed Sep 16 2026 02:08:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin, Ethereum, XRP, Dogecoin Sink Amid Crypto Bill Failure, Rate Hike Expectations: Analyst Says 'Don't Chase' BTC Bottom, Shares Level They Are Watching",
-    "link": "https://cryptopanic.com/news/33393679/Bitcoin-Ethereum-XRP-Dogecoin-Sink-Amid-Crypto-Bill-Failure-Rate-Hike-Expectations-Analyst-Says-Dont-Chase-BTC-Bottom-Shares-Level-They-Are-Watching",
-    "source": "feeds2.benzinga.com",
-    "published": "Wed Sep 16 2026 02:02:48 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
