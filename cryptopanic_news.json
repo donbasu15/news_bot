@@ -1,5 +1,40 @@
 [
   {
+    "title": "JPMorgan says bitcoin could get more support than gold if ETF hedging eases",
+    "link": "https://cryptopanic.com/news/33405807/JPMorgan-says-bitcoin-could-get-more-support-than-gold-if-ETF-hedging-eases",
+    "source": "theblock.co",
+    "published": "Thu Sep 17 2026 17:48:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "@AvaLabs President & COO @CharleyCooper01 says at @avax Summit that institutions already committed to crypto innovation won’t be slowed by the CLARITY Act’s failure.",
+    "link": "https://cryptopanic.com/news/33405762/AvaLabs-President-amp-COO-CharleyCooper01-says-at-avax-Summit-that-institutions-already-committed-to-crypto-innovation-wont-be-slowed-by-the-CLARITY-Acts-failure",
+    "source": "@coindesk",
+    "published": "Thu Sep 17 2026 17:45:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SEC grants five-year exemption for onchain trading of tokenized US stocks",
+    "link": "https://cryptopanic.com/news/33405800/SEC-grants-five-year-exemption-for-onchain-trading-of-tokenized-US-stocks",
+    "source": "cryptopolitan.com",
+    "published": "Thu Sep 17 2026 17:45:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ondo token jumps as SEC opens door to onchain stock trading",
+    "link": "https://cryptopanic.com/news/33405818/Ondo-token-jumps-as-SEC-opens-door-to-onchain-stock-trading",
+    "source": "thestreet.com",
+    "published": "Thu Sep 17 2026 17:43:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Reform UK wants to cut crypto investor tax by £100M a year, report",
+    "link": "https://cryptopanic.com/news/33405747/Reform-UK-wants-to-cut-crypto-investor-tax-by-100M-a-year-report",
+    "source": "protos.com",
+    "published": "Thu Sep 17 2026 17:42:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "🇺🇸 HUGE: The average US 30-year mortgage rate rose to a 19-month high of 7.24%",
     "link": "https://cryptopanic.com/news/33405765/HUGE-The-average-US-30-year-mortgage-rate-rose-to-a-19-month-high-of-724",
     "source": "@cointelegraph",
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33405687/XRP-Up-3-as-Ripple-Adds-XRP-Payments-to-Stripe-Tempos-AI-Standard",
     "source": "feeds2.benzinga.com",
     "published": "Thu Sep 17 2026 17:03:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 JUST IN: 22 of 25 major banks expect the Fed to hike rates again, with eight forecasting another 50 basis points of tightening.",
-    "link": "https://cryptopanic.com/news/33405763/JUST-IN-22-of-25-major-banks-expect-the-Fed-to-hike-rates-again-with-eight-forecasting-another-50-basis-points-of-tightening",
-    "source": "@cointelegraph",
-    "published": "Thu Sep 17 2026 17:01:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Bounces as Markets Brace for the Fed’s Next Move",
-    "link": "https://cryptopanic.com/news/33405558/Bitcoin-Bounces-as-Markets-Brace-for-the-Feds-Next-Move",
-    "source": "decrypt.co",
-    "published": "Thu Sep 17 2026 17:01:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BlackRock moves $62M in Bitcoin and Ethereum – Here’s why it matters",
-    "link": "https://cryptopanic.com/news/33405556/BlackRock-moves-62M-in-Bitcoin-and-Ethereum-Heres-why-it-matters",
-    "source": "ambcrypto.com",
-    "published": "Thu Sep 17 2026 17:00:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CoinMarketCap | WebSocket \n\nA price moves between two of your requests.\nOne page now documents the stream that fixes it.\n\nStart pushing market data instead of pulling:\n\n Live prices streamed over one connection\n Subscribe to real-time swaps, pools and holder events\nNo",
-    "link": "https://cryptopanic.com/news/33405710/CoinMarketCap-WebSocket-A-price-moves-between-two-of-your-requests-One-page-now-documents-the-stream-that-fixes-it-Start-pushing-market-data-instead-of-pulling-Live-prices-streamed-over-one-connection-Subscribe-to-real-time-swaps-pools-and-holder-events-No",
-    "source": "@coinmarketcap",
-    "published": "Thu Sep 17 2026 17:00:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: THE SEC JUST OPENED THE DOOR FOR TOKENISED U.S. STOCKS TO TRADE ON BLOCKCHAIN!\n\nHuge as their new release today states says tokenisation can cut costs, improve transparency and make assets easier to trade. \n\nBullish for $HBAR $XLM $XRP!",
-    "link": "https://cryptopanic.com/news/33405526/BREAKING-THE-SEC-JUST-OPENED-THE-DOOR-FOR-TOKENISED-US-STOCKS-TO-TRADE-ON-BLOCKCHAIN-Huge-as-their-new-release-today-states-says-tokenisation-can-cut-costs-improve-transparency-and-make-assets-easier-to-trade-Bullish-for-HBAR-XLM-XRP",
-    "source": "@realallincrypto",
-    "published": "Thu Sep 17 2026 17:00:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
