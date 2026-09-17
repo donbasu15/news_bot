@@ -1,5 +1,47 @@
 [
   {
+    "title": "$500K Bitcoin by 2030 is The Conservative Estimate",
+    "link": "https://cryptopanic.com/news/33406958/500K-Bitcoin-by-2030-is-The-Conservative-Estimate",
+    "source": "BitcoinMagazine",
+    "published": "Thu Sep 17 2026 22:37:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Treasury hits Iran-linked BitBank as sanctions target crypto rails",
+    "link": "https://cryptopanic.com/news/33406946/Treasury-hits-Iran-linked-BitBank-as-sanctions-target-crypto-rails",
+    "source": "cryptopolitan.com",
+    "published": "Thu Sep 17 2026 22:36:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "OpenAI Models Are Writing Their Own Jailbreak Instructions—And Sometimes Obeying Them",
+    "link": "https://cryptopanic.com/news/33406909/OpenAI-Models-Are-Writing-Their-Own-Jailbreak-InstructionsAnd-Sometimes-Obeying-Them",
+    "source": "decrypt.co",
+    "published": "Thu Sep 17 2026 22:31:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇺🇸 SEC Commissioner Hester Peirce says many market participants view 24-hour equity trading as \"inevitable, but not entirely welcome,\" citing thin overnight order books, wider spreads, and back-office strain.",
+    "link": "https://cryptopanic.com/news/33406964/LATEST-SEC-Commissioner-Hester-Peirce-says-many-market-participants-view-24-hour-equity-trading-as-inevitable-but-not-entirely-welcome-citing-thin-overnight-order-books-wider-spreads-and-back-office-strain",
+    "source": "@coinmarketcap",
+    "published": "Thu Sep 17 2026 22:25:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Cardano $ADA's Strike Finance surpasses 5,700 unique traders, and has generated over $16M in volume from Hyperliquid copy trading in less than 30 days.",
+    "link": "https://cryptopanic.com/news/33406969/JUST-IN-Cardano-ADAs-Strike-Finance-surpasses-5700-unique-traders-and-has-generated-over-16M-in-volume-from-Hyperliquid-copy-trading-in-less-than-30-days",
+    "source": "@angrycryptoshow",
+    "published": "Thu Sep 17 2026 22:24:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Going LIVE now! Join the Moongang and discuss what the SEC's Tokenization Innovation Exemption is and how it is one of the first steps towards the mass adoption of cryptocurrency!\n\nCrypto Innovation Exemption Enacted! + $76,500 BTC & $2,450 ETH - Ep.#992",
+    "link": "https://cryptopanic.com/news/33406904/Going-LIVE-now-Join-the-Moongang-and-discuss-what-the-SECs-Tokenization-Innovation-Exemption-is-and-how-it-is-one-of-the-first-steps-towards-the-mass-adoption-of-cryptocurrency-Crypto-Innovation-Exemption-Enacted-76500-BTC-amp-2450-ETH-Ep992",
+    "source": "@cultivatecrypto",
+    "published": "Thu Sep 17 2026 22:17:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin's BIG Win: CLARITY Act Failure BENEFITS Crypto!",
     "link": "https://cryptopanic.com/news/33406888/Bitcoins-BIG-Win-CLARITY-Act-Failure-BENEFITS-Crypto",
     "source": "SimplyBitcoin",
@@ -7,10 +49,31 @@
     "sentiment": "neutral"
   },
   {
+    "title": "CoinMarketCap | DEX API \n\nThe moment Arc's mainnet went live, its DEX data was already on our API.\n\n Pass network_slug=arc to every DEX request\n Resolve any Arc contract to its live pairs\n Pull the same feed behind our DexScan page\n\nThat's the turnaround you get on",
+    "link": "https://cryptopanic.com/news/33406963/CoinMarketCap-DEX-API-The-moment-Arcs-mainnet-went-live-its-DEX-data-was-already-on-our-API-Pass-network_slugarc-to-every-DEX-request-Resolve-any-Arc-contract-to-its-live-pairs-Pull-the-same-feed-behind-our-DexScan-page-Thats-the-turnaround-you-get-on",
+    "source": "@coinmarketcap",
+    "published": "Thu Sep 17 2026 22:15:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Spot AVAX ETFs see net outflows for the first time ever.\n\nJust two days after clocking an impressive net inflow day of +$1.57M, spot @avax ETFs witnessed their first negative outflow day.\n\nOn September 16, spot AVAX ETFs clocked a net outflow of -$595K.\n\nThey still currently hold",
     "link": "https://cryptopanic.com/news/33406861/Spot-AVAX-ETFs-see-net-outflows-for-the-first-time-ever-Just-two-days-after-clocking-an-impressive-net-inflow-day-of-157M-spot-avax-ETFs-witnessed-their-first-negative-outflow-day-On-September-16-spot-AVAX-ETFs-clocked-a-net-outflow-of-595K-They-still-currently-hold",
     "source": "@bscnews",
     "published": "Thu Sep 17 2026 22:13:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BREAKING: Liquid Network says LBTC to remain locked until full 1:1 Bitcoin backing.\n\n600 BTC still missing after the hack.",
+    "link": "https://cryptopanic.com/news/33406962/BREAKING-Liquid-Network-says-LBTC-to-remain-locked-until-full-11-Bitcoin-backing-600-BTC-still-missing-after-the-hack",
+    "source": "@btc_archive",
+    "published": "Thu Sep 17 2026 22:12:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: U.S. stock markets will expand to 23-hour weekday trading on Dec. 6\n\nThe SEC says full 24/7 trading could follow",
+    "link": "https://cryptopanic.com/news/33406902/INTEL-US-stock-markets-will-expand-to-23-hour-weekday-trading-on-Dec-6-The-SEC-says-full-247-trading-could-follow",
+    "source": "@solidintel_x",
+    "published": "Thu Sep 17 2026 22:12:02 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -32,6 +95,13 @@
     "link": "https://cryptopanic.com/news/33406870/12-Yields-on-Bitcoin-Credit-Dan-Hillery-on-STRC-SATA-and-the-Next-Wave-of-Products",
     "source": "BitcoinMagazine",
     "published": "Thu Sep 17 2026 21:56:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Polymarket Hires Coinbase's Failed Social-Coin Architect",
+    "link": "https://cryptopanic.com/news/33406898/Polymarket-Hires-Coinbases-Failed-Social-Coin-Architect",
+    "source": "beincrypto.com",
+    "published": "Thu Sep 17 2026 21:54:25 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -63,10 +133,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "BitMEX Just Killed the Trade That Changed Crypto Forever",
+    "link": "https://cryptopanic.com/news/33406897/BitMEX-Just-Killed-the-Trade-That-Changed-Crypto-Forever",
+    "source": "beincrypto.com",
+    "published": "Thu Sep 17 2026 21:39:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JPMorgan Explains How Bitcoin Could Get More Support Than Gold",
     "link": "https://cryptopanic.com/news/33406742/JPMorgan-Explains-How-Bitcoin-Could-Get-More-Support-Than-Gold",
     "source": "coindoo.com",
     "published": "Thu Sep 17 2026 21:37:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "US Launches $215 Million Quantum Race. Should Bitcoin Be Worried?",
+    "link": "https://cryptopanic.com/news/33406896/US-Launches-215-Million-Quantum-Race-Should-Bitcoin-Be-Worried",
+    "source": "beincrypto.com",
+    "published": "Thu Sep 17 2026 21:32:53 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -123,90 +207,6 @@
     "link": "https://cryptopanic.com/news/33406658/JUST-IN-27B-Strive-projected-to-buy-377-Bitcoin-this-week-until-Thursday-Funded-via-SATA-preferred-stock-sales-at-100",
     "source": "@btc_archive",
     "published": "Thu Sep 17 2026 21:15:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Fed Hiked, CLARITY Died - Here's Why Bitcoin Is Still Ready to Explode!",
-    "link": "https://cryptopanic.com/news/33406686/The-Fed-Hiked-CLARITY-Died-Heres-Why-Bitcoin-Is-Still-Ready-to-Explode",
-    "source": "SimplyBitcoin",
-    "published": "Thu Sep 17 2026 21:10:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🤖 INSIGHT: Palantir CEO Alex Karp calls for “reasonable guidelines” on AI and says nationalization may be needed to address the technology’s risks.",
-    "link": "https://cryptopanic.com/news/33406710/INSIGHT-Palantir-CEO-Alex-Karp-calls-for-reasonable-guidelines-on-AI-and-says-nationalization-may-be-needed-to-address-the-technologys-risks",
-    "source": "@cointelegraph",
-    "published": "Thu Sep 17 2026 21:10:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Billionaire Stanley Druckenmiller Abruptly Dumps $61,000,000 of AI Infrastructure Asset, Boosts Stake In Amazon by More Than 1,000%",
-    "link": "https://cryptopanic.com/news/33406651/Billionaire-Stanley-Druckenmiller-Abruptly-Dumps-61000000-of-AI-Infrastructure-Asset-Boosts-Stake-In-Amazon-by-More-Than-1000",
-    "source": "dailyhodl.com",
-    "published": "Thu Sep 17 2026 21:06:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Zcash printed $1,500 today\n\n$ZEC hit an intraday high of $1,503.98 on Thursday, up 15% on the day and 194% over the past month, with market cap of $25.26B and 24-hour volume of $2.86B. A year ago it traded near $51.\n\nThe run followed the NU7 coinholder vote, which closed on",
-    "link": "https://cryptopanic.com/news/33406714/Zcash-printed-1500-today-ZEC-hit-an-intraday-high-of-150398-on-Thursday-up-15-on-the-day-and-194-over-the-past-month-with-market-cap-of-2526B-and-24-hour-volume-of-286B-A-year-ago-it-traded-near-51-The-run-followed-the-NU7-coinholder-vote-which-closed-on",
-    "source": "@bscnews",
-    "published": "Thu Sep 17 2026 21:05:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Michael Saylor calls SEC innovation exemption a \"major breakthrough\" for digital credit.\n\nEnables trading of tokenized $STRC and $MSTR for U.S. investors.",
-    "link": "https://cryptopanic.com/news/33406657/JUST-IN-Michael-Saylor-calls-SEC-innovation-exemption-a-major-breakthrough-for-digital-credit-Enables-trading-of-tokenized-STRC-and-MSTR-for-US-investors",
-    "source": "@btc_archive",
-    "published": "Thu Sep 17 2026 21:01:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BlackRock Confirmed Bitcoin Is Here To Stay",
-    "link": "https://cryptopanic.com/news/33406678/BlackRock-Confirmed-Bitcoin-Is-Here-To-Stay",
-    "source": "AnthonyPompliano",
-    "published": "Thu Sep 17 2026 21:00:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tom Lee’s BIG CALL… and No, Crypto Doesn't Get a Free Ride",
-    "link": "https://cryptopanic.com/news/33406641/Tom-Lees-BIG-CALL-and-No-Crypto-Doesnt-Get-a-Free-Ride",
-    "source": "TheCryptoLark",
-    "published": "Thu Sep 17 2026 21:00:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Is Primed to Hit a New All-Time High Against Gold",
-    "link": "https://cryptopanic.com/news/33406646/Bitcoin-Is-Primed-to-Hit-a-New-All-Time-High-Against-Gold",
-    "source": "BitcoinMagazine",
-    "published": "Thu Sep 17 2026 21:00:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "RUSSIA'S LARGEST STOCK EXCHANGE IS BRINGING CRYPTO DEEP INTO THEIR FINANCIAL SYSTEM!\n\nMoscow Exchange is set to launch crypto perpetual futures on $BTC, $ETH, $SOL, $XRP and $TRX this month!\n\nAnother major regulated market opening the door to crypto!",
-    "link": "https://cryptopanic.com/news/33406713/RUSSIAS-LARGEST-STOCK-EXCHANGE-IS-BRINGING-CRYPTO-DEEP-INTO-THEIR-FINANCIAL-SYSTEM-Moscow-Exchange-is-set-to-launch-crypto-perpetual-futures-on-BTC-ETH-SOL-XRP-and-TRX-this-month-Another-major-regulated-market-opening-the-door-to-crypto",
-    "source": "@realallincrypto",
-    "published": "Thu Sep 17 2026 21:00:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Grayscale: Bitcoin Put in the Bottom at $58,000, 'Green Light' From Here",
-    "link": "https://cryptopanic.com/news/33406661/Grayscale-Bitcoin-Put-in-the-Bottom-at-58000-Green-Light-From-Here",
-    "source": "feeds2.benzinga.com",
-    "published": "Thu Sep 17 2026 21:00:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trader bets millions against S&P 500, gets wiped out in seconds",
-    "link": "https://cryptopanic.com/news/33406698/Trader-bets-millions-against-SP-500-gets-wiped-out-in-seconds",
-    "source": "thestreet.com",
-    "published": "Thu Sep 17 2026 20:57:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Charles Hoskinson: Crypto Will Eat AI as the Data Center Boom Goes Dark",
-    "link": "https://cryptopanic.com/news/33406640/Charles-Hoskinson-Crypto-Will-Eat-AI-as-the-Data-Center-Boom-Goes-Dark",
-    "source": "cryptopotato.com",
-    "published": "Thu Sep 17 2026 20:57:34 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
