@@ -1,5 +1,12 @@
 [
   {
+    "title": "Security Experts Want the US and China to Promise Never to Let AI Control Nukes",
+    "link": "https://cryptopanic.com/news/33406762/Security-Experts-Want-the-US-and-China-to-Promise-Never-to-Let-AI-Control-Nukes",
+    "source": "decrypt.co",
+    "published": "Thu Sep 17 2026 21:46:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JPMorgan Explains How Bitcoin Could Get More Support Than Gold",
     "link": "https://cryptopanic.com/news/33406742/JPMorgan-Explains-How-Bitcoin-Could-Get-More-Support-Than-Gold",
     "source": "coindoo.com",
@@ -32,6 +39,20 @@
     "link": "https://cryptopanic.com/news/33406715/Describe-the-app-and-Arc-will-build-it-arc-launched-Arc-Studio-an-AI-agent-that-turns-a-plain-language-prompt-into-a-full-stack-onchain-app-with-frontend-backend-and-smart-contracts-It-runs-on-the-web-or-as-a-subagent-from-tools-like-Claude-Code-Codex-and-Cursor-Studio",
     "source": "@bscnews",
     "published": "Thu Sep 17 2026 21:25:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BREAKING: Treasury Secretary Scott Bessent warned that anyone using crypto to finance Iran’s regime is within OFAC’s reach and will face sanctions.",
+    "link": "https://cryptopanic.com/news/33406801/BREAKING-Treasury-Secretary-Scott-Bessent-warned-that-anyone-using-crypto-to-finance-Irans-regime-is-within-OFACs-reach-and-will-face-sanctions",
+    "source": "@cryptonwsuk",
+    "published": "Thu Sep 17 2026 21:17:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  World has begun rolling out World Money, a self-custody app for payments, stablecoins and yield, in 150+ countries.",
+    "link": "https://cryptopanic.com/news/33406799/LATEST-World-has-begun-rolling-out-World-Money-a-self-custody-app-for-payments-stablecoins-and-yield-in-150-countries",
+    "source": "@coinmarketcap",
+    "published": "Thu Sep 17 2026 21:17:12 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -186,27 +207,6 @@
     "link": "https://cryptopanic.com/news/33406558/Robinhoods-chain-is-clearing-nearly-10-million-transactions-a-day-Robinhood-Chain-RobinhoodCrypto-has-passed-750M-transactions-since-mainnet-opened-on-July-1-The-explorer-now-shows-over-756M-transactions-across-23M-addresses-with-daily-volume-near-98M-The-Arbitrum-based",
     "source": "@bscnews",
     "published": "Thu Sep 17 2026 20:44:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  S&P Global has agreed to acquire smart contract security firm OpenZeppelin, whose library underpins over $37T in value transferred onchain.",
-    "link": "https://cryptopanic.com/news/33406660/LATEST-SampP-Global-has-agreed-to-acquire-smart-contract-security-firm-OpenZeppelin-whose-library-underpins-over-37T-in-value-transferred-onchain",
-    "source": "@coinmarketcap",
-    "published": "Thu Sep 17 2026 20:41:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin to Outperform Gold if ETF Hedging Eases, JPMorgan Says",
-    "link": "https://cryptopanic.com/news/33406586/Bitcoin-to-Outperform-Gold-if-ETF-Hedging-Eases-JPMorgan-Says",
-    "source": "u.today",
-    "published": "Thu Sep 17 2026 20:38:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "US Plans BTC-e Notices for 300,000 Email Addresses",
-    "link": "https://cryptopanic.com/news/33406527/US-Plans-BTC-e-Notices-for-300000-Email-Addresses",
-    "source": "coindoo.com",
-    "published": "Thu Sep 17 2026 20:34:29 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
