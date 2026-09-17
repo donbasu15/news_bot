@@ -1,5 +1,47 @@
 [
   {
+    "title": "Hackers Force-Installing Chrome Extensions That Steal Bank Passwords and Login Sessions: Report",
+    "link": "https://cryptopanic.com/news/33405161/Hackers-Force-Installing-Chrome-Extensions-That-Steal-Bank-Passwords-and-Login-Sessions-Report",
+    "source": "dailyhodl.com",
+    "published": "Thu Sep 17 2026 15:48:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bolt and Lucid target 25,000 robotaxis for Europe",
+    "link": "https://cryptopanic.com/news/33405140/Bolt-and-Lucid-target-25000-robotaxis-for-Europe",
+    "source": "cryptopolitan.com",
+    "published": "Thu Sep 17 2026 15:45:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cardano’s Splash fix patches the exploit, but leaves 2.4M ADA missing and holders trapped",
+    "link": "https://cryptopanic.com/news/33405138/Cardanos-Splash-fix-patches-the-exploit-but-leaves-24M-ADA-missing-and-holders-trapped",
+    "source": "cryptoslate.com",
+    "published": "Thu Sep 17 2026 15:45:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LEAKED: They just ACCIDENTALLY admitted there's NO Strategic Bitcoin Reserve?! | EP 1594",
+    "link": "https://cryptopanic.com/news/33405160/LEAKED-They-just-ACCIDENTALLY-admitted-theres-NO-Strategic-Bitcoin-Reserve-EP-1594",
+    "source": "SimplyBitcoin",
+    "published": "Thu Sep 17 2026 15:44:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "‘There’s not enough block space’: Avalanche Treasury CEO says AI agents could crunch L1 blockspace",
+    "link": "https://cryptopanic.com/news/33405089/Theres-not-enough-block-space-Avalanche-Treasury-CEO-says-AI-agents-could-crunch-L1-blockspace",
+    "source": "theblock.co",
+    "published": "Thu Sep 17 2026 15:41:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "HOT TOPIC: VCs buy zcash:native, hackers demand monero:native ️\n\nParadigm disclosed a Zcash stake and the coin ripped past $1,400. Same day, the Revolut extortion crew priced their $3M ransom in Monero.\n\nZcash or Monero for the privacy trade?",
+    "link": "https://cryptopanic.com/news/33405170/HOT-TOPIC-VCs-buy-zcashnative-hackers-demand-moneronative-Paradigm-disclosed-a-Zcash-stake-and-the-coin-ripped-past-1400-Same-day-the-Revolut-extortion-crew-priced-their-3M-ransom-in-Monero-Zcash-or-Monero-for-the-privacy-trade",
+    "source": "@coinmarketcap",
+    "published": "Thu Sep 17 2026 15:40:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "INTEL: CFTC allows developers to build passive crypto derivatives software and self-custodial trading interfaces without registering as brokers\n\nThe exemption applies when developers do not control funds, direct orders or provide trading recommendations",
     "link": "https://cryptopanic.com/news/33405115/INTEL-CFTC-allows-developers-to-build-passive-crypto-derivatives-software-and-self-custodial-trading-interfaces-without-registering-as-brokers-The-exemption-applies-when-developers-do-not-control-funds-direct-orders-or-provide-trading-recommendations",
     "source": "@solidintel_x",
@@ -56,6 +98,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "JUST IN: 🇺🇸 The SEC has introduced a 5-year innovation exemption, paving the way for tokenized U.S. stocks to trade through permissioned AMMs on public blockchains.",
+    "link": "https://cryptopanic.com/news/33405172/JUST-IN-The-SEC-has-introduced-a-5-year-innovation-exemption-paving-the-way-for-tokenized-US-stocks-to-trade-through-permissioned-AMMs-on-public-blockchains",
+    "source": "@cryptonwsuk",
+    "published": "Thu Sep 17 2026 15:24:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Florida Bank Teller Accused of Draining $18,657 From Customer Accounts and Cash Drawer",
     "link": "https://cryptopanic.com/news/33405018/Florida-Bank-Teller-Accused-of-Draining-18657-From-Customer-Accounts-and-Cash-Drawer",
     "source": "dailyhodl.com",
@@ -81,6 +130,20 @@
     "link": "https://cryptopanic.com/news/33405025/North-Korea-and-Iran-drive-52x-jump-in-malware-hidden-on-public-blockchains",
     "source": "cryptopolitan.com",
     "published": "Thu Sep 17 2026 15:20:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "We’ll probably look back one day and say:\n\n“I can’t believe the House advanced a U.S. Strategic Bitcoin Reserve bill, and everyone was bearish.” 🤦‍️",
+    "link": "https://cryptopanic.com/news/33405168/Well-probably-look-back-one-day-and-say-I-cant-believe-the-House-advanced-a-US-Strategic-Bitcoin-Reserve-bill-and-everyone-was-bearish",
+    "source": "@btc_archive",
+    "published": "Thu Sep 17 2026 15:19:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇺🇸 The House Financial Services Committee voted 28-21 to advance a bill that would place qualifying government-held Bitcoin in a strategic reserve for at least 20 years.",
+    "link": "https://cryptopanic.com/news/33405169/LATEST-The-House-Financial-Services-Committee-voted-28-21-to-advance-a-bill-that-would-place-qualifying-government-held-Bitcoin-in-a-strategic-reserve-for-at-least-20-years",
+    "source": "@coinmarketcap",
+    "published": "Thu Sep 17 2026 15:17:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -133,80 +196,17 @@
     "sentiment": "neutral"
   },
   {
+    "title": "UK signals end of 'light-touch' era with multi-agency raid on peer-to-peer crypto hubs",
+    "link": "https://cryptopanic.com/news/33405176/UK-signals-end-of-light-touch-era-with-multi-agency-raid-on-peer-to-peer-crypto-hubs",
+    "source": "coindesk.com",
+    "published": "Thu Sep 17 2026 15:08:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Saudi Strikes Leave Polymarket’s Houthi Entry Question Unresolved",
     "link": "https://cryptopanic.com/news/33404942/Saudi-Strikes-Leave-Polymarkets-Houthi-Entry-Question-Unresolved",
     "source": "cryptonews.com",
     "published": "Thu Sep 17 2026 15:07:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin’s Next Move + ZEC Is EXPLODING — Here’s What I’m Watching",
-    "link": "https://cryptopanic.com/news/33405022/Bitcoins-Next-Move-ZEC-Is-EXPLODING-Heres-What-Im-Watching",
-    "source": "DataDash",
-    "published": "Thu Sep 17 2026 15:07:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "World launches ‘World Money’ super app with stablecoins, Stripe integration and boosted rewards",
-    "link": "https://cryptopanic.com/news/33404925/World-launches-World-Money-super-app-with-stablecoins-Stripe-integration-and-boosted-rewards",
-    "source": "theblock.co",
-    "published": "Thu Sep 17 2026 15:06:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HIVE's BUZZ HPC lands a new partner to turn its GPU infrastructure into deployed AI",
-    "link": "https://cryptopanic.com/news/33405019/HIVEs-BUZZ-HPC-lands-a-new-partner-to-turn-its-GPU-infrastructure-into-deployed-AI",
-    "source": "thestreet.com",
-    "published": "Thu Sep 17 2026 15:03:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SEC Sets Guardrails for Tokenized Stock Trading Venues",
-    "link": "https://cryptopanic.com/news/33404931/SEC-Sets-Guardrails-for-Tokenized-Stock-Trading-Venues",
-    "source": "99bitcoins.com",
-    "published": "Thu Sep 17 2026 15:02:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 NEW: SEC Chair Paul Atkins says the agency is moving ahead with its “Innovation Exemption” after CLARITY stalled.\n\nKey Exemptions:\n• TSVs exempt from “exchange” definition\n• Certain liquidity providers exempt from “dealer” definition\n• Permissioned access only\n• No",
-    "link": "https://cryptopanic.com/news/33405037/NEW-SEC-Chair-Paul-Atkins-says-the-agency-is-moving-ahead-with-its-Innovation-Exemption-after-CLARITY-stalled-Key-Exemptions-TSVs-exempt-from-exchange-definition-Certain-liquidity-providers-exempt-from-dealer-definition-Permissioned-access-only-No",
-    "source": "@cointelegraph",
-    "published": "Thu Sep 17 2026 15:01:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING $LINK NEWS: Chainlink just connected one of the world’s biggest payment providers to blockchain rails!\n\nBottomline a top-three SWIFT service provider serving 600+ banks that moves $16T+ a year and serves 600+ banks is integrating with @chainlink!\n\nNow all those",
-    "link": "https://cryptopanic.com/news/33405042/BREAKING-LINK-NEWS-Chainlink-just-connected-one-of-the-worlds-biggest-payment-providers-to-blockchain-rails-Bottomline-a-top-three-SWIFT-service-provider-serving-600-banks-that-moves-16T-a-year-and-serves-600-banks-is-integrating-with-chainlink-Now-all-those",
-    "source": "@realallincrypto",
-    "published": "Thu Sep 17 2026 15:00:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Breakingviews - COMMENTARY: Tata board fight sets up lose-lose stalemate",
-    "link": "https://cryptopanic.com/news/33405041/Breakingviews-COMMENTARY-Tata-board-fight-sets-up-lose-lose-stalemate",
-    "source": "@reutersbiz",
-    "published": "Thu Sep 17 2026 15:00:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Every price move starts with liquidity shifting between exchanges, and now you can track exactly where it goes.\n\n Flows tracked over 24 hours or 30 days\n Net flows compared against verified asset pools\n $212.1B in reserves monitored across venues\n\nLiquidity moves before",
-    "link": "https://cryptopanic.com/news/33404951/Every-price-move-starts-with-liquidity-shifting-between-exchanges-and-now-you-can-track-exactly-where-it-goes-Flows-tracked-over-24-hours-or-30-days-Net-flows-compared-against-verified-asset-pools-2121B-in-reserves-monitored-across-venues-Liquidity-moves-before",
-    "source": "@coinmarketcap",
-    "published": "Thu Sep 17 2026 15:00:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple adds XRP and RLUSD to Stripe and Tempo’s agent-payment ecosystem",
-    "link": "https://cryptopanic.com/news/33404891/Ripple-adds-XRP-and-RLUSD-to-Stripe-and-Tempos-agent-payment-ecosystem",
-    "source": "cryptopolitan.com",
-    "published": "Thu Sep 17 2026 15:00:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Price Prediction: BTC Could Hit $230,000 as Research Maps 7 Valuation Models",
-    "link": "https://cryptopanic.com/news/33404846/Bitcoin-Price-Prediction-BTC-Could-Hit-230000-as-Research-Maps-7-Valuation-Models",
-    "source": "coinpaper.com",
-    "published": "Thu Sep 17 2026 15:00:12 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
