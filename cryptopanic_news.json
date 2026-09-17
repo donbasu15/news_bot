@@ -1,5 +1,124 @@
 [
   {
+    "title": "BREAKING: The SEC grants a five-year \"Innovation Exemption\" for tokenized securities venues, allowing blockchain platforms to list and trade real tokenized stocks with full shareholder rights.",
+    "link": "https://cryptopanic.com/news/33404191/BREAKING-The-SEC-grants-a-five-year-Innovation-Exemption-for-tokenized-securities-venues-allowing-blockchain-platforms-to-list-and-trade-real-tokenized-stocks-with-full-shareholder-rights",
+    "source": "@coindesk",
+    "published": "Thu Sep 17 2026 13:14:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Join us for an exclusive interview with @FinTechWilliam the new CEO of @AlgoFoundation.\n\nWe discuss Algorand’s new direction, AI vs quantum security, institutional adoption and why crypto may be much further along than people think.\n\nFull interview coming soon. $ALGO",
+    "link": "https://cryptopanic.com/news/33404198/Join-us-for-an-exclusive-interview-with-FinTechWilliam-the-new-CEO-of-AlgoFoundation-We-discuss-Algorands-new-direction-AI-vs-quantum-security-institutional-adoption-and-why-crypto-may-be-much-further-along-than-people-think-Full-interview-coming-soon-ALGO",
+    "source": "@realallincrypto",
+    "published": "Thu Sep 17 2026 13:14:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Revolut faces $3M ransom demand after data breach, report",
+    "link": "https://cryptopanic.com/news/33404185/Revolut-faces-3M-ransom-demand-after-data-breach-report",
+    "source": "protos.com",
+    "published": "Thu Sep 17 2026 13:10:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SEC Advances Crypto Agenda After Clarity Act Failure\n\nThe SEC launched its \"Innovation Exemption,\" which provides an avenue to regulate Tokenized Security Venues (TSVs) that will enable trading tokenized American stocks on public, permissionless blockchain networks.\n\nUnder the",
+    "link": "https://cryptopanic.com/news/33404205/SEC-Advances-Crypto-Agenda-After-Clarity-Act-Failure-The-SEC-launched-its-Innovation-Exemption-which-provides-an-avenue-to-regulate-Tokenized-Security-Venues-TSVs-that-will-enable-trading-tokenized-American-stocks-on-public-permissionless-blockchain-networks-Under-the",
+    "source": "@bscnews",
+    "published": "Thu Sep 17 2026 13:09:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 BREAKING: SEC approves a temporary exemption allowing limited trading of tokenized US stocks on regulated onchain venues.",
+    "link": "https://cryptopanic.com/news/33404194/BREAKING-SEC-approves-a-temporary-exemption-allowing-limited-trading-of-tokenized-US-stocks-on-regulated-onchain-venues",
+    "source": "@cointelegraph",
+    "published": "Thu Sep 17 2026 13:04:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE ON REVOLUT HACK: Hackers claiming responsibility for the Revolut data breach are now demanding a $3 MILLION ransom in Monero.\n\nThey’ve reportedly given Revolut just 24 hours to pay, threatening to sell confidential customer data if it refuses.\n\nWill they pay the ransom?",
+    "link": "https://cryptopanic.com/news/33404197/UPDATE-ON-REVOLUT-HACK-Hackers-claiming-responsibility-for-the-Revolut-data-breach-are-now-demanding-a-3-MILLION-ransom-in-Monero-Theyve-reportedly-given-Revolut-just-24-hours-to-pay-threatening-to-sell-confidential-customer-data-if-it-refuses-Will-they-pay-the-ransom",
+    "source": "@realallincrypto",
+    "published": "Thu Sep 17 2026 13:00:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Your entire bloodline watching you turn a small bag into generational wealth",
+    "link": "https://cryptopanic.com/news/33404091/Your-entire-bloodline-watching-you-turn-a-small-bag-into-generational-wealth",
+    "source": "@coinmarketcap",
+    "published": "Thu Sep 17 2026 13:00:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Build with CMC (Case Study): How Chainlink Uses CoinMarketCap API\n\nA look at how Chainlink uses CoinMarketCap price data across its docs, Price Feeds, and oracle infrastructure to support thousands of DeFi protocols.\n\nLearn More",
+    "link": "https://cryptopanic.com/news/33404090/Build-with-CMC-Case-Study-How-Chainlink-Uses-CoinMarketCap-API-A-look-at-how-Chainlink-uses-CoinMarketCap-price-data-across-its-docs-Price-Feeds-and-oracle-infrastructure-to-support-thousands-of-DeFi-protocols-Learn-More",
+    "source": "@coinmarketcap",
+    "published": "Thu Sep 17 2026 13:00:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ep. 774 Propr | Prop Trading & Agentic Traders (feat. Louis Régis)",
+    "link": "https://cryptopanic.com/news/33404115/Ep-774-Propr-Prop-Trading-Agentic-Traders-feat-Louis-Regis",
+    "source": "Anchor",
+    "published": "Thu Sep 17 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SEC Rejects 19th XRP Short ETF While Bitcoin and Ethereum Drop $1.11 Billion: Main Crypto News This Morning",
+    "link": "https://cryptopanic.com/news/33404186/SEC-Rejects-19th-XRP-Short-ETF-While-Bitcoin-and-Ethereum-Drop-111-Billion-Main-Crypto-News-This-Morning",
+    "source": "u.today",
+    "published": "Thu Sep 17 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "It’s here — SEC releases long-awaited innovation exemption to ‘bring America’s capital markets into the digital age’",
+    "link": "https://cryptopanic.com/news/33404104/Its-here-SEC-releases-long-awaited-innovation-exemption-to-bring-Americas-capital-markets-into-the-digital-age",
+    "source": "theblock.co",
+    "published": "Thu Sep 17 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SEC rolls out long-awaited 'innovation exemption' for tokenized securities venues",
+    "link": "https://cryptopanic.com/news/33404204/SEC-rolls-out-long-awaited-innovation-exemption-for-tokenized-securities-venues",
+    "source": "coindesk.com",
+    "published": "Thu Sep 17 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP ETF Inflows Beat Bitcoin, Ethereum Again: What Is Going On?",
+    "link": "https://cryptopanic.com/news/33404199/XRP-ETF-Inflows-Beat-Bitcoin-Ethereum-Again-What-Is-Going-On",
+    "source": "feeds2.benzinga.com",
+    "published": "Thu Sep 17 2026 12:59:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Binance Still Leads Exchange Reserves as September PoR Lands\n\nBinance has refreshed its September Proof of Reserves, showing $154.3B in total reserves, the largest among major exchanges.\n\nCompared with our August Monthly Exchange Report, Binance’s BTC holdings rose 25,155 BTC",
+    "link": "https://cryptopanic.com/news/33404089/Binance-Still-Leads-Exchange-Reserves-as-September-PoR-Lands-Binance-has-refreshed-its-September-Proof-of-Reserves-showing-1543B-in-total-reserves-the-largest-among-major-exchanges-Compared-with-our-August-Monthly-Exchange-Report-Binances-BTC-holdings-rose-25155-BTC",
+    "source": "@coinmarketcap",
+    "published": "Thu Sep 17 2026 12:55:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Ondo Finance's Oasis Pro Markets has become the first tokenization platform to join DTCC's Fund/SERV, connecting tokenized funds to a network processing over 85% of US mutual fund activity.",
+    "link": "https://cryptopanic.com/news/33404088/LATEST-Ondo-Finances-Oasis-Pro-Markets-has-become-the-first-tokenization-platform-to-join-DTCCs-FundSERV-connecting-tokenized-funds-to-a-network-processing-over-85-of-US-mutual-fund-activity",
+    "source": "@coinmarketcap",
+    "published": "Thu Sep 17 2026 12:53:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Revolut Hackers Demand $3M Monero Ransom, Threaten to Sell Customer Data: Report",
+    "link": "https://cryptopanic.com/news/33404073/Revolut-Hackers-Demand-3M-Monero-Ransom-Threaten-to-Sell-Customer-Data-Report",
+    "source": "decrypt.co",
+    "published": "Thu Sep 17 2026 12:53:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Chainlink is powering a huge payment initiative for Bottomline\n\n“Global Pay Connect” has been officially launched by @BottomlinePay, which ranks among the top three SWIFT providers with over $16 trillion in annual volume.\n\nThis solution uses Chainlink’s Cross-Chain",
+    "link": "https://cryptopanic.com/news/33404203/Chainlink-is-powering-a-huge-payment-initiative-for-Bottomline-Global-Pay-Connect-has-been-officially-launched-by-BottomlinePay-which-ranks-among-the-top-three-SWIFT-providers-with-over-16-trillion-in-annual-volume-This-solution-uses-Chainlinks-Cross-Chain",
+    "source": "@bscnews",
+    "published": "Thu Sep 17 2026 12:52:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Circle’s Arc Mainnet Goes Live as Meme-Token Trading Emerges\n\nUSDC issuer Circle launched Arc’s public mainnet on Sept. 16, with the Layer 1 blockchain using USDC for transaction fees. Meme-token activity has also emerged on the network. Argus, a popular token launchpad, reported",
     "link": "https://cryptopanic.com/news/33404094/Circles-Arc-Mainnet-Goes-Live-as-Meme-Token-Trading-Emerges-USDC-issuer-Circle-launched-Arcs-public-mainnet-on-Sept-16-with-the-Layer-1-blockchain-using-USDC-for-transaction-fees-Meme-token-activity-has-also-emerged-on-the-network-Argus-a-popular-token-launchpad-reported",
     "source": "@wublockchain",
@@ -14,10 +133,31 @@
     "sentiment": "neutral"
   },
   {
+    "title": "S&P Global has entered into an agreement to acquire OpenZeppelin (@OpenZeppelin). \n\nThe smart contract security firm will continue to operate as a standalone business unit under S&P Global.",
+    "link": "https://cryptopanic.com/news/33404202/SampP-Global-has-entered-into-an-agreement-to-acquire-OpenZeppelin-OpenZeppelin-The-smart-contract-security-firm-will-continue-to-operate-as-a-standalone-business-unit-under-SampP-Global",
+    "source": "@bscnews",
+    "published": "Thu Sep 17 2026 12:47:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: 🇺🇸 U.S. Rep. Maxine Waters says Congress shouldn't pass crypto laws while President profits.\n\nSays passing rules now condones \"ill-gotten gains.\"",
     "link": "https://cryptopanic.com/news/33404084/JUST-IN-US-Rep-Maxine-Waters-says-Congress-shouldnt-pass-crypto-laws-while-President-profits-Says-passing-rules-now-condones-ill-gotten-gains",
     "source": "@btc_archive",
     "published": "Thu Sep 17 2026 12:47:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Is Garrett Jin still confident in his ZEC short? \n\nGarrett Jin (@GarrettBullish) has completed a transfer of 35,001 $ETH ($85M) from Binance to the Hyperliquid exchange. \n\nThis move has sparked market speculation about a potential liquidation or capital reallocation, as many",
+    "link": "https://cryptopanic.com/news/33404201/Is-Garrett-Jin-still-confident-in-his-ZEC-short-Garrett-Jin-GarrettBullish-has-completed-a-transfer-of-35001-ETH-85M-from-Binance-to-the-Hyperliquid-exchange-This-move-has-sparked-market-speculation-about-a-potential-liquidation-or-capital-reallocation-as-many",
+    "source": "@bscnews",
+    "published": "Thu Sep 17 2026 12:45:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "European Commission President Ursula von der Leyen unveiled sweeping plans to protect children online, proposing a social media ban for under-13s and supervised accounts with a one-hour daily limit for ages 13-15",
+    "link": "https://cryptopanic.com/news/33404195/European-Commission-President-Ursula-von-der-Leyen-unveiled-sweeping-plans-to-protect-children-online-proposing-a-social-media-ban-for-under-13s-and-supervised-accounts-with-a-one-hour-daily-limit-for-ages-13-15",
+    "source": "@reutersbiz",
+    "published": "Thu Sep 17 2026 12:45:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -35,6 +175,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "NEW: WisdomTree and MoonPay partner to expand US access to the WTGXX tokenized money market fund.",
+    "link": "https://cryptopanic.com/news/33404193/NEW-WisdomTree-and-MoonPay-partner-to-expand-US-access-to-the-WTGXX-tokenized-money-market-fund",
+    "source": "@cointelegraph",
+    "published": "Thu Sep 17 2026 12:40:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Hyperliquid trading volume hits $240 billion, dwarfing Arbitrum and Solana",
     "link": "https://cryptopanic.com/news/33404070/Hyperliquid-trading-volume-hits-240-billion-dwarfing-Arbitrum-and-Solana",
     "source": "en.cryptonomist.ch",
@@ -49,164 +196,17 @@
     "sentiment": "neutral"
   },
   {
+    "title": "The security of your crypto could be hanging by a thread...\n\nWallet connections don't expire.\n\nOne swap you made and forgot about, could be a backdoor waiting to be exploited.\n\nWith @ElanInsights, you can analyse history, map out approvals, and eliminate risk. \n\nAccess now",
+    "link": "https://cryptopanic.com/news/33404200/The-security-of-your-crypto-could-be-hanging-by-a-thread-Wallet-connections-dont-expire-One-swap-you-made-and-forgot-about-could-be-a-backdoor-waiting-to-be-exploited-With-ElanInsights-you-can-analyse-history-map-out-approvals-and-eliminate-risk-Access-now",
+    "source": "@bscnews",
+    "published": "Thu Sep 17 2026 12:39:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Ripple News: MPP AI kit as XRP Payment Demand Rises",
     "link": "https://cryptopanic.com/news/33403945/Ripple-News-MPP-AI-kit-as-XRP-Payment-Demand-Rises",
     "source": "cryptonews.com",
     "published": "Thu Sep 17 2026 12:35:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Revolut hackers demand $3 million in privacy crypto Monero",
-    "link": "https://cryptopanic.com/news/33403954/Revolut-hackers-demand-3-million-in-privacy-crypto-Monero",
-    "source": "finbold.com",
-    "published": "Thu Sep 17 2026 12:34:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: @SPGlobal acquires @OpenZeppelin, the smart contract security firm whose code underpins $37T in transferred value, including the majority of the world's largest stablecoins and tokenized funds.",
-    "link": "https://cryptopanic.com/news/33403865/LATEST-SPGlobal-acquires-OpenZeppelin-the-smart-contract-security-firm-whose-code-underpins-37T-in-transferred-value-including-the-majority-of-the-worlds-largest-stablecoins-and-tokenized-funds",
-    "source": "@coindesk",
-    "published": "Thu Sep 17 2026 12:31:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: US initial jobless claims fell to 196,000 last week, below the 207,000 forecast",
-    "link": "https://cryptopanic.com/news/33404034/INTEL-US-initial-jobless-claims-fell-to-196000-last-week-below-the-207000-forecast",
-    "source": "@solidintel_x",
-    "published": "Thu Sep 17 2026 12:30:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Mark Yusko: Bitcoin Is as Scarce as Gold Yet Better Equipped to Be Currency",
-    "link": "https://cryptopanic.com/news/33403941/Mark-Yusko-Bitcoin-Is-as-Scarce-as-Gold-Yet-Better-Equipped-to-Be-Currency",
-    "source": "BitcoinMagazine",
-    "published": "Thu Sep 17 2026 12:30:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Futures Expand as Russia’s MOEX Adds XRP, SOL, ETH",
-    "link": "https://cryptopanic.com/news/33403872/Bitcoin-Futures-Expand-as-Russias-MOEX-Adds-XRP-SOL-ETH",
-    "source": "thecoinrepublic.com",
-    "published": "Thu Sep 17 2026 12:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "From growing calls for AI safety controls to a first press junket for an AI 'actor' called Tilly Norwood, here are the latest stories from the AI revolution",
-    "link": "https://cryptopanic.com/news/33403871/From-growing-calls-for-AI-safety-controls-to-a-first-press-junket-for-an-AI-actor-called-Tilly-Norwood-here-are-the-latest-stories-from-the-AI-revolution",
-    "source": "@reutersbiz",
-    "published": "Thu Sep 17 2026 12:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Garrett Jin(@GarrettBullish) just withdrew 35,001 $ETH ($85M) from #Binance and deposited it into Hyperliquid.\n\nWill he sell the $ETH to support his $ZEC short?",
-    "link": "https://cryptopanic.com/news/33404031/Garrett-JinGarrettBullish-just-withdrew-35001-ETH-85M-from-Binance-and-deposited-it-into-Hyperliquid-Will-he-sell-the-ETH-to-support-his-ZEC-short",
-    "source": "@lookonchain",
-    "published": "Thu Sep 17 2026 12:24:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Former CEO of BlockFi Reveals What Really Happened",
-    "link": "https://cryptopanic.com/news/33403840/Former-CEO-of-BlockFi-Reveals-What-Really-Happened",
-    "source": "AnthonyPompliano",
-    "published": "Thu Sep 17 2026 12:23:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33404093/Source",
-    "source": "@wublockchain",
-    "published": "Thu Sep 17 2026 12:22:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Holds $76,000 After Fed Hike: Why Is BTC Strong While Equities Fall?",
-    "link": "https://cryptopanic.com/news/33403968/Bitcoin-Holds-76000-After-Fed-Hike-Why-Is-BTC-Strong-While-Equities-Fall",
-    "source": "feeds2.benzinga.com",
-    "published": "Thu Sep 17 2026 12:22:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Vault Launches Its own MPC Library for Institutional Custody",
-    "link": "https://cryptopanic.com/news/33404027/The-Vault-Launches-Its-own-MPC-Library-for-Institutional-Custody",
-    "source": "beincrypto.com",
-    "published": "Thu Sep 17 2026 12:21:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: S&P Global agrees to acquire smart contract security firm OpenZeppelin.",
-    "link": "https://cryptopanic.com/news/33403866/JUST-IN-SampP-Global-agrees-to-acquire-smart-contract-security-firm-OpenZeppelin",
-    "source": "@cointelegraph",
-    "published": "Thu Sep 17 2026 12:21:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Zcash (ZEC) 17% Pump Sends $1 Million Short Into Full Liquidation",
-    "link": "https://cryptopanic.com/news/33404106/Zcash-ZEC-17-Pump-Sends-1-Million-Short-Into-Full-Liquidation",
-    "source": "u.today",
-    "published": "Thu Sep 17 2026 12:20:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hong Kong is prioritizing stablecoin expansion \n\nThe Hong Kong government has formalized its 2026 digital assets roadmap to grow the regulated stablecoins market and build strong infrastructure for tokenized RWAs and digital bonds.\n\nA key element of this strategy is introducing a",
-    "link": "https://cryptopanic.com/news/33403877/Hong-Kong-is-prioritizing-stablecoin-expansion-The-Hong-Kong-government-has-formalized-its-2026-digital-assets-roadmap-to-grow-the-regulated-stablecoins-market-and-build-strong-infrastructure-for-tokenized-RWAs-and-digital-bonds-A-key-element-of-this-strategy-is-introducing-a",
-    "source": "@bscnews",
-    "published": "Thu Sep 17 2026 12:20:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Financial Data and Ratings Giant S&P Global to Acquire Smart Contract Security Firm OpenZeppelin\n\nS&P Global has entered into an agreement to acquire OpenZeppelin, a leading smart contract security company, as it expands its digital asset risk assessment capabilities into onchain",
-    "link": "https://cryptopanic.com/news/33404092/Financial-Data-and-Ratings-Giant-SampP-Global-to-Acquire-Smart-Contract-Security-Firm-OpenZeppelin-SampP-Global-has-entered-into-an-agreement-to-acquire-OpenZeppelin-a-leading-smart-contract-security-company-as-it-expands-its-digital-asset-risk-assessment-capabilities-into-onchain",
-    "source": "@wublockchain",
-    "published": "Thu Sep 17 2026 12:19:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The @yzilabs-backed Genius Terminal just unveiled its own launchpad!\n\n@GeniusTerminal has just now revealed , live on @BNBChain, with @PancakeSwap as its graduation DEX partner.\n\nUsers can pair their tokens with a host of assets, spanning... \n\n@Tether's",
-    "link": "https://cryptopanic.com/news/33403876/The-yzilabs-backed-Genius-Terminal-just-unveiled-its-own-launchpad-GeniusTerminal-has-just-now-revealed-live-on-BNBChain-with-PancakeSwap-as-its-graduation-DEX-partner-Users-can-pair-their-tokens-with-a-host-of-assets-spanning-Tethers",
-    "source": "@bscnews",
-    "published": "Thu Sep 17 2026 12:19:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cardano’s $200M DeFi Push Puts EVM Liquidity In Focus",
-    "link": "https://cryptopanic.com/news/33403753/Cardanos-200M-DeFi-Push-Puts-EVM-Liquidity-In-Focus",
-    "source": "dailycoin.com",
-    "published": "Thu Sep 17 2026 12:18:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇺🇸 House Majority Whip Tom Emmer told Fox Business he thinks the CLARITY Act will still be passed \"before the end of the year\" despite Tuesday's setback.",
-    "link": "https://cryptopanic.com/news/33404087/LATEST-House-Majority-Whip-Tom-Emmer-told-Fox-Business-he-thinks-the-CLARITY-Act-will-still-be-passed-before-the-end-of-the-year-despite-Tuesdays-setback",
-    "source": "@coinmarketcap",
-    "published": "Thu Sep 17 2026 12:17:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "With valuations still relatively low and higher oil prices providing a potential boost to the FTSE, the case for owning UK stocks is looking compelling. Amati Global Investors' Gregor Paterson says this could offer a 'compelling hunting ground' for bargain-seeking investors",
-    "link": "https://cryptopanic.com/news/33403870/With-valuations-still-relatively-low-and-higher-oil-prices-providing-a-potential-boost-to-the-FTSE-the-case-for-owning-UK-stocks-is-looking-compelling-Amati-Global-Investors-Gregor-Paterson-says-this-could-offer-a-compelling-hunting-ground-for-bargain-seeking-investors",
-    "source": "@reutersbiz",
-    "published": "Thu Sep 17 2026 12:15:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BlackRock just deposited 54,096 $ETH($131.7M) and 2,015 $BTC($153.8M) to Coinbase Prime.",
-    "link": "https://cryptopanic.com/news/33404029/BlackRock-just-deposited-54096-ETH1317M-and-2015-BTC1538M-to-Coinbase-Prime",
-    "source": "@lookonchain",
-    "published": "Thu Sep 17 2026 12:14:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Democratic Senators vow to keep working on Clarity Act.\n\nMessage received! 🤥",
-    "link": "https://cryptopanic.com/news/33403696/JUST-IN-Democratic-Senators-vow-to-keep-working-on-Clarity-Act-Message-received",
-    "source": "@btc_archive",
-    "published": "Thu Sep 17 2026 12:13:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Where Do Latin America's Dollars Actually Live?",
-    "link": "https://cryptopanic.com/news/33404025/Where-Do-Latin-Americas-Dollars-Actually-Live",
-    "source": "beincrypto.com",
-    "published": "Thu Sep 17 2026 12:13:37 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
