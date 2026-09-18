@@ -1,5 +1,75 @@
 [
   {
+    "title": "UPDATE: BlackRock’s spot Bitcoin ETF ranked fifth among all U.S. ETFs by trading volume today as IBIT jumped nearly 6%, according to Bloomberg ETF analyst Eric Balchunas.",
+    "link": "https://cryptopanic.com/news/33412841/UPDATE-BlackRocks-spot-Bitcoin-ETF-ranked-fifth-among-all-US-ETFs-by-trading-volume-today-as-IBIT-jumped-nearly-6-according-to-Bloomberg-ETF-analyst-Eric-Balchunas",
+    "source": "@cointelegraph",
+    "published": "Fri Sep 18 2026 17:40:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Coinbase Seeks Approval to List Perpetual Futures Tied to U.S. Stocks",
+    "link": "https://cryptopanic.com/news/33412797/Coinbase-Seeks-Approval-to-List-Perpetual-Futures-Tied-to-US-Stocks",
+    "source": "cryptoprowl.com",
+    "published": "Fri Sep 18 2026 17:37:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ECB’s Lagarde Reportedly Blocked Binance’s MiCA License in Greece",
+    "link": "https://cryptopanic.com/news/33412789/ECBs-Lagarde-Reportedly-Blocked-Binances-MiCA-License-in-Greece",
+    "source": "cryptoprowl.com",
+    "published": "Fri Sep 18 2026 17:35:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "“We are building for a world in which AI are native economic actors.”\n\n@circle CTPO @chandhok tells @kateirwin how agents on Arc can on-ramp into USDC and use it to pay for everything from inference to research.\n\nThank you to @Grayscale for being a sponsor of the CoinDesk Media",
+    "link": "https://cryptopanic.com/news/33412838/We-are-building-for-a-world-in-which-AI-are-native-economic-actors-circle-CTPO-chandhok-tells-kateirwin-how-agents-on-Arc-can-on-ramp-into-USDC-and-use-it-to-pay-for-everything-from-inference-to-research-Thank-you-to-Grayscale-for-being-a-sponsor-of-the-CoinDesk-Media",
+    "source": "@coindesk",
+    "published": "Fri Sep 18 2026 17:30:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "India likely to discuss second half borrowing on Sept. 25, sources say",
+    "link": "https://cryptopanic.com/news/33412842/India-likely-to-discuss-second-half-borrowing-on-Sept-25-sources-say",
+    "source": "@reutersbiz",
+    "published": "Fri Sep 18 2026 17:30:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trader dumps $46M in Bitcoin for rival",
+    "link": "https://cryptopanic.com/news/33412843/Trader-dumps-46M-in-Bitcoin-for-rival",
+    "source": "thestreet.com",
+    "published": "Fri Sep 18 2026 17:29:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: $135,000,000,000 has been added to the crypto market cap so far today.\n\n$400,000,000 in leveraged short positions have been liquidated over the past 12 hours.\n\nThis comes after the SEC approved limited on-chain trading of tokenized stocks and the CFTC filing new",
+    "link": "https://cryptopanic.com/news/33412781/JUST-IN-135000000000-has-been-added-to-the-crypto-market-cap-so-far-today-400000000-in-leveraged-short-positions-have-been-liquidated-over-the-past-12-hours-This-comes-after-the-SEC-approved-limited-on-chain-trading-of-tokenized-stocks-and-the-CFTC-filing-new",
+    "source": "@watcherguru",
+    "published": "Fri Sep 18 2026 17:27:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Shiba Inu Futures Still Pack $63M, Even After This Flush",
+    "link": "https://cryptopanic.com/news/33412755/Shiba-Inu-Futures-Still-Pack-63M-Even-After-This-Flush",
+    "source": "dailycoin.com",
+    "published": "Fri Sep 18 2026 17:25:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇪🇺 NEW: Banks now make up nearly 23% of crypto providers on the EU’s MiCA register after doubling their presence to about 80 since late June.",
+    "link": "https://cryptopanic.com/news/33412840/NEW-Banks-now-make-up-nearly-23-of-crypto-providers-on-the-EUs-MiCA-register-after-doubling-their-presence-to-about-80-since-late-June",
+    "source": "@cointelegraph",
+    "published": "Fri Sep 18 2026 17:20:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "'Crypto King' Barry Silbert Doubles Down on AI Token Poised to Be the Next Zcash (ZEC)",
+    "link": "https://cryptopanic.com/news/33412784/Crypto-King-Barry-Silbert-Doubles-Down-on-AI-Token-Poised-to-Be-the-Next-Zcash-ZEC",
+    "source": "u.today",
+    "published": "Fri Sep 18 2026 17:14:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "2,400+ tokenized stocks and ETFs are tradable on the Stock Terminal. And $CAKE's net emissions were negative again, at -764K for the week. In all, another great week for the PancakeSwap ecosystem.",
     "link": "https://cryptopanic.com/news/33412711/2400-tokenized-stocks-and-ETFs-are-tradable-on-the-Stock-Terminal-And-CAKEs-net-emissions-were-negative-again-at-764K-for-the-week-In-all-another-great-week-for-the-PancakeSwap-ecosystem",
     "source": "@bscnews",
@@ -21,10 +91,31 @@
     "sentiment": "neutral"
   },
   {
+    "title": "LATEST:  Public companies have added just 5.9K BTC over the past three months, compared to 89K BTC in July 2025 alone, per Glassnode.",
+    "link": "https://cryptopanic.com/news/33412783/LATEST-Public-companies-have-added-just-59K-BTC-over-the-past-three-months-compared-to-89K-BTC-in-July-2025-alone-per-Glassnode",
+    "source": "@coinmarketcap",
+    "published": "Fri Sep 18 2026 17:05:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "THE IMF ARE TALKING ABOUT TOKENISING CENTRAL BANK RESERVES!!!!!!!\n\nThey want to let central bank's to tokenise and settle their TRILLIONS of assets directly on blockchain rails, while adding programmability and interoperability with private ledgers.\n\nThink about the money that",
     "link": "https://cryptopanic.com/news/33412706/THE-IMF-ARE-TALKING-ABOUT-TOKENISING-CENTRAL-BANK-RESERVES-They-want-to-let-central-banks-to-tokenise-and-settle-their-TRILLIONS-of-assets-directly-on-blockchain-rails-while-adding-programmability-and-interoperability-with-private-ledgers-Think-about-the-money-that",
     "source": "@realallincrypto",
     "published": "Fri Sep 18 2026 17:01:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 LATEST: Just 3% of U.S. consumers pay for AI, but adoption among the youngest buyers is growing four times faster than among the oldest.",
+    "link": "https://cryptopanic.com/news/33412839/LATEST-Just-3-of-US-consumers-pay-for-AI-but-adoption-among-the-youngest-buyers-is-growing-four-times-faster-than-among-the-oldest",
+    "source": "@cointelegraph",
+    "published": "Fri Sep 18 2026 17:00:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CoinMarketCap | Coin Detail Pages \n\nThe Coin Detail Page just got the update it deserved.\nOne toggle puts derivatives beside the spot price!\n\nRead both sides of any coin without leaving:\n\n Switch between spot and derivatives at will\n Read its open interest and its",
+    "link": "https://cryptopanic.com/news/33412782/CoinMarketCap-Coin-Detail-Pages-The-Coin-Detail-Page-just-got-the-update-it-deserved-One-toggle-puts-derivatives-beside-the-spot-price-Read-both-sides-of-any-coin-without-leaving-Switch-between-spot-and-derivatives-at-will-Read-its-open-interest-and-its",
+    "source": "@coinmarketcap",
+    "published": "Fri Sep 18 2026 17:00:24 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -116,97 +207,6 @@
     "link": "https://cryptopanic.com/news/33412476/France-opens-criminal-probe-into-Meta-smart-glasses-over-covert-filming",
     "source": "cryptopolitan.com",
     "published": "Fri Sep 18 2026 16:33:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CFTC Submits New Crypto Rules for White House Review",
-    "link": "https://cryptopanic.com/news/33412753/CFTC-Submits-New-Crypto-Rules-for-White-House-Review",
-    "source": "cryptodnes.bg",
-    "published": "Fri Sep 18 2026 16:31:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Researchers Earned $6,500 Breaching OpenAI With Anthropic's Claude",
-    "link": "https://cryptopanic.com/news/33412669/Researchers-Earned-6500-Breaching-OpenAI-With-Anthropics-Claude",
-    "source": "beincrypto.com",
-    "published": "Fri Sep 18 2026 16:29:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "What are the Top 5 Biggest memecoins on the Robinhood chain?\n\nThe Robinhood Chain (@RobinhoodApp) launched on July 1, 2026, as an Ethereum Layer 2 chain for tokenized stocks. \n\nThis didn't quite go to plan for traders, though, as memecoins soon dominated volume and formed a clear",
-    "link": "https://cryptopanic.com/news/33412470/What-are-the-Top-5-Biggest-memecoins-on-the-Robinhood-chain-The-Robinhood-Chain-RobinhoodApp-launched-on-July-1-2026-as-an-Ethereum-Layer-2-chain-for-tokenized-stocks-This-didnt-quite-go-to-plan-for-traders-though-as-memecoins-soon-dominated-volume-and-formed-a-clear",
-    "source": "@bscnews",
-    "published": "Fri Sep 18 2026 16:25:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Grayscale's Zach Pandl says the Fed's latest 25bps hike is a \"mid-cycle adjustment\" rather than a policy shift, unlikely to trigger major crypto market changes.",
-    "link": "https://cryptopanic.com/news/33412561/LATEST-Grayscales-Zach-Pandl-says-the-Feds-latest-25bps-hike-is-a-mid-cycle-adjustment-rather-than-a-policy-shift-unlikely-to-trigger-major-crypto-market-changes",
-    "source": "@coinmarketcap",
-    "published": "Fri Sep 18 2026 16:25:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Circle built Arc for banks. The memecoins got there first...\n\nLaunchpads drove about 82% of @arc's $410.8M first-day DEX volume on Wednesday, Dune data shows. @Arguspad led with $202.35M.\n\nTop 5 Argus tokens by market cap / 24h volume:\n\nARGUS: $17.5M / $3.63M\nUpSideDownCat",
-    "link": "https://cryptopanic.com/news/33412469/Circle-built-Arc-for-banks-The-memecoins-got-there-first-Launchpads-drove-about-82-of-arcs-4108M-first-day-DEX-volume-on-Wednesday-Dune-data-shows-Arguspad-led-with-20235M-Top-5-Argus-tokens-by-market-cap-24h-volume-ARGUS-175M-363M-UpSideDownCat",
-    "source": "@bscnews",
-    "published": "Fri Sep 18 2026 16:24:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "FOMO HOUR ft @Tyler_Did_It and @farokh, now available for download on @ApplePodcasts and @Spotify!",
-    "link": "https://cryptopanic.com/news/33412472/FOMO-HOUR-ft-Tyler_Did_It-and-farokh-now-available-for-download-on-ApplePodcasts-and-Spotify",
-    "source": "@decryptmedia",
-    "published": "Fri Sep 18 2026 16:23:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Could Reach 1%-3% of Institutional Alternative Portfolios",
-    "link": "https://cryptopanic.com/news/33412401/Bitcoin-Could-Reach-1-3-of-Institutional-Alternative-Portfolios",
-    "source": "cryptonews.com",
-    "published": "Fri Sep 18 2026 16:23:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cango’s AI Pivot Gets First Customer",
-    "link": "https://cryptopanic.com/news/33412492/Cangos-AI-Pivot-Gets-First-Customer",
-    "source": "feeds2.benzinga.com",
-    "published": "Fri Sep 18 2026 16:22:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Rates, BTC AI Convergence, BTC Risk Outlook | BMTV Sep. 21, 2026",
-    "link": "https://cryptopanic.com/news/33412399/Rates-BTC-AI-Convergence-BTC-Risk-Outlook-BMTV-Sep-21-2026",
-    "source": "BitcoinMagazine",
-    "published": "Fri Sep 18 2026 16:20:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇫🇷BIG: France calls for a G7 summit on releasing more oil reserves.",
-    "link": "https://cryptopanic.com/news/33412592/BIG-France-calls-for-a-G7-summit-on-releasing-more-oil-reserves",
-    "source": "@cointelegraph",
-    "published": "Fri Sep 18 2026 16:20:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SEC, CFTC new rules after CLARITY setback send Bitcoin higher",
-    "link": "https://cryptopanic.com/news/33412504/SEC-CFTC-new-rules-after-CLARITY-setback-send-Bitcoin-higher",
-    "source": "thestreet.com",
-    "published": "Fri Sep 18 2026 16:19:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Strategy CEO Says 'We're Never Going To Stop' Buying Bitcoin as MSTR Surges 11%",
-    "link": "https://cryptopanic.com/news/33412411/Strategy-CEO-Says-Were-Never-Going-To-Stop-Buying-Bitcoin-as-MSTR-Surges-11",
-    "source": "feeds2.benzinga.com",
-    "published": "Fri Sep 18 2026 16:15:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cardano YouTube Taken Over: Don’t Trust The ‘Double ADA’ Offer",
-    "link": "https://cryptopanic.com/news/33412370/Cardano-YouTube-Taken-Over-Dont-Trust-The-Double-ADA-Offer",
-    "source": "dailycoin.com",
-    "published": "Fri Sep 18 2026 16:15:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
