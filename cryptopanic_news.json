@@ -1,5 +1,12 @@
 [
   {
+    "title": "Algorand's founder helped invent zero-knowledge proofs and holds computing's top prize...\n\nSilvio Micali (@silviomicali) co-invented Zero-Knowledge proofs, a way to prove something is true without revealing the data behind it. He shared the 2012 Turing Award with Shafi Goldwasser",
+    "link": "https://cryptopanic.com/news/33413781/Algorands-founder-helped-invent-zero-knowledge-proofs-and-holds-computings-top-prize-Silvio-Micali-silviomicali-co-invented-Zero-Knowledge-proofs-a-way-to-prove-something-is-true-without-revealing-the-data-behind-it-He-shared-the-2012-Turing-Award-with-Shafi-Goldwasser",
+    "source": "@bscnews",
+    "published": "Fri Sep 18 2026 21:41:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Revolut hackers demand 6,000 XMR as Italy opens data probe",
     "link": "https://cryptopanic.com/news/33413716/Revolut-hackers-demand-6000-XMR-as-Italy-opens-data-probe",
     "source": "ambcrypto.com",
@@ -32,6 +39,13 @@
     "link": "https://cryptopanic.com/news/33413706/INTEL-Trump-says-Denmark-and-Greenland-agreed-to-give-the-US-permanent-control-over-Greenlands-security",
     "source": "@solidintel_x",
     "published": "Fri Sep 18 2026 21:21:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Arbitrum's ARB adds another 27% in a day\n\n$ARB traded at $0.2215 on Friday, up 27.6% in 24 hours, nearly 56% over the week and 165% over the past month. Daily volume hit $822M, per CoinMarketCap data.\n\nThe run follows a note from Standard Chartered setting an end-2030 target of",
+    "link": "https://cryptopanic.com/news/33413780/Arbitrums-ARB-adds-another-27-in-a-day-ARB-traded-at-02215-on-Friday-up-276-in-24-hours-nearly-56-over-the-week-and-165-over-the-past-month-Daily-volume-hit-822M-per-CoinMarketCap-data-The-run-follows-a-note-from-Standard-Chartered-setting-an-end-2030-target-of",
+    "source": "@bscnews",
+    "published": "Fri Sep 18 2026 21:20:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33413563/WATCH-phongle-of-Strategy-Why-Strategy-will-never-stop-buying-Bitcoin-From-watchbmtv",
     "source": "@bitcoinmagazine",
     "published": "Fri Sep 18 2026 20:29:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Reclaims $80,000 as Ethereum, XRP, Dogecoin Jump Over 6% in Risk-On Rally",
-    "link": "https://cryptopanic.com/news/33413546/Bitcoin-Reclaims-80000-as-Ethereum-XRP-Dogecoin-Jump-Over-6-in-Risk-On-Rally",
-    "source": "feeds2.benzinga.com",
-    "published": "Fri Sep 18 2026 20:29:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Buffett Ran Berkshire For Every Year Of The Fiat Era And Just Walked Out",
-    "link": "https://cryptopanic.com/news/33413500/Buffett-Ran-Berkshire-For-Every-Year-Of-The-Fiat-Era-And-Just-Walked-Out",
-    "source": "BTCSessions",
-    "published": "Fri Sep 18 2026 20:28:10 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
