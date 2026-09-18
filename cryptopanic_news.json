@@ -7,10 +7,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "LATEST:  Grayscale's Zcash ETF is planning a 3-for-1 share split less than a month after its NYSE debut, having attracted $843M in AUM.",
+    "link": "https://cryptopanic.com/news/33413979/LATEST-Grayscales-Zcash-ETF-is-planning-a-3-for-1-share-split-less-than-a-month-after-its-NYSE-debut-having-attracted-843M-in-AUM",
+    "source": "@coinmarketcap",
+    "published": "Fri Sep 18 2026 22:25:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Spot XRP ETFs bleed more than -$5 million.\n\nSpot @Ripple ETFs saw their first net outflow day of the week on September 17, losing -$5.15M in investor capital. \n\nTheir weekly performance remains positive, however, still up +$9.6M at time of writing.",
     "link": "https://cryptopanic.com/news/33413960/Spot-XRP-ETFs-bleed-more-than-5-million-Spot-Ripple-ETFs-saw-their-first-net-outflow-day-of-the-week-on-September-17-losing-515M-in-investor-capital-Their-weekly-performance-remains-positive-however-still-up-96M-at-time-of-writing",
     "source": "@bscnews",
     "published": "Fri Sep 18 2026 22:23:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Google Gemini AI agent hacks three companies.\n\n• Occurred during security testing when a Gemini model accidentally gained internet access.\n\n• Google's AI was meant to attack a fake company, but then figured out how to hack a real one using leaked online credentials.",
+    "link": "https://cryptopanic.com/news/33413977/JUST-IN-Google-Gemini-AI-agent-hacks-three-companies-Occurred-during-security-testing-when-a-Gemini-model-accidentally-gained-internet-access-Googles-AI-was-meant-to-attack-a-fake-company-but-then-figured-out-how-to-hack-a-real-one-using-leaked-online-credentials",
+    "source": "@watcherguru",
+    "published": "Fri Sep 18 2026 22:19:58 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33413682/Bitcoin-faces-an-eight-year-rates-test-as-the-BOE-unwinds-368-billion",
     "source": "cryptoslate.com",
     "published": "Fri Sep 18 2026 21:25:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: Trump announces a permanent deal granting the U.S. control over Greenland’s security and allowing a major military expansion on the island.",
-    "link": "https://cryptopanic.com/news/33413773/BREAKING-Trump-announces-a-permanent-deal-granting-the-US-control-over-Greenlands-security-and-allowing-a-major-military-expansion-on-the-island",
-    "source": "@cointelegraph",
-    "published": "Fri Sep 18 2026 21:24:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: Trump says Denmark and Greenland agreed to give the US permanent control over Greenland’s security",
-    "link": "https://cryptopanic.com/news/33413706/INTEL-Trump-says-Denmark-and-Greenland-agreed-to-give-the-US-permanent-control-over-Greenlands-security",
-    "source": "@solidintel_x",
-    "published": "Fri Sep 18 2026 21:21:51 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
