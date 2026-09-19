@@ -1,5 +1,47 @@
 [
   {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33415435/Source",
+    "source": "@wublockchain",
+    "published": "Sat Sep 19 2026 07:09:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "New York Couple Drains $150,000 From Elderly Man’s Bank Account and Coin Collection: Report",
+    "link": "https://cryptopanic.com/news/33415414/New-York-Couple-Drains-150000-From-Elderly-Mans-Bank-Account-and-Coin-Collection-Report",
+    "source": "dailyhodl.com",
+    "published": "Sat Sep 19 2026 07:04:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Injective Price Surges 20% Into Potential Double-Top Zone",
+    "link": "https://cryptopanic.com/news/33415406/Injective-Price-Surges-20-Into-Potential-Double-Top-Zone",
+    "source": "coindoo.com",
+    "published": "Sat Sep 19 2026 07:00:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The Future of Banking: WeFi CEO Maksym on Stablecoins, Onchain Finance and Financial Infrastructure",
+    "link": "https://cryptopanic.com/news/33415408/The-Future-of-Banking-WeFi-CEO-Maksym-on-Stablecoins-Onchain-Finance-and-Financial-Infrastructure",
+    "source": "en.cryptonomist.ch",
+    "published": "Sat Sep 19 2026 07:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "US Treasury Sanctions BitBank Over Alleged Bitcoin Flows to Iran's IRGC",
+    "link": "https://cryptopanic.com/news/33415365/US-Treasury-Sanctions-BitBank-Over-Alleged-Bitcoin-Flows-to-Irans-IRGC",
+    "source": "coinpaprika.com",
+    "published": "Sat Sep 19 2026 07:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: ️ Anthony Pompliano's ProCap Financial will join the Russell 2000 and Russell 3000 indexes on Sept. 21, ahead of its upcoming rebrand to Silvia.",
+    "link": "https://cryptopanic.com/news/33415434/LATEST-Anthony-Pomplianos-ProCap-Financial-will-join-the-Russell-2000-and-Russell-3000-indexes-on-Sept-21-ahead-of-its-upcoming-rebrand-to-Silvia",
+    "source": "@coinmarketcap",
+    "published": "Sat Sep 19 2026 06:39:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "SEC Grants Tokenized Stock Trading Five-Year Relief",
     "link": "https://cryptopanic.com/news/33415297/SEC-Grants-Tokenized-Stock-Trading-Five-Year-Relief",
     "source": "btcusa.com",
@@ -25,6 +67,13 @@
     "link": "https://cryptopanic.com/news/33415348/Two-wallets-likely-belonging-to-the-same-whale-deposited-33180-ETH-8693M-into-Bitfinex-after-more-than-2-years-of-inactivity-making-a-2048M-profit",
     "source": "@lookonchain",
     "published": "Sat Sep 19 2026 06:28:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Anthropic x Accenture",
+    "link": "https://cryptopanic.com/news/33415410/Anthropic-x-Accenture",
+    "source": "r/hedera",
+    "published": "Sat Sep 19 2026 06:26:17 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -158,55 +207,6 @@
     "link": "https://cryptopanic.com/news/33414996/NYSE-Parent-ICE-Names-Avalanche-for-247-On-Chain-Trading-Platform",
     "source": "btcusa.com",
     "published": "Sat Sep 19 2026 04:33:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Japan, US, Australia and Germany Attribute Crypto Thefts to North Korea’s WaterPlum Group",
-    "link": "https://cryptopanic.com/news/33414995/Japan-US-Australia-and-Germany-Attribute-Crypto-Thefts-to-North-Koreas-WaterPlum-Group",
-    "source": "btcusa.com",
-    "published": "Sat Sep 19 2026 04:33:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hyperliquid Launches Manual Borrowing and Lending With $269M Borrowed on Day One",
-    "link": "https://cryptopanic.com/news/33414994/Hyperliquid-Launches-Manual-Borrowing-and-Lending-With-269M-Borrowed-on-Day-One",
-    "source": "btcusa.com",
-    "published": "Sat Sep 19 2026 04:33:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UAE and Sweden Arrest Seven in Crypto Money Laundering Bust Tied to Contract Killings",
-    "link": "https://cryptopanic.com/news/33414993/UAE-and-Sweden-Arrest-Seven-in-Crypto-Money-Laundering-Bust-Tied-to-Contract-Killings",
-    "source": "btcusa.com",
-    "published": "Sat Sep 19 2026 04:33:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Coinbase and Stablecore Bring Digital Asset Services to Community Banks",
-    "link": "https://cryptopanic.com/news/33414992/Coinbase-and-Stablecore-Bring-Digital-Asset-Services-to-Community-Banks",
-    "source": "btcusa.com",
-    "published": "Sat Sep 19 2026 04:33:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why Is Crypto Down Today?",
-    "link": "https://cryptopanic.com/news/33414991/Why-Is-Crypto-Down-Today",
-    "source": "btcusa.com",
-    "published": "Sat Sep 19 2026 04:33:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto News Today: Treasury Sanctions Iranian Exchange as Market Rallies and Hyperliquid Hits New High",
-    "link": "https://cryptopanic.com/news/33414990/Crypto-News-Today-Treasury-Sanctions-Iranian-Exchange-as-Market-Rallies-and-Hyperliquid-Hits-New-High",
-    "source": "btcusa.com",
-    "published": "Sat Sep 19 2026 04:32:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "MetaMask Launches Added Protection to Stop Red Pill Attacks",
-    "link": "https://cryptopanic.com/news/33414989/MetaMask-Launches-Added-Protection-to-Stop-Red-Pill-Attacks",
-    "source": "btcusa.com",
-    "published": "Sat Sep 19 2026 04:32:50 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
