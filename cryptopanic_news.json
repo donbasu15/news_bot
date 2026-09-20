@@ -1,5 +1,12 @@
 [
   {
+    "title": "QUESTION: Is AI a threat to the human race?\n\nIf yes, how?",
+    "link": "https://cryptopanic.com/news/33418196/QUESTION-Is-AI-a-threat-to-the-human-race-If-yes-how",
+    "source": "@cointelegraph",
+    "published": "Sun Sep 20 2026 03:30:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Australia Auction Clearance Rates Fall on Rate-Hike Fears",
     "link": "https://cryptopanic.com/news/33418186/Australia-Auction-Clearance-Rates-Fall-on-Rate-Hike-Fears",
     "source": "square.binance.com",
@@ -25,6 +32,13 @@
     "link": "https://cryptopanic.com/news/33418183/Hyperliquid-Linked-Addresses-Place-AVAX-Short-Orders-After-Breakout-Above-10",
     "source": "square.binance.com",
     "published": "Sun Sep 20 2026 03:13:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The Chainlink Reserve just broke $70M!\n\n@Chainlink has bought another $1.1M worth of $LINK for its official reserve, pushing the treasury's total value to some $70.5M at time of writing.\n\nNot one token of the reserve has yet been sold, despite regular additions to the stack since",
+    "link": "https://cryptopanic.com/news/33418197/The-Chainlink-Reserve-just-broke-70M-Chainlink-has-bought-another-11M-worth-of-LINK-for-its-official-reserve-pushing-the-treasurys-total-value-to-some-705M-at-time-of-writing-Not-one-token-of-the-reserve-has-yet-been-sold-despite-regular-additions-to-the-stack-since",
+    "source": "@bscnews",
+    "published": "Sun Sep 20 2026 03:13:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33418170/US-President-Donald-Trump-Returns-to-the-White-House-Early-From-Camp-David",
     "source": "square.binance.com",
     "published": "Sun Sep 20 2026 01:33:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: Kalshi filed to offer perpetual futures tied to individual US stocks, joining Coinbase in seeking regulatory approval for crypto-style equity derivatives.",
-    "link": "https://cryptopanic.com/news/33417936/LATEST-Kalshi-filed-to-offer-perpetual-futures-tied-to-individual-US-stocks-joining-Coinbase-in-seeking-regulatory-approval-for-crypto-style-equity-derivatives",
-    "source": "@cointelegraph",
-    "published": "Sun Sep 20 2026 01:30:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BofA Survey Finds Global Semiconductor Longs Remain the Most Crowded Trade",
-    "link": "https://cryptopanic.com/news/33418169/BofA-Survey-Finds-Global-Semiconductor-Longs-Remain-the-Most-Crowded-Trade",
-    "source": "square.binance.com",
-    "published": "Sun Sep 20 2026 01:27:13 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
