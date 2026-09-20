@@ -1,9 +1,30 @@
 [
   {
+    "title": "a16z-Backed Linera Shuts Down After Token Sale Falls Short",
+    "link": "https://cryptopanic.com/news/33418923/a16z-Backed-Linera-Shuts-Down-After-Token-Sale-Falls-Short",
+    "source": "btcusa.com",
+    "published": "Sun Sep 20 2026 10:30:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Injective posts solid weekly price performance.\n\nThe @injective ecosystem has seen exciting news in recent, not least the launch of platforms it hopes will drive its token-launching retail ecosystem, coupled with an all-new staking high.\n\nThe positive momentum is now reflected in",
+    "link": "https://cryptopanic.com/news/33418934/Injective-posts-solid-weekly-price-performance-The-injective-ecosystem-has-seen-exciting-news-in-recent-not-least-the-launch-of-platforms-it-hopes-will-drive-its-token-launching-retail-ecosystem-coupled-with-an-all-new-staking-high-The-positive-momentum-is-now-reflected-in",
+    "source": "@bscnews",
+    "published": "Sun Sep 20 2026 10:19:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Hong Kong Bank Manager Jailed Four Years for $470K USDT Bribery Scheme",
     "link": "https://cryptopanic.com/news/33418903/Hong-Kong-Bank-Manager-Jailed-Four-Years-for-470K-USDT-Bribery-Scheme",
     "source": "btcusa.com",
     "published": "Sun Sep 20 2026 10:15:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "HUGE: $XLM JUST HIT A NEW THROUGHPUT RECORD!\n\nAccording to @chainspect_app, @StellarOrg averaged 211+ TPS across 100 consecutive blocks.\n\nFor a network built to move money globally, this is exactly what you want to see: faster, more consistent performance as adoption scales.",
+    "link": "https://cryptopanic.com/news/33418933/HUGE-XLM-JUST-HIT-A-NEW-THROUGHPUT-RECORD-According-to-chainspect_app-StellarOrg-averaged-211-TPS-across-100-consecutive-blocks-For-a-network-built-to-move-money-globally-this-is-exactly-what-you-want-to-see-faster-more-consistent-performance-as-adoption-scales",
+    "source": "@realallincrypto",
+    "published": "Sun Sep 20 2026 10:00:48 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -18,6 +39,13 @@
     "link": "https://cryptopanic.com/news/33418850/There-Wont-Be-Anymore-XRP-Or-Bitcoin-For-You-To-Buy-And-No-One-Is-Talking-About-Any-Of-This",
     "source": "TheModernInvestor",
     "published": "Sun Sep 20 2026 09:44:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$HBAR IS BEING REFERENCED IN TECHNOLOGY LINKED TO A $1.9 TRILLION U.S. TRANSPORTATION INDUSTRY!",
+    "link": "https://cryptopanic.com/news/33418947/HBAR-IS-BEING-REFERENCED-IN-TECHNOLOGY-LINKED-TO-A-19-TRILLION-US-TRANSPORTATION-INDUSTRY",
+    "source": "r/hedera",
+    "published": "Sun Sep 20 2026 09:42:48 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33418675/Zcash-News-Today-ZEC-Holds-Near-1575-as-Paradigm-Discloses-Holdings-and-RSI-Nears-Overbought",
     "source": "btcusa.com",
     "published": "Sun Sep 20 2026 08:15:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Grayscale’s Zcash ETF Announces 3-for-1 Share Split",
-    "link": "https://cryptopanic.com/news/33418674/Grayscales-Zcash-ETF-Announces-3-for-1-Share-Split",
-    "source": "btcusa.com",
-    "published": "Sun Sep 20 2026 08:15:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Wells Fargo Refuses To Reimburse Customer After Nearly $10,000 Disappears in Allegedly Unauthorized Wire Transfer: Report",
-    "link": "https://cryptopanic.com/news/33418689/Wells-Fargo-Refuses-To-Reimburse-Customer-After-Nearly-10000-Disappears-in-Allegedly-Unauthorized-Wire-Transfer-Report",
-    "source": "dailyhodl.com",
-    "published": "Sun Sep 20 2026 08:15:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The $PONS token has collapsed -14%.\n\nAt time of writing, @ponsdotfamily's native token is down a full -13.9% on the 24-hour timeframe, making it crypto's worst performing major asset on the day.\n\nThe price fall comes despite Pons' dominance of the @RobinhoodCrypto Chain",
-    "link": "https://cryptopanic.com/news/33418716/The-PONS-token-has-collapsed-14-At-time-of-writing-ponsdotfamilys-native-token-is-down-a-full-139-on-the-24-hour-timeframe-making-it-cryptos-worst-performing-major-asset-on-the-day-The-price-fall-comes-despite-Pons-dominance-of-the-RobinhoodCrypto-Chain",
-    "source": "@bscnews",
-    "published": "Sun Sep 20 2026 08:09:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "FIFA Collect has now surpassed 1 MILLION users after choosing $AVAX!\n\n@FIFAcom chose @avax to power its digital collectibles platform.\n\nAnd as one of the biggest sports brands, governing the most popular sport on Earth is already bringing mainstream users onchain...\n\nWith",
-    "link": "https://cryptopanic.com/news/33418669/FIFA-Collect-has-now-surpassed-1-MILLION-users-after-choosing-AVAX-FIFAcom-chose-avax-to-power-its-digital-collectibles-platform-And-as-one-of-the-biggest-sports-brands-governing-the-most-popular-sport-on-Earth-is-already-bringing-mainstream-users-onchain-With",
-    "source": "@realallincrypto",
-    "published": "Sun Sep 20 2026 08:00:28 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
