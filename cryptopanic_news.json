@@ -1,5 +1,19 @@
 [
   {
+    "title": "Why Solana’s new 250ms speed boost could actually trigger network instability",
+    "link": "https://cryptopanic.com/news/33420254/Why-Solanas-new-250ms-speed-boost-could-actually-trigger-network-instability",
+    "source": "cryptoslate.com",
+    "published": "Sun Sep 20 2026 19:20:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: $CASH is launching as a ZRC20 token on Zcash Mainnet. 🪙\n\n1,000 $CASH = 0.005 $ZEC\n\nThe launch features:\n\n️ Anti-bot protection\n 100% of mint proceeds refunded once the mint ends, minus gas fees\n FCFS public fairlaunch\n\nOnly the first 18,900 transactions will count.",
+    "link": "https://cryptopanic.com/news/33420271/JUST-IN-CASH-is-launching-as-a-ZRC20-token-on-Zcash-Mainnet-1000-CASH-0005-ZEC-The-launch-features-Anti-bot-protection-100-of-mint-proceeds-refunded-once-the-mint-ends-minus-gas-fees-FCFS-public-fairlaunch-Only-the-first-18900-transactions-will-count",
+    "source": "@bscnews",
+    "published": "Sun Sep 20 2026 19:16:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Circle Lets AI Agents Pay USDC Without Separate Gas Wallets",
     "link": "https://cryptopanic.com/news/33420248/Circle-Lets-AI-Agents-Pay-USDC-Without-Separate-Gas-Wallets",
     "source": "coindoo.com",
@@ -11,6 +25,13 @@
     "link": "https://cryptopanic.com/news/33420243/US-prepares-to-sanction-the-International-Criminal-Court-following-previously-issued-arrest-warrant-for-Israeli-PM-Netanyahu",
     "source": "@cryptonwsuk",
     "published": "Sun Sep 20 2026 19:10:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Most people underestimate the power of compounding a few good trades.",
+    "link": "https://cryptopanic.com/news/33420285/Most-people-underestimate-the-power-of-compounding-a-few-good-trades",
+    "source": "@stackersatoshi",
+    "published": "Sun Sep 20 2026 19:09:15 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -46,6 +67,13 @@
     "link": "https://cryptopanic.com/news/33420199/US-Treasury-Holdings-Slide-50B-as-China-Japan-Cut-Exposure",
     "source": "thecoinrepublic.com",
     "published": "Sun Sep 20 2026 19:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Zcash now has a token standard. ZRC-20 is going live shortly, letting anyone deploy, mint, and transfer tokens directly on the privacy chain with no protocol upgrade or permission required. The first token, $CASH, caps supply at 21 million.",
+    "link": "https://cryptopanic.com/news/33420270/Zcash-now-has-a-token-standard-ZRC-20-is-going-live-shortly-letting-anyone-deploy-mint-and-transfer-tokens-directly-on-the-privacy-chain-with-no-protocol-upgrade-or-permission-required-The-first-token-CASH-caps-supply-at-21-million",
+    "source": "@bscnews",
+    "published": "Sun Sep 20 2026 18:52:51 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33420029/Buy-the-tokens-that-are-buying-themselves-ExitLiqCapital",
     "source": "@decryptmedia",
     "published": "Sun Sep 20 2026 17:00:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Banks Now Hold Nearly 1 in 4 Spots on EU's MiCA Crypto Register",
-    "link": "https://cryptopanic.com/news/33419979/Banks-Now-Hold-Nearly-1-in-4-Spots-on-EUs-MiCA-Crypto-Register",
-    "source": "coinpaprika.com",
-    "published": "Sun Sep 20 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump To Meet Xi In Washington To Discuss Tariffs, AI And Tech",
-    "link": "https://cryptopanic.com/news/33419973/Trump-To-Meet-Xi-In-Washington-To-Discuss-Tariffs-AI-And-Tech",
-    "source": "catenaa.com",
-    "published": "Sun Sep 20 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Wallet Awakens After 14 Years Moving 100 BTC With 2,486,052% Gains",
-    "link": "https://cryptopanic.com/news/33419967/Bitcoin-Wallet-Awakens-After-14-Years-Moving-100-BTC-With-2486052-Gains",
-    "source": "dailyhodl.com",
-    "published": "Sun Sep 20 2026 16:55:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin’s Demand Is Holding Strong — One On-Chain Level Could Decide What Comes Next",
-    "link": "https://cryptopanic.com/news/33419963/Bitcoins-Demand-Is-Holding-Strong-One-On-Chain-Level-Could-Decide-What-Comes-Next",
-    "source": "techgaged.com",
-    "published": "Sun Sep 20 2026 16:48:44 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
