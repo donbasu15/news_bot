@@ -1,5 +1,103 @@
 [
   {
+    "title": "Robinhood's Onchain Endgame",
+    "link": "https://cryptopanic.com/news/33426194/Robinhoods-Onchain-Endgame",
+    "source": "bankless.com",
+    "published": "Mon Sep 21 2026 19:13:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: #Cardano $ADA ranked #9 in 7-day stablecoin market cap growth, adding $4.3M, according to data from RWA Foundation and Token Terminal.",
+    "link": "https://cryptopanic.com/news/33426185/UPDATE-Cardano-ADA-ranked-9-in-7-day-stablecoin-market-cap-growth-adding-43M-according-to-data-from-RWA-Foundation-and-Token-Terminal",
+    "source": "@angrycryptoshow",
+    "published": "Mon Sep 21 2026 19:08:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Hits $86,000 as Dogecoin Leads; Ethereum, XRP Rally Pushing Liquidations Towards $1 Billion",
+    "link": "https://cryptopanic.com/news/33426201/Bitcoin-Hits-86000-as-Dogecoin-Leads-Ethereum-XRP-Rally-Pushing-Liquidations-Towards-1-Billion",
+    "source": "feeds2.benzinga.com",
+    "published": "Mon Sep 21 2026 19:07:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Zcash Foundation disowns ZRC-20 and $CASH token in warning to users",
+    "link": "https://cryptopanic.com/news/33426154/Zcash-Foundation-disowns-ZRC-20-and-CASH-token-in-warning-to-users",
+    "source": "cryptopolitan.com",
+    "published": "Mon Sep 21 2026 19:05:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ondo opens new path for institutions to bring shares onchain",
+    "link": "https://cryptopanic.com/news/33426204/Ondo-opens-new-path-for-institutions-to-bring-shares-onchain",
+    "source": "thestreet.com",
+    "published": "Mon Sep 21 2026 19:03:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Trails Nasdaq This Year: Why One Analyst Calls It ‘Helpful’",
+    "link": "https://cryptopanic.com/news/33426200/Bitcoin-Trails-Nasdaq-This-Year-Why-One-Analyst-Calls-It-Helpful",
+    "source": "feeds2.benzinga.com",
+    "published": "Mon Sep 21 2026 19:03:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "How Sonic crypto can turn $0.040 into support after its 19% rally",
+    "link": "https://cryptopanic.com/news/33426144/How-Sonic-crypto-can-turn-0040-into-support-after-its-19-rally",
+    "source": "ambcrypto.com",
+    "published": "Mon Sep 21 2026 19:00:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Why Trillions Could Move From Debt Into Bitcoin And Gold | Luke Gromen & Lyn Alden",
+    "link": "https://cryptopanic.com/news/33426153/Why-Trillions-Could-Move-From-Debt-Into-Bitcoin-And-Gold-Luke-Gromen-Lyn-Alden",
+    "source": "BTCSessions",
+    "published": "Mon Sep 21 2026 19:00:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Multicoin Capital co-founder Kyle Samani predicts Solana will flip Ethereum this market cycle, claiming “no one really uses Ethereum” today.",
+    "link": "https://cryptopanic.com/news/33426189/JUST-IN-Multicoin-Capital-co-founder-Kyle-Samani-predicts-Solana-will-flip-Ethereum-this-market-cycle-claiming-no-one-really-uses-Ethereum-today",
+    "source": "@cointelegraph",
+    "published": "Mon Sep 21 2026 19:00:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Europe’s Central Bank Prepares to Invest Own Funds in Tokenized Securities",
+    "link": "https://cryptopanic.com/news/33426145/Europes-Central-Bank-Prepares-to-Invest-Own-Funds-in-Tokenized-Securities",
+    "source": "decrypt.co",
+    "published": "Mon Sep 21 2026 19:00:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Just 2,110 XRP Puts a Wallet In The TOP 10%",
+    "link": "https://cryptopanic.com/news/33426116/Just-2110-XRP-Puts-a-Wallet-In-The-TOP-10",
+    "source": "dailycoin.com",
+    "published": "Mon Sep 21 2026 19:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Midnight Foundation CTO Sebastien Guillemot says with \"contract deployment soon on mainnet, it doesn't stop there. Testnet has the next version of smart contracts with a lot of extra new features (events, composability, etc.) Working hard to get those to mainnet next.\"",
+    "link": "https://cryptopanic.com/news/33426184/UPDATE-Midnight-Foundation-CTO-Sebastien-Guillemot-says-with-contract-deployment-soon-on-mainnet-it-doesnt-stop-there-Testnet-has-the-next-version-of-smart-contracts-with-a-lot-of-extra-new-features-events-composability-etc-Working-hard-to-get-those-to-mainnet-next",
+    "source": "@angrycryptoshow",
+    "published": "Mon Sep 21 2026 18:59:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "OPINION: More assets may be moving on-chain, but that doesn’t necessarily mean more decentralization says @herminewong_xyz.\n\nAs the SEC and CFTC build regulatory highways for permissioned crypto markets, Hermine asks 'are we growing crypto, or crypto intermediaries?",
+    "link": "https://cryptopanic.com/news/33426187/OPINION-More-assets-may-be-moving-on-chain-but-that-doesnt-necessarily-mean-more-decentralization-says-herminewong_xyz-As-the-SEC-and-CFTC-build-regulatory-highways-for-permissioned-crypto-markets-Hermine-asks-are-we-growing-crypto-or-crypto-intermediaries",
+    "source": "@coindesk",
+    "published": "Mon Sep 21 2026 18:59:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Midnight Foundation CTO Sebastien Guillemot says \"smart contract deployment is soon going to be enabled on Midnight mainnet. Excited for private smart contracts, including the ability to mint private custom tokens.\"",
+    "link": "https://cryptopanic.com/news/33426183/UPDATE-Midnight-Foundation-CTO-Sebastien-Guillemot-says-smart-contract-deployment-is-soon-going-to-be-enabled-on-Midnight-mainnet-Excited-for-private-smart-contracts-including-the-ability-to-mint-private-custom-tokens",
+    "source": "@angrycryptoshow",
+    "published": "Mon Sep 21 2026 18:58:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "The Bitcoin vs. global money M2 chart doesn't lie.\n\n... you just ain't bullish enough.",
     "link": "https://cryptopanic.com/news/33426107/The-Bitcoin-vs-global-money-M2-chart-doesnt-lie-you-just-aint-bullish-enough",
     "source": "@btc_archive",
@@ -18,6 +116,13 @@
     "link": "https://cryptopanic.com/news/33426105/JUST-IN-Head-of-AI-Macro-Nexus-says-Bitcoin-represents-the-entirety-of-all-the-innovations-that-are-happening-both-in-the-fiat-world-and-in-the-crypto-world-It-will-be-the-only-instrument-left-standing-in-20-years-when-AI-reaches-abundance",
     "source": "@bitcoinmagazine",
     "published": "Mon Sep 21 2026 18:46:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "2011 Bitcoin wallet wakes up holding millions",
+    "link": "https://cryptopanic.com/news/33426152/2011-Bitcoin-wallet-wakes-up-holding-millions",
+    "source": "thestreet.com",
+    "published": "Mon Sep 21 2026 18:46:05 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -49,6 +154,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "🇺🇸 TODAY: President Trump urged Senate Republicans to abolish the filibuster, warning Democrats will do it first and make it impossible for Republicans to win future elections.",
+    "link": "https://cryptopanic.com/news/33426188/TODAY-President-Trump-urged-Senate-Republicans-to-abolish-the-filibuster-warning-Democrats-will-do-it-first-and-make-it-impossible-for-Republicans-to-win-future-elections",
+    "source": "@cointelegraph",
+    "published": "Mon Sep 21 2026 18:40:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "One wallet links $1.55 million FetchAI theft to massive 408.5 million NTX mint",
     "link": "https://cryptopanic.com/news/33426050/One-wallet-links-155-million-FetchAI-theft-to-massive-4085-million-NTX-mint",
     "source": "cryptoslate.com",
@@ -70,6 +182,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "DATA: Bitcoin is approaching 20 ounces of gold per coin, with the bitcoin-to-gold ratio currently at 19.8. That means one bitcoin can buy 19.8 ounces of gold, up from a low of 12 ounces in February but still well below (50%) its record high of just over 40 ounces.\n\nThe",
+    "link": "https://cryptopanic.com/news/33426186/DATA-Bitcoin-is-approaching-20-ounces-of-gold-per-coin-with-the-bitcoin-to-gold-ratio-currently-at-198-That-means-one-bitcoin-can-buy-198-ounces-of-gold-up-from-a-low-of-12-ounces-in-February-but-still-well-below-50-its-record-high-of-just-over-40-ounces-The",
+    "source": "@coindesk",
+    "published": "Mon Sep 21 2026 18:35:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "What Is VVV? The Privacy-Obsessed AI Token That’s Up 3,000% in 2026",
     "link": "https://cryptopanic.com/news/33426045/What-Is-VVV-The-Privacy-Obsessed-AI-Token-Thats-Up-3000-in-2026",
     "source": "decrypt.co",
@@ -88,125 +207,6 @@
     "link": "https://cryptopanic.com/news/33426088/Porsches-decline-from-crown-jewel-to-millstone-for-parent-Volkswagen",
     "source": "@reutersbiz",
     "published": "Mon Sep 21 2026 18:30:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "X Sues Bitcoin Influencers Over £207K Creator Fraud Claims",
-    "link": "https://cryptopanic.com/news/33426002/X-Sues-Bitcoin-Influencers-Over-207K-Creator-Fraud-Claims",
-    "source": "btcusa.com",
-    "published": "Mon Sep 21 2026 18:30:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Lighter Set to Add Binary Options Support to Its ZK Prover",
-    "link": "https://cryptopanic.com/news/33426035/Lighter-Set-to-Add-Binary-Options-Support-to-Its-ZK-Prover",
-    "source": "bankless.com",
-    "published": "Mon Sep 21 2026 18:28:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP News: Exchange Churn Surges, Binance Reserves Barely Move",
-    "link": "https://cryptopanic.com/news/33426004/XRP-News-Exchange-Churn-Surges-Binance-Reserves-Barely-Move",
-    "source": "cryptonews.com",
-    "published": "Mon Sep 21 2026 18:28:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Charles Hoskinson says \"I think Cardano's great, I'm still one of the largest $ADA holders.\"",
-    "link": "https://cryptopanic.com/news/33426038/UPDATE-Charles-Hoskinson-says-I-think-Cardanos-great-Im-still-one-of-the-largest-ADA-holders",
-    "source": "@angrycryptoshow",
-    "published": "Mon Sep 21 2026 18:26:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Cardano Founder Charles Hoskinson on stacking $ADA and $NIGHT, says \"I am too, I think there's a lot of cool things.\"",
-    "link": "https://cryptopanic.com/news/33426037/UPDATE-Cardano-Founder-Charles-Hoskinson-on-stacking-ADA-and-NIGHT-says-I-am-too-I-think-theres-a-lot-of-cool-things",
-    "source": "@angrycryptoshow",
-    "published": "Mon Sep 21 2026 18:25:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: #Cardano $ADA Founder Charles Hoskinson says \"Cardano, 1.4 million people are staking across the world.\"",
-    "link": "https://cryptopanic.com/news/33426036/UPDATE-Cardano-ADA-Founder-Charles-Hoskinson-says-Cardano-14-million-people-are-staking-across-the-world",
-    "source": "@angrycryptoshow",
-    "published": "Mon Sep 21 2026 18:25:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: #Cardano $ADA Founder Charles Hoskinson says \"Cardano is self-determining and it makes its own decisions. It's completely independent.\"",
-    "link": "https://cryptopanic.com/news/33426034/UPDATE-Cardano-ADA-Founder-Charles-Hoskinson-says-Cardano-is-self-determining-and-it-makes-its-own-decisions-Its-completely-independent",
-    "source": "@angrycryptoshow",
-    "published": "Mon Sep 21 2026 18:24:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: #Cardano $ADA Founder Charles Hoskinson says \"there's some things that Cardano brings that are very unique, like Bitcoin DeFi, UTXO to UTXO, Cardano is the best technological choice for that, so I'm really excited to watch that turn on, and come to fruition and be real.\"",
-    "link": "https://cryptopanic.com/news/33426033/UPDATE-Cardano-ADA-Founder-Charles-Hoskinson-says-theres-some-things-that-Cardano-brings-that-are-very-unique-like-Bitcoin-DeFi-UTXO-to-UTXO-Cardano-is-the-best-technological-choice-for-that-so-Im-really-excited-to-watch-that-turn-on-and-come-to-fruition-and-be-real",
-    "source": "@angrycryptoshow",
-    "published": "Mon Sep 21 2026 18:24:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Polkadot is promising privacy by default in its upcoming products. They already ran a pilot with about 900 people at Web3 Summit Berlin, and their Products Devnet, with phone and desktop apps, has been open to builders since August. polkadot:native",
-    "link": "https://cryptopanic.com/news/33426091/Polkadot-is-promising-privacy-by-default-in-its-upcoming-products-They-already-ran-a-pilot-with-about-900-people-at-Web3-Summit-Berlin-and-their-Products-Devnet-with-phone-and-desktop-apps-has-been-open-to-builders-since-August-polkadotnative",
-    "source": "@bscnews",
-    "published": "Mon Sep 21 2026 18:24:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Coinbase Launches IPO Access for US Traders as Part of its 'Complete Global Financial Platform'",
-    "link": "https://cryptopanic.com/news/33426048/Coinbase-Launches-IPO-Access-for-US-Traders-as-Part-of-its-Complete-Global-Financial-Platform",
-    "source": "feeds2.benzinga.com",
-    "published": "Mon Sep 21 2026 18:21:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: $160,000,000,000 added to the crypto market cap in the past 24 hours.",
-    "link": "https://cryptopanic.com/news/33426106/JUST-IN-160000000000-added-to-the-crypto-market-cap-in-the-past-24-hours",
-    "source": "@watcherguru",
-    "published": "Mon Sep 21 2026 18:21:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BULLISH: Analyst Gert van Lagen says Bitcoin has broken its one-year downtrend and printed its first higher high since the $126K all-time high.",
-    "link": "https://cryptopanic.com/news/33426041/BULLISH-Analyst-Gert-van-Lagen-says-Bitcoin-has-broken-its-one-year-downtrend-and-printed-its-first-higher-high-since-the-126K-all-time-high",
-    "source": "@cointelegraph",
-    "published": "Mon Sep 21 2026 18:20:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Jordi Visser: Why AI Agents Make the BTC Bull Case",
-    "link": "https://cryptopanic.com/news/33425997/Jordi-Visser-Why-AI-Agents-Make-the-BTC-Bull-Case",
-    "source": "BitcoinMagazine",
-    "published": "Mon Sep 21 2026 18:17:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Is the Bitcoin bear market over?",
-    "link": "https://cryptopanic.com/news/33425990/Is-the-Bitcoin-bear-market-over",
-    "source": "AnthonyPompliano",
-    "published": "Mon Sep 21 2026 18:15:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "No pools, no bridges, $29.5B in volume. How @NEARProtocol Intents lets you swap native $BTC for $SOL by stating what you want and letting solvers compete. Learn more: ⬇️",
-    "link": "https://cryptopanic.com/news/33426090/No-pools-no-bridges-295B-in-volume-How-NEARProtocol-Intents-lets-you-swap-native-BTC-for-SOL-by-stating-what-you-want-and-letting-solvers-compete-Learn-more",
-    "source": "@bscnews",
-    "published": "Mon Sep 21 2026 18:15:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SHIB Rebounds With No Burns As OKX Shifts 280B",
-    "link": "https://cryptopanic.com/news/33425904/SHIB-Rebounds-With-No-Burns-As-OKX-Shifts-280B",
-    "source": "dailycoin.com",
-    "published": "Mon Sep 21 2026 18:04:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ONDO SHOW HOW THEY MADE TOKENISED STOCKS FAR MORE LIQUID!\n\nInstitutions can now turn shares they already own directly into @Ondo Stocks tokens and convert them back again.\n\n$ONDO is building the bridge between Wall Street and onchain markets.",
-    "link": "https://cryptopanic.com/news/33426089/ONDO-SHOW-HOW-THEY-MADE-TOKENISED-STOCKS-FAR-MORE-LIQUID-Institutions-can-now-turn-shares-they-already-own-directly-into-Ondo-Stocks-tokens-and-convert-them-back-again-ONDO-is-building-the-bridge-between-Wall-Street-and-onchain-markets",
-    "source": "@realallincrypto",
-    "published": "Mon Sep 21 2026 18:00:35 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
