@@ -1,5 +1,89 @@
 [
   {
+    "title": "SEND IT!",
+    "link": "https://cryptopanic.com/news/33423981/SEND-IT",
+    "source": "@btc_archive",
+    "published": "Mon Sep 21 2026 12:38:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Breaks a 45-Week Bear Market Ceiling — What Happened the Last 13 Times?",
+    "link": "https://cryptopanic.com/news/33423895/Bitcoin-Breaks-a-45-Week-Bear-Market-Ceiling-What-Happened-the-Last-13-Times",
+    "source": "dailycoin.com",
+    "published": "Mon Sep 21 2026 12:35:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Interesting🤔",
+    "link": "https://cryptopanic.com/news/33423900/Interesting",
+    "source": "r/hedera",
+    "published": "Mon Sep 21 2026 12:31:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Strategy Resumes Bitcoin Buying as BTC Surges Past $85,000",
+    "link": "https://cryptopanic.com/news/33423885/Strategy-Resumes-Bitcoin-Buying-as-BTC-Surges-Past-85000",
+    "source": "cryptodnes.bg",
+    "published": "Mon Sep 21 2026 12:31:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Saylor is now sitting on nearly $7.9B in unrealized Bitcoin profits.",
+    "link": "https://cryptopanic.com/news/33423866/UPDATE-Saylor-is-now-sitting-on-nearly-79B-in-unrealized-Bitcoin-profits",
+    "source": "@cointelegraph",
+    "published": "Mon Sep 21 2026 12:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Inside the AI safety revolt that turned rival labs toward a slowdown",
+    "link": "https://cryptopanic.com/news/33423803/Inside-the-AI-safety-revolt-that-turned-rival-labs-toward-a-slowdown",
+    "source": "cryptopolitan.com",
+    "published": "Mon Sep 21 2026 12:25:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$ETH There we go, finally breaking out properly and on its way to the big $2.8K level.\n\nLooking good and personally just riding this one higher.",
+    "link": "https://cryptopanic.com/news/33423870/ETH-There-we-go-finally-breaking-out-properly-and-on-its-way-to-the-big-28K-level-Looking-good-and-personally-just-riding-this-one-higher",
+    "source": "@daancrypto",
+    "published": "Mon Sep 21 2026 12:25:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$CNPY Saw a solid +80% squeeze from that point after being super compressed.\n\nFrom there it came down and retested the support which saw a solid reaction so far.\n\nOverall this has seen solid upside momentum and I remain bullish above this level.\n\nThe open source AI narrative has",
+    "link": "https://cryptopanic.com/news/33423869/CNPY-Saw-a-solid-80-squeeze-from-that-point-after-being-super-compressed-From-there-it-came-down-and-retested-the-support-which-saw-a-solid-reaction-so-far-Overall-this-has-seen-solid-upside-momentum-and-I-remain-bullish-above-this-level-The-open-source-AI-narrative-has",
+    "source": "@daancrypto",
+    "published": "Mon Sep 21 2026 12:23:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The Only Asset AI Can't Make More Of",
+    "link": "https://cryptopanic.com/news/33423877/The-Only-Asset-AI-Cant-Make-More-Of",
+    "source": "AnthonyPompliano",
+    "published": "Mon Sep 21 2026 12:23:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: Strive bought 1,355 bitcoin:native for $107.7 million at an average price of $79,475\n \nBringing its total holdings to 26,355 BTC",
+    "link": "https://cryptopanic.com/news/33423977/INTEL-Strive-bought-1355-bitcoinnative-for-1077-million-at-an-average-price-of-79475-Bringing-its-total-holdings-to-26355-BTC",
+    "source": "@solidintel_x",
+    "published": "Mon Sep 21 2026 12:22:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Tops $85K as $648M in Crypto Shorts Liquidated",
+    "link": "https://cryptopanic.com/news/33423779/Bitcoin-Tops-85K-as-648M-in-Crypto-Shorts-Liquidated",
+    "source": "decrypt.co",
+    "published": "Mon Sep 21 2026 12:22:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Machine learning algorithm sets Shiba Inu (SHIB) price for October 1, 2026",
+    "link": "https://cryptopanic.com/news/33423786/Machine-learning-algorithm-sets-Shiba-Inu-SHIB-price-for-October-1-2026",
+    "source": "finbold.com",
+    "published": "Mon Sep 21 2026 12:21:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Strives Buys 1,355 BTC as Bitcoin’s Price Crosses $85K",
     "link": "https://cryptopanic.com/news/33423710/Strives-Buys-1355-BTC-as-Bitcoins-Price-Crosses-85K",
     "source": "cryptopotato.com",
@@ -56,10 +140,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Strategy Resumes Aggressive Bitcoin Accumulation\n\n@Strategy makes another aggressive accumulation move, buying 950 more $BTC for $75.7M at an average price of $79,670 per coin.\n\nThe company's total holdings have risen to 846,000 $BTC, with a total investment of $63.8B at an",
+    "link": "https://cryptopanic.com/news/33423872/Strategy-Resumes-Aggressive-Bitcoin-Accumulation-Strategy-makes-another-aggressive-accumulation-move-buying-950-more-BTC-for-757M-at-an-average-price-of-79670-per-coin-The-companys-total-holdings-have-risen-to-846000-BTC-with-a-total-investment-of-638B-at-an",
+    "source": "@bscnews",
+    "published": "Mon Sep 21 2026 12:08:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "What Is a Bank Trust Charter, And Why Do Crypto Companies Want One?",
     "link": "https://cryptopanic.com/news/33423620/What-Is-a-Bank-Trust-Charter-And-Why-Do-Crypto-Companies-Want-One",
     "source": "coinpaper.com",
     "published": "Mon Sep 21 2026 12:08:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Strategy returns to bitcoin buys, adding $75 million of BTC last week",
+    "link": "https://cryptopanic.com/news/33423792/Strategy-returns-to-bitcoin-buys-adding-75-million-of-BTC-last-week",
+    "source": "coindesk.com",
+    "published": "Mon Sep 21 2026 12:08:02 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -74,6 +172,13 @@
     "link": "https://cryptopanic.com/news/33423619/Strategy-Buys-950-Bitcoin-as-Holdings-Reach-846000-BTC",
     "source": "coindoo.com",
     "published": "Mon Sep 21 2026 12:07:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Public companies Strategy and Strive bought a combined 2,305 Bitcoin for $182.7 million.\n\nStrategy: 950 BTC\nStrive: 1,355 BTC",
+    "link": "https://cryptopanic.com/news/33423979/JUST-IN-Public-companies-Strategy-and-Strive-bought-a-combined-2305-Bitcoin-for-1827-million-Strategy-950-BTC-Strive-1355-BTC",
+    "source": "@bitcoinmagazine",
+    "published": "Mon Sep 21 2026 12:06:18 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -102,111 +207,6 @@
     "link": "https://cryptopanic.com/news/33423686/Strategy-purchased-757M-of-BTC-last-week-and-repurchased-174M-of-STRC",
     "source": "@stackersatoshi",
     "published": "Mon Sep 21 2026 12:04:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum’s next move: $2,760 if bulls hold, $2,600 if they don’t",
-    "link": "https://cryptopanic.com/news/33423608/Ethereums-next-move-2760-if-bulls-hold-2600-if-they-dont",
-    "source": "ambcrypto.com",
-    "published": "Mon Sep 21 2026 12:00:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ CoinMarketCap's Features:\n\n CMC is a market data platform, not an exchange, trades run via on-chain DEX routing.\n\n The Portfolio feature tracks assets only, it's not a crypto wallet.",
-    "link": "https://cryptopanic.com/news/33423699/CoinMarketCaps-Features-CMC-is-a-market-data-platform-not-an-exchange-trades-run-via-on-chain-DEX-routing-The-Portfolio-feature-tracks-assets-only-its-not-a-crypto-wallet",
-    "source": "@coinmarketcap",
-    "published": "Mon Sep 21 2026 12:00:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "It's show time!",
-    "link": "https://cryptopanic.com/news/33423698/Its-show-time",
-    "source": "@coinmarketcap",
-    "published": "Mon Sep 21 2026 12:00:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Blink Wallet Pauses Services After Attacker Drains Custodial Accounts",
-    "link": "https://cryptopanic.com/news/33423561/Blink-Wallet-Pauses-Services-After-Attacker-Drains-Custodial-Accounts",
-    "source": "btcusa.com",
-    "published": "Mon Sep 21 2026 12:00:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CoinMarketCap | Liquidation Map \n\nBitcoin is up $2,796 in the last 3 hours on a wave of forced liquidations!\n\nOur map draws where the next ones sit:\n\n $86,050 holds $40.6M of shorts\n $80,950 holds $82.25M of longs\n The heaviest zone holds $192.65M at $136,750\n\nSee",
-    "link": "https://cryptopanic.com/news/33423696/CoinMarketCap-Liquidation-Map-Bitcoin-is-up-2796-in-the-last-3-hours-on-a-wave-of-forced-liquidations-Our-map-draws-where-the-next-ones-sit-86050-holds-406M-of-shorts-80950-holds-8225M-of-longs-The-heaviest-zone-holds-19265M-at-136750-See",
-    "source": "@coinmarketcap",
-    "published": "Mon Sep 21 2026 11:58:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Zoomex to Host Traders After Party During TOKEN2049 Singapore, Connecting Traders and the Web3 Community",
-    "link": "https://cryptopanic.com/news/33423556/Zoomex-to-Host-Traders-After-Party-During-TOKEN2049-Singapore-Connecting-Traders-and-the-Web3-Community",
-    "source": "newsbtc.com",
-    "published": "Mon Sep 21 2026 11:57:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Garrett Jin (@GarrettBullish) made an $8.38M profit on his $BTC long after losing $35.44M on his $ZEC short. \n\nHowever, he still holds over $300M worth of $ZEC spot, with $221M in unrealized profit.",
-    "link": "https://cryptopanic.com/news/33423563/Garrett-Jin-GarrettBullish-made-an-838M-profit-on-his-BTC-long-after-losing-3544M-on-his-ZEC-short-However-he-still-holds-over-300M-worth-of-ZEC-spot-with-221M-in-unrealized-profit",
-    "source": "@bscnews",
-    "published": "Mon Sep 21 2026 11:57:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The U.S. May Borrow $1 Trillion More, But Mostly at the Short End",
-    "link": "https://cryptopanic.com/news/33423549/The-US-May-Borrow-1-Trillion-More-But-Mostly-at-the-Short-End",
-    "source": "coinpaper.com",
-    "published": "Mon Sep 21 2026 11:56:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why Is Wendy’s Stock Falling? Major Franchisee Files for Bankruptcy",
-    "link": "https://cryptopanic.com/news/33423532/Why-Is-Wendys-Stock-Falling-Major-Franchisee-Files-for-Bankruptcy",
-    "source": "coinpaper.com",
-    "published": "Mon Sep 21 2026 11:47:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BITCOIN IS PUMPING!\n\n$BTC just hit its highest price since January as it squeezes higher, liquidating $365M of shorts in just the past 4 hours.",
-    "link": "https://cryptopanic.com/news/33423680/BITCOIN-IS-PUMPING-BTC-just-hit-its-highest-price-since-January-as-it-squeezes-higher-liquidating-365M-of-shorts-in-just-the-past-4-hours",
-    "source": "@stackersatoshi",
-    "published": "Mon Sep 21 2026 11:46:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEAR Protocol & Arbitrum are the hottest assets right now\n\n@NEARProtocol's $NEAR and @Arbitrum's $ARB are top performers in the digital asset industry, up more than 70% over the past seven days.\n\nThe rise of these two shows how capital markets are moving aggressively into",
-    "link": "https://cryptopanic.com/news/33423562/NEAR-Protocol-amp-Arbitrum-are-the-hottest-assets-right-now-NEARProtocols-NEAR-and-Arbitrums-ARB-are-top-performers-in-the-digital-asset-industry-up-more-than-70-over-the-past-seven-days-The-rise-of-these-two-shows-how-capital-markets-are-moving-aggressively-into",
-    "source": "@bscnews",
-    "published": "Mon Sep 21 2026 11:45:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "X’s London lawsuit seeks £207,384 back from six crypto accounts it says gamed payouts",
-    "link": "https://cryptopanic.com/news/33423505/Xs-London-lawsuit-seeks-207384-back-from-six-crypto-accounts-it-says-gamed-payouts",
-    "source": "cryptopolitan.com",
-    "published": "Mon Sep 21 2026 11:44:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Bitcoin has pumped over 12.6% since the Senate failed to advance the Clarity Act last week.",
-    "link": "https://cryptopanic.com/news/33423565/JUST-IN-Bitcoin-has-pumped-over-126-since-the-Senate-failed-to-advance-the-Clarity-Act-last-week",
-    "source": "@bitcoinmagazine",
-    "published": "Mon Sep 21 2026 11:43:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ECB Launches Blockchain Bridge for Tokenized Bank Settlement",
-    "link": "https://cryptopanic.com/news/33423496/ECB-Launches-Blockchain-Bridge-for-Tokenized-Bank-Settlement",
-    "source": "coindoo.com",
-    "published": "Mon Sep 21 2026 11:42:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: The European Central Bank launches Pontes, a platform allowing banks to settle tokenized asset transactions in wholesale central bank money separate from the retail digital euro pilot.",
-    "link": "https://cryptopanic.com/news/33423528/LATEST-The-European-Central-Bank-launches-Pontes-a-platform-allowing-banks-to-settle-tokenized-asset-transactions-in-wholesale-central-bank-money-separate-from-the-retail-digital-euro-pilot",
-    "source": "@coindesk",
-    "published": "Mon Sep 21 2026 11:40:53 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
