@@ -1,9 +1,114 @@
 [
   {
+    "title": "INTEL: ECB launches Pontes, allowing banks to settle tokenized financial transactions using central bank euros",
+    "link": "https://cryptopanic.com/news/33423119/INTEL-ECB-launches-Pontes-allowing-banks-to-settle-tokenized-financial-transactions-using-central-bank-euros",
+    "source": "@solidintel_x",
+    "published": "Mon Sep 21 2026 10:40:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BTC USD Bulls Eye $82,800 Resistance as Bitcoin Hyper Presale Nears $35M",
+    "link": "https://cryptopanic.com/news/33423118/BTC-USD-Bulls-Eye-82800-Resistance-as-Bitcoin-Hyper-Presale-Nears-35M",
+    "source": "cryptonews.com",
+    "published": "Mon Sep 21 2026 10:39:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SoftBank sells $11 billion in dollar and euro bonds to retire its OpenAI bridge loan",
+    "link": "https://cryptopanic.com/news/33423064/SoftBank-sells-11-billion-in-dollar-and-euro-bonds-to-retire-its-OpenAI-bridge-loan",
+    "source": "cryptopolitan.com",
+    "published": "Mon Sep 21 2026 10:39:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "How foundational AML training strengthens your Travel Rule and monitoring controls",
+    "link": "https://cryptopanic.com/news/33423062/How-foundational-AML-training-strengthens-your-Travel-Rule-and-monitoring-controls",
+    "source": "dailycoin.com",
+    "published": "Mon Sep 21 2026 10:38:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇪🇺 European Central Bank officially launches digital euro payments for tokenized transactions between banks.",
+    "link": "https://cryptopanic.com/news/33423121/JUST-IN-European-Central-Bank-officially-launches-digital-euro-payments-for-tokenized-transactions-between-banks",
+    "source": "@watcherguru",
+    "published": "Mon Sep 21 2026 10:38:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Price Prediction: XRP Jumps 7% Toward $1.50 as Whales Load Up",
+    "link": "https://cryptopanic.com/news/33423050/XRP-Price-Prediction-XRP-Jumps-7-Toward-150-as-Whales-Load-Up",
+    "source": "coinpaper.com",
+    "published": "Mon Sep 21 2026 10:35:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Price Prediction: XRP Jumps 7% Toward $1.50 as Whales Load Up",
+    "link": "https://cryptopanic.com/news/33423049/XRP-Price-Prediction-XRP-Jumps-7-Toward-150-as-Whales-Load-Up",
+    "source": "coinpaper.com",
+    "published": "Mon Sep 21 2026 10:35:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: @TartProtocol continues to rise on @BNBChain.\n\nAre we witnessing the birth of the next major $BNB-based platform? \n\nWith a Stake $SHIB / Earn $TART pool in the works, bigger ecosystem partnerships could be coming next...",
+    "link": "https://cryptopanic.com/news/33423041/JUST-IN-TartProtocol-continues-to-rise-on-BNBChain-Are-we-witnessing-the-birth-of-the-next-major-BNB-based-platform-With-a-Stake-SHIB-Earn-TART-pool-in-the-works-bigger-ecosystem-partnerships-could-be-coming-next",
+    "source": "@bscnews",
+    "published": "Mon Sep 21 2026 10:30:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "A Bitcoin Lightning flaw could send a node’s entire balance straight to miners",
+    "link": "https://cryptopanic.com/news/33422954/A-Bitcoin-Lightning-flaw-could-send-a-nodes-entire-balance-straight-to-miners",
+    "source": "cryptoslate.com",
+    "published": "Mon Sep 21 2026 10:25:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Simest Launches €200M Fund to Finance AI Adoption in Italian SMEs",
+    "link": "https://cryptopanic.com/news/33422979/Simest-Launches-200M-Fund-to-Finance-AI-Adoption-in-Italian-SMEs",
+    "source": "spaziocrypto.com",
+    "published": "Mon Sep 21 2026 10:24:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Russia caps bank crypto risk at a strict 1% of capital.\n\n• Physical crypto hit hard: spot hedges don't count. \n\n• Only local cash futures get lighter rules. \n\n• Risk weights force banks to burn extra capital.",
+    "link": "https://cryptopanic.com/news/33423123/JUST-IN-Russia-caps-bank-crypto-risk-at-a-strict-1-of-capital-Physical-crypto-hit-hard-spot-hedges-dont-count-Only-local-cash-futures-get-lighter-rules-Risk-weights-force-banks-to-burn-extra-capital",
+    "source": "@btc_archive",
+    "published": "Mon Sep 21 2026 10:23:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Why Public Companies Are Starting to Treat XRP Like a Treasury Asset",
+    "link": "https://cryptopanic.com/news/33422936/Why-Public-Companies-Are-Starting-to-Treat-XRP-Like-a-Treasury-Asset",
+    "source": "coinpaper.com",
+    "published": "Mon Sep 21 2026 10:23:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Liquidations Top $750M as BTC, ETH, and XRP Rocket to New Local Peaks",
+    "link": "https://cryptopanic.com/news/33422958/Liquidations-Top-750M-as-BTC-ETH-and-XRP-Rocket-to-New-Local-Peaks",
+    "source": "cryptopotato.com",
+    "published": "Mon Sep 21 2026 10:22:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "X sues its own users for running a fake bitcoin news bot farm",
+    "link": "https://cryptopanic.com/news/33423046/X-sues-its-own-users-for-running-a-fake-bitcoin-news-bot-farm",
+    "source": "coindesk.com",
+    "published": "Mon Sep 21 2026 10:15:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST:  Michael Saylor called Bitcoin \"a $1.6 trillion success\" after venture capitalist Jason Calacanis wrote that BTC is boring and has missed its chance at mass adoption.",
     "link": "https://cryptopanic.com/news/33422916/LATEST-Michael-Saylor-called-Bitcoin-a-16-trillion-success-after-venture-capitalist-Jason-Calacanis-wrote-that-BTC-is-boring-and-has-missed-its-chance-at-mass-adoption",
     "source": "@coinmarketcap",
     "published": "Mon Sep 21 2026 10:13:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Apple to Integrate Crypto Soon?\n\nAccording to reports, Apple is looking for a lead to integrate Stablecoin and digital assets into Apple Pay. \n\nThe development suggests the tech company plans to introduce blockchain-enabled settlement channels to its 2 billion-strong consumer",
+    "link": "https://cryptopanic.com/news/33423039/Apple-to-Integrate-Crypto-Soon-According-to-reports-Apple-is-looking-for-a-lead-to-integrate-Stablecoin-and-digital-assets-into-Apple-Pay-The-development-suggests-the-tech-company-plans-to-introduce-blockchain-enabled-settlement-channels-to-its-2-billion-strong-consumer",
+    "source": "@bscnews",
+    "published": "Mon Sep 21 2026 10:13:03 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -14,10 +119,31 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Make sure you never get left behind again... ⬇️",
+    "link": "https://cryptopanic.com/news/33423037/Make-sure-you-never-get-left-behind-again",
+    "source": "@bscnews",
+    "published": "Mon Sep 21 2026 10:10:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "French prosecutors open extortion case after €40,000 crypto home invasion",
     "link": "https://cryptopanic.com/news/33422920/French-prosecutors-open-extortion-case-after-40000-crypto-home-invasion",
     "source": "cryptopolitan.com",
     "published": "Mon Sep 21 2026 10:10:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇪🇺 Google $GOOGL fined $460 million for violating EU's GDPR privacy rules.",
+    "link": "https://cryptopanic.com/news/33423120/JUST-IN-Google-GOOGL-fined-460-million-for-violating-EUs-GDPR-privacy-rules",
+    "source": "@watcherguru",
+    "published": "Mon Sep 21 2026 10:07:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BITCOIN PRICE JUMPS $3,700 IN 2H\n\nRETESTS $85,000\n\n$310M LEVERAGE SHORTS LIQUIDATED",
+    "link": "https://cryptopanic.com/news/33423122/BITCOIN-PRICE-JUMPS-3700-IN-2H-RETESTS-85000-310M-LEVERAGE-SHORTS-LIQUIDATED",
+    "source": "@btc_archive",
+    "published": "Mon Sep 21 2026 10:07:19 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -39,6 +165,13 @@
     "link": "https://cryptopanic.com/news/33422927/Stock-Market-Today-SP-500-Nasdaq-100-Futures-Gain-as-Trump-Issues-Fresh-Warning-to-Iran-MRVL-AAPL-ACN-in-Focus",
     "source": "feeds2.benzinga.com",
     "published": "Mon Sep 21 2026 10:02:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "X Sues Bitcoin Influencers Over Alleged Engagement Manipulation\n\nX has sued Bitcoin influencers, Vivek Kumar Sen, Zamyang Sherpa, and operators of related accounts in the UK, alleging coordinated manipulation of engagement metrics.\n\nThe lawsuit claims the accounts repeatedly",
+    "link": "https://cryptopanic.com/news/33423034/X-Sues-Bitcoin-Influencers-Over-Alleged-Engagement-Manipulation-X-has-sued-Bitcoin-influencers-Vivek-Kumar-Sen-Zamyang-Sherpa-and-operators-of-related-accounts-in-the-UK-alleging-coordinated-manipulation-of-engagement-metrics-The-lawsuit-claims-the-accounts-repeatedly",
+    "source": "@bscnews",
+    "published": "Mon Sep 21 2026 10:02:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -70,143 +203,10 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Hyperliquid (HYPE) Hits All-Time High: 3 Continuation Scenarios",
-    "link": "https://cryptopanic.com/news/33422926/Hyperliquid-HYPE-Hits-All-Time-High-3-Continuation-Scenarios",
-    "source": "u.today",
-    "published": "Mon Sep 21 2026 10:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Gate.io crypto exchange holds 9 licenses but blocks US, UK, Japan",
-    "link": "https://cryptopanic.com/news/33422948/Gateio-crypto-exchange-holds-9-licenses-but-blocks-US-UK-Japan",
-    "source": "en.cryptonomist.ch",
-    "published": "Mon Sep 21 2026 09:57:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NordPass password manager: free storage vs $1.49 Premium security",
-    "link": "https://cryptopanic.com/news/33422946/NordPass-password-manager-free-storage-vs-149-Premium-security",
-    "source": "en.cryptonomist.ch",
-    "published": "Mon Sep 21 2026 09:56:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Apple Pay Crypto Hiring Fuels New Stablecoin Speculation",
-    "link": "https://cryptopanic.com/news/33422784/Apple-Pay-Crypto-Hiring-Fuels-New-Stablecoin-Speculation",
-    "source": "cryptonews.com",
-    "published": "Mon Sep 21 2026 09:56:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Is Nvidia’s AI growth truly durable, or just a bubble Wall Street fears?",
-    "link": "https://cryptopanic.com/news/33422945/Is-Nvidias-AI-growth-truly-durable-or-just-a-bubble-Wall-Street-fears",
-    "source": "en.cryptonomist.ch",
-    "published": "Mon Sep 21 2026 09:56:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AXEL price prediction: token crashes 85% as RSI sinks to zero",
-    "link": "https://cryptopanic.com/news/33422943/AXEL-price-prediction-token-crashes-85-as-RSI-sinks-to-zero",
-    "source": "en.cryptonomist.ch",
-    "published": "Mon Sep 21 2026 09:55:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Machi(@machibigbrother) is up $7.15M in the past 24 hours!\n\nHis account value is back above $10M!\n\nCurrent long positions:\n\n30,950 $ETH ($84.79M)\n279 $BTC ($23.72M)\n89,000 $HYPE ($8.48M)",
-    "link": "https://cryptopanic.com/news/33422773/Machimachibigbrother-is-up-715M-in-the-past-24-hours-His-account-value-is-back-above-10M-Current-long-positions-30950-ETH-8479M-279-BTC-2372M-89000-HYPE-848M",
-    "source": "@lookonchain",
-    "published": "Mon Sep 21 2026 09:53:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto Worker's Children Held Hostage in Latest French ‘Wrench Attack,’ $46,000 Taken",
-    "link": "https://cryptopanic.com/news/33422756/Crypto-Workers-Children-Held-Hostage-in-Latest-French-Wrench-Attack-46000-Taken",
-    "source": "decrypt.co",
-    "published": "Mon Sep 21 2026 09:51:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BTC price hits overbought extremes near $85K, eyes $86.5K resistance",
-    "link": "https://cryptopanic.com/news/33422942/BTC-price-hits-overbought-extremes-near-85K-eyes-865K-resistance",
-    "source": "en.cryptonomist.ch",
-    "published": "Mon Sep 21 2026 09:51:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Meta dividend distribution hits record date as Binance reinvests METAB tokens",
-    "link": "https://cryptopanic.com/news/33422941/Meta-dividend-distribution-hits-record-date-as-Binance-reinvests-METAB-tokens",
-    "source": "en.cryptonomist.ch",
-    "published": "Mon Sep 21 2026 09:48:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "MEV bot rsETH exploit: Yoink beats hacker to $7.7M on Kelp",
-    "link": "https://cryptopanic.com/news/33422940/MEV-bot-rsETH-exploit-Yoink-beats-hacker-to-77M-on-Kelp",
-    "source": "en.cryptonomist.ch",
-    "published": "Mon Sep 21 2026 09:48:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Novo Nordisk’s growth strategy fails to calm investors as shares sink 7%",
-    "link": "https://cryptopanic.com/news/33422939/Novo-Nordisks-growth-strategy-fails-to-calm-investors-as-shares-sink-7",
-    "source": "en.cryptonomist.ch",
-    "published": "Mon Sep 21 2026 09:48:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BTC breaks above $85,000; ETH breaks above $2,750!\n\nTrader 0x06bc had 5,867 $ETH ($16.13M) of his short liquidated.\n\nTrader 0xec0b's 122.88 $BTC ($10.16M) short was fully liquidated.",
-    "link": "https://cryptopanic.com/news/33422770/BTC-breaks-above-85000-ETH-breaks-above-2750-Trader-0x06bc-had-5867-ETH-1613M-of-his-short-liquidated-Trader-0xec0bs-12288-BTC-1016M-short-was-fully-liquidated",
-    "source": "@lookonchain",
-    "published": "Mon Sep 21 2026 09:47:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SBF Allegedly Paid Seven Figures For Uniswap(.)com\n\nUniswap (@Uniswap) founder Hayden Adams (@haydenzadams) says Sam Bankman-Fried paid seven figures for the Uniswap(.)com domain.\n\nAdams said Uniswap Labs had rejected the original owner's seven-figure asking price. He claims",
-    "link": "https://cryptopanic.com/news/33422746/SBF-Allegedly-Paid-Seven-Figures-For-Uniswapcom-Uniswap-Uniswap-founder-Hayden-Adams-haydenzadams-says-Sam-Bankman-Fried-paid-seven-figures-for-the-Uniswapcom-domain-Adams-said-Uniswap-Labs-had-rejected-the-original-owners-seven-figure-asking-price-He-claims",
-    "source": "@bscnews",
-    "published": "Mon Sep 21 2026 09:46:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Bitcoin makes the first ‘Higher High’ and officially kills the bear market. \n\nIt’s over. \nIt’s been over for 3 months. \nBut now it’s ’over-over’.",
-    "link": "https://cryptopanic.com/news/33422782/JUST-IN-Bitcoin-makes-the-first-Higher-High-and-officially-kills-the-bear-market-Its-over-Its-been-over-for-3-months-But-now-its-over-over",
-    "source": "@btc_archive",
-    "published": "Mon Sep 21 2026 09:45:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Chinese startup Spirit AI trains humanoid robots to perform tasks like sorting waste and slicing vegetables, aiming for industrial applications within 1-2 years. More here",
-    "link": "https://cryptopanic.com/news/33422743/Chinese-startup-Spirit-AI-trains-humanoid-robots-to-perform-tasks-like-sorting-waste-and-slicing-vegetables-aiming-for-industrial-applications-within-1-2-years-More-here",
-    "source": "@reutersbiz",
-    "published": "Mon Sep 21 2026 09:45:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: Bitcoin hits $85,000.",
-    "link": "https://cryptopanic.com/news/33422741/BREAKING-Bitcoin-hits-85000",
-    "source": "@cointelegraph",
-    "published": "Mon Sep 21 2026 09:42:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "It’s time for all the bears to admit it’s over and they got it wrong. \n\nBear market is dead. \n\nSend it!",
-    "link": "https://cryptopanic.com/news/33422781/Its-time-for-all-the-bears-to-admit-its-over-and-they-got-it-wrong-Bear-market-is-dead-Send-it",
-    "source": "@btc_archive",
-    "published": "Mon Sep 21 2026 09:42:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "\"The Biggest Bull Run In History\" Banks Are Buying EVERY Last Bitcoin & Altcoin On The Market",
-    "link": "https://cryptopanic.com/news/33422735/The-Biggest-Bull-Run-In-History-Banks-Are-Buying-EVERY-Last-Bitcoin-Altcoin-On-The-Market",
-    "source": "TheModernInvestor",
-    "published": "Mon Sep 21 2026 09:40:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: $85,000 Bitcoin",
-    "link": "https://cryptopanic.com/news/33422779/BREAKING-85000-Bitcoin",
-    "source": "@watcherguru",
-    "published": "Mon Sep 21 2026 09:39:36 GMT+0000 (Coordinated Universal Time)",
+    "title": "WOW: $NEAR IS UP MORE THAN 80% IN JUST 7 DAYS!\n\nJust look at that chart! This comes after @NEARProtocol launches private perp trading powered by @HyperliquidX!\n\nThis allows for traders to open positions without publicly exposing every move they make.\n\nSerious momentum building",
+    "link": "https://cryptopanic.com/news/33423033/WOW-NEAR-IS-UP-MORE-THAN-80-IN-JUST-7-DAYS-Just-look-at-that-chart-This-comes-after-NEARProtocol-launches-private-perp-trading-powered-by-HyperliquidX-This-allows-for-traders-to-open-positions-without-publicly-exposing-every-move-they-make-Serious-momentum-building",
+    "source": "@realallincrypto",
+    "published": "Mon Sep 21 2026 10:00:06 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
