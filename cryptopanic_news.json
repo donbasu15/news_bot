@@ -1,5 +1,19 @@
 [
   {
+    "title": "ZetaChain Voters Approve Layer 1 Shutdown\n\nZetaChain (@ZetaChain) voters have approved shutting down the project's Layer 1 blockchain and moving zetachain:native to Solana.\n\nProposal 68 received 99.4% support, with voter participation reaching 58%, above the required 40% quorum.",
+    "link": "https://cryptopanic.com/news/33421124/ZetaChain-Voters-Approve-Layer-1-Shutdown-ZetaChain-ZetaChain-voters-have-approved-shutting-down-the-projects-Layer-1-blockchain-and-moving-zetachainnative-to-Solana-Proposal-68-received-994-support-with-voter-participation-reaching-58-above-the-required-40-quorum",
+    "source": "@bscnews",
+    "published": "Mon Sep 21 2026 03:45:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Sentiment and leverage usually come from two different vendors\n\n On CMC API they are one key: fear and greed, open interest, funding, liquidations, etc\n\n Build with CMC: API Hackathon. Free Pro-API. Win a Keyboard",
+    "link": "https://cryptopanic.com/news/33421135/Sentiment-and-leverage-usually-come-from-two-different-vendors-On-CMC-API-they-are-one-key-fear-and-greed-open-interest-funding-liquidations-etc-Build-with-CMC-API-Hackathon-Free-Pro-API-Win-a-Keyboard",
+    "source": "@coinmarketcap",
+    "published": "Mon Sep 21 2026 03:32:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "NOW: SoftBank is looking to raise over $11B in one of the largest junk bond deals ever, partly to fund a follow-on investment in OpenAI, per Bloomberg.",
     "link": "https://cryptopanic.com/news/33421081/NOW-SoftBank-is-looking-to-raise-over-11B-in-one-of-the-largest-junk-bond-deals-ever-partly-to-fund-a-follow-on-investment-in-OpenAI-per-Bloomberg",
     "source": "@cointelegraph",
@@ -11,6 +25,13 @@
     "link": "https://cryptopanic.com/news/33421070/Bybit-CEO-Bitcoin-Still-Far-From-Digital-Gold",
     "source": "btcusa.com",
     "published": "Mon Sep 21 2026 03:30:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Kalshi Crypto Trading Volumes Face Wash-Trading Allegations\n\nStealth Neolab co-founder and former quant trader Beni questioned Kalshi’s crypto trading volumes, noting that ETH-PERP 24-hour volume reached approximately $539M while open interest stood at around $3.1M. He also",
+    "link": "https://cryptopanic.com/news/33421136/Kalshi-Crypto-Trading-Volumes-Face-Wash-Trading-Allegations-Stealth-Neolab-co-founder-and-former-quant-trader-Beni-questioned-Kalshis-crypto-trading-volumes-noting-that-ETH-PERP-24-hour-volume-reached-approximately-539M-while-open-interest-stood-at-around-31M-He-also",
+    "source": "@wublockchain",
+    "published": "Mon Sep 21 2026 03:27:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -186,27 +207,6 @@
     "link": "https://cryptopanic.com/news/33420809/Bitcoin-Holds-Near-81200-in-Historically-Weak-Month",
     "source": "btcusa.com",
     "published": "Mon Sep 21 2026 01:00:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: $2,700 $ETH",
-    "link": "https://cryptopanic.com/news/33420810/JUST-IN-2700-ETH",
-    "source": "@watcherguru",
-    "published": "Mon Sep 21 2026 00:49:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Oil rises after Houthi missile and drone strikes on Riyadh, with Brent up 0.78% to $104.68 and WTI at $101.06, per Reuters.",
-    "link": "https://cryptopanic.com/news/33420799/JUST-IN-Oil-rises-after-Houthi-missile-and-drone-strikes-on-Riyadh-with-Brent-up-078-to-10468-and-WTI-at-10106-per-Reuters",
-    "source": "@cointelegraph",
-    "published": "Mon Sep 21 2026 00:30:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CleanSpark Prices $2.276B Senior Secured Notes",
-    "link": "https://cryptopanic.com/news/33420765/CleanSpark-Prices-2276B-Senior-Secured-Notes",
-    "source": "btcusa.com",
-    "published": "Mon Sep 21 2026 00:30:08 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
