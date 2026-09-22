@@ -1,9 +1,156 @@
 [
   {
+    "title": "Binance Takes $100M Stake in Circle Under Five-Year USDC Promotion Deal",
+    "link": "https://cryptopanic.com/news/33430040/Binance-Takes-100M-Stake-in-Circle-Under-Five-Year-USDC-Promotion-Deal",
+    "source": "decrypt.co",
+    "published": "Tue Sep 22 2026 11:39:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Is ETH ready to break out after months of growing open interest?",
+    "link": "https://cryptopanic.com/news/33430026/Is-ETH-ready-to-break-out-after-months-of-growing-open-interest",
+    "source": "cryptopolitan.com",
+    "published": "Tue Sep 22 2026 11:34:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin sees its second-best Q3 ever: BTC ETF investors back in profit after 8 months",
+    "link": "https://cryptopanic.com/news/33430022/Bitcoin-sees-its-second-best-Q3-ever-BTC-ETF-investors-back-in-profit-after-8-months",
+    "source": "ambcrypto.com",
+    "published": "Tue Sep 22 2026 11:30:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NASDAQ Hits 27,122 Record as AMD Joins USD 1T AI Club",
+    "link": "https://cryptopanic.com/news/33430035/NASDAQ-Hits-27122-Record-as-AMD-Joins-USD-1T-AI-Club",
+    "source": "sfctoday.com",
+    "published": "Tue Sep 22 2026 11:30:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: Binance invested $100M in Circle to expand USDC adoption in emerging markets.",
+    "link": "https://cryptopanic.com/news/33430106/NEW-Binance-invested-100M-in-Circle-to-expand-USDC-adoption-in-emerging-markets",
+    "source": "@cointelegraph",
+    "published": "Tue Sep 22 2026 11:30:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Tops $86,000 for the First Time Since January, and the Average ETF Buyer Is Back in Profit",
+    "link": "https://cryptopanic.com/news/33429934/Bitcoin-Tops-86000-for-the-First-Time-Since-January-and-the-Average-ETF-Buyer-Is-Back-in-Profit",
+    "source": "btcusa.com",
+    "published": "Tue Sep 22 2026 11:30:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Coincheck Group Confirms Executive Chairperson Change In SEC Filing",
+    "link": "https://cryptopanic.com/news/33430020/Coincheck-Group-Confirms-Executive-Chairperson-Change-In-SEC-Filing",
+    "source": "newsbtc.com",
+    "published": "Tue Sep 22 2026 11:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "See the data",
+    "link": "https://cryptopanic.com/news/33430101/See-the-data",
+    "source": "@cryptoquant_com",
+    "published": "Tue Sep 22 2026 11:26:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Nine mathematicians will advise on releasing OpenAI’s 100-plus math results but cannot slow its pace",
+    "link": "https://cryptopanic.com/news/33429928/Nine-mathematicians-will-advise-on-releasing-OpenAIs-100-plus-math-results-but-cannot-slow-its-pace",
+    "source": "cryptopolitan.com",
+    "published": "Tue Sep 22 2026 11:26:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hashrate has recovered to ~934 EH/s, but it’s still well below the peak.\n\nSo the takeaway is simple:\n\nSome miners are no longer just scaling Bitcoin mining.\n\nThey’re reallocating capital and infrastructure toward AI/HPC.",
+    "link": "https://cryptopanic.com/news/33430100/Hashrate-has-recovered-to-934-EHs-but-its-still-well-below-the-peak-So-the-takeaway-is-simple-Some-miners-are-no-longer-just-scaling-Bitcoin-mining-Theyre-reallocating-capital-and-infrastructure-toward-AIHPC",
+    "source": "@cryptoquant_com",
+    "published": "Tue Sep 22 2026 11:25:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The shift is not just visible in balances.\n\nBitcoin True Hashrate peaked ~1,101 EH/s in Nov. 2025, then fell to about 899 EH/s on Aug. 6, 2026.\n\nThat’s an 18.3% drawdown, which is the deepest since the 2021 China mining ban.",
+    "link": "https://cryptopanic.com/news/33430099/The-shift-is-not-just-visible-in-balances-Bitcoin-True-Hashrate-peaked-1101-EHs-in-Nov-2025-then-fell-to-about-899-EHs-on-Aug-6-2026-Thats-an-183-drawdown-which-is-the-deepest-since-the-2021-China-mining-ban",
+    "source": "@cryptoquant_com",
+    "published": "Tue Sep 22 2026 11:25:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MARA is showing a similar pattern.\n\nThe tracked addresses in the chart show at least 5,203 BTC sold, while company filings show 23,093 BTC sold for $1.63B in H1 alone.",
+    "link": "https://cryptopanic.com/news/33430098/MARA-is-showing-a-similar-pattern-The-tracked-addresses-in-the-chart-show-at-least-5203-BTC-sold-while-company-filings-show-23093-BTC-sold-for-163B-in-H1-alone",
+    "source": "@cryptoquant_com",
+    "published": "Tue Sep 22 2026 11:24:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "That shift is also showing up in miner treasuries.\n\nCore Scientific sold around 3,136 BTC for roughly $271M YTD.\n\nMore than 90% of its Bitcoin treasury is now gone.",
+    "link": "https://cryptopanic.com/news/33430097/That-shift-is-also-showing-up-in-miner-treasuries-Core-Scientific-sold-around-3136-BTC-for-roughly-271M-YTD-More-than-90-of-its-Bitcoin-treasury-is-now-gone",
+    "source": "@cryptoquant_com",
+    "published": "Tue Sep 22 2026 11:24:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Institutional Inflows Propel Bitcoin Past $85,000 as LiquidChain Crosses $970k Presale Milestone",
+    "link": "https://cryptopanic.com/news/33429909/Institutional-Inflows-Propel-Bitcoin-Past-85000-as-LiquidChain-Crosses-970k-Presale-Milestone",
+    "source": "cryptonews.com",
+    "published": "Tue Sep 22 2026 11:16:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33430103/Source",
+    "source": "@wublockchain",
+    "published": "Tue Sep 22 2026 11:12:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BREAKING: @Binance buys $100M in @Circle shares as part of a five-year $USDC promotion deal, receiving 1.24M Class A shares at $80.84 each in a private placement with a two-year lock-up on the stake.",
+    "link": "https://cryptopanic.com/news/33430104/BREAKING-Binance-buys-100M-in-Circle-shares-as-part-of-a-five-year-USDC-promotion-deal-receiving-124M-Class-A-shares-at-8084-each-in-a-private-placement-with-a-two-year-lock-up-on-the-stake",
+    "source": "@coindesk",
+    "published": "Tue Sep 22 2026 11:11:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Binance invests $100,000,000 in $USDC issuer Circle.",
+    "link": "https://cryptopanic.com/news/33430014/JUST-IN-Binance-invests-100000000-in-USDC-issuer-Circle",
+    "source": "@watcherguru",
+    "published": "Tue Sep 22 2026 11:10:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Just In: Binance Invests $100 Million in Circle as the Two Expand Their Five-Year USDC Partnership\n\nCircle (NYSE: CRCL) disclosed in a September 22 Form 8-K that its subsidiaries entered into a new five-year agreement with Binance on September 17 to expand USDC adoption,",
+    "link": "https://cryptopanic.com/news/33430102/Just-In-Binance-Invests-100-Million-in-Circle-as-the-Two-Expand-Their-Five-Year-USDC-Partnership-Circle-NYSE-CRCL-disclosed-in-a-September-22-Form-8-K-that-its-subsidiaries-entered-into-a-new-five-year-agreement-with-Binance-on-September-17-to-expand-USDC-adoption",
+    "source": "@wublockchain",
+    "published": "Tue Sep 22 2026 11:10:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Binance Invests $100M In Circle Equity: How Will Stock React?",
+    "link": "https://cryptopanic.com/news/33430025/Binance-Invests-100M-In-Circle-Equity-How-Will-Stock-React",
+    "source": "beincrypto.com",
+    "published": "Tue Sep 22 2026 11:08:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin Is Now Betting on Trump and Xi: The 92% Summit Signal That Could Trigger a Crypto Shock",
     "link": "https://cryptopanic.com/news/33429845/Bitcoin-Is-Now-Betting-on-Trump-and-Xi-The-92-Summit-Signal-That-Could-Trigger-a-Crypto-Shock",
     "source": "99bitcoins.com",
     "published": "Tue Sep 22 2026 11:07:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Binance buys $100 million Circle stake in five-year USDC promotion deal",
+    "link": "https://cryptopanic.com/news/33429929/Binance-buys-100-million-Circle-stake-in-five-year-USDC-promotion-deal",
+    "source": "coindesk.com",
+    "published": "Tue Sep 22 2026 11:07:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Ondo now lets approved institutions mint tokenized stocks and ETFs by transferring the underlying shares directly, instead of funding conversions with cash.",
+    "link": "https://cryptopanic.com/news/33430015/LATEST-Ondo-now-lets-approved-institutions-mint-tokenized-stocks-and-ETFs-by-transferring-the-underlying-shares-directly-instead-of-funding-conversions-with-cash",
+    "source": "@coinmarketcap",
+    "published": "Tue Sep 22 2026 11:05:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -18,6 +165,13 @@
     "link": "https://cryptopanic.com/news/33429894/Major-crypto-exchanges-differ-widely-in-how-often-they-publish-proof-of-reserves-reports-Bitget-OKX-and-Bybit-report-monthly-while-Binance-reports-quarterly-and-Coinbase-uses-audited-financial-statements-instead",
     "source": "@bscnews",
     "published": "Tue Sep 22 2026 11:02:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: Bitwise’s Solana Staking ETF hit an ATH of $1.2B in AUM after $60M in two-day inflows, says CEO Hunter Horsley.",
+    "link": "https://cryptopanic.com/news/33430105/LATEST-Bitwises-Solana-Staking-ETF-hit-an-ATH-of-12B-in-AUM-after-60M-in-two-day-inflows-says-CEO-Hunter-Horsley",
+    "source": "@cointelegraph",
+    "published": "Tue Sep 22 2026 11:00:41 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -42,13 +196,6 @@
     "sentiment": "neutral"
   },
   {
-    "title": "South Korea Tests Round-the-Clock Won Settlement to Court Foreign Investors",
-    "link": "https://cryptopanic.com/news/33429785/South-Korea-Tests-Round-the-Clock-Won-Settlement-to-Court-Foreign-Investors",
-    "source": "coinpaprika.com",
-    "published": "Tue Sep 22 2026 11:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
     "title": "OpenAI Calls for Binding Global Rules on Advanced AI Safety",
     "link": "https://cryptopanic.com/news/33429776/OpenAI-Calls-for-Binding-Global-Rules-on-Advanced-AI-Safety",
     "source": "thecoinrepublic.com",
@@ -56,157 +203,10 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Bitcoin recovers from Asian-session lows as falling oil price supports risk appetite",
-    "link": "https://cryptopanic.com/news/33429853/Bitcoin-recovers-from-Asian-session-lows-as-falling-oil-price-supports-risk-appetite",
-    "source": "coindesk.com",
-    "published": "Tue Sep 22 2026 10:59:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "This Signal Has Flipped to Altcoin Season as Crypto Rally Spreads Beyond Bitcoin",
-    "link": "https://cryptopanic.com/news/33429824/This-Signal-Has-Flipped-to-Altcoin-Season-as-Crypto-Rally-Spreads-Beyond-Bitcoin",
-    "source": "cryptopotato.com",
-    "published": "Tue Sep 22 2026 10:58:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bernstein sees annual prediction market volumes hitting $10 trillion by 2035 as financial assets overtake sports",
-    "link": "https://cryptopanic.com/news/33429747/Bernstein-sees-annual-prediction-market-volumes-hitting-10-trillion-by-2035-as-financial-assets-overtake-sports",
-    "source": "theblock.co",
-    "published": "Tue Sep 22 2026 10:56:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cardano Can Now Support AI Payments – On Paper",
-    "link": "https://cryptopanic.com/news/33429752/Cardano-Can-Now-Support-AI-Payments-On-Paper",
-    "source": "coindoo.com",
-    "published": "Tue Sep 22 2026 10:55:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Billion Dollar Day,  Solana Pumps, Tom Lee Buys & Talking Coins With Adam Stokes",
-    "link": "https://cryptopanic.com/news/33429842/Bitcoin-Billion-Dollar-Day-Solana-Pumps-Tom-Lee-Buys-Talking-Coins-With-Adam-Stokes",
-    "source": "TheCryptoLark",
-    "published": "Tue Sep 22 2026 10:54:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source：",
-    "link": "https://cryptopanic.com/news/33429754/Source",
-    "source": "@wublockchain",
-    "published": "Tue Sep 22 2026 10:51:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: 🇪🇺 The ECB has launched Pontes, enabling institutions to settle tokenized asset transactions directly in central bank money rather than relying on stablecoins, with a full rollout targeted for 2028.",
-    "link": "https://cryptopanic.com/news/33429759/NEW-The-ECB-has-launched-Pontes-enabling-institutions-to-settle-tokenized-asset-transactions-directly-in-central-bank-money-rather-than-relying-on-stablecoins-with-a-full-rollout-targeted-for-2028",
-    "source": "@cryptonwsuk",
-    "published": "Tue Sep 22 2026 10:50:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Jupiter Exchange expands perps market on Solana\n\n@JupiterExchange has added new perpetual markets with pairs like $SPCX, $HYPE, $ZEC, $SKHYNIX, and $SNDK.\n\nThe network is running in beta mode, with early access provided to users who have at least 69 $JUP. \n\nThis marks the return",
-    "link": "https://cryptopanic.com/news/33429893/Jupiter-Exchange-expands-perps-market-on-Solana-JupiterExchange-has-added-new-perpetual-markets-with-pairs-like-SPCX-HYPE-ZEC-SKHYNIX-and-SNDK-The-network-is-running-in-beta-mode-with-early-access-provided-to-users-who-have-at-least-69-JUP-This-marks-the-return",
-    "source": "@bscnews",
-    "published": "Tue Sep 22 2026 10:50:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Veteran trader says XRP will ‘advance to $5.40’",
-    "link": "https://cryptopanic.com/news/33429733/Veteran-trader-says-XRP-will-advance-to-540",
-    "source": "finbold.com",
-    "published": "Tue Sep 22 2026 10:46:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Saudi Arabia's Ceer launched two electric vehicle models, Exobot sedan and SUV, aiming to build a local auto industry and diversify the economy. More here",
-    "link": "https://cryptopanic.com/news/33429884/Saudi-Arabias-Ceer-launched-two-electric-vehicle-models-Exobot-sedan-and-SUV-aiming-to-build-a-local-auto-industry-and-diversify-the-economy-More-here",
-    "source": "@reutersbiz",
-    "published": "Tue Sep 22 2026 10:45:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "21Shares expands product suite with Zcash ETP \n\n@21Shares expands its product suite by launching physically backed Exchange Traded Products for $ZEC and $ETHFI on Euronext Amsterdam and Paris.\n\nInvestors can now gain exposure to these assets through their regular brokerage",
-    "link": "https://cryptopanic.com/news/33429892/21Shares-expands-product-suite-with-Zcash-ETP-21Shares-expands-its-product-suite-by-launching-physically-backed-Exchange-Traded-Products-for-ZEC-and-ETHFI-on-Euronext-Amsterdam-and-Paris-Investors-can-now-gain-exposure-to-these-assets-through-their-regular-brokerage",
-    "source": "@bscnews",
-    "published": "Tue Sep 22 2026 10:41:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇷🇺 Russian Prime Minister Mikhail Mishustin says:\n\n\"The circulation of cryptocurrencies has also become legal in the country starting from September 1. The relevant law was signed by the president.\"",
-    "link": "https://cryptopanic.com/news/33429726/JUST-IN-Russian-Prime-Minister-Mikhail-Mishustin-says-The-circulation-of-cryptocurrencies-has-also-become-legal-in-the-country-starting-from-September-1-The-relevant-law-was-signed-by-the-president",
-    "source": "@bitcoinmagazine",
-    "published": "Tue Sep 22 2026 10:38:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin FOMO surges to multi-year high",
-    "link": "https://cryptopanic.com/news/33429675/Bitcoin-FOMO-surges-to-multi-year-high",
-    "source": "finbold.com",
-    "published": "Tue Sep 22 2026 10:38:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "How did Avalanche (@avax) position itself against Ethereum? See its no-slashing design, Etna upgrade, AVAX tokenomics, & more...",
-    "link": "https://cryptopanic.com/news/33429891/How-did-Avalanche-avax-position-itself-against-Ethereum-See-its-no-slashing-design-Etna-upgrade-AVAX-tokenomics-amp-more",
-    "source": "@bscnews",
-    "published": "Tue Sep 22 2026 10:37:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ECB's Pontes Goes Live: 13 Banks Settle Tokenized Assets in Central Bank Money",
-    "link": "https://cryptopanic.com/news/33429682/ECBs-Pontes-Goes-Live-13-Banks-Settle-Tokenized-Assets-in-Central-Bank-Money",
-    "source": "spaziocrypto.com",
-    "published": "Tue Sep 22 2026 10:36:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CLARITY Act needs 11 more Senate votes, but 4 of the 49 it already has want the bill changed",
-    "link": "https://cryptopanic.com/news/33429638/CLARITY-Act-needs-11-more-Senate-votes-but-4-of-the-49-it-already-has-want-the-bill-changed",
-    "source": "cryptoslate.com",
-    "published": "Tue Sep 22 2026 10:30:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: ECB and EU central banks are pushing to scrap MiCA’s rule requiring major stablecoin issuers to keep 60% of reserves in bank deposits | Per Reuters",
-    "link": "https://cryptopanic.com/news/33429725/INTEL-ECB-and-EU-central-banks-are-pushing-to-scrap-MiCAs-rule-requiring-major-stablecoin-issuers-to-keep-60-of-reserves-in-bank-deposits-Per-Reuters",
-    "source": "@solidintel_x",
-    "published": "Tue Sep 22 2026 10:30:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇮🇷 JUST IN: Iran reportedly offers to reopen the Strait of Hormuz within seven days if the US lifts its port blockade, per Kyodo News.",
-    "link": "https://cryptopanic.com/news/33429640/JUST-IN-Iran-reportedly-offers-to-reopen-the-Strait-of-Hormuz-within-seven-days-if-the-US-lifts-its-port-blockade-per-Kyodo-News",
-    "source": "@cointelegraph",
-    "published": "Tue Sep 22 2026 10:30:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Valour Launches Smart Crypto Fund SP, an AI-Powered Hedge Fund",
-    "link": "https://cryptopanic.com/news/33429600/Valour-Launches-Smart-Crypto-Fund-SP-an-AI-Powered-Hedge-Fund",
-    "source": "btcusa.com",
-    "published": "Tue Sep 22 2026 10:30:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Kalshi Files To Bring Perpetual Futures To US Stocks And ETFs",
-    "link": "https://cryptopanic.com/news/33429660/Kalshi-Files-To-Bring-Perpetual-Futures-To-US-Stocks-And-ETFs",
-    "source": "newsbtc.com",
-    "published": "Tue Sep 22 2026 10:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BlackRock scooped up over $500 million of these cryptocurrencies on Monday",
-    "link": "https://cryptopanic.com/news/33429657/BlackRock-scooped-up-over-500-million-of-these-cryptocurrencies-on-Monday",
-    "source": "finbold.com",
-    "published": "Tue Sep 22 2026 10:29:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: SEC officials say the first firms could file to operate tokenized U.S. stock trading venues as early as next quarter, following the agency's conditional relief order issued last week.",
-    "link": "https://cryptopanic.com/news/33429636/LATEST-SEC-officials-say-the-first-firms-could-file-to-operate-tokenized-US-stock-trading-venues-as-early-as-next-quarter-following-the-agencys-conditional-relief-order-issued-last-week",
-    "source": "@coindesk",
-    "published": "Tue Sep 22 2026 10:27:07 GMT+0000 (Coordinated Universal Time)",
+    "title": "South Korea Tests Round-the-Clock Won Settlement to Court Foreign Investors",
+    "link": "https://cryptopanic.com/news/33429785/South-Korea-Tests-Round-the-Clock-Won-Settlement-to-Court-Foreign-Investors",
+    "source": "coinpaprika.com",
+    "published": "Tue Sep 22 2026 11:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
