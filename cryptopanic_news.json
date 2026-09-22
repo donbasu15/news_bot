@@ -1,5 +1,75 @@
 [
   {
+    "title": "LATEST:  US spot Bitcoin ETFs pulled in nearly $1B on Sept. 21, their largest single-day inflow since October 2025, as BTC briefly topped $87K.",
+    "link": "https://cryptopanic.com/news/33432321/LATEST-US-spot-Bitcoin-ETFs-pulled-in-nearly-1B-on-Sept-21-their-largest-single-day-inflow-since-October-2025-as-BTC-briefly-topped-87K",
+    "source": "@coinmarketcap",
+    "published": "Tue Sep 22 2026 17:41:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Elon Musk says AI will \"beat all fields by the end of next year.\"\n\n\"Or maybe 2028, at the latest.\"",
+    "link": "https://cryptopanic.com/news/33432317/JUST-IN-Elon-Musk-says-AI-will-beat-all-fields-by-the-end-of-next-year-Or-maybe-2028-at-the-latest",
+    "source": "@watcherguru",
+    "published": "Tue Sep 22 2026 17:40:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Binance Commits $100M Stake in Circle With New USDC Pact",
+    "link": "https://cryptopanic.com/news/33432291/Binance-Commits-100M-Stake-in-Circle-With-New-USDC-Pact",
+    "source": "bankless.com",
+    "published": "Tue Sep 22 2026 17:40:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "PENGU Price Chart’s Coiling: 430% Bull Rally Setup Spotted.",
+    "link": "https://cryptopanic.com/news/33432284/PENGU-Price-Charts-Coiling-430-Bull-Rally-Setup-Spotted",
+    "source": "dailycoin.com",
+    "published": "Tue Sep 22 2026 17:39:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "What do the world’s biggest banks actually want from blockchain? @moderndosh and @ChrisOstrowski_ join us to discuss tokenization, legacy banking systems, cross-border payments, interoperability and the future of financial infrastructure.",
+    "link": "https://cryptopanic.com/news/33432270/What-do-the-worlds-biggest-banks-actually-want-from-blockchain-moderndosh-and-ChrisOstrowski_-join-us-to-discuss-tokenization-legacy-banking-systems-cross-border-payments-interoperability-and-the-future-of-financial-infrastructure",
+    "source": "@realallincrypto",
+    "published": "Tue Sep 22 2026 17:27:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: SpaceXAI's $SPCX Grok Bot agent surpasses over 400,000 users in its first month, growing 24% in the past week.",
+    "link": "https://cryptopanic.com/news/33432316/JUST-IN-SpaceXAIs-SPCX-Grok-Bot-agent-surpasses-over-400000-users-in-its-first-month-growing-24-in-the-past-week",
+    "source": "@watcherguru",
+    "published": "Tue Sep 22 2026 17:25:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Apple pitches its new Macs as AI machines with no per-token bill",
+    "link": "https://cryptopanic.com/news/33432271/Apple-pitches-its-new-Macs-as-AI-machines-with-no-per-token-bill",
+    "source": "cryptopolitan.com",
+    "published": "Tue Sep 22 2026 17:25:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEAR Protocol: What’s Behind the 350% Price Surge?",
+    "link": "https://cryptopanic.com/news/33432223/NEAR-Protocol-Whats-Behind-the-350-Price-Surge",
+    "source": "cryptovalleyjournal.com",
+    "published": "Tue Sep 22 2026 17:18:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Cash, Uniswap Surges as CME Announces New Futures Contracts: What's Going On?",
+    "link": "https://cryptopanic.com/news/33432278/Bitcoin-Cash-Uniswap-Surges-as-CME-Announces-New-Futures-Contracts-Whats-Going-On",
+    "source": "feeds2.benzinga.com",
+    "published": "Tue Sep 22 2026 17:15:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Grant Cardone offers 10 Bitcoin bounty on finding a buyer for his private jet",
+    "link": "https://cryptopanic.com/news/33432290/Grant-Cardone-offers-10-Bitcoin-bounty-on-finding-a-buyer-for-his-private-jet",
+    "source": "thestreet.com",
+    "published": "Tue Sep 22 2026 17:15:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: Wellington Management and Fasanara Capital institutional strategies land on @Avax via @MidasRWA, bringing tokenized fixed income and alternative credit onchain for the first time.",
     "link": "https://cryptopanic.com/news/33432210/JUST-IN-Wellington-Management-and-Fasanara-Capital-institutional-strategies-land-on-Avax-via-MidasRWA-bringing-tokenized-fixed-income-and-alternative-credit-onchain-for-the-first-time",
     "source": "@coindesk",
@@ -11,6 +81,13 @@
     "link": "https://cryptopanic.com/news/33432213/What-Happens-When-the-Nasdaq-Hits-a-New-Record-High",
     "source": "coinpaper.com",
     "published": "Tue Sep 22 2026 17:14:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Pi clears a KYC logjam for 417,000 Pioneers, with more to follow…\n\n@PiCoreTeam has cleared over 417,000 Pioneers, flagged as possible duplicate accounts, to move forward in KYC. Other KYC checks still apply.\n\nA fix for 497,000 more Pioneers is due this week. Their Fast-Track",
+    "link": "https://cryptopanic.com/news/33432274/Pi-clears-a-KYC-logjam-for-417000-Pioneers-with-more-to-follow-PiCoreTeam-has-cleared-over-417000-Pioneers-flagged-as-possible-duplicate-accounts-to-move-forward-in-KYC-Other-KYC-checks-still-apply-A-fix-for-497000-more-Pioneers-is-due-this-week-Their-Fast-Track",
+    "source": "@bscnews",
+    "published": "Tue Sep 22 2026 17:14:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -42,10 +119,31 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Bill Miller IV says stop trading Bitcoin on Fed meetings, it’s a $1.6 million coin",
+    "link": "https://cryptopanic.com/news/33432276/Bill-Miller-IV-says-stop-trading-Bitcoin-on-Fed-meetings-its-a-16-million-coin",
+    "source": "thestreet.com",
+    "published": "Tue Sep 22 2026 17:06:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇪🇺 The ECB and EU national central banks want to replace MiCA's stablecoin bank-deposit rules with liquidity thresholds, warning large deposits could strain banks during a stablecoin run.",
+    "link": "https://cryptopanic.com/news/33432320/LATEST-The-ECB-and-EU-national-central-banks-want-to-replace-MiCAs-stablecoin-bank-deposit-rules-with-liquidity-thresholds-warning-large-deposits-could-strain-banks-during-a-stablecoin-run",
+    "source": "@coinmarketcap",
+    "published": "Tue Sep 22 2026 17:05:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "‘Crypto Winter Is Over,’ Fundstrat Says: Why Bitcoin, Ether and Solana ETFs Matter Now",
     "link": "https://cryptopanic.com/news/33432228/Crypto-Winter-Is-Over-Fundstrat-Says-Why-Bitcoin-Ether-and-Solana-ETFs-Matter-Now",
     "source": "feeds2.benzinga.com",
     "published": "Tue Sep 22 2026 17:05:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Periods of Bitcoin blow-off tops and 70% crashes are now behind us — Blockware Intelligence.\n\n\"BTC has been around for almost 20 years, so there's more overall confidence in it as an asset.\"\n\n Tough call. Panic sellers will no longer be small retail traders.",
+    "link": "https://cryptopanic.com/news/33432319/JUST-IN-Periods-of-Bitcoin-blow-off-tops-and-70-crashes-are-now-behind-us-Blockware-Intelligence-BTC-has-been-around-for-almost-20-years-so-theres-more-overall-confidence-in-it-as-an-asset-Tough-call-Panic-sellers-will-no-longer-be-small-retail-traders",
+    "source": "@btc_archive",
+    "published": "Tue Sep 22 2026 17:05:04 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -77,6 +175,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "$XRP LEDGER STABLECOINS JUST HIT A NEW ALL TIME HIGH OF $1.18 BILLION.\n\nThat’s up nearly 10% in 30 days and 8% in just one week.\n\nMore dollars are moving onto XRPL, more liquidity is building, and the network’s real-world use is accelerating.",
+    "link": "https://cryptopanic.com/news/33432269/XRP-LEDGER-STABLECOINS-JUST-HIT-A-NEW-ALL-TIME-HIGH-OF-118-BILLION-Thats-up-nearly-10-in-30-days-and-8-in-just-one-week-More-dollars-are-moving-onto-XRPL-more-liquidity-is-building-and-the-networks-real-world-use-is-accelerating",
+    "source": "@realallincrypto",
+    "published": "Tue Sep 22 2026 17:01:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Narrowing price cushions leave Bitcoin loans vulnerable to 4.7% price dips as Aave weighs higher leverage",
     "link": "https://cryptopanic.com/news/33432140/Narrowing-price-cushions-leave-Bitcoin-loans-vulnerable-to-47-price-dips-as-Aave-weighs-higher-leverage",
     "source": "cryptoslate.com",
@@ -102,111 +207,6 @@
     "link": "https://cryptopanic.com/news/33432209/LATEST-Tether-CEO-PaoloArdoino-says-the-company-refused-to-apply-for-a-MiCA-license-because-of-the-rule-requiring-60-of-reserves-in-bank-deposits-the-same-rule-the-ECB-is-now-proposing-to-scrap-citing-bank-stability-risks",
     "source": "@coindesk",
     "published": "Tue Sep 22 2026 17:00:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Circle Lets Institutions Borrow USDC Against Bitcoin Without Selling It",
-    "link": "https://cryptopanic.com/news/33432105/Circle-Lets-Institutions-Borrow-USDC-Against-Bitcoin-Without-Selling-It",
-    "source": "coinpaprika.com",
-    "published": "Tue Sep 22 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "GameStop CEO Purchases $26.4Mn Worth of GME Shares",
-    "link": "https://cryptopanic.com/news/33432095/GameStop-CEO-Purchases-264Mn-Worth-of-GME-Shares",
-    "source": "catenaa.com",
-    "published": "Tue Sep 22 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇷🇺 Russia's Moscow Exchange launches perpetual Bitcoin futures trading.",
-    "link": "https://cryptopanic.com/news/33432089/JUST-IN-Russias-Moscow-Exchange-launches-perpetual-Bitcoin-futures-trading",
-    "source": "@bitcoinmagazine",
-    "published": "Tue Sep 22 2026 16:58:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ireland Data Regulator Fines Google $463,000,000 Over Location Tracking",
-    "link": "https://cryptopanic.com/news/33432102/Ireland-Data-Regulator-Fines-Google-463000000-Over-Location-Tracking",
-    "source": "dailyhodl.com",
-    "published": "Tue Sep 22 2026 16:55:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CME Group to Launch Bitcoin Cash and Uniswap Futures",
-    "link": "https://cryptopanic.com/news/33432082/CME-Group-to-Launch-Bitcoin-Cash-and-Uniswap-Futures",
-    "source": "cryptoprowl.com",
-    "published": "Tue Sep 22 2026 16:52:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana dominates x402 with 23.2M transactions in four weeks",
-    "link": "https://cryptopanic.com/news/33432148/Solana-dominates-x402-with-232M-transactions-in-four-weeks",
-    "source": "thestreet.com",
-    "published": "Tue Sep 22 2026 16:51:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Coinbase to Allow U.S. Retail Investors Buy IPO Shares",
-    "link": "https://cryptopanic.com/news/33432076/Coinbase-to-Allow-US-Retail-Investors-Buy-IPO-Shares",
-    "source": "cryptoprowl.com",
-    "published": "Tue Sep 22 2026 16:51:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "DeepSeek to brief UN Security Council on AI risks alongside OpenAI and Anthropic",
-    "link": "https://cryptopanic.com/news/33432066/DeepSeek-to-brief-UN-Security-Council-on-AI-risks-alongside-OpenAI-and-Anthropic",
-    "source": "cryptopolitan.com",
-    "published": "Tue Sep 22 2026 16:45:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Wellington Management and Fasanara Capital institutional strategies land on @Avax via @MidasRWA, bringing tokenized fixed income and alternative credit onchain for the first time.",
-    "link": "https://cryptopanic.com/news/33432208/JUST-IN-Wellington-Management-and-Fasanara-Capital-institutional-strategies-land-on-Avax-via-MidasRWA-bringing-tokenized-fixed-income-and-alternative-credit-onchain-for-the-first-time",
-    "source": "@coindesk",
-    "published": "Tue Sep 22 2026 16:43:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Paul brothers are investing heavy into gambling, AI, drones, and defense",
-    "link": "https://cryptopanic.com/news/33431999/Paul-brothers-are-investing-heavy-into-gambling-AI-drones-and-defense",
-    "source": "protos.com",
-    "published": "Tue Sep 22 2026 16:42:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Binance Research: RWA-Linked Perpetuals Capture Trading Demand Outside Regular U.S. Market Hours\n\nBinance Research said RWA-linked perpetuals are capturing trading demand around macro events and individual stocks outside regular U.S. market hours. Following the FOMC decision, the",
-    "link": "https://cryptopanic.com/news/33432204/Binance-Research-RWA-Linked-Perpetuals-Capture-Trading-Demand-Outside-Regular-US-Market-Hours-Binance-Research-said-RWA-linked-perpetuals-are-capturing-trading-demand-around-macro-events-and-individual-stocks-outside-regular-US-market-hours-Following-the-FOMC-decision-the",
-    "source": "@wublockchain",
-    "published": "Tue Sep 22 2026 16:34:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BTC Bull Market, Global Liquidity, The Dollar Milkshake | BMTV Sep. 23, 2026",
-    "link": "https://cryptopanic.com/news/33431993/BTC-Bull-Market-Global-Liquidity-The-Dollar-Milkshake-BMTV-Sep-23-2026",
-    "source": "BitcoinMagazine",
-    "published": "Tue Sep 22 2026 16:32:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Already six years of stacking pancakes 🥞. Happy 6th birthday @PancakeSwap.",
-    "link": "https://cryptopanic.com/news/33432061/Already-six-years-of-stacking-pancakes-Happy-6th-birthday-PancakeSwap",
-    "source": "@bscnews",
-    "published": "Tue Sep 22 2026 16:30:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana keeps shipping updates, and people are noticing the difference.",
-    "link": "https://cryptopanic.com/news/33432063/Solana-keeps-shipping-updates-and-people-are-noticing-the-difference",
-    "source": "@decryptmedia",
-    "published": "Tue Sep 22 2026 16:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "FOMO HOUR ft @Tyler_Did_It and @farokh\n- \n- \n-",
-    "link": "https://cryptopanic.com/news/33432062/FOMO-HOUR-ft-Tyler_Did_It-and-farokh-",
-    "source": "@decryptmedia",
-    "published": "Tue Sep 22 2026 16:30:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
