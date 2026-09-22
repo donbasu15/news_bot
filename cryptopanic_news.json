@@ -1,5 +1,26 @@
 [
   {
+    "title": "Apple, Google Post Job Listings Hinting at Stablecoin, Tokenized-Deposit Ambitions",
+    "link": "https://cryptopanic.com/news/33428412/Apple-Google-Post-Job-Listings-Hinting-at-Stablecoin-Tokenized-Deposit-Ambitions",
+    "source": "www.blockhead.co",
+    "published": "Tue Sep 22 2026 06:47:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🤖 The CFTC is launching a \"Frontier Forum Series\" of public roundtables on tech that's transforming US financial markets, with its inaugural session focused on AI and agentic finance set for Oct. 28.",
+    "link": "https://cryptopanic.com/news/33428411/LATEST-The-CFTC-is-launching-a-Frontier-Forum-Series-of-public-roundtables-on-tech-thats-transforming-US-financial-markets-with-its-inaugural-session-focused-on-AI-and-agentic-finance-set-for-Oct-28",
+    "source": "@coinmarketcap",
+    "published": "Tue Sep 22 2026 06:42:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇨🇳 NEW: China's Alibaba has unveiled its Zhenwu V900 AI chip to rival Nvidia, aiming to power 20GW of data center capacity by 2032.",
+    "link": "https://cryptopanic.com/news/33428430/NEW-Chinas-Alibaba-has-unveiled-its-Zhenwu-V900-AI-chip-to-rival-Nvidia-aiming-to-power-20GW-of-data-center-capacity-by-2032",
+    "source": "@cointelegraph",
+    "published": "Tue Sep 22 2026 06:30:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "X Adds Bitcoin Trade Button But Trades Happen Elsewhere",
     "link": "https://cryptopanic.com/news/33428369/X-Adds-Bitcoin-Trade-Button-But-Trades-Happen-Elsewhere",
     "source": "coindoo.com",
@@ -14,16 +35,16 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Bybit Launches Odds for Fixed-Return Crypto Trades",
-    "link": "https://cryptopanic.com/news/33428339/Bybit-Launches-Odds-for-Fixed-Return-Crypto-Trades",
-    "source": "catenaa.com",
+    "title": "New York Life Takes High-Yield Bond Strategy Onchain With Centrifuge",
+    "link": "https://cryptopanic.com/news/33428340/New-York-Life-Takes-High-Yield-Bond-Strategy-Onchain-With-Centrifuge",
+    "source": "newsbtc.com",
     "published": "Tue Sep 22 2026 06:30:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "New York Life Takes High-Yield Bond Strategy Onchain With Centrifuge",
-    "link": "https://cryptopanic.com/news/33428340/New-York-Life-Takes-High-Yield-Bond-Strategy-Onchain-With-Centrifuge",
-    "source": "newsbtc.com",
+    "title": "Bybit Launches Odds for Fixed-Return Crypto Trades",
+    "link": "https://cryptopanic.com/news/33428339/Bybit-Launches-Odds-for-Fixed-Return-Crypto-Trades",
+    "source": "catenaa.com",
     "published": "Tue Sep 22 2026 06:30:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -186,27 +207,6 @@
     "link": "https://cryptopanic.com/news/33428051/Strategy-Buys-950-Bitcoin-in-First-Purchase-Since-August",
     "source": "btcusa.com",
     "published": "Tue Sep 22 2026 05:25:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Alibaba plans to train a new artificial intelligence model with between 5 trillion and 10 trillion parameters, Chief Executive Eddie Wu said, as the Chinese technology giant outlined a sweeping strategy encompassing AI models, chips and data centres",
-    "link": "https://cryptopanic.com/news/33428170/Alibaba-plans-to-train-a-new-artificial-intelligence-model-with-between-5-trillion-and-10-trillion-parameters-Chief-Executive-Eddie-Wu-said-as-the-Chinese-technology-giant-outlined-a-sweeping-strategy-encompassing-AI-models-chips-and-data-centres",
-    "source": "@reutersbiz",
-    "published": "Tue Sep 22 2026 05:11:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "In response to reports that U.S. prosecutors are investigating whether Binance allowed transactions linked to Iran, Binance said it has a “zero-tolerance policy for sanctions violations,” will fully cooperate with law enforcement and remains committed to identifying and stopping",
-    "link": "https://cryptopanic.com/news/33428078/In-response-to-reports-that-US-prosecutors-are-investigating-whether-Binance-allowed-transactions-linked-to-Iran-Binance-said-it-has-a-zero-tolerance-policy-for-sanctions-violations-will-fully-cooperate-with-law-enforcement-and-remains-committed-to-identifying-and-stopping",
-    "source": "@wublockchain",
-    "published": "Tue Sep 22 2026 05:11:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Who Really is Charles Hoskinson?\n\nFrom co-founding Ethereum to creating Cardano, Charles Hoskinson has shaped two major blockchain projects.\n\nHere’s a closer look at his career, research-driven approach, governance role, and latest ADA developments.",
-    "link": "https://cryptopanic.com/news/33428171/Who-Really-is-Charles-Hoskinson-From-co-founding-Ethereum-to-creating-Cardano-Charles-Hoskinson-has-shaped-two-major-blockchain-projects-Heres-a-closer-look-at-his-career-research-driven-approach-governance-role-and-latest-ADA-developments",
-    "source": "@bscnews",
-    "published": "Tue Sep 22 2026 05:10:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
