@@ -1,5 +1,19 @@
 [
   {
+    "title": "ANALYSIS:  US spot Bitcoin ETFs pulled in nearly $1 billion on Monday, their biggest day in 11 months.\n\nYet Bitcoin barely moved afterward. Why is that? CoinMarketCap breaks it down.",
+    "link": "https://cryptopanic.com/news/33432813/ANALYSIS-US-spot-Bitcoin-ETFs-pulled-in-nearly-1-billion-on-Monday-their-biggest-day-in-11-months-Yet-Bitcoin-barely-moved-afterward-Why-is-that-CoinMarketCap-breaks-it-down",
+    "source": "@coinmarketcap",
+    "published": "Tue Sep 22 2026 19:47:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INSIGHT: Bank of America warns prolonged supply disruptions from the Iran war could push Brent crude above $150 a barrel.",
+    "link": "https://cryptopanic.com/news/33432823/INSIGHT-Bank-of-America-warns-prolonged-supply-disruptions-from-the-Iran-war-could-push-Brent-crude-above-150-a-barrel",
+    "source": "@cointelegraph",
+    "published": "Tue Sep 22 2026 19:45:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: Bitcoin ad featured in the Wall Street Journal today.\n\n\"No financial institution, government, or middlemen can freeze it, dilute it, or take it from you. Ever.\"",
     "link": "https://cryptopanic.com/news/33432811/JUST-IN-Bitcoin-ad-featured-in-the-Wall-Street-Journal-today-No-financial-institution-government-or-middlemen-can-freeze-it-dilute-it-or-take-it-from-you-Ever",
     "source": "@btc_archive",
@@ -7,10 +21,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "INSIGHT: @Ripple CEO @BGarlinghouse reveals in a speech at the University of Kansas that the company considered shutting down when the SEC sued in 2020.",
+    "link": "https://cryptopanic.com/news/33432819/INSIGHT-Ripple-CEO-BGarlinghouse-reveals-in-a-speech-at-the-University-of-Kansas-that-the-company-considered-shutting-down-when-the-SEC-sued-in-2020",
+    "source": "@coindesk",
+    "published": "Tue Sep 22 2026 19:39:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "White-Hat Hackers Route Coldcard Exploit Bitcoin Into 'Recovery Trust'",
     "link": "https://cryptopanic.com/news/33432761/White-Hat-Hackers-Route-Coldcard-Exploit-Bitcoin-Into-Recovery-Trust",
     "source": "decrypt.co",
     "published": "Tue Sep 22 2026 19:31:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Jupiter remains the #1 DEX aggregator across all chains by daily, weekly and monthly volume despite operating exclusively on Solana.",
+    "link": "https://cryptopanic.com/news/33432821/UPDATE-Jupiter-remains-the-1-DEX-aggregator-across-all-chains-by-daily-weekly-and-monthly-volume-despite-operating-exclusively-on-Solana",
+    "source": "@cointelegraph",
+    "published": "Tue Sep 22 2026 19:30:27 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -98,6 +126,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Tether Rejects MiCA as ECB Questions Stablecoin Reserve Rules",
+    "link": "https://cryptopanic.com/news/33432846/Tether-Rejects-MiCA-as-ECB-Questions-Stablecoin-Reserve-Rules",
+    "source": "cryptodnes.bg",
+    "published": "Tue Sep 22 2026 19:01:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "SUI VOLUME JUST EXPLODED 30% IN A WEEK WITH JUST UNDER $4 BILLION IN TRADING VOLUME!\n\nThat kind of volume shows this isn’t just a quiet price move, serious capital is rotating back into $SUI.\n\nThe market and $SUI is waking up.",
     "link": "https://cryptopanic.com/news/33432749/SUI-VOLUME-JUST-EXPLODED-30-IN-A-WEEK-WITH-JUST-UNDER-4-BILLION-IN-TRADING-VOLUME-That-kind-of-volume-shows-this-isnt-just-a-quiet-price-move-serious-capital-is-rotating-back-into-SUI-The-market-and-SUI-is-waking-up",
     "source": "@realallincrypto",
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33432663/Analysts-rank-eToro-11-spots-above-PayPal",
     "source": "thestreet.com",
     "published": "Tue Sep 22 2026 18:50:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "EXCLUSIVE: Nvidia Is a Stock And a Token — When ‘Retail No Longer Distinguishes Between Ticker and Rail’",
-    "link": "https://cryptopanic.com/news/33432650/EXCLUSIVE-Nvidia-Is-a-Stock-And-a-Token-When-Retail-No-Longer-Distinguishes-Between-Ticker-and-Rail",
-    "source": "feeds2.benzinga.com",
-    "published": "Tue Sep 22 2026 18:48:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Breaks Out as Nasdaq Hits Records and Oil Slides on Iran Hopes",
-    "link": "https://cryptopanic.com/news/33432604/Bitcoin-Breaks-Out-as-Nasdaq-Hits-Records-and-Oil-Slides-on-Iran-Hopes",
-    "source": "@decryptmedia",
-    "published": "Tue Sep 22 2026 18:47:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Breaks Out as Nasdaq Hits Records and Oil Slides on Iran Hopes",
-    "link": "https://cryptopanic.com/news/33432607/Bitcoin-Breaks-Out-as-Nasdaq-Hits-Records-and-Oil-Slides-on-Iran-Hopes",
-    "source": "decrypt.co",
-    "published": "Tue Sep 22 2026 18:46:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: 🇷🇺 Bitcoin perpetual futures traded only $1.3M on debut at Russia's MOEX exchange.\n\nMonthly contracts have existed since Nov. 2025.\n\nSlow start, but still a win!",
-    "link": "https://cryptopanic.com/news/33432618/BREAKING-Bitcoin-perpetual-futures-traded-only-13M-on-debut-at-Russias-MOEX-exchange-Monthly-contracts-have-existed-since-Nov-2025-Slow-start-but-still-a-win",
-    "source": "@btc_archive",
-    "published": "Tue Sep 22 2026 18:45:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "When AI Agents Control Billions in Crypto, Where Will They Trade?",
-    "link": "https://cryptopanic.com/news/33432614/When-AI-Agents-Control-Billions-in-Crypto-Where-Will-They-Trade",
-    "source": "MilkRoadYoutube",
-    "published": "Tue Sep 22 2026 18:45:22 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
