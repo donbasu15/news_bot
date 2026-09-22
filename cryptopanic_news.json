@@ -1,5 +1,103 @@
 [
   {
+    "title": "Robinhood Chain breaks into the billion-dollar DeFi club…\n\n@RobinhoodCrypto has passed $1B in total value locked in DeFi, with @Morpho holding $555M of it. Stablecoins on the network top $1.07B, with two-thirds of those in robinhood:0x5fc5360d0400a0fd4f2af552add042d716f1d168.",
+    "link": "https://cryptopanic.com/news/33432602/Robinhood-Chain-breaks-into-the-billion-dollar-DeFi-club-RobinhoodCrypto-has-passed-1B-in-total-value-locked-in-DeFi-with-Morpho-holding-555M-of-it-Stablecoins-on-the-network-top-107B-with-two-thirds-of-those-in-robinhood0x5fc5360d0400a0fd4f2af552add042d716f1d168",
+    "source": "@bscnews",
+    "published": "Tue Sep 22 2026 18:41:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Coinbase Rolls Out Fixed-Rate Bitcoin Loans via Morpho Midnight",
+    "link": "https://cryptopanic.com/news/33432557/Coinbase-Rolls-Out-Fixed-Rate-Bitcoin-Loans-via-Morpho-Midnight",
+    "source": "bankless.com",
+    "published": "Tue Sep 22 2026 18:36:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ECB and EU central banks push to scrap MiCA’s bank deposit rule for stablecoins",
+    "link": "https://cryptopanic.com/news/33432559/ECB-and-EU-central-banks-push-to-scrap-MiCAs-bank-deposit-rule-for-stablecoins",
+    "source": "cryptopolitan.com",
+    "published": "Tue Sep 22 2026 18:35:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LIVE: Crypto market retakes $3 trillion as Bitcoin rally eases after hitting 8-month high",
+    "link": "https://cryptopanic.com/news/33432554/LIVE-Crypto-market-retakes-3-trillion-as-Bitcoin-rally-eases-after-hitting-8-month-high",
+    "source": "cryptopolitan.com",
+    "published": "Tue Sep 22 2026 18:31:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: Anthropic launches Claude Opus 5.5, matching Claude Fable 5.1 on most tasks while costing 40% less to run than Opus 5.",
+    "link": "https://cryptopanic.com/news/33432596/NEW-Anthropic-launches-Claude-Opus-55-matching-Claude-Fable-51-on-most-tasks-while-costing-40-less-to-run-than-Opus-5",
+    "source": "@cointelegraph",
+    "published": "Tue Sep 22 2026 18:30:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Surges to $86K: New Era of Adoption Begins!",
+    "link": "https://cryptopanic.com/news/33432564/Bitcoin-Surges-to-86K-New-Era-of-Adoption-Begins",
+    "source": "SimplyBitcoin",
+    "published": "Tue Sep 22 2026 18:30:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CME Group to Launch Bitcoin Cash and Uniswap Futures",
+    "link": "https://cryptopanic.com/news/33432495/CME-Group-to-Launch-Bitcoin-Cash-and-Uniswap-Futures",
+    "source": "btcusa.com",
+    "published": "Tue Sep 22 2026 18:30:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CoinMarketCap | Categories \n\nAI moved chip stocks yesterday.\nToday crypto categories are moving too.\n\n Generative AI rose 12.4%\n Robotics rose 11.7%\n The whole market rose 1.9%\n\nBrowse every category on CoinMarketCap",
+    "link": "https://cryptopanic.com/news/33432539/CoinMarketCap-Categories-AI-moved-chip-stocks-yesterday-Today-crypto-categories-are-moving-too-Generative-AI-rose-124-Robotics-rose-117-The-whole-market-rose-19-Browse-every-category-on-CoinMarketCap",
+    "source": "@coinmarketcap",
+    "published": "Tue Sep 22 2026 18:30:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin treasury stocks have gone ice cold",
+    "link": "https://cryptopanic.com/news/33432489/Bitcoin-treasury-stocks-have-gone-ice-cold",
+    "source": "protos.com",
+    "published": "Tue Sep 22 2026 18:22:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Name your price and let the swap come to you. @NEARProtocol switched on limit orders for NEAR Intents across 30+ chains, with partial fills and orders that stay open for up to seven days. Learn more: ⬇️",
+    "link": "https://cryptopanic.com/news/33432601/Name-your-price-and-let-the-swap-come-to-you-NEARProtocol-switched-on-limit-orders-for-NEAR-Intents-across-30-chains-with-partial-fills-and-orders-that-stay-open-for-up-to-seven-days-Learn-more",
+    "source": "@bscnews",
+    "published": "Tue Sep 22 2026 18:20:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: @Coinbase adds fixed-rate $BTC-backed loans via @Morpho Midnight, letting users borrow $USDC at a locked rate with a defined maturity date, alongside its existing $1.4B variable-rate loan book.",
+    "link": "https://cryptopanic.com/news/33432594/JUST-IN-Coinbase-adds-fixed-rate-BTC-backed-loans-via-Morpho-Midnight-letting-users-borrow-USDC-at-a-locked-rate-with-a-defined-maturity-date-alongside-its-existing-14B-variable-rate-loan-book",
+    "source": "@coindesk",
+    "published": "Tue Sep 22 2026 18:18:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bernstein Predicts $10 Trillion Prediction Market by 2035—10X Its Original Forecast",
+    "link": "https://cryptopanic.com/news/33432603/Bernstein-Predicts-10-Trillion-Prediction-Market-by-203510X-Its-Original-Forecast",
+    "source": "@decryptmedia",
+    "published": "Tue Sep 22 2026 18:17:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Animoca Brands has suspended talks on a proposed reverse merger with Nasdaq-listed Currenc Group, citing market conditions and deal timing, but says it still plans to go public.",
+    "link": "https://cryptopanic.com/news/33432538/LATEST-Animoca-Brands-has-suspended-talks-on-a-proposed-reverse-merger-with-Nasdaq-listed-Currenc-Group-citing-market-conditions-and-deal-timing-but-says-it-still-plans-to-go-public",
+    "source": "@coinmarketcap",
+    "published": "Tue Sep 22 2026 18:17:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bernstein Predicts $10 Trillion Prediction Market by 2035—10X Its Original Forecast",
+    "link": "https://cryptopanic.com/news/33432479/Bernstein-Predicts-10-Trillion-Prediction-Market-by-203510X-Its-Original-Forecast",
+    "source": "decrypt.co",
+    "published": "Tue Sep 22 2026 18:16:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Strive Buys 1,355 Bitcoin, Lifting Treasury to 26,355 BTC",
     "link": "https://cryptopanic.com/news/33432402/Strive-Buys-1355-Bitcoin-Lifting-Treasury-to-26355-BTC",
     "source": "btcusa.com",
@@ -28,6 +126,20 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Coinbase's IPO move sends stock to four month high",
+    "link": "https://cryptopanic.com/news/33432541/Coinbases-IPO-move-sends-stock-to-four-month-high",
+    "source": "thestreet.com",
+    "published": "Tue Sep 22 2026 18:13:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "WATCH: Apple's iPhone 18 went on sale with new CEO John Ternus opening its Fifth Avenue store doors in New York, while Spirit AI made bold claims about its robots. We round up the week's hottest stories in tech",
+    "link": "https://cryptopanic.com/news/33432598/WATCH-Apples-iPhone-18-went-on-sale-with-new-CEO-John-Ternus-opening-its-Fifth-Avenue-store-doors-in-New-York-while-Spirit-AI-made-bold-claims-about-its-robots-We-round-up-the-weeks-hottest-stories-in-tech",
+    "source": "@reutersbiz",
+    "published": "Tue Sep 22 2026 18:10:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Prediction Market Trueo Is Leaping from Base to Ethereum",
     "link": "https://cryptopanic.com/news/33432373/Prediction-Market-Trueo-Is-Leaping-from-Base-to-Ethereum",
     "source": "bankless.com",
@@ -39,6 +151,13 @@
     "link": "https://cryptopanic.com/news/33432403/JUST-IN-BitcoinGold-bear-markets-historically-last-about-14-months-We-now-are-past-that-mark-and-BTC-is-rising-Feels-bullish",
     "source": "@bitcoinmagazine",
     "published": "Tue Sep 22 2026 18:01:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BIG: Nikita Bier warns agent swarms will overwhelm websites, making bot detection and human verification a top priority for businesses.",
+    "link": "https://cryptopanic.com/news/33432595/BIG-Nikita-Bier-warns-agent-swarms-will-overwhelm-websites-making-bot-detection-and-human-verification-a-top-priority-for-businesses",
+    "source": "@cointelegraph",
+    "published": "Tue Sep 22 2026 18:00:40 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -77,136 +196,17 @@
     "sentiment": "neutral"
   },
   {
+    "title": "The UK Taxman Just Built a Billionaire Map. Is Crypto Wealth Next?",
+    "link": "https://cryptopanic.com/news/33432493/The-UK-Taxman-Just-Built-a-Billionaire-Map-Is-Crypto-Wealth-Next",
+    "source": "beincrypto.com",
+    "published": "Tue Sep 22 2026 18:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Veteran trader who called 1980 gold crash sees 200% upside for Ether",
     "link": "https://cryptopanic.com/news/33432390/Veteran-trader-who-called-1980-gold-crash-sees-200-upside-for-Ether",
     "source": "thestreet.com",
     "published": "Tue Sep 22 2026 17:54:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SpaceXAI’s Grok Bot growth hits 418,000 users as enterprise AI bet takes shape",
-    "link": "https://cryptopanic.com/news/33432487/SpaceXAIs-Grok-Bot-growth-hits-418000-users-as-enterprise-AI-bet-takes-shape",
-    "source": "en.cryptonomist.ch",
-    "published": "Tue Sep 22 2026 17:50:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SoFi, Mastercard Launch Stablecoin Settlement Across $25 Billion Card Program",
-    "link": "https://cryptopanic.com/news/33432375/SoFi-Mastercard-Launch-Stablecoin-Settlement-Across-25-Billion-Card-Program",
-    "source": "feeds2.benzinga.com",
-    "published": "Tue Sep 22 2026 17:50:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Dogecoin (DOGE) Rises to a 3-Month High: The Breakout to $1 Has Begun?",
-    "link": "https://cryptopanic.com/news/33432332/Dogecoin-DOGE-Rises-to-a-3-Month-High-The-Breakout-to-1-Has-Begun",
-    "source": "cryptopotato.com",
-    "published": "Tue Sep 22 2026 17:49:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Anthropic’s New Claude Opus 5.5 Matches Fable at 60% the Price",
-    "link": "https://cryptopanic.com/news/33432331/Anthropics-New-Claude-Opus-55-Matches-Fable-at-60-the-Price",
-    "source": "decrypt.co",
-    "published": "Tue Sep 22 2026 17:49:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 $SOFI Bank and Mastercard launch crypto stablecoin settlement payment network.",
-    "link": "https://cryptopanic.com/news/33432405/JUST-IN-SOFI-Bank-and-Mastercard-launch-crypto-stablecoin-settlement-payment-network",
-    "source": "@watcherguru",
-    "published": "Tue Sep 22 2026 17:48:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: @Mastercard-owned @BVNKFinance integrates @StellarOrg into its stablecoin payments platform, giving enterprise customers across 130+ countries another high-speed settlement rail through a single API.",
-    "link": "https://cryptopanic.com/news/33432338/LATEST-Mastercard-owned-BVNKFinance-integrates-StellarOrg-into-its-stablecoin-payments-platform-giving-enterprise-customers-across-130-countries-another-high-speed-settlement-rail-through-a-single-API",
-    "source": "@coindesk",
-    "published": "Tue Sep 22 2026 17:42:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  US spot Bitcoin ETFs pulled in nearly $1B on Sept. 21, their largest single-day inflow since October 2025, as BTC briefly topped $87K.",
-    "link": "https://cryptopanic.com/news/33432321/LATEST-US-spot-Bitcoin-ETFs-pulled-in-nearly-1B-on-Sept-21-their-largest-single-day-inflow-since-October-2025-as-BTC-briefly-topped-87K",
-    "source": "@coinmarketcap",
-    "published": "Tue Sep 22 2026 17:41:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Analyst says Bitcoin FOMO is rising, but history may tell a different story",
-    "link": "https://cryptopanic.com/news/33432345/Analyst-says-Bitcoin-FOMO-is-rising-but-history-may-tell-a-different-story",
-    "source": "thestreet.com",
-    "published": "Tue Sep 22 2026 17:40:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Elon Musk says AI will \"beat all fields by the end of next year.\"\n\n\"Or maybe 2028, at the latest.\"",
-    "link": "https://cryptopanic.com/news/33432317/JUST-IN-Elon-Musk-says-AI-will-beat-all-fields-by-the-end-of-next-year-Or-maybe-2028-at-the-latest",
-    "source": "@watcherguru",
-    "published": "Tue Sep 22 2026 17:40:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Binance Commits $100M Stake in Circle With New USDC Pact",
-    "link": "https://cryptopanic.com/news/33432291/Binance-Commits-100M-Stake-in-Circle-With-New-USDC-Pact",
-    "source": "bankless.com",
-    "published": "Tue Sep 22 2026 17:40:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "PENGU Price Chart’s Coiling: 430% Bull Rally Setup Spotted.",
-    "link": "https://cryptopanic.com/news/33432284/PENGU-Price-Charts-Coiling-430-Bull-Rally-Setup-Spotted",
-    "source": "dailycoin.com",
-    "published": "Tue Sep 22 2026 17:39:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nine figures riding on NEAR from a German stock exchange\n\nThe Bitwise NEAR Staking ETP has passed $100M in assets under management, @Bitwise_Europe confirmed today. It listed on Deutsche Börse Xetra in July 2025 and stakes the $NEAR it holds.\n\nBitwise targets around 5.5% net",
-    "link": "https://cryptopanic.com/news/33432396/Nine-figures-riding-on-NEAR-from-a-German-stock-exchange-The-Bitwise-NEAR-Staking-ETP-has-passed-100M-in-assets-under-management-Bitwise_Europe-confirmed-today-It-listed-on-Deutsche-Borse-Xetra-in-July-2025-and-stakes-the-NEAR-it-holds-Bitwise-targets-around-55-net",
-    "source": "@bscnews",
-    "published": "Tue Sep 22 2026 17:36:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Canada's 'Big Six' banks to launch interbank tokenized deposit initiative",
-    "link": "https://cryptopanic.com/news/33432383/Canadas-Big-Six-banks-to-launch-interbank-tokenized-deposit-initiative",
-    "source": "coindesk.com",
-    "published": "Tue Sep 22 2026 17:34:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "TODAY: Peter Schiff slams Strategy for selling Bitcoin at $62,150 and buying it back above $80,000: “It won’t be long before he’s selling at lower prices again.”",
-    "link": "https://cryptopanic.com/news/33432339/TODAY-Peter-Schiff-slams-Strategy-for-selling-Bitcoin-at-62150-and-buying-it-back-above-80000-It-wont-be-long-before-hes-selling-at-lower-prices-again",
-    "source": "@cointelegraph",
-    "published": "Tue Sep 22 2026 17:30:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "What do the world’s biggest banks actually want from blockchain? @moderndosh and @ChrisOstrowski_ join us to discuss tokenization, legacy banking systems, cross-border payments, interoperability and the future of financial infrastructure.",
-    "link": "https://cryptopanic.com/news/33432270/What-do-the-worlds-biggest-banks-actually-want-from-blockchain-moderndosh-and-ChrisOstrowski_-join-us-to-discuss-tokenization-legacy-banking-systems-cross-border-payments-interoperability-and-the-future-of-financial-infrastructure",
-    "source": "@realallincrypto",
-    "published": "Tue Sep 22 2026 17:27:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: SpaceXAI's $SPCX Grok Bot agent surpasses over 400,000 users in its first month, growing 24% in the past week.",
-    "link": "https://cryptopanic.com/news/33432316/JUST-IN-SpaceXAIs-SPCX-Grok-Bot-agent-surpasses-over-400000-users-in-its-first-month-growing-24-in-the-past-week",
-    "source": "@watcherguru",
-    "published": "Tue Sep 22 2026 17:25:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Apple pitches its new Macs as AI machines with no per-token bill",
-    "link": "https://cryptopanic.com/news/33432271/Apple-pitches-its-new-Macs-as-AI-machines-with-no-per-token-bill",
-    "source": "cryptopolitan.com",
-    "published": "Tue Sep 22 2026 17:25:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEAR Protocol: What’s Behind the 350% Price Surge?",
-    "link": "https://cryptopanic.com/news/33432223/NEAR-Protocol-Whats-Behind-the-350-Price-Surge",
-    "source": "cryptovalleyjournal.com",
-    "published": "Tue Sep 22 2026 17:18:28 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
