@@ -1,5 +1,47 @@
 [
   {
+    "title": "UPDATE: Crypto open interest jumped 7.6% during the latest rally as nearly $648 million in short positions were liquidated and fresh leverage entered the market.",
+    "link": "https://cryptopanic.com/news/33433166/UPDATE-Crypto-open-interest-jumped-76-during-the-latest-rally-as-nearly-648-million-in-short-positions-were-liquidated-and-fresh-leverage-entered-the-market",
+    "source": "@cointelegraph",
+    "published": "Tue Sep 22 2026 21:30:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Assessing the Quantum Threat to Bitcoin w/ Shinobi",
+    "link": "https://cryptopanic.com/news/33433175/Assessing-the-Quantum-Threat-to-Bitcoin-w-Shinobi",
+    "source": "BitcoinMagazine",
+    "published": "Tue Sep 22 2026 21:30:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Atum Launches Open Payments Network for Money Movement",
+    "link": "https://cryptopanic.com/news/33433136/Atum-Launches-Open-Payments-Network-for-Money-Movement",
+    "source": "btcusa.com",
+    "published": "Tue Sep 22 2026 21:25:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: CFTC Chairman Selig says markets must prepare for \"mass tokenization\" of stocks, bonds and collateral",
+    "link": "https://cryptopanic.com/news/33433217/INTEL-CFTC-Chairman-Selig-says-markets-must-prepare-for-mass-tokenization-of-stocks-bonds-and-collateral",
+    "source": "@solidintel_x",
+    "published": "Tue Sep 22 2026 21:22:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Why newly granted federal approval won’t save these 3 crypto banks",
+    "link": "https://cryptopanic.com/news/33433134/Why-newly-granted-federal-approval-wont-save-these-3-crypto-banks",
+    "source": "cryptoslate.com",
+    "published": "Tue Sep 22 2026 21:20:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The tech-heavy Nasdaq hit a record closing high, boosted by Micron Technology and other AI-related stocks as AI demand showed no signs of abating and corporate earnings stayed resilient",
+    "link": "https://cryptopanic.com/news/33433167/The-tech-heavy-Nasdaq-hit-a-record-closing-high-boosted-by-Micron-Technology-and-other-AI-related-stocks-as-AI-demand-showed-no-signs-of-abating-and-corporate-earnings-stayed-resilient",
+    "source": "@reutersbiz",
+    "published": "Tue Sep 22 2026 21:19:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "$161 Million in Decade-Old Bitcoin Has Moved in Just Two Weeks",
     "link": "https://cryptopanic.com/news/33433126/161-Million-in-Decade-Old-Bitcoin-Has-Moved-in-Just-Two-Weeks",
     "source": "decrypt.co",
@@ -11,6 +53,20 @@
     "link": "https://cryptopanic.com/news/33433111/WTI-crude-oil-has-continued-its-correction-and-is-now-16-from-the-local-top-This-is-a-positive-sign-for-risk-assets-as-inflation-remains-a-key-focus-right-now-It-is-also-something-the-US-needs-badly-as-they-have-drawn-down-their-strategic-reserves-to-the-lowest-since-1982",
     "source": "@stackersatoshi",
     "published": "Tue Sep 22 2026 21:11:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Kaspa nodes get a security tune-up\n\nKaspa v2.1.0 is out, and all node, mining and infrastructure operators are urged to upgrade. New nodes now sync in 20 MiB chunks to avoid timeouts.\n\nThe kaspa:native release also cuts the biggest allowed network message from 1 GB to 256 MB to",
+    "link": "https://cryptopanic.com/news/33433169/Kaspa-nodes-get-a-security-tune-up-Kaspa-v210-is-out-and-all-node-mining-and-infrastructure-operators-are-urged-to-upgrade-New-nodes-now-sync-in-20-MiB-chunks-to-avoid-timeouts-The-kaspanative-release-also-cuts-the-biggest-allowed-network-message-from-1-GB-to-256-MB-to",
+    "source": "@bscnews",
+    "published": "Tue Sep 22 2026 21:11:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Coinbase now offers fixed-rate Bitcoin backed loans",
+    "link": "https://cryptopanic.com/news/33433218/JUST-IN-Coinbase-now-offers-fixed-rate-Bitcoin-backed-loans",
+    "source": "@bitcoinmagazine",
+    "published": "Tue Sep 22 2026 21:08:37 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -35,6 +91,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "BIG: BlackRock’s two Ethereum ETFs bought $1.01 billion in ETH over the past 20 trading days.",
+    "link": "https://cryptopanic.com/news/33433165/BIG-BlackRocks-two-Ethereum-ETFs-bought-101-billion-in-ETH-over-the-past-20-trading-days",
+    "source": "@cointelegraph",
+    "published": "Tue Sep 22 2026 21:00:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin Just Flipped NOW IS When It Gets Crazy",
     "link": "https://cryptopanic.com/news/33433090/Bitcoin-Just-Flipped-NOW-IS-When-It-Gets-Crazy",
     "source": "TheCryptoLark",
@@ -49,10 +112,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "THE EUROPEAN CENTRAL BANK WILL GO LIVE WITH THE $XRP LEDGER THROUGH AXIOLOGY!\n\nAxiology (who were created with the help of @Ripple) has been selected as JUST 1 OF 4 DLT operators to the ECB’s new Pontes settlement system...\n\nAnd the ECB’s OWN documentation says Axiology’s",
+    "link": "https://cryptopanic.com/news/33433168/THE-EUROPEAN-CENTRAL-BANK-WILL-GO-LIVE-WITH-THE-XRP-LEDGER-THROUGH-AXIOLOGY-Axiology-who-were-created-with-the-help-of-Ripple-has-been-selected-as-JUST-1-OF-4-DLT-operators-to-the-ECBs-new-Pontes-settlement-system-And-the-ECBs-OWN-documentation-says-Axiologys",
+    "source": "@realallincrypto",
+    "published": "Tue Sep 22 2026 21:00:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Is the crypto bull market back? 3 signals suggest it could be",
     "link": "https://cryptopanic.com/news/33433076/Is-the-crypto-bull-market-back-3-signals-suggest-it-could-be",
     "source": "ambcrypto.com",
     "published": "Tue Sep 22 2026 21:00:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Canada's six largest banks launch a joint tokenized deposit initiative, starting with interbank transfers of digital commercial deposits before connecting to broader digital asset networks.",
+    "link": "https://cryptopanic.com/news/33433164/JUST-IN-Canadas-six-largest-banks-launch-a-joint-tokenized-deposit-initiative-starting-with-interbank-transfers-of-digital-commercial-deposits-before-connecting-to-broader-digital-asset-networks",
+    "source": "@coindesk",
+    "published": "Tue Sep 22 2026 21:00:01 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -130,83 +207,6 @@
     "link": "https://cryptopanic.com/news/33433029/JUST-IN-US-Treasury-says-stablecoin-providers-now-hold-nearly-200-billion-in-short-term-government-securities-with-more-growth-expected-as-GENIUS-Act-rules-are-finalized",
     "source": "@cointelegraph",
     "published": "Tue Sep 22 2026 20:29:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "@austincampbell says crypto is an “unwilling captive participant” in a broader government ethics debate spanning congressional stock trading, regulators’ holdings and financial disclosures.",
-    "link": "https://cryptopanic.com/news/33433028/austincampbell-says-crypto-is-an-unwilling-captive-participant-in-a-broader-government-ethics-debate-spanning-congressional-stock-trading-regulators-holdings-and-financial-disclosures",
-    "source": "@coindesk",
-    "published": "Tue Sep 22 2026 20:29:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Amazon locked out Meta's AI shopper, and World says it has an answer…\n\n@amazon began blocking Meta's new Muse agent from shopping its store on Sunday night, saying the bot hides that it is an AI and @Meta never asked first.\n\n@worldnetwork, the project behind",
-    "link": "https://cryptopanic.com/news/33433042/Amazon-locked-out-Metas-AI-shopper-and-World-says-it-has-an-answer-amazon-began-blocking-Metas-new-Muse-agent-from-shopping-its-store-on-Sunday-night-saying-the-bot-hides-that-it-is-an-AI-and-Meta-never-asked-first-worldnetwork-the-project-behind",
-    "source": "@bscnews",
-    "published": "Tue Sep 22 2026 20:27:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin miners have tried everything, now they're trying fly brains",
-    "link": "https://cryptopanic.com/news/33432998/Bitcoin-miners-have-tried-everything-now-theyre-trying-fly-brains",
-    "source": "thestreet.com",
-    "published": "Tue Sep 22 2026 20:18:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin traders are taking bigger risks again and here's why",
-    "link": "https://cryptopanic.com/news/33432997/Bitcoin-traders-are-taking-bigger-risks-again-and-heres-why",
-    "source": "thestreet.com",
-    "published": "Tue Sep 22 2026 20:17:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin may go quantum-safe while Lightning privacy stays exposed",
-    "link": "https://cryptopanic.com/news/33432932/Bitcoin-may-go-quantum-safe-while-Lightning-privacy-stays-exposed",
-    "source": "cryptoslate.com",
-    "published": "Tue Sep 22 2026 20:15:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Leaked Doc Frames XRP As Banks’ Ultimate Liquidity Plug",
-    "link": "https://cryptopanic.com/news/33432886/Leaked-Doc-Frames-XRP-As-Banks-Ultimate-Liquidity-Plug",
-    "source": "dailycoin.com",
-    "published": "Tue Sep 22 2026 20:12:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Extreme Volume today. 64 million HBAR in 1 minute.",
-    "link": "https://cryptopanic.com/news/33433125/Extreme-Volume-today-64-million-HBAR-in-1-minute",
-    "source": "r/hedera",
-    "published": "Tue Sep 22 2026 20:10:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: $50 billion in AUM Calamos Investments tells CNBC \"Bitcoin is definitely an allocation that most portfolios are starting to have, even the sovereign wealth funds.\"  \n\n\"It's not are you in Bitcoin, it's how much are you allocated...we feel it's a great investment\"",
-    "link": "https://cryptopanic.com/news/33432931/JUST-IN-50-billion-in-AUM-Calamos-Investments-tells-CNBC-Bitcoin-is-definitely-an-allocation-that-most-portfolios-are-starting-to-have-even-the-sovereign-wealth-funds-Its-not-are-you-in-Bitcoin-its-how-much-are-you-allocatedwe-feel-its-a-great-investment",
-    "source": "@bitcoinmagazine",
-    "published": "Tue Sep 22 2026 20:06:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Banks are focusing tokenization on intraday repo and cross border FX, while legacy systems and fragmented ledgers remain the real constraint. Here's what matters",
-    "link": "https://cryptopanic.com/news/33432926/Banks-are-focusing-tokenization-on-intraday-repo-and-cross-border-FX-while-legacy-systems-and-fragmented-ledgers-remain-the-real-constraint-Heres-what-matters",
-    "source": "@realallincrypto",
-    "published": "Tue Sep 22 2026 20:06:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Pudgy Penguins is taking over Seoul for a week…\n\n@pudgypenguins is bringing its Pengu World Tour to Seoul around @kbwofficial, with events from Sept 28 to Oct 2. The lineup runs from an arcade day and two pickleball meetups to Lotte World Adventure and a late-night card party.",
-    "link": "https://cryptopanic.com/news/33432928/Pudgy-Penguins-is-taking-over-Seoul-for-a-week-pudgypenguins-is-bringing-its-Pengu-World-Tour-to-Seoul-around-kbwofficial-with-events-from-Sept-28-to-Oct-2-The-lineup-runs-from-an-arcade-day-and-two-pickleball-meetups-to-Lotte-World-Adventure-and-a-late-night-card-party",
-    "source": "@bscnews",
-    "published": "Tue Sep 22 2026 20:06:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Santiment says 69,494 small Bitcoin wallets holding 0.1-10 BTC exited during the July-August shakeout, shortly before BTC reclaimed $80K and later broke $85K.",
-    "link": "https://cryptopanic.com/news/33432980/LATEST-Santiment-says-69494-small-Bitcoin-wallets-holding-01-10-BTC-exited-during-the-July-August-shakeout-shortly-before-BTC-reclaimed-80K-and-later-broke-85K",
-    "source": "@coinmarketcap",
-    "published": "Tue Sep 22 2026 20:05:12 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
