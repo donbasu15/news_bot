@@ -1,5 +1,26 @@
 [
   {
+    "title": "INTEL: GameStop CEO Ryan Cohen just made the largest insider buy in company history, purchasing $26.4 million of $GME and bringing his September buys to $46.8 million",
+    "link": "https://cryptopanic.com/news/33435539/INTEL-GameStop-CEO-Ryan-Cohen-just-made-the-largest-insider-buy-in-company-history-purchasing-264-million-of-GME-and-bringing-his-September-buys-to-468-million",
+    "source": "@solidintel_x",
+    "published": "Wed Sep 23 2026 07:50:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Visa’s 100-Market Plan Puts Stablecoins Behind the Card",
+    "link": "https://cryptopanic.com/news/33435517/Visas-100-Market-Plan-Puts-Stablecoins-Behind-the-Card",
+    "source": "coindoo.com",
+    "published": "Wed Sep 23 2026 07:48:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Avalanche Brings $1.3T Wellington Strategy Onchain\n\nMidas has launched mWIN and mGLOBAL on Avalanche (@avax), bringing two institutional strategies onchain.\n\nmWIN is linked to a multi-sector fixed income portfolio managed by Wellington Management. Wellington manages more than",
+    "link": "https://cryptopanic.com/news/33435537/Avalanche-Brings-13T-Wellington-Strategy-Onchain-Midas-has-launched-mWIN-and-mGLOBAL-on-Avalanche-avax-bringing-two-institutional-strategies-onchain-mWIN-is-linked-to-a-multi-sector-fixed-income-portfolio-managed-by-Wellington-Management-Wellington-manages-more-than",
+    "source": "@bscnews",
+    "published": "Wed Sep 23 2026 07:44:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "NEW: Open interest on Hyperliquid has hit a record $18B.",
     "link": "https://cryptopanic.com/news/33435516/NEW-Open-interest-on-Hyperliquid-has-hit-a-record-18B",
     "source": "@cointelegraph",
@@ -11,6 +32,13 @@
     "link": "https://cryptopanic.com/news/33435506/Bitcoin-At-80000-Today-Vs-Bitcoin-At-80000-in-May-Very-Different-Says-This-Analyst",
     "source": "feeds2.benzinga.com",
     "published": "Wed Sep 23 2026 07:30:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Why did Stellar (@StellarOrg) and Ripple (@Ripple) split from the same roots? See Jed McCaleb's exit, their diverging tokenomics, & more",
+    "link": "https://cryptopanic.com/news/33435536/Why-did-Stellar-StellarOrg-and-Ripple-Ripple-split-from-the-same-roots-See-Jed-McCalebs-exit-their-diverging-tokenomics-amp-more",
+    "source": "@bscnews",
+    "published": "Wed Sep 23 2026 07:27:12 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33435026/Bitcoin-Cash-and-Uniswap-Explode-by-Double-Digits-as-CME-Announces-Futures-Launch",
     "source": "cryptopotato.com",
     "published": "Wed Sep 23 2026 06:04:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NOW: Altcoin holders remain mostly underwater, with the median coin having under 25% of its supply in profit, suggesting a market top is still far off, per @glassnode.",
-    "link": "https://cryptopanic.com/news/33435063/NOW-Altcoin-holders-remain-mostly-underwater-with-the-median-coin-having-under-25-of-its-supply-in-profit-suggesting-a-market-top-is-still-far-off-per-glassnode",
-    "source": "@cointelegraph",
-    "published": "Wed Sep 23 2026 06:00:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LBank Market Depth: How It Compares With Six Major Crypto Exchanges",
-    "link": "https://cryptopanic.com/news/33435231/LBank-Market-Depth-How-It-Compares-With-Six-Major-Crypto-Exchanges",
-    "source": "beincrypto.com",
-    "published": "Wed Sep 23 2026 06:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Whales keep buying $UNI today!\n\nA newly created wallet, 0xEFC4, bought 269,477 $UNI ($2.84M).\n\n0xf415 bought another 138,442 $UNI ($1.23M).",
-    "link": "https://cryptopanic.com/news/33434963/Whales-keep-buying-UNI-today-A-newly-created-wallet-0xEFC4-bought-269477-UNI-284M-0xf415-bought-another-138442-UNI-123M",
-    "source": "@lookonchain",
-    "published": "Wed Sep 23 2026 05:58:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin ETF Inflows Hit $715 Million, Four-Day Streak Tops $2.3 Billion",
-    "link": "https://cryptopanic.com/news/33434960/Bitcoin-ETF-Inflows-Hit-715-Million-Four-Day-Streak-Tops-23-Billion",
-    "source": "coinpaper.com",
-    "published": "Wed Sep 23 2026 05:55:32 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
