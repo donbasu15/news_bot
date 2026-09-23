@@ -1,9 +1,86 @@
 [
   {
+    "title": "European Central Banks Push to Widen Stablecoin Yield Ban",
+    "link": "https://cryptopanic.com/news/33435025/European-Central-Banks-Push-to-Widen-Stablecoin-Yield-Ban",
+    "source": "btcusa.com",
+    "published": "Wed Sep 23 2026 06:05:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Cash and Uniswap Explode by Double Digits as CME Announces Futures Launch",
+    "link": "https://cryptopanic.com/news/33435026/Bitcoin-Cash-and-Uniswap-Explode-by-Double-Digits-as-CME-Announces-Futures-Launch",
+    "source": "cryptopotato.com",
+    "published": "Wed Sep 23 2026 06:04:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NOW: Altcoin holders remain mostly underwater, with the median coin having under 25% of its supply in profit, suggesting a market top is still far off, per @glassnode.",
+    "link": "https://cryptopanic.com/news/33435063/NOW-Altcoin-holders-remain-mostly-underwater-with-the-median-coin-having-under-25-of-its-supply-in-profit-suggesting-a-market-top-is-still-far-off-per-glassnode",
+    "source": "@cointelegraph",
+    "published": "Wed Sep 23 2026 06:00:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Whales keep buying $UNI today!\n\nA newly created wallet, 0xEFC4, bought 269,477 $UNI ($2.84M).\n\n0xf415 bought another 138,442 $UNI ($1.23M).",
+    "link": "https://cryptopanic.com/news/33434963/Whales-keep-buying-UNI-today-A-newly-created-wallet-0xEFC4-bought-269477-UNI-284M-0xf415-bought-another-138442-UNI-123M",
+    "source": "@lookonchain",
+    "published": "Wed Sep 23 2026 05:58:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin ETF Inflows Hit $715 Million, Four-Day Streak Tops $2.3 Billion",
+    "link": "https://cryptopanic.com/news/33434960/Bitcoin-ETF-Inflows-Hit-715-Million-Four-Day-Streak-Tops-23-Billion",
+    "source": "coinpaper.com",
+    "published": "Wed Sep 23 2026 05:55:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Whale 0xA799 bought 788,000 $UNI ($4.93M) at $6.26 6 days ago and sold at $8.85, making $2.04M in less than a week!",
+    "link": "https://cryptopanic.com/news/33434962/Whale-0xA799-bought-788000-UNI-493M-at-626-6-days-ago-and-sold-at-885-making-204M-in-less-than-a-week",
+    "source": "@lookonchain",
+    "published": "Wed Sep 23 2026 05:54:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "East Texas A&M’s quantum-proof Bitcoin Lightning passes all 12 node tests",
+    "link": "https://cryptopanic.com/news/33435090/East-Texas-AMs-quantum-proof-Bitcoin-Lightning-passes-all-12-node-tests",
+    "source": "en.cryptonomist.ch",
+    "published": "Wed Sep 23 2026 05:54:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Binance’s account migration begins September 2026, shifting crypto to Spot Accounts",
+    "link": "https://cryptopanic.com/news/33435089/Binances-account-migration-begins-September-2026-shifting-crypto-to-Spot-Accounts",
+    "source": "en.cryptonomist.ch",
+    "published": "Wed Sep 23 2026 05:53:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "OpenAI GPT-6 pricing falls by half with new Sol and Luna models",
+    "link": "https://cryptopanic.com/news/33435088/OpenAI-GPT-6-pricing-falls-by-half-with-new-Sol-and-Luna-models",
+    "source": "en.cryptonomist.ch",
+    "published": "Wed Sep 23 2026 05:52:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇺🇸 Bloomberg Intelligence's Nathan Dean says the CLARITY Act will not return this Congress. \n\n\"Lame ducks are lame. We don't think the CLARITY Act is going to come back.\"",
+    "link": "https://cryptopanic.com/news/33435060/LATEST-Bloomberg-Intelligences-Nathan-Dean-says-the-CLARITY-Act-will-not-return-this-Congress-Lame-ducks-are-lame-We-dont-think-the-CLARITY-Act-is-going-to-come-back",
+    "source": "@coinmarketcap",
+    "published": "Wed Sep 23 2026 05:52:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "How Zcash and NEAR Are Driving This Crypto Bull Run",
     "link": "https://cryptopanic.com/news/33434950/How-Zcash-and-NEAR-Are-Driving-This-Crypto-Bull-Run",
     "source": "Unchained",
     "published": "Wed Sep 23 2026 05:50:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Can Bending Spoons’ stock growth outrun its $4.9 billion debt?",
+    "link": "https://cryptopanic.com/news/33435087/Can-Bending-Spoons-stock-growth-outrun-its-49-billion-debt",
+    "source": "en.cryptonomist.ch",
+    "published": "Wed Sep 23 2026 05:47:56 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -21,6 +98,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Solana’s finality upgrade begins testing, aiming for 150ms settlement times",
+    "link": "https://cryptopanic.com/news/33435086/Solanas-finality-upgrade-begins-testing-aiming-for-150ms-settlement-times",
+    "source": "en.cryptonomist.ch",
+    "published": "Wed Sep 23 2026 05:40:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Solana flips Ethereum in fees, while ETH holds the burn lead",
     "link": "https://cryptopanic.com/news/33434872/Solana-flips-Ethereum-in-fees-while-ETH-holds-the-burn-lead",
     "source": "cryptoslate.com",
@@ -35,10 +119,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "BlackRock ties AI’s impact on crypto demand to the growing compute market",
+    "link": "https://cryptopanic.com/news/33435085/BlackRock-ties-AIs-impact-on-crypto-demand-to-the-growing-compute-market",
+    "source": "en.cryptonomist.ch",
+    "published": "Wed Sep 23 2026 05:37:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Meta Muse AI Hits Millions of Downloads but Its Biggest Test Is Just Beginning",
     "link": "https://cryptopanic.com/news/33434868/Meta-Muse-AI-Hits-Millions-of-Downloads-but-Its-Biggest-Test-Is-Just-Beginning",
     "source": "coinpaper.com",
     "published": "Wed Sep 23 2026 05:36:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Why Is NVIDIA Getting Cheaper While Apple Hits New All-Time Highs",
+    "link": "https://cryptopanic.com/news/33435062/Why-Is-NVIDIA-Getting-Cheaper-While-Apple-Hits-New-All-Time-Highs",
+    "source": "beincrypto.com",
+    "published": "Wed Sep 23 2026 05:35:24 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -84,6 +182,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Visa and Reap expand stablecoin credit cards to over 100 markets worldwide",
+    "link": "https://cryptopanic.com/news/33435084/Visa-and-Reap-expand-stablecoin-credit-cards-to-over-100-markets-worldwide",
+    "source": "en.cryptonomist.ch",
+    "published": "Wed Sep 23 2026 05:17:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Aptos and Lotte Group Subsidiary Take Tickets On Chain\n\nAptos (@Aptos) is expanding its partnership with Lotte Group subsidiary Daehong Communications into on-chain ticketing.\n\nThe companies plan to use blockchain for tickets tied to concerts, exhibitions, and other cultural",
     "link": "https://cryptopanic.com/news/33434784/Aptos-and-Lotte-Group-Subsidiary-Take-Tickets-On-Chain-Aptos-Aptos-is-expanding-its-partnership-with-Lotte-Group-subsidiary-Daehong-Communications-into-on-chain-ticketing-The-companies-plan-to-use-blockchain-for-tickets-tied-to-concerts-exhibitions-and-other-cultural",
     "source": "@bscnews",
@@ -102,111 +207,6 @@
     "link": "https://cryptopanic.com/news/33434926/TODAY-CryptoQuant-CEO-Ki-Young-Ju-says-Bitcoin-bull-run-just-started-but-no-one-cares",
     "source": "@cointelegraph",
     "published": "Wed Sep 23 2026 05:00:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Treasury-Commerce Fight Stalls $20B Bitcoin Reserve Plan",
-    "link": "https://cryptopanic.com/news/33434703/Treasury-Commerce-Fight-Stalls-20B-Bitcoin-Reserve-Plan",
-    "source": "btcusa.com",
-    "published": "Wed Sep 23 2026 05:00:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Experts Urge US, China to Keep AI Away From Nukes",
-    "link": "https://cryptopanic.com/news/33434709/Experts-Urge-US-China-to-Keep-AI-Away-From-Nukes",
-    "source": "catenaa.com",
-    "published": "Wed Sep 23 2026 05:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Canada’s big six banks explore tokenized deposit system to modernize payments",
-    "link": "https://cryptopanic.com/news/33434714/Canadas-big-six-banks-explore-tokenized-deposit-system-to-modernize-payments",
-    "source": "theblock.co",
-    "published": "Wed Sep 23 2026 04:57:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BITWISE’S $NEAR STAKING ETP JUST SURPASSED $100 MILLION IN AUM, AS $NEAR IS UP AROUND 90%.\n\nInstitutional money is flowing into regulated @NEARProtocol products at the same time the token is exploding higher.\n\nPrice, adoption and institutional demand are all moving together.",
-    "link": "https://cryptopanic.com/news/33434707/BITWISES-NEAR-STAKING-ETP-JUST-SURPASSED-100-MILLION-IN-AUM-AS-NEAR-IS-UP-AROUND-90-Institutional-money-is-flowing-into-regulated-NEARProtocol-products-at-the-same-time-the-token-is-exploding-higher-Price-adoption-and-institutional-demand-are-all-moving-together",
-    "source": "@realallincrypto",
-    "published": "Wed Sep 23 2026 04:45:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin ETFs Pull In $1 Billion Monday: Are They Driving This Rally or Chasing It?",
-    "link": "https://cryptopanic.com/news/33434856/Bitcoin-ETFs-Pull-In-1-Billion-Monday-Are-They-Driving-This-Rally-or-Chasing-It",
-    "source": "beincrypto.com",
-    "published": "Wed Sep 23 2026 04:44:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The 10x Bitcoin Rally Isn't Coming. CryptoQuant CEO Predicts a Calmer Cycle",
-    "link": "https://cryptopanic.com/news/33434855/The-10x-Bitcoin-Rally-Isnt-Coming-CryptoQuant-CEO-Predicts-a-Calmer-Cycle",
-    "source": "beincrypto.com",
-    "published": "Wed Sep 23 2026 04:42:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Bull Market Signal Flashes For The First Time Since 2023\n\nBitcoin has reclaimed its 365-day moving average, which CryptoQuant uses as a key cycle signal.\n\nThe average currently sits near $80,500, while Bitcoin bitcoin:native trades above $86,000.\n\nThis is the first",
-    "link": "https://cryptopanic.com/news/33434783/Bitcoin-Bull-Market-Signal-Flashes-For-The-First-Time-Since-2023-Bitcoin-has-reclaimed-its-365-day-moving-average-which-CryptoQuant-uses-as-a-key-cycle-signal-The-average-currently-sits-near-80500-while-Bitcoin-bitcoinnative-trades-above-86000-This-is-the-first",
-    "source": "@bscnews",
-    "published": "Wed Sep 23 2026 04:42:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "This is HUGE.\n\nUS $BTC ETFs have now seen net inflows of over $1.7B this week.\n\nThis is the largest 2-day inflow for BTC ETFs since bitcoin was at its record high.",
-    "link": "https://cryptopanic.com/news/33434684/This-is-HUGE-US-BTC-ETFs-have-now-seen-net-inflows-of-over-17B-this-week-This-is-the-largest-2-day-inflow-for-BTC-ETFs-since-bitcoin-was-at-its-record-high",
-    "source": "@stackersatoshi",
-    "published": "Wed Sep 23 2026 04:41:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NOW: bitcoin:native hits above $87,000!",
-    "link": "https://cryptopanic.com/news/33434701/NOW-bitcoinnative-hits-above-87000",
-    "source": "@cointelegraph",
-    "published": "Wed Sep 23 2026 04:35:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸🇨🇳 LATEST: Meta CEO Mark Zuckerberg will reportedly join other tech leaders at the White House state dinner for Chinese President Xi Jinping.",
-    "link": "https://cryptopanic.com/news/33434700/LATEST-Meta-CEO-Mark-Zuckerberg-will-reportedly-join-other-tech-leaders-at-the-White-House-state-dinner-for-Chinese-President-Xi-Jinping",
-    "source": "@cointelegraph",
-    "published": "Wed Sep 23 2026 04:30:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Russia Puts Investors on Notice Over $44B Crypto Market\n\nRussian investors could bear the losses if foreign issuers freeze stablecoins held through Russian intermediaries.\n\nDeputy Finance Minister Ivan Chebeskov said foreign issuer actions may fall outside depositories’ control.",
-    "link": "https://cryptopanic.com/news/33434620/Russia-Puts-Investors-on-Notice-Over-44B-Crypto-Market-Russian-investors-could-bear-the-losses-if-foreign-issuers-freeze-stablecoins-held-through-Russian-intermediaries-Deputy-Finance-Minister-Ivan-Chebeskov-said-foreign-issuer-actions-may-fall-outside-depositories-control",
-    "source": "@bscnews",
-    "published": "Wed Sep 23 2026 04:26:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Peter Schiff Says Michael Saylor's 'Self-Serving' Bullish Comments Behind Bitcoin's 'Big' Rally: He'll Be 'Selling At Low Prices Again' Soon",
-    "link": "https://cryptopanic.com/news/33434635/Peter-Schiff-Says-Michael-Saylors-Self-Serving-Bullish-Comments-Behind-Bitcoins-Big-Rally-Hell-Be-Selling-At-Low-Prices-Again-Soon",
-    "source": "feeds2.benzinga.com",
-    "published": "Wed Sep 23 2026 04:26:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇺🇸 The CFTC issued a staff advisory on \"mention market\" contracts, flagging them as a heightened manipulation risk that may only be listed under limited circumstances.",
-    "link": "https://cryptopanic.com/news/33434685/LATEST-The-CFTC-issued-a-staff-advisory-on-mention-market-contracts-flagging-them-as-a-heightened-manipulation-risk-that-may-only-be-listed-under-limited-circumstances",
-    "source": "@coinmarketcap",
-    "published": "Wed Sep 23 2026 04:14:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Reserves on Binance Hit 3-Month High as Price Breaks $1.50",
-    "link": "https://cryptopanic.com/news/33434556/XRP-Reserves-on-Binance-Hit-3-Month-High-as-Price-Breaks-150",
-    "source": "cryptopotato.com",
-    "published": "Wed Sep 23 2026 04:11:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Zcash leads crypto majors with a 10% gain as bitcoin holds near $87,000",
-    "link": "https://cryptopanic.com/news/33434785/Zcash-leads-crypto-majors-with-a-10-gain-as-bitcoin-holds-near-87000",
-    "source": "coindesk.com",
-    "published": "Wed Sep 23 2026 04:10:08 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
