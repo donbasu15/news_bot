@@ -1,5 +1,82 @@
 [
   {
+    "title": "JUST IN: 🇺🇸 U.S. Spot Bitcoin ETF year-to-date net flows have turned positive for the first time since April, Galaxy Research reports.",
+    "link": "https://cryptopanic.com/news/33440294/JUST-IN-US-Spot-Bitcoin-ETF-year-to-date-net-flows-have-turned-positive-for-the-first-time-since-April-Galaxy-Research-reports",
+    "source": "@bitcoinmagazine",
+    "published": "Wed Sep 23 2026 21:37:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Stellar's latest upgrade is already showing up in the numbers...\n\nStellar (@StellarOrg) now closes blocks in about 5 seconds, down from around 5.7 seconds since Protocol 28 went live on Sept. 16. Mainnet throughput is up about 10% to 15%, per @BuildOnStellar.\n\nThe stellar:native",
+    "link": "https://cryptopanic.com/news/33440291/Stellars-latest-upgrade-is-already-showing-up-in-the-numbers-Stellar-StellarOrg-now-closes-blocks-in-about-5-seconds-down-from-around-57-seconds-since-Protocol-28-went-live-on-Sept-16-Mainnet-throughput-is-up-about-10-to-15-per-BuildOnStellar-The-stellarnative",
+    "source": "@bscnews",
+    "published": "Wed Sep 23 2026 21:32:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "China Probes DeepSeek and Moonshot Over Alleged Data Leaks to Anthropic's Claude",
+    "link": "https://cryptopanic.com/news/33440257/China-Probes-DeepSeek-and-Moonshot-Over-Alleged-Data-Leaks-to-Anthropics-Claude",
+    "source": "decrypt.co",
+    "published": "Wed Sep 23 2026 21:31:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MPS investors can back defence plan and still accept Intesa's offer, CEO says",
+    "link": "https://cryptopanic.com/news/33440253/MPS-investors-can-back-defence-plan-and-still-accept-Intesas-offer-CEO-says",
+    "source": "@reutersbiz",
+    "published": "Wed Sep 23 2026 21:30:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇦🇺 WILD: An OpenAI AI agent breached an Australian government system in June, exposing a glimpse of what happens when AI agents go rogue.",
+    "link": "https://cryptopanic.com/news/33440252/WILD-An-OpenAI-AI-agent-breached-an-Australian-government-system-in-June-exposing-a-glimpse-of-what-happens-when-AI-agents-go-rogue",
+    "source": "@cointelegraph",
+    "published": "Wed Sep 23 2026 21:30:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hut 8 wins Poolin’s Texas site with $140M bid as AI reprices mining power",
+    "link": "https://cryptopanic.com/news/33440258/Hut-8-wins-Poolins-Texas-site-with-140M-bid-as-AI-reprices-mining-power",
+    "source": "cryptopolitan.com",
+    "published": "Wed Sep 23 2026 21:30:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: CFTC moves ahead with “clear” crypto market structure rules: “It’s GO TIME”",
+    "link": "https://cryptopanic.com/news/33440293/INTEL-CFTC-moves-ahead-with-clear-crypto-market-structure-rules-Its-GO-TIME",
+    "source": "@solidintel_x",
+    "published": "Wed Sep 23 2026 21:21:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 CFTC announces the agency is establishing \"clear\" crypto market structure rules.",
+    "link": "https://cryptopanic.com/news/33440250/JUST-IN-CFTC-announces-the-agency-is-establishing-clear-crypto-market-structure-rules",
+    "source": "@cryptonwsuk",
+    "published": "Wed Sep 23 2026 21:21:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Forward Industries Eyes More $SOL With $25M Raise After Amassing 1.39% of Solana's Supply",
+    "link": "https://cryptopanic.com/news/33439935/Forward-Industries-Eyes-More-SOL-With-25M-Raise-After-Amassing-139-of-Solanas-Supply",
+    "source": "solanafloor.com",
+    "published": "Wed Sep 23 2026 21:17:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: @GAZZFUN is rolling out its Fund V2 upgrade this Sunday \n\nIntroducing Fixed Income Funds, alongside a major fee cut from 2% to 0.2%.\n\nThe upgrade also brings updates to cadence rotation and OracleAI amplification.",
+    "link": "https://cryptopanic.com/news/33440290/JUST-IN-GAZZFUN-is-rolling-out-its-Fund-V2-upgrade-this-Sunday-Introducing-Fixed-Income-Funds-alongside-a-major-fee-cut-from-2-to-02-The-upgrade-also-brings-updates-to-cadence-rotation-and-OracleAI-amplification",
+    "source": "@bscnews",
+    "published": "Wed Sep 23 2026 21:16:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The CFTC isn't waiting for Congress anymore\n\nCFTC Chair Mike Selig (@ChairmanSelig) says it's \"go time\" for crypto rules. The agency will build a crypto market structure with powers it already has.\n\nSelig also says the @CFTC is updating its rules for 24/7 trading, tokenization,",
+    "link": "https://cryptopanic.com/news/33440289/The-CFTC-isnt-waiting-for-Congress-anymore-CFTC-Chair-Mike-Selig-ChairmanSelig-says-its-go-time-for-crypto-rules-The-agency-will-build-a-crypto-market-structure-with-powers-it-already-has-Selig-also-says-the-CFTC-is-updating-its-rules-for-247-trading-tokenization",
+    "source": "@bscnews",
+    "published": "Wed Sep 23 2026 21:11:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Venezuela’s crypto activity jumps 107% to $39.1 billion, fastest among Latin America’s big five",
     "link": "https://cryptopanic.com/news/33440119/Venezuelas-crypto-activity-jumps-107-to-391-billion-fastest-among-Latin-Americas-big-five",
     "source": "cryptopolitan.com",
@@ -7,10 +84,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "AI expert reveals the jobs most likely to survive automation",
+    "link": "https://cryptopanic.com/news/33440254/AI-expert-reveals-the-jobs-most-likely-to-survive-automation",
+    "source": "thestreet.com",
+    "published": "Wed Sep 23 2026 21:06:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Source",
     "link": "https://cryptopanic.com/news/33440162/Source",
     "source": "@wublockchain",
     "published": "Wed Sep 23 2026 21:03:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇸🇬 @CryptoHayes is taking the stage at Cointelegraph CONNECT Seoul.\n\nThe @MaelstromFund CIO joins us for a fireside chat on Sept. 29 during Korea Blockchain Week.\n\nSept. 29 | Seoul\n\nSecure your spot",
+    "link": "https://cryptopanic.com/news/33440251/CryptoHayes-is-taking-the-stage-at-Cointelegraph-CONNECT-Seoul-The-MaelstromFund-CIO-joins-us-for-a-fireside-chat-on-Sept-29-during-Korea-Blockchain-Week-Sept-29-Seoul-Secure-your-spot",
+    "source": "@cointelegraph",
+    "published": "Wed Sep 23 2026 21:00:53 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -63,6 +154,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Daily #Cardano News! ️\n\nIvan Targets $ADA \"Bull Trend.\"\n\nCharles: \"Monument Bank & Pogun:\nVery Strong Institutional Deals.\"",
+    "link": "https://cryptopanic.com/news/33440244/Daily-Cardano-News-Ivan-Targets-ADA-Bull-Trend-Charles-Monument-Bank-amp-Pogun-Very-Strong-Institutional-Deals",
+    "source": "@angrycryptoshow",
+    "published": "Wed Sep 23 2026 20:52:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Ondo is rolling out VIP status for its biggest tokenized stock traders...\n\n@Ondo launched Ondo Private Client, a loyalty program for its biggest users. Entry starts at $1M in eligible assets held, or $1M in spot volume over 30 days, with no application or fee.\n\nMembers across",
     "link": "https://cryptopanic.com/news/33440063/Ondo-is-rolling-out-VIP-status-for-its-biggest-tokenized-stock-traders-Ondo-launched-Ondo-Private-Client-a-loyalty-program-for-its-biggest-users-Entry-starts-at-1M-in-eligible-assets-held-or-1M-in-spot-volume-over-30-days-with-no-application-or-fee-Members-across",
     "source": "@bscnews",
@@ -109,104 +207,6 @@
     "link": "https://cryptopanic.com/news/33440158/BREAKING-CFTC-Chair-Michael-Selig-says-its-go-time-for-statutory-crypto-regulation-The-President-promised-clear-rules-and-we-are-shipping-them",
     "source": "@btc_archive",
     "published": "Wed Sep 23 2026 20:42:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Binance​.​US launched a built-in self-custody wallet for eligible iOS and Android users, supporting Ethereum, Solana, BNB Chain and more.",
-    "link": "https://cryptopanic.com/news/33440161/LATEST-BinanceUS-launched-a-built-in-self-custody-wallet-for-eligible-iOS-and-Android-users-supporting-Ethereum-Solana-BNB-Chain-and-more",
-    "source": "@coinmarketcap",
-    "published": "Wed Sep 23 2026 20:41:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BlackRock expects exchange-traded compute futures as it pitches stablecoins for AI agents",
-    "link": "https://cryptopanic.com/news/33439995/BlackRock-expects-exchange-traded-compute-futures-as-it-pitches-stablecoins-for-AI-agents",
-    "source": "cryptopolitan.com",
-    "published": "Wed Sep 23 2026 20:35:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 CFTC Chairman Mike Selig says the CFTC \"is utilizing its existing statutory authorities to establish a crypto asset regulatory market structure.\" \n\n\"It’s GO TIME.\"",
-    "link": "https://cryptopanic.com/news/33440065/JUST-IN-CFTC-Chairman-Mike-Selig-says-the-CFTC-is-utilizing-its-existing-statutory-authorities-to-establish-a-crypto-asset-regulatory-market-structure-Its-GO-TIME",
-    "source": "@bitcoinmagazine",
-    "published": "Wed Sep 23 2026 20:34:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "IOTA Rival Dropped by Coinbase",
-    "link": "https://cryptopanic.com/news/33440052/IOTA-Rival-Dropped-by-Coinbase",
-    "source": "u.today",
-    "published": "Wed Sep 23 2026 20:33:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Avalanche's co-founder helped build a proof-of-work currency six years before Bitcoin...\n\nEmin Gün Sirer (@el33th4xor) co-designed Karma at Cornell in 2003 with two of his students. His bios call it the first currency to mint coins through proof-of-work, though Wei Dai's 1998",
-    "link": "https://cryptopanic.com/news/33440061/Avalanches-co-founder-helped-build-a-proof-of-work-currency-six-years-before-Bitcoin-Emin-Gun-Sirer-el33th4xor-co-designed-Karma-at-Cornell-in-2003-with-two-of-his-students-His-bios-call-it-the-first-currency-to-mint-coins-through-proof-of-work-though-Wei-Dais-1998",
-    "source": "@bscnews",
-    "published": "Wed Sep 23 2026 20:31:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ADOPTION: Coinbase is launching fixed-rate, fixed-term BTC-backed USDC loans through Morpho Midnight, bringing predictable borrowing onchain.",
-    "link": "https://cryptopanic.com/news/33440044/ADOPTION-Coinbase-is-launching-fixed-rate-fixed-term-BTC-backed-USDC-loans-through-Morpho-Midnight-bringing-predictable-borrowing-onchain",
-    "source": "@cointelegraph",
-    "published": "Wed Sep 23 2026 20:30:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Energy Prices & Bitcoin: The Hidden Connection Revealed",
-    "link": "https://cryptopanic.com/news/33439998/Energy-Prices-Bitcoin-The-Hidden-Connection-Revealed",
-    "source": "SimplyBitcoin",
-    "published": "Wed Sep 23 2026 20:30:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump Disclosure Lists Coinbase and Strategy Purchases, CleanSpark and MARA Sales\n\nPresident Donald Trump’s periodic transaction report, disclosed by the U.S. Office of Government Ethics, lists a $1,001–$15,000 purchase of Coinbase shares on July 24 and purchases of Strategy",
-    "link": "https://cryptopanic.com/news/33440041/Trump-Disclosure-Lists-Coinbase-and-Strategy-Purchases-CleanSpark-and-MARA-Sales-President-Donald-Trumps-periodic-transaction-report-disclosed-by-the-US-Office-of-Government-Ethics-lists-a-100115000-purchase-of-Coinbase-shares-on-July-24-and-purchases-of-Strategy",
-    "source": "@wublockchain",
-    "published": "Wed Sep 23 2026 20:29:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Wall Street is ramping up its crypto hiring. \n\n@ChristianL_opez says the shift reflects a simple reality for traditional finance: “They know they have to compete.”",
-    "link": "https://cryptopanic.com/news/33440042/Wall-Street-is-ramping-up-its-crypto-hiring-ChristianL_opez-says-the-shift-reflects-a-simple-reality-for-traditional-finance-They-know-they-have-to-compete",
-    "source": "@coindesk",
-    "published": "Wed Sep 23 2026 20:17:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana is swapping out its consensus engine without stopping the chain...\n\nAlpenglow goes live on @Solana's testnet on Thursday, per @anza_xyz. The switch flips around 17:30 UTC. About 17 minutes later, the new system takes over from TowerBFT, the voting setup Solana ran since",
-    "link": "https://cryptopanic.com/news/33439912/Solana-is-swapping-out-its-consensus-engine-without-stopping-the-chain-Alpenglow-goes-live-on-Solanas-testnet-on-Thursday-per-anza_xyz-The-switch-flips-around-1730-UTC-About-17-minutes-later-the-new-system-takes-over-from-TowerBFT-the-voting-setup-Solana-ran-since",
-    "source": "@bscnews",
-    "published": "Wed Sep 23 2026 20:10:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Europe’s Pontes settlement bridge brings Axiology’s permissioned XRPL technology into scope, but it does not prove use of the $XRP token. What it means for $XRP",
-    "link": "https://cryptopanic.com/news/33439909/Europes-Pontes-settlement-bridge-brings-Axiologys-permissioned-XRPL-technology-into-scope-but-it-does-not-prove-use-of-the-XRP-token-What-it-means-for-XRP",
-    "source": "@realallincrypto",
-    "published": "Wed Sep 23 2026 20:09:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Anthropic CEO Dario Amodei says Claude may be used to perform biology experiments by autonomously controlling lab equipment.",
-    "link": "https://cryptopanic.com/news/33439979/JUST-IN-Anthropic-CEO-Dario-Amodei-says-Claude-may-be-used-to-perform-biology-experiments-by-autonomously-controlling-lab-equipment",
-    "source": "@watcherguru",
-    "published": "Wed Sep 23 2026 20:07:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇺🇸 Senator Cynthia Lummis argues Democrats \"chose their visceral hatred for President Trump\" over passing the CLARITY Act before the midterms.",
-    "link": "https://cryptopanic.com/news/33439983/LATEST-Senator-Cynthia-Lummis-argues-Democrats-chose-their-visceral-hatred-for-President-Trump-over-passing-the-CLARITY-Act-before-the-midterms",
-    "source": "@coinmarketcap",
-    "published": "Wed Sep 23 2026 20:05:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tesla makes $122M on Bitcoin without buying a single coin",
-    "link": "https://cryptopanic.com/news/33439937/Tesla-makes-122M-on-Bitcoin-without-buying-a-single-coin",
-    "source": "thestreet.com",
-    "published": "Wed Sep 23 2026 20:01:12 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
