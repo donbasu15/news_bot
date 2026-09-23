@@ -1,5 +1,166 @@
 [
   {
+    "title": "HKMA and SFC unveil digital-asset plans for stablecoins and tokenized gold",
+    "link": "https://cryptopanic.com/news/33437782/HKMA-and-SFC-unveil-digital-asset-plans-for-stablecoins-and-tokenized-gold",
+    "source": "cryptopolitan.com",
+    "published": "Wed Sep 23 2026 13:40:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ripple Wants AI to Find XRPL Bugs Before Hackers Do",
+    "link": "https://cryptopanic.com/news/33437765/Ripple-Wants-AI-to-Find-XRPL-Bugs-Before-Hackers-Do",
+    "source": "coinpaper.com",
+    "published": "Wed Sep 23 2026 13:39:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BlackRock Says AI Agents Could Drive New Digital Asset Demand",
+    "link": "https://cryptopanic.com/news/33437761/BlackRock-Says-AI-Agents-Could-Drive-New-Digital-Asset-Demand",
+    "source": "thecoinrepublic.com",
+    "published": "Wed Sep 23 2026 13:35:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin May Retest Low $60K Before $100K, Mark Yusko Says 'Everyone' Should Own It",
+    "link": "https://cryptopanic.com/news/33437853/Bitcoin-May-Retest-Low-60K-Before-100K-Mark-Yusko-Says-Everyone-Should-Own-It",
+    "source": "feeds2.benzinga.com",
+    "published": "Wed Sep 23 2026 13:32:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LIVE: BTC Bull Market, Global Liquidity, The Dollar Milkshake | BMTV Sep. 23, 2026",
+    "link": "https://cryptopanic.com/news/33437739/LIVE-BTC-Bull-Market-Global-Liquidity-The-Dollar-Milkshake-BMTV-Sep-23-2026",
+    "source": "@bitcoinmagazine",
+    "published": "Wed Sep 23 2026 13:31:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BlackRock: Stablecoins Could Power AI Agent Payments",
+    "link": "https://cryptopanic.com/news/33437751/BlackRock-Stablecoins-Could-Power-AI-Agent-Payments",
+    "source": "coindoo.com",
+    "published": "Wed Sep 23 2026 13:30:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Altcoin demand meets $18B threat as flows move into RWA perps as just 19% of traders keep alts",
+    "link": "https://cryptopanic.com/news/33437752/Altcoin-demand-meets-18B-threat-as-flows-move-into-RWA-perps-as-just-19-of-traders-keep-alts",
+    "source": "cryptoslate.com",
+    "published": "Wed Sep 23 2026 13:30:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "21shares prices Europe’s first Zcash ETP at a 2.5% annual fee as ZEC tops $1,600",
+    "link": "https://cryptopanic.com/news/33437754/21shares-prices-Europes-first-Zcash-ETP-at-a-25-annual-fee-as-ZEC-tops-1600",
+    "source": "cryptopolitan.com",
+    "published": "Wed Sep 23 2026 13:30:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BTC Bull Market, Global Liquidity, The Dollar Milkshake | BMTV Sep. 23, 2026",
+    "link": "https://cryptopanic.com/news/33437738/BTC-Bull-Market-Global-Liquidity-The-Dollar-Milkshake-BMTV-Sep-23-2026",
+    "source": "@bitcoinmagazine",
+    "published": "Wed Sep 23 2026 13:30:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Macro Week Ahead\n\nThe Fed Just Hiked. PCE and Payrolls Will Test the Next Move.\n\nCore PCE is expected to rise to 0.3% on Wednesday, while payrolls are forecast at 90K on Friday. 🇬🇧 The FCA cryptoasset gateway opens Wednesday.",
+    "link": "https://cryptopanic.com/news/33437844/Macro-Week-Ahead-The-Fed-Just-Hiked-PCE-and-Payrolls-Will-Test-the-Next-Move-Core-PCE-is-expected-to-rise-to-03-on-Wednesday-while-payrolls-are-forecast-at-90K-on-Friday-The-FCA-cryptoasset-gateway-opens-Wednesday",
+    "source": "@coinmarketcap",
+    "published": "Wed Sep 23 2026 13:30:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MoonPay acquires North Capital to Improve Private Markets Infrastructure\n\n@MoonPay announces it has acquired North Capital (@norcap), an industry-leading private markets infrastructure provider.\n\nThe transaction combines SEC-licensed broker-dealer services and API-first",
+    "link": "https://cryptopanic.com/news/33437731/MoonPay-acquires-North-Capital-to-Improve-Private-Markets-Infrastructure-MoonPay-announces-it-has-acquired-North-Capital-norcap-an-industry-leading-private-markets-infrastructure-provider-The-transaction-combines-SEC-licensed-broker-dealer-services-and-API-first",
+    "source": "@bscnews",
+    "published": "Wed Sep 23 2026 13:30:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bybit Adds PATH, CYPH And HUT Equity Perpetuals With Up To 25x Leverage",
+    "link": "https://cryptopanic.com/news/33437732/Bybit-Adds-PATH-CYPH-And-HUT-Equity-Perpetuals-With-Up-To-25x-Leverage",
+    "source": "newsbtc.com",
+    "published": "Wed Sep 23 2026 13:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP News: Another Major XRPL Upgrade Could Go Live Oct. 5",
+    "link": "https://cryptopanic.com/news/33437663/XRP-News-Another-Major-XRPL-Upgrade-Could-Go-Live-Oct-5",
+    "source": "coinpaper.com",
+    "published": "Wed Sep 23 2026 13:29:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Could Deliver '3-5x Rather Than Another 10x' This Cycle, Analyst Says",
+    "link": "https://cryptopanic.com/news/33437852/Bitcoin-Could-Deliver-3-5x-Rather-Than-Another-10x-This-Cycle-Analyst-Says",
+    "source": "feeds2.benzinga.com",
+    "published": "Wed Sep 23 2026 13:29:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33437848/Source",
+    "source": "@wublockchain",
+    "published": "Wed Sep 23 2026 13:28:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MoonPay to Acquire North Capital for Over $60 Million to Expand Tokenized Real-World Asset Business\n\nMoonPay plans to acquire private-markets investment platform North Capital in an all-stock transaction valued at over $60 million, subject to regulatory approval. North Capital",
+    "link": "https://cryptopanic.com/news/33437847/MoonPay-to-Acquire-North-Capital-for-Over-60-Million-to-Expand-Tokenized-Real-World-Asset-Business-MoonPay-plans-to-acquire-private-markets-investment-platform-North-Capital-in-an-all-stock-transaction-valued-at-over-60-million-subject-to-regulatory-approval-North-Capital",
+    "source": "@wublockchain",
+    "published": "Wed Sep 23 2026 13:28:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇨🇦 Canada's Big Six banks are exploring a shared interbank tokenized deposit initiative, aiming to move money faster between participating institutions domestically.",
+    "link": "https://cryptopanic.com/news/33437841/LATEST-Canadas-Big-Six-banks-are-exploring-a-shared-interbank-tokenized-deposit-initiative-aiming-to-move-money-faster-between-participating-institutions-domestically",
+    "source": "@coinmarketcap",
+    "published": "Wed Sep 23 2026 13:25:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Analyst Calls For $1.40 As SUI’s Price Setup Flips Bullish",
+    "link": "https://cryptopanic.com/news/33437649/Analyst-Calls-For-140-As-SUIs-Price-Setup-Flips-Bullish",
+    "source": "dailycoin.com",
+    "published": "Wed Sep 23 2026 13:25:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Why Is XRP Up Today? $7.4B Derivatives Surge Fuels Short Squeeze",
+    "link": "https://cryptopanic.com/news/33437640/Why-Is-XRP-Up-Today-74B-Derivatives-Surge-Fuels-Short-Squeeze",
+    "source": "coinpaper.com",
+    "published": "Wed Sep 23 2026 13:24:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "European Central Banks Call For Ban On Stablecoin Yield",
+    "link": "https://cryptopanic.com/news/33437656/European-Central-Banks-Call-For-Ban-On-Stablecoin-Yield",
+    "source": "cryptoprowl.com",
+    "published": "Wed Sep 23 2026 13:24:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "AI sets Dogecoin (DOGE) price for October 1, 2026",
+    "link": "https://cryptopanic.com/news/33437644/AI-sets-Dogecoin-DOGE-price-for-October-1-2026",
+    "source": "finbold.com",
+    "published": "Wed Sep 23 2026 13:23:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Blockchain(.)com Partners With NYSE To Launch Global Trading Of Tokenized Securities\n\n@Blockchain has signed a Memorandum of Understanding (MoU) with @NYSE to offer tokenized U.S. stocks and ETFs to its global customer base.\n\nWith the help of NYSE's ATS, Blockchain will seek to",
+    "link": "https://cryptopanic.com/news/33437730/Blockchaincom-Partners-With-NYSE-To-Launch-Global-Trading-Of-Tokenized-Securities-Blockchain-has-signed-a-Memorandum-of-Understanding-MoU-with-NYSE-to-offer-tokenized-US-stocks-and-ETFs-to-its-global-customer-base-With-the-help-of-NYSEs-ATS-Blockchain-will-seek-to",
+    "source": "@bscnews",
+    "published": "Wed Sep 23 2026 13:19:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Why MoonPay Wanted a 27-Year-Old Utah Broker",
+    "link": "https://cryptopanic.com/news/33437845/Why-MoonPay-Wanted-a-27-Year-Old-Utah-Broker",
+    "source": "beincrypto.com",
+    "published": "Wed Sep 23 2026 13:16:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "OECD lifts 2026 growth forecast on AI spending, warns 2027 outlook is darkening",
     "link": "https://cryptopanic.com/news/33437623/OECD-lifts-2026-growth-forecast-on-AI-spending-warns-2027-outlook-is-darkening",
     "source": "cryptopolitan.com",
@@ -35,178 +196,17 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Crypto hacking group ShinyHunters says it stole data of 5,000 FBI agents",
-    "link": "https://cryptopanic.com/news/33437519/Crypto-hacking-group-ShinyHunters-says-it-stole-data-of-5000-FBI-agents",
-    "source": "protos.com",
-    "published": "Wed Sep 23 2026 13:04:50 GMT+0000 (Coordinated Universal Time)",
+    "title": "NYSE Just Found a 44 Million-User Gateway Into Crypto Markets",
+    "link": "https://cryptopanic.com/news/33437843/NYSE-Just-Found-a-44-Million-User-Gateway-Into-Crypto-Markets",
+    "source": "beincrypto.com",
+    "published": "Wed Sep 23 2026 13:12:43 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "RBI and Bitpanda Bring Crypto to 18 Million Banking Customers",
-    "link": "https://cryptopanic.com/news/33437501/RBI-and-Bitpanda-Bring-Crypto-to-18-Million-Banking-Customers",
-    "source": "cryptodnes.bg",
-    "published": "Wed Sep 23 2026 13:01:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Aave founder Stani Kulechov says V4 is already securing $1.2B in deposits across Ethereum, Avalanche and Arc.",
-    "link": "https://cryptopanic.com/news/33437601/UPDATE-Aave-founder-Stani-Kulechov-says-V4-is-already-securing-12B-in-deposits-across-Ethereum-Avalanche-and-Arc",
-    "source": "@cointelegraph",
-    "published": "Wed Sep 23 2026 13:01:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: #Cardano $ADA Founder Charles Hoskinson says \"it's been incredibly difficult to find some spare time. I'm waking up very early, going to bed very late, and I'm working 12-16 hours a day cuz I'm pulling triple shifts—we're just trying to get through the next 90-120 days.\"",
-    "link": "https://cryptopanic.com/news/33437597/UPDATE-Cardano-ADA-Founder-Charles-Hoskinson-says-its-been-incredibly-difficult-to-find-some-spare-time-Im-waking-up-very-early-going-to-bed-very-late-and-Im-working-12-16-hours-a-day-cuz-Im-pulling-triple-shiftswere-just-trying-to-get-through-the-next-90-120-days",
-    "source": "@angrycryptoshow",
-    "published": "Wed Sep 23 2026 13:01:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tune in for the next Privacy Roundtable",
-    "link": "https://cryptopanic.com/news/33437609/Tune-in-for-the-next-Privacy-Roundtable",
-    "source": "medium.com/pivx",
-    "published": "Wed Sep 23 2026 13:01:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Midweek calendar check:\n\n295 events were added across 162 coins in the last 7 days.\n\n3 high-impact events are already on the calendar for the next 7 days. See what's coming: \n\nFor new events and breaking news, follow @cmcal_bot.",
-    "link": "https://cryptopanic.com/news/33437603/Midweek-calendar-check-295-events-were-added-across-162-coins-in-the-last-7-days-3-high-impact-events-are-already-on-the-calendar-for-the-next-7-days-See-whats-coming-For-new-events-and-breaking-news-follow-cmcal_bot",
-    "source": "@coinmarketcal",
-    "published": "Wed Sep 23 2026 13:00:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CFTC’s Selig names crypto and precious metals as candidates for 24/7 trading",
-    "link": "https://cryptopanic.com/news/33437493/CFTCs-Selig-names-crypto-and-precious-metals-as-candidates-for-247-trading",
-    "source": "cryptopolitan.com",
-    "published": "Wed Sep 23 2026 13:00:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The endpoint powering price displays at Coinbase and Yahoo Finance.\n\n /cryptocurrency/quotes/latest\n Price, volume, market cap, percent changes\n\n Good enough for their production, good enough for yours.\n\n️ Build with CMC (API)",
-    "link": "https://cryptopanic.com/news/33437415/The-endpoint-powering-price-displays-at-Coinbase-and-Yahoo-Finance-cryptocurrencyquoteslatest-Price-volume-market-cap-percent-changes-Good-enough-for-their-production-good-enough-for-yours-Build-with-CMC-API",
-    "source": "@coinmarketcap",
-    "published": "Wed Sep 23 2026 13:00:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Six Canadian Banks Explore Tokenized Deposit Initiative",
-    "link": "https://cryptopanic.com/news/33437408/Six-Canadian-Banks-Explore-Tokenized-Deposit-Initiative",
-    "source": "btcusa.com",
-    "published": "Wed Sep 23 2026 13:00:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Don't buy a token until you watch this #crypto #investing",
-    "link": "https://cryptopanic.com/news/33437527/Dont-buy-a-token-until-you-watch-this-crypto-investing",
-    "source": "MilkRoadYoutube",
-    "published": "Wed Sep 23 2026 13:00:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HISTORY JUST GOT MADE AS BLOCKCHAIN PROCESSED MORE TRADES IN A WEEK THAN THE NYSE FOR THE FIRST TIME EVER!\n\nThis reported news states @solana processed 208M trades compared to NYSE's 189M trades! $SOL\n\nIf true this is a HUEG shift and milestone. Blockchain markets are no longer",
-    "link": "https://cryptopanic.com/news/33437605/HISTORY-JUST-GOT-MADE-AS-BLOCKCHAIN-PROCESSED-MORE-TRADES-IN-A-WEEK-THAN-THE-NYSE-FOR-THE-FIRST-TIME-EVER-This-reported-news-states-solana-processed-208M-trades-compared-to-NYSEs-189M-trades-SOL-If-true-this-is-a-HUEG-shift-and-milestone-Blockchain-markets-are-no-longer",
-    "source": "@realallincrypto",
-    "published": "Wed Sep 23 2026 13:00:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Infosys Joins Chainlink to Bring Banking Onchain",
-    "link": "https://cryptopanic.com/news/33437440/Infosys-Joins-Chainlink-to-Bring-Banking-Onchain",
-    "source": "coinpaprika.com",
-    "published": "Wed Sep 23 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto economy fell just 1.6% in 12 months despite $2.1 trillion market cap rout, Chainalysis says",
-    "link": "https://cryptopanic.com/news/33437428/Crypto-economy-fell-just-16-in-12-months-despite-21-trillion-market-cap-rout-Chainalysis-says",
-    "source": "theblock.co",
-    "published": "Wed Sep 23 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stablecoin adoption intent rises from 36% to 56% with bank-level protections, Visa says",
-    "link": "https://cryptopanic.com/news/33437429/Stablecoin-adoption-intent-rises-from-36-to-56-with-bank-level-protections-Visa-says",
-    "source": "theblock.co",
-    "published": "Wed Sep 23 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: #Cardano $ADA Founder Charles Hoskinson says \"I'm looking forward to spending the majority of my time next year working on Midnight and Midnight City, and watching the CEOs and the portfolio do their thing.\"",
-    "link": "https://cryptopanic.com/news/33437594/UPDATE-Cardano-ADA-Founder-Charles-Hoskinson-says-Im-looking-forward-to-spending-the-majority-of-my-time-next-year-working-on-Midnight-and-Midnight-City-and-watching-the-CEOs-and-the-portfolio-do-their-thing",
-    "source": "@angrycryptoshow",
-    "published": "Wed Sep 23 2026 12:59:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Charles Hoskinson says \"you today can send a transaction on Midnight, using SNARKs, to send a transaction without revealing an address. You can do this today on the Midnight Network. Try it out, go to the preview network, get some testnet $NIGHT, and send it.\"",
-    "link": "https://cryptopanic.com/news/33437593/UPDATE-Charles-Hoskinson-says-you-today-can-send-a-transaction-on-Midnight-using-SNARKs-to-send-a-transaction-without-revealing-an-address-You-can-do-this-today-on-the-Midnight-Network-Try-it-out-go-to-the-preview-network-get-some-testnet-NIGHT-and-send-it",
-    "source": "@angrycryptoshow",
-    "published": "Wed Sep 23 2026 12:58:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Charles Hoskinson says \"this idea of frontier maps with Midnight City, once those are matured and working well, get those into the Midnight roadmap, so Midnight users can vote on the direction and focus of Midnight, and we get a much more productive governance system.\"",
-    "link": "https://cryptopanic.com/news/33437592/UPDATE-Charles-Hoskinson-says-this-idea-of-frontier-maps-with-Midnight-City-once-those-are-matured-and-working-well-get-those-into-the-Midnight-roadmap-so-Midnight-users-can-vote-on-the-direction-and-focus-of-Midnight-and-we-get-a-much-more-productive-governance-system",
-    "source": "@angrycryptoshow",
-    "published": "Wed Sep 23 2026 12:57:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Charles Hoskinson says \"every decision for Midnight City, we say \"what do we need to get to a million users, a million agents, and a commercial success? This is going to be our biggest bet in 2027, it's our fastest-growing product, there's already 12,000 people in it.\"",
-    "link": "https://cryptopanic.com/news/33437591/UPDATE-Charles-Hoskinson-says-every-decision-for-Midnight-City-we-say-what-do-we-need-to-get-to-a-million-users-a-million-agents-and-a-commercial-success-This-is-going-to-be-our-biggest-bet-in-2027-its-our-fastest-growing-product-theres-already-12000-people-in-it",
-    "source": "@angrycryptoshow",
-    "published": "Wed Sep 23 2026 12:57:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Pushes Above $1.60 as Network Activity Picks Up",
-    "link": "https://cryptopanic.com/news/33437418/XRP-Pushes-Above-160-as-Network-Activity-Picks-Up",
-    "source": "cryptopotato.com",
-    "published": "Wed Sep 23 2026 12:56:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🤖 Nvidia CEO Jensen Huang told CBS that AI is creating the first opportunity in 50-100 years to \"reindustrialize the United States.\"\n\n\"It's not manufacturing atoms — it's manufacturing electrons.\"",
-    "link": "https://cryptopanic.com/news/33437413/LATEST-Nvidia-CEO-Jensen-Huang-told-CBS-that-AI-is-creating-the-first-opportunity-in-50-100-years-to-reindustrialize-the-United-States-Its-not-manufacturing-atoms-its-manufacturing-electrons",
-    "source": "@coinmarketcap",
-    "published": "Wed Sep 23 2026 12:53:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Bitcoin ETF flows flipped positive year-to-date after $715M net buying on Tuesday.\n\n​$5.5B inflows since August.\n\n​Institutional appetite is officially back!",
-    "link": "https://cryptopanic.com/news/33437404/JUST-IN-Bitcoin-ETF-flows-flipped-positive-year-to-date-after-715M-net-buying-on-Tuesday-55B-inflows-since-August-Institutional-appetite-is-officially-back",
-    "source": "@btc_archive",
-    "published": "Wed Sep 23 2026 12:49:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trading expert predicts when Bitcoin can rally to $100,000",
-    "link": "https://cryptopanic.com/news/33437388/Trading-expert-predicts-when-Bitcoin-can-rally-to-100000",
-    "source": "finbold.com",
-    "published": "Wed Sep 23 2026 12:48:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "TRON Blockchain is generating the most revenue\n\n@Trondao leads other networks with $24.36M in revenue over the last 30 days.\n\nThis slightly edges out @BNBCHAIN, which earned $21.55M, and @Solana, with $20.63M, over the same period.\n\nThis suggests the future belongs to",
-    "link": "https://cryptopanic.com/news/33437377/TRON-Blockchain-is-generating-the-most-revenue-Trondao-leads-other-networks-with-2436M-in-revenue-over-the-last-30-days-This-slightly-edges-out-BNBCHAIN-which-earned-2155M-and-Solana-with-2063M-over-the-same-period-This-suggests-the-future-belongs-to",
-    "source": "@bscnews",
-    "published": "Wed Sep 23 2026 12:47:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nvidia-backed Firmus plans $7 billion ASX IPO, Australia’s second-largest",
-    "link": "https://cryptopanic.com/news/33437385/Nvidia-backed-Firmus-plans-7-billion-ASX-IPO-Australias-second-largest",
-    "source": "cryptopolitan.com",
-    "published": "Wed Sep 23 2026 12:45:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🧠 There are hundreds of high-impact crypto signals every day... You just don't know how to read them.\n\nThat ends when you sign up to @ElanInsights.\n\nElan Insights' Crypto News Feed sorts all developments into either 'Positive' or 'Negative' giving you a clear indication of which",
-    "link": "https://cryptopanic.com/news/33437376/There-are-hundreds-of-high-impact-crypto-signals-every-day-You-just-dont-know-how-to-read-them-That-ends-when-you-sign-up-to-ElanInsights-Elan-Insights-Crypto-News-Feed-sorts-all-developments-into-either-Positive-or-Negative-giving-you-a-clear-indication-of-which",
-    "source": "@bscnews",
-    "published": "Wed Sep 23 2026 12:44:00 GMT+0000 (Coordinated Universal Time)",
+    "title": "The SEC’s new 5-year exemption could let approved venues trade tokenized versions of up to 75 large-cap U.S. stocks onchain while preserving voting and dividend rights",
+    "link": "https://cryptopanic.com/news/33437736/The-SECs-new-5-year-exemption-could-let-approved-venues-trade-tokenized-versions-of-up-to-75-large-cap-US-stocks-onchain-while-preserving-voting-and-dividend-rights",
+    "source": "@solidintel_x",
+    "published": "Wed Sep 23 2026 13:05:32 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
