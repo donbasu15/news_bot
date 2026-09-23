@@ -1,5 +1,54 @@
 [
   {
+    "title": "Binance News: Binance Invests $100 Million in Circle Under New Five-Year USDC Deal",
+    "link": "https://cryptopanic.com/news/33435781/Binance-News-Binance-Invests-100-Million-in-Circle-Under-New-Five-Year-USDC-Deal",
+    "source": "thecoinrepublic.com",
+    "published": "Wed Sep 23 2026 08:35:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: BVNK added Stellar support for cross-border stablecoin payments through a single API.",
+    "link": "https://cryptopanic.com/news/33435754/LATEST-BVNK-added-Stellar-support-for-cross-border-stablecoin-payments-through-a-single-API",
+    "source": "@cointelegraph",
+    "published": "Wed Sep 23 2026 08:30:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Binance Buys $100 Million of Circle Stock, Renews USDC Deal",
+    "link": "https://cryptopanic.com/news/33435716/Binance-Buys-100-Million-of-Circle-Stock-Renews-USDC-Deal",
+    "source": "www.blockhead.co",
+    "published": "Wed Sep 23 2026 08:30:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum ETFs Pull In $270M As BlackRock Leads September 21 Rebound",
+    "link": "https://cryptopanic.com/news/33435766/Ethereum-ETFs-Pull-In-270M-As-BlackRock-Leads-September-21-Rebound",
+    "source": "newsbtc.com",
+    "published": "Wed Sep 23 2026 08:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Canada’s Big Six Banks Take Tokenized Deposits to the Next Stage\n\nCanada’s six largest banks are jointly exploring a Canadian dollar tokenized deposit system.\n\nThe project aims to move tokenized deposits efficiently across participating financial institutions. The banks say it",
+    "link": "https://cryptopanic.com/news/33435760/Canadas-Big-Six-Banks-Take-Tokenized-Deposits-to-the-Next-Stage-Canadas-six-largest-banks-are-jointly-exploring-a-Canadian-dollar-tokenized-deposit-system-The-project-aims-to-move-tokenized-deposits-efficiently-across-participating-financial-institutions-The-banks-say-it",
+    "source": "@bscnews",
+    "published": "Wed Sep 23 2026 08:20:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "AI-led investment is helping the global economy hold up marginally better than expected this year, but the energy shock is becoming more entrenched, weighing on the outlook for 2027, the OECD said. More here",
+    "link": "https://cryptopanic.com/news/33435757/AI-led-investment-is-helping-the-global-economy-hold-up-marginally-better-than-expected-this-year-but-the-energy-shock-is-becoming-more-entrenched-weighing-on-the-outlook-for-2027-the-OECD-said-More-here",
+    "source": "@reutersbiz",
+    "published": "Wed Sep 23 2026 08:17:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "WATCH: From a major exemption for tokenized stock trading to sanctions for a crypto exchange linked to Hormuz payments. Here are the most important crypto stories of the week",
+    "link": "https://cryptopanic.com/news/33435755/WATCH-From-a-major-exemption-for-tokenized-stock-trading-to-sanctions-for-a-crypto-exchange-linked-to-Hormuz-payments-Here-are-the-most-important-crypto-stories-of-the-week",
+    "source": "@reutersbiz",
+    "published": "Wed Sep 23 2026 08:15:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Anthropic slashes Claude Opus cost by 40% as speed jumps 30%",
     "link": "https://cryptopanic.com/news/33435701/Anthropic-slashes-Claude-Opus-cost-by-40-as-speed-jumps-30",
     "source": "en.cryptonomist.ch",
@@ -56,10 +105,31 @@
     "sentiment": "neutral"
   },
   {
+    "title": "David Schwartz Rejects Another XRP Secret Signal Theory\n\nCTO Emeritus at Ripple, David Schwartz’s (@JoelKatz) latest GIF has revived one of the XRP community’s longest running symbols.\n\nThe bagpipes are associated with Bearableguy123, whose cryptic posts spread widely years ago.",
+    "link": "https://cryptopanic.com/news/33435759/David-Schwartz-Rejects-Another-XRP-Secret-Signal-Theory-CTO-Emeritus-at-Ripple-David-Schwartzs-JoelKatz-latest-GIF-has-revived-one-of-the-XRP-communitys-longest-running-symbols-The-bagpipes-are-associated-with-Bearableguy123-whose-cryptic-posts-spread-widely-years-ago",
+    "source": "@bscnews",
+    "published": "Wed Sep 23 2026 08:03:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "XRP price targets stretch from $5 to $589 on diamond chart pattern",
     "link": "https://cryptopanic.com/news/33435698/XRP-price-targets-stretch-from-5-to-589-on-diamond-chart-pattern",
     "source": "en.cryptonomist.ch",
     "published": "Wed Sep 23 2026 08:02:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 ETF FLOWS: Spot ETFs across several crypto assets recorded net inflows on Sept. 22.\n\nBTC: $714.75M\nETH: $162.31M\nZEC: $32.81M\nSOL: $28.87M\nXRP: $20.02M\nLINK: $1.89M\nDOGE: $1.17M\nAVAX: $1.15M\nHBAR: $401.65K\nLTC: $152.85K",
+    "link": "https://cryptopanic.com/news/33435753/ETF-FLOWS-Spot-ETFs-across-several-crypto-assets-recorded-net-inflows-on-Sept-22-BTC-71475M-ETH-16231M-ZEC-3281M-SOL-2887M-XRP-2002M-LINK-189M-DOGE-117M-AVAX-115M-HBAR-40165K-LTC-15285K",
+    "source": "@cointelegraph",
+    "published": "Wed Sep 23 2026 08:01:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BINANCE JUST INVESTED $100 MILLION IN CIRCLE TO PUSH USDC DEEPER INTO EMERGING MARKETS.\n\nOne of the world’s biggest crypto exchange is backing one of the world’s biggest stablecoins as digital dollars spread globally. $BNB $CRCL",
+    "link": "https://cryptopanic.com/news/33435758/BINANCE-JUST-INVESTED-100-MILLION-IN-CIRCLE-TO-PUSH-USDC-DEEPER-INTO-EMERGING-MARKETS-One-of-the-worlds-biggest-crypto-exchange-is-backing-one-of-the-worlds-biggest-stablecoins-as-digital-dollars-spread-globally-BNB-CRCL",
+    "source": "@realallincrypto",
+    "published": "Wed Sep 23 2026 08:00:36 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -133,80 +203,10 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Avalanche Brings $1.3T Wellington Strategy Onchain\n\nMidas has launched mWIN and mGLOBAL on Avalanche (@avax), bringing two institutional strategies onchain.\n\nmWIN is linked to a multi-sector fixed income portfolio managed by Wellington Management. Wellington manages more than",
-    "link": "https://cryptopanic.com/news/33435537/Avalanche-Brings-13T-Wellington-Strategy-Onchain-Midas-has-launched-mWIN-and-mGLOBAL-on-Avalanche-avax-bringing-two-institutional-strategies-onchain-mWIN-is-linked-to-a-multi-sector-fixed-income-portfolio-managed-by-Wellington-Management-Wellington-manages-more-than",
-    "source": "@bscnews",
-    "published": "Wed Sep 23 2026 07:44:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Ledger retries upgrade that lets banks split payment and compliance duties",
-    "link": "https://cryptopanic.com/news/33435611/XRP-Ledger-retries-upgrade-that-lets-banks-split-payment-and-compliance-duties",
-    "source": "coindesk.com",
-    "published": "Wed Sep 23 2026 07:37:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Open interest on Hyperliquid has hit a record $18B.",
-    "link": "https://cryptopanic.com/news/33435516/NEW-Open-interest-on-Hyperliquid-has-hit-a-record-18B",
-    "source": "@cointelegraph",
-    "published": "Wed Sep 23 2026 07:30:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin At $80,000 Today Vs. Bitcoin At $80,000 in May: 'Very Different,' Says This Analyst",
-    "link": "https://cryptopanic.com/news/33435506/Bitcoin-At-80000-Today-Vs-Bitcoin-At-80000-in-May-Very-Different-Says-This-Analyst",
-    "source": "feeds2.benzinga.com",
-    "published": "Wed Sep 23 2026 07:30:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why did Stellar (@StellarOrg) and Ripple (@Ripple) split from the same roots? See Jed McCaleb's exit, their diverging tokenomics, & more",
-    "link": "https://cryptopanic.com/news/33435536/Why-did-Stellar-StellarOrg-and-Ripple-Ripple-split-from-the-same-roots-See-Jed-McCalebs-exit-their-diverging-tokenomics-amp-more",
-    "source": "@bscnews",
-    "published": "Wed Sep 23 2026 07:27:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ICYMI: ️ Binance extended bStocks margin collateral eligibility to all Cross Margin and Portfolio Margin accounts, broadening collateral options and capital flexibility for tokenized stock holders.",
-    "link": "https://cryptopanic.com/news/33435450/ICYMI-Binance-extended-bStocks-margin-collateral-eligibility-to-all-Cross-Margin-and-Portfolio-Margin-accounts-broadening-collateral-options-and-capital-flexibility-for-tokenized-stock-holders",
-    "source": "@coinmarketcap",
-    "published": "Wed Sep 23 2026 07:25:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Plume Takes Onchain Vault Rules Directly to the SEC\n\nPlume (@plumenetwork) met with the SEC on September 22 to discuss rules for onchain vaults.\n\nThe meeting followed a written submission outlining how vaults should fit within securities laws.\n\nCurators exercising investment",
-    "link": "https://cryptopanic.com/news/33435366/Plume-Takes-Onchain-Vault-Rules-Directly-to-the-SEC-Plume-plumenetwork-met-with-the-SEC-on-September-22-to-discuss-rules-for-onchain-vaults-The-meeting-followed-a-written-submission-outlining-how-vaults-should-fit-within-securities-laws-Curators-exercising-investment",
-    "source": "@bscnews",
-    "published": "Wed Sep 23 2026 07:08:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Arizona Resident Loses $48,000 in Romance Scam by Someone Posing as WWE Star Rhea Ripley’s Manager",
-    "link": "https://cryptopanic.com/news/33435374/Arizona-Resident-Loses-48000-in-Romance-Scam-by-Someone-Posing-as-WWE-Star-Rhea-Ripleys-Manager",
-    "source": "dailyhodl.com",
-    "published": "Wed Sep 23 2026 07:04:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The goal isn't to be in every move. It's to not miss the ones that actually matter.\n\nThat is why spot and chill is the way to do it for many. That is how you catch the big moves and not get shaken out in between.",
-    "link": "https://cryptopanic.com/news/33435362/The-goal-isnt-to-be-in-every-move-Its-to-not-miss-the-ones-that-actually-matter-That-is-why-spot-and-chill-is-the-way-to-do-it-for-many-That-is-how-you-catch-the-big-moves-and-not-get-shaken-out-in-between",
-    "source": "@daancrypto",
-    "published": "Wed Sep 23 2026 07:02:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: Meta has been quietly using human contractors to handle some phone calls made through its new AI agent Muse, raising privacy concerns among employees, per Reuters.",
-    "link": "https://cryptopanic.com/news/33435515/LATEST-Meta-has-been-quietly-using-human-contractors-to-handle-some-phone-calls-made-through-its-new-AI-agent-Muse-raising-privacy-concerns-among-employees-per-Reuters",
-    "source": "@cointelegraph",
-    "published": "Wed Sep 23 2026 07:01:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "THE ECB AND ALL 27 EU CENTRAL BANKS WANT TO RIP UP ONE OF MiCA’S BIGGEST STABLECOIN RULES!\n\nRight now, major stablecoin issuers must keep 60% of reserves in bank deposits. Europe’s central banks now want that requirement removed and more reserves held in highly liquid assets",
-    "link": "https://cryptopanic.com/news/33435364/THE-ECB-AND-ALL-27-EU-CENTRAL-BANKS-WANT-TO-RIP-UP-ONE-OF-MiCAS-BIGGEST-STABLECOIN-RULES-Right-now-major-stablecoin-issuers-must-keep-60-of-reserves-in-bank-deposits-Europes-central-banks-now-want-that-requirement-removed-and-more-reserves-held-in-highly-liquid-assets",
-    "source": "@realallincrypto",
-    "published": "Wed Sep 23 2026 07:00:36 GMT+0000 (Coordinated Universal Time)",
+    "title": "Bitcoin Is 37% Above Long-Term Holders' Cost Basis",
+    "link": "https://cryptopanic.com/news/33435787/Bitcoin-Is-37-Above-Long-Term-Holders-Cost-Basis",
+    "source": "axeladlerjr.com",
+    "published": "Wed Sep 23 2026 07:46:28 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
