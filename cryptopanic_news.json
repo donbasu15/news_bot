@@ -1,5 +1,47 @@
 [
   {
+    "title": "Nearly $20 million in XRP drained from 6,678 wallets across six attack waves",
+    "link": "https://cryptopanic.com/news/33439602/Nearly-20-million-in-XRP-drained-from-6678-wallets-across-six-attack-waves",
+    "source": "cryptoslate.com",
+    "published": "Wed Sep 23 2026 18:50:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: US Treasury is set to buy back up to $6B in longer-dated Treasuries Thursday, 3x the $2B size initially planned.",
+    "link": "https://cryptopanic.com/news/33439590/LATEST-US-Treasury-is-set-to-buy-back-up-to-6B-in-longer-dated-Treasuries-Thursday-3x-the-2B-size-initially-planned",
+    "source": "@cointelegraph",
+    "published": "Wed Sep 23 2026 18:46:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$15.6 Billion in Bitcoin Options Expire Friday—Here's What It Means",
+    "link": "https://cryptopanic.com/news/33439595/156-Billion-in-Bitcoin-Options-Expire-FridayHeres-What-It-Means",
+    "source": "decrypt.co",
+    "published": "Wed Sep 23 2026 18:46:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "From Bitcoin to Hyperliquid: Crypto’s Next Phase Is Already Here",
+    "link": "https://cryptopanic.com/news/33439603/From-Bitcoin-to-Hyperliquid-Cryptos-Next-Phase-Is-Already-Here",
+    "source": "MilkRoadYoutube",
+    "published": "Wed Sep 23 2026 18:45:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Aster DEX pushed $2.57B through its USD1 markets in a single week\n\n@Aster_DEX posted Epoch 3 results for its USD1 RWA Boost: 1,001 active accounts drove $2.57B in taker volume across seven real-world asset markets, from gold and oil to SpaceX.\n\nEpoch 4 runs through Sunday with",
+    "link": "https://cryptopanic.com/news/33439611/Aster-DEX-pushed-257B-through-its-USD1-markets-in-a-single-week-Aster_DEX-posted-Epoch-3-results-for-its-USD1-RWA-Boost-1001-active-accounts-drove-257B-in-taker-volume-across-seven-real-world-asset-markets-from-gold-and-oil-to-SpaceX-Epoch-4-runs-through-Sunday-with",
+    "source": "@bscnews",
+    "published": "Wed Sep 23 2026 18:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "HTX’s proof of reserves doesn’t match its blockchain balances",
+    "link": "https://cryptopanic.com/news/33439594/HTXs-proof-of-reserves-doesnt-match-its-blockchain-balances",
+    "source": "protos.com",
+    "published": "Wed Sep 23 2026 18:44:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Since the Fed Hike & Clarity lows, $BTC has taken in $2B+ in Spot ETF flows in just a few trading days.\n\nThis + shorts getting squeezed has been fuel for this recent $10K+ price rally.",
     "link": "https://cryptopanic.com/news/33439591/Since-the-Fed-Hike-amp-Clarity-lows-BTC-has-taken-in-2B-in-Spot-ETF-flows-in-just-a-few-trading-days-This-shorts-getting-squeezed-has-been-fuel-for-this-recent-10K-price-rally",
     "source": "@daancrypto",
@@ -11,6 +53,34 @@
     "link": "https://cryptopanic.com/news/33439563/XRPs-2-Bull-Case-Meets-a-13-To-22-Long-Term-Bid",
     "source": "dailycoin.com",
     "published": "Wed Sep 23 2026 18:40:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Falls Below $85,000 as 10-Year Yield Hits 19-Year High",
+    "link": "https://cryptopanic.com/news/33439597/Bitcoin-Falls-Below-85000-as-10-Year-Yield-Hits-19-Year-High",
+    "source": "feeds2.benzinga.com",
+    "published": "Wed Sep 23 2026 18:36:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The UK wants a live tokenized repo within a year, and Hedera just signed up to help build it. hedera-hashgraph:native gets a seat next to the big banks.",
+    "link": "https://cryptopanic.com/news/33439610/The-UK-wants-a-live-tokenized-repo-within-a-year-and-Hedera-just-signed-up-to-help-build-it-hedera-hashgraphnative-gets-a-seat-next-to-the-big-banks",
+    "source": "@bscnews",
+    "published": "Wed Sep 23 2026 18:36:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Economist drops warning on Michael Saylor’s next Bitcoin move",
+    "link": "https://cryptopanic.com/news/33439604/Economist-drops-warning-on-Michael-Saylors-next-Bitcoin-move",
+    "source": "thestreet.com",
+    "published": "Wed Sep 23 2026 18:36:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 US Treasury to buy back up to $6 billion in longer-term debt tomorrow.",
+    "link": "https://cryptopanic.com/news/33439618/JUST-IN-US-Treasury-to-buy-back-up-to-6-billion-in-longer-term-debt-tomorrow",
+    "source": "@watcherguru",
+    "published": "Wed Sep 23 2026 18:34:27 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -49,10 +119,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Miss a price vote on Terra Classic and your stake can get slashed. Here's how terra-luna:native validators set the chain's prices every 30 seconds ⬇️",
+    "link": "https://cryptopanic.com/news/33439609/Miss-a-price-vote-on-Terra-Classic-and-your-stake-can-get-slashed-Heres-how-terra-lunanative-validators-set-the-chains-prices-every-30-seconds",
+    "source": "@bscnews",
+    "published": "Wed Sep 23 2026 18:24:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: 🇺🇸 CFTC Chair Mike Selig says the agency is preparing for the \"era of onchain systems, mass tokenization, 24/7 trading, and agentic finance.\"",
     "link": "https://cryptopanic.com/news/33439544/JUST-IN-CFTC-Chair-Mike-Selig-says-the-agency-is-preparing-for-the-era-of-onchain-systems-mass-tokenization-247-trading-and-agentic-finance",
     "source": "@watcherguru",
     "published": "Wed Sep 23 2026 18:21:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "READ: The Quantum Issue - You Never Really Know The Future",
+    "link": "https://cryptopanic.com/news/33439615/READ-The-Quantum-Issue-You-Never-Really-Know-The-Future",
+    "source": "@bitcoinmagazine",
+    "published": "Wed Sep 23 2026 18:18:18 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -123,90 +207,6 @@
     "link": "https://cryptopanic.com/news/33439469/HUGE-CANADAS-BIGGEST-BANKS-ARE-BUILDING-TOKENISED-MONEY-AND-RBCS-HISTORY-WITH-RIPPLE-XRP-GOES-BACK-OVER-A-DECADE-Canada-discussed-Ripple-ALL-THE-WAY-BACK-in-2014-before-Royal-Bank-of-Canada-actually-trialled-XRP-for-cross-border-payments-in-2016-Now-they-are",
     "source": "@realallincrypto",
     "published": "Wed Sep 23 2026 18:00:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "US Business Activity Expands To Highest Level Since 2021",
-    "link": "https://cryptopanic.com/news/33439400/US-Business-Activity-Expands-To-Highest-Level-Since-2021",
-    "source": "catenaa.com",
-    "published": "Wed Sep 23 2026 18:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stablecoin inflows to Binance remain robust, and stablecoin inflows to Coinbase are rebounding\n\n“An upward trend driven by these two exchanges is once again underway.” – By @CW8900 \n\nAnalysis ⤵️",
-    "link": "https://cryptopanic.com/news/33439346/Stablecoin-inflows-to-Binance-remain-robust-and-stablecoin-inflows-to-Coinbase-are-rebounding-An-upward-trend-driven-by-these-two-exchanges-is-once-again-underway-By-CW8900-Analysis",
-    "source": "@cryptoquant_com",
-    "published": "Wed Sep 23 2026 17:59:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Top-10 European retail broker says Bitcoin rally is \"real but unfinished\" as Clarity Act stalls. \n\n• Spike in BTC futures open interest.\n\n• JPMorgan warns Strategy may sell BTC.\n\n• High inflation | Fed raises rates.\n\nDenmark's Saxo serves 1.2 million clients.",
-    "link": "https://cryptopanic.com/news/33439545/JUST-IN-Top-10-European-retail-broker-says-Bitcoin-rally-is-real-but-unfinished-as-Clarity-Act-stalls-Spike-in-BTC-futures-open-interest-JPMorgan-warns-Strategy-may-sell-BTC-High-inflation-Fed-raises-rates-Denmarks-Saxo-serves-12-million-clients",
-    "source": "@btc_archive",
-    "published": "Wed Sep 23 2026 17:57:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Nvidia $NVDA CEO Jensen Huang says scientists need to stop making AI doomer predictions.\n\n\"Just because it comes from a scientist doesn't make it scientific. Those predictions are hurtful.\"",
-    "link": "https://cryptopanic.com/news/33439543/JUST-IN-Nvidia-NVDA-CEO-Jensen-Huang-says-scientists-need-to-stop-making-AI-doomer-predictions-Just-because-it-comes-from-a-scientist-doesnt-make-it-scientific-Those-predictions-are-hurtful",
-    "source": "@watcherguru",
-    "published": "Wed Sep 23 2026 17:57:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ANALYSIS:  Altcoins are pulling ahead of Bitcoin across the market. Does this mean altcoin season is finally here?\n\nLet's dive in.",
-    "link": "https://cryptopanic.com/news/33439546/ANALYSIS-Altcoins-are-pulling-ahead-of-Bitcoin-across-the-market-Does-this-mean-altcoin-season-is-finally-here-Lets-dive-in",
-    "source": "@coinmarketcap",
-    "published": "Wed Sep 23 2026 17:54:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Santiago Capital CEO Brent Johnson says \"Bitcoin is the best pure play speculation on global liquidity\" and \"is here to stay.\" \n\n\"If the global monetary authorities print enough money, then Bitcoin can go a lot higher.\"",
-    "link": "https://cryptopanic.com/news/33439475/JUST-IN-Santiago-Capital-CEO-Brent-Johnson-says-Bitcoin-is-the-best-pure-play-speculation-on-global-liquidity-and-is-here-to-stay-If-the-global-monetary-authorities-print-enough-money-then-Bitcoin-can-go-a-lot-higher",
-    "source": "@bitcoinmagazine",
-    "published": "Wed Sep 23 2026 17:53:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BlackRock Maps Crypto’s Role in the AI Economy",
-    "link": "https://cryptopanic.com/news/33439552/BlackRock-Maps-Cryptos-Role-in-the-AI-Economy",
-    "source": "bankless.com",
-    "published": "Wed Sep 23 2026 17:50:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "YouTube packs Gemini AI into creator tools at Made on YouTube",
-    "link": "https://cryptopanic.com/news/33439332/YouTube-packs-Gemini-AI-into-creator-tools-at-Made-on-YouTube",
-    "source": "cryptopolitan.com",
-    "published": "Wed Sep 23 2026 17:45:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "At the airport, an elderly female passenger mistook the baggage carousel for a moving walkway and stepped onto it.",
-    "link": "https://cryptopanic.com/news/33439347/At-the-airport-an-elderly-female-passenger-mistook-the-baggage-carousel-for-a-moving-walkway-and-stepped-onto-it",
-    "source": "@cryptonwsuk",
-    "published": "Wed Sep 23 2026 17:43:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "FTX and Alameda Research still causing the effective altruists problems",
-    "link": "https://cryptopanic.com/news/33439298/FTX-and-Alameda-Research-still-causing-the-effective-altruists-problems",
-    "source": "protos.com",
-    "published": "Wed Sep 23 2026 17:42:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ledger users can now keep their Zcash private in Ledger's own app\n\n@Ledger added shielded @Zcash support to Ledger Wallet Desktop, with every transaction approved on the Ledger device. The private balance covers only $ZEC in Ironwood, the shielded pool that went live in July.",
-    "link": "https://cryptopanic.com/news/33439471/Ledger-users-can-now-keep-their-Zcash-private-in-Ledgers-own-app-Ledger-added-shielded-Zcash-support-to-Ledger-Wallet-Desktop-with-every-transaction-approved-on-the-Ledger-device-The-private-balance-covers-only-ZEC-in-Ironwood-the-shielded-pool-that-went-live-in-July",
-    "source": "@bscnews",
-    "published": "Wed Sep 23 2026 17:42:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin, Ethereum, XRP Slide as $18 Billion Options Expiry Looms: What’s Going On?",
-    "link": "https://cryptopanic.com/news/33439342/Bitcoin-Ethereum-XRP-Slide-as-18-Billion-Options-Expiry-Looms-Whats-Going-On",
-    "source": "feeds2.benzinga.com",
-    "published": "Wed Sep 23 2026 17:41:29 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
