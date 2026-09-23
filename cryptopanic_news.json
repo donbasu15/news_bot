@@ -1,5 +1,19 @@
 [
   {
+    "title": "BREAKING: Franklin Templeton says Bitcoin bull market is just starting. \n\n\"When you continue to see semi-bad news and the price keeps going up, you really need to pay attention.\"",
+    "link": "https://cryptopanic.com/news/33439070/BREAKING-Franklin-Templeton-says-Bitcoin-bull-market-is-just-starting-When-you-continue-to-see-semi-bad-news-and-the-price-keeps-going-up-you-really-need-to-pay-attention",
+    "source": "@btc_archive",
+    "published": "Wed Sep 23 2026 16:46:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ryanair CEO pledges not to hit passengers with fuel surcharge",
+    "link": "https://cryptopanic.com/news/33439042/Ryanair-CEO-pledges-not-to-hit-passengers-with-fuel-surcharge",
+    "source": "@reutersbiz",
+    "published": "Wed Sep 23 2026 16:45:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Sei wants finality that holds up even when validators fail...\n\n@Sei_Labs posted lab results for Hermes, the consensus protocol it plans to run on @SeiNetwork's Sei Giga. In the test, across 51 validators at 100,000 transactions per second, it hit median finality of 68",
     "link": "https://cryptopanic.com/news/33439047/Sei-wants-finality-that-holds-up-even-when-validators-fail-Sei_Labs-posted-lab-results-for-Hermes-the-consensus-protocol-it-plans-to-run-on-SeiNetworks-Sei-Giga-In-the-test-across-51-validators-at-100000-transactions-per-second-it-hit-median-finality-of-68",
     "source": "@bscnews",
@@ -18,6 +32,13 @@
     "link": "https://cryptopanic.com/news/33438984/When-a-Company-Goes-Public-Who-Actually-Gets-the-IPO-Money",
     "source": "coinpaper.com",
     "published": "Wed Sep 23 2026 16:36:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Dogecoin Gains 18% in a Week as ETF Inflows Return – What’s Next?",
+    "link": "https://cryptopanic.com/news/33439057/Dogecoin-Gains-18-in-a-Week-as-ETF-Inflows-Return-Whats-Next",
+    "source": "feeds2.benzinga.com",
+    "published": "Wed Sep 23 2026 16:36:23 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -186,27 +207,6 @@
     "link": "https://cryptopanic.com/news/33439043/AAVE-JUST-HIT-ANOTHER-MASSIVE-DEFI-MILESTONE-weETH-has-now-crossed-4-BILLION-in-deposits-on-Aave-V3-surging-from-around-16B-in-June-Billions-of-dollars-are-being-put-to-work-onchain-and-aave-is-increasingly-becoming-the-lending-backbone-of",
     "source": "@realallincrypto",
     "published": "Wed Sep 23 2026 16:00:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto's Evolution: Beyond Scams to Usable Innovation!",
-    "link": "https://cryptopanic.com/news/33438816/Cryptos-Evolution-Beyond-Scams-to-Usable-Innovation",
-    "source": "TheCryptoLark",
-    "published": "Wed Sep 23 2026 16:00:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why Did Bitcoin NOT Dump?!",
-    "link": "https://cryptopanic.com/news/33438821/Why-Did-Bitcoin-NOT-Dump",
-    "source": "CryptoTips",
-    "published": "Wed Sep 23 2026 16:00:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Morgan Stanley accidentally leaks internal document containing details of more than 100 investment banking deals. \n\nA Morgan Stanley employee mistakenly emailed an internal document revealing details on more than 100 investment-banking deals, primarily across Asia.\n\nThe",
-    "link": "https://cryptopanic.com/news/33438883/JUST-IN-Morgan-Stanley-accidentally-leaks-internal-document-containing-details-of-more-than-100-investment-banking-deals-A-Morgan-Stanley-employee-mistakenly-emailed-an-internal-document-revealing-details-on-more-than-100-investment-banking-deals-primarily-across-Asia-The",
-    "source": "@watcherguru",
-    "published": "Wed Sep 23 2026 16:00:19 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
