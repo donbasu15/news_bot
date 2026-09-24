@@ -1,5 +1,61 @@
 [
   {
+    "title": "UPDATE: Bitcoin holders have locked in $5.1B in net profit over the past week, a modest level closer to late 2023 than to past market tops, per @glassnode.",
+    "link": "https://cryptopanic.com/news/33442284/UPDATE-Bitcoin-holders-have-locked-in-51B-in-net-profit-over-the-past-week-a-modest-level-closer-to-late-2023-than-to-past-market-tops-per-glassnode",
+    "source": "@cointelegraph",
+    "published": "Thu Sep 24 2026 06:31:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Raiffeisen Bank International to Offer Crypto to 18 Million CEE Customers Through Bitpanda",
+    "link": "https://cryptopanic.com/news/33442303/Raiffeisen-Bank-International-to-Offer-Crypto-to-18-Million-CEE-Customers-Through-Bitpanda",
+    "source": "www.blockhead.co",
+    "published": "Thu Sep 24 2026 06:30:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "OCC Clears Three Digital Asset Trust Bank Plans",
+    "link": "https://cryptopanic.com/news/33442250/OCC-Clears-Three-Digital-Asset-Trust-Bank-Plans",
+    "source": "catenaa.com",
+    "published": "Thu Sep 24 2026 06:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Coinbase Scammer Gets Jail Time After Stealing Nearly $16 Million From Users",
+    "link": "https://cryptopanic.com/news/33442314/Coinbase-Scammer-Gets-Jail-Time-After-Stealing-Nearly-16-Million-From-Users",
+    "source": "u.today",
+    "published": "Thu Sep 24 2026 06:29:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Total transaction volume on #Tron has officially surpassed $30 trillion, with over $30 billion in daily volume.",
+    "link": "https://cryptopanic.com/news/33442353/Total-transaction-volume-on-Tron-has-officially-surpassed-30-trillion-with-over-30-billion-in-daily-volume",
+    "source": "@lookonchain",
+    "published": "Thu Sep 24 2026 06:24:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Washington May Use Stablecoins to Extend Dollar Reach",
+    "link": "https://cryptopanic.com/news/33442240/Washington-May-Use-Stablecoins-to-Extend-Dollar-Reach",
+    "source": "coindoo.com",
+    "published": "Thu Sep 24 2026 06:22:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "South Africa risks losing future vehicle production to Asian rivals as global automakers decide where to build the next generation of electric vehicles, despite a new government tax incentive aimed at attracting investment, executives say. More here",
+    "link": "https://cryptopanic.com/news/33442287/South-Africa-risks-losing-future-vehicle-production-to-Asian-rivals-as-global-automakers-decide-where-to-build-the-next-generation-of-electric-vehicles-despite-a-new-government-tax-incentive-aimed-at-attracting-investment-executives-say-More-here",
+    "source": "@reutersbiz",
+    "published": "Thu Sep 24 2026 06:20:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Who is Sergey Nazarov (@SergeyNazarov)? The Chainlink (@Chainlink) co-founder's background, how CCIP connects banks to blockchains, & more",
+    "link": "https://cryptopanic.com/news/33442288/Who-is-Sergey-Nazarov-SergeyNazarov-The-Chainlink-Chainlink-co-founders-background-how-CCIP-connects-banks-to-blockchains-amp-more",
+    "source": "@bscnews",
+    "published": "Thu Sep 24 2026 06:19:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "MoonPay targets $8.7B trading venue, but the features remain unrevealed",
     "link": "https://cryptopanic.com/news/33442180/MoonPay-targets-87B-trading-venue-but-the-features-remain-unrevealed",
     "source": "cryptoslate.com",
@@ -7,10 +63,31 @@
     "sentiment": "neutral"
   },
   {
+    "title": "India proposes banning junk food sales in school canteens and within 50 meters of schools to curb rising obesity and diabetes rates among children. More here",
+    "link": "https://cryptopanic.com/news/33442286/India-proposes-banning-junk-food-sales-in-school-canteens-and-within-50-meters-of-schools-to-curb-rising-obesity-and-diabetes-rates-among-children-More-here",
+    "source": "@reutersbiz",
+    "published": "Thu Sep 24 2026 06:10:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "History suggests US stocks are poised for weakness as the Federal Reserve starts raising interest rates, but investors trying to gauge the ultimate market fallout are focused on how aggressively the central bank hikes and the economy's response. More here",
+    "link": "https://cryptopanic.com/news/33442285/History-suggests-US-stocks-are-poised-for-weakness-as-the-Federal-Reserve-starts-raising-interest-rates-but-investors-trying-to-gauge-the-ultimate-market-fallout-are-focused-on-how-aggressively-the-central-bank-hikes-and-the-economys-response-More-here",
+    "source": "@reutersbiz",
+    "published": "Thu Sep 24 2026 06:09:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Dogecoin, Shiba Inu Rallied, but Pudgy Penguins Waddled Past the Dogs With 38% Weekly Returns",
     "link": "https://cryptopanic.com/news/33442234/Dogecoin-Shiba-Inu-Rallied-but-Pudgy-Penguins-Waddled-Past-the-Dogs-With-38-Weekly-Returns",
     "source": "feeds2.benzinga.com",
     "published": "Thu Sep 24 2026 06:03:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "After a one-week break, #MulticoinCapital deposited another 130,331 $HYPE ($12.15M) into #CoinbasePrime.\n\nSince July 28, #MulticoinCapital has deposited a total of 4.23M $HYPE ($285M) into #CoinbasePrime.",
+    "link": "https://cryptopanic.com/news/33442352/After-a-one-week-break-MulticoinCapital-deposited-another-130331-HYPE-1215M-into-CoinbasePrime-Since-July-28-MulticoinCapital-has-deposited-a-total-of-423M-HYPE-285M-into-CoinbasePrime",
+    "source": "@lookonchain",
+    "published": "Thu Sep 24 2026 06:02:50 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -25,6 +102,13 @@
     "link": "https://cryptopanic.com/news/33442223/Nexo-Report-67-of-Affluent-Investors-Own-Crypto-Only-47-Deeply-Integrated-Nexos-Future-of-Digital-Wealth-2026-report-surveyed-1000-affluent-investors-across-three-countries-About-67-own-crypto-but-only-47-are-deeply-integrated-users-Nearly-20-expect-crypto-to-be",
     "source": "@wublockchain",
     "published": "Thu Sep 24 2026 06:02:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: Google is close to launching its next flagship AI model, Gemini 4, as it looks to catch up with Anthropic and OpenAI, according to the head of its DeepMind division.",
+    "link": "https://cryptopanic.com/news/33442283/LATEST-Google-is-close-to-launching-its-next-flagship-AI-model-Gemini-4-as-it-looks-to-catch-up-with-Anthropic-and-OpenAI-according-to-the-head-of-its-DeepMind-division",
+    "source": "@cointelegraph",
+    "published": "Thu Sep 24 2026 06:01:12 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -105,6 +189,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "A week of AI coding cut a quantum-safe bitcoin transaction estimate from $320 to $66",
+    "link": "https://cryptopanic.com/news/33442304/A-week-of-AI-coding-cut-a-quantum-safe-bitcoin-transaction-estimate-from-320-to-66",
+    "source": "coindesk.com",
+    "published": "Thu Sep 24 2026 05:24:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Jim Cramer Preaches Discipline, So Why Do ‘Inverse Cramer' Traders Doubt Him?",
     "link": "https://cryptopanic.com/news/33442231/Jim-Cramer-Preaches-Discipline-So-Why-Do-Inverse-Cramer-Traders-Doubt-Him",
     "source": "beincrypto.com",
@@ -116,97 +207,6 @@
     "link": "https://cryptopanic.com/news/33441881/Melania-Trump-urges-AI-vigilance-as-US-China-tech-race-intensifies",
     "source": "cryptopolitan.com",
     "published": "Thu Sep 24 2026 05:23:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "2027-28 FAFSA Is Now Open Early: What You Need to Know",
-    "link": "https://cryptopanic.com/news/33441873/2027-28-FAFSA-Is-Now-Open-Early-What-You-Need-to-Know",
-    "source": "coinpaper.com",
-    "published": "Thu Sep 24 2026 05:22:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Options Show Rare Bullish Demand\n\nripple:native options are showing unusually strong demand for upside exposure, according to Coinbase Markets.\n\nThe one-week 25-delta call-minus-put skew has climbed to 9.3 volatility points. This means traders are paying more for comparable",
-    "link": "https://cryptopanic.com/news/33442062/XRP-Options-Show-Rare-Bullish-Demand-ripplenative-options-are-showing-unusually-strong-demand-for-upside-exposure-according-to-Coinbase-Markets-The-one-week-25-delta-call-minus-put-skew-has-climbed-to-93-volatility-points-This-means-traders-are-paying-more-for-comparable",
-    "source": "@bscnews",
-    "published": "Thu Sep 24 2026 05:20:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Brazil Outranks US in Crypto Adoption During Worst Bear Market Since 2022",
-    "link": "https://cryptopanic.com/news/33441933/Brazil-Outranks-US-in-Crypto-Adoption-During-Worst-Bear-Market-Since-2022",
-    "source": "beincrypto.com",
-    "published": "Thu Sep 24 2026 05:07:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇪🇺 Raiffeisen Bank International is partnering with Bitpanda to potentially bring crypto trading to its network of banks across 11 European markets that serve 18 million customers.",
-    "link": "https://cryptopanic.com/news/33441921/LATEST-Raiffeisen-Bank-International-is-partnering-with-Bitpanda-to-potentially-bring-crypto-trading-to-its-network-of-banks-across-11-European-markets-that-serve-18-million-customers",
-    "source": "@coinmarketcap",
-    "published": "Thu Sep 24 2026 05:05:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: President Trump bought up to $100,000 worth of Strategy shares in July, according to a new ethics filing.",
-    "link": "https://cryptopanic.com/news/33442046/LATEST-President-Trump-bought-up-to-100000-worth-of-Strategy-shares-in-July-according-to-a-new-ethics-filing",
-    "source": "@cointelegraph",
-    "published": "Thu Sep 24 2026 05:01:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "𝕏 Money is reportedly now available to all eligible US users without requiring an 𝕏 subscription.\n\nPer reports, US users can now earn 4% APY as standard. Eligible deposits or creator payouts can unlock 6% APY.\n\nThe rollout also includes cashback, free wires, ATM fee",
-    "link": "https://cryptopanic.com/news/33441859/X-Money-is-reportedly-now-available-to-all-eligible-US-users-without-requiring-an-X-subscription-Per-reports-US-users-can-now-earn-4-APY-as-standard-Eligible-deposits-or-creator-payouts-can-unlock-6-APY-The-rollout-also-includes-cashback-free-wires-ATM-fee",
-    "source": "@bscnews",
-    "published": "Thu Sep 24 2026 05:01:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "RedotPay builds U.S lending footprint as crypto credit market reaches $56.16B",
-    "link": "https://cryptopanic.com/news/33441806/RedotPay-builds-US-lending-footprint-as-crypto-credit-market-reaches-5616B",
-    "source": "ambcrypto.com",
-    "published": "Thu Sep 24 2026 05:00:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Supertanker Shortage Starts Reshaping Global Oil Trade",
-    "link": "https://cryptopanic.com/news/33441768/Supertanker-Shortage-Starts-Reshaping-Global-Oil-Trade",
-    "source": "catenaa.com",
-    "published": "Thu Sep 24 2026 05:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hyperliquid Address 0x4e23 Closes HYPE Long Position and Keeps Spot and Staked Holdings",
-    "link": "https://cryptopanic.com/news/33441756/Hyperliquid-Address-0x4e23-Closes-HYPE-Long-Position-and-Keeps-Spot-and-Staked-Holdings",
-    "source": "square.binance.com",
-    "published": "Thu Sep 24 2026 04:49:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UK banks settle first interbank tokenised deposits in bet against stablecoins",
-    "link": "https://cryptopanic.com/news/33441685/UK-banks-settle-first-interbank-tokenised-deposits-in-bet-against-stablecoins",
-    "source": "cryptopolitan.com",
-    "published": "Thu Sep 24 2026 04:48:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SMBC Nikko Securities Sees Bank of Japan Rate Hikes Every Four to Five Months",
-    "link": "https://cryptopanic.com/news/33441755/SMBC-Nikko-Securities-Sees-Bank-of-Japan-Rate-Hikes-Every-Four-to-Five-Months",
-    "source": "square.binance.com",
-    "published": "Thu Sep 24 2026 04:45:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BLACKROCK’S TWO $ETH ETFs JUST BOUGHT $1.01 BILLION IN $ETH IN ONLY 20 TRADING DAYS!\n\nOver $1 BILLION of Ethereum absorbed by one asset-management giant in less than a month.\n\nThe markets look to be turning BULLISH on all fronts!",
-    "link": "https://cryptopanic.com/news/33441855/BLACKROCKS-TWO-ETH-ETFs-JUST-BOUGHT-101-BILLION-IN-ETH-IN-ONLY-20-TRADING-DAYS-Over-1-BILLION-of-Ethereum-absorbed-by-one-asset-management-giant-in-less-than-a-month-The-markets-look-to-be-turning-BULLISH-on-all-fronts",
-    "source": "@realallincrypto",
-    "published": "Thu Sep 24 2026 04:45:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Blockchain.com Signs MOU to Distribute Tokenized NYSE Stocks, ETFs",
-    "link": "https://cryptopanic.com/news/33441672/Blockchaincom-Signs-MOU-to-Distribute-Tokenized-NYSE-Stocks-ETFs",
-    "source": "www.blockhead.co",
-    "published": "Thu Sep 24 2026 04:44:54 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
