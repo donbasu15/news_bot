@@ -1,5 +1,82 @@
 [
   {
+    "title": "It's money making season!",
+    "link": "https://cryptopanic.com/news/33446159/Its-money-making-season",
+    "source": "@realallincrypto",
+    "published": "Thu Sep 24 2026 16:40:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "‘You are still early’: Inside 4-stage machine behind Gen Z’s crypto FOMO",
+    "link": "https://cryptopanic.com/news/33446044/You-are-still-early-Inside-4-stage-machine-behind-Gen-Zs-crypto-FOMO",
+    "source": "ambcrypto.com",
+    "published": "Thu Sep 24 2026 16:35:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 LATEST: New York files a lawsuit against Polymarket on Thursday, alleging its decentralized prediction market runs illegal gambling.",
+    "link": "https://cryptopanic.com/news/33446156/LATEST-New-York-files-a-lawsuit-against-Polymarket-on-Thursday-alleging-its-decentralized-prediction-market-runs-illegal-gambling",
+    "source": "@cointelegraph",
+    "published": "Thu Sep 24 2026 16:31:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ai made this 3min clip of world’s Monetary History. \n\nBrilliant 🫡 @bradmillscan",
+    "link": "https://cryptopanic.com/news/33446029/Ai-made-this-3min-clip-of-worlds-Monetary-History-Brilliant-bradmillscan",
+    "source": "@btc_archive",
+    "published": "Thu Sep 24 2026 16:31:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Bitcoin open interest jumped 23% in two months, triggering leverage fears.\n\nHowever, $47B remains well below Oct. 2025 levels.\n\nCalling the $87k rally derivatives-driven makes no sense: ETFs just bought $2.6B in 5 days!",
+    "link": "https://cryptopanic.com/news/33446028/JUST-IN-Bitcoin-open-interest-jumped-23-in-two-months-triggering-leverage-fears-However-47B-remains-well-below-Oct-2025-levels-Calling-the-87k-rally-derivatives-driven-makes-no-sense-ETFs-just-bought-26B-in-5-days",
+    "source": "@btc_archive",
+    "published": "Thu Sep 24 2026 16:26:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  ARK Invest's Cathie Wood says investors may want to consider shifting away from the classic 60/40 portfolio toward more equities and perhaps Bitcoin as AI drives a productivity supercycle.",
+    "link": "https://cryptopanic.com/news/33446031/LATEST-ARK-Invests-Cathie-Wood-says-investors-may-want-to-consider-shifting-away-from-the-classic-6040-portfolio-toward-more-equities-and-perhaps-Bitcoin-as-AI-drives-a-productivity-supercycle",
+    "source": "@coinmarketcap",
+    "published": "Thu Sep 24 2026 16:25:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "New York moves to block Polymarket from the state, alleging it’s running an illegal gambling operation",
+    "link": "https://cryptopanic.com/news/33445991/New-York-moves-to-block-Polymarket-from-the-state-alleging-its-running-an-illegal-gambling-operation",
+    "source": "theblock.co",
+    "published": "Thu Sep 24 2026 16:25:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Just Did Something Very Important",
+    "link": "https://cryptopanic.com/news/33445976/BITCOIN-JUST-DID-SOMETHING-VERY-IMPORTANT",
+    "source": "DataDash",
+    "published": "Thu Sep 24 2026 16:17:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bloomberg analyst sends 2008 WTI oil warning on Bitcoin",
+    "link": "https://cryptopanic.com/news/33446056/Bloomberg-analyst-sends-2008-WTI-oil-warning-on-Bitcoin",
+    "source": "thestreet.com",
+    "published": "Thu Sep 24 2026 16:17:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BTC Macro, Geopolitics, Bond Market Volatility | BMTV Sep. 25, 2026",
+    "link": "https://cryptopanic.com/news/33445985/BTC-Macro-Geopolitics-Bond-Market-Volatility-BMTV-Sep-25-2026",
+    "source": "BitcoinMagazine",
+    "published": "Thu Sep 24 2026 16:16:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "2 Major On-Chain Signals Are Testing the Strength of Bitcoin’s Rally",
+    "link": "https://cryptopanic.com/news/33445980/2-Major-On-Chain-Signals-Are-Testing-the-Strength-of-Bitcoins-Rally",
+    "source": "cryptopotato.com",
+    "published": "Thu Sep 24 2026 16:16:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Private cross-chain transfers are coming to LayerZero...\n\n@LayerZero_Core is building an integration with @TACEO_IO so private balances can move between networks, with both the participants and the transfer size shielded in transit. \n\nIt plugs into TACEO's Merces privacy layer,",
     "link": "https://cryptopanic.com/news/33445953/Private-cross-chain-transfers-are-coming-to-LayerZero-LayerZero_Core-is-building-an-integration-with-TACEO_IO-so-private-balances-can-move-between-networks-with-both-the-participants-and-the-transfer-size-shielded-in-transit-It-plugs-into-TACEOs-Merces-privacy-layer",
     "source": "@bscnews",
@@ -7,10 +84,45 @@
     "sentiment": "neutral"
   },
   {
+    "title": "VanEck drops a surprising Bitcoin-bond correlation reality check",
+    "link": "https://cryptopanic.com/news/33446034/VanEck-drops-a-surprising-Bitcoin-bond-correlation-reality-check",
+    "source": "thestreet.com",
+    "published": "Thu Sep 24 2026 16:14:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: Crypto casino Duelbits goes offline after $7 million hot wallet hack.\n\nMost of the stolen assets were swapped to ether and consolidated into one address holding about 2,234 ETH, worth roughly $6 million, which has not moved.",
+    "link": "https://cryptopanic.com/news/33446153/LATEST-Crypto-casino-Duelbits-goes-offline-after-7-million-hot-wallet-hack-Most-of-the-stolen-assets-were-swapped-to-ether-and-consolidated-into-one-address-holding-about-2234-ETH-worth-roughly-6-million-which-has-not-moved",
+    "source": "@coindesk",
+    "published": "Thu Sep 24 2026 16:14:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Trading in Korea Is Now Bigger Than in U.S., With Even Coinbase Behind",
+    "link": "https://cryptopanic.com/news/33445990/XRP-Trading-in-Korea-Is-Now-Bigger-Than-in-US-With-Even-Coinbase-Behind",
+    "source": "u.today",
+    "published": "Thu Sep 24 2026 16:11:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: SEC Commissioner Hester Peirce says zero-knowledge proofs could verify compliance without collecting users’ personal data.\n\nShe warns current KYC/AML practices create “data haystacks.”",
+    "link": "https://cryptopanic.com/news/33446155/LATEST-SEC-Commissioner-Hester-Peirce-says-zero-knowledge-proofs-could-verify-compliance-without-collecting-users-personal-data-She-warns-current-KYCAML-practices-create-data-haystacks",
+    "source": "@cointelegraph",
+    "published": "Thu Sep 24 2026 16:10:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: @Bin_superapp is now live, bringing a Fomo-like trading experience to BNB Chain.\n\nBinancians combines an advanced terminal, multi-chain launchpad, leverage and social trading in one app",
     "link": "https://cryptopanic.com/news/33445952/JUST-IN-Bin_superapp-is-now-live-bringing-a-Fomo-like-trading-experience-to-BNB-Chain-Binancians-combines-an-advanced-terminal-multi-chain-launchpad-leverage-and-social-trading-in-one-app",
     "source": "@bscnews",
     "published": "Thu Sep 24 2026 16:10:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "WATCH: As the cost of the US government's long-term borrowing reaches its highest since 2004, economist Gregory Daco of EY-Parthenon tells Reuters bond yields also reflect high energy prices that the Fed can't control, and policymakers should be careful of hiking rates too far",
+    "link": "https://cryptopanic.com/news/33446157/WATCH-As-the-cost-of-the-US-governments-long-term-borrowing-reaches-its-highest-since-2004-economist-Gregory-Daco-of-EY-Parthenon-tells-Reuters-bond-yields-also-reflect-high-energy-prices-that-the-Fed-cant-control-and-policymakers-should-be-careful-of-hiking-rates-too-far",
+    "source": "@reutersbiz",
+    "published": "Thu Sep 24 2026 16:10:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -84,129 +196,17 @@
     "sentiment": "neutral"
   },
   {
+    "title": "OpenZeppelin Integrates with TRON to Bring Its Security Standard to the Network",
+    "link": "https://cryptopanic.com/news/33446045/OpenZeppelin-Integrates-with-TRON-to-Bring-Its-Security-Standard-to-the-Network",
+    "source": "beincrypto.com",
+    "published": "Thu Sep 24 2026 16:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "IBM Expands Digital Asset Platform With Swift Ledger Integration",
     "link": "https://cryptopanic.com/news/33445883/IBM-Expands-Digital-Asset-Platform-With-Swift-Ledger-Integration",
     "source": "cryptoprowl.com",
     "published": "Thu Sep 24 2026 15:55:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ICYMI: ZCash Co-Founder made a bold prediction about $ZEC price in 2026. \n\nIs $5,000 realistic for the privacy coin?",
-    "link": "https://cryptopanic.com/news/33445951/ICYMI-ZCash-Co-Founder-made-a-bold-prediction-about-ZEC-price-in-2026-Is-5000-realistic-for-the-privacy-coin",
-    "source": "@bscnews",
-    "published": "Thu Sep 24 2026 15:52:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Global Macro, AI Market Impacts, Bitcoin VC | BMTV Sep. 24, 2026",
-    "link": "https://cryptopanic.com/news/33438900/Global-Macro-AI-Market-Impacts-Bitcoin-VC-BMTV-Sep-24-2026",
-    "source": "BitcoinMagazine",
-    "published": "Thu Sep 24 2026 15:51:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Cardano Foundation CEO Frederik Gregaard on integrating Fireblocks, says he's \"excited to finally align Cardano Native Tokens with $ADA, and bring unprecedented distribution to builders on Cardano,\" providing \"some of the largest opportunities right now\" via Fireblocks.",
-    "link": "https://cryptopanic.com/news/33445813/JUST-IN-Cardano-Foundation-CEO-Frederik-Gregaard-on-integrating-Fireblocks-says-hes-excited-to-finally-align-Cardano-Native-Tokens-with-ADA-and-bring-unprecedented-distribution-to-builders-on-Cardano-providing-some-of-the-largest-opportunities-right-now-via-Fireblocks",
-    "source": "@angrycryptoshow",
-    "published": "Thu Sep 24 2026 15:50:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ NEW: Tether CEO Paolo Ardoino says USDT is coming to Bitcoin.",
-    "link": "https://cryptopanic.com/news/33445817/NEW-Tether-CEO-Paolo-Ardoino-says-USDT-is-coming-to-Bitcoin",
-    "source": "@cointelegraph",
-    "published": "Thu Sep 24 2026 15:48:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Cardano Foundation CEO Frederik Gregaard on $ADA's advanced integration with Fireblocks, says \"institutions rarely adopt a new asset on its own. Adoption happens through trusted infrastructure.\"",
-    "link": "https://cryptopanic.com/news/33445809/JUST-IN-Cardano-Foundation-CEO-Frederik-Gregaard-on-ADAs-advanced-integration-with-Fireblocks-says-institutions-rarely-adopt-a-new-asset-on-its-own-Adoption-happens-through-trusted-infrastructure",
-    "source": "@angrycryptoshow",
-    "published": "Thu Sep 24 2026 15:48:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto casino Duelbits goes offline after $7 million hot wallet hack",
-    "link": "https://cryptopanic.com/news/33445878/Crypto-casino-Duelbits-goes-offline-after-7-million-hot-wallet-hack",
-    "source": "coindesk.com",
-    "published": "Thu Sep 24 2026 15:48:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BlackRock to Tokenize Three Investment Portfolios Through Ondo Finance",
-    "link": "https://cryptopanic.com/news/33445808/BlackRock-to-Tokenize-Three-Investment-Portfolios-Through-Ondo-Finance",
-    "source": "cryptoprowl.com",
-    "published": "Thu Sep 24 2026 15:48:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: The Bitcoin Standard author Saifedean Ammous says Bitcoin needs to hit ~$150,000 before the next halving to surpass previous-era mining rewards",
-    "link": "https://cryptopanic.com/news/33445780/JUST-IN-The-Bitcoin-Standard-author-Saifedean-Ammous-says-Bitcoin-needs-to-hit-150000-before-the-next-halving-to-surpass-previous-era-mining-rewards",
-    "source": "@bitcoinmagazine",
-    "published": "Thu Sep 24 2026 15:47:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Matter of time before ethereum:0x4a220e6096b25eadb88358cb44068a3248254675 hits $1000...",
-    "link": "https://cryptopanic.com/news/33445947/Matter-of-time-before-ethereum0x4a220e6096b25eadb88358cb44068a3248254675-hits-1000",
-    "source": "@realallincrypto",
-    "published": "Thu Sep 24 2026 15:44:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW Report CONFIRMS Wall Street is Going to FORCE Bitcoin to EXPLODE! | EP 1599",
-    "link": "https://cryptopanic.com/news/33445805/NEW-Report-CONFIRMS-Wall-Street-is-Going-to-FORCE-Bitcoin-to-EXPLODE-EP-1599",
-    "source": "SimplyBitcoin",
-    "published": "Thu Sep 24 2026 15:44:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Circle (@Circle)'s $USDC is coming to Bitcoin via @AlpenLabs. \n\nBTC holders can borrow, lend, & trade without selling their Bitcoin holdings.",
-    "link": "https://cryptopanic.com/news/33445950/Circle-Circles-USDC-is-coming-to-Bitcoin-via-AlpenLabs-BTC-holders-can-borrow-lend-amp-trade-without-selling-their-Bitcoin-holdings",
-    "source": "@bscnews",
-    "published": "Thu Sep 24 2026 15:44:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 US 10-year Treasury yield hits highest level since July 2007.",
-    "link": "https://cryptopanic.com/news/33445782/JUST-IN-US-10-year-Treasury-yield-hits-highest-level-since-July-2007",
-    "source": "@watcherguru",
-    "published": "Thu Sep 24 2026 15:43:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BlackRock loads up on over $1.5 billion of these two cryptocurrencies in 5 days",
-    "link": "https://cryptopanic.com/news/33445719/BlackRock-loads-up-on-over-15-billion-of-these-two-cryptocurrencies-in-5-days",
-    "source": "finbold.com",
-    "published": "Thu Sep 24 2026 15:39:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "With all eyes on the CLARITY Act, @austincampbell argues the market is watching the wrong bill and says stablecoin implementation under the GENIUS Act will be the force that pulls the rest of crypto forward.",
-    "link": "https://cryptopanic.com/news/33445814/With-all-eyes-on-the-CLARITY-Act-austincampbell-argues-the-market-is-watching-the-wrong-bill-and-says-stablecoin-implementation-under-the-GENIUS-Act-will-be-the-force-that-pulls-the-rest-of-crypto-forward",
-    "source": "@coindesk",
-    "published": "Thu Sep 24 2026 15:38:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "What are Ondo Finance's Intelligent Portfolios?\n\n@Ondo Finance has just launched its own product category of the onchain asset class: \n\nProfessionally curated, multi-asset investment portfolios packaged in a single transferable token. \n\nInstead of manually buying, allocating, and",
-    "link": "https://cryptopanic.com/news/33445949/What-are-Ondo-Finances-Intelligent-Portfolios-Ondo-Finance-has-just-launched-its-own-product-category-of-the-onchain-asset-class-Professionally-curated-multi-asset-investment-portfolios-packaged-in-a-single-transferable-token-Instead-of-manually-buying-allocating-and",
-    "source": "@bscnews",
-    "published": "Thu Sep 24 2026 15:36:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Binance Lists Hyperliquid HYPE for Spot Trading – Here Is What Traders Should Know",
-    "link": "https://cryptopanic.com/news/33445716/Binance-Lists-Hyperliquid-HYPE-for-Spot-Trading-Here-Is-What-Traders-Should-Know",
-    "source": "blocknews.com",
-    "published": "Thu Sep 24 2026 15:36:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hedera so well suited for what BlackRock are sounding the alarm on, already working with Intel, NVIDIA, Dell, Google, IBM and many more hedera-hashgraph:native",
-    "link": "https://cryptopanic.com/news/33445946/Hedera-so-well-suited-for-what-BlackRock-are-sounding-the-alarm-on-already-working-with-Intel-NVIDIA-Dell-Google-IBM-and-many-more-hedera-hashgraphnative",
-    "source": "@realallincrypto",
-    "published": "Thu Sep 24 2026 15:35:15 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
