@@ -1,5 +1,89 @@
 [
   {
+    "title": "Bitget 'Potentially Hacked' as $183 Million Vanishes From Exchange Wallets",
+    "link": "https://cryptopanic.com/news/33447251/Bitget-Potentially-Hacked-as-183-Million-Vanishes-From-Exchange-Wallets",
+    "source": "decrypt.co",
+    "published": "Thu Sep 24 2026 21:15:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Bitget crypto exchange reportedly hacked with over $170,000,000 stolen.",
+    "link": "https://cryptopanic.com/news/33447241/JUST-IN-Bitget-crypto-exchange-reportedly-hacked-with-over-170000000-stolen",
+    "source": "@watcherguru",
+    "published": "Thu Sep 24 2026 21:13:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitget Wallets Flagged in Suspected $170M Security Breach",
+    "link": "https://cryptopanic.com/news/33447247/Bitget-Wallets-Flagged-in-Suspected-170M-Security-Breach",
+    "source": "coindoo.com",
+    "published": "Thu Sep 24 2026 21:13:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Why Kalshi's Timeline Fight Put Its ETH Perp Volume Under a Microscope: Uneasy Money",
+    "link": "https://cryptopanic.com/news/33447232/Why-Kalshis-Timeline-Fight-Put-Its-ETH-Perp-Volume-Under-a-Microscope-Uneasy-Money",
+    "source": "Unchained",
+    "published": "Thu Sep 24 2026 21:09:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JPMorgan Explains Why $85K Level Is Crucial for Bitcoin (BTC)",
+    "link": "https://cryptopanic.com/news/33447272/JPMorgan-Explains-Why-85K-Level-Is-Crucial-for-Bitcoin-BTC",
+    "source": "u.today",
+    "published": "Thu Sep 24 2026 21:02:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 U.S. Congressman Lance Gooden says Bitcoin and AI are \"redefining the global balance of power—and we can't afford to let our adversaries define their future.\"",
+    "link": "https://cryptopanic.com/news/33447240/JUST-IN-US-Congressman-Lance-Gooden-says-Bitcoin-and-AI-are-redefining-the-global-balance-of-powerand-we-cant-afford-to-let-our-adversaries-define-their-future",
+    "source": "@bitcoinmagazine",
+    "published": "Thu Sep 24 2026 21:01:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Why ARB fell 10% despite Arbitrum’s Robinhood Chain momentum",
+    "link": "https://cryptopanic.com/news/33447224/Why-ARB-fell-10-despite-Arbitrums-Robinhood-Chain-momentum",
+    "source": "ambcrypto.com",
+    "published": "Thu Sep 24 2026 21:00:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin & Stocks Are Going Higher (The Money Printer Is Coming)",
+    "link": "https://cryptopanic.com/news/33447228/Bitcoin-Stocks-Are-Going-Higher-The-Money-Printer-Is-Coming",
+    "source": "AnthonyPompliano",
+    "published": "Thu Sep 24 2026 21:00:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin No One Cares (That’s The Signal)",
+    "link": "https://cryptopanic.com/news/33447258/Bitcoin-No-One-Cares-Thats-The-Signal",
+    "source": "TheCryptoLark",
+    "published": "Thu Sep 24 2026 21:00:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitwise and Vise Launch Crypto Model Portfolios for Wealth Advisors",
+    "link": "https://cryptopanic.com/news/33447192/Bitwise-and-Vise-Launch-Crypto-Model-Portfolios-for-Wealth-Advisors",
+    "source": "btcusa.com",
+    "published": "Thu Sep 24 2026 21:00:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitget Exchange Reportedly Hacked For Over $170 Million",
+    "link": "https://cryptopanic.com/news/33447275/Bitget-Exchange-Reportedly-Hacked-For-Over-170-Million",
+    "source": "beincrypto.com",
+    "published": "Thu Sep 24 2026 20:58:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hedera wants blockchains to talk to each other directly\n\n@hedera has handed CLPR, a cross-chain protocol built by Hashgraph, to @lfdecentralized as an open-source lab. It lets blockchains check each other's records with cryptographic proofs, so tokens could move between them",
+    "link": "https://cryptopanic.com/news/33447191/Hedera-wants-blockchains-to-talk-to-each-other-directly-hedera-has-handed-CLPR-a-cross-chain-protocol-built-by-Hashgraph-to-lfdecentralized-as-an-open-source-lab-It-lets-blockchains-check-each-others-records-with-cryptographic-proofs-so-tokens-could-move-between-them",
+    "source": "@bscnews",
+    "published": "Thu Sep 24 2026 20:58:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Centrifuge Brings $HYB to Solana as RWA Ecosystem Tops $4.4B",
     "link": "https://cryptopanic.com/news/33446921/Centrifuge-Brings-HYB-to-Solana-as-RWA-Ecosystem-Tops-44B",
     "source": "solanafloor.com",
@@ -123,90 +207,6 @@
     "link": "https://cryptopanic.com/news/33447005/UPDATE-Kalshis-forecast-for-Fed-rate-hikes-this-year-has-climbed-to-24",
     "source": "@cointelegraph",
     "published": "Thu Sep 24 2026 20:10:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "WATCH: @MitchellAskew of @BlockwareTeam - Why it's clear Bitcoin \"is not going anywhere\" \n \nFrom @watchbmtv",
-    "link": "https://cryptopanic.com/news/33447092/WATCH-MitchellAskew-of-BlockwareTeam-Why-its-clear-Bitcoin-is-not-going-anywhere-From-watchbmtv",
-    "source": "@bitcoinmagazine",
-    "published": "Thu Sep 24 2026 20:09:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: Robinhood CEO Vlad Tenev says $100T+ wealth transfer is underway",
-    "link": "https://cryptopanic.com/news/33447090/INTEL-Robinhood-CEO-Vlad-Tenev-says-100T-wealth-transfer-is-underway",
-    "source": "@solidintel_x",
-    "published": "Thu Sep 24 2026 20:08:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hedera is positioning verifiable compute and immutable audit trails for an economy where AI agents transact at machine speed. What it means for $HBAR",
-    "link": "https://cryptopanic.com/news/33447011/Hedera-is-positioning-verifiable-compute-and-immutable-audit-trails-for-an-economy-where-AI-agents-transact-at-machine-speed-What-it-means-for-HBAR",
-    "source": "@realallincrypto",
-    "published": "Thu Sep 24 2026 20:06:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: ️ A Brooklyn man was sentenced to up to 12 years in prison for stealing nearly $16M from about 100 Coinbase users via phishing.",
-    "link": "https://cryptopanic.com/news/33447168/LATEST-A-Brooklyn-man-was-sentenced-to-up-to-12-years-in-prison-for-stealing-nearly-16M-from-about-100-Coinbase-users-via-phishing",
-    "source": "@coinmarketcap",
-    "published": "Thu Sep 24 2026 20:05:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bullish, Alpaca and Apex Fintech form coalition to push issuer-backed tokenized stocks",
-    "link": "https://cryptopanic.com/news/33447033/Bullish-Alpaca-and-Apex-Fintech-form-coalition-to-push-issuer-backed-tokenized-stocks",
-    "source": "coindesk.com",
-    "published": "Thu Sep 24 2026 20:05:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "U.S. commodities firms can invest in tokenized assets, use blockchain records: CFTC",
-    "link": "https://cryptopanic.com/news/33447032/US-commodities-firms-can-invest-in-tokenized-assets-use-blockchain-records-CFTC",
-    "source": "coindesk.com",
-    "published": "Thu Sep 24 2026 20:04:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "IBM taps Swift's 17-bank blockchain, lets banks keep assets in-house",
-    "link": "https://cryptopanic.com/news/33447038/IBM-taps-Swifts-17-bank-blockchain-lets-banks-keep-assets-in-house",
-    "source": "thestreet.com",
-    "published": "Thu Sep 24 2026 20:04:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The stock token debate, and the gap nobody can close alone",
-    "link": "https://cryptopanic.com/news/33447031/The-stock-token-debate-and-the-gap-nobody-can-close-alone",
-    "source": "coindesk.com",
-    "published": "Thu Sep 24 2026 20:03:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AMD and Micron Get New Price Targets as Taiwan Chip Exports Hit Record $30.8B",
-    "link": "https://cryptopanic.com/news/33447160/AMD-and-Micron-Get-New-Price-Targets-as-Taiwan-Chip-Exports-Hit-Record-308B",
-    "source": "beincrypto.com",
-    "published": "Thu Sep 24 2026 20:01:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Humans Are Reading Your ChatGPT Chats, New Lawsuit Claims",
-    "link": "https://cryptopanic.com/news/33446970/Humans-Are-Reading-Your-ChatGPT-Chats-New-Lawsuit-Claims",
-    "source": "decrypt.co",
-    "published": "Thu Sep 24 2026 20:01:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$BTC September has been a rollercoaster so far but the past week has seen a big turn around.\n\nAnd Q4 is coming up. And Q4 is what is historically Bitcoin's best quarter.\n\nBut in a bear market year, Q4 is also when BTC sets its bottom.\n\nThis is why a lot of investors have been",
-    "link": "https://cryptopanic.com/news/33447007/BTC-September-has-been-a-rollercoaster-so-far-but-the-past-week-has-seen-a-big-turn-around-And-Q4-is-coming-up-And-Q4-is-what-is-historically-Bitcoins-best-quarter-But-in-a-bear-market-year-Q4-is-also-when-BTC-sets-its-bottom-This-is-why-a-lot-of-investors-have-been",
-    "source": "@daancrypto",
-    "published": "Thu Sep 24 2026 20:01:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Uniswap drops 11% – Can UNI bulls defend THIS support?",
-    "link": "https://cryptopanic.com/news/33446968/Uniswap-drops-11-Can-UNI-bulls-defend-THIS-support",
-    "source": "ambcrypto.com",
-    "published": "Thu Sep 24 2026 20:00:50 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
