@@ -1,5 +1,89 @@
 [
   {
+    "title": "Meta's New AI Toy Is a Keychain That Watches, Listens, and Never Blinks",
+    "link": "https://cryptopanic.com/news/33446811/Metas-New-AI-Toy-Is-a-Keychain-That-Watches-Listens-and-Never-Blinks",
+    "source": "decrypt.co",
+    "published": "Thu Sep 24 2026 19:16:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Proposal for 'Shielded Bitcoin' brings Tornado Cash-style privacy directly to mainnet.\n\n• Peg BTC into encrypted notes privately\n\n• ZK-proofs hide sender, receiver, amount\n\n• Break on-chain link when pegging out\n\n🫡 Nicholas Gregory @gregory_nico",
+    "link": "https://cryptopanic.com/news/33446791/JUST-IN-Proposal-for-Shielded-Bitcoin-brings-Tornado-Cash-style-privacy-directly-to-mainnet-Peg-BTC-into-encrypted-notes-privately-ZK-proofs-hide-sender-receiver-amount-Break-on-chain-link-when-pegging-out-Nicholas-Gregory-gregory_nico",
+    "source": "@btc_archive",
+    "published": "Thu Sep 24 2026 19:13:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Coinbase Spots Abnormal Signs Of XRP Demand",
+    "link": "https://cryptopanic.com/news/33446740/Coinbase-Spots-Abnormal-Signs-Of-XRP-Demand",
+    "source": "dailycoin.com",
+    "published": "Thu Sep 24 2026 19:12:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Solana Stablecoins Now Book Flights With 300 Airlines",
+    "link": "https://cryptopanic.com/news/33446816/Solana-Stablecoins-Now-Book-Flights-With-300-Airlines",
+    "source": "u.today",
+    "published": "Thu Sep 24 2026 19:08:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Sept 24, 2021: China \"banned\" Bitcoin.\n\nBTC dropped 15%, then surged 63% in 3 weeks. \n\nLesson: Peak FUD is maximum opportunity.",
+    "link": "https://cryptopanic.com/news/33446789/Sept-24-2021-China-banned-Bitcoin-BTC-dropped-15-then-surged-63-in-3-weeks-Lesson-Peak-FUD-is-maximum-opportunity",
+    "source": "@btc_archive",
+    "published": "Thu Sep 24 2026 19:03:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Blockchain.com and NYSE Partner on Tokenized Securities Trading",
+    "link": "https://cryptopanic.com/news/33446729/Blockchaincom-and-NYSE-Partner-on-Tokenized-Securities-Trading",
+    "source": "btcusa.com",
+    "published": "Thu Sep 24 2026 19:00:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NYSE is assembling the pipes for a $5.5 trillion tokenized asset market",
+    "link": "https://cryptopanic.com/news/33446730/NYSE-is-assembling-the-pipes-for-a-55-trillion-tokenized-asset-market",
+    "source": "cryptoslate.com",
+    "published": "Thu Sep 24 2026 19:00:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ws in the chat for CoinMarketCat",
+    "link": "https://cryptopanic.com/news/33446794/Ws-in-the-chat-for-CoinMarketCat",
+    "source": "@coinmarketcap",
+    "published": "Thu Sep 24 2026 19:00:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "New York Sues Polymarket Over Alleged Illegal Gambling",
+    "link": "https://cryptopanic.com/news/33446700/New-York-Sues-Polymarket-Over-Alleged-Illegal-Gambling",
+    "source": "bankless.com",
+    "published": "Thu Sep 24 2026 18:58:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: ️ New York State is suing Polymarket, alleging its prediction market is unlicensed gambling that exposes users under 21 to financial harm.",
+    "link": "https://cryptopanic.com/news/33446793/LATEST-New-York-State-is-suing-Polymarket-alleging-its-prediction-market-is-unlicensed-gambling-that-exposes-users-under-21-to-financial-harm",
+    "source": "@coinmarketcap",
+    "published": "Thu Sep 24 2026 18:53:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "No database, no migration, no lost data. Motoko apps on internet-computer:native keep everything in memory through every upgrade, with a safety check that rolls back bad ones. How it works... ⬇️",
+    "link": "https://cryptopanic.com/news/33446688/No-database-no-migration-no-lost-data-Motoko-apps-on-internet-computernative-keep-everything-in-memory-through-every-upgrade-with-a-safety-check-that-rolls-back-bad-ones-How-it-works",
+    "source": "@bscnews",
+    "published": "Thu Sep 24 2026 18:53:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin just topped a key long-term moving average. Here's what it might mean",
+    "link": "https://cryptopanic.com/news/33446735/Bitcoin-just-topped-a-key-long-term-moving-average-Heres-what-it-might-mean",
+    "source": "coindesk.com",
+    "published": "Thu Sep 24 2026 18:46:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Alloc Init Proposes Zcash-Style Privacy for Bitcoin",
     "link": "https://cryptopanic.com/news/33446672/Alloc-Init-Proposes-Zcash-Style-Privacy-for-Bitcoin",
     "source": "bankless.com",
@@ -39,6 +123,20 @@
     "link": "https://cryptopanic.com/news/33446623/Italy-Crypto-Tax-Draft-26-Rate-and-Loss-Relief-Back-on-Table-for-2027",
     "source": "spaziocrypto.com",
     "published": "Thu Sep 24 2026 18:35:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Why are Trump Allies Turning Against Anthropic CEO Dario Amodei?",
+    "link": "https://cryptopanic.com/news/33446814/Why-are-Trump-Allies-Turning-Against-Anthropic-CEO-Dario-Amodei",
+    "source": "beincrypto.com",
+    "published": "Thu Sep 24 2026 18:34:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 Federal Reserve proposes new regulatory framework for stablecoin issuers under the GENIUS Act.",
+    "link": "https://cryptopanic.com/news/33446788/JUST-IN-Federal-Reserve-proposes-new-regulatory-framework-for-stablecoin-issuers-under-the-GENIUS-Act",
+    "source": "@watcherguru",
+    "published": "Thu Sep 24 2026 18:33:15 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -109,104 +207,6 @@
     "link": "https://cryptopanic.com/news/33446543/JPMorgan-says-bitcoin-crossing-85000-production-cost-could-ease-miner-selling-pressure",
     "source": "theblock.co",
     "published": "Thu Sep 24 2026 18:22:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Jeff Booth: Why $1 Million BTC is Thinking too Small",
-    "link": "https://cryptopanic.com/news/33446539/Jeff-Booth-Why-1-Million-BTC-is-Thinking-too-Small",
-    "source": "BitcoinMagazine",
-    "published": "Thu Sep 24 2026 18:20:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin traders prepare for $16B options expiry this Friday",
-    "link": "https://cryptopanic.com/news/33446629/Bitcoin-traders-prepare-for-16B-options-expiry-this-Friday",
-    "source": "thestreet.com",
-    "published": "Thu Sep 24 2026 18:20:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: CFTC staff updated its crypto FAQs to address customer funds invested in tokenized assets and the use of blockchain technology to satisfy recordkeeping requirements.\n\nChairman Michael Selig says the changes are part of the agency’s efforts to provide “regulatory clarity for",
-    "link": "https://cryptopanic.com/news/33446666/NEW-CFTC-staff-updated-its-crypto-FAQs-to-address-customer-funds-invested-in-tokenized-assets-and-the-use-of-blockchain-technology-to-satisfy-recordkeeping-requirements-Chairman-Michael-Selig-says-the-changes-are-part-of-the-agencys-efforts-to-provide-regulatory-clarity-for",
-    "source": "@coindesk",
-    "published": "Thu Sep 24 2026 18:17:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: ️ Paxos Labs launched PAXGy, a PAXG-backed token that deploys reserves into the institutional gold leasing market so holders can earn yield in ounce terms.",
-    "link": "https://cryptopanic.com/news/33446597/LATEST-Paxos-Labs-launched-PAXGy-a-PAXG-backed-token-that-deploys-reserves-into-the-institutional-gold-leasing-market-so-holders-can-earn-yield-in-ounce-terms",
-    "source": "@coinmarketcap",
-    "published": "Thu Sep 24 2026 18:17:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 BIG: The Senate is set to vote on a resolution seeking to halt Trump’s military action in Iran as rising gas prices become a midterm election issue.",
-    "link": "https://cryptopanic.com/news/33446668/BIG-The-Senate-is-set-to-vote-on-a-resolution-seeking-to-halt-Trumps-military-action-in-Iran-as-rising-gas-prices-become-a-midterm-election-issue",
-    "source": "@cointelegraph",
-    "published": "Thu Sep 24 2026 18:15:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump administration has a radical plan to boost U.S. dollar",
-    "link": "https://cryptopanic.com/news/33446598/Trump-administration-has-a-radical-plan-to-boost-US-dollar",
-    "source": "thestreet.com",
-    "published": "Thu Sep 24 2026 18:15:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Returns Above $84K as U.S., Iran Discuss Hormuz Deal",
-    "link": "https://cryptopanic.com/news/33446489/Bitcoin-Returns-Above-84K-as-US-Iran-Discuss-Hormuz-Deal",
-    "source": "coindoo.com",
-    "published": "Thu Sep 24 2026 18:12:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Quant secures a key role in US bank payments\n\nThe Clearing House (@TCHtweets) has selected @quantnetwork to power its On-Chain Money Initiative, a network where banks will clear and settle tokenized deposits. Quant's tech will also connect it to the RTP and CHIPS systems that",
-    "link": "https://cryptopanic.com/news/33446514/Quant-secures-a-key-role-in-US-bank-payments-The-Clearing-House-TCHtweets-has-selected-quantnetwork-to-power-its-On-Chain-Money-Initiative-a-network-where-banks-will-clear-and-settle-tokenized-deposits-Quants-tech-will-also-connect-it-to-the-RTP-and-CHIPS-systems-that",
-    "source": "@bscnews",
-    "published": "Thu Sep 24 2026 18:12:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW Report CONFIRMS Wall Street is Going to FORCE Bitcoin to EXPLODE! | EP 1599",
-    "link": "https://cryptopanic.com/news/33445805/NEW-Report-CONFIRMS-Wall-Street-is-Going-to-FORCE-Bitcoin-to-EXPLODE-EP-1599",
-    "source": "SimplyBitcoin",
-    "published": "Thu Sep 24 2026 18:11:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: Goldman Sachs sees nearly 70% upside for digital bank Nubank following its U.S. launch.",
-    "link": "https://cryptopanic.com/news/33446667/LATEST-Goldman-Sachs-sees-nearly-70-upside-for-digital-bank-Nubank-following-its-US-launch",
-    "source": "@cointelegraph",
-    "published": "Thu Sep 24 2026 18:10:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tempo Launches Mercator Tool Router for AI Agents",
-    "link": "https://cryptopanic.com/news/33446485/Tempo-Launches-Mercator-Tool-Router-for-AI-Agents",
-    "source": "bankless.com",
-    "published": "Thu Sep 24 2026 18:07:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Mighty Mike and the scam-coded future",
-    "link": "https://cryptopanic.com/news/33446483/Mighty-Mike-and-the-scam-coded-future",
-    "source": "protos.com",
-    "published": "Thu Sep 24 2026 18:05:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "IBM Links Crypto Haven To SWIFT With Stellar Link",
-    "link": "https://cryptopanic.com/news/33446481/IBM-Links-Crypto-Haven-To-SWIFT-With-Stellar-Link",
-    "source": "dailycoin.com",
-    "published": "Thu Sep 24 2026 18:05:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "3 Surprising Facts About New York’s Polymarket Lawsuit",
-    "link": "https://cryptopanic.com/news/33446616/3-Surprising-Facts-About-New-Yorks-Polymarket-Lawsuit",
-    "source": "beincrypto.com",
-    "published": "Thu Sep 24 2026 18:04:33 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
