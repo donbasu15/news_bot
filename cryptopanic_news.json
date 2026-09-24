@@ -1,9 +1,23 @@
 [
   {
+    "title": "Zcash Shielded Transactions Hit Four-Year High as Network Settles $23 Billion in a Week",
+    "link": "https://cryptopanic.com/news/33442051/Zcash-Shielded-Transactions-Hit-Four-Year-High-as-Network-Settles-23-Billion-in-a-Week",
+    "source": "cryptopolitan.com",
+    "published": "Thu Sep 24 2026 05:48:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin ETF Inflow Streak Hits 5 Days as BTC Falls Below $84,000",
     "link": "https://cryptopanic.com/news/33441939/Bitcoin-ETF-Inflow-Streak-Hits-5-Days-as-BTC-Falls-Below-84000",
     "source": "coinpaper.com",
     "published": "Thu Sep 24 2026 05:39:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Aave V4 Crosses $30M in Avalanche Deposits\n\nAave (@aave) V4 has surpassed $30 million in deposits on Avalanche (@avax) as tokenized assets move toward credit markets.\n\nThis comes after last week when Aave Labs announced plans to launch a specialized RWA market on Avalanche where",
+    "link": "https://cryptopanic.com/news/33442063/Aave-V4-Crosses-30M-in-Avalanche-Deposits-Aave-aave-V4-has-surpassed-30-million-in-deposits-on-Avalanche-avax-as-tokenized-assets-move-toward-credit-markets-This-comes-after-last-week-when-Aave-Labs-announced-plans-to-launch-a-specialized-RWA-market-on-Avalanche-where",
+    "source": "@bscnews",
+    "published": "Thu Sep 24 2026 05:37:42 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -46,6 +60,13 @@
     "link": "https://cryptopanic.com/news/33441873/2027-28-FAFSA-Is-Now-Open-Early-What-You-Need-to-Know",
     "source": "coinpaper.com",
     "published": "Thu Sep 24 2026 05:22:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Options Show Rare Bullish Demand\n\nripple:native options are showing unusually strong demand for upside exposure, according to Coinbase Markets.\n\nThe one-week 25-delta call-minus-put skew has climbed to 9.3 volatility points. This means traders are paying more for comparable",
+    "link": "https://cryptopanic.com/news/33442062/XRP-Options-Show-Rare-Bullish-Demand-ripplenative-options-are-showing-unusually-strong-demand-for-upside-exposure-according-to-Coinbase-Markets-The-one-week-25-delta-call-minus-put-skew-has-climbed-to-93-volatility-points-This-means-traders-are-paying-more-for-comparable",
+    "source": "@bscnews",
+    "published": "Thu Sep 24 2026 05:20:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -186,27 +207,6 @@
     "link": "https://cryptopanic.com/news/33441749/Toyoda-Gosei-to-Build-New-Auto-Parts-Plant-in-Maharashtra-for-93-Billion-Yen",
     "source": "square.binance.com",
     "published": "Thu Sep 24 2026 04:32:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "TODAY: Anthropic CEO Dario Amodei says Claude discovered a previously unknown enzyme system in bacteriophage DNA that could represent a new gene editing mechanism.",
-    "link": "https://cryptopanic.com/news/33441766/TODAY-Anthropic-CEO-Dario-Amodei-says-Claude-discovered-a-previously-unknown-enzyme-system-in-bacteriophage-DNA-that-could-represent-a-new-gene-editing-mechanism",
-    "source": "@cointelegraph",
-    "published": "Thu Sep 24 2026 04:31:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Galaxy adds $100M Sky token and institutional adoption is tested",
-    "link": "https://cryptopanic.com/news/33441626/Galaxy-adds-100M-Sky-token-and-institutional-adoption-is-tested",
-    "source": "cryptoslate.com",
-    "published": "Thu Sep 24 2026 04:30:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Chainlink Releases Node v2.65.0 With Confidential Workflow Monitoring Fix",
-    "link": "https://cryptopanic.com/news/33441622/Chainlink-Releases-Node-v2650-With-Confidential-Workflow-Monitoring-Fix",
-    "source": "newsbtc.com",
-    "published": "Thu Sep 24 2026 04:30:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
