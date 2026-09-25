@@ -1,5 +1,68 @@
 [
   {
+    "title": "INTEL: SEC Commissioner Hester Peirce is set to leave the agency on October 2\n\nHer departure comes as the SEC continues advancing crypto rules around KYC and zero-knowledge proofs that could allow users to prove compliance without exposing underlying personal data.",
+    "link": "https://cryptopanic.com/news/33452895/INTEL-SEC-Commissioner-Hester-Peirce-is-set-to-leave-the-agency-on-October-2-Her-departure-comes-as-the-SEC-continues-advancing-crypto-rules-around-KYC-and-zero-knowledge-proofs-that-could-allow-users-to-prove-compliance-without-exposing-underlying-personal-data",
+    "source": "@solidintel_x",
+    "published": "Fri Sep 25 2026 19:37:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸REGULATION: The SEC publishes FAQs on how federal securities laws apply to certain types of crypto assets and related transactions.",
+    "link": "https://cryptopanic.com/news/33452836/REGULATION-The-SEC-publishes-FAQs-on-how-federal-securities-laws-apply-to-certain-types-of-crypto-assets-and-related-transactions",
+    "source": "@cointelegraph",
+    "published": "Fri Sep 25 2026 19:31:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Slips Below $84,000 as Ethereum Holds $2,600, XRP and Dogecoin Rise on Rate-Hike Fears",
+    "link": "https://cryptopanic.com/news/33452887/Bitcoin-Slips-Below-84000-as-Ethereum-Holds-2600-XRP-and-Dogecoin-Rise-on-Rate-Hike-Fears",
+    "source": "feeds2.benzinga.com",
+    "published": "Fri Sep 25 2026 19:30:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "US Economy To Grow At 2% In The Next 12 Months",
+    "link": "https://cryptopanic.com/news/33452839/US-Economy-To-Grow-At-2-In-The-Next-12-Months",
+    "source": "catenaa.com",
+    "published": "Fri Sep 25 2026 19:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Fed Proposes Full Reserve And Capital Rules For US Stablecoin Issuers",
+    "link": "https://cryptopanic.com/news/33452838/Fed-Proposes-Full-Reserve-And-Capital-Rules-For-US-Stablecoin-Issuers",
+    "source": "newsbtc.com",
+    "published": "Fri Sep 25 2026 19:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 SEC releases new guidance clarifying securities laws on crypto assets",
+    "link": "https://cryptopanic.com/news/33452896/JUST-IN-SEC-releases-new-guidance-clarifying-securities-laws-on-crypto-assets",
+    "source": "@bitcoinmagazine",
+    "published": "Fri Sep 25 2026 19:28:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SWIFT Partner Picks Ripple As Preferred Settlement Route",
+    "link": "https://cryptopanic.com/news/33452808/SWIFT-Partner-Picks-Ripple-As-Preferred-Settlement-Route",
+    "source": "dailycoin.com",
+    "published": "Fri Sep 25 2026 19:27:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Solana gets a wrapped Litecoin\n\nCoinbase Wrapped litecoin:native, or $cbLTC, is now live and tradable on @solana through @sunrise. The token is backed by LTC that is held by Coinbase and moves across chains via Chainlink's CCIP.\n\n@chainlink says CCIP now secures more than $7B in",
+    "link": "https://cryptopanic.com/news/33452891/Solana-gets-a-wrapped-Litecoin-Coinbase-Wrapped-litecoinnative-or-cbLTC-is-now-live-and-tradable-on-solana-through-sunrise-The-token-is-backed-by-LTC-that-is-held-by-Coinbase-and-moves-across-chains-via-Chainlinks-CCIP-chainlink-says-CCIP-now-secures-more-than-7B-in",
+    "source": "@bscnews",
+    "published": "Fri Sep 25 2026 19:22:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Google Built an AI That Hunts Its Own Security Bugs",
+    "link": "https://cryptopanic.com/news/33452801/Google-Built-an-AI-That-Hunts-Its-Own-Security-Bugs",
+    "source": "decrypt.co",
+    "published": "Fri Sep 25 2026 19:16:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: 🇺🇸 U.S. Spot Bitcoin ETFs have seen $2.84 billion in net inflows over the past 6 trading session",
     "link": "https://cryptopanic.com/news/33452791/JUST-IN-US-Spot-Bitcoin-ETFs-have-seen-284-billion-in-net-inflows-over-the-past-6-trading-session",
     "source": "@bitcoinmagazine",
@@ -14,6 +77,20 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33452833/Source",
+    "source": "@wublockchain",
+    "published": "Fri Sep 25 2026 19:03:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "A ledger shows what moved, but not why. Quant thinks banks can earn in that gap\n\n@quantnetwork, the firm behind $QNT, has released a whitepaper arguing banks can earn by tracking each payment's purpose, approvals, and conditions alongside tokenized deposits.\n\nThe paper draws on",
+    "link": "https://cryptopanic.com/news/33452890/A-ledger-shows-what-moved-but-not-why-Quant-thinks-banks-can-earn-in-that-gap-quantnetwork-the-firm-behind-QNT-has-released-a-whitepaper-arguing-banks-can-earn-by-tracking-each-payments-purpose-approvals-and-conditions-alongside-tokenized-deposits-The-paper-draws-on",
+    "source": "@bscnews",
+    "published": "Fri Sep 25 2026 19:03:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "@watchbmtv @StocktonKatie @realseanhagan @GraceRemiTV WATCH: @StocktonKatie - Why the Bitcoin bear cycle is over ️\n \nFrom @watchbmtv",
     "link": "https://cryptopanic.com/news/33452790/watchbmtv-StocktonKatie-realseanhagan-GraceRemiTV-WATCH-StocktonKatie-Why-the-Bitcoin-bear-cycle-is-over-From-watchbmtv",
     "source": "@bitcoinmagazine",
@@ -25,6 +102,27 @@
     "link": "https://cryptopanic.com/news/33452789/Full-information",
     "source": "@solidintel_x",
     "published": "Fri Sep 25 2026 19:01:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 UPDATE: Anthropic suffers a court setback over its Pentagon “supply-chain risk” label, keeping its legal fight alive.",
+    "link": "https://cryptopanic.com/news/33452835/UPDATE-Anthropic-suffers-a-court-setback-over-its-Pentagon-supply-chain-risk-label-keeping-its-legal-fight-alive",
+    "source": "@cointelegraph",
+    "published": "Fri Sep 25 2026 19:01:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LOOK: Hedera highlight how they are emerging as a trust layer for the coming AI agent economy. $HBAR\n\nHashgraph Online and GoDaddy are building open standards that let AI agents prove their identity and actions using @hedera.\n\nWith 100B+ AI agents envisioned, trusted",
+    "link": "https://cryptopanic.com/news/33452889/LOOK-Hedera-highlight-how-they-are-emerging-as-a-trust-layer-for-the-coming-AI-agent-economy-HBAR-Hashgraph-Online-and-GoDaddy-are-building-open-standards-that-let-AI-agents-prove-their-identity-and-actions-using-hedera-With-100B-AI-agents-envisioned-trusted",
+    "source": "@realallincrypto",
+    "published": "Fri Sep 25 2026 19:00:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitget CEO: A Fake Interview Cost Me $80,000\n\nOn September 24, Bitget CEO Gracy Chen @GracyBitget  shared her experience of being targeted by the Lazarus Group. The attackers first compromised the official Twitter account of a major crypto media outlet, then impersonated a",
+    "link": "https://cryptopanic.com/news/33452832/Bitget-CEO-A-Fake-Interview-Cost-Me-80000-On-September-24-Bitget-CEO-Gracy-Chen-GracyBitget-shared-her-experience-of-being-targeted-by-the-Lazarus-Group-The-attackers-first-compromised-the-official-Twitter-account-of-a-major-crypto-media-outlet-then-impersonated-a",
+    "source": "@wublockchain",
+    "published": "Fri Sep 25 2026 19:00:02 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -109,104 +207,6 @@
     "link": "https://cryptopanic.com/news/33452678/UPDATE-Brian-Armstrong-says-as-AI-agents-multiply-crypto-and-stablecoins-will-become-their-go-to-payment-rails",
     "source": "@cointelegraph",
     "published": "Fri Sep 25 2026 18:31:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "White Hat Operation Rescues 23K NFTs After Payment Processor Exploit",
-    "link": "https://cryptopanic.com/news/33452648/White-Hat-Operation-Rescues-23K-NFTs-After-Payment-Processor-Exploit",
-    "source": "cryptopotato.com",
-    "published": "Fri Sep 25 2026 18:30:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin's Clarity Act: Why It Doesn't Matter!",
-    "link": "https://cryptopanic.com/news/33452649/Bitcoins-Clarity-Act-Why-It-Doesnt-Matter",
-    "source": "SimplyBitcoin",
-    "published": "Fri Sep 25 2026 18:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The 30-year US treasury yield is on track to see its highest close since May 2002.",
-    "link": "https://cryptopanic.com/news/33452639/The-30-year-US-treasury-yield-is-on-track-to-see-its-highest-close-since-May-2002",
-    "source": "@stackersatoshi",
-    "published": "Fri Sep 25 2026 18:29:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SEC Commissioner Peirce Calls for Zero-Knowledge Proofs to Replace Data-Heavy KYC/AML Practices",
-    "link": "https://cryptopanic.com/news/33452599/SEC-Commissioner-Peirce-Calls-for-Zero-Knowledge-Proofs-to-Replace-Data-Heavy-KYCAML-Practices",
-    "source": "btcusa.com",
-    "published": "Fri Sep 25 2026 18:25:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ANALYSIS:  US spot Bitcoin ETFs have finally erased a $5.7B summer hole and turned positive for 2026.\n\nCan the comeback last as daily inflows slow? \n\nLet's dive in.",
-    "link": "https://cryptopanic.com/news/33452673/ANALYSIS-US-spot-Bitcoin-ETFs-have-finally-erased-a-57B-summer-hole-and-turned-positive-for-2026-Can-the-comeback-last-as-daily-inflows-slow-Lets-dive-in",
-    "source": "@coinmarketcap",
-    "published": "Fri Sep 25 2026 18:25:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The penguins are coming for your holiday shopping list\n\n@pudgypenguins is featured in @Walmart's holiday catalog, which the brand says reaches more than 40 million people.\n\nThe brand behind the solana:2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv token already sells its toys at",
-    "link": "https://cryptopanic.com/news/33452713/The-penguins-are-coming-for-your-holiday-shopping-list-pudgypenguins-is-featured-in-Walmarts-holiday-catalog-which-the-brand-says-reaches-more-than-40-million-people-The-brand-behind-the-solana2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv-token-already-sells-its-toys-at",
-    "source": "@bscnews",
-    "published": "Fri Sep 25 2026 18:21:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: Unusually high volume hits Bitcoin ETF and Michael Saylor's Strategy today — CNBC\n\n• Bullish options trades dominate.\n\n• Volume 2.5x above average.\n\n• Single massive $30M bet on $MSTR finishing above $160 today",
-    "link": "https://cryptopanic.com/news/33452638/BREAKING-Unusually-high-volume-hits-Bitcoin-ETF-and-Michael-Saylors-Strategy-today-CNBC-Bullish-options-trades-dominate-Volume-25x-above-average-Single-massive-30M-bet-on-MSTR-finishing-above-160-today",
-    "source": "@btc_archive",
-    "published": "Fri Sep 25 2026 18:18:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BITGET COLLAPSE: The Real Reason This Exchange Failed",
-    "link": "https://cryptopanic.com/news/33452606/BITGET-COLLAPSE-The-Real-Reason-This-Exchange-Failed",
-    "source": "CryptoTips",
-    "published": "Fri Sep 25 2026 18:15:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "USDC stablecoin coming to Bitcoin through Alpen will let holders borrow dollars without moving BTC",
-    "link": "https://cryptopanic.com/news/33452698/USDC-stablecoin-coming-to-Bitcoin-through-Alpen-will-let-holders-borrow-dollars-without-moving-BTC",
-    "source": "en.cryptonomist.ch",
-    "published": "Fri Sep 25 2026 18:08:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇺🇸 The CFTC confirmed that regulated firms can invest customer funds in tokenized assets, treating them the same as the underlying assets they represent.",
-    "link": "https://cryptopanic.com/news/33452672/LATEST-The-CFTC-confirmed-that-regulated-firms-can-invest-customer-funds-in-tokenized-assets-treating-them-the-same-as-the-underlying-assets-they-represent",
-    "source": "@coinmarketcap",
-    "published": "Fri Sep 25 2026 18:05:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Is an 'Exit Asset'—Ethereum Is the New Rails Bet, Ex-BlackRock Exec Says",
-    "link": "https://cryptopanic.com/news/33452598/Bitcoin-Is-an-Exit-AssetEthereum-Is-the-New-Rails-Bet-Ex-BlackRock-Exec-Says",
-    "source": "feeds2.benzinga.com",
-    "published": "Fri Sep 25 2026 18:02:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Tesla has scaled Optimus production 10x, but production hurdles are slowing its push toward 1,000 per week, per The Information.",
-    "link": "https://cryptopanic.com/news/33452588/UPDATE-Tesla-has-scaled-Optimus-production-10x-but-production-hurdles-are-slowing-its-push-toward-1000-per-week-per-The-Information",
-    "source": "@cointelegraph",
-    "published": "Fri Sep 25 2026 18:01:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "QNT surges 38% as Quant’s institutional adoption deepens – 3 signals to watch",
-    "link": "https://cryptopanic.com/news/33452552/QNT-surges-38-as-Quants-institutional-adoption-deepens-3-signals-to-watch",
-    "source": "ambcrypto.com",
-    "published": "Fri Sep 25 2026 18:00:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Old Magic Eden NFT approvals put users at risk after whitehat moves 3,832 NFTs",
-    "link": "https://cryptopanic.com/news/33452554/Old-Magic-Eden-NFT-approvals-put-users-at-risk-after-whitehat-moves-3832-NFTs",
-    "source": "cryptoslate.com",
-    "published": "Fri Sep 25 2026 18:00:29 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
