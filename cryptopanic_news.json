@@ -1,5 +1,40 @@
 [
   {
+    "title": "Chainlink's Latest Update Makes Node Problems Easier to Track\n\nChainlink (@chainlink) has released node software v2.65.0 with improved operational monitoring.\n\nThe update adds an “error_type” label for failures inside confidential workflows.\n\nNode operators can now distinguish",
+    "link": "https://cryptopanic.com/news/33449017/Chainlinks-Latest-Update-Makes-Node-Problems-Easier-to-Track-Chainlink-chainlink-has-released-node-software-v2650-with-improved-operational-monitoring-The-update-adds-an-error_type-label-for-failures-inside-confidential-workflows-Node-operators-can-now-distinguish",
+    "source": "@bscnews",
+    "published": "Fri Sep 25 2026 06:36:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NOW: Ethereum's exchange supply has hit a record low of 3.49% of total supply, with 1.16% moving off exchanges since June 1, per Santiment.",
+    "link": "https://cryptopanic.com/news/33448968/NOW-Ethereums-exchange-supply-has-hit-a-record-low-of-349-of-total-supply-with-116-moving-off-exchanges-since-June-1-per-Santiment",
+    "source": "@cointelegraph",
+    "published": "Fri Sep 25 2026 06:31:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Reap Launches Managed Fraud Service for Card Programs",
+    "link": "https://cryptopanic.com/news/33448931/Reap-Launches-Managed-Fraud-Service-for-Card-Programs",
+    "source": "catenaa.com",
+    "published": "Fri Sep 25 2026 06:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hut 8 Wins $140M Bid For Poolin’s Texas Data Centers",
+    "link": "https://cryptopanic.com/news/33448938/Hut-8-Wins-140M-Bid-For-Poolins-Texas-Data-Centers",
+    "source": "newsbtc.com",
+    "published": "Fri Sep 25 2026 06:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitget Hack Update Reveals Wider Multichain Impact\n\nBitget (@bitget) CEO Gracy Chen says the $351M security incident affected several major assets.\n\nAffected networks include Ethereum, XRP Ledger, Arbitrum, Avalanche, Optimism, BSC, and Base. \n\nETH, XRP, BNB, AVAX, USDT, and USDC",
+    "link": "https://cryptopanic.com/news/33449016/Bitget-Hack-Update-Reveals-Wider-Multichain-Impact-Bitget-bitget-CEO-Gracy-Chen-says-the-351M-security-incident-affected-several-major-assets-Affected-networks-include-Ethereum-XRP-Ledger-Arbitrum-Avalanche-Optimism-BSC-and-Base-ETH-XRP-BNB-AVAX-USDT-and-USDC",
+    "source": "@bscnews",
+    "published": "Fri Sep 25 2026 06:19:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JAPANESE BOND YIELDS ARE SURGING.\n\nJapan's 2-year yield is at a 31 year high.\nThe 10-year yield is at a 30 year high.\nThe 30-year yield is the highest it has ever been.\n\nSomething is going to break, and when it does you need to be prepared to take advantage of that volatility.",
     "link": "https://cryptopanic.com/news/33448905/JAPANESE-BOND-YIELDS-ARE-SURGING-Japans-2-year-yield-is-at-a-31-year-high-The-10-year-yield-is-at-a-30-year-high-The-30-year-yield-is-the-highest-it-has-ever-been-Something-is-going-to-break-and-when-it-does-you-need-to-be-prepared-to-take-advantage-of-that-volatility",
     "source": "@stackersatoshi",
@@ -11,6 +46,20 @@
     "link": "https://cryptopanic.com/news/33448879/Starbucks-Store-Closures-2026-250-Locations-to-Shut-Across-North-America",
     "source": "coinpaper.com",
     "published": "Fri Sep 25 2026 06:06:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "A whale deposited 541,009 $HYPE($49.55M) to #Kraken 3 hours ago.",
+    "link": "https://cryptopanic.com/news/33449018/A-whale-deposited-541009-HYPE4955M-to-Kraken-3-hours-ago",
+    "source": "@lookonchain",
+    "published": "Fri Sep 25 2026 06:05:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 LATEST: The White House has reportedly asked OpenAI and Anthropic to withhold new models from British testers until a US security review is complete, per Politico.",
+    "link": "https://cryptopanic.com/news/33448967/LATEST-The-White-House-has-reportedly-asked-OpenAI-and-Anthropic-to-withhold-new-models-from-British-testers-until-a-US-security-review-is-complete-per-Politico",
+    "source": "@cointelegraph",
+    "published": "Fri Sep 25 2026 06:01:12 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -158,55 +207,6 @@
     "link": "https://cryptopanic.com/news/33448640/ChangeNOW-Pitches-Swap-Widgets-as-Web3-Ad-Alternative",
     "source": "catenaa.com",
     "published": "Fri Sep 25 2026 05:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ħ EMTECH - Project Update from August 2026: \"The Central Bank of Nigeria (CBN) launches Regulatory Sandbox Cohort 2, powered by Emtech.\" Runs on Hedera. Accenture invested in Emtech 2 years ago to modernize central bank operations. Ħ",
-    "link": "https://cryptopanic.com/news/33448827/EMTECH-Project-Update-from-August-2026-The-Central-Bank-of-Nigeria-CBN-launches-Regulatory-Sandbox-Cohort-2-powered-by-Emtech-Runs-on-Hedera-Accenture-invested-in-Emtech-2-years-ago-to-modernize-central-bank-operations",
-    "source": "r/hedera",
-    "published": "Fri Sep 25 2026 04:53:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33448636/Source",
-    "source": "@wublockchain",
-    "published": "Fri Sep 25 2026 04:53:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "U.S. Spot Bitcoin ETFs Record $191M in Net Inflows, Extending Inflow Streak to Six Days\n\nOn September 24 (ET), U.S. spot Bitcoin ETFs recorded total net inflows of $191 million, marking six consecutive days of net inflows. Spot Ethereum ETFs posted $66.01 million in net inflows,",
-    "link": "https://cryptopanic.com/news/33448637/US-Spot-Bitcoin-ETFs-Record-191M-in-Net-Inflows-Extending-Inflow-Streak-to-Six-Days-On-September-24-ET-US-spot-Bitcoin-ETFs-recorded-total-net-inflows-of-191-million-marking-six-consecutive-days-of-net-inflows-Spot-Ethereum-ETFs-posted-6601-million-in-net-inflows",
-    "source": "@wublockchain",
-    "published": "Fri Sep 25 2026 04:53:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump Can Score a Deal Before Midterms? Iran's President Says Tehran Is Willing: What Crypto Prediction Market Odds Tell Us",
-    "link": "https://cryptopanic.com/news/33448678/Trump-Can-Score-a-Deal-Before-Midterms-Irans-President-Says-Tehran-Is-Willing-What-Crypto-Prediction-Market-Odds-Tell-Us",
-    "source": "feeds2.benzinga.com",
-    "published": "Fri Sep 25 2026 04:53:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HUGE FOR CRYPTO STOCKS: Trump’s latest financial disclosure shows his accounts bought Coinbase and Strategy shares in July!\n\nThe portfolio is independently managed, but his exposure is notable: two of America’s biggest publicly traded crypto plays are being accumulated.",
-    "link": "https://cryptopanic.com/news/33448703/HUGE-FOR-CRYPTO-STOCKS-Trumps-latest-financial-disclosure-shows-his-accounts-bought-Coinbase-and-Strategy-shares-in-July-The-portfolio-is-independently-managed-but-his-exposure-is-notable-two-of-Americas-biggest-publicly-traded-crypto-plays-are-being-accumulated",
-    "source": "@realallincrypto",
-    "published": "Fri Sep 25 2026 04:45:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Rally Adds Billions to Satoshi's Stash\n\nSatoshi Nakamoto's estimated Bitcoin holdings gained about $10 billion over the last 10 days as bitcoin:native recently climbed toward $87,000.\n\nThe Bitcoin creator is estimated to hold roughly 1.1 million BTC, now valued near $95",
-    "link": "https://cryptopanic.com/news/33448704/Bitcoin-Rally-Adds-Billions-to-Satoshis-Stash-Satoshi-Nakamotos-estimated-Bitcoin-holdings-gained-about-10-billion-over-the-last-10-days-as-bitcoinnative-recently-climbed-toward-87000-The-Bitcoin-creator-is-estimated-to-hold-roughly-11-million-BTC-now-valued-near-95",
-    "source": "@bscnews",
-    "published": "Fri Sep 25 2026 04:44:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The tide of Japanese money returning home has begun, but a much larger repatriation of overseas assets is being held back by uncertainty over where Japanese bond yields will peak and how much further the central bank will have to raise interest rates",
-    "link": "https://cryptopanic.com/news/33448702/The-tide-of-Japanese-money-returning-home-has-begun-but-a-much-larger-repatriation-of-overseas-assets-is-being-held-back-by-uncertainty-over-where-Japanese-bond-yields-will-peak-and-how-much-further-the-central-bank-will-have-to-raise-interest-rates",
-    "source": "@reutersbiz",
-    "published": "Fri Sep 25 2026 04:37:28 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
