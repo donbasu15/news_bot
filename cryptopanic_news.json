@@ -1,9 +1,86 @@
 [
   {
+    "title": "North Korea Behind the $351.6M Bitget Hack? What You Need to Know",
+    "link": "https://cryptopanic.com/news/33448780/North-Korea-Behind-the-3516M-Bitget-Hack-What-You-Need-to-Know",
+    "source": "coinpaper.com",
+    "published": "Fri Sep 25 2026 05:38:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: KelpDAO sues LayerZero and co-founder Bryan Pellegrino, alleging their security failures caused this year's rsETH bridge exploit.",
+    "link": "https://cryptopanic.com/news/33448824/JUST-IN-KelpDAO-sues-LayerZero-and-co-founder-Bryan-Pellegrino-alleging-their-security-failures-caused-this-years-rsETH-bridge-exploit",
+    "source": "@cointelegraph",
+    "published": "Fri Sep 25 2026 05:31:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitget Breach: North Korea Link Probed, Withdrawals Paused",
+    "link": "https://cryptopanic.com/news/33448721/Bitget-Breach-North-Korea-Link-Probed-Withdrawals-Paused",
+    "source": "coindoo.com",
+    "published": "Fri Sep 25 2026 05:23:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Evercrest (KelpDAO) Files Civil Claim Against LayerZero and CEO Bryan Pellegrino in Canada\n\nLayerZero co-founder and CEO Bryan Pellegrino said Evercrest (KelpDAO) filed a notice of civil claim in British Columbia against LayerZero and Pellegrino personally. He called the claims",
+    "link": "https://cryptopanic.com/news/33448822/Evercrest-KelpDAO-Files-Civil-Claim-Against-LayerZero-and-CEO-Bryan-Pellegrino-in-Canada-LayerZero-co-founder-and-CEO-Bryan-Pellegrino-said-Evercrest-KelpDAO-filed-a-notice-of-civil-claim-in-British-Columbia-against-LayerZero-and-Pellegrino-personally-He-called-the-claims",
+    "source": "@wublockchain",
+    "published": "Fri Sep 25 2026 05:21:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ondo unlocks BlackRock portfolio strategies, but only non-US traders benefit",
+    "link": "https://cryptopanic.com/news/33448722/Ondo-unlocks-BlackRock-portfolio-strategies-but-only-non-US-traders-benefit",
+    "source": "cryptoslate.com",
+    "published": "Fri Sep 25 2026 05:20:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "North Korean Hackers “Very Likely” Drained $350 Million From Bitget, CEO Says",
+    "link": "https://cryptopanic.com/news/33448818/North-Korean-Hackers-Very-Likely-Drained-350-Million-From-Bitget-CEO-Says",
+    "source": "beincrypto.com",
+    "published": "Fri Sep 25 2026 05:20:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitget CEO links $351M exchange breach to North Korean hackers",
+    "link": "https://cryptopanic.com/news/33448716/Bitget-CEO-links-351M-exchange-breach-to-North-Korean-hackers",
+    "source": "cryptopolitan.com",
+    "published": "Fri Sep 25 2026 05:16:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ICYMI:  Grayscale's Zach Pandl says Payward's plan to bring Hyperliquid perpetuals to US clients through Kraken's Bitnomial exchange could open a major regulated growth path for the protocol.",
+    "link": "https://cryptopanic.com/news/33448761/ICYMI-Grayscales-Zach-Pandl-says-Paywards-plan-to-bring-Hyperliquid-perpetuals-to-US-clients-through-Krakens-Bitnomial-exchange-could-open-a-major-regulated-growth-path-for-the-protocol",
+    "source": "@coinmarketcap",
+    "published": "Fri Sep 25 2026 05:05:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Arbitrum Introduces a New Way to Prioritize Transactions\n\nArbitrum (@arbitrum) has launched Priority Gas Auctions and Fast Feed on Arbitrum One.\n\nPriority Gas Auctions let users compete for earlier transaction execution through priority fees. Fast Feed gives subscribers faster",
     "link": "https://cryptopanic.com/news/33448705/Arbitrum-Introduces-a-New-Way-to-Prioritize-Transactions-Arbitrum-arbitrum-has-launched-Priority-Gas-Auctions-and-Fast-Feed-on-Arbitrum-One-Priority-Gas-Auctions-let-users-compete-for-earlier-transaction-execution-through-priority-fees-Fast-Feed-gives-subscribers-faster",
     "source": "@bscnews",
     "published": "Fri Sep 25 2026 05:02:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "30-Year Mortgage Rate Hits 7.45%. What Does It Mean for Crypto?",
+    "link": "https://cryptopanic.com/news/33448817/30-Year-Mortgage-Rate-Hits-745-What-Does-It-Mean-for-Crypto",
+    "source": "beincrypto.com",
+    "published": "Fri Sep 25 2026 05:01:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "️ ELON MUSK: “I am cautiously optimistic that SpaceX will have a Fable/GPT-6 level model in 2 to 3 months.”",
+    "link": "https://cryptopanic.com/news/33448823/ELON-MUSK-I-am-cautiously-optimistic-that-SpaceX-will-have-a-FableGPT-6-level-model-in-2-to-3-months",
+    "source": "@cointelegraph",
+    "published": "Fri Sep 25 2026 05:01:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitget Wallet said it was unaffected by the Bitget Exchange security incident. As an independently operated self-custodial wallet, user assets remain onchain and under users’ control. Services are operating normally, and users are advised to remain alert to phishing and",
+    "link": "https://cryptopanic.com/news/33448821/Bitget-Wallet-said-it-was-unaffected-by-the-Bitget-Exchange-security-incident-As-an-independently-operated-self-custodial-wallet-user-assets-remain-onchain-and-under-users-control-Services-are-operating-normally-and-users-are-advised-to-remain-alert-to-phishing-and",
+    "source": "@wublockchain",
+    "published": "Fri Sep 25 2026 05:00:31 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -18,6 +95,13 @@
     "link": "https://cryptopanic.com/news/33448640/ChangeNOW-Pitches-Swap-Widgets-as-Web3-Ad-Alternative",
     "source": "catenaa.com",
     "published": "Fri Sep 25 2026 05:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ħ EMTECH - Project Update from August 2026: \"The Central Bank of Nigeria (CBN) launches Regulatory Sandbox Cohort 2, powered by Emtech.\" Runs on Hedera. Accenture invested in Emtech 2 years ago to modernize central bank operations. Ħ",
+    "link": "https://cryptopanic.com/news/33448827/EMTECH-Project-Update-from-August-2026-The-Central-Bank-of-Nigeria-CBN-launches-Regulatory-Sandbox-Cohort-2-powered-by-Emtech-Runs-on-Hedera-Accenture-invested-in-Emtech-2-years-ago-to-modernize-central-bank-operations",
+    "source": "r/hedera",
+    "published": "Fri Sep 25 2026 04:53:43 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -123,90 +207,6 @@
     "link": "https://cryptopanic.com/news/33448567/Bitcoin-Quantum-Protection-Gets-79-Cheaper-The-estimated-cost-of-preparing-a-quantum-safe-Bitcoin-bitcoinnative-transaction-has-fallen-to-about-66-StarkWare-reported-This-represents-a-79-decrease-compared-to-the-previously-observed-320-price-tag-in-August-The-reduction",
     "source": "@bscnews",
     "published": "Fri Sep 25 2026 04:03:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇧🇷 REGULATION: Brazil's central bank mandates reporting for self-custody wallet transfers of $10,000 or more starting October 1.",
-    "link": "https://cryptopanic.com/news/33448561/REGULATION-Brazils-central-bank-mandates-reporting-for-self-custody-wallet-transfers-of-10000-or-more-starting-October-1",
-    "source": "@cointelegraph",
-    "published": "Fri Sep 25 2026 04:01:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why TRUMP crypto’s recovery odds depend on the $1.93 support",
-    "link": "https://cryptopanic.com/news/33448458/Why-TRUMP-cryptos-recovery-odds-depend-on-the-193-support",
-    "source": "ambcrypto.com",
-    "published": "Fri Sep 25 2026 04:00:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Bottom? AI Trade & Huge Gains Ahead!",
-    "link": "https://cryptopanic.com/news/33448461/Bitcoin-Bottom-AI-Trade-Huge-Gains-Ahead",
-    "source": "TheCryptoLark",
-    "published": "Fri Sep 25 2026 04:00:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Qiao Wang: Zcash Is Bitcoin That Is Capable of Changes\n\nOn September 15, 2026, Qiao Wang @QwQiao, co-founder of Alliance, said on the Good Game Podcast @goodgamepodxyz that Zcash is like \"Bitcoin that can change,\" with its key advantage being its ability to adapt to emerging",
-    "link": "https://cryptopanic.com/news/33448492/Qiao-Wang-Zcash-Is-Bitcoin-That-Is-Capable-of-Changes-On-September-15-2026-Qiao-Wang-QwQiao-co-founder-of-Alliance-said-on-the-Good-Game-Podcast-goodgamepodxyz-that-Zcash-is-like-Bitcoin-that-can-change-with-its-key-advantage-being-its-ability-to-adapt-to-emerging",
-    "source": "@wublockchain",
-    "published": "Fri Sep 25 2026 04:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Arbitflow Expands Managed Crypto Trading With $25 Entry",
-    "link": "https://cryptopanic.com/news/33448410/Arbitflow-Expands-Managed-Crypto-Trading-With-25-Entry",
-    "source": "catenaa.com",
-    "published": "Fri Sep 25 2026 04:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitget Loses $351.6 Million in Hot Wallet Breach, Rules Out Private Key Compromise",
-    "link": "https://cryptopanic.com/news/33448402/Bitget-Loses-3516-Million-in-Hot-Wallet-Breach-Rules-Out-Private-Key-Compromise",
-    "source": "www.blockhead.co",
-    "published": "Fri Sep 25 2026 03:53:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "How TAO lost 10% after falling OI triggered three-day price correction",
-    "link": "https://cryptopanic.com/news/33448404/How-TAO-lost-10-after-falling-OI-triggered-three-day-price-correction",
-    "source": "ambcrypto.com",
-    "published": "Fri Sep 25 2026 03:45:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Letitia James Sues Polymarket Over Alleged 'Illegal Gambling': New York Attorney General Alleges Crypto Betting Marketplace Targets 'Most Vulnerable'",
-    "link": "https://cryptopanic.com/news/33448409/Letitia-James-Sues-Polymarket-Over-Alleged-Illegal-Gambling-New-York-Attorney-General-Alleges-Crypto-Betting-Marketplace-Targets-Most-Vulnerable",
-    "source": "feeds2.benzinga.com",
-    "published": "Fri Sep 25 2026 03:45:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "President Trump, House of Representatives Speaker ‌Mike Johnson and tech CEOs will hold a meeting on artificial intelligence on September 29, a source familiar with the planned meeting said. More here",
-    "link": "https://cryptopanic.com/news/33448397/President-Trump-House-of-Representatives-Speaker-Mike-Johnson-and-tech-CEOs-will-hold-a-meeting-on-artificial-intelligence-on-September-29-a-source-familiar-with-the-planned-meeting-said-More-here",
-    "source": "@reutersbiz",
-    "published": "Fri Sep 25 2026 03:45:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitget Hack Linked to North Korean Hackers\n\nBitget (@bitget) CEO Gracy Chen (@GracyBitget) says North Korean hackers may be behind the $351.6 million breach.\n\nPreliminary findings reportedly linked attack IP addresses to VPN services used by a DPRK group.\n\nChen said investigators",
-    "link": "https://cryptopanic.com/news/33448408/Bitget-Hack-Linked-to-North-Korean-Hackers-Bitget-bitget-CEO-Gracy-Chen-GracyBitget-says-North-Korean-hackers-may-be-behind-the-3516-million-breach-Preliminary-findings-reportedly-linked-attack-IP-addresses-to-VPN-services-used-by-a-DPRK-group-Chen-said-investigators",
-    "source": "@bscnews",
-    "published": "Fri Sep 25 2026 03:43:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Securitize Stock Surges 15% as SEC's Tokenization Exemption Turns RWA Theory Into Trading Reality",
-    "link": "https://cryptopanic.com/news/33448509/Securitize-Stock-Surges-15-as-SECs-Tokenization-Exemption-Turns-RWA-Theory-Into-Trading-Reality",
-    "source": "beincrypto.com",
-    "published": "Fri Sep 25 2026 03:42:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why the Crypto Market Cap Could Reach $50 Trillion This Cycle",
-    "link": "https://cryptopanic.com/news/33448399/Why-the-Crypto-Market-Cap-Could-Reach-50-Trillion-This-Cycle",
-    "source": "Unchained",
-    "published": "Fri Sep 25 2026 03:41:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
