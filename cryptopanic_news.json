@@ -1,5 +1,12 @@
 [
   {
+    "title": "LATEST: 🤖 Anthropic says Claude spent 21 hours and ~210M tokens combing DNA databases to flag a new enzyme system called ART, though its significance is not yet clear.",
+    "link": "https://cryptopanic.com/news/33449032/LATEST-Anthropic-says-Claude-spent-21-hours-and-210M-tokens-combing-DNA-databases-to-flag-a-new-enzyme-system-called-ART-though-its-significance-is-not-yet-clear",
+    "source": "@coinmarketcap",
+    "published": "Fri Sep 25 2026 06:39:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Chainlink's Latest Update Makes Node Problems Easier to Track\n\nChainlink (@chainlink) has released node software v2.65.0 with improved operational monitoring.\n\nThe update adds an “error_type” label for failures inside confidential workflows.\n\nNode operators can now distinguish",
     "link": "https://cryptopanic.com/news/33449017/Chainlinks-Latest-Update-Makes-Node-Problems-Easier-to-Track-Chainlink-chainlink-has-released-node-software-v2650-with-improved-operational-monitoring-The-update-adds-an-error_type-label-for-failures-inside-confidential-workflows-Node-operators-can-now-distinguish",
     "source": "@bscnews",
@@ -11,6 +18,13 @@
     "link": "https://cryptopanic.com/news/33448968/NOW-Ethereums-exchange-supply-has-hit-a-record-low-of-349-of-total-supply-with-116-moving-off-exchanges-since-June-1-per-Santiment",
     "source": "@cointelegraph",
     "published": "Fri Sep 25 2026 06:31:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitget CEO: After FTX, I Don’t Think Major Exchanges Would Comingle User Funds\n\nOn September 24, Bitget CEO Gracy Chen @GracyBitget said the collapse of FTX was a hard lesson for the entire industry, and that she does not believe major exchanges today would intentionally",
+    "link": "https://cryptopanic.com/news/33449034/Bitget-CEO-After-FTX-I-Dont-Think-Major-Exchanges-Would-Comingle-User-Funds-On-September-24-Bitget-CEO-Gracy-Chen-GracyBitget-said-the-collapse-of-FTX-was-a-hard-lesson-for-the-entire-industry-and-that-she-does-not-believe-major-exchanges-today-would-intentionally",
+    "source": "@wublockchain",
+    "published": "Fri Sep 25 2026 06:30:43 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33448821/Bitget-Wallet-said-it-was-unaffected-by-the-Bitget-Exchange-security-incident-As-an-independently-operated-self-custodial-wallet-user-assets-remain-onchain-and-under-users-control-Services-are-operating-normally-and-users-are-advised-to-remain-alert-to-phishing-and",
     "source": "@wublockchain",
     "published": "Fri Sep 25 2026 05:00:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana Foundation Appoints Rachel Conlan as CSO and Jamal Raees as Payments GM",
-    "link": "https://cryptopanic.com/news/33448638/Solana-Foundation-Appoints-Rachel-Conlan-as-CSO-and-Jamal-Raees-as-Payments-GM",
-    "source": "btcusa.com",
-    "published": "Fri Sep 25 2026 05:00:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ChangeNOW Pitches Swap Widgets as Web3 Ad Alternative",
-    "link": "https://cryptopanic.com/news/33448640/ChangeNOW-Pitches-Swap-Widgets-as-Web3-Ad-Alternative",
-    "source": "catenaa.com",
-    "published": "Fri Sep 25 2026 05:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
