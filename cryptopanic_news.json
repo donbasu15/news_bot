@@ -1,51 +1,107 @@
 [
   {
-    "title": "ARK Invest puts OpenAI and Anthropic exposure on Ethereum as tokenized ARKVX goes live",
-    "link": "https://cryptopanic.com/news/33449938/ARK-Invest-puts-OpenAI-and-Anthropic-exposure-on-Ethereum-as-tokenized-ARKVX-goes-live",
+    "title": "Bitget Confirms $351.6 Million Hot Wallet Breach",
+    "link": "https://cryptopanic.com/news/33450330/Bitget-Confirms-3516-Million-Hot-Wallet-Breach",
+    "source": "btcusa.com",
+    "published": "Fri Sep 25 2026 11:15:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: $BTC reclaims $85,000.",
+    "link": "https://cryptopanic.com/news/33450332/JUST-IN-BTC-reclaims-85000",
+    "source": "@coindesk",
+    "published": "Fri Sep 25 2026 11:12:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "For the complete weekly curated reports, subscribe to our Substack",
+    "link": "https://cryptopanic.com/news/33450331/For-the-complete-weekly-curated-reports-subscribe-to-our-Substack",
+    "source": "@wublockchain",
+    "published": "Fri Sep 25 2026 11:12:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "WuBlockchain Weekly: Bitget suffers a $351.6 million security breach, the ECB launches blockchain-based settlement in central bank money, Binance expands into stock trading and deepens its USDC partnership with Circle, while Coinbase opens IPO access to U.S. retail users. This",
+    "link": "https://cryptopanic.com/news/33450328/WuBlockchain-Weekly-Bitget-suffers-a-3516-million-security-breach-the-ECB-launches-blockchain-based-settlement-in-central-bank-money-Binance-expands-into-stock-trading-and-deepens-its-USDC-partnership-with-Circle-while-Coinbase-opens-IPO-access-to-US-retail-users-This",
+    "source": "@wublockchain",
+    "published": "Fri Sep 25 2026 11:12:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "IBM’s on-premises Digital Asset Haven arrives in beta after missing its Q2 2026 target",
+    "link": "https://cryptopanic.com/news/33450275/IBMs-on-premises-Digital-Asset-Haven-arrives-in-beta-after-missing-its-Q2-2026-target",
     "source": "cryptopolitan.com",
-    "published": "Fri Sep 25 2026 10:05:52 GMT+0000 (Coordinated Universal Time)",
+    "published": "Fri Sep 25 2026 11:11:55 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Spot ETFs now hold 1 in every 45 $LINK tokens.\n\nNow on a four-day net inflow streak, the five spot @Chainlink ETFs now hold 2.2% of $LINK's current supply.\n\nThe products are up +$13.02M in September already, reflecting bullish sentiment among institutional investors.",
-    "link": "https://cryptopanic.com/news/33447485/Spot-ETFs-now-hold-1-in-every-45-LINK-tokens-Now-on-a-four-day-net-inflow-streak-the-five-spot-Chainlink-ETFs-now-hold-22-of-LINKs-current-supply-The-products-are-up-1302M-in-September-already-reflecting-bullish-sentiment-among-institutional-investors",
-    "source": "@bscnews",
-    "published": "Thu Sep 24 2026 22:13:00 GMT+0000 (Coordinated Universal Time)",
+    "title": "KelpDAO Developer Sues LayerZero Over $292M Bridge Exploit",
+    "link": "https://cryptopanic.com/news/33450274/KelpDAO-Developer-Sues-LayerZero-Over-292M-Bridge-Exploit",
+    "source": "decrypt.co",
+    "published": "Fri Sep 25 2026 11:09:52 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Stock Market Today: S&P 500, Nasdaq 100, Dow Jones Futures Drop as Bessent Says Iranian Aviation Restrictions Are Working— Airbnb, Oracle, Costco in Focus (UPDATED)",
-    "link": "https://cryptopanic.com/news/33443342/Stock-Market-Today-SP-500-Nasdaq-100-Dow-Jones-Futures-Drop-as-Bessent-Says-Iranian-Aviation-Restrictions-Are-Working-Airbnb-Oracle-Costco-in-Focus-UPDATED",
+    "title": "BlackRock Puts Multi-Trillion Preset Templates On-Chain",
+    "link": "https://cryptopanic.com/news/33450276/BlackRock-Puts-Multi-Trillion-Preset-Templates-On-Chain",
+    "source": "dailycoin.com",
+    "published": "Fri Sep 25 2026 11:09:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Vitalik Buterin Says Ethereum Is Becoming ‘Much Bigger’ Than a Blockchain — Touts Optimism About 'Huge Amount of Progress'",
+    "link": "https://cryptopanic.com/news/33450343/Vitalik-Buterin-Says-Ethereum-Is-Becoming-Much-Bigger-Than-a-Blockchain-Touts-Optimism-About-Huge-Amount-of-Progress",
     "source": "feeds2.benzinga.com",
-    "published": "Thu Sep 24 2026 09:01:57 GMT+0000 (Coordinated Universal Time)",
+    "published": "Fri Sep 25 2026 11:01:32 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Can Solana break $120? Examining the battle between SOL ETF inflows and profit-taking",
-    "link": "https://cryptopanic.com/news/33432874/Can-Solana-break-120-Examining-the-battle-between-SOL-ETF-inflows-and-profit-taking",
-    "source": "ambcrypto.com",
-    "published": "Tue Sep 22 2026 20:00:38 GMT+0000 (Coordinated Universal Time)",
+    "title": "ALERT: A whitehat moved 3,832 NFTs from hundreds of wallets after a suspected Magic Eden vulnerability.\n\nYuga Labs’ 0xQuit says the NFTs are safe and will be returned once the risk passes.",
+    "link": "https://cryptopanic.com/news/33450333/ALERT-A-whitehat-moved-3832-NFTs-from-hundreds-of-wallets-after-a-suspected-Magic-Eden-vulnerability-Yuga-Labs-0xQuit-says-the-NFTs-are-safe-and-will-be-returned-once-the-risk-passes",
+    "source": "@cointelegraph",
+    "published": "Fri Sep 25 2026 11:00:58 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Why Billionaire Tim Draper Calls Apple, Meta 'Irresponsible' for Not Holding Bitcoin",
-    "link": "https://cryptopanic.com/news/33431641/Why-Billionaire-Tim-Draper-Calls-Apple-Meta-Irresponsible-for-Not-Holding-Bitcoin",
-    "source": "feeds2.benzinga.com",
-    "published": "Tue Sep 22 2026 15:30:39 GMT+0000 (Coordinated Universal Time)",
+    "title": "Bank of America Customer Loses Nearly $6,000 After Scammers Posing As In-House Fraud Investigators Contact Her",
+    "link": "https://cryptopanic.com/news/33450258/Bank-of-America-Customer-Loses-Nearly-6000-After-Scammers-Posing-As-In-House-Fraud-Investigators-Contact-Her",
+    "source": "dailyhodl.com",
+    "published": "Fri Sep 25 2026 11:00:33 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Strategy Buys 950 BTC, Restores Holdings to 846,000",
-    "link": "https://cryptopanic.com/news/33427654/Strategy-Buys-950-BTC-Restores-Holdings-to-846000",
-    "source": "catenaa.com",
-    "published": "Tue Sep 22 2026 03:00:00 GMT+0000 (Coordinated Universal Time)",
+    "title": "Ethena expands USDe backing strategy into bStocks and equity perpetuals on Binance",
+    "link": "https://cryptopanic.com/news/33450220/Ethena-expands-USDe-backing-strategy-into-bStocks-and-equity-perpetuals-on-Binance",
+    "source": "theblock.co",
+    "published": "Fri Sep 25 2026 11:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Waited for Bitcoin's October Bottom? Benjamin Cowen Says He Was Wrong",
-    "link": "https://cryptopanic.com/news/33424862/Waited-for-Bitcoins-October-Bottom-Benjamin-Cowen-Says-He-Was-Wrong",
-    "source": "beincrypto.com",
-    "published": "Mon Sep 21 2026 14:33:29 GMT+0000 (Coordinated Universal Time)",
+    "title": "Quantum Computers Could Crack Bitcoin Before They Even Work, EU Warns",
+    "link": "https://cryptopanic.com/news/33450222/Quantum-Computers-Could-Crack-Bitcoin-Before-They-Even-Work-EU-Warns",
+    "source": "coinpaprika.com",
+    "published": "Fri Sep 25 2026 11:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Stablecoin News: Tether CEO Confirms USDT is Coming to Bitcoin",
+    "link": "https://cryptopanic.com/news/33450221/Stablecoin-News-Tether-CEO-Confirms-USDT-is-Coming-to-Bitcoin",
+    "source": "thecoinrepublic.com",
+    "published": "Fri Sep 25 2026 11:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitget Hacked for $350 Million: What Happened on September 24",
+    "link": "https://cryptopanic.com/news/33450237/Bitget-Hacked-for-350-Million-What-Happened-on-September-24",
+    "source": "spaziocrypto.com",
+    "published": "Fri Sep 25 2026 10:56:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Magic Eden said it stopped using Payment Processor V2 in October 2024 and shut down its EVM Marketplace in Q1 2026, so no current live listings were affected by the incident. The company said NFTs listed on its EVM marketplace between approximately February and October 2024 may",
+    "link": "https://cryptopanic.com/news/33450327/Magic-Eden-said-it-stopped-using-Payment-Processor-V2-in-October-2024-and-shut-down-its-EVM-Marketplace-in-Q1-2026-so-no-current-live-listings-were-affected-by-the-incident-The-company-said-NFTs-listed-on-its-EVM-marketplace-between-approximately-February-and-October-2024-may",
+    "source": "@wublockchain",
+    "published": "Fri Sep 25 2026 10:53:39 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -151,62 +207,6 @@
     "link": "https://cryptopanic.com/news/33450131/EXCLUSIVE-Hungary-rate-cut-still-possible-this-year-if-euro-plan-gains-traction-deputy-governor-says",
     "source": "@reutersbiz",
     "published": "Fri Sep 25 2026 10:30:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Quant Network's $QNT leads gains among all major assets.\n\n@quantnetwork's native asset is currently up an insane +39% on the day, and some +58% on the week, according to CMC data.\n\nThe move is triggered by a recent partnership announcement with The Clearing House, @TCHtweets,",
-    "link": "https://cryptopanic.com/news/33450140/Quant-Networks-QNT-leads-gains-among-all-major-assets-quantnetworks-native-asset-is-currently-up-an-insane-39-on-the-day-and-some-58-on-the-week-according-to-CMC-data-The-move-is-triggered-by-a-recent-partnership-announcement-with-The-Clearing-House-TCHtweets",
-    "source": "@bscnews",
-    "published": "Fri Sep 25 2026 10:26:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Bitcoin ETFs bought $2.3B through Thursday.\n\n$190M inflows yesterday despite $84k stagnation.\n\nInstitutions keep betting on BTC.\n\nBullish!",
-    "link": "https://cryptopanic.com/news/33450195/JUST-IN-Bitcoin-ETFs-bought-23B-through-Thursday-190M-inflows-yesterday-despite-84k-stagnation-Institutions-keep-betting-on-BTC-Bullish",
-    "source": "@btc_archive",
-    "published": "Fri Sep 25 2026 10:25:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ICYMI:  Morgan Stanley and Oliver Wyman project tokenized assets will grow from ~$40B today to $2.3T by 2030.",
-    "link": "https://cryptopanic.com/news/33450065/ICYMI-Morgan-Stanley-and-Oliver-Wyman-project-tokenized-assets-will-grow-from-40B-today-to-23T-by-2030",
-    "source": "@coinmarketcap",
-    "published": "Fri Sep 25 2026 10:25:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Qatar Airways is speeding up plans to replace parts of its fleet and second some pilots to RwandAir in response to the war in Iran. READ",
-    "link": "https://cryptopanic.com/news/33450130/Qatar-Airways-is-speeding-up-plans-to-replace-parts-of-its-fleet-and-second-some-pilots-to-RwandAir-in-response-to-the-war-in-Iran-READ",
-    "source": "@reutersbiz",
-    "published": "Fri Sep 25 2026 10:19:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana ETF News: Cumulative Inflows Surge to $1.52B as LiquidChain Presale Nears $1M",
-    "link": "https://cryptopanic.com/news/33449986/Solana-ETF-News-Cumulative-Inflows-Surge-to-152B-as-LiquidChain-Presale-Nears-1M",
-    "source": "cryptonews.com",
-    "published": "Fri Sep 25 2026 10:13:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Access a $130 trillion market for as little as $1.\n\n@asx_capital is a pioneer when it comes to real estate RWAs, opening access to the $130 trillion US property market.\n\nOn @BNBChain, for as little as $1, you can gain access to one of four premium US properties, and earn",
-    "link": "https://cryptopanic.com/news/33450139/Access-a-130-trillion-market-for-as-little-as-1-asx_capital-is-a-pioneer-when-it-comes-to-real-estate-RWAs-opening-access-to-the-130-trillion-US-property-market-On-BNBChain-for-as-little-as-1-you-can-gain-access-to-one-of-four-premium-US-properties-and-earn",
-    "source": "@bscnews",
-    "published": "Fri Sep 25 2026 10:12:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "TokenInsight September Report: MEXC Posts Deepest BTC and ETH Futures Depth at $21.03M, Lowest Silver Slippage at 0.002%",
-    "link": "https://cryptopanic.com/news/33449932/TokenInsight-September-Report-MEXC-Posts-Deepest-BTC-and-ETH-Futures-Depth-at-2103M-Lowest-Silver-Slippage-at-0002",
-    "source": "newsbtc.com",
-    "published": "Fri Sep 25 2026 10:06:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INSIGHT: SEC Commissioner Hester Peirce calls for a rethink of KYC and AML oversight.\n\nShe argues the \"more data, the better\" approach creates haystacks too big to find needles, and that zero-knowledge proofs could verify compliance without exposing personal data.",
-    "link": "https://cryptopanic.com/news/33450068/INSIGHT-SEC-Commissioner-Hester-Peirce-calls-for-a-rethink-of-KYC-and-AML-oversight-She-argues-the-more-data-the-better-approach-creates-haystacks-too-big-to-find-needles-and-that-zero-knowledge-proofs-could-verify-compliance-without-exposing-personal-data",
-    "source": "@coindesk",
-    "published": "Fri Sep 25 2026 10:06:22 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
