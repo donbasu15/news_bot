@@ -1,5 +1,54 @@
 [
   {
+    "title": "Market here",
+    "link": "https://cryptopanic.com/news/33453220/Market-here",
+    "source": "@bitcoinmagazine",
+    "published": "Fri Sep 25 2026 21:49:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$COIN managed to break through the ~$194 resistance this week and is now retesting it from above as potential support. This level needs to hold if the move up is going to continue in the short term.",
+    "link": "https://cryptopanic.com/news/33453222/COIN-managed-to-break-through-the-194-resistance-this-week-and-is-now-retesting-it-from-above-as-potential-support-This-level-needs-to-hold-if-the-move-up-is-going-to-continue-in-the-short-term",
+    "source": "@stackersatoshi",
+    "published": "Fri Sep 25 2026 21:48:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "RWA issuers could force transfers on hidden balances under Ethereum’s ERC-8424 draft",
+    "link": "https://cryptopanic.com/news/33453213/RWA-issuers-could-force-transfers-on-hidden-balances-under-Ethereums-ERC-8424-draft",
+    "source": "cryptopolitan.com",
+    "published": "Fri Sep 25 2026 21:48:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum's New AI Swarm",
+    "link": "https://cryptopanic.com/news/33453211/Ethereums-New-AI-Swarm",
+    "source": "bankless.com",
+    "published": "Fri Sep 25 2026 21:46:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Going LIVE now! Join the Moongang and discuss the new AERO launch schedule + updates, ask me anything and have a casual Friday coin request session!\n\nCryptocurrency Request Show / AMA + $84,000 BTC & $2,700 ETH - Ep.#997",
+    "link": "https://cryptopanic.com/news/33453221/Going-LIVE-now-Join-the-Moongang-and-discuss-the-new-AERO-launch-schedule-updates-ask-me-anything-and-have-a-casual-Friday-coin-request-session-Cryptocurrency-Request-Show-AMA-84000-BTC-amp-2700-ETH-Ep997",
+    "source": "@cultivatecrypto",
+    "published": "Fri Sep 25 2026 21:41:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Tokenized-stock holders have surged from roughly 100K a year ago to 4.3M today, with BNB Chain leading at 1.8M, per Token Terminal.",
+    "link": "https://cryptopanic.com/news/33453223/LATEST-Tokenized-stock-holders-have-surged-from-roughly-100K-a-year-ago-to-43M-today-with-BNB-Chain-leading-at-18M-per-Token-Terminal",
+    "source": "@coinmarketcap",
+    "published": "Fri Sep 25 2026 21:41:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: There's now a 67% chance Bitcoin will reach $90,000 this year, according to Polymarket⁠.com",
+    "link": "https://cryptopanic.com/news/33453218/JUST-IN-Theres-now-a-67-chance-Bitcoin-will-reach-90000-this-year-according-to-Polymarketcom",
+    "source": "@bitcoinmagazine",
+    "published": "Fri Sep 25 2026 21:32:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "🇺🇸 UPDATE: SEC Commissioner Hester Peirce resigns from the SEC, ending her run leading the agency’s Crypto Task Force on Oct. 2.",
     "link": "https://cryptopanic.com/news/33453183/UPDATE-SEC-Commissioner-Hester-Peirce-resigns-from-the-SEC-ending-her-run-leading-the-agencys-Crypto-Task-Force-on-Oct-2",
     "source": "@cointelegraph",
@@ -158,55 +207,6 @@
     "link": "https://cryptopanic.com/news/33453155/INTEL-OpenAI-says-its-agents-leaked-some-user-images-and-that-it-is-still-investigating-the-scope-of-the-rogue-activity-after-identifying-about-two-dozen-incidents-by-mid-September",
     "source": "@solidintel_x",
     "published": "Fri Sep 25 2026 20:33:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SEC crypto FAQ addresses token buybacks, network upgrades and promises of profit",
-    "link": "https://cryptopanic.com/news/33453048/SEC-crypto-FAQ-addresses-token-buybacks-network-upgrades-and-promises-of-profit",
-    "source": "theblock.co",
-    "published": "Fri Sep 25 2026 20:32:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇦🇺 LATEST: Former Australian PM Kevin Rudd calls out Sam Altman over the OpenAI breach; “Sam needs to lift his game.”",
-    "link": "https://cryptopanic.com/news/33453102/LATEST-Former-Australian-PM-Kevin-Rudd-calls-out-Sam-Altman-over-the-OpenAI-breach-Sam-needs-to-lift-his-game",
-    "source": "@cointelegraph",
-    "published": "Fri Sep 25 2026 20:31:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ARK Brings $1.3B Venture Fund Onchain Through Securitize",
-    "link": "https://cryptopanic.com/news/33453008/ARK-Brings-13B-Venture-Fund-Onchain-Through-Securitize",
-    "source": "newsbtc.com",
-    "published": "Fri Sep 25 2026 20:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Alpen Labs announces that USDC is coming to Bitcoin \"enabling BTC holders to borrow, lend, and trade without leaving Bitcoin behind.\" \n\nBullish",
-    "link": "https://cryptopanic.com/news/33453041/NEW-Alpen-Labs-announces-that-USDC-is-coming-to-Bitcoin-enabling-BTC-holders-to-borrow-lend-and-trade-without-leaving-Bitcoin-behind-Bullish",
-    "source": "@bitcoinmagazine",
-    "published": "Fri Sep 25 2026 20:29:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana Stablecoin Supply Hits $17.39B ATH, Up 7% in 24 Hours",
-    "link": "https://cryptopanic.com/news/33452810/Solana-Stablecoin-Supply-Hits-1739B-ATH-Up-7-in-24-Hours",
-    "source": "solanafloor.com",
-    "published": "Fri Sep 25 2026 20:26:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Who is Gilbert Verdian, the man behind Quant?\n\nGilbert Verdian (@gverdian) spent more than 20 years in cybersecurity as a CISO, CIO, and CTO. His resume spans Downing Street, HM Treasury, and the Cabinet Office, as well as Mastercard and HSBC.\n\nIn 2015, he started the push for",
-    "link": "https://cryptopanic.com/news/33453039/Who-is-Gilbert-Verdian-the-man-behind-Quant-Gilbert-Verdian-gverdian-spent-more-than-20-years-in-cybersecurity-as-a-CISO-CIO-and-CTO-His-resume-spans-Downing-Street-HM-Treasury-and-the-Cabinet-Office-as-well-as-Mastercard-and-HSBC-In-2015-he-started-the-push-for",
-    "source": "@bscnews",
-    "published": "Fri Sep 25 2026 20:26:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Grayscale's Zcash ETF hit $1B in AUM, with Grayscale calling ZEC one of the assets \"defining the next era of digital finance.\"",
-    "link": "https://cryptopanic.com/news/33453078/LATEST-Grayscales-Zcash-ETF-hit-1B-in-AUM-with-Grayscale-calling-ZEC-one-of-the-assets-defining-the-next-era-of-digital-finance",
-    "source": "@coinmarketcap",
-    "published": "Fri Sep 25 2026 20:25:13 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
