@@ -1,5 +1,40 @@
 [
   {
+    "title": "JUST IN: #Cardano $ADA 24h trade volume reached as high as $720,000,000 according to CoinGecko.",
+    "link": "https://cryptopanic.com/news/33452212/JUST-IN-Cardano-ADA-24h-trade-volume-reached-as-high-as-720000000-according-to-CoinGecko",
+    "source": "@angrycryptoshow",
+    "published": "Fri Sep 25 2026 16:45:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Austin Hilton says \"I believe in #Cardano $ADA. I love Charles.\"",
+    "link": "https://cryptopanic.com/news/33452211/UPDATE-Austin-Hilton-says-I-believe-in-Cardano-ADA-I-love-Charles",
+    "source": "@angrycryptoshow",
+    "published": "Fri Sep 25 2026 16:45:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Austin Hilton says \"do I own any $ADA? Yeah I do.\"",
+    "link": "https://cryptopanic.com/news/33452210/UPDATE-Austin-Hilton-says-do-I-own-any-ADA-Yeah-I-do",
+    "source": "@angrycryptoshow",
+    "published": "Fri Sep 25 2026 16:44:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 Former U.S. President Joe Biden's son Hunter to speak on the world's premier Bitcoin news show on Monday",
+    "link": "https://cryptopanic.com/news/33452253/JUST-IN-Former-US-President-Joe-Bidens-son-Hunter-to-speak-on-the-worlds-premier-Bitcoin-news-show-on-Monday",
+    "source": "@bitcoinmagazine",
+    "published": "Fri Sep 25 2026 16:42:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CZ stands with hacked rival Bitget\n\n@cz_binance said he expects @binance, the @BNBCHAIN ecosystem, and the community to help however they can. Bitget CEO @GracyBitget thanked him, saying every second counts when tracing stolen assets.\n\n@bitget now puts the loss at about $387.5M",
+    "link": "https://cryptopanic.com/news/33452246/CZ-stands-with-hacked-rival-Bitget-cz_binance-said-he-expects-binance-the-BNBCHAIN-ecosystem-and-the-community-to-help-however-they-can-Bitget-CEO-GracyBitget-thanked-him-saying-every-second-counts-when-tracing-stolen-assets-bitget-now-puts-the-loss-at-about-3875M",
+    "source": "@bscnews",
+    "published": "Fri Sep 25 2026 16:35:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST: CZ offers support to Bitget, saying Binance and the BNB Chain ecosystem will help where they can.",
     "link": "https://cryptopanic.com/news/33452214/LATEST-CZ-offers-support-to-Bitget-saying-Binance-and-the-BNB-Chain-ecosystem-will-help-where-they-can",
     "source": "@cointelegraph",
@@ -32,6 +67,34 @@
     "link": "https://cryptopanic.com/news/33452052/Chainlink-Reserve-crosses-6-million-LINK-chainlink-added-373791-LINK-to-its-Reserve-in-September-worth-more-than-43M-Total-holdings-now-stand-at-6047498-LINK-The-Reserve-converts-off-chain-revenue-from-enterprise-clients-and-onchain-fees-from-service-usage-into-LINK",
     "source": "@bscnews",
     "published": "Fri Sep 25 2026 16:14:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CoinMarketCap acquires CoinGlass, adding derivatives data for 115M users",
+    "link": "https://cryptopanic.com/news/33452237/CoinMarketCap-acquires-CoinGlass-adding-derivatives-data-for-115M-users",
+    "source": "en.cryptonomist.ch",
+    "published": "Fri Sep 25 2026 16:08:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Coinbase tokenized stocks collateral unlocks $29M in DeFi borrowing on Aave",
+    "link": "https://cryptopanic.com/news/33452235/Coinbase-tokenized-stocks-collateral-unlocks-29M-in-DeFi-borrowing-on-Aave",
+    "source": "en.cryptonomist.ch",
+    "published": "Fri Sep 25 2026 16:07:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto regulations advance as CFTC moves ahead after Congress’s crypto bill stalls",
+    "link": "https://cryptopanic.com/news/33452233/Crypto-regulations-advance-as-CFTC-moves-ahead-after-Congresss-crypto-bill-stalls",
+    "source": "en.cryptonomist.ch",
+    "published": "Fri Sep 25 2026 16:07:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Circle Foundation backs stablecoin payment trials for UN aid delivery",
+    "link": "https://cryptopanic.com/news/33452230/Circle-Foundation-backs-stablecoin-payment-trials-for-UN-aid-delivery",
+    "source": "en.cryptonomist.ch",
+    "published": "Fri Sep 25 2026 16:07:14 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -144,69 +207,6 @@
     "link": "https://cryptopanic.com/news/33451969/US-IPO-Proceeds-Jump-Fivefold-SEC-Says",
     "source": "catenaa.com",
     "published": "Fri Sep 25 2026 16:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Charles Hoskinson to attend a Midnight City workshop in Miami to \"lock down how we get to 1M users by the end of 2027. They'll have Midnight Passports, Agentic Wallets, a ton of TXs—that plus RealFi, Pogun, we'll have a lot of users and TVL flowing through IOG products.\"",
-    "link": "https://cryptopanic.com/news/33451963/UPDATE-Charles-Hoskinson-to-attend-a-Midnight-City-workshop-in-Miami-to-lock-down-how-we-get-to-1M-users-by-the-end-of-2027-Theyll-have-Midnight-Passports-Agentic-Wallets-a-ton-of-TXsthat-plus-RealFi-Pogun-well-have-a-lot-of-users-and-TVL-flowing-through-IOG-products",
-    "source": "@angrycryptoshow",
-    "published": "Fri Sep 25 2026 15:59:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Bill Gates warns AI is powerful enough to cause \"a billion deaths.\"",
-    "link": "https://cryptopanic.com/news/33452148/JUST-IN-Bill-Gates-warns-AI-is-powerful-enough-to-cause-a-billion-deaths",
-    "source": "@watcherguru",
-    "published": "Fri Sep 25 2026 15:59:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Charles Hoskinson on Midnight City, says \"every 2 weeks we have a major update. We have a wonderful plan for how we're gonna transform that from 12,000 people to 1,000,000 people. It's a great team, and we know how to bring partners in and make great things happen.\"",
-    "link": "https://cryptopanic.com/news/33451962/UPDATE-Charles-Hoskinson-on-Midnight-City-says-every-2-weeks-we-have-a-major-update-We-have-a-wonderful-plan-for-how-were-gonna-transform-that-from-12000-people-to-1000000-people-Its-a-great-team-and-we-know-how-to-bring-partners-in-and-make-great-things-happen",
-    "source": "@angrycryptoshow",
-    "published": "Fri Sep 25 2026 15:57:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Charles Hoskinson says \"we have a very cooperative, collaborative relationship with Midnight Foundation. I have weekly calls with Fahmi Syed. We work with them very closely, we're already planning TOKEN2049 and Abu Dhabi Finance. We're lockstep on many different things.\"",
-    "link": "https://cryptopanic.com/news/33451959/UPDATE-Charles-Hoskinson-says-we-have-a-very-cooperative-collaborative-relationship-with-Midnight-Foundation-I-have-weekly-calls-with-Fahmi-Syed-We-work-with-them-very-closely-were-already-planning-TOKEN2049-and-Abu-Dhabi-Finance-Were-lockstep-on-many-different-things",
-    "source": "@angrycryptoshow",
-    "published": "Fri Sep 25 2026 15:57:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: #Cardano Founder Charles Hoskinson on the $ADA voucher scandal, says \"I spent 10 years doing the right thing, fighting hard so that people got their money, and my reward was to be accused of being a criminal. When it turned out it wasn't true, we just have to move on.\"",
-    "link": "https://cryptopanic.com/news/33451957/UPDATE-Cardano-Founder-Charles-Hoskinson-on-the-ADA-voucher-scandal-says-I-spent-10-years-doing-the-right-thing-fighting-hard-so-that-people-got-their-money-and-my-reward-was-to-be-accused-of-being-a-criminal-When-it-turned-out-it-wasnt-true-we-just-have-to-move-on",
-    "source": "@angrycryptoshow",
-    "published": "Fri Sep 25 2026 15:56:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Charles Hoskinson says Midnight's roadmap is \"incredibly oriented towards commercialization, adoption, and real-life features. We take a look at TRON, Near, Hyperliquid, the surge of Zcash, Monero, and failed ZK experiments, and we say what worked and what didn't work?\"",
-    "link": "https://cryptopanic.com/news/33451956/UPDATE-Charles-Hoskinson-says-Midnights-roadmap-is-incredibly-oriented-towards-commercialization-adoption-and-real-life-features-We-take-a-look-at-TRON-Near-Hyperliquid-the-surge-of-Zcash-Monero-and-failed-ZK-experiments-and-we-say-what-worked-and-what-didnt-work",
-    "source": "@angrycryptoshow",
-    "published": "Fri Sep 25 2026 15:56:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Strategy Proposes Daily Dividend Payments for Four Preferred Stocks",
-    "link": "https://cryptopanic.com/news/33451976/Strategy-Proposes-Daily-Dividend-Payments-for-Four-Preferred-Stocks",
-    "source": "cryptoprowl.com",
-    "published": "Fri Sep 25 2026 15:51:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The @Shibtoken $SHIB army is now 1,691,153 holders strong per @etherscan... 🦾",
-    "link": "https://cryptopanic.com/news/33452051/The-Shibtoken-SHIB-army-is-now-1691153-holders-strong-per-etherscan",
-    "source": "@bscnews",
-    "published": "Fri Sep 25 2026 15:47:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ANALYSIS:  Wall Street’s push to move onchain is spilling into crypto, with Quant and Ondo surging more than 30% in two days. \n\nCan the rally outlast the headlines? \n\nLet's dive in.",
-    "link": "https://cryptopanic.com/news/33451952/ANALYSIS-Wall-Streets-push-to-move-onchain-is-spilling-into-crypto-with-Quant-and-Ondo-surging-more-than-30-in-two-days-Can-the-rally-outlast-the-headlines-Lets-dive-in",
-    "source": "@coinmarketcap",
-    "published": "Fri Sep 25 2026 15:46:04 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
