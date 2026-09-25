@@ -1,9 +1,156 @@
 [
   {
+    "title": "$ZCSH Hits $1B AUM as Grayscale Doubles Down on Zcash Exposure",
+    "link": "https://cryptopanic.com/news/33449503/ZCSH-Hits-1B-AUM-as-Grayscale-Doubles-Down-on-Zcash-Exposure",
+    "source": "techgaged.com",
+    "published": "Fri Sep 25 2026 08:40:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "@blockaid_ traced the issue to Limit Break’s Payment Processor V2, where old operator approvals can still be used to transfer NFTs for 0 ETH. Canceling listings or a master nonce does not remove that permission\n\n@0xQuit says assets moved to a rescue wallet and are safe and will",
+    "link": "https://cryptopanic.com/news/33449538/blockaid_-traced-the-issue-to-Limit-Breaks-Payment-Processor-V2-where-old-operator-approvals-can-still-be-used-to-transfer-NFTs-for-0-ETH-Canceling-listings-or-a-master-nonce-does-not-remove-that-permission-0xQuit-says-assets-moved-to-a-rescue-wallet-and-are-safe-and-will",
+    "source": "@solidintel_x",
+    "published": "Fri Sep 25 2026 08:39:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ondo Finance Denies It Was Quietly Shopped to Buyers After Founder’s Sudden Death",
+    "link": "https://cryptopanic.com/news/33449499/Ondo-Finance-Denies-It-Was-Quietly-Shopped-to-Buyers-After-Founders-Sudden-Death",
+    "source": "cryptointelligence.co.uk",
+    "published": "Fri Sep 25 2026 08:39:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Quant Tops $100 as Banking News Meets Altcoin Rally",
+    "link": "https://cryptopanic.com/news/33449490/Quant-Tops-100-as-Banking-News-Meets-Altcoin-Rally",
+    "source": "coindoo.com",
+    "published": "Fri Sep 25 2026 08:39:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin ETF inflows drop 81% from peak despite $2.8B six-day streak",
+    "link": "https://cryptopanic.com/news/33449553/Bitcoin-ETF-inflows-drop-81-from-peak-despite-28B-six-day-streak",
+    "source": "en.cryptonomist.ch",
+    "published": "Fri Sep 25 2026 08:38:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "KelpDAO’s lawsuit against LayerZero targets $292 million rsETH exploit",
+    "link": "https://cryptopanic.com/news/33449551/KelpDAOs-lawsuit-against-LayerZero-targets-292-million-rsETH-exploit",
+    "source": "en.cryptonomist.ch",
+    "published": "Fri Sep 25 2026 08:37:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Duelbits crypto hack drains $7M, forcing platform offline",
+    "link": "https://cryptopanic.com/news/33449549/Duelbits-crypto-hack-drains-7M-forcing-platform-offline",
+    "source": "en.cryptonomist.ch",
+    "published": "Fri Sep 25 2026 08:37:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Waymo’s self-driving safety data reveals 82% fewer injury crashes than humans",
+    "link": "https://cryptopanic.com/news/33449547/Waymos-self-driving-safety-data-reveals-82-fewer-injury-crashes-than-humans",
+    "source": "en.cryptonomist.ch",
+    "published": "Fri Sep 25 2026 08:37:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "White House AI model review leads Anthropic to restrict Claude from UK",
+    "link": "https://cryptopanic.com/news/33449546/White-House-AI-model-review-leads-Anthropic-to-restrict-Claude-from-UK",
+    "source": "en.cryptonomist.ch",
+    "published": "Fri Sep 25 2026 08:37:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CodeScan boosts code generation LLM security with 97% detection accuracy",
+    "link": "https://cryptopanic.com/news/33449545/CodeScan-boosts-code-generation-LLM-security-with-97-detection-accuracy",
+    "source": "en.cryptonomist.ch",
+    "published": "Fri Sep 25 2026 08:36:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin ETFs Add Another $190.7M While BTC Battles Back Above $84K",
+    "link": "https://cryptopanic.com/news/33449491/Bitcoin-ETFs-Add-Another-1907M-While-BTC-Battles-Back-Above-84K",
+    "source": "coinpaper.com",
+    "published": "Fri Sep 25 2026 08:36:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "️ NEW: Researchers at Alloc Init propose \"Shielded Bitcoin,\" a Zcash-style system using zero-knowledge proofs to enable private Bitcoin transfers without a soft fork.",
+    "link": "https://cryptopanic.com/news/33449480/NEW-Researchers-at-Alloc-Init-propose-Shielded-Bitcoin-a-Zcash-style-system-using-zero-knowledge-proofs-to-enable-private-Bitcoin-transfers-without-a-soft-fork",
+    "source": "@cointelegraph",
+    "published": "Fri Sep 25 2026 08:31:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: A whitehat reportedly moved 3,832 NFTs worth over $1.5 million to safety after old Magic Eden Ethereum approvals left them exposed to being taken for 0 $ETH\n\nIf you ever used Magic Eden on Ethereum, revoke old marketplace approvals immediately",
+    "link": "https://cryptopanic.com/news/33449537/INTEL-A-whitehat-reportedly-moved-3832-NFTs-worth-over-15-million-to-safety-after-old-Magic-Eden-Ethereum-approvals-left-them-exposed-to-being-taken-for-0-ETH-If-you-ever-used-Magic-Eden-on-Ethereum-revoke-old-marketplace-approvals-immediately",
+    "source": "@solidintel_x",
+    "published": "Fri Sep 25 2026 08:29:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Brazil Brings Self Custody Into New Crypto Reporting Rules\n\nBrazil's central bank will require reporting on certain large crypto transfers involving self-custody wallets.\n\nResolution BCB No. 588 amends existing anti-money laundering and counter-terrorism financing rules. From",
+    "link": "https://cryptopanic.com/news/33449535/Brazil-Brings-Self-Custody-Into-New-Crypto-Reporting-Rules-Brazils-central-bank-will-require-reporting-on-certain-large-crypto-transfers-involving-self-custody-wallets-Resolution-BCB-No-588-amends-existing-anti-money-laundering-and-counter-terrorism-financing-rules-From",
+    "source": "@bscnews",
+    "published": "Fri Sep 25 2026 08:27:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BCH Jumps Before CME Futures Go Live — Institutional Money or Something Else?",
+    "link": "https://cryptopanic.com/news/33449438/BCH-Jumps-Before-CME-Futures-Go-Live-Institutional-Money-or-Something-Else",
+    "source": "techgaged.com",
+    "published": "Fri Sep 25 2026 08:27:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Magic Eden Suspected of NFT Security Vulnerability as White Hat Moves 3,832 NFTs\n\nNFT marketplace Magic Eden is suspected of having a security vulnerability after a white hat moved 3,832 NFTs from hundreds of wallets. Yuga Labs CEO Michael Figge said the issue was discovered",
+    "link": "https://cryptopanic.com/news/33449477/Magic-Eden-Suspected-of-NFT-Security-Vulnerability-as-White-Hat-Moves-3832-NFTs-NFT-marketplace-Magic-Eden-is-suspected-of-having-a-security-vulnerability-after-a-white-hat-moved-3832-NFTs-from-hundreds-of-wallets-Yuga-Labs-CEO-Michael-Figge-said-the-issue-was-discovered",
+    "source": "@wublockchain",
+    "published": "Fri Sep 25 2026 08:18:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Mushroom Rally Puts Robinhood's Stock Token Market in Focus\n\nRobinhood's Mushroom memecoin, robinhood:0xab093def657f15df31b33922a95e047add645b29, has gained about 96% over the past week. The token surged 60% over the last 24 hours alone to hit $25 million market cap.\n\nSHROOM is",
+    "link": "https://cryptopanic.com/news/33449534/Mushroom-Rally-Puts-Robinhoods-Stock-Token-Market-in-Focus-Robinhoods-Mushroom-memecoin-robinhood0xab093def657f15df31b33922a95e047add645b29-has-gained-about-96-over-the-past-week-The-token-surged-60-over-the-last-24-hours-alone-to-hit-25-million-market-cap-SHROOM-is",
+    "source": "@bscnews",
+    "published": "Fri Sep 25 2026 08:10:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Yen's Best Day in Two Weeks: Is Intervention Risk Now the Real Ceiling?",
+    "link": "https://cryptopanic.com/news/33449444/Yens-Best-Day-in-Two-Weeks-Is-Intervention-Risk-Now-the-Real-Ceiling",
+    "source": "beincrypto.com",
+    "published": "Fri Sep 25 2026 08:10:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Streamex Converts Interest Into Capital as GLDY Investment Strategy Secures $1M+ Institutional Allocation",
+    "link": "https://cryptopanic.com/news/33449443/Streamex-Converts-Interest-Into-Capital-as-GLDY-Investment-Strategy-Secures-1M-Institutional-Allocation",
+    "source": "beincrypto.com",
+    "published": "Fri Sep 25 2026 08:06:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST:  Former CFTC Chairman Chris Giancarlo says rising US debt and Fed rate hikes strengthen Bitcoin's case as digital gold, speaking with Bitcoin Magazine.",
     "link": "https://cryptopanic.com/news/33449414/LATEST-Former-CFTC-Chairman-Chris-Giancarlo-says-rising-US-debt-and-Fed-rate-hikes-strengthen-Bitcoins-case-as-digital-gold-speaking-with-Bitcoin-Magazine",
     "source": "@coinmarketcap",
     "published": "Fri Sep 25 2026 08:05:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "️ WATCH: Solana maxi @KyleSamani thinks the bottom is in.\n\n“I think you’re going to see an explosion of social trading and just new, more sophisticated ways to trade, all built on top of crypto rails.”",
+    "link": "https://cryptopanic.com/news/33449478/WATCH-Solana-maxi-KyleSamani-thinks-the-bottom-is-in-I-think-youre-going-to-see-an-explosion-of-social-trading-and-just-new-more-sophisticated-ways-to-trade-all-built-on-top-of-crypto-rails",
+    "source": "@cointelegraph",
+    "published": "Fri Sep 25 2026 08:02:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "WOW: @dfinity just hit a new network throughput high, 1,608 TPS. \n\nOn Wednesday, $ICP processed a massive 138.9 MILLION transactions in a single day.\n\n$ICP continues to prove it can handle serious scale.\n\nData: @chainspect_app",
+    "link": "https://cryptopanic.com/news/33449533/WOW-dfinity-just-hit-a-new-network-throughput-high-1608-TPS-On-Wednesday-ICP-processed-a-massive-1389-MILLION-transactions-in-a-single-day-ICP-continues-to-prove-it-can-handle-serious-scale-Data-chainspect_app",
+    "source": "@realallincrypto",
+    "published": "Fri Sep 25 2026 08:00:34 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -35,6 +182,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Kelp DAO Sues LayerZero and Co-Founder Over $292 Million rsETH Exploit",
+    "link": "https://cryptopanic.com/news/33449442/Kelp-DAO-Sues-LayerZero-and-Co-Founder-Over-292-Million-rsETH-Exploit",
+    "source": "beincrypto.com",
+    "published": "Fri Sep 25 2026 07:49:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "XRP Holds The Biggest Share of Bitget's Stolen Funds\n\nBitget's reported $351.6 million loss includes 102.93 million ripple:native, according to Lookonchain.\n\nThe XRP holdings were worth approximately $157.48 million at the time of tracking.\n\nMost Ethereum-family assets were",
     "link": "https://cryptopanic.com/news/33449274/XRP-Holds-The-Biggest-Share-of-Bitgets-Stolen-Funds-Bitgets-reported-3516-million-loss-includes-10293-million-ripplenative-according-to-Lookonchain-The-XRP-holdings-were-worth-approximately-15748-million-at-the-time-of-tracking-Most-Ethereum-family-assets-were",
     "source": "@bscnews",
@@ -42,171 +196,17 @@
     "sentiment": "neutral"
   },
   {
-    "title": "ONDO Price Jumps 27% in a Day: Which Levels to Watch Next",
-    "link": "https://cryptopanic.com/news/33449203/ONDO-Price-Jumps-27-in-a-Day-Which-Levels-to-Watch-Next",
-    "source": "coindoo.com",
-    "published": "Fri Sep 25 2026 07:35:41 GMT+0000 (Coordinated Universal Time)",
+    "title": "Ondo Finance’s tokenized portfolios launch as ONDO token jumps 16% in a day",
+    "link": "https://cryptopanic.com/news/33449544/Ondo-Finances-tokenized-portfolios-launch-as-ONDO-token-jumps-16-in-a-day",
+    "source": "en.cryptonomist.ch",
+    "published": "Fri Sep 25 2026 07:42:53 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Tokenized stockholders hit 4.3 million, up 43x in a year",
-    "link": "https://cryptopanic.com/news/33449201/Tokenized-stockholders-hit-43-million-up-43x-in-a-year",
-    "source": "cryptopolitan.com",
-    "published": "Fri Sep 25 2026 07:32:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: The APAC region accounts for half of the Global Crypto Adoption Index. Bitget suffers massive $351.6M loss and OpenAI forgets to mention its agents hacked the Australian Government.\n\nAsia Express this week",
-    "link": "https://cryptopanic.com/news/33449251/LATEST-The-APAC-region-accounts-for-half-of-the-Global-Crypto-Adoption-Index-Bitget-suffers-massive-3516M-loss-and-OpenAI-forgets-to-mention-its-agents-hacked-the-Australian-Government-Asia-Express-this-week",
-    "source": "@cointelegraph",
-    "published": "Fri Sep 25 2026 07:30:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "No Institution Cut Its Crypto Allocation Through the 50% Drawdown, Bitwise Survey Finds",
-    "link": "https://cryptopanic.com/news/33449200/No-Institution-Cut-Its-Crypto-Allocation-Through-the-50-Drawdown-Bitwise-Survey-Finds",
-    "source": "www.blockhead.co",
-    "published": "Fri Sep 25 2026 07:30:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "EU Watchdog Targets Crypto Lending Under MiCA\n\nThe European Banking Authority wants crypto lending brought under the EU's MiCA framework.\n\nThe regulator urged the European Commission to assess new rules for crypto borrowing and lending. Potential measures include suitability",
-    "link": "https://cryptopanic.com/news/33449273/EU-Watchdog-Targets-Crypto-Lending-Under-MiCA-The-European-Banking-Authority-wants-crypto-lending-brought-under-the-EUs-MiCA-framework-The-regulator-urged-the-European-Commission-to-assess-new-rules-for-crypto-borrowing-and-lending-Potential-measures-include-suitability",
-    "source": "@bscnews",
-    "published": "Fri Sep 25 2026 07:27:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  French chipmaker Sequans has sold its final 314 BTC, exiting its bitcoin reserve strategy entirely after previously holding over 3,200 coins.",
-    "link": "https://cryptopanic.com/news/33449248/LATEST-French-chipmaker-Sequans-has-sold-its-final-314-BTC-exiting-its-bitcoin-reserve-strategy-entirely-after-previously-holding-over-3200-coins",
-    "source": "@coinmarketcap",
-    "published": "Fri Sep 25 2026 07:25:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto Exchange Bitget Confirms $351,600,000 Hot Wallet Breach, Abruptly Suspends Withdrawals",
-    "link": "https://cryptopanic.com/news/33449154/Crypto-Exchange-Bitget-Confirms-351600000-Hot-Wallet-Breach-Abruptly-Suspends-Withdrawals",
-    "source": "dailyhodl.com",
-    "published": "Fri Sep 25 2026 07:15:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hunter Biden's LAPTOP Memecoin Pops 13%, While Bitcoin and Dogecoin Trail—What's Going On?",
-    "link": "https://cryptopanic.com/news/33449162/Hunter-Bidens-LAPTOP-Memecoin-Pops-13-While-Bitcoin-and-Dogecoin-TrailWhats-Going-On",
-    "source": "feeds2.benzinga.com",
-    "published": "Fri Sep 25 2026 07:11:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hackers moved $351.6M from Bitget's hot wallets on Sept. 24, 2026. What was taken, what's frozen, whether user funds are safe, and how BGB reacted.",
-    "link": "https://cryptopanic.com/news/33449117/Hackers-moved-3516M-from-Bitgets-hot-wallets-on-Sept-24-2026-What-was-taken-whats-frozen-whether-user-funds-are-safe-and-how-BGB-reacted",
-    "source": "@bscnews",
-    "published": "Fri Sep 25 2026 07:10:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Payy bridge exploit freezes crypto cards, and no balances remain safe",
-    "link": "https://cryptopanic.com/news/33449104/Payy-bridge-exploit-freezes-crypto-cards-and-no-balances-remain-safe",
-    "source": "cryptoslate.com",
-    "published": "Fri Sep 25 2026 07:10:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Live updates: Bitcoin steadies near $84,000 as the bond selloff pauses",
-    "link": "https://cryptopanic.com/news/33449272/Live-updates-Bitcoin-steadies-near-84000-as-the-bond-selloff-pauses",
-    "source": "coindesk.com",
-    "published": "Fri Sep 25 2026 07:09:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33449249/Source",
-    "source": "@wublockchain",
-    "published": "Fri Sep 25 2026 07:05:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitget Wallet Hack Steals $351.6M: Gracy Chen Points Finger at North Korea",
-    "link": "https://cryptopanic.com/news/33449157/Bitget-Wallet-Hack-Steals-3516M-Gracy-Chen-Points-Finger-at-North-Korea",
-    "source": "cryptonews.com",
-    "published": "Fri Sep 25 2026 07:04:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Narratives don't die instantly. They fade slowly while most people are still holding the bags of the last one.\n\nWhen coins start going from outperformance and relative strength to the opposite, it is often a reason to reassess the thesis.",
-    "link": "https://cryptopanic.com/news/33449114/Narratives-dont-die-instantly-They-fade-slowly-while-most-people-are-still-holding-the-bags-of-the-last-one-When-coins-start-going-from-outperformance-and-relative-strength-to-the-opposite-it-is-often-a-reason-to-reassess-the-thesis",
-    "source": "@daancrypto",
-    "published": "Fri Sep 25 2026 07:02:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 ETF FLOWS: BTC, ETH, SOL and XRP spot ETFs saw net inflows on Sept. 24.\n\nBTC: $190.65M\nETH: $66.01M\nSOL: $32.81M\nXRP: $14.89M",
-    "link": "https://cryptopanic.com/news/33449113/ETF-FLOWS-BTC-ETH-SOL-and-XRP-spot-ETFs-saw-net-inflows-on-Sept-24-BTC-19065M-ETH-6601M-SOL-3281M-XRP-1489M",
-    "source": "@cointelegraph",
-    "published": "Fri Sep 25 2026 07:01:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitget CEO confirms ‘loss containment’ after $352M hack: ‘Very likely a North Korean group’",
-    "link": "https://cryptopanic.com/news/33449080/Bitget-CEO-confirms-loss-containment-after-352M-hack-Very-likely-a-North-Korean-group",
-    "source": "ambcrypto.com",
-    "published": "Fri Sep 25 2026 07:00:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JAPAN MAY INTERVENE AGAIN AS THE YEN SLIDES TOWARD ¥160 PER DOLLAR. \n\nEven after the BoJ raised rates to a 31-year high of 1.25%, the yen keeps weakening.\n\nAuthorities are now checking FX rates with banks, a classic warning sign that direct intervention could be coming.",
-    "link": "https://cryptopanic.com/news/33449115/JAPAN-MAY-INTERVENE-AGAIN-AS-THE-YEN-SLIDES-TOWARD-160-PER-DOLLAR-Even-after-the-BoJ-raised-rates-to-a-31-year-high-of-125-the-yen-keeps-weakening-Authorities-are-now-checking-FX-rates-with-banks-a-classic-warning-sign-that-direct-intervention-could-be-coming",
-    "source": "@realallincrypto",
-    "published": "Fri Sep 25 2026 07:00:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "IBM Opens a Path for Banks to Move Tokenized Deposits on Swift's Ledger",
-    "link": "https://cryptopanic.com/news/33449042/IBM-Opens-a-Path-for-Banks-to-Move-Tokenized-Deposits-on-Swifts-Ledger",
-    "source": "coinpaprika.com",
-    "published": "Fri Sep 25 2026 07:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why Is Tether Bringing USDT Back to Bitcoin Now? Morgan Stanley Offers a Clue",
-    "link": "https://cryptopanic.com/news/33449250/Why-Is-Tether-Bringing-USDT-Back-to-Bitcoin-Now-Morgan-Stanley-Offers-a-Clue",
-    "source": "beincrypto.com",
-    "published": "Fri Sep 25 2026 06:55:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Vitalik Buterin Warns Blockchain Privacy is Breaking Down\n\nEthereum co-founder Vitalik Buterin (@VitalikButerin) says traditional blockchain pseudonymity is becoming increasingly unreliable.\n\nAt the Global Blockchain Summit in Shanghai, he pointed to AI and data analytics as",
-    "link": "https://cryptopanic.com/news/33449116/Vitalik-Buterin-Warns-Blockchain-Privacy-is-Breaking-Down-Ethereum-co-founder-Vitalik-Buterin-VitalikButerin-says-traditional-blockchain-pseudonymity-is-becoming-increasingly-unreliable-At-the-Global-Blockchain-Summit-in-Shanghai-he-pointed-to-AI-and-data-analytics-as",
-    "source": "@bscnews",
-    "published": "Fri Sep 25 2026 06:54:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🤖 Anthropic says Claude spent 21 hours and ~210M tokens combing DNA databases to flag a new enzyme system called ART, though its significance is not yet clear.",
-    "link": "https://cryptopanic.com/news/33449032/LATEST-Anthropic-says-Claude-spent-21-hours-and-210M-tokens-combing-DNA-databases-to-flag-a-new-enzyme-system-called-ART-though-its-significance-is-not-yet-clear",
-    "source": "@coinmarketcap",
-    "published": "Fri Sep 25 2026 06:39:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Chainlink's Latest Update Makes Node Problems Easier to Track\n\nChainlink (@chainlink) has released node software v2.65.0 with improved operational monitoring.\n\nThe update adds an “error_type” label for failures inside confidential workflows.\n\nNode operators can now distinguish",
-    "link": "https://cryptopanic.com/news/33449017/Chainlinks-Latest-Update-Makes-Node-Problems-Easier-to-Track-Chainlink-chainlink-has-released-node-software-v2650-with-improved-operational-monitoring-The-update-adds-an-error_type-label-for-failures-inside-confidential-workflows-Node-operators-can-now-distinguish",
-    "source": "@bscnews",
-    "published": "Fri Sep 25 2026 06:36:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NOW: Ethereum's exchange supply has hit a record low of 3.49% of total supply, with 1.16% moving off exchanges since June 1, per Santiment.",
-    "link": "https://cryptopanic.com/news/33448968/NOW-Ethereums-exchange-supply-has-hit-a-record-low-of-349-of-total-supply-with-116-moving-off-exchanges-since-June-1-per-Santiment",
-    "source": "@cointelegraph",
-    "published": "Fri Sep 25 2026 06:31:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitget CEO: After FTX, I Don’t Think Major Exchanges Would Comingle User Funds\n\nOn September 24, Bitget CEO Gracy Chen @GracyBitget said the collapse of FTX was a hard lesson for the entire industry, and that she does not believe major exchanges today would intentionally",
-    "link": "https://cryptopanic.com/news/33449034/Bitget-CEO-After-FTX-I-Dont-Think-Major-Exchanges-Would-Comingle-User-Funds-On-September-24-Bitget-CEO-Gracy-Chen-GracyBitget-said-the-collapse-of-FTX-was-a-hard-lesson-for-the-entire-industry-and-that-she-does-not-believe-major-exchanges-today-would-intentionally",
-    "source": "@wublockchain",
-    "published": "Fri Sep 25 2026 06:30:43 GMT+0000 (Coordinated Universal Time)",
+    "title": "Quant QNT price surge hits annual high after deal with 25 US banks",
+    "link": "https://cryptopanic.com/news/33449543/Quant-QNT-price-surge-hits-annual-high-after-deal-with-25-US-banks",
+    "source": "en.cryptonomist.ch",
+    "published": "Fri Sep 25 2026 07:42:42 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
