@@ -1,5 +1,40 @@
 [
   {
+    "title": "Circle exec warns Germany’s 50% crypto tax rule could hit retail investors",
+    "link": "https://cryptopanic.com/news/33454153/Circle-exec-warns-Germanys-50-crypto-tax-rule-could-hit-retail-investors",
+    "source": "cryptopolitan.com",
+    "published": "Sat Sep 26 2026 04:35:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTERESTING: 81% of the $BTC supply hasn't moved in 6 months.",
+    "link": "https://cryptopanic.com/news/33454146/INTERESTING-81-of-the-BTC-supply-hasnt-moved-in-6-months",
+    "source": "@cointelegraph",
+    "published": "Sat Sep 26 2026 04:31:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitget Confirms $351.6M Hot Wallet Breach And Pauses Withdrawals",
+    "link": "https://cryptopanic.com/news/33454120/Bitget-Confirms-3516M-Hot-Wallet-Breach-And-Pauses-Withdrawals",
+    "source": "newsbtc.com",
+    "published": "Sat Sep 26 2026 04:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "It looks like the #Bitget hacker withdrew $1.23M from #Binance 11 hours ago.\n\nWallet 0x4885 withdrew 257.6 $ETH ($692K) and 545K $USDT from #Binance, then swapped the 545K $USDT for 200.2 $ETH.\n\nIt then transferred all 457.9 $ETH ($1.23M) to the #Bitget hacker's wallet an hour",
+    "link": "https://cryptopanic.com/news/33454175/It-looks-like-the-Bitget-hacker-withdrew-123M-from-Binance-11-hours-ago-Wallet-0x4885-withdrew-2576-ETH-692K-and-545K-USDT-from-Binance-then-swapped-the-545K-USDT-for-2002-ETH-It-then-transferred-all-4579-ETH-123M-to-the-Bitget-hackers-wallet-an-hour",
+    "source": "@lookonchain",
+    "published": "Sat Sep 26 2026 04:17:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+    "link": "https://cryptopanic.com/news/33454148/Bitcoin-could-soon-get-Zcash-style-shielded-privacy-without-changing-its-rules",
+    "source": "coindesk.com",
+    "published": "Sat Sep 26 2026 04:02:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Fed proposes new stablecoin rules under GENIUS Act — What to expect?",
     "link": "https://cryptopanic.com/news/33454076/Fed-proposes-new-stablecoin-rules-under-GENIUS-Act-What-to-expect",
     "source": "ambcrypto.com",
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33453970/Bitcoin-is-outperforming-Over-the-past-15-months-BTC-is-up-37-vs-gold-35-vs-the-SampP-500",
     "source": "@stackersatoshi",
     "published": "Sat Sep 26 2026 02:17:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Will AI Agents Buy Bitcoin? BlackRock's Bold Prediction!",
-    "link": "https://cryptopanic.com/news/33453896/Will-AI-Agents-Buy-Bitcoin-BlackRocks-Bold-Prediction",
-    "source": "SimplyBitcoin",
-    "published": "Sat Sep 26 2026 02:00:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "EBA Urges EU to Regulate Crypto Lending in MiCA Review",
-    "link": "https://cryptopanic.com/news/33453862/EBA-Urges-EU-to-Regulate-Crypto-Lending-in-MiCA-Review",
-    "source": "btcusa.com",
-    "published": "Sat Sep 26 2026 02:00:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CME Adds Bitcoin Cash, Uniswap Futures to Crypto Push",
-    "link": "https://cryptopanic.com/news/33453864/CME-Adds-Bitcoin-Cash-Uniswap-Futures-to-Crypto-Push",
-    "source": "catenaa.com",
-    "published": "Sat Sep 26 2026 02:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stolen FBI medical records show why personnel data is now a prime cyber target",
-    "link": "https://cryptopanic.com/news/33453848/Stolen-FBI-medical-records-show-why-personnel-data-is-now-a-prime-cyber-target",
-    "source": "cryptopolitan.com",
-    "published": "Sat Sep 26 2026 01:45:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Spot $XRP ETFs on track for a phenomenal week.\n\nThe five spot @Ripple ETFs have seen multi-million dollar net inflows for the last three days, now up +$53M on the week.\n\nThe ETFs now have an eye-watering AUM of some $1.7B, equivalent to roughly 1.8% of $XRP's supply.\n\nA good time",
-    "link": "https://cryptopanic.com/news/33453859/Spot-XRP-ETFs-on-track-for-a-phenomenal-week-The-five-spot-Ripple-ETFs-have-seen-multi-million-dollar-net-inflows-for-the-last-three-days-now-up-53M-on-the-week-The-ETFs-now-have-an-eye-watering-AUM-of-some-17B-equivalent-to-roughly-18-of-XRPs-supply-A-good-time",
-    "source": "@bscnews",
-    "published": "Sat Sep 26 2026 01:36:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
