@@ -1,54 +1,5 @@
 [
   {
-    "title": "NEW: @Coinbase tokenized stocks are now live as collateral on @Aave V4 on @Base, letting eligible non-U.S. users borrow $USDC against real equity holdings, with @Chainlink providing price feeds.",
-    "link": "https://cryptopanic.com/news/33451652/NEW-Coinbase-tokenized-stocks-are-now-live-as-collateral-on-Aave-V4-on-Base-letting-eligible-non-US-users-borrow-USDC-against-real-equity-holdings-with-Chainlink-providing-price-feeds",
-    "source": "@coindesk",
-    "published": "Fri Sep 25 2026 14:43:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ARK Invest puts OpenAI and Anthropic exposure on Ethereum as tokenized ARKVX goes live",
-    "link": "https://cryptopanic.com/news/33449938/ARK-Invest-puts-OpenAI-and-Anthropic-exposure-on-Ethereum-as-tokenized-ARKVX-goes-live",
-    "source": "cryptopolitan.com",
-    "published": "Fri Sep 25 2026 10:05:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Spot ETFs now hold 1 in every 45 $LINK tokens.\n\nNow on a four-day net inflow streak, the five spot @Chainlink ETFs now hold 2.2% of $LINK's current supply.\n\nThe products are up +$13.02M in September already, reflecting bullish sentiment among institutional investors.",
-    "link": "https://cryptopanic.com/news/33447485/Spot-ETFs-now-hold-1-in-every-45-LINK-tokens-Now-on-a-four-day-net-inflow-streak-the-five-spot-Chainlink-ETFs-now-hold-22-of-LINKs-current-supply-The-products-are-up-1302M-in-September-already-reflecting-bullish-sentiment-among-institutional-investors",
-    "source": "@bscnews",
-    "published": "Thu Sep 24 2026 22:13:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stock Market Today: S&P 500, Nasdaq 100, Dow Jones Futures Drop as Bessent Says Iranian Aviation Restrictions Are Working— Airbnb, Oracle, Costco in Focus (UPDATED)",
-    "link": "https://cryptopanic.com/news/33443342/Stock-Market-Today-SP-500-Nasdaq-100-Dow-Jones-Futures-Drop-as-Bessent-Says-Iranian-Aviation-Restrictions-Are-Working-Airbnb-Oracle-Costco-in-Focus-UPDATED",
-    "source": "feeds2.benzinga.com",
-    "published": "Thu Sep 24 2026 09:01:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why Billionaire Tim Draper Calls Apple, Meta 'Irresponsible' for Not Holding Bitcoin",
-    "link": "https://cryptopanic.com/news/33431641/Why-Billionaire-Tim-Draper-Calls-Apple-Meta-Irresponsible-for-Not-Holding-Bitcoin",
-    "source": "feeds2.benzinga.com",
-    "published": "Tue Sep 22 2026 15:30:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Strategy Buys 950 BTC, Restores Holdings to 846,000",
-    "link": "https://cryptopanic.com/news/33427654/Strategy-Buys-950-BTC-Restores-Holdings-to-846000",
-    "source": "catenaa.com",
-    "published": "Tue Sep 22 2026 03:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Waited for Bitcoin's October Bottom? Benjamin Cowen Says He Was Wrong",
-    "link": "https://cryptopanic.com/news/33424862/Waited-for-Bitcoins-October-Bottom-Benjamin-Cowen-Says-He-Was-Wrong",
-    "source": "beincrypto.com",
-    "published": "Mon Sep 21 2026 14:33:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
     "title": "JUST IN: OpenAI & Anthropic are investigating tens of thousands of AI security incidents, far more complex than publicly known, Axios reports.",
     "link": "https://cryptopanic.com/news/33456426/JUST-IN-OpenAI-amp-Anthropic-are-investigating-tens-of-thousands-of-AI-security-incidents-far-more-complex-than-publicly-known-Axios-reports",
     "source": "@watcherguru",
@@ -60,6 +11,13 @@
     "link": "https://cryptopanic.com/news/33456427/The-SEC-just-gave-crypto-protocols-a-greenlight-to-conduct-buybacks-of-their-own-tokens-If-a-protocol-is-generating-revenue-they-now-have-a-clear-SEC-approved-method-to-return-value-directly-to-holders-The-days-of-altcoins-without-fundamentals-are-over",
     "source": "@stackersatoshi",
     "published": "Sat Sep 26 2026 22:32:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BIG: Binance now owns $100M of Circle stock and signed a five-year deal to push USDC to its users.\n\nThe world's biggest exchange is now a shareholder in the company behind USDC.",
+    "link": "https://cryptopanic.com/news/33456434/BIG-Binance-now-owns-100M-of-Circle-stock-and-signed-a-five-year-deal-to-push-USDC-to-its-users-The-worlds-biggest-exchange-is-now-a-shareholder-in-the-company-behind-USDC",
+    "source": "@cointelegraph",
+    "published": "Sat Sep 26 2026 22:31:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -207,6 +165,48 @@
     "link": "https://cryptopanic.com/news/33456267/LATEST-ARK-Invest-CEO-Cathie-Wood-told-CNBC-that-technologies-like-blockchain-alongside-AI-and-robotics-will-help-drive-global-GDP-growth-north-of-7-over-the-next-3-5-years",
     "source": "@coinmarketcap",
     "published": "Sat Sep 26 2026 20:25:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SEC clears regulatory hurdle as crypto token buybacks hit record $638 million",
+    "link": "https://cryptopanic.com/news/33456240/SEC-clears-regulatory-hurdle-as-crypto-token-buybacks-hit-record-638-million",
+    "source": "cryptoslate.com",
+    "published": "Sat Sep 26 2026 20:20:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ħ Why stay so dedicated to Hedera? Brandon the HBAR Bull explains Ħ",
+    "link": "https://cryptopanic.com/news/33456382/Why-stay-so-dedicated-to-Hedera-Brandon-the-HBAR-Bull-explains",
+    "source": "r/hedera",
+    "published": "Sat Sep 26 2026 20:11:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The Clearing House chose Quant to connect tokenized deposit settlement with RTP and CHIPS. Interoperability is moving to the center of regulated onchain money. Full analysis",
+    "link": "https://cryptopanic.com/news/33456260/The-Clearing-House-chose-Quant-to-connect-tokenized-deposit-settlement-with-RTP-and-CHIPS-Interoperability-is-moving-to-the-center-of-regulated-onchain-money-Full-analysis",
+    "source": "@realallincrypto",
+    "published": "Sat Sep 26 2026 20:03:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$BTC The classic setup I love trading during big up trends.\n\n1. Market moves up\n2. Market trades sideways and chops around for a few weeks\n3. Liquidity below gets swept\n4. Price retakes range (this is your entry)\n5. Price moves up quick to the top of the range\n6. Breakout and new",
+    "link": "https://cryptopanic.com/news/33456258/BTC-The-classic-setup-I-love-trading-during-big-up-trends-1-Market-moves-up-2-Market-trades-sideways-and-chops-around-for-a-few-weeks-3-Liquidity-below-gets-swept-4-Price-retakes-range-this-is-your-entry-5-Price-moves-up-quick-to-the-top-of-the-range-6-Breakout-and-new",
+    "source": "@daancrypto",
+    "published": "Sat Sep 26 2026 20:02:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Massive token sale incoming!\n\nMultichain swap and bridge aggregator @jumperapp has announced that its official JUMP token sale will take place on @legiondotcc on September 29.\n\nAccording to data from CryptoRank, the sale is intended to raise some $3 million for the platform.",
+    "link": "https://cryptopanic.com/news/33456261/Massive-token-sale-incoming-Multichain-swap-and-bridge-aggregator-jumperapp-has-announced-that-its-official-JUMP-token-sale-will-take-place-on-legiondotcc-on-September-29-According-to-data-from-CryptoRank-the-sale-is-intended-to-raise-some-3-million-for-the-platform",
+    "source": "@bscnews",
+    "published": "Sat Sep 26 2026 20:01:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "HUGE: Hedera just showcased how $HBAR is being used to attack a $1 TRILLION micropayments opportunity!\n\n@droppcc is built on @hedera to make tiny, instant payments economically viable, settling in 3–5 seconds with processing costs up to 15x cheaper than traditional providers!",
+    "link": "https://cryptopanic.com/news/33456259/HUGE-Hedera-just-showcased-how-HBAR-is-being-used-to-attack-a-1-TRILLION-micropayments-opportunity-droppcc-is-built-on-hedera-to-make-tiny-instant-payments-economically-viable-settling-in-35-seconds-with-processing-costs-up-to-15x-cheaper-than-traditional-providers",
+    "source": "@realallincrypto",
+    "published": "Sat Sep 26 2026 20:00:24 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
