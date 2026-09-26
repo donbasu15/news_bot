@@ -1,5 +1,33 @@
 [
   {
+    "title": "QUESTION: What was crypto's biggest mistake?",
+    "link": "https://cryptopanic.com/news/33456504/QUESTION-What-was-cryptos-biggest-mistake",
+    "source": "@cointelegraph",
+    "published": "Sat Sep 26 2026 23:30:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "GoPlus: Bitget’s $387.5M Hack Exploited the Transaction-Signing Trust Chain, Not Private Keys\n\nGoPlus Security said its review of Bitget’s $387.5 million security incident found that the attack did not involve a private-key leak, but rather a compromise of the transaction-signing",
+    "link": "https://cryptopanic.com/news/33456490/GoPlus-Bitgets-3875M-Hack-Exploited-the-Transaction-Signing-Trust-Chain-Not-Private-Keys-GoPlus-Security-said-its-review-of-Bitgets-3875-million-security-incident-found-that-the-attack-did-not-involve-a-private-key-leak-but-rather-a-compromise-of-the-transaction-signing",
+    "source": "@wublockchain",
+    "published": "Sat Sep 26 2026 23:27:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "OKX founder and CEO Star Xu said THORChain’s TSS vaults are collectively controlled by validators, which can move underlying assets once the signing threshold is reached. He argued that THORChain therefore acts as an intermediary between users and native chains and should not be",
+    "link": "https://cryptopanic.com/news/33456489/OKX-founder-and-CEO-Star-Xu-said-THORChains-TSS-vaults-are-collectively-controlled-by-validators-which-can-move-underlying-assets-once-the-signing-threshold-is-reached-He-argued-that-THORChain-therefore-acts-as-an-intermediary-between-users-and-native-chains-and-should-not-be",
+    "source": "@wublockchain",
+    "published": "Sat Sep 26 2026 23:15:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "THORChain responded to Bitget CEO Gracy Chen’s request that it refuse transactions from publicly flagged attacker addresses. THORChain said it was saddened by the recent exploit but stressed that the protocol is decentralized and permissionless like Bitcoin, Ethereum and BNB",
+    "link": "https://cryptopanic.com/news/33456488/THORChain-responded-to-Bitget-CEO-Gracy-Chens-request-that-it-refuse-transactions-from-publicly-flagged-attacker-addresses-THORChain-said-it-was-saddened-by-the-recent-exploit-but-stressed-that-the-protocol-is-decentralized-and-permissionless-like-Bitcoin-Ethereum-and-BNB",
+    "source": "@wublockchain",
+    "published": "Sat Sep 26 2026 23:15:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "TRUMP SIGNED FAKE EXECUTIVE ORDERS?! | Was the Strategic Bitcoin Reserve a SCAM?",
     "link": "https://cryptopanic.com/news/33456472/TRUMP-SIGNED-FAKE-EXECUTIVE-ORDERS-Was-the-Strategic-Bitcoin-Reserve-a-SCAM",
     "source": "SimplyBitcoin",
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33456244/Blockchain-Association-CEO-Summer-Mersinger-To-Step-Down-In-October",
     "source": "newsbtc.com",
     "published": "Sat Sep 26 2026 20:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Euro Area PMI Signals Best Growth Since 2023",
-    "link": "https://cryptopanic.com/news/33456242/Euro-Area-PMI-Signals-Best-Growth-Since-2023",
-    "source": "catenaa.com",
-    "published": "Sat Sep 26 2026 20:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  ARK Invest CEO Cathie Wood told CNBC that technologies like blockchain, alongside AI and robotics, will help drive global GDP growth \"north of 7%\" over the next 3-5 years.",
-    "link": "https://cryptopanic.com/news/33456267/LATEST-ARK-Invest-CEO-Cathie-Wood-told-CNBC-that-technologies-like-blockchain-alongside-AI-and-robotics-will-help-drive-global-GDP-growth-north-of-7-over-the-next-3-5-years",
-    "source": "@coinmarketcap",
-    "published": "Sat Sep 26 2026 20:25:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SEC clears regulatory hurdle as crypto token buybacks hit record $638 million",
-    "link": "https://cryptopanic.com/news/33456240/SEC-clears-regulatory-hurdle-as-crypto-token-buybacks-hit-record-638-million",
-    "source": "cryptoslate.com",
-    "published": "Sat Sep 26 2026 20:20:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ħ Why stay so dedicated to Hedera? Brandon the HBAR Bull explains Ħ",
-    "link": "https://cryptopanic.com/news/33456382/Why-stay-so-dedicated-to-Hedera-Brandon-the-HBAR-Bull-explains",
-    "source": "r/hedera",
-    "published": "Sat Sep 26 2026 20:11:50 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
