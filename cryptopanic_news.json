@@ -1,9 +1,65 @@
 [
   {
+    "title": "Fed proposes new stablecoin rules under GENIUS Act — What to expect?",
+    "link": "https://cryptopanic.com/news/33454076/Fed-proposes-new-stablecoin-rules-under-GENIUS-Act-What-to-expect",
+    "source": "ambcrypto.com",
+    "published": "Sat Sep 26 2026 04:00:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Sequans Completes Bitcoin Treasury Exit, Sells Final 314 BTC",
+    "link": "https://cryptopanic.com/news/33454054/Sequans-Completes-Bitcoin-Treasury-Exit-Sells-Final-314-BTC",
+    "source": "btcusa.com",
+    "published": "Sat Sep 26 2026 04:00:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ray Dalio: Bitcoin FAILS as a Hedge? Or is it the NEXT Big Thing?",
+    "link": "https://cryptopanic.com/news/33454080/Ray-Dalio-Bitcoin-FAILS-as-a-Hedge-Or-is-it-the-NEXT-Big-Thing",
+    "source": "TheCryptoLark",
+    "published": "Sat Sep 26 2026 04:00:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "AI Agents Opt for Ripple USD Not XRP, While BlackRock Makes Stunning New Prediction",
+    "link": "https://cryptopanic.com/news/33454090/AI-Agents-Opt-for-Ripple-USD-Not-XRP-While-BlackRock-Makes-Stunning-New-Prediction",
+    "source": "u.today",
+    "published": "Sat Sep 26 2026 04:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "TrueCurrent Adds Zcash for Self-Custodial Market Trading",
+    "link": "https://cryptopanic.com/news/33454055/TrueCurrent-Adds-Zcash-for-Self-Custodial-Market-Trading",
+    "source": "catenaa.com",
+    "published": "Sat Sep 26 2026 04:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "OpenAI agent leaks expose the gap between AI autonomy and control",
+    "link": "https://cryptopanic.com/news/33454056/OpenAI-agent-leaks-expose-the-gap-between-AI-autonomy-and-control",
+    "source": "cryptopolitan.com",
+    "published": "Sat Sep 26 2026 03:57:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "US $SOL ETFs just saw their largest ever day of inflows with +$86.7M.\n\nThis comes as SOL continues to outperform and just saw its highest daily close since January, with +61% gains since mid-August.",
+    "link": "https://cryptopanic.com/news/33454104/US-SOL-ETFs-just-saw-their-largest-ever-day-of-inflows-with-867M-This-comes-as-SOL-continues-to-outperform-and-just-saw-its-highest-daily-close-since-January-with-61-gains-since-mid-August",
+    "source": "@stackersatoshi",
+    "published": "Sat Sep 26 2026 03:55:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Ripple's stablecoin just hit a new all-time high.\n\nThe market cap of @Ripple's fast-growing RLUSD stablecoin reached nearly $2.5 billion on September 22 - a new record for the USD-denominated asset.\n\nAt the same time, $XRP Ledger's stablecoin supply is up +6% on the week per",
     "link": "https://cryptopanic.com/news/33454053/Ripples-stablecoin-just-hit-a-new-all-time-high-The-market-cap-of-Ripples-fast-growing-RLUSD-stablecoin-reached-nearly-25-billion-on-September-22-a-new-record-for-the-USD-denominated-asset-At-the-same-time-XRP-Ledgers-stablecoin-supply-is-up-6-on-the-week-per",
     "source": "@bscnews",
     "published": "Sat Sep 26 2026 03:49:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🤖 Google says its internal AI agent PageBreak has found more than 500 exploitable bugs in the company's own web apps, confirming each one with a live exploit before reporting it.",
+    "link": "https://cryptopanic.com/news/33454105/LATEST-Google-says-its-internal-AI-agent-PageBreak-has-found-more-than-500-exploitable-bugs-in-the-companys-own-web-apps-confirming-each-one-with-a-live-exploit-before-reporting-it",
+    "source": "@coinmarketcap",
+    "published": "Sat Sep 26 2026 03:45:10 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -151,62 +207,6 @@
     "link": "https://cryptopanic.com/news/33453859/Spot-XRP-ETFs-on-track-for-a-phenomenal-week-The-five-spot-Ripple-ETFs-have-seen-multi-million-dollar-net-inflows-for-the-last-three-days-now-up-53M-on-the-week-The-ETFs-now-have-an-eye-watering-AUM-of-some-17B-equivalent-to-roughly-18-of-XRPs-supply-A-good-time",
     "source": "@bscnews",
     "published": "Sat Sep 26 2026 01:36:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "QUESTION: Is your data safe from AI?",
-    "link": "https://cryptopanic.com/news/33453847/QUESTION-Is-your-data-safe-from-AI",
-    "source": "@cointelegraph",
-    "published": "Sat Sep 26 2026 01:30:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tesla ramps Optimus production 10-fold but robot hands are holding Elon back",
-    "link": "https://cryptopanic.com/news/33453622/Tesla-ramps-Optimus-production-10-fold-but-robot-hands-are-holding-Elon-back",
-    "source": "cryptopolitan.com",
-    "published": "Sat Sep 26 2026 01:20:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: DOJ seizes millions from bank accounts linked to firm that handled funds for Tether and Bitfinex in federal fraud investigation",
-    "link": "https://cryptopanic.com/news/33453860/INTEL-DOJ-seizes-millions-from-bank-accounts-linked-to-firm-that-handled-funds-for-Tether-and-Bitfinex-in-federal-fraud-investigation",
-    "source": "@solidintel_x",
-    "published": "Sat Sep 26 2026 01:18:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "A newly created wallet, 0xbe51, has withdrawn 428,640 $HYPE ($39.23M) from #Bybit, #Kraken, #Wintermute, #Gate, and #OKX over the past 8 hours.",
-    "link": "https://cryptopanic.com/news/33453613/A-newly-created-wallet-0xbe51-has-withdrawn-428640-HYPE-3923M-from-Bybit-Kraken-Wintermute-Gate-and-OKX-over-the-past-8-hours",
-    "source": "@lookonchain",
-    "published": "Sat Sep 26 2026 01:09:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ASIA NIGHT SESSION | Nikkei Futures Add 170 Overnight, Hang Seng Night Futures Slip; Korea and Taiwan Shut",
-    "link": "https://cryptopanic.com/news/33453823/ASIA-NIGHT-SESSION-Nikkei-Futures-Add-170-Overnight-Hang-Seng-Night-Futures-Slip-Korea-and-Taiwan-Shut",
-    "source": "square.binance.com",
-    "published": "Sat Sep 26 2026 01:02:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ALERT: OpenAI says its agents leaked 53 images from users.",
-    "link": "https://cryptopanic.com/news/33453846/ALERT-OpenAI-says-its-agents-leaked-53-images-from-users",
-    "source": "@cointelegraph",
-    "published": "Sat Sep 26 2026 01:01:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UN Security Council to Hear AI Leaders on Control Risks",
-    "link": "https://cryptopanic.com/news/33453569/UN-Security-Council-to-Hear-AI-Leaders-on-Control-Risks",
-    "source": "catenaa.com",
-    "published": "Sat Sep 26 2026 01:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇺🇸 Defense Secretary Pete Hegseth's annual financial disclosure shows Bitcoin held in a Coinbase wallet across two entries worth a combined $16,000 to $65,000.",
-    "link": "https://cryptopanic.com/news/33453829/LATEST-Defense-Secretary-Pete-Hegseths-annual-financial-disclosure-shows-Bitcoin-held-in-a-Coinbase-wallet-across-two-entries-worth-a-combined-16000-to-65000",
-    "source": "@coinmarketcap",
-    "published": "Sat Sep 26 2026 00:55:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
