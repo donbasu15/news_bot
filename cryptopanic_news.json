@@ -1,5 +1,61 @@
 [
   {
+    "title": "NEW: @Coinbase tokenized stocks are now live as collateral on @Aave V4 on @Base, letting eligible non-U.S. users borrow $USDC against real equity holdings, with @Chainlink providing price feeds.",
+    "link": "https://cryptopanic.com/news/33451652/NEW-Coinbase-tokenized-stocks-are-now-live-as-collateral-on-Aave-V4-on-Base-letting-eligible-non-US-users-borrow-USDC-against-real-equity-holdings-with-Chainlink-providing-price-feeds",
+    "source": "@coindesk",
+    "published": "Fri Sep 25 2026 14:43:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ARK Invest puts OpenAI and Anthropic exposure on Ethereum as tokenized ARKVX goes live",
+    "link": "https://cryptopanic.com/news/33449938/ARK-Invest-puts-OpenAI-and-Anthropic-exposure-on-Ethereum-as-tokenized-ARKVX-goes-live",
+    "source": "cryptopolitan.com",
+    "published": "Fri Sep 25 2026 10:05:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Spot ETFs now hold 1 in every 45 $LINK tokens.\n\nNow on a four-day net inflow streak, the five spot @Chainlink ETFs now hold 2.2% of $LINK's current supply.\n\nThe products are up +$13.02M in September already, reflecting bullish sentiment among institutional investors.",
+    "link": "https://cryptopanic.com/news/33447485/Spot-ETFs-now-hold-1-in-every-45-LINK-tokens-Now-on-a-four-day-net-inflow-streak-the-five-spot-Chainlink-ETFs-now-hold-22-of-LINKs-current-supply-The-products-are-up-1302M-in-September-already-reflecting-bullish-sentiment-among-institutional-investors",
+    "source": "@bscnews",
+    "published": "Thu Sep 24 2026 22:13:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Stock Market Today: S&P 500, Nasdaq 100, Dow Jones Futures Drop as Bessent Says Iranian Aviation Restrictions Are Working— Airbnb, Oracle, Costco in Focus (UPDATED)",
+    "link": "https://cryptopanic.com/news/33443342/Stock-Market-Today-SP-500-Nasdaq-100-Dow-Jones-Futures-Drop-as-Bessent-Says-Iranian-Aviation-Restrictions-Are-Working-Airbnb-Oracle-Costco-in-Focus-UPDATED",
+    "source": "feeds2.benzinga.com",
+    "published": "Thu Sep 24 2026 09:01:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Why Billionaire Tim Draper Calls Apple, Meta 'Irresponsible' for Not Holding Bitcoin",
+    "link": "https://cryptopanic.com/news/33431641/Why-Billionaire-Tim-Draper-Calls-Apple-Meta-Irresponsible-for-Not-Holding-Bitcoin",
+    "source": "feeds2.benzinga.com",
+    "published": "Tue Sep 22 2026 15:30:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Strategy Buys 950 BTC, Restores Holdings to 846,000",
+    "link": "https://cryptopanic.com/news/33427654/Strategy-Buys-950-BTC-Restores-Holdings-to-846000",
+    "source": "catenaa.com",
+    "published": "Tue Sep 22 2026 03:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Waited for Bitcoin's October Bottom? Benjamin Cowen Says He Was Wrong",
+    "link": "https://cryptopanic.com/news/33424862/Waited-for-Bitcoins-October-Bottom-Benjamin-Cowen-Says-He-Was-Wrong",
+    "source": "beincrypto.com",
+    "published": "Mon Sep 21 2026 14:33:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SEC Staff: Token Buybacks and Continued Development of Functional Crypto Networks May Not Trigger Howey Test \n\nThe SEC’s Division of Corporation Finance issued new FAQs clarifying its March 17 crypto guidance. Staff said Staking Receipt Tokens may qualify as “digital tools” or",
+    "link": "https://cryptopanic.com/news/33453565/SEC-Staff-Token-Buybacks-and-Continued-Development-of-Functional-Crypto-Networks-May-Not-Trigger-Howey-Test-The-SECs-Division-of-Corporation-Finance-issued-new-FAQs-clarifying-its-March-17-crypto-guidance-Staff-said-Staking-Receipt-Tokens-may-qualify-as-digital-tools-or",
+    "source": "@wublockchain",
+    "published": "Sat Sep 26 2026 00:31:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "WATCH: Wall Street ended higher, lifted by Microsoft and other AI-related technology stocks, while high oil prices and a recent surge in US Treasury yields kept investors on edge. Lisa Bernhard reports",
     "link": "https://cryptopanic.com/news/33453523/WATCH-Wall-Street-ended-higher-lifted-by-Microsoft-and-other-AI-related-technology-stocks-while-high-oil-prices-and-a-recent-surge-in-US-Treasury-yields-kept-investors-on-edge-Lisa-Bernhard-reports",
     "source": "@reutersbiz",
@@ -21,6 +77,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Pentagon Wins Major Court Battle Against Anthropic",
+    "link": "https://cryptopanic.com/news/33453559/Pentagon-Wins-Major-Court-Battle-Against-Anthropic",
+    "source": "beincrypto.com",
+    "published": "Sat Sep 26 2026 00:08:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST: Circle Foundation is backing UNDP and WFP to test regulated stablecoin payments for faster, cheaper and more transparent humanitarian aid.",
     "link": "https://cryptopanic.com/news/33453496/LATEST-Circle-Foundation-is-backing-UNDP-and-WFP-to-test-regulated-stablecoin-payments-for-faster-cheaper-and-more-transparent-humanitarian-aid",
     "source": "@cointelegraph",
@@ -32,6 +95,13 @@
     "link": "https://cryptopanic.com/news/33453507/Bitcoin-Boom-Bond-Crisis-Wall-Streets-Risky-Bet",
     "source": "SimplyBitcoin",
     "published": "Sat Sep 26 2026 00:00:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "OpenAI data breach exposes 53 user photos that it can’t trace to victims",
+    "link": "https://cryptopanic.com/news/33453560/OpenAI-data-breach-exposes-53-user-photos-that-it-cant-trace-to-victims",
+    "source": "en.cryptonomist.ch",
+    "published": "Fri Sep 25 2026 23:44:22 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/33453332/LATEST-Brazils-central-bank-now-requires-VASPs-to-report-self-custody-wallet-transfers-of-10000-or-more-starting-Oct-1-2026-aiming-to-boost-AML-oversight",
     "source": "@coinmarketcap",
     "published": "Fri Sep 25 2026 22:17:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitget CEO Says $350 Million Hack May Trace Back to North Korea",
-    "link": "https://cryptopanic.com/news/33453280/Bitget-CEO-Says-350-Million-Hack-May-Trace-Back-to-North-Korea",
-    "source": "zycrypto.com",
-    "published": "Fri Sep 25 2026 22:12:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HIFI Raises $37M Series A to Build Settlement Rails for Tokenized Money",
-    "link": "https://cryptopanic.com/news/33453258/HIFI-Raises-37M-Series-A-to-Build-Settlement-Rails-for-Tokenized-Money",
-    "source": "cryptopotato.com",
-    "published": "Fri Sep 25 2026 22:02:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Tokenized stocks on Base generated $1.3B in DEX volume over 30 days, up 153.8%, per Token Terminal.",
-    "link": "https://cryptopanic.com/news/33453272/UPDATE-Tokenized-stocks-on-Base-generated-13B-in-DEX-volume-over-30-days-up-1538-per-Token-Terminal",
-    "source": "@cointelegraph",
-    "published": "Fri Sep 25 2026 22:01:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "WOW: Aave changing the game by proposing a $21M borrowing market backed by Coinbase tokenised stocks on Base!\n\n@aave V4 could let users borrow USDC against 7 tokenised stocks, while expanding into repo and securities lending.\n\nStocks, repo and securities lending moving",
-    "link": "https://cryptopanic.com/news/33453313/WOW-Aave-changing-the-game-by-proposing-a-21M-borrowing-market-backed-by-Coinbase-tokenised-stocks-on-Base-aave-V4-could-let-users-borrow-USDC-against-7-tokenised-stocks-while-expanding-into-repo-and-securities-lending-Stocks-repo-and-securities-lending-moving",
-    "source": "@realallincrypto",
-    "published": "Fri Sep 25 2026 22:00:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Who is Evan Cheng, the ex-Apple engineer behind Sui?\n\nEvan Cheng (@EvanWeb3) spent about a decade at Apple, where he led the backend team for LLVM, the toolkit that turns app code into instructions for chips.\n\nIn 2012, he shared the ACM Software System Award for LLVM with Chris",
-    "link": "https://cryptopanic.com/news/33453314/Who-is-Evan-Cheng-the-ex-Apple-engineer-behind-Sui-Evan-Cheng-EvanWeb3-spent-about-a-decade-at-Apple-where-he-led-the-backend-team-for-LLVM-the-toolkit-that-turns-app-code-into-instructions-for-chips-In-2012-he-shared-the-ACM-Software-System-Award-for-LLVM-with-Chris",
-    "source": "@bscnews",
-    "published": "Fri Sep 25 2026 21:50:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Market here",
-    "link": "https://cryptopanic.com/news/33453220/Market-here",
-    "source": "@bitcoinmagazine",
-    "published": "Fri Sep 25 2026 21:49:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$COIN managed to break through the ~$194 resistance this week and is now retesting it from above as potential support. This level needs to hold if the move up is going to continue in the short term.",
-    "link": "https://cryptopanic.com/news/33453222/COIN-managed-to-break-through-the-194-resistance-this-week-and-is-now-retesting-it-from-above-as-potential-support-This-level-needs-to-hold-if-the-move-up-is-going-to-continue-in-the-short-term",
-    "source": "@stackersatoshi",
-    "published": "Fri Sep 25 2026 21:48:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "RWA issuers could force transfers on hidden balances under Ethereum’s ERC-8424 draft",
-    "link": "https://cryptopanic.com/news/33453213/RWA-issuers-could-force-transfers-on-hidden-balances-under-Ethereums-ERC-8424-draft",
-    "source": "cryptopolitan.com",
-    "published": "Fri Sep 25 2026 21:48:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum's New AI Swarm",
-    "link": "https://cryptopanic.com/news/33453211/Ethereums-New-AI-Swarm",
-    "source": "bankless.com",
-    "published": "Fri Sep 25 2026 21:46:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Going LIVE now! Join the Moongang and discuss the new AERO launch schedule + updates, ask me anything and have a casual Friday coin request session!\n\nCryptocurrency Request Show / AMA + $84,000 BTC & $2,700 ETH - Ep.#997",
-    "link": "https://cryptopanic.com/news/33453221/Going-LIVE-now-Join-the-Moongang-and-discuss-the-new-AERO-launch-schedule-updates-ask-me-anything-and-have-a-casual-Friday-coin-request-session-Cryptocurrency-Request-Show-AMA-84000-BTC-amp-2700-ETH-Ep997",
-    "source": "@cultivatecrypto",
-    "published": "Fri Sep 25 2026 21:41:42 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
