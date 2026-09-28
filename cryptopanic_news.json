@@ -1,5 +1,110 @@
 [
   {
+    "title": "Bitget’s $350 million hacker makes first transaction move",
+    "link": "https://cryptopanic.com/news/33461464/Bitgets-350-million-hacker-makes-first-transaction-move",
+    "source": "finbold.com",
+    "published": "Mon Sep 28 2026 10:40:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Solana ETFs Post Record $188 Million Week as Bitwise Dominates Inflows",
+    "link": "https://cryptopanic.com/news/33461463/Solana-ETFs-Post-Record-188-Million-Week-as-Bitwise-Dominates-Inflows",
+    "source": "cryptointelligence.co.uk",
+    "published": "Mon Sep 28 2026 10:37:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Digital Euro E-Commerce Pilot: Applications Close October 27",
+    "link": "https://cryptopanic.com/news/33461456/Digital-Euro-E-Commerce-Pilot-Applications-Close-October-27",
+    "source": "spaziocrypto.com",
+    "published": "Mon Sep 28 2026 10:32:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INSIGHT: @VitalikButerin says Ethereum's 2027 Hegotá upgrade could be its last normal fork, after which the network will evolve into a \"cryptographic world computer\" built around ZK proofs, quantum resistance and privacy,",
+    "link": "https://cryptopanic.com/news/33461507/INSIGHT-VitalikButerin-says-Ethereums-2027-Hegota-upgrade-could-be-its-last-normal-fork-after-which-the-network-will-evolve-into-a-cryptographic-world-computer-built-around-ZK-proofs-quantum-resistance-and-privacy",
+    "source": "@coindesk",
+    "published": "Mon Sep 28 2026 10:32:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Gold falls below $4,150, down 3.2% from the previous close.",
+    "link": "https://cryptopanic.com/news/33461509/UPDATE-Gold-falls-below-4150-down-32-from-the-previous-close",
+    "source": "@cointelegraph",
+    "published": "Mon Sep 28 2026 10:31:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Pons V2 Exemptions Put Robinhood Chain Memecoins Under Scrutiny",
+    "link": "https://cryptopanic.com/news/33461445/Pons-V2-Exemptions-Put-Robinhood-Chain-Memecoins-Under-Scrutiny",
+    "source": "cryptonews.com",
+    "published": "Mon Sep 28 2026 10:30:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Evernorth’s XRP buying power could shrink if SPAC shareholders redeem this week",
+    "link": "https://cryptopanic.com/news/33461444/Evernorths-XRP-buying-power-could-shrink-if-SPAC-shareholders-redeem-this-week",
+    "source": "cryptoslate.com",
+    "published": "Mon Sep 28 2026 10:30:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto Keeps Outperforming Stocks and Commodities: The Numbers Tell the Story",
+    "link": "https://cryptopanic.com/news/33461400/Crypto-Keeps-Outperforming-Stocks-and-Commodities-The-Numbers-Tell-the-Story",
+    "source": "techgaged.com",
+    "published": "Mon Sep 28 2026 10:25:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin to Attract More Capital as Money Printing Continues, Analyst Says With Global Liquidity Above $103 Trillion",
+    "link": "https://cryptopanic.com/news/33461447/Bitcoin-to-Attract-More-Capital-as-Money-Printing-Continues-Analyst-Says-With-Global-Liquidity-Above-103-Trillion",
+    "source": "feeds2.benzinga.com",
+    "published": "Mon Sep 28 2026 10:20:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Faces 980% Liquidation Imbalance as Longs Take Hit in Market Selloff",
+    "link": "https://cryptopanic.com/news/33461522/XRP-Faces-980-Liquidation-Imbalance-as-Longs-Take-Hit-in-Market-Selloff",
+    "source": "u.today",
+    "published": "Mon Sep 28 2026 10:20:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "California Bans Public Officials From Issuing Meme Coins Under New Newsom Law",
+    "link": "https://cryptopanic.com/news/33461355/California-Bans-Public-Officials-From-Issuing-Meme-Coins-Under-New-Newsom-Law",
+    "source": "decrypt.co",
+    "published": "Mon Sep 28 2026 10:16:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin falls to $83,000 while altcoins unwind Friday's rally",
+    "link": "https://cryptopanic.com/news/33461443/Bitcoin-falls-to-83000-while-altcoins-unwind-Fridays-rally",
+    "source": "coindesk.com",
+    "published": "Mon Sep 28 2026 10:15:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "1.1 Million XRP Ledger Payments: What Pushes It So High?",
+    "link": "https://cryptopanic.com/news/33461434/11-Million-XRP-Ledger-Payments-What-Pushes-It-So-High",
+    "source": "u.today",
+    "published": "Mon Sep 28 2026 10:15:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Michael Saylor proposed a digital asset bill of rights covering custody, tokenized securities, and privacy, criticizing the CLARITY Act's restrictions.",
+    "link": "https://cryptopanic.com/news/33461433/LATEST-Michael-Saylor-proposed-a-digital-asset-bill-of-rights-covering-custody-tokenized-securities-and-privacy-criticizing-the-CLARITY-Acts-restrictions",
+    "source": "@coinmarketcap",
+    "published": "Mon Sep 28 2026 10:13:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ask and will answer. come on.",
+    "link": "https://cryptopanic.com/news/33461432/Ask-and-will-answer-come-on",
+    "source": "@coinmarketcap",
+    "published": "Mon Sep 28 2026 10:12:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "These US Data Releases Could Set Crypto’s Direction This Week",
     "link": "https://cryptopanic.com/news/33461307/These-US-Data-Releases-Could-Set-Cryptos-Direction-This-Week",
     "source": "techgaged.com",
@@ -7,10 +112,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Altcoin Euphoria Meets Its First Warning Signs\n\n“This means 87% of altcoins on Binance have reversed their prior trend and entered bullish momentum.” – By @Darkfost_Coc \n\nFull analysis ⤵️",
+    "link": "https://cryptopanic.com/news/33461505/Altcoin-Euphoria-Meets-Its-First-Warning-Signs-This-means-87-of-altcoins-on-Binance-have-reversed-their-prior-trend-and-entered-bullish-momentum-By-Darkfost_Coc-Full-analysis",
+    "source": "@cryptoquant_com",
+    "published": "Mon Sep 28 2026 10:07:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "How a Financial Institution Should Choose a Blockchain for Tokenization",
     "link": "https://cryptopanic.com/news/33461299/How-a-Financial-Institution-Should-Choose-a-Blockchain-for-Tokenization",
     "source": "dailycoin.com",
     "published": "Mon Sep 28 2026 10:05:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "conclusion",
+    "link": "https://cryptopanic.com/news/33461430/conclusion",
+    "source": "@coinmarketcap",
+    "published": "Mon Sep 28 2026 10:03:39 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -25,6 +144,20 @@
     "link": "https://cryptopanic.com/news/33461296/South-Korea-Weighs-Crypto-Market-Makers-After-JPYC-Price-Surge",
     "source": "cryptonews.com",
     "published": "Mon Sep 28 2026 10:03:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Live updates: Bitcoin sinks below $83,000 as Iran talks stall and oil climbs",
+    "link": "https://cryptopanic.com/news/33461442/Live-updates-Bitcoin-sinks-below-83000-as-Iran-talks-stall-and-oil-climbs",
+    "source": "coindesk.com",
+    "published": "Mon Sep 28 2026 10:02:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Previn Pillay leads banking across Asia Pacific for @circle, USDC's issuer with over $70B in circulation.\n\nBased in Singapore, he's driving Circle's push into the region's banking sector as stablecoin adoption accelerates.\n\nWatch him live at LONGITUDE SG",
+    "link": "https://cryptopanic.com/news/33461508/Previn-Pillay-leads-banking-across-Asia-Pacific-for-circle-USDCs-issuer-with-over-70B-in-circulation-Based-in-Singapore-hes-driving-Circles-push-into-the-regions-banking-sector-as-stablecoin-adoption-accelerates-Watch-him-live-at-LONGITUDE-SG",
+    "source": "@cointelegraph",
+    "published": "Mon Sep 28 2026 10:01:19 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -63,150 +196,17 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Solana Developers Say “No Alpenrush” as Alpenglow Mainnet Launch Rumors Collapse",
+    "link": "https://cryptopanic.com/news/33461389/Solana-Developers-Say-No-Alpenrush-as-Alpenglow-Mainnet-Launch-Rumors-Collapse",
+    "source": "beincrypto.com",
+    "published": "Mon Sep 28 2026 09:54:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "QNT and HBAR Defy Altcoin Crash, BTC Drops Below $83K: Market Watch",
     "link": "https://cryptopanic.com/news/33461216/QNT-and-HBAR-Defy-Altcoin-Crash-BTC-Drops-Below-83K-Market-Watch",
     "source": "cryptopotato.com",
     "published": "Mon Sep 28 2026 09:53:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "crypto traders leaving the house to touch grass after a week of chartmaxxing",
-    "link": "https://cryptopanic.com/news/33461225/crypto-traders-leaving-the-house-to-touch-grass-after-a-week-of-chartmaxxing",
-    "source": "@coinmarketcap",
-    "published": "Mon Sep 28 2026 09:52:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitget CEO Details How Attackers Stole Approximately $380M\n\nIn a September 28 livestream, Bitget CEO Gracy Chen @GracyBitget said attackers exploited a zero-day vulnerability in a third-party security product to obtain internal credentials. They used those credentials to access",
-    "link": "https://cryptopanic.com/news/33461228/Bitget-CEO-Details-How-Attackers-Stole-Approximately-380M-In-a-September-28-livestream-Bitget-CEO-Gracy-Chen-GracyBitget-said-attackers-exploited-a-zero-day-vulnerability-in-a-third-party-security-product-to-obtain-internal-credentials-They-used-those-credentials-to-access",
-    "source": "@wublockchain",
-    "published": "Mon Sep 28 2026 09:52:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Midnight To Be Bigger Than Zcash? Cardano Founder Makes Bold Call\n\nCardano founder Charles Hoskinson (@IOHK_Charles) says Midnight (@MidnightNtwrk) could eventually become bigger than Zcash (@Zcash).\n\nHe pointed to privacy technology, AI, and cross-chain functionality as key",
-    "link": "https://cryptopanic.com/news/33461340/Midnight-To-Be-Bigger-Than-Zcash-Cardano-Founder-Makes-Bold-Call-Cardano-founder-Charles-Hoskinson-IOHK_Charles-says-Midnight-MidnightNtwrk-could-eventually-become-bigger-than-Zcash-Zcash-He-pointed-to-privacy-technology-AI-and-cross-chain-functionality-as-key",
-    "source": "@bscnews",
-    "published": "Mon Sep 28 2026 09:48:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin rally takes a breather ahead of key U.S. employment data: Crypto Week Ahead",
-    "link": "https://cryptopanic.com/news/33461286/Bitcoin-rally-takes-a-breather-ahead-of-key-US-employment-data-Crypto-Week-Ahead",
-    "source": "coindesk.com",
-    "published": "Mon Sep 28 2026 09:45:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin ETFs record biggest weekly inflows since October 2025 at $2.4B",
-    "link": "https://cryptopanic.com/news/33461202/Bitcoin-ETFs-record-biggest-weekly-inflows-since-October-2025-at-24B",
-    "source": "ambcrypto.com",
-    "published": "Mon Sep 28 2026 09:45:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Aave adds Coinbase tokenized stocks as loan collateral",
-    "link": "https://cryptopanic.com/news/33461156/Aave-adds-Coinbase-tokenized-stocks-as-loan-collateral",
-    "source": "cryptopolitan.com",
-    "published": "Mon Sep 28 2026 09:37:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Bitwise projects a base case NEAR price of $155 by 2030, with a max case of $563.",
-    "link": "https://cryptopanic.com/news/33461224/LATEST-Bitwise-projects-a-base-case-NEAR-price-of-155-by-2030-with-a-max-case-of-563",
-    "source": "@coinmarketcap",
-    "published": "Mon Sep 28 2026 09:37:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Polygon (@0xPolygon) has processed 1.97 billion transactions in 2026 so far, already its busiest year on record. That is about 40% above its previous best of 1.41 billion in 2025, with three months still to go.",
-    "link": "https://cryptopanic.com/news/33461339/Polygon-0xPolygon-has-processed-197-billion-transactions-in-2026-so-far-already-its-busiest-year-on-record-That-is-about-40-above-its-previous-best-of-141-billion-in-2025-with-three-months-still-to-go",
-    "source": "@bscnews",
-    "published": "Mon Sep 28 2026 09:34:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Arbitrum Price Analysis: Will the September Support Hold?",
-    "link": "https://cryptopanic.com/news/33461151/Arbitrum-Price-Analysis-Will-the-September-Support-Hold",
-    "source": "coindoo.com",
-    "published": "Mon Sep 28 2026 09:33:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "California Gov. Gavin Newsom bans public officials from launching memecoins, takes aim at Trump",
-    "link": "https://cryptopanic.com/news/33461154/California-Gov-Gavin-Newsom-bans-public-officials-from-launching-memecoins-takes-aim-at-Trump",
-    "source": "theblock.co",
-    "published": "Mon Sep 28 2026 09:32:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 LATEST: Trump said he would meet Anthropic CEO Dario Amodei for dinner on Sunday, while rejecting calls to slow AI development.",
-    "link": "https://cryptopanic.com/news/33461146/LATEST-Trump-said-he-would-meet-Anthropic-CEO-Dario-Amodei-for-dinner-on-Sunday-while-rejecting-calls-to-slow-AI-development",
-    "source": "@cointelegraph",
-    "published": "Mon Sep 28 2026 09:31:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Uniswap Seeks Arc Protocol Fees, UNI Burns",
-    "link": "https://cryptopanic.com/news/33461110/Uniswap-Seeks-Arc-Protocol-Fees-UNI-Burns",
-    "source": "catenaa.com",
-    "published": "Mon Sep 28 2026 09:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin bears pay to bet on further declines as futures positions near yearly lows",
-    "link": "https://cryptopanic.com/news/33461207/Bitcoin-bears-pay-to-bet-on-further-declines-as-futures-positions-near-yearly-lows",
-    "source": "coindesk.com",
-    "published": "Mon Sep 28 2026 09:29:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Higher 4 Longer, Altcoin Season Signals, Solana bullish, Spacex Orbit",
-    "link": "https://cryptopanic.com/news/33461111/Bitcoin-Higher-4-Longer-Altcoin-Season-Signals-Solana-bullish-Spacex-Orbit",
-    "source": "TheCryptoLark",
-    "published": "Mon Sep 28 2026 09:24:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: The Clearing House has selected Quant to power a US network for clearing and settling tokenized bank deposit.",
-    "link": "https://cryptopanic.com/news/33461144/LATEST-The-Clearing-House-has-selected-Quant-to-power-a-US-network-for-clearing-and-settling-tokenized-bank-deposit",
-    "source": "@cointelegraph",
-    "published": "Mon Sep 28 2026 09:17:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitget Withdrawals Resume After $388M Exploit\n\nBitget (@bitget) has resumed BTC withdrawals after an exploit drained about $388 million.\n\nThe exchange began processing Bitcoin withdrawals at 8 a.m. UTC Monday. Withdrawals are returning in stages as each network completes security",
-    "link": "https://cryptopanic.com/news/33461149/Bitget-Withdrawals-Resume-After-388M-Exploit-Bitget-bitget-has-resumed-BTC-withdrawals-after-an-exploit-drained-about-388-million-The-exchange-began-processing-Bitcoin-withdrawals-at-8-am-UTC-Monday-Withdrawals-are-returning-in-stages-as-each-network-completes-security",
-    "source": "@bscnews",
-    "published": "Mon Sep 28 2026 09:17:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$84,000 Fulcrum: Why Bitcoin is Refusing to Break",
-    "link": "https://cryptopanic.com/news/33461080/84000-Fulcrum-Why-Bitcoin-is-Refusing-to-Break",
-    "source": "www.blockhead.co",
-    "published": "Mon Sep 28 2026 09:16:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Insane Bitcoin Bull Cycle XRP 700% Price Jump This Market Cycle Is Going To Change Lives",
-    "link": "https://cryptopanic.com/news/33461095/Insane-Bitcoin-Bull-Cycle-XRP-700-Price-Jump-This-Market-Cycle-Is-Going-To-Change-Lives",
-    "source": "TheModernInvestor",
-    "published": "Mon Sep 28 2026 09:08:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Kraken opens Ōura IPO token access ahead of its Nasdaq debut",
-    "link": "https://cryptopanic.com/news/33461090/Kraken-opens-Oura-IPO-token-access-ahead-of-its-Nasdaq-debut",
-    "source": "en.cryptonomist.ch",
-    "published": "Mon Sep 28 2026 09:06:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Michael Saylor posted \"Even more orange\" on X, echoing the chart he shared last week just before Strategy disclosed a 950 BTC purchase.",
-    "link": "https://cryptopanic.com/news/33461050/LATEST-Michael-Saylor-posted-Even-more-orange-on-X-echoing-the-chart-he-shared-last-week-just-before-Strategy-disclosed-a-950-BTC-purchase",
-    "source": "@coinmarketcap",
-    "published": "Mon Sep 28 2026 09:05:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
