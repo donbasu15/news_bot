@@ -1,5 +1,75 @@
 [
   {
+    "title": "Woori, Kakao Bank Join Ripple Event as Korea Eyes Tokenized Finance",
+    "link": "https://cryptopanic.com/news/33460549/Woori-Kakao-Bank-Join-Ripple-Event-as-Korea-Eyes-Tokenized-Finance",
+    "source": "coinpaper.com",
+    "published": "Mon Sep 28 2026 07:40:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Ledger Issues Emergency Security Release Ahead of Oct. 9 Upgrade",
+    "link": "https://cryptopanic.com/news/33460525/XRP-Ledger-Issues-Emergency-Security-Release-Ahead-of-Oct-9-Upgrade",
+    "source": "coinpaper.com",
+    "published": "Mon Sep 28 2026 07:32:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin eases into the week as traders watch BTC’s $85k resistance",
+    "link": "https://cryptopanic.com/news/33460588/Bitcoin-eases-into-the-week-as-traders-watch-BTCs-85k-resistance",
+    "source": "coinjournal.net",
+    "published": "Mon Sep 28 2026 07:32:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Vitalik Buterin Says Hegota Will Be Ethereum's Last 'Normal' Fork",
+    "link": "https://cryptopanic.com/news/33460524/Vitalik-Buterin-Says-Hegota-Will-Be-Ethereums-Last-Normal-Fork",
+    "source": "www.blockhead.co",
+    "published": "Mon Sep 28 2026 07:30:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The #Bitget hacker, who stole $351.6M, is now swapping $ETH for $BTC through #THORChain.",
+    "link": "https://cryptopanic.com/news/33460523/The-Bitget-hacker-who-stole-3516M-is-now-swapping-ETH-for-BTC-through-THORChain",
+    "source": "@lookonchain",
+    "published": "Mon Sep 28 2026 07:27:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: The CLARITY Act failed because Democrats opposed President Trump more than they supported the policy, blaming partisan politics for the Senate defeat, Sen. Cynthia Lummis says",
+    "link": "https://cryptopanic.com/news/33460587/INTEL-The-CLARITY-Act-failed-because-Democrats-opposed-President-Trump-more-than-they-supported-the-policy-blaming-partisan-politics-for-the-Senate-defeat-Sen-Cynthia-Lummis-says",
+    "source": "@solidintel_x",
+    "published": "Mon Sep 28 2026 07:26:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "11% of Millennials and Gen Z Have Stopped Dating Because It’s Too Expensive: Report",
+    "link": "https://cryptopanic.com/news/33460538/11-of-Millennials-and-Gen-Z-Have-Stopped-Dating-Because-Its-Too-Expensive-Report",
+    "source": "dailyhodl.com",
+    "published": "Mon Sep 28 2026 07:25:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Quant Network (@quantnetwork) had a standout week. \n\nQuant Network's ethereum:0x4a220e6096b25eadb88358cb44068a3248254675 has surged roughly 172% in seven days after The Clearing House selected Quant for its On-Chain Money Initiative. \n\nThe program aims to connect 25 major US",
+    "link": "https://cryptopanic.com/news/33460522/Quant-Network-quantnetwork-had-a-standout-week-Quant-Networks-ethereum0x4a220e6096b25eadb88358cb44068a3248254675-has-surged-roughly-172-in-seven-days-after-The-Clearing-House-selected-Quant-for-its-On-Chain-Money-Initiative-The-program-aims-to-connect-25-major-US",
+    "source": "@bscnews",
+    "published": "Mon Sep 28 2026 07:25:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum's 'Final Hurdle' Before Bull Run: Analyst Spotlights Key Level — Vitalik Buterin Envisions 'Cryptographic World Computer'",
+    "link": "https://cryptopanic.com/news/33460529/Ethereums-Final-Hurdle-Before-Bull-Run-Analyst-Spotlights-Key-Level-Vitalik-Buterin-Envisions-Cryptographic-World-Computer",
+    "source": "feeds2.benzinga.com",
+    "published": "Mon Sep 28 2026 07:20:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "President Trump said he doesn't worry about AI 'going rogue,' vowing to 'straighten it out if and when a problem occurs,' ahead of talks with Anthropic CEO Dario Amodei",
+    "link": "https://cryptopanic.com/news/33460517/President-Trump-said-he-doesnt-worry-about-AI-going-rogue-vowing-to-straighten-it-out-if-and-when-a-problem-occurs-ahead-of-talks-with-Anthropic-CEO-Dario-Amodei",
+    "source": "@reutersbiz",
+    "published": "Mon Sep 28 2026 07:15:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "UPDATE:  Bitget says the vulnerability behind the exchange's hack has been identified and remediated, and it will begin restoring withdrawals on Sept. 28 starting with BTC, with all assets available by Oct. 2.",
     "link": "https://cryptopanic.com/news/33460453/UPDATE-Bitget-says-the-vulnerability-behind-the-exchanges-hack-has-been-identified-and-remediated-and-it-will-begin-restoring-withdrawals-on-Sept-28-starting-with-BTC-with-all-assets-available-by-Oct-2",
     "source": "@coinmarketcap",
@@ -42,10 +112,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Robinhood Chain Memecoin Ring Linked To $18.43M Extraction\n\nAn on-chain investigation has linked 53 Robinhood Chain (@RobinhoodCrypto) memecoin launches to one coordinated operation.\n\nPseudonymous analyst Wazz estimates the group extracted at least $18.43 million across those",
+    "link": "https://cryptopanic.com/news/33460521/Robinhood-Chain-Memecoin-Ring-Linked-To-1843M-Extraction-An-on-chain-investigation-has-linked-53-Robinhood-Chain-RobinhoodCrypto-memecoin-launches-to-one-coordinated-operation-Pseudonymous-analyst-Wazz-estimates-the-group-extracted-at-least-1843-million-across-those",
+    "source": "@bscnews",
+    "published": "Mon Sep 28 2026 07:04:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin Pulls Back as Iran Risk Grows: What Traders Are Watching",
     "link": "https://cryptopanic.com/news/33460403/Bitcoin-Pulls-Back-as-Iran-Risk-Grows-What-Traders-Are-Watching",
     "source": "coindoo.com",
     "published": "Mon Sep 28 2026 07:02:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cycles don't repeat exactly but they rhyme closely enough that experience from the last one is still genuinely useful.\n\nThe mistake is assuming it'll play out identically.",
+    "link": "https://cryptopanic.com/news/33460518/Cycles-dont-repeat-exactly-but-they-rhyme-closely-enough-that-experience-from-the-last-one-is-still-genuinely-useful-The-mistake-is-assuming-itll-play-out-identically",
+    "source": "@daancrypto",
+    "published": "Mon Sep 28 2026 07:02:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -70,6 +154,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "BIG: Oil flows through the Strait of Hormuz have DOUBLED in less than a month to 13M barrels/day.\n\nU.S. guided tanker movements are getting more oil through and prices are responding, with WTI falling ~8% this week.\n\nStill below pre-war flows, but a HUGE shift for global",
+    "link": "https://cryptopanic.com/news/33460519/BIG-Oil-flows-through-the-Strait-of-Hormuz-have-DOUBLED-in-less-than-a-month-to-13M-barrelsday-US-guided-tanker-movements-are-getting-more-oil-through-and-prices-are-responding-with-WTI-falling-8-this-week-Still-below-pre-war-flows-but-a-HUGE-shift-for-global",
+    "source": "@realallincrypto",
+    "published": "Mon Sep 28 2026 07:00:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Kraken Parent Payward Opens Oura IPO Access Through xStocks",
     "link": "https://cryptopanic.com/news/33460337/Kraken-Parent-Payward-Opens-Oura-IPO-Access-Through-xStocks",
     "source": "btcusa.com",
@@ -81,6 +172,13 @@
     "link": "https://cryptopanic.com/news/33460362/THORChain-Refuses-to-Block-Bitget-Hackers-Moving-3875M-to-Bitcoin",
     "source": "coinpaprika.com",
     "published": "Mon Sep 28 2026 07:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Is Elon Musk Right About AGI by 2027? Traders Betting on It Say Probably Not",
+    "link": "https://cryptopanic.com/news/33460539/Is-Elon-Musk-Right-About-AGI-by-2027-Traders-Betting-on-It-Say-Probably-Not",
+    "source": "beincrypto.com",
+    "published": "Mon Sep 28 2026 06:55:34 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -109,104 +207,6 @@
     "link": "https://cryptopanic.com/news/33460454/Apple-Nvidia-and-Tesla-Tokenized-Stocks-Can-Now-Be-Used-to-Borrow-USDC-on-Aave-Seven-Coinbase-tokenized-US-tech-stocks-AAPLc-AMZNc-GOOGLc-METAc-MSFTc-NVDAc-and-TSLAc-are-now-live-as-collateral-on-Aave-V4-on-Base-allowing-eligible-non-US-users-to-borrow-USDC",
     "source": "@wublockchain",
     "published": "Mon Sep 28 2026 06:33:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇯🇵 JUST IN: Japan's two-year bond yield climbs to 1.975%, its highest since 1995, as traders ramp up bets on more Bank of Japan rate hikes.",
-    "link": "https://cryptopanic.com/news/33460316/JUST-IN-Japans-two-year-bond-yield-climbs-to-1975-its-highest-since-1995-as-traders-ramp-up-bets-on-more-Bank-of-Japan-rate-hikes",
-    "source": "@cointelegraph",
-    "published": "Mon Sep 28 2026 06:31:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Neutrl Opens NUSD Redemptions at About 51 Cents",
-    "link": "https://cryptopanic.com/news/33460244/Neutrl-Opens-NUSD-Redemptions-at-About-51-Cents",
-    "source": "catenaa.com",
-    "published": "Mon Sep 28 2026 06:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Binance Wallet Removes a Common Gas Fee Hurdle\n\nBinance Wallet (@BinanceWallet) now allows users to pay gas fees directly with USDT.\n\nThe feature is available on BNB Smart Chain, Ethereum, Solana, and TRON. Users no longer need to hold the network’s native token before making",
-    "link": "https://cryptopanic.com/news/33460319/Binance-Wallet-Removes-a-Common-Gas-Fee-Hurdle-Binance-Wallet-BinanceWallet-now-allows-users-to-pay-gas-fees-directly-with-USDT-The-feature-is-available-on-BNB-Smart-Chain-Ethereum-Solana-and-TRON-Users-no-longer-need-to-hold-the-networks-native-token-before-making",
-    "source": "@bscnews",
-    "published": "Mon Sep 28 2026 06:27:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AMLBot Links Bitget Hack Funds to Wasabi CoinJoin",
-    "link": "https://cryptopanic.com/news/33460237/AMLBot-Links-Bitget-Hack-Funds-to-Wasabi-CoinJoin",
-    "source": "btcusa.com",
-    "published": "Mon Sep 28 2026 06:25:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Quant price surges 322% after US and UK banks adopt its platform",
-    "link": "https://cryptopanic.com/news/33460472/Quant-price-surges-322-after-US-and-UK-banks-adopt-its-platform",
-    "source": "en.cryptonomist.ch",
-    "published": "Mon Sep 28 2026 06:24:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "India should reconsider the red color of its proposed food warning labels as it can confuse consumers who associate the color with non-vegetarian ingredient markings, food companies in India have told the Supreme Court. More here",
-    "link": "https://cryptopanic.com/news/33460317/India-should-reconsider-the-red-color-of-its-proposed-food-warning-labels-as-it-can-confuse-consumers-who-associate-the-color-with-non-vegetarian-ingredient-markings-food-companies-in-India-have-told-the-Supreme-Court-More-here",
-    "source": "@reutersbiz",
-    "published": "Mon Sep 28 2026 06:23:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Big institutional money is split on Bitcoin’s next move as massive market bets shift",
-    "link": "https://cryptopanic.com/news/33460224/Big-institutional-money-is-split-on-Bitcoins-next-move-as-massive-market-bets-shift",
-    "source": "cryptoslate.com",
-    "published": "Mon Sep 28 2026 06:15:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Binance Wallet USDT fees now cover gas on four major blockchains",
-    "link": "https://cryptopanic.com/news/33460471/Binance-Wallet-USDT-fees-now-cover-gas-on-four-major-blockchains",
-    "source": "en.cryptonomist.ch",
-    "published": "Mon Sep 28 2026 06:15:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "RedMagic 12 Pro+ launch confirmed for Oct. 15 with new Snapdragon chip",
-    "link": "https://cryptopanic.com/news/33460470/RedMagic-12-Pro-launch-confirmed-for-Oct-15-with-new-Snapdragon-chip",
-    "source": "en.cryptonomist.ch",
-    "published": "Mon Sep 28 2026 06:14:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Capital B’s Bitcoin strategy pushes holdings to $299 million",
-    "link": "https://cryptopanic.com/news/33460468/Capital-Bs-Bitcoin-strategy-pushes-holdings-to-299-million",
-    "source": "en.cryptonomist.ch",
-    "published": "Mon Sep 28 2026 06:09:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Pi Network Advances To Protocol 28\n\nPi Network (@PiCoreTeam) has upgraded its Testnet to Protocol 28 after completing the Protocol 27 Mainnet upgrade.\n\nThe new protocol improves how the network handles delays in transaction data. It also lets developers upgrade groups of smart",
-    "link": "https://cryptopanic.com/news/33460216/Pi-Network-Advances-To-Protocol-28-Pi-Network-PiCoreTeam-has-upgraded-its-Testnet-to-Protocol-28-after-completing-the-Protocol-27-Mainnet-upgrade-The-new-protocol-improves-how-the-network-handles-delays-in-transaction-data-It-also-lets-developers-upgrade-groups-of-smart",
-    "source": "@bscnews",
-    "published": "Mon Sep 28 2026 06:06:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why Is Quant (QNT) Up 322%? JPMorgan, Citi and Barclays Have the Answer",
-    "link": "https://cryptopanic.com/news/33460327/Why-Is-Quant-QNT-Up-322-JPMorgan-Citi-and-Barclays-Have-the-Answer",
-    "source": "beincrypto.com",
-    "published": "Mon Sep 28 2026 06:02:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ Key Economic Events This Week:\n\nTuesday - September Consumer Confidence data, August JOLTS Job Openings data\nWednesday - August PCE Inflation data, US Q2 2026 GDP data\nThursday - September ISM Manufacturing PMI data\nFriday - September Jobs Report\n\n22 Fed speaker events lined",
-    "link": "https://cryptopanic.com/news/33460315/Key-Economic-Events-This-Week-Tuesday-September-Consumer-Confidence-data-August-JOLTS-Job-Openings-data-Wednesday-August-PCE-Inflation-data-US-Q2-2026-GDP-data-Thursday-September-ISM-Manufacturing-PMI-data-Friday-September-Jobs-Report-22-Fed-speaker-events-lined",
-    "source": "@cointelegraph",
-    "published": "Mon Sep 28 2026 06:01:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Dogecoin Whales Getting Ready for 'Bullish Breakout,' Says Popular Analyst: 'Major Resistance' Sits at This Level",
-    "link": "https://cryptopanic.com/news/33460182/Dogecoin-Whales-Getting-Ready-for-Bullish-Breakout-Says-Popular-Analyst-Major-Resistance-Sits-at-This-Level",
-    "source": "feeds2.benzinga.com",
-    "published": "Mon Sep 28 2026 05:52:24 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
