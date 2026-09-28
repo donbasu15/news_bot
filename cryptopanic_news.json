@@ -1,5 +1,68 @@
 [
   {
+    "title": "Don't be the one left behind. Buy Bitcoin.",
+    "link": "https://cryptopanic.com/news/33463059/Dont-be-the-one-left-behind-Buy-Bitcoin",
+    "source": "@btc_archive",
+    "published": "Mon Sep 28 2026 14:37:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Strategy purchased $142.7M of $BTC and $151.7M of $STRC last week while issuing $246.2M of $MSTR.",
+    "link": "https://cryptopanic.com/news/33463060/Strategy-purchased-1427M-of-BTC-and-1517M-of-STRC-last-week-while-issuing-2462M-of-MSTR",
+    "source": "@stackersatoshi",
+    "published": "Mon Sep 28 2026 14:34:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Meow",
+    "link": "https://cryptopanic.com/news/33463063/Meow",
+    "source": "@coinmarketcap",
+    "published": "Mon Sep 28 2026 14:32:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CMC Agentic Charts is LIVE\n\nTry it now",
+    "link": "https://cryptopanic.com/news/33463062/CMC-Agentic-Charts-is-LIVE-Try-it-now",
+    "source": "@coinmarketcap",
+    "published": "Mon Sep 28 2026 14:32:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Price: Why It Could Go To Infinity vs Dollar",
+    "link": "https://cryptopanic.com/news/33463070/Bitcoin-Price-Why-It-Could-Go-To-Infinity-vs-Dollar",
+    "source": "SimplyBitcoin",
+    "published": "Mon Sep 28 2026 14:30:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitmine Ethereum Holdings Reach 6 Million ETH – Here Is What Comes Next",
+    "link": "https://cryptopanic.com/news/33462942/Bitmine-Ethereum-Holdings-Reach-6-Million-ETH-Here-Is-What-Comes-Next",
+    "source": "blocknews.com",
+    "published": "Mon Sep 28 2026 14:27:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸🇨🇳 United States and China reach deal to cut tariffs on $60,000,000,000 worth of goods following Xi Jinping's talks with President Trump.",
+    "link": "https://cryptopanic.com/news/33462985/JUST-IN-United-States-and-China-reach-deal-to-cut-tariffs-on-60000000000-worth-of-goods-following-Xi-Jinpings-talks-with-President-Trump",
+    "source": "@watcherguru",
+    "published": "Mon Sep 28 2026 14:24:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "From @Chainlink's CCIP 2.0 to Bitget's hack and more... \n\nExplore the biggest stories from the latest BSCN debrief. \n\nDon't forget to subscribe...",
+    "link": "https://cryptopanic.com/news/33462980/From-Chainlinks-CCIP-20-to-Bitgets-hack-and-more-Explore-the-biggest-stories-from-the-latest-BSCN-debrief-Dont-forget-to-subscribe",
+    "source": "@bscnews",
+    "published": "Mon Sep 28 2026 14:17:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE:  Bitget CEO Gracy Chen says the hack exploited third-party vulnerabilities to steal credentials and issue fraudulent withdrawal commands, but that private keys and cold wallets were not compromised.",
+    "link": "https://cryptopanic.com/news/33463061/UPDATE-Bitget-CEO-Gracy-Chen-says-the-hack-exploited-third-party-vulnerabilities-to-steal-credentials-and-issue-fraudulent-withdrawal-commands-but-that-private-keys-and-cold-wallets-were-not-compromised",
+    "source": "@coinmarketcap",
+    "published": "Mon Sep 28 2026 14:17:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Which Altcoin Is Most Likely to 10x in the Next Bull Cycle? (3 AIs Speculate)",
     "link": "https://cryptopanic.com/news/33462934/Which-Altcoin-Is-Most-Likely-to-10x-in-the-Next-Bull-Cycle-3-AIs-Speculate",
     "source": "cryptopotato.com",
@@ -7,10 +70,45 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Sept 21–Sept 27, 2026 #LookonchainWeeklyReport\n\n🟢 Overview\nStablecoin supply grew by $2.79B last week, DEX spot volume fell and perp volume slipped, while public companies added 2,938.0 BTC.\n\n🟢 Stablecoin Market\nThe total stablecoin market cap increased by $2.79B.\n\n🟢 Spot &",
+    "link": "https://cryptopanic.com/news/33462983/Sept-21Sept-27-2026-LookonchainWeeklyReport-Overview-Stablecoin-supply-grew-by-279B-last-week-DEX-spot-volume-fell-and-perp-volume-slipped-while-public-companies-added-29380-BTC-Stablecoin-Market-The-total-stablecoin-market-cap-increased-by-279B-Spot-amp",
+    "source": "@lookonchain",
+    "published": "Mon Sep 28 2026 14:15:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Sept 28 Update:\n\n#Bitcoin ETFs:\n1D NetFlow: +1,740 $BTC(+$145.71M)🟢\n7D NetFlow: +29,298 $BTC(+$2.45B)🟢\n\n#Ethereum ETFs:\n1D NetFlow: +20,447 $ETH(+$55.12M)🟢\n7D NetFlow: +231,519 $ETH(+$624.1M)🟢",
+    "link": "https://cryptopanic.com/news/33462982/Sept-28-Update-Bitcoin-ETFs-1D-NetFlow-1740-BTC14571M-7D-NetFlow-29298-BTC245B-Ethereum-ETFs-1D-NetFlow-20447-ETH5512M-7D-NetFlow-231519-ETH6241M",
+    "source": "@lookonchain",
+    "published": "Mon Sep 28 2026 14:14:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33463065/Source",
+    "source": "@wublockchain",
+    "published": "Mon Sep 28 2026 14:13:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Citi Partners With Coinbase to Enable Stablecoin Payments for Corporate Clients\n\nAccording to The Wall Street Journal, Citi has partnered with Coinbase to enable corporate clients, including large multinational companies, to accept stablecoin payments through Citi’s merchant",
+    "link": "https://cryptopanic.com/news/33463064/Citi-Partners-With-Coinbase-to-Enable-Stablecoin-Payments-for-Corporate-Clients-According-to-The-Wall-Street-Journal-Citi-has-partnered-with-Coinbase-to-enable-corporate-clients-including-large-multinational-companies-to-accept-stablecoin-payments-through-Citis-merchant",
+    "source": "@wublockchain",
+    "published": "Mon Sep 28 2026 14:13:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST: Tether says it has supported the freezing of nearly $550 million in Iran-linked $USDT in 2026 as the U.S. expands its sanctions campaign.\n\nThe company says it works with more than 340 law enforcement agencies across 67 countries.",
     "link": "https://cryptopanic.com/news/33462911/LATEST-Tether-says-it-has-supported-the-freezing-of-nearly-550-million-in-Iran-linked-USDT-in-2026-as-the-US-expands-its-sanctions-campaign-The-company-says-it-works-with-more-than-340-law-enforcement-agencies-across-67-countries",
     "source": "@coindesk",
     "published": "Mon Sep 28 2026 14:11:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇷🇺 Russia to extend diesel export ban until the end of October.",
+    "link": "https://cryptopanic.com/news/33462984/JUST-IN-Russia-to-extend-diesel-export-ban-until-the-end-of-October",
+    "source": "@watcherguru",
+    "published": "Mon Sep 28 2026 14:08:49 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -42,6 +140,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Markets, SEC Approves Buybacks, $BTC Weekly Close & $PUMP Rallies.",
+    "link": "https://cryptopanic.com/news/33462981/Markets-SEC-Approves-Buybacks-BTC-Weekly-Close-amp-PUMP-Rallies",
+    "source": "@decryptmedia",
+    "published": "Mon Sep 28 2026 14:02:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Has solana:So11111111111111111111111111111111111111112 gone deflationary? Not quite. \n\nDouble disinflation means tail inflation in about 3 years instead of 6 or 7. @DrNickA of @jito calls it the network choosing a long-term decision over short-term monetary gain. \n\n#solana",
     "link": "https://cryptopanic.com/news/33462915/Has-solanaSo11111111111111111111111111111111111111112-gone-deflationary-Not-quite-Double-disinflation-means-tail-inflation-in-about-3-years-instead-of-6-or-7-DrNickA-of-jito-calls-it-the-network-choosing-a-long-term-decision-over-short-term-monetary-gain-solana",
     "source": "@realallincrypto",
@@ -70,6 +175,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "$550M Worth of Iran-Connected Assets Frozen by Tether Under Sanctions Enforcement Program\n\n@Tether has frozen an aggregate of $550M of $USDT in 2026, particularly from financial networks connected to the Central Bank of Iran and the IRGC.\n\nThese enforcement actions were carried",
+    "link": "https://cryptopanic.com/news/33462979/550M-Worth-of-Iran-Connected-Assets-Frozen-by-Tether-Under-Sanctions-Enforcement-Program-Tether-has-frozen-an-aggregate-of-550M-of-USDT-in-2026-particularly-from-financial-networks-connected-to-the-Central-Bank-of-Iran-and-the-IRGC-These-enforcement-actions-were-carried",
+    "source": "@bscnews",
+    "published": "Mon Sep 28 2026 13:53:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: 🇨🇳 China's top intelligence agency warns anonymity in crypto is a \"false proposition\" and an \"illusion.\"\n\nChina's Ministry of State Security says foreign intelligence agencies use the \"illusion\" of crypto anonymity to trick citizens into espionage recruitment, claiming",
     "link": "https://cryptopanic.com/news/33462781/JUST-IN-Chinas-top-intelligence-agency-warns-anonymity-in-crypto-is-a-false-proposition-and-an-illusion-Chinas-Ministry-of-State-Security-says-foreign-intelligence-agencies-use-the-illusion-of-crypto-anonymity-to-trick-citizens-into-espionage-recruitment-claiming",
     "source": "@watcherguru",
@@ -95,118 +207,6 @@
     "link": "https://cryptopanic.com/news/33462783/Bitcoin-faces-little-selling-pressure-up-to-85200-Are-bulls-set-to-take-over-following-3-billion-in-7-day-spot-ETF-inflows",
     "source": "@btc_archive",
     "published": "Mon Sep 28 2026 13:42:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Strategy Buys 1,665 Bitcoin for $142.7 Million – Here Is What Comes Next",
-    "link": "https://cryptopanic.com/news/33462695/Strategy-Buys-1665-Bitcoin-for-1427-Million-Here-Is-What-Comes-Next",
-    "source": "blocknews.com",
-    "published": "Mon Sep 28 2026 13:41:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Strive bought an additional 1,107 Bitcoin at an average price of ~$85,396, bringing its total holdings to 27,462 BTC.",
-    "link": "https://cryptopanic.com/news/33462787/LATEST-Strive-bought-an-additional-1107-Bitcoin-at-an-average-price-of-85396-bringing-its-total-holdings-to-27462-BTC",
-    "source": "@coinmarketcap",
-    "published": "Mon Sep 28 2026 13:41:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Chainlink launches CCIP 2.0 with new cross-chain security controls for institutional assets.",
-    "link": "https://cryptopanic.com/news/33462912/NEW-Chainlink-launches-CCIP-20-with-new-cross-chain-security-controls-for-institutional-assets",
-    "source": "@cointelegraph",
-    "published": "Mon Sep 28 2026 13:40:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tom Lee’s Bitmine tops 6 million ETH after buying another 17,362 ether",
-    "link": "https://cryptopanic.com/news/33462694/Tom-Lees-Bitmine-tops-6-million-ETH-after-buying-another-17362-ether",
-    "source": "theblock.co",
-    "published": "Mon Sep 28 2026 13:39:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ASX' RWA Yield Farm is offering 300% APY right now!\n\nRWA pioneer @asx_capital has created a product that combines...\n\n(1) Exposure to premium US real estate.\n(2) Industry-leading passive income.\n\nTo access as much as 300% annual yield, all you need to do is purchase a tokenised",
-    "link": "https://cryptopanic.com/news/33462740/ASX-RWA-Yield-Farm-is-offering-300-APY-right-now-RWA-pioneer-asx_capital-has-created-a-product-that-combines-1-Exposure-to-premium-US-real-estate-2-Industry-leading-passive-income-To-access-as-much-as-300-annual-yield-all-you-need-to-do-is-purchase-a-tokenised",
-    "source": "@bscnews",
-    "published": "Mon Sep 28 2026 13:39:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "TheGreenHood memecoin is trending again\n\nTheGreenHood (@Greenonhood) memecoin on the @RobinhoodCrypto chain is trending alongside $KAIO on Coingecko. \n\nThe memecoin has surged over 80% in the past 24 hours. This is a significant move, especially since $HOOD has slumped sharply",
-    "link": "https://cryptopanic.com/news/33462739/TheGreenHood-memecoin-is-trending-again-TheGreenHood-Greenonhood-memecoin-on-the-RobinhoodCrypto-chain-is-trending-alongside-KAIO-on-Coingecko-The-memecoin-has-surged-over-80-in-the-past-24-hours-This-is-a-significant-move-especially-since-HOOD-has-slumped-sharply",
-    "source": "@bscnews",
-    "published": "Mon Sep 28 2026 13:35:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UsePaid suspends X Money payments after volume spike",
-    "link": "https://cryptopanic.com/news/33462679/UsePaid-suspends-X-Money-payments-after-volume-spike",
-    "source": "protos.com",
-    "published": "Mon Sep 28 2026 13:33:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Strategy Buys $143 Million Of Bitcoin",
-    "link": "https://cryptopanic.com/news/33462688/Strategy-Buys-143-Million-Of-Bitcoin",
-    "source": "cryptoprowl.com",
-    "published": "Mon Sep 28 2026 13:33:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33462788/Source",
-    "source": "@wublockchain",
-    "published": "Mon Sep 28 2026 13:32:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tether Says It Has Helped Freeze Nearly $550M in Iran-Linked USDT in 2026 \n\nTether said it has supported U.S. law enforcement and sanctions authorities in freezing approximately $550 million in USDT linked to Iran’s central bank and sanctions networks in 2026. This included more",
-    "link": "https://cryptopanic.com/news/33462659/Tether-Says-It-Has-Helped-Freeze-Nearly-550M-in-Iran-Linked-USDT-in-2026-Tether-said-it-has-supported-US-law-enforcement-and-sanctions-authorities-in-freezing-approximately-550-million-in-USDT-linked-to-Irans-central-bank-and-sanctions-networks-in-2026-This-included-more",
-    "source": "@wublockchain",
-    "published": "Mon Sep 28 2026 13:31:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "California signs into law restrictions banning public officers from issuing crypto meme coins",
-    "link": "https://cryptopanic.com/news/33462674/California-signs-into-law-restrictions-banning-public-officers-from-issuing-crypto-meme-coins",
-    "source": "cryptoslate.com",
-    "published": "Mon Sep 28 2026 13:30:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Binance to Temporarily Suspend Withdrawals on Coinbase L2, Base This Date: Reason",
-    "link": "https://cryptopanic.com/news/33462810/Binance-to-Temporarily-Suspend-Withdrawals-on-Coinbase-L2-Base-This-Date-Reason",
-    "source": "u.today",
-    "published": "Mon Sep 28 2026 13:30:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "GoPlus’s long-term model links this activity to $GPS: \n\nmore agents → more actions → more security checks → greater security-service consumption → more $GPS denominated settlement → stronger network economics.",
-    "link": "https://cryptopanic.com/news/33462665/GoPluss-long-term-model-links-this-activity-to-GPS-more-agents-more-actions-more-security-checks-greater-security-service-consumption-more-GPS-denominated-settlement-stronger-network-economics",
-    "source": "@coindesk",
-    "published": "Mon Sep 28 2026 13:30:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Apollo warns AI agents acting in unison could trigger a bank run",
-    "link": "https://cryptopanic.com/news/33462602/Apollo-warns-AI-agents-acting-in-unison-could-trigger-a-bank-run",
-    "source": "cryptopolitan.com",
-    "published": "Mon Sep 28 2026 13:30:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "This comes as the security environment becomes more complex. \n\nWeb3 recorded 165 hacks in H1 2026, while AI is making vulnerability discovery, social engineering and fraud cheaper, faster and more scalable.",
-    "link": "https://cryptopanic.com/news/33462664/This-comes-as-the-security-environment-becomes-more-complex-Web3-recorded-165-hacks-in-H1-2026-while-AI-is-making-vulnerability-discovery-social-engineering-and-fraud-cheaper-faster-and-more-scalable",
-    "source": "@coindesk",
-    "published": "Mon Sep 28 2026 13:30:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "That architecture spans several layers: \n\nSafuSkill addresses AI software supply-chain risk, Axora governs agent information flows and actions, DeepScan provides continuous smart-contract security, while GoPlus Intelligence adds on-chain risk context.",
-    "link": "https://cryptopanic.com/news/33462663/That-architecture-spans-several-layers-SafuSkill-addresses-AI-software-supply-chain-risk-Axora-governs-agent-information-flows-and-actions-DeepScan-provides-continuous-smart-contract-security-while-GoPlus-Intelligence-adds-on-chain-risk-context",
-    "source": "@coindesk",
-    "published": "Mon Sep 28 2026 13:30:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
