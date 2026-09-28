@@ -1,5 +1,19 @@
 [
   {
+    "title": "ALERT: The average 30-year fixed mortgage rate hit another two-year high of 7.50%, up from 6.38% a year ago.",
+    "link": "https://cryptopanic.com/news/33464308/ALERT-The-average-30-year-fixed-mortgage-rate-hit-another-two-year-high-of-750-up-from-638-a-year-ago",
+    "source": "@cointelegraph",
+    "published": "Mon Sep 28 2026 18:50:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Nvidia Built a Kill Switch for AI Agents Because They Keep Getting Out",
+    "link": "https://cryptopanic.com/news/33464295/Nvidia-Built-a-Kill-Switch-for-AI-Agents-Because-They-Keep-Getting-Out",
+    "source": "decrypt.co",
+    "published": "Mon Sep 28 2026 18:46:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST:  Ondo Perps has launched spot trading for 12 tokenized stocks and ETFs, which traders can use as collateral to open short perpetual positions.",
     "link": "https://cryptopanic.com/news/33464292/LATEST-Ondo-Perps-has-launched-spot-trading-for-12-tokenized-stocks-and-ETFs-which-traders-can-use-as-collateral-to-open-short-perpetual-positions",
     "source": "@coinmarketcap",
@@ -11,6 +25,13 @@
     "link": "https://cryptopanic.com/news/33464232/Convicted-cybercriminal-arrested-in-connection-with-ShinyHunters-group",
     "source": "protos.com",
     "published": "Mon Sep 28 2026 18:35:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BULLISH: More public companies now hold Bitcoin, with corporate adoption continuing through the bear market, according to River.",
+    "link": "https://cryptopanic.com/news/33464306/BULLISH-More-public-companies-now-hold-Bitcoin-with-corporate-adoption-continuing-through-the-bear-market-according-to-River",
+    "source": "@cointelegraph",
+    "published": "Mon Sep 28 2026 18:31:07 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -32,6 +53,13 @@
     "link": "https://cryptopanic.com/news/33464233/Bitcoin-Price-SURGE-100K-Hurdle-to-250K-Prediction",
     "source": "SimplyBitcoin",
     "published": "Mon Sep 28 2026 18:30:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Goldman Sachs' $100B treasury fund is now available on @Lynq_Network. On CoinDesk's Public Keys at the @NYSE, Lynq CEO Jerald David breaks down how FTIXX is coming to the network, Twenty One Capital's Raphael Zagury on building a Bitcoin operating company around 43,500+ BTC, and",
+    "link": "https://cryptopanic.com/news/33464305/Goldman-Sachs-100B-treasury-fund-is-now-available-on-Lynq_Network-On-CoinDesks-Public-Keys-at-the-NYSE-Lynq-CEO-Jerald-David-breaks-down-how-FTIXX-is-coming-to-the-network-Twenty-One-Capitals-Raphael-Zagury-on-building-a-Bitcoin-operating-company-around-43500-BTC-and",
+    "source": "@coindesk",
+    "published": "Mon Sep 28 2026 18:25:28 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33464169/UPDATE-Chainlink-hit-a-2026-high-of-1489-as-its-wallet-count-dipped-suggesting-some-smaller-holders-may-be-taking-profits",
     "source": "@cointelegraph",
     "published": "Mon Sep 28 2026 17:50:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Americans in Multiple States Set for Biggest Social Security Check Boosts Since 2023 as COLA Nears",
-    "link": "https://cryptopanic.com/news/33464067/Americans-in-Multiple-States-Set-for-Biggest-Social-Security-Check-Boosts-Since-2023-as-COLA-Nears",
-    "source": "dailyhodl.com",
-    "published": "Mon Sep 28 2026 17:50:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Cardano $ADA's Strike Finance has generated over $25.4M in volume from copy trading in less than 6 weeks.",
-    "link": "https://cryptopanic.com/news/33464164/JUST-IN-Cardano-ADAs-Strike-Finance-has-generated-over-254M-in-volume-from-copy-trading-in-less-than-6-weeks",
-    "source": "@angrycryptoshow",
-    "published": "Mon Sep 28 2026 17:49:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INSIGHT: Over 2.7B $ADA remains delegated across 837 retired Cardano DReps, according to Cexplorer.",
-    "link": "https://cryptopanic.com/news/33464163/INSIGHT-Over-27B-ADA-remains-delegated-across-837-retired-Cardano-DReps-according-to-Cexplorer",
-    "source": "@angrycryptoshow",
-    "published": "Mon Sep 28 2026 17:48:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Shiba Inu Gains 1,235 New Holders In a Day, Nearing 1.7M",
-    "link": "https://cryptopanic.com/news/33464045/Shiba-Inu-Gains-1235-New-Holders-In-a-Day-Nearing-17M",
-    "source": "dailycoin.com",
-    "published": "Mon Sep 28 2026 17:45:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
