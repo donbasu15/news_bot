@@ -1,5 +1,40 @@
 [
   {
+    "title": "LATEST: 🇭🇰 Hong Kong's SFC and AFRC have signed an MoU extending financial reporting, audit and compliance oversight to licensed crypto firms, replacing a 2021 agreement.",
+    "link": "https://cryptopanic.com/news/33466554/LATEST-Hong-Kongs-SFC-and-AFRC-have-signed-an-MoU-extending-financial-reporting-audit-and-compliance-oversight-to-licensed-crypto-firms-replacing-a-2021-agreement",
+    "source": "@coinmarketcap",
+    "published": "Tue Sep 29 2026 07:09:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Florida Postal Worker and Accomplice Receive Prison Terms for Mail Theft and Bank Fraud",
+    "link": "https://cryptopanic.com/news/33466568/Florida-Postal-Worker-and-Accomplice-Receive-Prison-Terms-for-Mail-Theft-and-Bank-Fraud",
+    "source": "dailyhodl.com",
+    "published": "Tue Sep 29 2026 07:04:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Franklin Templeton Fund Shares Now Back Bybit Trades While Earning Yield",
+    "link": "https://cryptopanic.com/news/33466449/Franklin-Templeton-Fund-Shares-Now-Back-Bybit-Trades-While-Earning-Yield",
+    "source": "coinpaprika.com",
+    "published": "Tue Sep 29 2026 07:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The Bitget exploiter tried routing stolen funds through Chainflip, but the deposit was rejected at the broker interface, per MistTrack.\n\nChainflip reportedly refunded the funds directly to the sender, preventing the attacker from routing the proceeds through the network.",
+    "link": "https://cryptopanic.com/news/33466435/The-Bitget-exploiter-tried-routing-stolen-funds-through-Chainflip-but-the-deposit-was-rejected-at-the-broker-interface-per-MistTrack-Chainflip-reportedly-refunded-the-funds-directly-to-the-sender-preventing-the-attacker-from-routing-the-proceeds-through-the-network",
+    "source": "@bscnews",
+    "published": "Tue Sep 29 2026 06:57:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Binance Research Found One Number That Separates Strong Bitcoin Rallies From Weak Ones",
+    "link": "https://cryptopanic.com/news/33466517/Binance-Research-Found-One-Number-That-Separates-Strong-Bitcoin-Rallies-From-Weak-Ones",
+    "source": "beincrypto.com",
+    "published": "Tue Sep 29 2026 06:51:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "ZEC has dropped more than 18% from its recent high.\n\nWhale 0x362a opened a 5x long on 4,135 $ZEC($5.8M) on @Aster_DEX and is now sitting on over $450K in unrealized losses.",
     "link": "https://cryptopanic.com/news/33466436/ZEC-has-dropped-more-than-18-from-its-recent-high-Whale-0x362a-opened-a-5x-long-on-4135-ZEC58M-on-Aster_DEX-and-is-now-sitting-on-over-450K-in-unrealized-losses",
     "source": "@lookonchain",
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33466281/Bitcoin-Outflows-From-Binance-Hit-a-Three-Year-High-More-than-13800-bitcoinnative-left-Binance-on-Sept-22-according-to-CryptoQuant-data-This-marked-the-exchanges-largest-single-day-Bitcoin-outflow-since-2023-Binances-reserves-also-fell-from-about-705000-BTC-to-685000",
     "source": "@bscnews",
     "published": "Tue Sep 29 2026 05:46:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Our next panel at Cointelegraph Connect: Seoul Edition is live, with @KaikoData, @gensynai, @CMT_Digital, @Optimism, @DWFLabs and @Wincent_co diving into perps, liquidity and the exchange wars in Asia's onchain markets.",
-    "link": "https://cryptopanic.com/news/33466211/NEW-Our-next-panel-at-Cointelegraph-Connect-Seoul-Edition-is-live-with-KaikoData-gensynai-CMT_Digital-Optimism-DWFLabs-and-Wincent_co-diving-into-perps-liquidity-and-the-exchange-wars-in-Asias-onchain-markets",
-    "source": "@cointelegraph",
-    "published": "Tue Sep 29 2026 05:44:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "MistTrack: Bitget Exploiter Attempted to Route Stolen Funds via Chainflip but Broker Rejected\n\nAccording to on-chain monitoring by SlowMist's tracking arm MistTrack, the Bitget exploiter attempted to move stolen funds through the cross-chain liquidity protocol Chainflip, but the",
-    "link": "https://cryptopanic.com/news/33466206/MistTrack-Bitget-Exploiter-Attempted-to-Route-Stolen-Funds-via-Chainflip-but-Broker-Rejected-According-to-on-chain-monitoring-by-SlowMists-tracking-arm-MistTrack-the-Bitget-exploiter-attempted-to-move-stolen-funds-through-the-cross-chain-liquidity-protocol-Chainflip-but-the",
-    "source": "@wublockchain",
-    "published": "Tue Sep 29 2026 05:39:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Coinbase Bitcoin transfer moves 2,400 BTC worth $199 million to unknown wallet",
-    "link": "https://cryptopanic.com/news/33466421/Coinbase-Bitcoin-transfer-moves-2400-BTC-worth-199-million-to-unknown-wallet",
-    "source": "en.cryptonomist.ch",
-    "published": "Tue Sep 29 2026 05:35:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Large Ethereum transfer worth $104 million puzzles traders",
-    "link": "https://cryptopanic.com/news/33466420/Large-Ethereum-transfer-worth-104-million-puzzles-traders",
-    "source": "en.cryptonomist.ch",
-    "published": "Tue Sep 29 2026 05:35:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Anthropic IPO Filing Reveals Valuation Target and Massive AI Spending",
-    "link": "https://cryptopanic.com/news/33466161/Anthropic-IPO-Filing-Reveals-Valuation-Target-and-Massive-AI-Spending",
-    "source": "coinpaper.com",
-    "published": "Tue Sep 29 2026 05:35:27 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
