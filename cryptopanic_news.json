@@ -1,5 +1,103 @@
 [
   {
+    "title": "New Android Malware Lets Scammers Drain Bank Accounts and ATMs – Without Stealing Your Bank Card",
+    "link": "https://cryptopanic.com/news/33469648/New-Android-Malware-Lets-Scammers-Drain-Bank-Accounts-and-ATMs-Without-Stealing-Your-Bank-Card",
+    "source": "dailyhodl.com",
+    "published": "Tue Sep 29 2026 15:10:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitwise Launches First U.S. Spot NEAR ETF – Here Is What It Offers",
+    "link": "https://cryptopanic.com/news/33469567/Bitwise-Launches-First-US-Spot-NEAR-ETF-Here-Is-What-It-Offers",
+    "source": "blocknews.com",
+    "published": "Tue Sep 29 2026 15:10:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin tests long-term holder supply cluster as leverage clears, analysts say",
+    "link": "https://cryptopanic.com/news/33469576/Bitcoin-tests-long-term-holder-supply-cluster-as-leverage-clears-analysts-say",
+    "source": "theblock.co",
+    "published": "Tue Sep 29 2026 15:09:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 US 30-year Treasury yield rises to highest level since 2002.",
+    "link": "https://cryptopanic.com/news/33469635/JUST-IN-US-30-year-Treasury-yield-rises-to-highest-level-since-2002",
+    "source": "@watcherguru",
+    "published": "Tue Sep 29 2026 15:03:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇪🇺 $9.2 billion ETF provider HANetf launches the first ever euro-hedged Bitcoin exchange traded commodity",
+    "link": "https://cryptopanic.com/news/33469634/JUST-IN-92-billion-ETF-provider-HANetf-launches-the-first-ever-euro-hedged-Bitcoin-exchange-traded-commodity",
+    "source": "@bitcoinmagazine",
+    "published": "Tue Sep 29 2026 15:03:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "This DeFi Platform Could Change How We Trade On Chain",
+    "link": "https://cryptopanic.com/news/33469636/This-DeFi-Platform-Could-Change-How-We-Trade-On-Chain",
+    "source": "DataDash",
+    "published": "Tue Sep 29 2026 15:00:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BITGET HACK UPDATE: $NEAR Intents just stopped over $50 MILLION in attempted transfers linked to the Bitget hack.\n\nThe @NEARProtocol's SHIELD system detected the suspicious flows and even froze $503K mid-transaction. \n\nThis is $NEAR infrastructure proving itself when it",
+    "link": "https://cryptopanic.com/news/33469505/BITGET-HACK-UPDATE-NEAR-Intents-just-stopped-over-50-MILLION-in-attempted-transfers-linked-to-the-Bitget-hack-The-NEARProtocols-SHIELD-system-detected-the-suspicious-flows-and-even-froze-503K-mid-transaction-This-is-NEAR-infrastructure-proving-itself-when-it",
+    "source": "@realallincrypto",
+    "published": "Tue Sep 29 2026 15:00:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CEA Industries renames to BNB Standard after community vote on X",
+    "link": "https://cryptopanic.com/news/33469510/CEA-Industries-renames-to-BNB-Standard-after-community-vote-on-X",
+    "source": "cryptopolitan.com",
+    "published": "Tue Sep 29 2026 15:00:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Stablecoin News: Circle, Volante Bring USDC to Major Banking Infrastructure",
+    "link": "https://cryptopanic.com/news/33469523/Stablecoin-News-Circle-Volante-Bring-USDC-to-Major-Banking-Infrastructure",
+    "source": "thecoinrepublic.com",
+    "published": "Tue Sep 29 2026 15:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: #Cardano $ADA 24h trade volume reached as high as $700,000,000 according to CoinGecko.",
+    "link": "https://cryptopanic.com/news/33469497/JUST-IN-Cardano-ADA-24h-trade-volume-reached-as-high-as-700000000-according-to-CoinGecko",
+    "source": "@angrycryptoshow",
+    "published": "Tue Sep 29 2026 14:59:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Moca Chain Mainnet Is Up and Running\n\nMoca Chain, the Layer-1 platform for privacy-focused identity, is now live. \n\nAccording to @Moca_Network, it provides the necessary infrastructure for the availability and auditability of identity data and the state of identities, without",
+    "link": "https://cryptopanic.com/news/33469633/Moca-Chain-Mainnet-Is-Up-and-Running-Moca-Chain-the-Layer-1-platform-for-privacy-focused-identity-is-now-live-According-to-Moca_Network-it-provides-the-necessary-infrastructure-for-the-availability-and-auditability-of-identity-data-and-the-state-of-identities-without",
+    "source": "@bscnews",
+    "published": "Tue Sep 29 2026 14:59:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Kraken Pro posts $SNEK",
+    "link": "https://cryptopanic.com/news/33469493/JUST-IN-Kraken-Pro-posts-SNEK",
+    "source": "@angrycryptoshow",
+    "published": "Tue Sep 29 2026 14:54:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: #Cardano $ADA Founder Charles Hoskinson says he's now \"running Omarchy,\" an open-source Linux OS engineered for AI coding.",
+    "link": "https://cryptopanic.com/news/33469492/JUST-IN-Cardano-ADA-Founder-Charles-Hoskinson-says-hes-now-running-Omarchy-an-open-source-Linux-OS-engineered-for-AI-coding",
+    "source": "@angrycryptoshow",
+    "published": "Tue Sep 29 2026 14:53:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Polygon (@0xPolygon) just hit $3T in cumulative transfer volume. \n\nThis aligns with the blockchain's repositioning as a high-speed stablecoin settlement network after it hit $2.4T earlier this year.",
+    "link": "https://cryptopanic.com/news/33469631/Polygon-0xPolygon-just-hit-3T-in-cumulative-transfer-volume-This-aligns-with-the-blockchains-repositioning-as-a-high-speed-stablecoin-settlement-network-after-it-hit-24T-earlier-this-year",
+    "source": "@bscnews",
+    "published": "Tue Sep 29 2026 14:47:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "What Is a Treasury Yield and Why Does It Move Stocks and Crypto?",
     "link": "https://cryptopanic.com/news/33469459/What-Is-a-Treasury-Yield-and-Why-Does-It-Move-Stocks-and-Crypto",
     "source": "coinpaper.com",
@@ -11,13 +109,6 @@
     "link": "https://cryptopanic.com/news/33469504/Crypto-markets-run-on-liquidity-But-where-is-it-coming-from-next-Thats-the-conversation-at-Cointelegraph-CONNECT-Singapore-on-Oct-9-Joining-the-panel-raycotarrida-Co-Founder-amp-CEO-KenomicAI-ShiliangTang-CEO-monarq_mgmt-Lingersj-Partner-DWFLabs",
     "source": "@cointelegraph",
     "published": "Tue Sep 29 2026 14:45:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Read the full article",
-    "link": "https://cryptopanic.com/news/33469500/Read-the-full-article",
-    "source": "@coindesk",
-    "published": "Tue Sep 29 2026 14:45:51 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -35,6 +126,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Lite Strategy is not slowing down on Litecoin accumulation... \n\nLite Strategy (@LiteStrategy) concludes its fiscal year with impressive performance, investing $100M to secure 832,716 litecoin:native. \n\nThe protocol's accumulation amounts to over 1% of the overall circulating",
+    "link": "https://cryptopanic.com/news/33469629/Lite-Strategy-is-not-slowing-down-on-Litecoin-accumulation-Lite-Strategy-LiteStrategy-concludes-its-fiscal-year-with-impressive-performance-investing-100M-to-secure-832716-litecoinnative-The-protocols-accumulation-amounts-to-over-1-of-the-overall-circulating",
+    "source": "@bscnews",
+    "published": "Tue Sep 29 2026 14:40:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "House Opens Probe Into Prediction-Market Insider Trading",
     "link": "https://cryptopanic.com/news/33469406/House-Opens-Probe-Into-Prediction-Market-Insider-Trading",
     "source": "bankless.com",
@@ -46,6 +144,13 @@
     "link": "https://cryptopanic.com/news/33469391/OpenAI-ARR-Nears-70B-as-Enterprise-Sales-Surge-Closing-Anthropic-Gap",
     "source": "coinpaper.com",
     "published": "Tue Sep 29 2026 14:34:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "It's not too late to be early to @OhayoGlobal...\n\nAccess a next generation perps DEX, purpose-built for traders that mean business.\n\nJoin now",
+    "link": "https://cryptopanic.com/news/33469628/Its-not-too-late-to-be-early-to-OhayoGlobal-Access-a-next-generation-perps-DEX-purpose-built-for-traders-that-mean-business-Join-now",
+    "source": "@bscnews",
+    "published": "Tue Sep 29 2026 14:33:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -102,111 +207,6 @@
     "link": "https://cryptopanic.com/news/33469326/Bitwise-launches-first-US-spot-NEAR-ETF-with-staking-rewards",
     "source": "theblock.co",
     "published": "Tue Sep 29 2026 14:27:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "How deep could a pullback go?\n\nOur latest report breaks down the profit-taking signals, cooling demand, and key Bitcoin support levels.\n\nRead the full analysis",
-    "link": "https://cryptopanic.com/news/33469458/How-deep-could-a-pullback-go-Our-latest-report-breaks-down-the-profit-taking-signals-cooling-demand-and-key-Bitcoin-support-levels-Read-the-full-analysis",
-    "source": "@cryptoquant_com",
-    "published": "Tue Sep 29 2026 14:26:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Coinbase Wins CFTC Approval, Completing Full U.S. Crypto Derivatives Stack",
-    "link": "https://cryptopanic.com/news/33469317/Coinbase-Wins-CFTC-Approval-Completing-Full-US-Crypto-Derivatives-Stack",
-    "source": "coinpaper.com",
-    "published": "Tue Sep 29 2026 14:26:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Holders are cashing in.\n\nProfit-taking just hit a 2026 high, trader unrealized profits reached 33%, and demand is fading.\n\nThe bull market is intact, but the rally is showing cracks. \n\n$80K is the first support to watch.",
-    "link": "https://cryptopanic.com/news/33469457/Holders-are-cashing-in-Profit-taking-just-hit-a-2026-high-trader-unrealized-profits-reached-33-and-demand-is-fading-The-bull-market-is-intact-but-the-rally-is-showing-cracks-80K-is-the-first-support-to-watch",
-    "source": "@cryptoquant_com",
-    "published": "Tue Sep 29 2026 14:26:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ICYMI: 🇺🇸 Michael Saylor says the CLARITY Act \"placed too much emphasis on restrictions,\" arguing the most promising path to digital asset freedom over the next two years runs through the SEC, CFTC, Treasury, and White House.",
-    "link": "https://cryptopanic.com/news/33469455/ICYMI-Michael-Saylor-says-the-CLARITY-Act-placed-too-much-emphasis-on-restrictions-arguing-the-most-promising-path-to-digital-asset-freedom-over-the-next-two-years-runs-through-the-SEC-CFTC-Treasury-and-White-House",
-    "source": "@coinmarketcap",
-    "published": "Tue Sep 29 2026 14:23:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ondo Finance Establishes Footprint in South Korea \n\n@Ondo Finance has announced a partnership with Kakaopay Securities to build the infrastructure for the global distribution of tokenized South Korean stocks.\n\nThe partnership, which was launched during the Korea Blockchain Week",
-    "link": "https://cryptopanic.com/news/33469376/Ondo-Finance-Establishes-Footprint-in-South-Korea-Ondo-Finance-has-announced-a-partnership-with-Kakaopay-Securities-to-build-the-infrastructure-for-the-global-distribution-of-tokenized-South-Korean-stocks-The-partnership-which-was-launched-during-the-Korea-Blockchain-Week",
-    "source": "@bscnews",
-    "published": "Tue Sep 29 2026 14:22:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stock Market Today: S&P 500, Nasdaq Rise as Anthropic IPO Lifts AI Stocks",
-    "link": "https://cryptopanic.com/news/33469300/Stock-Market-Today-SP-500-Nasdaq-Rise-as-Anthropic-IPO-Lifts-AI-Stocks",
-    "source": "coinpaper.com",
-    "published": "Tue Sep 29 2026 14:21:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AMD Makes Its Biggest Move Against Nvidia Yet",
-    "link": "https://cryptopanic.com/news/33469471/AMD-Makes-Its-Biggest-Move-Against-Nvidia-Yet",
-    "source": "beincrypto.com",
-    "published": "Tue Sep 29 2026 14:19:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Amaze Turns to Gold and Defi With $155 Million BullionFx Reverse Acquisition Offer",
-    "link": "https://cryptopanic.com/news/33469387/Amaze-Turns-to-Gold-and-Defi-With-155-Million-BullionFx-Reverse-Acquisition-Offer",
-    "source": "feeds2.benzinga.com",
-    "published": "Tue Sep 29 2026 14:18:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: Strategy's preferred shares surge to 5-month high, nearing $100 issue price.\n\nNow just $0.70 below par—paving the way for accelerated Bitcoin buying!",
-    "link": "https://cryptopanic.com/news/33469452/BREAKING-Strategys-preferred-shares-surge-to-5-month-high-nearing-100-issue-price-Now-just-070-below-parpaving-the-way-for-accelerated-Bitcoin-buying",
-    "source": "@btc_archive",
-    "published": "Tue Sep 29 2026 14:18:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Five or six revenue lines. One destination: JTO. \n\n@DrNickA on @jito's plan to turn that revenue into buybacks and burns: a \"constant wave of demand\" buying the token off the market. \n\nShould every protocol token work like this? \n#defi",
-    "link": "https://cryptopanic.com/news/33469371/Five-or-six-revenue-lines-One-destination-JTO-DrNickA-on-jitos-plan-to-turn-that-revenue-into-buybacks-and-burns-a-constant-wave-of-demand-buying-the-token-off-the-market-Should-every-protocol-token-work-like-this-defi",
-    "source": "@realallincrypto",
-    "published": "Tue Sep 29 2026 14:18:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin's Rally Breaks Analyst's Bear Thesis: What Happens Next?",
-    "link": "https://cryptopanic.com/news/33469386/Bitcoins-Rally-Breaks-Analysts-Bear-Thesis-What-Happens-Next",
-    "source": "feeds2.benzinga.com",
-    "published": "Tue Sep 29 2026 14:15:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Analyst warns U.S. midterm elections could spark ‘Bitcoin dump’",
-    "link": "https://cryptopanic.com/news/33469282/Analyst-warns-US-midterm-elections-could-spark-Bitcoin-dump",
-    "source": "finbold.com",
-    "published": "Tue Sep 29 2026 14:14:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cloudflare Deutsche Telekom partnership aims to secure Europe’s digital networks",
-    "link": "https://cryptopanic.com/news/33469481/Cloudflare-Deutsche-Telekom-partnership-aims-to-secure-Europes-digital-networks",
-    "source": "en.cryptonomist.ch",
-    "published": "Tue Sep 29 2026 14:13:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Sept 29 Update:\n\n#Bitcoin ETFs:\n1D NetFlow: +511 $BTC(+$42.99M)🟢\n7D NetFlow: +15,196 $BTC(+$1.28B)🟢\n\n#Ethereum ETFs:\n1D NetFlow: +5,648 $ETH(+$15.37M)🟢\n7D NetFlow: +168,733 $ETH(+$459.29M)🟢",
-    "link": "https://cryptopanic.com/news/33469379/Sept-29-Update-Bitcoin-ETFs-1D-NetFlow-511-BTC4299M-7D-NetFlow-15196-BTC128B-Ethereum-ETFs-1D-NetFlow-5648-ETH1537M-7D-NetFlow-168733-ETH45929M",
-    "source": "@lookonchain",
-    "published": "Tue Sep 29 2026 14:12:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stablecoins vs Bank Deposits: What Is the Difference?",
-    "link": "https://cryptopanic.com/news/33469187/Stablecoins-vs-Bank-Deposits-What-Is-the-Difference",
-    "source": "coinpaper.com",
-    "published": "Tue Sep 29 2026 14:12:53 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
