@@ -1,5 +1,82 @@
 [
   {
+    "title": "MPL-3643 Brings Permissioned Securities to Solana With Onchain Eligibility Checks",
+    "link": "https://cryptopanic.com/news/33469968/MPL-3643-Brings-Permissioned-Securities-to-Solana-With-Onchain-Eligibility-Checks",
+    "source": "solanafloor.com",
+    "published": "Tue Sep 29 2026 17:15:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 50T Funds Founder & CEO says Bitcoin is the \"digitization of money and value.\" \n\n\"Bitcoin over the last 15 years plus, has been the greatest single returning asset in the history of the world...because it's a new form of hard money.\"",
+    "link": "https://cryptopanic.com/news/33470508/JUST-IN-50T-Funds-Founder-amp-CEO-says-Bitcoin-is-the-digitization-of-money-and-value-Bitcoin-over-the-last-15-years-plus-has-been-the-greatest-single-returning-asset-in-the-history-of-the-worldbecause-its-a-new-form-of-hard-money",
+    "source": "@bitcoinmagazine",
+    "published": "Tue Sep 29 2026 17:14:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "When Prediction Market Odds Become News, Who Checks the Forecast?",
+    "link": "https://cryptopanic.com/news/33470445/When-Prediction-Market-Odds-Become-News-Who-Checks-the-Forecast",
+    "source": "dailycoin.com",
+    "published": "Tue Sep 29 2026 17:05:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Google appeals EU orders to share search data and open Android to AI rivals",
+    "link": "https://cryptopanic.com/news/33470437/Google-appeals-EU-orders-to-share-search-data-and-open-Android-to-AI-rivals",
+    "source": "cryptopolitan.com",
+    "published": "Tue Sep 29 2026 17:01:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Stellar just smashed another all time throughput record!\n\n$XLM now has a new record of 217.4 TPS. ️\n\nThe crazy part part is $XLM set its previous record less than TWO WEEKS earlier.\n\n@StellarOrg is talking about scaling global finance and the network keeps proving it can",
+    "link": "https://cryptopanic.com/news/33470498/Stellar-just-smashed-another-all-time-throughput-record-XLM-now-has-a-new-record-of-2174-TPS-The-crazy-part-part-is-XLM-set-its-previous-record-less-than-TWO-WEEKS-earlier-StellarOrg-is-talking-about-scaling-global-finance-and-the-network-keeps-proving-it-can",
+    "source": "@realallincrypto",
+    "published": "Tue Sep 29 2026 17:00:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tomorrow:\n\n$INJ: Buyback burn (impact 7.5/10)\n\nEvent details",
+    "link": "https://cryptopanic.com/news/33470348/Tomorrow-INJ-Buyback-burn-impact-7510-Event-details",
+    "source": "@coinmarketcal",
+    "published": "Tue Sep 29 2026 17:00:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Goldman Sachs Brings Its $100B Treasury Fund to Crypto Without a Token",
+    "link": "https://cryptopanic.com/news/33470372/Goldman-Sachs-Brings-Its-100B-Treasury-Fund-to-Crypto-Without-a-Token",
+    "source": "coinpaprika.com",
+    "published": "Tue Sep 29 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "OpenAI Tried to Invest $100Mn in Hugging Face Before Nvidia Deal",
+    "link": "https://cryptopanic.com/news/33470349/OpenAI-Tried-to-Invest-100Mn-in-Hugging-Face-Before-Nvidia-Deal",
+    "source": "catenaa.com",
+    "published": "Tue Sep 29 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 NEW: The Trump administration launched , a platform designed to give Americans one place to access federal information and resources.",
+    "link": "https://cryptopanic.com/news/33470345/NEW-The-Trump-administration-launched-a-platform-designed-to-give-Americans-one-place-to-access-federal-information-and-resources",
+    "source": "@cointelegraph",
+    "published": "Tue Sep 29 2026 16:59:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Euro and pound spending comes to Zebec cards\n\n@Zebec_HQ has made its reloadable Carbon card available in euros and pounds; until now, it was only in US dollars. It kicks off the Q4 roadmap for its crypto cards.\n\nTron support and a Black Card relaunch with more $ZBCN uses are set",
+    "link": "https://cryptopanic.com/news/33470503/Euro-and-pound-spending-comes-to-Zebec-cards-Zebec_HQ-has-made-its-reloadable-Carbon-card-available-in-euros-and-pounds-until-now-it-was-only-in-US-dollars-It-kicks-off-the-Q4-roadmap-for-its-crypto-cards-Tron-support-and-a-Black-Card-relaunch-with-more-ZBCN-uses-are-set",
+    "source": "@bscnews",
+    "published": "Tue Sep 29 2026 16:59:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ARR vs Revenue: What Is the Difference for AI and SaaS Companies?",
+    "link": "https://cryptopanic.com/news/33470324/ARR-vs-Revenue-What-Is-the-Difference-for-AI-and-SaaS-Companies",
+    "source": "coinpaper.com",
+    "published": "Tue Sep 29 2026 16:52:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Is the Red September Curse Over? Bitcoin Set for Best September on Record",
     "link": "https://cryptopanic.com/news/33470325/Is-the-Red-September-Curse-Over-Bitcoin-Set-for-Best-September-on-Record",
     "source": "decrypt.co",
@@ -56,6 +133,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Aster opens a private lane for big trades\n\n@Aster_DEX has launched OTC trading, letting two parties agree on a price privately and open positions without using the public market. $BTC perps (BTC-USDT) come first, with more markets to follow.\n\nOne side sets the terms and shares a",
+    "link": "https://cryptopanic.com/news/33470502/Aster-opens-a-private-lane-for-big-trades-Aster_DEX-has-launched-OTC-trading-letting-two-parties-agree-on-a-price-privately-and-open-positions-without-using-the-public-market-BTC-perps-BTC-USDT-come-first-with-more-markets-to-follow-One-side-sets-the-terms-and-shares-a",
+    "source": "@bscnews",
+    "published": "Tue Sep 29 2026 16:39:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: #Cardano $ADA generated over $586,000 in 24h trade volume on Polymarket's crypto perpetuals, surpassing XRP at $194,000, Dogecoin at $155,000, and BNB at $75,000.",
     "link": "https://cryptopanic.com/news/33470338/JUST-IN-Cardano-ADA-generated-over-586000-in-24h-trade-volume-on-Polymarkets-crypto-perpetuals-surpassing-XRP-at-194000-Dogecoin-at-155000-and-BNB-at-75000",
     "source": "@angrycryptoshow",
@@ -98,6 +182,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "$BTC Open Interest (coin denominated) is the lowest it has been in 4-5 months. Even after this run up I don't see many signs of overheating or anything close to it.\n\nIf the bulls are back, there is plenty of room for this to move before it would start getting to levels where I'd",
+    "link": "https://cryptopanic.com/news/33470497/BTC-Open-Interest-coin-denominated-is-the-lowest-it-has-been-in-4-5-months-Even-after-this-run-up-I-dont-see-many-signs-of-overheating-or-anything-close-to-it-If-the-bulls-are-back-there-is-plenty-of-room-for-this-to-move-before-it-would-start-getting-to-levels-where-Id",
+    "source": "@daancrypto",
+    "published": "Tue Sep 29 2026 16:32:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "TMX Considers Longer Trading Hours, Prediction Markets in Canada",
     "link": "https://cryptopanic.com/news/33470298/TMX-Considers-Longer-Trading-Hours-Prediction-Markets-in-Canada",
     "source": "square.binance.com",
@@ -116,97 +207,6 @@
     "link": "https://cryptopanic.com/news/33470203/Its-been-6478-days-and-Bitcoin-sits-at-a-17-trillion-market-cap-Not-even-18-years-old-Higher",
     "source": "@btc_archive",
     "published": "Tue Sep 29 2026 16:28:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Meredith Whitney Sees Weakness Beneath US Economy's Consumer Resilience",
-    "link": "https://cryptopanic.com/news/33470296/Meredith-Whitney-Sees-Weakness-Beneath-US-Economys-Consumer-Resilience",
-    "source": "square.binance.com",
-    "published": "Tue Sep 29 2026 16:28:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "US Congress to Investigate 3 Crypto Platforms For Insider Trading",
-    "link": "https://cryptopanic.com/news/33470321/US-Congress-to-Investigate-3-Crypto-Platforms-For-Insider-Trading",
-    "source": "beincrypto.com",
-    "published": "Tue Sep 29 2026 16:27:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Tests $84K Long-Term Holder Supply – Here Is What Comes Next",
-    "link": "https://cryptopanic.com/news/33469981/Bitcoin-Tests-84K-Long-Term-Holder-Supply-Here-Is-What-Comes-Next",
-    "source": "blocknews.com",
-    "published": "Tue Sep 29 2026 16:27:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "OpenAI CEO Altman Says Nvidia's Security Systems Are Not Foolproof",
-    "link": "https://cryptopanic.com/news/33470295/OpenAI-CEO-Altman-Says-Nvidias-Security-Systems-Are-Not-Foolproof",
-    "source": "square.binance.com",
-    "published": "Tue Sep 29 2026 16:27:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Popular XRP Critic Sees Stellar (XLM) Breaking Above $1",
-    "link": "https://cryptopanic.com/news/33469985/Popular-XRP-Critic-Sees-Stellar-XLM-Breaking-Above-1",
-    "source": "dailycoin.com",
-    "published": "Tue Sep 29 2026 16:27:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AI TRENDS | Sam Altman Says OpenAI Will Have Many New Models",
-    "link": "https://cryptopanic.com/news/33470294/AI-TRENDS-Sam-Altman-Says-OpenAI-Will-Have-Many-New-Models",
-    "source": "square.binance.com",
-    "published": "Tue Sep 29 2026 16:26:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BTC Price Outlook, Wall Street, Global Macro | BMTV Sep. 30, 2026",
-    "link": "https://cryptopanic.com/news/33469979/BTC-Price-Outlook-Wall-Street-Global-Macro-BMTV-Sep-30-2026",
-    "source": "BitcoinMagazine",
-    "published": "Tue Sep 29 2026 16:25:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "STOCKS | Morgan Stanley Sees Shopify as an AI Winner as Agentic Shopping Grows",
-    "link": "https://cryptopanic.com/news/33470293/STOCKS-Morgan-Stanley-Sees-Shopify-as-an-AI-Winner-as-Agentic-Shopping-Grows",
-    "source": "square.binance.com",
-    "published": "Tue Sep 29 2026 16:24:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bank of England Taylor Says OIS Rates Do Not Clearly Convey Market Rate Expectations",
-    "link": "https://cryptopanic.com/news/33470292/Bank-of-England-Taylor-Says-OIS-Rates-Do-Not-Clearly-Convey-Market-Rate-Expectations",
-    "source": "square.binance.com",
-    "published": "Tue Sep 29 2026 16:23:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "OpenAI CEO Altman Says Muse Is a Good Product and Not Threatened by Meta Platforms",
-    "link": "https://cryptopanic.com/news/33470291/OpenAI-CEO-Altman-Says-Muse-Is-a-Good-Product-and-Not-Threatened-by-Meta-Platforms",
-    "source": "square.binance.com",
-    "published": "Tue Sep 29 2026 16:23:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "What is Hedera's CLPR?\n\nHedera has added CLPR, invented by Hashgraph and known as \"clipper,\" to the Linux Foundation Decentralized Trust as a new lab. \n\nThe concept is simple: transfer tokens, data, and messages between ledgers without a bridge.\n\n(1) CLPR is a Bridgeless",
-    "link": "https://cryptopanic.com/news/33470088/What-is-Hederas-CLPR-Hedera-has-added-CLPR-invented-by-Hashgraph-and-known-as-clipper-to-the-Linux-Foundation-Decentralized-Trust-as-a-new-lab-The-concept-is-simple-transfer-tokens-data-and-messages-between-ledgers-without-a-bridge-1-CLPR-is-a-Bridgeless",
-    "source": "@bscnews",
-    "published": "Tue Sep 29 2026 16:22:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cboe Targets Tokenized Options as S&P 500 Expands Into 24/7 Trading",
-    "link": "https://cryptopanic.com/news/33469972/Cboe-Targets-Tokenized-Options-as-SP-500-Expands-Into-247-Trading",
-    "source": "coinpaper.com",
-    "published": "Tue Sep 29 2026 16:21:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Pump.fun Reclaims Lead in Solana Launchpad Race",
-    "link": "https://cryptopanic.com/news/33469323/Pumpfun-Reclaims-Lead-in-Solana-Launchpad-Race",
-    "source": "solanafloor.com",
-    "published": "Tue Sep 29 2026 16:21:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
