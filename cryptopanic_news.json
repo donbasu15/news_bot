@@ -1,5 +1,26 @@
 [
   {
+    "title": "️ INSIGHT: @Optimism’s CBO Kyle Jenke says, “When it comes to perps, we think what makes the most successful is deep liquidity and fast execution.”",
+    "link": "https://cryptopanic.com/news/33466212/INSIGHT-Optimisms-CBO-Kyle-Jenke-says-When-it-comes-to-perps-we-think-what-makes-the-most-successful-is-deep-liquidity-and-fast-execution",
+    "source": "@cointelegraph",
+    "published": "Tue Sep 29 2026 05:49:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: Our next panel at Cointelegraph Connect: Seoul Edition is live, with @KaikoData, @gensynai, @CMT_Digital, @Optimism, @DWFLabs and @Wincent_co diving into perps, liquidity and the exchange wars in Asia's onchain markets.",
+    "link": "https://cryptopanic.com/news/33466211/NEW-Our-next-panel-at-Cointelegraph-Connect-Seoul-Edition-is-live-with-KaikoData-gensynai-CMT_Digital-Optimism-DWFLabs-and-Wincent_co-diving-into-perps-liquidity-and-the-exchange-wars-in-Asias-onchain-markets",
+    "source": "@cointelegraph",
+    "published": "Tue Sep 29 2026 05:44:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MistTrack: Bitget Exploiter Attempted to Route Stolen Funds via Chainflip but Broker Rejected\n\nAccording to on-chain monitoring by SlowMist's tracking arm MistTrack, the Bitget exploiter attempted to move stolen funds through the cross-chain liquidity protocol Chainflip, but the",
+    "link": "https://cryptopanic.com/news/33466206/MistTrack-Bitget-Exploiter-Attempted-to-Route-Stolen-Funds-via-Chainflip-but-Broker-Rejected-According-to-on-chain-monitoring-by-SlowMists-tracking-arm-MistTrack-the-Bitget-exploiter-attempted-to-move-stolen-funds-through-the-cross-chain-liquidity-protocol-Chainflip-but-the",
+    "source": "@wublockchain",
+    "published": "Tue Sep 29 2026 05:39:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Anthropic IPO Filing Reveals Valuation Target and Massive AI Spending",
     "link": "https://cryptopanic.com/news/33466161/Anthropic-IPO-Filing-Reveals-Valuation-Target-and-Massive-AI-Spending",
     "source": "coinpaper.com",
@@ -21,10 +42,31 @@
     "sentiment": "neutral"
   },
   {
+    "title": "️ NOW: OpenAI apologizes after its AI models breached Australian government websites in June, pledging a new task force and funding for Australia's cyber defenses.",
+    "link": "https://cryptopanic.com/news/33466210/NOW-OpenAI-apologizes-after-its-AI-models-breached-Australian-government-websites-in-June-pledging-a-new-task-force-and-funding-for-Australias-cyber-defenses",
+    "source": "@cointelegraph",
+    "published": "Tue Sep 29 2026 05:31:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "As $QNT has surged recently, whales that had been dormant for over 3 years are waking up and starting to sell.\n\n0x6d32 deposited 8,250 $QNT($1.88M) into #Binance after being dormant for over 3 years.\n\n0xd633 moved 34,200 $QNT($8.05M) after more than 3 years of inactivity and has",
     "link": "https://cryptopanic.com/news/33466148/As-QNT-has-surged-recently-whales-that-had-been-dormant-for-over-3-years-are-waking-up-and-starting-to-sell-0x6d32-deposited-8250-QNT188M-into-Binance-after-being-dormant-for-over-3-years-0xd633-moved-34200-QNT805M-after-more-than-3-years-of-inactivity-and-has",
     "source": "@lookonchain",
     "published": "Tue Sep 29 2026 05:28:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NOW: Our second panel at Cointelegraph Connect: Seoul Edition is underway, with @SolanaInstitute, @CodexFX, @FTDA_US, @0xMiden and @Edenaofficial discussing how stablecoins are evolving after the GENIUS Act.",
+    "link": "https://cryptopanic.com/news/33466209/NOW-Our-second-panel-at-Cointelegraph-Connect-Seoul-Edition-is-underway-with-SolanaInstitute-CodexFX-FTDA_US-0xMiden-and-Edenaofficial-discussing-how-stablecoins-are-evolving-after-the-GENIUS-Act",
+    "source": "@cointelegraph",
+    "published": "Tue Sep 29 2026 05:27:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "️ NEW: Arthur Hayes at Cointelegraph Connect: Seoul Edition, “I don’t believe that fiat currencies and most of the cryptos out there are fit for purpose for AIs, in terms of AI agents.”",
+    "link": "https://cryptopanic.com/news/33466207/NEW-Arthur-Hayes-at-Cointelegraph-Connect-Seoul-Edition-I-dont-believe-that-fiat-currencies-and-most-of-the-cryptos-out-there-are-fit-for-purpose-for-AIs-in-terms-of-AI-agents",
+    "source": "@cointelegraph",
+    "published": "Tue Sep 29 2026 05:22:52 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -165,48 +207,6 @@
     "link": "https://cryptopanic.com/news/33465946/TODAY-Top-executives-from-Anthropic-OpenAI-Meta-and-Microsoft-call-on-policymakers-to-monitor-self-improving-AI-warning-it-could-trigger-an-intelligence-explosion-per-Bloomberg",
     "source": "@cointelegraph",
     "published": "Tue Sep 29 2026 04:31:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Anthropic's New Sonnet Model Nears Opus Performance but Uses More Tokens",
-    "link": "https://cryptopanic.com/news/33466027/Anthropics-New-Sonnet-Model-Nears-Opus-Performance-but-Uses-More-Tokens",
-    "source": "beincrypto.com",
-    "published": "Tue Sep 29 2026 04:29:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NOW: @mcamarda0 of @Sharplink at Cointelegraph Connect: Seoul Edition says, “In addition to beating the Ethereum staking rate, we also have a fixed cost structure which is actually very unique to treasury companies.”",
-    "link": "https://cryptopanic.com/news/33465945/NOW-mcamarda0-of-Sharplink-at-Cointelegraph-Connect-Seoul-Edition-says-In-addition-to-beating-the-Ethereum-staking-rate-we-also-have-a-fixed-cost-structure-which-is-actually-very-unique-to-treasury-companies",
-    "source": "@cointelegraph",
-    "published": "Tue Sep 29 2026 04:29:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nvidia’s CEO draws Pope Leo’s criticism as AI safety concerns surge 50%",
-    "link": "https://cryptopanic.com/news/33465879/Nvidias-CEO-draws-Pope-Leos-criticism-as-AI-safety-concerns-surge-50",
-    "source": "cryptopolitan.com",
-    "published": "Tue Sep 29 2026 04:24:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Strategy has moved $297 million worth of Bitcoin bitcoin:native across wallets.\n\nIs this simply treasury management, or could more BTC be heading toward exchanges?",
-    "link": "https://cryptopanic.com/news/33465948/Strategy-has-moved-297-million-worth-of-Bitcoin-bitcoinnative-across-wallets-Is-this-simply-treasury-management-or-could-more-BTC-be-heading-toward-exchanges",
-    "source": "@bscnews",
-    "published": "Tue Sep 29 2026 04:21:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ NOW: Our first panel at Cointelegraph Connect: Seoul Edition is live, with @Sharplink, @RockawayX, @PanteraCapital and @FinHarbor unpacking how public companies are putting crypto on their balance sheets.",
-    "link": "https://cryptopanic.com/news/33465944/NOW-Our-first-panel-at-Cointelegraph-Connect-Seoul-Edition-is-live-with-Sharplink-RockawayX-PanteraCapital-and-FinHarbor-unpacking-how-public-companies-are-putting-crypto-on-their-balance-sheets",
-    "source": "@cointelegraph",
-    "published": "Tue Sep 29 2026 04:18:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin holds $83,000 as ZEC drops 12% and oil climbs again",
-    "link": "https://cryptopanic.com/news/33466098/Bitcoin-holds-83000-as-ZEC-drops-12-and-oil-climbs-again",
-    "source": "coindesk.com",
-    "published": "Tue Sep 29 2026 04:17:20 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
