@@ -1,5 +1,96 @@
 [
   {
+    "title": "Chainlink Launches CCIP 2.0 for Institutional Cross-Chain Asset Distribution",
+    "link": "https://cryptopanic.com/news/33465414/Chainlink-Launches-CCIP-20-for-Institutional-Cross-Chain-Asset-Distribution",
+    "source": "btcusa.com",
+    "published": "Tue Sep 29 2026 02:05:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Paid Launches Web Claim Portal for Eligible New Fees",
+    "link": "https://cryptopanic.com/news/33465619/Paid-Launches-Web-Claim-Portal-for-Eligible-New-Fees",
+    "source": "square.binance.com",
+    "published": "Tue Sep 29 2026 02:04:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "AI TRENDS | Nvidia, Anthropic CEOs to Discuss AI Risks With U.S. President Donald Trump",
+    "link": "https://cryptopanic.com/news/33465618/AI-TRENDS-Nvidia-Anthropic-CEOs-to-Discuss-AI-Risks-With-US-President-Donald-Trump",
+    "source": "square.binance.com",
+    "published": "Tue Sep 29 2026 02:03:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Coinbase receives DCO approval from CFTC, completing full derivatives stack",
+    "link": "https://cryptopanic.com/news/33465413/Coinbase-receives-DCO-approval-from-CFTC-completing-full-derivatives-stack",
+    "source": "theblock.co",
+    "published": "Tue Sep 29 2026 02:02:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Dollar Debasement Trade Is Back: Bitcoin, Gold, Silver",
+    "link": "https://cryptopanic.com/news/33465650/Dollar-Debasement-Trade-Is-Back-Bitcoin-Gold-Silver",
+    "source": "SimplyBitcoin",
+    "published": "Tue Sep 29 2026 02:00:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: Ondo Perps launches 24/7 spot trading for tokenized stocks and ETFs, letting traders use holdings as collateral for perps and run the basis trade on one platform.",
+    "link": "https://cryptopanic.com/news/33465389/NEW-Ondo-Perps-launches-247-spot-trading-for-tokenized-stocks-and-ETFs-letting-traders-use-holdings-as-collateral-for-perps-and-run-the-basis-trade-on-one-platform",
+    "source": "@cointelegraph",
+    "published": "Tue Sep 29 2026 02:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Anthropic IPO Filing Reveals Founder LLC Structure That Preserves Co-Founder Control",
+    "link": "https://cryptopanic.com/news/33465617/Anthropic-IPO-Filing-Reveals-Founder-LLC-Structure-That-Preserves-Co-Founder-Control",
+    "source": "square.binance.com",
+    "published": "Tue Sep 29 2026 01:56:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "An #EthereumOG who bought 3,000 $ETH at $18.8 ($56.5K at the time) 8 years ago sold another 1,000 $ETH ($2.68M) today.\n\nThe OG has now sold 2,000 $ETH ($6.19M) at an average price of $3,096 and still holds 1,000 $ETH ($2.67M).\n\nTotal profit: $8.8M — a 156x return!",
+    "link": "https://cryptopanic.com/news/33465640/An-EthereumOG-who-bought-3000-ETH-at-188-565K-at-the-time-8-years-ago-sold-another-1000-ETH-268M-today-The-OG-has-now-sold-2000-ETH-619M-at-an-average-price-of-3096-and-still-holds-1000-ETH-267M-Total-profit-88M-a-156x-return",
+    "source": "@lookonchain",
+    "published": "Tue Sep 29 2026 01:56:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ANZ Expects RBA to Raise Rates in September and November",
+    "link": "https://cryptopanic.com/news/33465616/ANZ-Expects-RBA-to-Raise-Rates-in-September-and-November",
+    "source": "square.binance.com",
+    "published": "Tue Sep 29 2026 01:55:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Velodrome and Aerodrome to Merge Into Aero on October 21",
+    "link": "https://cryptopanic.com/news/33465615/Velodrome-and-Aerodrome-to-Merge-Into-Aero-on-October-21",
+    "source": "square.binance.com",
+    "published": "Tue Sep 29 2026 01:54:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Polymarket U.S. Election Market Volume Tops $545 Million as Traders Price Democrats to Win House",
+    "link": "https://cryptopanic.com/news/33465614/Polymarket-US-Election-Market-Volume-Tops-545-Million-as-Traders-Price-Democrats-to-Win-House",
+    "source": "square.binance.com",
+    "published": "Tue Sep 29 2026 01:54:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Polymarket LoL Match Submarket Jumps to 90.5% After Sharp Volatility",
+    "link": "https://cryptopanic.com/news/33465613/Polymarket-LoL-Match-Submarket-Jumps-to-905-After-Sharp-Volatility",
+    "source": "square.binance.com",
+    "published": "Tue Sep 29 2026 01:53:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin, Ethereum, XRP, Dogecoin Slide as Treasury Yields Push Higher: Analyst Flags BTC 'Buying Opportunity' Before the Rally Resumes",
+    "link": "https://cryptopanic.com/news/33465415/Bitcoin-Ethereum-XRP-Dogecoin-Slide-as-Treasury-Yields-Push-Higher-Analyst-Flags-BTC-Buying-Opportunity-Before-the-Rally-Resumes",
+    "source": "feeds2.benzinga.com",
+    "published": "Tue Sep 29 2026 01:50:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Avalanche is on fire this year, but what actually makes it special under the hood?\n\nTo understand @Avax and its potential, you need to understand its unique consensus mechanism...\n\nMeet Snowman ⬇️",
     "link": "https://cryptopanic.com/news/33465394/Avalanche-is-on-fire-this-year-but-what-actually-makes-it-special-under-the-hood-To-understand-Avax-and-its-potential-you-need-to-understand-its-unique-consensus-mechanism-Meet-Snowman",
     "source": "@bscnews",
@@ -14,10 +105,45 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Altcoin Gains Spread Across DeFi, Privacy and AI Tokens as Traders Rotate",
+    "link": "https://cryptopanic.com/news/33465612/Altcoin-Gains-Spread-Across-DeFi-Privacy-and-AI-Tokens-as-Traders-Rotate",
+    "source": "square.binance.com",
+    "published": "Tue Sep 29 2026 01:44:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "STOCKS | RBA Rate Hike Looms as Analysts Warn of a More Pressured Housing Decline",
+    "link": "https://cryptopanic.com/news/33465611/STOCKS-RBA-Rate-Hike-Looms-as-Analysts-Warn-of-a-More-Pressured-Housing-Decline",
+    "source": "square.binance.com",
+    "published": "Tue Sep 29 2026 01:43:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ASIA MARKET OPEN | Tokyo, Seoul Open Lower on Wall Street Slide and Rising U.S. Yields; Hong Kong Flat",
+    "link": "https://cryptopanic.com/news/33465610/ASIA-MARKET-OPEN-Tokyo-Seoul-Open-Lower-on-Wall-Street-Slide-and-Rising-US-Yields-Hong-Kong-Flat",
+    "source": "square.binance.com",
+    "published": "Tue Sep 29 2026 01:41:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitquery pegs Robinhood Chain rug-pull crew at 56 launches, $15.5M take",
     "link": "https://cryptopanic.com/news/33465358/Bitquery-pegs-Robinhood-Chain-rug-pull-crew-at-56-launches-155M-take",
     "source": "cryptopolitan.com",
     "published": "Tue Sep 29 2026 01:40:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hong Kong SFC Flags DFX Labs-Reported Websites as Fraudulent",
+    "link": "https://cryptopanic.com/news/33465609/Hong-Kong-SFC-Flags-DFX-Labs-Reported-Websites-as-Fraudulent",
+    "source": "square.binance.com",
+    "published": "Tue Sep 29 2026 01:34:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "OpenAI Plans Australia Task Force After Cybersecurity Incident",
+    "link": "https://cryptopanic.com/news/33465608/OpenAI-Plans-Australia-Task-Force-After-Cybersecurity-Incident",
+    "source": "square.binance.com",
+    "published": "Tue Sep 29 2026 01:32:42 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -35,178 +161,52 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Is Michael Saylor(@saylor)'s @Strategy dumping $BTC again, or just moving funds to new wallets?\n\nOver the past 9 hours, #Strategy has transferred out 3,568 $BTC ($297M).",
-    "link": "https://cryptopanic.com/news/33465348/Is-Michael-Saylorsaylors-Strategy-dumping-BTC-again-or-just-moving-funds-to-new-wallets-Over-the-past-9-hours-Strategy-has-transferred-out-3568-BTC-297M",
-    "source": "@lookonchain",
-    "published": "Tue Sep 29 2026 01:16:59 GMT+0000 (Coordinated Universal Time)",
+    "title": "OpenAI Says Its AI Models Accessed Australian Government Systems Without Authorization",
+    "link": "https://cryptopanic.com/news/33465607/OpenAI-Says-Its-AI-Models-Accessed-Australian-Government-Systems-Without-Authorization",
+    "source": "square.binance.com",
+    "published": "Tue Sep 29 2026 01:28:41 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Exclusive: Anthropic's IPO prospectus shows sweeping AI vision and surging costs as it seeks $2 trillion valuation. More here -",
-    "link": "https://cryptopanic.com/news/33465306/Exclusive-Anthropics-IPO-prospectus-shows-sweeping-AI-vision-and-surging-costs-as-it-seeks-2-trillion-valuation-More-here-",
-    "source": "@reutersbiz",
-    "published": "Tue Sep 29 2026 01:09:21 GMT+0000 (Coordinated Universal Time)",
+    "title": "AI Industry Must Reach $6 Trillion Revenue by 2031 to Support Data Center Buildout",
+    "link": "https://cryptopanic.com/news/33465606/AI-Industry-Must-Reach-6-Trillion-Revenue-by-2031-to-Support-Data-Center-Buildout",
+    "source": "square.binance.com",
+    "published": "Tue Sep 29 2026 01:27:05 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "JUST IN: Anthropic's IPO filing reportedly shows a $42B net loss in 2025 despite 12x revenue growth, with the listing potentially valuing the AI lab at over $2T, per Reuters.",
-    "link": "https://cryptopanic.com/news/33465305/JUST-IN-Anthropics-IPO-filing-reportedly-shows-a-42B-net-loss-in-2025-despite-12x-revenue-growth-with-the-listing-potentially-valuing-the-AI-lab-at-over-2T-per-Reuters",
-    "source": "@cointelegraph",
-    "published": "Tue Sep 29 2026 01:01:04 GMT+0000 (Coordinated Universal Time)",
+    "title": "SHEIN First-Half Adjusted Net Profit Falls 55.6% as Founder Stays Cautiously Optimistic",
+    "link": "https://cryptopanic.com/news/33465605/SHEIN-First-Half-Adjusted-Net-Profit-Falls-556-as-Founder-Stays-Cautiously-Optimistic",
+    "source": "square.binance.com",
+    "published": "Tue Sep 29 2026 01:25:55 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Dormant whale moves 4.5K Bitcoin again, adding a new risk to BTC’s 2% correction",
-    "link": "https://cryptopanic.com/news/33465266/Dormant-whale-moves-45K-Bitcoin-again-adding-a-new-risk-to-BTCs-2-correction",
-    "source": "ambcrypto.com",
-    "published": "Tue Sep 29 2026 01:00:24 GMT+0000 (Coordinated Universal Time)",
+    "title": "Circle Foundation Launches Two Grant Programs With UNDP and WFP",
+    "link": "https://cryptopanic.com/news/33465604/Circle-Foundation-Launches-Two-Grant-Programs-With-UNDP-and-WFP",
+    "source": "square.binance.com",
+    "published": "Tue Sep 29 2026 01:24:42 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Sei Network has reached 2.63 BILLION transactions in three years...\n\nThe scalability-focused EVM blockchain that is @SeiNetwork has now processed more than 2.6 billion transactions since launching in mid-2023.\n\nThis is amongst the highest total transactions processed by any",
-    "link": "https://cryptopanic.com/news/33465346/Sei-Network-has-reached-263-BILLION-transactions-in-three-years-The-scalability-focused-EVM-blockchain-that-is-SeiNetwork-has-now-processed-more-than-26-billion-transactions-since-launching-in-mid-2023-This-is-amongst-the-highest-total-transactions-processed-by-any",
-    "source": "@bscnews",
-    "published": "Tue Sep 29 2026 00:57:00 GMT+0000 (Coordinated Universal Time)",
+    "title": "Spark Allocates $210 Million to Bitcoin-Backed Institutional Loans",
+    "link": "https://cryptopanic.com/news/33465603/Spark-Allocates-210-Million-to-Bitcoin-Backed-Institutional-Loans",
+    "source": "square.binance.com",
+    "published": "Tue Sep 29 2026 01:24:30 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "LATEST: Blockchain(.)com is reportedly eyeing a $500M IPO this year at a $4B–$6B valuation, per Bloomberg.",
-    "link": "https://cryptopanic.com/news/33465214/LATEST-Blockchaincom-is-reportedly-eyeing-a-500M-IPO-this-year-at-a-4B6B-valuation-per-Bloomberg",
-    "source": "@cointelegraph",
-    "published": "Tue Sep 29 2026 00:31:01 GMT+0000 (Coordinated Universal Time)",
+    "title": "AI TRENDS | OpenAI Review Finds Activity Affected Australian Agencies",
+    "link": "https://cryptopanic.com/news/33465602/AI-TRENDS-OpenAI-Review-Finds-Activity-Affected-Australian-Agencies",
+    "source": "square.binance.com",
+    "published": "Tue Sep 29 2026 01:20:51 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "WATCH: US stocks fell as oil prices and Treasury yields increased, with investors weighing uncertainty over the prospects for an Iran war peace deal and the impact on the Federal Reserve's rate path. Alex Cohen has more",
-    "link": "https://cryptopanic.com/news/33465215/WATCH-US-stocks-fell-as-oil-prices-and-Treasury-yields-increased-with-investors-weighing-uncertainty-over-the-prospects-for-an-Iran-war-peace-deal-and-the-impact-on-the-Federal-Reserves-rate-path-Alex-Cohen-has-more",
-    "source": "@reutersbiz",
-    "published": "Tue Sep 29 2026 00:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ultimate Quant Network bull HODLs $3M in $QNT. \n\nOne newly created wallet has withdrawn a massive 10,390 $QNT position from the @Coinbase exchange.\n\nTheir @quantnetwork holdings were worth $2.87M at the time of withdrawal, presumably now in cold storage.\n\nWill the Quant Network",
-    "link": "https://cryptopanic.com/news/33465235/Ultimate-Quant-Network-bull-HODLs-3M-in-QNT-One-newly-created-wallet-has-withdrawn-a-massive-10390-QNT-position-from-the-Coinbase-exchange-Their-quantnetwork-holdings-were-worth-287M-at-the-time-of-withdrawal-presumably-now-in-cold-storage-Will-the-Quant-Network",
-    "source": "@bscnews",
-    "published": "Tue Sep 29 2026 00:24:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitmine has now accumulated a total of 6M+ $ETH.\n\nThey currently have an unrealized loss of -$3.8B on their ETH position.",
-    "link": "https://cryptopanic.com/news/33465240/Bitmine-has-now-accumulated-a-total-of-6M-ETH-They-currently-have-an-unrealized-loss-of-38B-on-their-ETH-position",
-    "source": "@stackersatoshi",
-    "published": "Tue Sep 29 2026 00:23:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇺🇸 The New York City Council has subpoenaed Elon Musk, demanding he or a SpaceXAI representative testify in the council's AI safety investigation.",
-    "link": "https://cryptopanic.com/news/33465241/LATEST-The-New-York-City-Council-has-subpoenaed-Elon-Musk-demanding-he-or-a-SpaceXAI-representative-testify-in-the-councils-AI-safety-investigation",
-    "source": "@coinmarketcap",
-    "published": "Tue Sep 29 2026 00:22:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Swift Taps Chainlink for Bank Access to Tokenized Deposit Network",
-    "link": "https://cryptopanic.com/news/33465184/Swift-Taps-Chainlink-for-Bank-Access-to-Tokenized-Deposit-Network",
-    "source": "cryptoprowl.com",
-    "published": "Tue Sep 29 2026 00:17:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Citi and Coinbase Link Stablecoin Payments to Bank Settlement",
-    "link": "https://cryptopanic.com/news/33465174/Citi-and-Coinbase-Link-Stablecoin-Payments-to-Bank-Settlement",
-    "source": "btcusa.com",
-    "published": "Tue Sep 29 2026 00:12:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CFTC Approves Coinbase Clearing as First USDC-Native Clearinghouse",
-    "link": "https://cryptopanic.com/news/33465180/CFTC-Approves-Coinbase-Clearing-as-First-USDC-Native-Clearinghouse",
-    "source": "cryptoprowl.com",
-    "published": "Tue Sep 29 2026 00:10:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "It hasn't been the easiest year, but @LayerZero_Core is still a beast in the industry.\n\nOnly a few weeks ago, it announced its own blockchain network dubbed 'Zero'. Here's what we know about it so far... ⬇️",
-    "link": "https://cryptopanic.com/news/33465234/It-hasnt-been-the-easiest-year-but-LayerZero_Core-is-still-a-beast-in-the-industry-Only-a-few-weeks-ago-it-announced-its-own-blockchain-network-dubbed-Zero-Heres-what-we-know-about-it-so-far",
-    "source": "@bscnews",
-    "published": "Tue Sep 29 2026 00:10:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BIG: Goldman Sachs is taking its $100B Treasury fund onchain via Avalanche-based Lynq, letting institutions earn yield between trades.",
-    "link": "https://cryptopanic.com/news/33465213/BIG-Goldman-Sachs-is-taking-its-100B-Treasury-fund-onchain-via-Avalanche-based-Lynq-letting-institutions-earn-yield-between-trades",
-    "source": "@cointelegraph",
-    "published": "Tue Sep 29 2026 00:01:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Meme Coin Digest for September 29: $35 Billion Market Faces Major Reality Check",
-    "link": "https://cryptopanic.com/news/33465156/Meme-Coin-Digest-for-September-29-35-Billion-Market-Faces-Major-Reality-Check",
-    "source": "u.today",
-    "published": "Tue Sep 29 2026 00:01:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Fed's Dilemma: Cut Rates or Hike? Lose Lose Situation",
-    "link": "https://cryptopanic.com/news/33465178/The-Feds-Dilemma-Cut-Rates-or-Hike-Lose-Lose-Situation",
-    "source": "SimplyBitcoin",
-    "published": "Tue Sep 29 2026 00:00:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Newsom Signs Law Banning California Officials From Issuing Meme Coins",
-    "link": "https://cryptopanic.com/news/33465130/Newsom-Signs-Law-Banning-California-Officials-From-Issuing-Meme-Coins",
-    "source": "btcusa.com",
-    "published": "Tue Sep 29 2026 00:00:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SHIB army about to hit 1.7 MILLION?!\n\nAccording to @etherscan data, @Shibtoken now boasts a total holder base of more than 1.69M.\n\n$SHIB has added more than 3,300 holders in the past two weeks.\n\nAt that rate, it would take only one month to hit 1.7M.",
-    "link": "https://cryptopanic.com/news/33465128/SHIB-army-about-to-hit-17-MILLION-According-to-etherscan-data-Shibtoken-now-boasts-a-total-holder-base-of-more-than-169M-SHIB-has-added-more-than-3300-holders-in-the-past-two-weeks-At-that-rate-it-would-take-only-one-month-to-hit-17M",
-    "source": "@bscnews",
-    "published": "Mon Sep 28 2026 23:51:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇰🇷 South Korea's FSC is weighing a market-making system for crypto after JPYC spiked to 4 times its peg on Upbit earlier this month.",
-    "link": "https://cryptopanic.com/news/33465117/LATEST-South-Koreas-FSC-is-weighing-a-market-making-system-for-crypto-after-JPYC-spiked-to-4-times-its-peg-on-Upbit-earlier-this-month",
-    "source": "@coinmarketcap",
-    "published": "Mon Sep 28 2026 23:35:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 Blockchain․com targets IPO at $5B valuation, potentially raising $500M.\n\n• SEC draft filing submitted confidentially in May.\n\n• Target valuation down 65% from $14B peak.\n\n Is there appetite for more crypto IPOs?",
-    "link": "https://cryptopanic.com/news/33465092/JUST-IN-Blockchaincom-targets-IPO-at-5B-valuation-potentially-raising-500M-SEC-draft-filing-submitted-confidentially-in-May-Target-valuation-down-65-from-14B-peak-Is-there-appetite-for-more-crypto-IPOs",
-    "source": "@btc_archive",
-    "published": "Mon Sep 28 2026 23:22:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "MARKET: Stocks sink Monday as a jump in Treasury yields weighs on the start of the week.",
-    "link": "https://cryptopanic.com/news/33465118/MARKET-Stocks-sink-Monday-as-a-jump-in-Treasury-yields-weighs-on-the-start-of-the-week",
-    "source": "@cointelegraph",
-    "published": "Mon Sep 28 2026 23:20:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Whales are dumping their $HYPE holdings!\n\nAccording to data from Lookonchain, several @HyperliquidX whale holders have started to sell their assets in dramatic fashion.\n\nAn unknown wallet sent $16.1M worth of $HYPE to @OKX and @Bybit_Official early on September 28...\n\n... and a",
-    "link": "https://cryptopanic.com/news/33465127/Whales-are-dumping-their-HYPE-holdings-According-to-data-from-Lookonchain-several-HyperliquidX-whale-holders-have-started-to-sell-their-assets-in-dramatic-fashion-An-unknown-wallet-sent-161M-worth-of-HYPE-to-OKX-and-Bybit_Official-early-on-September-28-and-a",
-    "source": "@bscnews",
-    "published": "Mon Sep 28 2026 23:18:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 CFTC approves Coinbase to clear select crypto derivatives directly in-house.\n\nLicense covers fully prepaid futures with no leverage, while existing contracts keep using Nodal Clear.\n\n The gap between TradFi and crypto is closing fast.",
-    "link": "https://cryptopanic.com/news/33465091/JUST-IN-CFTC-approves-Coinbase-to-clear-select-crypto-derivatives-directly-in-house-License-covers-fully-prepaid-futures-with-no-leverage-while-existing-contracts-keep-using-Nodal-Clear-The-gap-between-TradFi-and-crypto-is-closing-fast",
-    "source": "@btc_archive",
-    "published": "Mon Sep 28 2026 23:10:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ NEW: The SEC files a form for the Bitwise Chainlink ETF linked to $LINK.",
-    "link": "https://cryptopanic.com/news/33465071/NEW-The-SEC-files-a-form-for-the-Bitwise-Chainlink-ETF-linked-to-LINK",
-    "source": "@cointelegraph",
-    "published": "Mon Sep 28 2026 23:01:06 GMT+0000 (Coordinated Universal Time)",
+    "title": "Strategy Transfers 3,568 BTC Over Past 9 Hours",
+    "link": "https://cryptopanic.com/news/33465601/Strategy-Transfers-3568-BTC-Over-Past-9-Hours",
+    "source": "square.binance.com",
+    "published": "Tue Sep 29 2026 01:19:54 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
