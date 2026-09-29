@@ -1,9 +1,51 @@
 [
   {
+    "title": "Pump.fun stock falls 3% to $9.30, testing critical $9.12 support",
+    "link": "https://cryptopanic.com/news/33467021/Pumpfun-stock-falls-3-to-930-testing-critical-912-support",
+    "source": "en.cryptonomist.ch",
+    "published": "Tue Sep 29 2026 08:39:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "NEW: The SEC clarifies that token buyback announcements from issuers of decentralized crypto assets do not constitute a promise of essential managerial efforts under Howey, though the same buyback tied to yield on a non-functional network could.",
     "link": "https://cryptopanic.com/news/33467001/NEW-The-SEC-clarifies-that-token-buyback-announcements-from-issuers-of-decentralized-crypto-assets-do-not-constitute-a-promise-of-essential-managerial-efforts-under-Howey-though-the-same-buyback-tied-to-yield-on-a-non-functional-network-could",
     "source": "@coindesk",
     "published": "Tue Sep 29 2026 08:38:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Belarus Enters The Crypto Banking Era\n\nBelarus has officially registered its first crypto banks under a new regulatory framework.\n\nThe institutions can begin operations after receiving accreditation from the National Bank of Belarus. They must also be included in the regulator’s",
+    "link": "https://cryptopanic.com/news/33467032/Belarus-Enters-The-Crypto-Banking-Era-Belarus-has-officially-registered-its-first-crypto-banks-under-a-new-regulatory-framework-The-institutions-can-begin-operations-after-receiving-accreditation-from-the-National-Bank-of-Belarus-They-must-also-be-included-in-the-regulators",
+    "source": "@bscnews",
+    "published": "Tue Sep 29 2026 08:38:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Quant Stock Stays Bearish Below $49.11 as Momentum Cools",
+    "link": "https://cryptopanic.com/news/33467019/Quant-Stock-Stays-Bearish-Below-4911-as-Momentum-Cools",
+    "source": "en.cryptonomist.ch",
+    "published": "Tue Sep 29 2026 08:37:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "HBAR price rally surges 24% on Hedera’s NVIDIA AI safety tie-in",
+    "link": "https://cryptopanic.com/news/33467020/HBAR-price-rally-surges-24-on-Hederas-NVIDIA-AI-safety-tie-in",
+    "source": "en.cryptonomist.ch",
+    "published": "Tue Sep 29 2026 08:37:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitmine Immersion stock slides 2.61% to $26.84 as daily uptrend stays intact",
+    "link": "https://cryptopanic.com/news/33467018/Bitmine-Immersion-stock-slides-261-to-2684-as-daily-uptrend-stays-intact",
+    "source": "en.cryptonomist.ch",
+    "published": "Tue Sep 29 2026 08:35:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Coinbase security issues resurface as BlockTower claims $25M hack loss",
+    "link": "https://cryptopanic.com/news/33467017/Coinbase-security-issues-resurface-as-BlockTower-claims-25M-hack-loss",
+    "source": "en.cryptonomist.ch",
+    "published": "Tue Sep 29 2026 08:33:31 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -35,6 +77,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "How is Injective (@injective) bringing stocks, commodities, and forex onchain?\n\nWith 135 active RWA perpetual markets and $5.3B+ in cumulative volume since early 2025, the numbers are growing.\n\nBut how do its oracles, USDC settlement, and tokenized assets actually work?\n\nRead the",
+    "link": "https://cryptopanic.com/news/33467029/How-is-Injective-injective-bringing-stocks-commodities-and-forex-onchain-With-135-active-RWA-perpetual-markets-and-53B-in-cumulative-volume-since-early-2025-the-numbers-are-growing-But-how-do-its-oracles-USDC-settlement-and-tokenized-assets-actually-work-Read-the",
+    "source": "@bscnews",
+    "published": "Tue Sep 29 2026 08:18:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Coinbase Teams Up With Citi on Fiat-to-Stablecoin Business Payments, Wins CFTC Clearinghouse Approval",
     "link": "https://cryptopanic.com/news/33466825/Coinbase-Teams-Up-With-Citi-on-Fiat-to-Stablecoin-Business-Payments-Wins-CFTC-Clearinghouse-Approval",
     "source": "www.blockhead.co",
@@ -60,6 +109,20 @@
     "link": "https://cryptopanic.com/news/33466813/ETH-There-has-been-so-much-news-surrounding-tokenization-that-I-think-it-is-a-matter-of-time-before-ETH-reprices-to-3K-It-has-been-strong-relatively-and-ETH-flows-have-been-strong-Just-needs-a-little-push",
     "source": "@daancrypto",
     "published": "Tue Sep 29 2026 08:12:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Oracle ties tokenized payments to Swift’s 11,500-bank network",
+    "link": "https://cryptopanic.com/news/33467016/Oracle-ties-tokenized-payments-to-Swifts-11500-bank-network",
+    "source": "en.cryptonomist.ch",
+    "published": "Tue Sep 29 2026 08:06:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin price update: ETF inflows hit $2.39B as BTC holds near $83,000",
+    "link": "https://cryptopanic.com/news/33467015/Bitcoin-price-update-ETF-inflows-hit-239B-as-BTC-holds-near-83000",
+    "source": "en.cryptonomist.ch",
+    "published": "Tue Sep 29 2026 08:06:28 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -144,69 +207,6 @@
     "link": "https://cryptopanic.com/news/33466715/US-senator-seeks-probes-into-Tether-over-Iran-wallets",
     "source": "cryptovalleyjournal.com",
     "published": "Tue Sep 29 2026 07:57:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Anthropic IPO Leak Points to New Timeline, Polymarket Odds Rise",
-    "link": "https://cryptopanic.com/news/33466700/Anthropic-IPO-Leak-Points-to-New-Timeline-Polymarket-Odds-Rise",
-    "source": "dailycoin.com",
-    "published": "Tue Sep 29 2026 07:55:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: Iran’s Ghalibaf says no regional country will export oil if Iran cannot and warns regional infrastructure will not be safe if Iran’s security is threatened",
-    "link": "https://cryptopanic.com/news/33466935/INTEL-Irans-Ghalibaf-says-no-regional-country-will-export-oil-if-Iran-cannot-and-warns-regional-infrastructure-will-not-be-safe-if-Irans-security-is-threatened",
-    "source": "@solidintel_x",
-    "published": "Tue Sep 29 2026 07:50:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: Iran’s Ghalibaf says no regional country will export oil if Iran cannot and warns regional infrastructure will not be safe if Iran’s security is threatened",
-    "link": "https://cryptopanic.com/news/33466691/INTEL-Irans-Ghalibaf-says-no-regional-country-will-export-oil-if-Iran-cannot-and-warns-regional-infrastructure-will-not-be-safe-if-Irans-security-is-threatened",
-    "source": "@solidintel_x",
-    "published": "Tue Sep 29 2026 07:46:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AMD wants more than GPUs from its $8.2B World Labs deal",
-    "link": "https://cryptopanic.com/news/33466693/AMD-wants-more-than-GPUs-from-its-82B-World-Labs-deal",
-    "source": "cryptopolitan.com",
-    "published": "Tue Sep 29 2026 07:45:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ICYMI: ️ Grayscale has filed with the SEC for its new ZCSH High Income ETF, which would sell call options on Zcash ETPs to generate income for investors.",
-    "link": "https://cryptopanic.com/news/33466706/ICYMI-Grayscale-has-filed-with-the-SEC-for-its-new-ZCSH-High-Income-ETF-which-would-sell-call-options-on-Zcash-ETPs-to-generate-income-for-investors",
-    "source": "@coinmarketcap",
-    "published": "Tue Sep 29 2026 07:45:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Monero Prepares For a Major Privacy Test\n\nMonero (@monero) monero:native has released beta stressnet v3 as testing continues for FCMP++ and CARROT. The new version comes ahead of the planned October 5 stressnet hard fork.\n\nFCMP++ is designed to expand Monero’s transaction",
-    "link": "https://cryptopanic.com/news/33466818/Monero-Prepares-For-a-Major-Privacy-Test-Monero-monero-moneronative-has-released-beta-stressnet-v3-as-testing-continues-for-FCMP-and-CARROT-The-new-version-comes-ahead-of-the-planned-October-5-stressnet-hard-fork-FCMP-is-designed-to-expand-Moneros-transaction",
-    "source": "@bscnews",
-    "published": "Tue Sep 29 2026 07:45:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Anthropic's Own IPO Filing Warns AI Could Threaten Humanity",
-    "link": "https://cryptopanic.com/news/33466944/Anthropics-Own-IPO-Filing-Warns-AI-Could-Threaten-Humanity",
-    "source": "beincrypto.com",
-    "published": "Tue Sep 29 2026 07:41:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$AAVE Outperformer today",
-    "link": "https://cryptopanic.com/news/33466812/AAVE-Outperformer-today",
-    "source": "@daancrypto",
-    "published": "Tue Sep 29 2026 07:35:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33466714/Source",
-    "source": "@wublockchain",
-    "published": "Tue Sep 29 2026 07:34:31 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
