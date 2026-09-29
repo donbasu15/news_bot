@@ -1,5 +1,33 @@
 [
   {
+    "title": "ZEC has dropped more than 18% from its recent high.\n\nWhale 0x362a opened a 5x long on 4,135 $ZEC($5.8M) on @Aster_DEX and is now sitting on over $450K in unrealized losses.",
+    "link": "https://cryptopanic.com/news/33466436/ZEC-has-dropped-more-than-18-from-its-recent-high-Whale-0x362a-opened-a-5x-long-on-4135-ZEC58M-on-Aster_DEX-and-is-now-sitting-on-over-450K-in-unrealized-losses",
+    "source": "@lookonchain",
+    "published": "Tue Sep 29 2026 06:48:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Goldman Opens Treasury Fund Access for Crypto Firms",
+    "link": "https://cryptopanic.com/news/33466415/Goldman-Opens-Treasury-Fund-Access-for-Crypto-Firms",
+    "source": "coindoo.com",
+    "published": "Tue Sep 29 2026 06:48:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bybit, Franklin Templeton Let Institutions Trade Against Tokenised Money Fund Shares Held Off-Exchange",
+    "link": "https://cryptopanic.com/news/33466404/Bybit-Franklin-Templeton-Let-Institutions-Trade-Against-Tokenised-Money-Fund-Shares-Held-Off-Exchange",
+    "source": "www.blockhead.co",
+    "published": "Tue Sep 29 2026 06:45:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bundle Cat Surges as Mosh Gains Attention on Robinhood\n\nBundle Cat $BUN has gained 40% daily and 180% weekly, pushing its market cap toward $20 million.\n\nThe rally comes as Robinhood (@RobinhoodCrypto) Chain's wider memecoin market has declined 4.5% over 24 hours.\n\nBundle Cat",
+    "link": "https://cryptopanic.com/news/33466432/Bundle-Cat-Surges-as-Mosh-Gains-Attention-on-Robinhood-Bundle-Cat-BUN-has-gained-40-daily-and-180-weekly-pushing-its-market-cap-toward-20-million-The-rally-comes-as-Robinhood-RobinhoodCrypto-Chains-wider-memecoin-market-has-declined-45-over-24-hours-Bundle-Cat",
+    "source": "@bscnews",
+    "published": "Tue Sep 29 2026 06:39:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "UPDATE: The top 7 tokens with the largest unlocks this October total $470.66M, led by $BTW with $137.7M.",
     "link": "https://cryptopanic.com/news/33466407/UPDATE-The-top-7-tokens-with-the-largest-unlocks-this-October-total-47066M-led-by-BTW-with-1377M",
     "source": "@cointelegraph",
@@ -18,6 +46,13 @@
     "link": "https://cryptopanic.com/news/33466349/LATEST-Nasdaq-listed-DeFi-Development-Corp-added-47706-SOL-since-Sept-21-growing-its-Solana-treasury-about-10-in-six-weeks-to-roughly-254M-SOL-and-equivalents",
     "source": "@coinmarketcap",
     "published": "Tue Sep 29 2026 06:22:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Avalanche is Pulling Ahead in Tokenized Stocks\n\nAvalanche (@avax) attracted $131.2 million in tokenized stock inflows over the last seven days. The figure exceeded the combined inflows recorded by other tracked blockchains.\n\nAvalanche also added $252.1 million to its tokenized",
+    "link": "https://cryptopanic.com/news/33466431/Avalanche-is-Pulling-Ahead-in-Tokenized-Stocks-Avalanche-avax-attracted-1312-million-in-tokenized-stock-inflows-over-the-last-seven-days-The-figure-exceeded-the-combined-inflows-recorded-by-other-tracked-blockchains-Avalanche-also-added-2521-million-to-its-tokenized",
+    "source": "@bscnews",
+    "published": "Tue Sep 29 2026 06:20:55 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -126,6 +161,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "BREAKING: Blackrock REVEALS What Happens When The Next $500 Billion Hits Bitcoin!!! | EP 1601",
+    "link": "https://cryptopanic.com/news/33463503/BREAKING-Blackrock-REVEALS-What-Happens-When-The-Next-500-Billion-Hits-Bitcoin-EP-1601",
+    "source": "SimplyBitcoin",
+    "published": "Tue Sep 29 2026 05:48:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin Outflows From Binance Hit a Three-Year High\n\nMore than 13,800 bitcoin:native left Binance on Sept. 22, according to CryptoQuant data. This marked the exchange’s largest single-day Bitcoin outflow since 2023.\n\nBinance’s reserves also fell from about 705,000 BTC to 685,000",
     "link": "https://cryptopanic.com/news/33466281/Bitcoin-Outflows-From-Binance-Hit-a-Three-Year-High-More-than-13800-bitcoinnative-left-Binance-on-Sept-22-according-to-CryptoQuant-data-This-marked-the-exchanges-largest-single-day-Bitcoin-outflow-since-2023-Binances-reserves-also-fell-from-about-705000-BTC-to-685000",
     "source": "@bscnews",
@@ -147,66 +189,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Coinbase Bitcoin transfer moves 2,400 BTC worth $199 million to unknown wallet",
+    "link": "https://cryptopanic.com/news/33466421/Coinbase-Bitcoin-transfer-moves-2400-BTC-worth-199-million-to-unknown-wallet",
+    "source": "en.cryptonomist.ch",
+    "published": "Tue Sep 29 2026 05:35:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Large Ethereum transfer worth $104 million puzzles traders",
+    "link": "https://cryptopanic.com/news/33466420/Large-Ethereum-transfer-worth-104-million-puzzles-traders",
+    "source": "en.cryptonomist.ch",
+    "published": "Tue Sep 29 2026 05:35:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Anthropic IPO Filing Reveals Valuation Target and Massive AI Spending",
     "link": "https://cryptopanic.com/news/33466161/Anthropic-IPO-Filing-Reveals-Valuation-Target-and-Massive-AI-Spending",
     "source": "coinpaper.com",
     "published": "Tue Sep 29 2026 05:35:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Top 12 Telegram games worth exploring in September 2026",
-    "link": "https://cryptopanic.com/news/33466154/Top-12-Telegram-games-worth-exploring-in-September-2026",
-    "source": "ambcrypto.com",
-    "published": "Tue Sep 29 2026 05:35:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Oracle is integrating with Swift's blockchain ledger to host Swift commitment contracts and bridge tokenized deposit flows to banks' existing ISO 20022 payment processing via Oracle Banking Payments.",
-    "link": "https://cryptopanic.com/news/33466188/LATEST-Oracle-is-integrating-with-Swifts-blockchain-ledger-to-host-Swift-commitment-contracts-and-bridge-tokenized-deposit-flows-to-banks-existing-ISO-20022-payment-processing-via-Oracle-Banking-Payments",
-    "source": "@coinmarketcap",
-    "published": "Tue Sep 29 2026 05:35:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Anthropic plans to spend $518 billion on AI infrastructure. Pre-IPO perps barely blink.",
-    "link": "https://cryptopanic.com/news/33466313/Anthropic-plans-to-spend-518-billion-on-AI-infrastructure-Pre-IPO-perps-barely-blink",
-    "source": "coindesk.com",
-    "published": "Tue Sep 29 2026 05:31:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ NOW: OpenAI apologizes after its AI models breached Australian government websites in June, pledging a new task force and funding for Australia's cyber defenses.",
-    "link": "https://cryptopanic.com/news/33466210/NOW-OpenAI-apologizes-after-its-AI-models-breached-Australian-government-websites-in-June-pledging-a-new-task-force-and-funding-for-Australias-cyber-defenses",
-    "source": "@cointelegraph",
-    "published": "Tue Sep 29 2026 05:31:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "McDonald's Stock and 10-Year Bond Yields: Why Are They Near-Perfect Opposites?",
-    "link": "https://cryptopanic.com/news/33466323/McDonalds-Stock-and-10-Year-Bond-Yields-Why-Are-They-Near-Perfect-Opposites",
-    "source": "beincrypto.com",
-    "published": "Tue Sep 29 2026 05:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "As $QNT has surged recently, whales that had been dormant for over 3 years are waking up and starting to sell.\n\n0x6d32 deposited 8,250 $QNT($1.88M) into #Binance after being dormant for over 3 years.\n\n0xd633 moved 34,200 $QNT($8.05M) after more than 3 years of inactivity and has",
-    "link": "https://cryptopanic.com/news/33466148/As-QNT-has-surged-recently-whales-that-had-been-dormant-for-over-3-years-are-waking-up-and-starting-to-sell-0x6d32-deposited-8250-QNT188M-into-Binance-after-being-dormant-for-over-3-years-0xd633-moved-34200-QNT805M-after-more-than-3-years-of-inactivity-and-has",
-    "source": "@lookonchain",
-    "published": "Tue Sep 29 2026 05:28:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NOW: Our second panel at Cointelegraph Connect: Seoul Edition is underway, with @SolanaInstitute, @CodexFX, @FTDA_US, @0xMiden and @Edenaofficial discussing how stablecoins are evolving after the GENIUS Act.",
-    "link": "https://cryptopanic.com/news/33466209/NOW-Our-second-panel-at-Cointelegraph-Connect-Seoul-Edition-is-underway-with-SolanaInstitute-CodexFX-FTDA_US-0xMiden-and-Edenaofficial-discussing-how-stablecoins-are-evolving-after-the-GENIUS-Act",
-    "source": "@cointelegraph",
-    "published": "Tue Sep 29 2026 05:27:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ NEW: Arthur Hayes at Cointelegraph Connect: Seoul Edition, “I don’t believe that fiat currencies and most of the cryptos out there are fit for purpose for AIs, in terms of AI agents.”",
-    "link": "https://cryptopanic.com/news/33466207/NEW-Arthur-Hayes-at-Cointelegraph-Connect-Seoul-Edition-I-dont-believe-that-fiat-currencies-and-most-of-the-cryptos-out-there-are-fit-for-purpose-for-AIs-in-terms-of-AI-agents",
-    "source": "@cointelegraph",
-    "published": "Tue Sep 29 2026 05:22:52 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
