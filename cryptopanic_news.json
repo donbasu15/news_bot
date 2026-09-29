@@ -1,9 +1,135 @@
 [
   {
+    "title": "Ethereum Just Defied the September Curse But a Major Resistance Wall Still Stands",
+    "link": "https://cryptopanic.com/news/33465872/Ethereum-Just-Defied-the-September-Curse-But-a-Major-Resistance-Wall-Still-Stands",
+    "source": "cryptopotato.com",
+    "published": "Tue Sep 29 2026 04:11:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Banking Giant Citigroup Taps Coinbase for Crypto Expansion",
+    "link": "https://cryptopanic.com/news/33462924/Banking-Giant-Citigroup-Taps-Coinbase-for-Crypto-Expansion",
+    "source": "u.today",
+    "published": "Mon Sep 28 2026 14:02:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: Chainlink launches CCIP 2.0 with new cross-chain security controls for institutional assets.",
+    "link": "https://cryptopanic.com/news/33462912/NEW-Chainlink-launches-CCIP-20-with-new-cross-chain-security-controls-for-institutional-assets",
+    "source": "@cointelegraph",
+    "published": "Mon Sep 28 2026 13:40:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin holds above $84K despite 5.12% treasury yields and hawkish Fed – Report",
+    "link": "https://cryptopanic.com/news/33457218/Bitcoin-holds-above-84K-despite-512-treasury-yields-and-hawkish-Fed-Report",
+    "source": "ambcrypto.com",
+    "published": "Sun Sep 27 2026 07:00:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: @Coinbase tokenized stocks are now live as collateral on @Aave V4 on @Base, letting eligible non-U.S. users borrow $USDC against real equity holdings, with @Chainlink providing price feeds.",
+    "link": "https://cryptopanic.com/news/33451652/NEW-Coinbase-tokenized-stocks-are-now-live-as-collateral-on-Aave-V4-on-Base-letting-eligible-non-US-users-borrow-USDC-against-real-equity-holdings-with-Chainlink-providing-price-feeds",
+    "source": "@coindesk",
+    "published": "Fri Sep 25 2026 14:43:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ARK Invest puts OpenAI and Anthropic exposure on Ethereum as tokenized ARKVX goes live",
+    "link": "https://cryptopanic.com/news/33449938/ARK-Invest-puts-OpenAI-and-Anthropic-exposure-on-Ethereum-as-tokenized-ARKVX-goes-live",
+    "source": "cryptopolitan.com",
+    "published": "Fri Sep 25 2026 10:05:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Spot ETFs now hold 1 in every 45 $LINK tokens.\n\nNow on a four-day net inflow streak, the five spot @Chainlink ETFs now hold 2.2% of $LINK's current supply.\n\nThe products are up +$13.02M in September already, reflecting bullish sentiment among institutional investors.",
+    "link": "https://cryptopanic.com/news/33447485/Spot-ETFs-now-hold-1-in-every-45-LINK-tokens-Now-on-a-four-day-net-inflow-streak-the-five-spot-Chainlink-ETFs-now-hold-22-of-LINKs-current-supply-The-products-are-up-1302M-in-September-already-reflecting-bullish-sentiment-among-institutional-investors",
+    "source": "@bscnews",
+    "published": "Thu Sep 24 2026 22:13:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Bitcoin ETFs bought $3 billion across 9 straight days.\n\nNo signs of sell pressure despite failed attempts to reclaim $85,000.\n\nBullish!",
+    "link": "https://cryptopanic.com/news/33468502/JUST-IN-Bitcoin-ETFs-bought-3-billion-across-9-straight-days-No-signs-of-sell-pressure-despite-failed-attempts-to-reclaim-85000-Bullish",
+    "source": "@btc_archive",
+    "published": "Tue Sep 29 2026 12:39:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitwise Extends Solana Purchase Despite Price Drop",
+    "link": "https://cryptopanic.com/news/33468514/Bitwise-Extends-Solana-Purchase-Despite-Price-Drop",
+    "source": "u.today",
+    "published": "Tue Sep 29 2026 12:34:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Belarus registers its first two crypto banks ahead of full launch",
+    "link": "https://cryptopanic.com/news/33468395/Belarus-registers-its-first-two-crypto-banks-ahead-of-full-launch",
+    "source": "cryptopolitan.com",
+    "published": "Tue Sep 29 2026 12:32:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "FOMO HOUR ft @Tyler_Did_It and @farokh\n- \n- \n-",
+    "link": "https://cryptopanic.com/news/33468389/FOMO-HOUR-ft-Tyler_Did_It-and-farokh-",
+    "source": "@decryptmedia",
+    "published": "Tue Sep 29 2026 12:30:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$PUMP is still making monster numbers daily.",
+    "link": "https://cryptopanic.com/news/33468390/PUMP-is-still-making-monster-numbers-daily",
+    "source": "@decryptmedia",
+    "published": "Tue Sep 29 2026 12:30:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Chainlink Launches CCIP 2.0 With Extra Security Controls For Tokenized Assets",
+    "link": "https://cryptopanic.com/news/33468336/Chainlink-Launches-CCIP-20-With-Extra-Security-Controls-For-Tokenized-Assets",
+    "source": "newsbtc.com",
+    "published": "Tue Sep 29 2026 12:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Chainlink Opens CCIP 2.0 to Institutions With Configurable Speed",
+    "link": "https://cryptopanic.com/news/33468406/Chainlink-Opens-CCIP-20-to-Institutions-With-Configurable-Speed",
+    "source": "coinspeaker.com",
+    "published": "Tue Sep 29 2026 12:27:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: Cboe and S&P Dow Jones Indices are exploring tokenized options as part of their extended partnership through 2051",
+    "link": "https://cryptopanic.com/news/33468391/INTEL-Cboe-and-SampP-Dow-Jones-Indices-are-exploring-tokenized-options-as-part-of-their-extended-partnership-through-2051",
+    "source": "@solidintel_x",
+    "published": "Tue Sep 29 2026 12:21:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Coinbase facilitates low-cost transactions between the U.S. and El Salvador \n\n@Modveon continues scaling its Sivar platform by using @Coinbase infrastructure and @Base to offer a smooth remittance channel to El Salvador.\n\nWith a standard transfer fee of $2, the platform no longer",
+    "link": "https://cryptopanic.com/news/33468387/Coinbase-facilitates-low-cost-transactions-between-the-US-and-El-Salvador-Modveon-continues-scaling-its-Sivar-platform-by-using-Coinbase-infrastructure-and-Base-to-offer-a-smooth-remittance-channel-to-El-Salvador-With-a-standard-transfer-fee-of-2-the-platform-no-longer",
+    "source": "@bscnews",
+    "published": "Tue Sep 29 2026 12:18:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Altcoin Traders Are Repeating Patterns Last Seen Before the October 2025 Top",
+    "link": "https://cryptopanic.com/news/33468497/Altcoin-Traders-Are-Repeating-Patterns-Last-Seen-Before-the-October-2025-Top",
+    "source": "beincrypto.com",
+    "published": "Tue Sep 29 2026 12:15:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Chainlink Opens Swift’s Tokenized Deposit Ledger to Banks",
     "link": "https://cryptopanic.com/news/33468272/Chainlink-Opens-Swifts-Tokenized-Deposit-Ledger-to-Banks",
     "source": "btcusa.com",
     "published": "Tue Sep 29 2026 12:12:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitget’s recent hack has put THORChain under scrutiny after some of the stolen funds moved through its cross-chain swap protocol. But the dispute raises a broader question: should permissionless networks be able to block specific wallets?",
+    "link": "https://cryptopanic.com/news/33468386/Bitgets-recent-hack-has-put-THORChain-under-scrutiny-after-some-of-the-stolen-funds-moved-through-its-cross-chain-swap-protocol-But-the-dispute-raises-a-broader-question-should-permissionless-networks-be-able-to-block-specific-wallets",
+    "source": "@bscnews",
+    "published": "Tue Sep 29 2026 12:09:54 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -35,6 +161,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Folio Brings Tokenized Index Funds to Robinhood Chain\n\n@folio_market is building retail-focused infrastructure for onchain stock trading on Robinhood (@RobinhoodCrypto) Chain.\n\nAnyone can create their own index fund that trades as one token. The platform also offers leveraged",
+    "link": "https://cryptopanic.com/news/33468385/Folio-Brings-Tokenized-Index-Funds-to-Robinhood-Chain-folio_market-is-building-retail-focused-infrastructure-for-onchain-stock-trading-on-Robinhood-RobinhoodCrypto-Chain-Anyone-can-create-their-own-index-fund-that-trades-as-one-token-The-platform-also-offers-leveraged",
+    "source": "@bscnews",
+    "published": "Tue Sep 29 2026 12:05:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "The Clearing House has selected Quant to connect tokenized deposits with RTP and CHIPS, while the underlying base layer remains undisclosed. Here's what matters",
     "link": "https://cryptopanic.com/news/33468279/The-Clearing-House-has-selected-Quant-to-connect-tokenized-deposits-with-RTP-and-CHIPS-while-the-underlying-base-layer-remains-undisclosed-Heres-what-matters",
     "source": "@realallincrypto",
@@ -46,6 +179,13 @@
     "link": "https://cryptopanic.com/news/33468268/gm-Cardano-fam",
     "source": "@angrycryptoshow",
     "published": "Tue Sep 29 2026 12:05:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 U.S. Spot Bitcoin ETFs have had 8 consecutive days of inflows \n\nBullish!",
+    "link": "https://cryptopanic.com/news/33468392/JUST-IN-US-Spot-Bitcoin-ETFs-have-had-8-consecutive-days-of-inflows-Bullish",
+    "source": "@bitcoinmagazine",
+    "published": "Tue Sep 29 2026 12:03:10 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -67,146 +207,6 @@
     "link": "https://cryptopanic.com/news/33468154/Polymarket-targets-November-launch-for-new-trading-engine-What-changes-in-Q4",
     "source": "ambcrypto.com",
     "published": "Tue Sep 29 2026 12:00:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: $ONDO IS EXPANDING TOKENISED STOCKS INTO SOUTH KOREA.\n\nKakao Pay Securities has signed an agreement with @Ondo to explore bringing tokenised Korean stocks to investors worldwide.\n\nThis means Ondo will open South Korea’s stock market to global investors 24/7 through",
-    "link": "https://cryptopanic.com/news/33468278/BREAKING-ONDO-IS-EXPANDING-TOKENISED-STOCKS-INTO-SOUTH-KOREA-Kakao-Pay-Securities-has-signed-an-agreement-with-Ondo-to-explore-bringing-tokenised-Korean-stocks-to-investors-worldwide-This-means-Ondo-will-open-South-Koreas-stock-market-to-global-investors-247-through",
-    "source": "@realallincrypto",
-    "published": "Tue Sep 29 2026 12:00:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "3 words better than “Charts are green\"??",
-    "link": "https://cryptopanic.com/news/33468094/3-words-better-than-Charts-are-green",
-    "source": "@coinmarketcap",
-    "published": "Tue Sep 29 2026 12:00:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bybit Expands Perp Options to Eight Tickers, Launches 70,000 USDT Trading Challenge",
-    "link": "https://cryptopanic.com/news/33468092/Bybit-Expands-Perp-Options-to-Eight-Tickers-Launches-70000-USDT-Trading-Challenge",
-    "source": "btcusa.com",
-    "published": "Tue Sep 29 2026 12:00:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Gen Z has more capacity to absorb crypto's near-term volatility than Millennials, having begun investing at an average age of 19 vs. 25, giving them a 46-year investment horizon, per Grayscale's Zach Pandl.",
-    "link": "https://cryptopanic.com/news/33468093/LATEST-Gen-Z-has-more-capacity-to-absorb-cryptos-near-term-volatility-than-Millennials-having-begun-investing-at-an-average-age-of-19-vs-25-giving-them-a-46-year-investment-horizon-per-Grayscales-Zach-Pandl",
-    "source": "@coinmarketcap",
-    "published": "Tue Sep 29 2026 11:55:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$SOL Flipped the $117 resistance. Targeting $148 next if this level holds.\n\nNot the quickest mover, other coins will move faster. But chart has been pretty straight forward and respecting levels well. Drawdowns have been pretty minimal so easier hold.",
-    "link": "https://cryptopanic.com/news/33468276/SOL-Flipped-the-117-resistance-Targeting-148-next-if-this-level-holds-Not-the-quickest-mover-other-coins-will-move-faster-But-chart-has-been-pretty-straight-forward-and-respecting-levels-well-Drawdowns-have-been-pretty-minimal-so-easier-hold",
-    "source": "@daancrypto",
-    "published": "Tue Sep 29 2026 11:49:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Rising Bond Yields Stop Bitcoin's Rally. These 3 Indicators Signal It May Resume Soon",
-    "link": "https://cryptopanic.com/news/33468165/Rising-Bond-Yields-Stop-Bitcoins-Rally-These-3-Indicators-Signal-It-May-Resume-Soon",
-    "source": "feeds2.benzinga.com",
-    "published": "Tue Sep 29 2026 11:49:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Whale bc1qsz, linked to (Matrixport), deposited 1,000 $BTC ($83.94M) into #Binance again an hour ago.",
-    "link": "https://cryptopanic.com/news/33468063/Whale-bc1qsz-linked-to-Matrixport-deposited-1000-BTC-8394M-into-Binance-again-an-hour-ago",
-    "source": "@lookonchain",
-    "published": "Tue Sep 29 2026 11:47:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Price in Danger: Positive Funding Masks a Fragile Setup",
-    "link": "https://cryptopanic.com/news/33468065/XRP-Price-in-Danger-Positive-Funding-Masks-a-Fragile-Setup",
-    "source": "cryptonews.com",
-    "published": "Tue Sep 29 2026 11:45:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "WATCH: A San Francisco-based robotics company is betting humanoid robots can succeed where automation has previously struggled: navigating the cluttered, unpredictable environment of people's homes to provide a cleaning service",
-    "link": "https://cryptopanic.com/news/33468275/WATCH-A-San-Francisco-based-robotics-company-is-betting-humanoid-robots-can-succeed-where-automation-has-previously-struggled-navigating-the-cluttered-unpredictable-environment-of-peoples-homes-to-provide-a-cleaning-service",
-    "source": "@reutersbiz",
-    "published": "Tue Sep 29 2026 11:45:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HBAR Crypto 30% Rally: Nvidia AI Link Lacks Proof, What Now?",
-    "link": "https://cryptopanic.com/news/33468081/HBAR-Crypto-30-Rally-Nvidia-AI-Link-Lacks-Proof-What-Now",
-    "source": "99bitcoins.com",
-    "published": "Tue Sep 29 2026 11:43:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: @MorganStanley sets up a Digital Asset Lab to test stablecoins, tokenization and DeFi applications, giving employees a dedicated facility to explore blockchain technology without risk to the bank's core systems.",
-    "link": "https://cryptopanic.com/news/33468270/JUST-IN-MorganStanley-sets-up-a-Digital-Asset-Lab-to-test-stablecoins-tokenization-and-DeFi-applications-giving-employees-a-dedicated-facility-to-explore-blockchain-technology-without-risk-to-the-banks-core-systems",
-    "source": "@coindesk",
-    "published": "Tue Sep 29 2026 11:41:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Major American Multinational Investment Bank Morgan Stanley is testing stablecoins... \n\nAccording to Bloomberg, the bank has launched a Digital Asset Lab to begin testing digital assets, alongside DeFi applications and tokenization. \n\nOnce the testing phase is complete, it will",
-    "link": "https://cryptopanic.com/news/33468062/Major-American-Multinational-Investment-Bank-Morgan-Stanley-is-testing-stablecoins-According-to-Bloomberg-the-bank-has-launched-a-Digital-Asset-Lab-to-begin-testing-digital-assets-alongside-DeFi-applications-and-tokenization-Once-the-testing-phase-is-complete-it-will",
-    "source": "@bscnews",
-    "published": "Tue Sep 29 2026 11:41:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Anthropic plans to warn investors that advanced AI could pose 'catastrophic or existential risks to humanity' as it seeks a $2 trillion valuation, the biggest IPO in history. Mike Dolan explains",
-    "link": "https://cryptopanic.com/news/33468274/Anthropic-plans-to-warn-investors-that-advanced-AI-could-pose-catastrophic-or-existential-risks-to-humanity-as-it-seeks-a-2-trillion-valuation-the-biggest-IPO-in-history-Mike-Dolan-explains",
-    "source": "@reutersbiz",
-    "published": "Tue Sep 29 2026 11:40:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bybit adds Tesla, QQQ and four more tickers to TradFi Perp Options and launches 70,000 USDT trading challenge",
-    "link": "https://cryptopanic.com/news/33468018/Bybit-adds-Tesla-QQQ-and-four-more-tickers-to-TradFi-Perp-Options-and-launches-70000-USDT-trading-challenge",
-    "source": "finbold.com",
-    "published": "Tue Sep 29 2026 11:37:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Price Today: BTC at $84,010 as 81 of the Top 100 Coins Close Red",
-    "link": "https://cryptopanic.com/news/33468007/Bitcoin-Price-Today-BTC-at-84010-as-81-of-the-Top-100-Coins-Close-Red",
-    "source": "btcusa.com",
-    "published": "Tue Sep 29 2026 11:35:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin beats gold, surge to $100,000 in play",
-    "link": "https://cryptopanic.com/news/33468173/Bitcoin-beats-gold-surge-to-100000-in-play",
-    "source": "coindesk.com",
-    "published": "Tue Sep 29 2026 11:34:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LUNC Price seems to be correcting? \n\nDespite being 100% down from its all-time high, $LUNC seems to be in a better place than it was a year ago. \n\nAccording to CoinGecko data, the asset is down just 2% over the past year. This data is surprising, given the token's price movement",
-    "link": "https://cryptopanic.com/news/33468061/LUNC-Price-seems-to-be-correcting-Despite-being-100-down-from-its-all-time-high-LUNC-seems-to-be-in-a-better-place-than-it-was-a-year-ago-According-to-CoinGecko-data-the-asset-is-down-just-2-over-the-past-year-This-data-is-surprising-given-the-tokens-price-movement",
-    "source": "@bscnews",
-    "published": "Tue Sep 29 2026 11:32:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin ETF Inflows Hit Seven Straight Days: Is An ‘Uptober’ Rally Taking Shape?",
-    "link": "https://cryptopanic.com/news/33468009/Bitcoin-ETF-Inflows-Hit-Seven-Straight-Days-Is-An-Uptober-Rally-Taking-Shape",
-    "source": "techgaged.com",
-    "published": "Tue Sep 29 2026 11:32:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Morgan Stanley has set up a Digital Asset Lab to test stablecoins, tokenization and DeFi applications, per Bloomberg.",
-    "link": "https://cryptopanic.com/news/33468001/NEW-Morgan-Stanley-has-set-up-a-Digital-Asset-Lab-to-test-stablecoins-tokenization-and-DeFi-applications-per-Bloomberg",
-    "source": "@cointelegraph",
-    "published": "Tue Sep 29 2026 11:31:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Coinbase Just Teased a Product With Nothing to Do With Crypto — or Does It?",
-    "link": "https://cryptopanic.com/news/33468155/Coinbase-Just-Teased-a-Product-With-Nothing-to-Do-With-Crypto-or-Does-It",
-    "source": "beincrypto.com",
-    "published": "Tue Sep 29 2026 11:26:45 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
