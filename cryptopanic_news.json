@@ -1,5 +1,89 @@
 [
   {
+    "title": "UTXO vs Account Model: How Bitcoin and Ethereum Track Value",
+    "link": "https://cryptopanic.com/news/33475533/UTXO-vs-Account-Model-How-Bitcoin-and-Ethereum-Track-Value",
+    "source": "btcusa.com",
+    "published": "Wed Sep 30 2026 14:25:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "New Jersey Woman Admits To Bank Fraud Involving Stolen $410,085 U.S. Treasury Check: DOJ",
+    "link": "https://cryptopanic.com/news/33473831/New-Jersey-Woman-Admits-To-Bank-Fraud-Involving-Stolen-410085-US-Treasury-Check-DOJ",
+    "source": "dailyhodl.com",
+    "published": "Wed Sep 30 2026 09:15:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Just Defied the September Curse But a Major Resistance Wall Still Stands",
+    "link": "https://cryptopanic.com/news/33465872/Ethereum-Just-Defied-the-September-Curse-But-a-Major-Resistance-Wall-Still-Stands",
+    "source": "cryptopotato.com",
+    "published": "Tue Sep 29 2026 04:11:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Banking Giant Citigroup Taps Coinbase for Crypto Expansion",
+    "link": "https://cryptopanic.com/news/33462924/Banking-Giant-Citigroup-Taps-Coinbase-for-Crypto-Expansion",
+    "source": "u.today",
+    "published": "Mon Sep 28 2026 14:02:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: Chainlink launches CCIP 2.0 with new cross-chain security controls for institutional assets.",
+    "link": "https://cryptopanic.com/news/33462912/NEW-Chainlink-launches-CCIP-20-with-new-cross-chain-security-controls-for-institutional-assets",
+    "source": "@cointelegraph",
+    "published": "Mon Sep 28 2026 13:40:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin holds above $84K despite 5.12% treasury yields and hawkish Fed – Report",
+    "link": "https://cryptopanic.com/news/33457218/Bitcoin-holds-above-84K-despite-512-treasury-yields-and-hawkish-Fed-Report",
+    "source": "ambcrypto.com",
+    "published": "Sun Sep 27 2026 07:00:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Spot ETFs now hold 1 in every 45 $LINK tokens.\n\nNow on a four-day net inflow streak, the five spot @Chainlink ETFs now hold 2.2% of $LINK's current supply.\n\nThe products are up +$13.02M in September already, reflecting bullish sentiment among institutional investors.",
+    "link": "https://cryptopanic.com/news/33447485/Spot-ETFs-now-hold-1-in-every-45-LINK-tokens-Now-on-a-four-day-net-inflow-streak-the-five-spot-Chainlink-ETFs-now-hold-22-of-LINKs-current-supply-The-products-are-up-1302M-in-September-already-reflecting-bullish-sentiment-among-institutional-investors",
+    "source": "@bscnews",
+    "published": "Thu Sep 24 2026 22:13:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "How Bitget Is Chasing $388 Million in Stolen Funds After a Zero-Day Hack",
+    "link": "https://cryptopanic.com/news/33476776/How-Bitget-Is-Chasing-388-Million-in-Stolen-Funds-After-a-Zero-Day-Hack",
+    "source": "Unchained",
+    "published": "Wed Sep 30 2026 17:50:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "53,000 Michigan Kids Lose SNAP Benefits as Schools and Food Pantries Feel the Strain: Report",
+    "link": "https://cryptopanic.com/news/33476758/53000-Michigan-Kids-Lose-SNAP-Benefits-as-Schools-and-Food-Pantries-Feel-the-Strain-Report",
+    "source": "dailyhodl.com",
+    "published": "Wed Sep 30 2026 17:49:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Avalanche block verification is now 100x faster\n\nAvalanche (@avax) now verifies its C-Chain blocks in about 2 milliseconds, down from roughly 210 milliseconds before last week's Helicon upgrade.\n\nThe jump comes from a change called Continuous Execution, which lets validators",
+    "link": "https://cryptopanic.com/news/33476781/Avalanche-block-verification-is-now-100x-faster-Avalanche-avax-now-verifies-its-C-Chain-blocks-in-about-2-milliseconds-down-from-roughly-210-milliseconds-before-last-weeks-Helicon-upgrade-The-jump-comes-from-a-change-called-Continuous-Execution-which-lets-validators",
+    "source": "@bscnews",
+    "published": "Wed Sep 30 2026 17:47:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Stripe's Bridge Launches OUSD, the Stablecoin That Pays Its Distributors",
+    "link": "https://cryptopanic.com/news/33476753/Stripes-Bridge-Launches-OUSD-the-Stablecoin-That-Pays-Its-Distributors",
+    "source": "bankless.com",
+    "published": "Wed Sep 30 2026 17:45:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Blovinci incorporates in Wyoming to build verification infrastructure for high-value assets",
+    "link": "https://cryptopanic.com/news/33476699/Blovinci-incorporates-in-Wyoming-to-build-verification-infrastructure-for-high-value-assets",
+    "source": "catenaa.com",
+    "published": "Wed Sep 30 2026 17:41:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "BMW turns to AI to cut a fifth of its managers in profitability overhaul",
     "link": "https://cryptopanic.com/news/33476738/BMW-turns-to-AI-to-cut-a-fifth-of-its-managers-in-profitability-overhaul",
     "source": "cryptopolitan.com",
@@ -21,10 +105,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "The 10 richest crypto holders and why some can't touch their money",
+    "link": "https://cryptopanic.com/news/33476759/The-10-richest-crypto-holders-and-why-some-cant-touch-their-money",
+    "source": "thestreet.com",
+    "published": "Wed Sep 30 2026 17:30:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "INSIGHT: The crypto industry spent nearly $8 million on lobbyists working on the Clarity Act in the first half of 2026, according to a CoinDesk analysis.",
     "link": "https://cryptopanic.com/news/33476746/INSIGHT-The-crypto-industry-spent-nearly-8-million-on-lobbyists-working-on-the-Clarity-Act-in-the-first-half-of-2026-according-to-a-CoinDesk-analysis",
     "source": "@coindesk",
     "published": "Wed Sep 30 2026 17:29:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin ETFs Extend Win Streak to 9 Days, Matching August Rally",
+    "link": "https://cryptopanic.com/news/33476783/Bitcoin-ETFs-Extend-Win-Streak-to-9-Days-Matching-August-Rally",
+    "source": "@decryptmedia",
+    "published": "Wed Sep 30 2026 17:29:01 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -46,6 +144,13 @@
     "link": "https://cryptopanic.com/news/33476691/ANALYSIS-Bitcoin-holders-just-booked-their-biggest-profits-of-2026-as-spot-demand-faded-What-does-this-mean-for-the-market-and-is-a-pullback-toward-80K-next-Lets-dive-in",
     "source": "@coinmarketcap",
     "published": "Wed Sep 30 2026 17:27:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Arc opens USDC buying, lending, and borrowing to apps\n\n@arc, Circle's layer-1 blockchain, has released three developer kits for apps building on its mainnet. With Onramp Kit, users can buy $USDC in-app with Apple Pay, Google Pay, or a debit card, starting with eligible users in",
+    "link": "https://cryptopanic.com/news/33476780/Arc-opens-USDC-buying-lending-and-borrowing-to-apps-arc-Circles-layer-1-blockchain-has-released-three-developer-kits-for-apps-building-on-its-mainnet-With-Onramp-Kit-users-can-buy-USDC-in-app-with-Apple-Pay-Google-Pay-or-a-debit-card-starting-with-eligible-users-in",
+    "source": "@bscnews",
+    "published": "Wed Sep 30 2026 17:26:41 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -102,111 +207,6 @@
     "link": "https://cryptopanic.com/news/33476574/Trader-Who-Called-XRPs-2024-Breakout-Tells-Investors-to-Brace-for-A-Lot-of-Green-Ahead",
     "source": "zycrypto.com",
     "published": "Wed Sep 30 2026 17:10:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The SEC is drawing a line between actual onchain securities and synthetic exposure. That distinction matters for Ripple and the $XRP utility thesis. Full analysis",
-    "link": "https://cryptopanic.com/news/33476602/The-SEC-is-drawing-a-line-between-actual-onchain-securities-and-synthetic-exposure-That-distinction-matters-for-Ripple-and-the-XRP-utility-thesis-Full-analysis",
-    "source": "@realallincrypto",
-    "published": "Wed Sep 30 2026 17:09:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum-Based Stablecoin Issuer ENA Could Surge 600%: Standard Chartered",
-    "link": "https://cryptopanic.com/news/33476629/Ethereum-Based-Stablecoin-Issuer-ENA-Could-Surge-600-Standard-Chartered",
-    "source": "feeds2.benzinga.com",
-    "published": "Wed Sep 30 2026 17:09:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Market Disruptors Founder Mark Moss says Bitcoin will reach $1 million by 2030",
-    "link": "https://cryptopanic.com/news/33476687/JUST-IN-Market-Disruptors-Founder-Mark-Moss-says-Bitcoin-will-reach-1-million-by-2030",
-    "source": "@bitcoinmagazine",
-    "published": "Wed Sep 30 2026 17:05:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Polygon's new checkout takes any token and pays merchants in cash\n\nPolygon (@0xPolygon) has added Crypto Checkout to its Open Money Stack, a Pay with Crypto button for the checkout a merchant already runs. It works alongside existing Stripe setups, and customers can pay from any",
-    "link": "https://cryptopanic.com/news/33476606/Polygons-new-checkout-takes-any-token-and-pays-merchants-in-cash-Polygon-0xPolygon-has-added-Crypto-Checkout-to-its-Open-Money-Stack-a-Pay-with-Crypto-button-for-the-checkout-a-merchant-already-runs-It-works-alongside-existing-Stripe-setups-and-customers-can-pay-from-any",
-    "source": "@bscnews",
-    "published": "Wed Sep 30 2026 17:05:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Coins for 48 Hours: BlockDAG Unveils BDAG300 Bonus as Zcash & Dogecoin Prices Cool After Rally",
-    "link": "https://cryptopanic.com/news/33476568/Coins-for-48-Hours-BlockDAG-Unveils-BDAG300-Bonus-as-Zcash-Dogecoin-Prices-Cool-After-Rally",
-    "source": "dailycoin.com",
-    "published": "Wed Sep 30 2026 17:05:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Bull Market, Global Liquidity, ETF Flows | BMTV Oct. 01, 2026",
-    "link": "https://cryptopanic.com/news/33476603/Bitcoin-Bull-Market-Global-Liquidity-ETF-Flows-BMTV-Oct-01-2026",
-    "source": "BitcoinMagazine",
-    "published": "Wed Sep 30 2026 17:03:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Strike Finance's mobile app is now available on Android via Google Play. \"iOS up next.\"",
-    "link": "https://cryptopanic.com/news/33476741/JUST-IN-Strike-Finances-mobile-app-is-now-available-on-Android-via-Google-Play-iOS-up-next",
-    "source": "@angrycryptoshow",
-    "published": "Wed Sep 30 2026 17:02:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HUGE: Hedera just launched HCS-14, a new standard giving AI agents their own verifiable digital passport! $HBAR\n\nAs billions of AI agents begin acting, paying & communicating for us, we need to know which AI is which and whether it can be trusted.\n\nThis is type of launch is",
-    "link": "https://cryptopanic.com/news/33476601/HUGE-Hedera-just-launched-HCS-14-a-new-standard-giving-AI-agents-their-own-verifiable-digital-passport-HBAR-As-billions-of-AI-agents-begin-acting-paying-amp-communicating-for-us-we-need-to-know-which-AI-is-which-and-whether-it-can-be-trusted-This-is-type-of-launch-is",
-    "source": "@realallincrypto",
-    "published": "Wed Sep 30 2026 17:00:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇪🇺 LATEST: ESMA proposes expanding MiCA rules to cover DeFi gateways, staking and crypto lending, alongside stricter restrictions on services involving unauthorized stablecoins.",
-    "link": "https://cryptopanic.com/news/33476749/LATEST-ESMA-proposes-expanding-MiCA-rules-to-cover-DeFi-gateways-staking-and-crypto-lending-alongside-stricter-restrictions-on-services-involving-unauthorized-stablecoins",
-    "source": "@cointelegraph",
-    "published": "Wed Sep 30 2026 17:00:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tether Just Minted Nearly Half a Billion in Gold",
-    "link": "https://cryptopanic.com/news/33476552/Tether-Just-Minted-Nearly-Half-a-Billion-in-Gold",
-    "source": "zycrypto.com",
-    "published": "Wed Sep 30 2026 17:00:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple just tokenized Brazilian markets – Can XRP catch up?",
-    "link": "https://cryptopanic.com/news/33476548/Ripple-just-tokenized-Brazilian-markets-Can-XRP-catch-up",
-    "source": "ambcrypto.com",
-    "published": "Wed Sep 30 2026 17:00:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AWS Announces $1Bn Deal With Synopsys on Custom Silicon",
-    "link": "https://cryptopanic.com/news/33476475/AWS-Announces-1Bn-Deal-With-Synopsys-on-Custom-Silicon",
-    "source": "catenaa.com",
-    "published": "Wed Sep 30 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Russian banks to disclose client crypto holdings",
-    "link": "https://cryptopanic.com/news/33476478/Russian-banks-to-disclose-client-crypto-holdings",
-    "source": "cryptopolitan.com",
-    "published": "Wed Sep 30 2026 16:59:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Gemini’s Bitcoin sentiment tweet sparks $85,000 buzz amid quiet trading",
-    "link": "https://cryptopanic.com/news/33476558/Geminis-Bitcoin-sentiment-tweet-sparks-85000-buzz-amid-quiet-trading",
-    "source": "en.cryptonomist.ch",
-    "published": "Wed Sep 30 2026 16:57:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 Federal Reserve is no longer projected to hike interest rates at the next FOMC meeting.",
-    "link": "https://cryptopanic.com/news/33476688/JUST-IN-Federal-Reserve-is-no-longer-projected-to-hike-interest-rates-at-the-next-FOMC-meeting",
-    "source": "@watcherguru",
-    "published": "Wed Sep 30 2026 16:56:20 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
