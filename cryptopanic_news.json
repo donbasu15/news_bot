@@ -1,9 +1,23 @@
 [
   {
+    "title": "Arthur Hayes calls Ethereum to $10K by end of year – Can ETH hit this target?",
+    "link": "https://cryptopanic.com/news/33473966/Arthur-Hayes-calls-Ethereum-to-10K-by-end-of-year-Can-ETH-hit-this-target",
+    "source": "ambcrypto.com",
+    "published": "Wed Sep 30 2026 09:45:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "The Biggest Crypto Casino Wins Ever Recorded, Verified on the Blockchain",
     "link": "https://cryptopanic.com/news/33473898/The-Biggest-Crypto-Casino-Wins-Ever-Recorded-Verified-on-the-Blockchain",
     "source": "btcusa.com",
     "published": "Wed Sep 30 2026 09:35:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Stock Market Today: S&P 500, Dow Jones Futures Gain as Investors Await Fed's Preferred Inflation Data — MU, AMD, FNGR in Focus",
+    "link": "https://cryptopanic.com/news/33473975/Stock-Market-Today-SP-500-Dow-Jones-Futures-Gain-as-Investors-Await-Feds-Preferred-Inflation-Data-MU-AMD-FNGR-in-Focus",
+    "source": "feeds2.benzinga.com",
+    "published": "Wed Sep 30 2026 09:33:22 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -39,6 +53,20 @@
     "link": "https://cryptopanic.com/news/33473834/Pokemon-Crypto-Case-Collector-Faces-Trial-Over-55-Million-Hack",
     "source": "cryptonews.com",
     "published": "Wed Sep 30 2026 09:24:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "White House AI Pact Leaves Safety Oversight in Corporate Hands",
+    "link": "https://cryptopanic.com/news/33473972/White-House-AI-Pact-Leaves-Safety-Oversight-in-Corporate-Hands",
+    "source": "99bitcoins.com",
+    "published": "Wed Sep 30 2026 09:22:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Trader Peter Brandt told Cointelegraph that Bitcoin could hit a $300K–$600K cycle peak in late 2029 if its June low holds.",
+    "link": "https://cryptopanic.com/news/33473987/LATEST-Trader-Peter-Brandt-told-Cointelegraph-that-Bitcoin-could-hit-a-300K600K-cycle-peak-in-late-2029-if-its-June-low-holds",
+    "source": "@coinmarketcap",
+    "published": "Wed Sep 30 2026 09:17:10 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -119,6 +147,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "OpenAI seeks $30 billion in funding at whopping $1.4 trillion valuation after delaying IPO",
+    "link": "https://cryptopanic.com/news/33473985/OpenAI-seeks-30-billion-in-funding-at-whopping-14-trillion-valuation-after-delaying-IPO",
+    "source": "coindesk.com",
+    "published": "Wed Sep 30 2026 08:50:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "🇰🇷 CONNECT: “The DAT model has the ability to outperform spot. We've seen that through cycles.”\n\n@Sharplink’s @mcamarda0 on the potential upside of digital asset treasury companies compared with simply holding the underlying asset.",
     "link": "https://cryptopanic.com/news/33473889/CONNECT-The-DAT-model-has-the-ability-to-outperform-spot-Weve-seen-that-through-cycles-Sharplinks-mcamarda0-on-the-potential-upside-of-digital-asset-treasury-companies-compared-with-simply-holding-the-underlying-asset",
     "source": "@cointelegraph",
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33473656/Do-You-Own-Enough-Crypto-Tom-Lee-Answers-Binance-Founder-Holding-16-Billion-in-Ethereum",
     "source": "u.today",
     "published": "Wed Sep 30 2026 08:34:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Is a 5% Treasury Yield a Threat to Stocks? Cathie Wood Says No",
-    "link": "https://cryptopanic.com/news/33473824/Is-a-5-Treasury-Yield-a-Threat-to-Stocks-Cathie-Wood-Says-No",
-    "source": "beincrypto.com",
-    "published": "Wed Sep 30 2026 08:31:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "OpenAI faces legal accountability after AI agents breached Hugging Face",
-    "link": "https://cryptopanic.com/news/33473735/OpenAI-faces-legal-accountability-after-AI-agents-breached-Hugging-Face",
-    "source": "en.cryptonomist.ch",
-    "published": "Wed Sep 30 2026 08:30:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Kalshi in Talks to Raise $1B at $40B Valuation; Sequoia and Wellington Set to Lead",
-    "link": "https://cryptopanic.com/news/33473588/Kalshi-in-Talks-to-Raise-1B-at-40B-Valuation-Sequoia-and-Wellington-Set-to-Lead",
-    "source": "www.blockhead.co",
-    "published": "Wed Sep 30 2026 08:30:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ INSIGHT: Most crypto compliance tools are built for transparent blockchains, while @CantonNetwork uses selective disclosure.\n\nInstitutions need compliance tools that can interpret Canton’s unique identities, transactions and privacy model.\n\n@intercepta_ added @CantonNetwork",
-    "link": "https://cryptopanic.com/news/33473645/INSIGHT-Most-crypto-compliance-tools-are-built-for-transparent-blockchains-while-CantonNetwork-uses-selective-disclosure-Institutions-need-compliance-tools-that-can-interpret-Cantons-unique-identities-transactions-and-privacy-model-intercepta_-added-CantonNetwork",
-    "source": "@cointelegraph",
-    "published": "Wed Sep 30 2026 08:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "100xSOON goes live, offering high leverage AI trading up to 10,000x",
-    "link": "https://cryptopanic.com/news/33473734/100xSOON-goes-live-offering-high-leverage-AI-trading-up-to-10000x",
-    "source": "en.cryptonomist.ch",
-    "published": "Wed Sep 30 2026 08:29:15 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
