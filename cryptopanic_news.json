@@ -1,9 +1,128 @@
 [
   {
+    "title": "UTXO vs Account Model: How Bitcoin and Ethereum Track Value",
+    "link": "https://cryptopanic.com/news/33475533/UTXO-vs-Account-Model-How-Bitcoin-and-Ethereum-Track-Value",
+    "source": "btcusa.com",
+    "published": "Wed Sep 30 2026 14:25:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "New Jersey Woman Admits To Bank Fraud Involving Stolen $410,085 U.S. Treasury Check: DOJ",
+    "link": "https://cryptopanic.com/news/33473831/New-Jersey-Woman-Admits-To-Bank-Fraud-Involving-Stolen-410085-US-Treasury-Check-DOJ",
+    "source": "dailyhodl.com",
+    "published": "Wed Sep 30 2026 09:15:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Just Defied the September Curse But a Major Resistance Wall Still Stands",
+    "link": "https://cryptopanic.com/news/33465872/Ethereum-Just-Defied-the-September-Curse-But-a-Major-Resistance-Wall-Still-Stands",
+    "source": "cryptopotato.com",
+    "published": "Tue Sep 29 2026 04:11:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Banking Giant Citigroup Taps Coinbase for Crypto Expansion",
+    "link": "https://cryptopanic.com/news/33462924/Banking-Giant-Citigroup-Taps-Coinbase-for-Crypto-Expansion",
+    "source": "u.today",
+    "published": "Mon Sep 28 2026 14:02:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: Chainlink launches CCIP 2.0 with new cross-chain security controls for institutional assets.",
+    "link": "https://cryptopanic.com/news/33462912/NEW-Chainlink-launches-CCIP-20-with-new-cross-chain-security-controls-for-institutional-assets",
+    "source": "@cointelegraph",
+    "published": "Mon Sep 28 2026 13:40:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin holds above $84K despite 5.12% treasury yields and hawkish Fed – Report",
+    "link": "https://cryptopanic.com/news/33457218/Bitcoin-holds-above-84K-despite-512-treasury-yields-and-hawkish-Fed-Report",
+    "source": "ambcrypto.com",
+    "published": "Sun Sep 27 2026 07:00:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Spot ETFs now hold 1 in every 45 $LINK tokens.\n\nNow on a four-day net inflow streak, the five spot @Chainlink ETFs now hold 2.2% of $LINK's current supply.\n\nThe products are up +$13.02M in September already, reflecting bullish sentiment among institutional investors.",
+    "link": "https://cryptopanic.com/news/33447485/Spot-ETFs-now-hold-1-in-every-45-LINK-tokens-Now-on-a-four-day-net-inflow-streak-the-five-spot-Chainlink-ETFs-now-hold-22-of-LINKs-current-supply-The-products-are-up-1302M-in-September-already-reflecting-bullish-sentiment-among-institutional-investors",
+    "source": "@bscnews",
+    "published": "Thu Sep 24 2026 22:13:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Jumps on Cool PCE Inflation Data as Bond Yields Hit 20-Year Highs",
+    "link": "https://cryptopanic.com/news/33476058/Bitcoin-Jumps-on-Cool-PCE-Inflation-Data-as-Bond-Yields-Hit-20-Year-Highs",
+    "source": "@decryptmedia",
+    "published": "Wed Sep 30 2026 15:51:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Jumps on Cool PCE Inflation Data as Bond Yields Hit 20-Year Highs",
+    "link": "https://cryptopanic.com/news/33476043/Bitcoin-Jumps-on-Cool-PCE-Inflation-Data-as-Bond-Yields-Hit-20-Year-Highs",
+    "source": "decrypt.co",
+    "published": "Wed Sep 30 2026 15:50:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "At @KBWofficial, @CarolineDPham says the SEC and CFTC already have the regulatory authority needed to set clear rules for digital assets.\n\n“All of that authority is actually there if you take the time to work through it.”",
+    "link": "https://cryptopanic.com/news/33476028/At-KBWofficial-CarolineDPham-says-the-SEC-and-CFTC-already-have-the-regulatory-authority-needed-to-set-clear-rules-for-digital-assets-All-of-that-authority-is-actually-there-if-you-take-the-time-to-work-through-it",
+    "source": "@coindesk",
+    "published": "Wed Sep 30 2026 15:47:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Q3 Close LIVE | This Could Change Everything",
+    "link": "https://cryptopanic.com/news/33476040/Bitcoin-Q3-Close-LIVE-This-Could-Change-Everything",
+    "source": "DataDash",
+    "published": "Wed Sep 30 2026 15:46:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Open USD Launches With BlackRock And BNY Reserves\n\nOpen Standard introduces Open USD ($OUSD), a premium stablecoin collateralized by cash and treasury reserves kept at @BlackRock, @BNYMellon, and Lead Bank.\n\nThe token is built on the native infrastructure of @Base, @Ethereum,",
+    "link": "https://cryptopanic.com/news/33476055/Open-USD-Launches-With-BlackRock-And-BNY-Reserves-Open-Standard-introduces-Open-USD-OUSD-a-premium-stablecoin-collateralized-by-cash-and-treasury-reserves-kept-at-BlackRock-BNYMellon-and-Lead-Bank-The-token-is-built-on-the-native-infrastructure-of-Base-Ethereum",
+    "source": "@bscnews",
+    "published": "Wed Sep 30 2026 15:45:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin, Ether, XRP Force 2,633% Liquidation Imbalance Amid Sticky US Inflation Short Squeeze",
+    "link": "https://cryptopanic.com/news/33476048/Bitcoin-Ether-XRP-Force-2633-Liquidation-Imbalance-Amid-Sticky-US-Inflation-Short-Squeeze",
+    "source": "u.today",
+    "published": "Wed Sep 30 2026 15:41:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin, XRP Whipsaw On Positive PCE Inflation Print Battling Surging Oil Prices",
+    "link": "https://cryptopanic.com/news/33476050/Bitcoin-XRP-Whipsaw-On-Positive-PCE-Inflation-Print-Battling-Surging-Oil-Prices",
+    "source": "feeds2.benzinga.com",
+    "published": "Wed Sep 30 2026 15:40:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "🇺🇸 LATEST: The US Treasury plans another buyback of up to $6 billion in longer-term debt tomorrow.",
     "link": "https://cryptopanic.com/news/33476033/LATEST-The-US-Treasury-plans-another-buyback-of-up-to-6-billion-in-longer-term-debt-tomorrow",
     "source": "@cointelegraph",
     "published": "Wed Sep 30 2026 15:40:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Veteran trader Peter Brandt called $XRP a \"Fool Coin\"\n\nHe noted that while the asset can be effective for transactions and cheap to use, it doesn't add to its value... \n\nIn essence, XRP as a payment option does not justify a rise in market value. \n\nCan XRP be a good return on",
+    "link": "https://cryptopanic.com/news/33476053/Veteran-trader-Peter-Brandt-called-XRP-a-Fool-Coin-He-noted-that-while-the-asset-can-be-effective-for-transactions-and-cheap-to-use-it-doesnt-add-to-its-value-In-essence-XRP-as-a-payment-option-does-not-justify-a-rise-in-market-value-Can-XRP-be-a-good-return-on",
+    "source": "@bscnews",
+    "published": "Wed Sep 30 2026 15:36:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Michael Saylor Just Made a NEW $120T Bitcoin Prediction!!! | EP 1603",
+    "link": "https://cryptopanic.com/news/33476047/Michael-Saylor-Just-Made-a-NEW-120T-Bitcoin-Prediction-EP-1603",
+    "source": "SimplyBitcoin",
+    "published": "Wed Sep 30 2026 15:34:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Open USD takes on Tether, Circle with a different stablecoin model that's 'building money'",
+    "link": "https://cryptopanic.com/news/33476042/Open-USD-takes-on-Tether-Circle-with-a-different-stablecoin-model-thats-building-money",
+    "source": "coindesk.com",
+    "published": "Wed Sep 30 2026 15:34:50 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -49,6 +168,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "INTEL: Hyperliquid Labs will unstake $320M in hyperliquid:native today for its monthly team unlock, with the tokens to be sold OTC to an institution",
+    "link": "https://cryptopanic.com/news/33476064/INTEL-Hyperliquid-Labs-will-unstake-320M-in-hyperliquidnative-today-for-its-monthly-team-unlock-with-the-tokens-to-be-sold-OTC-to-an-institution",
+    "source": "@solidintel_x",
+    "published": "Wed Sep 30 2026 15:27:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Special Thanks: @Cardanians_io",
     "link": "https://cryptopanic.com/news/33476024/Special-Thanks-Cardanians_io",
     "source": "@angrycryptoshow",
@@ -63,6 +189,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "INTEL: Open Standard, backed by 140+ firms including Stripe, Visa and Mastercard, launches $OUSD, a dollar stablecoin that shares reserve yield with partners",
+    "link": "https://cryptopanic.com/news/33476063/INTEL-Open-Standard-backed-by-140-firms-including-Stripe-Visa-and-Mastercard-launches-OUSD-a-dollar-stablecoin-that-shares-reserve-yield-with-partners",
+    "source": "@solidintel_x",
+    "published": "Wed Sep 30 2026 15:24:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Morgan Stanley Sets Up Crypto Lab for Stablecoins and DeFi",
     "link": "https://cryptopanic.com/news/33475876/Morgan-Stanley-Sets-Up-Crypto-Lab-for-Stablecoins-and-DeFi",
     "source": "coindoo.com",
@@ -70,143 +203,10 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Micron will report earnings today after the US session.\n\nThe past 2 earnings reports for $MU marked local tops and were followed by downtrends of -34% and -43%.",
-    "link": "https://cryptopanic.com/news/33475938/Micron-will-report-earnings-today-after-the-US-session-The-past-2-earnings-reports-for-MU-marked-local-tops-and-were-followed-by-downtrends-of-34-and-43",
-    "source": "@stackersatoshi",
-    "published": "Wed Sep 30 2026 15:20:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INSIGHT: Crypto lawyer Yuriy Brisov says THORChain’s best defense in the Biget case is that it’s decentralized, but NEAR’s actions to block addresses could open up a legal can of worms.",
-    "link": "https://cryptopanic.com/news/33476031/INSIGHT-Crypto-lawyer-Yuriy-Brisov-says-THORChains-best-defense-in-the-Biget-case-is-that-its-decentralized-but-NEARs-actions-to-block-addresses-could-open-up-a-legal-can-of-worms",
-    "source": "@cointelegraph",
-    "published": "Wed Sep 30 2026 15:20:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "WATCH: Investors face mounting pressure from AI-valuation worries, a tightening Federal Reserve, looming US midterms, and the Middle East war. Harry Eastwood of Artemis Investment Management says the bright spot may be the earnings-growth picture",
-    "link": "https://cryptopanic.com/news/33476039/WATCH-Investors-face-mounting-pressure-from-AI-valuation-worries-a-tightening-Federal-Reserve-looming-US-midterms-and-the-Middle-East-war-Harry-Eastwood-of-Artemis-Investment-Management-says-the-bright-spot-may-be-the-earnings-growth-picture",
-    "source": "@reutersbiz",
-    "published": "Wed Sep 30 2026 15:20:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "U.S. CFTC  seeks event contract definitions that may defy states' gambling claims",
-    "link": "https://cryptopanic.com/news/33475974/US-CFTC-seeks-event-contract-definitions-that-may-defy-states-gambling-claims",
-    "source": "coindesk.com",
-    "published": "Wed Sep 30 2026 15:19:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ex-NCA Officer Must Repay $2.4M for Bitcoin He Stole When It Was Worth $77K",
-    "link": "https://cryptopanic.com/news/33475865/Ex-NCA-Officer-Must-Repay-24M-for-Bitcoin-He-Stole-When-It-Was-Worth-77K",
-    "source": "decrypt.co",
-    "published": "Wed Sep 30 2026 15:17:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  CryptoQuant says Bitcoin's bull market is confirmed but showing signs of fatigue, as profit-taking hit a 2026 high and demand growth slows.",
-    "link": "https://cryptopanic.com/news/33475948/LATEST-CryptoQuant-says-Bitcoins-bull-market-is-confirmed-but-showing-signs-of-fatigue-as-profit-taking-hit-a-2026-high-and-demand-growth-slows",
-    "source": "@coinmarketcap",
-    "published": "Wed Sep 30 2026 15:17:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "THORChain support for $ZEC on the way...\n\nLeading cross-chain swaps protocol @THORChain is getting closer and closer to full support for leading privacy platform @zcash. \n\nAccording to a recent post, all THORChain nodes now run their own Zcash node, and can begin scanning the",
-    "link": "https://cryptopanic.com/news/33475855/THORChain-support-for-ZEC-on-the-way-Leading-cross-chain-swaps-protocol-THORChain-is-getting-closer-and-closer-to-full-support-for-leading-privacy-platform-zcash-According-to-a-recent-post-all-THORChain-nodes-now-run-their-own-Zcash-node-and-can-begin-scanning-the",
+    "title": "Merchants can now accept stablecoin payments at checkout via Polygon\n\nPolygon (@0xPolygon) has introduced stablecoin payments at checkout. \n\nThis means merchants can accept multi-chain stablecoins and settle instantly in fiat or cryptocurrency. \n\nIt lets consumers pay through any",
+    "link": "https://cryptopanic.com/news/33476051/Merchants-can-now-accept-stablecoin-payments-at-checkout-via-Polygon-Polygon-0xPolygon-has-introduced-stablecoin-payments-at-checkout-This-means-merchants-can-accept-multi-chain-stablecoins-and-settle-instantly-in-fiat-or-cryptocurrency-It-lets-consumers-pay-through-any",
     "source": "@bscnews",
-    "published": "Wed Sep 30 2026 15:10:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nigerian billionaire Aliko Dangote and Kenyan President William Ruto broke ground on a planned $16 billion oil refinery aimed at meeting growing demand for petroleum products across East Africa",
-    "link": "https://cryptopanic.com/news/33476037/Nigerian-billionaire-Aliko-Dangote-and-Kenyan-President-William-Ruto-broke-ground-on-a-planned-16-billion-oil-refinery-aimed-at-meeting-growing-demand-for-petroleum-products-across-East-Africa",
-    "source": "@reutersbiz",
-    "published": "Wed Sep 30 2026 15:10:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 US Treasury to buy back up to $6,000,000,000 in longer-term debt again tomorrow.",
-    "link": "https://cryptopanic.com/news/33475933/JUST-IN-US-Treasury-to-buy-back-up-to-6000000000-in-longer-term-debt-again-tomorrow",
-    "source": "@watcherguru",
-    "published": "Wed Sep 30 2026 15:08:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Andrew Cuomo Hammers Partisan Politics: 'When CLARITY Failed, Ambiguity Wins'",
-    "link": "https://cryptopanic.com/news/33475875/Andrew-Cuomo-Hammers-Partisan-Politics-When-CLARITY-Failed-Ambiguity-Wins",
-    "source": "feeds2.benzinga.com",
-    "published": "Wed Sep 30 2026 15:05:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HBAR Price Map Points To a $0.15 Fifth-Wave Push",
-    "link": "https://cryptopanic.com/news/33475794/HBAR-Price-Map-Points-To-a-015-Fifth-Wave-Push",
-    "source": "dailycoin.com",
-    "published": "Wed Sep 30 2026 15:05:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump’s AI name change sparks insider domain trading claims",
-    "link": "https://cryptopanic.com/news/33475797/Trumps-AI-name-change-sparks-insider-domain-trading-claims",
-    "source": "protos.com",
-    "published": "Wed Sep 30 2026 15:04:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: $400 million St. Cloud credit union says that Bitcoin is the \"Blockbuster moment\" for credit unions \n\n\"Some people have called me crazy, but I really think we have this sprint between now and 2030\" to adopt Bitcoin",
-    "link": "https://cryptopanic.com/news/33475858/JUST-IN-400-million-St-Cloud-credit-union-says-that-Bitcoin-is-the-Blockbuster-moment-for-credit-unions-Some-people-have-called-me-crazy-but-I-really-think-we-have-this-sprint-between-now-and-2030-to-adopt-Bitcoin",
-    "source": "@bitcoinmagazine",
-    "published": "Wed Sep 30 2026 15:03:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cardano Helps Brazil’s Oil Giant to Track Cleaner Fuel Claims",
-    "link": "https://cryptopanic.com/news/33475783/Cardano-Helps-Brazils-Oil-Giant-to-Track-Cleaner-Fuel-Claims",
-    "source": "coindoo.com",
-    "published": "Wed Sep 30 2026 15:03:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "What is JTX: Solana’s Most Complete Trading Platform",
-    "link": "https://cryptopanic.com/news/33475294/What-is-JTX-Solanas-Most-Complete-Trading-Platform",
-    "source": "solanafloor.com",
-    "published": "Wed Sep 30 2026 15:02:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Quant is positioning orchestration above the ledger as the product layer for tokenized deposits, linking bank controls, shared rails and settlement workflows. Full analysis",
-    "link": "https://cryptopanic.com/news/33475850/Quant-is-positioning-orchestration-above-the-ledger-as-the-product-layer-for-tokenized-deposits-linking-bank-controls-shared-rails-and-settlement-workflows-Full-analysis",
-    "source": "@realallincrypto",
-    "published": "Wed Sep 30 2026 15:01:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "WATCH: catch up on CoinDesk Live for conversations with @CryptoHayes, @fundstrat, @CarolineDPham and more from @kbwofficial.",
-    "link": "https://cryptopanic.com/news/33476027/WATCH-catch-up-on-CoinDesk-Live-for-conversations-with-CryptoHayes-fundstrat-CarolineDPham-and-more-from-kbwofficial",
-    "source": "@coindesk",
-    "published": "Wed Sep 30 2026 15:01:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto investing doesn’t end when the check is written.\n\nAt CONNECT Singapore, the conversation turns to exits, liquidity and how crypto investors ultimately turn their investments back into returns.\n\n• @nabais_andre, Co-Founder & CEO, @Second_Lane \n• Pulkit Gupta, Investment",
-    "link": "https://cryptopanic.com/news/33476029/Crypto-investing-doesnt-end-when-the-check-is-written-At-CONNECT-Singapore-the-conversation-turns-to-exits-liquidity-and-how-crypto-investors-ultimately-turn-their-investments-back-into-returns-nabais_andre-Co-Founder-amp-CEO-Second_Lane-Pulkit-Gupta-Investment",
-    "source": "@cointelegraph",
-    "published": "Wed Sep 30 2026 15:01:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HUGE: @Ripple’s new partner CSD who is using the $XRP ledger sits at the HEART of Brazil’s financial market infrastructure!\n\nNot only that Brazil’s own Central Bank places CSD at the centre of its market infrastructure framework as you can see CSD are sat at the centre of the",
-    "link": "https://cryptopanic.com/news/33475849/HUGE-Ripples-new-partner-CSD-who-is-using-the-XRP-ledger-sits-at-the-HEART-of-Brazils-financial-market-infrastructure-Not-only-that-Brazils-own-Central-Bank-places-CSD-at-the-centre-of-its-market-infrastructure-framework-as-you-can-see-CSD-are-sat-at-the-centre-of-the",
-    "source": "@realallincrypto",
-    "published": "Wed Sep 30 2026 15:00:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CoinMarketCap | Top News \n\n18 stories on the front page right now!\n SEC's Hester Peirce to resign October 2, leaving two commissioners\n CFTC registers Coinbase Clearing, completing Coinbase's U.S. derivatives infrastructure\n SEC staff updates crypto guidance on",
-    "link": "https://cryptopanic.com/news/33475945/CoinMarketCap-Top-News-18-stories-on-the-front-page-right-now-SECs-Hester-Peirce-to-resign-October-2-leaving-two-commissioners-CFTC-registers-Coinbase-Clearing-completing-Coinbases-US-derivatives-infrastructure-SEC-staff-updates-crypto-guidance-on",
-    "source": "@coinmarketcap",
-    "published": "Wed Sep 30 2026 15:00:39 GMT+0000 (Coordinated Universal Time)",
+    "published": "Wed Sep 30 2026 15:22:14 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
