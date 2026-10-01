@@ -1,5 +1,110 @@
 [
   {
+    "title": "Visa-Led Consortium Launches OUSD Stablecoin",
+    "link": "https://cryptopanic.com/news/33482356/Visa-Led-Consortium-Launches-OUSD-Stablecoin",
+    "source": "cryptoprowl.com",
+    "published": "Thu Oct 01 2026 16:14:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "\"The Biggest Crypto Bull Market In History\" MASSIVE XRP Whale Purchases Bitcoin World Reserve",
+    "link": "https://cryptopanic.com/news/33480057/The-Biggest-Crypto-Bull-Market-In-History-MASSIVE-XRP-Whale-Purchases-Bitcoin-World-Reserve",
+    "source": "TheModernInvestor",
+    "published": "Thu Oct 01 2026 09:00:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 LATEST: The SEC charged Meyer Global Management and CEO Owen Meyer with allegedly defrauding retail investors in private funds tied to SpaceX and other pre-IPO securities.",
+    "link": "https://cryptopanic.com/news/33477449/LATEST-The-SEC-charged-Meyer-Global-Management-and-CEO-Owen-Meyer-with-allegedly-defrauding-retail-investors-in-private-funds-tied-to-SpaceX-and-other-pre-IPO-securities",
+    "source": "@cointelegraph",
+    "published": "Wed Sep 30 2026 20:20:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 Judge officially approves Paramount's acquisition of Warner Bros for $110,000,000,000",
+    "link": "https://cryptopanic.com/news/33477392/JUST-IN-Judge-officially-approves-Paramounts-acquisition-of-Warner-Bros-for-110000000000",
+    "source": "@watcherguru",
+    "published": "Wed Sep 30 2026 19:52:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UTXO vs Account Model: How Bitcoin and Ethereum Track Value",
+    "link": "https://cryptopanic.com/news/33475533/UTXO-vs-Account-Model-How-Bitcoin-and-Ethereum-Track-Value",
+    "source": "btcusa.com",
+    "published": "Wed Sep 30 2026 14:25:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "New Jersey Woman Admits To Bank Fraud Involving Stolen $410,085 U.S. Treasury Check: DOJ",
+    "link": "https://cryptopanic.com/news/33473831/New-Jersey-Woman-Admits-To-Bank-Fraud-Involving-Stolen-410085-US-Treasury-Check-DOJ",
+    "source": "dailyhodl.com",
+    "published": "Wed Sep 30 2026 09:15:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Just Defied the September Curse But a Major Resistance Wall Still Stands",
+    "link": "https://cryptopanic.com/news/33465872/Ethereum-Just-Defied-the-September-Curse-But-a-Major-Resistance-Wall-Still-Stands",
+    "source": "cryptopotato.com",
+    "published": "Tue Sep 29 2026 04:11:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEWS: 🇺🇸 Charles Hoskinson presented a keynote in DC at 'The Future of Money, Governance, and the Law,' joining Binance, Circle, Coinbase, and Ripple. Charles participated in a roundtable with government leaders and industry executives, per the Government Blockchain Association.",
+    "link": "https://cryptopanic.com/news/33483833/NEWS-Charles-Hoskinson-presented-a-keynote-in-DC-at-The-Future-of-Money-Governance-and-the-Law-joining-Binance-Circle-Coinbase-and-Ripple-Charles-participated-in-a-roundtable-with-government-leaders-and-industry-executives-per-the-Government-Blockchain-Association",
+    "source": "@angrycryptoshow",
+    "published": "Thu Oct 01 2026 23:13:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ostium rebuilds trading stack with Gateway after $23.75M exploit",
+    "link": "https://cryptopanic.com/news/33483812/Ostium-rebuilds-trading-stack-with-Gateway-after-2375M-exploit",
+    "source": "cryptopolitan.com",
+    "published": "Thu Oct 01 2026 23:06:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "DogeOS Opens Public Testnet for Ethereum-Style Apps on Dogecoin",
+    "link": "https://cryptopanic.com/news/33483810/DogeOS-Opens-Public-Testnet-for-Ethereum-Style-Apps-on-Dogecoin",
+    "source": "btcusa.com",
+    "published": "Thu Oct 01 2026 23:05:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: JAN3 CEO Samson Mow says Bitcoin’s next rally will be “the most hated rally of all time” as investors missed the dip waiting for $40K in October.",
+    "link": "https://cryptopanic.com/news/33483835/JUST-IN-JAN3-CEO-Samson-Mow-says-Bitcoins-next-rally-will-be-the-most-hated-rally-of-all-time-as-investors-missed-the-dip-waiting-for-40K-in-October",
+    "source": "@cointelegraph",
+    "published": "Thu Oct 01 2026 23:00:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: SEC proposes new rules allowing investment advisers and regulated funds to self-custody crypto in some cases and use state trust companies as custodians",
+    "link": "https://cryptopanic.com/news/33483795/INTEL-SEC-proposes-new-rules-allowing-investment-advisers-and-regulated-funds-to-self-custody-crypto-in-some-cases-and-use-state-trust-companies-as-custodians",
+    "source": "@solidintel_x",
+    "published": "Thu Oct 01 2026 22:59:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Peter Todd takes lead of MARA’s Slipstream as private mempools gain ground",
+    "link": "https://cryptopanic.com/news/33483798/Peter-Todd-takes-lead-of-MARAs-Slipstream-as-private-mempools-gain-ground",
+    "source": "cryptopolitan.com",
+    "published": "Thu Oct 01 2026 22:59:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: ️ The authors of EIP-8363, the plan to burn more Ethereum validator rewards as staking grows, have withdrawn it from the Hegota upgrade after industry and developer pushback.",
+    "link": "https://cryptopanic.com/news/33483832/LATEST-The-authors-of-EIP-8363-the-plan-to-burn-more-Ethereum-validator-rewards-as-staking-grows-have-withdrawn-it-from-the-Hegota-upgrade-after-industry-and-developer-pushback",
+    "source": "@coinmarketcap",
+    "published": "Thu Oct 01 2026 22:55:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tesla’s car business keeps shrinking as Wall Street expects another year-over-year sales drop",
+    "link": "https://cryptopanic.com/news/33483794/Teslas-car-business-keeps-shrinking-as-Wall-Street-expects-another-year-over-year-sales-drop",
+    "source": "cryptopolitan.com",
+    "published": "Thu Oct 01 2026 22:53:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Litecoin's traction is starting to show...\n\nCanary's spot @Litecoin ETF is ON FIRE.\n\nThe product has seen net inflows on 6 out of the last 8 trading days and saw total net inflows of nearly $6M in September.\n\nThe ETF holds only 0.27% of LTC's current supply - but that figure is",
     "link": "https://cryptopanic.com/news/33483787/Litecoins-traction-is-starting-to-show-Canarys-spot-Litecoin-ETF-is-ON-FIRE-The-product-has-seen-net-inflows-on-6-out-of-the-last-8-trading-days-and-saw-total-net-inflows-of-nearly-6M-in-September-The-ETF-holds-only-027-of-LTCs-current-supply-but-that-figure-is",
     "source": "@bscnews",
@@ -102,111 +207,6 @@
     "link": "https://cryptopanic.com/news/33483785/Spanish-housing-decree-imperilled-by-opposition-of-Junts-party",
     "source": "@reutersbiz",
     "published": "Thu Oct 01 2026 22:00:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ UPDATE: Ethereum and $XRP social sentiment hits its lowest since June 7 and August 17, respectively, as bearish comments dominate, Santiment reports.",
-    "link": "https://cryptopanic.com/news/33483649/UPDATE-Ethereum-and-XRP-social-sentiment-hits-its-lowest-since-June-7-and-August-17-respectively-as-bearish-comments-dominate-Santiment-reports",
-    "source": "@cointelegraph",
-    "published": "Thu Oct 01 2026 21:59:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "China and Russia Just Tightened Fuel Supplies: Will Bitcoin Pay in October?",
-    "link": "https://cryptopanic.com/news/33483754/China-and-Russia-Just-Tightened-Fuel-Supplies-Will-Bitcoin-Pay-in-October",
-    "source": "beincrypto.com",
-    "published": "Thu Oct 01 2026 21:54:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Going LIVE now with episode #1000!!! Come join the Moongang and ask me anything, celebrate 1000 episodes strong & grab a drink with me as we watch the market on this casual Thursday!\n\nEpisode 1000! Thanks For Watching Stream! + $84,500 BTC & $2,700 ETH - Ep.#1000",
-    "link": "https://cryptopanic.com/news/33483710/Going-LIVE-now-with-episode-1000-Come-join-the-Moongang-and-ask-me-anything-celebrate-1000-episodes-strong-amp-grab-a-drink-with-me-as-we-watch-the-market-on-this-casual-Thursday-Episode-1000-Thanks-For-Watching-Stream-84500-BTC-amp-2700-ETH-Ep1000",
-    "source": "@cultivatecrypto",
-    "published": "Thu Oct 01 2026 21:52:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "A central securities depository will mirror ownership records on a public blockchain for the first time. Brazil's CSD BR picked the XRP Ledger, working with @Ripple. Details: ⬇️",
-    "link": "https://cryptopanic.com/news/33483706/A-central-securities-depository-will-mirror-ownership-records-on-a-public-blockchain-for-the-first-time-Brazils-CSD-BR-picked-the-XRP-Ledger-working-with-Ripple-Details",
-    "source": "@bscnews",
-    "published": "Thu Oct 01 2026 21:50:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "WATCH: @DariusDale42 of @42Macro - Why Bitcoin deserves an allocation in your portfolio ️\n\nFrom @watchbmtv",
-    "link": "https://cryptopanic.com/news/33483709/WATCH-DariusDale42-of-42Macro-Why-Bitcoin-deserves-an-allocation-in-your-portfolio-From-watchbmtv",
-    "source": "@bitcoinmagazine",
-    "published": "Thu Oct 01 2026 21:49:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "New Jersey Customer Spots $1.70 Charge Just to Remove Egg From a Sandwich",
-    "link": "https://cryptopanic.com/news/33483644/New-Jersey-Customer-Spots-170-Charge-Just-to-Remove-Egg-From-a-Sandwich",
-    "source": "dailyhodl.com",
-    "published": "Thu Oct 01 2026 21:44:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: ️ World Liberty Financial launched WLFI staking, with an initial $1.25M USD1 rewards pool.",
-    "link": "https://cryptopanic.com/news/33483636/LATEST-World-Liberty-Financial-launched-WLFI-staking-with-an-initial-125M-USD1-rewards-pool",
-    "source": "@coinmarketcap",
-    "published": "Thu Oct 01 2026 21:43:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ NAZAROV: \"The amount of tokenized equity that comes into existence and the wide adoption of it will massively skyrocket.\"",
-    "link": "https://cryptopanic.com/news/33483648/NAZAROV-The-amount-of-tokenized-equity-that-comes-into-existence-and-the-wide-adoption-of-it-will-massively-skyrocket",
-    "source": "@cointelegraph",
-    "published": "Thu Oct 01 2026 21:40:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tokenized Treasuries and credit funds land on Arc\n\n@centrifuge is now live on @arc. It brings funds managed by Janus Henderson (JTRSY, JAAA) and New York Life Investment Management (HYB), covering US Treasuries, top-rated corporate loan pools, and high-yield credit.\n\nThe tokens",
-    "link": "https://cryptopanic.com/news/33483705/Tokenized-Treasuries-and-credit-funds-land-on-Arc-centrifuge-is-now-live-on-arc-It-brings-funds-managed-by-Janus-Henderson-JTRSY-JAAA-and-New-York-Life-Investment-Management-HYB-covering-US-Treasuries-top-rated-corporate-loan-pools-and-high-yield-credit-The-tokens",
-    "source": "@bscnews",
-    "published": "Thu Oct 01 2026 21:39:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Interesting news",
-    "link": "https://cryptopanic.com/news/33483650/Interesting-news",
-    "source": "@realallincrypto",
-    "published": "Thu Oct 01 2026 21:33:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Zcash Drops 21% From Recent High—Here’s Why the Rally May Not Be Over",
-    "link": "https://cryptopanic.com/news/33483612/Zcash-Drops-21-From-Recent-HighHeres-Why-the-Rally-May-Not-Be-Over",
-    "source": "decrypt.co",
-    "published": "Thu Oct 01 2026 21:31:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LayerZero Price Surges Back Toward $2 – Can the Comeback Last?",
-    "link": "https://cryptopanic.com/news/33483589/LayerZero-Price-Surges-Back-Toward-2-Can-the-Comeback-Last",
-    "source": "coindoo.com",
-    "published": "Thu Oct 01 2026 21:29:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SEC proposes a clear path for funds to hold crypto\n\n@SECGov proposed rules today that would set out how registered investment advisers and regulated funds can safeguard client crypto. Chairman Paul Atkins (@SECPaulSAtkins) said the current custody rules were built for traditional",
-    "link": "https://cryptopanic.com/news/33483603/SEC-proposes-a-clear-path-for-funds-to-hold-crypto-SECGov-proposed-rules-today-that-would-set-out-how-registered-investment-advisers-and-regulated-funds-can-safeguard-client-crypto-Chairman-Paul-Atkins-SECPaulSAtkins-said-the-current-custody-rules-were-built-for-traditional",
-    "source": "@bscnews",
-    "published": "Thu Oct 01 2026 21:29:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: The Bitcoin Fear & Greed Index is now up to 74, \"Greed\"  \n\nBullish",
-    "link": "https://cryptopanic.com/news/33483605/JUST-IN-The-Bitcoin-Fear-amp-Greed-Index-is-now-up-to-74-Greed-Bullish",
-    "source": "@bitcoinmagazine",
-    "published": "Thu Oct 01 2026 21:28:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hyperliquid Committee Submits MiCA Feedback to EU",
-    "link": "https://cryptopanic.com/news/33483588/Hyperliquid-Committee-Submits-MiCA-Feedback-to-EU",
-    "source": "btcusa.com",
-    "published": "Thu Oct 01 2026 21:25:07 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
