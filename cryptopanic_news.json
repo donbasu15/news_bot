@@ -1,5 +1,40 @@
 [
   {
+    "title": "LATEST:  Altcoin exchange deposits surged ~160% in two weeks to 78,000 weekly transactions, the most since October 2025, with CryptoQuant warning holders may be preparing to sell.",
+    "link": "https://cryptopanic.com/news/33479323/LATEST-Altcoin-exchange-deposits-surged-160-in-two-weeks-to-78000-weekly-transactions-the-most-since-October-2025-with-CryptoQuant-warning-holders-may-be-preparing-to-sell",
+    "source": "@coinmarketcap",
+    "published": "Thu Oct 01 2026 06:41:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 NEW: OpenAI CEO Sam Altman declines to testify at a Senate hearing on rogue AI agents and homeland security, with the company opting to submit written answers instead, per NBC.",
+    "link": "https://cryptopanic.com/news/33479327/NEW-OpenAI-CEO-Sam-Altman-declines-to-testify-at-a-Senate-hearing-on-rogue-AI-agents-and-homeland-security-with-the-company-opting-to-submit-written-answers-instead-per-NBC",
+    "source": "@cointelegraph",
+    "published": "Thu Oct 01 2026 06:30:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "US court blocks victims from 127,000 seized Bitcoin, and petition rules are blamed",
+    "link": "https://cryptopanic.com/news/33479262/US-court-blocks-victims-from-127000-seized-Bitcoin-and-petition-rules-are-blamed",
+    "source": "cryptoslate.com",
+    "published": "Thu Oct 01 2026 06:30:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "EU Regulators Scrutinize Binance’s MiCA Exemption Use",
+    "link": "https://cryptopanic.com/news/33479195/EU-Regulators-Scrutinize-Binances-MiCA-Exemption-Use",
+    "source": "btcusa.com",
+    "published": "Thu Oct 01 2026 06:30:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Zcash Community Approves $8.4 Million in Retroactive Grants After Orchard Bug\n\nZcash co-founder Zooko Wilcox said the latest community vote approved more than $8 million in retroactive grants, including several million dollars for developers and security researchers involved in",
+    "link": "https://cryptopanic.com/news/33479326/Zcash-Community-Approves-84-Million-in-Retroactive-Grants-After-Orchard-Bug-Zcash-co-founder-Zooko-Wilcox-said-the-latest-community-vote-approved-more-than-8-million-in-retroactive-grants-including-several-million-dollars-for-developers-and-security-researchers-involved-in",
+    "source": "@wublockchain",
+    "published": "Thu Oct 01 2026 06:24:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Onchain trading has come a long way, but the stack still isn't finished.\n\nAt CONNECT Singapore, builders get into the gaps that remain in onchain trading in 2026, from liquidity and execution to data and infrastructure.\n\n@AliceCrypto3, Head of Research, @CoinMarketCap",
     "link": "https://cryptopanic.com/news/33479167/Onchain-trading-has-come-a-long-way-but-the-stack-still-isnt-finished-At-CONNECT-Singapore-builders-get-into-the-gaps-that-remain-in-onchain-trading-in-2026-from-liquidity-and-execution-to-data-and-infrastructure-AliceCrypto3-Head-of-Research-CoinMarketCap",
     "source": "@cointelegraph",
@@ -11,6 +46,13 @@
     "link": "https://cryptopanic.com/news/33479168/How-does-UsePaid-UsePaid-turn-creator-fees-into-dollar-payouts-The-protocol-routes-onchain-creator-fees-through-its-treasury-pays-80-to-X-accounts-and-uses-20-to-buy-and-burn-PAID-Find-out-more",
     "source": "@bscnews",
     "published": "Thu Oct 01 2026 06:12:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tim Scott, Key Republicans Back New Bill Aimed to Create 'Clearer' Crypto Tax Rules: Democrats Reportedly Yet to Sign on",
+    "link": "https://cryptopanic.com/news/33479191/Tim-Scott-Key-Republicans-Back-New-Bill-Aimed-to-Create-Clearer-Crypto-Tax-Rules-Democrats-Reportedly-Yet-to-Sign-on",
+    "source": "feeds2.benzinga.com",
+    "published": "Thu Oct 01 2026 06:11:12 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -39,6 +81,13 @@
     "link": "https://cryptopanic.com/news/33479080/LATEST-Grayscale-says-its-Zcash-ETF-has-completed-its-3-for-1-forward-share-split-turning-each-pre-split-share-into-three-at-about-one-third-of-the-prior-NAV-per-share",
     "source": "@coinmarketcap",
     "published": "Thu Oct 01 2026 05:54:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "OFAC Sanctions 7 Crypto Wallets Tied to FBI Most Wanted Fugitive and Venezuelan Gang",
+    "link": "https://cryptopanic.com/news/33479318/OFAC-Sanctions-7-Crypto-Wallets-Tied-to-FBI-Most-Wanted-Fugitive-and-Venezuelan-Gang",
+    "source": "beincrypto.com",
+    "published": "Thu Oct 01 2026 05:53:25 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -158,55 +207,6 @@
     "link": "https://cryptopanic.com/news/33478933/Dogecoin-gets-DeFi-testnet-as-DogeOS-bets-miners-will-eventually-secure-its-apps",
     "source": "coindesk.com",
     "published": "Thu Oct 01 2026 04:58:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇪🇺 European Union regulators say they need more powers to police crypto.",
-    "link": "https://cryptopanic.com/news/33478928/JUST-IN-European-Union-regulators-say-they-need-more-powers-to-police-crypto",
-    "source": "@watcherguru",
-    "published": "Thu Oct 01 2026 04:57:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Zcash Becomes New Destination For Bitget Hacker\n\nThe Bitget hacker has moved about 2,700 ZEC, worth roughly $3.8 million, into Zcash's Ironwood shielded pool.\n\nZachXBT reported the transfers as investigators track the stolen funds. The pool encrypts transaction details, making",
-    "link": "https://cryptopanic.com/news/33478866/Zcash-Becomes-New-Destination-For-Bitget-Hacker-The-Bitget-hacker-has-moved-about-2700-ZEC-worth-roughly-38-million-into-Zcashs-Ironwood-shielded-pool-ZachXBT-reported-the-transfers-as-investigators-track-the-stolen-funds-The-pool-encrypts-transaction-details-making",
-    "source": "@bscnews",
-    "published": "Thu Oct 01 2026 04:54:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "DEX in the City: The Hosts Sign Off With Their Best Advice for Women in Crypto",
-    "link": "https://cryptopanic.com/news/33478853/DEX-in-the-City-The-Hosts-Sign-Off-With-Their-Best-Advice-for-Women-in-Crypto",
-    "source": "Unchained",
-    "published": "Thu Oct 01 2026 04:48:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Citi expands Token Services to Japan and the UAE, taking its 24/7 cross-border liquidity platform to 7 markets worldwide.\n\nOne of the world’s biggest banks is building infrastructure where money moves globally, instantly and around the clock. \n\nFunnily enough they have been",
-    "link": "https://cryptopanic.com/news/33478863/Citi-expands-Token-Services-to-Japan-and-the-UAE-taking-its-247-cross-border-liquidity-platform-to-7-markets-worldwide-One-of-the-worlds-biggest-banks-is-building-infrastructure-where-money-moves-globally-instantly-and-around-the-clock-Funnily-enough-they-have-been",
-    "source": "@realallincrypto",
-    "published": "Thu Oct 01 2026 04:45:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇰🇷 TODAY: Morpho CEO Paul Frambot says institutions need control over risk, rates and compliance before moving onchain, at Korea Blockchain Week 2026.\n\n\"There's no fundamental blocker... it's just about making it happen.\"",
-    "link": "https://cryptopanic.com/news/33478846/TODAY-Morpho-CEO-Paul-Frambot-says-institutions-need-control-over-risk-rates-and-compliance-before-moving-onchain-at-Korea-Blockchain-Week-2026-Theres-no-fundamental-blocker-its-just-about-making-it-happen",
-    "source": "@cointelegraph",
-    "published": "Thu Oct 01 2026 04:45:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇪🇺 JUST IN: EU regulators are questioning Binance over its use of a legal exemption to keep serving EU customers despite an order to wind down after failing to secure a license, per FT.",
-    "link": "https://cryptopanic.com/news/33478845/JUST-IN-EU-regulators-are-questioning-Binance-over-its-use-of-a-legal-exemption-to-keep-serving-EU-customers-despite-an-order-to-wind-down-after-failing-to-secure-a-license-per-FT",
-    "source": "@cointelegraph",
-    "published": "Thu Oct 01 2026 04:41:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "J.P. Morgan Explains Why Fed Will Stop Hiking Before 2027 After One More December Hike",
-    "link": "https://cryptopanic.com/news/33478940/JP-Morgan-Explains-Why-Fed-Will-Stop-Hiking-Before-2027-After-One-More-December-Hike",
-    "source": "beincrypto.com",
-    "published": "Thu Oct 01 2026 04:40:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
