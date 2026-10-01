@@ -1,5 +1,26 @@
 [
   {
+    "title": "UPDATE: Base activates its Cobalt upgrade, adding conditional transactions and new issuer controls, including compliance checks, stock splits and forced token transfers, for tokenized assets.",
+    "link": "https://cryptopanic.com/news/33478321/UPDATE-Base-activates-its-Cobalt-upgrade-adding-conditional-transactions-and-new-issuer-controls-including-compliance-checks-stock-splits-and-forced-token-transfers-for-tokenized-assets",
+    "source": "@cointelegraph",
+    "published": "Thu Oct 01 2026 02:30:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Arthur Hayes: Hyperliquid Is the Best DEX, but Not Necessarily the Most Profitable Investment\n\nFlop Labs CEO Arthur Hayes @CryptoHayes said in a September 12 interview with VirtualBacon @virtualbacon  that Hyperliquid is the best-run decentralized exchange today, and he",
+    "link": "https://cryptopanic.com/news/33478290/Arthur-Hayes-Hyperliquid-Is-the-Best-DEX-but-Not-Necessarily-the-Most-Profitable-Investment-Flop-Labs-CEO-Arthur-Hayes-CryptoHayes-said-in-a-September-12-interview-with-VirtualBacon-virtualbacon-that-Hyperliquid-is-the-best-run-decentralized-exchange-today-and-he",
+    "source": "@wublockchain",
+    "published": "Thu Oct 01 2026 02:23:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ICYMI: 🇺🇸 Illinois published draft rules for its 0.2% crypto tax, classifying stablecoins as taxable but NFTs as exempt, with most DeFi transactions also exempt unless protocol fees are charged.",
+    "link": "https://cryptopanic.com/news/33478289/ICYMI-Illinois-published-draft-rules-for-its-02-crypto-tax-classifying-stablecoins-as-taxable-but-NFTs-as-exempt-with-most-DeFi-transactions-also-exempt-unless-protocol-fees-are-charged",
+    "source": "@coinmarketcap",
+    "published": "Thu Oct 01 2026 02:17:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Whale 0xe271 bought 39,018 $AAVE ($6.3M) from #Kraken 4 hours ago.",
     "link": "https://cryptopanic.com/news/33478252/Whale-0xe271-bought-39018-AAVE-63M-from-Kraken-4-hours-ago",
     "source": "@lookonchain",
@@ -25,6 +46,13 @@
     "link": "https://cryptopanic.com/news/33478229/Bloomberg-Launches-Stablecoin-Dashboard-on-the-Terminal",
     "source": "btcusa.com",
     "published": "Thu Oct 01 2026 02:05:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇨🇭 NOW: The Swiss National Bank says stablecoins could weaken how monetary policy works and calls for rules that protect central banks’ influence.",
+    "link": "https://cryptopanic.com/news/33478320/NOW-The-Swiss-National-Bank-says-stablecoins-could-weaken-how-monetary-policy-works-and-calls-for-rules-that-protect-central-banks-influence",
+    "source": "@cointelegraph",
+    "published": "Thu Oct 01 2026 02:00:55 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33478110/LATEST-Big-Short-investor-Michael-Burry-says-markets-should-tank-hard-to-prevent-the-OpenAI-and-Anthropic-IPOs-arguing-a-crash-would-be-for-the-benefit-of-humanity",
     "source": "@coinmarketcap",
     "published": "Thu Oct 01 2026 00:52:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: Michael Saylor's Strategy keeps preferred shares dividend at 12%.\n\n$STRC last traded at $100 on May 14.",
-    "link": "https://cryptopanic.com/news/33478074/BREAKING-Michael-Saylors-Strategy-keeps-preferred-shares-dividend-at-12-STRC-last-traded-at-100-on-May-14",
-    "source": "@btc_archive",
-    "published": "Thu Oct 01 2026 00:49:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BTC Rate Reaction, Altcoin Phases, RH Chain, SI Coin, and LIT Dumps Hard",
-    "link": "https://cryptopanic.com/news/33474359/BTC-Rate-Reaction-Altcoin-Phases-RH-Chain-SI-Coin-and-LIT-Dumps-Hard",
-    "source": "TheCryptoLark",
-    "published": "Thu Oct 01 2026 00:48:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SEC charges Meyer Global with SpaceX pre-IPO fraud as private-market bets move on-chain",
-    "link": "https://cryptopanic.com/news/33478066/SEC-charges-Meyer-Global-with-SpaceX-pre-IPO-fraud-as-private-market-bets-move-on-chain",
-    "source": "cryptopolitan.com",
-    "published": "Thu Oct 01 2026 00:43:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Coinbase: Hedera pulls back despite BlackRock tokenized assets surpassing $40B. Huh? 🤨",
-    "link": "https://cryptopanic.com/news/33478259/Coinbase-Hedera-pulls-back-despite-BlackRock-tokenized-assets-surpassing-40B-Huh",
-    "source": "r/hedera",
-    "published": "Thu Oct 01 2026 00:43:29 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
