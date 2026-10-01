@@ -1,5 +1,110 @@
 [
   {
+    "title": "California Men Accused of Submitting Over $3,500,000 in Fake Medicare Durable Medical Equipment Claims",
+    "link": "https://cryptopanic.com/news/33480499/California-Men-Accused-of-Submitting-Over-3500000-in-Fake-Medicare-Durable-Medical-Equipment-Claims",
+    "source": "dailyhodl.com",
+    "published": "Thu Oct 01 2026 10:15:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin ETF Demand Roars Back With $6.34 Billion in Q3 Inflows",
+    "link": "https://cryptopanic.com/news/33480400/Bitcoin-ETF-Demand-Roars-Back-With-634-Billion-in-Q3-Inflows",
+    "source": "coinpaper.com",
+    "published": "Thu Oct 01 2026 10:10:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BTC Coiling, Rate Hike Odds Drop, Altcoin Updates & Bitwise's Andre Dragosch  Interview",
+    "link": "https://cryptopanic.com/news/33480458/BTC-Coiling-Rate-Hike-Odds-Drop-Altcoin-Updates-Bitwises-Andre-Dragosch-Interview",
+    "source": "TheCryptoLark",
+    "published": "Thu Oct 01 2026 10:06:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Binance Faces Fresh EU Scrutiny Over Services to European Customers",
+    "link": "https://cryptopanic.com/news/33480391/Binance-Faces-Fresh-EU-Scrutiny-Over-Services-to-European-Customers",
+    "source": "dailycoin.com",
+    "published": "Thu Oct 01 2026 10:05:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INSIGHT: Binance Research sees tokenized equities growing from $4.43B today to $349B by 2030, per Richard Teng.",
+    "link": "https://cryptopanic.com/news/33480442/INSIGHT-Binance-Research-sees-tokenized-equities-growing-from-443B-today-to-349B-by-2030-per-Richard-Teng",
+    "source": "@cointelegraph",
+    "published": "Thu Oct 01 2026 10:01:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ripple quietly made Brazil the center of its XRPL tokenization push",
+    "link": "https://cryptopanic.com/news/33480382/Ripple-quietly-made-Brazil-the-center-of-its-XRPL-tokenization-push",
+    "source": "cryptoslate.com",
+    "published": "Thu Oct 01 2026 10:00:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Asia's Next-Generation Wealthy Want AI for Payments, Humans for Planning and Crypto From Their Private Bank",
+    "link": "https://cryptopanic.com/news/33480327/Asias-Next-Generation-Wealthy-Want-AI-for-Payments-Humans-for-Planning-and-Crypto-From-Their-Private-Bank",
+    "source": "www.blockhead.co",
+    "published": "Thu Oct 01 2026 10:00:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Lighter [LIT] bounces back from $3.6 – But is this a real reversal?",
+    "link": "https://cryptopanic.com/news/33480378/Lighter-LIT-bounces-back-from-36-But-is-this-a-real-reversal",
+    "source": "ambcrypto.com",
+    "published": "Thu Oct 01 2026 10:00:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "oct 1- dec 31. we're locked in.",
+    "link": "https://cryptopanic.com/news/33480326/oct-1-dec-31-were-locked-in",
+    "source": "@coinmarketcap",
+    "published": "Thu Oct 01 2026 10:00:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Complete breakdown ⤵️",
+    "link": "https://cryptopanic.com/news/33480437/Complete-breakdown",
+    "source": "@cryptoquant_com",
+    "published": "Thu Oct 01 2026 09:57:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Binance Open Interest Falls 15.3% From Its Six-Month High\n\n“For now, the clearest reading is that XRP shed leverage while price held most of its gains.” – By @CryptoOnchain",
+    "link": "https://cryptopanic.com/news/33480436/XRP-Binance-Open-Interest-Falls-153-From-Its-Six-Month-High-For-now-the-clearest-reading-is-that-XRP-shed-leverage-while-price-held-most-of-its-gains-By-CryptoOnchain",
+    "source": "@cryptoquant_com",
+    "published": "Thu Oct 01 2026 09:57:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Swiss National Bank Warns: Stablecoins Could Undermine Banks and Monetary Policy",
+    "link": "https://cryptopanic.com/news/33480347/Swiss-National-Bank-Warns-Stablecoins-Could-Undermine-Banks-and-Monetary-Policy",
+    "source": "spaziocrypto.com",
+    "published": "Thu Oct 01 2026 09:55:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Glassnode says Bitcoin's rally remains early and speculative, with volume averaging about $6.4B a day, near the bottom of its range since US spot ETFs launched.",
+    "link": "https://cryptopanic.com/news/33480324/LATEST-Glassnode-says-Bitcoins-rally-remains-early-and-speculative-with-volume-averaging-about-64B-a-day-near-the-bottom-of-its-range-since-US-spot-ETFs-launched",
+    "source": "@coinmarketcap",
+    "published": "Thu Oct 01 2026 09:53:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: @Chainlink is selected as the official price oracle for @openstandard's $OUSD, providing pricing infrastructure for lending, DEX and derivatives applications.",
+    "link": "https://cryptopanic.com/news/33480441/LATEST-Chainlink-is-selected-as-the-official-price-oracle-for-openstandards-OUSD-providing-pricing-infrastructure-for-lending-DEX-and-derivatives-applications",
+    "source": "@coindesk",
+    "published": "Thu Oct 01 2026 09:52:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Robinhood Unveils In-App AI Agents That Can Trade on Customers' Behalf",
+    "link": "https://cryptopanic.com/news/33480399/Robinhood-Unveils-In-App-AI-Agents-That-Can-Trade-on-Customers-Behalf",
+    "source": "beincrypto.com",
+    "published": "Thu Oct 01 2026 09:45:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Jack Dorsey Says 'Turn It on' as Block's Cash App Introduces 'Bitcoin Bonus' Feature — What You Should Know",
     "link": "https://cryptopanic.com/news/33480325/Jack-Dorsey-Says-Turn-It-on-as-Blocks-Cash-App-Introduces-Bitcoin-Bonus-Feature-What-You-Should-Know",
     "source": "feeds2.benzinga.com",
@@ -56,6 +161,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Bitcoin Beats September's Curse: Is There Enough Demand for October?",
+    "link": "https://cryptopanic.com/news/33480398/Bitcoin-Beats-Septembers-Curse-Is-There-Enough-Demand-for-October",
+    "source": "beincrypto.com",
+    "published": "Thu Oct 01 2026 09:24:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Solana's Harold Leads a Fresh Memecoin Rally\n\nHarold memecoin solana:3vgopg7xm3EWkXfxmWPUpcf7g939hecfqg18sLuXDzVt HAS posted a 73% weekly gain as the Solana memecoin attracts renewed market attention.\n\nThe token’s price has risen another 8% over the past 24 hours, according to",
     "link": "https://cryptopanic.com/news/33480302/Solanas-Harold-Leads-a-Fresh-Memecoin-Rally-Harold-memecoin-solana3vgopg7xm3EWkXfxmWPUpcf7g939hecfqg18sLuXDzVt-HAS-posted-a-73-weekly-gain-as-the-Solana-memecoin-attracts-renewed-market-attention-The-tokens-price-has-risen-another-8-over-the-past-24-hours-according-to",
     "source": "@bscnews",
@@ -95,118 +207,6 @@
     "link": "https://cryptopanic.com/news/33480127/Stock-Market-Today-Nasdaq-100-Futures-Gain-Dow-Jones-Drops-as-Iran-Receives-US-Proposal-To-Restore-Ceasefire-CEG-VICR-MU-in-Focus",
     "source": "feeds2.benzinga.com",
     "published": "Thu Oct 01 2026 09:13:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEAR Crosses $52.8 Million ETF Threshold After Just Day 2, Bitwise CIO Hails 'Strong Launch'",
-    "link": "https://cryptopanic.com/news/33480116/NEAR-Crosses-528-Million-ETF-Threshold-After-Just-Day-2-Bitwise-CIO-Hails-Strong-Launch",
-    "source": "u.today",
-    "published": "Thu Oct 01 2026 09:11:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tim Scott Blames Democrats For Clarity Act Vote Failure\n\nSen. Tim Scott says Democrats blocked the CLARITY Act after the Senate failed to advance it.\n\nThe Senate voted 49-50 on September 15, leaving the market structure legislation short of 60 votes.\n\nScott argues the bill could",
-    "link": "https://cryptopanic.com/news/33480301/Tim-Scott-Blames-Democrats-For-Clarity-Act-Vote-Failure-Sen-Tim-Scott-says-Democrats-blocked-the-CLARITY-Act-after-the-Senate-failed-to-advance-it-The-Senate-voted-49-50-on-September-15-leaving-the-market-structure-legislation-short-of-60-votes-Scott-argues-the-bill-could",
-    "source": "@bscnews",
-    "published": "Thu Oct 01 2026 09:07:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SNB sees stablecoins as a burden on monetary policy",
-    "link": "https://cryptopanic.com/news/33480047/SNB-sees-stablecoins-as-a-burden-on-monetary-policy",
-    "source": "cryptovalleyjournal.com",
-    "published": "Thu Oct 01 2026 09:05:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "We're proud to share that Archax has been named one of the u/FinancialTimes' UK's Fastest-Growing Companies!",
-    "link": "https://cryptopanic.com/news/33480315/Were-proud-to-share-that-Archax-has-been-named-one-of-the-uFinancialTimes-UKs-Fastest-Growing-Companies",
-    "source": "r/hedera",
-    "published": "Thu Oct 01 2026 09:04:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BINANCE POINTS ARE LIVE\n\nYou’re already trading — now you can get rewarded for it. \n\n1️⃣ TRADE & EARN\n\n Spot, Futures, Convert, P2P & more activities can earn Points.\n\n2️⃣ 5-DAY BONUS\n\n Complete qualifying daily tasks on 5+ days in a week to unlock extra points.\n\n3️⃣ REDEEM",
-    "link": "https://cryptopanic.com/news/33480102/BINANCE-POINTS-ARE-LIVE-Youre-already-trading-now-you-can-get-rewarded-for-it-1-TRADE-amp-EARN-Spot-Futures-Convert-P2P-amp-more-activities-can-earn-Points-2-5-DAY-BONUS-Complete-qualifying-daily-tasks-on-5-days-in-a-week-to-unlock-extra-points-3-REDEEM",
-    "source": "@cryptokingkeyur",
-    "published": "Thu Oct 01 2026 09:03:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: $1.28T Lloyds Banking group and Visa complete a $750K USDC settlement trial with, using Canton.",
-    "link": "https://cryptopanic.com/news/33480215/UPDATE-128T-Lloyds-Banking-group-and-Visa-complete-a-750K-USDC-settlement-trial-with-using-Canton",
-    "source": "@cointelegraph",
-    "published": "Thu Oct 01 2026 09:01:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "\"The Biggest Crypto Bull Market In History\" MASSIVE XRP Whale Purchases Bitcoin World Reserve",
-    "link": "https://cryptopanic.com/news/33480057/The-Biggest-Crypto-Bull-Market-In-History-MASSIVE-XRP-Whale-Purchases-Bitcoin-World-Reserve",
-    "source": "TheModernInvestor",
-    "published": "Thu Oct 01 2026 09:00:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Flare Brings Private Institutional Data Onchain Without Exposing It",
-    "link": "https://cryptopanic.com/news/33479996/Flare-Brings-Private-Institutional-Data-Onchain-Without-Exposing-It",
-    "source": "btcusa.com",
-    "published": "Thu Oct 01 2026 09:00:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING NEWS: The UK FCA has officially opened its new crypto licensing gateway. \n\nFirms offering stablecoins, crypto trading, custody and staking can now apply, with applications due by 28th of February 2027 ahead of the full regime going live in October 2027. \n\nCrypto is",
-    "link": "https://cryptopanic.com/news/33479999/BREAKING-NEWS-The-UK-FCA-has-officially-opened-its-new-crypto-licensing-gateway-Firms-offering-stablecoins-crypto-trading-custody-and-staking-can-now-apply-with-applications-due-by-28th-of-February-2027-ahead-of-the-full-regime-going-live-in-October-2027-Crypto-is",
-    "source": "@realallincrypto",
-    "published": "Thu Oct 01 2026 09:00:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Congrats. You made it through September.",
-    "link": "https://cryptopanic.com/news/33480212/Congrats-You-made-it-through-September",
-    "source": "@coinmarketcap",
-    "published": "Thu Oct 01 2026 09:00:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Korea is Moving its Stocks Onchain, Here’s What it Means",
-    "link": "https://cryptopanic.com/news/33480058/Korea-is-Moving-its-Stocks-Onchain-Heres-What-it-Means",
-    "source": "zycrypto.com",
-    "published": "Thu Oct 01 2026 09:00:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Michael Saylor Says Strategy Has No Fixed Target for Its Bitcoin Holdings\n\nOn September 28, 2026, Strategy Executive Chairman Michael Saylor @saylor said in a Binance @binance interview that Strategy has no fixed target for its Bitcoin holdings and will continue buying as it",
-    "link": "https://cryptopanic.com/news/33480214/Michael-Saylor-Says-Strategy-Has-No-Fixed-Target-for-Its-Bitcoin-Holdings-On-September-28-2026-Strategy-Executive-Chairman-Michael-Saylor-saylor-said-in-a-Binance-binance-interview-that-Strategy-has-no-fixed-target-for-its-Bitcoin-holdings-and-will-continue-buying-as-it",
-    "source": "@wublockchain",
-    "published": "Thu Oct 01 2026 09:00:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Chainlink Fulcrum Sets Out to Unlock Idle Institutional Collateral",
-    "link": "https://cryptopanic.com/news/33480024/Chainlink-Fulcrum-Sets-Out-to-Unlock-Idle-Institutional-Collateral",
-    "source": "coinpaprika.com",
-    "published": "Thu Oct 01 2026 09:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trading expert reveals what XRP needs to do to rocket to $1.70",
-    "link": "https://cryptopanic.com/news/33480008/Trading-expert-reveals-what-XRP-needs-to-do-to-rocket-to-170",
-    "source": "finbold.com",
-    "published": "Thu Oct 01 2026 08:57:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "EU Presses Binance Over ‘Reverse Solicitation’ Exemption for Users: Report",
-    "link": "https://cryptopanic.com/news/33480005/EU-Presses-Binance-Over-Reverse-Solicitation-Exemption-for-Users-Report",
-    "source": "decrypt.co",
-    "published": "Thu Oct 01 2026 08:56:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump's Meme Coin Dinner Is Back. Here's What Happened to Holders Last Time",
-    "link": "https://cryptopanic.com/news/33480126/Trumps-Meme-Coin-Dinner-Is-Back-Heres-What-Happened-to-Holders-Last-Time",
-    "source": "beincrypto.com",
-    "published": "Thu Oct 01 2026 08:53:26 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
