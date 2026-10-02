@@ -1,9 +1,107 @@
 [
   {
+    "title": "WATCH: Stock traders are debating when the bond selloff will finally hurt a resilient US stock market, as small caps, banks and utilities are already feeling the pressure. Mikhail Zverev from Amati Global Investors says rising yields could spell trouble for the AI trade",
+    "link": "https://cryptopanic.com/news/33487179/WATCH-Stock-traders-are-debating-when-the-bond-selloff-will-finally-hurt-a-resilient-US-stock-market-as-small-caps-banks-and-utilities-are-already-feeling-the-pressure-Mikhail-Zverev-from-Amati-Global-Investors-says-rising-yields-could-spell-trouble-for-the-AI-trade",
+    "source": "@reutersbiz",
+    "published": "Fri Oct 02 2026 13:15:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ripple locks $1 billion worth of XRP into escrow",
+    "link": "https://cryptopanic.com/news/33487120/Ripple-locks-1-billion-worth-of-XRP-into-escrow",
+    "source": "finbold.com",
+    "published": "Fri Oct 02 2026 13:07:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "PancakeSwap Infinity cannot be stopped! \n\n@PancakeSwap Infinity surpasses $150B in cumulative trading volume, capturing $50B in under seven months. \n\nThe sustained acceleration reflects high-velocity turnover across its concentrated liquidity pools, positioning the protocol as",
+    "link": "https://cryptopanic.com/news/33487185/PancakeSwap-Infinity-cannot-be-stopped-PancakeSwap-Infinity-surpasses-150B-in-cumulative-trading-volume-capturing-50B-in-under-seven-months-The-sustained-acceleration-reflects-high-velocity-turnover-across-its-concentrated-liquidity-pools-positioning-the-protocol-as",
+    "source": "@bscnews",
+    "published": "Fri Oct 02 2026 13:06:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trader 0xd9A2 opened a 20x long on 2,900 $ETH($7.97M) on @Aster_DEX and is now sitting on over $1M in unrealized profit, with a 251.68% return.",
+    "link": "https://cryptopanic.com/news/33487190/Trader-0xd9A2-opened-a-20x-long-on-2900-ETH797M-on-Aster_DEX-and-is-now-sitting-on-over-1M-in-unrealized-profit-with-a-25168-return",
+    "source": "@lookonchain",
+    "published": "Fri Oct 02 2026 13:04:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Last week, we reviewed 6,553 sources.\n\nOnly 4.1% became CoinMarketCal events.\n\nCheck all events",
+    "link": "https://cryptopanic.com/news/33487180/Last-week-we-reviewed-6553-sources-Only-41-became-CoinMarketCal-events-Check-all-events",
+    "source": "@coinmarketcal",
+    "published": "Fri Oct 02 2026 13:00:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Build with CMC (Case Study): How to Build a Jupiter DEX Aggregator Bot\n\nLearn how to build a Solana trading bot that uses CoinMarketCap’s DEX API for discovery and signals, and Jupiter for optimal trade routing and execution.\n\nLearn More\n\n\n#BuildwithCMC",
+    "link": "https://cryptopanic.com/news/33487051/Build-with-CMC-Case-Study-How-to-Build-a-Jupiter-DEX-Aggregator-Bot-Learn-how-to-build-a-Solana-trading-bot-that-uses-CoinMarketCaps-DEX-API-for-discovery-and-signals-and-Jupiter-for-optimal-trade-routing-and-execution-Learn-More-BuildwithCMC",
+    "source": "@coinmarketcap",
+    "published": "Fri Oct 02 2026 13:00:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ep. 779 Cap | Bringing Private Credit Onchain (feat. Benjamin Sarquis Peillard)",
+    "link": "https://cryptopanic.com/news/33487116/Ep-779-Cap-Bringing-Private-Credit-Onchain-feat-Benjamin-Sarquis-Peillard",
+    "source": "Anchor",
+    "published": "Fri Oct 02 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Binance Lost Its EU License but Kept Its Users. ESMA Wants Answers",
+    "link": "https://cryptopanic.com/news/33487086/Binance-Lost-Its-EU-License-but-Kept-Its-Users-ESMA-Wants-Answers",
+    "source": "coinpaprika.com",
+    "published": "Fri Oct 02 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "TOKENISED REAL-WORLD ASSETS ARE GROWING FAST!\n\nPantera reports non stablecoin tokenised assets surged 13.3% in just one quarter, even as stablecoin value declined.\n\nThe tokenisation boom is expanding far beyond stablecoins, and it’s accelerating.",
+    "link": "https://cryptopanic.com/news/33487182/TOKENISED-REAL-WORLD-ASSETS-ARE-GROWING-FAST-Pantera-reports-non-stablecoin-tokenised-assets-surged-133-in-just-one-quarter-even-as-stablecoin-value-declined-The-tokenisation-boom-is-expanding-far-beyond-stablecoins-and-its-accelerating",
+    "source": "@realallincrypto",
+    "published": "Fri Oct 02 2026 12:59:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "gm #Cardano fam 🫂",
+    "link": "https://cryptopanic.com/news/33487062/gm-Cardano-fam",
+    "source": "@angrycryptoshow",
+    "published": "Fri Oct 02 2026 12:59:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Decrypt and Myriad are partnering with NEXTPredict for their upcoming conference in NYC.\n\nAs we evolve Decrypt into The Information Exchange, bringing information, data, markets and participation into one experience, prediction markets are a key part of what we’re building.",
+    "link": "https://cryptopanic.com/news/33487186/Decrypt-and-Myriad-are-partnering-with-NEXTPredict-for-their-upcoming-conference-in-NYC-As-we-evolve-Decrypt-into-The-Information-Exchange-bringing-information-data-markets-and-participation-into-one-experience-prediction-markets-are-a-key-part-of-what-were-building",
+    "source": "@decryptmedia",
+    "published": "Fri Oct 02 2026 12:59:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "'Uptober' Off With a Bang as Bitcoin Surges to $86K",
+    "link": "https://cryptopanic.com/news/33487067/Uptober-Off-With-a-Bang-as-Bitcoin-Surges-to-86K",
+    "source": "decrypt.co",
+    "published": "Fri Oct 02 2026 12:58:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "World Liberty Financial confirms reward Pool as Staked WLFI Reaches Over 15 Million\n\n@Worldlibertyfi has achieved the first-ever $1.25M capital seeding for its $USD1 reward vault on Ethereum mainnet, with on-chain data showing over 15.11M $WLFIstaked since the reward vault",
+    "link": "https://cryptopanic.com/news/33487184/World-Liberty-Financial-confirms-reward-Pool-as-Staked-WLFI-Reaches-Over-15-Million-Worldlibertyfi-has-achieved-the-first-ever-125M-capital-seeding-for-its-USD1-reward-vault-on-Ethereum-mainnet-with-on-chain-data-showing-over-1511M-WLFIstaked-since-the-reward-vault",
+    "source": "@bscnews",
+    "published": "Fri Oct 02 2026 12:53:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Source：",
     "link": "https://cryptopanic.com/news/33487060/Source",
     "source": "@wublockchain",
     "published": "Fri Oct 02 2026 12:51:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "WATCH: An investigation found that Manchester City used 'sham' commercial contracts to inflate revenue and understate costs by more than £900 million over nearly a decade, ruling that the club was guilty of serious breaches of financial rules",
+    "link": "https://cryptopanic.com/news/33487177/WATCH-An-investigation-found-that-Manchester-City-used-sham-commercial-contracts-to-inflate-revenue-and-understate-costs-by-more-than-900-million-over-nearly-a-decade-ruling-that-the-club-was-guilty-of-serious-breaches-of-financial-rules",
+    "source": "@reutersbiz",
+    "published": "Fri Oct 02 2026 12:50:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -14,6 +112,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "US Adds Just 29,000 Jobs in September: Why Are Bitcoin and Gold Jumping?",
+    "link": "https://cryptopanic.com/news/33487117/US-Adds-Just-29000-Jobs-in-September-Why-Are-Bitcoin-and-Gold-Jumping",
+    "source": "beincrypto.com",
+    "published": "Fri Oct 02 2026 12:44:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Source",
     "link": "https://cryptopanic.com/news/33487057/Source",
     "source": "@wublockchain",
@@ -21,10 +126,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "If you missed quant ethereum:0x4a220e6096b25eadb88358cb44068a3248254675 sub $250 is still a steal!",
+    "link": "https://cryptopanic.com/news/33487181/If-you-missed-quant-ethereum0x4a220e6096b25eadb88358cb44068a3248254675-sub-250-is-still-a-steal",
+    "source": "@realallincrypto",
+    "published": "Fri Oct 02 2026 12:43:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin Price Reacts Immediately to Weaker-Than-Expected US Jobs Report",
     "link": "https://cryptopanic.com/news/33486958/Bitcoin-Price-Reacts-Immediately-to-Weaker-Than-Expected-US-Jobs-Report",
     "source": "cryptopotato.com",
     "published": "Fri Oct 02 2026 12:40:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Stellar Community Fund keeps growing. \n\n@StellarOrg issued $4.04M in $XLM accross 40 projects. \n\nThe Stellar Community Fund is an open-application awards program that provides grants to developers based on community input and delegate reviews.",
+    "link": "https://cryptopanic.com/news/33487183/Stellar-Community-Fund-keeps-growing-StellarOrg-issued-404M-in-XLM-accross-40-projects-The-Stellar-Community-Fund-is-an-open-application-awards-program-that-provides-grants-to-developers-based-on-community-input-and-delegate-reviews",
+    "source": "@bscnews",
+    "published": "Fri Oct 02 2026 12:39:51 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -46,13 +165,6 @@
     "link": "https://cryptopanic.com/news/33487064/JUST-IN-Greece-asks-the-EU-for-power-to-suspend-asylum-requests-during-a-migration-emergency",
     "source": "@cryptonwsuk",
     "published": "Fri Oct 02 2026 12:38:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 US economy adds 29,000 jobs in September, lower than expectations.\n\nUS unemployment rate rises to 4.2%, higher than expectations.",
-    "link": "https://cryptopanic.com/news/33487063/JUST-IN-US-economy-adds-29000-jobs-in-September-lower-than-expectations-US-unemployment-rate-rises-to-42-higher-than-expectations",
-    "source": "@cryptonwsuk",
-    "published": "Fri Oct 02 2026 12:35:13 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -84,129 +196,17 @@
     "sentiment": "neutral"
   },
   {
+    "title": "'Your Wallet Doesn't Decide When You Need Your Backup': Trezor Analyst on the Fake App Problem",
+    "link": "https://cryptopanic.com/news/33487126/Your-Wallet-Doesnt-Decide-When-You-Need-Your-Backup-Trezor-Analyst-on-the-Fake-App-Problem",
+    "source": "u.today",
+    "published": "Fri Oct 02 2026 12:31:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "U.S. added just 29,000 jobs in September, with unemployment rate rising to 4.2%",
     "link": "https://cryptopanic.com/news/33487032/US-added-just-29000-jobs-in-September-with-unemployment-rate-rising-to-42",
     "source": "coindesk.com",
     "published": "Fri Oct 02 2026 12:31:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BULLISH: Bitcoin broke above $85K after sellers pulled asks, with the next sell wall forming near $87K, says Glassnode.",
-    "link": "https://cryptopanic.com/news/33486900/BULLISH-Bitcoin-broke-above-85K-after-sellers-pulled-asks-with-the-next-sell-wall-forming-near-87K-says-Glassnode",
-    "source": "@cointelegraph",
-    "published": "Fri Oct 02 2026 12:30:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: America added 29,000 jobs in September, below the 89,000 forecast",
-    "link": "https://cryptopanic.com/news/33487029/INTEL-America-added-29000-jobs-in-September-below-the-89000-forecast",
-    "source": "@solidintel_x",
-    "published": "Fri Oct 02 2026 12:30:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "What is Orbio, and why is @Tyler_Did_It making some plays in the ecosystem?",
-    "link": "https://cryptopanic.com/news/33486914/What-is-Orbio-and-why-is-Tyler_Did_It-making-some-plays-in-the-ecosystem",
-    "source": "@decryptmedia",
-    "published": "Fri Oct 02 2026 12:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "FOMO HOUR ft @Tyler_Did_It and @farokh\n- \n- \n-",
-    "link": "https://cryptopanic.com/news/33486913/FOMO-HOUR-ft-Tyler_Did_It-and-farokh-",
-    "source": "@decryptmedia",
-    "published": "Fri Oct 02 2026 12:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BitGo CEO says Clarity’s failure left capital markets exposed to risk potentially worse than Lehman",
-    "link": "https://cryptopanic.com/news/33486915/BitGo-CEO-says-Claritys-failure-left-capital-markets-exposed-to-risk-potentially-worse-than-Lehman",
-    "source": "theblock.co",
-    "published": "Fri Oct 02 2026 12:28:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Morning Minute: NEAR Intents Hacked for $3.8M - Was It A Bullish Hack?",
-    "link": "https://cryptopanic.com/news/33486841/Morning-Minute-NEAR-Intents-Hacked-for-38M-Was-It-A-Bullish-Hack",
-    "source": "decrypt.co",
-    "published": "Fri Oct 02 2026 12:19:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Some BIG crypto developments coming in the next few days.\n\nUsing @ElanInsights' industry-leading Crypto Calendar, we caught wind of some hugely impactful incoming events.\n\nGet ahead, sign up now: \n\nHere's just a taste...\n\n[October 2] Two new @Injective",
-    "link": "https://cryptopanic.com/news/33486909/Some-BIG-crypto-developments-coming-in-the-next-few-days-Using-ElanInsights-industry-leading-Crypto-Calendar-we-caught-wind-of-some-hugely-impactful-incoming-events-Get-ahead-sign-up-now-Heres-just-a-taste-October-2-Two-new-Injective",
-    "source": "@bscnews",
-    "published": "Fri Oct 02 2026 12:19:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Another Cat memecoin just went wild on Robinhood Chain!\n\nRobinhood Chain (@RobinhoodCrypto) may have just produced another runner, and it is another Cat... \n\nThis time around, Supercat (@SuperCat_RH) is the latest to tap into the chain's memecoin frenzy. \n\nThe memecoin, with the",
-    "link": "https://cryptopanic.com/news/33486908/Another-Cat-memecoin-just-went-wild-on-Robinhood-Chain-Robinhood-Chain-RobinhoodCrypto-may-have-just-produced-another-runner-and-it-is-another-Cat-This-time-around-Supercat-SuperCat_RH-is-the-latest-to-tap-into-the-chains-memecoin-frenzy-The-memecoin-with-the",
-    "source": "@bscnews",
-    "published": "Fri Oct 02 2026 12:17:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin tests Uptober again, a year after the 10/10 crash that broke it",
-    "link": "https://cryptopanic.com/news/33486833/Bitcoin-tests-Uptober-again-a-year-after-the-1010-crash-that-broke-it",
-    "source": "cryptopolitan.com",
-    "published": "Fri Oct 02 2026 12:17:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Leverage Drops 15% as Big Holders Sit Tight: What Does It Mean?",
-    "link": "https://cryptopanic.com/news/33486918/XRP-Leverage-Drops-15-as-Big-Holders-Sit-Tight-What-Does-It-Mean",
-    "source": "feeds2.benzinga.com",
-    "published": "Fri Oct 02 2026 12:15:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Poland's fuel price cap could ease pressure on central bank to tighten policy",
-    "link": "https://cryptopanic.com/news/33486901/Polands-fuel-price-cap-could-ease-pressure-on-central-bank-to-tighten-policy",
-    "source": "@reutersbiz",
-    "published": "Fri Oct 02 2026 12:15:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Dominance Nears 60% as Stablecoin Share Slips",
-    "link": "https://cryptopanic.com/news/33486815/Bitcoin-Dominance-Nears-60-as-Stablecoin-Share-Slips",
-    "source": "btcusa.com",
-    "published": "Fri Oct 02 2026 12:15:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Outperforms Ethereum at October ETF Start",
-    "link": "https://cryptopanic.com/news/33486846/XRP-Outperforms-Ethereum-at-October-ETF-Start",
-    "source": "u.today",
-    "published": "Fri Oct 02 2026 12:10:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Chip City Closes Stores Across Multiple States — What You Should Know",
-    "link": "https://cryptopanic.com/news/33486772/Chip-City-Closes-Stores-Across-Multiple-States-What-You-Should-Know",
-    "source": "coinpaper.com",
-    "published": "Fri Oct 02 2026 12:08:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Near Intents (@near_intents) returned online on October 1 after the $3.8 million exploit. \n\nNEAR Protocol co-founder Illia Polosukhin outlined plans to add formal verification and expand SHIELD AI monitoring.\n\nLearn more about what is in store for the protocol's security",
-    "link": "https://cryptopanic.com/news/33486907/Near-Intents-near_intents-returned-online-on-October-1-after-the-38-million-exploit-NEAR-Protocol-co-founder-Illia-Polosukhin-outlined-plans-to-add-formal-verification-and-expand-SHIELD-AI-monitoring-Learn-more-about-what-is-in-store-for-the-protocols-security",
-    "source": "@bscnews",
-    "published": "Fri Oct 02 2026 12:07:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$龙虾 surged 244% in a short time, then crashed 73%.\n\n(@0x58bro) withdrew 3.55M $龙虾 ($301K) from #Gate at $0.085 21 hours ago, then deposited it back to #Gate at $0.028 4 hours ago.\n\nHe lost $200K in less than 20 hours.",
-    "link": "https://cryptopanic.com/news/33487028/surged-244-in-a-short-time-then-crashed-73-0x58bro-withdrew-355M-301K-from-Gate-at-0085-21-hours-ago-then-deposited-it-back-to-Gate-at-0028-4-hours-ago-He-lost-200K-in-less-than-20-hours",
-    "source": "@lookonchain",
-    "published": "Fri Oct 02 2026 12:05:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇪🇺 REGULATION: Stani Kulechov criticizes EU regulators for backing stablecoin yield bans and tighter DeFi access under MiCA.",
-    "link": "https://cryptopanic.com/news/33486897/REGULATION-Stani-Kulechov-criticizes-EU-regulators-for-backing-stablecoin-yield-bans-and-tighter-DeFi-access-under-MiCA",
-    "source": "@cointelegraph",
-    "published": "Fri Oct 02 2026 12:02:02 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
