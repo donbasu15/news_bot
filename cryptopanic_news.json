@@ -1,9 +1,58 @@
 [
   {
+    "title": "NEAR INTENTS HAS CONFIRMED A $3.8M+ EXPLOIT!\n\nThe @NEARProtocol team says the vulnerability has now been patched, while committing to fully reimburse affected users.\n\nA serious security breach, but importantly, users are not being left to absorb the losses. $NEAR",
+    "link": "https://cryptopanic.com/news/33484872/NEAR-INTENTS-HAS-CONFIRMED-A-38M-EXPLOIT-The-NEARProtocol-team-says-the-vulnerability-has-now-been-patched-while-committing-to-fully-reimburse-affected-users-A-serious-security-breach-but-importantly-users-are-not-being-left-to-absorb-the-losses-NEAR",
+    "source": "@realallincrypto",
+    "published": "Fri Oct 02 2026 04:45:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Foundation Launches a Private Way to Pay for AI",
+    "link": "https://cryptopanic.com/news/33484850/Ethereum-Foundation-Launches-a-Private-Way-to-Pay-for-AI",
+    "source": "coindoo.com",
+    "published": "Fri Oct 02 2026 04:43:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SlowMist: Aave v3 Loop Safe Module Exploited, Approximately 114.09 ETH Stolen\n\nSlowMist issued a security alert stating that Aave v3 Loop Safe Module was exploited through an access-control vulnerability in FlashLoopAdapter’s open() and close() functions. The attacker allegedly",
+    "link": "https://cryptopanic.com/news/33484856/SlowMist-Aave-v3-Loop-Safe-Module-Exploited-Approximately-11409-ETH-Stolen-SlowMist-issued-a-security-alert-stating-that-Aave-v3-Loop-Safe-Module-was-exploited-through-an-access-control-vulnerability-in-FlashLoopAdapters-open-and-close-functions-The-attacker-allegedly",
+    "source": "@wublockchain",
+    "published": "Fri Oct 02 2026 04:41:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NOW: bitcoin:native reclaims $86,000.",
+    "link": "https://cryptopanic.com/news/33484858/NOW-bitcoinnative-reclaims-86000",
+    "source": "@cointelegraph",
+    "published": "Fri Oct 02 2026 04:41:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Metamask Exits Thousands Of Validators Amid Security Incident\n\nEarlier on Oct. 1, MetaMask said it was actively investigating a security incident affecting part of its infrastructure.\n\nThe company said its investigation has found no indication that customer wallets or funds were",
+    "link": "https://cryptopanic.com/news/33484875/Metamask-Exits-Thousands-Of-Validators-Amid-Security-Incident-Earlier-on-Oct-1-MetaMask-said-it-was-actively-investigating-a-security-incident-affecting-part-of-its-infrastructure-The-company-said-its-investigation-has-found-no-indication-that-customer-wallets-or-funds-were",
+    "source": "@bscnews",
+    "published": "Fri Oct 02 2026 04:38:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Boost Gives Alpha Modus (AMOD) Stock 61% Spike After Hours: What You Should Know",
+    "link": "https://cryptopanic.com/news/33484864/Bitcoin-Boost-Gives-Alpha-Modus-AMOD-Stock-61-Spike-After-Hours-What-You-Should-Know",
+    "source": "feeds2.benzinga.com",
+    "published": "Fri Oct 02 2026 04:34:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: $110,000,000 worth of shorts liquidated from the crypto market in the past 10 minutes.",
     "link": "https://cryptopanic.com/news/33484783/JUST-IN-110000000-worth-of-shorts-liquidated-from-the-crypto-market-in-the-past-10-minutes",
     "source": "@watcherguru",
     "published": "Fri Oct 02 2026 04:31:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Frank Cappelleri Explains 3 Reasons Bitcoin Is Primed for a Bigger Bullish Move",
+    "link": "https://cryptopanic.com/news/33484863/Frank-Cappelleri-Explains-3-Reasons-Bitcoin-Is-Primed-for-a-Bigger-Bullish-Move",
+    "source": "beincrypto.com",
+    "published": "Fri Oct 02 2026 04:31:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -25,6 +74,13 @@
     "link": "https://cryptopanic.com/news/33484782/JUST-IN-86000-Bitcoin",
     "source": "@watcherguru",
     "published": "Fri Oct 02 2026 04:24:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Aave (@aave) has reached $1.1 trillion in cumulative borrow volume.\n\nIts lending system allows users to supply assets as collateral before borrowing other supported cryptocurrencies.\n\nAave’s Efficiency Mode also supports borrowing between closely correlated assets with improved",
+    "link": "https://cryptopanic.com/news/33484873/Aave-aave-has-reached-11-trillion-in-cumulative-borrow-volume-Its-lending-system-allows-users-to-supply-assets-as-collateral-before-borrowing-other-supported-cryptocurrencies-Aaves-Efficiency-Mode-also-supports-borrowing-between-closely-correlated-assets-with-improved",
+    "source": "@bscnews",
+    "published": "Fri Oct 02 2026 04:22:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -151,62 +207,6 @@
     "link": "https://cryptopanic.com/news/33484578/IMF-Approves-139-Million-for-El-Salvador-After-Waiver-for-Bitcoin-Breach-According-to-Bloomberg-the-International-Monetary-Fund-IMF-approved-an-immediate-139-million-disbursement-to-El-Salvador-after-granting-a-waiver-for-the-governments-breach-of-restrictions-on-further",
     "source": "@wublockchain",
     "published": "Fri Oct 02 2026 02:55:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Maven 11 sold 115,000 $HYPE ($10.79M) at an average price of $93.84 a week ago.\n\nAs $HYPE dropped, Maven 11 bought back 40,000 $HYPE ($3.56M) today at $89.",
-    "link": "https://cryptopanic.com/news/33484514/Maven-11-sold-115000-HYPE-1079M-at-an-average-price-of-9384-a-week-ago-As-HYPE-dropped-Maven-11-bought-back-40000-HYPE-356M-today-at-89",
-    "source": "@lookonchain",
-    "published": "Fri Oct 02 2026 02:53:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Citi Says Fed May Not Need Aggressive Hikes Markets Are Pricing",
-    "link": "https://cryptopanic.com/news/33484598/Citi-Says-Fed-May-Not-Need-Aggressive-Hikes-Markets-Are-Pricing",
-    "source": "beincrypto.com",
-    "published": "Fri Oct 02 2026 02:52:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AI Agents and Bots Now Generate Most Web Traffic as Infrastructure Stocks Rally",
-    "link": "https://cryptopanic.com/news/33484597/AI-Agents-and-Bots-Now-Generate-Most-Web-Traffic-as-Infrastructure-Stocks-Rally",
-    "source": "beincrypto.com",
-    "published": "Fri Oct 02 2026 02:44:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The $DXY has broken upwards through a key resistance and just saw its highest daily close since April 2025.",
-    "link": "https://cryptopanic.com/news/33484576/The-DXY-has-broken-upwards-through-a-key-resistance-and-just-saw-its-highest-daily-close-since-April-2025",
-    "source": "@stackersatoshi",
-    "published": "Fri Oct 02 2026 02:42:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇺🇸 President Trump told TIME the Fed's rate hike under Kevin Warsh was wrong, saying \"I don't think they should\" raise rates.",
-    "link": "https://cryptopanic.com/news/33484577/LATEST-President-Trump-told-TIME-the-Feds-rate-hike-under-Kevin-Warsh-was-wrong-saying-I-dont-think-they-should-raise-rates",
-    "source": "@coinmarketcap",
-    "published": "Fri Oct 02 2026 02:35:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "DogeOS Opens Public Testnet, Bringing EVM Apps to Dogecoin",
-    "link": "https://cryptopanic.com/news/33484471/DogeOS-Opens-Public-Testnet-Bringing-EVM-Apps-to-Dogecoin",
-    "source": "www.blockhead.co",
-    "published": "Fri Oct 02 2026 02:34:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 UPDATE: Illinois agrees to push back its first-in-the-nation crypto tax by six months to July 2027, following a legal challenge from the Chamber of Digital Commerce.",
-    "link": "https://cryptopanic.com/news/33484505/UPDATE-Illinois-agrees-to-push-back-its-first-in-the-nation-crypto-tax-by-six-months-to-July-2027-following-a-legal-challenge-from-the-Chamber-of-Digital-Commerce",
-    "source": "@cointelegraph",
-    "published": "Fri Oct 02 2026 02:30:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Season 1 of the Fuyo Trading League is open \n\n A two-week prediction markets competition from our CMC Labs incubatee, with a live leaderboard and $2,150 in rewards\n\n Applications are open now. Details in the post below\n\n(CMC Labs: Partnership)",
-    "link": "https://cryptopanic.com/news/33484462/Season-1-of-the-Fuyo-Trading-League-is-open-A-two-week-prediction-markets-competition-from-our-CMC-Labs-incubatee-with-a-live-leaderboard-and-2150-in-rewards-Applications-are-open-now-Details-in-the-post-below-CMC-Labs-Partnership",
-    "source": "@coinmarketcap",
-    "published": "Fri Oct 02 2026 02:17:30 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
