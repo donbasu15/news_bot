@@ -1,9 +1,58 @@
 [
   {
+    "title": "CryptoPunks Rally Again",
+    "link": "https://cryptopanic.com/news/33489142/CryptoPunks-Rally-Again",
+    "source": "bankless.com",
+    "published": "Fri Oct 02 2026 21:37:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  US spot Bitcoin ETFs drew $2.65 billion in net inflows in September, their second-largest monthly haul since October 2025.",
+    "link": "https://cryptopanic.com/news/33489157/LATEST-US-spot-Bitcoin-ETFs-drew-265-billion-in-net-inflows-in-September-their-second-largest-monthly-haul-since-October-2025",
+    "source": "@coinmarketcap",
+    "published": "Fri Oct 02 2026 21:35:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Aave v3 Loop Safe Module Exploit Steals 114.09 ETH",
+    "link": "https://cryptopanic.com/news/33489119/Aave-v3-Loop-Safe-Module-Exploit-Steals-11409-ETH",
+    "source": "btcusa.com",
+    "published": "Fri Oct 02 2026 21:25:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Going LIVE now! Join the Moongang and ask me anything on this casual Friday as we discuss the Bitcoin and altcoin charts!\n\nCryptocurrency Request Show / AMA + $84,500 BTC & $2,650 ETH - Ep.#1001",
+    "link": "https://cryptopanic.com/news/33489156/Going-LIVE-now-Join-the-Moongang-and-ask-me-anything-on-this-casual-Friday-as-we-discuss-the-Bitcoin-and-altcoin-charts-Cryptocurrency-Request-Show-AMA-84500-BTC-amp-2650-ETH-Ep1001",
+    "source": "@cultivatecrypto",
+    "published": "Fri Oct 02 2026 21:18:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Internet Computer apps can be handed over to their users\n\nA Service Nervous System, or SNS, is a DAO built by @dfinity that takes over an Internet Computer app, with its own token for votes on upgrades and spending. The NNS, which governs the network itself, must approve each",
+    "link": "https://cryptopanic.com/news/33489131/Internet-Computer-apps-can-be-handed-over-to-their-users-A-Service-Nervous-System-or-SNS-is-a-DAO-built-by-dfinity-that-takes-over-an-Internet-Computer-app-with-its-own-token-for-votes-on-upgrades-and-spending-The-NNS-which-governs-the-network-itself-must-approve-each",
+    "source": "@bscnews",
+    "published": "Fri Oct 02 2026 21:18:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
+    "link": "https://cryptopanic.com/news/33489105/California-Subpoenas-OpenAI-Over-AI-Models-That-Hacked-Their-Way-Out-of-a-Test",
+    "source": "decrypt.co",
+    "published": "Fri Oct 02 2026 21:16:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: #Cardano $ADA 24h trade volume surpasses $650,000,000 according to CoinGecko.",
     "link": "https://cryptopanic.com/news/33489095/JUST-IN-Cardano-ADA-24h-trade-volume-surpasses-650000000-according-to-CoinGecko",
     "source": "@angrycryptoshow",
     "published": "Fri Oct 02 2026 21:05:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: CNBC host says \"October is historically a very strong month for Bitcoin, there's only been 3 negative Octobers since 2013.\" \n\n\"There are signs that this one could play out exactly as Bitcoiners hope...we could be ready for a bull market here\"",
+    "link": "https://cryptopanic.com/news/33489154/JUST-IN-CNBC-host-says-October-is-historically-a-very-strong-month-for-Bitcoin-theres-only-been-3-negative-Octobers-since-2013-There-are-signs-that-this-one-could-play-out-exactly-as-Bitcoiners-hopewe-could-be-ready-for-a-bull-market-here",
+    "source": "@bitcoinmagazine",
+    "published": "Fri Oct 02 2026 21:02:02 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -18,6 +67,13 @@
     "link": "https://cryptopanic.com/news/33489115/Cycurion-stock-surges-42-to-382-key-resistance-at-497-eyed-for-next-session",
     "source": "en.cryptonomist.ch",
     "published": "Fri Oct 02 2026 21:00:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "HYPERLIQUID IS SHOWING UP IN MAJOR INSTITUTIONAL REPORTS AGAIN!\n\nDune’s new RWA report specifically includes @HyperliquidX, after Pantera also highlighted it as a major force in onchain markets.\n\nEveryone is waking up to what $HYPE is building, an always on financial market for",
+    "link": "https://cryptopanic.com/news/33489128/HYPERLIQUID-IS-SHOWING-UP-IN-MAJOR-INSTITUTIONAL-REPORTS-AGAIN-Dunes-new-RWA-report-specifically-includes-HyperliquidX-after-Pantera-also-highlighted-it-as-a-major-force-in-onchain-markets-Everyone-is-waking-up-to-what-HYPE-is-building-an-always-on-financial-market-for",
+    "source": "@realallincrypto",
+    "published": "Fri Oct 02 2026 21:00:50 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -56,6 +112,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Zcash's NU7 upgrade is set to make blocks three times faster\n\n@ZcashFoundation has released Zebra 7.0.0-rc.0, the first test version of its node software for @Zcash's NU7 upgrade. NU7 will go live on testnet around October 6, and node operators there should upgrade before then.",
+    "link": "https://cryptopanic.com/news/33489130/Zcashs-NU7-upgrade-is-set-to-make-blocks-three-times-faster-ZcashFoundation-has-released-Zebra-700-rc0-the-first-test-version-of-its-node-software-for-Zcashs-NU7-upgrade-NU7-will-go-live-on-testnet-around-October-6-and-node-operators-there-should-upgrade-before-then",
+    "source": "@bscnews",
+    "published": "Fri Oct 02 2026 20:57:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST:  Arkham says it can now trace about 78% of Strategy's $71.4B Bitcoin stack, with $40.28B in labeled on-chain wallets and another $15.5B tagged in Fidelity Custody.",
     "link": "https://cryptopanic.com/news/33489094/LATEST-Arkham-says-it-can-now-trace-about-78-of-Strategys-714B-Bitcoin-stack-with-4028B-in-labeled-on-chain-wallets-and-another-155B-tagged-in-Fidelity-Custody",
     "source": "@coinmarketcap",
@@ -67,6 +130,13 @@
     "link": "https://cryptopanic.com/news/33489046/LINK-News-Chainlink-Expands-Swift-Partnership-Into-Tokenized-Securities",
     "source": "coinpaper.com",
     "published": "Fri Oct 02 2026 20:52:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$2.23M in a month. Roughly $74K a day, paid in small ethereum:0x455e53cbb86018ac2b8092fdcd39d8444affc3f6 gas fees.",
+    "link": "https://cryptopanic.com/news/33489129/223M-in-a-month-Roughly-74K-a-day-paid-in-small-ethereum0x455e53cbb86018ac2b8092fdcd39d8444affc3f6-gas-fees",
+    "source": "@bscnews",
+    "published": "Fri Oct 02 2026 20:49:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/33489031/ALERT-Crypto-custodian-Anchorage-Digital-has-laid-off-17-of-its-staff",
     "source": "@cointelegraph",
     "published": "Fri Oct 02 2026 20:20:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Canton's Global Synchronizer puts transactions in order without reading them\n\nThe Global Synchronizer is the shared layer that lets parties on different @CantonNetwork validators transact. Super Validators run it under @CantonFdn governance and earn canton-network:native rewards",
-    "link": "https://cryptopanic.com/news/33489034/Cantons-Global-Synchronizer-puts-transactions-in-order-without-reading-them-The-Global-Synchronizer-is-the-shared-layer-that-lets-parties-on-different-CantonNetwork-validators-transact-Super-Validators-run-it-under-CantonFdn-governance-and-earn-canton-networknative-rewards",
-    "source": "@bscnews",
-    "published": "Fri Oct 02 2026 20:18:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum Foundation and OA Launch zkAPI for Private AI Payment",
-    "link": "https://cryptopanic.com/news/33488970/Ethereum-Foundation-and-OA-Launch-zkAPI-for-Private-AI-Payment",
-    "source": "cryptopotato.com",
-    "published": "Fri Oct 02 2026 20:16:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "S&P 500 Enters Q4 With 30% Earnings Growth and 5% Treasury Yields",
-    "link": "https://cryptopanic.com/news/33488965/SP-500-Enters-Q4-With-30-Earnings-Growth-and-5-Treasury-Yields",
-    "source": "coinpaper.com",
-    "published": "Fri Oct 02 2026 20:16:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum Now Lets You Pay for AI Without Revealing Who You Are",
-    "link": "https://cryptopanic.com/news/33488967/Ethereum-Now-Lets-You-Pay-for-AI-Without-Revealing-Who-You-Are",
-    "source": "decrypt.co",
-    "published": "Fri Oct 02 2026 20:16:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Five French market hot spots on investors' radars",
-    "link": "https://cryptopanic.com/news/33489033/Five-French-market-hot-spots-on-investors-radars",
-    "source": "@reutersbiz",
-    "published": "Fri Oct 02 2026 20:15:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 SEC Chair Paul Atkins says MORE CRYPTO rules are coming.",
-    "link": "https://cryptopanic.com/news/33488999/JUST-IN-SEC-Chair-Paul-Atkins-says-MORE-CRYPTO-rules-are-coming",
-    "source": "@cryptonwsuk",
-    "published": "Fri Oct 02 2026 20:12:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "How Do Stock Buybacks Actually Raise Earnings Per Share?",
-    "link": "https://cryptopanic.com/news/33488923/How-Do-Stock-Buybacks-Actually-Raise-Earnings-Per-Share",
-    "source": "coinpaper.com",
-    "published": "Fri Oct 02 2026 20:08:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Kraken’s Parent Reportedly Discusses Crypto Deal With BNY",
-    "link": "https://cryptopanic.com/news/33488919/Krakens-Parent-Reportedly-Discusses-Crypto-Deal-With-BNY",
-    "source": "coindoo.com",
-    "published": "Fri Oct 02 2026 20:05:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump Says South Korea Agreed to an $8.4B Oil Project: Seoul Says It Isn’t in the Deal",
-    "link": "https://cryptopanic.com/news/33488915/Trump-Says-South-Korea-Agreed-to-an-84B-Oil-Project-Seoul-Says-It-Isnt-in-the-Deal",
-    "source": "coinpaper.com",
-    "published": "Fri Oct 02 2026 20:02:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum: Why ETH faces October reversal risk after 70% Q3 rally",
-    "link": "https://cryptopanic.com/news/33488914/Ethereum-Why-ETH-faces-October-reversal-risk-after-70-Q3-rally",
-    "source": "ambcrypto.com",
-    "published": "Fri Oct 02 2026 20:00:47 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
