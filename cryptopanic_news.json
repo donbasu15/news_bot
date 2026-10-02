@@ -1,5 +1,75 @@
 [
   {
+    "title": "AI predicts XRP price on Trump’s crypto dinner date",
+    "link": "https://cryptopanic.com/news/33486051/AI-predicts-XRP-price-on-Trumps-crypto-dinner-date",
+    "source": "finbold.com",
+    "published": "Fri Oct 02 2026 09:40:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "RICE AI (@realRiceAI) has distributed 20 million $RICE in Round 4 of its airdrop to eligible Floki (@FLOKI) and TokenFi (@tokenfi) holders and stakers.\n\nThe latest distribution brings the total to 70 million RICE, marking the halfway point of the 140 million token allocation.",
+    "link": "https://cryptopanic.com/news/33486098/RICE-AI-realRiceAI-has-distributed-20-million-RICE-in-Round-4-of-its-airdrop-to-eligible-Floki-FLOKI-and-TokenFi-tokenfi-holders-and-stakers-The-latest-distribution-brings-the-total-to-70-million-RICE-marking-the-halfway-point-of-the-140-million-token-allocation",
+    "source": "@bscnews",
+    "published": "Fri Oct 02 2026 09:37:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ALERT: Crypto security losses hit $1.26B in Q3, up 53.9% QoQ, with Bitget’s $387.5M hack accounting for 31%.",
+    "link": "https://cryptopanic.com/news/33486095/ALERT-Crypto-security-losses-hit-126B-in-Q3-up-539-QoQ-with-Bitgets-3875M-hack-accounting-for-31",
+    "source": "@cointelegraph",
+    "published": "Fri Oct 02 2026 09:30:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tom Lee Sees Ethereum Above $10,000 in Next 12 Months",
+    "link": "https://cryptopanic.com/news/33485920/Tom-Lee-Sees-Ethereum-Above-10000-in-Next-12-Months",
+    "source": "btcusa.com",
+    "published": "Fri Oct 02 2026 09:30:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SBI Holdings Completes $295M Bitbank Acquisition in Japan",
+    "link": "https://cryptopanic.com/news/33486031/SBI-Holdings-Completes-295M-Bitbank-Acquisition-in-Japan",
+    "source": "thecoinrepublic.com",
+    "published": "Fri Oct 02 2026 09:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SEC proposes crypto custody rules for investment advisers",
+    "link": "https://cryptopanic.com/news/33485885/SEC-proposes-crypto-custody-rules-for-investment-advisers",
+    "source": "cryptovalleyjournal.com",
+    "published": "Fri Oct 02 2026 09:19:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "El Salvador Agrees to Halt Further Bitcoin Accumulation Under IMF Deal",
+    "link": "https://cryptopanic.com/news/33485895/El-Salvador-Agrees-to-Halt-Further-Bitcoin-Accumulation-Under-IMF-Deal",
+    "source": "cryptonews.com",
+    "published": "Fri Oct 02 2026 09:17:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Strive stock closes at $30.11, up 2.38% as RSI flashes overbought signal",
+    "link": "https://cryptopanic.com/news/33485900/Strive-stock-closes-at-3011-up-238-as-RSI-flashes-overbought-signal",
+    "source": "en.cryptonomist.ch",
+    "published": "Fri Oct 02 2026 09:16:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ON Semiconductor stock jumps 4.18% to $80.08, confirming bullish breakout",
+    "link": "https://cryptopanic.com/news/33485899/ON-Semiconductor-stock-jumps-418-to-8008-confirming-bullish-breakout",
+    "source": "en.cryptonomist.ch",
+    "published": "Fri Oct 02 2026 09:16:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Dogecoin Perps Land On U.S. Regulated Market\n\nKalshi has launched fully regulated perpetual dogecoin:native futures, giving U.S. retail traders access to onshore contracts.\n\nThe launch offers an alternative to fixed term futures and offshore platforms previously used by American",
+    "link": "https://cryptopanic.com/news/33486097/Dogecoin-Perps-Land-On-US-Regulated-Market-Kalshi-has-launched-fully-regulated-perpetual-dogecoinnative-futures-giving-US-retail-traders-access-to-onshore-contracts-The-launch-offers-an-alternative-to-fixed-term-futures-and-offshore-platforms-previously-used-by-American",
+    "source": "@bscnews",
+    "published": "Fri Oct 02 2026 09:16:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Major US City Launching $8,000,000 No-Strings-Attached Guaranteed Income Program That Pays Enrollees Hundreds of Dollars Monthly",
     "link": "https://cryptopanic.com/news/33485903/Major-US-City-Launching-8000000-No-Strings-Attached-Guaranteed-Income-Program-That-Pays-Enrollees-Hundreds-of-Dollars-Monthly",
     "source": "dailyhodl.com",
@@ -42,10 +112,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Tether-Backed Utexo Plans to Launch USDT on Bitcoin This Month\n\nTether-backed Bitcoin payments infrastructure project Utexo plans to issue USDT on the Bitcoin network this month. Co-founder Viktor Ihnatiuk said the company has obtained a commercial license and will provide APIs,",
+    "link": "https://cryptopanic.com/news/33486029/Tether-Backed-Utexo-Plans-to-Launch-USDT-on-Bitcoin-This-Month-Tether-backed-Bitcoin-payments-infrastructure-project-Utexo-plans-to-issue-USDT-on-the-Bitcoin-network-this-month-Co-founder-Viktor-Ihnatiuk-said-the-company-has-obtained-a-commercial-license-and-will-provide-APIs",
+    "source": "@wublockchain",
+    "published": "Fri Oct 02 2026 09:10:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Nike stock closes at $35.15 as bearish trend holds; job cuts reported after the bell",
     "link": "https://cryptopanic.com/news/33485893/Nike-stock-closes-at-3515-as-bearish-trend-holds-job-cuts-reported-after-the-bell",
     "source": "en.cryptonomist.ch",
     "published": "Fri Oct 02 2026 09:07:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "US Nonfarm Payrolls Lands Today: Here's What to Expect",
+    "link": "https://cryptopanic.com/news/33486049/US-Nonfarm-Payrolls-Lands-Today-Heres-What-to-Expect",
+    "source": "beincrypto.com",
+    "published": "Fri Oct 02 2026 09:04:53 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -84,6 +168,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "UPDATE: Bitget distributes 1.9M USDT to 760,000 users in the first batch of its Stand Together Program, says CEO Gracy Chen.",
+    "link": "https://cryptopanic.com/news/33486094/UPDATE-Bitget-distributes-19M-USDT-to-760000-users-in-the-first-batch-of-its-Stand-Together-Program-says-CEO-Gracy-Chen",
+    "source": "@cointelegraph",
+    "published": "Fri Oct 02 2026 09:01:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "NVIDIA’s graduate fellowship offers PhD students up to $60,000 in funding",
     "link": "https://cryptopanic.com/news/33485887/NVIDIAs-graduate-fellowship-offers-PhD-students-up-to-60000-in-funding",
     "source": "en.cryptonomist.ch",
@@ -112,101 +203,10 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Lloyds Moves $750,000 to Visa in Under an Hour, Through a Weekend",
-    "link": "https://cryptopanic.com/news/33485788/Lloyds-Moves-750000-to-Visa-in-Under-an-Hour-Through-a-Weekend",
-    "source": "coinpaprika.com",
-    "published": "Fri Oct 02 2026 09:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hyperliquid Challenges MiCA Approach As Circle Flags Stablecoin Gaps\n\nThe Hyperliquid (@HyperliquidX) Policy Center has urged the European Commission to regulate crypto perpetuals under MiFID II.\n\nThe group argues that existing derivatives rules can cover onchain perpetual",
-    "link": "https://cryptopanic.com/news/33485862/Hyperliquid-Challenges-MiCA-Approach-As-Circle-Flags-Stablecoin-Gaps-The-Hyperliquid-HyperliquidX-Policy-Center-has-urged-the-European-Commission-to-regulate-crypto-perpetuals-under-MiFID-II-The-group-argues-that-existing-derivatives-rules-can-cover-onchain-perpetual",
-    "source": "@bscnews",
-    "published": "Fri Oct 02 2026 08:57:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$BTC There has been quite a bit of open interest ramp up over the past two days.\n\nWell over $1.3B on Bitcoin alone has entered.\n\nPresumably the majority is longs that have built up into the price that has grinded up. Most are obviously sitting comfy but that last leg in open",
-    "link": "https://cryptopanic.com/news/33485761/BTC-There-has-been-quite-a-bit-of-open-interest-ramp-up-over-the-past-two-days-Well-over-13B-on-Bitcoin-alone-has-entered-Presumably-the-majority-is-longs-that-have-built-up-into-the-price-that-has-grinded-up-Most-are-obviously-sitting-comfy-but-that-last-leg-in-open",
-    "source": "@daancrypto",
-    "published": "Fri Oct 02 2026 08:46:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Polymath And CineCity Explore Regulated Tokenized Film Investment Platform",
-    "link": "https://cryptopanic.com/news/33485696/Polymath-And-CineCity-Explore-Regulated-Tokenized-Film-Investment-Platform",
-    "source": "newsbtc.com",
-    "published": "Fri Oct 02 2026 08:41:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Celestia Says Fibre Sustained 3.07 Tb/s In 120-Validator Benchmark",
-    "link": "https://cryptopanic.com/news/33485694/Celestia-Says-Fibre-Sustained-307-Tbs-In-120-Validator-Benchmark",
-    "source": "newsbtc.com",
-    "published": "Fri Oct 02 2026 08:41:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Fiserv Puts Stablecoin Banking Platform Live With North Dakota Roughrider Coin",
-    "link": "https://cryptopanic.com/news/33485692/Fiserv-Puts-Stablecoin-Banking-Platform-Live-With-North-Dakota-Roughrider-Coin",
-    "source": "newsbtc.com",
-    "published": "Fri Oct 02 2026 08:41:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Marex Gives Institutions Long And Short Crypto Exposure Without Holding The Coins",
-    "link": "https://cryptopanic.com/news/33485690/Marex-Gives-Institutions-Long-And-Short-Crypto-Exposure-Without-Holding-The-Coins",
-    "source": "newsbtc.com",
-    "published": "Fri Oct 02 2026 08:41:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "OpenWorld Begins Nasdaq Trading As VerifyMe Deal Creates Public Tokenization Company",
-    "link": "https://cryptopanic.com/news/33485688/OpenWorld-Begins-Nasdaq-Trading-As-VerifyMe-Deal-Creates-Public-Tokenization-Company",
-    "source": "newsbtc.com",
-    "published": "Fri Oct 02 2026 08:41:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Avalanche Builders Raise Over $500M in Past Year\n\nAvalanche (@avax) says builders across its ecosystem have raised more than $500 million over the past year.\n\nThe funding includes $43 million raised by BuildOnIris for ALVA’s financial services platform.\n\nKite raised $33 million",
-    "link": "https://cryptopanic.com/news/33485860/Avalanche-Builders-Raise-Over-500M-in-Past-Year-Avalanche-avax-says-builders-across-its-ecosystem-have-raised-more-than-500-million-over-the-past-year-The-funding-includes-43-million-raised-by-BuildOnIris-for-ALVAs-financial-services-platform-Kite-raised-33-million",
-    "source": "@bscnews",
-    "published": "Fri Oct 02 2026 08:37:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AsiaStrategy Stock Jumps 27% Pre-Market on Plume Tokenization Talks",
-    "link": "https://cryptopanic.com/news/33485748/AsiaStrategy-Stock-Jumps-27-Pre-Market-on-Plume-Tokenization-Talks",
-    "source": "feeds2.benzinga.com",
-    "published": "Fri Oct 02 2026 08:33:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "EU Targets Minecraft, Candy Crush and 7 Other Games Over In-Game Currency Practices",
-    "link": "https://cryptopanic.com/news/33485763/EU-Targets-Minecraft-Candy-Crush-and-7-Other-Games-Over-In-Game-Currency-Practices",
-    "source": "beincrypto.com",
-    "published": "Fri Oct 02 2026 08:31:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Softer US Inflation Gives Crypto a Breather, Not a Pivot",
-    "link": "https://cryptopanic.com/news/33485624/Softer-US-Inflation-Gives-Crypto-a-Breather-Not-a-Pivot",
-    "source": "www.blockhead.co",
-    "published": "Fri Oct 02 2026 08:30:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tether's USDT is 'coming home' to Bitcoin this month over a decade after debut there",
-    "link": "https://cryptopanic.com/news/33485865/Tethers-USDT-is-coming-home-to-Bitcoin-this-month-over-a-decade-after-debut-there",
-    "source": "coindesk.com",
-    "published": "Fri Oct 02 2026 08:28:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: ️ SpaceX launched Google AI chips into orbit on Thursday, the first in-orbit test for Alphabet's Project Suncatcher space data center effort.",
-    "link": "https://cryptopanic.com/news/33485737/LATEST-SpaceX-launched-Google-AI-chips-into-orbit-on-Thursday-the-first-in-orbit-test-for-Alphabets-Project-Suncatcher-space-data-center-effort",
-    "source": "@coinmarketcap",
-    "published": "Fri Oct 02 2026 08:21:10 GMT+0000 (Coordinated Universal Time)",
+    "title": "Michael Saylor: Bitcoin's 20% Annual Gain Is Enough to Cover the Dividend \n\n Strategy Executive Chairman Michael Saylor @saylor said the company expects Bitcoin to appreciate by around 20%–30% annually over the long term, meaning that even with STRC paying a 12% annual dividend,",
+    "link": "https://cryptopanic.com/news/33486028/Michael-Saylor-Bitcoins-20-Annual-Gain-Is-Enough-to-Cover-the-Dividend-Strategy-Executive-Chairman-Michael-Saylor-saylor-said-the-company-expects-Bitcoin-to-appreciate-by-around-2030-annually-over-the-long-term-meaning-that-even-with-STRC-paying-a-12-annual-dividend",
+    "source": "@wublockchain",
+    "published": "Fri Oct 02 2026 09:00:04 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
