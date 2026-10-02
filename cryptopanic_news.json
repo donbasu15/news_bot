@@ -1,5 +1,61 @@
 [
   {
+    "title": "Litecoin (@litecoin) is coming to Canton Network (@CantonNetwork) as cLTC.\n\nGreywick Digital and the Litecoin Foundation plan to launch a reserve-backed version of LTC for institutional trading and yield products.\n\nThe mainnet target is the end of 2026.\n\nRead the full breakdown",
+    "link": "https://cryptopanic.com/news/33485058/Litecoin-litecoin-is-coming-to-Canton-Network-CantonNetwork-as-cLTC-Greywick-Digital-and-the-Litecoin-Foundation-plan-to-launch-a-reserve-backed-version-of-LTC-for-institutional-trading-and-yield-products-The-mainnet-target-is-the-end-of-2026-Read-the-full-breakdown",
+    "source": "@bscnews",
+    "published": "Fri Oct 02 2026 05:40:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Amazon Prime Customers Could Get Up to $200 as New Settlement Payments Begin",
+    "link": "https://cryptopanic.com/news/33485022/Amazon-Prime-Customers-Could-Get-Up-to-200-as-New-Settlement-Payments-Begin",
+    "source": "coinpaper.com",
+    "published": "Fri Oct 02 2026 05:32:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: $BTC buyers have cleared the $85K sell wall after nearly a week of attempts, leaving thinner resistance above that could let price climb faster, per @glassnode.",
+    "link": "https://cryptopanic.com/news/33485014/NEW-BTC-buyers-have-cleared-the-85K-sell-wall-after-nearly-a-week-of-attempts-leaving-thinner-resistance-above-that-could-let-price-climb-faster-per-glassnode",
+    "source": "@cointelegraph",
+    "published": "Fri Oct 02 2026 05:30:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Report Finds Onchain Investors Trade Tokenised Stocks While Tokenised Treasuries Sit Idle",
+    "link": "https://cryptopanic.com/news/33485021/Report-Finds-Onchain-Investors-Trade-Tokenised-Stocks-While-Tokenised-Treasuries-Sit-Idle",
+    "source": "www.blockhead.co",
+    "published": "Fri Oct 02 2026 05:30:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Electrum patches Lightning flaw, but old Bitcoin backups break",
+    "link": "https://cryptopanic.com/news/33484950/Electrum-patches-Lightning-flaw-but-old-Bitcoin-backups-break",
+    "source": "cryptoslate.com",
+    "published": "Fri Oct 02 2026 05:30:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Aave V3 Safe Module Hit By Access Control Exploit\n\nAave v3 Loop Safe Module was exploited through an access control vulnerability, according to SlowMist.\n\nThe flaw reportedly affected the FlashLoopAdapter’s open and close functions.\n\nThe attacker allegedly bypassed Safe",
+    "link": "https://cryptopanic.com/news/33485057/Aave-V3-Safe-Module-Hit-By-Access-Control-Exploit-Aave-v3-Loop-Safe-Module-was-exploited-through-an-access-control-vulnerability-according-to-SlowMist-The-flaw-reportedly-affected-the-FlashLoopAdapters-open-and-close-functions-The-attacker-allegedly-bypassed-Safe",
+    "source": "@bscnews",
+    "published": "Fri Oct 02 2026 05:28:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum targets AI privacy with zkAPI for anonymous API payments",
+    "link": "https://cryptopanic.com/news/33484939/Ethereum-targets-AI-privacy-with-zkAPI-for-anonymous-API-payments",
+    "source": "cryptopolitan.com",
+    "published": "Fri Oct 02 2026 05:18:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Holdings Rebuild Faster Than Bitcoin\n\nEthereum fund holdings have recovered more strongly than Bitcoin holdings since the market’s July drawdown.\n\nTracked ethereum:native balances increased by roughly 1.25 million to 1.32 million coins, reaching about 6.70 million ETH.",
+    "link": "https://cryptopanic.com/news/33485056/Ethereum-Holdings-Rebuild-Faster-Than-Bitcoin-Ethereum-fund-holdings-have-recovered-more-strongly-than-Bitcoin-holdings-since-the-markets-July-drawdown-Tracked-ethereumnative-balances-increased-by-roughly-125-million-to-132-million-coins-reaching-about-670-million-ETH",
+    "source": "@bscnews",
+    "published": "Fri Oct 02 2026 05:16:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "SEC’s innovation exemption poses constraint on bringing stock tokens to US, Robinhood crypto chief says",
     "link": "https://cryptopanic.com/news/33484902/SECs-innovation-exemption-poses-constraint-on-bringing-stock-tokens-to-US-Robinhood-crypto-chief-says",
     "source": "theblock.co",
@@ -11,6 +67,13 @@
     "link": "https://cryptopanic.com/news/33484896/XRPs-154-breakout-test-meets-Ripples-1B-token-unlock-Can-demand-absorb-supply",
     "source": "ambcrypto.com",
     "published": "Fri Oct 02 2026 05:00:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: Singapore’s crypto economy grows 55%, South Korea set to make crypto market makers legal, and Chinese spy ministry warns would-be foreign spies it's watching the blockchain.\n\nAsia Express this week",
+    "link": "https://cryptopanic.com/news/33485013/LATEST-Singapores-crypto-economy-grows-55-South-Korea-set-to-make-crypto-market-makers-legal-and-Chinese-spy-ministry-warns-would-be-foreign-spies-its-watching-the-blockchain-Asia-Express-this-week",
+    "source": "@cointelegraph",
+    "published": "Fri Oct 02 2026 05:00:47 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -32,6 +95,20 @@
     "link": "https://cryptopanic.com/news/33476603/Bitcoin-Bull-Market-Global-Liquidity-ETF-Flows-BMTV-Oct-01-2026",
     "source": "BitcoinMagazine",
     "published": "Fri Oct 02 2026 04:53:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "69% of Retail Polymarket Traders Finish in the Red, Galaxy Finds",
+    "link": "https://cryptopanic.com/news/33485019/69-of-Retail-Polymarket-Traders-Finish-in-the-Red-Galaxy-Finds",
+    "source": "beincrypto.com",
+    "published": "Fri Oct 02 2026 04:52:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Upbit to List POD Trading Pairs Against KRW, BTC and USDT \n\nSouth Korea’s largest crypto exchange, Upbit, will list POD trading pairs against KRW, BTC and USDT, with trading scheduled to begin at 16:00 local time on October 2. Dolphin is a DePIN-based AI project.",
+    "link": "https://cryptopanic.com/news/33485012/Upbit-to-List-POD-Trading-Pairs-Against-KRW-BTC-and-USDT-South-Koreas-largest-crypto-exchange-Upbit-will-list-POD-trading-pairs-against-KRW-BTC-and-USDT-with-trading-scheduled-to-begin-at-1600-local-time-on-October-2-Dolphin-is-a-DePIN-based-AI-project",
+    "source": "@wublockchain",
+    "published": "Fri Oct 02 2026 04:50:53 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -130,83 +207,6 @@
     "link": "https://cryptopanic.com/news/33484855/LATEST-Stripe-added-Open-USD-to-its-stablecoin-stack-making-the-new-stablecoin-from-Open-Standard-available-to-businesses-with-free-USD-OUSD-conversions",
     "source": "@coinmarketcap",
     "published": "Fri Oct 02 2026 04:05:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CLARITY Act Failure Fuels Midterm Endorsements\n\nStand With Crypto has unveiled bipartisan endorsements across several Senate and House races ahead of November’s midterm elections.\n\nThe Coinbase-backed advocacy group endorsed Republican Jon Husted in Ohio, where he faces former",
-    "link": "https://cryptopanic.com/news/33484729/CLARITY-Act-Failure-Fuels-Midterm-Endorsements-Stand-With-Crypto-has-unveiled-bipartisan-endorsements-across-several-Senate-and-House-races-ahead-of-Novembers-midterm-elections-The-Coinbase-backed-advocacy-group-endorsed-Republican-Jon-Husted-in-Ohio-where-he-faces-former",
-    "source": "@bscnews",
-    "published": "Fri Oct 02 2026 04:01:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 LATEST: President Trump says the US government could take stakes in OpenAI and Anthropic, similar to its Intel deal, in an interview with TIME.",
-    "link": "https://cryptopanic.com/news/33484727/LATEST-President-Trump-says-the-US-government-could-take-stakes-in-OpenAI-and-Anthropic-similar-to-its-Intel-deal-in-an-interview-with-TIME",
-    "source": "@cointelegraph",
-    "published": "Fri Oct 02 2026 04:00:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin: The NEW Digital Gold or Just a Tech Stock?",
-    "link": "https://cryptopanic.com/news/33484792/Bitcoin-The-NEW-Digital-Gold-or-Just-a-Tech-Stock",
-    "source": "TheCryptoLark",
-    "published": "Fri Oct 02 2026 04:00:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tom Lee: ETH Could Be Much Higher Than $10,000 in the Next 12 Months\n\nAt Korea Blockchain Week on September 30, 2026, BitMine Chairman Tom Lee @fundstrat told CoinDesk @CoinDesk he was unsure whether ETH would reach the $10,000 year-end target projected by Arthur Hayes, but said",
-    "link": "https://cryptopanic.com/news/33484653/Tom-Lee-ETH-Could-Be-Much-Higher-Than-10000-in-the-Next-12-Months-At-Korea-Blockchain-Week-on-September-30-2026-BitMine-Chairman-Tom-Lee-fundstrat-told-CoinDesk-CoinDesk-he-was-unsure-whether-ETH-would-reach-the-10000-year-end-target-projected-by-Arthur-Hayes-but-said",
-    "source": "@wublockchain",
-    "published": "Fri Oct 02 2026 04:00:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bull doubles supercomputer output as Europe scales up its AI compute",
-    "link": "https://cryptopanic.com/news/33484649/Bull-doubles-supercomputer-output-as-Europe-scales-up-its-AI-compute",
-    "source": "cryptopolitan.com",
-    "published": "Fri Oct 02 2026 03:55:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Gavin Newsom Says Trump 'Selling' White House Access After Memecoin Gala Announced: His Corruption Is 'Sick'",
-    "link": "https://cryptopanic.com/news/33484646/Gavin-Newsom-Says-Trump-Selling-White-House-Access-After-Memecoin-Gala-Announced-His-Corruption-Is-Sick",
-    "source": "feeds2.benzinga.com",
-    "published": "Fri Oct 02 2026 03:40:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NIGHT Rally Extends as Midnight Prepares Smart Contracts\n\nMidnight’s (@midnightfdn) midnight-3:native token has gained 50% in seven days, extending its rally for eight consecutive days.\n\nThe rise comes as the privacy focused blockchain approaches its smart contract deployment",
-    "link": "https://cryptopanic.com/news/33484638/NIGHT-Rally-Extends-as-Midnight-Prepares-Smart-Contracts-Midnights-midnightfdn-midnight-3native-token-has-gained-50-in-seven-days-extending-its-rally-for-eight-consecutive-days-The-rise-comes-as-the-privacy-focused-blockchain-approaches-its-smart-contract-deployment",
-    "source": "@bscnews",
-    "published": "Fri Oct 02 2026 03:40:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "US Treasury Sanctions Russian Shadow Banking Network A7 Network Over $17 Billion in Fund Transfers\n\nThe US Treasury Department has sanctioned A7 Network, a Russia-linked shadow banking network. OFAC designated it as a significant transnational criminal organization, while FinCEN",
-    "link": "https://cryptopanic.com/news/33484651/US-Treasury-Sanctions-Russian-Shadow-Banking-Network-A7-Network-Over-17-Billion-in-Fund-Transfers-The-US-Treasury-Department-has-sanctioned-A7-Network-a-Russia-linked-shadow-banking-network-OFAC-designated-it-as-a-significant-transnational-criminal-organization-while-FinCEN",
-    "source": "@wublockchain",
-    "published": "Fri Oct 02 2026 03:34:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NOW: NEAR Intents says it has identified the hacker behind its $3.8M exploit and is giving them 48 hours to return the funds.",
-    "link": "https://cryptopanic.com/news/33484613/NOW-NEAR-Intents-says-it-has-identified-the-hacker-behind-its-38M-exploit-and-is-giving-them-48-hours-to-return-the-funds",
-    "source": "@cointelegraph",
-    "published": "Fri Oct 02 2026 03:30:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Michael Saylor: Strategy Has No Fixed Bitcoin Target",
-    "link": "https://cryptopanic.com/news/33484599/Michael-Saylor-Strategy-Has-No-Fixed-Bitcoin-Target",
-    "source": "btcusa.com",
-    "published": "Fri Oct 02 2026 03:30:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "What Are Mention Markets and Why Is the CFTC Targeting Them?",
-    "link": "https://cryptopanic.com/news/33484709/What-Are-Mention-Markets-and-Why-Is-the-CFTC-Targeting-Them",
-    "source": "beincrypto.com",
-    "published": "Fri Oct 02 2026 03:30:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
