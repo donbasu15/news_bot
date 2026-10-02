@@ -1,5 +1,40 @@
 [
   {
+    "title": "🇺🇸 LATEST: New York and Wyoming financial regulators agree to jointly oversee crypto firms in both states, sharing exam data and fast-tracking licenses for established companies.",
+    "link": "https://cryptopanic.com/news/33484056/LATEST-New-York-and-Wyoming-financial-regulators-agree-to-jointly-oversee-crypto-firms-in-both-states-sharing-exam-data-and-fast-tracking-licenses-for-established-companies",
+    "source": "@cointelegraph",
+    "published": "Fri Oct 02 2026 00:30:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "WATCH: Record-high diesel prices could push up the cost of food, deliveries and other goods while adding to inflationary pressures. Dan Burns explains",
+    "link": "https://cryptopanic.com/news/33484058/WATCH-Record-high-diesel-prices-could-push-up-the-cost-of-food-deliveries-and-other-goods-while-adding-to-inflationary-pressures-Dan-Burns-explains",
+    "source": "@reutersbiz",
+    "published": "Fri Oct 02 2026 00:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity",
+    "link": "https://cryptopanic.com/news/33483984/Ethereum-Foundation-launches-zkAPI-to-let-users-pay-for-AI-models-without-revealing-identity",
+    "source": "theblock.co",
+    "published": "Fri Oct 02 2026 00:22:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  The Ethereum Foundation and Open Anonymity Project launched zkAPI on Ethereum, letting users pay for AI and other metered APIs with ZK proofs.",
+    "link": "https://cryptopanic.com/news/33484014/LATEST-The-Ethereum-Foundation-and-Open-Anonymity-Project-launched-zkAPI-on-Ethereum-letting-users-pay-for-AI-and-other-metered-APIs-with-ZK-proofs",
+    "source": "@coinmarketcap",
+    "published": "Fri Oct 02 2026 00:22:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Daily #Cardano News! ️\n\nCharles Joins DC Roundtable!\n\nCIP-113: $ADA's Institutional Era?",
+    "link": "https://cryptopanic.com/news/33484054/Daily-Cardano-News-Charles-Joins-DC-Roundtable-CIP-113-ADAs-Institutional-Era",
+    "source": "@angrycryptoshow",
+    "published": "Fri Oct 02 2026 00:16:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Fed’s Jefferson Signals Patience After Rate Hike, Keeping Bitcoin’s Macro Outlook Tight",
     "link": "https://cryptopanic.com/news/33483972/Feds-Jefferson-Signals-Patience-After-Rate-Hike-Keeping-Bitcoins-Macro-Outlook-Tight",
     "source": "btcusa.com",
@@ -11,6 +46,13 @@
     "link": "https://cryptopanic.com/news/33483938/How-did-Anthropics-Dario-Amodei-win-Trump-back",
     "source": "cryptopolitan.com",
     "published": "Fri Oct 02 2026 00:01:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "TODAY: Ethereum Foundation and the Open Anonymity Project introduce zkAPI, letting users pay for AI and other metered APIs privately using zero-knowledge proofs, now live on Ethereum mainnet.",
+    "link": "https://cryptopanic.com/news/33484055/TODAY-Ethereum-Foundation-and-the-Open-Anonymity-Project-introduce-zkAPI-letting-users-pay-for-AI-and-other-metered-APIs-privately-using-zero-knowledge-proofs-now-live-on-Ethereum-mainnet",
+    "source": "@cointelegraph",
+    "published": "Fri Oct 02 2026 00:00:53 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -165,48 +207,6 @@
     "link": "https://cryptopanic.com/news/33483859/THIS-IS-INSANE-demand-for-tokenised-stocks-is-EXPLODING-HYPE-Pantera-reports-25-BILLION-in-HyperliquidX-equity-perp-open-interest-equivalent-to-1213-of-the-entire-observed-tokenised-equity-spot-market-cap-Onchain-markets-are-entering-another-league",
     "source": "@realallincrypto",
     "published": "Thu Oct 01 2026 23:00:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: SEC proposes new rules allowing investment advisers and regulated funds to self-custody crypto in some cases and use state trust companies as custodians",
-    "link": "https://cryptopanic.com/news/33483795/INTEL-SEC-proposes-new-rules-allowing-investment-advisers-and-regulated-funds-to-self-custody-crypto-in-some-cases-and-use-state-trust-companies-as-custodians",
-    "source": "@solidintel_x",
-    "published": "Thu Oct 01 2026 22:59:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Peter Todd takes lead of MARA’s Slipstream as private mempools gain ground",
-    "link": "https://cryptopanic.com/news/33483798/Peter-Todd-takes-lead-of-MARAs-Slipstream-as-private-mempools-gain-ground",
-    "source": "cryptopolitan.com",
-    "published": "Thu Oct 01 2026 22:59:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: ️ The authors of EIP-8363, the plan to burn more Ethereum validator rewards as staking grows, have withdrawn it from the Hegota upgrade after industry and developer pushback.",
-    "link": "https://cryptopanic.com/news/33483832/LATEST-The-authors-of-EIP-8363-the-plan-to-burn-more-Ethereum-validator-rewards-as-staking-grows-have-withdrawn-it-from-the-Hegota-upgrade-after-industry-and-developer-pushback",
-    "source": "@coinmarketcap",
-    "published": "Thu Oct 01 2026 22:55:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tesla’s car business keeps shrinking as Wall Street expects another year-over-year sales drop",
-    "link": "https://cryptopanic.com/news/33483794/Teslas-car-business-keeps-shrinking-as-Wall-Street-expects-another-year-over-year-sales-drop",
-    "source": "cryptopolitan.com",
-    "published": "Thu Oct 01 2026 22:53:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Swift’s SIBOS Miami: 4 days, 100+ global banks. Only Hedera+Ripple+Quant+Chainlink in the room.",
-    "link": "https://cryptopanic.com/news/33483978/Swifts-SIBOS-Miami-4-days-100-global-banks-Only-HederaRippleQuantChainlink-in-the-room",
-    "source": "r/hedera",
-    "published": "Thu Oct 01 2026 22:53:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Litecoin's traction is starting to show...\n\nCanary's spot @Litecoin ETF is ON FIRE.\n\nThe product has seen net inflows on 6 out of the last 8 trading days and saw total net inflows of nearly $6M in September.\n\nThe ETF holds only 0.27% of LTC's current supply - but that figure is",
-    "link": "https://cryptopanic.com/news/33483787/Litecoins-traction-is-starting-to-show-Canarys-spot-Litecoin-ETF-is-ON-FIRE-The-product-has-seen-net-inflows-on-6-out-of-the-last-8-trading-days-and-saw-total-net-inflows-of-nearly-6M-in-September-The-ETF-holds-only-027-of-LTCs-current-supply-but-that-figure-is",
-    "source": "@bscnews",
-    "published": "Thu Oct 01 2026 22:45:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
