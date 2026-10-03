@@ -1,6 +1,27 @@
 [
   {
     "title": "Source",
+    "link": "https://cryptopanic.com/news/33490215/Source",
+    "source": "@wublockchain",
+    "published": "Sat Oct 03 2026 06:33:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Learn what @PiCoreTeam's lock-up periods actually are, and why they could matter a great deal for the $PI token and its community... ⬇️",
+    "link": "https://cryptopanic.com/news/33490191/Learn-what-PiCoreTeams-lock-up-periods-actually-are-and-why-they-could-matter-a-great-deal-for-the-PI-token-and-its-community",
+    "source": "@bscnews",
+    "published": "Sat Oct 03 2026 06:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "An $ENA whale deposited 30M $ENA ($6.98M) into #Binance through #BitGo today after over a year of inactivity.\n\nThe whale still holds 157.55M $ENA ($36.74M).",
+    "link": "https://cryptopanic.com/news/33490193/An-ENA-whale-deposited-30M-ENA-698M-into-Binance-through-BitGo-today-after-over-a-year-of-inactivity-The-whale-still-holds-15755M-ENA-3674M",
+    "source": "@lookonchain",
+    "published": "Sat Oct 03 2026 06:15:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Source",
     "link": "https://cryptopanic.com/news/33490168/Source",
     "source": "@wublockchain",
     "published": "Sat Oct 03 2026 06:10:11 GMT+0000 (Coordinated Universal Time)",
@@ -11,6 +32,13 @@
     "link": "https://cryptopanic.com/news/33490167/Tokens-Worth-Over-1913B-Face-Major-Unlocks-Over-the-Next-Month-According-to-Tokenomist-one-time-unlocks-exceeding-10-million-over-the-next-month-include-HYPE-BTW-ENA-ZRO-FF-XPL-APR-H-ARB-CARDS-SUI-CONX-and-DBR-Linear-unlocks-exceeding-10-million-per-month",
     "source": "@wublockchain",
     "published": "Sat Oct 03 2026 06:09:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Andrew Tate(@Cobratate) deposited 20,950 $HYPE ($1.87M) into #Binance today.\n\nHe bought 122,827 $HYPE ($550K) at just $4.48 ~2 years ago and still holds 63,550 $HYPE ($5.62M).\n\nHe has made a total profit of $7.24M on $HYPE, with a 1,317% return.",
+    "link": "https://cryptopanic.com/news/33490192/Andrew-TateCobratate-deposited-20950-HYPE-187M-into-Binance-today-He-bought-122827-HYPE-550K-at-just-448-2-years-ago-and-still-holds-63550-HYPE-562M-He-has-made-a-total-profit-of-724M-on-HYPE-with-a-1317-return",
+    "source": "@lookonchain",
+    "published": "Sat Oct 03 2026 06:02:26 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33489861/CEX-Over-40000-BTC-left-exchanges-since-September-22nd-per-Coinglass-Where-did-it-go",
     "source": "@cointelegraph",
     "published": "Sat Oct 03 2026 03:30:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Vitalik Reimagines Ethereum, El Salvador Goes Onchain, HSBC RedCoin",
-    "link": "https://cryptopanic.com/news/33489851/Vitalik-Reimagines-Ethereum-El-Salvador-Goes-Onchain-HSBC-RedCoin",
-    "source": "btcusa.com",
-    "published": "Sat Oct 03 2026 03:30:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Ledger's stablecoin supply rips +15%.\n\nAt time of writing, @Ripple's $XRP Ledger's stablecoin market cap is up an insane +14.57% on the week.\n\nThe growth is doubly impressive when you consider that XRPL's stablecoin supply is already at more than $1.3B.\n\nThe chain is now very",
-    "link": "https://cryptopanic.com/news/33489899/XRP-Ledgers-stablecoin-supply-rips-15-At-time-of-writing-Ripples-XRP-Ledgers-stablecoin-market-cap-is-up-an-insane-1457-on-the-week-The-growth-is-doubly-impressive-when-you-consider-that-XRPLs-stablecoin-supply-is-already-at-more-than-13B-The-chain-is-now-very",
-    "source": "@bscnews",
-    "published": "Sat Oct 03 2026 03:01:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The drop in $PUMP 8 hours ago liquidated 2 traders, with a total of 707.6M $PUMP ($3.61M) liquidated.",
-    "link": "https://cryptopanic.com/news/33489901/The-drop-in-PUMP-8-hours-ago-liquidated-2-traders-with-a-total-of-7076M-PUMP-361M-liquidated",
-    "source": "@lookonchain",
-    "published": "Sat Oct 03 2026 03:00:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Treasury Sanctions Hamas Financing Network That Moved $2M Through Crypto",
-    "link": "https://cryptopanic.com/news/33489820/Treasury-Sanctions-Hamas-Financing-Network-That-Moved-2M-Through-Crypto",
-    "source": "btcusa.com",
-    "published": "Sat Oct 03 2026 03:00:07 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
