@@ -1,5 +1,12 @@
 [
   {
+    "title": "FDIC Is Making Bank Mergers Easier: the Fed Hasn’t Fully Followed",
+    "link": "https://cryptopanic.com/news/33491443/FDIC-Is-Making-Bank-Mergers-Easier-the-Fed-Hasnt-Fully-Followed",
+    "source": "coinpaper.com",
+    "published": "Sat Oct 03 2026 15:43:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST: 🇺🇸 Former House Financial Services Committee Chairman Patrick McHenry told CoinDesk the CLARITY Act is \"basically baked or cooked\" and could pass in the post-midterm lame-duck session.",
     "link": "https://cryptopanic.com/news/33491445/LATEST-Former-House-Financial-Services-Committee-Chairman-Patrick-McHenry-told-CoinDesk-the-CLARITY-Act-is-basically-baked-or-cooked-and-could-pass-in-the-post-midterm-lame-duck-session",
     "source": "@coinmarketcap",
@@ -14,10 +21,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "UPDATE: NEAR Intents says the full $3.8M stolen in a separate hack is back, with the investigation closed.",
+    "link": "https://cryptopanic.com/news/33491456/UPDATE-NEAR-Intents-says-the-full-38M-stolen-in-a-separate-hack-is-back-with-the-investigation-closed",
+    "source": "@cointelegraph",
+    "published": "Sat Oct 03 2026 15:30:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "SEC Approves 3x Leveraged Bitcoin and Ether ETPs",
     "link": "https://cryptopanic.com/news/33491420/SEC-Approves-3x-Leveraged-Bitcoin-and-Ether-ETPs",
     "source": "btcusa.com",
     "published": "Sat Oct 03 2026 15:30:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Global spending on AI and data centers could reach $30 trillion by 2050, but economists warn returns depend on risky assumptions about productivity gains and profits",
+    "link": "https://cryptopanic.com/news/33491457/Global-spending-on-AI-and-data-centers-could-reach-30-trillion-by-2050-but-economists-warn-returns-depend-on-risky-assumptions-about-productivity-gains-and-profits",
+    "source": "@reutersbiz",
+    "published": "Sat Oct 03 2026 15:30:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -32,6 +53,13 @@
     "link": "https://cryptopanic.com/news/33491444/What-is-the-single-most-important-skill-for-a-trader-to-master",
     "source": "@stackersatoshi",
     "published": "Sat Oct 03 2026 15:23:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Man Behind the XRP Lawsuit Could Get a White House AI Role Soon",
+    "link": "https://cryptopanic.com/news/33491452/Man-Behind-the-XRP-Lawsuit-Could-Get-a-White-House-AI-Role-Soon",
+    "source": "beincrypto.com",
+    "published": "Sat Oct 03 2026 15:20:27 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33491328/Zcash-Price-Crashes-Into-Bear-Market-as-ZEC-ETF-Outflows-Jump",
     "source": "feeds2.benzinga.com",
     "published": "Sat Oct 03 2026 14:30:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "G7 Releases 100M Barrels From Emergency Reserves, Oil Falls Back Below $100",
-    "link": "https://cryptopanic.com/news/33491297/G7-Releases-100M-Barrels-From-Emergency-Reserves-Oil-Falls-Back-Below-100",
-    "source": "coinpaper.com",
-    "published": "Sat Oct 03 2026 14:28:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Shiba Inu Price Prediction: Can Shibarium Utility Revive SHIB’s Next Rally?",
-    "link": "https://cryptopanic.com/news/33491269/Shiba-Inu-Price-Prediction-Can-Shibarium-Utility-Revive-SHIBs-Next-Rally",
-    "source": "coinpaper.com",
-    "published": "Sat Oct 03 2026 14:13:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Dogecoin Price Prediction: Can DogeOS Turn DOGE’s $0.10 Ceiling Into Support?",
-    "link": "https://cryptopanic.com/news/33491257/Dogecoin-Price-Prediction-Can-DogeOS-Turn-DOGEs-010-Ceiling-Into-Support",
-    "source": "coinpaper.com",
-    "published": "Sat Oct 03 2026 14:09:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Consob Blocks 5 More Sites: 235 of 1,834 Total Linked to Crypto",
-    "link": "https://cryptopanic.com/news/33491266/Consob-Blocks-5-More-Sites-235-of-1834-Total-Linked-to-Crypto",
-    "source": "spaziocrypto.com",
-    "published": "Sat Oct 03 2026 14:08:56 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
