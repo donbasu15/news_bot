@@ -1,5 +1,47 @@
 [
   {
+    "title": "Stellar (XLM) Secures 37% of Global 24-Hour Real-World Asset Tokenization",
+    "link": "https://cryptopanic.com/news/33493174/Stellar-XLM-Secures-37-of-Global-24-Hour-Real-World-Asset-Tokenization",
+    "source": "u.today",
+    "published": "Sun Oct 04 2026 10:11:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "This should put the “is the QNT token actually needed?” question to bed",
+    "link": "https://cryptopanic.com/news/33493142/This-should-put-the-is-the-QNT-token-actually-needed-question-to-bed",
+    "source": "r/quantnetwork",
+    "published": "Sun Oct 04 2026 10:08:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Supercycle: The '70s Gold Rush vs. Today",
+    "link": "https://cryptopanic.com/news/33493173/Bitcoin-Supercycle-The-70s-Gold-Rush-vs-Today",
+    "source": "SimplyBitcoin",
+    "published": "Sun Oct 04 2026 10:00:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Foundation Launches zkAPI for Private AI Payments",
+    "link": "https://cryptopanic.com/news/33493099/Ethereum-Foundation-Launches-zkAPI-for-Private-AI-Payments",
+    "source": "btcusa.com",
+    "published": "Sun Oct 04 2026 10:00:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin eyes $98K after 5 week squeeze – 3 signals to watch this macro heavy week",
+    "link": "https://cryptopanic.com/news/33493128/Bitcoin-eyes-98K-after-5-week-squeeze-3-signals-to-watch-this-macro-heavy-week",
+    "source": "ambcrypto.com",
+    "published": "Sun Oct 04 2026 10:00:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Which coin is going parabolic first in Uptober",
+    "link": "https://cryptopanic.com/news/33493160/Which-coin-is-going-parabolic-first-in-Uptober",
+    "source": "@coinmarketcap",
+    "published": "Sun Oct 04 2026 10:00:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "\"Ignore Everything And HODL\" 700% XRP Call Ethereum Is About To Ingnite The Bull Market For Crypto",
     "link": "https://cryptopanic.com/news/33493093/Ignore-Everything-And-HODL-700-XRP-Call-Ethereum-Is-About-To-Ingnite-The-Bull-Market-For-Crypto",
     "source": "TheModernInvestor",
@@ -165,48 +207,6 @@
     "link": "https://cryptopanic.com/news/33492836/Celestia-Price-Eyes-054-as-Fibre-Moves-Toward-Mainnet",
     "source": "coindoo.com",
     "published": "Sun Oct 04 2026 07:05:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Arbitrum shattered revenue records in September.\n\nThe @arbitrum network saw a staggering $5M+ worth of chain revenue in September - the best month it has seen in history.\n\nThis equates to a 500% MoM increase, $ARB also having processed some 1.5B in additional transactions in 2026",
-    "link": "https://cryptopanic.com/news/33492853/Arbitrum-shattered-revenue-records-in-September-The-arbitrum-network-saw-a-staggering-5M-worth-of-chain-revenue-in-September-the-best-month-it-has-seen-in-history-This-equates-to-a-500-MoM-increase-ARB-also-having-processed-some-15B-in-additional-transactions-in-2026",
-    "source": "@bscnews",
-    "published": "Sun Oct 04 2026 07:05:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "West Virginia Woman Faces 10 Felony Counts After Allegedly Spending $52,928 From Stolen Debit Card",
-    "link": "https://cryptopanic.com/news/33492839/West-Virginia-Woman-Faces-10-Felony-Counts-After-Allegedly-Spending-52928-From-Stolen-Debit-Card",
-    "source": "dailyhodl.com",
-    "published": "Sun Oct 04 2026 07:04:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The best thing you can do in a market you don't understand is trade smaller until you do.\n\nNot stop trading. Just stop trading big.",
-    "link": "https://cryptopanic.com/news/33492852/The-best-thing-you-can-do-in-a-market-you-dont-understand-is-trade-smaller-until-you-do-Not-stop-trading-Just-stop-trading-big",
-    "source": "@daancrypto",
-    "published": "Sun Oct 04 2026 07:01:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BNB Chain Overtakes Ethereum to Lead Tokenized Stock Market",
-    "link": "https://cryptopanic.com/news/33492822/BNB-Chain-Overtakes-Ethereum-to-Lead-Tokenized-Stock-Market",
-    "source": "coinpaprika.com",
-    "published": "Sun Oct 04 2026 07:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 UPDATE: Another rates hike this month is unlikely according to the CME Group as they set a 77.9% chance that rates remain unchanged.",
-    "link": "https://cryptopanic.com/news/33492812/UPDATE-Another-rates-hike-this-month-is-unlikely-according-to-the-CME-Group-as-they-set-a-779-chance-that-rates-remain-unchanged",
-    "source": "@cointelegraph",
-    "published": "Sun Oct 04 2026 06:37:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Sound Money Needs More Than Scarcity",
-    "link": "https://cryptopanic.com/news/33492756/Sound-Money-Needs-More-Than-Scarcity",
-    "source": "medium.com/pivx",
-    "published": "Sun Oct 04 2026 06:02:31 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
