@@ -1,5 +1,96 @@
 [
   {
+    "title": "Polkadot Adds New Emergency and Technical Governance Tracks in Runtime v2.5.0",
+    "link": "https://cryptopanic.com/news/33493212/Polkadot-Adds-New-Emergency-and-Technical-Governance-Tracks-in-Runtime-v250",
+    "source": "techgaged.com",
+    "published": "Sun Oct 04 2026 10:33:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Scroll Completes OpenVM 2.0 Upgrade With New SWIRL Proof System",
+    "link": "https://cryptopanic.com/news/33493211/Scroll-Completes-OpenVM-20-Upgrade-With-New-SWIRL-Proof-System",
+    "source": "techgaged.com",
+    "published": "Sun Oct 04 2026 10:33:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cosmos Community Weighs Return of 1.227 Million ATOM Recovered After Neutron Exploit",
+    "link": "https://cryptopanic.com/news/33493210/Cosmos-Community-Weighs-Return-of-1227-Million-ATOM-Recovered-After-Neutron-Exploit",
+    "source": "techgaged.com",
+    "published": "Sun Oct 04 2026 10:33:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Celestia’s SP1 Blobstream Deployments Are No Longer Maintained — Some Rollups Need a New Verification Path",
+    "link": "https://cryptopanic.com/news/33493209/Celestias-SP1-Blobstream-Deployments-Are-No-Longer-Maintained-Some-Rollups-Need-a-New-Verification-Path",
+    "source": "techgaged.com",
+    "published": "Sun Oct 04 2026 10:33:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hedera Is Removing Smart Contract Calls From Atomic Batches — Developers Have Until March 2027",
+    "link": "https://cryptopanic.com/news/33493208/Hedera-Is-Removing-Smart-Contract-Calls-From-Atomic-Batches-Developers-Have-Until-March-2027",
+    "source": "techgaged.com",
+    "published": "Sun Oct 04 2026 10:33:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Polygon Updates POL’s MiCA White Paper as EU Trading Access Expands",
+    "link": "https://cryptopanic.com/news/33493207/Polygon-Updates-POLs-MiCA-White-Paper-as-EU-Trading-Access-Expands",
+    "source": "techgaged.com",
+    "published": "Sun Oct 04 2026 10:33:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hedera Moves Its Bridgeless Cross-Ledger Protocol Into the Linux Foundation",
+    "link": "https://cryptopanic.com/news/33493206/Hedera-Moves-Its-Bridgeless-Cross-Ledger-Protocol-Into-the-Linux-Foundation",
+    "source": "techgaged.com",
+    "published": "Sun Oct 04 2026 10:33:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "South Korea’s KOMSCO Tests Full Local-Currency Settlement on the OP Stack",
+    "link": "https://cryptopanic.com/news/33493205/South-Koreas-KOMSCO-Tests-Full-Local-Currency-Settlement-on-the-OP-Stack",
+    "source": "techgaged.com",
+    "published": "Sun Oct 04 2026 10:32:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Polygon Ships Bor v2.10.2 With Faster State-Root Processing and New Witness Messaging",
+    "link": "https://cryptopanic.com/news/33493204/Polygon-Ships-Bor-v2102-With-Faster-State-Root-Processing-and-New-Witness-Messaging",
+    "source": "techgaged.com",
+    "published": "Sun Oct 04 2026 10:32:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hedera Quietly Completes v0.77.5 Mainnet Upgrade — Here’s What Changed",
+    "link": "https://cryptopanic.com/news/33493203/Hedera-Quietly-Completes-v0775-Mainnet-Upgrade-Heres-What-Changed",
+    "source": "techgaged.com",
+    "published": "Sun Oct 04 2026 10:32:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "PUMP Soars 16% in 24 Hours, Bitcoin Reclaims $85K: Weekend Watch",
+    "link": "https://cryptopanic.com/news/33493182/PUMP-Soars-16-in-24-Hours-Bitcoin-Reclaims-85K-Weekend-Watch",
+    "source": "cryptopotato.com",
+    "published": "Sun Oct 04 2026 10:27:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "How Hamas Moved Over $2 Million Using Crypto and Charities",
+    "link": "https://cryptopanic.com/news/33493221/How-Hamas-Moved-Over-2-Million-Using-Crypto-and-Charities",
+    "source": "beincrypto.com",
+    "published": "Sun Oct 04 2026 10:21:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "AI predicts XRP for October 31, 2026",
+    "link": "https://cryptopanic.com/news/33493168/AI-predicts-XRP-for-October-31-2026",
+    "source": "finbold.com",
+    "published": "Sun Oct 04 2026 10:17:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Stellar (XLM) Secures 37% of Global 24-Hour Real-World Asset Tokenization",
     "link": "https://cryptopanic.com/news/33493174/Stellar-XLM-Secures-37-of-Global-24-Hour-Real-World-Asset-Tokenization",
     "source": "u.today",
@@ -14,10 +105,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Midnight's NIGHT token just doubled in price!\n\n@MidnightNtwrk is up more than any other major crypto asset over the past week, ripping +90% and nearly doubling in price.\n\nFor now, NIGHT, is only the 73rd largest crypto asset by market cap at just over $800M, but much more growth",
+    "link": "https://cryptopanic.com/news/33493245/Midnights-NIGHT-token-just-doubled-in-price-MidnightNtwrk-is-up-more-than-any-other-major-crypto-asset-over-the-past-week-ripping-90-and-nearly-doubling-in-price-For-now-NIGHT-is-only-the-73rd-largest-crypto-asset-by-market-cap-at-just-over-800M-but-much-more-growth",
+    "source": "@bscnews",
+    "published": "Sun Oct 04 2026 10:07:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin Supercycle: The '70s Gold Rush vs. Today",
     "link": "https://cryptopanic.com/news/33493173/Bitcoin-Supercycle-The-70s-Gold-Rush-vs-Today",
     "source": "SimplyBitcoin",
     "published": "Sun Oct 04 2026 10:00:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "HUGE: Tokenised equities are up 2,393% in one year and @Ondo is already leading the charge! $ONDO\n\nDune shows Ondo Stocks leads all issuers with $936M, as tokenised equities hit $12.6B in monthly spot volume.\n\nIf stocks keep moving onchain at this pace, $ONDO is sitting right",
+    "link": "https://cryptopanic.com/news/33493194/HUGE-Tokenised-equities-are-up-2393-in-one-year-and-Ondo-is-already-leading-the-charge-ONDO-Dune-shows-Ondo-Stocks-leads-all-issuers-with-936M-as-tokenised-equities-hit-126B-in-monthly-spot-volume-If-stocks-keep-moving-onchain-at-this-pace-ONDO-is-sitting-right",
+    "source": "@realallincrypto",
+    "published": "Sun Oct 04 2026 10:00:24 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -39,6 +144,20 @@
     "link": "https://cryptopanic.com/news/33493160/Which-coin-is-going-parabolic-first-in-Uptober",
     "source": "@coinmarketcap",
     "published": "Sun Oct 04 2026 10:00:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Coinbase Clearing Completes Its Derivatives Stack",
+    "link": "https://cryptopanic.com/news/33493218/Coinbase-Clearing-Completes-Its-Derivatives-Stack",
+    "source": "catenaa.com",
+    "published": "Sun Oct 04 2026 10:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SEC Clears 3x Bitcoin ETF and Five More Funds",
+    "link": "https://cryptopanic.com/news/33493217/SEC-Clears-3x-Bitcoin-ETF-and-Five-More-Funds",
+    "source": "catenaa.com",
+    "published": "Sun Oct 04 2026 10:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -88,125 +207,6 @@
     "link": "https://cryptopanic.com/news/33493025/Running-an-Algorand-validator-is-NOW-ridiculously-accessible-A-decent-computer-internet-connection-and-30000-ALGO-will-now-do-it-Thats-enough-to-start-earning-staking-rewards-while-helping-secure-the-network-alongside-1500-validators-Decentralization-without",
     "source": "@realallincrypto",
     "published": "Sun Oct 04 2026 09:00:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Uptober, Moonvember, Bullcember.",
-    "link": "https://cryptopanic.com/news/33492993/Uptober-Moonvember-Bullcember",
-    "source": "@coinmarketcap",
-    "published": "Sun Oct 04 2026 09:00:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Coinbase CEO: AI Agents May Outnumber Humans in Transactions \n\nOn September 20, 2026, Coinbase CEO Brian Armstrong @brian_armstrong said in an interview with The Wolf Of All Streets @scottmelker that AI agents may eventually outnumber humans in transactions. He said existing",
-    "link": "https://cryptopanic.com/news/33492995/Coinbase-CEO-AI-Agents-May-Outnumber-Humans-in-Transactions-On-September-20-2026-Coinbase-CEO-Brian-Armstrong-brian_armstrong-said-in-an-interview-with-The-Wolf-Of-All-Streets-scottmelker-that-AI-agents-may-eventually-outnumber-humans-in-transactions-He-said-existing",
-    "source": "@wublockchain",
-    "published": "Sun Oct 04 2026 09:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "A $10 Billion Line Splits the US Stablecoin Market in Two",
-    "link": "https://cryptopanic.com/news/33493000/A-10-Billion-Line-Splits-the-US-Stablecoin-Market-in-Two",
-    "source": "coinpaprika.com",
-    "published": "Sun Oct 04 2026 09:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ZEC, DASH, and LIT lead losses among crypto majors...\n\nThe native tokens of @Lighter_xyz, @Zcash and @Dashpay have suffered significant price decline over the past week.\n\nLIT [-25%]\nZEC [-20%]\nDASH [-17%]\n\nThey lead weekly losses among crypto majors and are closely followed by",
-    "link": "https://cryptopanic.com/news/33493026/ZEC-DASH-and-LIT-lead-losses-among-crypto-majors-The-native-tokens-of-Lighter_xyz-Zcash-and-Dashpay-have-suffered-significant-price-decline-over-the-past-week-LIT-25-ZEC-20-DASH-17-They-lead-weekly-losses-among-crypto-majors-and-are-closely-followed-by",
-    "source": "@bscnews",
-    "published": "Sun Oct 04 2026 08:58:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "IonQ stock slips 0.5% to $43.77, testing the 200-session EMA at $43.78",
-    "link": "https://cryptopanic.com/news/33493044/IonQ-stock-slips-05-to-4377-testing-the-200-session-EMA-at-4378",
-    "source": "en.cryptonomist.ch",
-    "published": "Sun Oct 04 2026 08:57:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Starknet’s RSI jumps to 74.6 as STRK overshoots daily band",
-    "link": "https://cryptopanic.com/news/33493043/Starknets-RSI-jumps-to-746-as-STRK-overshoots-daily-band",
-    "source": "en.cryptonomist.ch",
-    "published": "Sun Oct 04 2026 08:51:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 NEW: Trump's new AI czar is Jay Clayton, the former SEC chair who sued Ripple, and he's leading a \"Super Intelligence Force\" with 120 days to report back.",
-    "link": "https://cryptopanic.com/news/33492958/NEW-Trumps-new-AI-czar-is-Jay-Clayton-the-former-SEC-chair-who-sued-Ripple-and-hes-leading-a-Super-Intelligence-Force-with-120-days-to-report-back",
-    "source": "@cointelegraph",
-    "published": "Sun Oct 04 2026 08:30:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hyperliquid: HYPE crypto faces $5.62M sell threat as Andrew Tate moves $1.87M",
-    "link": "https://cryptopanic.com/news/33492920/Hyperliquid-HYPE-crypto-faces-562M-sell-threat-as-Andrew-Tate-moves-187M",
-    "source": "ambcrypto.com",
-    "published": "Sun Oct 04 2026 08:00:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "PETER SCHIFF WARNS U.S. DEBT COULD HIT $50 TRILLION WITHIN YEARS!\n\nAt 8% interest, that could mean $4 TRILLION a year just servicing the debt.\n\nSchiff may not be a crypto fan, but mounting pressure on the traditional financial system could accelerate the shift toward crypto and",
-    "link": "https://cryptopanic.com/news/33492959/PETER-SCHIFF-WARNS-US-DEBT-COULD-HIT-50-TRILLION-WITHIN-YEARS-At-8-interest-that-could-mean-4-TRILLION-a-year-just-servicing-the-debt-Schiff-may-not-be-a-crypto-fan-but-mounting-pressure-on-the-traditional-financial-system-could-accelerate-the-shift-toward-crypto-and",
-    "source": "@realallincrypto",
-    "published": "Sun Oct 04 2026 08:00:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Greek Police Arrest 17 in $8 Million Crypto Pyramid Scheme",
-    "link": "https://cryptopanic.com/news/33492905/Greek-Police-Arrest-17-in-8-Million-Crypto-Pyramid-Scheme",
-    "source": "btcusa.com",
-    "published": "Sun Oct 04 2026 08:00:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Price Target: Fidelity Analyst Sees $300K by 2029",
-    "link": "https://cryptopanic.com/news/33492907/Bitcoin-Price-Target-Fidelity-Analyst-Sees-300K-by-2029",
-    "source": "coindoo.com",
-    "published": "Sun Oct 04 2026 07:58:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The @Aptos blockchain is taking privacy seriously. Here's what you need to know about confidential APT. ⬇️",
-    "link": "https://cryptopanic.com/news/33492903/The-Aptos-blockchain-is-taking-privacy-seriously-Heres-what-you-need-to-know-about-confidential-APT",
-    "source": "@bscnews",
-    "published": "Sun Oct 04 2026 07:51:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "2x and 3x Leveraged Crypto ETFs: How They Really Work and Why Returns Aren't What You Expect",
-    "link": "https://cryptopanic.com/news/33492882/2x-and-3x-Leveraged-Crypto-ETFs-How-They-Really-Work-and-Why-Returns-Arent-What-You-Expect",
-    "source": "spaziocrypto.com",
-    "published": "Sun Oct 04 2026 07:38:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇵🇭 REGULATION: A Philippine court just froze 25 crypto wallets and 86 bank accounts tied to an unnamed lawmaker in a flood control plunder probe.",
-    "link": "https://cryptopanic.com/news/33492897/REGULATION-A-Philippine-court-just-froze-25-crypto-wallets-and-86-bank-accounts-tied-to-an-unnamed-lawmaker-in-a-flood-control-plunder-probe",
-    "source": "@cointelegraph",
-    "published": "Sun Oct 04 2026 07:32:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Britain’s second-richest billionaire David Reuben leaves the UK for tax-free Monaco, joining a growing exodus of ultra-wealthy residents.",
-    "link": "https://cryptopanic.com/news/33492896/JUST-IN-Britains-second-richest-billionaire-David-Reuben-leaves-the-UK-for-tax-free-Monaco-joining-a-growing-exodus-of-ultra-wealthy-residents",
-    "source": "@cryptonwsuk",
-    "published": "Sun Oct 04 2026 07:15:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Crypto Banter's Ran Neuner says this is \"crypto's first real bull market,\" fueled by protocols bringing in real revenue, \"not driven by hot air and the promises of like big things to come.\"",
-    "link": "https://cryptopanic.com/news/33492876/LATEST-Crypto-Banters-Ran-Neuner-says-this-is-cryptos-first-real-bull-market-fueled-by-protocols-bringing-in-real-revenue-not-driven-by-hot-air-and-the-promises-of-like-big-things-to-come",
-    "source": "@coinmarketcap",
-    "published": "Sun Oct 04 2026 07:05:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Celestia Price Eyes $0.54 as Fibre Moves Toward Mainnet",
-    "link": "https://cryptopanic.com/news/33492836/Celestia-Price-Eyes-054-as-Fibre-Moves-Toward-Mainnet",
-    "source": "coindoo.com",
-    "published": "Sun Oct 04 2026 07:05:10 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
