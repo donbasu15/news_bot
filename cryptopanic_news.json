@@ -1,5 +1,33 @@
 [
   {
+    "title": "Two Bitcoin OGs who bought 1,346 $BTC($115M now) 13 years ago have moved 0.0005 $BTC ($43) after years of dormancy as a test transaction.\n\nThey bought 1,346 $BTC ($240K at the time) 13 years ago at an average price of $178, and are now sitting on a 479x return.",
+    "link": "https://cryptopanic.com/news/33493497/Two-Bitcoin-OGs-who-bought-1346-BTC115M-now-13-years-ago-have-moved-00005-BTC-43-after-years-of-dormancy-as-a-test-transaction-They-bought-1346-BTC-240K-at-the-time-13-years-ago-at-an-average-price-of-178-and-are-now-sitting-on-a-479x-return",
+    "source": "@lookonchain",
+    "published": "Sun Oct 04 2026 12:32:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33493472/Source",
+    "source": "@wublockchain",
+    "published": "Sun Oct 04 2026 12:27:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "In a new feature, The New York Times dispatched a reporter to Abu Dhabi to shadow @cz_binance following his release from prison. The report documents a wealth of previously unknown details—ranging from his life behind bars and royal diplomacy to little-known personal habits.",
+    "link": "https://cryptopanic.com/news/33493471/In-a-new-feature-The-New-York-Times-dispatched-a-reporter-to-Abu-Dhabi-to-shadow-cz_binance-following-his-release-from-prison-The-report-documents-a-wealth-of-previously-unknown-detailsranging-from-his-life-behind-bars-and-royal-diplomacy-to-little-known-personal-habits",
+    "source": "@wublockchain",
+    "published": "Sun Oct 04 2026 12:27:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Meet the anonymous creator behind @Shibtoken $SHIB - currently the world's second largest memecoin and one that has stood the test of time... ⬇️",
+    "link": "https://cryptopanic.com/news/33493495/Meet-the-anonymous-creator-behind-Shibtoken-SHIB-currently-the-worlds-second-largest-memecoin-and-one-that-has-stood-the-test-of-time",
+    "source": "@bscnews",
+    "published": "Sun Oct 04 2026 12:26:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Crypto Hiring Rebounds as Job Openings Triple and Applications Fall",
     "link": "https://cryptopanic.com/news/33493414/Crypto-Hiring-Rebounds-as-Job-Openings-Triple-and-Applications-Fall",
     "source": "btcusa.com",
@@ -18,6 +46,13 @@
     "link": "https://cryptopanic.com/news/33493407/Ethereums-Next-Move-Will-Break-Crypto",
     "source": "TheCryptoLark",
     "published": "Sun Oct 04 2026 12:02:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "HUGE: Hedera’s DeFi ecosystem is EXPLODING as it just DOUBLED!  $HBAR\n\nAccording to DeFi Llama TVL has surged from roughly $20.8M in mid August to over $42M, effectively DOUBLING in under 7 weeks!\n\nMore capital is moving into @hedera, liquidity is growing and the ecosystem is",
+    "link": "https://cryptopanic.com/news/33493493/HUGE-Hederas-DeFi-ecosystem-is-EXPLODING-as-it-just-DOUBLED-HBAR-According-to-DeFi-Llama-TVL-has-surged-from-roughly-208M-in-mid-August-to-over-42M-effectively-DOUBLING-in-under-7-weeks-More-capital-is-moving-into-hedera-liquidity-is-growing-and-the-ecosystem-is",
+    "source": "@realallincrypto",
+    "published": "Sun Oct 04 2026 12:01:14 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -105,15 +140,15 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Citi and Coinbase Link Stablecoins to Fiat Rails",
-    "link": "https://cryptopanic.com/news/33493333/Citi-and-Coinbase-Link-Stablecoins-to-Fiat-Rails",
+    "title": "Bond Yields at 24-Year High Test Stocks’ Q4 Run",
+    "link": "https://cryptopanic.com/news/33493441/Bond-Yields-at-24-Year-High-Test-Stocks-Q4-Run",
     "source": "catenaa.com",
     "published": "Sun Oct 04 2026 11:30:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Bond Yields at 24-Year High Test Stocks’ Q4 Run",
-    "link": "https://cryptopanic.com/news/33493441/Bond-Yields-at-24-Year-High-Test-Stocks-Q4-Run",
+    "title": "Citi and Coinbase Link Stablecoins to Fiat Rails",
+    "link": "https://cryptopanic.com/news/33493333/Citi-and-Coinbase-Link-Stablecoins-to-Fiat-Rails",
     "source": "catenaa.com",
     "published": "Sun Oct 04 2026 11:30:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33493227/Gold-Can-Now-Earn-Gold-On-Chain-Paxos-Labs-Opens-Bullion-Lending-With-PAXGy",
     "source": "techgaged.com",
     "published": "Sun Oct 04 2026 10:43:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Mining Pools Could Hide Payout Addresses Without a Soft Fork",
-    "link": "https://cryptopanic.com/news/33493226/Bitcoin-Mining-Pools-Could-Hide-Payout-Addresses-Without-a-Soft-Fork",
-    "source": "techgaged.com",
-    "published": "Sun Oct 04 2026 10:43:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Core 32 Quietly Changes How Wallets Build PSBTs — Multisig Users Should Notice",
-    "link": "https://cryptopanic.com/news/33493225/Bitcoin-Core-32-Quietly-Changes-How-Wallets-Build-PSBTs-Multisig-Users-Should-Notice",
-    "source": "techgaged.com",
-    "published": "Sun Oct 04 2026 10:43:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTERESTING: Long-term $BTC holders are still profitable, per Glassnode.",
-    "link": "https://cryptopanic.com/news/33493320/INTERESTING-Long-term-BTC-holders-are-still-profitable-per-Glassnode",
-    "source": "@cointelegraph",
-    "published": "Sun Oct 04 2026 10:39:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "India's Central Bank Remains Wary of Crypto While Backing Tokenization",
-    "link": "https://cryptopanic.com/news/33493252/Indias-Central-Bank-Remains-Wary-of-Crypto-While-Backing-Tokenization",
-    "source": "u.today",
-    "published": "Sun Oct 04 2026 10:34:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Polkadot Adds New Emergency and Technical Governance Tracks in Runtime v2.5.0",
-    "link": "https://cryptopanic.com/news/33493212/Polkadot-Adds-New-Emergency-and-Technical-Governance-Tracks-in-Runtime-v250",
-    "source": "techgaged.com",
-    "published": "Sun Oct 04 2026 10:33:31 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
