@@ -1,5 +1,12 @@
 [
   {
+    "title": "QUESTION: If you got $5000 from Trump, what would you do with it?",
+    "link": "https://cryptopanic.com/news/33492283/QUESTION-If-you-got-5000-from-Trump-what-would-you-do-with-it",
+    "source": "@cointelegraph",
+    "published": "Sun Oct 04 2026 02:30:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Arc is on an insane run...\n\nOnly half a month after launch and @Circle and @jerallaire's @Arc network already boasts some incredible metrics.\n\nHere are the highlights:\n\n- $520M stablecoin supply.\n- $556M TVL.\n- $400M weekly DEX volume.\n\nArc is just getting started.",
     "link": "https://cryptopanic.com/news/33492266/Arc-is-on-an-insane-run-Only-half-a-month-after-launch-and-Circle-and-jerallaires-Arc-network-already-boasts-some-incredible-metrics-Here-are-the-highlights-520M-stablecoin-supply-556M-TVL-400M-weekly-DEX-volume-Arc-is-just-getting-started",
     "source": "@bscnews",
@@ -200,13 +207,6 @@
     "link": "https://cryptopanic.com/news/33491954/Community-Bankers-Sue-OCC-Over-Crypto-Firms-National-Trust-Charters",
     "source": "beincrypto.com",
     "published": "Sat Oct 03 2026 21:27:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "IEX Launches Options Trading, Files to List Bitcoin ETF Options",
-    "link": "https://cryptopanic.com/news/33491897/IEX-Launches-Options-Trading-Files-to-List-Bitcoin-ETF-Options",
-    "source": "btcusa.com",
-    "published": "Sat Oct 03 2026 21:05:08 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
