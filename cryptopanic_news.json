@@ -1,5 +1,40 @@
 [
   {
+    "title": "ICYMI: 🤖 Anthropic is targeting an IPO as soon as mid-November, with prospective investors valuing it at $1.8T-$2T, per Bloomberg.",
+    "link": "https://cryptopanic.com/news/33497287/ICYMI-Anthropic-is-targeting-an-IPO-as-soon-as-mid-November-with-prospective-investors-valuing-it-at-18T-2T-per-Bloomberg",
+    "source": "@coinmarketcap",
+    "published": "Mon Oct 05 2026 11:47:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hyperliquid Perps Hits Bloomberg Terminal Across Oil, Gold and U.S. Stocks",
+    "link": "https://cryptopanic.com/news/33497239/Hyperliquid-Perps-Hits-Bloomberg-Terminal-Across-Oil-Gold-and-US-Stocks",
+    "source": "coinpaper.com",
+    "published": "Mon Oct 05 2026 11:42:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: @HyperliquidX perpetual futures go live on Bloomberg Terminal, as the platform distributes its first $14.6M in stablecoin yield to fund $HYPE buybacks and burns, with annualized revenue approaching $193M.",
+    "link": "https://cryptopanic.com/news/33497302/JUST-IN-HyperliquidX-perpetual-futures-go-live-on-Bloomberg-Terminal-as-the-platform-distributes-its-first-146M-in-stablecoin-yield-to-fund-HYPE-buybacks-and-burns-with-annualized-revenue-approaching-193M",
+    "source": "@coindesk",
+    "published": "Mon Oct 05 2026 11:42:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Can Stellar (@StellarOrg) really help people without bank accounts?\n\nStellar lets users receive, hold and send digital dollars with a smartphone, while MoneyGram provides cash access in supported markets.\n\nBut there are still major limits.\n\nFind out more",
+    "link": "https://cryptopanic.com/news/33497307/Can-Stellar-StellarOrg-really-help-people-without-bank-accounts-Stellar-lets-users-receive-hold-and-send-digital-dollars-with-a-smartphone-while-MoneyGram-provides-cash-access-in-supported-markets-But-there-are-still-major-limits-Find-out-more",
+    "source": "@bscnews",
+    "published": "Mon Oct 05 2026 11:41:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Morning Minute: Uptober Off to a Green Start",
+    "link": "https://cryptopanic.com/news/33497309/Morning-Minute-Uptober-Off-to-a-Green-Start",
+    "source": "@decryptmedia",
+    "published": "Mon Oct 05 2026 11:40:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Morning Minute: Uptober Off to a Green Start",
     "link": "https://cryptopanic.com/news/33497230/Morning-Minute-Uptober-Off-to-a-Green-Start",
     "source": "decrypt.co",
@@ -11,6 +46,13 @@
     "link": "https://cryptopanic.com/news/33497218/What-Happens-When-the-World-Runs-Low-on-Oil-Inventories",
     "source": "coinpaper.com",
     "published": "Mon Oct 05 2026 11:33:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BIG: Bloomberg Terminal adds real-time tracking for Hyperliquid perp quotes across multiple asset classes.",
+    "link": "https://cryptopanic.com/news/33497303/BIG-Bloomberg-Terminal-adds-real-time-tracking-for-Hyperliquid-perp-quotes-across-multiple-asset-classes",
+    "source": "@cointelegraph",
+    "published": "Mon Oct 05 2026 11:30:58 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -28,16 +70,16 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Blast Shutdown Exposes Fragile Chain Economics",
-    "link": "https://cryptopanic.com/news/33497229/Blast-Shutdown-Exposes-Fragile-Chain-Economics",
-    "source": "catenaa.com",
+    "title": "GST Council May Protect ITC Buyers From Supplier Tax Defaults",
+    "link": "https://cryptopanic.com/news/33497242/GST-Council-May-Protect-ITC-Buyers-From-Supplier-Tax-Defaults",
+    "source": "sfctoday.com",
     "published": "Mon Oct 05 2026 11:30:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "GST Council May Protect ITC Buyers From Supplier Tax Defaults",
-    "link": "https://cryptopanic.com/news/33497242/GST-Council-May-Protect-ITC-Buyers-From-Supplier-Tax-Defaults",
-    "source": "sfctoday.com",
+    "title": "Blast Shutdown Exposes Fragile Chain Economics",
+    "link": "https://cryptopanic.com/news/33497229/Blast-Shutdown-Exposes-Fragile-Chain-Economics",
+    "source": "catenaa.com",
     "published": "Mon Oct 05 2026 11:30:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -74,6 +116,13 @@
     "link": "https://cryptopanic.com/news/33497215/Live-Bitcoin-Halving-Countdown",
     "source": "@watcherguru",
     "published": "Mon Oct 05 2026 11:21:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoins next move $91,000 target  bitcoin:native",
+    "link": "https://cryptopanic.com/news/33497306/Bitcoins-next-move-91000-target-bitcoinnative",
+    "source": "@realallincrypto",
+    "published": "Mon Oct 05 2026 11:21:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -158,55 +207,6 @@
     "link": "https://cryptopanic.com/news/33497127/UPDATE-Metaplanet-says-it-sold-BTC-to-cover-obligations-then-repurchased-more-BTC-ending-Q3-with-44K-BTC",
     "source": "@cointelegraph",
     "published": "Mon Oct 05 2026 11:01:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$BTC Back above $85K with a lot of marginally lower highs sitting in that $87K region. Can safely assume a lot of short stops would be placed there.\n\nOn the other side, the bulls need to maintain these higher lows as well as we've been seeing marginally higher lows on the way up",
-    "link": "https://cryptopanic.com/news/33497135/BTC-Back-above-85K-with-a-lot-of-marginally-lower-highs-sitting-in-that-87K-region-Can-safely-assume-a-lot-of-short-stops-would-be-placed-there-On-the-other-side-the-bulls-need-to-maintain-these-higher-lows-as-well-as-weve-been-seeing-marginally-higher-lows-on-the-way-up",
-    "source": "@daancrypto",
-    "published": "Mon Oct 05 2026 11:01:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HUGE: S&P Global just launched a new risk framework for $10 BILLION+ of crypto lending vaults!\n\nThe S&P will assess how risky these onchain lending pools are, from credit and liquidity to blockchain security.\n\nTraditional finance is now building the tools to understand DeFi.",
-    "link": "https://cryptopanic.com/news/33497139/HUGE-SampP-Global-just-launched-a-new-risk-framework-for-10-BILLION-of-crypto-lending-vaults-The-SampP-will-assess-how-risky-these-onchain-lending-pools-are-from-credit-and-liquidity-to-blockchain-security-Traditional-finance-is-now-building-the-tools-to-understand-DeFi",
-    "source": "@realallincrypto",
-    "published": "Mon Oct 05 2026 11:00:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Chainalysis AI Traced North Korea's $387M Bitget Hack in Under 10 Minutes",
-    "link": "https://cryptopanic.com/news/33497031/Chainalysis-AI-Traced-North-Koreas-387M-Bitget-Hack-in-Under-10-Minutes",
-    "source": "coinpaprika.com",
-    "published": "Mon Oct 05 2026 11:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Metaplanet added 1,000 bitcoin net in the third quarter bringing holdings to 44,000 BTC",
-    "link": "https://cryptopanic.com/news/33497141/Metaplanet-added-1000-bitcoin-net-in-the-third-quarter-bringing-holdings-to-44000-BTC",
-    "source": "coindesk.com",
-    "published": "Mon Oct 05 2026 10:58:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Russia just opened the door to crypto exchanges\n\nRussian financial regulators have officially launched the application portal for licensing regulated cryptocurrency exchanges under the country's federal cryptocurrency regulation.\n\nManaged by the Central Bank of Russia, the",
-    "link": "https://cryptopanic.com/news/33497209/Russia-just-opened-the-door-to-crypto-exchanges-Russian-financial-regulators-have-officially-launched-the-application-portal-for-licensing-regulated-cryptocurrency-exchanges-under-the-countrys-federal-cryptocurrency-regulation-Managed-by-the-Central-Bank-of-Russia-the",
-    "source": "@bscnews",
-    "published": "Mon Oct 05 2026 10:55:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "GET LONG.",
-    "link": "https://cryptopanic.com/news/33497138/GET-LONG",
-    "source": "@realallincrypto",
-    "published": "Mon Oct 05 2026 10:55:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Zcash NU7 Upgrade: ZEC Targets 25-Second Blocks In Testnet",
-    "link": "https://cryptopanic.com/news/33497007/Zcash-NU7-Upgrade-ZEC-Targets-25-Second-Blocks-In-Testnet",
-    "source": "cryptonews.com",
-    "published": "Mon Oct 05 2026 10:55:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
