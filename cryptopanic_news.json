@@ -1,9 +1,65 @@
 [
   {
+    "title": "Why Do Token Unlocks Sometimes Crash Crypto Prices, and Sometimes Do Nothing?",
+    "link": "https://cryptopanic.com/news/33498837/Why-Do-Token-Unlocks-Sometimes-Crash-Crypto-Prices-and-Sometimes-Do-Nothing",
+    "source": "coinpaper.com",
+    "published": "Mon Oct 05 2026 16:51:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Weeks after denying a sale, Metaplanet reveals it dumped and rebought 10,000 BTC",
+    "link": "https://cryptopanic.com/news/33498858/Weeks-after-denying-a-sale-Metaplanet-reveals-it-dumped-and-rebought-10000-BTC",
+    "source": "cryptopolitan.com",
+    "published": "Mon Oct 05 2026 16:50:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Umia raises $6.1 million at $18 million FDV to help crypto projects launch tokens",
+    "link": "https://cryptopanic.com/news/33498836/Umia-raises-61-million-at-18-million-FDV-to-help-crypto-projects-launch-tokens",
+    "source": "theblock.co",
+    "published": "Mon Oct 05 2026 16:49:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Investment bank giant TD Cowen says \"Bitcoin is increasingly being evaluated within a portfolio construction framework\" \n\n\"Conversation around Bitcoin has evolved from WILL institutions participate, to HOW will institutions participate.\"",
+    "link": "https://cryptopanic.com/news/33498867/JUST-IN-Investment-bank-giant-TD-Cowen-says-Bitcoin-is-increasingly-being-evaluated-within-a-portfolio-construction-framework-Conversation-around-Bitcoin-has-evolved-from-WILL-institutions-participate-to-HOW-will-institutions-participate",
+    "source": "@bitcoinmagazine",
+    "published": "Mon Oct 05 2026 16:49:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CFTC Unveils Plan to Bring Crypto Exchanges Under Federal Oversight",
+    "link": "https://cryptopanic.com/news/33498833/CFTC-Unveils-Plan-to-Bring-Crypto-Exchanges-Under-Federal-Oversight",
+    "source": "decrypt.co",
+    "published": "Mon Oct 05 2026 16:46:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Falls Below $85K Despite New Strategy, Metaplanet and Strive Purchases",
+    "link": "https://cryptopanic.com/news/33498816/Bitcoin-Falls-Below-85K-Despite-New-Strategy-Metaplanet-and-Strive-Purchases",
+    "source": "coinpaper.com",
+    "published": "Mon Oct 05 2026 16:44:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "How Raoul Pal Built His Crypto Portfolio: BTC, ETH, SOL and 1 Surprise Coin",
+    "link": "https://cryptopanic.com/news/33498852/How-Raoul-Pal-Built-His-Crypto-Portfolio-BTC-ETH-SOL-and-1-Surprise-Coin",
+    "source": "feeds2.benzinga.com",
+    "published": "Mon Oct 05 2026 16:39:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: President Trump says refinery disruptions, rather than the Strait of Hormuz, are now driving up US gasoline prices.",
     "link": "https://cryptopanic.com/news/33498830/JUST-IN-President-Trump-says-refinery-disruptions-rather-than-the-Strait-of-Hormuz-are-now-driving-up-US-gasoline-prices",
     "source": "@cointelegraph",
     "published": "Mon Oct 05 2026 16:38:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 President Trump blames rising gas prices on \"Dumocrats\" and Russian oil refineries being attacked by Ukraine.",
+    "link": "https://cryptopanic.com/news/33498868/JUST-IN-President-Trump-blames-rising-gas-prices-on-Dumocrats-and-Russian-oil-refineries-being-attacked-by-Ukraine",
+    "source": "@watcherguru",
+    "published": "Mon Oct 05 2026 16:37:51 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -32,6 +88,13 @@
     "link": "https://cryptopanic.com/news/33498775/Orange-Man-Warns-Midterms-Could-Trigger-Economic-Collapse",
     "source": "SimplyBitcoin",
     "published": "Mon Oct 05 2026 16:26:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "It's happening... Polygon is taking over the stablecoins sector.\n\nIn September, @0xPolygon generated a staggering $97.9B in total stablecoin volume, working out to a +14% increase from August.\n\nSome 69% of this volume was in @Circle's $USDC stablecoin, and Polygon's stablecoin",
+    "link": "https://cryptopanic.com/news/33498861/Its-happening-Polygon-is-taking-over-the-stablecoins-sector-In-September-0xPolygon-generated-a-staggering-979B-in-total-stablecoin-volume-working-out-to-a-14-increase-from-August-Some-69-of-this-volume-was-in-Circles-USDC-stablecoin-and-Polygons-stablecoin",
+    "source": "@bscnews",
+    "published": "Mon Oct 05 2026 16:25:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -144,69 +207,6 @@
     "link": "https://cryptopanic.com/news/33498626/NEXTPredict-Founder-Nobody-Was-Serving-Prediction-Markets-Enormous-Audience",
     "source": "decrypt.co",
     "published": "Mon Oct 05 2026 16:03:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$ETH Still consolidating beneath its major $2.8K resistance level.\n\nThe market is in a state where every time you expect a breakout to either side, it turns around and squeezes opposing positions.\n\nPatience is needed, especially as these choppy conditions can take a while to play",
-    "link": "https://cryptopanic.com/news/33498681/ETH-Still-consolidating-beneath-its-major-28K-resistance-level-The-market-is-in-a-state-where-every-time-you-expect-a-breakout-to-either-side-it-turns-around-and-squeezes-opposing-positions-Patience-is-needed-especially-as-these-choppy-conditions-can-take-a-while-to-play",
-    "source": "@daancrypto",
-    "published": "Mon Oct 05 2026 16:01:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Intesa's MPS bid set to redraw Italian banking landscape",
-    "link": "https://cryptopanic.com/news/33498831/Intesas-MPS-bid-set-to-redraw-Italian-banking-landscape",
-    "source": "@reutersbiz",
-    "published": "Mon Oct 05 2026 16:00:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "TRON’s network stays busy – So why is TRX ETF demand stalled?",
-    "link": "https://cryptopanic.com/news/33498624/TRONs-network-stays-busy-So-why-is-TRX-ETF-demand-stalled",
-    "source": "ambcrypto.com",
-    "published": "Mon Oct 05 2026 16:00:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Can Bitcoin STOP This Huge Threat?",
-    "link": "https://cryptopanic.com/news/33498625/Can-Bitcoin-STOP-This-Huge-Threat",
-    "source": "CryptoTips",
-    "published": "Mon Oct 05 2026 16:00:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HUGE: A brand new major report from OMFIF, a think tank focused on central banking is exploring the future of AI-powered payments and Hedera + Ripple are mentioned in the report! $HBAR $XRP\n\nOMFIF’s network spans central banks and financial giants, while its DMI partners",
-    "link": "https://cryptopanic.com/news/33498682/HUGE-A-brand-new-major-report-from-OMFIF-a-think-tank-focused-on-central-banking-is-exploring-the-future-of-AI-powered-payments-and-Hedera-Ripple-are-mentioned-in-the-report-HBAR-XRP-OMFIFs-network-spans-central-banks-and-financial-giants-while-its-DMI-partners",
-    "source": "@realallincrypto",
-    "published": "Mon Oct 05 2026 16:00:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Visa Stablecoin Card Spending Nearly Triples",
-    "link": "https://cryptopanic.com/news/33498577/Visa-Stablecoin-Card-Spending-Nearly-Triples",
-    "source": "catenaa.com",
-    "published": "Mon Oct 05 2026 16:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "OpenPayd Nasdaq Listing Tests Fintech Appetite",
-    "link": "https://cryptopanic.com/news/33498579/OpenPayd-Nasdaq-Listing-Tests-Fintech-Appetite",
-    "source": "catenaa.com",
-    "published": "Mon Oct 05 2026 16:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 CFTC Chair Mike Selig releases video unveiling proposed rules to regulate US crypto markets.\n\n\"Clear rules of the road start now.\"",
-    "link": "https://cryptopanic.com/news/33498756/JUST-IN-CFTC-Chair-Mike-Selig-releases-video-unveiling-proposed-rules-to-regulate-US-crypto-markets-Clear-rules-of-the-road-start-now",
-    "source": "@watcherguru",
-    "published": "Mon Oct 05 2026 15:58:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why Can a Small Bitcoin Drop Trigger Billions in Liquidations?",
-    "link": "https://cryptopanic.com/news/33498559/Why-Can-a-Small-Bitcoin-Drop-Trigger-Billions-in-Liquidations",
-    "source": "coinpaper.com",
-    "published": "Mon Oct 05 2026 15:57:01 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
