@@ -1,5 +1,54 @@
 [
   {
+    "title": "Peter Schiff Warns Bitcoin Vulnerable to Tech Stock Pullback",
+    "link": "https://cryptopanic.com/news/33500108/Peter-Schiff-Warns-Bitcoin-Vulnerable-to-Tech-Stock-Pullback",
+    "source": "cryptoprowl.com",
+    "published": "Mon Oct 05 2026 23:38:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Metaplanet Unveils Net Income Plan to Fund Bitcoin Buys",
+    "link": "https://cryptopanic.com/news/33500103/Metaplanet-Unveils-Net-Income-Plan-to-Fund-Bitcoin-Buys",
+    "source": "cryptoprowl.com",
+    "published": "Mon Oct 05 2026 23:32:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SECURITY PSA: Active exploits targeting contracts with missing access controls — check your allowances and revoke now",
+    "link": "https://cryptopanic.com/news/33500122/SECURITY-PSA-Active-exploits-targeting-contracts-with-missing-access-controls-check-your-allowances-and-revoke-now",
+    "source": "r/hedera",
+    "published": "Mon Oct 05 2026 23:29:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Delphi Digital says with the Fed hiking in September and Treasuries paying over 5%, every risky asset has to \"work harder to deserve the money.\"",
+    "link": "https://cryptopanic.com/news/33500100/LATEST-Delphi-Digital-says-with-the-Fed-hiking-in-September-and-Treasuries-paying-over-5-every-risky-asset-has-to-work-harder-to-deserve-the-money",
+    "source": "@coinmarketcap",
+    "published": "Mon Oct 05 2026 23:25:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Whales are unstaking their $ETH ...\n\nThough @Ethereum staking entries still outpace exits, the gap is getting smaller and smaller.\n\nCurrently, there is some 1,457,964 $ETH versus just 786,275 $ETH waiting to be unstaked.\n\nHowever, the difference between the two is now smaller",
+    "link": "https://cryptopanic.com/news/33500121/Whales-are-unstaking-their-ETH-Though-Ethereum-staking-entries-still-outpace-exits-the-gap-is-getting-smaller-and-smaller-Currently-there-is-some-1457964-ETH-versus-just-786275-ETH-waiting-to-be-unstaked-However-the-difference-between-the-two-is-now-smaller",
+    "source": "@bscnews",
+    "published": "Mon Oct 05 2026 23:20:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ANALYSIS:  Pump.​fun's PUMP climbed 18% over 7 days, while MET fell 14%, even as Meteora’s business grew.\n\nThe difference may come down to what happens to protocol revenue. \n\nHow does it all break down? Let's dive in.",
+    "link": "https://cryptopanic.com/news/33500099/ANALYSIS-Pumpfuns-PUMP-climbed-18-over-7-days-while-MET-fell-14-even-as-Meteoras-business-grew-The-difference-may-come-down-to-what-happens-to-protocol-revenue-How-does-it-all-break-down-Lets-dive-in",
+    "source": "@coinmarketcap",
+    "published": "Mon Oct 05 2026 23:12:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INSIGHT: Grayscale says Bitcoin returned 225% over three years versus Nasdaq’s 109%, but missing BTC’s five best trading days cuts its return to 95%.",
+    "link": "https://cryptopanic.com/news/33500101/INSIGHT-Grayscale-says-Bitcoin-returned-225-over-three-years-versus-Nasdaqs-109-but-missing-BTCs-five-best-trading-days-cuts-its-return-to-95",
+    "source": "@cointelegraph",
+    "published": "Mon Oct 05 2026 23:10:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Lyn Alden: The US Debt Train STILL Can't Stop",
     "link": "https://cryptopanic.com/news/33500056/Lyn-Alden-The-US-Debt-Train-STILL-Cant-Stop",
     "source": "BitcoinMagazine",
@@ -7,10 +56,31 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Everyone knows that @SeiNetwork is ultra-scalable... But few understand how that scalability is being used to bring TradFi onchain.\n\nHere's what you should really know ⬇️",
+    "link": "https://cryptopanic.com/news/33500120/Everyone-knows-that-SeiNetwork-is-ultra-scalable-But-few-understand-how-that-scalability-is-being-used-to-bring-TradFi-onchain-Heres-what-you-should-really-know",
+    "source": "@bscnews",
+    "published": "Mon Oct 05 2026 23:05:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "WATCH: This great clip shows why Charles Hoskinson has always been one of crypto’s most controversial figures, but clips like this remind you why he’s also one of the space’s OGs.  $ADA",
+    "link": "https://cryptopanic.com/news/33500119/WATCH-This-great-clip-shows-why-Charles-Hoskinson-has-always-been-one-of-cryptos-most-controversial-figures-but-clips-like-this-remind-you-why-hes-also-one-of-the-spaces-OGs-ADA",
+    "source": "@realallincrypto",
+    "published": "Mon Oct 05 2026 23:00:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "US stocks rose with the Nasdaq hitting a record high as optimism over corporate earnings outweighed concerns about rising Treasury yields",
     "link": "https://cryptopanic.com/news/33500018/US-stocks-rose-with-the-Nasdaq-hitting-a-record-high-as-optimism-over-corporate-earnings-outweighed-concerns-about-rising-Treasury-yields",
     "source": "@reutersbiz",
     "published": "Mon Oct 05 2026 23:00:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: ️ S&P Global Ratings launched Vault Risk Assessment, a tool that gauges risk in onchain lending vaults across six factors, including liquidity mismatch and curator risk.",
+    "link": "https://cryptopanic.com/news/33500098/LATEST-SampP-Global-Ratings-launched-Vault-Risk-Assessment-a-tool-that-gauges-risk-in-onchain-lending-vaults-across-six-factors-including-liquidity-mismatch-and-curator-risk",
+    "source": "@coinmarketcap",
+    "published": "Mon Oct 05 2026 22:53:02 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/33499870/Bitcoin-Spot-volume-climbed-in-September-Its-not-enough-for-BTCs-90K-dreams",
     "source": "ambcrypto.com",
     "published": "Mon Oct 05 2026 22:00:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hedera is the ONLY crypto network to get its own dedicated page in OMFIF’s new AI payments report!\n\nHedera’s Nilmini Rubin lays out how $HBAR can bring identity, accountability and verifiable trust to AI agents, highlighting EQTY Lab’s Verifiable Compute on @hedera.\n\nAI needs",
-    "link": "https://cryptopanic.com/news/33499920/Hedera-is-the-ONLY-crypto-network-to-get-its-own-dedicated-page-in-OMFIFs-new-AI-payments-report-Hederas-Nilmini-Rubin-lays-out-how-HBAR-can-bring-identity-accountability-and-verifiable-trust-to-AI-agents-highlighting-EQTY-Labs-Verifiable-Compute-on-hedera-AI-needs",
-    "source": "@realallincrypto",
-    "published": "Mon Oct 05 2026 22:00:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Musk reclaims trillionaire status as ‘SpaceXSI’ stock follows Starship into orbit",
-    "link": "https://cryptopanic.com/news/33499834/Musk-reclaims-trillionaire-status-as-SpaceXSI-stock-follows-Starship-into-orbit",
-    "source": "cryptopolitan.com",
-    "published": "Mon Oct 05 2026 21:58:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "What will it take for tokenization to go from billions to trillions onchain?\n\nJoin us at LONGITUDE: SG for a conversation on what comes next as tokenized assets move further into mainstream finance.\n\n• Matthew Horne, Head of Fidelity Digital Asset Strategies, Fidelity",
-    "link": "https://cryptopanic.com/news/33499918/What-will-it-take-for-tokenization-to-go-from-billions-to-trillions-onchain-Join-us-at-LONGITUDE-SG-for-a-conversation-on-what-comes-next-as-tokenized-assets-move-further-into-mainstream-finance-Matthew-Horne-Head-of-Fidelity-Digital-Asset-Strategies-Fidelity",
-    "source": "@cointelegraph",
-    "published": "Mon Oct 05 2026 21:50:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "DeFi Development Corp Adds $3 Million in Solana as SOL Buys Slow",
-    "link": "https://cryptopanic.com/news/33499825/DeFi-Development-Corp-Adds-3-Million-in-Solana-as-SOL-Buys-Slow",
-    "source": "decrypt.co",
-    "published": "Mon Oct 05 2026 21:48:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Metaplanet says its Bitcoin Income Generation business recorded ~$5.4M in Q3 FY2026 revenue, admitting progress has fallen short of its initial expectations.",
-    "link": "https://cryptopanic.com/news/33499828/LATEST-Metaplanet-says-its-Bitcoin-Income-Generation-business-recorded-54M-in-Q3-FY2026-revenue-admitting-progress-has-fallen-short-of-its-initial-expectations",
-    "source": "@coinmarketcap",
-    "published": "Mon Oct 05 2026 21:41:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why is @PiCoreTeam's $PI Ventures bullish on @openmind_agi ?!\n\nHere's what you should know ⬇️",
-    "link": "https://cryptopanic.com/news/33499820/Why-is-PiCoreTeams-PI-Ventures-bullish-on-openmind_agi-Heres-what-you-should-know",
-    "source": "@bscnews",
-    "published": "Mon Oct 05 2026 21:41:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Merchants on Base network can now accept stablecoin payments at checkout",
-    "link": "https://cryptopanic.com/news/33499826/Merchants-on-Base-network-can-now-accept-stablecoin-payments-at-checkout",
-    "source": "en.cryptonomist.ch",
-    "published": "Mon Oct 05 2026 21:34:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BIG: The Nasdaq Composite reaches a fresh all-time high as traders digest new economic data.",
-    "link": "https://cryptopanic.com/news/33499800/BIG-The-Nasdaq-Composite-reaches-a-fresh-all-time-high-as-traders-digest-new-economic-data",
-    "source": "@cointelegraph",
-    "published": "Mon Oct 05 2026 21:30:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SEC’s Peirce: Strict Rules Favored Useless Meme Coins",
-    "link": "https://cryptopanic.com/news/33499774/SECs-Peirce-Strict-Rules-Favored-Useless-Meme-Coins",
-    "source": "btcusa.com",
-    "published": "Mon Oct 05 2026 21:30:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "MARKET SNAPSHOT: Bitcoin holds near $85,800 as HYPE climbs more than 4% and ZEC trades above $1,340.\n\nNever miss a market move with the CoinDesk app.\n\nExclusively sponsored by @Grayscale.\n\nDownload today",
-    "link": "https://cryptopanic.com/news/33499797/MARKET-SNAPSHOT-Bitcoin-holds-near-85800-as-HYPE-climbs-more-than-4-and-ZEC-trades-above-1340-Never-miss-a-market-move-with-the-CoinDesk-app-Exclusively-sponsored-by-Grayscale-Download-today",
-    "source": "@coindesk",
-    "published": "Mon Oct 05 2026 21:30:07 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
