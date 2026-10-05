@@ -1,9 +1,44 @@
 [
   {
+    "title": "Only 6% of Asia Pacific Consumers Understand Stablecoins, Visa Survey Finds",
+    "link": "https://cryptopanic.com/news/33496111/Only-6-of-Asia-Pacific-Consumers-Understand-Stablecoins-Visa-Survey-Finds",
+    "source": "www.blockhead.co",
+    "published": "Mon Oct 05 2026 07:50:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "S&P Global Launches a Risk Check for Crypto Lending Vaults",
+    "link": "https://cryptopanic.com/news/33496108/SP-Global-Launches-a-Risk-Check-for-Crypto-Lending-Vaults",
+    "source": "coindoo.com",
+    "published": "Mon Oct 05 2026 07:48:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Zcash Puts Faster Blocks And New Fee Rules to the Test\n\nZcash (@zcash) has activated NU7 on testnet, putting its next major protocol upgrade through live testing.\n\nThe upgrade aims to cut target block spacing from 75 seconds to 25 seconds. It also disables version 4 transactions",
+    "link": "https://cryptopanic.com/news/33496120/Zcash-Puts-Faster-Blocks-And-New-Fee-Rules-to-the-Test-Zcash-zcash-has-activated-NU7-on-testnet-putting-its-next-major-protocol-upgrade-through-live-testing-The-upgrade-aims-to-cut-target-block-spacing-from-75-seconds-to-25-seconds-It-also-disables-version-4-transactions",
+    "source": "@bscnews",
+    "published": "Mon Oct 05 2026 07:45:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: Trump names former SEC Chair Jay Clayton as AI czar to lead the new Super Intelligence Force and deliver an AI policy report within 120 days",
+    "link": "https://cryptopanic.com/news/33496124/INTEL-Trump-names-former-SEC-Chair-Jay-Clayton-as-AI-czar-to-lead-the-new-Super-Intelligence-Force-and-deliver-an-AI-policy-report-within-120-days",
+    "source": "@solidintel_x",
+    "published": "Mon Oct 05 2026 07:45:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Apeing Presale Review: Is the APEING Token Legit or a Potential Scam?",
     "link": "https://cryptopanic.com/news/33496106/Apeing-Presale-Review-Is-the-APEING-Token-Legit-or-a-Potential-Scam",
     "source": "theholycoins.com",
     "published": "Mon Oct 05 2026 07:41:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Dogecoin tops $0.096 as ETF inflows and derivatives signal improving sentiment",
+    "link": "https://cryptopanic.com/news/33496112/Dogecoin-tops-0096-as-ETF-inflows-and-derivatives-signal-improving-sentiment",
+    "source": "coinjournal.net",
+    "published": "Mon Oct 05 2026 07:36:03 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -25,6 +60,13 @@
     "link": "https://cryptopanic.com/news/33496099/Bitcoin-at-157K-what-the-Power-Law-calculation-shows-Based-on-the-models-parameters-as-of-October-3-the-100-threshold-corresponds-to-a-price-of-1578K-roughly-86-above-the-current-price-By-AxelAdlerJr",
     "source": "@cryptoquant_com",
     "published": "Mon Oct 05 2026 07:25:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "What does vibe coding look like on the Internet Computer (@dfinity)?\n\nOur latest glossary breaks down Caffeine, canisters, cycles, Motoko, the NNS, and more.",
+    "link": "https://cryptopanic.com/news/33496119/What-does-vibe-coding-look-like-on-the-Internet-Computer-dfinity-Our-latest-glossary-breaks-down-Caffeine-canisters-cycles-Motoko-the-NNS-and-more",
+    "source": "@bscnews",
+    "published": "Mon Oct 05 2026 07:23:19 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -165,48 +207,6 @@
     "link": "https://cryptopanic.com/news/33495778/BitcoinBTC-Surpasses-86000-USDT-with-a-127-Increase-in-24-Hours",
     "source": "square.binance.com",
     "published": "Mon Oct 05 2026 06:20:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trader Reverses From Short to Long After Ethereum Losses",
-    "link": "https://cryptopanic.com/news/33495777/Trader-Reverses-From-Short-to-Long-After-Ethereum-Losses",
-    "source": "square.binance.com",
-    "published": "Mon Oct 05 2026 06:18:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "US Investors Fuel Record 2026 Funding for European Defense Startups",
-    "link": "https://cryptopanic.com/news/33495776/US-Investors-Fuel-Record-2026-Funding-for-European-Defense-Startups",
-    "source": "square.binance.com",
-    "published": "Mon Oct 05 2026 06:18:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stablecoin consumer interest hits 46% in Asia Pacific, but only 16% have used them",
-    "link": "https://cryptopanic.com/news/33496097/Stablecoin-consumer-interest-hits-46-in-Asia-Pacific-but-only-16-have-used-them",
-    "source": "en.cryptonomist.ch",
-    "published": "Mon Oct 05 2026 06:17:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trader 0x914b lost $471K shorting 14,976 $ETH($40.97M) and then flipped to long.\n\nHe opened a 25x long on 23,734 $ETH($64.3M), with a liquidation price of $2,650.",
-    "link": "https://cryptopanic.com/news/33495859/Trader-0x914b-lost-471K-shorting-14976-ETH4097M-and-then-flipped-to-long-He-opened-a-25x-long-on-23734-ETH643M-with-a-liquidation-price-of-2650",
-    "source": "@lookonchain",
-    "published": "Mon Oct 05 2026 06:12:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Last week ended on a high note for the NEAR Protocol (@NEARProtocol).",
-    "link": "https://cryptopanic.com/news/33495812/Last-week-ended-on-a-high-note-for-the-NEAR-Protocol-NEARProtocol",
-    "source": "@bscnews",
-    "published": "Mon Oct 05 2026 06:11:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JPMorgan Adds New Stocks to Its October Favorites List",
-    "link": "https://cryptopanic.com/news/33495821/JPMorgan-Adds-New-Stocks-to-Its-October-Favorites-List",
-    "source": "beincrypto.com",
-    "published": "Mon Oct 05 2026 06:07:41 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
