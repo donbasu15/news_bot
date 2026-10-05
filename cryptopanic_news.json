@@ -1,5 +1,89 @@
 [
   {
+    "title": "OKX, NYSE parent ICE joint venture seeks to launch tokenized US stock trading venue",
+    "link": "https://cryptopanic.com/news/33495824/OKX-NYSE-parent-ICE-joint-venture-seeks-to-launch-tokenized-US-stock-trading-venue",
+    "source": "theblock.co",
+    "published": "Mon Oct 05 2026 06:38:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 ETF FLOWS: BTC, SOL and XRP spot ETFs saw net inflows last week, while ETH spot ETFs saw net outflows.\n\nBTC: $241.09M\nETH: - $138.02M\nSOL: $2.43M\nXRP: $4.74M",
+    "link": "https://cryptopanic.com/news/33495811/ETF-FLOWS-BTC-SOL-and-XRP-spot-ETFs-saw-net-inflows-last-week-while-ETH-spot-ETFs-saw-net-outflows-BTC-24109M-ETH-13802M-SOL-243M-XRP-474M",
+    "source": "@cointelegraph",
+    "published": "Mon Oct 05 2026 06:30:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "OKX Files SEC Application for Tokenized U.S. Stock Trading",
+    "link": "https://cryptopanic.com/news/33495785/OKX-Files-SEC-Application-for-Tokenized-US-Stock-Trading",
+    "source": "btcusa.com",
+    "published": "Mon Oct 05 2026 06:30:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum OG \"0xa2F6\" sold another 13,330 $ETH($36.37M) after 6 months.\n\nThis OG bought 170,000 $ETH through the ICO at a low price of $0.31 (costing $52.7K, now worth $461.4M).",
+    "link": "https://cryptopanic.com/news/33495860/Ethereum-OG-0xa2F6-sold-another-13330-ETH3637M-after-6-months-This-OG-bought-170000-ETH-through-the-ICO-at-a-low-price-of-031-costing-527K-now-worth-4614M",
+    "source": "@lookonchain",
+    "published": "Mon Oct 05 2026 06:29:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Outpaced Bitcoin, But its Liquidity Took a Hit\n\nEther gained 70% in the third quarter, beating Bitcoin’s 42% rise, according to CoinGecko.\n\nYet ethereum:native’s median daily market depth fell sharply compared with the same period last year. Ether held only 35% to 45% of",
+    "link": "https://cryptopanic.com/news/33495813/Ethereum-Outpaced-Bitcoin-But-its-Liquidity-Took-a-Hit-Ether-gained-70-in-the-third-quarter-beating-Bitcoins-42-rise-according-to-CoinGecko-Yet-ethereumnatives-median-daily-market-depth-fell-sharply-compared-with-the-same-period-last-year-Ether-held-only-35-to-45-of",
+    "source": "@bscnews",
+    "published": "Mon Oct 05 2026 06:27:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin(BTC) Surpasses 86,000 USDT with a 1.27% Increase in 24 Hours",
+    "link": "https://cryptopanic.com/news/33495778/BitcoinBTC-Surpasses-86000-USDT-with-a-127-Increase-in-24-Hours",
+    "source": "square.binance.com",
+    "published": "Mon Oct 05 2026 06:20:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trader Reverses From Short to Long After Ethereum Losses",
+    "link": "https://cryptopanic.com/news/33495777/Trader-Reverses-From-Short-to-Long-After-Ethereum-Losses",
+    "source": "square.binance.com",
+    "published": "Mon Oct 05 2026 06:18:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "US Investors Fuel Record 2026 Funding for European Defense Startups",
+    "link": "https://cryptopanic.com/news/33495776/US-Investors-Fuel-Record-2026-Funding-for-European-Defense-Startups",
+    "source": "square.binance.com",
+    "published": "Mon Oct 05 2026 06:18:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trader 0x914b lost $471K shorting 14,976 $ETH($40.97M) and then flipped to long.\n\nHe opened a 25x long on 23,734 $ETH($64.3M), with a liquidation price of $2,650.",
+    "link": "https://cryptopanic.com/news/33495859/Trader-0x914b-lost-471K-shorting-14976-ETH4097M-and-then-flipped-to-long-He-opened-a-25x-long-on-23734-ETH643M-with-a-liquidation-price-of-2650",
+    "source": "@lookonchain",
+    "published": "Mon Oct 05 2026 06:12:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Last week ended on a high note for the NEAR Protocol (@NEARProtocol).",
+    "link": "https://cryptopanic.com/news/33495812/Last-week-ended-on-a-high-note-for-the-NEAR-Protocol-NEARProtocol",
+    "source": "@bscnews",
+    "published": "Mon Oct 05 2026 06:11:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JPMorgan Adds New Stocks to Its October Favorites List",
+    "link": "https://cryptopanic.com/news/33495821/JPMorgan-Adds-New-Stocks-to-Its-October-Favorites-List",
+    "source": "beincrypto.com",
+    "published": "Mon Oct 05 2026 06:07:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: Bitcoin's biggest cluster of short liquidations sits near $90K, meaning a move to that level could force leveraged shorts to close, per @glassnode.",
+    "link": "https://cryptopanic.com/news/33495809/NEW-Bitcoins-biggest-cluster-of-short-liquidations-sits-near-90K-meaning-a-move-to-that-level-could-force-leveraged-shorts-to-close-per-glassnode",
+    "source": "@cointelegraph",
+    "published": "Mon Oct 05 2026 06:01:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Read more",
     "link": "https://cryptopanic.com/news/33495753/Read-more",
     "source": "@wublockchain",
@@ -123,90 +207,6 @@
     "link": "https://cryptopanic.com/news/33495771/Eurazeo-Opens-First-Middle-East-Office-in-Abu-Dhabi",
     "source": "square.binance.com",
     "published": "Mon Oct 05 2026 05:01:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇯🇵 LATEST: Japan has added Russian crypto exchange Garantex to its sanctions list as part of new asset freezes tied to the war in Ukraine.",
-    "link": "https://cryptopanic.com/news/33495673/LATEST-Japan-has-added-Russian-crypto-exchange-Garantex-to-its-sanctions-list-as-part-of-new-asset-freezes-tied-to-the-war-in-Ukraine",
-    "source": "@cointelegraph",
-    "published": "Mon Oct 05 2026 05:00:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Binance Support Thread",
-    "link": "https://cryptopanic.com/news/33495568/Binance-Support-Thread",
-    "source": "r/binance",
-    "published": "Mon Oct 05 2026 05:00:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Russia Finance Ministry Pays Wages in Digital Rubles for First Time",
-    "link": "https://cryptopanic.com/news/33495546/Russia-Finance-Ministry-Pays-Wages-in-Digital-Rubles-for-First-Time",
-    "source": "coinpaprika.com",
-    "published": "Mon Oct 05 2026 05:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Kraken is Getting 24/7 Banking For Institutional Crypto\n\nPayward, the company behind Kraken, has integrated Singapore Gulf Bank’s real-time settlement network.\n\nThe partnership integrates SGB Net, allowing eligible clients to settle transactions instantly, seven days a week.\n\nThe",
-    "link": "https://cryptopanic.com/news/33495598/Kraken-is-Getting-247-Banking-For-Institutional-Crypto-Payward-the-company-behind-Kraken-has-integrated-Singapore-Gulf-Banks-real-time-settlement-network-The-partnership-integrates-SGB-Net-allowing-eligible-clients-to-settle-transactions-instantly-seven-days-a-week-The",
-    "source": "@bscnews",
-    "published": "Mon Oct 05 2026 04:46:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "IPID Raises $16 Million Series A to Expand Global Payment Network",
-    "link": "https://cryptopanic.com/news/33495770/IPID-Raises-16-Million-Series-A-to-Expand-Global-Payment-Network",
-    "source": "square.binance.com",
-    "published": "Mon Oct 05 2026 04:44:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "GEOPOLITICS | Wheat Rises for Third Day After Russia Threatens Ukraine War Escalation",
-    "link": "https://cryptopanic.com/news/33495769/GEOPOLITICS-Wheat-Rises-for-Third-Day-After-Russia-Threatens-Ukraine-War-Escalation",
-    "source": "square.binance.com",
-    "published": "Mon Oct 05 2026 04:37:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "US Debt Spiral Fears Ease As 8.5% Growth Tops 3.4% Debt Costs",
-    "link": "https://cryptopanic.com/news/33495768/US-Debt-Spiral-Fears-Ease-As-85-Growth-Tops-34-Debt-Costs",
-    "source": "square.binance.com",
-    "published": "Mon Oct 05 2026 04:35:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ASIA MIDDAY MOVES | Nikkei Retakes 70,000 on AI Rally, Taiwan Hits Record; Hong Kong Flat, Korea and Mainland China Shut",
-    "link": "https://cryptopanic.com/news/33495767/ASIA-MIDDAY-MOVES-Nikkei-Retakes-70000-on-AI-Rally-Taiwan-Hits-Record-Hong-Kong-Flat-Korea-and-Mainland-China-Shut",
-    "source": "square.binance.com",
-    "published": "Mon Oct 05 2026 04:34:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum(ETH) Drops Below 2,700 USDT with a Narrowed 0.24% Increase in 24 Hours",
-    "link": "https://cryptopanic.com/news/33495766/EthereumETH-Drops-Below-2700-USDT-with-a-Narrowed-024-Increase-in-24-Hours",
-    "source": "square.binance.com",
-    "published": "Mon Oct 05 2026 04:33:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BNB Drops Below 790 USDT with a Narrowed 0.68% Increase in 24 Hours",
-    "link": "https://cryptopanic.com/news/33495765/BNB-Drops-Below-790-USDT-with-a-Narrowed-068-Increase-in-24-Hours",
-    "source": "square.binance.com",
-    "published": "Mon Oct 05 2026 04:32:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: US AI's lead over China hits a record low, with top Chinese models now trailing by just 3% on benchmarks following DeepSeek's V4.1 Flash release, per Bloomberg Intelligence.",
-    "link": "https://cryptopanic.com/news/33495537/LATEST-US-AIs-lead-over-China-hits-a-record-low-with-top-Chinese-models-now-trailing-by-just-3-on-benchmarks-following-DeepSeeks-V41-Flash-release-per-Bloomberg-Intelligence",
-    "source": "@cointelegraph",
-    "published": "Mon Oct 05 2026 04:30:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Russia Starts Paying Government Workers in Digital Rubles\n\nRussia’s Finance Ministry has begun paying some employees their wages in digital rubles.\n\nThe ministry said the payments started on Oct. 1 and remain voluntary for workers.\n\nOfficials did not disclose how many employees",
-    "link": "https://cryptopanic.com/news/33495473/Russia-Starts-Paying-Government-Workers-in-Digital-Rubles-Russias-Finance-Ministry-has-begun-paying-some-employees-their-wages-in-digital-rubles-The-ministry-said-the-payments-started-on-Oct-1-and-remain-voluntary-for-workers-Officials-did-not-disclose-how-many-employees",
-    "source": "@bscnews",
-    "published": "Mon Oct 05 2026 04:26:26 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
