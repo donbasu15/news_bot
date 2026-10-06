@@ -1,5 +1,40 @@
 [
   {
+    "title": "Solana News: DvP Targets Atomic Settlement",
+    "link": "https://cryptopanic.com/news/33501885/Solana-News-DvP-Targets-Atomic-Settlement",
+    "source": "cryptonews.com",
+    "published": "Tue Oct 06 2026 08:40:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Roman Storm says DOJ is still pursuing his Tornado Cash case after a new SDNY filing, even as FinCEN drops its proposed mixer rule.",
+    "link": "https://cryptopanic.com/news/33501829/UPDATE-Roman-Storm-says-DOJ-is-still-pursuing-his-Tornado-Cash-case-after-a-new-SDNY-filing-even-as-FinCEN-drops-its-proposed-mixer-rule",
+    "source": "@cointelegraph",
+    "published": "Tue Oct 06 2026 08:30:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Near Protocol (NEAR) Builds Triple Top: This Is Why $5 Is Under Pressure",
+    "link": "https://cryptopanic.com/news/33501886/Near-Protocol-NEAR-Builds-Triple-Top-This-Is-Why-5-Is-Under-Pressure",
+    "source": "u.today",
+    "published": "Tue Oct 06 2026 08:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Zooko Wilcox (@zooko) helped create Zcash (@zcash) and spent years shaping its privacy technology.\n\nFrom post-quantum cryptography and AI-driven security to Crosslink, his work now focuses on keeping Zcash private and secure.\n\nHere’s the full story",
+    "link": "https://cryptopanic.com/news/33501884/Zooko-Wilcox-zooko-helped-create-Zcash-zcash-and-spent-years-shaping-its-privacy-technology-From-post-quantum-cryptography-and-AI-driven-security-to-Crosslink-his-work-now-focuses-on-keeping-Zcash-private-and-secure-Heres-the-full-story",
+    "source": "@bscnews",
+    "published": "Tue Oct 06 2026 08:26:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The Strong 12 Months After U.S. Midterms: Could Bitcoin Benefit?\n\n“Bitcoin gained 24.5%, 44.9% and 92.3% in the twelve months after the 2014, 2018 and 2022 midterms.” – By @xwinfinance",
+    "link": "https://cryptopanic.com/news/33501825/The-Strong-12-Months-After-US-Midterms-Could-Bitcoin-Benefit-Bitcoin-gained-245-449-and-923-in-the-twelve-months-after-the-2014-2018-and-2022-midterms-By-xwinfinance",
+    "source": "@cryptoquant_com",
+    "published": "Tue Oct 06 2026 08:08:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Banca d'Italia Hosts Quantum Risk Conference for Public Blockchains",
     "link": "https://cryptopanic.com/news/33501713/Banca-dItalia-Hosts-Quantum-Risk-Conference-for-Public-Blockchains",
     "source": "spaziocrypto.com",
@@ -18,6 +53,27 @@
     "link": "https://cryptopanic.com/news/33501703/Vilhelm-German-Why-AI-Is-Changing-Identity-Verification-and-KYC",
     "source": "dailycoin.com",
     "published": "Tue Oct 06 2026 08:05:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cardano Founder Warns Digital Euro Could Enable Spending Restrictions\n\nCardano founder Charles Hoskinson (@IOHK_Charles) has warned that a digital euro could enable transaction discrimination.\n\nSpeaking at a UN summit, he urged lawmakers to put spending protections directly into",
+    "link": "https://cryptopanic.com/news/33501883/Cardano-Founder-Warns-Digital-Euro-Could-Enable-Spending-Restrictions-Cardano-founder-Charles-Hoskinson-IOHK_Charles-has-warned-that-a-digital-euro-could-enable-transaction-discrimination-Speaking-at-a-UN-summit-he-urged-lawmakers-to-put-spending-protections-directly-into",
+    "source": "@bscnews",
+    "published": "Tue Oct 06 2026 08:03:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇳🇱 LATEST: Polymarket is taking the Dutch gambling regulator to court over its ban in the Netherlands, arguing it sells derivatives and shouldn't be treated as a betting site.",
+    "link": "https://cryptopanic.com/news/33501828/LATEST-Polymarket-is-taking-the-Dutch-gambling-regulator-to-court-over-its-ban-in-the-Netherlands-arguing-it-sells-derivatives-and-shouldnt-be-treated-as-a-betting-site",
+    "source": "@cointelegraph",
+    "published": "Tue Oct 06 2026 08:00:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: The World Economic Forum’s Global Future Leaders meet in Dubai next week!\n\nWith tokenisation, stablecoins and digital assets exploding globally, how much will crypto feature?\n\nAnd with $XRP and $XLM increasingly positioned around the future of global finance… will they",
+    "link": "https://cryptopanic.com/news/33501882/NEW-The-World-Economic-Forums-Global-Future-Leaders-meet-in-Dubai-next-week-With-tokenisation-stablecoins-and-digital-assets-exploding-globally-how-much-will-crypto-feature-And-with-XRP-and-XLM-increasingly-positioned-around-the-future-of-global-finance-will-they",
+    "source": "@realallincrypto",
+    "published": "Tue Oct 06 2026 08:00:28 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -151,62 +207,6 @@
     "link": "https://cryptopanic.com/news/33501501/NEW-Stripe-plans-to-take-stablecoin-cards-GLOBAL-expanding-to-100-countries-by-year-end-5M-businesses-already-use-Stripe-while-stablecoin-card-spending-has-TRIPLED-YoY-to-12Bmonth-And-remember-Stripe-helped-fund-StellarOrg-in-its-earliest-days",
     "source": "@realallincrypto",
     "published": "Tue Oct 06 2026 07:00:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SEC Approves First 3x Leveraged Bitcoin and Ether ETFs in the U.S.",
-    "link": "https://cryptopanic.com/news/33501420/SEC-Approves-First-3x-Leveraged-Bitcoin-and-Ether-ETFs-in-the-US",
-    "source": "coinpaprika.com",
-    "published": "Tue Oct 06 2026 07:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana Foundation Launches Institutional Settlement Tool With Input From JP Morgan",
-    "link": "https://cryptopanic.com/news/33501395/Solana-Foundation-Launches-Institutional-Settlement-Tool-With-Input-From-JP-Morgan",
-    "source": "cryptopolitan.com",
-    "published": "Tue Oct 06 2026 06:53:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Injective Launches New Treasury to Back INJ Ecosystem Builders\n\nInjective (@injective) has introduced the Trench Treasury to directly support projects building around ethereum:0xe28b3b32b6c345a34ff64674606124dd5aceca30.\n\nThe initiative will also reward community members who have",
-    "link": "https://cryptopanic.com/news/33501392/Injective-Launches-New-Treasury-to-Back-INJ-Ecosystem-Builders-Injective-injective-has-introduced-the-Trench-Treasury-to-directly-support-projects-building-around-ethereum0xe28b3b32b6c345a34ff64674606124dd5aceca30-The-initiative-will-also-reward-community-members-who-have",
-    "source": "@bscnews",
-    "published": "Tue Oct 06 2026 06:43:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ICYMI:  Strategy posted a $21B Q3 2026 gain on its digital asset holdings.",
-    "link": "https://cryptopanic.com/news/33501405/ICYMI-Strategy-posted-a-21B-Q3-2026-gain-on-its-digital-asset-holdings",
-    "source": "@coinmarketcap",
-    "published": "Tue Oct 06 2026 06:42:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Zcash dips below $1,348 as ETF outflows ease and NU7 enters testing",
-    "link": "https://cryptopanic.com/news/33501394/Zcash-dips-below-1348-as-ETF-outflows-ease-and-NU7-enters-testing",
-    "source": "coinjournal.net",
-    "published": "Tue Oct 06 2026 06:33:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP, QNT, INJ: These 3 Altcoins Are Ready to Break Out This Week (Analyst)",
-    "link": "https://cryptopanic.com/news/33501348/XRP-QNT-INJ-These-3-Altcoins-Are-Ready-to-Break-Out-This-Week-Analyst",
-    "source": "cryptopotato.com",
-    "published": "Tue Oct 06 2026 06:33:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "TODAY: Ethereum's Sepolia testnet forks to Gloas at 13:53 UTC with a 200M gas limit.",
-    "link": "https://cryptopanic.com/news/33501339/TODAY-Ethereums-Sepolia-testnet-forks-to-Gloas-at-1353-UTC-with-a-200M-gas-limit",
-    "source": "@cointelegraph",
-    "published": "Tue Oct 06 2026 06:30:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Long-term holders are reducing their positions for the seventh consecutive week, while the market absorbs the supply",
-    "link": "https://cryptopanic.com/news/33501581/Long-term-holders-are-reducing-their-positions-for-the-seventh-consecutive-week-while-the-market-absorbs-the-supply",
-    "source": "axeladlerjr.com",
-    "published": "Tue Oct 06 2026 06:28:52 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
