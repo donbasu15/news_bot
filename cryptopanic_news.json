@@ -1,5 +1,33 @@
 [
   {
+    "title": "BIG: The S&P 500 posts its first record closing high since August 13.",
+    "link": "https://cryptopanic.com/news/33505555/BIG-The-SampP-500-posts-its-first-record-closing-high-since-August-13",
+    "source": "@cointelegraph",
+    "published": "Tue Oct 06 2026 20:50:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇭🇰 Hong Kong Financial Services Secretary Christopher Hui says the city will file an amendment bill \"within this year\" to license crypto trading, custody, advisory, and management services.",
+    "link": "https://cryptopanic.com/news/33505541/LATEST-Hong-Kong-Financial-Services-Secretary-Christopher-Hui-says-the-city-will-file-an-amendment-bill-within-this-year-to-license-crypto-trading-custody-advisory-and-management-services",
+    "source": "@coinmarketcap",
+    "published": "Tue Oct 06 2026 20:47:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Singapore turns into crypto central as 25,000 attendees gather for TOKEN2049",
+    "link": "https://cryptopanic.com/news/33505565/Singapore-turns-into-crypto-central-as-25000-attendees-gather-for-TOKEN2049",
+    "source": "thestreet.com",
+    "published": "Tue Oct 06 2026 20:40:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Markets are in denial, warns 'Big Short' investor Michael Burry",
+    "link": "https://cryptopanic.com/news/33505564/Markets-are-in-denial-warns-Big-Short-investor-Michael-Burry",
+    "source": "thestreet.com",
+    "published": "Tue Oct 06 2026 20:37:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "$350M St Cloud CEO: The First Credit Union to Put Bitcoin on Core Ledger | Jed Meyer",
     "link": "https://cryptopanic.com/news/33505534/350M-St-Cloud-CEO-The-First-Credit-Union-to-Put-Bitcoin-on-Core-Ledger-Jed-Meyer",
     "source": "BitcoinMagazine",
@@ -11,6 +39,13 @@
     "link": "https://cryptopanic.com/news/33505469/Etherfi-Taps-MoonPay-to-Power-Its-Self-Custodial-Neobank",
     "source": "cryptoprowl.com",
     "published": "Tue Oct 06 2026 20:31:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 NEW: The IRS issues guidance detailing a digital asset staking safe harbor for trusts.",
+    "link": "https://cryptopanic.com/news/33505554/NEW-The-IRS-issues-guidance-detailing-a-digital-asset-staking-safe-harbor-for-trusts",
+    "source": "@cointelegraph",
+    "published": "Tue Oct 06 2026 20:30:42 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33505370/Ethereum-News-Atomic-L1-L2-Transaction-Targets-Fragmentation",
     "source": "thecoinrepublic.com",
     "published": "Tue Oct 06 2026 20:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Meteora To Launch DLMM Pro With Dynamic Fees, NFT LP Positions and 10x Lower Costs",
-    "link": "https://cryptopanic.com/news/33505171/Meteora-To-Launch-DLMM-Pro-With-Dynamic-Fees-NFT-LP-Positions-and-10x-Lower-Costs",
-    "source": "solanafloor.com",
-    "published": "Tue Oct 06 2026 19:58:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Russian media claims a second victim has died from 'plague outbreak' at infection zone hospital as Kremlin scrambles to cover up details",
-    "link": "https://cryptopanic.com/news/33505395/Russian-media-claims-a-second-victim-has-died-from-plague-outbreak-at-infection-zone-hospital-as-Kremlin-scrambles-to-cover-up-details",
-    "source": "@cryptonwsuk",
-    "published": "Tue Oct 06 2026 19:56:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "S&P 500 Hits a Record Again – What History Says for Bitcoin",
-    "link": "https://cryptopanic.com/news/33505349/SP-500-Hits-a-Record-Again-What-History-Says-for-Bitcoin",
-    "source": "coindoo.com",
-    "published": "Tue Oct 06 2026 19:54:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Yields on the weakest US corporate bonds have risen over 4 percentage points this year as widening credit spreads drive up borrowing costs.",
-    "link": "https://cryptopanic.com/news/33505399/UPDATE-Yields-on-the-weakest-US-corporate-bonds-have-risen-over-4-percentage-points-this-year-as-widening-credit-spreads-drive-up-borrowing-costs",
-    "source": "@cointelegraph",
-    "published": "Tue Oct 06 2026 19:50:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "\"It's not like AI will have a credit score or software will have a credit score.\"\n\n@AcronymFNDN President @trspalding makes the case for AI and software pledging collateral to get credit, as Anvil launches its SDK and Founders Fund leads a $5M purchase of ANVL tokens.\n\nThank you",
-    "link": "https://cryptopanic.com/news/33505398/Its-not-like-AI-will-have-a-credit-score-or-software-will-have-a-credit-score-AcronymFNDN-President-trspalding-makes-the-case-for-AI-and-software-pledging-collateral-to-get-credit-as-Anvil-launches-its-SDK-and-Founders-Fund-leads-a-5M-purchase-of-ANVL-tokens-Thank-you",
-    "source": "@coindesk",
-    "published": "Tue Oct 06 2026 19:49:15 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
