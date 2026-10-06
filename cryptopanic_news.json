@@ -1,9 +1,107 @@
 [
   {
+    "title": "Coinbase should list $NIGHT",
+    "link": "https://cryptopanic.com/news/33505105/Coinbase-should-list-NIGHT",
+    "source": "@angrycryptoshow",
+    "published": "Tue Oct 06 2026 18:32:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Backpack-issued tokenized stocks on Solana have surpassed 300,000 holders.",
+    "link": "https://cryptopanic.com/news/33505109/UPDATE-Backpack-issued-tokenized-stocks-on-Solana-have-surpassed-300000-holders",
+    "source": "@cointelegraph",
+    "published": "Tue Oct 06 2026 18:30:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ondo Finance brings pre-IPO AI exposure on-chain — But there’s a catch",
+    "link": "https://cryptopanic.com/news/33505058/Ondo-Finance-brings-pre-IPO-AI-exposure-on-chain-But-theres-a-catch",
+    "source": "ambcrypto.com",
+    "published": "Tue Oct 06 2026 18:30:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Vitalik Buterin: AI Will Become the New UI for Ethereum",
+    "link": "https://cryptopanic.com/news/33505029/Vitalik-Buterin-AI-Will-Become-the-New-UI-for-Ethereum",
+    "source": "btcusa.com",
+    "published": "Tue Oct 06 2026 18:30:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin: Too Late? US Debt & Bond Market Chaos",
+    "link": "https://cryptopanic.com/news/33505065/Bitcoin-Too-Late-US-Debt-Bond-Market-Chaos",
+    "source": "SimplyBitcoin",
+    "published": "Tue Oct 06 2026 18:30:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "What asset class do you feel most under exposed to?",
+    "link": "https://cryptopanic.com/news/33505064/What-asset-class-do-you-feel-most-under-exposed-to",
+    "source": "MilkRoadYoutube",
+    "published": "Tue Oct 06 2026 18:30:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INSIGHT: Midnight's v9 ledger upgrade is set to unlock support for Solana wallets on mainnet, including shielded tokens, private swaps, private DeFi, and sponsored dApp fees for $SOL users thanks to $NIGHT's dual-token architecture.",
+    "link": "https://cryptopanic.com/news/33505104/INSIGHT-Midnights-v9-ledger-upgrade-is-set-to-unlock-support-for-Solana-wallets-on-mainnet-including-shielded-tokens-private-swaps-private-DeFi-and-sponsored-dApp-fees-for-SOL-users-thanks-to-NIGHTs-dual-token-architecture",
+    "source": "@angrycryptoshow",
+    "published": "Tue Oct 06 2026 18:28:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: Midnight Foundation CTO says \"our goal is to bring privacy to everyone, onchain. $SOL wallet users deserve privacy, and Midnight app developers should be able to service them. With this update, we're making this a reality.\" $NIGHT's v9 upgrade is set to launch this year.",
+    "link": "https://cryptopanic.com/news/33505102/NEW-Midnight-Foundation-CTO-says-our-goal-is-to-bring-privacy-to-everyone-onchain-SOL-wallet-users-deserve-privacy-and-Midnight-app-developers-should-be-able-to-service-them-With-this-update-were-making-this-a-reality-NIGHTs-v9-upgrade-is-set-to-launch-this-year",
+    "source": "@angrycryptoshow",
+    "published": "Tue Oct 06 2026 18:27:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Price Chasing Its Tail Despite 3 October Catalysts",
+    "link": "https://cryptopanic.com/news/33505061/XRP-Price-Chasing-Its-Tail-Despite-3-October-Catalysts",
+    "source": "cryptonews.com",
+    "published": "Tue Oct 06 2026 18:27:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: Winklevoss Asset Services has filed an S-1 with the SEC to launch the Winklevoss Zcash ETF, a proposed spot $ZEC ETF.\n\nh/t @EricBalchunas",
+    "link": "https://cryptopanic.com/news/33505108/NEW-Winklevoss-Asset-Services-has-filed-an-S-1-with-the-SEC-to-launch-the-Winklevoss-Zcash-ETF-a-proposed-spot-ZEC-ETF-ht-EricBalchunas",
+    "source": "@coindesk",
+    "published": "Tue Oct 06 2026 18:23:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "FinCEN drops crypto mixing proposal as backlash kills rule",
+    "link": "https://cryptopanic.com/news/33505016/FinCEN-drops-crypto-mixing-proposal-as-backlash-kills-rule",
+    "source": "cryptoslate.com",
+    "published": "Tue Oct 06 2026 18:20:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "How three Claude chats reached police in seven weeks",
+    "link": "https://cryptopanic.com/news/33505017/How-three-Claude-chats-reached-police-in-seven-weeks",
+    "source": "cryptopolitan.com",
+    "published": "Tue Oct 06 2026 18:20:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: ️ Ethereum's Glamsterdam upgrade has gone live on the Sepolia testnet.",
+    "link": "https://cryptopanic.com/news/33505101/LATEST-Ethereums-Glamsterdam-upgrade-has-gone-live-on-the-Sepolia-testnet",
+    "source": "@coinmarketcap",
+    "published": "Tue Oct 06 2026 18:20:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "German bank board member to leave despite clean brothel loan probe",
     "link": "https://cryptopanic.com/news/33505007/German-bank-board-member-to-leave-despite-clean-brothel-loan-probe",
     "source": "@reutersbiz",
     "published": "Tue Oct 06 2026 18:15:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Where does your Bitcoin actually go when you borrow against it?",
+    "link": "https://cryptopanic.com/news/33505039/Where-does-your-Bitcoin-actually-go-when-you-borrow-against-it",
+    "source": "thestreet.com",
+    "published": "Tue Oct 06 2026 18:15:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -25,6 +123,13 @@
     "link": "https://cryptopanic.com/news/33505003/NEW-Google-and-Constellation-Energy-strike-a-sweeping-deal-centered-on-nuclear-power",
     "source": "@cointelegraph",
     "published": "Tue Oct 06 2026 18:09:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: $6 trillion State Street says 51% of institutional investors expect crypto to go mainstream.\n\n• Allocation projected to rise to 17% from 11%.\n\n• 82% of managers planning crypto distribution.\n\n Bitcoin is inevitable!",
+    "link": "https://cryptopanic.com/news/33505057/JUST-IN-6-trillion-State-Street-says-51-of-institutional-investors-expect-crypto-to-go-mainstream-Allocation-projected-to-rise-to-17-from-11-82-of-managers-planning-crypto-distribution-Bitcoin-is-inevitable",
+    "source": "@btc_archive",
+    "published": "Tue Oct 06 2026 18:04:26 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -53,6 +158,13 @@
     "link": "https://cryptopanic.com/news/33504905/Nvidia-Stock-Hits-Record-High-on-Foxconns-Strong-Q3-Sales",
     "source": "catenaa.com",
     "published": "Tue Oct 06 2026 18:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 CFTC says it's going to \"provide a federally regulated path for crypto.\"",
+    "link": "https://cryptopanic.com/news/33505056/JUST-IN-CFTC-says-its-going-to-provide-a-federally-regulated-path-for-crypto",
+    "source": "@watcherguru",
+    "published": "Tue Oct 06 2026 17:59:17 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -95,118 +207,6 @@
     "link": "https://cryptopanic.com/news/33504894/Odds-of-a-Fed-rate-hike-in-October-have-dropped-to-17",
     "source": "@stackersatoshi",
     "published": "Tue Oct 06 2026 17:50:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "StoneX's Mark Palmer: $435 MSTR Price Target Explained - DAT Consolidation Outlook",
-    "link": "https://cryptopanic.com/news/33504940/StoneXs-Mark-Palmer-435-MSTR-Price-Target-Explained-DAT-Consolidation-Outlook",
-    "source": "BitcoinMagazine",
-    "published": "Tue Oct 06 2026 17:47:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Billionaire Ray Dalio reveals deadline for U.S. debt crisis",
-    "link": "https://cryptopanic.com/news/33504960/Billionaire-Ray-Dalio-reveals-deadline-for-US-debt-crisis",
-    "source": "thestreet.com",
-    "published": "Tue Oct 06 2026 17:46:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple Wins Brevan Howard as a Prime Brokerage Client: Will XRP Benefit?",
-    "link": "https://cryptopanic.com/news/33504900/Ripple-Wins-Brevan-Howard-as-a-Prime-Brokerage-Client-Will-XRP-Benefit",
-    "source": "feeds2.benzinga.com",
-    "published": "Tue Oct 06 2026 17:45:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SAP to acquire workforce data firm TechWolf",
-    "link": "https://cryptopanic.com/news/33505005/SAP-to-acquire-workforce-data-firm-TechWolf",
-    "source": "@reutersbiz",
-    "published": "Tue Oct 06 2026 17:45:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BitGo and HashKey Partner on Staking, Trading, Custody and RWA Tokenization",
-    "link": "https://cryptopanic.com/news/33504891/BitGo-and-HashKey-Partner-on-Staking-Trading-Custody-and-RWA-Tokenization",
-    "source": "cryptoprowl.com",
-    "published": "Tue Oct 06 2026 17:45:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "OKX Adds Circle, Ripple, QRT, and SC Ventures as Investors at $25B Valuation",
-    "link": "https://cryptopanic.com/news/33504874/OKX-Adds-Circle-Ripple-QRT-and-SC-Ventures-as-Investors-at-25B-Valuation",
-    "source": "cryptopotato.com",
-    "published": "Tue Oct 06 2026 17:44:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Solana treasury firm DeFi Development has authorized a buyback of up to all its outstanding CHAD preferred shares, giving it an option to step in if the stock slips below its $10 par value.",
-    "link": "https://cryptopanic.com/news/33504895/LATEST-Solana-treasury-firm-DeFi-Development-has-authorized-a-buyback-of-up-to-all-its-outstanding-CHAD-preferred-shares-giving-it-an-option-to-step-in-if-the-stock-slips-below-its-10-par-value",
-    "source": "@coinmarketcap",
-    "published": "Tue Oct 06 2026 17:41:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INSIGHT: Midnight City surpasses 1,078 agents currently online. 148 active agents were added in 24h.",
-    "link": "https://cryptopanic.com/news/33504901/INSIGHT-Midnight-City-surpasses-1078-agents-currently-online-148-active-agents-were-added-in-24h",
-    "source": "@angrycryptoshow",
-    "published": "Tue Oct 06 2026 17:38:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 CFTC Chairman Mike Selig talks to CNBC about the newly proposed crypto rules. \n\n\"I am absolutely disappointed in congress...but we've got statutory authority and we're going to use it\"",
-    "link": "https://cryptopanic.com/news/33504880/JUST-IN-CFTC-Chairman-Mike-Selig-talks-to-CNBC-about-the-newly-proposed-crypto-rules-I-am-absolutely-disappointed-in-congressbut-weve-got-statutory-authority-and-were-going-to-use-it",
-    "source": "@bitcoinmagazine",
-    "published": "Tue Oct 06 2026 17:37:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin's Rebound Isn't as Strong as It Seems: Watch These Warning Signs",
-    "link": "https://cryptopanic.com/news/33504881/Bitcoins-Rebound-Isnt-as-Strong-as-It-Seems-Watch-These-Warning-Signs",
-    "source": "feeds2.benzinga.com",
-    "published": "Tue Oct 06 2026 17:32:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: George @CryptosR_Us says \"Cardano's never gonna go away. The only way Cardano ever dies is if Charles Hoskinson steps away completely, which I don't think he will. As long as the market fully recovers and goes higher, $ADA could definitely go back to $3.00.\"",
-    "link": "https://cryptopanic.com/news/33504821/UPDATE-George-CryptosR_Us-says-Cardanos-never-gonna-go-away-The-only-way-Cardano-ever-dies-is-if-Charles-Hoskinson-steps-away-completely-which-I-dont-think-he-will-As-long-as-the-market-fully-recovers-and-goes-higher-ADA-could-definitely-go-back-to-300",
-    "source": "@angrycryptoshow",
-    "published": "Tue Oct 06 2026 17:31:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple Backs OKX",
-    "link": "https://cryptopanic.com/news/33504882/Ripple-Backs-OKX",
-    "source": "u.today",
-    "published": "Tue Oct 06 2026 17:31:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ NEW: Aptos introduces MonoMove, a new execution engine it says runs smart contracts up to 55x faster in its biggest scalability upgrade yet.",
-    "link": "https://cryptopanic.com/news/33504826/NEW-Aptos-introduces-MonoMove-a-new-execution-engine-it-says-runs-smart-contracts-up-to-55x-faster-in-its-biggest-scalability-upgrade-yet",
-    "source": "@cointelegraph",
-    "published": "Tue Oct 06 2026 17:30:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Anthropic’s IPO filing puts Dario Amodei’s 2025 pay at $18 million",
-    "link": "https://cryptopanic.com/news/33504831/Anthropics-IPO-filing-puts-Dario-Amodeis-2025-pay-at-18-million",
-    "source": "cryptopolitan.com",
-    "published": "Tue Oct 06 2026 17:30:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Shiba Inu Trading Volume Explodes 199% After Debut on Solana: Could SHIB Be Primed for a Q4 Memecoin Explosion?",
-    "link": "https://cryptopanic.com/news/33504834/Shiba-Inu-Trading-Volume-Explodes-199-After-Debut-on-Solana-Could-SHIB-Be-Primed-for-a-Q4-Memecoin-Explosion",
-    "source": "zycrypto.com",
-    "published": "Tue Oct 06 2026 17:28:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Avalanche Price Prediction: AVAX Jumps 5% as Institutional RWA Demand Builds",
-    "link": "https://cryptopanic.com/news/33504782/Avalanche-Price-Prediction-AVAX-Jumps-5-as-Institutional-RWA-Demand-Builds",
-    "source": "coinpaper.com",
-    "published": "Tue Oct 06 2026 17:27:22 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
