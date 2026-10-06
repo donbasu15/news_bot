@@ -1,5 +1,47 @@
 [
   {
+    "title": "Crypto markets predict XRP price for October 31, 2026",
+    "link": "https://cryptopanic.com/news/33502872/Crypto-markets-predict-XRP-price-for-October-31-2026",
+    "source": "finbold.com",
+    "published": "Tue Oct 06 2026 11:50:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Rain Files for a U.S. National Trust Bank Focused on Stablecoin Infrastructure",
+    "link": "https://cryptopanic.com/news/33502869/Rain-Files-for-a-US-National-Trust-Bank-Focused-on-Stablecoin-Infrastructure",
+    "source": "techgaged.com",
+    "published": "Tue Oct 06 2026 11:50:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "WATCH: Oil flows from the Gulf reached more than 80% of their pre-war levels in September, globally easing pressure on prices. Naveen Das of Kpler told Reuters high freight rates have encouraged shipowners back to the Gulf, but disruption is far from over",
+    "link": "https://cryptopanic.com/news/33502881/WATCH-Oil-flows-from-the-Gulf-reached-more-than-80-of-their-pre-war-levels-in-September-globally-easing-pressure-on-prices-Naveen-Das-of-Kpler-told-Reuters-high-freight-rates-have-encouraged-shipowners-back-to-the-Gulf-but-disruption-is-far-from-over",
+    "source": "@reutersbiz",
+    "published": "Tue Oct 06 2026 11:50:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Hong Kong announces plans to submit a draft bill this year to establish a licensing regime for virtual asset trading, custody, advisory and management services.",
+    "link": "https://cryptopanic.com/news/33502876/JUST-IN-Hong-Kong-announces-plans-to-submit-a-draft-bill-this-year-to-establish-a-licensing-regime-for-virtual-asset-trading-custody-advisory-and-management-services",
+    "source": "@coindesk",
+    "published": "Tue Oct 06 2026 11:47:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Donald Trump bought PTC before $22.6B buyout",
+    "link": "https://cryptopanic.com/news/33502868/Donald-Trump-bought-PTC-before-226B-buyout",
+    "source": "protos.com",
+    "published": "Tue Oct 06 2026 11:47:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Central Europe needs reforms to boost slowing growth potential, IMF says",
+    "link": "https://cryptopanic.com/news/33502880/Central-Europe-needs-reforms-to-boost-slowing-growth-potential-IMF-says",
+    "source": "@reutersbiz",
+    "published": "Tue Oct 06 2026 11:45:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST:  ARK Invest's Cathie Wood says AI, robotics, energy storage, blockchain and multiomic sequencing will \"drive inflation down to much lower levels than most people expect.\"",
     "link": "https://cryptopanic.com/news/33502863/LATEST-ARK-Invests-Cathie-Wood-says-AI-robotics-energy-storage-blockchain-and-multiomic-sequencing-will-drive-inflation-down-to-much-lower-levels-than-most-people-expect",
     "source": "@coinmarketcap",
@@ -49,6 +91,20 @@
     "sentiment": "neutral"
   },
   {
+    "title": "🇺🇸 NEW: Kalshi and Polymarket handled $53B in July as US courts wrestle with a century-old question: are they derivatives or bets, per Forbes.",
+    "link": "https://cryptopanic.com/news/33502877/NEW-Kalshi-and-Polymarket-handled-53B-in-July-as-US-courts-wrestle-with-a-century-old-question-are-they-derivatives-or-bets-per-Forbes",
+    "source": "@cointelegraph",
+    "published": "Tue Oct 06 2026 11:30:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "High inflation has become embedded in Britain, Bank of England's Mann says",
+    "link": "https://cryptopanic.com/news/33502879/High-inflation-has-become-embedded-in-Britain-Bank-of-Englands-Mann-says",
+    "source": "@reutersbiz",
+    "published": "Tue Oct 06 2026 11:30:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Ondo Opens 24/7 Onchain Access to Private Companies, Starting With AI",
     "link": "https://cryptopanic.com/news/33502728/Ondo-Opens-247-Onchain-Access-to-Private-Companies-Starting-With-AI",
     "source": "techgaged.com",
@@ -81,6 +137,34 @@
     "link": "https://cryptopanic.com/news/33502707/BitMine-Reaches-602M-ETH-Now-Controls-49-of-Ethereum-Supply",
     "source": "techgaged.com",
     "published": "Tue Oct 06 2026 11:20:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Solana brings instant trade settlement down from 1–2 days to seconds",
+    "link": "https://cryptopanic.com/news/33502891/Solana-brings-instant-trade-settlement-down-from-12-days-to-seconds",
+    "source": "en.cryptonomist.ch",
+    "published": "Tue Oct 06 2026 11:13:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum’s ERC-8350 agent memory registry records changes without exposing data",
+    "link": "https://cryptopanic.com/news/33502889/Ethereums-ERC-8350-agent-memory-registry-records-changes-without-exposing-data",
+    "source": "en.cryptonomist.ch",
+    "published": "Tue Oct 06 2026 11:12:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ondo Private Markets lets eligible non-U.S. investors trade private-company notes 24/7",
+    "link": "https://cryptopanic.com/news/33502887/Ondo-Private-Markets-lets-eligible-non-US-investors-trade-private-company-notes-247",
+    "source": "en.cryptonomist.ch",
+    "published": "Tue Oct 06 2026 11:12:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Microsoft Surface event centers on laptop tipped to run 120B-parameter AI offline",
+    "link": "https://cryptopanic.com/news/33502886/Microsoft-Surface-event-centers-on-laptop-tipped-to-run-120B-parameter-AI-offline",
+    "source": "en.cryptonomist.ch",
+    "published": "Tue Oct 06 2026 11:12:34 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -123,90 +207,6 @@
     "link": "https://cryptopanic.com/news/33502792/Quants-utility-case-is-strengthening-around-tokenized-bank-infrastructure-but-the-charts-3205-target-remains-highly-conditional-Full-analysis",
     "source": "@realallincrypto",
     "published": "Tue Oct 06 2026 11:03:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nasdaq-100 Is Up 157% Since Michael Burry’s “Sell” Call",
-    "link": "https://cryptopanic.com/news/33502622/Nasdaq-100-Is-Up-157-Since-Michael-Burrys-Sell-Call",
-    "source": "coinpaper.com",
-    "published": "Tue Oct 06 2026 11:01:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTERESTING: Satoshi controls 1.096M $BTC worth $92B, while Binance holds the largest individual $BTC wallet with nearly 250K $BTC, per Arkham.",
-    "link": "https://cryptopanic.com/news/33502688/INTERESTING-Satoshi-controls-1096M-BTC-worth-92B-while-Binance-holds-the-largest-individual-BTC-wallet-with-nearly-250K-BTC-per-Arkham",
-    "source": "@cointelegraph",
-    "published": "Tue Oct 06 2026 11:00:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Breakingviews - COMMENTARY: China polishes a potent weapon for EU car wars",
-    "link": "https://cryptopanic.com/news/33502690/Breakingviews-COMMENTARY-China-polishes-a-potent-weapon-for-EU-car-wars",
-    "source": "@reutersbiz",
-    "published": "Tue Oct 06 2026 11:00:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "TODAY: The US is selling a massive $153 BILLION of debt, making this a key test for markets. \n\nStrong demand could pull yields lower and give stocks and crypto a boost. Weak demand could send yields higher and put fresh pressure on risk assets. \n\nBig one to watch, keep your",
-    "link": "https://cryptopanic.com/news/33502791/TODAY-The-US-is-selling-a-massive-153-BILLION-of-debt-making-this-a-key-test-for-markets-Strong-demand-could-pull-yields-lower-and-give-stocks-and-crypto-a-boost-Weak-demand-could-send-yields-higher-and-put-fresh-pressure-on-risk-assets-Big-one-to-watch-keep-your",
-    "source": "@realallincrypto",
-    "published": "Tue Oct 06 2026 11:00:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "El Salvador's $138 Million IMF Disbursement: The Bitcoin Waiver That Wasn't a Win",
-    "link": "https://cryptopanic.com/news/33502564/El-Salvadors-138-Million-IMF-Disbursement-The-Bitcoin-Waiver-That-Wasnt-a-Win",
-    "source": "www.blockhead.co",
-    "published": "Tue Oct 06 2026 11:00:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Anthropic does not believe its products have breached Australian government systems but would be open to Australian laws requiring AI companies to disclose data breaches, company executives told an Australian parliamentary inquiry",
-    "link": "https://cryptopanic.com/news/33502689/Anthropic-does-not-believe-its-products-have-breached-Australian-government-systems-but-would-be-open-to-Australian-laws-requiring-AI-companies-to-disclose-data-breaches-company-executives-told-an-Australian-parliamentary-inquiry",
-    "source": "@reutersbiz",
-    "published": "Tue Oct 06 2026 11:00:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRPL Stablecoin Supply Hits $1.31B as RLUSD Captures 93% of the Market",
-    "link": "https://cryptopanic.com/news/33502585/XRPL-Stablecoin-Supply-Hits-131B-as-RLUSD-Captures-93-of-the-Market",
-    "source": "techgaged.com",
-    "published": "Tue Oct 06 2026 11:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stablecoin Wallets in China Surged 43x Even as Beijing Tightened Crypto Rules",
-    "link": "https://cryptopanic.com/news/33502597/Stablecoin-Wallets-in-China-Surged-43x-Even-as-Beijing-Tightened-Crypto-Rules",
-    "source": "coinpaprika.com",
-    "published": "Tue Oct 06 2026 11:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ondo Finance is Bringing Private Companies Onchain\n\n@Ondo Finance announces Ondo Private Markets, bringing an institutional structure for tokenized exposure to the private tech economy.\n\nThe platform will introduce its first secondary trading for tokenized notes backed by a",
-    "link": "https://cryptopanic.com/news/33502793/Ondo-Finance-is-Bringing-Private-Companies-Onchain-Ondo-Finance-announces-Ondo-Private-Markets-bringing-an-institutional-structure-for-tokenized-exposure-to-the-private-tech-economy-The-platform-will-introduce-its-first-secondary-trading-for-tokenized-notes-backed-by-a",
-    "source": "@bscnews",
-    "published": "Tue Oct 06 2026 10:59:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Spiko raises $90 million to expand tokenized cash funds across markets",
-    "link": "https://cryptopanic.com/news/33502584/Spiko-raises-90-million-to-expand-tokenized-cash-funds-across-markets",
-    "source": "theblock.co",
-    "published": "Tue Oct 06 2026 10:58:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Filecoin Price Returns to $1.20 After Two Failed Attempts",
-    "link": "https://cryptopanic.com/news/33502559/Filecoin-Price-Returns-to-120-After-Two-Failed-Attempts",
-    "source": "coindoo.com",
-    "published": "Tue Oct 06 2026 10:56:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BTC USD Price Stalls as Fresh Saylor Buy Fails to Clear $87K",
-    "link": "https://cryptopanic.com/news/33502619/BTC-USD-Price-Stalls-as-Fresh-Saylor-Buy-Fails-to-Clear-87K",
-    "source": "99bitcoins.com",
-    "published": "Tue Oct 06 2026 10:55:23 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
