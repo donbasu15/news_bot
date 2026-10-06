@@ -1,5 +1,33 @@
 [
   {
+    "title": "Banca d'Italia Hosts Quantum Risk Conference for Public Blockchains",
+    "link": "https://cryptopanic.com/news/33501713/Banca-dItalia-Hosts-Quantum-Risk-Conference-for-Public-Blockchains",
+    "source": "spaziocrypto.com",
+    "published": "Tue Oct 06 2026 08:05:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Chainalysis says South Korea has East Asia's largest crypto economy at $449B, up 12.3% in the year through June 2026, ahead of Japan at $228B and Hong Kong at $192B.",
+    "link": "https://cryptopanic.com/news/33501758/LATEST-Chainalysis-says-South-Korea-has-East-Asias-largest-crypto-economy-at-449B-up-123-in-the-year-through-June-2026-ahead-of-Japan-at-228B-and-Hong-Kong-at-192B",
+    "source": "@coinmarketcap",
+    "published": "Tue Oct 06 2026 08:05:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Vilhelm German: Why AI Is Changing Identity Verification and KYC",
+    "link": "https://cryptopanic.com/news/33501703/Vilhelm-German-Why-AI-Is-Changing-Identity-Verification-and-KYC",
+    "source": "dailycoin.com",
+    "published": "Tue Oct 06 2026 08:05:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Solana Foundation Launches Solana DvP Atomic Settlement Program",
+    "link": "https://cryptopanic.com/news/33501652/Solana-Foundation-Launches-Solana-DvP-Atomic-Settlement-Program",
+    "source": "btcusa.com",
+    "published": "Tue Oct 06 2026 08:00:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Cryptocurrency market analysis shows 11% jump to $2.99 trillion in September",
     "link": "https://cryptopanic.com/news/33501645/Cryptocurrency-market-analysis-shows-11-jump-to-299-trillion-in-September",
     "source": "en.cryptonomist.ch",
@@ -11,6 +39,13 @@
     "link": "https://cryptopanic.com/news/33501650/BTC-The-85K-level-has-been-getting-tested-almost-on-a-daily-basis-Every-time-it-tends-to-see-some-sort-of-reaction-both-as-support-and-resistance-Above-theres-a-lot-of-marginally-lower-highs-sitting-at-87K-The-same-below-with-the-83K-region-I-am-expecting-a-squeeze",
     "source": "@daancrypto",
     "published": "Tue Oct 06 2026 07:49:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: Nearly 4 in 10 Americans earning over $300,000 a year say they’re living paycheck to paycheck | Per Goldman Sachs",
+    "link": "https://cryptopanic.com/news/33501755/INTEL-Nearly-4-in-10-Americans-earning-over-300000-a-year-say-theyre-living-paycheck-to-paycheck-Per-Goldman-Sachs",
+    "source": "@solidintel_x",
+    "published": "Tue Oct 06 2026 07:48:44 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -49,6 +84,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Kim Jong-un's Launderer Made a New Friend on Telegram: It Was ZachXBT",
+    "link": "https://cryptopanic.com/news/33501717/Kim-Jong-uns-Launderer-Made-a-New-Friend-on-Telegram-It-Was-ZachXBT",
+    "source": "beincrypto.com",
+    "published": "Tue Oct 06 2026 07:25:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST:  The Ethereum Foundation says native transaction assertions could help protect users, reverting a transaction if its net state changes break a rule the user signed along with it.",
     "link": "https://cryptopanic.com/news/33501622/LATEST-The-Ethereum-Foundation-says-native-transaction-assertions-could-help-protect-users-reverting-a-transaction-if-its-net-state-changes-break-a-rule-the-user-signed-along-with-it",
     "source": "@coinmarketcap",
@@ -60,6 +102,13 @@
     "link": "https://cryptopanic.com/news/33501575/This-Company-Just-Became-the-Worlds-2nd-Largest-Bitcoin-Hoarder-and-It-Has-More-BTC-Than-Tesla-SpaceX-and-Coinbase",
     "source": "feeds2.benzinga.com",
     "published": "Tue Oct 06 2026 07:22:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ChatGPT Watermark Comes to the EU, and OpenAI Has a Detector Ready",
+    "link": "https://cryptopanic.com/news/33501716/ChatGPT-Watermark-Comes-to-the-EU-and-OpenAI-Has-a-Detector-Ready",
+    "source": "beincrypto.com",
+    "published": "Tue Oct 06 2026 07:12:43 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -158,55 +207,6 @@
     "link": "https://cryptopanic.com/news/33501581/Long-term-holders-are-reducing-their-positions-for-the-seventh-consecutive-week-while-the-market-absorbs-the-supply",
     "source": "axeladlerjr.com",
     "published": "Tue Oct 06 2026 06:28:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum’s Bigger Block Test Gets a Key Fix",
-    "link": "https://cryptopanic.com/news/33501312/Ethereums-Bigger-Block-Test-Gets-a-Key-Fix",
-    "source": "coindoo.com",
-    "published": "Tue Oct 06 2026 06:27:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Chainlink Welcomes CFTC Push to Bring More Clarity to Crypto\n\nChainlink (@chainlink) has backed the CFTC’s latest effort to develop a broader crypto market framework.\n\nThe commission published an advanced notice seeking public comments on crypto asset transactions. The proposal",
-    "link": "https://cryptopanic.com/news/33501391/Chainlink-Welcomes-CFTC-Push-to-Bring-More-Clarity-to-Crypto-Chainlink-chainlink-has-backed-the-CFTCs-latest-effort-to-develop-a-broader-crypto-market-framework-The-commission-published-an-advanced-notice-seeking-public-comments-on-crypto-asset-transactions-The-proposal",
-    "source": "@bscnews",
-    "published": "Tue Oct 06 2026 06:24:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SEC’s Peirce: Financial Privacy Should Be the Default",
-    "link": "https://cryptopanic.com/news/33501305/SECs-Peirce-Financial-Privacy-Should-Be-the-Default",
-    "source": "btcusa.com",
-    "published": "Tue Oct 06 2026 06:20:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CFTC Drafts Federal Rules for Crypto Exchanges After CLARITY Act Stalls",
-    "link": "https://cryptopanic.com/news/33501247/CFTC-Drafts-Federal-Rules-for-Crypto-Exchanges-After-CLARITY-Act-Stalls",
-    "source": "spaziocrypto.com",
-    "published": "Tue Oct 06 2026 06:06:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Fairshake PAC Puts Millions Behind CLARITY Act Backers\n\nFairshake PAC has announced support for 32 incumbent House candidates ahead of the 2026 midterms.\n\nThe slate includes 19 Republicans and 13 Democrats across House races.\n\nSix candidates will receive $1 million each, totaling",
-    "link": "https://cryptopanic.com/news/33501390/Fairshake-PAC-Puts-Millions-Behind-CLARITY-Act-Backers-Fairshake-PAC-has-announced-support-for-32-incumbent-House-candidates-ahead-of-the-2026-midterms-The-slate-includes-19-Republicans-and-13-Democrats-across-House-races-Six-candidates-will-receive-1-million-each-totaling",
-    "source": "@bscnews",
-    "published": "Tue Oct 06 2026 06:05:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇰🇷 BIG: South Korea is putting $3.5 billion of state and private money behind one homegrown frontier AI model, and the race to build it starts in March 2027.",
-    "link": "https://cryptopanic.com/news/33501338/BIG-South-Korea-is-putting-35-billion-of-state-and-private-money-behind-one-homegrown-frontier-AI-model-and-the-race-to-build-it-starts-in-March-2027",
-    "source": "@cointelegraph",
-    "published": "Tue Oct 06 2026 06:00:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Beware of scammers trying to impersonate CoinMarketCap members. CMC does NOT have a phone number, and we will NEVER call you. When in doubt, always contact CMC Customer Service for verification.",
-    "link": "https://cryptopanic.com/news/33501293/Beware-of-scammers-trying-to-impersonate-CoinMarketCap-members-CMC-does-NOT-have-a-phone-number-and-we-will-NEVER-call-you-When-in-doubt-always-contact-CMC-Customer-Service-for-verification",
-    "source": "@coinmarketcap",
-    "published": "Tue Oct 06 2026 06:00:05 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
