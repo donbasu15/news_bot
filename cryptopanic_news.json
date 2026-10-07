@@ -1,5 +1,194 @@
 [
   {
+    "title": "🇺🇸 BIG: Trump plans to unveil a more than $1 billion AI science push at a White House summit.",
+    "link": "https://cryptopanic.com/news/33511312/BIG-Trump-plans-to-unveil-a-more-than-1-billion-AI-science-push-at-a-White-House-summit",
+    "source": "@cointelegraph",
+    "published": "Wed Oct 07 2026 20:15:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "France to be 'strategic' on new debt issues, finance minister tells WSJ",
+    "link": "https://cryptopanic.com/news/33511314/France-to-be-strategic-on-new-debt-issues-finance-minister-tells-WSJ",
+    "source": "@reutersbiz",
+    "published": "Wed Oct 07 2026 20:15:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Here’s How Cardano Millionaires Stirred The Pot Again",
+    "link": "https://cryptopanic.com/news/33511269/Heres-How-Cardano-Millionaires-Stirred-The-Pot-Again",
+    "source": "dailycoin.com",
+    "published": "Wed Oct 07 2026 20:12:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Struggles to Break Higher as ETF Demand Weakens: Bitfinex Alpha",
+    "link": "https://cryptopanic.com/news/33511318/Bitcoin-Struggles-to-Break-Higher-as-ETF-Demand-Weakens-Bitfinex-Alpha",
+    "source": "cryptopotato.com",
+    "published": "Wed Oct 07 2026 20:11:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "What Happens If a Layer 2 Sequencer Stops? Check the Exit Before Depositing",
+    "link": "https://cryptopanic.com/news/33511264/What-Happens-If-a-Layer-2-Sequencer-Stops-Check-the-Exit-Before-Depositing",
+    "source": "techgaged.com",
+    "published": "Wed Oct 07 2026 20:01:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Before You Bridge Crypto: A Checklist for the Asset, Route and Exit",
+    "link": "https://cryptopanic.com/news/33511263/Before-You-Bridge-Crypto-A-Checklist-for-the-Asset-Route-and-Exit",
+    "source": "techgaged.com",
+    "published": "Wed Oct 07 2026 20:01:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tokenized Treasury Funds vs. Stablecoins: What You Own and How You Exit",
+    "link": "https://cryptopanic.com/news/33511262/Tokenized-Treasury-Funds-vs-Stablecoins-What-You-Own-and-How-You-Exit",
+    "source": "techgaged.com",
+    "published": "Wed Oct 07 2026 20:01:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "A Whale Sent Crypto to an Exchange: How to Check Whether It Signals Selling",
+    "link": "https://cryptopanic.com/news/33511261/A-Whale-Sent-Crypto-to-an-Exchange-How-to-Check-Whether-It-Signals-Selling",
+    "source": "techgaged.com",
+    "published": "Wed Oct 07 2026 20:01:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Rising DeFi TVL Does Not Always Mean New Money: How to Read the Data",
+    "link": "https://cryptopanic.com/news/33511260/Rising-DeFi-TVL-Does-Not-Always-Mean-New-Money-How-to-Read-the-Data",
+    "source": "techgaged.com",
+    "published": "Wed Oct 07 2026 20:01:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Slippage vs. Price Impact: Why a Crypto Swap Can Cost More Than the Fee",
+    "link": "https://cryptopanic.com/news/33511259/Slippage-vs-Price-Impact-Why-a-Crypto-Swap-Can-Cost-More-Than-the-Fee",
+    "source": "techgaged.com",
+    "published": "Wed Oct 07 2026 20:01:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "DeFi Health Factor Explained: How to Calculate Your Liquidation Buffer",
+    "link": "https://cryptopanic.com/news/33511258/DeFi-Health-Factor-Explained-How-to-Calculate-Your-Liquidation-Buffer",
+    "source": "techgaged.com",
+    "published": "Wed Oct 07 2026 20:01:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Disconnecting a Crypto Wallet Does Not Revoke Token Approvals: What to Check",
+    "link": "https://cryptopanic.com/news/33511257/Disconnecting-a-Crypto-Wallet-Does-Not-Revoke-Token-Approvals-What-to-Check",
+    "source": "techgaged.com",
+    "published": "Wed Oct 07 2026 20:01:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Native vs. Bridged USDC: The Same Ticker Can Hide a Different Asset",
+    "link": "https://cryptopanic.com/news/33511256/Native-vs-Bridged-USDC-The-Same-Ticker-Can-Hide-a-Different-Asset",
+    "source": "techgaged.com",
+    "published": "Wed Oct 07 2026 20:01:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "How to Read a Stablecoin Reserve Report: Seven Checks Beyond ‘Fully Backed’",
+    "link": "https://cryptopanic.com/news/33511255/How-to-Read-a-Stablecoin-Reserve-Report-Seven-Checks-Beyond-Fully-Backed",
+    "source": "techgaged.com",
+    "published": "Wed Oct 07 2026 20:01:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Coinbase and Deribit Complete Their Exchange Migration — API Users Have More to Check",
+    "link": "https://cryptopanic.com/news/33511242/Coinbase-and-Deribit-Complete-Their-Exchange-Migration-API-Users-Have-More-to-Check",
+    "source": "techgaged.com",
+    "published": "Wed Oct 07 2026 20:00:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Noah Closes a $38M Seed Round as Stablecoin Payments Move Beyond the Wallet",
+    "link": "https://cryptopanic.com/news/33511241/Noah-Closes-a-38M-Seed-Round-as-Stablecoin-Payments-Move-Beyond-the-Wallet",
+    "source": "techgaged.com",
+    "published": "Wed Oct 07 2026 20:00:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Why PENDLE crypto could rebound despite a 46% drop in transactions",
+    "link": "https://cryptopanic.com/news/33511250/Why-PENDLE-crypto-could-rebound-despite-a-46-drop-in-transactions",
+    "source": "ambcrypto.com",
+    "published": "Wed Oct 07 2026 20:00:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "HashKey Cloud Plans Native Bitcoin-Backed Borrowing Through Babylon Vaults",
+    "link": "https://cryptopanic.com/news/33511240/HashKey-Cloud-Plans-Native-Bitcoin-Backed-Borrowing-Through-Babylon-Vaults",
+    "source": "techgaged.com",
+    "published": "Wed Oct 07 2026 20:00:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Circle Brings USDC and EURC Into SAP Payment Workflows — Adoption Is the Next Test",
+    "link": "https://cryptopanic.com/news/33511236/Circle-Brings-USDC-and-EURC-Into-SAP-Payment-Workflows-Adoption-Is-the-Next-Test",
+    "source": "techgaged.com",
+    "published": "Wed Oct 07 2026 20:00:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Revolut will cover costs for customers hit by data hack, Western Europe CEO says",
+    "link": "https://cryptopanic.com/news/33511313/Revolut-will-cover-costs-for-customers-hit-by-data-hack-Western-Europe-CEO-says",
+    "source": "@reutersbiz",
+    "published": "Wed Oct 07 2026 20:00:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tether and Kazakhstan’s Central Bank Explore a Tenge Stablecoin — A Pilot, Not a Launch",
+    "link": "https://cryptopanic.com/news/33511234/Tether-and-Kazakhstans-Central-Bank-Explore-a-Tenge-Stablecoin-A-Pilot-Not-a-Launch",
+    "source": "techgaged.com",
+    "published": "Wed Oct 07 2026 20:00:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "OpenAI, Anthropic and AMD commit over $1 billion to Trump’s ambitious AI science mission",
+    "link": "https://cryptopanic.com/news/33511253/OpenAI-Anthropic-and-AMD-commit-over-1-billion-to-Trumps-ambitious-AI-science-mission",
+    "source": "cryptopolitan.com",
+    "published": "Wed Oct 07 2026 20:00:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Wells Fargo Eyes Kraken Parent for Crypto Liquidity",
+    "link": "https://cryptopanic.com/news/33511222/Wells-Fargo-Eyes-Kraken-Parent-for-Crypto-Liquidity",
+    "source": "coindoo.com",
+    "published": "Wed Oct 07 2026 19:57:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 LATEST: Secretary Rubio said the Trump administration wants to reclaim statecraft backed by the willingness to use force when diplomacy fails, urging Europe to “awaken from its long slumber.”",
+    "link": "https://cryptopanic.com/news/33511311/LATEST-Secretary-Rubio-said-the-Trump-administration-wants-to-reclaim-statecraft-backed-by-the-willingness-to-use-force-when-diplomacy-fails-urging-Europe-to-awaken-from-its-long-slumber",
+    "source": "@cointelegraph",
+    "published": "Wed Oct 07 2026 19:57:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "StoneX Global Macro Director: Bond Market Contagion & Bitcoin Market Outlook",
+    "link": "https://cryptopanic.com/news/33511251/StoneX-Global-Macro-Director-Bond-Market-Contagion-Bitcoin-Market-Outlook",
+    "source": "BitcoinMagazine",
+    "published": "Wed Oct 07 2026 19:55:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: Wells Fargo and Kraken parent Payward discuss crypto liquidity deal",
+    "link": "https://cryptopanic.com/news/33511213/INTEL-Wells-Fargo-and-Kraken-parent-Payward-discuss-crypto-liquidity-deal",
+    "source": "@solidintel_x",
+    "published": "Wed Oct 07 2026 19:55:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Wells Fargo Taps Kraken Parent Payward in Push for Deeper Crypto Liquidity",
+    "link": "https://cryptopanic.com/news/33511266/Wells-Fargo-Taps-Kraken-Parent-Payward-in-Push-for-Deeper-Crypto-Liquidity",
+    "source": "cryptoprowl.com",
+    "published": "Wed Oct 07 2026 19:55:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "BREAKING: 100 Bitcoin moves after 16.2 years of being dormant.\n\nMassive $8,500,000 profit!\n\nCongrats to this diamond holder.",
     "link": "https://cryptopanic.com/news/33511214/BREAKING-100-Bitcoin-moves-after-162-years-of-being-dormant-Massive-8500000-profit-Congrats-to-this-diamond-holder",
     "source": "@btc_archive",
@@ -7,206 +196,17 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Wells Fargo, America’s Fourth-Largest Bank, in Talks With Kraken Parent Payward for Crypto Trading Liquidity as Major Banks Deepen Digital Asset Involvement\n\nWells Fargo is in talks with Kraken parent Payward over a potential deal under which Payward would supply liquidity for",
+    "link": "https://cryptopanic.com/news/33511304/Wells-Fargo-Americas-Fourth-Largest-Bank-in-Talks-With-Kraken-Parent-Payward-for-Crypto-Trading-Liquidity-as-Major-Banks-Deepen-Digital-Asset-Involvement-Wells-Fargo-is-in-talks-with-Kraken-parent-Payward-over-a-potential-deal-under-which-Payward-would-supply-liquidity-for",
+    "source": "@wublockchain",
+    "published": "Wed Oct 07 2026 19:50:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST:  Robinhood added $25M worth of Bitcoin to its balance sheet, per SVP Johann Kerbrat, who said the trading platform believes \"firmly in the future of crypto.\"",
     "link": "https://cryptopanic.com/news/33511215/LATEST-Robinhood-added-25M-worth-of-Bitcoin-to-its-balance-sheet-per-SVP-Johann-Kerbrat-who-said-the-trading-platform-believes-firmly-in-the-future-of-crypto",
     "source": "@coinmarketcap",
     "published": "Wed Oct 07 2026 19:47:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets",
-    "link": "https://cryptopanic.com/news/33511201/Tether-Signs-Deal-With-Kazakhstans-Central-Bank-to-Explore-a-Stablecoin-and-Tokenized-Assets",
-    "source": "decrypt.co",
-    "published": "Wed Oct 07 2026 19:46:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Canadian dollar weakens as risk-off sentiment drives markets",
-    "link": "https://cryptopanic.com/news/33511193/Canadian-dollar-weakens-as-risk-off-sentiment-drives-markets",
-    "source": "@reutersbiz",
-    "published": "Wed Oct 07 2026 19:45:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP ETFs now hold $1.7 billion but took in just $4M last week",
-    "link": "https://cryptopanic.com/news/33511164/XRP-ETFs-now-hold-17-billion-but-took-in-just-4M-last-week",
-    "source": "cryptoslate.com",
-    "published": "Wed Oct 07 2026 19:40:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Qubetics Stops Development, Parts Ways With Antier and Plans to Open-Source Its Technology",
-    "link": "https://cryptopanic.com/news/33511166/Qubetics-Stops-Development-Parts-Ways-With-Antier-and-Plans-to-Open-Source-Its-Technology",
-    "source": "theholycoins.com",
-    "published": "Wed Oct 07 2026 19:40:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Dogecoin Down 7%: Can a Golden Cross Save DOGE?",
-    "link": "https://cryptopanic.com/news/33511211/Dogecoin-Down-7-Can-a-Golden-Cross-Save-DOGE",
-    "source": "feeds2.benzinga.com",
-    "published": "Wed Oct 07 2026 19:40:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Will Bitcoin, ETH Get Replaced by Tokenized Equities? Kraken's Arjun Sethi Says No",
-    "link": "https://cryptopanic.com/news/33511204/Will-Bitcoin-ETH-Get-Replaced-by-Tokenized-Equities-Krakens-Arjun-Sethi-Says-No",
-    "source": "feeds2.benzinga.com",
-    "published": "Wed Oct 07 2026 19:36:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Grayscale Says Crypto ETF Market Is Entering New Phase – Here Is What Comes Next",
-    "link": "https://cryptopanic.com/news/33511150/Grayscale-Says-Crypto-ETF-Market-Is-Entering-New-Phase-Here-Is-What-Comes-Next",
-    "source": "blocknews.com",
-    "published": "Wed Oct 07 2026 19:33:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SecondFi offers $8 for every unrecoverable NFT lost in $21M hack",
-    "link": "https://cryptopanic.com/news/33511154/SecondFi-offers-8-for-every-unrecoverable-NFT-lost-in-21M-hack",
-    "source": "protos.com",
-    "published": "Wed Oct 07 2026 19:31:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Anglo American threatens to close Brazilian nickel operation if EU blocks sale to MMG",
-    "link": "https://cryptopanic.com/news/33511192/Anglo-American-threatens-to-close-Brazilian-nickel-operation-if-EU-blocks-sale-to-MMG",
-    "source": "@reutersbiz",
-    "published": "Wed Oct 07 2026 19:30:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SpaceX Seeking to Raise $40Bn to Purchase Nvidia AI Chips",
-    "link": "https://cryptopanic.com/news/33511121/SpaceX-Seeking-to-Raise-40Bn-to-Purchase-Nvidia-AI-Chips",
-    "source": "catenaa.com",
-    "published": "Wed Oct 07 2026 19:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stellar has more RWAs that Ripple and Solana!\n\nAccording to data from the @RWAFoundation_, @StellarOrg now hosts some $3.5 billion world of tokenised real-world assets.\n\nIt is beaten only by @Ethereum and @BNBChain.\n\nStellar's RWA ecosystem is now significantly larger than those",
-    "link": "https://cryptopanic.com/news/33511196/Stellar-has-more-RWAs-that-Ripple-and-Solana-According-to-data-from-the-RWAFoundation_-StellarOrg-now-hosts-some-35-billion-world-of-tokenised-real-world-assets-It-is-beaten-only-by-Ethereum-and-BNBChain-Stellars-RWA-ecosystem-is-now-significantly-larger-than-those",
-    "source": "@bscnews",
-    "published": "Wed Oct 07 2026 19:29:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitget: One Week After Withdrawals Reopened\n\n“Data suggests the initial withdrawal rush has stabilized rather than developed into a sustained run on the exchange. Bitget’s fast communication and phased reopening appear to have helped contain the situation.” – By @JA_Maartun",
-    "link": "https://cryptopanic.com/news/33511147/Bitget-One-Week-After-Withdrawals-Reopened-Data-suggests-the-initial-withdrawal-rush-has-stabilized-rather-than-developed-into-a-sustained-run-on-the-exchange-Bitgets-fast-communication-and-phased-reopening-appear-to-have-helped-contain-the-situation-By-JA_Maartun",
-    "source": "@cryptoquant_com",
-    "published": "Wed Oct 07 2026 19:27:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Fed Is Quietly Checking Biggest Banks' Exposure To $1.3T Private Credit",
-    "link": "https://cryptopanic.com/news/33511112/Fed-Is-Quietly-Checking-Biggest-Banks-Exposure-To-13T-Private-Credit",
-    "source": "BTCSessions",
-    "published": "Wed Oct 07 2026 19:24:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Recent developments from frontier Physical AI companies are showing that robots are capable of moving from single task automation to complete workflow automation.\n\nThis unlocks a market an order of magnitude larger than single task autonomy. Similar to the jump from L3 to L4",
-    "link": "https://cryptopanic.com/news/33511145/Recent-developments-from-frontier-Physical-AI-companies-are-showing-that-robots-are-capable-of-moving-from-single-task-automation-to-complete-workflow-automation-This-unlocks-a-market-an-order-of-magnitude-larger-than-single-task-autonomy-Similar-to-the-jump-from-L3-to-L4",
-    "source": "@rewkang",
-    "published": "Wed Oct 07 2026 19:20:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ NEW: Sui’s offchain tunnels hit 40.6 million transactions per second in a live stress test simulating high-frequency AI agent activity.",
-    "link": "https://cryptopanic.com/news/33511149/NEW-Suis-offchain-tunnels-hit-406-million-transactions-per-second-in-a-live-stress-test-simulating-high-frequency-AI-agent-activity",
-    "source": "@cointelegraph",
-    "published": "Wed Oct 07 2026 19:20:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Moody’s gives Sky Protocol a B3 rating, echoing S&P’s junk grade",
-    "link": "https://cryptopanic.com/news/33511202/Moodys-gives-Sky-Protocol-a-B3-rating-echoing-SPs-junk-grade",
-    "source": "cryptopolitan.com",
-    "published": "Wed Oct 07 2026 19:15:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇺🇸 The US government moved $470M in BTC, WBTC and USDT to what are likely Coinbase Prime deposit addresses, including Bitcoin previously seized from the Bitfinex hacker and Alameda Research, per Arkham.",
-    "link": "https://cryptopanic.com/news/33511146/LATEST-The-US-government-moved-470M-in-BTC-WBTC-and-USDT-to-what-are-likely-Coinbase-Prime-deposit-addresses-including-Bitcoin-previously-seized-from-the-Bitfinex-hacker-and-Alameda-Research-per-Arkham",
-    "source": "@coinmarketcap",
-    "published": "Wed Oct 07 2026 19:11:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hackers Used AI Agents to Raid a Megachurch's Database, Exposing 850,000 Members",
-    "link": "https://cryptopanic.com/news/33511082/Hackers-Used-AI-Agents-to-Raid-a-Megachurchs-Database-Exposing-850000-Members",
-    "source": "decrypt.co",
-    "published": "Wed Oct 07 2026 19:10:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tether Signs MoU With Kazakhstan’s Central Bank to Explore Tenge Stablecoin and Tokenization",
-    "link": "https://cryptopanic.com/news/33511078/Tether-Signs-MoU-With-Kazakhstans-Central-Bank-to-Explore-Tenge-Stablecoin-and-Tokenization",
-    "source": "btcusa.com",
-    "published": "Wed Oct 07 2026 19:10:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 LATEST: President Trump will unveil over $1 billion in industry commitments to the Genesis Mission at Thursday’s White House AI science summit, alongside more than $100 million in federal investments.",
-    "link": "https://cryptopanic.com/news/33511148/LATEST-President-Trump-will-unveil-over-1-billion-in-industry-commitments-to-the-Genesis-Mission-at-Thursdays-White-House-AI-science-summit-alongside-more-than-100-million-in-federal-investments",
-    "source": "@cointelegraph",
-    "published": "Wed Oct 07 2026 19:08:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BESSENT: Core inflation is approaching the Fed target.\n\nWhat do you think, does core PCE look like it is on its way to 2%?",
-    "link": "https://cryptopanic.com/news/33511106/BESSENT-Core-inflation-is-approaching-the-Fed-target-What-do-you-think-does-core-PCE-look-like-it-is-on-its-way-to-2",
-    "source": "@stackersatoshi",
-    "published": "Wed Oct 07 2026 19:03:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Is $USD1 the next major stablecoin...?!\n\nCan @worldlibertyfi rise to compete with the likes of @Tether's $USDT and @Circle's $USDC? Read now ⬇️",
-    "link": "https://cryptopanic.com/news/33511195/Is-USD1-the-next-major-stablecoin-Can-worldlibertyfi-rise-to-compete-with-the-likes-of-Tethers-USDT-and-Circles-USDC-Read-now",
-    "source": "@bscnews",
-    "published": "Wed Oct 07 2026 19:03:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Florida asks court to pull under-14 users off Facebook and Instagram",
-    "link": "https://cryptopanic.com/news/33511073/Florida-asks-court-to-pull-under-14-users-off-Facebook-and-Instagram",
-    "source": "cryptopolitan.com",
-    "published": "Wed Oct 07 2026 19:00:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Brevan Howard × Ripple deal is HUGE when you see how their relationship has evolved!\n\nBrevan Howard first invested in @Ripple last year during its HUGE $500M raise at a $40 BILLION valuation.\n\nNow it has gone from backing Ripple’s vision to actually using Ripple Prime for",
-    "link": "https://cryptopanic.com/news/33511194/The-Brevan-Howard-Ripple-deal-is-HUGE-when-you-see-how-their-relationship-has-evolved-Brevan-Howard-first-invested-in-Ripple-last-year-during-its-HUGE-500M-raise-at-a-40-BILLION-valuation-Now-it-has-gone-from-backing-Ripples-vision-to-actually-using-Ripple-Prime-for",
-    "source": "@realallincrypto",
-    "published": "Wed Oct 07 2026 19:00:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "OKX partners with Circle and Ripple – What does OKB gain?",
-    "link": "https://cryptopanic.com/news/33511032/OKX-partners-with-Circle-and-Ripple-What-does-OKB-gain",
-    "source": "ambcrypto.com",
-    "published": "Wed Oct 07 2026 19:00:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Wells Fargo in talks with Kraken parent Payward for crypto trading liquidity",
-    "link": "https://cryptopanic.com/news/33511110/Wells-Fargo-in-talks-with-Kraken-parent-Payward-for-crypto-trading-liquidity",
-    "source": "coindesk.com",
-    "published": "Wed Oct 07 2026 18:59:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: $13 trillion Charles Schwab says 64% of Millennials plan to buy Bitcoin & crypto \n\nBullish!",
-    "link": "https://cryptopanic.com/news/33511104/JUST-IN-13-trillion-Charles-Schwab-says-64-of-Millennials-plan-to-buy-Bitcoin-amp-crypto-Bullish",
-    "source": "@bitcoinmagazine",
-    "published": "Wed Oct 07 2026 18:51:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "September FOMC Minutes Summary\n\n-All 19 officials supported the September rate hike\n-Some officials stated that inflation risks have become more skewed to the upside\n-Most officials saw another hike in 2026 as likely appropriate\n-Several officials stated that the current rate is",
-    "link": "https://cryptopanic.com/news/33511105/September-FOMC-Minutes-Summary-All-19-officials-supported-the-September-rate-hike-Some-officials-stated-that-inflation-risks-have-become-more-skewed-to-the-upside-Most-officials-saw-another-hike-in-2026-as-likely-appropriate-Several-officials-stated-that-the-current-rate-is",
-    "source": "@stackersatoshi",
-    "published": "Wed Oct 07 2026 18:49:12 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
