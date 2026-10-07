@@ -1,5 +1,138 @@
 [
   {
+    "title": "Crypto Funding Rates Explained: How Perpetual Futures Cost Money",
+    "link": "https://cryptopanic.com/news/33510260/Crypto-Funding-Rates-Explained-How-Perpetual-Futures-Cost-Money",
+    "source": "btcusa.com",
+    "published": "Wed Oct 07 2026 16:15:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Colombia revokes decree capping pension funds' foreign investments",
+    "link": "https://cryptopanic.com/news/33510272/Colombia-revokes-decree-capping-pension-funds-foreign-investments",
+    "source": "@reutersbiz",
+    "published": "Wed Oct 07 2026 16:15:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ripple's Schwartz Underestimates XRP Lending Potential, Flare CEO Claims",
+    "link": "https://cryptopanic.com/news/33510300/Ripples-Schwartz-Underestimates-XRP-Lending-Potential-Flare-CEO-Claims",
+    "source": "u.today",
+    "published": "Wed Oct 07 2026 16:13:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Price Eyes New Catalyst as Ripple Partners With South Korea’s Meritz",
+    "link": "https://cryptopanic.com/news/33510285/XRP-Price-Eyes-New-Catalyst-as-Ripple-Partners-With-South-Koreas-Meritz",
+    "source": "cryptonews.com",
+    "published": "Wed Oct 07 2026 16:11:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "What's in Injective's new Whitepaper?\n\n@Injective has just published a new whitepaper, the first complete rewrite since the original one written back in December 2018.\n\nThe original paper described an anti-front-running protocol for an exchange. \n\nIn the new one, Injective is",
+    "link": "https://cryptopanic.com/news/33510280/Whats-in-Injectives-new-Whitepaper-Injective-has-just-published-a-new-whitepaper-the-first-complete-rewrite-since-the-original-one-written-back-in-December-2018-The-original-paper-described-an-anti-front-running-protocol-for-an-exchange-In-the-new-one-Injective-is",
+    "source": "@bscnews",
+    "published": "Wed Oct 07 2026 16:07:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cardano’s Big Play: ADA Rallies 42% on Massive Upgrades",
+    "link": "https://cryptopanic.com/news/33510203/Cardanos-Big-Play-ADA-Rallies-42-on-Massive-Upgrades",
+    "source": "dailycoin.com",
+    "published": "Wed Oct 07 2026 16:05:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Blockchain is becoming a strategic choice for finance: adopt new rails early, or risk adapting after users demand better prices and efficiency. Here's what matters",
+    "link": "https://cryptopanic.com/news/33510277/Blockchain-is-becoming-a-strategic-choice-for-finance-adopt-new-rails-early-or-risk-adapting-after-users-demand-better-prices-and-efficiency-Heres-what-matters",
+    "source": "@realallincrypto",
+    "published": "Wed Oct 07 2026 16:03:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bond Market Selloff, BTC Institutional Adoption, Digital Treasuries | BMTV Oct. 08, 2026",
+    "link": "https://cryptopanic.com/news/33510188/Bond-Market-Selloff-BTC-Institutional-Adoption-Digital-Treasuries-BMTV-Oct-08-2026",
+    "source": "BitcoinMagazine",
+    "published": "Wed Oct 07 2026 16:01:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ALERT: Bitcoin falls to $83.6K as $550M in longs are liquidated, and 40x Hyperliquid shorts come into focus.",
+    "link": "https://cryptopanic.com/news/33510267/ALERT-Bitcoin-falls-to-836K-as-550M-in-longs-are-liquidated-and-40x-Hyperliquid-shorts-come-into-focus",
+    "source": "@cointelegraph",
+    "published": "Wed Oct 07 2026 16:01:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Nearly 20 companies are now using @Zebec_HQ's blockchain payroll platform built on @StellarOrg. \n\nExplore the product's growth within crypto and beyond...",
+    "link": "https://cryptopanic.com/news/33510279/Nearly-20-companies-are-now-using-Zebec_HQs-blockchain-payroll-platform-built-on-StellarOrg-Explore-the-products-growth-within-crypto-and-beyond",
+    "source": "@bscnews",
+    "published": "Wed Oct 07 2026 16:01:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "France is considering more shorter-term debt issuance, finance minister tells WSJ",
+    "link": "https://cryptopanic.com/news/33510271/France-is-considering-more-shorter-term-debt-issuance-finance-minister-tells-WSJ",
+    "source": "@reutersbiz",
+    "published": "Wed Oct 07 2026 16:00:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LOOK: ANOTHER HUGE S&P GLOBAL → STELLAR CONNECTION. \n\nIf we look at the dates last year the S&P Dow Jones Indices chose Centrifuge to help bring the S&P 500 onchain. Just months later, Centrifuge announced its expansion onto @StellarOrg.\n\nThis on it's own is not that exciting",
+    "link": "https://cryptopanic.com/news/33510276/LOOK-ANOTHER-HUGE-SampP-GLOBAL-STELLAR-CONNECTION-If-we-look-at-the-dates-last-year-the-SampP-Dow-Jones-Indices-chose-Centrifuge-to-help-bring-the-SampP-500-onchain-Just-months-later-Centrifuge-announced-its-expansion-onto-StellarOrg-This-on-its-own-is-not-that-exciting",
+    "source": "@realallincrypto",
+    "published": "Wed Oct 07 2026 16:00:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Just Passed a Test It Wasn't Supposed to Pass",
+    "link": "https://cryptopanic.com/news/33510284/Bitcoin-Just-Passed-a-Test-It-Wasnt-Supposed-to-Pass",
+    "source": "CryptoTips",
+    "published": "Wed Oct 07 2026 16:00:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Quantum Threat: It's Not Just Crypto, It's EVERYTHING!",
+    "link": "https://cryptopanic.com/news/33510278/Quantum-Threat-Its-Not-Just-Crypto-Its-EVERYTHING",
+    "source": "TheCryptoLark",
+    "published": "Wed Oct 07 2026 16:00:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ICYMI, OKX Money just debuted onstage at OKX Now.\n\nIt's a digital dollar wallet built for the world. Save, earn, send and spend with no conversion fees. Nice work, @OKX.",
+    "link": "https://cryptopanic.com/news/33510266/ICYMI-OKX-Money-just-debuted-onstage-at-OKX-Now-Its-a-digital-dollar-wallet-built-for-the-world-Save-earn-send-and-spend-with-no-conversion-fees-Nice-work-OKX",
+    "source": "@cointelegraph",
+    "published": "Wed Oct 07 2026 16:00:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Valon Series D Brings AI to $13T Mortgage Market",
+    "link": "https://cryptopanic.com/news/33510136/Valon-Series-D-Brings-AI-to-13T-Mortgage-Market",
+    "source": "catenaa.com",
+    "published": "Wed Oct 07 2026 16:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Robinhood has added $25M of $BTC to their balance sheet with the SVP stating that it is a signal of their commitment to the crypto sector.",
+    "link": "https://cryptopanic.com/news/33510128/Robinhood-has-added-25M-of-BTC-to-their-balance-sheet-with-the-SVP-stating-that-it-is-a-signal-of-their-commitment-to-the-crypto-sector",
+    "source": "@stackersatoshi",
+    "published": "Wed Oct 07 2026 15:55:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto’s Quantum Risk Begins With Wallet Keys, Says Europol",
+    "link": "https://cryptopanic.com/news/33510123/Cryptos-Quantum-Risk-Begins-With-Wallet-Keys-Says-Europol",
+    "source": "coindoo.com",
+    "published": "Wed Oct 07 2026 15:54:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tom Lee Says Bitmine Will 'Stop' Buying ETH—BMNR Falls 6%",
+    "link": "https://cryptopanic.com/news/33510206/Tom-Lee-Says-Bitmine-Will-Stop-Buying-ETHBMNR-Falls-6",
+    "source": "feeds2.benzinga.com",
+    "published": "Wed Oct 07 2026 15:51:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Solana Records 33% Spike in New Addresses",
     "link": "https://cryptopanic.com/news/33510142/Solana-Records-33-Spike-in-New-Addresses",
     "source": "u.today",
@@ -28,6 +161,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Revolut will cover costs for customers hit by data hack, Western Europe CEO says",
+    "link": "https://cryptopanic.com/news/33510270/Revolut-will-cover-costs-for-customers-hit-by-data-hack-Western-Europe-CEO-says",
+    "source": "@reutersbiz",
+    "published": "Wed Oct 07 2026 15:45:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Base is launching an Institutional DeFi Gateway in Japan\n\n@Base partners with SMBC Nikko, one of Japan's leading investment banks, to create a regulated gateway for institutional decentralized finance in Japan. \n\nThe gateway leverages Coinbase's rollup infrastructure to offer",
     "link": "https://cryptopanic.com/news/33510103/Base-is-launching-an-Institutional-DeFi-Gateway-in-Japan-Base-partners-with-SMBC-Nikko-one-of-Japans-leading-investment-banks-to-create-a-regulated-gateway-for-institutional-decentralized-finance-in-Japan-The-gateway-leverages-Coinbases-rollup-infrastructure-to-offer",
     "source": "@bscnews",
@@ -42,171 +182,31 @@
     "sentiment": "neutral"
   },
   {
-    "title": "LATEST:  US spot Bitcoin ETFs took in $118.86M on Tuesday, led by $122M into BlackRock's IBIT, snapping back from Monday's outflows.",
-    "link": "https://cryptopanic.com/news/33510129/LATEST-US-spot-Bitcoin-ETFs-took-in-11886M-on-Tuesday-led-by-122M-into-BlackRocks-IBIT-snapping-back-from-Mondays-outflows",
-    "source": "@coinmarketcap",
-    "published": "Wed Oct 07 2026 15:35:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Dips Below $83K as Oil Shock Rattles Markets: What Happens Next?",
-    "link": "https://cryptopanic.com/news/33510052/Bitcoin-Dips-Below-83K-as-Oil-Shock-Rattles-Markets-What-Happens-Next",
-    "source": "decrypt.co",
-    "published": "Wed Oct 07 2026 15:34:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "From 440 BTC to zero to 10: Genius Group restarts its bitcoin treasury, again",
-    "link": "https://cryptopanic.com/news/33510046/From-440-BTC-to-zero-to-10-Genius-Group-restarts-its-bitcoin-treasury-again",
-    "source": "cryptopolitan.com",
-    "published": "Wed Oct 07 2026 15:34:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: $ADA's FluidTokens and Minswap are joining forces: FluidTokens CEO says the merge will \"allow deeper integrations for more complex DeFi, higher yields, deeper liquidity, and make Cardano DeFi much more competitive. Projects stay independent but teams are shared.\"",
-    "link": "https://cryptopanic.com/news/33510132/JUST-IN-ADAs-FluidTokens-and-Minswap-are-joining-forces-FluidTokens-CEO-says-the-merge-will-allow-deeper-integrations-for-more-complex-DeFi-higher-yields-deeper-liquidity-and-make-Cardano-DeFi-much-more-competitive-Projects-stay-independent-but-teams-are-shared",
-    "source": "@angrycryptoshow",
-    "published": "Wed Oct 07 2026 15:33:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Marvell Sees $12B Custom AI Chip Business as Google Deal Could Reach $120B",
-    "link": "https://cryptopanic.com/news/33510041/Marvell-Sees-12B-Custom-AI-Chip-Business-as-Google-Deal-Could-Reach-120B",
-    "source": "coinpaper.com",
-    "published": "Wed Oct 07 2026 15:31:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Chainspect says \"#Cardano set a new record for TPS in a single block—329 TPS on October 7th, up from the previous record of 304 TPS set on December 24th, 2024.\" With a successful 1,000 TPS showcase, Ouroboros Leios is set to advance $ADA's throughput to the next level.",
-    "link": "https://cryptopanic.com/news/33510033/JUST-IN-Chainspect-says-Cardano-set-a-new-record-for-TPS-in-a-single-block329-TPS-on-October-7th-up-from-the-previous-record-of-304-TPS-set-on-December-24th-2024-With-a-successful-1000-TPS-showcase-Ouroboros-Leios-is-set-to-advance-ADAs-throughput-to-the-next-level",
-    "source": "@angrycryptoshow",
-    "published": "Wed Oct 07 2026 15:30:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INSIGHT: Polymarket CEO Shayne Coplan says chasing 100x tokens is “irrational exuberance” and a “greater fool” game.",
-    "link": "https://cryptopanic.com/news/33510038/INSIGHT-Polymarket-CEO-Shayne-Coplan-says-chasing-100x-tokens-is-irrational-exuberance-and-a-greater-fool-game",
+    "title": "INSIGHT: Hunter Biden blames market makers for LAPTOP’s 98% launch-day crash and denies the team sold tokens.",
+    "link": "https://cryptopanic.com/news/33510264/INSIGHT-Hunter-Biden-blames-market-makers-for-LAPTOPs-98-launch-day-crash-and-denies-the-team-sold-tokens",
     "source": "@cointelegraph",
-    "published": "Wed Oct 07 2026 15:30:46 GMT+0000 (Coordinated Universal Time)",
+    "published": "Wed Oct 07 2026 15:40:41 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "XRP treasury SPAC drops 50% in a day ahead of Evernorth’s Nasdaq debut",
-    "link": "https://cryptopanic.com/news/33510042/XRP-treasury-SPAC-drops-50-in-a-day-ahead-of-Evernorths-Nasdaq-debut",
-    "source": "cryptoslate.com",
-    "published": "Wed Oct 07 2026 15:30:44 GMT+0000 (Coordinated Universal Time)",
+    "title": "No single metric captures execution quality on its own as displayed depth maps where orders rest but not whether they will trade. \n\nVolume indicates activity and near-term tradability. \n\nOpen interest is the cleanest gauge of where committed capital stands. \n\nThe three are",
+    "link": "https://cryptopanic.com/news/33510263/No-single-metric-captures-execution-quality-on-its-own-as-displayed-depth-maps-where-orders-rest-but-not-whether-they-will-trade-Volume-indicates-activity-and-near-term-tradability-Open-interest-is-the-cleanest-gauge-of-where-committed-capital-stands-The-three-are",
+    "source": "@coindesk",
+    "published": "Wed Oct 07 2026 15:37:12 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Vitalik Buterin Maps Out Ethereum’s Two-Year Path Toward AI-Driven Scaling and Privacy",
-    "link": "https://cryptopanic.com/news/33509995/Vitalik-Buterin-Maps-Out-Ethereums-Two-Year-Path-Toward-AI-Driven-Scaling-and-Privacy",
-    "source": "btcusa.com",
-    "published": "Wed Oct 07 2026 15:30:11 GMT+0000 (Coordinated Universal Time)",
+    "title": "Full report from @CoinDesk Research here",
+    "link": "https://cryptopanic.com/news/33510262/Full-report-from-CoinDesk-Research-here",
+    "source": "@coindesk",
+    "published": "Wed Oct 07 2026 15:37:12 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "JUST IN: Salt Lending CEO says sovereign wealth funds and banks are realizing the importance of Bitcoin \n\n\"Every human goes through this experience where you learn about Bitcoin and wish you'd been earlier...I think that will be true of sovereigns and banks of all sizes.\"",
-    "link": "https://cryptopanic.com/news/33510105/JUST-IN-Salt-Lending-CEO-says-sovereign-wealth-funds-and-banks-are-realizing-the-importance-of-Bitcoin-Every-human-goes-through-this-experience-where-you-learn-about-Bitcoin-and-wish-youd-been-earlierI-think-that-will-be-true-of-sovereigns-and-banks-of-all-sizes",
-    "source": "@bitcoinmagazine",
-    "published": "Wed Oct 07 2026 15:29:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Paxos Crypto Brokerage Adopts XRP\n\n@Paxos introduces $XRP support into its institutional crypto brokerage and custodial services. \n\nNow, its institutional banking partners, international fintechs, and commercial brokerages can trade and settle in the asset.\n\nThis inclusion will",
-    "link": "https://cryptopanic.com/news/33510102/Paxos-Crypto-Brokerage-Adopts-XRP-Paxos-introduces-XRP-support-into-its-institutional-crypto-brokerage-and-custodial-services-Now-its-institutional-banking-partners-international-fintechs-and-commercial-brokerages-can-trade-and-settle-in-the-asset-This-inclusion-will",
-    "source": "@bscnews",
-    "published": "Wed Oct 07 2026 15:29:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Santiment Intelligence says \"Leios, Fireblocks support, and new institutional integrations are helping to drive #Cardano $ADA's biggest discussion spike of the year.\"",
-    "link": "https://cryptopanic.com/news/33510032/JUST-IN-Santiment-Intelligence-says-Leios-Fireblocks-support-and-new-institutional-integrations-are-helping-to-drive-Cardano-ADAs-biggest-discussion-spike-of-the-year",
-    "source": "@angrycryptoshow",
-    "published": "Wed Oct 07 2026 15:28:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Santiment Intelligence says #Cardano's social dominance hit a new 2026 high. $ADA whale activity reached its highest level since June 4th.",
-    "link": "https://cryptopanic.com/news/33510031/JUST-IN-Santiment-Intelligence-says-Cardanos-social-dominance-hit-a-new-2026-high-ADA-whale-activity-reached-its-highest-level-since-June-4th",
-    "source": "@angrycryptoshow",
-    "published": "Wed Oct 07 2026 15:27:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Microsoft and Nvidia set to launch Surface Laptop Ultra for local AI",
-    "link": "https://cryptopanic.com/news/33509985/Microsoft-and-Nvidia-set-to-launch-Surface-Laptop-Ultra-for-local-AI",
-    "source": "cryptopolitan.com",
-    "published": "Wed Oct 07 2026 15:20:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Raydium just toppled PumpFun... \n\n@Raydium has overtaken @Pumpfun in 24-hour decentralized trading volume.\n\nThe protocol recorded $192.2M in total volume, compared to PumpFun's $185.0M.\n\nThis increased trading volume helped Raydium move up to eighth place globally in",
-    "link": "https://cryptopanic.com/news/33510101/Raydium-just-toppled-PumpFun-Raydium-has-overtaken-Pumpfun-in-24-hour-decentralized-trading-volume-The-protocol-recorded-1922M-in-total-volume-compared-to-PumpFuns-1850M-This-increased-trading-volume-helped-Raydium-move-up-to-eighth-place-globally-in",
-    "source": "@bscnews",
-    "published": "Wed Oct 07 2026 15:20:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "5% of People Own BTC… But 8% of Countries Already Have a Plan to Buy It",
-    "link": "https://cryptopanic.com/news/33509980/5-of-People-Own-BTC-But-8-of-Countries-Already-Have-a-Plan-to-Buy-It",
-    "source": "zycrypto.com",
-    "published": "Wed Oct 07 2026 15:17:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin buyers loaded up between $81k and $82k.\n\nSell-side above $83,300 is virtually empty.\n\nBears seem to be losing confidence!",
-    "link": "https://cryptopanic.com/news/33509966/Bitcoin-buyers-loaded-up-between-81k-and-82k-Sell-side-above-83300-is-virtually-empty-Bears-seem-to-be-losing-confidence",
-    "source": "@btc_archive",
-    "published": "Wed Oct 07 2026 15:14:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "You wont believe WHO is manipulating Bitcoins price... | EP 1608",
-    "link": "https://cryptopanic.com/news/33509979/You-wont-believe-WHO-is-manipulating-Bitcoins-price-EP-1608",
-    "source": "SimplyBitcoin",
-    "published": "Wed Oct 07 2026 15:08:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitmine Plans to Stop Buying Ethereum at 5% Supply – Here Is What Comes Next",
-    "link": "https://cryptopanic.com/news/33509924/Bitmine-Plans-to-Stop-Buying-Ethereum-at-5-Supply-Here-Is-What-Comes-Next",
-    "source": "blocknews.com",
-    "published": "Wed Oct 07 2026 15:08:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stock Market Today: S&P 500 and Nasdaq Fall as Treasury Yields Hit 24-Year High",
-    "link": "https://cryptopanic.com/news/33509908/Stock-Market-Today-SP-500-and-Nasdaq-Fall-as-Treasury-Yields-Hit-24-Year-High",
-    "source": "coinpaper.com",
-    "published": "Wed Oct 07 2026 15:06:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP’s Liquidity Anomaly Hits Bulls Hard: Levels To Watch",
-    "link": "https://cryptopanic.com/news/33509913/XRPs-Liquidity-Anomaly-Hits-Bulls-Hard-Levels-To-Watch",
-    "source": "dailycoin.com",
-    "published": "Wed Oct 07 2026 15:05:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto Long & Short: Zcash and the case for privacy in the age of AI",
-    "link": "https://cryptopanic.com/news/33509974/Crypto-Long-Short-Zcash-and-the-case-for-privacy-in-the-age-of-AI",
-    "source": "coindesk.com",
-    "published": "Wed Oct 07 2026 15:03:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Eric Trump Says Crypto Can 'Declare Victory' Over Banks: Is He Right?",
-    "link": "https://cryptopanic.com/news/33509967/Eric-Trump-Says-Crypto-Can-Declare-Victory-Over-Banks-Is-He-Right",
-    "source": "feeds2.benzinga.com",
-    "published": "Wed Oct 07 2026 15:00:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING NEWS: THE UK IS MOVING CLOSER TO ISSUING ITS FIRST EVER DIGITALLY NATIVE GOVERNMENT BOND.\n\nBarclays, HSBC, Lloyds, Morgan Stanley, NatWest and RBC have been selected to lead DIGIT, with HSBC Orion providing the DLT infrastructure and LSEG building connectivity. The",
-    "link": "https://cryptopanic.com/news/33509859/BREAKING-NEWS-THE-UK-IS-MOVING-CLOSER-TO-ISSUING-ITS-FIRST-EVER-DIGITALLY-NATIVE-GOVERNMENT-BOND-Barclays-HSBC-Lloyds-Morgan-Stanley-NatWest-and-RBC-have-been-selected-to-lead-DIGIT-with-HSBC-Orion-providing-the-DLT-infrastructure-and-LSEG-building-connectivity-The",
-    "source": "@realallincrypto",
-    "published": "Wed Oct 07 2026 15:00:07 GMT+0000 (Coordinated Universal Time)",
+    "title": "The same venue leads both measures backed by committed capital: \n\n@Binance at 58% of volume and 55% of open interest. \n\nThe concentration reflects real activity and positioning, not a deeper-looking book. The figures cover a focused set of venues.",
+    "link": "https://cryptopanic.com/news/33510261/The-same-venue-leads-both-measures-backed-by-committed-capital-Binance-at-58-of-volume-and-55-of-open-interest-The-concentration-reflects-real-activity-and-positioning-not-a-deeper-looking-book-The-figures-cover-a-focused-set-of-venues",
+    "source": "@coindesk",
+    "published": "Wed Oct 07 2026 15:37:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
