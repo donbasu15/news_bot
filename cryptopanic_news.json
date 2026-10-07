@@ -1,9 +1,107 @@
 [
   {
+    "title": "Ethereum Price Drops Below Its Trendline: Why $2,550 Support Matters",
+    "link": "https://cryptopanic.com/news/33509476/Ethereum-Price-Drops-Below-Its-Trendline-Why-2550-Support-Matters",
+    "source": "coindoo.com",
+    "published": "Wed Oct 07 2026 13:40:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Mortgage Rates Hit 7.49%, Highest in Nearly 3 Years as Housing Demand Falls",
+    "link": "https://cryptopanic.com/news/33509450/Mortgage-Rates-Hit-749-Highest-in-Nearly-3-Years-as-Housing-Demand-Falls",
+    "source": "coinpaper.com",
+    "published": "Wed Oct 07 2026 13:31:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Wealthy investors view rates and yields as the biggest growth risk, says Deutsche Bank",
+    "link": "https://cryptopanic.com/news/33509442/Wealthy-investors-view-rates-and-yields-as-the-biggest-growth-risk-says-Deutsche-Bank",
+    "source": "@reutersbiz",
+    "published": "Wed Oct 07 2026 13:30:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INSIGHT: Ripple, Kraken and Polymarket remain private, but public-market investors now have another route to their equity.\n\nNYSE-listed C1 Fund offers exposure to 11 late-stage crypto infrastructure companies.",
+    "link": "https://cryptopanic.com/news/33509437/INSIGHT-Ripple-Kraken-and-Polymarket-remain-private-but-public-market-investors-now-have-another-route-to-their-equity-NYSE-listed-C1-Fund-offers-exposure-to-11-late-stage-crypto-infrastructure-companies",
+    "source": "@cointelegraph",
+    "published": "Wed Oct 07 2026 13:30:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Porsche is reshaping its business ‌for a future with lower sales volumes, the sports car maker said, betting that a greater focus on high-end models will help restore its profit margins despite subdued demand",
+    "link": "https://cryptopanic.com/news/33509441/Porsche-is-reshaping-its-business-for-a-future-with-lower-sales-volumes-the-sports-car-maker-said-betting-that-a-greater-focus-on-high-end-models-will-help-restore-its-profit-margins-despite-subdued-demand",
+    "source": "@reutersbiz",
+    "published": "Wed Oct 07 2026 13:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LIVE: BTC Q4 Signals, Wall Street Macro, Energy Markets | BMTV Oct. 07, 2026",
+    "link": "https://cryptopanic.com/news/33509513/LIVE-BTC-Q4-Signals-Wall-Street-Macro-Energy-Markets-BMTV-Oct-07-2026",
+    "source": "@bitcoinmagazine",
+    "published": "Wed Oct 07 2026 13:29:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BITCOIN CRASHES $2,100 IN 12H\n\n$150m leveraged longs liquidated",
+    "link": "https://cryptopanic.com/news/33509515/BITCOIN-CRASHES-2100-IN-12H-150m-leveraged-longs-liquidated",
+    "source": "@btc_archive",
+    "published": "Wed Oct 07 2026 13:26:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ripple Lands $35 Billion Hedge Fund As Enterprise Client",
+    "link": "https://cryptopanic.com/news/33509383/Ripple-Lands-35-Billion-Hedge-Fund-As-Enterprise-Client",
+    "source": "dailycoin.com",
+    "published": "Wed Oct 07 2026 13:25:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SpaceX Seeks $40B for Nvidia Chips as AI Debt Swells to $88B",
+    "link": "https://cryptopanic.com/news/33509373/SpaceX-Seeks-40B-for-Nvidia-Chips-as-AI-Debt-Swells-to-88B",
+    "source": "coinpaper.com",
+    "published": "Wed Oct 07 2026 13:20:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Quantum computers threaten exposed private keys rather than blockchains, Europol warns",
+    "link": "https://cryptopanic.com/news/33509523/Quantum-computers-threaten-exposed-private-keys-rather-than-blockchains-Europol-warns",
+    "source": "coindesk.com",
+    "published": "Wed Oct 07 2026 13:20:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hedera Showcases Future Finance Solutions at Money2020",
+    "link": "https://cryptopanic.com/news/33509473/Hedera-Showcases-Future-Finance-Solutions-at-Money2020",
+    "source": "r/hedera",
+    "published": "Wed Oct 07 2026 13:19:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Robinhood Joins Strategy, Tesla In Holding Bitcoin, Exec Says: 'We Care Deeply About Bitcoin'",
+    "link": "https://cryptopanic.com/news/33509448/Robinhood-Joins-Strategy-Tesla-In-Holding-Bitcoin-Exec-Says-We-Care-Deeply-About-Bitcoin",
+    "source": "feeds2.benzinga.com",
+    "published": "Wed Oct 07 2026 13:17:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Rosatom takes full control of Delo to create Russia's biggest logistics group",
+    "link": "https://cryptopanic.com/news/33509439/Rosatom-takes-full-control-of-Delo-to-create-Russias-biggest-logistics-group",
+    "source": "@reutersbiz",
+    "published": "Wed Oct 07 2026 13:15:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Why Is Dogecoin Down Today? DOGE Slides 7% as BTC, ETH and XRP Sell Off",
     "link": "https://cryptopanic.com/news/33509348/Why-Is-Dogecoin-Down-Today-DOGE-Slides-7-as-BTC-ETH-and-XRP-Sell-Off",
     "source": "coinpaper.com",
     "published": "Wed Oct 07 2026 13:13:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Canary Capital's S-1 filing for a Staked SEI ETF will include spot @SeiNetwork's $SEI, with 90% staked. o\n\nIt has not yet received SEC approval. \n\nOnce approved, it will provide regulated access to SEI along with staking yield.",
+    "link": "https://cryptopanic.com/news/33509446/Canary-Capitals-S-1-filing-for-a-Staked-SEI-ETF-will-include-spot-SeiNetworks-SEI-with-90-staked-o-It-has-not-yet-received-SEC-approval-Once-approved-it-will-provide-regulated-access-to-SEI-along-with-staking-yield",
+    "source": "@bscnews",
+    "published": "Wed Oct 07 2026 13:12:23 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -21,6 +119,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "BitMine Is About to Stop Buying Ethereum: What Happens to ETH Price Then?",
+    "link": "https://cryptopanic.com/news/33509514/BitMine-Is-About-to-Stop-Buying-Ethereum-What-Happens-to-ETH-Price-Then",
+    "source": "beincrypto.com",
+    "published": "Wed Oct 07 2026 13:07:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Arthur Hayes Says AI 'Crash' and Subsequent 'Bailout' Could Spark Bitcoin's Best Performance: 'Just Have to Be Patient'",
     "link": "https://cryptopanic.com/news/33509372/Arthur-Hayes-Says-AI-Crash-and-Subsequent-Bailout-Could-Spark-Bitcoins-Best-Performance-Just-Have-to-Be-Patient",
     "source": "feeds2.benzinga.com",
@@ -35,6 +140,20 @@
     "sentiment": "neutral"
   },
   {
+    "title": "🇪🇺 ALERT: Europol warns quantum computing could expose crypto wallet private keys, urging a shift to quantum-resistant security.",
+    "link": "https://cryptopanic.com/news/33509434/ALERT-Europol-warns-quantum-computing-could-expose-crypto-wallet-private-keys-urging-a-shift-to-quantum-resistant-security",
+    "source": "@cointelegraph",
+    "published": "Wed Oct 07 2026 13:01:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: $MOO is going live tomorrow on Robinhood Chain, paired with Bitcoin stocks. \n\nThe community is growing fast, with the project’s meme account also gaining traction.\n\nCould we be looking at a listing next?",
+    "link": "https://cryptopanic.com/news/33509445/JUST-IN-MOO-is-going-live-tomorrow-on-Robinhood-Chain-paired-with-Bitcoin-stocks-The-community-is-growing-fast-with-the-projects-meme-account-also-gaining-traction-Could-we-be-looking-at-a-listing-next",
+    "source": "@bscnews",
+    "published": "Wed Oct 07 2026 13:01:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "XRP News: XRPL $2.2B Tokenization Depends on Energy Token",
     "link": "https://cryptopanic.com/news/33509289/XRP-News-XRPL-22B-Tokenization-Depends-on-Energy-Token",
     "source": "cryptonews.com",
@@ -46,6 +165,27 @@
     "link": "https://cryptopanic.com/news/33509359/Finnable-Flipkart-Finance-Offer-Rs-1-Lakh-Credit-Across-3-Apps",
     "source": "sfctoday.com",
     "published": "Wed Oct 07 2026 13:00:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "European bank shares fall as bond yields surge, spreads widen",
+    "link": "https://cryptopanic.com/news/33509438/European-bank-shares-fall-as-bond-yields-surge-spreads-widen",
+    "source": "@reutersbiz",
+    "published": "Wed Oct 07 2026 13:00:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Midweek calendar check:\n\n291 events were added across 174 coins in the last 7 days.\n\n1 high-impact events are already on the calendar for the next 7 days. See what's coming: \n\nFor new events and breaking news, follow @cmcal_bot.",
+    "link": "https://cryptopanic.com/news/33509443/Midweek-calendar-check-291-events-were-added-across-174-coins-in-the-last-7-days-1-high-impact-events-are-already-on-the-calendar-for-the-next-7-days-See-whats-coming-For-new-events-and-breaking-news-follow-cmcal_bot",
+    "source": "@coinmarketcal",
+    "published": "Wed Oct 07 2026 13:00:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: RIPPLE CUSTODY HAS ADDED SUPPORT FOR THE CANTON NETWORK! $XRP $CC\n\nCanton has already gained some major traction across tokenisation, settlement and repo with giants including DTCC and Broadridge.\n\nSo now institutions can now custody and transfer Canton Coin and CIP-56",
+    "link": "https://cryptopanic.com/news/33509444/NEW-RIPPLE-CUSTODY-HAS-ADDED-SUPPORT-FOR-THE-CANTON-NETWORK-XRP-CC-Canton-has-already-gained-some-major-traction-across-tokenisation-settlement-and-repo-with-giants-including-DTCC-and-Broadridge-So-now-institutions-can-now-custody-and-transfer-Canton-Coin-and-CIP-56",
+    "source": "@realallincrypto",
+    "published": "Wed Oct 07 2026 13:00:22 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -67,146 +207,6 @@
     "link": "https://cryptopanic.com/news/33509263/Arbitrum-Bets-on-Paxos-USDG-to-Capture-Stablecoin-Reserve-Income",
     "source": "coinpaprika.com",
     "published": "Wed Oct 07 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Price Prediction: BTC Falls to $84K, Whale Share Hits 2-Month High",
-    "link": "https://cryptopanic.com/news/33509245/Bitcoin-Price-Prediction-BTC-Falls-to-84K-Whale-Share-Hits-2-Month-High",
-    "source": "coinpaper.com",
-    "published": "Wed Oct 07 2026 12:59:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Polkadot's on-chain revenue doesn't tell its story\n\n@Polkadot shows an extraordinary gap between its secondary-market valuation and onchain monetization, with $23 in daily revenue from onchain transactions over the last 30 days.\n\n@chainspect_app data shows about 1,400",
-    "link": "https://cryptopanic.com/news/33509240/Polkadots-on-chain-revenue-doesnt-tell-its-story-Polkadot-shows-an-extraordinary-gap-between-its-secondary-market-valuation-and-onchain-monetization-with-23-in-daily-revenue-from-onchain-transactions-over-the-last-30-days-chainspect_app-data-shows-about-1400",
-    "source": "@bscnews",
-    "published": "Wed Oct 07 2026 12:59:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple Mints 30M RLUSD After $59.5M Issued in Two Days",
-    "link": "https://cryptopanic.com/news/33509227/Ripple-Mints-30M-RLUSD-After-595M-Issued-in-Two-Days",
-    "source": "coinpaper.com",
-    "published": "Wed Oct 07 2026 12:53:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇺🇸 SharpLink CEO Joseph Chalom told CNBC that the SEC and CFTC will \"solve about 80% of what was in the CLARITY Act through rulemaking.\"",
-    "link": "https://cryptopanic.com/news/33509340/LATEST-SharpLink-CEO-Joseph-Chalom-told-CNBC-that-the-SEC-and-CFTC-will-solve-about-80-of-what-was-in-the-CLARITY-Act-through-rulemaking",
-    "source": "@coinmarketcap",
-    "published": "Wed Oct 07 2026 12:53:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: Tether signs an MoU with Kazakhstan’s central bank and Alatau City to explore stablecoin use and asset tokenization",
-    "link": "https://cryptopanic.com/news/33509243/INTEL-Tether-signs-an-MoU-with-Kazakhstans-central-bank-and-Alatau-City-to-explore-stablecoin-use-and-asset-tokenization",
-    "source": "@solidintel_x",
-    "published": "Wed Oct 07 2026 12:43:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ether is about to lose a steady buyer as Tom Lee says Bitmine will stop token purchases",
-    "link": "https://cryptopanic.com/news/33509230/Ether-is-about-to-lose-a-steady-buyer-as-Tom-Lee-says-Bitmine-will-stop-token-purchases",
-    "source": "coindesk.com",
-    "published": "Wed Oct 07 2026 12:40:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Engineer Gets 32 Months for Bitcoin Extortion Plot Against His Own Employer",
-    "link": "https://cryptopanic.com/news/33509174/Engineer-Gets-32-Months-for-Bitcoin-Extortion-Plot-Against-His-Own-Employer",
-    "source": "decrypt.co",
-    "published": "Wed Oct 07 2026 12:39:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Treasury Firm Evernorth Pushes Nasdaq Listing to Oct. 12",
-    "link": "https://cryptopanic.com/news/33509168/XRP-Treasury-Firm-Evernorth-Pushes-Nasdaq-Listing-to-Oct-12",
-    "source": "coinpaper.com",
-    "published": "Wed Oct 07 2026 12:38:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple Prime Wins $35B Brevan Howard: Where Does XRP Fit?",
-    "link": "https://cryptopanic.com/news/33509160/Ripple-Prime-Wins-35B-Brevan-Howard-Where-Does-XRP-Fit",
-    "source": "coinpaper.com",
-    "published": "Wed Oct 07 2026 12:35:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Aerodrome Finance Price Prediction: AERO Targets for 2026–2030",
-    "link": "https://cryptopanic.com/news/33509159/Aerodrome-Finance-Price-Prediction-AERO-Targets-for-20262030",
-    "source": "btcusa.com",
-    "published": "Wed Oct 07 2026 12:35:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "bond markets signaling a change in the monetary hegemony",
-    "link": "https://cryptopanic.com/news/33509215/bond-markets-signaling-a-change-in-the-monetary-hegemony",
-    "source": "@realallincrypto",
-    "published": "Wed Oct 07 2026 12:34:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BlackRock Finds a Major Disconnect Between Women and Financial Advisors",
-    "link": "https://cryptopanic.com/news/33509299/BlackRock-Finds-a-Major-Disconnect-Between-Women-and-Financial-Advisors",
-    "source": "beincrypto.com",
-    "published": "Wed Oct 07 2026 12:34:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto trading giant GSR's new vault business is a $100M bet on onchain credit",
-    "link": "https://cryptopanic.com/news/33509223/Crypto-trading-giant-GSRs-new-vault-business-is-a-100M-bet-on-onchain-credit",
-    "source": "coindesk.com",
-    "published": "Wed Oct 07 2026 12:34:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tether is pushing tokenization in Kazakhstan\n\n@Tether enters into an official Memorandum of Understanding with the National Bank of Kazakhstan and the Alatau City Authority. \n\nThe MoU will establish a sovereign digital financial framework, begin asset tokenization experiments,",
-    "link": "https://cryptopanic.com/news/33509237/Tether-is-pushing-tokenization-in-Kazakhstan-Tether-enters-into-an-official-Memorandum-of-Understanding-with-the-National-Bank-of-Kazakhstan-and-the-Alatau-City-Authority-The-MoU-will-establish-a-sovereign-digital-financial-framework-begin-asset-tokenization-experiments",
-    "source": "@bscnews",
-    "published": "Wed Oct 07 2026 12:34:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: Robinhood buys $25M of Bitcoin for its corporate treasury.\n\n​Crypto general manager called the move a \"commitment signal.\"\n\n​It's small, but it's a start!",
-    "link": "https://cryptopanic.com/news/33509339/BREAKING-Robinhood-buys-25M-of-Bitcoin-for-its-corporate-treasury-Crypto-general-manager-called-the-move-a-commitment-signal-Its-small-but-its-a-start",
-    "source": "@btc_archive",
-    "published": "Wed Oct 07 2026 12:32:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "REKT: 2H Crypto liquidations jump to $608M, the largest single liquidation was a $26.64M ETHUSDC order on Binance.",
-    "link": "https://cryptopanic.com/news/33509213/REKT-2H-Crypto-liquidations-jump-to-608M-the-largest-single-liquidation-was-a-2664M-ETHUSDC-order-on-Binance",
-    "source": "@cointelegraph",
-    "published": "Wed Oct 07 2026 12:30:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto liquidations hit $610M as long squeezes cloud ‘Uptober’ outlook",
-    "link": "https://cryptopanic.com/news/33509148/Crypto-liquidations-hit-610M-as-long-squeezes-cloud-Uptober-outlook",
-    "source": "ambcrypto.com",
-    "published": "Wed Oct 07 2026 12:30:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Binance October Proof of Reserves Shows User BTC Holdings Up 0.91% to 688,600 BTC",
-    "link": "https://cryptopanic.com/news/33509108/Binance-October-Proof-of-Reserves-Shows-User-BTC-Holdings-Up-091-to-688600-BTC",
-    "source": "btcusa.com",
-    "published": "Wed Oct 07 2026 12:30:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Plunges to $83,500, ETH, XRP Lose Over 3%: What Is Going On?",
-    "link": "https://cryptopanic.com/news/33509173/Bitcoin-Plunges-to-83500-ETH-XRP-Lose-Over-3-What-Is-Going-On",
-    "source": "feeds2.benzinga.com",
-    "published": "Wed Oct 07 2026 12:26:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Pi has dropped below $1 Billion Market cap again... \n\n$PI, the native coin of the Pi Network (@PiCoreTeam) ecosystem, has continued its slide in the crypto space. \n\nThe coin has now dropped below the $1 Billion threshold, with volume also decreasing significantly. \n\nPer",
-    "link": "https://cryptopanic.com/news/33509236/Pi-has-dropped-below-1-Billion-Market-cap-again-PI-the-native-coin-of-the-Pi-Network-PiCoreTeam-ecosystem-has-continued-its-slide-in-the-crypto-space-The-coin-has-now-dropped-below-the-1-Billion-threshold-with-volume-also-decreasing-significantly-Per",
-    "source": "@bscnews",
-    "published": "Wed Oct 07 2026 12:20:58 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
