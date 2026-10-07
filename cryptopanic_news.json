@@ -1,5 +1,54 @@
 [
   {
+    "title": "Bitcoin Halving 2028: Date, Block Reward, Supply Cut, and Mining Economics",
+    "link": "https://cryptopanic.com/news/33507772/Bitcoin-Halving-2028-Date-Block-Reward-Supply-Cut-and-Mining-Economics",
+    "source": "btcusa.com",
+    "published": "Wed Oct 07 2026 08:15:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: Robinhood adds $25 million in Bitcoin to its own balance sheet, marking its first disclosed proprietary bitcoin:native holding as it expands deeper into crypto",
+    "link": "https://cryptopanic.com/news/33507770/INTEL-Robinhood-adds-25-million-in-Bitcoin-to-its-own-balance-sheet-marking-its-first-disclosed-proprietary-bitcoinnative-holding-as-it-expands-deeper-into-crypto",
+    "source": "@solidintel_x",
+    "published": "Wed Oct 07 2026 08:12:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Coinbase Completes Deribit Integration, Coinbase Pro Returns: What It Means for Traders",
+    "link": "https://cryptopanic.com/news/33507732/Coinbase-Completes-Deribit-Integration-Coinbase-Pro-Returns-What-It-Means-for-Traders",
+    "source": "dailycoin.com",
+    "published": "Wed Oct 07 2026 08:05:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "‘No product-market fit’ – Pudgy Penguins-backed Abstract to shut down",
+    "link": "https://cryptopanic.com/news/33507720/No-product-market-fit-Pudgy-Penguins-backed-Abstract-to-shut-down",
+    "source": "ambcrypto.com",
+    "published": "Wed Oct 07 2026 08:00:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "HUGE: New BlackRock’s new AI + digital assets thesis was written by Robert Mitchnick, a former @Ripple executive is out!\n\nNow at the world’s largest asset manager, he says AI agents will drive demand for blockchain-based payments and settlement.\n\nWe know $XLM, $HBAR and $XRP",
+    "link": "https://cryptopanic.com/news/33507675/HUGE-New-BlackRocks-new-AI-digital-assets-thesis-was-written-by-Robert-Mitchnick-a-former-Ripple-executive-is-out-Now-at-the-worlds-largest-asset-manager-he-says-AI-agents-will-drive-demand-for-blockchain-based-payments-and-settlement-We-know-XLM-HBAR-and-XRP",
+    "source": "@realallincrypto",
+    "published": "Wed Oct 07 2026 08:00:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "France does not need ECB's help at present, says Bank of France head",
+    "link": "https://cryptopanic.com/news/33507672/France-does-not-need-ECBs-help-at-present-says-Bank-of-France-head",
+    "source": "@reutersbiz",
+    "published": "Wed Oct 07 2026 08:00:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇸🇬 TOKEN2049: Balaji Srinivasan says, “Zcash is the shield that actually restores privacy,” while helping pioneer the zero-knowledge space.",
+    "link": "https://cryptopanic.com/news/33507670/TOKEN2049-Balaji-Srinivasan-says-Zcash-is-the-shield-that-actually-restores-privacy-while-helping-pioneer-the-zero-knowledge-space",
+    "source": "@cointelegraph",
+    "published": "Wed Oct 07 2026 07:55:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "🇸🇬 TOKEN2049: Cameron Winklevoss on monetary privacy: “Bitcoin is decentralized, public. Zcash is decentralized, private.”",
     "link": "https://cryptopanic.com/news/33507669/TOKEN2049-Cameron-Winklevoss-on-monetary-privacy-Bitcoin-is-decentralized-public-Zcash-is-decentralized-private",
     "source": "@cointelegraph",
@@ -18,6 +67,13 @@
     "link": "https://cryptopanic.com/news/33507677/Robinhood-is-Putting-Corporate-Money-Behind-Bitcoin-Robinhood-has-allocated-25-million-of-corporate-funds-toward-Bitcoin-as-its-crypto-ambitions-continue-growing-Crypto-chief-Johann-Kerbrat-described-the-purchase-as-part-of-Robinhoods-commitment-to-the-broader-crypto",
     "source": "@bscnews",
     "published": "Wed Oct 07 2026 07:49:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Dogecoin dips 5% this week as bearish positioning puts $0.088 support in focus",
+    "link": "https://cryptopanic.com/news/33507721/Dogecoin-dips-5-this-week-as-bearish-positioning-puts-0088-support-in-focus",
+    "source": "coinjournal.net",
+    "published": "Wed Oct 07 2026 07:48:51 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -46,6 +102,13 @@
     "link": "https://cryptopanic.com/news/33507676/Just-a-casual-150-million-ripplenative-transfer-between-two-wallets-Nothing-to-see-here",
     "source": "@bscnews",
     "published": "Wed Oct 07 2026 07:38:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Kalshi Gold Markets Beat Ether With 542 Million Contracts in September",
+    "link": "https://cryptopanic.com/news/33507728/Kalshi-Gold-Markets-Beat-Ether-With-542-Million-Contracts-in-September",
+    "source": "en.cryptonomist.ch",
+    "published": "Wed Oct 07 2026 07:35:12 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -84,10 +147,31 @@
     "sentiment": "neutral"
   },
   {
+    "title": "XRP Treasury Giant Delays Nasdaq Debut",
+    "link": "https://cryptopanic.com/news/33507788/XRP-Treasury-Giant-Delays-Nasdaq-Debut",
+    "source": "beincrypto.com",
+    "published": "Wed Oct 07 2026 07:31:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Firelight Goes Live With Protection Built Into DeFi Vaults",
+    "link": "https://cryptopanic.com/news/33507787/Firelight-Goes-Live-With-Protection-Built-Into-DeFi-Vaults",
+    "source": "beincrypto.com",
+    "published": "Wed Oct 07 2026 07:25:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST:  51% of institutional investors expect digital assets to become mainstream within five years, up from 42% in 2025 and 11% in 2024, according to a new State Street survey.",
     "link": "https://cryptopanic.com/news/33507642/LATEST-51-of-institutional-investors-expect-digital-assets-to-become-mainstream-within-five-years-up-from-42-in-2025-and-11-in-2024-according-to-a-new-State-Street-survey",
     "source": "@coinmarketcap",
     "published": "Wed Oct 07 2026 07:25:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Will the Crypto Market Repeat 10-10? Here's What the Data Says",
+    "link": "https://cryptopanic.com/news/33507786/Will-the-Crypto-Market-Repeat-10-10-Heres-What-the-Data-Says",
+    "source": "beincrypto.com",
+    "published": "Wed Oct 07 2026 07:21:54 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -123,90 +207,6 @@
     "link": "https://cryptopanic.com/news/33507445/Robinhood-adds-25-million-worth-of-bitcoin-to-balance-sheet-as-it-deepens-crypto-push",
     "source": "theblock.co",
     "published": "Wed Oct 07 2026 07:08:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "North Carolina Man Sentenced to 18 Months for Super Intelligence-Assisted Music Streaming Fraud",
-    "link": "https://cryptopanic.com/news/33507481/North-Carolina-Man-Sentenced-to-18-Months-for-Super-Intelligence-Assisted-Music-Streaming-Fraud",
-    "source": "dailyhodl.com",
-    "published": "Wed Oct 07 2026 07:04:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "DSA White Paper Named Among the 2026 DC Fintech Week Winning Papers",
-    "link": "https://cryptopanic.com/news/33507574/DSA-White-Paper-Named-Among-the-2026-DC-Fintech-Week-Winning-Papers",
-    "source": "beincrypto.com",
-    "published": "Wed Oct 07 2026 07:02:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "With $21B in Q3 gains, Strategy out-performed Meta, Broadcom, and Walmart",
-    "link": "https://cryptopanic.com/news/33507426/With-21B-in-Q3-gains-Strategy-out-performed-Meta-Broadcom-and-Walmart",
-    "source": "ambcrypto.com",
-    "published": "Wed Oct 07 2026 07:00:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "THIS IS HUGE FROM THE CFTC FOR CRYPTO REGULATORY CLARITY.\n\nThe CFTC/SEC taxonomy explicitly lists $BTC, $ETH, $SOL, $XLM, $XTZ and $XRP as examples of “digital commodities”, meaning the assets themselves are not securities.\n\nYears of uncertainty are finally being replaced with",
-    "link": "https://cryptopanic.com/news/33507479/THIS-IS-HUGE-FROM-THE-CFTC-FOR-CRYPTO-REGULATORY-CLARITY-The-CFTCSEC-taxonomy-explicitly-lists-BTC-ETH-SOL-XLM-XTZ-and-XRP-as-examples-of-digital-commodities-meaning-the-assets-themselves-are-not-securities-Years-of-uncertainty-are-finally-being-replaced-with",
-    "source": "@realallincrypto",
-    "published": "Wed Oct 07 2026 07:00:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇸🇬 TOKEN2049: Eric Trump says \"we're winning, because stablecoins are being adopted,\" pointing to credit card companies as the proof.",
-    "link": "https://cryptopanic.com/news/33507476/TOKEN2049-Eric-Trump-says-were-winning-because-stablecoins-are-being-adopted-pointing-to-credit-card-companies-as-the-proof",
-    "source": "@cointelegraph",
-    "published": "Wed Oct 07 2026 06:54:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33507384/Source",
-    "source": "@wublockchain",
-    "published": "Wed Oct 07 2026 06:46:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin ETFs Draw $119 Million as Ether Funds See $202 Million Outflow\n\nU.S. spot Bitcoin ETFs recorded $119 million in net inflows on Oct. 6, according to SoSoValue, led by BlackRock’s IBIT with $122 million. Spot Ether ETFs moved in the opposite direction, posting $202 million",
-    "link": "https://cryptopanic.com/news/33507383/Bitcoin-ETFs-Draw-119-Million-as-Ether-Funds-See-202-Million-Outflow-US-spot-Bitcoin-ETFs-recorded-119-million-in-net-inflows-on-Oct-6-according-to-SoSoValue-led-by-BlackRocks-IBIT-with-122-million-Spot-Ether-ETFs-moved-in-the-opposite-direction-posting-202-million",
-    "source": "@wublockchain",
-    "published": "Wed Oct 07 2026 06:46:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇸🇬 TOKEN2049: Eric Trump says \"the US dollar is a reserve currency of the world. Like or not, everybody wants it.\"\n\nThoughts?",
-    "link": "https://cryptopanic.com/news/33507475/TOKEN2049-Eric-Trump-says-the-US-dollar-is-a-reserve-currency-of-the-world-Like-or-not-everybody-wants-it-Thoughts",
-    "source": "@cointelegraph",
-    "published": "Wed Oct 07 2026 06:44:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Gets a New DeFi Insurance Use Case\n\nFirelight (@Firelightfi) has launched DeFi insurance coverage backed by 50.2 million staked ripple:native on Flare (@FlareNetworks).\n\nThe coverage targets risks including smart contract exploits and oracle failures.\n\nFirelight uses XRP",
-    "link": "https://cryptopanic.com/news/33507366/XRP-Gets-a-New-DeFi-Insurance-Use-Case-Firelight-Firelightfi-has-launched-DeFi-insurance-coverage-backed-by-502-million-staked-ripplenative-on-Flare-FlareNetworks-The-coverage-targets-risks-including-smart-contract-exploits-and-oracle-failures-Firelight-uses-XRP",
-    "source": "@bscnews",
-    "published": "Wed Oct 07 2026 06:42:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Security teams must let Anthropic retain data to join expanded cyber program",
-    "link": "https://cryptopanic.com/news/33507330/Security-teams-must-let-Anthropic-retain-data-to-join-expanded-cyber-program",
-    "source": "cryptopolitan.com",
-    "published": "Wed Oct 07 2026 06:40:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Polymarket has begun rolling out Protocol V2, a rebuilt smart contract system that lets a single exchange handle multiple market types.",
-    "link": "https://cryptopanic.com/news/33507382/LATEST-Polymarket-has-begun-rolling-out-Protocol-V2-a-rebuilt-smart-contract-system-that-lets-a-single-exchange-handle-multiple-market-types",
-    "source": "@coinmarketcap",
-    "published": "Wed Oct 07 2026 06:39:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "OKX Brings in Circle, Ripple, Standard Chartered at $25B Valuation",
-    "link": "https://cryptopanic.com/news/33507324/OKX-Brings-in-Circle-Ripple-Standard-Chartered-at-25B-Valuation",
-    "source": "www.blockhead.co",
-    "published": "Wed Oct 07 2026 06:35:46 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
