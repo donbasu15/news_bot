@@ -1,5 +1,75 @@
 [
   {
+    "title": "Security teams must let Anthropic retain data to join expanded cyber program",
+    "link": "https://cryptopanic.com/news/33507330/Security-teams-must-let-Anthropic-retain-data-to-join-expanded-cyber-program",
+    "source": "cryptopolitan.com",
+    "published": "Wed Oct 07 2026 06:40:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "OKX Brings in Circle, Ripple, Standard Chartered at $25B Valuation",
+    "link": "https://cryptopanic.com/news/33507324/OKX-Brings-in-Circle-Ripple-Standard-Chartered-at-25B-Valuation",
+    "source": "www.blockhead.co",
+    "published": "Wed Oct 07 2026 06:35:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Vitalik: Traditional On-Chain Applications May No Longer Exist in Two Years",
+    "link": "https://cryptopanic.com/news/33507274/Vitalik-Traditional-On-Chain-Applications-May-No-Longer-Exist-in-Two-Years",
+    "source": "btcusa.com",
+    "published": "Wed Oct 07 2026 06:30:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Two of Frogman(@frogmanhaha)'s wallets were hacked, losing ~$4M!\n\nIncluding:\n\n1.43M $BP ($1.77M)\n13.96M $MARSCOIN ($1.55M)\n3.7M $CASHCAT ($515K)\nand more.\n\nThe attacker has swapped the stolen assets for $ETH, $BNB, and $SOL and laundered the funds.",
+    "link": "https://cryptopanic.com/news/33507367/Two-of-Frogmanfrogmanhahas-wallets-were-hacked-losing-4M-Including-143M-BP-177M-1396M-MARSCOIN-155M-37M-CASHCAT-515K-and-more-The-attacker-has-swapped-the-stolen-assets-for-ETH-BNB-and-SOL-and-laundered-the-funds",
+    "source": "@lookonchain",
+    "published": "Wed Oct 07 2026 06:24:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Could Soon Get Much More Powerful...\n\nEthereum’s Glamsterdam upgrade activated on Sepolia on Oct. 6 for a major public network test.\n\nThe upgrade raises the testnet gas limit to 200 million, above the previous 60 million level.\n\nDevelopers will monitor whether validators",
+    "link": "https://cryptopanic.com/news/33507365/Ethereum-Could-Soon-Get-Much-More-Powerful-Ethereums-Glamsterdam-upgrade-activated-on-Sepolia-on-Oct-6-for-a-major-public-network-test-The-upgrade-raises-the-testnet-gas-limit-to-200-million-above-the-previous-60-million-level-Developers-will-monitor-whether-validators",
+    "source": "@bscnews",
+    "published": "Wed Oct 07 2026 06:23:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 REGULATION: CFTC Chairman Michael Selig says only federally regulated crypto exchanges will be able to offer leverage under the agency's proposed rules, and the 100x seen offshore \"will be no different\" from what the US has always banned.",
+    "link": "https://cryptopanic.com/news/33507312/REGULATION-CFTC-Chairman-Michael-Selig-says-only-federally-regulated-crypto-exchanges-will-be-able-to-offer-leverage-under-the-agencys-proposed-rules-and-the-100x-seen-offshore-will-be-no-different-from-what-the-US-has-always-banned",
+    "source": "@cointelegraph",
+    "published": "Wed Oct 07 2026 06:20:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin’s 225% three-year gain rests on fewer than 0.5% of trading days, Grayscale finds",
+    "link": "https://cryptopanic.com/news/33507269/Bitcoins-225-three-year-gain-rests-on-fewer-than-05-of-trading-days-Grayscale-finds",
+    "source": "cryptopolitan.com",
+    "published": "Wed Oct 07 2026 06:19:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇸🇬 DAS: Hyperliquid founder @chameleon_jeff says at @blockworksDAS that options are the obvious next piece for the platform, so traders can hedge them against spot and perps on the same order books.",
+    "link": "https://cryptopanic.com/news/33507311/DAS-Hyperliquid-founder-chameleon_jeff-says-at-blockworksDAS-that-options-are-the-obvious-next-piece-for-the-platform-so-traders-can-hedge-them-against-spot-and-perps-on-the-same-order-books",
+    "source": "@cointelegraph",
+    "published": "Wed Oct 07 2026 06:17:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Vietnam's banks tap investors for $7 billion as economy runs red hot",
+    "link": "https://cryptopanic.com/news/33507313/Vietnams-banks-tap-investors-for-7-billion-as-economy-runs-red-hot",
+    "source": "@reutersbiz",
+    "published": "Wed Oct 07 2026 06:15:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "OKX Draws Ripple And Circle Backing\n\nOKX (@okx) has secured investments from Ripple (@Ripple), Circle (@circle), QRT, and SC Ventures. The latest funding extends the exchange’s previous round led by ICE.\n\nOKX retains a $25 billion valuation following the new investment.",
+    "link": "https://cryptopanic.com/news/33507364/OKX-Draws-Ripple-And-Circle-Backing-OKX-okx-has-secured-investments-from-Ripple-Ripple-Circle-circle-QRT-and-SC-Ventures-The-latest-funding-extends-the-exchanges-previous-round-led-by-ICE-OKX-retains-a-25-billion-valuation-following-the-new-investment",
+    "source": "@bscnews",
+    "published": "Wed Oct 07 2026 06:06:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Tokenized Treasuries on Avalanche Surge 300% in a Year—Will the Momentum Push AVAX Toward $12 and Beyond?",
     "link": "https://cryptopanic.com/news/33507262/Tokenized-Treasuries-on-Avalanche-Surge-300-in-a-YearWill-the-Momentum-Push-AVAX-Toward-12-and-Beyond",
     "source": "feeds2.benzinga.com",
@@ -11,6 +81,13 @@
     "link": "https://cryptopanic.com/news/33507235/Bitcoin-fell-2-sellers-gained-the-upper-hand",
     "source": "axeladlerjr.com",
     "published": "Wed Oct 07 2026 06:01:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇰🇷 REKT: Korean retail investors lost an estimated $1.7 billion in under three months on leveraged ETFs tied to Samsung and SK Hynix, according to a South Korean lawmaker's office.",
+    "link": "https://cryptopanic.com/news/33507310/REKT-Korean-retail-investors-lost-an-estimated-17-billion-in-under-three-months-on-leveraged-ETFs-tied-to-Samsung-and-SK-Hynix-according-to-a-South-Korean-lawmakers-office",
+    "source": "@cointelegraph",
+    "published": "Wed Oct 07 2026 06:00:56 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -32,6 +109,13 @@
     "link": "https://cryptopanic.com/news/33507259/LATEST-Billionaire-Ray-Dalio-told-Bloomberg-a-US-debt-crisis-could-hit-within-the-next-three-years-noting-the-government-spends-about-7T-a-year-while-taking-in-5T",
     "source": "@coinmarketcap",
     "published": "Wed Oct 07 2026 05:52:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇸🇬 TOKEN2049: Former New York governor Andrew Cuomo on the stalled CLARITY Act: \"When CLARITY fails, ambiguity prevails.\"",
+    "link": "https://cryptopanic.com/news/33507309/TOKEN2049-Former-New-York-governor-Andrew-Cuomo-on-the-stalled-CLARITY-Act-When-CLARITY-fails-ambiguity-prevails",
+    "source": "@cointelegraph",
+    "published": "Wed Oct 07 2026 05:48:21 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -123,90 +207,6 @@
     "link": "https://cryptopanic.com/news/33507126/Possible-AI-Crash-Bullish-for-Bitcoin-Hayes-Says",
     "source": "u.today",
     "published": "Wed Oct 07 2026 05:21:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Securitize and LG CNS Partner to Advance Tokenized Assets in South Korea",
-    "link": "https://cryptopanic.com/news/33507074/Securitize-and-LG-CNS-Partner-to-Advance-Tokenized-Assets-in-South-Korea",
-    "source": "btcusa.com",
-    "published": "Wed Oct 07 2026 05:15:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SpaceX seeks $40 billion for Nvidia chips as orbital AI race heats up",
-    "link": "https://cryptopanic.com/news/33507080/SpaceX-seeks-40-billion-for-Nvidia-chips-as-orbital-AI-race-heats-up",
-    "source": "cryptopolitan.com",
-    "published": "Wed Oct 07 2026 05:10:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33507177/Source",
-    "source": "@wublockchain",
-    "published": "Wed Oct 07 2026 05:10:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇸🇬 TOKEN2049: OKX founder Star Xu says finance will go through two fundamental changes in the next 5 to 10 years, starting with a user experience as instant as sending a message or booking a Grab.",
-    "link": "https://cryptopanic.com/news/33507075/TOKEN2049-OKX-founder-Star-Xu-says-finance-will-go-through-two-fundamental-changes-in-the-next-5-to-10-years-starting-with-a-user-experience-as-instant-as-sending-a-message-or-booking-a-Grab",
-    "source": "@cointelegraph",
-    "published": "Wed Oct 07 2026 05:10:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Insiders Are Selling Refiners and Skipping Banks. What Should Investors Do?",
-    "link": "https://cryptopanic.com/news/33507118/Insiders-Are-Selling-Refiners-and-Skipping-Banks-What-Should-Investors-Do",
-    "source": "beincrypto.com",
-    "published": "Wed Oct 07 2026 05:10:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "South Africa’s Second-Largest Bank FNB Launches Crypto Trading With VALR\n\nFirst National Bank (FNB), part of South Africa’s second-largest banking group by assets, has launched a crypto investing service allowing customers to trade BTC, ETH, XRP, SOL and USDT through its existing",
-    "link": "https://cryptopanic.com/news/33507176/South-Africas-Second-Largest-Bank-FNB-Launches-Crypto-Trading-With-VALR-First-National-Bank-FNB-part-of-South-Africas-second-largest-banking-group-by-assets-has-launched-a-crypto-investing-service-allowing-customers-to-trade-BTC-ETH-XRP-SOL-and-USDT-through-its-existing",
-    "source": "@wublockchain",
-    "published": "Wed Oct 07 2026 05:09:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Robinhood Brings Monad to its Crypto Trading Platform\n\nRobinhood (@RobinhoodCrypto) has listed Monad (@monad) for spot trading through its Crypto app and Legend platform.\n\nThe MON/USD market gives retail traders direct access to the Ethereum compatible Layer 1.\n\nMonad is an",
-    "link": "https://cryptopanic.com/news/33507077/Robinhood-Brings-Monad-to-its-Crypto-Trading-Platform-Robinhood-RobinhoodCrypto-has-listed-Monad-monad-for-spot-trading-through-its-Crypto-app-and-Legend-platform-The-MONUSD-market-gives-retail-traders-direct-access-to-the-Ethereum-compatible-Layer-1-Monad-is-an",
-    "source": "@bscnews",
-    "published": "Wed Oct 07 2026 05:00:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Rain Seeks an OCC Bank Charter Days After Community Bankers Sued",
-    "link": "https://cryptopanic.com/news/33506984/Rain-Seeks-an-OCC-Bank-Charter-Days-After-Community-Bankers-Sued",
-    "source": "coinpaprika.com",
-    "published": "Wed Oct 07 2026 05:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Historically, the years after US midterm election years have been very strong for $BTC with peak returns of:\n2015: +88%\n2019: +243%\n2023: +147%\n\nIf this pattern repeats then 2027 is going to be a great year for crypto.",
-    "link": "https://cryptopanic.com/news/33506980/Historically-the-years-after-US-midterm-election-years-have-been-very-strong-for-BTC-with-peak-returns-of-2015-88-2019-243-2023-147-If-this-pattern-repeats-then-2027-is-going-to-be-a-great-year-for-crypto",
-    "source": "@stackersatoshi",
-    "published": "Wed Oct 07 2026 04:58:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Perseus CEO Says Gold Price Uncertainty Is Keeping M&A Deals Stuck at the Table",
-    "link": "https://cryptopanic.com/news/33507117/Perseus-CEO-Says-Gold-Price-Uncertainty-Is-Keeping-MA-Deals-Stuck-at-the-Table",
-    "source": "beincrypto.com",
-    "published": "Wed Oct 07 2026 04:52:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 ETF FLOWS: BTC and XRP spot ETFs saw net inflows, while ETH and SOL saw net outflows on October 6th.\n\nBTC: +$118.80M\nETH: -$201.89M\nSOL: -$3.68M\nXRP: +$3.14M",
-    "link": "https://cryptopanic.com/news/33507073/ETF-FLOWS-BTC-and-XRP-spot-ETFs-saw-net-inflows-while-ETH-and-SOL-saw-net-outflows-on-October-6th-BTC-11880M-ETH-20189M-SOL-368M-XRP-314M",
-    "source": "@cointelegraph",
-    "published": "Wed Oct 07 2026 04:51:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "EEZ’s first atomic L1-to-L2 call moves just 0.001 ETH",
-    "link": "https://cryptopanic.com/news/33506962/EEZs-first-atomic-L1-to-L2-call-moves-just-0001-ETH",
-    "source": "cryptopolitan.com",
-    "published": "Wed Oct 07 2026 04:50:42 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
