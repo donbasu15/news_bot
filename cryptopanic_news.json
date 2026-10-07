@@ -1,9 +1,37 @@
 [
   {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33507384/Source",
+    "source": "@wublockchain",
+    "published": "Wed Oct 07 2026 06:46:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin ETFs Draw $119 Million as Ether Funds See $202 Million Outflow\n\nU.S. spot Bitcoin ETFs recorded $119 million in net inflows on Oct. 6, according to SoSoValue, led by BlackRock’s IBIT with $122 million. Spot Ether ETFs moved in the opposite direction, posting $202 million",
+    "link": "https://cryptopanic.com/news/33507383/Bitcoin-ETFs-Draw-119-Million-as-Ether-Funds-See-202-Million-Outflow-US-spot-Bitcoin-ETFs-recorded-119-million-in-net-inflows-on-Oct-6-according-to-SoSoValue-led-by-BlackRocks-IBIT-with-122-million-Spot-Ether-ETFs-moved-in-the-opposite-direction-posting-202-million",
+    "source": "@wublockchain",
+    "published": "Wed Oct 07 2026 06:46:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Gets a New DeFi Insurance Use Case\n\nFirelight (@Firelightfi) has launched DeFi insurance coverage backed by 50.2 million staked ripple:native on Flare (@FlareNetworks).\n\nThe coverage targets risks including smart contract exploits and oracle failures.\n\nFirelight uses XRP",
+    "link": "https://cryptopanic.com/news/33507366/XRP-Gets-a-New-DeFi-Insurance-Use-Case-Firelight-Firelightfi-has-launched-DeFi-insurance-coverage-backed-by-502-million-staked-ripplenative-on-Flare-FlareNetworks-The-coverage-targets-risks-including-smart-contract-exploits-and-oracle-failures-Firelight-uses-XRP",
+    "source": "@bscnews",
+    "published": "Wed Oct 07 2026 06:42:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Security teams must let Anthropic retain data to join expanded cyber program",
     "link": "https://cryptopanic.com/news/33507330/Security-teams-must-let-Anthropic-retain-data-to-join-expanded-cyber-program",
     "source": "cryptopolitan.com",
     "published": "Wed Oct 07 2026 06:40:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Polymarket has begun rolling out Protocol V2, a rebuilt smart contract system that lets a single exchange handle multiple market types.",
+    "link": "https://cryptopanic.com/news/33507382/LATEST-Polymarket-has-begun-rolling-out-Protocol-V2-a-rebuilt-smart-contract-system-that-lets-a-single-exchange-handle-multiple-market-types",
+    "source": "@coinmarketcap",
+    "published": "Wed Oct 07 2026 06:39:02 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33507193/Hedge-funds-warn-BoE-repo-reforms-could-backfire",
     "source": "@reutersbiz",
     "published": "Wed Oct 07 2026 05:30:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇸🇬 TOKEN2049: World Liberty Financial co-founder Zak Folkman says USD1's next big step is global payments, after first building out distribution and liquidity inside the crypto community.",
-    "link": "https://cryptopanic.com/news/33507180/TOKEN2049-World-Liberty-Financial-co-founder-Zak-Folkman-says-USD1s-next-big-step-is-global-payments-after-first-building-out-distribution-and-liquidity-inside-the-crypto-community",
-    "source": "@cointelegraph",
-    "published": "Wed Oct 07 2026 05:28:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Sui Basecamp 2026, Day 1.\n\nFollow this thread for live coverage, announcements and highlights.",
-    "link": "https://cryptopanic.com/news/33507179/Sui-Basecamp-2026-Day-1-Follow-this-thread-for-live-coverage-announcements-and-highlights",
-    "source": "@cointelegraph",
-    "published": "Wed Oct 07 2026 05:23:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum Staking Surges While 112,000 Validators Disappear\n\nEthereum started 2026 with nearly 975,000 active validators, compared with roughly 863,000 now.\n\nDespite the decline, staked ethereum:native has increased from about 36.3 million to 43.7 million.\n\nMore than 7 million ETH",
-    "link": "https://cryptopanic.com/news/33507194/Ethereum-Staking-Surges-While-112000-Validators-Disappear-Ethereum-started-2026-with-nearly-975000-active-validators-compared-with-roughly-863000-now-Despite-the-decline-staked-ethereumnative-has-increased-from-about-363-million-to-437-million-More-than-7-million-ETH",
-    "source": "@bscnews",
-    "published": "Wed Oct 07 2026 05:22:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Possible AI Crash Bullish for Bitcoin, Hayes Says",
-    "link": "https://cryptopanic.com/news/33507126/Possible-AI-Crash-Bullish-for-Bitcoin-Hayes-Says",
-    "source": "u.today",
-    "published": "Wed Oct 07 2026 05:21:34 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
