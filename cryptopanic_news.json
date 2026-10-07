@@ -1,5 +1,19 @@
 [
   {
+    "title": "Cardano Founder Calls Out Gemini Over ADA Listing\n\nCardano (@Cardano) founder Charles Hoskinson (@IOHK_Charles) has renewed criticism of Gemini’s decision to exclude cardano:native.\n\nHe posted “List ADA” after Gemini co-founder Tyler Winklevoss shared an anniversary message.",
+    "link": "https://cryptopanic.com/news/33507195/Cardano-Founder-Calls-Out-Gemini-Over-ADA-Listing-Cardano-Cardano-founder-Charles-Hoskinson-IOHK_Charles-has-renewed-criticism-of-Geminis-decision-to-exclude-cardanonative-He-posted-List-ADA-after-Gemini-co-founder-Tyler-Winklevoss-shared-an-anniversary-message",
+    "source": "@bscnews",
+    "published": "Wed Oct 07 2026 05:45:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Sui partners with Alibaba Cloud to enable stablecoin-based per-call payments for AI agent services.",
+    "link": "https://cryptopanic.com/news/33507182/JUST-IN-Sui-partners-with-Alibaba-Cloud-to-enable-stablecoin-based-per-call-payments-for-AI-agent-services",
+    "source": "@cointelegraph",
+    "published": "Wed Oct 07 2026 05:41:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Arthur Hayes sees AI overcapacity crisis ahead with Bitcoin set to benefit",
     "link": "https://cryptopanic.com/news/33507135/Arthur-Hayes-sees-AI-overcapacity-crisis-ahead-with-Bitcoin-set-to-benefit",
     "source": "cryptopolitan.com",
@@ -28,6 +42,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Hedge funds warn BoE repo reforms could backfire",
+    "link": "https://cryptopanic.com/news/33507193/Hedge-funds-warn-BoE-repo-reforms-could-backfire",
+    "source": "@reutersbiz",
+    "published": "Wed Oct 07 2026 05:30:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "🇸🇬 TOKEN2049: World Liberty Financial co-founder Zak Folkman says USD1's next big step is global payments, after first building out distribution and liquidity inside the crypto community.",
     "link": "https://cryptopanic.com/news/33507180/TOKEN2049-World-Liberty-Financial-co-founder-Zak-Folkman-says-USD1s-next-big-step-is-global-payments-after-first-building-out-distribution-and-liquidity-inside-the-crypto-community",
     "source": "@cointelegraph",
@@ -39,6 +60,13 @@
     "link": "https://cryptopanic.com/news/33507179/Sui-Basecamp-2026-Day-1-Follow-this-thread-for-live-coverage-announcements-and-highlights",
     "source": "@cointelegraph",
     "published": "Wed Oct 07 2026 05:23:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Staking Surges While 112,000 Validators Disappear\n\nEthereum started 2026 with nearly 975,000 active validators, compared with roughly 863,000 now.\n\nDespite the decline, staked ethereum:native has increased from about 36.3 million to 43.7 million.\n\nMore than 7 million ETH",
+    "link": "https://cryptopanic.com/news/33507194/Ethereum-Staking-Surges-While-112000-Validators-Disappear-Ethereum-started-2026-with-nearly-975000-active-validators-compared-with-roughly-863000-now-Despite-the-decline-staked-ethereumnative-has-increased-from-about-363-million-to-437-million-More-than-7-million-ETH",
+    "source": "@bscnews",
+    "published": "Wed Oct 07 2026 05:22:01 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33506895/TOKEN2049-Maelstroms-Arthur-Hayes-says-Agents-are-going-to-power-the-next-wave-of-human-economy",
     "source": "@cointelegraph",
     "published": "Wed Oct 07 2026 04:18:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇸🇬 DAS: BlackRock's Nikhil Sharma says tokenized money market funds could move as collateral directly, with no redemption needed and no waiting days for cash.",
-    "link": "https://cryptopanic.com/news/33506893/DAS-BlackRocks-Nikhil-Sharma-says-tokenized-money-market-funds-could-move-as-collateral-directly-with-no-redemption-needed-and-no-waiting-days-for-cash",
-    "source": "@cointelegraph",
-    "published": "Wed Oct 07 2026 04:17:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Billionaire investor Ray Dalio says the AI bubble may \"burst\" soon.",
-    "link": "https://cryptopanic.com/news/33506815/JUST-IN-Billionaire-investor-Ray-Dalio-says-the-AI-bubble-may-burst-soon",
-    "source": "@watcherguru",
-    "published": "Wed Oct 07 2026 04:12:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇸🇬 DAS: DigiFT CEO Henry Zhang says onchain and traditional capital markets are not really competing but complementary.\n\nThis is @blockworksDAS Alpha",
-    "link": "https://cryptopanic.com/news/33506892/DAS-DigiFT-CEO-Henry-Zhang-says-onchain-and-traditional-capital-markets-are-not-really-competing-but-complementary-This-is-blockworksDAS-Alpha",
-    "source": "@cointelegraph",
-    "published": "Wed Oct 07 2026 04:12:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cardano gives token issuers power to freeze, seize and restrict assets",
-    "link": "https://cryptopanic.com/news/33506899/Cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets",
-    "source": "coindesk.com",
-    "published": "Wed Oct 07 2026 04:11:33 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
