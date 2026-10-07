@@ -1,9 +1,65 @@
 [
   {
+    "title": "Spot $SEI ETF closer than you might think...\n\nWould-be @SeiNetwork ETF issuer, Canary, has just filed a new amendment to its S-1 application.\n\nThe filings name @BitGo as the ETF's custodian, and a whopping ~90% of its $SEI token holdings will be staked...",
+    "link": "https://cryptopanic.com/news/33511037/Spot-SEI-ETF-closer-than-you-might-think-Would-be-SeiNetwork-ETF-issuer-Canary-has-just-filed-a-new-amendment-to-its-S-1-application-The-filings-name-BitGo-as-the-ETFs-custodian-and-a-whopping-90-of-its-SEI-token-holdings-will-be-staked",
+    "source": "@bscnews",
+    "published": "Wed Oct 07 2026 18:48:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Polymarket CEO Shayne Coplan calls 100x token chasing a game of “hot potato”",
+    "link": "https://cryptopanic.com/news/33511014/Polymarket-CEO-Shayne-Coplan-calls-100x-token-chasing-a-game-of-hot-potato",
+    "source": "cryptopolitan.com",
+    "published": "Wed Oct 07 2026 18:45:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Core Stack, Green Arrow plan €1 billion Italian data centre project",
+    "link": "https://cryptopanic.com/news/33511035/Core-Stack-Green-Arrow-plan-1-billion-Italian-data-centre-project",
+    "source": "@reutersbiz",
+    "published": "Wed Oct 07 2026 18:45:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$71K or $205K? The Bitcoin Setup That Could Decide This Cycle",
+    "link": "https://cryptopanic.com/news/33511017/71K-or-205K-The-Bitcoin-Setup-That-Could-Decide-This-Cycle",
+    "source": "MilkRoadYoutube",
+    "published": "Wed Oct 07 2026 18:45:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Dominion Market Shuts Down After $2.75M $SILV Exploit Leaves Recovery Plan Underfunded",
+    "link": "https://cryptopanic.com/news/33510729/Dominion-Market-Shuts-Down-After-275M-SILV-Exploit-Leaves-Recovery-Plan-Underfunded",
+    "source": "solanafloor.com",
+    "published": "Wed Oct 07 2026 18:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "️ NEW: Anthropic introduces Claude Haiku 5.5, calling it its fastest and most capable small model, with average running costs around 75% lower than Haiku 4.5.",
+    "link": "https://cryptopanic.com/news/33511034/NEW-Anthropic-introduces-Claude-Haiku-55-calling-it-its-fastest-and-most-capable-small-model-with-average-running-costs-around-75-lower-than-Haiku-45",
+    "source": "@cointelegraph",
+    "published": "Wed Oct 07 2026 18:40:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin, Ethereum, XRP, Dogecoin Slide up to 5% as Bond Yields Hit 24-Year Highs",
+    "link": "https://cryptopanic.com/news/33511028/Bitcoin-Ethereum-XRP-Dogecoin-Slide-up-to-5-as-Bond-Yields-Hit-24-Year-Highs",
+    "source": "feeds2.benzinga.com",
+    "published": "Wed Oct 07 2026 18:40:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Black Thursday revisited: MakerDAO keeper exploited for $500K",
     "link": "https://cryptopanic.com/news/33510975/Black-Thursday-revisited-MakerDAO-keeper-exploited-for-500K",
     "source": "protos.com",
     "published": "Wed Oct 07 2026 18:39:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: @Suinetwork developer @Mysten_Labs and @GoogleCloud partner to build Verifiable Agent Arbiter, a blockchain platform that cryptographically proves AI agents acted within their authorized permissions, recording every instruction, action and payment on Sui.",
+    "link": "https://cryptopanic.com/news/33511031/NEW-Suinetwork-developer-Mysten_Labs-and-GoogleCloud-partner-to-build-Verifiable-Agent-Arbiter-a-blockchain-platform-that-cryptographically-proves-AI-agents-acted-within-their-authorized-permissions-recording-every-instruction-action-and-payment-on-Sui",
+    "source": "@coindesk",
+    "published": "Wed Oct 07 2026 18:37:42 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -84,6 +140,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "🇺🇸 INSIGHT: House Financial Services Committee Chair French Hill says SEC and CFTC crypto rules “fall short” of the permanent changes the CLARITY Act would provide. \n\nHe hopes Congress can pass the bill during the lame duck session before the new Congress begins in 2027.",
+    "link": "https://cryptopanic.com/news/33511033/INSIGHT-House-Financial-Services-Committee-Chair-French-Hill-says-SEC-and-CFTC-crypto-rules-fall-short-of-the-permanent-changes-the-CLARITY-Act-would-provide-He-hopes-Congress-can-pass-the-bill-during-the-lame-duck-session-before-the-new-Congress-begins-in-2027",
+    "source": "@cointelegraph",
+    "published": "Wed Oct 07 2026 18:20:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Deutsche Bank, UniCredit Drop 4% as Europe’s Bond Selloff Hits Banks",
     "link": "https://cryptopanic.com/news/33510857/Deutsche-Bank-UniCredit-Drop-4-as-Europes-Bond-Selloff-Hits-Banks",
     "source": "coinpaper.com",
@@ -140,73 +203,10 @@
     "sentiment": "neutral"
   },
   {
-    "title": "JUST IN: CFTC Chair Selig admits U.S. Congress could modify agency's crypto framework later on.",
-    "link": "https://cryptopanic.com/news/33511007/JUST-IN-CFTC-Chair-Selig-admits-US-Congress-could-modify-agencys-crypto-framework-later-on",
-    "source": "@btc_archive",
-    "published": "Wed Oct 07 2026 18:03:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Pudgy Penguins shuts down Ethereum layer 2 Abstract",
-    "link": "https://cryptopanic.com/news/33510806/Pudgy-Penguins-shuts-down-Ethereum-layer-2-Abstract",
-    "source": "cryptovalleyjournal.com",
-    "published": "Wed Oct 07 2026 18:03:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Analyst: Is HBAR Price Ready For 170% Upward Move?",
-    "link": "https://cryptopanic.com/news/33510809/Analyst-Is-HBAR-Price-Ready-For-170-Upward-Move",
-    "source": "dailycoin.com",
-    "published": "Wed Oct 07 2026 18:02:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: @Ripple Custody adds @CantonNetwork support, letting institutions hold and transfer Canton assets within the same custody platform, policy engine and audit trail as their other digital assets.",
-    "link": "https://cryptopanic.com/news/33510850/NEW-Ripple-Custody-adds-CantonNetwork-support-letting-institutions-hold-and-transfer-Canton-assets-within-the-same-custody-platform-policy-engine-and-audit-trail-as-their-other-digital-assets",
-    "source": "@coindesk",
-    "published": "Wed Oct 07 2026 18:01:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ LATEST: Bitwise says Bitcoin’s Q3 rally marked a “regime change,” breaking the pattern of rising prices coinciding with falling implied volatility.",
-    "link": "https://cryptopanic.com/news/33510853/LATEST-Bitwise-says-Bitcoins-Q3-rally-marked-a-regime-change-breaking-the-pattern-of-rising-prices-coinciding-with-falling-implied-volatility",
-    "source": "@cointelegraph",
-    "published": "Wed Oct 07 2026 18:01:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "WOW: TOKENISED U.S. TREASURIES ON AVALANCHE HAVE EXPLODED 4X THIS YEAR!\n\nEven after that massive growth, Treasury assets on $AVAX climbed another 14% in Q3 to $545 MILLION.\n\nWall Street assets are moving onchain and @avax is capturing the flow.",
-    "link": "https://cryptopanic.com/news/33510856/WOW-TOKENISED-US-TREASURIES-ON-AVALANCHE-HAVE-EXPLODED-4X-THIS-YEAR-Even-after-that-massive-growth-Treasury-assets-on-AVAX-climbed-another-14-in-Q3-to-545-MILLION-Wall-Street-assets-are-moving-onchain-and-avax-is-capturing-the-flow",
-    "source": "@realallincrypto",
-    "published": "Wed Oct 07 2026 18:00:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AMD CEO Sees Strong Demand Signals for Chipmaker’s Products",
-    "link": "https://cryptopanic.com/news/33510748/AMD-CEO-Sees-Strong-Demand-Signals-for-Chipmakers-Products",
-    "source": "catenaa.com",
-    "published": "Wed Oct 07 2026 18:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple Ends 'XRP Killer' Myth via Canton Network Support",
-    "link": "https://cryptopanic.com/news/33510862/Ripple-Ends-XRP-Killer-Myth-via-Canton-Network-Support",
-    "source": "u.today",
-    "published": "Wed Oct 07 2026 17:58:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE:  XRP treasury firm Evernorth now expects to close its merger with Armada II on Friday, after an administrative delay, with XRPN to begin trading on Nasdaq on Monday.",
-    "link": "https://cryptopanic.com/news/33510747/UPDATE-XRP-treasury-firm-Evernorth-now-expects-to-close-its-merger-with-Armada-II-on-Friday-after-an-administrative-delay-with-XRPN-to-begin-trading-on-Nasdaq-on-Monday",
-    "source": "@coinmarketcap",
-    "published": "Wed Oct 07 2026 17:55:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ANALYSIS:  Altcoins outran Bitcoin in September. Now they’re falling faster, and the leverage from that run is still hanging over the market.\n\nIs the rotation over, or is a bigger unwind coming? What does this mean for altseason? Let's find out.",
-    "link": "https://cryptopanic.com/news/33510746/ANALYSIS-Altcoins-outran-Bitcoin-in-September-Now-theyre-falling-faster-and-the-leverage-from-that-run-is-still-hanging-over-the-market-Is-the-rotation-over-or-is-a-bigger-unwind-coming-What-does-this-mean-for-altseason-Lets-find-out",
-    "source": "@coinmarketcap",
-    "published": "Wed Oct 07 2026 17:41:01 GMT+0000 (Coordinated Universal Time)",
+    "title": "Fed Minutes Point to Another Rate Hike This Year: Why Did Only Bitcoin React?",
+    "link": "https://cryptopanic.com/news/33511027/Fed-Minutes-Point-to-Another-Rate-Hike-This-Year-Why-Did-Only-Bitcoin-React",
+    "source": "beincrypto.com",
+    "published": "Wed Oct 07 2026 18:05:21 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
