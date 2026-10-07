@@ -1,5 +1,54 @@
 [
   {
+    "title": "Solana Records 33% Spike in New Addresses",
+    "link": "https://cryptopanic.com/news/33510142/Solana-Records-33-Spike-in-New-Addresses",
+    "source": "u.today",
+    "published": "Wed Oct 07 2026 15:47:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$ORCA Up 84% As DAO Weighs Up Potential Credit Market Acquisition",
+    "link": "https://cryptopanic.com/news/33509537/ORCA-Up-84-As-DAO-Weighs-Up-Potential-Credit-Market-Acquisition",
+    "source": "solanafloor.com",
+    "published": "Wed Oct 07 2026 15:46:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The US government address transferred out $165 million worth of assets over the past 24 hours, including 1,583.8 BTC worth approximately $134 million, which was sent to Coinbase Prime. After transferring $103 million earlier today, the address transferred another 750.2 WBTC worth",
+    "link": "https://cryptopanic.com/news/33510131/The-US-government-address-transferred-out-165-million-worth-of-assets-over-the-past-24-hours-including-15838-BTC-worth-approximately-134-million-which-was-sent-to-Coinbase-Prime-After-transferring-103-million-earlier-today-the-address-transferred-another-7502-WBTC-worth",
+    "source": "@wublockchain",
+    "published": "Wed Oct 07 2026 15:45:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CoinMarketCap | AI Insights · $BTC \n \n$BTC ETFs took in $118.8M in their last session, after an $89.8M outflow the session before.\n \n Robinhood added $25M of Bitcoin to its balance sheet\n It's 4.0% below its 30-day high of $87.4k\n Support is $80.2k and resistance is",
+    "link": "https://cryptopanic.com/news/33510130/CoinMarketCap-AI-Insights-BTC-BTC-ETFs-took-in-1188M-in-their-last-session-after-an-898M-outflow-the-session-before-Robinhood-added-25M-of-Bitcoin-to-its-balance-sheet-Its-40-below-its-30-day-high-of-874k-Support-is-802k-and-resistance-is",
+    "source": "@coinmarketcap",
+    "published": "Wed Oct 07 2026 15:45:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Base is launching an Institutional DeFi Gateway in Japan\n\n@Base partners with SMBC Nikko, one of Japan's leading investment banks, to create a regulated gateway for institutional decentralized finance in Japan. \n\nThe gateway leverages Coinbase's rollup infrastructure to offer",
+    "link": "https://cryptopanic.com/news/33510103/Base-is-launching-an-Institutional-DeFi-Gateway-in-Japan-Base-partners-with-SMBC-Nikko-one-of-Japans-leading-investment-banks-to-create-a-regulated-gateway-for-institutional-decentralized-finance-in-Japan-The-gateway-leverages-Coinbases-rollup-infrastructure-to-offer",
+    "source": "@bscnews",
+    "published": "Wed Oct 07 2026 15:44:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "How Do Custom AI Chips Actually Compete With Nvidia GPUs?",
+    "link": "https://cryptopanic.com/news/33510060/How-Do-Custom-AI-Chips-Actually-Compete-With-Nvidia-GPUs",
+    "source": "coinpaper.com",
+    "published": "Wed Oct 07 2026 15:43:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  US spot Bitcoin ETFs took in $118.86M on Tuesday, led by $122M into BlackRock's IBIT, snapping back from Monday's outflows.",
+    "link": "https://cryptopanic.com/news/33510129/LATEST-US-spot-Bitcoin-ETFs-took-in-11886M-on-Tuesday-led-by-122M-into-BlackRocks-IBIT-snapping-back-from-Mondays-outflows",
+    "source": "@coinmarketcap",
+    "published": "Wed Oct 07 2026 15:35:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin Dips Below $83K as Oil Shock Rattles Markets: What Happens Next?",
     "link": "https://cryptopanic.com/news/33510052/Bitcoin-Dips-Below-83K-as-Oil-Shock-Rattles-Markets-What-Happens-Next",
     "source": "decrypt.co",
@@ -11,6 +60,13 @@
     "link": "https://cryptopanic.com/news/33510046/From-440-BTC-to-zero-to-10-Genius-Group-restarts-its-bitcoin-treasury-again",
     "source": "cryptopolitan.com",
     "published": "Wed Oct 07 2026 15:34:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: $ADA's FluidTokens and Minswap are joining forces: FluidTokens CEO says the merge will \"allow deeper integrations for more complex DeFi, higher yields, deeper liquidity, and make Cardano DeFi much more competitive. Projects stay independent but teams are shared.\"",
+    "link": "https://cryptopanic.com/news/33510132/JUST-IN-ADAs-FluidTokens-and-Minswap-are-joining-forces-FluidTokens-CEO-says-the-merge-will-allow-deeper-integrations-for-more-complex-DeFi-higher-yields-deeper-liquidity-and-make-Cardano-DeFi-much-more-competitive-Projects-stay-independent-but-teams-are-shared",
+    "source": "@angrycryptoshow",
+    "published": "Wed Oct 07 2026 15:33:02 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -151,62 +207,6 @@
     "link": "https://cryptopanic.com/news/33509859/BREAKING-NEWS-THE-UK-IS-MOVING-CLOSER-TO-ISSUING-ITS-FIRST-EVER-DIGITALLY-NATIVE-GOVERNMENT-BOND-Barclays-HSBC-Lloyds-Morgan-Stanley-NatWest-and-RBC-have-been-selected-to-lead-DIGIT-with-HSBC-Orion-providing-the-DLT-infrastructure-and-LSEG-building-connectivity-The",
     "source": "@realallincrypto",
     "published": "Wed Oct 07 2026 15:00:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AI agent traffic could be 1,000X human traffic in just five years, according to @Cloudflare CEO Matthew Prince.\n\n@jennsanasie sat down with @eastdakota to talk about what happens when machines become the internet’s biggest users, and why that could upend everything from how we",
-    "link": "https://cryptopanic.com/news/33510034/AI-agent-traffic-could-be-1000X-human-traffic-in-just-five-years-according-to-Cloudflare-CEO-Matthew-Prince-jennsanasie-sat-down-with-eastdakota-to-talk-about-what-happens-when-machines-become-the-internets-biggest-users-and-why-that-could-upend-everything-from-how-we",
-    "source": "@coindesk",
-    "published": "Wed Oct 07 2026 15:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Fidelity Treasury Fund Moves Onchain as DigiFT Expands Institutional Access",
-    "link": "https://cryptopanic.com/news/33509906/Fidelity-Treasury-Fund-Moves-Onchain-as-DigiFT-Expands-Institutional-Access",
-    "source": "coinpaprika.com",
-    "published": "Wed Oct 07 2026 15:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "GLOBAL RISK-OFF IN FULL FORCE TODAY! \n\n• Gold and silver shed $900 billion in value.\n\n• U.S. 20-year yield jumped to a 24-year high.",
-    "link": "https://cryptopanic.com/news/33509965/GLOBAL-RISK-OFF-IN-FULL-FORCE-TODAY-Gold-and-silver-shed-900-billion-in-value-US-20-year-yield-jumped-to-a-24-year-high",
-    "source": "@btc_archive",
-    "published": "Wed Oct 07 2026 14:58:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitmine's Relentless Ethereum Buying Is About to End, Tom Lee Says",
-    "link": "https://cryptopanic.com/news/33509854/Bitmines-Relentless-Ethereum-Buying-Is-About-to-End-Tom-Lee-Says",
-    "source": "decrypt.co",
-    "published": "Wed Oct 07 2026 14:55:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cardano built a freeze button for stablecoins it doesn’t have yet",
-    "link": "https://cryptopanic.com/news/33509856/Cardano-built-a-freeze-button-for-stablecoins-it-doesnt-have-yet",
-    "source": "cryptopolitan.com",
-    "published": "Wed Oct 07 2026 14:55:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇭🇰 Hong Kong plans to introduce legislation this year to establish licensing for buying, holding, and managing Bitcoin & digital assets",
-    "link": "https://cryptopanic.com/news/33509869/JUST-IN-Hong-Kong-plans-to-introduce-legislation-this-year-to-establish-licensing-for-buying-holding-and-managing-Bitcoin-amp-digital-assets",
-    "source": "@bitcoinmagazine",
-    "published": "Wed Oct 07 2026 14:54:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Tom Lee says Bitmine will stop buying Ethereum once it owns 5% of circulating supply, and it's already 99% of the way there.",
-    "link": "https://cryptopanic.com/news/33509969/LATEST-Tom-Lee-says-Bitmine-will-stop-buying-Ethereum-once-it-owns-5-of-circulating-supply-and-its-already-99-of-the-way-there",
-    "source": "@coinmarketcap",
-    "published": "Wed Oct 07 2026 14:54:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Moonpay connects cards & Apple Pay to Trust Wallet \n\nFiat on-ramp service is now live on @TrustWallet.\n\nThe solution is available to United States-based customers and uses @Moonpay’s headless API to enable account funding with debit cards and Apple Pay.\n\nThe partnership removes",
-    "link": "https://cryptopanic.com/news/33509863/Moonpay-connects-cards-amp-Apple-Pay-to-Trust-Wallet-Fiat-on-ramp-service-is-now-live-on-TrustWallet-The-solution-is-available-to-United-States-based-customers-and-uses-Moonpays-headless-API-to-enable-account-funding-with-debit-cards-and-Apple-Pay-The-partnership-removes",
-    "source": "@bscnews",
-    "published": "Wed Oct 07 2026 14:54:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
