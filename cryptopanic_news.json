@@ -1,5 +1,19 @@
 [
   {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33511918/Source",
+    "source": "@wublockchain",
+    "published": "Thu Oct 08 2026 00:50:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cointelegraph Seeks Buyer as Traffic Plunges From 12 Million to 700,000 Visits\n\nCointelegraph, one of the largest and longest-running crypto news outlets, is seeking a buyer after a Google manual penalty in October 2025 reportedly slashed its organic search traffic by around 80%,",
+    "link": "https://cryptopanic.com/news/33511917/Cointelegraph-Seeks-Buyer-as-Traffic-Plunges-From-12-Million-to-700000-Visits-Cointelegraph-one-of-the-largest-and-longest-running-crypto-news-outlets-is-seeking-a-buyer-after-a-Google-manual-penalty-in-October-2025-reportedly-slashed-its-organic-search-traffic-by-around-80",
+    "source": "@wublockchain",
+    "published": "Thu Oct 08 2026 00:50:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: Ripple is emerging as a major competitor to Wall Street banks, WSJ reports.",
     "link": "https://cryptopanic.com/news/33511904/JUST-IN-Ripple-is-emerging-as-a-major-competitor-to-Wall-Street-banks-WSJ-reports",
     "source": "@watcherguru",
@@ -32,6 +46,13 @@
     "link": "https://cryptopanic.com/news/33511877/The-top-three-memecoin-launches-on-STONK-right-now-LaunchOnSF-on-Solana-is-taking-off-this-week-announcing-it-had-distributed-over-90M-in-rewards-to-its-community-But-three-memecoin-assets-in-particular-have-had-more-success-through-the-platform-than-any-others-two-of",
     "source": "@bscnews",
     "published": "Thu Oct 08 2026 00:20:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Vitalik Buterin Warns AI Could Undermine Cryptography Within Two Years\n\nEthereum co-founder Vitalik Buterin warned that AI could accelerate mathematical advances enough to weaken lattice-based cryptography, including ML-DSA and FHE, within two years, potentially putting ECDSA at",
+    "link": "https://cryptopanic.com/news/33511916/Vitalik-Buterin-Warns-AI-Could-Undermine-Cryptography-Within-Two-Years-Ethereum-co-founder-Vitalik-Buterin-warned-that-AI-could-accelerate-mathematical-advances-enough-to-weaken-lattice-based-cryptography-including-ML-DSA-and-FHE-within-two-years-potentially-putting-ECDSA-at",
+    "source": "@wublockchain",
+    "published": "Thu Oct 08 2026 00:18:31 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -186,27 +207,6 @@
     "link": "https://cryptopanic.com/news/33511764/JUST-IN-Strategy-traded-33B-today-ranked-24-in-the-US-Higher-turnover-than-these-giants-Palantir-465B-market-cap-JPMorgan-875B-market-cap-Dell-370B-market-cap-Oracle-435B-market-cap-When-is-MSTR-joining-SampP-500-and-MSCI",
     "source": "@btc_archive",
     "published": "Wed Oct 07 2026 23:05:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Can Japan replace America as the crypto capital of the world?\n\nJapan has made leaps and strides when it comes to crypto adoption, arguably moving faster than any other country in the world.\n\nDon't get left behind ⬇️",
-    "link": "https://cryptopanic.com/news/33511746/Can-Japan-replace-America-as-the-crypto-capital-of-the-world-Japan-has-made-leaps-and-strides-when-it-comes-to-crypto-adoption-arguably-moving-faster-than-any-other-country-in-the-world-Dont-get-left-behind",
-    "source": "@bscnews",
-    "published": "Wed Oct 07 2026 23:01:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Despite Soaring Yields, Bitcoin Is Still Bullish",
-    "link": "https://cryptopanic.com/news/33511724/Despite-Soaring-Yields-Bitcoin-Is-Still-Bullish",
-    "source": "BitcoinMagazine",
-    "published": "Wed Oct 07 2026 23:00:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HUGE: PAXOS HAS ADDED $XRP TO ITS CRYPTO BROKERAGE INFRASTRUCTURE.\n\nThe regulated backend powering crypto services for PayPal, Venmo, Interactive Brokers, Charles Schwab and Mercado Libre can now offer $XRP buying, selling, custody, deposits and withdrawals.\n\nAnother major",
-    "link": "https://cryptopanic.com/news/33511743/HUGE-PAXOS-HAS-ADDED-XRP-TO-ITS-CRYPTO-BROKERAGE-INFRASTRUCTURE-The-regulated-backend-powering-crypto-services-for-PayPal-Venmo-Interactive-Brokers-Charles-Schwab-and-Mercado-Libre-can-now-offer-XRP-buying-selling-custody-deposits-and-withdrawals-Another-major",
-    "source": "@realallincrypto",
-    "published": "Wed Oct 07 2026 23:00:20 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
