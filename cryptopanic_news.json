@@ -1,5 +1,61 @@
 [
   {
+    "title": "To @CoinDesk's publisher and editorial leadership, \n\nWe are not for sale. Your article is based on false information and contains multiple factual errors. \n\nWe welcome scrutiny, but we will not stay silent when speculation is presented as fact. If manufacturing controversy is",
+    "link": "https://cryptopanic.com/news/33512509/To-CoinDesks-publisher-and-editorial-leadership-We-are-not-for-sale-Your-article-is-based-on-false-information-and-contains-multiple-factual-errors-We-welcome-scrutiny-but-we-will-not-stay-silent-when-speculation-is-presented-as-fact-If-manufacturing-controversy-is",
+    "source": "@cointelegraph",
+    "published": "Thu Oct 08 2026 03:37:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Kalshi Asks CFTC to Approve Never-Expiring WTI Futures",
+    "link": "https://cryptopanic.com/news/33512478/Kalshi-Asks-CFTC-to-Approve-Never-Expiring-WTI-Futures",
+    "source": "btcusa.com",
+    "published": "Thu Oct 08 2026 03:35:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Vitalik Buterin said the ideal multisig wallet security setup would involve rotating each signer's key after every operation, assuming ECDSA could eventually be broken but not instantaneously. He recommended collecting signatures off-chain whenever possible to minimize the window",
+    "link": "https://cryptopanic.com/news/33512507/Vitalik-Buterin-said-the-ideal-multisig-wallet-security-setup-would-involve-rotating-each-signers-key-after-every-operation-assuming-ECDSA-could-eventually-be-broken-but-not-instantaneously-He-recommended-collecting-signatures-off-chain-whenever-possible-to-minimize-the-window",
+    "source": "@wublockchain",
+    "published": "Thu Oct 08 2026 03:27:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hyperliquid Labs Begins $330 Million HYPE OTC Distribution, Transfers Half to Buyers\n\nHyperliquid Labs, the team behind leading decentralized perpetual futures exchange Hyperliquid, completed the seven-day unstaking of 3.75 million HYPE worth about $330 million, according to",
+    "link": "https://cryptopanic.com/news/33512506/Hyperliquid-Labs-Begins-330-Million-HYPE-OTC-Distribution-Transfers-Half-to-Buyers-Hyperliquid-Labs-the-team-behind-leading-decentralized-perpetual-futures-exchange-Hyperliquid-completed-the-seven-day-unstaking-of-375-million-HYPE-worth-about-330-million-according-to",
+    "source": "@wublockchain",
+    "published": "Thu Oct 08 2026 03:24:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trump Says He No Longer Wants Iran Deal As U.S. Weighs Possible Strikes",
+    "link": "https://cryptopanic.com/news/33512442/Trump-Says-He-No-Longer-Wants-Iran-Deal-As-US-Weighs-Possible-Strikes",
+    "source": "square.binance.com",
+    "published": "Thu Oct 08 2026 03:20:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇸🇬 TOKEN2049: Former CFTC commissioner Brian Quintenz says banning regulators from owning crypto has become \"absurd and ludicrous,\" because they can't understand tech they're not allowed to use.",
+    "link": "https://cryptopanic.com/news/33512508/TOKEN2049-Former-CFTC-commissioner-Brian-Quintenz-says-banning-regulators-from-owning-crypto-has-become-absurd-and-ludicrous-because-they-cant-understand-tech-theyre-not-allowed-to-use",
+    "source": "@cointelegraph",
+    "published": "Thu Oct 08 2026 03:19:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Microsoft bets its new agent security model on Windows, not the cloud",
+    "link": "https://cryptopanic.com/news/33512241/Microsoft-bets-its-new-agent-security-model-on-Windows-not-the-cloud",
+    "source": "cryptopolitan.com",
+    "published": "Thu Oct 08 2026 03:18:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Abdul El-Sayed Hits 73% Odds on Crypto Prediction Market in Michigan Senate Race Even as Trump, Vance Label Him a Radical",
+    "link": "https://cryptopanic.com/news/33512444/Abdul-El-Sayed-Hits-73-Odds-on-Crypto-Prediction-Market-in-Michigan-Senate-Race-Even-as-Trump-Vance-Label-Him-a-Radical",
+    "source": "feeds2.benzinga.com",
+    "published": "Thu Oct 08 2026 03:11:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Solv Protocol Co-Founder Says He Left Daily Operations and Was Unaware of BTC+ Incident",
     "link": "https://cryptopanic.com/news/33512441/Solv-Protocol-Co-Founder-Says-He-Left-Daily-Operations-and-Was-Unaware-of-BTC-Incident",
     "source": "square.binance.com",
@@ -11,6 +67,13 @@
     "link": "https://cryptopanic.com/news/33512440/Asseto-and-AlfaR-Launch-Digital-Transfer-Agent-Service-System",
     "source": "square.binance.com",
     "published": "Thu Oct 08 2026 03:05:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 Samsung partners with Solana to enable crypto stablecoin transactions for 82 million devices in US with Samsung Wallet.",
+    "link": "https://cryptopanic.com/news/33512474/JUST-IN-Samsung-partners-with-Solana-to-enable-crypto-stablecoin-transactions-for-82-million-devices-in-US-with-Samsung-Wallet",
+    "source": "@watcherguru",
+    "published": "Thu Oct 08 2026 03:04:28 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -60,6 +123,13 @@
     "link": "https://cryptopanic.com/news/33512201/LATEST-Pudgy-Penguins-parent-company-Igloo-Inc-will-sunset-its-Ethereum-layer-2-Abstract-on-Dec-15-after-which-any-funds-left-on-the-chain-will-be-inaccessible",
     "source": "@coinmarketcap",
     "published": "Thu Oct 08 2026 02:55:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin whales dormant for years are waking up.\n\nAnother #Bitcoin whale, bc1q4h, transferred 4,500 $BTC ($375.72M) after more than 4 years of inactivity.",
+    "link": "https://cryptopanic.com/news/33512468/Bitcoin-whales-dormant-for-years-are-waking-up-Another-Bitcoin-whale-bc1q4h-transferred-4500-BTC-37572M-after-more-than-4-years-of-inactivity",
+    "source": "@lookonchain",
+    "published": "Thu Oct 08 2026 02:53:37 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/33512162/ChatGPT-free-users-get-GPT-6-Luna-a-day-after-paid-tiers",
     "source": "cryptopolitan.com",
     "published": "Thu Oct 08 2026 02:37:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Satoshi-Era Address Moves 100.02 BTC After 16 Years",
-    "link": "https://cryptopanic.com/news/33512430/Satoshi-Era-Address-Moves-10002-BTC-After-16-Years",
-    "source": "square.binance.com",
-    "published": "Thu Oct 08 2026 02:35:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Orca Proposal Seeks to Redirect Protocol Fees and Dissolve Council",
-    "link": "https://cryptopanic.com/news/33512429/Orca-Proposal-Seeks-to-Redirect-Protocol-Fees-and-Dissolve-Council",
-    "source": "square.binance.com",
-    "published": "Thu Oct 08 2026 02:34:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "PGIM: French Bond Selloff Could Bring Japanese Money Home and Support the Yen",
-    "link": "https://cryptopanic.com/news/33512428/PGIM-French-Bond-Selloff-Could-Bring-Japanese-Money-Home-and-Support-the-Yen",
-    "source": "square.binance.com",
-    "published": "Thu Oct 08 2026 02:33:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Aurora Gets Five-Year Exemption for Autonomous Truck Safety Lights",
-    "link": "https://cryptopanic.com/news/33512427/Aurora-Gets-Five-Year-Exemption-for-Autonomous-Truck-Safety-Lights",
-    "source": "square.binance.com",
-    "published": "Thu Oct 08 2026 02:30:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump Says He Deserves Nobel Peace Prize, But Questions His Chances",
-    "link": "https://cryptopanic.com/news/33512426/Trump-Says-He-Deserves-Nobel-Peace-Prize-But-Questions-His-Chances",
-    "source": "square.binance.com",
-    "published": "Thu Oct 08 2026 02:30:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEAR Rises 7.96% as Two Whales Place Large Hyperliquid Orders",
-    "link": "https://cryptopanic.com/news/33512425/NEAR-Rises-796-as-Two-Whales-Place-Large-Hyperliquid-Orders",
-    "source": "square.binance.com",
-    "published": "Thu Oct 08 2026 02:24:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BTC and ETH Options Worth $1.84 Billion and $320 Million Set to Expire on October 9",
-    "link": "https://cryptopanic.com/news/33512424/BTC-and-ETH-Options-Worth-184-Billion-and-320-Million-Set-to-Expire-on-October-9",
-    "source": "square.binance.com",
-    "published": "Thu Oct 08 2026 02:24:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto Market Sectors Fall Broadly as RWA Leads Declines",
-    "link": "https://cryptopanic.com/news/33512423/Crypto-Market-Sectors-Fall-Broadly-as-RWA-Leads-Declines",
-    "source": "square.binance.com",
-    "published": "Thu Oct 08 2026 02:24:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇸🇬 TOKEN2049: Charles Hoskinson says smart contracts are \"pretty dumb\" and pitches their successor, the \"Night Frame,\" which combines zero-knowledge proofs, MPC and trusted execution on Midnight.",
-    "link": "https://cryptopanic.com/news/33512146/TOKEN2049-Charles-Hoskinson-says-smart-contracts-are-pretty-dumb-and-pitches-their-successor-the-Night-Frame-which-combines-zero-knowledge-proofs-MPC-and-trusted-execution-on-Midnight",
-    "source": "@cointelegraph",
-    "published": "Thu Oct 08 2026 02:24:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: ️ Polymarket CEO Shayne Coplan says chasing the next 100x token has turned crypto trading into a \"game of irrational exuberance and hot potato\" as traders rush to sell before prices hit zero.",
-    "link": "https://cryptopanic.com/news/33512200/LATEST-Polymarket-CEO-Shayne-Coplan-says-chasing-the-next-100x-token-has-turned-crypto-trading-into-a-game-of-irrational-exuberance-and-hot-potato-as-traders-rush-to-sell-before-prices-hit-zero",
-    "source": "@coinmarketcap",
-    "published": "Thu Oct 08 2026 02:20:02 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
