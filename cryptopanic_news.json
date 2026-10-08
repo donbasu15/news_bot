@@ -1,5 +1,103 @@
 [
   {
+    "title": "JUST IN: Bitcoin ETFs sold $487M yesterday \n\nLargest outflows since June!",
+    "link": "https://cryptopanic.com/news/33515426/JUST-IN-Bitcoin-ETFs-sold-487M-yesterday-Largest-outflows-since-June",
+    "source": "@btc_archive",
+    "published": "Thu Oct 08 2026 13:13:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: $60B Standard Chartered plans to offer crypto custody services to Singapore institutions.",
+    "link": "https://cryptopanic.com/news/33515425/JUST-IN-60B-Standard-Chartered-plans-to-offer-crypto-custody-services-to-Singapore-institutions",
+    "source": "@btc_archive",
+    "published": "Thu Oct 08 2026 13:04:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Why Can Record Earnings Still Send a Stock Lower?",
+    "link": "https://cryptopanic.com/news/33515373/Why-Can-Record-Earnings-Still-Send-a-Stock-Lower",
+    "source": "coinpaper.com",
+    "published": "Thu Oct 08 2026 13:03:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CoinTracking Review 2026: Pricing, Features, Pros & Cons",
+    "link": "https://cryptopanic.com/news/33515380/CoinTracking-Review-2026-Pricing-Features-Pros-Cons",
+    "source": "cryptopotato.com",
+    "published": "Thu Oct 08 2026 13:02:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "What a Euro Collapse Could Mean for Bitcoin\"",
+    "link": "https://cryptopanic.com/news/33515384/What-a-Euro-Collapse-Could-Mean-for-Bitcoin",
+    "source": "BitcoinMagazine",
+    "published": "Thu Oct 08 2026 13:00:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NextBlock invests $3M in Soda Labs to expand blockchain privacy",
+    "link": "https://cryptopanic.com/news/33515439/NextBlock-invests-3M-in-Soda-Labs-to-expand-blockchain-privacy",
+    "source": "coinjournal.net",
+    "published": "Thu Oct 08 2026 13:00:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "We spoke to @gabrielhaines about the creation of THE MAX EXTRACTOR",
+    "link": "https://cryptopanic.com/news/33515301/We-spoke-to-gabrielhaines-about-the-creation-of-THE-MAX-EXTRACTOR",
+    "source": "@decryptmedia",
+    "published": "Thu Oct 08 2026 13:00:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "FOMO HOUR ft @Tyler_Did_It and @farokh\n- \n- \n-",
+    "link": "https://cryptopanic.com/news/33515300/FOMO-HOUR-ft-Tyler_Did_It-and-farokh-",
+    "source": "@decryptmedia",
+    "published": "Thu Oct 08 2026 13:00:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Coinbase Pro Returns as Deribit Links US and Global Derivatives",
+    "link": "https://cryptopanic.com/news/33515340/Coinbase-Pro-Returns-as-Deribit-Links-US-and-Global-Derivatives",
+    "source": "coinpaprika.com",
+    "published": "Thu Oct 08 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Vitalik Buterin Warns AI Could Break Crypto Security Faster Than Expected",
+    "link": "https://cryptopanic.com/news/33515320/Vitalik-Buterin-Warns-AI-Could-Break-Crypto-Security-Faster-Than-Expected",
+    "source": "thecoinrepublic.com",
+    "published": "Thu Oct 08 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Drops Another 3.5%: What Is Going On?",
+    "link": "https://cryptopanic.com/news/33515428/XRP-Drops-Another-35-What-Is-Going-On",
+    "source": "feeds2.benzinga.com",
+    "published": "Thu Oct 08 2026 12:59:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Do you know that Stellar (@StellarOrg) has more RWAs than @Ripple and @Solana?\n\nLearn more",
+    "link": "https://cryptopanic.com/news/33515298/Do-you-know-that-Stellar-StellarOrg-has-more-RWAs-than-Ripple-and-Solana-Learn-more",
+    "source": "@bscnews",
+    "published": "Thu Oct 08 2026 12:58:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Initiate ‘bunker mode’ to protect crypto from AI, says Justin Drake",
+    "link": "https://cryptopanic.com/news/33515313/Initiate-bunker-mode-to-protect-crypto-from-AI-says-Justin-Drake",
+    "source": "protos.com",
+    "published": "Thu Oct 08 2026 12:58:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🤖 Bitwise CIO Matt Hougan says his bull case for NEAR doesn't depend on AI agents ever materializing, as he's \"buying an exciting blockchain business\" where the AI upside is pure \"gravy.\"",
+    "link": "https://cryptopanic.com/news/33515429/LATEST-Bitwise-CIO-Matt-Hougan-says-his-bull-case-for-NEAR-doesnt-depend-on-AI-agents-ever-materializing-as-hes-buying-an-exciting-blockchain-business-where-the-AI-upside-is-pure-gravy",
+    "source": "@coinmarketcap",
+    "published": "Thu Oct 08 2026 12:53:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Jobless Claims Hit 197K as US Labor Market Enters Low-Hire, Low-Fire Phase",
     "link": "https://cryptopanic.com/news/33515282/Jobless-Claims-Hit-197K-as-US-Labor-Market-Enters-Low-Hire-Low-Fire-Phase",
     "source": "coinpaper.com",
@@ -25,6 +123,13 @@
     "link": "https://cryptopanic.com/news/33514866/Orca-and-Loopscale-Merge-Into-Formation-What-Happens-to-ORCA-and-Billions-of-Loopscale-Points",
     "source": "solanafloor.com",
     "published": "Thu Oct 08 2026 12:36:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BREAKING: 🇪🇺 E.U. markets regulator tells crypto firms to fully exit Tether and USDS by Jan. 8\n\n• Stablecoins without a MiCA license are banned. \n\n• Clients are now blocked from buying those coins.\n\nMiCA exchanges: Coinbase, Bybit, Kraken & OKX.",
+    "link": "https://cryptopanic.com/news/33515423/BREAKING-EU-markets-regulator-tells-crypto-firms-to-fully-exit-Tether-and-USDS-by-Jan-8-Stablecoins-without-a-MiCA-license-are-banned-Clients-are-now-blocked-from-buying-those-coins-MiCA-exchanges-Coinbase-Bybit-Kraken-amp-OKX",
+    "source": "@btc_archive",
+    "published": "Thu Oct 08 2026 12:35:48 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -102,111 +207,6 @@
     "link": "https://cryptopanic.com/news/33515202/LATEST-Arthur-Hayes-says-every-major-tech-rollout-gets-overbuilt-then-crashes-then-gets-bailed-out-and-he-expects-Bitcoin-and-crypto-to-absorb-the-excess-liquidity-after-AI-crashes-too",
     "source": "@coinmarketcap",
     "published": "Thu Oct 08 2026 12:17:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Is This Dump a 'Buy Signal' for Bitcoin, ETH, XRP? One Analyst Says 'Yes but...'",
-    "link": "https://cryptopanic.com/news/33515209/Is-This-Dump-a-Buy-Signal-for-Bitcoin-ETH-XRP-One-Analyst-Says-Yes-but",
-    "source": "feeds2.benzinga.com",
-    "published": "Thu Oct 08 2026 12:16:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AI Video Game Mod Mashups Are Taking Off—Here Are the Wackiest Examples",
-    "link": "https://cryptopanic.com/news/33515098/AI-Video-Game-Mod-Mashups-Are-Taking-OffHere-Are-the-Wackiest-Examples",
-    "source": "decrypt.co",
-    "published": "Thu Oct 08 2026 12:15:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "IMF highlighting crypto....",
-    "link": "https://cryptopanic.com/news/33515089/IMF-highlighting-crypto",
-    "source": "@realallincrypto",
-    "published": "Thu Oct 08 2026 12:15:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tether's USDT could get Total ban in the EU\n\nThe European Securities and Markets Authority (ESMA) has ordered EU national regulators to urge all licensed digital asset companies to support MiCA-regulated assets. \n\nESMA calls for EU crypto firms to stop supporting stablecoins that",
-    "link": "https://cryptopanic.com/news/33515093/Tethers-USDT-could-get-Total-ban-in-the-EU-The-European-Securities-and-Markets-Authority-ESMA-has-ordered-EU-national-regulators-to-urge-all-licensed-digital-asset-companies-to-support-MiCA-regulated-assets-ESMA-calls-for-EU-crypto-firms-to-stop-supporting-stablecoins-that",
-    "source": "@bscnews",
-    "published": "Thu Oct 08 2026 12:15:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Brent vs Physical Oil: Why the Same Barrel Can Have Two Very Different Prices",
-    "link": "https://cryptopanic.com/news/33515097/Brent-vs-Physical-Oil-Why-the-Same-Barrel-Can-Have-Two-Very-Different-Prices",
-    "source": "coinpaper.com",
-    "published": "Thu Oct 08 2026 12:12:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "100 Bitcoin Mined in 2010 Move After 16 Years",
-    "link": "https://cryptopanic.com/news/33515035/100-Bitcoin-Mined-in-2010-Move-After-16-Years",
-    "source": "btcusa.com",
-    "published": "Thu Oct 08 2026 12:08:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Greece Proposes a 10% Tax on Crypto Capital Gains in New Draft Bill",
-    "link": "https://cryptopanic.com/news/33515029/Greece-Proposes-a-10-Tax-on-Crypto-Capital-Gains-in-New-Draft-Bill",
-    "source": "dailycoin.com",
-    "published": "Thu Oct 08 2026 12:05:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SPCX Stock: SpaceX Raised $111B This Year and Wants Another $40B for AI",
-    "link": "https://cryptopanic.com/news/33515013/SPCX-Stock-SpaceX-Raised-111B-This-Year-and-Wants-Another-40B-for-AI",
-    "source": "coinpaper.com",
-    "published": "Thu Oct 08 2026 12:03:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BITCOIN RETESTS $82,000\n\n$75M LEVERAGED LONGS LIQUIDATED\n\nFEAR MODE ON: CRUDE OIL +5%",
-    "link": "https://cryptopanic.com/news/33515198/BITCOIN-RETESTS-82000-75M-LEVERAGED-LONGS-LIQUIDATED-FEAR-MODE-ON-CRUDE-OIL-5",
-    "source": "@btc_archive",
-    "published": "Thu Oct 08 2026 12:01:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Final chance to join in at Cointelegraph CONNECT Singapore.\n\n$170,000+ in prizes. One stage. Powered by @FundersVC.\n\nIf you're building, this is your shot. Apply now",
-    "link": "https://cryptopanic.com/news/33515264/Final-chance-to-join-in-at-Cointelegraph-CONNECT-Singapore-170000-in-prizes-One-stage-Powered-by-FundersVC-If-youre-building-this-is-your-shot-Apply-now",
-    "source": "@cointelegraph",
-    "published": "Thu Oct 08 2026 12:00:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "EU Gives Crypto Exchanges 3 Months to Drop Unauthorized Stablecoins: What Happens to USDT?",
-    "link": "https://cryptopanic.com/news/33515267/EU-Gives-Crypto-Exchanges-3-Months-to-Drop-Unauthorized-Stablecoins-What-Happens-to-USDT",
-    "source": "beincrypto.com",
-    "published": "Thu Oct 08 2026 12:00:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Italy's Caltagirone deals blow to Monte dei Paschi defence plan against Intesa",
-    "link": "https://cryptopanic.com/news/33515084/Italys-Caltagirone-deals-blow-to-Monte-dei-Paschi-defence-plan-against-Intesa",
-    "source": "@reutersbiz",
-    "published": "Thu Oct 08 2026 12:00:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Wormhole [W] jumps 27% as spot buyers stay active – Yet THESE 2 signals warn…",
-    "link": "https://cryptopanic.com/news/33515006/Wormhole-W-jumps-27-as-spot-buyers-stay-active-Yet-THESE-2-signals-warn",
-    "source": "ambcrypto.com",
-    "published": "Thu Oct 08 2026 12:00:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ALGORAND HAS ALREADY PROCESSED OVER 1.6 MILLION POST QUANTUM TRANSACTIONS ON MAINNET!\n\nWhile much of the crypto industry is only beginning to prepare for the threat of quantum computing, $ALGO has been building quantum resistant technology for years.\n\nThe future of blockchain",
-    "link": "https://cryptopanic.com/news/33515088/ALGORAND-HAS-ALREADY-PROCESSED-OVER-16-MILLION-POST-QUANTUM-TRANSACTIONS-ON-MAINNET-While-much-of-the-crypto-industry-is-only-beginning-to-prepare-for-the-threat-of-quantum-computing-ALGO-has-been-building-quantum-resistant-technology-for-years-The-future-of-blockchain",
-    "source": "@realallincrypto",
-    "published": "Thu Oct 08 2026 12:00:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin: Why It's Built for Currency Uncertainty",
-    "link": "https://cryptopanic.com/news/33515049/Bitcoin-Why-Its-Built-for-Currency-Uncertainty",
-    "source": "SimplyBitcoin",
-    "published": "Thu Oct 08 2026 12:00:12 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
