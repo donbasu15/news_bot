@@ -1,9 +1,30 @@
 [
   {
+    "title": "Samsung to Roll Out USDC transfers on Solana Across 82 Million US Galaxy Devices",
+    "link": "https://cryptopanic.com/news/33513075/Samsung-to-Roll-Out-USDC-transfers-on-Solana-Across-82-Million-US-Galaxy-Devices",
+    "source": "cryptopolitan.com",
+    "published": "Thu Oct 08 2026 06:14:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Conduit sues Tether over $2.76M frozen USDT: ‘No justifiable basis to withhold money’",
+    "link": "https://cryptopanic.com/news/33513018/Conduit-sues-Tether-over-276M-frozen-USDT-No-justifiable-basis-to-withhold-money",
+    "source": "ambcrypto.com",
+    "published": "Thu Oct 08 2026 06:00:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Peter Brandt Favors Monero as XRP Faces Heavy Resistance\n\nVeteran trader Peter Brandt (@PeterLBrandt) has named Monero (@monero) his clear favorite among several altcoin charts he recently compared.\n\nHe sees monero:native as having little overhead supply, creating what he calls",
     "link": "https://cryptopanic.com/news/33512981/Peter-Brandt-Favors-Monero-as-XRP-Faces-Heavy-Resistance-Veteran-trader-Peter-Brandt-PeterLBrandt-has-named-Monero-monero-his-clear-favorite-among-several-altcoin-charts-he-recently-compared-He-sees-moneronative-as-having-little-overhead-supply-creating-what-he-calls",
     "source": "@bscnews",
     "published": "Thu Oct 08 2026 05:48:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trader 0xdd6a opened 20x shorts on $BTC, $ETH, $SOL, $XRP, and $DOGE on @Aster_DEX, all currently in profit.\n\nThe total position size is $26.5M, with $586K in unrealized profit.\n\nPositions:\n3,629 $ETH ($9.33M) — up $163K\n73,728 $SOL ($8.52M) — up $141K\n48.37M $DOGE ($4.24M) — up",
+    "link": "https://cryptopanic.com/news/33513069/Trader-0xdd6a-opened-20x-shorts-on-BTC-ETH-SOL-XRP-and-DOGE-on-Aster_DEX-all-currently-in-profit-The-total-position-size-is-265M-with-586K-in-unrealized-profit-Positions-3629-ETH-933M-up-163K-73728-SOL-852M-up-141K-4837M-DOGE-424M-up",
+    "source": "@lookonchain",
+    "published": "Thu Oct 08 2026 05:48:09 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -18,6 +39,13 @@
     "link": "https://cryptopanic.com/news/33512929/Publix-Is-Closing-Stores-Across-3-States-Heres-Whats-Happening",
     "source": "coinpaper.com",
     "published": "Thu Oct 08 2026 05:41:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin loans are paying for tuition and working capital, not just trades, lenders say",
+    "link": "https://cryptopanic.com/news/33513079/Bitcoin-loans-are-paying-for-tuition-and-working-capital-not-just-trades-lenders-say",
+    "source": "coindesk.com",
+    "published": "Thu Oct 08 2026 05:40:41 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -46,6 +74,13 @@
     "link": "https://cryptopanic.com/news/33512953/Source",
     "source": "@wublockchain",
     "published": "Thu Oct 08 2026 05:34:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: Samsung Wallet to bring USDC transfers to 82M Galaxy devices via Solana and Sui",
+    "link": "https://cryptopanic.com/news/33513070/INTEL-Samsung-Wallet-to-bring-USDC-transfers-to-82M-Galaxy-devices-via-Solana-and-Sui",
+    "source": "@solidintel_x",
+    "published": "Thu Oct 08 2026 05:33:56 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33512898/Polygon-And-TRON-Link-US-Banking-Rails-to-Onchain-USDT-Polygon-0xPolygon-ethereum0x455e53cbb86018ac2b8092fdcd39d8444affc3f6-Open-Money-Stack-now-gives-payment-companies-access-to-TRONs-trondao-tronnative-stablecoin-economy-The-service-will-enable-businesses-to-link",
     "source": "@bscnews",
     "published": "Thu Oct 08 2026 04:50:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Barn owls, bees, puffins and hedgehogs to feature on UK banknotes",
-    "link": "https://cryptopanic.com/news/33512847/Barn-owls-bees-puffins-and-hedgehogs-to-feature-on-UK-banknotes",
-    "source": "@reutersbiz",
-    "published": "Thu Oct 08 2026 04:45:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Russia’s largest bank, Sberbank, has reportedly been approved to custody crypto, opening regulated access to $BTC, $ETH and $USDT directly through its banking and investment platforms.\n\nWith Sberbank serving over 100 MILLION customers, this is another huge example of crypto",
-    "link": "https://cryptopanic.com/news/33512694/Russias-largest-bank-Sberbank-has-reportedly-been-approved-to-custody-crypto-opening-regulated-access-to-BTC-ETH-and-USDT-directly-through-its-banking-and-investment-platforms-With-Sberbank-serving-over-100-MILLION-customers-this-is-another-huge-example-of-crypto",
-    "source": "@realallincrypto",
-    "published": "Thu Oct 08 2026 04:45:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "What Stocks Will Shine When the AI Bubble Bursts? John Rogers Says Look to Smucker's",
-    "link": "https://cryptopanic.com/news/33512846/What-Stocks-Will-Shine-When-the-AI-Bubble-Bursts-John-Rogers-Says-Look-to-Smuckers",
-    "source": "beincrypto.com",
-    "published": "Thu Oct 08 2026 04:39:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Grayscale Sees a New ETF Era as Zcash ETF Hits $1B\n\nGrayscale (@Grayscale) Managing Director Krista Lynch (@Krista_Lynch_) says issuers now have more room to choose which tokens become ETFs.\n\nIssuers have begun exploring other cryptos besides Bitcoin and Ethereum as regulatory",
-    "link": "https://cryptopanic.com/news/33512696/Grayscale-Sees-a-New-ETF-Era-as-Zcash-ETF-Hits-1B-Grayscale-Grayscale-Managing-Director-Krista-Lynch-Krista_Lynch_-says-issuers-now-have-more-room-to-choose-which-tokens-become-ETFs-Issuers-have-begun-exploring-other-cryptos-besides-Bitcoin-and-Ethereum-as-regulatory",
-    "source": "@bscnews",
-    "published": "Thu Oct 08 2026 04:31:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Rate hike fears weigh on UK housing market, RICS says",
-    "link": "https://cryptopanic.com/news/33512639/Rate-hike-fears-weigh-on-UK-housing-market-RICS-says",
-    "source": "@reutersbiz",
-    "published": "Thu Oct 08 2026 04:30:22 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
