@@ -1,9 +1,65 @@
 [
   {
+    "title": "Source：",
+    "link": "https://cryptopanic.com/news/33512954/Source",
+    "source": "@wublockchain",
+    "published": "Thu Oct 08 2026 05:34:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33512953/Source",
+    "source": "@wublockchain",
+    "published": "Thu Oct 08 2026 05:34:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Kyrgyzstan Ends State-Backed Stablecoin Project Months After UK Sanctions\n\nKyrgyzstan has decided to shut down USDKG, its $50 million state-backed gold stablecoin project, and ordered the liquidation of issuer EVA and Coin Nomad Exchange, the country's first state-owned crypto",
+    "link": "https://cryptopanic.com/news/33512952/Kyrgyzstan-Ends-State-Backed-Stablecoin-Project-Months-After-UK-Sanctions-Kyrgyzstan-has-decided-to-shut-down-USDKG-its-50-million-state-backed-gold-stablecoin-project-and-ordered-the-liquidation-of-issuer-EVA-and-Coin-Nomad-Exchange-the-countrys-first-state-owned-crypto",
+    "source": "@wublockchain",
+    "published": "Thu Oct 08 2026 05:33:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Attention! \n\nA whale's 98,089 $ETH($252.3M) long positions will be liquidated at $2,446.48 and $2,424.47.",
+    "link": "https://cryptopanic.com/news/33512902/Attention-A-whales-98089-ETH2523M-long-positions-will-be-liquidated-at-244648-and-242447",
+    "source": "@lookonchain",
+    "published": "Thu Oct 08 2026 05:31:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Automated market makers as decentralized portfolio managers",
+    "link": "https://cryptopanic.com/news/33512502/Automated-market-makers-as-decentralized-portfolio-managers",
+    "source": "cryptovalleyjournal.com",
+    "published": "Thu Oct 08 2026 05:30:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Satoshi Era Bitcoin Wakes Up After 15 Years With 582,198% Gain\n\nA dormant Bitcoin wallet from 2011 has suddenly become active after more than 15 years\n\nGalaxy Research (@glxyresearch) reported that 28.46 bitcoin:native, now worth about $2.43 million, moved in block 970281.\n\nBack",
+    "link": "https://cryptopanic.com/news/33512900/Satoshi-Era-Bitcoin-Wakes-Up-After-15-Years-With-582198-Gain-A-dormant-Bitcoin-wallet-from-2011-has-suddenly-become-active-after-more-than-15-years-Galaxy-Research-glxyresearch-reported-that-2846-bitcoinnative-now-worth-about-243-million-moved-in-block-970281-Back",
+    "source": "@bscnews",
+    "published": "Thu Oct 08 2026 05:27:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "MAS Finalises AI Risk Rules for Financial Institutions, With Agentic AI Guidance to Follow in 2027",
     "link": "https://cryptopanic.com/news/33512849/MAS-Finalises-AI-Risk-Rules-for-Financial-Institutions-With-Agentic-AI-Guidance-to-Follow-in-2027",
     "source": "www.blockhead.co",
     "published": "Thu Oct 08 2026 05:15:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Europol Flags 30% Of Bitcoin Supply as Quantum Vulnerable\n\nEuropol (@Europol) has indicated that quantum computing is more of a danger to crypto wallets than the blockchain itself.\n\nAn estimated 6-6.9 million bitcoin:native are in addresses with public keys exposed. This accounts",
+    "link": "https://cryptopanic.com/news/33512899/Europol-Flags-30-Of-Bitcoin-Supply-as-Quantum-Vulnerable-Europol-Europol-has-indicated-that-quantum-computing-is-more-of-a-danger-to-crypto-wallets-than-the-blockchain-itself-An-estimated-6-69-million-bitcoinnative-are-in-addresses-with-public-keys-exposed-This-accounts",
+    "source": "@bscnews",
+    "published": "Thu Oct 08 2026 05:12:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Since Bitcoin's Sept. 21 breakout, the US trading session has been a net seller and all of BTC's net gain since has come outside those hours, per Glassnode.",
+    "link": "https://cryptopanic.com/news/33512951/LATEST-Since-Bitcoins-Sept-21-breakout-the-US-trading-session-has-been-a-net-seller-and-all-of-BTCs-net-gain-since-has-come-outside-those-hours-per-Glassnode",
+    "source": "@coinmarketcap",
+    "published": "Thu Oct 08 2026 05:10:02 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -46,6 +102,13 @@
     "link": "https://cryptopanic.com/news/33512844/TOKEN2049-Institutions-are-coming-onchain-but-the-Ethereum-panel-couldnt-agree-on-what-to-do-with-all-that-ETH-Joe-Lubin-founder-of-Consensys-says-Ethereum-is-close-to-unifying-L1-L2s-and-private-chains-without-risky-bridges-Paul-Frambot-CEO-of-Morpho-says-DeFi-now",
     "source": "@cointelegraph",
     "published": "Thu Oct 08 2026 04:56:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Polygon And TRON Link U.S. Banking Rails to Onchain USDT\n\nPolygon (@0xPolygon) ethereum:0x455e53cbb86018ac2b8092fdcd39d8444affc3f6 Open Money Stack now gives payment companies access to TRON's (@trondao) tron:native stablecoin economy.\n\nThe service will enable businesses to link",
+    "link": "https://cryptopanic.com/news/33512898/Polygon-And-TRON-Link-US-Banking-Rails-to-Onchain-USDT-Polygon-0xPolygon-ethereum0x455e53cbb86018ac2b8092fdcd39d8444affc3f6-Open-Money-Stack-now-gives-payment-companies-access-to-TRONs-trondao-tronnative-stablecoin-economy-The-service-will-enable-businesses-to-link",
+    "source": "@bscnews",
+    "published": "Thu Oct 08 2026 04:50:16 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -119,6 +182,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Ethereum’s Glamsterdam test runs near 200 million gas per block after upgrade",
+    "link": "https://cryptopanic.com/news/33512930/Ethereums-Glamsterdam-test-runs-near-200-million-gas-per-block-after-upgrade",
+    "source": "coindesk.com",
+    "published": "Thu Oct 08 2026 04:23:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Michael Burry's AI Bubble Warning: Time is Running Out!",
     "link": "https://cryptopanic.com/news/33512674/Michael-Burrys-AI-Bubble-Warning-Time-is-Running-Out",
     "source": "TheCryptoLark",
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/33512650/Michael-Burry-Calls-Anthropics-Valuation-a-Bubble-Worth-78-SP-500-Companies",
     "source": "beincrypto.com",
     "published": "Thu Oct 08 2026 04:02:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 JUST IN: Hunter Biden says his $LAPTOP memecoin was \"not a rug pull,\" just a way to troll Trump's coin, and claims two market makers pulled out 84 seconds after the peak.",
-    "link": "https://cryptopanic.com/news/33512638/JUST-IN-Hunter-Biden-says-his-LAPTOP-memecoin-was-not-a-rug-pull-just-a-way-to-troll-Trumps-coin-and-claims-two-market-makers-pulled-out-84-seconds-after-the-peak",
-    "source": "@cointelegraph",
-    "published": "Thu Oct 08 2026 04:01:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin's Unbeatable Thesis: Why Governments Can't Kill It",
-    "link": "https://cryptopanic.com/news/33512805/Bitcoins-Unbeatable-Thesis-Why-Governments-Cant-Kill-It",
-    "source": "SimplyBitcoin",
-    "published": "Thu Oct 08 2026 04:00:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin below $84K: 4 pressure points behind BTC’s sudden reversal",
-    "link": "https://cryptopanic.com/news/33512540/Bitcoin-below-84K-4-pressure-points-behind-BTCs-sudden-reversal",
-    "source": "ambcrypto.com",
-    "published": "Thu Oct 08 2026 04:00:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bhutan’s DK Bank Secures ADGM In-Principle Approval for Abu Dhabi Expansion",
-    "link": "https://cryptopanic.com/news/33512518/Bhutans-DK-Bank-Secures-ADGM-In-Principle-Approval-for-Abu-Dhabi-Expansion",
-    "source": "btcusa.com",
-    "published": "Thu Oct 08 2026 04:00:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin breaks below $83,000 as oil jumps on Iran strike-plan report",
-    "link": "https://cryptopanic.com/news/33512581/Bitcoin-breaks-below-83000-as-oil-jumps-on-Iran-strike-plan-report",
-    "source": "coindesk.com",
-    "published": "Thu Oct 08 2026 04:00:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Vitalik: AI Is Becoming Capable of Hacking All Kinds of Systems\n\nOn October 6, 2026, Ethereum co-founder Vitalik Buterin @VitalikButerin said at the OKX NOW @okx event in Singapore that AI is beginning to demonstrate powerful hacking capabilities, including escaping sandboxes,",
-    "link": "https://cryptopanic.com/news/33512637/Vitalik-AI-Is-Becoming-Capable-of-Hacking-All-Kinds-of-Systems-On-October-6-2026-Ethereum-co-founder-Vitalik-Buterin-VitalikButerin-said-at-the-OKX-NOW-okx-event-in-Singapore-that-AI-is-beginning-to-demonstrate-powerful-hacking-capabilities-including-escaping-sandboxes",
-    "source": "@wublockchain",
-    "published": "Thu Oct 08 2026 04:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Halving Clock Hits 62%: Is the Bear Market Over?",
-    "link": "https://cryptopanic.com/news/33512649/Bitcoin-Halving-Clock-Hits-62-Is-the-Bear-Market-Over",
-    "source": "beincrypto.com",
-    "published": "Thu Oct 08 2026 04:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Moody's assigned Sky Protocol a B3 issuer rating with a stable outlook, its first rating on any stablecoin protocol, per Sky Frontier Foundation.",
-    "link": "https://cryptopanic.com/news/33512505/LATEST-Moodys-assigned-Sky-Protocol-a-B3-issuer-rating-with-a-stable-outlook-its-first-rating-on-any-stablecoin-protocol-per-Sky-Frontier-Foundation",
-    "source": "@coinmarketcap",
-    "published": "Thu Oct 08 2026 03:45:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Fed Hike Odds Drop to 18%, Cuts at 0%: What a Hold Means for Bitcoin",
-    "link": "https://cryptopanic.com/news/33512648/Fed-Hike-Odds-Drop-to-18-Cuts-at-0-What-a-Hold-Means-for-Bitcoin",
-    "source": "beincrypto.com",
-    "published": "Thu Oct 08 2026 03:45:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Vitalik Warns Crypto Could Face an AI Security Test Within Two Years\n\nEthereum (@ethereum) ethereum:native co-founder Vitalik Buterin (@VitalikButerin) says AI could expose weaknesses in current cryptography within two years.\n\nHe feels that lattice-based systems require special",
-    "link": "https://cryptopanic.com/news/33512517/Vitalik-Warns-Crypto-Could-Face-an-AI-Security-Test-Within-Two-Years-Ethereum-ethereum-ethereumnative-co-founder-Vitalik-Buterin-VitalikButerin-says-AI-could-expose-weaknesses-in-current-cryptography-within-two-years-He-feels-that-lattice-based-systems-require-special",
-    "source": "@bscnews",
-    "published": "Thu Oct 08 2026 03:41:05 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
