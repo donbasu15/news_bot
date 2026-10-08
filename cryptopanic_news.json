@@ -1,5 +1,47 @@
 [
   {
+    "title": "Meekness is strength",
+    "link": "https://cryptopanic.com/news/33517675/Meekness-is-strength",
+    "source": "@angrycryptoshow",
+    "published": "Thu Oct 08 2026 21:32:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The $300T Bond Market Is Bitcoin's Next Frontier | Loren Asmus, UTXO Management",
+    "link": "https://cryptopanic.com/news/33517669/The-300T-Bond-Market-Is-Bitcoins-Next-Frontier-Loren-Asmus-UTXO-Management",
+    "source": "BitcoinMagazine",
+    "published": "Thu Oct 08 2026 21:30:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Raydium crypto surges 14% as negative funding raises short squeeze prospects",
+    "link": "https://cryptopanic.com/news/33517652/Raydium-crypto-surges-14-as-negative-funding-raises-short-squeeze-prospects",
+    "source": "ambcrypto.com",
+    "published": "Thu Oct 08 2026 21:30:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NFL asks Supreme Court to treat sports prediction contracts as gambling",
+    "link": "https://cryptopanic.com/news/33517624/NFL-asks-Supreme-Court-to-treat-sports-prediction-contracts-as-gambling",
+    "source": "cryptopolitan.com",
+    "published": "Thu Oct 08 2026 21:25:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  US government-linked wallets moved 12,267 BTC, worth about $1B, out of a Bitfinex hack seizure wallet to new addresses, with no exchange deposit recorded, per Arkham.",
+    "link": "https://cryptopanic.com/news/33517674/LATEST-US-government-linked-wallets-moved-12267-BTC-worth-about-1B-out-of-a-Bitfinex-hack-seizure-wallet-to-new-addresses-with-no-exchange-deposit-recorded-per-Arkham",
+    "source": "@coinmarketcap",
+    "published": "Thu Oct 08 2026 21:17:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Google Wants Gemini to Be Your Next Coworker—Complete With Its Own Email Address",
+    "link": "https://cryptopanic.com/news/33517613/Google-Wants-Gemini-to-Be-Your-Next-CoworkerComplete-With-Its-Own-Email-Address",
+    "source": "decrypt.co",
+    "published": "Thu Oct 08 2026 21:16:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Trevi says Webuild's sweetened bid is at low end of fair value range",
     "link": "https://cryptopanic.com/news/33517605/Trevi-says-Webuilds-sweetened-bid-is-at-low-end-of-fair-value-range",
     "source": "@reutersbiz",
@@ -11,6 +53,13 @@
     "link": "https://cryptopanic.com/news/33517576/Seed-Phrase-vs-Private-Key-What-Each-Controls-and-How-Recovery-Works",
     "source": "btcusa.com",
     "published": "Thu Oct 08 2026 21:10:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: $5.3 billion Cardone Capital bought 40 BTC, worth $3.2 million!",
+    "link": "https://cryptopanic.com/news/33517650/JUST-IN-53-billion-Cardone-Capital-bought-40-BTC-worth-32-million",
+    "source": "@bitcoinmagazine",
+    "published": "Thu Oct 08 2026 21:06:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -28,6 +77,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "JUST IN: Real estate mogul Grant Cardone says he bought 40 BTC at $80,400 and has more buy orders waiting.\n\n​Legend!",
+    "link": "https://cryptopanic.com/news/33517672/JUST-IN-Real-estate-mogul-Grant-Cardone-says-he-bought-40-BTC-at-80400-and-has-more-buy-orders-waiting-Legend",
+    "source": "@btc_archive",
+    "published": "Thu Oct 08 2026 21:02:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "NEW: Anthropic launched Claude Dashboards and Motion in beta, letting users build live dashboards and animated explainers, while Docs, Slides and Design are now available on all plans.",
     "link": "https://cryptopanic.com/news/33517603/NEW-Anthropic-launched-Claude-Dashboards-and-Motion-in-beta-letting-users-build-live-dashboards-and-animated-explainers-while-Docs-Slides-and-Design-are-now-available-on-all-plans",
     "source": "@cointelegraph",
@@ -42,6 +98,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Altcoins About To Do The Unthinkable",
+    "link": "https://cryptopanic.com/news/33517574/Altcoins-About-To-Do-The-Unthinkable",
+    "source": "TheCryptoLark",
+    "published": "Thu Oct 08 2026 21:00:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Core developer responds to AI & Quantum Risk",
     "link": "https://cryptopanic.com/news/33517601/Core-developer-responds-to-AI-Quantum-Risk",
     "source": "BitcoinMagazine",
@@ -49,10 +112,10 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Altcoins About To Do The Unthinkable",
-    "link": "https://cryptopanic.com/news/33517574/Altcoins-About-To-Do-The-Unthinkable",
-    "source": "TheCryptoLark",
-    "published": "Thu Oct 08 2026 21:00:25 GMT+0000 (Coordinated Universal Time)",
+    "title": "HUGE $QNT CONNECTION TO THE UK'S DIGITAL BOND PLANS! \n\nBarclays, HSBC, Lloyds and NatWest are involved in BOTH the UK's digital gilt pilot and THE SAME 4 ARE INVOLVED IN THE UK GBTD, the UK's tokenised deposits project, where @quantnetwork provides the technology!\n\nQuant isn't",
+    "link": "https://cryptopanic.com/news/33517647/HUGE-QNT-CONNECTION-TO-THE-UKS-DIGITAL-BOND-PLANS-Barclays-HSBC-Lloyds-and-NatWest-are-involved-in-BOTH-the-UKs-digital-gilt-pilot-and-THE-SAME-4-ARE-INVOLVED-IN-THE-UK-GBTD-the-UKs-tokenised-deposits-project-where-quantnetwork-provides-the-technology-Quant-isnt",
+    "source": "@realallincrypto",
+    "published": "Thu Oct 08 2026 21:00:23 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -66,6 +129,13 @@
     "title": "BNY Expands Regulated Crypto Custody Across The European Union Under MiCA",
     "link": "https://cryptopanic.com/news/33517544/BNY-Expands-Regulated-Crypto-Custody-Across-The-European-Union-Under-MiCA",
     "source": "newsbtc.com",
+    "published": "Thu Oct 08 2026 21:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Is the Crypto Market Heading for Another October Bloodbath?",
+    "link": "https://cryptopanic.com/news/33517673/Is-the-Crypto-Market-Heading-for-Another-October-Bloodbath",
+    "source": "beincrypto.com",
     "published": "Thu Oct 08 2026 21:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -95,6 +165,13 @@
     "link": "https://cryptopanic.com/news/33517597/INSIGHT-Midnight-City-surpasses-1162-agents-currently-online-84-active-agents-were-added-in-48h-Midnight-City-now-supports-Grok-Bot-Muse-Instinct-Hermes-and-OpenClaw",
     "source": "@angrycryptoshow",
     "published": "Thu Oct 08 2026 20:53:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tether has made $20 BILLION from its $USDT stablecoin.\n\nThe stablecoin behemoth that is @Tether has generated $19.93B in lifetime revenue from yield on assets backing its $184B $USDT stablecoin.\n\nBy comparison, @Circle has made only $7.57B from $USDC, which is still seriously",
+    "link": "https://cryptopanic.com/news/33517648/Tether-has-made-20-BILLION-from-its-USDT-stablecoin-The-stablecoin-behemoth-that-is-Tether-has-generated-1993B-in-lifetime-revenue-from-yield-on-assets-backing-its-184B-USDT-stablecoin-By-comparison-Circle-has-made-only-757B-from-USDC-which-is-still-seriously",
+    "source": "@bscnews",
+    "published": "Thu Oct 08 2026 20:50:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -130,83 +207,6 @@
     "link": "https://cryptopanic.com/news/33517496/SAP-Pay-adds-USDC-payments-with-Circle-Mint-access-required",
     "source": "cryptoslate.com",
     "published": "Thu Oct 08 2026 20:40:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BIG: The Nasdaq 100 fell over 1.5% as oil rose and OpenAI’s reported revenue fell $20 billion short of earlier figures.",
-    "link": "https://cryptopanic.com/news/33517485/BIG-The-Nasdaq-100-fell-over-15-as-oil-rose-and-OpenAIs-reported-revenue-fell-20-billion-short-of-earlier-figures",
-    "source": "@cointelegraph",
-    "published": "Thu Oct 08 2026 20:30:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "EU exec rejects Greek, Italian requests for more fiscal rules flexibility",
-    "link": "https://cryptopanic.com/news/33517486/EU-exec-rejects-Greek-Italian-requests-for-more-fiscal-rules-flexibility",
-    "source": "@reutersbiz",
-    "published": "Thu Oct 08 2026 20:30:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin’s Rally Above $80,000 Could ‘Wreck a Lot of People,’ Analyst Warns",
-    "link": "https://cryptopanic.com/news/33517517/Bitcoins-Rally-Above-80000-Could-Wreck-a-Lot-of-People-Analyst-Warns",
-    "source": "feeds2.benzinga.com",
-    "published": "Thu Oct 08 2026 20:30:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump's $5000 Bitcoin Stacking Money Explained!",
-    "link": "https://cryptopanic.com/news/33517493/Trumps-5000-Bitcoin-Stacking-Money-Explained",
-    "source": "SimplyBitcoin",
-    "published": "Thu Oct 08 2026 20:30:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Samsung Projects $80 Billion Quarterly Profit: How Will Its Stock Price React?",
-    "link": "https://cryptopanic.com/news/33517573/Samsung-Projects-80-Billion-Quarterly-Profit-How-Will-Its-Stock-Price-React",
-    "source": "beincrypto.com",
-    "published": "Thu Oct 08 2026 20:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Bitcoin's hash rate is up 14% from June lows.\n\nAnother 14% gain hits a new all-time high.\n\n Fear of miners switching to AI is over!",
-    "link": "https://cryptopanic.com/news/33517541/JUST-IN-Bitcoins-hash-rate-is-up-14-from-June-lows-Another-14-gain-hits-a-new-all-time-high-Fear-of-miners-switching-to-AI-is-over",
-    "source": "@btc_archive",
-    "published": "Thu Oct 08 2026 20:29:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 Elon Musk's SpaceX $SPCX announces plans to turn Starlink into major US mobile carrier, offering high-speed internet nationwide.",
-    "link": "https://cryptopanic.com/news/33517538/JUST-IN-Elon-Musks-SpaceX-SPCX-announces-plans-to-turn-Starlink-into-major-US-mobile-carrier-offering-high-speed-internet-nationwide",
-    "source": "@watcherguru",
-    "published": "Thu Oct 08 2026 20:27:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cathie Wood’s ARK Sells $23.7M of Robinhood, Buys $27.8M of CoreWeave",
-    "link": "https://cryptopanic.com/news/33517525/Cathie-Woods-ARK-Sells-237M-of-Robinhood-Buys-278M-of-CoreWeave",
-    "source": "cryptoprowl.com",
-    "published": "Thu Oct 08 2026 20:26:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hunter Biden sends stark warning on U.S. dollar",
-    "link": "https://cryptopanic.com/news/33517499/Hunter-Biden-sends-stark-warning-on-US-dollar",
-    "source": "thestreet.com",
-    "published": "Thu Oct 08 2026 20:23:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ LONGITUDE: Only around three or four US pension funds currently hold Bitcoin, according to Bitcoin Standard Treasury Company (@bstrco) co-founder Sean Bill (@macrocrunch).\n\nDespite the growth of spot Bitcoin ETFs, he argued that adoption among large, long-term institutional",
-    "link": "https://cryptopanic.com/news/33517484/LONGITUDE-Only-around-three-or-four-US-pension-funds-currently-hold-Bitcoin-according-to-Bitcoin-Standard-Treasury-Company-bstrco-co-founder-Sean-Bill-macrocrunch-Despite-the-growth-of-spot-Bitcoin-ETFs-he-argued-that-adoption-among-large-long-term-institutional",
-    "source": "@cointelegraph",
-    "published": "Thu Oct 08 2026 20:20:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hunter Biden Blames Market Maker for LAPTOP Meme Coin Collapse",
-    "link": "https://cryptopanic.com/news/33517452/Hunter-Biden-Blames-Market-Maker-for-LAPTOP-Meme-Coin-Collapse",
-    "source": "cryptopotato.com",
-    "published": "Thu Oct 08 2026 20:19:42 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
