@@ -1,5 +1,33 @@
 [
   {
+    "title": "Ether Liquidations Exceed Bitcoin’s in $1.1 Billion Flush Despite a Fifth of the Market Cap",
+    "link": "https://cryptopanic.com/news/33519065/Ether-Liquidations-Exceed-Bitcoins-in-11-Billion-Flush-Despite-a-Fifth-of-the-Market-Cap",
+    "source": "btcusa.com",
+    "published": "Fri Oct 09 2026 06:40:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇪🇺 The European Parliament adopted a nonbinding resolution urging the Commission to address crypto-linked corruption risks in its upcoming anti-corruption strategy, due by the end of 2026.",
+    "link": "https://cryptopanic.com/news/33519103/LATEST-The-European-Parliament-adopted-a-nonbinding-resolution-urging-the-Commission-to-address-crypto-linked-corruption-risks-in-its-upcoming-anti-corruption-strategy-due-by-the-end-of-2026",
+    "source": "@coinmarketcap",
+    "published": "Fri Oct 09 2026 06:39:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Coinbase rolls out 10x spot leverage, but blocks US retail from it",
+    "link": "https://cryptopanic.com/news/33519062/Coinbase-rolls-out-10x-spot-leverage-but-blocks-US-retail-from-it",
+    "source": "cryptoslate.com",
+    "published": "Fri Oct 09 2026 06:30:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Revolut’s customer growth in Italy passes 6 million, ranking third by users",
+    "link": "https://cryptopanic.com/news/33518994/Revoluts-customer-growth-in-Italy-passes-6-million-ranking-third-by-users",
+    "source": "en.cryptonomist.ch",
+    "published": "Fri Oct 09 2026 06:16:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "NEW: Crypto projects including Ethereum client Nethermind and Bitcoin wallet ZEUS have applied for Anthropic's free OSS Scanner, which promises vulnerability reports from its strongest AI models, including Claude Mythos.",
     "link": "https://cryptopanic.com/news/33518983/NEW-Crypto-projects-including-Ethereum-client-Nethermind-and-Bitcoin-wallet-ZEUS-have-applied-for-Anthropics-free-OSS-Scanner-which-promises-vulnerability-reports-from-its-strongest-AI-models-including-Claude-Mythos",
     "source": "@cointelegraph",
@@ -63,6 +91,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Turbocharge your crypto startup's growth with #CMCLabs \n\nApply to CoinMarketCap's accelerator program to kickstart your project onto the world stage",
+    "link": "https://cryptopanic.com/news/33519102/Turbocharge-your-crypto-startups-growth-with-CMCLabs-Apply-to-CoinMarketCaps-accelerator-program-to-kickstart-your-project-onto-the-world-stage",
+    "source": "@coinmarketcap",
+    "published": "Fri Oct 09 2026 06:00:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "China's tax crackdown on wealthy individuals has become the latest headache for luxury brands, already grappling with the fallout from the Iran war and signs of slowing consumer spending in the United States. More here",
     "link": "https://cryptopanic.com/news/33518984/Chinas-tax-crackdown-on-wealthy-individuals-has-become-the-latest-headache-for-luxury-brands-already-grappling-with-the-fallout-from-the-Iran-war-and-signs-of-slowing-consumer-spending-in-the-United-States-More-here",
     "source": "@reutersbiz",
@@ -70,10 +105,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Smart trader 0x2371, with a 100% win rate and $9.26M in total profit, is trading again!\n\nAfter the market dropped, he opened a 20x long on 12,000 $ETH ($29.88M) and is now sitting on an unrealized profit of $626K.",
+    "link": "https://cryptopanic.com/news/33519058/Smart-trader-0x2371-with-a-100-win-rate-and-926M-in-total-profit-is-trading-again-After-the-market-dropped-he-opened-a-20x-long-on-12000-ETH-2988M-and-is-now-sitting-on-an-unrealized-profit-of-626K",
+    "source": "@lookonchain",
+    "published": "Fri Oct 09 2026 05:56:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST:  THORChain system income jumped to $3.01M in September from $615K in August, with roughly $1.9M earned in five days as funds tied to the Bitget exploit moved through the network.",
     "link": "https://cryptopanic.com/news/33518891/LATEST-THORChain-system-income-jumped-to-301M-in-September-from-615K-in-August-with-roughly-19M-earned-in-five-days-as-funds-tied-to-the-Bitget-exploit-moved-through-the-network",
     "source": "@coinmarketcap",
     "published": "Fri Oct 09 2026 05:52:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "It seems that Bitcoin mining company MARA Holdings (@MARA) also dumped 996 $BTC($81.13M).",
+    "link": "https://cryptopanic.com/news/33519056/It-seems-that-Bitcoin-mining-company-MARA-Holdings-MARA-also-dumped-996-BTC8113M",
+    "source": "@lookonchain",
+    "published": "Fri Oct 09 2026 05:51:28 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -158,55 +207,6 @@
     "link": "https://cryptopanic.com/news/33518822/ETF-FLOWS-BTC-ETH-and-SOL-spot-ETFs-saw-net-outflows-while-XRP-saw-net-inflows-on-October-8th-BTC-24400M-ETH-7254M-SOL-332M-XRP-817M",
     "source": "@cointelegraph",
     "published": "Fri Oct 09 2026 05:11:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Satoshi’s Forgotten Bitcoin Poker Game Finally Gets its Rules\n\nSatoshi Nakamoto’s early Bitcoin bitcoin:native code included a poker interface, but the game never actually worked.\n\nNow, researcher Robin Linus (@robin_linus) has developed a protocol for two player Texas Hold’em",
-    "link": "https://cryptopanic.com/news/33518870/Satoshis-Forgotten-Bitcoin-Poker-Game-Finally-Gets-its-Rules-Satoshi-Nakamotos-early-Bitcoin-bitcoinnative-code-included-a-poker-interface-but-the-game-never-actually-worked-Now-researcher-Robin-Linus-robin_linus-has-developed-a-protocol-for-two-player-Texas-Holdem",
-    "source": "@bscnews",
-    "published": "Fri Oct 09 2026 05:08:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ICYMI:  A Satoshi-era Bitcoin wallet dormant since July 2010 has moved 100 BTC, coins that were valued at nearly nothing 16 years ago but are now worth $8.55M, per Galaxy Research.",
-    "link": "https://cryptopanic.com/news/33518784/ICYMI-A-Satoshi-era-Bitcoin-wallet-dormant-since-July-2010-has-moved-100-BTC-coins-that-were-valued-at-nearly-nothing-16-years-ago-but-are-now-worth-855M-per-Galaxy-Research",
-    "source": "@coinmarketcap",
-    "published": "Fri Oct 09 2026 05:05:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "FT: DWF Labs Sues BitGo for $141 Million Over Alleged Early Sales of Locked Tokens \n\nAccording to the Financial Times, DWF Labs affiliates DWF Maas and Falcon Digital have sued crypto custodian BitGo in London's High Court, seeking $141 million in damages. The plaintiffs allege",
-    "link": "https://cryptopanic.com/news/33518820/FT-DWF-Labs-Sues-BitGo-for-141-Million-Over-Alleged-Early-Sales-of-Locked-Tokens-According-to-the-Financial-Times-DWF-Labs-affiliates-DWF-Maas-and-Falcon-Digital-have-sued-crypto-custodian-BitGo-in-Londons-High-Court-seeking-141-million-in-damages-The-plaintiffs-allege",
-    "source": "@wublockchain",
-    "published": "Fri Oct 09 2026 04:55:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33518819/Source",
-    "source": "@wublockchain",
-    "published": "Fri Oct 09 2026 04:55:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "TODAY: Special guest TOFU (@togetherdotfun) brings social trading to the Cointelegraph Demo Day Series at CONNECT Singapore.  \n\nTOFU combines spot and perps trading, live token chat and gamified identities on one screen.",
-    "link": "https://cryptopanic.com/news/33518821/TODAY-Special-guest-TOFU-togetherdotfun-brings-social-trading-to-the-Cointelegraph-Demo-Day-Series-at-CONNECT-Singapore-TOFU-combines-spot-and-perps-trading-live-token-chat-and-gamified-identities-on-one-screen",
-    "source": "@cointelegraph",
-    "published": "Fri Oct 09 2026 04:50:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Senate Democrat probes Cantor Fitzgerald over Tether ties and $250M Lutnick windfall",
-    "link": "https://cryptopanic.com/news/33518703/Senate-Democrat-probes-Cantor-Fitzgerald-over-Tether-ties-and-250M-Lutnick-windfall",
-    "source": "cryptopolitan.com",
-    "published": "Fri Oct 09 2026 04:48:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Thailand Clears The Way For Bitcoin And Ethereum ETFs\n\nThailand has finalized its crypto ETF framework, opening the door for domestic Bitcoin bitcoin:native and Ethereum ethereum:native funds.\n\nThe rules take effect October 16, but asset managers still need SEC approval before",
-    "link": "https://cryptopanic.com/news/33518729/Thailand-Clears-The-Way-For-Bitcoin-And-Ethereum-ETFs-Thailand-has-finalized-its-crypto-ETF-framework-opening-the-door-for-domestic-Bitcoin-bitcoinnative-and-Ethereum-ethereumnative-funds-The-rules-take-effect-October-16-but-asset-managers-still-need-SEC-approval-before",
-    "source": "@bscnews",
-    "published": "Fri Oct 09 2026 04:48:34 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
