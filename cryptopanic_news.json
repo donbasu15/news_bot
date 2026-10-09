@@ -1,5 +1,47 @@
 [
   {
+    "title": "Sam Altman-Backed Bitcoin Insurer 'Meanwhile' Raises $37.5M",
+    "link": "https://cryptopanic.com/news/33522109/Sam-Altman-Backed-Bitcoin-Insurer-Meanwhile-Raises-375M",
+    "source": "cryptoprowl.com",
+    "published": "Fri Oct 09 2026 15:47:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Poor guy!\n\n4 months ago, he bought 80 $BTC ($5.2M) at a low price of ~$65,000 and was sitting on a $1.38M profit.\n\nBut a week ago, he bought a Ledger device from reseller CryptoBillis and deposited all 80 $BTC into it.\n\nNow he's lost everything.",
+    "link": "https://cryptopanic.com/news/33522129/Poor-guy-4-months-ago-he-bought-80-BTC-52M-at-a-low-price-of-65000-and-was-sitting-on-a-138M-profit-But-a-week-ago-he-bought-a-Ledger-device-from-reseller-CryptoBillis-and-deposited-all-80-BTC-into-it-Now-hes-lost-everything",
+    "source": "@lookonchain",
+    "published": "Fri Oct 09 2026 15:46:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cardano Breaks Through 125 Million Total Transactions \n\n@Cardano officially breaks the 125M cumulative transactions milestone on its mainnet, with nearly 1M transactions registered in the current epoch alone.\n\nNetwork statistics confirm steady activity on Cardano's eUTXO model,",
+    "link": "https://cryptopanic.com/news/33522123/Cardano-Breaks-Through-125-Million-Total-Transactions-Cardano-officially-breaks-the-125M-cumulative-transactions-milestone-on-its-mainnet-with-nearly-1M-transactions-registered-in-the-current-epoch-alone-Network-statistics-confirm-steady-activity-on-Cardanos-eUTXO-model",
+    "source": "@bscnews",
+    "published": "Fri Oct 09 2026 15:46:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Denmark’s IKEA stores are preparing to serve as emergency shelters and temporary hospitals during crises, with plans to use display beds for accommodation, restaurants for food and generators for backup power. Read",
+    "link": "https://cryptopanic.com/news/33522100/Denmarks-IKEA-stores-are-preparing-to-serve-as-emergency-shelters-and-temporary-hospitals-during-crises-with-plans-to-use-display-beds-for-accommodation-restaurants-for-food-and-generators-for-backup-power-Read",
+    "source": "@reutersbiz",
+    "published": "Fri Oct 09 2026 15:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Stacks Founder Warns Bitcoin Security Breach Could Hit Entire Crypto Market",
+    "link": "https://cryptopanic.com/news/33522105/Stacks-Founder-Warns-Bitcoin-Security-Breach-Could-Hit-Entire-Crypto-Market",
+    "source": "cryptoprowl.com",
+    "published": "Fri Oct 09 2026 15:43:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Binance Ethereum Reserves Fall to Lowest Level in Six Months",
+    "link": "https://cryptopanic.com/news/33522108/Binance-Ethereum-Reserves-Fall-to-Lowest-Level-in-Six-Months",
+    "source": "u.today",
+    "published": "Fri Oct 09 2026 15:41:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "European Central Bank Aims For Wide Use Of Digital Currency",
     "link": "https://cryptopanic.com/news/33522051/European-Central-Bank-Aims-For-Wide-Use-Of-Digital-Currency",
     "source": "cryptoprowl.com",
@@ -21,10 +63,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Many #Ledger users who bought their devices from reseller CryptoBillis have had their funds stolen, with losses totaling nearly $90M.\n\nStay safe!\n\nOne user (TY24Ya) bought a Ledger device from CryptoBillis 3 weeks ago and deposited 7M $USDT into it.\n\nJust 10 hours ago, all 7M",
+    "link": "https://cryptopanic.com/news/33522127/Many-Ledger-users-who-bought-their-devices-from-reseller-CryptoBillis-have-had-their-funds-stolen-with-losses-totaling-nearly-90M-Stay-safe-One-user-TY24Ya-bought-a-Ledger-device-from-CryptoBillis-3-weeks-ago-and-deposited-7M-USDT-into-it-Just-10-hours-ago-all-7M",
+    "source": "@lookonchain",
+    "published": "Fri Oct 09 2026 15:33:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: Charles Hoskinson on Adam Back advising Ethereum to use UTXO in 2014, says \"I did take your advice. We created EUTXO—you guys built Simplicity and Liquid.\" Did Ethereum already follow Cardano $ADA with Proof of Stake in 2022, and now again with UTXOs and formal methods?",
     "link": "https://cryptopanic.com/news/33522096/JUST-IN-Charles-Hoskinson-on-Adam-Back-advising-Ethereum-to-use-UTXO-in-2014-says-I-did-take-your-advice-We-created-EUTXOyou-guys-built-Simplicity-and-Liquid-Did-Ethereum-already-follow-Cardano-ADA-with-Proof-of-Stake-in-2022-and-now-again-with-UTXOs-and-formal-methods",
     "source": "@angrycryptoshow",
     "published": "Fri Oct 09 2026 15:31:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ledger Probes Potential Theft of $87M in User Funds Tied to Crypto Wallet Reseller",
+    "link": "https://cryptopanic.com/news/33522124/Ledger-Probes-Potential-Theft-of-87M-in-User-Funds-Tied-to-Crypto-Wallet-Reseller",
+    "source": "@decryptmedia",
+    "published": "Fri Oct 09 2026 15:31:45 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -53,6 +109,13 @@
     "link": "https://cryptopanic.com/news/33522094/According-to-MistTrack-Tether-is-freezing-USDT-across-multiple-addresses-linked-to-the-Ledger-user-theft-incident-MistTrack-said-the-losses-it-is-currently-tracking-are-approaching-90-million-with-several-affected-users-having-contacted-its-team-for-assistance",
     "source": "@wublockchain",
     "published": "Fri Oct 09 2026 15:30:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Algorand Activity is skyrocketing...\n\n@Algorand hit 619,004 transactions on October 8, resulting in an average TPS of 7.16 transactions per second.\n\n@Chainspect's tracking of network data shows the network hit its highest daily transaction count in the last seven days. \n\nActivity",
+    "link": "https://cryptopanic.com/news/33522122/Algorand-Activity-is-skyrocketing-Algorand-hit-619004-transactions-on-October-8-resulting-in-an-average-TPS-of-716-transactions-per-second-Chainspects-tracking-of-network-data-shows-the-network-hit-its-highest-daily-transaction-count-in-the-last-seven-days-Activity",
+    "source": "@bscnews",
+    "published": "Fri Oct 09 2026 15:30:20 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -105,6 +168,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "INC bretton woods 2.0",
+    "link": "https://cryptopanic.com/news/33522120/INC-bretton-woods-20",
+    "source": "@realallincrypto",
+    "published": "Fri Oct 09 2026 15:22:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Rare $0 Shiba Inu Burn in 24 Hours as Burn Rate Collapses 100%",
     "link": "https://cryptopanic.com/news/33522026/Rare-0-Shiba-Inu-Burn-in-24-Hours-as-Burn-Rate-Collapses-100",
     "source": "u.today",
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/33522088/LATEST-CFTC-Chair-Michael-Selig-says-critics-of-the-agencys-proposed-crypto-exchange-regulation-are-dangerously-inviting-the-next-Sam-Bankman-Fried-to-run-roughshod-over-the-American-people",
     "source": "@coinmarketcap",
     "published": "Fri Oct 09 2026 15:15:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: American Express has been hit with a $350 MILLION fine over failures to detect $13 BILLION in suspected money laundering!\n\nAmex previously partnered with @Ripple before, and now Ripple have Ripple Treasury and Ripple Prime which have many more financing functions.\n\nCould",
-    "link": "https://cryptopanic.com/news/33521955/NEW-American-Express-has-been-hit-with-a-350-MILLION-fine-over-failures-to-detect-13-BILLION-in-suspected-money-laundering-Amex-previously-partnered-with-Ripple-before-and-now-Ripple-have-Ripple-Treasury-and-Ripple-Prime-which-have-many-more-financing-functions-Could",
-    "source": "@realallincrypto",
-    "published": "Fri Oct 09 2026 15:14:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana News: Securitize Brings 12 Major U.S. Stocks Onchain",
-    "link": "https://cryptopanic.com/news/33521962/Solana-News-Securitize-Brings-12-Major-US-Stocks-Onchain",
-    "source": "thecoinrepublic.com",
-    "published": "Fri Oct 09 2026 15:13:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "France’s rising bond costs are colliding with an IMF focus on tokenized markets, putting $BTC, $XRP and $XLM into a sharper monetary debate. Here's what matters",
-    "link": "https://cryptopanic.com/news/33521954/Frances-rising-bond-costs-are-colliding-with-an-IMF-focus-on-tokenized-markets-putting-BTC-XRP-and-XLM-into-a-sharper-monetary-debate-Heres-what-matters",
-    "source": "@realallincrypto",
-    "published": "Fri Oct 09 2026 15:03:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: €200 million Commodity Discovery Fund Founder says \"my target for Bitcoin before 2030, is still $1 million.\" \n\n\"My old target was $100,000, but that was my prediction in 2021. Look at the supply of Bitcoin. It's getting so limited.\"",
-    "link": "https://cryptopanic.com/news/33522024/JUST-IN-200-million-Commodity-Discovery-Fund-Founder-says-my-target-for-Bitcoin-before-2030-is-still-1-million-My-old-target-was-100000-but-that-was-my-prediction-in-2021-Look-at-the-supply-of-Bitcoin-Its-getting-so-limited",
-    "source": "@bitcoinmagazine",
-    "published": "Fri Oct 09 2026 15:03:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇲🇾 LATEST: Bitdeer AI secures a 67MW Malaysia data center for NVIDIA GB300 systems, lifting AI cloud pipeline above $10B.",
-    "link": "https://cryptopanic.com/news/33521950/LATEST-Bitdeer-AI-secures-a-67MW-Malaysia-data-center-for-NVIDIA-GB300-systems-lifting-AI-cloud-pipeline-above-10B",
-    "source": "@cointelegraph",
-    "published": "Fri Oct 09 2026 15:01:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Moody's Rates Its First Stablecoin Protocol as Sky Earns a Speculative B3",
-    "link": "https://cryptopanic.com/news/33521833/Moodys-Rates-Its-First-Stablecoin-Protocol-as-Sky-Earns-a-Speculative-B3",
-    "source": "coinpaprika.com",
-    "published": "Fri Oct 09 2026 15:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Q2 SEC filings reveal brokerages were top net buyers of Bitcoin ETFs — CoinShares.\n\n Jane Street top net buyer | market maker.\n\n Brevan Howard top seller | advisor.\n\n Total 13F filers held 264k BTC, flat vs Q1.\n\n No signs of long-term holders adding.",
-    "link": "https://cryptopanic.com/news/33522025/JUST-IN-Q2-SEC-filings-reveal-brokerages-were-top-net-buyers-of-Bitcoin-ETFs-CoinShares-Jane-Street-top-net-buyer-market-maker-Brevan-Howard-top-seller-advisor-Total-13F-filers-held-264k-BTC-flat-vs-Q1-No-signs-of-long-term-holders-adding",
-    "source": "@btc_archive",
-    "published": "Fri Oct 09 2026 14:59:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Jim Cramer delivers strong verdict on OpenAI",
-    "link": "https://cryptopanic.com/news/33521976/Jim-Cramer-delivers-strong-verdict-on-OpenAI",
-    "source": "thestreet.com",
-    "published": "Fri Oct 09 2026 14:57:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Aave Introduces MetaMask Agent Wallet Integration For On-Chain Credit Markets\n\n@Aave introduces a Model Context Protocol (MCP) server built to integrate directly with @MetaMask Agent Wallet, enabling automated lending pools to interact with autonomous AI agents.\n\nThis",
-    "link": "https://cryptopanic.com/news/33521956/Aave-Introduces-MetaMask-Agent-Wallet-Integration-For-On-Chain-Credit-Markets-Aave-introduces-a-Model-Context-Protocol-MCP-server-built-to-integrate-directly-with-MetaMask-Agent-Wallet-enabling-automated-lending-pools-to-interact-with-autonomous-AI-agents-This",
-    "source": "@bscnews",
-    "published": "Fri Oct 09 2026 14:56:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky",
-    "link": "https://cryptopanic.com/news/33521967/New-York-AG-secures-up-to-35-million-and-lifetime-crypto-ban-from-Celsius-Alex-Mashinsky",
-    "source": "coindesk.com",
-    "published": "Fri Oct 09 2026 14:55:23 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
