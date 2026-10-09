@@ -1,5 +1,75 @@
 [
   {
+    "title": "Bitcoin Hyper Extends Presale Until Q2 2027, Drawing Investor Backlash",
+    "link": "https://cryptopanic.com/news/33522929/Bitcoin-Hyper-Extends-Presale-Until-Q2-2027-Drawing-Investor-Backlash",
+    "source": "theholycoins.com",
+    "published": "Fri Oct 09 2026 19:31:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Are onchain stocks the future or a fad?",
+    "link": "https://cryptopanic.com/news/33522946/Are-onchain-stocks-the-future-or-a-fad",
+    "source": "MilkRoadYoutube",
+    "published": "Fri Oct 09 2026 19:30:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Netflix Plans to Cut 5% of Global Workforce",
+    "link": "https://cryptopanic.com/news/33522906/Netflix-Plans-to-Cut-5-of-Global-Workforce",
+    "source": "catenaa.com",
+    "published": "Fri Oct 09 2026 19:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇫🇷 A French National Assembly committee approved a proposal to tax crypto swaps into fiat-pegged stablecoins from Jan. 1, 2027.",
+    "link": "https://cryptopanic.com/news/33522980/LATEST-A-French-National-Assembly-committee-approved-a-proposal-to-tax-crypto-swaps-into-fiat-pegged-stablecoins-from-Jan-1-2027",
+    "source": "@coinmarketcap",
+    "published": "Fri Oct 09 2026 19:25:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Fidelity’s FBTC sheds $197 million as ether ETFs log an eighth day of outflows",
+    "link": "https://cryptopanic.com/news/33522896/Fidelitys-FBTC-sheds-197-million-as-ether-ETFs-log-an-eighth-day-of-outflows",
+    "source": "cryptopolitan.com",
+    "published": "Fri Oct 09 2026 19:24:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: #Cardano $ADA generated the 12th highest 24h trade volume on Kalshi's crypto perpetuals at over $870,000, surpassing Dogecoin at $550,000, Chainlink at $380,000, and BNB at $300,000.",
+    "link": "https://cryptopanic.com/news/33522982/JUST-IN-Cardano-ADA-generated-the-12th-highest-24h-trade-volume-on-Kalshis-crypto-perpetuals-at-over-870000-surpassing-Dogecoin-at-550000-Chainlink-at-380000-and-BNB-at-300000",
+    "source": "@angrycryptoshow",
+    "published": "Fri Oct 09 2026 19:22:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: #Cardano $ADA generated over $314,000 in 24h trade volume on Polymarket's crypto perpetuals, surpassing Hyperliquid at $207,000, Monero at $184,000, BNB at $133,000, and XRP at $115,000.",
+    "link": "https://cryptopanic.com/news/33522981/JUST-IN-Cardano-ADA-generated-over-314000-in-24h-trade-volume-on-Polymarkets-crypto-perpetuals-surpassing-Hyperliquid-at-207000-Monero-at-184000-BNB-at-133000-and-XRP-at-115000",
+    "source": "@angrycryptoshow",
+    "published": "Fri Oct 09 2026 19:22:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Chainlink whale activity is EXPLODING.\n\nAccording to data from @SantimentData, @chainlink recorded its biggest day of whale transactions since November 2025.\n\nThe period saw 681 $LINK transactions worth more than $100,000.\n\nIs attention finally turning to the token behind",
+    "link": "https://cryptopanic.com/news/33522925/Chainlink-whale-activity-is-EXPLODING-According-to-data-from-SantimentData-chainlink-recorded-its-biggest-day-of-whale-transactions-since-November-2025-The-period-saw-681-LINK-transactions-worth-more-than-100000-Is-attention-finally-turning-to-the-token-behind",
+    "source": "@bscnews",
+    "published": "Fri Oct 09 2026 19:15:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trump Says Putin Will Ship 4.8 Million Tons of Diesel: Will Prices Actually Fall?",
+    "link": "https://cryptopanic.com/news/33522977/Trump-Says-Putin-Will-Ship-48-Million-Tons-of-Diesel-Will-Prices-Actually-Fall",
+    "source": "beincrypto.com",
+    "published": "Fri Oct 09 2026 19:14:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: Bitcoin has made higher lows for 4 consecutive months, despite fluxuating macro conditions. \n\nBullish",
+    "link": "https://cryptopanic.com/news/33522927/NEW-Bitcoin-has-made-higher-lows-for-4-consecutive-months-despite-fluxuating-macro-conditions-Bullish",
+    "source": "@bitcoinmagazine",
+    "published": "Fri Oct 09 2026 19:12:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Papertrade's Launch Weekend",
     "link": "https://cryptopanic.com/news/33522846/Papertrades-Launch-Weekend",
     "source": "bankless.com",
@@ -14,10 +84,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "ALGORAND LEADING AI AGENT PAYMENTS!\n\nAI agents are already choosing @Algorand as data from @tokenterminal shows! x402 $USDC 30d volume hit $390.4K on Algorand, putting it ahead of Base and Solana. \n\nWhen machine payments need speed, low costs and reliability, $ALGO is proving",
+    "link": "https://cryptopanic.com/news/33522924/ALGORAND-LEADING-AI-AGENT-PAYMENTS-AI-agents-are-already-choosing-Algorand-as-data-from-tokenterminal-shows-x402-USDC-30d-volume-hit-3904K-on-Algorand-putting-it-ahead-of-Base-and-Solana-When-machine-payments-need-speed-low-costs-and-reliability-ALGO-is-proving",
+    "source": "@realallincrypto",
+    "published": "Fri Oct 09 2026 19:00:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "BREAKING: Mark Karpelès found a hidden SIM card inside a tampered Ledger hardware wallet.\n\n\"The implant was cleverly hidden where the screen's padding is supposed to be.\"\n\nThe device is allegedly linked to reseller 'CryptoBilis'.\n\n🫡 @MagicalTux",
     "link": "https://cryptopanic.com/news/33522809/BREAKING-Mark-Karpeles-found-a-hidden-SIM-card-inside-a-tampered-Ledger-hardware-wallet-The-implant-was-cleverly-hidden-where-the-screens-padding-is-supposed-to-be-The-device-is-allegedly-linked-to-reseller-CryptoBilis-MagicalTux",
     "source": "@btc_archive",
     "published": "Fri Oct 09 2026 18:59:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Elon Musk Takes On the Tycoon Building a $10 Billion Rival to Starlink",
+    "link": "https://cryptopanic.com/news/33522976/Elon-Musk-Takes-On-the-Tycoon-Building-a-10-Billion-Rival-to-Starlink",
+    "source": "beincrypto.com",
+    "published": "Fri Oct 09 2026 18:55:02 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -46,6 +130,13 @@
     "link": "https://cryptopanic.com/news/33522806/JUST-IN-President-Trump-says-Russia-has-agreed-to-supply-over-48-million-tons-of-diesel-fuel-to-US-and-global-markets-following-talks-with-President-Putin",
     "source": "@watcherguru",
     "published": "Fri Oct 09 2026 18:49:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: Trump says Putin agreed to supply Russian diesel to US and global markets, starting with over 300,000 tons immediately and millions more planned",
+    "link": "https://cryptopanic.com/news/33522926/INTEL-Trump-says-Putin-agreed-to-supply-Russian-diesel-to-US-and-global-markets-starting-with-over-300000-tons-immediately-and-millions-more-planned",
+    "source": "@solidintel_x",
+    "published": "Fri Oct 09 2026 18:49:01 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -116,97 +207,6 @@
     "link": "https://cryptopanic.com/news/33522790/XRP-Ledger-Might-Be-Vulnerable-to-AI-Avalanche-Founder-Warns",
     "source": "u.today",
     "published": "Fri Oct 09 2026 18:33:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CleanSpark Closes $2.28 Billion Notes Offering, Mined 529 Bitcoin in September",
-    "link": "https://cryptopanic.com/news/33522759/CleanSpark-Closes-228-Billion-Notes-Offering-Mined-529-Bitcoin-in-September",
-    "source": "cryptoprowl.com",
-    "published": "Fri Oct 09 2026 18:32:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Attacked From All Sides — $86 Million Stolen And France Wants Your Keys",
-    "link": "https://cryptopanic.com/news/33522779/Bitcoin-Attacked-From-All-Sides-86-Million-Stolen-And-France-Wants-Your-Keys",
-    "source": "BTCSessions",
-    "published": "Fri Oct 09 2026 18:31:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Derive crypto price prediction: Can DRV break $0.52 after V3 launch?",
-    "link": "https://cryptopanic.com/news/33522750/Derive-crypto-price-prediction-Can-DRV-break-052-after-V3-launch",
-    "source": "ambcrypto.com",
-    "published": "Fri Oct 09 2026 18:30:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ UPDATE: Businesses added 193,000 BTC in 2026 through October 5, while individuals’ holdings fell by 93,000 BTC, River data shows.",
-    "link": "https://cryptopanic.com/news/33522749/UPDATE-Businesses-added-193000-BTC-in-2026-through-October-5-while-individuals-holdings-fell-by-93000-BTC-River-data-shows",
-    "source": "@cointelegraph",
-    "published": "Fri Oct 09 2026 18:30:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin's Big Win - Sovereign Debt Crisis & Monetary Flood",
-    "link": "https://cryptopanic.com/news/33522782/Bitcoins-Big-Win-Sovereign-Debt-Crisis-Monetary-Flood",
-    "source": "SimplyBitcoin",
-    "published": "Fri Oct 09 2026 18:30:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ledger investigates suspected $86M theft affecting authorized reseller",
-    "link": "https://cryptopanic.com/news/33522751/Ledger-investigates-suspected-86M-theft-affecting-authorized-reseller",
-    "source": "cryptopolitan.com",
-    "published": "Fri Oct 09 2026 18:30:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "@fundstrat Bitcoin Amsterdam pass prices increase THIS WEDNESDAY ‼️ \n\n️ GA: €189.50 → €199.50 \n Whale: €2,113.50 → €2,199.50  \n\nLOCK IN YOUR PASS NOW. 🟠",
-    "link": "https://cryptopanic.com/news/33522805/fundstrat-Bitcoin-Amsterdam-pass-prices-increase-THIS-WEDNESDAY-GA-18950-19950-Whale-211350-219950-LOCK-IN-YOUR-PASS-NOW",
-    "source": "@bitcoinmagazine",
-    "published": "Fri Oct 09 2026 18:27:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Andrew Cuomo Calls 24/7 Stock Trading a ‘Game-Changer’ as ICE, OKX Seek Launch",
-    "link": "https://cryptopanic.com/news/33522762/Andrew-Cuomo-Calls-247-Stock-Trading-a-Game-Changer-as-ICE-OKX-Seek-Launch",
-    "source": "feeds2.benzinga.com",
-    "published": "Fri Oct 09 2026 18:26:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Top AI executives are reportedly preparing for what they see as an \"inevitable\" large-scale event that shuts down access to financial services, internet, or even power/water.\n\nThey believe this could result from either rogue AI agents or use of AI by bad actors.",
-    "link": "https://cryptopanic.com/news/33522810/Top-AI-executives-are-reportedly-preparing-for-what-they-see-as-an-inevitable-large-scale-event-that-shuts-down-access-to-financial-services-internet-or-even-powerwater-They-believe-this-could-result-from-either-rogue-AI-agents-or-use-of-AI-by-bad-actors",
-    "source": "@stackersatoshi",
-    "published": "Fri Oct 09 2026 18:19:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "US defense giant’s top holder dumped 10% of its stake",
-    "link": "https://cryptopanic.com/news/33522711/US-defense-giants-top-holder-dumped-10-of-its-stake",
-    "source": "protos.com",
-    "published": "Fri Oct 09 2026 18:18:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: ️ SpaceX struck a deal to acquire a nationwide low-band 800 MHz spectrum portfolio to pair with Starlink’s satellite capacity, positioning itself against terrestrial telecom carriers.",
-    "link": "https://cryptopanic.com/news/33522747/LATEST-SpaceX-struck-a-deal-to-acquire-a-nationwide-low-band-800-MHz-spectrum-portfolio-to-pair-with-Starlinks-satellite-capacity-positioning-itself-against-terrestrial-telecom-carriers",
-    "source": "@coinmarketcap",
-    "published": "Fri Oct 09 2026 18:17:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "New York bans Mashinsky and adds $35M penalty it may never collect",
-    "link": "https://cryptopanic.com/news/33522707/New-York-bans-Mashinsky-and-adds-35M-penalty-it-may-never-collect",
-    "source": "cryptopolitan.com",
-    "published": "Fri Oct 09 2026 18:15:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Celsius CEO legal settlement bars Mashinsky from New York’s financial industries",
-    "link": "https://cryptopanic.com/news/33522716/Celsius-CEO-legal-settlement-bars-Mashinsky-from-New-Yorks-financial-industries",
-    "source": "en.cryptonomist.ch",
-    "published": "Fri Oct 09 2026 18:15:18 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
