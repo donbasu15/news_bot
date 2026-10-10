@@ -1,5 +1,47 @@
 [
   {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33524456/Source",
+    "source": "@wublockchain",
+    "published": "Sat Oct 10 2026 06:07:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Spot ETFs See $21.13M in Net Inflows; Ethereum ETFs Post Ninth Consecutive Day of Outflows on Oct. 9 (ET)\n\nAccording to SoSoValue data, U.S. spot Bitcoin ETFs recorded $21.13 million in net inflows on October 9 (ET), with BlackRock’s IBIT attracting $22.38 million and",
+    "link": "https://cryptopanic.com/news/33524455/Bitcoin-Spot-ETFs-See-2113M-in-Net-Inflows-Ethereum-ETFs-Post-Ninth-Consecutive-Day-of-Outflows-on-Oct-9-ET-According-to-SoSoValue-data-US-spot-Bitcoin-ETFs-recorded-2113-million-in-net-inflows-on-October-9-ET-with-BlackRocks-IBIT-attracting-2238-million-and",
+    "source": "@wublockchain",
+    "published": "Sat Oct 10 2026 06:06:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Zcash Sets January Goal for Safer Public Payments",
+    "link": "https://cryptopanic.com/news/33524430/Zcash-Sets-January-Goal-for-Safer-Public-Payments",
+    "source": "coindoo.com",
+    "published": "Sat Oct 10 2026 06:06:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "HUGE: The XRP Ledger just disclosed an overflow bug that could have created spendable XRP beyond the total supply for a few hundred XRP in reserves, with no evidence it was ever exploited.",
+    "link": "https://cryptopanic.com/news/33524459/HUGE-The-XRP-Ledger-just-disclosed-an-overflow-bug-that-could-have-created-spendable-XRP-beyond-the-total-supply-for-a-few-hundred-XRP-in-reserves-with-no-evidence-it-was-ever-exploited",
+    "source": "@cointelegraph",
+    "published": "Sat Oct 10 2026 06:00:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "IMF backs tokenized stocks’ 24/7 trading appeal but warns of liquidity risks",
+    "link": "https://cryptopanic.com/news/33524422/IMF-backs-tokenized-stocks-247-trading-appeal-but-warns-of-liquidity-risks",
+    "source": "ambcrypto.com",
+    "published": "Sat Oct 10 2026 06:00:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: ️ Santa Catarina police seized about $1.7M in crypto from self-custody wallets, the largest such seizure by Brazilian civil police on record, in a probe of a phishing ring.",
+    "link": "https://cryptopanic.com/news/33524408/LATEST-Santa-Catarina-police-seized-about-17M-in-crypto-from-self-custody-wallets-the-largest-such-seizure-by-Brazilian-civil-police-on-record-in-a-probe-of-a-phishing-ring",
+    "source": "@coinmarketcap",
+    "published": "Sat Oct 10 2026 05:52:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Binance News Today: DOJ Reviews Whether the Exchange Breached Its 2023 Settlement",
     "link": "https://cryptopanic.com/news/33524387/Binance-News-Today-DOJ-Reviews-Whether-the-Exchange-Breached-Its-2023-Settlement",
     "source": "btcusa.com",
@@ -18,6 +60,13 @@
     "link": "https://cryptopanic.com/news/33524320/XRP-Ledger-Found-a-Bug-That-Could-Create-XRP",
     "source": "coindoo.com",
     "published": "Sat Oct 10 2026 05:20:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Gate WCTC S9 Global Trading Competition Officially Live: Traders Worldwide Unite for the Ultimate Multi-Asset Showdown",
+    "link": "https://cryptopanic.com/news/33524423/Gate-WCTC-S9-Global-Trading-Competition-Officially-Live-Traders-Worldwide-Unite-for-the-Ultimate-Multi-Asset-Showdown",
+    "source": "beincrypto.com",
+    "published": "Sat Oct 10 2026 05:19:16 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -119,6 +168,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "ETF Outflows Explained: Is Wall Street FOMOing Out?",
+    "link": "https://cryptopanic.com/news/33524428/ETF-Outflows-Explained-Is-Wall-Street-FOMOing-Out",
+    "source": "TheCryptoLark",
+    "published": "Sat Oct 10 2026 04:00:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Jeff Yan: TradFi's Speed Arms Race Is Zero-Sum — and Even Negative-Sum\n\nHyperliquid Labs co-founder Jeff Yan @chameleon_jeff said at DAS Asia 2026 on October 7 that he does not view Hyperliquid’s priority fee mechanism as “bribery.” Its purpose, he said, is to reduce advantages",
     "link": "https://cryptopanic.com/news/33524168/Jeff-Yan-TradFis-Speed-Arms-Race-Is-Zero-Sum-and-Even-Negative-Sum-Hyperliquid-Labs-co-founder-Jeff-Yan-chameleon_jeff-said-at-DAS-Asia-2026-on-October-7-that-he-does-not-view-Hyperliquids-priority-fee-mechanism-as-bribery-Its-purpose-he-said-is-to-reduce-advantages",
     "source": "@wublockchain",
@@ -151,62 +207,6 @@
     "link": "https://cryptopanic.com/news/33524161/SkyAI-which-holds-over-2M-SOL220M-appears-to-be-dumping-SOL-at-a-loss-Over-the-past-3-days-they-have-transferred-568000-SOL-6387M-to-exchanges-Their-average-purchase-price-was-194-and-they-would-lose-46M-if-sold",
     "source": "@lookonchain",
     "published": "Sat Oct 10 2026 03:22:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Super Micro contractor pleads guilty to diverting Nvidia AI servers to China",
-    "link": "https://cryptopanic.com/news/33524114/Super-Micro-contractor-pleads-guilty-to-diverting-Nvidia-AI-servers-to-China",
-    "source": "cryptopolitan.com",
-    "published": "Sat Oct 10 2026 03:05:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 JUST IN: Kalshi is investigating suspicious trades that correctly called Katie Zacharia as Trump's new White House press secretary before anyone saw her as a front-runner.",
-    "link": "https://cryptopanic.com/news/33524148/JUST-IN-Kalshi-is-investigating-suspicious-trades-that-correctly-called-Katie-Zacharia-as-Trumps-new-White-House-press-secretary-before-anyone-saw-her-as-a-front-runner",
-    "source": "@cointelegraph",
-    "published": "Sat Oct 10 2026 03:00:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Former FTX COO: FTX's Collapse Ruined Many Lives, Yet Netflix Turned It Into a Love Story\n\nAccording to The Block, former FTX COO Constance Wang criticized Netflix's upcoming FTX drama, The Altruists, for distorting the facts, saying the trailer made her feel nauseous and even",
-    "link": "https://cryptopanic.com/news/33524146/Former-FTX-COO-FTXs-Collapse-Ruined-Many-Lives-Yet-Netflix-Turned-It-Into-a-Love-Story-According-to-The-Block-former-FTX-COO-Constance-Wang-criticized-Netflixs-upcoming-FTX-drama-The-Altruists-for-distorting-the-facts-saying-the-trailer-made-her-feel-nauseous-and-even",
-    "source": "@wublockchain",
-    "published": "Sat Oct 10 2026 03:00:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "+1.34 Billion Shiba Inu (SHIB) in 24 Hours: What's Behind the Fresh Volume?",
-    "link": "https://cryptopanic.com/news/33524132/134-Billion-Shiba-Inu-SHIB-in-24-Hours-Whats-Behind-the-Fresh-Volume",
-    "source": "u.today",
-    "published": "Sat Oct 10 2026 03:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
-    "link": "https://cryptopanic.com/news/33524179/Visa-survey-says-nearly-half-of-APAC-consumers-open-to-using-stablecoins-by-2031",
-    "source": "coindesk.com",
-    "published": "Sat Oct 10 2026 03:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Is The US Government causing crypto's collapse?\n\nOver the last 3-4 days, US Government wallets have sent a staggering $1.48B worth of $BTC to @Coinbase Prime.\n\nAnother $62M worth of $wBTC was also sent to the exchange.\n\nThe transfers seem to line up pretty closely with $BTC and",
-    "link": "https://cryptopanic.com/news/33524099/Is-The-US-Government-causing-cryptos-collapse-Over-the-last-3-4-days-US-Government-wallets-have-sent-a-staggering-148B-worth-of-BTC-to-Coinbase-Prime-Another-62M-worth-of-wBTC-was-also-sent-to-the-exchange-The-transfers-seem-to-line-up-pretty-closely-with-BTC-and",
-    "source": "@bscnews",
-    "published": "Sat Oct 10 2026 02:59:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Anchorage Digital opens Sui’s Hashi to bitcoin treasury firms",
-    "link": "https://cryptopanic.com/news/33524044/Anchorage-Digital-opens-Suis-Hashi-to-bitcoin-treasury-firms",
-    "source": "cryptopolitan.com",
-    "published": "Sat Oct 10 2026 02:09:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Recent improvements across SaucerSwap",
-    "link": "https://cryptopanic.com/news/33524204/Recent-improvements-across-SaucerSwap",
-    "source": "r/hedera",
-    "published": "Sat Oct 10 2026 02:02:26 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
