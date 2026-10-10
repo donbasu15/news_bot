@@ -1,9 +1,72 @@
 [
   {
+    "title": "Binance News Today: DOJ Reviews Whether the Exchange Breached Its 2023 Settlement",
+    "link": "https://cryptopanic.com/news/33524387/Binance-News-Today-DOJ-Reviews-Whether-the-Exchange-Breached-Its-2023-Settlement",
+    "source": "btcusa.com",
+    "published": "Sat Oct 10 2026 05:40:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ledger Investigates $86M Crypto Drain as Reseller Supply-Chain Fears Grow",
+    "link": "https://cryptopanic.com/news/33524388/Ledger-Investigates-86M-Crypto-Drain-as-Reseller-Supply-Chain-Fears-Grow",
+    "source": "cryptopotato.com",
+    "published": "Sat Oct 10 2026 05:37:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Ledger Found a Bug That Could Create XRP",
+    "link": "https://cryptopanic.com/news/33524320/XRP-Ledger-Found-a-Bug-That-Could-Create-XRP",
+    "source": "coindoo.com",
+    "published": "Sat Oct 10 2026 05:20:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Avalanche making six-figures a month...\n\nThe @Avax blockchain, according to data from @chainspect_app, saw roughly $415,000 in network revenue over the past month.\n\nThe figure sees a +4% increase month-on-month for the $AVAX L1, which has made serious progress on its",
+    "link": "https://cryptopanic.com/news/33524399/Avalanche-making-six-figures-a-month-The-Avax-blockchain-according-to-data-from-chainspect_app-saw-roughly-415000-in-network-revenue-over-the-past-month-The-figure-sees-a-4-increase-month-on-month-for-the-AVAX-L1-which-has-made-serious-progress-on-its",
+    "source": "@bscnews",
+    "published": "Sat Oct 10 2026 05:18:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hedera Sues THA, THG, Hashgraph VC and Senior Leadership in New York County Supreme Court (Tens of Millions in \"unjust enrichment\") - Official Court Docs",
+    "link": "https://cryptopanic.com/news/33524323/Hedera-Sues-THA-THG-Hashgraph-VC-and-Senior-Leadership-in-New-York-County-Supreme-Court-Tens-of-Millions-in-unjust-enrichment-Official-Court-Docs",
+    "source": "r/hedera",
+    "published": "Sat Oct 10 2026 05:07:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Former CEO Says Ledger Device Purchased From Malaysia Contained a Spy Module With a SIM Chip Despite Intact Packaging\n\nFormer CEO Mark Karpelès said a Ledger Nano X hardware wallet he received from Malaysia had intact shrink-wrap packaging but contained a spy module",
+    "link": "https://cryptopanic.com/news/33524332/Former-CEO-Says-Ledger-Device-Purchased-From-Malaysia-Contained-a-Spy-Module-With-a-SIM-Chip-Despite-Intact-Packaging-Former-CEO-Mark-Karpeles-said-a-Ledger-Nano-X-hardware-wallet-he-received-from-Malaysia-had-intact-shrink-wrap-packaging-but-contained-a-spy-module",
+    "source": "@wublockchain",
+    "published": "Sat Oct 10 2026 05:07:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🤖 HSBC and Ant Digital Technologies ran a test where an AI agent picked a digital service and paid for it with tokenized bank deposits, settled in real time on the Jovay layer-2 testnet.",
+    "link": "https://cryptopanic.com/news/33524331/LATEST-HSBC-and-Ant-Digital-Technologies-ran-a-test-where-an-AI-agent-picked-a-digital-service-and-paid-for-it-with-tokenized-bank-deposits-settled-in-real-time-on-the-Jovay-layer-2-testnet",
+    "source": "@coinmarketcap",
+    "published": "Sat Oct 10 2026 05:05:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BIG: Nearly half of Asia-Pacific consumers plan to use stablecoins within five years, yet 41% think they always go up in value, per Visa.",
+    "link": "https://cryptopanic.com/news/33524334/BIG-Nearly-half-of-Asia-Pacific-consumers-plan-to-use-stablecoins-within-five-years-yet-41-think-they-always-go-up-in-value-per-Visa",
+    "source": "@cointelegraph",
+    "published": "Sat Oct 10 2026 05:00:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Weekly review: Will artificial intelligence crack Bitcoin addresses?",
     "link": "https://cryptopanic.com/news/33524133/Weekly-review-Will-artificial-intelligence-crack-Bitcoin-addresses",
     "source": "cryptovalleyjournal.com",
     "published": "Sat Oct 10 2026 05:00:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
+    "link": "https://cryptopanic.com/news/33524396/Robinhood-Chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
+    "source": "coindesk.com",
+    "published": "Sat Oct 10 2026 04:44:35 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -144,69 +207,6 @@
     "link": "https://cryptopanic.com/news/33524204/Recent-improvements-across-SaucerSwap",
     "source": "r/hedera",
     "published": "Sat Oct 10 2026 02:02:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 REGULATION: The CFTC wants sports, political, cultural and weather bets officially labeled swaps, putting prediction markets under its exclusive control while casino games get carved out.",
-    "link": "https://cryptopanic.com/news/33524053/REGULATION-The-CFTC-wants-sports-political-cultural-and-weather-bets-officially-labeled-swaps-putting-prediction-markets-under-its-exclusive-control-while-casino-games-get-carved-out",
-    "source": "@cointelegraph",
-    "published": "Sat Oct 10 2026 02:00:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Paper Bitcoin vs Real Bitcoin: The Price Manipulation Truth",
-    "link": "https://cryptopanic.com/news/33524075/Paper-Bitcoin-vs-Real-Bitcoin-The-Price-Manipulation-Truth",
-    "source": "SimplyBitcoin",
-    "published": "Sat Oct 10 2026 02:00:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "3 wallets (possibly belonging to the same whale) deposited 2,903 $ETH ($7.22M) into #Coinbase after over 9 years of inactivity.\n\nWhen these wallets received the $ETH 9 years ago, the price was only $9.9. \n\nThey are now sitting on a $7.19M profit, with a 250x return.",
-    "link": "https://cryptopanic.com/news/33524072/3-wallets-possibly-belonging-to-the-same-whale-deposited-2903-ETH-722M-into-Coinbase-after-over-9-years-of-inactivity-When-these-wallets-received-the-ETH-9-years-ago-the-price-was-only-99-They-are-now-sitting-on-a-719M-profit-with-a-250x-return",
-    "source": "@lookonchain",
-    "published": "Sat Oct 10 2026 01:51:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bittar’s Euribor conviction quashed in fresh blow to the SFO",
-    "link": "https://cryptopanic.com/news/33523797/Bittars-Euribor-conviction-quashed-in-fresh-blow-to-the-SFO",
-    "source": "cryptopolitan.com",
-    "published": "Sat Oct 10 2026 01:50:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Kalshi Research Examines Who Trades Prediction Markets",
-    "link": "https://cryptopanic.com/news/33524008/Kalshi-Research-Examines-Who-Trades-Prediction-Markets",
-    "source": "square.binance.com",
-    "published": "Sat Oct 10 2026 01:44:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Patrick Collison Says Personal AI Agents Could Increase Returns for High-Quality Products",
-    "link": "https://cryptopanic.com/news/33524007/Patrick-Collison-Says-Personal-AI-Agents-Could-Increase-Returns-for-High-Quality-Products",
-    "source": "square.binance.com",
-    "published": "Sat Oct 10 2026 01:44:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "U.S. President Donald Trump Says Strait of Hormuz Oil Shipments Exceed Prewar Levels, Urges U.S. Oil Firms to Cut Prices",
-    "link": "https://cryptopanic.com/news/33524005/US-President-Donald-Trump-Says-Strait-of-Hormuz-Oil-Shipments-Exceed-Prewar-Levels-Urges-US-Oil-Firms-to-Cut-Prices",
-    "source": "square.binance.com",
-    "published": "Sat Oct 10 2026 01:34:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SlowMist CISO Speculates on Ledger Attack Path Involving Screen Recording of Seed Phrase",
-    "link": "https://cryptopanic.com/news/33524004/SlowMist-CISO-Speculates-on-Ledger-Attack-Path-Involving-Screen-Recording-of-Seed-Phrase",
-    "source": "square.binance.com",
-    "published": "Sat Oct 10 2026 01:34:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stocks rebounded ahead of third-quarter earnings season, with big banks set to report first and analysts expecting 30% profit growth for the S&P 500",
-    "link": "https://cryptopanic.com/news/33523780/Stocks-rebounded-ahead-of-third-quarter-earnings-season-with-big-banks-set-to-report-first-and-analysts-expecting-30-profit-growth-for-the-SampP-500",
-    "source": "@reutersbiz",
-    "published": "Sat Oct 10 2026 01:30:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
