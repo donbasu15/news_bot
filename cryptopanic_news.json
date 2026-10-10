@@ -1,5 +1,54 @@
 [
   {
+    "title": "Revolut Hits 6 Million Clients in Italy: £1.2B in Savings and No Crypto Data",
+    "link": "https://cryptopanic.com/news/33525023/Revolut-Hits-6-Million-Clients-in-Italy-12B-in-Savings-and-No-Crypto-Data",
+    "source": "spaziocrypto.com",
+    "published": "Sat Oct 10 2026 11:11:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Suffice to say that proof-of-stake has become the industry-standard in L1 consensus mechanisms.\n\nSo why did $KAS choose a different path...? ⬇️",
+    "link": "https://cryptopanic.com/news/33525041/Suffice-to-say-that-proof-of-stake-has-become-the-industry-standard-in-L1-consensus-mechanisms-So-why-did-KAS-choose-a-different-path",
+    "source": "@bscnews",
+    "published": "Sat Oct 10 2026 11:07:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ISDA sees tokenized collateral improving derivatives infrastructure. The open question is whether Ripple can turn that agenda into durable $XRP demand. Full analysis",
+    "link": "https://cryptopanic.com/news/33525040/ISDA-sees-tokenized-collateral-improving-derivatives-infrastructure-The-open-question-is-whether-Ripple-can-turn-that-agenda-into-durable-XRP-demand-Full-analysis",
+    "source": "@realallincrypto",
+    "published": "Sat Oct 10 2026 11:04:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The IMF has just spotlighted Ondo Finance in its Global Financial Stability Report!\n\nThe IMF reveals @Ondo and Backed Finance together account for over 70% of the $2.3 BILLION tokenised equity market.\n\n$ONDO is helping lead the transformation of traditional stocks into",
+    "link": "https://cryptopanic.com/news/33525039/The-IMF-has-just-spotlighted-Ondo-Finance-in-its-Global-Financial-Stability-Report-The-IMF-reveals-Ondo-and-Backed-Finance-together-account-for-over-70-of-the-23-BILLION-tokenised-equity-market-ONDO-is-helping-lead-the-transformation-of-traditional-stocks-into",
+    "source": "@realallincrypto",
+    "published": "Sat Oct 10 2026 11:00:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UK Sanctions Cryptomus and TokenSpot Over Alleged Russia Evasion Links",
+    "link": "https://cryptopanic.com/news/33524992/UK-Sanctions-Cryptomus-and-TokenSpot-Over-Alleged-Russia-Evasion-Links",
+    "source": "coinpaprika.com",
+    "published": "Sat Oct 10 2026 11:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "How Critical XRP Ledger Bug Nearly Unleashed Unlimited XRP Mint",
+    "link": "https://cryptopanic.com/news/33525054/How-Critical-XRP-Ledger-Bug-Nearly-Unleashed-Unlimited-XRP-Mint",
+    "source": "u.today",
+    "published": "Sat Oct 10 2026 10:54:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ledger's $93 Million Exploit: Here's What Really Happened",
+    "link": "https://cryptopanic.com/news/33525006/Ledgers-93-Million-Exploit-Heres-What-Really-Happened",
+    "source": "u.today",
+    "published": "Sat Oct 10 2026 10:49:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "NEW: A critical XRP Ledger bug discovered in September could have allowed an attacker to mint unlimited $XRP from nothing, though @RippleXDev found no evidence of exploitation.",
     "link": "https://cryptopanic.com/news/33524974/NEW-A-critical-XRP-Ledger-bug-discovered-in-September-could-have-allowed-an-attacker-to-mint-unlimited-XRP-from-nothing-though-RippleXDev-found-no-evidence-of-exploitation",
     "source": "@coindesk",
@@ -158,55 +207,6 @@
     "link": "https://cryptopanic.com/news/33524748/Chainlinks-CCIP-Vault-Adapters-Pull-Deposits-From-80-Chains-No-Bridge-Needed",
     "source": "coinpaprika.com",
     "published": "Sat Oct 10 2026 09:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Injective just bought 10% of a memecoin's supply!\n\nThe @injective Trench Treasury has announced it has acquired a staggering 1 in 10 @NinjaCatSF $NINJACAT tokens.\n\nThough NinjaCat was launched on @Solana through @LaunchOnSF, it let's holders earn $INJ.\n\nThis could be the start of",
-    "link": "https://cryptopanic.com/news/33524775/Injective-just-bought-10-of-a-memecoins-supply-The-injective-Trench-Treasury-has-announced-it-has-acquired-a-staggering-1-in-10-NinjaCatSF-NINJACAT-tokens-Though-NinjaCat-was-launched-on-Solana-through-LaunchOnSF-it-lets-holders-earn-INJ-This-could-be-the-start-of",
-    "source": "@bscnews",
-    "published": "Sat Oct 10 2026 08:47:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  JPMorgan analysts estimate about $50B has flowed into digital assets this year, an annualized pace near $66B, as stronger ETF flows and futures positions build momentum into Q4.",
-    "link": "https://cryptopanic.com/news/33524726/LATEST-JPMorgan-analysts-estimate-about-50B-has-flowed-into-digital-assets-this-year-an-annualized-pace-near-66B-as-stronger-ETF-flows-and-futures-positions-build-momentum-into-Q4",
-    "source": "@coinmarketcap",
-    "published": "Sat Oct 10 2026 08:41:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CFTC, the US derivatives regulator, draws a line in prediction market regulation",
-    "link": "https://cryptopanic.com/news/33524678/CFTC-the-US-derivatives-regulator-draws-a-line-in-prediction-market-regulation",
-    "source": "en.cryptonomist.ch",
-    "published": "Sat Oct 10 2026 08:24:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tokenized Collateral: ESMA Reviews Blockchain Assets for EU Central Clearing",
-    "link": "https://cryptopanic.com/news/33524643/Tokenized-Collateral-ESMA-Reviews-Blockchain-Assets-for-EU-Central-Clearing",
-    "source": "btcusa.com",
-    "published": "Sat Oct 10 2026 08:10:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: ️ CleanSpark mined 529 BTC in September and ended the month holding 13,530 BTC, down from 13,703 in August after selling 702 BTC.",
-    "link": "https://cryptopanic.com/news/33524666/LATEST-CleanSpark-mined-529-BTC-in-September-and-ended-the-month-holding-13530-BTC-down-from-13703-in-August-after-selling-702-BTC",
-    "source": "@coinmarketcap",
-    "published": "Sat Oct 10 2026 08:05:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "REUTERS: An Anthropic AI model sent a fake homicide tip to Philadelphia police.\n\nThe July 18 submission went through the PhillyUnsolvedMurders website, but police say it was flagged as spam and never reached investigators.\n\nAnthropic blamed an automated testing process and",
-    "link": "https://cryptopanic.com/news/33524668/REUTERS-An-Anthropic-AI-model-sent-a-fake-homicide-tip-to-Philadelphia-police-The-July-18-submission-went-through-the-PhillyUnsolvedMurders-website-but-police-say-it-was-flagged-as-spam-and-never-reached-investigators-Anthropic-blamed-an-automated-testing-process-and",
-    "source": "@cointelegraph",
-    "published": "Sat Oct 10 2026 08:01:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Nasdaq's CEO says tokenisation could unlock TENS OF BILLIONS of dollars trapped in traditional finance! 🤯\n\nBy bringing stocks, Treasuries and money market funds onto blockchain networks, institutions could move collateral faster and free up capital currently tied up in",
-    "link": "https://cryptopanic.com/news/33524693/NEW-Nasdaqs-CEO-says-tokenisation-could-unlock-TENS-OF-BILLIONS-of-dollars-trapped-in-traditional-finance-By-bringing-stocks-Treasuries-and-money-market-funds-onto-blockchain-networks-institutions-could-move-collateral-faster-and-free-up-capital-currently-tied-up-in",
-    "source": "@realallincrypto",
-    "published": "Sat Oct 10 2026 08:00:32 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
