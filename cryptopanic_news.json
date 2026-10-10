@@ -1,5 +1,26 @@
 [
   {
+    "title": "NEW: A critical XRP Ledger bug discovered in September could have allowed an attacker to mint unlimited $XRP from nothing, though @RippleXDev found no evidence of exploitation.",
+    "link": "https://cryptopanic.com/news/33524974/NEW-A-critical-XRP-Ledger-bug-discovered-in-September-could-have-allowed-an-attacker-to-mint-unlimited-XRP-from-nothing-though-RippleXDev-found-no-evidence-of-exploitation",
+    "source": "@coindesk",
+    "published": "Sat Oct 10 2026 10:48:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  CoinShares says crypto fund flows have cooled as investors weigh weaker jobs, stubborn inflation and US fiscal risk, with long-end Treasury yields at their highest in over two decades.",
+    "link": "https://cryptopanic.com/news/33524972/LATEST-CoinShares-says-crypto-fund-flows-have-cooled-as-investors-weigh-weaker-jobs-stubborn-inflation-and-US-fiscal-risk-with-long-end-Treasury-yields-at-their-highest-in-over-two-decades",
+    "source": "@coinmarketcap",
+    "published": "Sat Oct 10 2026 10:25:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hardware wallet manufacturer Ledger issued an official statement addressing recent wallet exploits, stating that its teams are actively investigating the issue. Based on current findings, Ledger confirmed that drained funds appear strictly confined to devices sold through",
+    "link": "https://cryptopanic.com/news/33524973/Hardware-wallet-manufacturer-Ledger-issued-an-official-statement-addressing-recent-wallet-exploits-stating-that-its-teams-are-actively-investigating-the-issue-Based-on-current-findings-Ledger-confirmed-that-drained-funds-appear-strictly-confined-to-devices-sold-through",
+    "source": "@wublockchain",
+    "published": "Sat Oct 10 2026 10:16:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "TODAY: Former FTX COO Constance Wang says Netflix's \"The Altruists\" trailer made her \"physically throw up,\" slamming the show for turning a collapse that ruined lives into a love story.",
     "link": "https://cryptopanic.com/news/33524921/TODAY-Former-FTX-COO-Constance-Wang-says-Netflixs-The-Altruists-trailer-made-her-physically-throw-up-slamming-the-show-for-turning-a-collapse-that-ruined-lives-into-a-love-story",
     "source": "@cointelegraph",
@@ -186,27 +207,6 @@
     "link": "https://cryptopanic.com/news/33524693/NEW-Nasdaqs-CEO-says-tokenisation-could-unlock-TENS-OF-BILLIONS-of-dollars-trapped-in-traditional-finance-By-bringing-stocks-Treasuries-and-money-market-funds-onto-blockchain-networks-institutions-could-move-collateral-faster-and-free-up-capital-currently-tied-up-in",
     "source": "@realallincrypto",
     "published": "Sat Oct 10 2026 08:00:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Celo delivering a masterclass in token buybacks...\n\n@Celo has now bought back around 9,100,000 $CELO tokens from the market, following the April 'CELOccelerate' tokenomics overhaul.\n\nSome ~600,000 tokens were bought back in the past week alone.\n\nFor context, following the",
-    "link": "https://cryptopanic.com/news/33524694/Celo-delivering-a-masterclass-in-token-buybacks-Celo-has-now-bought-back-around-9100000-CELO-tokens-from-the-market-following-the-April-CELOccelerate-tokenomics-overhaul-Some-600000-tokens-were-bought-back-in-the-past-week-alone-For-context-following-the",
-    "source": "@bscnews",
-    "published": "Sat Oct 10 2026 07:55:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto’s 10/10 Trauma: Did Traders Really Deleverage Before the Anniversary?",
-    "link": "https://cryptopanic.com/news/33524730/Cryptos-1010-Trauma-Did-Traders-Really-Deleverage-Before-the-Anniversary",
-    "source": "beincrypto.com",
-    "published": "Sat Oct 10 2026 07:51:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Robinhood just listed $XDC !\n\n@XDCNetwork's native $XDC token is now live for trading on the @RobinhoodApp platform.\n\nThe platform, which is one of the world's most popular among retail investors, could see the popularity of $XDC proliferate in the coming months.",
-    "link": "https://cryptopanic.com/news/33524612/Robinhood-just-listed-XDC-XDCNetworks-native-XDC-token-is-now-live-for-trading-on-the-RobinhoodApp-platform-The-platform-which-is-one-of-the-worlds-most-popular-among-retail-investors-could-see-the-popularity-of-XDC-proliferate-in-the-coming-months",
-    "source": "@bscnews",
-    "published": "Sat Oct 10 2026 07:36:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
