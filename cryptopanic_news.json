@@ -1,5 +1,33 @@
 [
   {
+    "title": "Bitcoin Self Custody: Bitkey's Simple Solution",
+    "link": "https://cryptopanic.com/news/33524870/Bitcoin-Self-Custody-Bitkeys-Simple-Solution",
+    "source": "SimplyBitcoin",
+    "published": "Sat Oct 10 2026 10:00:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "one click could change everything",
+    "link": "https://cryptopanic.com/news/33524890/one-click-could-change-everything",
+    "source": "@coinmarketcap",
+    "published": "Sat Oct 10 2026 10:00:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Pi Network Prepares for October 16 Upgrade With a Bigger Goal",
+    "link": "https://cryptopanic.com/news/33524830/Pi-Network-Prepares-for-October-16-Upgrade-With-a-Bigger-Goal",
+    "source": "coindoo.com",
+    "published": "Sat Oct 10 2026 09:58:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Nasdaq CEO Adena Friedman says tokenizing Treasurys, equities, and money market funds could free up tens of billions of dollars currently locked in collateral across global finance.",
+    "link": "https://cryptopanic.com/news/33524889/LATEST-Nasdaq-CEO-Adena-Friedman-says-tokenizing-Treasurys-equities-and-money-market-funds-could-free-up-tens-of-billions-of-dollars-currently-locked-in-collateral-across-global-finance",
+    "source": "@coinmarketcap",
+    "published": "Sat Oct 10 2026 09:53:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Ripple Billionaire Backs Candidates and PACs to Shape Crypto Policy",
     "link": "https://cryptopanic.com/news/33524807/Ripple-Billionaire-Backs-Candidates-and-PACs-to-Shape-Crypto-Policy",
     "source": "thecoinrepublic.com",
@@ -77,16 +105,16 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Chainlink's CCIP Vault Adapters Pull Deposits From 80 Chains, No Bridge Needed",
-    "link": "https://cryptopanic.com/news/33524748/Chainlinks-CCIP-Vault-Adapters-Pull-Deposits-From-80-Chains-No-Bridge-Needed",
-    "source": "coinpaprika.com",
+    "title": "XT Exchange at Eight: Crypto’s Next Billion Will Be Won in the User Experience",
+    "link": "https://cryptopanic.com/news/33524799/XT-Exchange-at-Eight-Cryptos-Next-Billion-Will-Be-Won-in-the-User-Experience",
+    "source": "beincrypto.com",
     "published": "Sat Oct 10 2026 09:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "XT Exchange at Eight: Crypto’s Next Billion Will Be Won in the User Experience",
-    "link": "https://cryptopanic.com/news/33524799/XT-Exchange-at-Eight-Cryptos-Next-Billion-Will-Be-Won-in-the-User-Experience",
-    "source": "beincrypto.com",
+    "title": "Chainlink's CCIP Vault Adapters Pull Deposits From 80 Chains, No Bridge Needed",
+    "link": "https://cryptopanic.com/news/33524748/Chainlinks-CCIP-Vault-Adapters-Pull-Deposits-From-80-Chains-No-Bridge-Needed",
+    "source": "coinpaprika.com",
     "published": "Sat Oct 10 2026 09:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33524544/XRPs-First-Big-Treasury-Company-Is-Here-What-Investors-Buy",
     "source": "coindoo.com",
     "published": "Sat Oct 10 2026 07:15:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Arizona Sues TikTok, Alleging App Was Engineered To Get Kids Addicted and Hide the Harms",
-    "link": "https://cryptopanic.com/news/33524552/Arizona-Sues-TikTok-Alleging-App-Was-Engineered-To-Get-Kids-Addicted-and-Hide-the-Harms",
-    "source": "dailyhodl.com",
-    "published": "Sat Oct 10 2026 07:04:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "REKT: Over $2.4B in crypto positions were liquidated this week, with longs eating $1.97B of the pain as Bitcoin slid from $85.7K to $82.5K.",
-    "link": "https://cryptopanic.com/news/33524610/REKT-Over-24B-in-crypto-positions-were-liquidated-this-week-with-longs-eating-197B-of-the-pain-as-Bitcoin-slid-from-857K-to-825K",
-    "source": "@cointelegraph",
-    "published": "Sat Oct 10 2026 07:01:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Everyone wants to find the next big project before it moves.\n\nVery few are willing to hold it through the 60%+ drop that usually comes somewhere along the way.",
-    "link": "https://cryptopanic.com/news/33524611/Everyone-wants-to-find-the-next-big-project-before-it-moves-Very-few-are-willing-to-hold-it-through-the-60-drop-that-usually-comes-somewhere-along-the-way",
-    "source": "@daancrypto",
-    "published": "Sat Oct 10 2026 07:01:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple Custody Adds Canton, Targets Wall Street Tokenization",
-    "link": "https://cryptopanic.com/news/33524511/Ripple-Custody-Adds-Canton-Targets-Wall-Street-Tokenization",
-    "source": "coinpaprika.com",
-    "published": "Sat Oct 10 2026 07:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
