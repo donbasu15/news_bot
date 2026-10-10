@@ -1,5 +1,19 @@
 [
   {
+    "title": "Bitcoin is in a",
+    "link": "https://cryptopanic.com/news/33526122/Bitcoin-is-in-a",
+    "source": "@stackersatoshi",
+    "published": "Sat Oct 10 2026 21:36:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MARKET: Stablecoin holders on Solana has surpassed 14M.",
+    "link": "https://cryptopanic.com/news/33526117/MARKET-Stablecoin-holders-on-Solana-has-surpassed-14M",
+    "source": "@cointelegraph",
+    "published": "Sat Oct 10 2026 21:30:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "DWF Labs Subsidiaries Sue BitGo for $141 Million Over Token Lock-Up Breach",
     "link": "https://cryptopanic.com/news/33526098/DWF-Labs-Subsidiaries-Sue-BitGo-for-141-Million-Over-Token-Lock-Up-Breach",
     "source": "btcusa.com",
@@ -18,6 +32,13 @@
     "link": "https://cryptopanic.com/news/33526099/Why-The-Crypto-Bear-Market-Tricked-Everyone",
     "source": "TheCryptoLark",
     "published": "Sat Oct 10 2026 21:00:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Zcash is preparing for the QUANTUM COMPUTING threat!\n\nDevelopers are targeting January 2027 for quantum resistant signatures designed to protect wallets from future attacks.\n\nAs quantum technology advances, $ZEC is positioning itself ahead of one of crypto’s biggest security",
+    "link": "https://cryptopanic.com/news/33526118/Zcash-is-preparing-for-the-QUANTUM-COMPUTING-threat-Developers-are-targeting-January-2027-for-quantum-resistant-signatures-designed-to-protect-wallets-from-future-attacks-As-quantum-technology-advances-ZEC-is-positioning-itself-ahead-of-one-of-cryptos-biggest-security",
+    "source": "@realallincrypto",
+    "published": "Sat Oct 10 2026 21:00:07 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -161,15 +182,15 @@
     "sentiment": "neutral"
   },
   {
-    "title": "FOMO HOUR ft @Tyler_Did_It and @farokh\n- \n- \n-",
-    "link": "https://cryptopanic.com/news/33525997/FOMO-HOUR-ft-Tyler_Did_It-and-farokh-",
+    "title": "Robinhood Crypto’s head of product asks, “What can we do to make the onchain ecosystem work better for you?”",
+    "link": "https://cryptopanic.com/news/33525998/Robinhood-Cryptos-head-of-product-asks-What-can-we-do-to-make-the-onchain-ecosystem-work-better-for-you",
     "source": "@decryptmedia",
     "published": "Sat Oct 10 2026 19:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Robinhood Crypto’s head of product asks, “What can we do to make the onchain ecosystem work better for you?”",
-    "link": "https://cryptopanic.com/news/33525998/Robinhood-Cryptos-head-of-product-asks-What-can-we-do-to-make-the-onchain-ecosystem-work-better-for-you",
+    "title": "FOMO HOUR ft @Tyler_Did_It and @farokh\n- \n- \n-",
+    "link": "https://cryptopanic.com/news/33525997/FOMO-HOUR-ft-Tyler_Did_It-and-farokh-",
     "source": "@decryptmedia",
     "published": "Sat Oct 10 2026 19:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
@@ -186,27 +207,6 @@
     "link": "https://cryptopanic.com/news/33525938/XRP-Ledger-Patches-Decade-Old-Bug-That-Could-Have-Broken-Its-100-Billion-Supply-Cap",
     "source": "btcusa.com",
     "published": "Sat Oct 10 2026 18:55:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Russia Partially Lifts Diesel Export Ban After Trump-Putin Agreement",
-    "link": "https://cryptopanic.com/news/33526023/Russia-Partially-Lifts-Diesel-Export-Ban-After-Trump-Putin-Agreement",
-    "source": "square.binance.com",
-    "published": "Sat Oct 10 2026 18:54:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Judy Shelton Joins Treasury to Advise on Currency Policy",
-    "link": "https://cryptopanic.com/news/33526022/Judy-Shelton-Joins-Treasury-to-Advise-on-Currency-Policy",
-    "source": "square.binance.com",
-    "published": "Sat Oct 10 2026 18:47:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AI | Nadella Urges ‘Emergency Brake’ for Advanced Models",
-    "link": "https://cryptopanic.com/news/33526021/AI-Nadella-Urges-Emergency-Brake-for-Advanced-Models",
-    "source": "square.binance.com",
-    "published": "Sat Oct 10 2026 18:44:10 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
