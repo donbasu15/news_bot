@@ -1,5 +1,68 @@
 [
   {
+    "title": "Go-Ethereum v1.17.8 Arrives With Amsterdam Fork Preparations",
+    "link": "https://cryptopanic.com/news/33525686/Go-Ethereum-v1178-Arrives-With-Amsterdam-Fork-Preparations",
+    "source": "techgaged.com",
+    "published": "Sat Oct 10 2026 16:15:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Worldcoin Price Jumps 14% – $0.60 Is the Next Hurdle",
+    "link": "https://cryptopanic.com/news/33525676/Worldcoin-Price-Jumps-14-060-Is-the-Next-Hurdle",
+    "source": "coindoo.com",
+    "published": "Sat Oct 10 2026 16:13:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The CFTC’s New Crypto Rules Have a Major Blind Spot — Here’s What They Actually Cover",
+    "link": "https://cryptopanic.com/news/33525661/The-CFTCs-New-Crypto-Rules-Have-a-Major-Blind-Spot-Heres-What-They-Actually-Cover",
+    "source": "techgaged.com",
+    "published": "Sat Oct 10 2026 16:03:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
+    "link": "https://cryptopanic.com/news/33525657/This-Sam-Altman-Backed-Life-Insurer-Runs-Entirely-on-Bitcoin-and-Just-Raised-375-Million",
+    "source": "decrypt.co",
+    "published": "Sat Oct 10 2026 16:01:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "‘September altcoin season is over’ — What’s next for altcoins?",
+    "link": "https://cryptopanic.com/news/33525652/September-altcoin-season-is-over-Whats-next-for-altcoins",
+    "source": "ambcrypto.com",
+    "published": "Sat Oct 10 2026 16:00:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CFTC proposes a divide between prediction contracts and sportsbook wagers",
+    "link": "https://cryptopanic.com/news/33525660/CFTC-proposes-a-divide-between-prediction-contracts-and-sportsbook-wagers",
+    "source": "cryptoslate.com",
+    "published": "Sat Oct 10 2026 16:00:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$93M Drained From Ledger Wallets: Is Yours Safe?",
+    "link": "https://cryptopanic.com/news/33525672/93M-Drained-From-Ledger-Wallets-Is-Yours-Safe",
+    "source": "CryptoTips",
+    "published": "Sat Oct 10 2026 16:00:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "AI Could CRACK Crypto Wallets in MONTHS!",
+    "link": "https://cryptopanic.com/news/33525675/AI-Could-CRACK-Crypto-Wallets-in-MONTHS",
+    "source": "TheCryptoLark",
+    "published": "Sat Oct 10 2026 16:00:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The crypto OG that is @litecoin is coming to @CantonNetwork. Here's what you need to know to be ready ⬇️",
+    "link": "https://cryptopanic.com/news/33525638/The-crypto-OG-that-is-litecoin-is-coming-to-CantonNetwork-Heres-what-you-need-to-know-to-be-ready",
+    "source": "@bscnews",
+    "published": "Sat Oct 10 2026 15:51:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "$ADA is pumping",
     "link": "https://cryptopanic.com/news/33525630/ADA-is-pumping",
     "source": "@angrycryptoshow",
@@ -7,10 +70,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "$BTC Since the local low all we've pretty much have seen is Open Interest go down and some local squeezes here and there.\n\nA lot of short covering by taking profit caused most of the move.\n\nNow the key for the bulls will be to A. Retake and hold above $83K and B. See spot bid",
+    "link": "https://cryptopanic.com/news/33525636/BTC-Since-the-local-low-all-weve-pretty-much-have-seen-is-Open-Interest-go-down-and-some-local-squeezes-here-and-there-A-lot-of-short-covering-by-taking-profit-caused-most-of-the-move-Now-the-key-for-the-bulls-will-be-to-A-Retake-and-hold-above-83K-and-B-See-spot-bid",
+    "source": "@daancrypto",
+    "published": "Sat Oct 10 2026 15:37:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "BlackRock offloaded almost $500 million of this crypto in a week",
     "link": "https://cryptopanic.com/news/33525614/BlackRock-offloaded-almost-500-million-of-this-crypto-in-a-week",
     "source": "finbold.com",
     "published": "Sat Oct 10 2026 15:35:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Justin Sun says Tron's post-quantum cryptography is now live on testnet and ready to hit mainnet \"at any time.\"",
+    "link": "https://cryptopanic.com/news/33525634/JUST-IN-Justin-Sun-says-Trons-post-quantum-cryptography-is-now-live-on-testnet-and-ready-to-hit-mainnet-at-any-time",
+    "source": "@cointelegraph",
+    "published": "Sat Oct 10 2026 15:31:19 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -130,83 +207,6 @@
     "link": "https://cryptopanic.com/news/33525527/Google-Gemini-Agent-Enterprise-AI-That-Can-Run-Claude-Too",
     "source": "spaziocrypto.com",
     "published": "Sat Oct 10 2026 14:52:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Aerodrome founder vows to double its market share.\n\nAlexander Cutler, the co-founder of @aeroxyz, says he wants the platform to have \"doubled our share of spot volumes, at the very least\" by the end of 2026. \n\nFor context, $AERO has seen $3.77B worth of DEX volume in the past",
-    "link": "https://cryptopanic.com/news/33525517/Aerodrome-founder-vows-to-double-its-market-share-Alexander-Cutler-the-co-founder-of-aeroxyz-says-he-wants-the-platform-to-have-doubled-our-share-of-spot-volumes-at-the-very-least-by-the-end-of-2026-For-context-AERO-has-seen-377B-worth-of-DEX-volume-in-the-past",
-    "source": "@bscnews",
-    "published": "Sat Oct 10 2026 14:41:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🤖 Eric Trump says money rotating from crypto into AI is “the greatest thing that could ever happen,” as “the faster AI grows, the faster digital assets are going to grow.”",
-    "link": "https://cryptopanic.com/news/33525530/LATEST-Eric-Trump-says-money-rotating-from-crypto-into-AI-is-the-greatest-thing-that-could-ever-happen-as-the-faster-AI-grows-the-faster-digital-assets-are-going-to-grow",
-    "source": "@coinmarketcap",
-    "published": "Sat Oct 10 2026 14:34:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "1 Year Since Crypto’s Biggest Liquidation Event: Bitcoin Hasn’t Fully Recovered Yet",
-    "link": "https://cryptopanic.com/news/33525494/1-Year-Since-Cryptos-Biggest-Liquidation-Event-Bitcoin-Hasnt-Fully-Recovered-Yet",
-    "source": "cryptopotato.com",
-    "published": "Sat Oct 10 2026 14:31:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇭🇰 LATEST: Hong Kong brokers' crypto trading commissions dropped 13.5% to HK$99.3M in H1 2026, even as the city's securities industry profits jumped 21% to a record-volume-fueled HK$51.7B, per the SFC.",
-    "link": "https://cryptopanic.com/news/33525490/LATEST-Hong-Kong-brokers-crypto-trading-commissions-dropped-135-to-HK993M-in-H1-2026-even-as-the-citys-securities-industry-profits-jumped-21-to-a-record-volume-fueled-HK517B-per-the-SFC",
-    "source": "@cointelegraph",
-    "published": "Sat Oct 10 2026 14:30:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Boston Official Charged with Wire Fraud for Fabricated PPP Loan Application",
-    "link": "https://cryptopanic.com/news/33525520/Boston-Official-Charged-with-Wire-Fraud-for-Fabricated-PPP-Loan-Application",
-    "source": "dailyhodl.com",
-    "published": "Sat Oct 10 2026 14:30:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Great research doesn’t automatically become great infrastructure.\n\nOnce real money is on-chain, every detail matters security, withdrawals, execution, everything.\n\n@sgoldfed on taking Arbitrum from Princeton research to production.\n\n#arbitrum #ethereum",
-    "link": "https://cryptopanic.com/news/33525516/Great-research-doesnt-automatically-become-great-infrastructure-Once-real-money-is-on-chain-every-detail-matters-security-withdrawals-execution-everything-sgoldfed-on-taking-Arbitrum-from-Princeton-research-to-production-arbitrum-ethereum",
-    "source": "@realallincrypto",
-    "published": "Sat Oct 10 2026 14:29:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "China Moves to Build a National Blockchain Network",
-    "link": "https://cryptopanic.com/news/33525443/China-Moves-to-Build-a-National-Blockchain-Network",
-    "source": "coindoo.com",
-    "published": "Sat Oct 10 2026 14:22:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "China Is Building a National Blockchain Network: Will Bitcoin Benefit?",
-    "link": "https://cryptopanic.com/news/33525553/China-Is-Building-a-National-Blockchain-Network-Will-Bitcoin-Benefit",
-    "source": "beincrypto.com",
-    "published": "Sat Oct 10 2026 14:19:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin ETF vs Bitcoin: Which Should You Buy?",
-    "link": "https://cryptopanic.com/news/33525432/Bitcoin-ETF-vs-Bitcoin-Which-Should-You-Buy",
-    "source": "btcusa.com",
-    "published": "Sat Oct 10 2026 14:15:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tom Lee’s Mid Term Surprise",
-    "link": "https://cryptopanic.com/news/33525440/Tom-Lees-Mid-Term-Surprise",
-    "source": "TheCryptoLark",
-    "published": "Sat Oct 10 2026 14:11:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "For the complete weekly curated reports, subscribe to our Substack",
-    "link": "https://cryptopanic.com/news/33525488/For-the-complete-weekly-curated-reports-subscribe-to-our-Substack",
-    "source": "@wublockchain",
-    "published": "Sat Oct 10 2026 14:01:14 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
