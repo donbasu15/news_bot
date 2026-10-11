@@ -1,9 +1,30 @@
 [
   {
+    "title": "BIG: CoinGecko now tracks over 22,000 coins, and as of late September, less than 25% of the median altcoin's supply was in profit, per Glassnode.",
+    "link": "https://cryptopanic.com/news/33528391/BIG-CoinGecko-now-tracks-over-22000-coins-and-as-of-late-September-less-than-25-of-the-median-altcoins-supply-was-in-profit-per-Glassnode",
+    "source": "@cointelegraph",
+    "published": "Sun Oct 11 2026 18:30:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ledger Wallets: Spy Hardware Hidden Inside",
+    "link": "https://cryptopanic.com/news/33528327/Ledger-Wallets-Spy-Hardware-Hidden-Inside",
+    "source": "SimplyBitcoin",
+    "published": "Sun Oct 11 2026 18:30:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "XRP Ledger patches decade-old bug that could have minted trillions of XRP",
     "link": "https://cryptopanic.com/news/33528291/XRP-Ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-XRP",
     "source": "theblock.co",
     "published": "Sun Oct 11 2026 18:07:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Deutsche Bank chief warns German election results worrying foreign investors",
+    "link": "https://cryptopanic.com/news/33528392/Deutsche-Bank-chief-warns-German-election-results-worrying-foreign-investors",
+    "source": "@reutersbiz",
+    "published": "Sun Oct 11 2026 18:00:32 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -186,27 +207,6 @@
     "link": "https://cryptopanic.com/news/33528138/American-Companies-Rely-on-Chinese-AI-Despite-US-Technology-Restrictions",
     "source": "coinpaper.com",
     "published": "Sun Oct 11 2026 16:52:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nikon Strips AI Video of Top Prize: The Case Dividing Photography and Science",
-    "link": "https://cryptopanic.com/news/33528135/Nikon-Strips-AI-Video-of-Top-Prize-The-Case-Dividing-Photography-and-Science",
-    "source": "spaziocrypto.com",
-    "published": "Sun Oct 11 2026 16:50:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Gulf Stocks Slide After Riyadh Attack as Oil Market Risks Grow",
-    "link": "https://cryptopanic.com/news/33528126/Gulf-Stocks-Slide-After-Riyadh-Attack-as-Oil-Market-Risks-Grow",
-    "source": "coinpaper.com",
-    "published": "Sun Oct 11 2026 16:49:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump Announces Russia-Ukraine Energy Ceasefire, but Zelensky Says No Deal",
-    "link": "https://cryptopanic.com/news/33528113/Trump-Announces-Russia-Ukraine-Energy-Ceasefire-but-Zelensky-Says-No-Deal",
-    "source": "coinpaper.com",
-    "published": "Sun Oct 11 2026 16:44:39 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
