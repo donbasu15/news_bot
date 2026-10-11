@@ -1,9 +1,23 @@
 [
   {
+    "title": "President Trump declares 'energy ceasefire' between Russia and Ukraine",
+    "link": "https://cryptopanic.com/news/33527989/President-Trump-declares-energy-ceasefire-between-Russia-and-Ukraine",
+    "source": "coindesk.com",
+    "published": "Sun Oct 11 2026 15:40:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "BTQ Named Security Partner for MoonPay Korea Stablecoin",
     "link": "https://cryptopanic.com/news/33527946/BTQ-Named-Security-Partner-for-MoonPay-Korea-Stablecoin",
     "source": "btcusa.com",
     "published": "Sun Oct 11 2026 15:40:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BIG: BitMine is roughly 200,000 ETH away from owning 5% of Ethereum's entire supply, now sitting on 5.85M ETH worth $14.27B.",
+    "link": "https://cryptopanic.com/news/33527988/BIG-BitMine-is-roughly-200000-ETH-away-from-owning-5-of-Ethereums-entire-supply-now-sitting-on-585M-ETH-worth-1427B",
+    "source": "@cointelegraph",
+    "published": "Sun Oct 11 2026 15:31:05 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33527838/XRPL-Fixes-Decade-Old-Bug-That-Could-Have-Minted-Trillions-of-XRP-RippleX-and-the-XRP-Ledger-Foundation-disclosed-that-a-critical-payment-engine-overflow-bug-could-have-allowed-an-attacker-to-create-spendable-XRP-beyond-the-networks-fixed-supply-using-a-specially-crafted",
     "source": "@wublockchain",
     "published": "Sun Oct 11 2026 13:59:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why a Tokenized Stock Is Not Always a Share",
-    "link": "https://cryptopanic.com/news/33527750/Why-a-Tokenized-Stock-Is-Not-Always-a-Share",
-    "source": "coindoo.com",
-    "published": "Sun Oct 11 2026 13:57:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Pokémon Cards Just Crushed Bitcoin, Gold and the S&P 500 With 150% Returns",
-    "link": "https://cryptopanic.com/news/33527844/Pokemon-Cards-Just-Crushed-Bitcoin-Gold-and-the-SP-500-With-150-Returns",
-    "source": "beincrypto.com",
-    "published": "Sun Oct 11 2026 13:48:41 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
