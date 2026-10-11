@@ -42,6 +42,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Bitcoin's Wild Ride: From 74K to 87K Rip!",
+    "link": "https://cryptopanic.com/news/33527867/Bitcoins-Wild-Ride-From-74K-to-87K-Rip",
+    "source": "SimplyBitcoin",
+    "published": "Sun Oct 11 2026 14:30:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Kalshi's $2M Donation and Resignations: The Trader Protection Controversy",
     "link": "https://cryptopanic.com/news/33527821/Kalshis-2M-Donation-and-Resignations-The-Trader-Protection-Controversy",
     "source": "spaziocrypto.com",
@@ -60,6 +67,13 @@
     "link": "https://cryptopanic.com/news/33527845/Meta-Stock-Warning-Zuckerberg-Sells-21-Million-as-Insiders-Exit",
     "source": "beincrypto.com",
     "published": "Sun Oct 11 2026 14:13:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cardano (ADA) Signals Caution as Price Confirms Death Cross, Short-Term Sell Ahead?",
+    "link": "https://cryptopanic.com/news/33527868/Cardano-ADA-Signals-Caution-as-Price-Confirms-Death-Cross-Short-Term-Sell-Ahead",
+    "source": "u.today",
+    "published": "Sun Oct 11 2026 14:10:09 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33527651/Stablecoins-Win-Over-Nearly-Half-of-Asia-Pacific-Consumers-Visa-Study",
     "source": "coinpaprika.com",
     "published": "Sun Oct 11 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Chainlink ETFs see best inflow day in history!!\n\nOn October 9, spot @Chainlink ETFs absorbed +$9.48M in investor capital...\n\n... the most they have ever seen in a single day.\n\nAmongst the most successful crypto spot products, the ETFs now hold 2.35% of $LINK's entire supply.",
-    "link": "https://cryptopanic.com/news/33527696/Chainlink-ETFs-see-best-inflow-day-in-history-On-October-9-spot-Chainlink-ETFs-absorbed-948M-in-investor-capital-the-most-they-have-ever-seen-in-a-single-day-Amongst-the-most-successful-crypto-spot-products-the-ETFs-now-hold-235-of-LINKs-entire-supply",
-    "source": "@bscnews",
-    "published": "Sun Oct 11 2026 12:52:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🦋\n\nFLAP Butterfly introduces an on-chain parent-child token tax model, connecting $BNBKing with a 10,000 BNB flow mechanism to establish a closed-loop ecosystem.\n\nThe model combines token taxation with BNB mining, facilitating the flow of value between the parent and",
-    "link": "https://cryptopanic.com/news/33527640/JUST-IN-FLAP-Butterfly-introduces-an-on-chain-parent-child-token-tax-model-connecting-BNBKing-with-a-10000-BNB-flow-mechanism-to-establish-a-closed-loop-ecosystem-The-model-combines-token-taxation-with-BNB-mining-facilitating-the-flow-of-value-between-the-parent-and",
-    "source": "@bscnews",
-    "published": "Sun Oct 11 2026 12:47:46 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
