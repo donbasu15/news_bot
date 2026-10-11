@@ -1,5 +1,40 @@
 [
   {
+    "title": "BIG: Bitfinex's $ETH longs have hit their highest level in over 4 years.",
+    "link": "https://cryptopanic.com/news/33527366/BIG-Bitfinexs-ETH-longs-have-hit-their-highest-level-in-over-4-years",
+    "source": "@cointelegraph",
+    "published": "Sun Oct 11 2026 10:30:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "AI discovers XRP Ledger flaw that could mint 18 trillion tokens and put $94 billion market at risk",
+    "link": "https://cryptopanic.com/news/33527370/AI-discovers-XRP-Ledger-flaw-that-could-mint-18-trillion-tokens-and-put-94-billion-market-at-risk",
+    "source": "cryptoslate.com",
+    "published": "Sun Oct 11 2026 10:30:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Coldcard Bitcoin Wallet Maker Compromised Again, This Time Online",
+    "link": "https://cryptopanic.com/news/33527376/Coldcard-Bitcoin-Wallet-Maker-Compromised-Again-This-Time-Online",
+    "source": "u.today",
+    "published": "Sun Oct 11 2026 10:22:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Viral Altcoin Defies Market Slumber With 53% Surge, BTC Calms at $83K: Weekend Watch",
+    "link": "https://cryptopanic.com/news/33527342/Viral-Altcoin-Defies-Market-Slumber-With-53-Surge-BTC-Calms-at-83K-Weekend-Watch",
+    "source": "cryptopotato.com",
+    "published": "Sun Oct 11 2026 10:16:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CHAINLINK takes centre stage at BLACKROCK's Aladdin Client Forum!\n\n@SergeyNazarov founder of @chainlink joined BlackRock and Coinbase executives to discuss how AI agents will move money using blockchain and stablecoins.\n\nThe BIG opportunity for $LINK is providing the trusted",
+    "link": "https://cryptopanic.com/news/33527367/CHAINLINK-takes-centre-stage-at-BLACKROCKs-Aladdin-Client-Forum-SergeyNazarov-founder-of-chainlink-joined-BlackRock-and-Coinbase-executives-to-discuss-how-AI-agents-will-move-money-using-blockchain-and-stablecoins-The-BIG-opportunity-for-LINK-is-providing-the-trusted",
+    "source": "@realallincrypto",
+    "published": "Sun Oct 11 2026 10:00:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin vs Altcoins: The Real Truth Exposed",
     "link": "https://cryptopanic.com/news/33527340/Bitcoin-vs-Altcoins-The-Real-Truth-Exposed",
     "source": "SimplyBitcoin",
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33527091/Robinhood-Chain-transactions-fall-42-as-app-deposits-stay-above-1-billion",
     "source": "en.cryptonomist.ch",
     "published": "Sun Oct 11 2026 07:45:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "An XRP Ledger security bug could have created 18.45 trillion XRP",
-    "link": "https://cryptopanic.com/news/33527090/An-XRP-Ledger-security-bug-could-have-created-1845-trillion-XRP",
-    "source": "en.cryptonomist.ch",
-    "published": "Sun Oct 11 2026 07:44:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTERESTING: roughly 700,000 $BTC has left exchanges in the 365 days.",
-    "link": "https://cryptopanic.com/news/33526996/INTERESTING-roughly-700000-BTC-has-left-exchanges-in-the-365-days",
-    "source": "@cointelegraph",
-    "published": "Sun Oct 11 2026 07:30:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Indiana Postal Worker Admits Stealing Checks From the Mail in $34,000,000 Fraud Scheme That Hit About 6,500 Victims",
-    "link": "https://cryptopanic.com/news/33526969/Indiana-Postal-Worker-Admits-Stealing-Checks-From-the-Mail-in-34000000-Fraud-Scheme-That-Hit-About-6500-Victims",
-    "source": "dailyhodl.com",
-    "published": "Sun Oct 11 2026 07:04:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto is one of the few markets where retail can still get genuinely early on things.\n\nBut most people spend that advantage on memes and leverage instead.\n\nEvery cycle, there's always some new exciting projects that are here to stay. These days a lot of them are also strong",
-    "link": "https://cryptopanic.com/news/33526998/Crypto-is-one-of-the-few-markets-where-retail-can-still-get-genuinely-early-on-things-But-most-people-spend-that-advantage-on-memes-and-leverage-instead-Every-cycle-theres-always-some-new-exciting-projects-that-are-here-to-stay-These-days-a-lot-of-them-are-also-strong",
-    "source": "@daancrypto",
-    "published": "Sun Oct 11 2026 07:02:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: The IMF has uncovered something HUGE about tokenised stocks!\n\n80% of trades involve LESS than one full share!\n\nSo now investors can now buy fractions of expensive stocks instead of needing hundreds of dollars upfront.\n\nAnd on chain prices are generating signals even",
-    "link": "https://cryptopanic.com/news/33526967/BREAKING-The-IMF-has-uncovered-something-HUGE-about-tokenised-stocks-80-of-trades-involve-LESS-than-one-full-share-So-now-investors-can-now-buy-fractions-of-expensive-stocks-instead-of-needing-hundreds-of-dollars-upfront-And-on-chain-prices-are-generating-signals-even",
-    "source": "@realallincrypto",
-    "published": "Sun Oct 11 2026 07:00:21 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
