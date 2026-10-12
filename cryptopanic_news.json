@@ -1,5 +1,89 @@
 [
   {
+    "title": "EU adopts €115 million 'AGILE' programme for rapid defence innovation",
+    "link": "https://cryptopanic.com/news/33532119/EU-adopts-115-million-AGILE-programme-for-rapid-defence-innovation",
+    "source": "@reutersbiz",
+    "published": "Mon Oct 12 2026 13:15:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "IMF says AI spending holds global growth near 3%, lifts Asian suppliers",
+    "link": "https://cryptopanic.com/news/33532055/IMF-says-AI-spending-holds-global-growth-near-3-lifts-Asian-suppliers",
+    "source": "cryptopolitan.com",
+    "published": "Mon Oct 12 2026 13:03:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ripple’s RLUSD Gains Standard Chartered Support, $150M LMAX Deal Advances",
+    "link": "https://cryptopanic.com/news/33532053/Ripples-RLUSD-Gains-Standard-Chartered-Support-150M-LMAX-Deal-Advances",
+    "source": "coinpaper.com",
+    "published": "Mon Oct 12 2026 13:02:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: xStocks weekend DEX volume jumped from $2.4M in July to $55.2M in September, per Token Terminal.",
+    "link": "https://cryptopanic.com/news/33532116/UPDATE-xStocks-weekend-DEX-volume-jumped-from-24M-in-July-to-552M-in-September-per-Token-Terminal",
+    "source": "@cointelegraph",
+    "published": "Mon Oct 12 2026 13:01:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Congressman Warren Davidson: The Future of Money Will Decide Western Civilization",
+    "link": "https://cryptopanic.com/news/33532061/Congressman-Warren-Davidson-The-Future-of-Money-Will-Decide-Western-Civilization",
+    "source": "BitcoinMagazine",
+    "published": "Mon Oct 12 2026 13:00:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Breakingviews - COMMENTARY: Riyadh attacks hit core of Saudi's economic pivot",
+    "link": "https://cryptopanic.com/news/33532118/Breakingviews-COMMENTARY-Riyadh-attacks-hit-core-of-Saudis-economic-pivot",
+    "source": "@reutersbiz",
+    "published": "Mon Oct 12 2026 13:00:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "This week:\n\nFIL: Vesting Program Ends (15 Oct, 8/10)\nRVN: Upbit Delisting (12 Oct, 7/10)\n\nFull calendar",
+    "link": "https://cryptopanic.com/news/33532121/This-week-FIL-Vesting-Program-Ends-15-Oct-810-RVN-Upbit-Delisting-12-Oct-710-Full-calendar",
+    "source": "@coinmarketcal",
+    "published": "Mon Oct 12 2026 13:00:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "New York AG Secures Up to $35M and Lifetime Crypto Ban From Mashinsky",
+    "link": "https://cryptopanic.com/news/33532023/New-York-AG-Secures-Up-to-35M-and-Lifetime-Crypto-Ban-From-Mashinsky",
+    "source": "coinpaprika.com",
+    "published": "Mon Oct 12 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "When AI Starts Moving Money: Welcome to the Age of Agentic Finance",
+    "link": "https://cryptopanic.com/news/33532013/When-AI-Starts-Moving-Money-Welcome-to-the-Age-of-Agentic-Finance",
+    "source": "catenaa.com",
+    "published": "Mon Oct 12 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Banking Giant Deploys Ripple Tech on XRP Ledger: Main Crypto News This Morning",
+    "link": "https://cryptopanic.com/news/33532074/Banking-Giant-Deploys-Ripple-Tech-on-XRP-Ledger-Main-Crypto-News-This-Morning",
+    "source": "u.today",
+    "published": "Mon Oct 12 2026 12:59:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ledger spyware scare spreads beyond Southeast Asia",
+    "link": "https://cryptopanic.com/news/33531995/Ledger-spyware-scare-spreads-beyond-Southeast-Asia",
+    "source": "protos.com",
+    "published": "Mon Oct 12 2026 12:55:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Kalshi is investigating at least three bets that correctly picked Katie Zacharia as President Trump's next press secretary before the news broke, WSJ reports.",
+    "link": "https://cryptopanic.com/news/33532009/LATEST-Kalshi-is-investigating-at-least-three-bets-that-correctly-picked-Katie-Zacharia-as-President-Trumps-next-press-secretary-before-the-news-broke-WSJ-reports",
+    "source": "@coinmarketcap",
+    "published": "Mon Oct 12 2026 12:53:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "TSMC set for sixth straight record profit on AI chip demand",
     "link": "https://cryptopanic.com/news/33531986/TSMC-set-for-sixth-straight-record-profit-on-AI-chip-demand",
     "source": "cryptopolitan.com",
@@ -25,6 +109,20 @@
     "link": "https://cryptopanic.com/news/33531901/Strategy-Scoops-Up-215M-in-Bitcoin-Buys-Back-192M-in-STRC",
     "source": "decrypt.co",
     "published": "Mon Oct 12 2026 12:39:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33532113/Source",
+    "source": "@wublockchain",
+    "published": "Mon Oct 12 2026 12:37:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BitMine Adds 12,532 ETH as Management Signals Buying Is Largely Complete \n\nBitMine said it acquired 12,532 ETH over the past week, bringing total holdings to 6,028,946 ETH, or about 4.9% of Ethereum’s 122.1 million supply. The company said it is 99% of the way toward its 5%",
+    "link": "https://cryptopanic.com/news/33532112/BitMine-Adds-12532-ETH-as-Management-Signals-Buying-Is-Largely-Complete-BitMine-said-it-acquired-12532-ETH-over-the-past-week-bringing-total-holdings-to-6028946-ETH-or-about-49-of-Ethereums-1221-million-supply-The-company-said-it-is-99-of-the-way-toward-its-5",
+    "source": "@wublockchain",
+    "published": "Mon Oct 12 2026 12:37:08 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -109,104 +207,6 @@
     "link": "https://cryptopanic.com/news/33531975/473000000-XRP-hits-the-Nasdaq-today-Evernorth-a-treasury-company-for-Ripples-native-token-is-going-live-for-trading-today-on-Nasdaq-under-the-ticker-XRPN-The-firm-which-has-raised-over-a-billion-dollars-holds-nearly-half-a-billion-XRP-tokens-Bullish-much",
     "source": "@bscnews",
     "published": "Mon Oct 12 2026 12:23:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Microsoft executive calls AI training the \"largest theft of labor in human history.\"",
-    "link": "https://cryptopanic.com/news/33532005/JUST-IN-Microsoft-executive-calls-AI-training-the-largest-theft-of-labor-in-human-history",
-    "source": "@watcherguru",
-    "published": "Mon Oct 12 2026 12:21:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP News Today: Standard Chartered Launches RLUSD Custody on XRP Ledger",
-    "link": "https://cryptopanic.com/news/33531791/XRP-News-Today-Standard-Chartered-Launches-RLUSD-Custody-on-XRP-Ledger",
-    "source": "btcusa.com",
-    "published": "Mon Oct 12 2026 12:20:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Michael Saylor's Strategy buys 250 BTC and repurchases $192 million of STRC \n\nThe company now holds:\n $70.7 billion worth of Bitcoin\n $5.5 billion in USD assets",
-    "link": "https://cryptopanic.com/news/33532002/JUST-IN-Michael-Saylors-Strategy-buys-250-BTC-and-repurchases-192-million-of-STRC-The-company-now-holds-707-billion-worth-of-Bitcoin-55-billion-in-USD-assets",
-    "source": "@bitcoinmagazine",
-    "published": "Mon Oct 12 2026 12:19:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Based card founder responds as breach exposes cardholders’ ID data",
-    "link": "https://cryptopanic.com/news/33531789/Based-card-founder-responds-as-breach-exposes-cardholders-ID-data",
-    "source": "cryptopolitan.com",
-    "published": "Mon Oct 12 2026 12:19:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇨🇳 China’s top leadership issued a major economic modernization plan that calls for building a national blockchain network alongside AI, quantum computing, and 6th-gen mobile development.",
-    "link": "https://cryptopanic.com/news/33531854/LATEST-Chinas-top-leadership-issued-a-major-economic-modernization-plan-that-calls-for-building-a-national-blockchain-network-alongside-AI-quantum-computing-and-6th-gen-mobile-development",
-    "source": "@coinmarketcap",
-    "published": "Mon Oct 12 2026 12:17:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Peter Schiff 'Suprised' by Bitcoin’s Resilience but Expects New Lows",
-    "link": "https://cryptopanic.com/news/33531865/Peter-Schiff-Suprised-by-Bitcoins-Resilience-but-Expects-New-Lows",
-    "source": "feeds2.benzinga.com",
-    "published": "Mon Oct 12 2026 12:15:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "‘There’s always room for more orange’: Michael Saylor’s Strategy scoops up another 250 bitcoin for $21.5 million as holdings reach 848,250 BTC",
-    "link": "https://cryptopanic.com/news/33531783/Theres-always-room-for-more-orange-Michael-Saylors-Strategy-scoops-up-another-250-bitcoin-for-215-million-as-holdings-reach-848250-BTC",
-    "source": "theblock.co",
-    "published": "Mon Oct 12 2026 12:13:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "FSB Warns Stablecoin Rules Are Not Ready for a Cross-Border Crisis",
-    "link": "https://cryptopanic.com/news/33531726/FSB-Warns-Stablecoin-Rules-Are-Not-Ready-for-a-Cross-Border-Crisis",
-    "source": "btcusa.com",
-    "published": "Mon Oct 12 2026 12:13:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Michael Saylor's Strategy buys 250 BTC and repurchases $192 million of STRC \n\nThe company now holds:\n $70.7 billion worth of Bitcoin\n $5.5 billion in USD assets",
-    "link": "https://cryptopanic.com/news/33531774/JUST-IN-Michael-Saylors-Strategy-buys-250-BTC-and-repurchases-192-million-of-STRC-The-company-now-holds-707-billion-worth-of-Bitcoin-55-billion-in-USD-assets",
-    "source": "@bitcoinmagazine",
-    "published": "Mon Oct 12 2026 12:12:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Breached 13.9M Payments On-Chain: Here’s The Catch",
-    "link": "https://cryptopanic.com/news/33531717/XRP-Breached-139M-Payments-On-Chain-Heres-The-Catch",
-    "source": "dailycoin.com",
-    "published": "Mon Oct 12 2026 12:12:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "What happened during Zcash’s (@Zcash) famous 2016 ceremony, and why does it matter today? \n\nSix participants helped create the cryptographic parameters behind Zcash’s private transactions, then destroyed the hardware used in the process.  \n\nRead the full story to understand the",
-    "link": "https://cryptopanic.com/news/33531974/What-happened-during-Zcashs-Zcash-famous-2016-ceremony-and-why-does-it-matter-today-Six-participants-helped-create-the-cryptographic-parameters-behind-Zcashs-private-transactions-then-destroyed-the-hardware-used-in-the-process-Read-the-full-story-to-understand-the",
-    "source": "@bscnews",
-    "published": "Mon Oct 12 2026 12:11:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "A Decade-Old Ripple XRP Ledger Flaw Was Patched Before Disclosure",
-    "link": "https://cryptopanic.com/news/33532004/A-Decade-Old-Ripple-XRP-Ledger-Flaw-Was-Patched-Before-Disclosure",
-    "source": "99bitcoins.com",
-    "published": "Mon Oct 12 2026 12:09:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Kraken secures full VARA license in the UAE through parent company Payward",
-    "link": "https://cryptopanic.com/news/33531719/Kraken-secures-full-VARA-license-in-the-UAE-through-parent-company-Payward",
-    "source": "cryptopolitan.com",
-    "published": "Mon Oct 12 2026 12:09:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why Are Buyers Disappearing From the US Housing Market?",
-    "link": "https://cryptopanic.com/news/33531871/Why-Are-Buyers-Disappearing-From-the-US-Housing-Market",
-    "source": "beincrypto.com",
-    "published": "Mon Oct 12 2026 12:09:21 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
