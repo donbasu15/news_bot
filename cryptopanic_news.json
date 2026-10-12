@@ -1,5 +1,75 @@
 [
   {
+    "title": "Standard Chartered launches custody for Ripple’s RLUSD on XRP Ledger",
+    "link": "https://cryptopanic.com/news/33530909/Standard-Chartered-launches-custody-for-Ripples-RLUSD-on-XRP-Ledger",
+    "source": "theblock.co",
+    "published": "Mon Oct 12 2026 09:35:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: ZachXBT criticizes $250K reward for reporting a critical XRP bug, warning low payouts discourage whitehat disclosure.",
+    "link": "https://cryptopanic.com/news/33530960/UPDATE-ZachXBT-criticizes-250K-reward-for-reporting-a-critical-XRP-bug-warning-low-payouts-discourage-whitehat-disclosure",
+    "source": "@cointelegraph",
+    "published": "Mon Oct 12 2026 09:30:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Wallet 0x35b2 made 1,012 trades on @papertrade_xyz, generating $10.1B in trading volume and losing $979K.\n\nBut he earned 252M $PAPER tokens from his trading losses and received 997K $USDC in staking rewards.\n\nThis wallet ended up with a $17.8K profit.",
+    "link": "https://cryptopanic.com/news/33530894/Wallet-0x35b2-made-1012-trades-on-papertrade_xyz-generating-101B-in-trading-volume-and-losing-979K-But-he-earned-252M-PAPER-tokens-from-his-trading-losses-and-received-997K-USDC-in-staking-rewards-This-wallet-ended-up-with-a-178K-profit",
+    "source": "@lookonchain",
+    "published": "Mon Oct 12 2026 09:30:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cracks Beneath the Greed: Why Crypto’s Risk-On Rally Is Splintering",
+    "link": "https://cryptopanic.com/news/33530842/Cracks-Beneath-the-Greed-Why-Cryptos-Risk-On-Rally-Is-Splintering",
+    "source": "www.blockhead.co",
+    "published": "Mon Oct 12 2026 09:23:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "EU Crypto Platforms Face New ESMA Stablecoin Restrictions — Even Custody Is in Scope",
+    "link": "https://cryptopanic.com/news/33530851/EU-Crypto-Platforms-Face-New-ESMA-Stablecoin-Restrictions-Even-Custody-Is-in-Scope",
+    "source": "techgaged.com",
+    "published": "Mon Oct 12 2026 09:23:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "How Safe Is an Ethereum Layer 2? Five Risks That TVL and Transaction Speed Cannot Show",
+    "link": "https://cryptopanic.com/news/33530850/How-Safe-Is-an-Ethereum-Layer-2-Five-Risks-That-TVL-and-Transaction-Speed-Cannot-Show",
+    "source": "techgaged.com",
+    "published": "Mon Oct 12 2026 09:23:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Strong Dollar, Higher Rates, Bitcoin Up 29%\n\n“Bitcoin is still up 29% since 12 June, a gain these three markets largely do not explain, which points to demand specific to Bitcoin.” – By @Crazzyblockk\n\nComplete breakdown ⤵️",
+    "link": "https://cryptopanic.com/news/33530958/Strong-Dollar-Higher-Rates-Bitcoin-Up-29-Bitcoin-is-still-up-29-since-12-June-a-gain-these-three-markets-largely-do-not-explain-which-points-to-demand-specific-to-Bitcoin-By-Crazzyblockk-Complete-breakdown",
+    "source": "@cryptoquant_com",
+    "published": "Mon Oct 12 2026 09:21:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "FTX Bitcoin Bet Takes an Unexpected Turn as SWI Group Raises $900 Million",
+    "link": "https://cryptopanic.com/news/33530845/FTX-Bitcoin-Bet-Takes-an-Unexpected-Turn-as-SWI-Group-Raises-900-Million",
+    "source": "cryptonews.com",
+    "published": "Mon Oct 12 2026 09:18:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇺🇸 Franklin Templeton met with SEC Crypto Task Force staff on Oct. 9 to ask whether tokenized money market funds need 1940 Act relief to trade in pairs with tokenized stocks.",
+    "link": "https://cryptopanic.com/news/33530957/LATEST-Franklin-Templeton-met-with-SEC-Crypto-Task-Force-staff-on-Oct-9-to-ask-whether-tokenized-money-market-funds-need-1940-Act-relief-to-trade-in-pairs-with-tokenized-stocks",
+    "source": "@coinmarketcap",
+    "published": "Mon Oct 12 2026 09:17:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "New York AG Secures Up to $35,000,000 Penalty and Lifetime Ban for Ex-Celsius CEO",
+    "link": "https://cryptopanic.com/news/33530838/New-York-AG-Secures-Up-to-35000000-Penalty-and-Lifetime-Ban-for-Ex-Celsius-CEO",
+    "source": "dailyhodl.com",
+    "published": "Mon Oct 12 2026 09:15:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Moonshot faces $700M shareholder dispute as Hong Kong IPO nears",
     "link": "https://cryptopanic.com/news/33530821/Moonshot-faces-700M-shareholder-dispute-as-Hong-Kong-IPO-nears",
     "source": "cryptopolitan.com",
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/33530599/JUST-IN-Kraken-is-preparing-a-UAE-launch-after-Payward-secured-full-VARA-approval-with-AED-trading-staking-and-xStocks",
     "source": "@cointelegraph",
     "published": "Mon Oct 12 2026 08:30:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "3 Token Unlocks to Watch in the Third Week of October 2026",
-    "link": "https://cryptopanic.com/news/33530744/3-Token-Unlocks-to-Watch-in-the-Third-Week-of-October-2026",
-    "source": "beincrypto.com",
-    "published": "Mon Oct 12 2026 08:29:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: @Ledger confirms a hardware implant was found inside a device linked to the $93M theft, with all confirmed cases tied to Southeast Asian reseller CryptoBillis. \n\nLedger’s internal systems and direct sales channels remain unaffected.",
-    "link": "https://cryptopanic.com/news/33530597/UPDATE-Ledger-confirms-a-hardware-implant-was-found-inside-a-device-linked-to-the-93M-theft-with-all-confirmed-cases-tied-to-Southeast-Asian-reseller-CryptoBillis-Ledgers-internal-systems-and-direct-sales-channels-remain-unaffected",
-    "source": "@coindesk",
-    "published": "Mon Oct 12 2026 08:26:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "From TOKEN2049 to Ecosystem Co-Building: HTX Advances Its Multifaceted Engagement Across the Global Crypto Industry",
-    "link": "https://cryptopanic.com/news/33530742/From-TOKEN2049-to-Ecosystem-Co-Building-HTX-Advances-Its-Multifaceted-Engagement-Across-the-Global-Crypto-Industry",
-    "source": "beincrypto.com",
-    "published": "Mon Oct 12 2026 08:24:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Shows Signs of an October Bottom as U.S. Midterms Approach\n\n“These developments suggest conditions for a bottom are improving. Confirmation requires sustained ETF inflows, stronger U.S. spot buying and continued demand recovery.” – By @xwinfinance",
-    "link": "https://cryptopanic.com/news/33530524/Bitcoin-Shows-Signs-of-an-October-Bottom-as-US-Midterms-Approach-These-developments-suggest-conditions-for-a-bottom-are-improving-Confirmation-requires-sustained-ETF-inflows-stronger-US-spot-buying-and-continued-demand-recovery-By-xwinfinance",
-    "source": "@cryptoquant_com",
-    "published": "Mon Oct 12 2026 08:11:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Read more",
-    "link": "https://cryptopanic.com/news/33530527/Read-more",
-    "source": "@wublockchain",
-    "published": "Mon Oct 12 2026 08:11:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "WuBlockchain Weekly Outlook: Bigger AI factories do not guarantee bigger stock returns. OCP and ASML put deployment plans and equipment orders in focus, while U.S. inflation, spending, jobs and oil data arrive ahead of Warsh’s IMF discussion. Better earnings prospects help;",
-    "link": "https://cryptopanic.com/news/33530526/WuBlockchain-Weekly-Outlook-Bigger-AI-factories-do-not-guarantee-bigger-stock-returns-OCP-and-ASML-put-deployment-plans-and-equipment-orders-in-focus-while-US-inflation-spending-jobs-and-oil-data-arrive-ahead-of-Warshs-IMF-discussion-Better-earnings-prospects-help",
-    "source": "@wublockchain",
-    "published": "Mon Oct 12 2026 08:11:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: Kraken plans to launch in the UAE with dirham deposits and withdrawals after its parent company Payward secured full regulatory approval from Dubai’s VARA",
-    "link": "https://cryptopanic.com/news/33530660/INTEL-Kraken-plans-to-launch-in-the-UAE-with-dirham-deposits-and-withdrawals-after-its-parent-company-Payward-secured-full-regulatory-approval-from-Dubais-VARA",
-    "source": "@solidintel_x",
-    "published": "Mon Oct 12 2026 08:09:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$BTC Trading back into the range.\n\nBut I do want to see spot bid sustain the move as most of it has been perp driven. First by shorts covering now by longs moving in on Sunday and Monday morning.\n\nClear invalidation/weakness below $83K for me.\n\nDo think we'll see choppy price",
-    "link": "https://cryptopanic.com/news/33530600/BTC-Trading-back-into-the-range-But-I-do-want-to-see-spot-bid-sustain-the-move-as-most-of-it-has-been-perp-driven-First-by-shorts-covering-now-by-longs-moving-in-on-Sunday-and-Monday-morning-Clear-invalidationweakness-below-83K-for-me-Do-think-well-see-choppy-price",
-    "source": "@daancrypto",
-    "published": "Mon Oct 12 2026 08:05:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Foundation Explains Its Emergency Fix for Critical Bug",
-    "link": "https://cryptopanic.com/news/33530475/XRP-Foundation-Explains-Its-Emergency-Fix-for-Critical-Bug",
-    "source": "coindoo.com",
-    "published": "Mon Oct 12 2026 08:05:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Evernorth closed its merger with SPAC Armada Acquisition Corp. II and is expected to start trading on Nasdaq today as XRPN, holding about 473M XRP.",
-    "link": "https://cryptopanic.com/news/33530523/LATEST-Evernorth-closed-its-merger-with-SPAC-Armada-Acquisition-Corp-II-and-is-expected-to-start-trading-on-Nasdaq-today-as-XRPN-holding-about-473M-XRP",
-    "source": "@coinmarketcap",
-    "published": "Mon Oct 12 2026 08:05:02 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
