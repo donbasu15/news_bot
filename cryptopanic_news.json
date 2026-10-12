@@ -1,9 +1,65 @@
 [
   {
+    "title": "U.S. Treasury yields are so high that one of the world’s biggest gold buyers wants out of some holdings",
+    "link": "https://cryptopanic.com/news/33533506/US-Treasury-yields-are-so-high-that-one-of-the-worlds-biggest-gold-buyers-wants-out-of-some-holdings",
+    "source": "cryptopolitan.com",
+    "published": "Mon Oct 12 2026 18:11:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ripple-Backed Evernorth Hits Nasdaq Holding 473 Million XRP Worth Far Less Than It Paid",
+    "link": "https://cryptopanic.com/news/33533505/Ripple-Backed-Evernorth-Hits-Nasdaq-Holding-473-Million-XRP-Worth-Far-Less-Than-It-Paid",
+    "source": "decrypt.co",
+    "published": "Mon Oct 12 2026 18:09:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Drops Below $83,000, Ethereum Down 1%, XRP, Dogecoin Plunge 3%",
+    "link": "https://cryptopanic.com/news/33533532/Bitcoin-Drops-Below-83000-Ethereum-Down-1-XRP-Dogecoin-Plunge-3",
+    "source": "feeds2.benzinga.com",
+    "published": "Mon Oct 12 2026 18:00:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MASSIVE NEWS FOR RIPPLE & XRP! Standard Chartered has officially launched institutional custody for Ripple's RLUSD stablecoin on the $XRP Ledger! \n\nThis means one of the world's largest international banks is now providing regulated custody for RLUSD, giving institutional",
+    "link": "https://cryptopanic.com/news/33533531/MASSIVE-NEWS-FOR-RIPPLE-amp-XRP-Standard-Chartered-has-officially-launched-institutional-custody-for-Ripples-RLUSD-stablecoin-on-the-XRP-Ledger-This-means-one-of-the-worlds-largest-international-banks-is-now-providing-regulated-custody-for-RLUSD-giving-institutional",
+    "source": "@realallincrypto",
+    "published": "Mon Oct 12 2026 18:00:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Microsoft Reveals Maia 300 AI Chip to Reduce Reliance on Nvidia",
+    "link": "https://cryptopanic.com/news/33533469/Microsoft-Reveals-Maia-300-AI-Chip-to-Reduce-Reliance-on-Nvidia",
+    "source": "catenaa.com",
+    "published": "Mon Oct 12 2026 18:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "FTX’s old Bitcoin mining assets have a new mission, and it’s not crypto",
+    "link": "https://cryptopanic.com/news/33533548/FTXs-old-Bitcoin-mining-assets-have-a-new-mission-and-its-not-crypto",
+    "source": "thestreet.com",
+    "published": "Mon Oct 12 2026 18:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Analysts Raise Targets on Securitize, Coinbase, Robinhood; BofA Cuts eToro",
+    "link": "https://cryptopanic.com/news/33533459/Analysts-Raise-Targets-on-Securitize-Coinbase-Robinhood-BofA-Cuts-eToro",
+    "source": "cryptoprowl.com",
+    "published": "Mon Oct 12 2026 17:53:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "🇷🇺 NEW: Russia’s central bank has added Sberbank to its register of organizations authorized to exchange cryptocurrencies.",
     "link": "https://cryptopanic.com/news/33533464/NEW-Russias-central-bank-has-added-Sberbank-to-its-register-of-organizations-authorized-to-exchange-cryptocurrencies",
     "source": "@cointelegraph",
     "published": "Mon Oct 12 2026 17:50:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Kaspa cuts its mining reward every month instead of every four years\n\nBitcoin halves its mining reward about every four years, in one sudden step. $KAS takes a smoother path, trimming its reward by about 5.6% each month.\n\nTwelve of those small cuts add up to one full halving a",
+    "link": "https://cryptopanic.com/news/33533535/Kaspa-cuts-its-mining-reward-every-month-instead-of-every-four-years-Bitcoin-halves-its-mining-reward-about-every-four-years-in-one-sudden-step-KAS-takes-a-smoother-path-trimming-its-reward-by-about-56-each-month-Twelve-of-those-small-cuts-add-up-to-one-full-halving-a",
+    "source": "@bscnews",
+    "published": "Mon Oct 12 2026 17:50:21 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -42,6 +98,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Blockstream CEO @adam3us says Satoshi understood distributed systems better than the people who built Ethereum, and he gives $BTC’s UTXO model the credit \n\nMeanwhile, @drakefjustin is warning that, in a worst-case scenario, AI could put wallets at risk within months. Read more",
+    "link": "https://cryptopanic.com/news/33533533/Blockstream-CEO-adam3us-says-Satoshi-understood-distributed-systems-better-than-the-people-who-built-Ethereum-and-he-gives-BTCs-UTXO-model-the-credit-Meanwhile-drakefjustin-is-warning-that-in-a-worst-case-scenario-AI-could-put-wallets-at-risk-within-months-Read-more",
+    "source": "@bscnews",
+    "published": "Mon Oct 12 2026 17:32:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "️ LATEST: Eli Ben-Sasson pushes back on Ethereum labeling Starknet’s design choices “misalignment,” saying a potential move to L1 is a new discussion.",
     "link": "https://cryptopanic.com/news/33533372/LATEST-Eli-Ben-Sasson-pushes-back-on-Ethereum-labeling-Starknets-design-choices-misalignment-saying-a-potential-move-to-L1-is-a-new-discussion",
     "source": "@cointelegraph",
@@ -53,6 +116,13 @@
     "link": "https://cryptopanic.com/news/33533439/Bitcoin-Wont-Just-Be-Digital-Gold-Itll-Be-Better-Than-Gold",
     "source": "BitcoinMagazine",
     "published": "Mon Oct 12 2026 17:30:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Weekly Trading Data Show Crypto Markets May Expect Prices to Fall",
+    "link": "https://cryptopanic.com/news/33533497/Weekly-Trading-Data-Show-Crypto-Markets-May-Expect-Prices-to-Fall",
+    "source": "beincrypto.com",
+    "published": "Mon Oct 12 2026 17:30:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/33533370/Key-events-this-week-October-1218-2026-All-times-Eastern-ET-US-Q3-earnings-season-kicks-off-with-major-banks-reporting-this-week-Monday-October-12-IMFWorld-Bank-Annual-Meetings-begin-in-Bangkok-running-through-October-18-EU-adopts-new-sanctions-targeting",
     "source": "@cointelegraph",
     "published": "Mon Oct 12 2026 17:15:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stablecoin Regulation: FSB Flags Cross-Border Risks as Market Holds Near $300 Billion",
-    "link": "https://cryptopanic.com/news/33533309/Stablecoin-Regulation-FSB-Flags-Cross-Border-Risks-as-Market-Holds-Near-300-Billion",
-    "source": "btcusa.com",
-    "published": "Mon Oct 12 2026 17:15:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Diesel dominated another weekend of noisy geopolitics, with confusion surrounding US moves to temporarily lift sanctions on Russian diesel exports — and neither Ukraine nor Russia seems sure of an energy ceasefire. Mike Dolan explains",
-    "link": "https://cryptopanic.com/news/33533373/Diesel-dominated-another-weekend-of-noisy-geopolitics-with-confusion-surrounding-US-moves-to-temporarily-lift-sanctions-on-Russian-diesel-exports-and-neither-Ukraine-nor-Russia-seems-sure-of-an-energy-ceasefire-Mike-Dolan-explains",
-    "source": "@reutersbiz",
-    "published": "Mon Oct 12 2026 17:15:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Central Bank of Argentina denies plans for crypto banking integration.\n\nCommercial banks are prohibited from offering crypto services.",
-    "link": "https://cryptopanic.com/news/33533444/JUST-IN-Central-Bank-of-Argentina-denies-plans-for-crypto-banking-integration-Commercial-banks-are-prohibited-from-offering-crypto-services",
-    "source": "@btc_archive",
-    "published": "Mon Oct 12 2026 17:13:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Daily #Cardano News! ️\n\nGeorge: $ADA \"Always Comes Back. The Community Is Strong.\"",
-    "link": "https://cryptopanic.com/news/33533310/Daily-Cardano-News-George-ADA-Always-Comes-Back-The-Community-Is-Strong",
-    "source": "@angrycryptoshow",
-    "published": "Mon Oct 12 2026 17:13:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "InterLink users can now pay by scanning a QR code\n\n@ATV_Interlink launched its QR Payment tool in beta on the ITLX Wallet today, letting users pay with $ITL on the InterLink mainnet. Stores or individuals can sign up to become payment points.\n\nA Check-In Task pays new payment",
-    "link": "https://cryptopanic.com/news/33533379/InterLink-users-can-now-pay-by-scanning-a-QR-code-ATV_Interlink-launched-its-QR-Payment-tool-in-beta-on-the-ITLX-Wallet-today-letting-users-pay-with-ITL-on-the-InterLink-mainnet-Stores-or-individuals-can-sign-up-to-become-payment-points-A-Check-In-Task-pays-new-payment",
-    "source": "@bscnews",
-    "published": "Mon Oct 12 2026 17:07:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "StoneX raises Securitize price target 50% as tokenized stock platform opens new revenue stream",
-    "link": "https://cryptopanic.com/news/33533271/StoneX-raises-Securitize-price-target-50-as-tokenized-stock-platform-opens-new-revenue-stream",
-    "source": "theblock.co",
-    "published": "Mon Oct 12 2026 17:06:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ICYMI: 🇷🇺 Moscow Exchange plans to start crypto trading on Dec. 1 and has been testing with professional participants for a week, says senior managing director Boris Blokhin.",
-    "link": "https://cryptopanic.com/news/33533308/ICYMI-Moscow-Exchange-plans-to-start-crypto-trading-on-Dec-1-and-has-been-testing-with-professional-participants-for-a-week-says-senior-managing-director-Boris-Blokhin",
-    "source": "@coinmarketcap",
-    "published": "Mon Oct 12 2026 17:05:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hong Kong Adds Another Route Into SOL — Will It Attract Fresh Capital?",
-    "link": "https://cryptopanic.com/news/33533263/Hong-Kong-Adds-Another-Route-Into-SOL-Will-It-Attract-Fresh-Capital",
-    "source": "techgaged.com",
-    "published": "Mon Oct 12 2026 17:03:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Nasdaq CEO says tokenization could unlock tens of billions of dollars across the global financial system.",
-    "link": "https://cryptopanic.com/news/33533442/JUST-IN-Nasdaq-CEO-says-tokenization-could-unlock-tens-of-billions-of-dollars-across-the-global-financial-system",
-    "source": "@watcherguru",
-    "published": "Mon Oct 12 2026 17:02:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: The IMF warns AI could impact nearly 40% of jobs worldwide! \n\nWe're talking about hundreds of millions of workers potentially seeing their jobs transformed, automated or replaced.\n\nThis isn't just another technological breakthrough. It could completely reshape the",
-    "link": "https://cryptopanic.com/news/33533376/BREAKING-The-IMF-warns-AI-could-impact-nearly-40-of-jobs-worldwide-Were-talking-about-hundreds-of-millions-of-workers-potentially-seeing-their-jobs-transformed-automated-or-replaced-This-isnt-just-another-technological-breakthrough-It-could-completely-reshape-the",
-    "source": "@realallincrypto",
-    "published": "Mon Oct 12 2026 17:01:31 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
