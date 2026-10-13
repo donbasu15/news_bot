@@ -1,9 +1,72 @@
 [
   {
+    "title": "BitFuFu launches HASH token to court new investors as mining rebounds",
+    "link": "https://cryptopanic.com/news/33540038/BitFuFu-launches-HASH-token-to-court-new-investors-as-mining-rebounds",
+    "source": "cryptopolitan.com",
+    "published": "Tue Oct 13 2026 21:10:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "China Insider Calls For Bitcoin Supercycle! Is He Right?",
+    "link": "https://cryptopanic.com/news/33540014/China-Insider-Calls-For-Bitcoin-Supercycle-Is-He-Right",
+    "source": "SimplyBitcoin",
+    "published": "Tue Oct 13 2026 21:02:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "PONS falls 71% from ATH as Robinhood Chain activity fades – Where’s the floor?",
+    "link": "https://cryptopanic.com/news/33540006/PONS-falls-71-from-ATH-as-Robinhood-Chain-activity-fades-Wheres-the-floor",
+    "source": "ambcrypto.com",
+    "published": "Tue Oct 13 2026 21:00:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "WATCH: @natbrunell of Coin Stories - Why Bitcoin is “the greatest equalizer” ️\n\nFrom @watchbmtv",
+    "link": "https://cryptopanic.com/news/33540034/WATCH-natbrunell-of-Coin-Stories-Why-Bitcoin-is-the-greatest-equalizer-From-watchbmtv",
+    "source": "@bitcoinmagazine",
+    "published": "Tue Oct 13 2026 21:00:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "GameStop CEO: The Machines Are Already Smarter Than Us",
+    "link": "https://cryptopanic.com/news/33540040/GameStop-CEO-The-Machines-Are-Already-Smarter-Than-Us",
+    "source": "AnthonyPompliano",
+    "published": "Tue Oct 13 2026 21:00:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trezor shrinks reseller network, exposing crypto’s supply-chain weak spot",
+    "link": "https://cryptopanic.com/news/33539984/Trezor-shrinks-reseller-network-exposing-cryptos-supply-chain-weak-spot",
+    "source": "cryptopolitan.com",
+    "published": "Tue Oct 13 2026 20:55:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum FOMO Meets Higher Binance Leverage Than Bitcoin",
+    "link": "https://cryptopanic.com/news/33539971/Ethereum-FOMO-Meets-Higher-Binance-Leverage-Than-Bitcoin",
+    "source": "coindoo.com",
+    "published": "Tue Oct 13 2026 20:53:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "OpenAI says it used its own AI models to analyze the device and trace it back to the employee who planted it.\n\nFBI says it found Saudi-national 'Abdulrahman Alfozan' had allegedly concealed a device inside a conference room to secretly record sensitive communication regarding",
+    "link": "https://cryptopanic.com/news/33540037/OpenAI-says-it-used-its-own-AI-models-to-analyze-the-device-and-trace-it-back-to-the-employee-who-planted-it-FBI-says-it-found-Saudi-national-Abdulrahman-Alfozan-had-allegedly-concealed-a-device-inside-a-conference-room-to-secretly-record-sensitive-communication-regarding",
+    "source": "@watcherguru",
+    "published": "Tue Oct 13 2026 20:51:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "UPDATE: JPMorgan blocks outside AI agents from accessing customer accounts, citing risks to clients and the bank.",
     "link": "https://cryptopanic.com/news/33539979/UPDATE-JPMorgan-blocks-outside-AI-agents-from-accessing-customer-accounts-citing-risks-to-clients-and-the-bank",
     "source": "@cointelegraph",
     "published": "Tue Oct 13 2026 20:50:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Michael Saylor drops bold Bitcoin call ahead of major index review",
+    "link": "https://cryptopanic.com/news/33540015/Michael-Saylor-drops-bold-Bitcoin-call-ahead-of-major-index-review",
+    "source": "thestreet.com",
+    "published": "Tue Oct 13 2026 20:47:51 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -32,6 +95,20 @@
     "link": "https://cryptopanic.com/news/33539968/UK-Judge-Says-Chinese-Law-Applies-to-Claims-Over-4B-Bitcoin-Fraud",
     "source": "cryptopotato.com",
     "published": "Tue Oct 13 2026 20:40:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 Citadel Securities and BNY complete first blockchain-based tokenized US Treasury transaction.",
+    "link": "https://cryptopanic.com/news/33540036/JUST-IN-Citadel-Securities-and-BNY-complete-first-blockchain-based-tokenized-US-Treasury-transaction",
+    "source": "@watcherguru",
+    "published": "Tue Oct 13 2026 20:37:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: US Treasury fines Bank of America $1.2 billion over failures to monitor more than $5 billion in suspicious transactions",
+    "link": "https://cryptopanic.com/news/33540033/INTEL-US-Treasury-fines-Bank-of-America-12-billion-over-failures-to-monitor-more-than-5-billion-in-suspicious-transactions",
+    "source": "@solidintel_x",
+    "published": "Tue Oct 13 2026 20:36:58 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -130,83 +207,6 @@
     "link": "https://cryptopanic.com/news/33539836/Could-AI-save-local-news-Cloudflare-CEO-eastdakota-explains-why-the-small-town-paper-he-bought-could-make-more-from-AI-than-from-digital-ads",
     "source": "@coindesk",
     "published": "Tue Oct 13 2026 20:06:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$BTC Testing the breakout level again. The wicks make it look decent but it is key to close the weekly at or above this area.\n\nYou don't want to be hanging around the same support for too long. Needs to get going at some point, above $87K it should ignite some excitement again.",
-    "link": "https://cryptopanic.com/news/33539842/BTC-Testing-the-breakout-level-again-The-wicks-make-it-look-decent-but-it-is-key-to-close-the-weekly-at-or-above-this-area-You-dont-want-to-be-hanging-around-the-same-support-for-too-long-Needs-to-get-going-at-some-point-above-87K-it-should-ignite-some-excitement-again",
-    "source": "@daancrypto",
-    "published": "Tue Oct 13 2026 20:01:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HUGE DAN DONEY POINTS OUT THE $132 TRILLION OPPORTUNITY FOR $LINK AND $XLM?! 🤯\n\nDTCC's Dan Doney explains how @chainlink's technology can connect DIFFERENT BLOCKCHAINS, before revealing the staggering scale of the opportunity:\n\n $80 TRILLION in assets that could be used as",
-    "link": "https://cryptopanic.com/news/33539843/HUGE-DAN-DONEY-POINTS-OUT-THE-132-TRILLION-OPPORTUNITY-FOR-LINK-AND-XLM-DTCCs-Dan-Doney-explains-how-chainlinks-technology-can-connect-DIFFERENT-BLOCKCHAINS-before-revealing-the-staggering-scale-of-the-opportunity-80-TRILLION-in-assets-that-could-be-used-as",
-    "source": "@realallincrypto",
-    "published": "Tue Oct 13 2026 20:00:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AI limiting European workers' bargaining power, ECB's Lane says",
-    "link": "https://cryptopanic.com/news/33539841/AI-limiting-European-workers-bargaining-power-ECBs-Lane-says",
-    "source": "@reutersbiz",
-    "published": "Tue Oct 13 2026 20:00:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INSIGHT: Michael Dell says AI models need “safeguards and controls,” with government having a role to play in addressing the technology’s risks.",
-    "link": "https://cryptopanic.com/news/33539839/INSIGHT-Michael-Dell-says-AI-models-need-safeguards-and-controls-with-government-having-a-role-to-play-in-addressing-the-technologys-risks",
-    "source": "@cointelegraph",
-    "published": "Tue Oct 13 2026 20:00:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple Brings AI-Powered Payments to XRP Ledger",
-    "link": "https://cryptopanic.com/news/33539852/Ripple-Brings-AI-Powered-Payments-to-XRP-Ledger",
-    "source": "u.today",
-    "published": "Tue Oct 13 2026 20:00:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: OpenAI finds secret spy recording device planted inside its office.\n\nAn employee has been arrested and referred to the FBI.",
-    "link": "https://cryptopanic.com/news/33539903/JUST-IN-OpenAI-finds-secret-spy-recording-device-planted-inside-its-office-An-employee-has-been-arrested-and-referred-to-the-FBI",
-    "source": "@watcherguru",
-    "published": "Tue Oct 13 2026 20:00:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Lighter plunges 12% – $2.9M in long liquidations trigger panic exits",
-    "link": "https://cryptopanic.com/news/33539796/Lighter-plunges-12-29M-in-long-liquidations-trigger-panic-exits",
-    "source": "ambcrypto.com",
-    "published": "Tue Oct 13 2026 20:00:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Billionaire Investor Warns of a Brutal 2027 for Stocks: Will Bitcoin Hold Up?",
-    "link": "https://cryptopanic.com/news/33539910/Billionaire-Investor-Warns-of-a-Brutal-2027-for-Stocks-Will-Bitcoin-Hold-Up",
-    "source": "beincrypto.com",
-    "published": "Tue Oct 13 2026 19:56:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Is Capitalism Broken? Why Bitcoin Is the Great Equalizer | Natalie Brunell",
-    "link": "https://cryptopanic.com/news/33539797/Is-Capitalism-Broken-Why-Bitcoin-Is-the-Great-Equalizer-Natalie-Brunell",
-    "source": "BitcoinMagazine",
-    "published": "Tue Oct 13 2026 19:55:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Zoomex World Trading Championship Enters Its Decisive October Phase",
-    "link": "https://cryptopanic.com/news/33539837/The-Zoomex-World-Trading-Championship-Enters-Its-Decisive-October-Phase",
-    "source": "beincrypto.com",
-    "published": "Tue Oct 13 2026 19:53:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Aptos launched an optional Encrypted Mempool that keeps transaction details hidden until their ordering is finalized, which can help prevent bots from exploiting pending trades.",
-    "link": "https://cryptopanic.com/news/33539771/LATEST-Aptos-launched-an-optional-Encrypted-Mempool-that-keeps-transaction-details-hidden-until-their-ordering-is-finalized-which-can-help-prevent-bots-from-exploiting-pending-trades",
-    "source": "@coinmarketcap",
-    "published": "Tue Oct 13 2026 19:47:03 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
