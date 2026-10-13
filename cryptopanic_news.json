@@ -1,5 +1,82 @@
 [
   {
+    "title": "️ NEW: Starknet introduces Shadow Accounts for public DeFi with confidential links to users’ main wallets, with the first integration launching tomorrow.",
+    "link": "https://cryptopanic.com/news/33539528/NEW-Starknet-introduces-Shadow-Accounts-for-public-DeFi-with-confidential-links-to-users-main-wallets-with-the-first-integration-launching-tomorrow",
+    "source": "@cointelegraph",
+    "published": "Tue Oct 13 2026 18:40:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Stacks crypto holds above $0.40 as Bitcoin staking round fills",
+    "link": "https://cryptopanic.com/news/33539486/Stacks-crypto-holds-above-040-as-Bitcoin-staking-round-fills",
+    "source": "ambcrypto.com",
+    "published": "Tue Oct 13 2026 18:40:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Ripple and Stripe-owned Privy have teamed up to let developers add XRP Ledger wallets to their apps, supporting XRP, RLUSD, and other assets without building wallet infrastructure.",
+    "link": "https://cryptopanic.com/news/33539525/LATEST-Ripple-and-Stripe-owned-Privy-have-teamed-up-to-let-developers-add-XRP-Ledger-wallets-to-their-apps-supporting-XRP-RLUSD-and-other-assets-without-building-wallet-infrastructure",
+    "source": "@coinmarketcap",
+    "published": "Tue Oct 13 2026 18:35:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Strive buys 3,311 BTC, writes $100 SATA floor into governing docs",
+    "link": "https://cryptopanic.com/news/33539477/Strive-buys-3311-BTC-writes-100-SATA-floor-into-governing-docs",
+    "source": "cryptopolitan.com",
+    "published": "Tue Oct 13 2026 18:30:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "If there was a deeper pullback, what assets would you buy?  #investing #marketanalysis #trading",
+    "link": "https://cryptopanic.com/news/33539479/If-there-was-a-deeper-pullback-what-assets-would-you-buy-investing-marketanalysis-trading",
+    "source": "MilkRoadYoutube",
+    "published": "Tue Oct 13 2026 18:30:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "France Debt Crisis: What It Means For Your Money",
+    "link": "https://cryptopanic.com/news/33539487/France-Debt-Crisis-What-It-Means-For-Your-Money",
+    "source": "SimplyBitcoin",
+    "published": "Tue Oct 13 2026 18:30:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "WATCH: Wall Street's bull market marked its fourth anniversary. What happens to the extraordinary run now? Yorkville America Equities' Steve Neamtz says AI infrastructure investments will offer long-term opportunities",
+    "link": "https://cryptopanic.com/news/33539530/WATCH-Wall-Streets-bull-market-marked-its-fourth-anniversary-What-happens-to-the-extraordinary-run-now-Yorkville-America-Equities-Steve-Neamtz-says-AI-infrastructure-investments-will-offer-long-term-opportunities",
+    "source": "@reutersbiz",
+    "published": "Tue Oct 13 2026 18:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "3rd Largest Bank In America Going ALL In On Bitcoin?! | EP 1612",
+    "link": "https://cryptopanic.com/news/33538853/3rd-Largest-Bank-In-America-Going-ALL-In-On-Bitcoin-EP-1612",
+    "source": "SimplyBitcoin",
+    "published": "Tue Oct 13 2026 18:23:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ALERT: Elon Musk’s net worth dropped below $1 trillion on Tuesday morning after a decline of more than 3% in SpaceX shares wiped $26.3 billion from his fortune.",
+    "link": "https://cryptopanic.com/news/33539527/ALERT-Elon-Musks-net-worth-dropped-below-1-trillion-on-Tuesday-morning-after-a-decline-of-more-than-3-in-SpaceX-shares-wiped-263-billion-from-his-fortune",
+    "source": "@cointelegraph",
+    "published": "Tue Oct 13 2026 18:20:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Name Service plans major .eth overhaul with one irreversible catch for domain holders",
+    "link": "https://cryptopanic.com/news/33539442/Ethereum-Name-Service-plans-major-eth-overhaul-with-one-irreversible-catch-for-domain-holders",
+    "source": "cryptoslate.com",
+    "published": "Tue Oct 13 2026 18:20:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Kalshi and Polymarket won’t be part of FTC sports gambling probe, report",
+    "link": "https://cryptopanic.com/news/33539419/Kalshi-and-Polymarket-wont-be-part-of-FTC-sports-gambling-probe-report",
+    "source": "protos.com",
+    "published": "Tue Oct 13 2026 18:16:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Strive Buys $280 Million in Bitcoin, Its Largest Purchase in Months",
     "link": "https://cryptopanic.com/news/33539423/Strive-Buys-280-Million-in-Bitcoin-Its-Largest-Purchase-in-Months",
     "source": "decrypt.co",
@@ -28,6 +105,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Solana’s Alpenglow Upgrade Scheduled for October 21, Targets Finality Cut from 12.8 Seconds to 150ms\n\nSolana core developer Anza announced that the Alpenglow consensus upgrade is scheduled to go live on Solana mainnet-beta on October 21 at approximately 14:50 UTC. The upgrade",
+    "link": "https://cryptopanic.com/news/33539526/Solanas-Alpenglow-Upgrade-Scheduled-for-October-21-Targets-Finality-Cut-from-128-Seconds-to-150ms-Solana-core-developer-Anza-announced-that-the-Alpenglow-consensus-upgrade-is-scheduled-to-go-live-on-Solana-mainnet-beta-on-October-21-at-approximately-1450-UTC-The-upgrade",
+    "source": "@wublockchain",
+    "published": "Tue Oct 13 2026 18:04:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Swiss parliamentary committee backs fee on UBS for public liquidity backstop",
     "link": "https://cryptopanic.com/news/33539410/Swiss-parliamentary-committee-backs-fee-on-UBS-for-public-liquidity-backstop",
     "source": "@reutersbiz",
@@ -46,6 +130,13 @@
     "link": "https://cryptopanic.com/news/33539411/HUGE-One-of-the-worlds-most-influential-think-tanks-has-released-an-incredibly-bullish-report-on-TOKENISED-FINANCE-QNT-Frances-IFRI-ranked-5th-globally-in-the-2020-Think-Tank-Index-highlights-initiatives-including-the-ECBs-Project-Pontes-which-quantnetwork-has",
     "source": "@realallincrypto",
     "published": "Tue Oct 13 2026 18:00:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "𝐥𝐨𝐚𝐝𝐢𝐧𝐠 ▰▰▰▱",
+    "link": "https://cryptopanic.com/news/33539524/loading",
+    "source": "@coinmarketcap",
+    "published": "Tue Oct 13 2026 18:00:34 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -116,97 +207,6 @@
     "link": "https://cryptopanic.com/news/33539268/New-Pi-Upgrade-Mirrors-Stellar-Will-Pi-Coin-Reach-1",
     "source": "dailycoin.com",
     "published": "Tue Oct 13 2026 17:40:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AI Researchers Are Smoking Cigarettes to Prove AI Will Cure Cancer, Says Palantir Exec",
-    "link": "https://cryptopanic.com/news/33539266/AI-Researchers-Are-Smoking-Cigarettes-to-Prove-AI-Will-Cure-Cancer-Says-Palantir-Exec",
-    "source": "decrypt.co",
-    "published": "Tue Oct 13 2026 17:37:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: Researchers at Imperial College London propose framework for post-quantum private transfers on Bitcoin without a need for a soft fork",
-    "link": "https://cryptopanic.com/news/33539298/BREAKING-Researchers-at-Imperial-College-London-propose-framework-for-post-quantum-private-transfers-on-Bitcoin-without-a-need-for-a-soft-fork",
-    "source": "@bitcoinmagazine",
-    "published": "Tue Oct 13 2026 17:36:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Blur Is Pulling the Plug on Its Frontend, but the On-Chain Protocol Lives On",
-    "link": "https://cryptopanic.com/news/33539292/Blur-Is-Pulling-the-Plug-on-Its-Frontend-but-the-On-Chain-Protocol-Lives-On",
-    "source": "cryptopotato.com",
-    "published": "Tue Oct 13 2026 17:36:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRPN took shareholder vote with no knowledge of XRP inflation bug",
-    "link": "https://cryptopanic.com/news/33539265/XRPN-took-shareholder-vote-with-no-knowledge-of-XRP-inflation-bug",
-    "source": "protos.com",
-    "published": "Tue Oct 13 2026 17:33:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEWS: The first-ever Cardano-to-Solana launchpad is live, unifying Cardano and Solana with a new rail, bringing ADA-funded launches to PumpFun, enabling 1.7M monthly active users to discover and trade the tokens. PumpFun creator fees are paid in $ADA directly to Cardano wallets.",
-    "link": "https://cryptopanic.com/news/33539327/NEWS-The-first-ever-Cardano-to-Solana-launchpad-is-live-unifying-Cardano-and-Solana-with-a-new-rail-bringing-ADA-funded-launches-to-PumpFun-enabling-17M-monthly-active-users-to-discover-and-trade-the-tokens-PumpFun-creator-fees-are-paid-in-ADA-directly-to-Cardano-wallets",
-    "source": "@angrycryptoshow",
-    "published": "Tue Oct 13 2026 17:32:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CoinMarketCap | Real-World Assets \n \nWe now track 7,811 real-world assets, from stocks and ETFs to gold.\n\nTheir tokenized value is up 16% since mid-August!\n \n Tokenized market cap is $7.97B\n Tether Holdings is the top issuer, with 35.93%\n Ethereum hosts 73.17% of the",
-    "link": "https://cryptopanic.com/news/33539323/CoinMarketCap-Real-World-Assets-We-now-track-7811-real-world-assets-from-stocks-and-ETFs-to-gold-Their-tokenized-value-is-up-16-since-mid-August-Tokenized-market-cap-is-797B-Tether-Holdings-is-the-top-issuer-with-3593-Ethereum-hosts-7317-of-the",
-    "source": "@coinmarketcap",
-    "published": "Tue Oct 13 2026 17:30:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Banking regulators are stepping up efforts to contain growing AI risks, with some pointing to potential cyberattacks on banks or rogue agents undermining global financial stability. Tommy Reggiori Wilkes explains",
-    "link": "https://cryptopanic.com/news/33539253/Banking-regulators-are-stepping-up-efforts-to-contain-growing-AI-risks-with-some-pointing-to-potential-cyberattacks-on-banks-or-rogue-agents-undermining-global-financial-stability-Tommy-Reggiori-Wilkes-explains",
-    "source": "@reutersbiz",
-    "published": "Tue Oct 13 2026 17:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin is now seeing its largest coinbase discount since the end of June.\n\nWhat is interesting is that $BTC is actually green today, so somebody is absorbing this large US-based sell pressure.",
-    "link": "https://cryptopanic.com/news/33539320/Bitcoin-is-now-seeing-its-largest-coinbase-discount-since-the-end-of-June-What-is-interesting-is-that-BTC-is-actually-green-today-so-somebody-is-absorbing-this-large-US-based-sell-pressure",
-    "source": "@stackersatoshi",
-    "published": "Tue Oct 13 2026 17:29:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "September was the biggest month yet for @near_intents, with about $4.8B in swaps, up 73% from August and well past the old $3.66B record ⬇️",
-    "link": "https://cryptopanic.com/news/33539256/September-was-the-biggest-month-yet-for-near_intents-with-about-48B-in-swaps-up-73-from-August-and-well-past-the-old-366B-record",
-    "source": "@bscnews",
-    "published": "Tue Oct 13 2026 17:26:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BITCOIN AMSTERDAM TICKET PRICES INCREASE TONIGHT! 🇳🇱 \n\nGA: €189.50 → €199.50 \n Whale: €2,113.50 → €2,199.50 \n\nThe biggest #Bitcoin event in Europe is getting closer, and your chance to lock in lower prices is running out.",
-    "link": "https://cryptopanic.com/news/33539297/BITCOIN-AMSTERDAM-TICKET-PRICES-INCREASE-TONIGHT-GA-18950-19950-Whale-211350-219950-The-biggest-Bitcoin-event-in-Europe-is-getting-closer-and-your-chance-to-lock-in-lower-prices-is-running-out",
-    "source": "@bitcoinmagazine",
-    "published": "Tue Oct 13 2026 17:25:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Iran Geopolitics, BTC On-Chain Data, Crypto Legislation Outlook | BMTV Oct. 14, 2026",
-    "link": "https://cryptopanic.com/news/33539262/Iran-Geopolitics-BTC-On-Chain-Data-Crypto-Legislation-Outlook-BMTV-Oct-14-2026",
-    "source": "BitcoinMagazine",
-    "published": "Tue Oct 13 2026 17:24:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SpaceX Launches 6,300 Pounds of NASA Cargo on 35th ISS Supply Mission",
-    "link": "https://cryptopanic.com/news/33539206/SpaceX-Launches-6300-Pounds-of-NASA-Cargo-on-35th-ISS-Supply-Mission",
-    "source": "coinpaper.com",
-    "published": "Tue Oct 13 2026 17:23:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: ️ Interactive Brokers has launched cryptocurrency staking for eligible clients, starting with Ethereum.",
-    "link": "https://cryptopanic.com/news/33539321/LATEST-Interactive-Brokers-has-launched-cryptocurrency-staking-for-eligible-clients-starting-with-Ethereum",
-    "source": "@coinmarketcap",
-    "published": "Tue Oct 13 2026 17:23:04 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
