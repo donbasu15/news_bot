@@ -1,9 +1,30 @@
 [
   {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33535877/Source",
+    "source": "@wublockchain",
+    "published": "Tue Oct 13 2026 06:50:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "According to SoSoValue, U.S. Bitcoin spot ETFs logged a total net outflow of $65.40 million on October 12 (EDT), led by BlackRock's IBIT with a net outflow of $65.40 million. Meanwhile, Ethereum spot ETFs recorded a total net outflow of $85.39 million yesterday, extending their",
+    "link": "https://cryptopanic.com/news/33535876/According-to-SoSoValue-US-Bitcoin-spot-ETFs-logged-a-total-net-outflow-of-6540-million-on-October-12-EDT-led-by-BlackRocks-IBIT-with-a-net-outflow-of-6540-million-Meanwhile-Ethereum-spot-ETFs-recorded-a-total-net-outflow-of-8539-million-yesterday-extending-their",
+    "source": "@wublockchain",
+    "published": "Tue Oct 13 2026 06:49:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "South Korea’s First Bank Loans Backed by Bitcoin Arrive, With Strict Guardrails",
     "link": "https://cryptopanic.com/news/33535830/South-Koreas-First-Bank-Loans-Backed-by-Bitcoin-Arrive-With-Strict-Guardrails",
     "source": "cryptointelligence.co.uk",
     "published": "Tue Oct 13 2026 06:38:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Citi will let institutional clients take stablecoin payments at checkout through Spring by Citi, with Coinbase converting them to fiat so merchants never hold crypto.",
+    "link": "https://cryptopanic.com/news/33535874/LATEST-Citi-will-let-institutional-clients-take-stablecoin-payments-at-checkout-through-Spring-by-Citi-with-Coinbase-converting-them-to-fiat-so-merchants-never-hold-crypto",
+    "source": "@coinmarketcap",
+    "published": "Tue Oct 13 2026 06:38:02 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -186,27 +207,6 @@
     "link": "https://cryptopanic.com/news/33535649/State-of-TRON-Q3-2026-Report-Highlights-221-Trillion-in-Stablecoin-Settlement-Amid-Network-Activity-Growth",
     "source": "beincrypto.com",
     "published": "Tue Oct 13 2026 05:02:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitmine’s Ether Buying Spree May be Nearing its End\n\nBitmine (@BitMNR) acquired another 12,532 ethereum:native last week, bringing its holdings to nearly 6.03 million ETH.\n\nAccording to Chairman Tom Lee (@fundstrat), Bitmine is close to reaching its goal of accumulating 5% of",
-    "link": "https://cryptopanic.com/news/33535551/Bitmines-Ether-Buying-Spree-May-be-Nearing-its-End-Bitmine-BitMNR-acquired-another-12532-ethereumnative-last-week-bringing-its-holdings-to-nearly-603-million-ETH-According-to-Chairman-Tom-Lee-fundstrat-Bitmine-is-close-to-reaching-its-goal-of-accumulating-5-of",
-    "source": "@bscnews",
-    "published": "Tue Oct 13 2026 05:00:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NOW: The IMF expects global GDP to grow 3.4% in 2027, boosted by AI investment, though it warns economic resilience is under strain, per Bloomberg.",
-    "link": "https://cryptopanic.com/news/33535648/NOW-The-IMF-expects-global-GDP-to-grow-34-in-2027-boosted-by-AI-investment-though-it-warns-economic-resilience-is-under-strain-per-Bloomberg",
-    "source": "@cointelegraph",
-    "published": "Tue Oct 13 2026 05:00:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "China opens criminal probe into CreditEase after $4.5B defaults — Details!",
-    "link": "https://cryptopanic.com/news/33535504/China-opens-criminal-probe-into-CreditEase-after-45B-defaults-Details",
-    "source": "ambcrypto.com",
-    "published": "Tue Oct 13 2026 05:00:22 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
