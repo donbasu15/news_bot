@@ -1,5 +1,26 @@
 [
   {
+    "title": "LATEST:  Aptos launched an optional Encrypted Mempool that keeps transaction details hidden until their ordering is finalized, which can help prevent bots from exploiting pending trades.",
+    "link": "https://cryptopanic.com/news/33539771/LATEST-Aptos-launched-an-optional-Encrypted-Mempool-that-keeps-transaction-details-hidden-until-their-ordering-is-finalized-which-can-help-prevent-bots-from-exploiting-pending-trades",
+    "source": "@coinmarketcap",
+    "published": "Tue Oct 13 2026 19:47:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Zebec is bringing an institutional wallet into its payroll tools\n\n@Zebec_HQ is adding the enterprise version of @C8Wallet, built by @cantor8, to its products. It lets institutions manage several assets and move funds while keeping control of their keys.\n\nPaired with Zebec’s",
+    "link": "https://cryptopanic.com/news/33539755/Zebec-is-bringing-an-institutional-wallet-into-its-payroll-tools-Zebec_HQ-is-adding-the-enterprise-version-of-C8Wallet-built-by-cantor8-to-its-products-It-lets-institutions-manage-several-assets-and-move-funds-while-keeping-control-of-their-keys-Paired-with-Zebecs",
+    "source": "@bscnews",
+    "published": "Tue Oct 13 2026 19:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Aptos ends four-year token unlocks as monthly releases drop 60%",
+    "link": "https://cryptopanic.com/news/33539781/Aptos-ends-four-year-token-unlocks-as-monthly-releases-drop-60",
+    "source": "thestreet.com",
+    "published": "Tue Oct 13 2026 19:41:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M",
     "link": "https://cryptopanic.com/news/33539716/Bitcoin-Whale-That-Sat-Through-Every-Crash-Since-2020-Just-Moved-377M",
     "source": "decrypt.co",
@@ -11,6 +32,13 @@
     "link": "https://cryptopanic.com/news/33539758/JUST-IN-Michael-Saylor-say-Bitcoin-is-at-the-beginning-of-a-bull-market",
     "source": "@watcherguru",
     "published": "Tue Oct 13 2026 19:36:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Is Worth $105,000, Mark Yusko Says—But It'll Take Time",
+    "link": "https://cryptopanic.com/news/33539762/Bitcoin-Is-Worth-105000-Mark-Yusko-SaysBut-Itll-Take-Time",
+    "source": "feeds2.benzinga.com",
+    "published": "Tue Oct 13 2026 19:35:09 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -46,6 +74,13 @@
     "link": "https://cryptopanic.com/news/33539713/Strategy-Bought-250-Bitcoin-It-Spent-Nine-Times-More-on-STRC",
     "source": "bitcoinalmanack.com",
     "published": "Tue Oct 13 2026 19:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ANALYSIS: 🟠 Strategy bought 250 BTC last week, but it spent nearly 9x more buying back STRC as it works to hold the preferred stock near $100.\n\nHere's why that matters for its Bitcoin machine.",
+    "link": "https://cryptopanic.com/news/33539770/ANALYSIS-Strategy-bought-250-BTC-last-week-but-it-spent-nearly-9x-more-buying-back-STRC-as-it-works-to-hold-the-preferred-stock-near-100-Heres-why-that-matters-for-its-Bitcoin-machine",
+    "source": "@coinmarketcap",
+    "published": "Tue Oct 13 2026 19:29:01 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -140,16 +175,16 @@
     "sentiment": "neutral"
   },
   {
-    "title": "UPDATE: The SEC’s revised quorum rule could allow a single commissioner to approve crypto rules if the other remaining commissioner is disqualified. \n\nThe change comes as regulators pursue crypto rulemaking while Congress has yet to pass a comprehensive market structure bill.",
-    "link": "https://cryptopanic.com/news/33539704/UPDATE-The-SECs-revised-quorum-rule-could-allow-a-single-commissioner-to-approve-crypto-rules-if-the-other-remaining-commissioner-is-disqualified-The-change-comes-as-regulators-pursue-crypto-rulemaking-while-Congress-has-yet-to-pass-a-comprehensive-market-structure-bill",
-    "source": "@cointelegraph",
+    "title": "Aptos beats Ethereum to a built-in encrypted mempool as four-year vesting ends",
+    "link": "https://cryptopanic.com/news/33539602/Aptos-beats-Ethereum-to-a-built-in-encrypted-mempool-as-four-year-vesting-ends",
+    "source": "cryptopolitan.com",
     "published": "Tue Oct 13 2026 19:00:52 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Aptos beats Ethereum to a built-in encrypted mempool as four-year vesting ends",
-    "link": "https://cryptopanic.com/news/33539602/Aptos-beats-Ethereum-to-a-built-in-encrypted-mempool-as-four-year-vesting-ends",
-    "source": "cryptopolitan.com",
+    "title": "UPDATE: The SEC’s revised quorum rule could allow a single commissioner to approve crypto rules if the other remaining commissioner is disqualified. \n\nThe change comes as regulators pursue crypto rulemaking while Congress has yet to pass a comprehensive market structure bill.",
+    "link": "https://cryptopanic.com/news/33539704/UPDATE-The-SECs-revised-quorum-rule-could-allow-a-single-commissioner-to-approve-crypto-rules-if-the-other-remaining-commissioner-is-disqualified-The-change-comes-as-regulators-pursue-crypto-rulemaking-while-Congress-has-yet-to-pass-a-comprehensive-market-structure-bill",
+    "source": "@cointelegraph",
     "published": "Tue Oct 13 2026 19:00:52 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33539701/Coinbase-Which-Holds-About-5-of-Existing-BTC-in-Custody-Outlines-Bitcoin-Post-Quantum-Security-Recommendations-Coinbase-which-holds-approximately-5-of-all-existing-BTC-in-custody-outlined-technical-considerations-for-Bitcoins-transition-to-post-quantum-security-The",
     "source": "@wublockchain",
     "published": "Tue Oct 13 2026 18:57:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why Is Bitcoin Falling Today? BTC Falls Under $83K Ahead of U.S. CPI",
-    "link": "https://cryptopanic.com/news/33539552/Why-Is-Bitcoin-Falling-Today-BTC-Falls-Under-83K-Ahead-of-US-CPI",
-    "source": "coinpaper.com",
-    "published": "Tue Oct 13 2026 18:57:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Silver Price Near $59 as Precious Metals Extend October Decline",
-    "link": "https://cryptopanic.com/news/33539549/Silver-Price-Near-59-as-Precious-Metals-Extend-October-Decline",
-    "source": "coinpaper.com",
-    "published": "Tue Oct 13 2026 18:52:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Alpenglow Mainnet Activation Set for October 21 - Here’s What You Need to Know",
-    "link": "https://cryptopanic.com/news/33539366/Alpenglow-Mainnet-Activation-Set-for-October-21-Heres-What-You-Need-to-Know",
-    "source": "solanafloor.com",
-    "published": "Tue Oct 13 2026 18:52:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Michael Saylor sees 3 huge drivers for Bitcoin's next leg up:\n\n• Favorable regulatory environment\n• Accelerated banking adoption\n• Expanding digital asset industry\n\nThis man definitely puts his money where his mouth is.",
-    "link": "https://cryptopanic.com/news/33539647/JUST-IN-Michael-Saylor-sees-3-huge-drivers-for-Bitcoins-next-leg-up-Favorable-regulatory-environment-Accelerated-banking-adoption-Expanding-digital-asset-industry-This-man-definitely-puts-his-money-where-his-mouth-is",
-    "source": "@btc_archive",
-    "published": "Tue Oct 13 2026 18:50:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Chart Points To $8 As Fund Preps Active-Value Levers",
-    "link": "https://cryptopanic.com/news/33539543/XRP-Chart-Points-To-8-As-Fund-Preps-Active-Value-Levers",
-    "source": "dailycoin.com",
-    "published": "Tue Oct 13 2026 18:50:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
