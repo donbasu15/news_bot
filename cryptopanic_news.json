@@ -1,9 +1,191 @@
 [
   {
+    "title": "Binance Now Holds 49% of ETH Futures Open Interest, Its Highest Since 2023",
+    "link": "https://cryptopanic.com/news/33538343/Binance-Now-Holds-49-of-ETH-Futures-Open-Interest-Its-Highest-Since-2023",
+    "source": "btcusa.com",
+    "published": "Tue Oct 13 2026 14:35:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Multi-asset brokerage @IBKR launches $ETH staking for eligible clients, letting them earn rewards on cryptocurrency held alongside stocks, options and futures on a single platform.",
+    "link": "https://cryptopanic.com/news/33538428/JUST-IN-Multi-asset-brokerage-IBKR-launches-ETH-staking-for-eligible-clients-letting-them-earn-rewards-on-cryptocurrency-held-alongside-stocks-options-and-futures-on-a-single-platform",
+    "source": "@coindesk",
+    "published": "Tue Oct 13 2026 14:33:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Prediction markets price in Man City’s Champions League odds despite scandal",
+    "link": "https://cryptopanic.com/news/33538342/Prediction-markets-price-in-Man-Citys-Champions-League-odds-despite-scandal",
+    "source": "finbold.com",
+    "published": "Tue Oct 13 2026 14:32:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INSIGHT: Critics argue Lightning Network adoption is dwarfed by trillions in stablecoin volume on other chains. Has Lightning lived up to its promise or is time to find alternate solutions?",
+    "link": "https://cryptopanic.com/news/33538430/INSIGHT-Critics-argue-Lightning-Network-adoption-is-dwarfed-by-trillions-in-stablecoin-volume-on-other-chains-Has-Lightning-lived-up-to-its-promise-or-is-time-to-find-alternate-solutions",
+    "source": "@cointelegraph",
+    "published": "Tue Oct 13 2026 14:30:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "How Can Record Profits Lead to a 30% Stock Crash? The Valuation Math Explained",
+    "link": "https://cryptopanic.com/news/33538284/How-Can-Record-Profits-Lead-to-a-30-Stock-Crash-The-Valuation-Math-Explained",
+    "source": "coinpaper.com",
+    "published": "Tue Oct 13 2026 14:30:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Microsoft-Owned Ad Firm Hit With Norway’s Biggest-Ever Privacy Fine for Sharing Grindr Users’ Sexual Orientation Data",
+    "link": "https://cryptopanic.com/news/33538360/Microsoft-Owned-Ad-Firm-Hit-With-Norways-Biggest-Ever-Privacy-Fine-for-Sharing-Grindr-Users-Sexual-Orientation-Data",
+    "source": "dailyhodl.com",
+    "published": "Tue Oct 13 2026 14:30:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "California Heart Monitor Maker Breached, Affecting More Than 368,000 Patients – Names, Insurance Numbers and Birth Dates Stolen",
+    "link": "https://cryptopanic.com/news/33538359/California-Heart-Monitor-Maker-Breached-Affecting-More-Than-368000-Patients-Names-Insurance-Numbers-and-Birth-Dates-Stolen",
+    "source": "dailyhodl.com",
+    "published": "Tue Oct 13 2026 14:30:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Midnight has generated over 400,000 transactions on mainnet according to Midnight Explorer, a 34% increase in just 4 days.",
+    "link": "https://cryptopanic.com/news/33538337/JUST-IN-Midnight-has-generated-over-400000-transactions-on-mainnet-according-to-Midnight-Explorer-a-34-increase-in-just-4-days",
+    "source": "@angrycryptoshow",
+    "published": "Tue Oct 13 2026 14:28:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Coinbase Wrapped $ADA ($cbADA) surpasses 6,500 holders, highlighting rising interest in cross-chain #Cardano.",
+    "link": "https://cryptopanic.com/news/33538336/JUST-IN-Coinbase-Wrapped-ADA-cbADA-surpasses-6500-holders-highlighting-rising-interest-in-cross-chain-Cardano",
+    "source": "@angrycryptoshow",
+    "published": "Tue Oct 13 2026 14:28:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Blockworks ranks #Cardano $ADA as the 4th highest mindshare at 3.28%, surpassing Zcash at 1.65%, BNB at 1.13%, Bittensor at 1.04%, Hyperliquid at 0.88%, and XRP at 0.71%.",
+    "link": "https://cryptopanic.com/news/33538335/JUST-IN-Blockworks-ranks-Cardano-ADA-as-the-4th-highest-mindshare-at-328-surpassing-Zcash-at-165-BNB-at-113-Bittensor-at-104-Hyperliquid-at-088-and-XRP-at-071",
+    "source": "@angrycryptoshow",
+    "published": "Tue Oct 13 2026 14:28:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Binance Launches New A.I. Trading Tool",
+    "link": "https://cryptopanic.com/news/33538338/Binance-Launches-New-AI-Trading-Tool",
+    "source": "cryptoprowl.com",
+    "published": "Tue Oct 13 2026 14:28:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Binance News: Exchange Will Shut Down Pool Mining Services on Nov. 10",
+    "link": "https://cryptopanic.com/news/33538340/Binance-News-Exchange-Will-Shut-Down-Pool-Mining-Services-on-Nov-10",
+    "source": "thecoinrepublic.com",
+    "published": "Tue Oct 13 2026 14:28:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: CoinMarketCap ranks #Cardano $ADA as the 13th most viewed cryptocurrency, surpassing Hyperliquid, Chainlink, Dogecoin, BNB, and TRON.",
+    "link": "https://cryptopanic.com/news/33538333/JUST-IN-CoinMarketCap-ranks-Cardano-ADA-as-the-13th-most-viewed-cryptocurrency-surpassing-Hyperliquid-Chainlink-Dogecoin-BNB-and-TRON",
+    "source": "@angrycryptoshow",
+    "published": "Tue Oct 13 2026 14:27:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: #Cardano $ADA 24h trade volume surpasses $530,000,000 according to CoinGecko.",
+    "link": "https://cryptopanic.com/news/33538331/JUST-IN-Cardano-ADA-24h-trade-volume-surpasses-530000000-according-to-CoinGecko",
+    "source": "@angrycryptoshow",
+    "published": "Tue Oct 13 2026 14:27:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitmine’s Tom Lee Warns Of Ethereum Selloff",
+    "link": "https://cryptopanic.com/news/33538278/Bitmines-Tom-Lee-Warns-Of-Ethereum-Selloff",
+    "source": "cryptoprowl.com",
+    "published": "Tue Oct 13 2026 14:26:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN:\n\n$FLIP is building a platform for converting crypto to cash and cash to crypto.\n\nThe product is LIVE, with off-ramp services available in select countries and plans to expand into more markets.\n\nThe project is focused on making crypto-to-fiat transactions more accessible",
+    "link": "https://cryptopanic.com/news/33538436/JUST-IN-FLIP-is-building-a-platform-for-converting-crypto-to-cash-and-cash-to-crypto-The-product-is-LIVE-with-off-ramp-services-available-in-select-countries-and-plans-to-expand-into-more-markets-The-project-is-focused-on-making-crypto-to-fiat-transactions-more-accessible",
+    "source": "@bscnews",
+    "published": "Tue Oct 13 2026 14:25:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: ️ S&P Dow Jones Indices and Kaiko completed the first OTC swap on the Canton Network, a total return swap between DRW and Marex referencing S&P’s tokenized iBoxx USD Liquid Investment Grade Index.",
+    "link": "https://cryptopanic.com/news/33538328/LATEST-SampP-Dow-Jones-Indices-and-Kaiko-completed-the-first-OTC-swap-on-the-Canton-Network-a-total-return-swap-between-DRW-and-Marex-referencing-SampPs-tokenized-iBoxx-USD-Liquid-Investment-Grade-Index",
+    "source": "@coinmarketcap",
+    "published": "Tue Oct 13 2026 14:23:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "U.K. To Keep $5 Billion Of Seized Bitcoin After Court Ruling",
+    "link": "https://cryptopanic.com/news/33538277/UK-To-Keep-5-Billion-Of-Seized-Bitcoin-After-Court-Ruling",
+    "source": "cryptoprowl.com",
+    "published": "Tue Oct 13 2026 14:23:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Broadcom CEO's AI Gambling Warning Hits Chip Stocks, Samsung Falls 7%",
+    "link": "https://cryptopanic.com/news/33538267/Broadcom-CEOs-AI-Gambling-Warning-Hits-Chip-Stocks-Samsung-Falls-7",
+    "source": "coinpaper.com",
+    "published": "Tue Oct 13 2026 14:22:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NFT Marketplace Blur Shuts Down",
+    "link": "https://cryptopanic.com/news/33538271/NFT-Marketplace-Blur-Shuts-Down",
+    "source": "cryptoprowl.com",
+    "published": "Tue Oct 13 2026 14:22:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin’s quantum-safe protection gets 82% cheaper as researchers race to secure 6 million exposed BTC",
+    "link": "https://cryptopanic.com/news/33538268/Bitcoins-quantum-safe-protection-gets-82-cheaper-as-researchers-race-to-secure-6-million-exposed-BTC",
+    "source": "cryptoslate.com",
+    "published": "Tue Oct 13 2026 14:20:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BlockDAG Minting Goes Live Today! Will It Blow Past Cardano & Ethereum Momentum Before Presale Closes?",
+    "link": "https://cryptopanic.com/news/33538269/BlockDAG-Minting-Goes-Live-Today-Will-It-Blow-Past-Cardano-amp-Ethereum-Momentum-Before-Presale-Closes",
+    "source": "dailycoin.com",
+    "published": "Tue Oct 13 2026 14:20:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BlackRock Downgrades U.S. Stocks, AI Volatility Pushes It Toward Treasuries",
+    "link": "https://cryptopanic.com/news/33538258/BlackRock-Downgrades-US-Stocks-AI-Volatility-Pushes-It-Toward-Treasuries",
+    "source": "coinpaper.com",
+    "published": "Tue Oct 13 2026 14:18:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BIS pitches zero-knowledge proofs for CBDC privacy in Project Aurum",
+    "link": "https://cryptopanic.com/news/33538260/BIS-pitches-zero-knowledge-proofs-for-CBDC-privacy-in-Project-Aurum",
+    "source": "cryptopolitan.com",
+    "published": "Tue Oct 13 2026 14:16:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Does @PiCoreTeam's decision to join RoboPay actually mean anything for the $PI community...? ⬇️",
+    "link": "https://cryptopanic.com/news/33538435/Does-PiCoreTeams-decision-to-join-RoboPay-actually-mean-anything-for-the-PI-community",
+    "source": "@bscnews",
+    "published": "Tue Oct 13 2026 14:16:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Trader 0x26b6 lost $637K on @papertrade_xyz.\n\nHe lost $1.71M from trading and earned 136M $PAPER tokens.\n\nHe earned $1.07M in USDC rewards through staking, with $943K already claimed and $130K still unclaimed.\n\nHis net loss is $637K.",
     "link": "https://cryptopanic.com/news/33538241/Trader-0x26b6-lost-637K-on-papertrade_xyz-He-lost-171M-from-trading-and-earned-136M-PAPER-tokens-He-earned-107M-in-USDC-rewards-through-staking-with-943K-already-claimed-and-130K-still-unclaimed-His-net-loss-is-637K",
     "source": "@lookonchain",
     "published": "Tue Oct 13 2026 14:14:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$SNDK has fallen back to its range low and is now trying to confirm it as support with a small bounce so far.",
+    "link": "https://cryptopanic.com/news/33538326/SNDK-has-fallen-back-to-its-range-low-and-is-now-trying-to-confirm-it-as-support-with-a-small-bounce-so-far",
+    "source": "@stackersatoshi",
+    "published": "Tue Oct 13 2026 14:14:27 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -14,199 +196,17 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Trezor Wallet Takes Drastic Supply-Chain Action To Increase Security",
+    "link": "https://cryptopanic.com/news/33538411/Trezor-Wallet-Takes-Drastic-Supply-Chain-Action-To-Increase-Security",
+    "source": "beincrypto.com",
+    "published": "Tue Oct 13 2026 14:11:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Crypto Majors & Alts Selloff, Blur Shuts Down, Onchain Leaders Capitulate.",
     "link": "https://cryptopanic.com/news/33538239/Crypto-Majors-amp-Alts-Selloff-Blur-Shuts-Down-Onchain-Leaders-Capitulate",
     "source": "@decryptmedia",
     "published": "Tue Oct 13 2026 14:09:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "South Korea Blocks MEXC, KuCoin: Users Face Withdrawal Warnings",
-    "link": "https://cryptopanic.com/news/33538173/South-Korea-Blocks-MEXC-KuCoin-Users-Face-Withdrawal-Warnings",
-    "source": "dailycoin.com",
-    "published": "Tue Oct 13 2026 14:05:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: Interactive Brokers launches cryptocurrency staking services for its customers",
-    "link": "https://cryptopanic.com/news/33538243/INTEL-Interactive-Brokers-launches-cryptocurrency-staking-services-for-its-customers",
-    "source": "@solidintel_x",
-    "published": "Tue Oct 13 2026 14:02:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: DTCC OFFICIALLY LISTS STELLAR AS AN ELIGIBLE TOKENISATION NETWORK! $XLM\n\nThe world's largest securities clearing and settlement infrastructure, processing QUADRILLIONS of dollars annually, is positioning @StellarOrg for Wall Street's move onchain!",
-    "link": "https://cryptopanic.com/news/33538233/BREAKING-DTCC-OFFICIALLY-LISTS-STELLAR-AS-AN-ELIGIBLE-TOKENISATION-NETWORK-XLM-The-worlds-largest-securities-clearing-and-settlement-infrastructure-processing-QUADRILLIONS-of-dollars-annually-is-positioning-StellarOrg-for-Wall-Streets-move-onchain",
-    "source": "@realallincrypto",
-    "published": "Tue Oct 13 2026 14:00:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Blockchain.com Seeks U.S. Derivatives and Prediction Market Licenses – Here Is What Comes Next",
-    "link": "https://cryptopanic.com/news/33538099/Blockchaincom-Seeks-US-Derivatives-and-Prediction-Market-Licenses-Here-Is-What-Comes-Next",
-    "source": "blocknews.com",
-    "published": "Tue Oct 13 2026 14:00:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "TRON Network Q2 2026: The Economics of a Dollar Rail",
-    "link": "https://cryptopanic.com/news/33538103/TRON-Network-Q2-2026-The-Economics-of-a-Dollar-Rail",
-    "source": "catenaa.com",
-    "published": "Tue Oct 13 2026 14:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Math Behind $400,000 Bitcoin By 2029",
-    "link": "https://cryptopanic.com/news/33538238/The-Math-Behind-400000-Bitcoin-By-2029",
-    "source": "feeds2.benzinga.com",
-    "published": "Tue Oct 13 2026 13:59:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Oil Price Falls 2% Toward $105 as U.S. Turns to Russian Diesel",
-    "link": "https://cryptopanic.com/news/33538101/Oil-Price-Falls-2-Toward-105-as-US-Turns-to-Russian-Diesel",
-    "source": "coinpaper.com",
-    "published": "Tue Oct 13 2026 13:58:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: BlackRock downgrades its outlook on US stocks over AI volatility concerns and shifts toward short-term US Treasuries",
-    "link": "https://cryptopanic.com/news/33538242/INTEL-BlackRock-downgrades-its-outlook-on-US-stocks-over-AI-volatility-concerns-and-shifts-toward-short-term-US-Treasuries",
-    "source": "@solidintel_x",
-    "published": "Tue Oct 13 2026 13:57:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇦🇪 Kraken has been approved to launch Bitcoin and crypto asset trading in the UAE",
-    "link": "https://cryptopanic.com/news/33538245/JUST-IN-Kraken-has-been-approved-to-launch-Bitcoin-and-crypto-asset-trading-in-the-UAE",
-    "source": "@bitcoinmagazine",
-    "published": "Tue Oct 13 2026 13:56:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana Price Loses Key Support: Is $100 Next?",
-    "link": "https://cryptopanic.com/news/33538085/Solana-Price-Loses-Key-Support-Is-100-Next",
-    "source": "coindoo.com",
-    "published": "Tue Oct 13 2026 13:54:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 BlackRock cuts its outlook on US stocks, citing concerns over AI market volatility.",
-    "link": "https://cryptopanic.com/news/33538246/JUST-IN-BlackRock-cuts-its-outlook-on-US-stocks-citing-concerns-over-AI-market-volatility",
-    "source": "@watcherguru",
-    "published": "Tue Oct 13 2026 13:52:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why are Pi Network and Pi Day so closely linked?  \n\nPi Network (@PiCoreTeam) officially launched on March 14, 2019, matching the date 3/14 with the mathematical constant π. \n\nFrom its Open Network launch in 2025 to new ecosystem tools in 2026, Pi Day has become a key date for",
-    "link": "https://cryptopanic.com/news/33538237/Why-are-Pi-Network-and-Pi-Day-so-closely-linked-Pi-Network-PiCoreTeam-officially-launched-on-March-14-2019-matching-the-date-314-with-the-mathematical-constant-From-its-Open-Network-launch-in-2025-to-new-ecosystem-tools-in-2026-Pi-Day-has-become-a-key-date-for",
-    "source": "@bscnews",
-    "published": "Tue Oct 13 2026 13:52:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP’s Missing Piece Revealed Ahead Of Ripple Swell",
-    "link": "https://cryptopanic.com/news/33538068/XRPs-Missing-Piece-Revealed-Ahead-Of-Ripple-Swell",
-    "source": "dailycoin.com",
-    "published": "Tue Oct 13 2026 13:49:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE:  Ledger CTO Charles Guillemet says the company is reviewing reseller controls and anti-tamper protections, urging CryptoBilis buyers who already set up their device to transfer assets to a new signer.",
-    "link": "https://cryptopanic.com/news/33538054/UPDATE-Ledger-CTO-Charles-Guillemet-says-the-company-is-reviewing-reseller-controls-and-anti-tamper-protections-urging-CryptoBilis-buyers-who-already-set-up-their-device-to-transfer-assets-to-a-new-signer",
-    "source": "@coinmarketcap",
-    "published": "Tue Oct 13 2026 13:47:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin OG names his crypto tokens to watch...\n\nBitcoin OG @LLuciano_BTC, who has nearly 2 million followers, has provided a full list of his 'picks' for the next 6 months.\n\nBroken down into five sections from L1 to DeFi, here are just some of the assets that made the list...",
-    "link": "https://cryptopanic.com/news/33538236/Bitcoin-OG-names-his-crypto-tokens-to-watch-Bitcoin-OG-LLuciano_BTC-who-has-nearly-2-million-followers-has-provided-a-full-list-of-his-picks-for-the-next-6-months-Broken-down-into-five-sections-from-L1-to-DeFi-here-are-just-some-of-the-assets-that-made-the-list",
-    "source": "@bscnews",
-    "published": "Tue Oct 13 2026 13:45:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ledger reveals how hidden chip stole recovery phrases in $93M hack",
-    "link": "https://cryptopanic.com/news/33538033/Ledger-reveals-how-hidden-chip-stole-recovery-phrases-in-93M-hack",
-    "source": "cryptopolitan.com",
-    "published": "Tue Oct 13 2026 13:44:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Strive buys 3,311 bitcoin for $280 million in largest acquisition since January",
-    "link": "https://cryptopanic.com/news/33538036/Strive-buys-3311-bitcoin-for-280-million-in-largest-acquisition-since-January",
-    "source": "theblock.co",
-    "published": "Tue Oct 13 2026 13:42:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "German Ledger reseller pauses sales following $86M draining incident",
-    "link": "https://cryptopanic.com/news/33537974/German-Ledger-reseller-pauses-sales-following-86M-draining-incident",
-    "source": "protos.com",
-    "published": "Tue Oct 13 2026 13:35:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Binance scraps Bitcoin and crypto mining pool services.",
-    "link": "https://cryptopanic.com/news/33538053/JUST-IN-Binance-scraps-Bitcoin-and-crypto-mining-pool-services",
-    "source": "@btc_archive",
-    "published": "Tue Oct 13 2026 13:34:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Oct 13 Update:\n\n#Bitcoin ETFs:\n1D NetFlow: -788 $BTC(-$65.55M)\n7D NetFlow: -8,267 $BTC(-$687.28M)\n\n#Ethereum ETFs:\n1D NetFlow: -29,926 $ETH(-$74.79M)\n7D NetFlow: -217,087 $ETH(-$542.51M)",
-    "link": "https://cryptopanic.com/news/33538240/Oct-13-Update-Bitcoin-ETFs-1D-NetFlow-788-BTC-6555M-7D-NetFlow-8267-BTC-68728M-Ethereum-ETFs-1D-NetFlow-29926-ETH-7479M-7D-NetFlow-217087-ETH-54251M",
-    "source": "@lookonchain",
-    "published": "Tue Oct 13 2026 13:32:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Fortnite Maker Epic Games Tells Developers to Stop Writing Code by Hand",
-    "link": "https://cryptopanic.com/news/33538162/Fortnite-Maker-Epic-Games-Tells-Developers-to-Stop-Writing-Code-by-Hand",
-    "source": "beincrypto.com",
-    "published": "Tue Oct 13 2026 13:31:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: S&P Dow Jones Indices and Kaiko enable the first onchain OTC swap referencing a tokenized benchmark on the Canton Network.",
-    "link": "https://cryptopanic.com/news/33538095/JUST-IN-SampP-Dow-Jones-Indices-and-Kaiko-enable-the-first-onchain-OTC-swap-referencing-a-tokenized-benchmark-on-the-Canton-Network",
-    "source": "@cointelegraph",
-    "published": "Tue Oct 13 2026 13:30:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LIVE: Global Macro, Bitcoin Mining vs AI, Mid-Terms Outlook | BMTV Oct. 13, 2026",
-    "link": "https://cryptopanic.com/news/33538048/LIVE-Global-Macro-Bitcoin-Mining-vs-AI-Mid-Terms-Outlook-BMTV-Oct-13-2026",
-    "source": "@bitcoinmagazine",
-    "published": "Tue Oct 13 2026 13:29:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇬🇧 U.K. wants to keep 61,000 Bitcoin from Chinese fraudster jailed in Britain, worth $5B.\n\nFraud victims plan to appeal.",
-    "link": "https://cryptopanic.com/news/33538052/JUST-IN-UK-wants-to-keep-61000-Bitcoin-from-Chinese-fraudster-jailed-in-Britain-worth-5B-Fraud-victims-plan-to-appeal",
-    "source": "@btc_archive",
-    "published": "Tue Oct 13 2026 13:25:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Strive Acquires 3,311 BTC, Bringing Total Holdings to 32,773 BTC\n\nBitcoin treasury company Strive (NASDAQ: ASST) reported purchasing an additional 3,311 BTC last week, bringing its total holdings to 32,773 BTC, valued at approximately $2.697 billion based on a BTC price of",
-    "link": "https://cryptopanic.com/news/33538092/Strive-Acquires-3311-BTC-Bringing-Total-Holdings-to-32773-BTC-Bitcoin-treasury-company-Strive-NASDAQ-ASST-reported-purchasing-an-additional-3311-BTC-last-week-bringing-its-total-holdings-to-32773-BTC-valued-at-approximately-2697-billion-based-on-a-BTC-price-of",
-    "source": "@wublockchain",
-    "published": "Tue Oct 13 2026 13:20:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Blur follows Blast in closing up shop.\n\n@blur_io has announced it will deprecate its frontend on November 12, just days after @blast (by the same founder!) announced shutdown plans.\n\nThe Blur marketplace, for now, will remain operational from a backend perspective.",
-    "link": "https://cryptopanic.com/news/33537955/Blur-follows-Blast-in-closing-up-shop-blur_io-has-announced-it-will-deprecate-its-frontend-on-November-12-just-days-after-blast-by-the-same-founder-announced-shutdown-plans-The-Blur-marketplace-for-now-will-remain-operational-from-a-backend-perspective",
-    "source": "@bscnews",
-    "published": "Tue Oct 13 2026 13:14:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AI sets date when XRP will hit $100 billion market cap",
-    "link": "https://cryptopanic.com/news/33537884/AI-sets-date-when-XRP-will-hit-100-billion-market-cap",
-    "source": "finbold.com",
-    "published": "Tue Oct 13 2026 13:12:54 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
