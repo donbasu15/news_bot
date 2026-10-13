@@ -1,5 +1,103 @@
 [
   {
+    "title": "JUST IN: S&P executes its first-ever onchain derivatives swap.",
+    "link": "https://cryptopanic.com/news/33537547/JUST-IN-SampP-executes-its-first-ever-onchain-derivatives-swap",
+    "source": "@watcherguru",
+    "published": "Tue Oct 13 2026 12:15:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: Strive acquired 3311 bitcoin:native last week \n\nBringing its total Bitcoin holdings to 32,773 BTC worth $2.7 billion",
+    "link": "https://cryptopanic.com/news/33537544/INTEL-Strive-acquired-3311-bitcoinnative-last-week-Bringing-its-total-Bitcoin-holdings-to-32773-BTC-worth-27-billion",
+    "source": "@solidintel_x",
+    "published": "Tue Oct 13 2026 12:14:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ripple Targets $256B Leveraged ETF Market as Prime Brokerage Expands Beyond Crypto",
+    "link": "https://cryptopanic.com/news/33537503/Ripple-Targets-256B-Leveraged-ETF-Market-as-Prime-Brokerage-Expands-Beyond-Crypto",
+    "source": "coinpaper.com",
+    "published": "Tue Oct 13 2026 12:12:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Binance to Shut Down Binance Pool and Cloud Mining",
+    "link": "https://cryptopanic.com/news/33537496/Binance-to-Shut-Down-Binance-Pool-and-Cloud-Mining",
+    "source": "dailycoin.com",
+    "published": "Tue Oct 13 2026 12:10:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Is Tether Gold Backed by Physical Gold?",
+    "link": "https://cryptopanic.com/news/33537499/Is-Tether-Gold-Backed-by-Physical-Gold",
+    "source": "techgaged.com",
+    "published": "Tue Oct 13 2026 12:10:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Federated Hermes Plans Tokenized Fund Shares With Prometheum",
+    "link": "https://cryptopanic.com/news/33537493/Federated-Hermes-Plans-Tokenized-Fund-Shares-With-Prometheum",
+    "source": "btcusa.com",
+    "published": "Tue Oct 13 2026 12:10:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Bounces Above $83,000, XRP, ETH Claw Back Overnight Losses",
+    "link": "https://cryptopanic.com/news/33537575/Bitcoin-Bounces-Above-83000-XRP-ETH-Claw-Back-Overnight-Losses",
+    "source": "feeds2.benzinga.com",
+    "published": "Tue Oct 13 2026 12:09:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin bounces to $83.3K, but 2 factors cast doubt on BTC’s bull run",
+    "link": "https://cryptopanic.com/news/33537472/Bitcoin-bounces-to-833K-but-2-factors-cast-doubt-on-BTCs-bull-run",
+    "source": "ambcrypto.com",
+    "published": "Tue Oct 13 2026 12:00:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP vs. Stellar: $3.5B in RWAs, Yet XRP Worth 13X More",
+    "link": "https://cryptopanic.com/news/33537431/XRP-vs-Stellar-35B-in-RWAs-Yet-XRP-Worth-13X-More",
+    "source": "coinpaper.com",
+    "published": "Tue Oct 13 2026 11:59:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Bitcoin wallets with a non-zero balance recently hit a new all-time high above 60 million \n\n~3 million new wallets have been added since the bear market began \n\nAdoption isn't slowing down!",
+    "link": "https://cryptopanic.com/news/33537545/JUST-IN-Bitcoin-wallets-with-a-non-zero-balance-recently-hit-a-new-all-time-high-above-60-million-3-million-new-wallets-have-been-added-since-the-bear-market-began-Adoption-isnt-slowing-down",
+    "source": "@bitcoinmagazine",
+    "published": "Tue Oct 13 2026 11:59:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin",
+    "link": "https://cryptopanic.com/news/33537549/South-Korea-blocks-27-crypto-exchanges-including-Bitmart-and-Kucoin",
+    "source": "coindesk.com",
+    "published": "Tue Oct 13 2026 11:58:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
+    "link": "https://cryptopanic.com/news/33537548/Federated-Hermes-joins-Wall-Streets-tokenization-push-with-plans-for-first-onchain-fund-shares",
+    "source": "coindesk.com",
+    "published": "Tue Oct 13 2026 11:56:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin to trade at $180,000 on this date, according to expert",
+    "link": "https://cryptopanic.com/news/33537418/Bitcoin-to-trade-at-180000-on-this-date-according-to-expert",
+    "source": "finbold.com",
+    "published": "Tue Oct 13 2026 11:53:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ledger Finds LTE Implant That Stole Recovery Phrases in Suspected $86M Drain",
+    "link": "https://cryptopanic.com/news/33537409/Ledger-Finds-LTE-Implant-That-Stole-Recovery-Phrases-in-Suspected-86M-Drain",
+    "source": "decrypt.co",
+    "published": "Tue Oct 13 2026 11:53:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Blur to Shut Down NFT Marketplace Website After Volumes Collapse 99%",
     "link": "https://cryptopanic.com/news/33537405/Blur-to-Shut-Down-NFT-Marketplace-Website-After-Volumes-Collapse-99",
     "source": "btcusa.com",
@@ -91,6 +189,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "KuCoin Nigeria secures conditional entry into SEC Nigeria’s ARIP",
+    "link": "https://cryptopanic.com/news/33537473/KuCoin-Nigeria-secures-conditional-entry-into-SEC-Nigerias-ARIP",
+    "source": "coinjournal.net",
+    "published": "Tue Oct 13 2026 11:29:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Stacks' STX, a Bitcoin layer-2 token, has surged by 50% in four weeks",
     "link": "https://cryptopanic.com/news/33537355/Stacks-STX-a-Bitcoin-layer-2-token-has-surged-by-50-in-four-weeks",
     "source": "coindesk.com",
@@ -102,111 +207,6 @@
     "link": "https://cryptopanic.com/news/33537404/BTC-USD-Survives-an-820M-Liquidation-Bloodbath-Can-Bulls-Handle-CPI-Next",
     "source": "99bitcoins.com",
     "published": "Tue Oct 13 2026 11:25:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP News: Evernorth’s Listing Exposes a $677M Gap",
-    "link": "https://cryptopanic.com/news/33537280/XRP-News-Evernorths-Listing-Exposes-a-677M-Gap",
-    "source": "cryptonews.com",
-    "published": "Tue Oct 13 2026 11:25:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Fridges Hacked, Food Ruined, Fires Sparked: France’s Strangest Hack Yet",
-    "link": "https://cryptopanic.com/news/33537425/Fridges-Hacked-Food-Ruined-Fires-Sparked-Frances-Strangest-Hack-Yet",
-    "source": "beincrypto.com",
-    "published": "Tue Oct 13 2026 11:19:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Binance Brings AI Trading Tools To The Masses\n\nBinance (@binance) has rolled out its free Binance AI trading interface to global English-language users.\n\nAround 150,000 users tested the product during a beta launched on September 7.\n\nThe tool offers portfolio summaries, market",
-    "link": "https://cryptopanic.com/news/33537320/Binance-Brings-AI-Trading-Tools-To-The-Masses-Binance-binance-has-rolled-out-its-free-Binance-AI-trading-interface-to-global-English-language-users-Around-150000-users-tested-the-product-during-a-beta-launched-on-September-7-The-tool-offers-portfolio-summaries-market",
-    "source": "@bscnews",
-    "published": "Tue Oct 13 2026 11:17:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why the UK May Keep £3.8 Billion Bitcoin Funded by Chinese Fraud Victims",
-    "link": "https://cryptopanic.com/news/33537424/Why-the-UK-May-Keep-38-Billion-Bitcoin-Funded-by-Chinese-Fraud-Victims",
-    "source": "beincrypto.com",
-    "published": "Tue Oct 13 2026 11:17:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why is XRP price down today?",
-    "link": "https://cryptopanic.com/news/33537271/Why-is-XRP-price-down-today",
-    "source": "finbold.com",
-    "published": "Tue Oct 13 2026 11:16:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin (BTC) Price Today: ~$82,400, Down 0.7% as ETF Outflows Weigh Ahead of CPI",
-    "link": "https://cryptopanic.com/news/33537251/Bitcoin-BTC-Price-Today-82400-Down-07-as-ETF-Outflows-Weigh-Ahead-of-CPI",
-    "source": "btcusa.com",
-    "published": "Tue Oct 13 2026 11:15:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Venture capital rebounds in Latin America, but fewer startups are breaking through, report says",
-    "link": "https://cryptopanic.com/news/33537256/Venture-capital-rebounds-in-Latin-America-but-fewer-startups-are-breaking-through-report-says",
-    "source": "@reutersbiz",
-    "published": "Tue Oct 13 2026 11:15:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$800K crypto robbery: UK quietly becoming the next France for crypto wrench attacks",
-    "link": "https://cryptopanic.com/news/33537202/800K-crypto-robbery-UK-quietly-becoming-the-next-France-for-crypto-wrench-attacks",
-    "source": "cryptopolitan.com",
-    "published": "Tue Oct 13 2026 11:08:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin, ether slip and rebound as South Korean stocks slide on AI-related concerns",
-    "link": "https://cryptopanic.com/news/33537279/Bitcoin-ether-slip-and-rebound-as-South-Korean-stocks-slide-on-AI-related-concerns",
-    "source": "coindesk.com",
-    "published": "Tue Oct 13 2026 11:06:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Russia’s largest bank Sberbank secures approval to trade crypto",
-    "link": "https://cryptopanic.com/news/33537278/Russias-largest-bank-Sberbank-secures-approval-to-trade-crypto",
-    "source": "coindesk.com",
-    "published": "Tue Oct 13 2026 11:02:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ledger Hack, BTC ETF Dump, Is Base Back, & Ethereum Interview",
-    "link": "https://cryptopanic.com/news/33537208/Ledger-Hack-BTC-ETF-Dump-Is-Base-Back-Ethereum-Interview",
-    "source": "TheCryptoLark",
-    "published": "Tue Oct 13 2026 11:02:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$BTC Q4 has historically been Bitcoin's best and most volatile quarter.\n\nWe have seen multiple market cycles top and bottom in the fourth quarter.\n\nOnly once did we see a single digit percentage move (2021). Every other quarter generally sees a large move in either direction.",
-    "link": "https://cryptopanic.com/news/33537257/BTC-Q4-has-historically-been-Bitcoins-best-and-most-volatile-quarter-We-have-seen-multiple-market-cycles-top-and-bottom-in-the-fourth-quarter-Only-once-did-we-see-a-single-digit-percentage-move-2021-Every-other-quarter-generally-sees-a-large-move-in-either-direction",
-    "source": "@daancrypto",
-    "published": "Tue Oct 13 2026 11:01:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The EU's new greenwashing rules could be HUGE for Cardano! $ADA\n\nFood brands must back up environmental claims with evidence, and Open Food Chain is using Cardano to make that proof verifiable!\n\nThis means food companies can use Cardano to create a permanent, tamper-resistant",
-    "link": "https://cryptopanic.com/news/33537318/The-EUs-new-greenwashing-rules-could-be-HUGE-for-Cardano-ADA-Food-brands-must-back-up-environmental-claims-with-evidence-and-Open-Food-Chain-is-using-Cardano-to-make-that-proof-verifiable-This-means-food-companies-can-use-Cardano-to-create-a-permanent-tamper-resistant",
-    "source": "@realallincrypto",
-    "published": "Tue Oct 13 2026 11:01:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INSIGHT: Bitcoin supply on exchanges continues to shrink, per CryptoQuant.\n\nRising demand amid low exchange supply could support a longer-term upward trend.",
-    "link": "https://cryptopanic.com/news/33537253/INSIGHT-Bitcoin-supply-on-exchanges-continues-to-shrink-per-CryptoQuant-Rising-demand-amid-low-exchange-supply-could-support-a-longer-term-upward-trend",
-    "source": "@cointelegraph",
-    "published": "Tue Oct 13 2026 11:00:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cyberattack affected 80 stores of French supermarket chain Co-Operative U",
-    "link": "https://cryptopanic.com/news/33537255/Cyberattack-affected-80-stores-of-French-supermarket-chain-Co-Operative-U",
-    "source": "@reutersbiz",
-    "published": "Tue Oct 13 2026 11:00:39 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
