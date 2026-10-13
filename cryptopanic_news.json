@@ -1,5 +1,96 @@
 [
   {
+    "title": "Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M",
+    "link": "https://cryptopanic.com/news/33539716/Bitcoin-Whale-That-Sat-Through-Every-Crash-Since-2020-Just-Moved-377M",
+    "source": "decrypt.co",
+    "published": "Tue Oct 13 2026 19:38:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Michael Saylor say Bitcoin is at the \"beginning of a bull market.\"",
+    "link": "https://cryptopanic.com/news/33539758/JUST-IN-Michael-Saylor-say-Bitcoin-is-at-the-beginning-of-a-bull-market",
+    "source": "@watcherguru",
+    "published": "Tue Oct 13 2026 19:36:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Britain Seized 61,000 Bitcoin. The Victims May Not Own the Gain",
+    "link": "https://cryptopanic.com/news/33539715/Britain-Seized-61000-Bitcoin-The-Victims-May-Not-Own-the-Gain",
+    "source": "bitcoinalmanack.com",
+    "published": "Tue Oct 13 2026 19:32:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Russia Gives Bitcoin Miners Power With One Condition: It Can Vanish",
+    "link": "https://cryptopanic.com/news/33539714/Russia-Gives-Bitcoin-Miners-Power-With-One-Condition-It-Can-Vanish",
+    "source": "bitcoinalmanack.com",
+    "published": "Tue Oct 13 2026 19:31:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Price Today: BTC Rebounds Above $83K as South Korea’s KOSPI Slumps 5.46%",
+    "link": "https://cryptopanic.com/news/33539663/Bitcoin-Price-Today-BTC-Rebounds-Above-83K-as-South-Koreas-KOSPI-Slumps-546",
+    "source": "btcusa.com",
+    "published": "Tue Oct 13 2026 19:30:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Global Chip Stocks Fall as CXMT Announced New Chip Structure",
+    "link": "https://cryptopanic.com/news/33539667/Global-Chip-Stocks-Fall-as-CXMT-Announced-New-Chip-Structure",
+    "source": "catenaa.com",
+    "published": "Tue Oct 13 2026 19:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Strategy Bought 250 Bitcoin. It Spent Nine Times More on STRC",
+    "link": "https://cryptopanic.com/news/33539713/Strategy-Bought-250-Bitcoin-It-Spent-Nine-Times-More-on-STRC",
+    "source": "bitcoinalmanack.com",
+    "published": "Tue Oct 13 2026 19:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Apple, Nvidia, and Tesla stock tokens from Robinhood can now be traded on @hedera through the @hashpack wallet, paid for in USDC or hedera-hashgraph:native ⬇️",
+    "link": "https://cryptopanic.com/news/33539754/Apple-Nvidia-and-Tesla-stock-tokens-from-Robinhood-can-now-be-traded-on-hedera-through-the-hashpack-wallet-paid-for-in-USDC-or-hedera-hashgraphnative",
+    "source": "@bscnews",
+    "published": "Tue Oct 13 2026 19:28:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33539703/Source",
+    "source": "@wublockchain",
+    "published": "Tue Oct 13 2026 19:22:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INSIGHT: Glassnode data shows Bitcoin approaching the $87,800 break-even level for buyers who purchased 6–12 months ago, while selling activity among holders who bought 1–2 years ago has increased.",
+    "link": "https://cryptopanic.com/news/33539705/INSIGHT-Glassnode-data-shows-Bitcoin-approaching-the-87800-break-even-level-for-buyers-who-purchased-612-months-ago-while-selling-activity-among-holders-who-bought-12-years-ago-has-increased",
+    "source": "@cointelegraph",
+    "published": "Tue Oct 13 2026 19:20:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Wall Street prices HIVE like a Bitcoin miner, but analysts are missing the AI business",
+    "link": "https://cryptopanic.com/news/33539722/Wall-Street-prices-HIVE-like-a-Bitcoin-miner-but-analysts-are-missing-the-AI-business",
+    "source": "thestreet.com",
+    "published": "Tue Oct 13 2026 19:19:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Michael Saylor talks Bitcoin on Bloomberg \n\n\"Bitcoin is just raw financial energy.\"",
+    "link": "https://cryptopanic.com/news/33539757/JUST-IN-Michael-Saylor-talks-Bitcoin-on-Bloomberg-Bitcoin-is-just-raw-financial-energy",
+    "source": "@bitcoinmagazine",
+    "published": "Tue Oct 13 2026 19:18:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Critical Shiba Inu (SHIB) Warning: Here’s the Latest Threat",
+    "link": "https://cryptopanic.com/news/33539656/Critical-Shiba-Inu-SHIB-Warning-Heres-the-Latest-Threat",
+    "source": "cryptopotato.com",
+    "published": "Tue Oct 13 2026 19:15:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "400 scientists demand global body to oversee advanced AI",
     "link": "https://cryptopanic.com/news/33539652/400-scientists-demand-global-body-to-oversee-advanced-AI",
     "source": "cryptopolitan.com",
@@ -21,10 +112,38 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Ondo now holds the top spot in tokenized Treasuries\n\n@Ondo manages about $3B in tokenized US Treasuries, government debt issued as tokens, more than any other platform listed on rwa.​xyz. Its $USDY token holds $2.33B of that, edging past BlackRock’s $BUIDL at $2.2B.\n\nOndo grew",
+    "link": "https://cryptopanic.com/news/33539753/Ondo-now-holds-the-top-spot-in-tokenized-Treasuries-Ondo-manages-about-3B-in-tokenized-US-Treasuries-government-debt-issued-as-tokens-more-than-any-other-platform-listed-on-rwaxyz-Its-USDY-token-holds-233B-of-that-edging-past-BlackRocks-BUIDL-at-22B-Ondo-grew",
+    "source": "@bscnews",
+    "published": "Tue Oct 13 2026 19:09:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Can Bitcoin Become More Valuable Even If Nobody Uses It for Payments?",
     "link": "https://cryptopanic.com/news/33539611/Can-Bitcoin-Become-More-Valuable-Even-If-Nobody-Uses-It-for-Payments",
     "source": "coinpaper.com",
     "published": "Tue Oct 13 2026 19:08:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Standard Chartered highlighted its relationship with @Ripple in an investor presentation in May this year! \n\nThe banking giant specifically referenced its early investment in Ripple AND its use of Ripple for cross-border payments!\n\nWhat makes this HUGE is that Standard",
+    "link": "https://cryptopanic.com/news/33539752/Standard-Chartered-highlighted-its-relationship-with-Ripple-in-an-investor-presentation-in-May-this-year-The-banking-giant-specifically-referenced-its-early-investment-in-Ripple-AND-its-use-of-Ripple-for-cross-border-payments-What-makes-this-HUGE-is-that-Standard",
+    "source": "@realallincrypto",
+    "published": "Tue Oct 13 2026 19:01:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LSEG in talks to buy Octus for about $3.5 billion",
+    "link": "https://cryptopanic.com/news/33539706/LSEG-in-talks-to-buy-Octus-for-about-35-billion",
+    "source": "@reutersbiz",
+    "published": "Tue Oct 13 2026 19:00:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: The SEC’s revised quorum rule could allow a single commissioner to approve crypto rules if the other remaining commissioner is disqualified. \n\nThe change comes as regulators pursue crypto rulemaking while Congress has yet to pass a comprehensive market structure bill.",
+    "link": "https://cryptopanic.com/news/33539704/UPDATE-The-SECs-revised-quorum-rule-could-allow-a-single-commissioner-to-approve-crypto-rules-if-the-other-remaining-commissioner-is-disqualified-The-change-comes-as-regulators-pursue-crypto-rulemaking-while-Congress-has-yet-to-pass-a-comprehensive-market-structure-bill",
+    "source": "@cointelegraph",
+    "published": "Tue Oct 13 2026 19:00:52 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -39,6 +158,20 @@
     "link": "https://cryptopanic.com/news/33539603/Why-Bitcoin-Ethereum-and-Near-Could-Be-Setting-Up-for-a-Massive-Rally",
     "source": "MilkRoadYoutube",
     "published": "Tue Oct 13 2026 19:00:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Aave, Ethena and Hyperliquid Founders on Their Biggest Competitors (Archive Video)\n\nAt a TOKEN2049 Singapore roundtable on October 14, 2025, Aave founder Stani Kulechov @StaniKulechov , Ethena founder Guy Young @gdog97_ , and Hyperliquid co-founder Jeff Yan @chameleon_jeff",
+    "link": "https://cryptopanic.com/news/33539702/Aave-Ethena-and-Hyperliquid-Founders-on-Their-Biggest-Competitors-Archive-Video-At-a-TOKEN2049-Singapore-roundtable-on-October-14-2025-Aave-founder-Stani-Kulechov-StaniKulechov-Ethena-founder-Guy-Young-gdog97_-and-Hyperliquid-co-founder-Jeff-Yan-chameleon_jeff",
+    "source": "@wublockchain",
+    "published": "Tue Oct 13 2026 19:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Coinbase, Which Holds About 5% of Existing BTC in Custody, Outlines Bitcoin Post-Quantum Security Recommendations\n\nCoinbase, which holds approximately 5% of all existing BTC in custody, outlined technical considerations for Bitcoin’s transition to post-quantum security. The",
+    "link": "https://cryptopanic.com/news/33539701/Coinbase-Which-Holds-About-5-of-Existing-BTC-in-Custody-Outlines-Bitcoin-Post-Quantum-Security-Recommendations-Coinbase-which-holds-approximately-5-of-all-existing-BTC-in-custody-outlined-technical-considerations-for-Bitcoins-transition-to-post-quantum-security-The",
+    "source": "@wublockchain",
+    "published": "Tue Oct 13 2026 18:57:53 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -74,139 +207,6 @@
     "link": "https://cryptopanic.com/news/33539543/XRP-Chart-Points-To-8-As-Fund-Preps-Active-Value-Levers",
     "source": "dailycoin.com",
     "published": "Tue Oct 13 2026 18:50:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Central Banks Still Expected to Buy 720 Tonnes of Gold in 2026 Despite Price Decline",
-    "link": "https://cryptopanic.com/news/33539544/Central-Banks-Still-Expected-to-Buy-720-Tonnes-of-Gold-in-2026-Despite-Price-Decline",
-    "source": "coinpaper.com",
-    "published": "Tue Oct 13 2026 18:49:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BLUE COIN CAPITAL CIO: MSTR'S Buying Engine is About to IGNITE | Mike Treidl",
-    "link": "https://cryptopanic.com/news/33539551/BLUE-COIN-CAPITAL-CIO-MSTRS-Buying-Engine-is-About-to-IGNITE-Mike-Treidl",
-    "source": "BitcoinMagazine",
-    "published": "Tue Oct 13 2026 18:48:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cipher raises $850M in convertibles to cover Barber Lake overrun bill",
-    "link": "https://cryptopanic.com/news/33539545/Cipher-raises-850M-in-convertibles-to-cover-Barber-Lake-overrun-bill",
-    "source": "cryptopolitan.com",
-    "published": "Tue Oct 13 2026 18:45:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple Integrates With Stripe-Owned Privy To Expand XRP, RLUSD Payments on XRPL",
-    "link": "https://cryptopanic.com/news/33539558/Ripple-Integrates-With-Stripe-Owned-Privy-To-Expand-XRP-RLUSD-Payments-on-XRPL",
-    "source": "feeds2.benzinga.com",
-    "published": "Tue Oct 13 2026 18:45:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "What does the next chapter of global finance look like? \n\nWe brought the people building it together at LONGITUDE: Singapore. 🇸🇬 \n\nFrom stablecoins and 24/7 payment rails to tokenization, institutional crypto markets, ETFs, and onchain asset management, this edition examined the",
-    "link": "https://cryptopanic.com/news/33539529/What-does-the-next-chapter-of-global-finance-look-like-We-brought-the-people-building-it-together-at-LONGITUDE-Singapore-From-stablecoins-and-247-payment-rails-to-tokenization-institutional-crypto-markets-ETFs-and-onchain-asset-management-this-edition-examined-the",
-    "source": "@cointelegraph",
-    "published": "Tue Oct 13 2026 18:41:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ NEW: Starknet introduces Shadow Accounts for public DeFi with confidential links to users’ main wallets, with the first integration launching tomorrow.",
-    "link": "https://cryptopanic.com/news/33539528/NEW-Starknet-introduces-Shadow-Accounts-for-public-DeFi-with-confidential-links-to-users-main-wallets-with-the-first-integration-launching-tomorrow",
-    "source": "@cointelegraph",
-    "published": "Tue Oct 13 2026 18:40:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stacks crypto holds above $0.40 as Bitcoin staking round fills",
-    "link": "https://cryptopanic.com/news/33539486/Stacks-crypto-holds-above-040-as-Bitcoin-staking-round-fills",
-    "source": "ambcrypto.com",
-    "published": "Tue Oct 13 2026 18:40:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "PancakeSwap burned far more CAKE than it printed this week\n\n@PancakeSwap destroyed 529K $CAKE ($1.28M) over the past week, while new emissions came to roughly 150K. That left supply down by a net 379K tokens, worth about $912K.\n\nThe v2 trading pools drove the biggest share at",
-    "link": "https://cryptopanic.com/news/33539557/PancakeSwap-burned-far-more-CAKE-than-it-printed-this-week-PancakeSwap-destroyed-529K-CAKE-128M-over-the-past-week-while-new-emissions-came-to-roughly-150K-That-left-supply-down-by-a-net-379K-tokens-worth-about-912K-The-v2-trading-pools-drove-the-biggest-share-at",
-    "source": "@bscnews",
-    "published": "Tue Oct 13 2026 18:40:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Michael Saylor talks Bitcoin on CNBC \n\n\"Bitcoin is just raw financial energy.\"",
-    "link": "https://cryptopanic.com/news/33539646/JUST-IN-Michael-Saylor-talks-Bitcoin-on-CNBC-Bitcoin-is-just-raw-financial-energy",
-    "source": "@bitcoinmagazine",
-    "published": "Tue Oct 13 2026 18:36:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Ripple and Stripe-owned Privy have teamed up to let developers add XRP Ledger wallets to their apps, supporting XRP, RLUSD, and other assets without building wallet infrastructure.",
-    "link": "https://cryptopanic.com/news/33539525/LATEST-Ripple-and-Stripe-owned-Privy-have-teamed-up-to-let-developers-add-XRP-Ledger-wallets-to-their-apps-supporting-XRP-RLUSD-and-other-assets-without-building-wallet-infrastructure",
-    "source": "@coinmarketcap",
-    "published": "Tue Oct 13 2026 18:35:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Strive buys 3,311 BTC, writes $100 SATA floor into governing docs",
-    "link": "https://cryptopanic.com/news/33539477/Strive-buys-3311-BTC-writes-100-SATA-floor-into-governing-docs",
-    "source": "cryptopolitan.com",
-    "published": "Tue Oct 13 2026 18:30:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "If there was a deeper pullback, what assets would you buy?  #investing #marketanalysis #trading",
-    "link": "https://cryptopanic.com/news/33539479/If-there-was-a-deeper-pullback-what-assets-would-you-buy-investing-marketanalysis-trading",
-    "source": "MilkRoadYoutube",
-    "published": "Tue Oct 13 2026 18:30:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "France Debt Crisis: What It Means For Your Money",
-    "link": "https://cryptopanic.com/news/33539487/France-Debt-Crisis-What-It-Means-For-Your-Money",
-    "source": "SimplyBitcoin",
-    "published": "Tue Oct 13 2026 18:30:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "WATCH: Wall Street's bull market marked its fourth anniversary. What happens to the extraordinary run now? Yorkville America Equities' Steve Neamtz says AI infrastructure investments will offer long-term opportunities",
-    "link": "https://cryptopanic.com/news/33539530/WATCH-Wall-Streets-bull-market-marked-its-fourth-anniversary-What-happens-to-the-extraordinary-run-now-Yorkville-America-Equities-Steve-Neamtz-says-AI-infrastructure-investments-will-offer-long-term-opportunities",
-    "source": "@reutersbiz",
-    "published": "Tue Oct 13 2026 18:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Yea that sounds about right.\n\nThink it would not be bad at all if $BTC were to take the spotlight for a while. Would help the market out a lot.\n\nAlso seeing a lot of these alt coin plays going further out the risk curve by the day. Pumping on worse headlines and fundamentals. A",
-    "link": "https://cryptopanic.com/news/33539556/Yea-that-sounds-about-right-Think-it-would-not-be-bad-at-all-if-BTC-were-to-take-the-spotlight-for-a-while-Would-help-the-market-out-a-lot-Also-seeing-a-lot-of-these-alt-coin-plays-going-further-out-the-risk-curve-by-the-day-Pumping-on-worse-headlines-and-fundamentals-A",
-    "source": "@daancrypto",
-    "published": "Tue Oct 13 2026 18:28:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Major electronics brand cuts resellers, apologizes",
-    "link": "https://cryptopanic.com/news/33539546/Major-electronics-brand-cuts-resellers-apologizes",
-    "source": "thestreet.com",
-    "published": "Tue Oct 13 2026 18:27:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "3rd Largest Bank In America Going ALL In On Bitcoin?! | EP 1612",
-    "link": "https://cryptopanic.com/news/33538853/3rd-Largest-Bank-In-America-Going-ALL-In-On-Bitcoin-EP-1612",
-    "source": "SimplyBitcoin",
-    "published": "Tue Oct 13 2026 18:23:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ALERT: Elon Musk’s net worth dropped below $1 trillion on Tuesday morning after a decline of more than 3% in SpaceX shares wiped $26.3 billion from his fortune.",
-    "link": "https://cryptopanic.com/news/33539527/ALERT-Elon-Musks-net-worth-dropped-below-1-trillion-on-Tuesday-morning-after-a-decline-of-more-than-3-in-SpaceX-shares-wiped-263-billion-from-his-fortune",
-    "source": "@cointelegraph",
-    "published": "Tue Oct 13 2026 18:20:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum Name Service plans major .eth overhaul with one irreversible catch for domain holders",
-    "link": "https://cryptopanic.com/news/33539442/Ethereum-Name-Service-plans-major-eth-overhaul-with-one-irreversible-catch-for-domain-holders",
-    "source": "cryptoslate.com",
-    "published": "Tue Oct 13 2026 18:20:02 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
