@@ -1,5 +1,26 @@
 [
   {
+    "title": "JUST IN: Bitcoin buyers show low confidence, with most bids sitting at $80,500 and $80,000.",
+    "link": "https://cryptopanic.com/news/33534570/JUST-IN-Bitcoin-buyers-show-low-confidence-with-most-bids-sitting-at-80500-and-80000",
+    "source": "@btc_archive",
+    "published": "Tue Oct 13 2026 00:44:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Blackrock is dominating the Aptos ecosystem.\n\nSome $157M of @Aptos $194M worth of native tokenised real world assets is made up of @BlackRock's tokenised $BUIDL fund.\n\nBlackrock's core tokenised product has an even larger presence on the @Avax L1 chain.",
+    "link": "https://cryptopanic.com/news/33534578/Blackrock-is-dominating-the-Aptos-ecosystem-Some-157M-of-Aptos-194M-worth-of-native-tokenised-real-world-assets-is-made-up-of-BlackRocks-tokenised-BUIDL-fund-Blackrocks-core-tokenised-product-has-an-even-larger-presence-on-the-Avax-L1-chain",
+    "source": "@bscnews",
+    "published": "Tue Oct 13 2026 00:43:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NOW: NFT marketplace Blur will shut down its frontend on November 12, though the protocol will keep running on-chain and Blend will stop matching new loans the same day.",
+    "link": "https://cryptopanic.com/news/33534577/NOW-NFT-marketplace-Blur-will-shut-down-its-frontend-on-November-12-though-the-protocol-will-keep-running-on-chain-and-Blend-will-stop-matching-new-loans-the-same-day",
+    "source": "@cointelegraph",
+    "published": "Tue Oct 13 2026 00:30:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Kroger to cut 3,000 corporate jobs weeks after unveiling AI strategy",
     "link": "https://cryptopanic.com/news/33534534/Kroger-to-cut-3000-corporate-jobs-weeks-after-unveiling-AI-strategy",
     "source": "cryptopolitan.com",
@@ -186,27 +207,6 @@
     "link": "https://cryptopanic.com/news/33533738/Theyre-Hiding-A-4G-Modem-Inside-Ledger-Wallets-And-Its-Reached-Europe",
     "source": "BTCSessions",
     "published": "Mon Oct 12 2026 22:43:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Returns on investing $32 weekly over the past 6 years — $10,000 total:\n\n• Gold: $16,390 \n• S&P 500: $15,320 \n• Bitcoin: $15,096 \n• Commodities ETF: $12,467 \n• Real estate ETF: $9,978 \n• US Treasury ETF: $8,843",
-    "link": "https://cryptopanic.com/news/33534411/Returns-on-investing-32-weekly-over-the-past-6-years-10000-total-Gold-16390-SampP-500-15320-Bitcoin-15096-Commodities-ETF-12467-Real-estate-ETF-9978-US-Treasury-ETF-8843",
-    "source": "@btc_archive",
-    "published": "Mon Oct 12 2026 22:37:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Can the $LUNC community rebuild something special?\n\nThe fact that the @terra_money community is still live and kicking is surprising in its own right - But what are those loyal community members actually looking to rebuild? ⬇️",
-    "link": "https://cryptopanic.com/news/33534362/Can-the-LUNC-community-rebuild-something-special-The-fact-that-the-terra_money-community-is-still-live-and-kicking-is-surprising-in-its-own-right-But-what-are-those-loyal-community-members-actually-looking-to-rebuild",
-    "source": "@bscnews",
-    "published": "Mon Oct 12 2026 22:32:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: $CAP led weekly network growth among crypto projects with market caps above $100 million, rising 800%, followed by $GRASS at 699% and $STRK at 469%, Santiment data shows.",
-    "link": "https://cryptopanic.com/news/33534358/UPDATE-CAP-led-weekly-network-growth-among-crypto-projects-with-market-caps-above-100-million-rising-800-followed-by-GRASS-at-699-and-STRK-at-469-Santiment-data-shows",
-    "source": "@cointelegraph",
-    "published": "Mon Oct 12 2026 22:30:38 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
