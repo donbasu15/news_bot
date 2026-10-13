@@ -1,5 +1,26 @@
 [
   {
+    "title": "UPDATE: JPMorgan blocks outside AI agents from accessing customer accounts, citing risks to clients and the bank.",
+    "link": "https://cryptopanic.com/news/33539979/UPDATE-JPMorgan-blocks-outside-AI-agents-from-accessing-customer-accounts-citing-risks-to-clients-and-the-bank",
+    "source": "@cointelegraph",
+    "published": "Tue Oct 13 2026 20:50:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Daily #Cardano News! ️\n\nSheldon Targets $ADA Breakout!\n\nMinswap To Support Bitcoin DeFi?",
+    "link": "https://cryptopanic.com/news/33539961/Daily-Cardano-News-Sheldon-Targets-ADA-Breakout-Minswap-To-Support-Bitcoin-DeFi",
+    "source": "@angrycryptoshow",
+    "published": "Tue Oct 13 2026 20:42:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Pepe the Frog had a creator long before he had a chart\n\nPepe started as a laid-back frog drawn by cartoonist Matt Furie for his 2005 comic Boy’s Club. He shared an apartment with roommates Andy, Brett, and Landwolf, mostly hanging out and causing mischief.\n\nThe frog spread across",
+    "link": "https://cryptopanic.com/news/33539981/Pepe-the-Frog-had-a-creator-long-before-he-had-a-chart-Pepe-started-as-a-laid-back-frog-drawn-by-cartoonist-Matt-Furie-for-his-2005-comic-Boys-Club-He-shared-an-apartment-with-roommates-Andy-Brett-and-Landwolf-mostly-hanging-out-and-causing-mischief-The-frog-spread-across",
+    "source": "@bscnews",
+    "published": "Tue Oct 13 2026 20:42:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Ledger’s crypto wallet implant scare triggers Trezor reseller crackdown as security fears spread",
     "link": "https://cryptopanic.com/news/33539922/Ledgers-crypto-wallet-implant-scare-triggers-Trezor-reseller-crackdown-as-security-fears-spread",
     "source": "cryptoslate.com",
@@ -11,6 +32,13 @@
     "link": "https://cryptopanic.com/news/33539968/UK-Judge-Says-Chinese-Law-Applies-to-Claims-Over-4B-Bitcoin-Fraud",
     "source": "cryptopotato.com",
     "published": "Tue Oct 13 2026 20:40:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BIG: Bank of America has been fined $1.2 billion over anti-money laundering failures after allegedly failing to flag $5 billion in suspicious transactions linked to suspected illicit finance.",
+    "link": "https://cryptopanic.com/news/33539978/BIG-Bank-of-America-has-been-fined-12-billion-over-anti-money-laundering-failures-after-allegedly-failing-to-flag-5-billion-in-suspicious-transactions-linked-to-suspected-illicit-finance",
+    "source": "@cointelegraph",
+    "published": "Tue Oct 13 2026 20:30:37 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -46,6 +74,13 @@
     "link": "https://cryptopanic.com/news/33539960/LATEST-StarkWare-launched-Shadow-Accounts-on-Starknet-a-STRK20-privacy-primitive-that-gives-each-app-its-own-pseudonymous-identity-so-users-can-go-private-without-linking-activity-to-their-main-wallet",
     "source": "@coinmarketcap",
     "published": "Tue Oct 13 2026 20:23:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 NEW: The SEC files Form 25 for the Bitwise Dogecoin ETF under DOGE.",
+    "link": "https://cryptopanic.com/news/33539977/NEW-The-SEC-files-Form-25-for-the-Bitwise-Dogecoin-ETF-under-DOGE",
+    "source": "@cointelegraph",
+    "published": "Tue Oct 13 2026 20:20:36 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33539771/LATEST-Aptos-launched-an-optional-Encrypted-Mempool-that-keeps-transaction-details-hidden-until-their-ordering-is-finalized-which-can-help-prevent-bots-from-exploiting-pending-trades",
     "source": "@coinmarketcap",
     "published": "Tue Oct 13 2026 19:47:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Zebec is bringing an institutional wallet into its payroll tools\n\n@Zebec_HQ is adding the enterprise version of @C8Wallet, built by @cantor8, to its products. It lets institutions manage several assets and move funds while keeping control of their keys.\n\nPaired with Zebec’s",
-    "link": "https://cryptopanic.com/news/33539755/Zebec-is-bringing-an-institutional-wallet-into-its-payroll-tools-Zebec_HQ-is-adding-the-enterprise-version-of-C8Wallet-built-by-cantor8-to-its-products-It-lets-institutions-manage-several-assets-and-move-funds-while-keeping-control-of-their-keys-Paired-with-Zebecs",
-    "source": "@bscnews",
-    "published": "Tue Oct 13 2026 19:45:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Aptos ends four-year token unlocks as monthly releases drop 60%",
-    "link": "https://cryptopanic.com/news/33539781/Aptos-ends-four-year-token-unlocks-as-monthly-releases-drop-60",
-    "source": "thestreet.com",
-    "published": "Tue Oct 13 2026 19:41:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Google is rolling out Gemini 4 Argon, its new frontier AI model, in the Gemini app.",
-    "link": "https://cryptopanic.com/news/33539838/NEW-Google-is-rolling-out-Gemini-4-Argon-its-new-frontier-AI-model-in-the-Gemini-app",
-    "source": "@cointelegraph",
-    "published": "Tue Oct 13 2026 19:40:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M",
-    "link": "https://cryptopanic.com/news/33539716/Bitcoin-Whale-That-Sat-Through-Every-Crash-Since-2020-Just-Moved-377M",
-    "source": "decrypt.co",
-    "published": "Tue Oct 13 2026 19:38:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Michael Saylor say Bitcoin is at the \"beginning of a bull market.\"",
-    "link": "https://cryptopanic.com/news/33539758/JUST-IN-Michael-Saylor-say-Bitcoin-is-at-the-beginning-of-a-bull-market",
-    "source": "@watcherguru",
-    "published": "Tue Oct 13 2026 19:36:47 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
