@@ -1,5 +1,117 @@
 [
   {
+    "title": "Bitcoin falls below $82K after US inflation tops 3.6% forecast",
+    "link": "https://cryptopanic.com/news/33545422/Bitcoin-falls-below-82K-after-US-inflation-tops-36-forecast",
+    "source": "cryptopolitan.com",
+    "published": "Wed Oct 14 2026 17:40:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "WATCH: The debate over AI safety is heating up, with clear divides emerging in Europe. The EU’s tech chief argues that existing regulation gives the region ample tools for handling rogue agents, but some in Silicon Valley are pushing back",
+    "link": "https://cryptopanic.com/news/33545414/WATCH-The-debate-over-AI-safety-is-heating-up-with-clear-divides-emerging-in-Europe-The-EUs-tech-chief-argues-that-existing-regulation-gives-the-region-ample-tools-for-handling-rogue-agents-but-some-in-Silicon-Valley-are-pushing-back",
+    "source": "@reutersbiz",
+    "published": "Wed Oct 14 2026 17:40:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Apps won’t need to build their own XRP Ledger wallet much longer. Here’s what @privy_io and @Ripple are lining up, from $XRP and $RLUSD payments to wallets for AI agents ⬇️",
+    "link": "https://cryptopanic.com/news/33545419/Apps-wont-need-to-build-their-own-XRP-Ledger-wallet-much-longer-Heres-what-privy_io-and-Ripple-are-lining-up-from-XRP-and-RLUSD-payments-to-wallets-for-AI-agents",
+    "source": "@bscnews",
+    "published": "Wed Oct 14 2026 17:35:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "How Can a Billion-Dollar Company Be Worth More Dead Than Alive?",
+    "link": "https://cryptopanic.com/news/33545374/How-Can-a-Billion-Dollar-Company-Be-Worth-More-Dead-Than-Alive",
+    "source": "coinpaper.com",
+    "published": "Wed Oct 14 2026 17:30:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Saylor’s Strategy: Leverage on Bitcoin Without the Margin Call",
+    "link": "https://cryptopanic.com/news/33545375/Saylors-Strategy-Leverage-on-Bitcoin-Without-the-Margin-Call",
+    "source": "BitcoinMagazine",
+    "published": "Wed Oct 14 2026 17:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Alpenglow Is Coming to Solana Mainnet Next Week",
+    "link": "https://cryptopanic.com/news/33545373/Alpenglow-Is-Coming-to-Solana-Mainnet-Next-Week",
+    "source": "bankless.com",
+    "published": "Wed Oct 14 2026 17:29:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ANALYSIS:  Ethereum fell 3.6% and broke its Oct. 8 low against Bitcoin, even after spot ETH ETFs ended their 10-day, $783 million outflow streak.\n\nWith Bitmine 99% of the way to its 5% supply target, will one day of ETF buying reverse the slide?",
+    "link": "https://cryptopanic.com/news/33545367/ANALYSIS-Ethereum-fell-36-and-broke-its-Oct-8-low-against-Bitcoin-even-after-spot-ETH-ETFs-ended-their-10-day-783-million-outflow-streak-With-Bitmine-99-of-the-way-to-its-5-supply-target-will-one-day-of-ETF-buying-reverse-the-slide",
+    "source": "@coinmarketcap",
+    "published": "Wed Oct 14 2026 17:29:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Could stablecoins force Visa & Mastercard to rethink everything? Former @Ripple CBDC advisor @AntonyWelfare (30+ central banks) breaks down the XRP Ledger, cross-border payments, AI agents and the future of finance. $XRP #XRPL",
+    "link": "https://cryptopanic.com/news/33545417/Could-stablecoins-force-Visa-amp-Mastercard-to-rethink-everything-Former-Ripple-CBDC-advisor-AntonyWelfare-30-central-banks-breaks-down-the-XRP-Ledger-cross-border-payments-AI-agents-and-the-future-of-finance-XRP-XRPL",
+    "source": "@realallincrypto",
+    "published": "Wed Oct 14 2026 17:27:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BlackRock vs. State Street: Why One Stock Rose While the Other Plunged 7%",
+    "link": "https://cryptopanic.com/news/33545307/BlackRock-vs-State-Street-Why-One-Stock-Rose-While-the-Other-Plunged-7",
+    "source": "coinpaper.com",
+    "published": "Wed Oct 14 2026 17:26:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 JUST IN: U.S. inflation reached 3.7% in September as Cleveland Fed President Beth Hammack warned consumers increasingly see high inflation as a “fact of life.”",
+    "link": "https://cryptopanic.com/news/33545412/JUST-IN-US-inflation-reached-37-in-September-as-Cleveland-Fed-President-Beth-Hammack-warned-consumers-increasingly-see-high-inflation-as-a-fact-of-life",
+    "source": "@cointelegraph",
+    "published": "Wed Oct 14 2026 17:25:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JPMorgan CEO sends blunt warning on 'rogue' AI agents",
+    "link": "https://cryptopanic.com/news/33545383/JPMorgan-CEO-sends-blunt-warning-on-rogue-AI-agents",
+    "source": "thestreet.com",
+    "published": "Wed Oct 14 2026 17:23:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: RealFi has issued over $7.6M in stablecoins and tokenized funds on #Cardano $ADA, reaching over $5.1M in TVL, according to data from Token Terminal.",
+    "link": "https://cryptopanic.com/news/33545370/JUST-IN-RealFi-has-issued-over-76M-in-stablecoins-and-tokenized-funds-on-Cardano-ADA-reaching-over-51M-in-TVL-according-to-data-from-Token-Terminal",
+    "source": "@angrycryptoshow",
+    "published": "Wed Oct 14 2026 17:22:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Gold is -2.7% this week and is nearly back to the key support where it formed its bottom earlier this year.\n\nThis will be a major level to watch for a reaction.",
+    "link": "https://cryptopanic.com/news/33545364/Gold-is-27-this-week-and-is-nearly-back-to-the-key-support-where-it-formed-its-bottom-earlier-this-year-This-will-be-a-major-level-to-watch-for-a-reaction",
+    "source": "@stackersatoshi",
+    "published": "Wed Oct 14 2026 17:22:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "OpenAI eyes security firm purchase amid office bugging scandal",
+    "link": "https://cryptopanic.com/news/33545305/OpenAI-eyes-security-firm-purchase-amid-office-bugging-scandal",
+    "source": "protos.com",
+    "published": "Wed Oct 14 2026 17:20:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Chainlink price data goes live on Stellar, opening the door to lending and perps\n\n@chainlink has switched on its Data Feeds and Data Streams on @StellarOrg, giving builders the market data needed for lending, perps, and stablecoins.\n\nStellar has made a capital commitment through",
+    "link": "https://cryptopanic.com/news/33545418/Chainlink-price-data-goes-live-on-Stellar-opening-the-door-to-lending-and-perps-chainlink-has-switched-on-its-Data-Feeds-and-Data-Streams-on-StellarOrg-giving-builders-the-market-data-needed-for-lending-perps-and-stablecoins-Stellar-has-made-a-capital-commitment-through",
+    "source": "@bscnews",
+    "published": "Wed Oct 14 2026 17:20:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LONGITUDE: Singapore brought together leaders from traditional finance and digital assets for insightful discussions and industry connections. 🇸🇬\n\nA look back at the conversations and people who made it happen.\n\n• Geoff Kendrick, @StanChart\n• Nischint Sanghavi, @Visa\n• Matthew",
+    "link": "https://cryptopanic.com/news/33545411/LONGITUDE-Singapore-brought-together-leaders-from-traditional-finance-and-digital-assets-for-insightful-discussions-and-industry-connections-A-look-back-at-the-conversations-and-people-who-made-it-happen-Geoff-Kendrick-StanChart-Nischint-Sanghavi-Visa-Matthew",
+    "source": "@cointelegraph",
+    "published": "Wed Oct 14 2026 17:15:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: Peter Schiff says \"sell your Bitcoin before the bottom drops out of the market and buy gold.\"",
     "link": "https://cryptopanic.com/news/33545277/JUST-IN-Peter-Schiff-says-sell-your-Bitcoin-before-the-bottom-drops-out-of-the-market-and-buy-gold",
     "source": "@watcherguru",
@@ -11,6 +123,34 @@
     "link": "https://cryptopanic.com/news/33545306/Nasdaq-Listed-Perpetualscom-Files-Notice-to-Offer-Tokenized-US-Stocks",
     "source": "cryptoprowl.com",
     "published": "Wed Oct 14 2026 17:08:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Bitcoin treasury firm Strive is looking to raise $500M by selling 5M shares of a new perpetual preferred stock, SATS, with proceeds earmarked for buying more BTC, among other uses.",
+    "link": "https://cryptopanic.com/news/33545366/LATEST-Bitcoin-treasury-firm-Strive-is-looking-to-raise-500M-by-selling-5M-shares-of-a-new-perpetual-preferred-stock-SATS-with-proceeds-earmarked-for-buying-more-BTC-among-other-uses",
+    "source": "@coinmarketcap",
+    "published": "Wed Oct 14 2026 17:05:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: AI is becoming one of crypto's most powerful security tools, helping uncover flaws linked to over $190 BILLION in potential exploits! 🤯\n\n $XRP: $94B flaw uncovered\n $XRP: $80B batch vulnerability\n $ZEC: $20B counterfeit risk\n\nAI isn't just transforming crypto. It's",
+    "link": "https://cryptopanic.com/news/33545416/NEW-AI-is-becoming-one-of-cryptos-most-powerful-security-tools-helping-uncover-flaws-linked-to-over-190-BILLION-in-potential-exploits-XRP-94B-flaw-uncovered-XRP-80B-batch-vulnerability-ZEC-20B-counterfeit-risk-AI-isnt-just-transforming-crypto-Its",
+    "source": "@realallincrypto",
+    "published": "Wed Oct 14 2026 17:03:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEWS: Token Terminal, a leading on-chain data platform trusted by Binance and Robinhood, announces data partnership with Cardano $ADA's RealFi, featuring comprehensive analytics now live for smart contracts, TVL, fees, revenue, daily active users, discovery, reporting, and more.",
+    "link": "https://cryptopanic.com/news/33545369/NEWS-Token-Terminal-a-leading-on-chain-data-platform-trusted-by-Binance-and-Robinhood-announces-data-partnership-with-Cardano-ADAs-RealFi-featuring-comprehensive-analytics-now-live-for-smart-contracts-TVL-fees-revenue-daily-active-users-discovery-reporting-and-more",
+    "source": "@angrycryptoshow",
+    "published": "Wed Oct 14 2026 17:02:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: Dubai’s DIFC Courts puts court orders on @avax, making legal documents issued by one of the world’s most internationally used commercial courts verifiable anywhere in the world, in seconds.",
+    "link": "https://cryptopanic.com/news/33545371/LATEST-Dubais-DIFC-Courts-puts-court-orders-on-avax-making-legal-documents-issued-by-one-of-the-worlds-most-internationally-used-commercial-courts-verifiable-anywhere-in-the-world-in-seconds",
+    "source": "@coindesk",
+    "published": "Wed Oct 14 2026 17:01:04 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -67,146 +207,6 @@
     "link": "https://cryptopanic.com/news/33545153/AI-sets-Shiba-Inu-price-prediction-for-December-31-2026",
     "source": "finbold.com",
     "published": "Wed Oct 14 2026 16:55:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BNY Completes First Tokenized U.S. Treasury Triparty Repo with Citadel Securities",
-    "link": "https://cryptopanic.com/news/33545252/BNY-Completes-First-Tokenized-US-Treasury-Triparty-Repo-with-Citadel-Securities",
-    "source": "dailyhodl.com",
-    "published": "Wed Oct 14 2026 16:55:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Saifedean Ammous says Bitcoin has significantly de-risked, \"opening the floodgates for all kinds of other capital.\"",
-    "link": "https://cryptopanic.com/news/33545278/JUST-IN-Saifedean-Ammous-says-Bitcoin-has-significantly-de-risked-opening-the-floodgates-for-all-kinds-of-other-capital",
-    "source": "@btc_archive",
-    "published": "Wed Oct 14 2026 16:53:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Kalshi CEO warns state regulation could push US prediction markets offshore",
-    "link": "https://cryptopanic.com/news/33545235/Kalshi-CEO-warns-state-regulation-could-push-US-prediction-markets-offshore",
-    "source": "en.cryptonomist.ch",
-    "published": "Wed Oct 14 2026 16:52:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin falls below $82,000 as hotter core CPI revives Fed hike concerns",
-    "link": "https://cryptopanic.com/news/33545149/Bitcoin-falls-below-82000-as-hotter-core-CPI-revives-Fed-hike-concerns",
-    "source": "theblock.co",
-    "published": "Wed Oct 14 2026 16:51:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hacker Pulls $86,000 in Locked Tokens From a Shared Crypto Vault",
-    "link": "https://cryptopanic.com/news/33545247/Hacker-Pulls-86000-in-Locked-Tokens-From-a-Shared-Crypto-Vault",
-    "source": "beincrypto.com",
-    "published": "Wed Oct 14 2026 16:51:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: Brian Armstrong says Coinbase joined companies and law enforcement at London Joint Disruption Week to share real-time intelligence and take action against scam networks operating in West Africa.",
-    "link": "https://cryptopanic.com/news/33545159/LATEST-Brian-Armstrong-says-Coinbase-joined-companies-and-law-enforcement-at-London-Joint-Disruption-Week-to-share-real-time-intelligence-and-take-action-against-scam-networks-operating-in-West-Africa",
-    "source": "@cointelegraph",
-    "published": "Wed Oct 14 2026 16:50:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Wallet or brokerage? Injective breaks down the coming INJ ETF...\n\n@injective has published a guide comparing $INJ with INJC, the staked INJ ETF Canary Capital (@CanaryFunds) says is coming soon. Holding the token means you have your own keys, votes, and staking.\n\nINJC shares will",
-    "link": "https://cryptopanic.com/news/33545169/Wallet-or-brokerage-Injective-breaks-down-the-coming-INJ-ETF-injective-has-published-a-guide-comparing-INJ-with-INJC-the-staked-INJ-ETF-Canary-Capital-CanaryFunds-says-is-coming-soon-Holding-the-token-means-you-have-your-own-keys-votes-and-staking-INJC-shares-will",
-    "source": "@bscnews",
-    "published": "Wed Oct 14 2026 16:49:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BITCOIN APPROACHING ITS 50-DAY MOVING AVERAGE! \n\nAll eyes on $81,200 support.",
-    "link": "https://cryptopanic.com/news/33545125/BITCOIN-APPROACHING-ITS-50-DAY-MOVING-AVERAGE-All-eyes-on-81200-support",
-    "source": "@btc_archive",
-    "published": "Wed Oct 14 2026 16:45:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "WATCH: The IMF issued an urgent call for advanced economies and others to reduce government spending, cut deficits and lower debt levels, warning that delays would only make the job harder in coming years. Andrea Shalal explains",
-    "link": "https://cryptopanic.com/news/33545162/WATCH-The-IMF-issued-an-urgent-call-for-advanced-economies-and-others-to-reduce-government-spending-cut-deficits-and-lower-debt-levels-warning-that-delays-would-only-make-the-job-harder-in-coming-years-Andrea-Shalal-explains",
-    "source": "@reutersbiz",
-    "published": "Wed Oct 14 2026 16:45:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin’s October 2026 Price Battle — Where Buyers and Sellers Could Take Control",
-    "link": "https://cryptopanic.com/news/33545123/Bitcoins-October-2026-Price-Battle-Where-Buyers-and-Sellers-Could-Take-Control",
-    "source": "techgaged.com",
-    "published": "Wed Oct 14 2026 16:44:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: President Trump announced a $21 billion Japanese-funded GlobalFoundries investment to build two semiconductor factories in Malta, New York, expected to create 27,000 construction and supply chain jobs and over 1,000 manufacturing jobs.",
-    "link": "https://cryptopanic.com/news/33545158/NEW-President-Trump-announced-a-21-billion-Japanese-funded-GlobalFoundries-investment-to-build-two-semiconductor-factories-in-Malta-New-York-expected-to-create-27000-construction-and-supply-chain-jobs-and-over-1000-manufacturing-jobs",
-    "source": "@cointelegraph",
-    "published": "Wed Oct 14 2026 16:43:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: President Trump announced a $50 billion South Korean investment in Alaska LNG, alongside a $70–80 billion LNG purchase commitment and $4.4 billion equity investment from Taiwan.",
-    "link": "https://cryptopanic.com/news/33545156/JUST-IN-President-Trump-announced-a-50-billion-South-Korean-investment-in-Alaska-LNG-alongside-a-7080-billion-LNG-purchase-commitment-and-44-billion-equity-investment-from-Taiwan",
-    "source": "@cointelegraph",
-    "published": "Wed Oct 14 2026 16:35:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Kalshi CEO says state-led oversight of U.S. prediction markets would push them out",
-    "link": "https://cryptopanic.com/news/33545132/Kalshi-CEO-says-state-led-oversight-of-US-prediction-markets-would-push-them-out",
-    "source": "coindesk.com",
-    "published": "Wed Oct 14 2026 16:34:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana Could Become the World’s Fastest Blockchain After This Upgrade",
-    "link": "https://cryptopanic.com/news/33545070/Solana-Could-Become-the-Worlds-Fastest-Blockchain-After-This-Upgrade",
-    "source": "techgaged.com",
-    "published": "Wed Oct 14 2026 16:34:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HEX Founder Richard Heart Detained in Turkey",
-    "link": "https://cryptopanic.com/news/33545065/HEX-Founder-Richard-Heart-Detained-in-Turkey",
-    "source": "bankless.com",
-    "published": "Wed Oct 14 2026 16:32:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$ETH After a few months of outperformance, ETH has retraced some ground against $BTC on this flush.\n\nIt now sits between its Daily 200MA/EMA and right at the big 0.03 level.\n\nThis area is pretty key if this wants to keep going. Most alts started underperforming the moment this",
-    "link": "https://cryptopanic.com/news/33545165/ETH-After-a-few-months-of-outperformance-ETH-has-retraced-some-ground-against-BTC-on-this-flush-It-now-sits-between-its-Daily-200MAEMA-and-right-at-the-big-003-level-This-area-is-pretty-key-if-this-wants-to-keep-going-Most-alts-started-underperforming-the-moment-this",
-    "source": "@daancrypto",
-    "published": "Wed Oct 14 2026 16:30:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Could certain altcoins outperform Bitcoin?\n\n@animocabrands Chairman @ysiu believes a major shift could be underway in the crypto market.\n\nWatch his explanation from 00:15 in our latest Cointelegraph interview.\n\n#YatSiu #Altcoins #Bitcoin #Crypto",
-    "link": "https://cryptopanic.com/news/33545155/Could-certain-altcoins-outperform-Bitcoin-animocabrands-Chairman-ysiu-believes-a-major-shift-could-be-underway-in-the-crypto-market-Watch-his-explanation-from-0015-in-our-latest-Cointelegraph-interview-YatSiu-Altcoins-Bitcoin-Crypto",
-    "source": "@cointelegraph",
-    "published": "Wed Oct 14 2026 16:30:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "'Biggest Increase in History': Strategy CEO Predicts Explosive Bitcoin Banking Surge",
-    "link": "https://cryptopanic.com/news/33545124/Biggest-Increase-in-History-Strategy-CEO-Predicts-Explosive-Bitcoin-Banking-Surge",
-    "source": "u.today",
-    "published": "Wed Oct 14 2026 16:30:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CoinMarketCap | Liquidation Heatmap \n \n$SOL is at $106.56, a week before its Alpenglow upgrade goes live on 21 Oct.\nThe brightest band on its heatmap sits under the price, at $99.72.\n \n $18.49M of longs would liquidate at $99.72\n It's the largest zone on the map right",
-    "link": "https://cryptopanic.com/news/33545128/CoinMarketCap-Liquidation-Heatmap-SOL-is-at-10656-a-week-before-its-Alpenglow-upgrade-goes-live-on-21-Oct-The-brightest-band-on-its-heatmap-sits-under-the-price-at-9972-1849M-of-longs-would-liquidate-at-9972-Its-the-largest-zone-on-the-map-right",
-    "source": "@coinmarketcap",
-    "published": "Wed Oct 14 2026 16:30:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "WATCH: Microsoft President Brad Smith said rogue AI behavior had made 2026 a 'sobering year' and that new AI safety laws and rules were urgently needed for safety to catch up with innovation",
-    "link": "https://cryptopanic.com/news/33545161/WATCH-Microsoft-President-Brad-Smith-said-rogue-AI-behavior-had-made-2026-a-sobering-year-and-that-new-AI-safety-laws-and-rules-were-urgently-needed-for-safety-to-catch-up-with-innovation",
-    "source": "@reutersbiz",
-    "published": "Wed Oct 14 2026 16:30:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
