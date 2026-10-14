@@ -1,9 +1,65 @@
 [
   {
+    "title": "According to Bastion Trading, Solana treasury company SkyAI sold approximately 70% of its SOL holdings in less than a month, leaving around 600,000 SOL, without adequately disclosing the timing, prices or approval process. Bastion and its affiliates, which hold approximately",
+    "link": "https://cryptopanic.com/news/33544128/According-to-Bastion-Trading-Solana-treasury-company-SkyAI-sold-approximately-70-of-its-SOL-holdings-in-less-than-a-month-leaving-around-600000-SOL-without-adequately-disclosing-the-timing-prices-or-approval-process-Bastion-and-its-affiliates-which-hold-approximately",
+    "source": "@wublockchain",
+    "published": "Wed Oct 14 2026 13:48:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ledger Asks Resellers in Seven Asian Markets to Pull Devices After Suspected $86M Drain",
+    "link": "https://cryptopanic.com/news/33544102/Ledger-Asks-Resellers-in-Seven-Asian-Markets-to-Pull-Devices-After-Suspected-86M-Drain",
+    "source": "decrypt.co",
+    "published": "Wed Oct 14 2026 13:47:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: The UK's first Bitcoin-backed preferred shares start trading!\n\nThe \"Smarter Web Company\" raised $13M with a 12% weekly-paid yield.\n\nTrading up 5% on initial volume.",
+    "link": "https://cryptopanic.com/news/33544121/JUST-IN-The-UKs-first-Bitcoin-backed-preferred-shares-start-trading-The-Smarter-Web-Company-raised-13M-with-a-12-weekly-paid-yield-Trading-up-5-on-initial-volume",
+    "source": "@btc_archive",
+    "published": "Wed Oct 14 2026 13:45:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: TURKISH INTERPOL ARRESTS RICHARD HEART, FOUNDER OF HEX AND PULSECHAIN",
+    "link": "https://cryptopanic.com/news/33544094/INTEL-TURKISH-INTERPOL-ARRESTS-RICHARD-HEART-FOUNDER-OF-HEX-AND-PULSECHAIN",
+    "source": "@solidintel_x",
+    "published": "Wed Oct 14 2026 13:44:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Price Faces Test Despite Improving Social Mood",
+    "link": "https://cryptopanic.com/news/33544103/XRP-Price-Faces-Test-Despite-Improving-Social-Mood",
+    "source": "cryptonews.com",
+    "published": "Wed Oct 14 2026 13:44:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Squads Tests Post-Quantum Signing on Solana Mainnet as Crypto Security Debate Intensifies",
+    "link": "https://cryptopanic.com/news/33543716/Squads-Tests-Post-Quantum-Signing-on-Solana-Mainnet-as-Crypto-Security-Debate-Intensifies",
+    "source": "solanafloor.com",
+    "published": "Wed Oct 14 2026 13:43:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Notorious Crypto Celeb Meme Coin Promoter Plots Second Wave on New Launchpad",
+    "link": "https://cryptopanic.com/news/33544082/Notorious-Crypto-Celeb-Meme-Coin-Promoter-Plots-Second-Wave-on-New-Launchpad",
+    "source": "decrypt.co",
+    "published": "Wed Oct 14 2026 13:41:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: 🇺🇸 Bank of America $BAC crashes 8.3% after being fined $1.2 billion for violating money laundering and sanctions laws.\n\nThis is its biggest drop since April 2025.",
     "link": "https://cryptopanic.com/news/33544096/JUST-IN-Bank-of-America-BAC-crashes-83-after-being-fined-12-billion-for-violating-money-laundering-and-sanctions-laws-This-is-its-biggest-drop-since-April-2025",
     "source": "@watcherguru",
     "published": "Wed Oct 14 2026 13:39:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Kraken agrees to buy Lithuania’s Saldo Bank for European expansion.\n\n• EU license for deposits, loans and cards.\n\n• Closing expected in 2027.",
+    "link": "https://cryptopanic.com/news/33544120/JUST-IN-Kraken-agrees-to-buy-Lithuanias-Saldo-Bank-for-European-expansion-EU-license-for-deposits-loans-and-cards-Closing-expected-in-2027",
+    "source": "@btc_archive",
+    "published": "Wed Oct 14 2026 13:33:46 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -42,6 +98,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "LATEST:  New York Fed President John Williams says he doesn't see more rate hikes in 2027 after one more this year.",
+    "link": "https://cryptopanic.com/news/33544124/LATEST-New-York-Fed-President-John-Williams-says-he-doesnt-see-more-rate-hikes-in-2027-after-one-more-this-year",
+    "source": "@coinmarketcap",
+    "published": "Wed Oct 14 2026 13:25:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Ripple Links With Stripe To Expand XRP’s Reach",
     "link": "https://cryptopanic.com/news/33543930/Ripple-Links-With-Stripe-To-Expand-XRPs-Reach",
     "source": "dailycoin.com",
@@ -53,6 +116,13 @@
     "link": "https://cryptopanic.com/news/33544092/Oct-14-Update-Bitcoin-ETFs-1D-NetFlow-2033-BTC16762M-7D-NetFlow-7502-BTC-61843M-Ethereum-ETFs-1D-NetFlow-674-ETH-166M-7D-NetFlow-142133-ETH-35036M",
     "source": "@lookonchain",
     "published": "Wed Oct 14 2026 13:24:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: $60B Standard Chartered becomes the first major bank to offer Bitcoin trading in the United Arab Emirates.",
+    "link": "https://cryptopanic.com/news/33544118/JUST-IN-60B-Standard-Chartered-becomes-the-first-major-bank-to-offer-Bitcoin-trading-in-the-United-Arab-Emirates",
+    "source": "@btc_archive",
+    "published": "Wed Oct 14 2026 13:23:28 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -74,6 +144,13 @@
     "link": "https://cryptopanic.com/news/33543923/Strategys-preferred-stock-financing-may-cost-it-bitcoin-K33-argues",
     "source": "theblock.co",
     "published": "Wed Oct 14 2026 13:20:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CoinMarketCap | RWA Stocks \n \nGameStop · $GME\n \nGameStop CEO Ryan Cohen just bought another $22.8M of the company's shares.\n \n He bought 844,130 shares at $26.75 to $27 each\n It's his second buy in October, after $17.1M\n His stake is now about 9.1% of GameStop\n \nSee",
+    "link": "https://cryptopanic.com/news/33544123/CoinMarketCap-RWA-Stocks-GameStop-GME-GameStop-CEO-Ryan-Cohen-just-bought-another-228M-of-the-companys-shares-He-bought-844130-shares-at-2675-to-27-each-Its-his-second-buy-in-October-after-171M-His-stake-is-now-about-91-of-GameStop-See",
+    "source": "@coinmarketcap",
+    "published": "Wed Oct 14 2026 13:20:02 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -130,83 +207,6 @@
     "link": "https://cryptopanic.com/news/33543995/Source",
     "source": "@wublockchain",
     "published": "Wed Oct 14 2026 13:12:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Polygon Completes Coinme Acquisition, Turns Open Money Stack Into US-Regulated Payments Platform\n\nPolygon Labs has completed its acquisition of Coinme, integrating regulated U.S. money transfer services into the Polygon Open Money Stack. The platform now covers 48 U.S. states,",
-    "link": "https://cryptopanic.com/news/33543994/Polygon-Completes-Coinme-Acquisition-Turns-Open-Money-Stack-Into-US-Regulated-Payments-Platform-Polygon-Labs-has-completed-its-acquisition-of-Coinme-integrating-regulated-US-money-transfer-services-into-the-Polygon-Open-Money-Stack-The-platform-now-covers-48-US-states",
-    "source": "@wublockchain",
-    "published": "Wed Oct 14 2026 13:12:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: Netflix plans to cut around 1,000 jobs representing 6% of its workforce | per WSJ",
-    "link": "https://cryptopanic.com/news/33544093/INTEL-Netflix-plans-to-cut-around-1000-jobs-representing-6-of-its-workforce-per-WSJ",
-    "source": "@solidintel_x",
-    "published": "Wed Oct 14 2026 13:11:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "IEA Warns Global Diesel Shortage Could Last Into 2027 Despite US Decision to Allow Russian Fuel Imports",
-    "link": "https://cryptopanic.com/news/33543843/IEA-Warns-Global-Diesel-Shortage-Could-Last-Into-2027-Despite-US-Decision-to-Allow-Russian-Fuel-Imports",
-    "source": "coinpaper.com",
-    "published": "Wed Oct 14 2026 13:08:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Kraken parent Payward to become first crypto firm to buy a EU bank as it expands into deposits, lending",
-    "link": "https://cryptopanic.com/news/33544018/Kraken-parent-Payward-to-become-first-crypto-firm-to-buy-a-EU-bank-as-it-expands-into-deposits-lending",
-    "source": "coindesk.com",
-    "published": "Wed Oct 14 2026 13:07:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "KuCoin’s New USD Asset Pays Up to 6% on Stablecoins. Is It Worth Using?",
-    "link": "https://cryptopanic.com/news/33544089/KuCoins-New-USD-Asset-Pays-Up-to-6-on-Stablecoins-Is-It-Worth-Using",
-    "source": "beincrypto.com",
-    "published": "Wed Oct 14 2026 13:06:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Chainlink and DTCC just demonstrated what the FUTURE of institutional finance could look like!\n\nImagine borrowing millions using Microsoft shares as collateral, with the shares and money sitting on DIFFERENT blockchains.\n\nChainlink connects both networks, verifies the",
-    "link": "https://cryptopanic.com/news/33544086/NEW-Chainlink-and-DTCC-just-demonstrated-what-the-FUTURE-of-institutional-finance-could-look-like-Imagine-borrowing-millions-using-Microsoft-shares-as-collateral-with-the-shares-and-money-sitting-on-DIFFERENT-blockchains-Chainlink-connects-both-networks-verifies-the",
-    "source": "@realallincrypto",
-    "published": "Wed Oct 14 2026 13:02:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Strive acquired another 2,822 $BTC for $235M, lifting its holdings to 35,595 $BTC.",
-    "link": "https://cryptopanic.com/news/33543999/NEW-Strive-acquired-another-2822-BTC-for-235M-lifting-its-holdings-to-35595-BTC",
-    "source": "@cointelegraph",
-    "published": "Wed Oct 14 2026 13:01:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: @Nasdaq listed @evernorthxrp names @Ripple, @Krakenfx, @Coinbase and @BitGo as inaugural institutional partners to deploy its 473M $XRP treasury.",
-    "link": "https://cryptopanic.com/news/33543997/NEW-Nasdaq-listed-evernorthxrp-names-Ripple-Krakenfx-Coinbase-and-BitGo-as-inaugural-institutional-partners-to-deploy-its-473M-XRP-treasury",
-    "source": "@coindesk",
-    "published": "Wed Oct 14 2026 13:01:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "gm #Cardano fam 🫂",
-    "link": "https://cryptopanic.com/news/33543996/gm-Cardano-fam",
-    "source": "@angrycryptoshow",
-    "published": "Wed Oct 14 2026 13:00:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Midweek calendar check:\n\n178 events were added across 121 coins in the last 7 days.\n\n3 high-impact events are already on the calendar for the next 7 days. See what's coming: \n\nFor new events and breaking news, follow @cmcal_bot.",
-    "link": "https://cryptopanic.com/news/33544003/Midweek-calendar-check-178-events-were-added-across-121-coins-in-the-last-7-days-3-high-impact-events-are-already-on-the-calendar-for-the-next-7-days-See-whats-coming-For-new-events-and-breaking-news-follow-cmcal_bot",
-    "source": "@coinmarketcal",
-    "published": "Wed Oct 14 2026 13:00:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CoinMarketCap | Historical Data \n\nA valid backtest requires years of history.\nMost providers only go back a few years.\n\nWe deliver market data reaching back to 2010.\n\n Request historical OHLCV candle data feeds\n Extract precise quotes from any past dates\n Track asset",
-    "link": "https://cryptopanic.com/news/33543894/CoinMarketCap-Historical-Data-A-valid-backtest-requires-years-of-history-Most-providers-only-go-back-a-few-years-We-deliver-market-data-reaching-back-to-2010-Request-historical-OHLCV-candle-data-feeds-Extract-precise-quotes-from-any-past-dates-Track-asset",
-    "source": "@coinmarketcap",
-    "published": "Wed Oct 14 2026 13:00:07 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
