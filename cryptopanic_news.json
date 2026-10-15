@@ -1,5 +1,12 @@
 [
   {
+    "title": "Examining @quantnetwork's tokenomics.\n\nWhy does $QNT have such a small supply? All this and more, in our tokenomic research article ⬇️",
+    "link": "https://cryptopanic.com/news/33546524/Examining-quantnetworks-tokenomics-Why-does-QNT-have-such-a-small-supply-All-this-and-more-in-our-tokenomic-research-article",
+    "source": "@bscnews",
+    "published": "Wed Oct 14 2026 23:40:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Iowa asks court to halt OpenAI’s advanced model tests",
     "link": "https://cryptopanic.com/news/33546514/Iowa-asks-court-to-halt-OpenAIs-advanced-model-tests",
     "source": "cryptopolitan.com",
@@ -18,6 +25,13 @@
     "link": "https://cryptopanic.com/news/33546487/France-Crypto-Tax-Could-Hit-Stablecoin-Gains-at-314-in-2027",
     "source": "thecoinrepublic.com",
     "published": "Wed Oct 14 2026 23:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Zebec Network is taking Canton seriously...\n\nYesterday saw @Zebec_HQ integrate leading @CantonNetwork self-custody wallet @C8Wallet by @Cantor8 into its official product suite.\n\nThe integration is expected to provide smoother onboarding onto Canton for institutions and companies",
+    "link": "https://cryptopanic.com/news/33546523/Zebec-Network-is-taking-Canton-seriously-Yesterday-saw-Zebec_HQ-integrate-leading-CantonNetwork-self-custody-wallet-C8Wallet-by-Cantor8-into-its-official-product-suite-The-integration-is-expected-to-provide-smoother-onboarding-onto-Canton-for-institutions-and-companies",
+    "source": "@bscnews",
+    "published": "Wed Oct 14 2026 23:22:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33546228/INTEL-SEC-approves-new-binary-options-tied-to-Coinbase-trading-volume-and-other-corporate-KPIs",
     "source": "@solidintel_x",
     "published": "Wed Oct 14 2026 21:47:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The SEC approved Cboe’s proposal on October 13. The contracts pay out based on whether specified company metrics meet defined conditions, with Robinhood expected to be the first retail broker to offer them.",
-    "link": "https://cryptopanic.com/news/33546227/The-SEC-approved-Cboes-proposal-on-October-13-The-contracts-pay-out-based-on-whether-specified-company-metrics-meet-defined-conditions-with-Robinhood-expected-to-be-the-first-retail-broker-to-offer-them",
-    "source": "@solidintel_x",
-    "published": "Wed Oct 14 2026 21:47:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Godfather of AI and 400 Scientists Want AI Models Cut Off From the Internet",
-    "link": "https://cryptopanic.com/news/33546200/Godfather-of-AI-and-400-Scientists-Want-AI-Models-Cut-Off-From-the-Internet",
-    "source": "decrypt.co",
-    "published": "Wed Oct 14 2026 21:46:04 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
