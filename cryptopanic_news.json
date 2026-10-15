@@ -1,5 +1,47 @@
 [
   {
+    "title": "VanEck withdraws SEC registration for its Lido Staked Ethereum ETF",
+    "link": "https://cryptopanic.com/news/33547096/VanEck-withdraws-SEC-registration-for-its-Lido-Staked-Ethereum-ETF",
+    "source": "cryptodnes.bg",
+    "published": "Thu Oct 15 2026 03:00:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "️ Need to catch up on the news? Here's our top 10 from today:\n\n VanEck has filed to withdraw its Lido Staked Ethereum ETF registration with the SEC, saying it no longer plans to move forward with the fund.\n\n Polygon has closed its Coinme acquisition, turning its Open Money",
+    "link": "https://cryptopanic.com/news/33547093/Need-to-catch-up-on-the-news-Heres-our-top-10-from-today-VanEck-has-filed-to-withdraw-its-Lido-Staked-Ethereum-ETF-registration-with-the-SEC-saying-it-no-longer-plans-to-move-forward-with-the-fund-Polygon-has-closed-its-Coinme-acquisition-turning-its-Open-Money",
+    "source": "@cointelegraph",
+    "published": "Thu Oct 15 2026 03:00:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Chainlink sees $10M ETF inflows – Why LINK’s price still struggles",
+    "link": "https://cryptopanic.com/news/33547070/Chainlink-sees-10M-ETF-inflows-Why-LINKs-price-still-struggles",
+    "source": "ambcrypto.com",
+    "published": "Thu Oct 15 2026 03:00:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BNY, Citadel put tokenized Treasury through triparty repo on major platform",
+    "link": "https://cryptopanic.com/news/33547039/BNY-Citadel-put-tokenized-Treasury-through-triparty-repo-on-major-platform",
+    "source": "cryptopolitan.com",
+    "published": "Thu Oct 15 2026 02:53:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Over $485M in crypto positions were liquidated in the past hour, nearly $465M of them longs, as bitcoin:native fell briefly below $81K.",
+    "link": "https://cryptopanic.com/news/33547092/JUST-IN-Over-485M-in-crypto-positions-were-liquidated-in-the-past-hour-nearly-465M-of-them-longs-as-bitcoinnative-fell-briefly-below-81K",
+    "source": "@cointelegraph",
+    "published": "Thu Oct 15 2026 02:50:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UBS weighs moving headquarters from Switzerland if capital rules tighten, WSJ reports",
+    "link": "https://cryptopanic.com/news/33547094/UBS-weighs-moving-headquarters-from-Switzerland-if-capital-rules-tighten-WSJ-reports",
+    "source": "@reutersbiz",
+    "published": "Thu Oct 15 2026 02:45:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Machi(@machibigbrother) just got fully liquidated!\n\nOver the past 4 months, Machi turned just $56K into $12.25M through trading, and now he is back down to $21.8K.\n\nWhat a roller coaster!",
     "link": "https://cryptopanic.com/news/33547019/Machimachibigbrother-just-got-fully-liquidated-Over-the-past-4-months-Machi-turned-just-56K-into-1225M-through-trading-and-now-he-is-back-down-to-218K-What-a-roller-coaster",
     "source": "@lookonchain",
@@ -35,16 +77,16 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Aptos Adds Three Layers Of Onchain Privacy\n\nAptos (@Aptos) aptos:native now has three opt-in privacy features live on mainnet, each covering a different part of onchain activity.\n\nKeyless Accounts allows users to generate wallets while remaining anonymous because there is no",
-    "link": "https://cryptopanic.com/news/33547018/Aptos-Adds-Three-Layers-Of-Onchain-Privacy-Aptos-Aptos-aptosnative-now-has-three-opt-in-privacy-features-live-on-mainnet-each-covering-a-different-part-of-onchain-activity-Keyless-Accounts-allows-users-to-generate-wallets-while-remaining-anonymous-because-there-is-no",
-    "source": "@bscnews",
+    "title": "Jim Cramer Says Bank Stocks Are Hard to Own Despite Strong Earnings",
+    "link": "https://cryptopanic.com/news/33547037/Jim-Cramer-Says-Bank-Stocks-Are-Hard-to-Own-Despite-Strong-Earnings",
+    "source": "beincrypto.com",
     "published": "Thu Oct 15 2026 02:05:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Jim Cramer Says Bank Stocks Are Hard to Own Despite Strong Earnings",
-    "link": "https://cryptopanic.com/news/33547037/Jim-Cramer-Says-Bank-Stocks-Are-Hard-to-Own-Despite-Strong-Earnings",
-    "source": "beincrypto.com",
+    "title": "Aptos Adds Three Layers Of Onchain Privacy\n\nAptos (@Aptos) aptos:native now has three opt-in privacy features live on mainnet, each covering a different part of onchain activity.\n\nKeyless Accounts allows users to generate wallets while remaining anonymous because there is no",
+    "link": "https://cryptopanic.com/news/33547018/Aptos-Adds-Three-Layers-Of-Onchain-Privacy-Aptos-Aptos-aptosnative-now-has-three-opt-in-privacy-features-live-on-mainnet-each-covering-a-different-part-of-onchain-activity-Keyless-Accounts-allows-users-to-generate-wallets-while-remaining-anonymous-because-there-is-no",
+    "source": "@bscnews",
     "published": "Thu Oct 15 2026 02:05:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -165,48 +207,6 @@
     "link": "https://cryptopanic.com/news/33546833/Circles-USDC-Becomes-EUs-First-Significant-E-Money-Token-Under-MiCA-The-European-Banking-Authority-EBA-has-classified-Circles-USDC-as-the-EUs-first-significant-e-money-token-EMT-under-MiCA-making-it-the-first-of-45-notified-EMTs-to-receive-the-designation-USDC-is",
     "source": "@wublockchain",
     "published": "Thu Oct 15 2026 01:16:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hotter-than-expected inflation data sent the S&P 500 and Nasdaq down more than 1% each, with worries about more interest rate hikes from the Fed pummeling shares of Oracle, CoreWeave and other AI stocks sensitive to higher borrowing costs",
-    "link": "https://cryptopanic.com/news/33546745/Hotter-than-expected-inflation-data-sent-the-SampP-500-and-Nasdaq-down-more-than-1-each-with-worries-about-more-interest-rate-hikes-from-the-Fed-pummeling-shares-of-Oracle-CoreWeave-and-other-AI-stocks-sensitive-to-higher-borrowing-costs",
-    "source": "@reutersbiz",
-    "published": "Thu Oct 15 2026 01:15:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇰🇷 South Korea's KOSPI stock market crashes another 7% today.",
-    "link": "https://cryptopanic.com/news/33546796/JUST-IN-South-Koreas-KOSPI-stock-market-crashes-another-7-today",
-    "source": "@watcherguru",
-    "published": "Thu Oct 15 2026 01:13:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Dell drops 11% after Barclays downgrade triggers data center sell-off",
-    "link": "https://cryptopanic.com/news/33546704/Dell-drops-11-after-Barclays-downgrade-triggers-data-center-sell-off",
-    "source": "cryptopolitan.com",
-    "published": "Thu Oct 15 2026 01:02:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Anthropic reportedly told investors its Q3 revenue climbed 50% to $16.8B and that it turned a profit ahead of its expected November IPO, per FT.",
-    "link": "https://cryptopanic.com/news/33546741/JUST-IN-Anthropic-reportedly-told-investors-its-Q3-revenue-climbed-50-to-168B-and-that-it-turned-a-profit-ahead-of-its-expected-November-IPO-per-FT",
-    "source": "@cointelegraph",
-    "published": "Thu Oct 15 2026 01:00:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "US consumer prices accelerated in September as cost of gasoline surged, dealing another blow to President Trump and his Republican Party ahead of the November 3 midterm elections and putting an interest rate increase later this month back on the radar",
-    "link": "https://cryptopanic.com/news/33546742/US-consumer-prices-accelerated-in-September-as-cost-of-gasoline-surged-dealing-another-blow-to-President-Trump-and-his-Republican-Party-ahead-of-the-November-3-midterm-elections-and-putting-an-interest-rate-increase-later-this-month-back-on-the-radar",
-    "source": "@reutersbiz",
-    "published": "Thu Oct 15 2026 01:00:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "S&P 500 Enters Its Strongest Seasonal Window",
-    "link": "https://cryptopanic.com/news/33546764/SP-500-Enters-Its-Strongest-Seasonal-Window",
-    "source": "beincrypto.com",
-    "published": "Thu Oct 15 2026 01:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
