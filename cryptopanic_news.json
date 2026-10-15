@@ -1,9 +1,30 @@
 [
   {
+    "title": "Lufthansa increased fueling before flights to Frankfurt as a precautionary step as fuel supplies tighten at Germany's largest air hub due to reduced capacity at a pipeline, the airline said. More here",
+    "link": "https://cryptopanic.com/news/33548356/Lufthansa-increased-fueling-before-flights-to-Frankfurt-as-a-precautionary-step-as-fuel-supplies-tighten-at-Germanys-largest-air-hub-due-to-reduced-capacity-at-a-pipeline-the-airline-said-More-here",
+    "source": "@reutersbiz",
+    "published": "Thu Oct 15 2026 07:47:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "AI Agents Have Made 138 Million Payments Over x402, Most of Them Under 10 Cents",
+    "link": "https://cryptopanic.com/news/33548328/AI-Agents-Have-Made-138-Million-Payments-Over-x402-Most-of-Them-Under-10-Cents",
+    "source": "www.blockhead.co",
+    "published": "Thu Oct 15 2026 07:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Despite the market drop, whales are still buying the dip!\n\nWhale 0x8E8b, who previously sold 2,050 $ETH ($4.93M) for a $1.08M profit, bought 6,010 $ETH ($14.23M) back today.",
     "link": "https://cryptopanic.com/news/33548331/Despite-the-market-drop-whales-are-still-buying-the-dip-Whale-0x8E8b-who-previously-sold-2050-ETH-493M-for-a-108M-profit-bought-6010-ETH-1423M-back-today",
     "source": "@lookonchain",
     "published": "Thu Oct 15 2026 07:38:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Zcash risks slide toward $1,000 as inflation fears outweigh ETF inflows",
+    "link": "https://cryptopanic.com/news/33548341/Zcash-risks-slide-toward-1000-as-inflation-fears-outweigh-ETF-inflows",
+    "source": "coinjournal.net",
+    "published": "Thu Oct 15 2026 07:37:33 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -18,6 +39,13 @@
     "link": "https://cryptopanic.com/news/33548228/USDC-Becomes-the-EUs-First-Significant-E-Money-Token-Under-MiCA",
     "source": "btcusa.com",
     "published": "Thu Oct 15 2026 07:25:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🤖 Chainalysis says AI agents have made over 138M x402 transactions on Base, with more than 87% of payments falling between a hundredth of a cent and a dime.",
+    "link": "https://cryptopanic.com/news/33548355/LATEST-Chainalysis-says-AI-agents-have-made-over-138M-x402-transactions-on-Base-with-more-than-87-of-payments-falling-between-a-hundredth-of-a-cent-and-a-dime",
+    "source": "@coinmarketcap",
+    "published": "Thu Oct 15 2026 07:25:02 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33548024/BoEs-Pill-says-a-rate-hike-need-not-be-start-of-long-series",
     "source": "@reutersbiz",
     "published": "Thu Oct 15 2026 06:30:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "USDC splits global reserves as EBA enforces Nov 12 handover",
-    "link": "https://cryptopanic.com/news/33547970/USDC-splits-global-reserves-as-EBA-enforces-Nov-12-handover",
-    "source": "cryptoslate.com",
-    "published": "Thu Oct 15 2026 06:30:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BingX EU Secures Austria MiCA License for 29 EEA Countries",
-    "link": "https://cryptopanic.com/news/33547932/BingX-EU-Secures-Austria-MiCA-License-for-29-EEA-Countries",
-    "source": "btcusa.com",
-    "published": "Thu Oct 15 2026 06:30:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana Just Did Something in China That Changpeng Zhao Says BNB Chain Couldn’t",
-    "link": "https://cryptopanic.com/news/33548117/Solana-Just-Did-Something-in-China-That-Changpeng-Zhao-Says-BNB-Chain-Couldnt",
-    "source": "beincrypto.com",
-    "published": "Thu Oct 15 2026 06:23:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Loses $81,400 Support, $80,000 Comes Into Focus",
-    "link": "https://cryptopanic.com/news/33547917/Bitcoin-Loses-81400-Support-80000-Comes-Into-Focus",
-    "source": "coindoo.com",
-    "published": "Thu Oct 15 2026 06:21:49 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
