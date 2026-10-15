@@ -1,5 +1,26 @@
 [
   {
+    "title": "Google Says It Just Cracked One of Quantum Computing's Biggest Bottlenecks",
+    "link": "https://cryptopanic.com/news/33552376/Google-Says-It-Just-Cracked-One-of-Quantum-Computings-Biggest-Bottlenecks",
+    "source": "decrypt.co",
+    "published": "Thu Oct 15 2026 21:46:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ChatGPT can now work with your Internet Computer apps\n\nAn Internet Computer plugin from @dfinity is now live in ChatGPT’s plugin directory. It lets @ChatGPT read data from participating ICP apps and make non-financial changes across several apps in a single chat.\n\nUsers sign in",
+    "link": "https://cryptopanic.com/news/33552385/ChatGPT-can-now-work-with-your-Internet-Computer-apps-An-Internet-Computer-plugin-from-dfinity-is-now-live-in-ChatGPTs-plugin-directory-It-lets-ChatGPT-read-data-from-participating-ICP-apps-and-make-non-financial-changes-across-several-apps-in-a-single-chat-Users-sign-in",
+    "source": "@bscnews",
+    "published": "Thu Oct 15 2026 21:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Farcaster acquired by Balaji’s Network School, with new ‘social smart contract’ for users",
+    "link": "https://cryptopanic.com/news/33552365/Farcaster-acquired-by-Balajis-Network-School-with-new-social-smart-contract-for-users",
+    "source": "theblock.co",
+    "published": "Thu Oct 15 2026 21:41:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "MSCI Adopts New Index Exclusion Rules; Strategy and Metaplanet Face Potential Removal\n\nMSCI has adopted new rules to exclude non-operating companies from its Global Investable Market Indexes. In an earlier simulation based on May 2026 data, MSCI identified Bitcoin treasury",
     "link": "https://cryptopanic.com/news/33552374/MSCI-Adopts-New-Index-Exclusion-Rules-Strategy-and-Metaplanet-Face-Potential-Removal-MSCI-has-adopted-new-rules-to-exclude-non-operating-companies-from-its-Global-Investable-Market-Indexes-In-an-earlier-simulation-based-on-May-2026-data-MSCI-identified-Bitcoin-treasury",
     "source": "@wublockchain",
@@ -186,27 +207,6 @@
     "link": "https://cryptopanic.com/news/33552242/Hunter-Biden-Says-Crypto-Is-Hostage-to-Donald-Trump",
     "source": "feeds2.benzinga.com",
     "published": "Thu Oct 15 2026 20:32:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms",
-    "link": "https://cryptopanic.com/news/33552205/Russia-Will-Soon-Ban-Peer-to-Peer-Bitcoin-Trading-Central-Bank-Confirms",
-    "source": "decrypt.co",
-    "published": "Thu Oct 15 2026 20:31:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$BTC Very solid reaction from that .618 fib level. Right back above the $81.5K horizontal and into the 4H 200MA/EMA.\n\nThere's still a lot of untapped liquidity from last week's chop above $84K which would be the next level up for the bulls.\n\nBelow, it shouldn't lose that $81.5K",
-    "link": "https://cryptopanic.com/news/33552202/BTC-Very-solid-reaction-from-that-618-fib-level-Right-back-above-the-815K-horizontal-and-into-the-4H-200MAEMA-Theres-still-a-lot-of-untapped-liquidity-from-last-weeks-chop-above-84K-which-would-be-the-next-level-up-for-the-bulls-Below-it-shouldnt-lose-that-815K",
-    "source": "@daancrypto",
-    "published": "Thu Oct 15 2026 20:30:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: A task scam operator lost more than 60 $BTC worth about $4.8 million in the Ledger theft after thieves drained three addresses holding the scam’s proceeds.",
-    "link": "https://cryptopanic.com/news/33552200/JUST-IN-A-task-scam-operator-lost-more-than-60-BTC-worth-about-48-million-in-the-Ledger-theft-after-thieves-drained-three-addresses-holding-the-scams-proceeds",
-    "source": "@cointelegraph",
-    "published": "Thu Oct 15 2026 20:30:24 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
