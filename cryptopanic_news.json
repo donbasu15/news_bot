@@ -1,5 +1,19 @@
 [
   {
+    "title": "Polygon Labs Completes Coinme Acquisition to Add US-Regulated Payment Rails",
+    "link": "https://cryptopanic.com/news/33548888/Polygon-Labs-Completes-Coinme-Acquisition-to-Add-US-Regulated-Payment-Rails",
+    "source": "btcusa.com",
+    "published": "Thu Oct 15 2026 09:50:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin ATM: How to Buy, Sell, and Avoid Scams",
+    "link": "https://cryptopanic.com/news/33548867/Bitcoin-ATM-How-to-Buy-Sell-and-Avoid-Scams",
+    "source": "btcusa.com",
+    "published": "Thu Oct 15 2026 09:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Why did ETH go through a wave of long liquidations?",
     "link": "https://cryptopanic.com/news/33548823/Why-did-ETH-go-through-a-wave-of-long-liquidations",
     "source": "cryptopolitan.com",
@@ -63,10 +77,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Hex founder Richard Heart arrested in Istanbul, Turkish media report",
+    "link": "https://cryptopanic.com/news/33548893/Hex-founder-Richard-Heart-arrested-in-Istanbul-Turkish-media-report",
+    "source": "coindesk.com",
+    "published": "Thu Oct 15 2026 09:20:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Stock Market Today: S&P 500, Nasdaq 100 Futures Fall As Chip Stock Sell-Off Intensifies — SKHY, TSM, RKLB in Focus",
     "link": "https://cryptopanic.com/news/33548812/Stock-Market-Today-SP-500-Nasdaq-100-Futures-Fall-As-Chip-Stock-Sell-Off-Intensifies-SKHY-TSM-RKLB-in-Focus",
     "source": "feeds2.benzinga.com",
     "published": "Thu Oct 15 2026 09:18:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇺🇸 Kalshi CEO Tarek Mansour says prediction market firms would be forced offshore if US courts side with states claiming gambling authority over the industry.",
+    "link": "https://cryptopanic.com/news/33548902/LATEST-Kalshi-CEO-Tarek-Mansour-says-prediction-market-firms-would-be-forced-offshore-if-US-courts-side-with-states-claiming-gambling-authority-over-the-industry",
+    "source": "@coinmarketcap",
+    "published": "Thu Oct 15 2026 09:17:02 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -109,6 +137,13 @@
     "link": "https://cryptopanic.com/news/33548690/Workday-Brings-Sana-into-Claude-Who-Actually-Approves-the-Actions",
     "source": "spaziocrypto.com",
     "published": "Thu Oct 15 2026 09:05:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Why Isn’t XRP Rising? 13 Weeks of ETF Inflows Haven’t Moved the Price",
+    "link": "https://cryptopanic.com/news/33548887/Why-Isnt-XRP-Rising-13-Weeks-of-ETF-Inflows-Havent-Moved-the-Price",
+    "source": "beincrypto.com",
+    "published": "Thu Oct 15 2026 09:04:09 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33548620/NEW-Australias-ASIC-seeks-feedback-on-proposed-crypto-rules-ahead-of-an-April-2027-rollout-Three-industry-experts-explain-what-the-proposals-could-mean-for-platforms-and-customer-assets-Felix-Ng-reports",
     "source": "@cointelegraph",
     "published": "Thu Oct 15 2026 08:30:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🧪 Litmus is a test bench for AI trading agents\n\n Grades each agent decision against the known right answer, on CMC API data\n Catches trades where the data is right but the call is wrong\n\n Contact API Sales\n\n\n#BuildwithCMC",
-    "link": "https://cryptopanic.com/news/33548562/Litmus-is-a-test-bench-for-AI-trading-agents-Grades-each-agent-decision-against-the-known-right-answer-on-CMC-API-data-Catches-trades-where-the-data-is-right-but-the-call-is-wrong-Contact-API-Sales-BuildwithCMC",
-    "source": "@coinmarketcap",
-    "published": "Thu Oct 15 2026 08:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Vitalik Buterin Reveals New Key Priority for Ethereum (ETH)",
-    "link": "https://cryptopanic.com/news/33548584/Vitalik-Buterin-Reveals-New-Key-Priority-for-Ethereum-ETH",
-    "source": "u.today",
-    "published": "Thu Oct 15 2026 08:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "USDC Gets EU ‘Significant’ Status: What Changes",
-    "link": "https://cryptopanic.com/news/33548482/USDC-Gets-EU-Significant-Status-What-Changes",
-    "source": "coindoo.com",
-    "published": "Thu Oct 15 2026 08:21:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Norway should allow its $2.3 trillion wealth fund to invest in major Western defense groups that are currently banned from its portfolio due to their involvement in nuclear arms production, a government-appointed commission recommended. More here",
-    "link": "https://cryptopanic.com/news/33548622/Norway-should-allow-its-23-trillion-wealth-fund-to-invest-in-major-Western-defense-groups-that-are-currently-banned-from-its-portfolio-due-to-their-involvement-in-nuclear-arms-production-a-government-appointed-commission-recommended-More-here",
-    "source": "@reutersbiz",
-    "published": "Thu Oct 15 2026 08:20:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "At the offices of Chinese startup DexForce, a screen shows a virtual robot placing objects on a table. It repeats the task as the angle of its arms, the colour of the table and the objects themselves change.\n\nDexForce is betting that such simulated training can help solve one of",
-    "link": "https://cryptopanic.com/news/33548621/At-the-offices-of-Chinese-startup-DexForce-a-screen-shows-a-virtual-robot-placing-objects-on-a-table-It-repeats-the-task-as-the-angle-of-its-arms-the-colour-of-the-table-and-the-objects-themselves-change-DexForce-is-betting-that-such-simulated-training-can-help-solve-one-of",
-    "source": "@reutersbiz",
-    "published": "Thu Oct 15 2026 08:20:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
