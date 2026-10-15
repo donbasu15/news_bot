@@ -7,6 +7,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "LATEST:  A new BIS paper finds that when banks raise deposit rates, stablecoin growth slows — evidence the two are partial substitutes — with the effect stronger for USDC than USDT.",
+    "link": "https://cryptopanic.com/news/33546675/LATEST-A-new-BIS-paper-finds-that-when-banks-raise-deposit-rates-stablecoin-growth-slows-evidence-the-two-are-partial-substitutes-with-the-effect-stronger-for-USDC-than-USDT",
+    "source": "@coinmarketcap",
+    "published": "Thu Oct 15 2026 00:39:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "BIG: Polygon has closed its Coinme acquisition, turning its Open Money Stack into a US-regulated payments platform, with Tazapay, Mesh, Toku and Kira among its first users.",
     "link": "https://cryptopanic.com/news/33546630/BIG-Polygon-has-closed-its-Coinme-acquisition-turning-its-Open-Money-Stack-into-a-US-regulated-payments-platform-with-Tazapay-Mesh-Toku-and-Kira-among-its-first-users",
     "source": "@cointelegraph",
@@ -25,6 +32,13 @@
     "link": "https://cryptopanic.com/news/33546662/Internet-Computer-outpaces-all-networks-by-transaction-count-dfinitys-Internet-Computer-has-now-processed-a-frankly-insane-306-BILLION-transactions-as-of-the-latest-data-As-far-as-we-know-there-is-no-blockchain-that-comes-even-close-to-this-figure-with-even-hyper-scalable",
     "source": "@bscnews",
     "published": "Thu Oct 15 2026 00:27:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Warren Buffett’s $365B cash balance at Berkshire Hathaway lost 20% against Bitcoin since Q2 2024.\n\nWhile T-bills compounded 10%, Bitcoin surged 30%.\n\nIs holding cash becoming the riskier trade?",
+    "link": "https://cryptopanic.com/news/33546674/Warren-Buffetts-365B-cash-balance-at-Berkshire-Hathaway-lost-20-against-Bitcoin-since-Q2-2024-While-T-bills-compounded-10-Bitcoin-surged-30-Is-holding-cash-becoming-the-riskier-trade",
+    "source": "@btc_archive",
+    "published": "Thu Oct 15 2026 00:17:57 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33546338/Coinsph-users-face-app-lockout-as-central-bank-intervenes",
     "source": "cryptoslate.com",
     "published": "Wed Oct 14 2026 22:30:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Every Midterm Q4 Has Been Red for Bitcoin. Until Now?",
-    "link": "https://cryptopanic.com/news/33546343/Every-Midterm-Q4-Has-Been-Red-for-Bitcoin-Until-Now",
-    "source": "BitcoinMagazine",
-    "published": "Wed Oct 14 2026 22:30:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Strive bought another 2,822 BTC for $235M at an average price of about $83,266, bringing its total holdings to 35,595 BTC.",
-    "link": "https://cryptopanic.com/news/33546375/LATEST-Strive-bought-another-2822-BTC-for-235M-at-an-average-price-of-about-83266-bringing-its-total-holdings-to-35595-BTC",
-    "source": "@coinmarketcap",
-    "published": "Wed Oct 14 2026 22:25:03 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
