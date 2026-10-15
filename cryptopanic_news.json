@@ -1,5 +1,12 @@
 [
   {
+    "title": "🇰🇷 JUST IN: South Korea’s KOSPI plunges another 7% today.",
+    "link": "https://cryptopanic.com/news/33546864/JUST-IN-South-Koreas-KOSPI-plunges-another-7-today",
+    "source": "@cointelegraph",
+    "published": "Thu Oct 15 2026 01:40:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "$455M of positions were liquidated over the past 24 hours, but what is most notable is the category that got hit hardest.\n\n\"Other\" is altcoins outside the top 50, so this sends a clear signal that people were longing small alts with high leverage before this correction.",
     "link": "https://cryptopanic.com/news/33546830/455M-of-positions-were-liquidated-over-the-past-24-hours-but-what-is-most-notable-is-the-category-that-got-hit-hardest-Other-is-altcoins-outside-the-top-50-so-this-sends-a-clear-signal-that-people-were-longing-small-alts-with-high-leverage-before-this-correction",
     "source": "@stackersatoshi",
@@ -7,10 +14,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Shiba Inu's holder growth has stagnated...\n\nCoinciding with a collapse in wider market sentiment, @Shibtoken has added only 44 holders on @Ethereum in the past week.\n\nAccording to @Etherscan data at time of writing, on October 14 at 7:30am UTC, $SHIB's Ethereum holder count",
+    "link": "https://cryptopanic.com/news/33546867/Shiba-Inus-holder-growth-has-stagnated-Coinciding-with-a-collapse-in-wider-market-sentiment-Shibtoken-has-added-only-44-holders-on-Ethereum-in-the-past-week-According-to-Etherscan-data-at-time-of-writing-on-October-14-at-730am-UTC-SHIBs-Ethereum-holder-count",
+    "source": "@bscnews",
+    "published": "Thu Oct 15 2026 01:32:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Dogecoin price drops 14%, but futures funding stays positive — Why?",
     "link": "https://cryptopanic.com/news/33546798/Dogecoin-price-drops-14-but-futures-funding-stays-positive-Why",
     "source": "ambcrypto.com",
     "published": "Thu Oct 15 2026 01:30:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇨🇳 NEW: Apple reportedly plans to bring Apple Intelligence to mainland China in December via its iOS 27.3 update, after a long regulatory delay, per Bloomberg.",
+    "link": "https://cryptopanic.com/news/33546863/NEW-Apple-reportedly-plans-to-bring-Apple-Intelligence-to-mainland-China-in-December-via-its-iOS-273-update-after-a-long-regulatory-delay-per-Bloomberg",
+    "source": "@cointelegraph",
+    "published": "Thu Oct 15 2026 01:30:24 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -186,27 +207,6 @@
     "link": "https://cryptopanic.com/news/33546561/12-years-ago-today-An-Australian-Bitcoin-arbitrage-firm-announced-plans-to-raise-18M",
     "source": "@btc_archive",
     "published": "Thu Oct 15 2026 00:01:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana sets October 21 for massive Alpenglow upgrade that could make transactions 99% faster to finalize",
-    "link": "https://cryptopanic.com/news/33546528/Solana-sets-October-21-for-massive-Alpenglow-upgrade-that-could-make-transactions-99-faster-to-finalize",
-    "source": "cryptoslate.com",
-    "published": "Thu Oct 15 2026 00:00:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin's Big Move: 88K by Halloween? Saylor Buys More?",
-    "link": "https://cryptopanic.com/news/33546567/Bitcoins-Big-Move-88K-by-Halloween-Saylor-Buys-More",
-    "source": "SimplyBitcoin",
-    "published": "Thu Oct 15 2026 00:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stellar's stablecoin market cap has grown +289%.\n\nFrom just $253.75M in mid-October of 2025, @StellarOrg's stablecoin economy has exploded by some +289% in the past year...\n\n... reaching a total of $986.2M at time of writing.\n\nHowever, Stellar's stablecoin supply has crossed the",
-    "link": "https://cryptopanic.com/news/33546525/Stellars-stablecoin-market-cap-has-grown-289-From-just-25375M-in-mid-October-of-2025-StellarOrgs-stablecoin-economy-has-exploded-by-some-289-in-the-past-year-reaching-a-total-of-9862M-at-time-of-writing-However-Stellars-stablecoin-supply-has-crossed-the",
-    "source": "@bscnews",
-    "published": "Wed Oct 14 2026 23:54:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
