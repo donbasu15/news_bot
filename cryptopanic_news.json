@@ -1,5 +1,40 @@
 [
   {
+    "title": "Rogue A.I. Agent Reportedly Stole Ethereum From Digital Wallet",
+    "link": "https://cryptopanic.com/news/33556014/Rogue-AI-Agent-Reportedly-Stole-Ethereum-From-Digital-Wallet",
+    "source": "cryptoprowl.com",
+    "published": "Fri Oct 16 2026 13:49:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP News: RLUSD Settlement Comes to Cross River Fintechs",
+    "link": "https://cryptopanic.com/news/33555932/XRP-News-RLUSD-Settlement-Comes-to-Cross-River-Fintechs",
+    "source": "cryptonews.com",
+    "published": "Fri Oct 16 2026 13:42:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LIVE: Bitcoin Macro Outlook, Treasury Companies, BTC Derivatives | BMTV Oct. 16, 2026",
+    "link": "https://cryptopanic.com/news/33556029/LIVE-Bitcoin-Macro-Outlook-Treasury-Companies-BTC-Derivatives-BMTV-Oct-16-2026",
+    "source": "@bitcoinmagazine",
+    "published": "Fri Oct 16 2026 13:36:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "‘We Have Clarity:’ Ripple Execs Shrug Off CLARITY Act Failure—What’s Next?",
+    "link": "https://cryptopanic.com/news/33556005/We-Have-Clarity-Ripple-Execs-Shrug-Off-CLARITY-Act-FailureWhats-Next",
+    "source": "feeds2.benzinga.com",
+    "published": "Fri Oct 16 2026 13:35:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Apple's $AAPL iPhone Duo is now sold out through Christmas, with new orders not arriving until 2027.",
+    "link": "https://cryptopanic.com/news/33556031/JUST-IN-Apples-AAPL-iPhone-Duo-is-now-sold-out-through-Christmas-with-new-orders-not-arriving-until-2027",
+    "source": "@watcherguru",
+    "published": "Fri Oct 16 2026 13:35:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: @Crynuxio is building a decentralized network designed to connect AI developers with computing resources.\n\nbase:0x9557dd9e241bc9636732623b672b4090af519396 supports the ecosystem through compute payments, node staking, delegation and governance, giving the token multiple",
     "link": "https://cryptopanic.com/news/33555991/JUST-IN-Crynuxio-is-building-a-decentralized-network-designed-to-connect-AI-developers-with-computing-resources-base0x9557dd9e241bc9636732623b672b4090af519396-supports-the-ecosystem-through-compute-payments-node-staking-delegation-and-governance-giving-the-token-multiple",
     "source": "@bscnews",
@@ -32,6 +67,13 @@
     "link": "https://cryptopanic.com/news/33555911/How-Ethereum-Works",
     "source": "theblock.co",
     "published": "Fri Oct 16 2026 13:31:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: Circle generated $1.4 billion in revenue during H1 2026 and only 7% became net profit after 59% went to $USDC partners and transaction costs",
+    "link": "https://cryptopanic.com/news/33556028/INTEL-Circle-generated-14-billion-in-revenue-during-H1-2026-and-only-7-became-net-profit-after-59-went-to-USDC-partners-and-transaction-costs",
+    "source": "@solidintel_x",
+    "published": "Fri Oct 16 2026 13:29:52 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -140,6 +182,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Japan’s Megabanks Finish Yen Stablecoin Pilot and Eye Real Transactions",
+    "link": "https://cryptopanic.com/news/33556021/Japans-Megabanks-Finish-Yen-Stablecoin-Pilot-and-Eye-Real-Transactions",
+    "source": "beincrypto.com",
+    "published": "Fri Oct 16 2026 13:05:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "European Central Bank President Christine Lagarde says few developments have moved to the centre of financial policy as quickly as STABLECOINS!\n\nHer statement is featured in a major new European think tank report on the future of TOKENISED FINANCE!\n\nAnd remember, Lagarde has",
     "link": "https://cryptopanic.com/news/33555988/European-Central-Bank-President-Christine-Lagarde-says-few-developments-have-moved-to-the-centre-of-financial-policy-as-quickly-as-STABLECOINS-Her-statement-is-featured-in-a-major-new-European-think-tank-report-on-the-future-of-TOKENISED-FINANCE-And-remember-Lagarde-has",
     "source": "@realallincrypto",
@@ -147,66 +196,17 @@
     "sentiment": "neutral"
   },
   {
+    "title": "3 Altcoins That Could Reach All-Time Highs This Weekend",
+    "link": "https://cryptopanic.com/news/33556020/3-Altcoins-That-Could-Reach-All-Time-Highs-This-Weekend",
+    "source": "beincrypto.com",
+    "published": "Fri Oct 16 2026 13:01:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "UPDATE: Anthropic gets a BB+ credit rating as Wall Street reportedly lines up another $60B in AI chip financing, per Walter Bloomberg.",
     "link": "https://cryptopanic.com/news/33555985/UPDATE-Anthropic-gets-a-BB-credit-rating-as-Wall-Street-reportedly-lines-up-another-60B-in-AI-chip-financing-per-Walter-Bloomberg",
     "source": "@cointelegraph",
     "published": "Fri Oct 16 2026 13:00:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CMC 20 and CMC 100, latest and historic, straight from the API.\n\n /index/*\n\n An index nobody argues with, because it is the industry reference.\n\n️ Build with CMC (API)\n\n\n#BuildwithCMC",
-    "link": "https://cryptopanic.com/news/33555897/CMC-20-and-CMC-100-latest-and-historic-straight-from-the-API-index-An-index-nobody-argues-with-because-it-is-the-industry-reference-Build-with-CMC-API-BuildwithCMC",
-    "source": "@coinmarketcap",
-    "published": "Fri Oct 16 2026 13:00:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Rebound, Tesla Flying Cars Ignite Trenches & Crypto AI Bull Case",
-    "link": "https://cryptopanic.com/news/33555826/Bitcoin-Rebound-Tesla-Flying-Cars-Ignite-Trenches-amp-Crypto-AI-Bull-Case",
-    "source": "@decryptmedia",
-    "published": "Fri Oct 16 2026 13:00:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP price holds $1.30 – Can bulls overcome whale selling pressure?",
-    "link": "https://cryptopanic.com/news/33555782/XRP-price-holds-130-Can-bulls-overcome-whale-selling-pressure",
-    "source": "ambcrypto.com",
-    "published": "Fri Oct 16 2026 13:00:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "FOMO HOUR ft @Tyler_Did_It and @farokh\n- \n- \n-",
-    "link": "https://cryptopanic.com/news/33555825/FOMO-HOUR-ft-Tyler_Did_It-and-farokh-",
-    "source": "@decryptmedia",
-    "published": "Fri Oct 16 2026 13:00:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana’s ‘Alpenglow’ upgrade to slash finality times by 85x on 21 October",
-    "link": "https://cryptopanic.com/news/33555824/Solanas-Alpenglow-upgrade-to-slash-finality-times-by-85x-on-21-October",
-    "source": "@decryptmedia",
-    "published": "Fri Oct 16 2026 13:00:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Verizon & Ericsson Complete First Outdoor 6G Test in 7 GHz",
-    "link": "https://cryptopanic.com/news/33555746/Verizon-Ericsson-Complete-First-Outdoor-6G-Test-in-7-GHz",
-    "source": "dailycoin.com",
-    "published": "Fri Oct 16 2026 13:00:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "A Year After Trump's Order, OCC Says Big Banks Curbed Crypto Access",
-    "link": "https://cryptopanic.com/news/33555753/A-Year-After-Trumps-Order-OCC-Says-Big-Banks-Curbed-Crypto-Access",
-    "source": "coinpaprika.com",
-    "published": "Fri Oct 16 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Is $CAKE about to get even more deflationary?!\n\nUnder a new proposal called ‘The Flip’, @PancakeSwap would reinvent its token mechanisms.\n\nThe proposal would see liquidity providers on PancakeSwap v3 and Infinity take home some 88% of all swap fees.\n\nIt would also reduce $CAKE",
-    "link": "https://cryptopanic.com/news/33555739/Is-CAKE-about-to-get-even-more-deflationary-Under-a-new-proposal-called-The-Flip-PancakeSwap-would-reinvent-its-token-mechanisms-The-proposal-would-see-liquidity-providers-on-PancakeSwap-v3-and-Infinity-take-home-some-88-of-all-swap-fees-It-would-also-reduce-CAKE",
-    "source": "@bscnews",
-    "published": "Fri Oct 16 2026 12:55:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
