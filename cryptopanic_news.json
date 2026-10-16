@@ -1,5 +1,75 @@
 [
   {
+    "title": "JUST IN: Charles Schwab says Bitcoin has \"strong fundamentals for the future.\" \n\n\"Regulatory progress will hopefully help the market.\"",
+    "link": "https://cryptopanic.com/news/33556793/JUST-IN-Charles-Schwab-says-Bitcoin-has-strong-fundamentals-for-the-future-Regulatory-progress-will-hopefully-help-the-market",
+    "source": "@btc_archive",
+    "published": "Fri Oct 16 2026 16:39:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: OpenAI CEO Sam Altman praises Tesla's $TSLA new Roadster, says it \"looks amazing\" and tells Elon Musk \"good job.\"",
+    "link": "https://cryptopanic.com/news/33556791/JUST-IN-OpenAI-CEO-Sam-Altman-praises-Teslas-TSLA-new-Roadster-says-it-looks-amazing-and-tells-Elon-Musk-good-job",
+    "source": "@watcherguru",
+    "published": "Fri Oct 16 2026 16:39:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CFTC Wants to Drop Gemini’s $5M Settlement. A Judge Just Said No",
+    "link": "https://cryptopanic.com/news/33556750/CFTC-Wants-to-Drop-Geminis-5M-Settlement-A-Judge-Just-Said-No",
+    "source": "decrypt.co",
+    "published": "Fri Oct 16 2026 16:36:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Rebound, Tesla Flying Cars Ignite Trenches & Crypto AI Bull Case. Get up to speed on all the latest news from @Tyler_Did_It and @farokh on the @fomohour podcast.",
+    "link": "https://cryptopanic.com/news/33556738/Bitcoin-Rebound-Tesla-Flying-Cars-Ignite-Trenches-amp-Crypto-AI-Bull-Case-Get-up-to-speed-on-all-the-latest-news-from-Tyler_Did_It-and-farokh-on-the-fomohour-podcast",
+    "source": "@decryptmedia",
+    "published": "Fri Oct 16 2026 16:27:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Looking Beyond Bitcoin? Analysts See Bigger Opportunities in These 5 Altcoins",
+    "link": "https://cryptopanic.com/news/33556784/Looking-Beyond-Bitcoin-Analysts-See-Bigger-Opportunities-in-These-5-Altcoins",
+    "source": "feeds2.benzinga.com",
+    "published": "Fri Oct 16 2026 16:27:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The man who created Sui’s Move language now does security research at Anthropic\n\nSam Blackshear (@b1ackd0g) created Move, the programming language behind Sui smart contracts. He first built it for Libra, Facebook’s stablecoin project, later renamed Diem.\n\nHe later co-founded",
+    "link": "https://cryptopanic.com/news/33556736/The-man-who-created-Suis-Move-language-now-does-security-research-at-Anthropic-Sam-Blackshear-b1ackd0g-created-Move-the-programming-language-behind-Sui-smart-contracts-He-first-built-it-for-Libra-Facebooks-stablecoin-project-later-renamed-Diem-He-later-co-founded",
+    "source": "@bscnews",
+    "published": "Fri Oct 16 2026 16:24:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: The Bitcoin Market Value to Realized Value Momentum Oscillator has turned positive. \n\n\"The signal that called every BTC\ncycle bottom just printed again at $83K\" — Rand Group",
+    "link": "https://cryptopanic.com/news/33556789/JUST-IN-The-Bitcoin-Market-Value-to-Realized-Value-Momentum-Oscillator-has-turned-positive-The-signal-that-called-every-BTC-cycle-bottom-just-printed-again-at-83K-Rand-Group",
+    "source": "@bitcoinmagazine",
+    "published": "Fri Oct 16 2026 16:23:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: @HotcoinGlobal expands beyond crypto with USDT-settled products linked to global stocks, ETFs and commodities, offering price exposure without ownership of the underlying assets.",
+    "link": "https://cryptopanic.com/news/33556735/LATEST-HotcoinGlobal-expands-beyond-crypto-with-USDT-settled-products-linked-to-global-stocks-ETFs-and-commodities-offering-price-exposure-without-ownership-of-the-underlying-assets",
+    "source": "@cointelegraph",
+    "published": "Fri Oct 16 2026 16:20:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MSCI’s new rules could squeeze Strategy’s Bitcoin buying machine",
+    "link": "https://cryptopanic.com/news/33556680/MSCIs-new-rules-could-squeeze-Strategys-Bitcoin-buying-machine",
+    "source": "cryptoslate.com",
+    "published": "Fri Oct 16 2026 16:20:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$MSTR is -8.6% so far today as it reacts to this news.",
+    "link": "https://cryptopanic.com/news/33556794/MSTR-is-86-so-far-today-as-it-reacts-to-this-news",
+    "source": "@stackersatoshi",
+    "published": "Fri Oct 16 2026 16:19:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST: @HyperliquidX Tesla perp surges 4.9% and hourly volume spikes 1,580% after Elon Musk unveils a flying Roadster.",
     "link": "https://cryptopanic.com/news/33556669/LATEST-HyperliquidX-Tesla-perp-surges-49-and-hourly-volume-spikes-1580-after-Elon-Musk-unveils-a-flying-Roadster",
     "source": "@coindesk",
@@ -7,10 +77,31 @@
     "sentiment": "neutral"
   },
   {
+    "title": "🇺🇸 NEW: The SEC files Unique Wealth’s 13F-HR showing $10.4M in Bitcoin holdings.",
+    "link": "https://cryptopanic.com/news/33556733/NEW-The-SEC-files-Unique-Wealths-13F-HR-showing-104M-in-Bitcoin-holdings",
+    "source": "@cointelegraph",
+    "published": "Fri Oct 16 2026 16:10:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BREAKING: Cobo Wallet app shuts down in December.\n\n• Withdraw your Bitcoin by Nov. 30 to avoid a $100/month minimum fee.\n\n• Institutional custody services remain fully active.",
+    "link": "https://cryptopanic.com/news/33556792/BREAKING-Cobo-Wallet-app-shuts-down-in-December-Withdraw-your-Bitcoin-by-Nov-30-to-avoid-a-100month-minimum-fee-Institutional-custody-services-remain-fully-active",
+    "source": "@btc_archive",
+    "published": "Fri Oct 16 2026 16:06:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin Bounces, But Where Does It Go Next? Here’s What the Charts Say",
     "link": "https://cryptopanic.com/news/33556600/Bitcoin-Bounces-But-Where-Does-It-Go-Next-Heres-What-the-Charts-Say",
     "source": "decrypt.co",
     "published": "Fri Oct 16 2026 16:06:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: PumpFun launches crypto perpetual futures trading powered by Hyperliquid $HYPE.",
+    "link": "https://cryptopanic.com/news/33556790/JUST-IN-PumpFun-launches-crypto-perpetual-futures-trading-powered-by-Hyperliquid-HYPE",
+    "source": "@watcherguru",
+    "published": "Fri Oct 16 2026 16:05:24 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -84,6 +175,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "LATEST: Former Mt. Gox CEO Mark Karpelès says Ledger received warnings about tampered hardware wallets as early as December 2025 and should have done more to alert customers before its latest security crisis.",
+    "link": "https://cryptopanic.com/news/33556732/LATEST-Former-Mt-Gox-CEO-Mark-Karpeles-says-Ledger-received-warnings-about-tampered-hardware-wallets-as-early-as-December-2025-and-should-have-done-more-to-alert-customers-before-its-latest-security-crisis",
+    "source": "@cointelegraph",
+    "published": "Fri Oct 16 2026 15:50:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "XRP, Solana and Ethereum ETFs Lose $71 Million as Bitcoin Funds Attract $5.1 Million in One Day",
     "link": "https://cryptopanic.com/news/33556542/XRP-Solana-and-Ethereum-ETFs-Lose-71-Million-as-Bitcoin-Funds-Attract-51-Million-in-One-Day",
     "source": "coinpaper.com",
@@ -109,104 +207,6 @@
     "link": "https://cryptopanic.com/news/33556505/Three-Canadian-Armed-Forces-Members-Charged-in-Kidnapping-of-Crypto-Exchange-Owner",
     "source": "decrypt.co",
     "published": "Fri Oct 16 2026 15:43:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: #Cardano $ADA's Hydra improves deposits and withdrawal handling. IOG says \"the team corrected benchmark reporting and fixed how nodes distinguish deposits from fanouts, which return funds to Layer-1. Snapshot handling now preserves withdrawals still being settled.\"",
-    "link": "https://cryptopanic.com/news/33556664/JUST-IN-Cardano-ADAs-Hydra-improves-deposits-and-withdrawal-handling-IOG-says-the-team-corrected-benchmark-reporting-and-fixed-how-nodes-distinguish-deposits-from-fanouts-which-return-funds-to-Layer-1-Snapshot-handling-now-preserves-withdrawals-still-being-settled",
-    "source": "@angrycryptoshow",
-    "published": "Fri Oct 16 2026 15:43:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: #Cardano $ADA's Hydra launches performance upgrades, \"raising the snapshot transaction cap from 1,000 to 4,000. In a local three-node test, processing a burst of 24,000 minimal self-transfers took 13.5 seconds, down from 37.04 seconds,\" according to IOG.",
-    "link": "https://cryptopanic.com/news/33556663/JUST-IN-Cardano-ADAs-Hydra-launches-performance-upgrades-raising-the-snapshot-transaction-cap-from-1000-to-4000-In-a-local-three-node-test-processing-a-burst-of-24000-minimal-self-transfers-took-135-seconds-down-from-3704-seconds-according-to-IOG",
-    "source": "@angrycryptoshow",
-    "published": "Fri Oct 16 2026 15:43:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BTC Liquidity Cycle, On-Chain Intelligence, Wall Street & Bitcoin | BMTV Oct. 19, 2026",
-    "link": "https://cryptopanic.com/news/33556538/BTC-Liquidity-Cycle-On-Chain-Intelligence-Wall-Street-Bitcoin-BMTV-Oct-19-2026",
-    "source": "BitcoinMagazine",
-    "published": "Fri Oct 16 2026 15:42:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Adobe and NVIDIA Speed Up AI Workflows for Creators and Studios",
-    "link": "https://cryptopanic.com/news/33556493/Adobe-and-NVIDIA-Speed-Up-AI-Workflows-for-Creators-and-Studios",
-    "source": "spaziocrypto.com",
-    "published": "Fri Oct 16 2026 15:41:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CONFIRMED: Strategy Will Be Kicked Out of $21T Global Index (ATTACK WORKED) | EP 1615",
-    "link": "https://cryptopanic.com/news/33556547/CONFIRMED-Strategy-Will-Be-Kicked-Out-of-21T-Global-Index-ATTACK-WORKED-EP-1615",
-    "source": "SimplyBitcoin",
-    "published": "Fri Oct 16 2026 15:39:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Polymarket Bitcoin and Rate Hike Odds Shift as CME Says No Change",
-    "link": "https://cryptopanic.com/news/33556476/Polymarket-Bitcoin-and-Rate-Hike-Odds-Shift-as-CME-Says-No-Change",
-    "source": "cryptonews.com",
-    "published": "Fri Oct 16 2026 15:35:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Is Cosmos coming back?!\n\nAccording to @MSBIntel, banking giant Wells Fargo is building its own tokenised deposit platform using @Cosmos’ blockchain infrastructure.\n\nReports claim the company’s CFO recently revealed that the platform itself is already live in production.\n\nAre we",
-    "link": "https://cryptopanic.com/news/33556543/Is-Cosmos-coming-back-According-to-MSBIntel-banking-giant-Wells-Fargo-is-building-its-own-tokenised-deposit-platform-using-Cosmos-blockchain-infrastructure-Reports-claim-the-companys-CFO-recently-revealed-that-the-platform-itself-is-already-live-in-production-Are-we",
-    "source": "@bscnews",
-    "published": "Fri Oct 16 2026 15:34:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tesla Delivered 486,532 Cars in Q3, but Vehicle Sales Alone Don't Explain Its Stock Valuation",
-    "link": "https://cryptopanic.com/news/33556470/Tesla-Delivered-486532-Cars-in-Q3-but-Vehicle-Sales-Alone-Dont-Explain-Its-Stock-Valuation",
-    "source": "coinpaper.com",
-    "published": "Fri Oct 16 2026 15:33:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tesla’s Flying Roadster Sends Hyperliquid Trading Volume Soaring 1,500%",
-    "link": "https://cryptopanic.com/news/33556474/Teslas-Flying-Roadster-Sends-Hyperliquid-Trading-Volume-Soaring-1500",
-    "source": "cryptoprowl.com",
-    "published": "Fri Oct 16 2026 15:32:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33556464/Source",
-    "source": "@wublockchain",
-    "published": "Fri Oct 16 2026 15:31:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Fundstrat Analyst Sean Farrell: Bitcoin to $100k by Year End + MSTR MSCI Exclusion",
-    "link": "https://cryptopanic.com/news/33556472/Fundstrat-Analyst-Sean-Farrell-Bitcoin-to-100k-by-Year-End-MSTR-MSCI-Exclusion",
-    "source": "BitcoinMagazine",
-    "published": "Fri Oct 16 2026 15:30:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "'A good day for motorists and for jobs': Reactions to Germany-France car deal",
-    "link": "https://cryptopanic.com/news/33556541/A-good-day-for-motorists-and-for-jobs-Reactions-to-Germany-France-car-deal",
-    "source": "@reutersbiz",
-    "published": "Fri Oct 16 2026 15:30:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cobo Wallet, One of the Early Crypto Wallet Apps Launched by F2Pool Co-Founder, to Shut Down\n\nDigital asset custody provider Cobo announced that its Cobo Wallet App will shut down on December 1 as part of a strategic business adjustment. Users must withdraw all assets by November",
-    "link": "https://cryptopanic.com/news/33556463/Cobo-Wallet-One-of-the-Early-Crypto-Wallet-Apps-Launched-by-F2Pool-Co-Founder-to-Shut-Down-Digital-asset-custody-provider-Cobo-announced-that-its-Cobo-Wallet-App-will-shut-down-on-December-1-as-part-of-a-strategic-business-adjustment-Users-must-withdraw-all-assets-by-November",
-    "source": "@wublockchain",
-    "published": "Fri Oct 16 2026 15:30:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INSIGHT: What will it take for stablecoins to move beyond payments?\n\n@yvchiax, Head of Communications at @USDDecentralize, discusses accessible yield, simpler transfers and building lasting utility across DeFi.",
-    "link": "https://cryptopanic.com/news/33556540/INSIGHT-What-will-it-take-for-stablecoins-to-move-beyond-payments-yvchiax-Head-of-Communications-at-USDDecentralize-discusses-accessible-yield-simpler-transfers-and-building-lasting-utility-across-DeFi",
-    "source": "@cointelegraph",
-    "published": "Fri Oct 16 2026 15:30:01 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
