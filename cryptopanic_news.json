@@ -1,5 +1,89 @@
 [
   {
+    "title": "LATEST: @HyperliquidX Tesla perp surges 4.9% and hourly volume spikes 1,580% after Elon Musk unveils a flying Roadster.",
+    "link": "https://cryptopanic.com/news/33556669/LATEST-HyperliquidX-Tesla-perp-surges-49-and-hourly-volume-spikes-1580-after-Elon-Musk-unveils-a-flying-Roadster",
+    "source": "@coindesk",
+    "published": "Fri Oct 16 2026 16:11:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Bounces, But Where Does It Go Next? Here’s What the Charts Say",
+    "link": "https://cryptopanic.com/news/33556600/Bitcoin-Bounces-But-Where-Does-It-Go-Next-Heres-What-the-Charts-Say",
+    "source": "decrypt.co",
+    "published": "Fri Oct 16 2026 16:06:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "AI Stock Selloff: Tech Funds Lose $4.75 Billion Even as Global Equity Funds Gain $20 Billion",
+    "link": "https://cryptopanic.com/news/33556598/AI-Stock-Selloff-Tech-Funds-Lose-475-Billion-Even-as-Global-Equity-Funds-Gain-20-Billion",
+    "source": "coinpaper.com",
+    "published": "Fri Oct 16 2026 16:04:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Bull Run Incoming: BlackRock & Paul Tudor Jones Shift",
+    "link": "https://cryptopanic.com/news/33556688/Bitcoin-Bull-Run-Incoming-BlackRock-Paul-Tudor-Jones-Shift",
+    "source": "SimplyBitcoin",
+    "published": "Fri Oct 16 2026 16:00:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Mark Moss: Why Weak Hands Always Lose With Bitcoin",
+    "link": "https://cryptopanic.com/news/33556611/Mark-Moss-Why-Weak-Hands-Always-Lose-With-Bitcoin",
+    "source": "BitcoinMagazine",
+    "published": "Fri Oct 16 2026 16:00:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Is \"Dead\"",
+    "link": "https://cryptopanic.com/news/33556679/Bitcoin-Is-Dead",
+    "source": "CryptoTips",
+    "published": "Fri Oct 16 2026 16:00:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Build Value in Crypto, Not Shitcoins: Stand Out & Thrive!",
+    "link": "https://cryptopanic.com/news/33556620/Build-Value-in-Crypto-Not-Shitcoins-Stand-Out-Thrive",
+    "source": "TheCryptoLark",
+    "published": "Fri Oct 16 2026 16:00:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "FOMO HOUR ft @Tyler_Did_It and @farokh\n- \n- \n-",
+    "link": "https://cryptopanic.com/news/33556558/FOMO-HOUR-ft-Tyler_Did_It-and-farokh-",
+    "source": "@decryptmedia",
+    "published": "Fri Oct 16 2026 16:00:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "S&P 500 October Rally?",
+    "link": "https://cryptopanic.com/news/33556561/SampP-500-October-Rally",
+    "source": "@decryptmedia",
+    "published": "Fri Oct 16 2026 16:00:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CoreWeave Stock Plunges 22% in One Week as $50 Billion Debt and 16% Bond Yields Alarm Investors",
+    "link": "https://cryptopanic.com/news/33556555/CoreWeave-Stock-Plunges-22-in-One-Week-as-50-Billion-Debt-and-16-Bond-Yields-Alarm-Investors",
+    "source": "coinpaper.com",
+    "published": "Fri Oct 16 2026 15:56:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Circle Reports $1.4 Billion Revenue as USDC Volume Tops $36 Trillion – Here Is What Comes Next",
+    "link": "https://cryptopanic.com/news/33556556/Circle-Reports-14-Billion-Revenue-as-USDC-Volume-Tops-36-Trillion-Here-Is-What-Comes-Next",
+    "source": "blocknews.com",
+    "published": "Fri Oct 16 2026 15:54:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE:  Chainalysis says one of the biggest victims of the Ledger supply chain attack was itself a scammer, losing 60+ BTC ($4.8M) in scam proceeds from three addresses.",
+    "link": "https://cryptopanic.com/news/33556662/UPDATE-Chainalysis-says-one-of-the-biggest-victims-of-the-Ledger-supply-chain-attack-was-itself-a-scammer-losing-60-BTC-48M-in-scam-proceeds-from-three-addresses",
+    "source": "@coinmarketcap",
+    "published": "Fri Oct 16 2026 15:53:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "XRP, Solana and Ethereum ETFs Lose $71 Million as Bitcoin Funds Attract $5.1 Million in One Day",
     "link": "https://cryptopanic.com/news/33556542/XRP-Solana-and-Ethereum-ETFs-Lose-71-Million-as-Bitcoin-Funds-Attract-51-Million-in-One-Day",
     "source": "coinpaper.com",
@@ -7,10 +91,38 @@
     "sentiment": "neutral"
   },
   {
+    "title": "JUST IN: Ouroboros Leios advances closer to mainnet. #Cardano $ADA's ledger team added Dijkstra forecasting for Leios and fixed BLS key handling for stake pools. IOG is targeting a mainnet hard fork by the end of 2026.",
+    "link": "https://cryptopanic.com/news/33556666/JUST-IN-Ouroboros-Leios-advances-closer-to-mainnet-Cardano-ADAs-ledger-team-added-Dijkstra-forecasting-for-Leios-and-fixed-BLS-key-handling-for-stake-pools-IOG-is-targeting-a-mainnet-hard-fork-by-the-end-of-2026",
+    "source": "@angrycryptoshow",
+    "published": "Fri Oct 16 2026 15:44:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: #Cardano $ADA's ledger team adds \"Dijkstra forecasting with Peras protocol parameters,\" advancing fast finality closer to mainnet, according to IOG.",
+    "link": "https://cryptopanic.com/news/33556665/JUST-IN-Cardano-ADAs-ledger-team-adds-Dijkstra-forecasting-with-Peras-protocol-parameters-advancing-fast-finality-closer-to-mainnet-according-to-IOG",
+    "source": "@angrycryptoshow",
+    "published": "Fri Oct 16 2026 15:44:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Three Canadian Armed Forces Members Charged in Kidnapping of Crypto Exchange Owner",
     "link": "https://cryptopanic.com/news/33556505/Three-Canadian-Armed-Forces-Members-Charged-in-Kidnapping-of-Crypto-Exchange-Owner",
     "source": "decrypt.co",
     "published": "Fri Oct 16 2026 15:43:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: #Cardano $ADA's Hydra improves deposits and withdrawal handling. IOG says \"the team corrected benchmark reporting and fixed how nodes distinguish deposits from fanouts, which return funds to Layer-1. Snapshot handling now preserves withdrawals still being settled.\"",
+    "link": "https://cryptopanic.com/news/33556664/JUST-IN-Cardano-ADAs-Hydra-improves-deposits-and-withdrawal-handling-IOG-says-the-team-corrected-benchmark-reporting-and-fixed-how-nodes-distinguish-deposits-from-fanouts-which-return-funds-to-Layer-1-Snapshot-handling-now-preserves-withdrawals-still-being-settled",
+    "source": "@angrycryptoshow",
+    "published": "Fri Oct 16 2026 15:43:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: #Cardano $ADA's Hydra launches performance upgrades, \"raising the snapshot transaction cap from 1,000 to 4,000. In a local three-node test, processing a burst of 24,000 minimal self-transfers took 13.5 seconds, down from 37.04 seconds,\" according to IOG.",
+    "link": "https://cryptopanic.com/news/33556663/JUST-IN-Cardano-ADAs-Hydra-launches-performance-upgrades-raising-the-snapshot-transaction-cap-from-1000-to-4000-In-a-local-three-node-test-processing-a-burst-of-24000-minimal-self-transfers-took-135-seconds-down-from-3704-seconds-according-to-IOG",
+    "source": "@angrycryptoshow",
+    "published": "Fri Oct 16 2026 15:43:12 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -70,8 +182,8 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Fundstrat's Sean Farrell: Bitcoin to $100k by Year End + What MSCI Exclusion Means for MSTR",
-    "link": "https://cryptopanic.com/news/33556472/Fundstrats-Sean-Farrell-Bitcoin-to-100k-by-Year-End-What-MSCI-Exclusion-Means-for-MSTR",
+    "title": "Fundstrat Analyst Sean Farrell: Bitcoin to $100k by Year End + MSTR MSCI Exclusion",
+    "link": "https://cryptopanic.com/news/33556472/Fundstrat-Analyst-Sean-Farrell-Bitcoin-to-100k-by-Year-End-MSTR-MSCI-Exclusion",
     "source": "BitcoinMagazine",
     "published": "Fri Oct 16 2026 15:30:35 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
@@ -95,118 +207,6 @@
     "link": "https://cryptopanic.com/news/33556540/INSIGHT-What-will-it-take-for-stablecoins-to-move-beyond-payments-yvchiax-Head-of-Communications-at-USDDecentralize-discusses-accessible-yield-simpler-transfers-and-building-lasting-utility-across-DeFi",
     "source": "@cointelegraph",
     "published": "Fri Oct 16 2026 15:30:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Marqeta, Coinbase to Bring Stablecoin-Backed Cards to Businesses",
-    "link": "https://cryptopanic.com/news/33556473/Marqeta-Coinbase-to-Bring-Stablecoin-Backed-Cards-to-Businesses",
-    "source": "cryptoprowl.com",
-    "published": "Fri Oct 16 2026 15:28:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Whale Wallets Just Hit an All-Time Record and Binance Shorts Just Hit Their Highest Level Since $62,000 and One of These Trades Is About to Be Very Wrong",
-    "link": "https://cryptopanic.com/news/33556413/Whale-Wallets-Just-Hit-an-All-Time-Record-and-Binance-Shorts-Just-Hit-Their-Highest-Level-Since-62000-and-One-of-These-Trades-Is-About-to-Be-Very-Wrong",
-    "source": "dailycoinpost.com",
-    "published": "Fri Oct 16 2026 15:27:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Federal Reserve: US Loan Delinquencies Jump to 19.6%, Median Family Wealth Rises to $215,900",
-    "link": "https://cryptopanic.com/news/33556407/Federal-Reserve-US-Loan-Delinquencies-Jump-to-196-Median-Family-Wealth-Rises-to-215900",
-    "source": "coinpaper.com",
-    "published": "Fri Oct 16 2026 15:25:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BTCC Exchange Concludes TOKEN2049 Singapore, Taking Its Zero-Barrier Theme From Platform to Show Floor",
-    "link": "https://cryptopanic.com/news/33556560/BTCC-Exchange-Concludes-TOKEN2049-Singapore-Taking-Its-Zero-Barrier-Theme-From-Platform-to-Show-Floor",
-    "source": "beincrypto.com",
-    "published": "Fri Oct 16 2026 15:23:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Dumps to Monthly Lows on Hot Inflation Data and Warsh Comments: Weekly Crypto Recap",
-    "link": "https://cryptopanic.com/news/33556402/Bitcoin-Dumps-to-Monthly-Lows-on-Hot-Inflation-Data-and-Warsh-Comments-Weekly-Crypto-Recap",
-    "source": "cryptopotato.com",
-    "published": "Fri Oct 16 2026 15:20:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: $18B Cantor Fitzgerald raises its 12-month Bitcoin target price to $112,000 from $98,000.",
-    "link": "https://cryptopanic.com/news/33556459/BREAKING-18B-Cantor-Fitzgerald-raises-its-12-month-Bitcoin-target-price-to-112000-from-98000",
-    "source": "@btc_archive",
-    "published": "Fri Oct 16 2026 15:20:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇩🇪 Germany's largest bank Deutsche Bank to launch crypto custody.",
-    "link": "https://cryptopanic.com/news/33556562/JUST-IN-Germanys-largest-bank-Deutsche-Bank-to-launch-crypto-custody",
-    "source": "@watcherguru",
-    "published": "Fri Oct 16 2026 15:18:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  The number of Bitcoin wallets holding 10–10K BTC hit an ATH of 20,338, up sharply since mid-July, a trend Santiment says is historically associated with future BTC upside.",
-    "link": "https://cryptopanic.com/news/33556462/LATEST-The-number-of-Bitcoin-wallets-holding-1010K-BTC-hit-an-ATH-of-20338-up-sharply-since-mid-July-a-trend-Santiment-says-is-historically-associated-with-future-BTC-upside",
-    "source": "@coinmarketcap",
-    "published": "Fri Oct 16 2026 15:17:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: Circle says USDC processed more than $36 trillion in onchain volume during the first half of 2026, while 59% of its revenue went to distribution partners and transaction costs.",
-    "link": "https://cryptopanic.com/news/33556536/LATEST-Circle-says-USDC-processed-more-than-36-trillion-in-onchain-volume-during-the-first-half-of-2026-while-59-of-its-revenue-went-to-distribution-partners-and-transaction-costs",
-    "source": "@coindesk",
-    "published": "Fri Oct 16 2026 15:16:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Strategy Stock Is No Longer Moving Like Bitcoin — That's a Problem for Bulls",
-    "link": "https://cryptopanic.com/news/33556469/Strategy-Stock-Is-No-Longer-Moving-Like-Bitcoin-Thats-a-Problem-for-Bulls",
-    "source": "feeds2.benzinga.com",
-    "published": "Fri Oct 16 2026 15:16:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "WATCH: Bitcoin could face one more bump in the road before its next rally kicks off in 2027, according to @eToro founder @yoniassia. \n\nHear his full outlook in our exclusive TOKEN2049 interview.",
-    "link": "https://cryptopanic.com/news/33556539/WATCH-Bitcoin-could-face-one-more-bump-in-the-road-before-its-next-rally-kicks-off-in-2027-according-to-eToro-founder-yoniassia-Hear-his-full-outlook-in-our-exclusive-TOKEN2049-interview",
-    "source": "@cointelegraph",
-    "published": "Fri Oct 16 2026 15:15:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Oil Price Today: WTI Gains 6.5% as US Crude Inventories Drop 8.6 Million Barrels, Brent Tops $105",
-    "link": "https://cryptopanic.com/news/33556338/Oil-Price-Today-WTI-Gains-65-as-US-Crude-Inventories-Drop-86-Million-Barrels-Brent-Tops-105",
-    "source": "coinpaper.com",
-    "published": "Fri Oct 16 2026 15:13:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Massive market divergence! \n\nThe S&P 500 is 1% off record highs, but 206 stocks remain down 30% or more — Kobeissi Letter.\n\nWill Bitcoin hold the $80k support?",
-    "link": "https://cryptopanic.com/news/33556458/JUST-IN-Massive-market-divergence-The-SampP-500-is-1-off-record-highs-but-206-stocks-remain-down-30-or-more-Kobeissi-Letter-Will-Bitcoin-hold-the-80k-support",
-    "source": "@btc_archive",
-    "published": "Fri Oct 16 2026 15:13:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stock Market Today: Dow Jones Gains as S&P 500 Stalls, Nasdaq Falls and Bank Stocks Rally",
-    "link": "https://cryptopanic.com/news/33556334/Stock-Market-Today-Dow-Jones-Gains-as-SP-500-Stalls-Nasdaq-Falls-and-Bank-Stocks-Rally",
-    "source": "coinpaper.com",
-    "published": "Fri Oct 16 2026 15:06:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Bitcoin ETFs traded over $7.5B this week through Thursday.\n\nHealthy volumes persist despite $145M net selling so far.",
-    "link": "https://cryptopanic.com/news/33556457/JUST-IN-Bitcoin-ETFs-traded-over-75B-this-week-through-Thursday-Healthy-volumes-persist-despite-145M-net-selling-so-far",
-    "source": "@btc_archive",
-    "published": "Fri Oct 16 2026 15:06:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HUGE FOR $LINK AND $QNT! A major European think tank has just outlined why INTEROPERABILITY could become one of the most important technologies in global finance! \n\nThe report describes an emerging “financial archipelago”, where countless blockchains, banking systems,",
-    "link": "https://cryptopanic.com/news/33556377/HUGE-FOR-LINK-AND-QNT-A-major-European-think-tank-has-just-outlined-why-INTEROPERABILITY-could-become-one-of-the-most-important-technologies-in-global-finance-The-report-describes-an-emerging-financial-archipelago-where-countless-blockchains-banking-systems",
-    "source": "@realallincrypto",
-    "published": "Fri Oct 16 2026 15:02:57 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
