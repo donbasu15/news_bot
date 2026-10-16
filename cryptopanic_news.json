@@ -1,5 +1,19 @@
 [
   {
+    "title": "LayerZero research tackles a big quantum problem for blockchains\n\nBlockchains verify thousands of validator signatures by bundling them into a single proof, but today’s method could be broken by future quantum computers. Quantum-safe signatures exist, but bundling them quickly",
+    "link": "https://cryptopanic.com/news/33557591/LayerZero-research-tackles-a-big-quantum-problem-for-blockchains-Blockchains-verify-thousands-of-validator-signatures-by-bundling-them-into-a-single-proof-but-todays-method-could-be-broken-by-future-quantum-computers-Quantum-safe-signatures-exist-but-bundling-them-quickly",
+    "source": "@bscnews",
+    "published": "Fri Oct 16 2026 20:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🤖 OpenAI says an internal model given a crypto app task scanned 362 Ethereum addresses, cracked one using a public developer recovery phrase, and spent its testnet ETH to fund an unauthorized contract deployment.",
+    "link": "https://cryptopanic.com/news/33557594/LATEST-OpenAI-says-an-internal-model-given-a-crypto-app-task-scanned-362-Ethereum-addresses-cracked-one-using-a-public-developer-recovery-phrase-and-spent-its-testnet-ETH-to-fund-an-unauthorized-contract-deployment",
+    "source": "@coinmarketcap",
+    "published": "Fri Oct 16 2026 20:41:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Stellar Eyes 200% Rally as XLM Closes In on $1 Billion Stablecoin Milestone",
     "link": "https://cryptopanic.com/news/33557556/Stellar-Eyes-200-Rally-as-XLM-Closes-In-on-1-Billion-Stablecoin-Milestone",
     "source": "zycrypto.com",
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33557420/TRUMP-Every-US-adult-will-receive-5000-if-Republicans-win-while-Democrats-would-raise-taxes-and-hurt-the-economy",
     "source": "@cointelegraph",
     "published": "Fri Oct 16 2026 19:18:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Chainlink’s LINK token can pay and give instructions in one move\n\nMost Ethereum tokens follow ERC-20, the basic rulebook for sending and holding tokens. @chainlink’s $LINK goes a step further. It follows ERC-677, which builds on ERC-20 and lets a token transfer carry extra data.",
-    "link": "https://cryptopanic.com/news/33557439/Chainlinks-LINK-token-can-pay-and-give-instructions-in-one-move-Most-Ethereum-tokens-follow-ERC-20-the-basic-rulebook-for-sending-and-holding-tokens-chainlinks-LINK-goes-a-step-further-It-follows-ERC-677-which-builds-on-ERC-20-and-lets-a-token-transfer-carry-extra-data",
-    "source": "@bscnews",
-    "published": "Fri Oct 16 2026 19:18:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ANALYSIS:  Celestia and Injective jumped more than 20% from Thursday’s lows as futures bets piled in even faster than prices rose.\n\nIs fresh altcoin leverage fueling the next leg up, or is it just setting the market up for another flush?",
-    "link": "https://cryptopanic.com/news/33557418/ANALYSIS-Celestia-and-Injective-jumped-more-than-20-from-Thursdays-lows-as-futures-bets-piled-in-even-faster-than-prices-rose-Is-fresh-altcoin-leverage-fueling-the-next-leg-up-or-is-it-just-setting-the-market-up-for-another-flush",
-    "source": "@coinmarketcap",
-    "published": "Fri Oct 16 2026 19:15:03 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
