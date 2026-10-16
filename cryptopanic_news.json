@@ -1,5 +1,40 @@
 [
   {
+    "title": "Canaan Reports 44 BTC Mined in September, Treasury Hits 1,875 BTC",
+    "link": "https://cryptopanic.com/news/33553365/Canaan-Reports-44-BTC-Mined-in-September-Treasury-Hits-1875-BTC",
+    "source": "btcusa.com",
+    "published": "Fri Oct 16 2026 03:35:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The ECB now has to decide whether a crypto exchange can own a bank",
+    "link": "https://cryptopanic.com/news/33553371/The-ECB-now-has-to-decide-whether-a-crypto-exchange-can-own-a-bank",
+    "source": "cryptodnes.bg",
+    "published": "Fri Oct 16 2026 03:30:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UNCX Vesting V2 Exploit Drains $1.49M Across Four Chains",
+    "link": "https://cryptopanic.com/news/33553341/UNCX-Vesting-V2-Exploit-Drains-149M-Across-Four-Chains",
+    "source": "btcusa.com",
+    "published": "Fri Oct 16 2026 03:30:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Polygon price drops 7% below $0.10 as futures interest weakens",
+    "link": "https://cryptopanic.com/news/33553362/Polygon-price-drops-7-below-010-as-futures-interest-weakens",
+    "source": "ambcrypto.com",
+    "published": "Fri Oct 16 2026 03:30:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "USD purchasing power is -23.5% just since 2020.\n\nIn the same timeframe:\n-Bitcoin is +10X\n-Gold is +170%\n-S&P 500 is +140%\n\nHolding fiat is a guaranteed losing trade.",
+    "link": "https://cryptopanic.com/news/33553393/USD-purchasing-power-is-235-just-since-2020-In-the-same-timeframe-Bitcoin-is-10X-Gold-is-170-SampP-500-is-140-Holding-fiat-is-a-guaranteed-losing-trade",
+    "source": "@stackersatoshi",
+    "published": "Fri Oct 16 2026 03:18:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Two Mac Studios can run Meta’s new 816 billion-parameter open model",
     "link": "https://cryptopanic.com/news/33553330/Two-Mac-Studios-can-run-Metas-new-816-billion-parameter-open-model",
     "source": "cryptopolitan.com",
@@ -105,6 +140,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Strategy Braces for $2.8B Liquidation Shock as MSCI Changes Index Rules",
+    "link": "https://cryptopanic.com/news/33553403/Strategy-Braces-for-28B-Liquidation-Shock-as-MSCI-Changes-Index-Rules",
+    "source": "coinpedia.org",
+    "published": "Fri Oct 16 2026 02:04:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin to $250K? Expert Q4 & Q1 Crypto Forecast!",
     "link": "https://cryptopanic.com/news/33553106/Bitcoin-to-250K-Expert-Q4-Q1-Crypto-Forecast",
     "source": "SimplyBitcoin",
@@ -165,48 +207,6 @@
     "link": "https://cryptopanic.com/news/33553140/ETH-Whale-Who-Bought-Near-Bull-Market-Peak-Deposits-15361-ETH-Faces-Potential-1345M-Loss",
     "source": "square.binance.com",
     "published": "Fri Oct 16 2026 01:44:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Metric Decentralized Exchange Launches, Supporting Robinhood Chain, BNB Chain and Ethereum",
-    "link": "https://cryptopanic.com/news/33553139/Metric-Decentralized-Exchange-Launches-Supporting-Robinhood-Chain-BNB-Chain-and-Ethereum",
-    "source": "square.binance.com",
-    "published": "Fri Oct 16 2026 01:44:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Analysis: Meme Coins Reach All-Time Highs in 17.2 Days, Only 3% Return",
-    "link": "https://cryptopanic.com/news/33553138/Analysis-Meme-Coins-Reach-All-Time-Highs-in-172-Days-Only-3-Return",
-    "source": "square.binance.com",
-    "published": "Fri Oct 16 2026 01:34:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇹🇼 TODAY: Taiwan has cut off access to Coinbase and Kalshi over alleged election betting, just weeks ahead of local polls seen as a test for President Lai Ching-te’s government.",
-    "link": "https://cryptopanic.com/news/33552914/TODAY-Taiwan-has-cut-off-access-to-Coinbase-and-Kalshi-over-alleged-election-betting-just-weeks-ahead-of-local-polls-seen-as-a-test-for-President-Lai-Ching-tes-government",
-    "source": "@cointelegraph",
-    "published": "Fri Oct 16 2026 01:30:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Wall Street gains as investors shift focus from AI stocks to healthcare and consumer sectors amid inflation data and rate hike expectations",
-    "link": "https://cryptopanic.com/news/33552916/Wall-Street-gains-as-investors-shift-focus-from-AI-stocks-to-healthcare-and-consumer-sectors-amid-inflation-data-and-rate-hike-expectations",
-    "source": "@reutersbiz",
-    "published": "Fri Oct 16 2026 01:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$126 MILLION in the last 30 days...\n\n@Uniswap adoption has been on a tear in 2026, the protocol having generated a staggering $125.8M in fees in the past month alone.\n\nEven more impressive, the $UNI platform has now generated cumulative fee total of more than $6B since launch.",
-    "link": "https://cryptopanic.com/news/33552859/126-MILLION-in-the-last-30-days-Uniswap-adoption-has-been-on-a-tear-in-2026-the-protocol-having-generated-a-staggering-1258M-in-fees-in-the-past-month-alone-Even-more-impressive-the-UNI-platform-has-now-generated-cumulative-fee-total-of-more-than-6B-since-launch",
-    "source": "@bscnews",
-    "published": "Fri Oct 16 2026 01:29:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bofur Capital Phishing Attacker Converts Stolen Funds Into 825.5 ETH",
-    "link": "https://cryptopanic.com/news/33553137/Bofur-Capital-Phishing-Attacker-Converts-Stolen-Funds-Into-8255-ETH",
-    "source": "square.binance.com",
-    "published": "Fri Oct 16 2026 01:27:17 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
