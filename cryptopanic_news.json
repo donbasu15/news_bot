@@ -1,5 +1,131 @@
 [
   {
+    "title": "OpenAI Model Helped Itself to Testnet ETH Without Permission",
+    "link": "https://cryptopanic.com/news/33557348/OpenAI-Model-Helped-Itself-to-Testnet-ETH-Without-Permission",
+    "source": "bankless.com",
+    "published": "Fri Oct 16 2026 19:13:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 JUST IN: The US budget deficit swelled to nearly $2 trillion in fiscal 2026, up 12% from the previous year.",
+    "link": "https://cryptopanic.com/news/33557339/JUST-IN-The-US-budget-deficit-swelled-to-nearly-2-trillion-in-fiscal-2026-up-12-from-the-previous-year",
+    "source": "@cointelegraph",
+    "published": "Fri Oct 16 2026 19:10:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "KOSPI erases an entire year’s worth of South Korean GDP",
+    "link": "https://cryptopanic.com/news/33557301/KOSPI-erases-an-entire-years-worth-of-South-Korean-GDP",
+    "source": "protos.com",
+    "published": "Fri Oct 16 2026 19:09:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "TODAY: CZ says his X post did not trigger the removal of Solana’s Shanghai ad, saying it was taken down within 10 minutes, long before he saw it.",
+    "link": "https://cryptopanic.com/news/33557338/TODAY-CZ-says-his-X-post-did-not-trigger-the-removal-of-Solanas-Shanghai-ad-saying-it-was-taken-down-within-10-minutes-long-before-he-saw-it",
+    "source": "@cointelegraph",
+    "published": "Fri Oct 16 2026 19:02:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "HUGE: Solana has now surpassed 2,000 tokenised equity products, and the growth is absolutely EXPLODING! 🤯\n\nJust months ago, there were fewer than 500!\n\nNow, over 2,000 tokenised stock products are on $SOL, bringing traditional financial markets onto the blockchain!",
+    "link": "https://cryptopanic.com/news/33557341/HUGE-Solana-has-now-surpassed-2000-tokenised-equity-products-and-the-growth-is-absolutely-EXPLODING-Just-months-ago-there-were-fewer-than-500-Now-over-2000-tokenised-stock-products-are-on-SOL-bringing-traditional-financial-markets-onto-the-blockchain",
+    "source": "@realallincrypto",
+    "published": "Fri Oct 16 2026 19:01:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Michael Saylor’s Strategy in Trouble? MSCI’s New Rules Put Index Status at Risk",
+    "link": "https://cryptopanic.com/news/33557298/Michael-Saylors-Strategy-in-Trouble-MSCIs-New-Rules-Put-Index-Status-at-Risk",
+    "source": "cryptopotato.com",
+    "published": "Fri Oct 16 2026 19:01:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "France opens probe into creator platform Mym over suspected rule breaches",
+    "link": "https://cryptopanic.com/news/33557340/France-opens-probe-into-creator-platform-Mym-over-suspected-rule-breaches",
+    "source": "@reutersbiz",
+    "published": "Fri Oct 16 2026 19:00:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "DATA: XRP trades around $1.33, about 62.5% below its January 2018 peak, while Bitcoin, Ether and several other major cryptocurrencies have surpassed their previous highs.",
+    "link": "https://cryptopanic.com/news/33557239/DATA-XRP-trades-around-133-about-625-below-its-January-2018-peak-while-Bitcoin-Ether-and-several-other-major-cryptocurrencies-have-surpassed-their-previous-highs",
+    "source": "@coindesk",
+    "published": "Fri Oct 16 2026 19:00:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ledger Wallets Were Drained of $100 Million. Is Self-Custody Still Safe?",
+    "link": "https://cryptopanic.com/news/33557292/Ledger-Wallets-Were-Drained-of-100-Million-Is-Self-Custody-Still-Safe",
+    "source": "Unchained",
+    "published": "Fri Oct 16 2026 19:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin's $350,000 price target comes with a terrifying warning, analyst says",
+    "link": "https://cryptopanic.com/news/33557352/Bitcoins-350000-price-target-comes-with-a-terrifying-warning-analyst-says",
+    "source": "thestreet.com",
+    "published": "Fri Oct 16 2026 19:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Venture Global Plans 10 GW Off-Grid AI Power: What's Real and What's Not",
+    "link": "https://cryptopanic.com/news/33557264/Venture-Global-Plans-10-GW-Off-Grid-AI-Power-Whats-Real-and-Whats-Not",
+    "source": "spaziocrypto.com",
+    "published": "Fri Oct 16 2026 18:58:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Circle Plans Push Into 40 Emerging Markets as Stablecoins Go Mainstream, CEO Says",
+    "link": "https://cryptopanic.com/news/33557235/Circle-Plans-Push-Into-40-Emerging-Markets-as-Stablecoins-Go-Mainstream-CEO-Says",
+    "source": "decrypt.co",
+    "published": "Fri Oct 16 2026 18:55:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Circle defends USDC economics as OUSD courts its partners",
+    "link": "https://cryptopanic.com/news/33557297/Circle-defends-USDC-economics-as-OUSD-courts-its-partners",
+    "source": "cryptopolitan.com",
+    "published": "Fri Oct 16 2026 18:55:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Balaji's Network School Buys Farcaster From Neynar",
+    "link": "https://cryptopanic.com/news/33557231/Balajis-Network-School-Buys-Farcaster-From-Neynar",
+    "source": "bankless.com",
+    "published": "Fri Oct 16 2026 18:53:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: ️ MSCI has adopted a rule barring \"non-operating companies\" from its Global Investable Market Indexes, a change that could remove Strategy and Metaplanet from its benchmarks.",
+    "link": "https://cryptopanic.com/news/33557238/LATEST-MSCI-has-adopted-a-rule-barring-non-operating-companies-from-its-Global-Investable-Market-Indexes-a-change-that-could-remove-Strategy-and-Metaplanet-from-its-benchmarks",
+    "source": "@coinmarketcap",
+    "published": "Fri Oct 16 2026 18:53:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Russia Comes for Your Keys & MSCI Comes for Saylor",
+    "link": "https://cryptopanic.com/news/33557237/Russia-Comes-for-Your-Keys-MSCI-Comes-for-Saylor",
+    "source": "BTCSessions",
+    "published": "Fri Oct 16 2026 18:52:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ALERT: Peter Schiff warns oil prices could soar as he predicts Strategic Petroleum Reserve releases will end after the midterms and inflation outpacing Fed rate hikes will weaken the dollar.",
+    "link": "https://cryptopanic.com/news/33557337/ALERT-Peter-Schiff-warns-oil-prices-could-soar-as-he-predicts-Strategic-Petroleum-Reserve-releases-will-end-after-the-midterms-and-inflation-outpacing-Fed-rate-hikes-will-weaken-the-dollar",
+    "source": "@cointelegraph",
+    "published": "Fri Oct 16 2026 18:50:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Deutsche Bank is weeks away from holding Bitcoin for clients\n\nDeutsche Bank (@DeutscheBank) plans to launch crypto custody in Germany within weeks, its first digital asset service, then take the platform to Asian financial centers next year, co-head of corporate banking Gerald",
+    "link": "https://cryptopanic.com/news/33557342/Deutsche-Bank-is-weeks-away-from-holding-Bitcoin-for-clients-Deutsche-Bank-DeutscheBank-plans-to-launch-crypto-custody-in-Germany-within-weeks-its-first-digital-asset-service-then-take-the-platform-to-Asian-financial-centers-next-year-co-head-of-corporate-banking-Gerald",
+    "source": "@bscnews",
+    "published": "Fri Oct 16 2026 18:49:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Ondo Hit $1 BILLION in 8 Months - What Comes Next Is Even Bigger",
     "link": "https://cryptopanic.com/news/33557229/Ondo-Hit-1-BILLION-in-8-Months-What-Comes-Next-Is-Even-Bigger",
     "source": "MilkRoadYoutube",
@@ -81,132 +207,6 @@
     "link": "https://cryptopanic.com/news/33557219/JUST-2-MORE-FRIDAYS-UNTIL-WE-MAKE-HISTORY-IN-AMSTERDAM-Havent-gotten-passes-yet-Purchase-for-10-off-now",
     "source": "@bitcoinmagazine",
     "published": "Fri Oct 16 2026 18:24:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 JUST IN: Katie Zacharia is out as White House press secretary after just five days, The New York Times reports.",
-    "link": "https://cryptopanic.com/news/33557168/JUST-IN-Katie-Zacharia-is-out-as-White-House-press-secretary-after-just-five-days-The-New-York-Times-reports",
-    "source": "@cointelegraph",
-    "published": "Fri Oct 16 2026 18:20:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Sei Network lands regulated perps in the US\n\nA CFTC-regulated exchange has certified $SEI perpetual futures, @SeiNetwork announced today. The contracts settle in US dollars, trade around the clock, and never expire, putting SEI in the same group as BTC, ETH, SOL, and XRP.\n\nThree",
-    "link": "https://cryptopanic.com/news/33557171/Sei-Network-lands-regulated-perps-in-the-US-A-CFTC-regulated-exchange-has-certified-SEI-perpetual-futures-SeiNetwork-announced-today-The-contracts-settle-in-US-dollars-trade-around-the-clock-and-never-expire-putting-SEI-in-the-same-group-as-BTC-ETH-SOL-and-XRP-Three",
-    "source": "@bscnews",
-    "published": "Fri Oct 16 2026 18:19:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Dacity Coin Spikes on GTA VI Trailer, Trading Against Tokenized Take-Two Stock",
-    "link": "https://cryptopanic.com/news/33557142/Dacity-Coin-Spikes-on-GTA-VI-Trailer-Trading-Against-Tokenized-Take-Two-Stock",
-    "source": "cryptopotato.com",
-    "published": "Fri Oct 16 2026 18:18:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: ️ A US district judge rejected a joint CFTC and Gemini request to undo the exchange's $5M settlement, ruling that shifting enforcement priorities didn't justify reversing it.",
-    "link": "https://cryptopanic.com/news/33557236/LATEST-A-US-district-judge-rejected-a-joint-CFTC-and-Gemini-request-to-undo-the-exchanges-5M-settlement-ruling-that-shifting-enforcement-priorities-didnt-justify-reversing-it",
-    "source": "@coinmarketcap",
-    "published": "Fri Oct 16 2026 18:17:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Treasury Giant Strategy Faces Index Removal Under Finalized MSCI Rules",
-    "link": "https://cryptopanic.com/news/33557141/Bitcoin-Treasury-Giant-Strategy-Faces-Index-Removal-Under-Finalized-MSCI-Rules",
-    "source": "decrypt.co",
-    "published": "Fri Oct 16 2026 18:16:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: Citi has become the latest US bank to restrict AI agents from accessing accounts, the Financial Times reports.",
-    "link": "https://cryptopanic.com/news/33557167/LATEST-Citi-has-become-the-latest-US-bank-to-restrict-AI-agents-from-accessing-accounts-the-Financial-Times-reports",
-    "source": "@cointelegraph",
-    "published": "Fri Oct 16 2026 18:10:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "@randgroup Why should your rate depend on your loan size? With SALT, it doesn't.\n\n6.99% APR at 30% LTV. \n\nGet started now",
-    "link": "https://cryptopanic.com/news/33557218/randgroup-Why-should-your-rate-depend-on-your-loan-size-With-SALT-it-doesnt-699-APR-at-30-LTV-Get-started-now",
-    "source": "@bitcoinmagazine",
-    "published": "Fri Oct 16 2026 18:08:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Jeff Park: What The AI Pain Trade Means For Bitcoin",
-    "link": "https://cryptopanic.com/news/33557144/Jeff-Park-What-The-AI-Pain-Trade-Means-For-Bitcoin",
-    "source": "BitcoinMagazine",
-    "published": "Fri Oct 16 2026 18:08:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why NEAR crypto’s 12% rally could extend after Sunrise partnership",
-    "link": "https://cryptopanic.com/news/33557096/Why-NEAR-cryptos-12-rally-could-extend-after-Sunrise-partnership",
-    "source": "ambcrypto.com",
-    "published": "Fri Oct 16 2026 18:00:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Real Problem Stopping the US From Buying Bitcoin",
-    "link": "https://cryptopanic.com/news/33557099/The-Real-Problem-Stopping-the-US-From-Buying-Bitcoin",
-    "source": "BitcoinMagazine",
-    "published": "Fri Oct 16 2026 18:00:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "a16z Crypto Partner: Finance Remains Blockchain's Clearest Near-Term Application Opportunity\n\na16z Crypto General Partner Guy Wuollet @guywuolletjr said in an October 6 interview on the official a16z crypto @a16zcrypto channel that blockchain's clearest near-term opportunities",
-    "link": "https://cryptopanic.com/news/33557130/a16z-Crypto-Partner-Finance-Remains-Blockchains-Clearest-Near-Term-Application-Opportunity-a16z-Crypto-General-Partner-Guy-Wuollet-guywuolletjr-said-in-an-October-6-interview-on-the-official-a16z-crypto-a16zcrypto-channel-that-blockchains-clearest-near-term-opportunities",
-    "source": "@wublockchain",
-    "published": "Fri Oct 16 2026 18:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bank of America warns of a disappointing old pattern",
-    "link": "https://cryptopanic.com/news/33557143/Bank-of-America-warns-of-a-disappointing-old-pattern",
-    "source": "thestreet.com",
-    "published": "Fri Oct 16 2026 18:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CoreWeave Selloff Raises Concerns Over AI Financing Risks",
-    "link": "https://cryptopanic.com/news/33557059/CoreWeave-Selloff-Raises-Concerns-Over-AI-Financing-Risks",
-    "source": "catenaa.com",
-    "published": "Fri Oct 16 2026 18:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Strive to sell another $130M of SATS stock to buy more bitcoin",
-    "link": "https://cryptopanic.com/news/33557065/Strive-to-sell-another-130M-of-SATS-stock-to-buy-more-bitcoin",
-    "source": "protos.com",
-    "published": "Fri Oct 16 2026 17:58:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Join us as we sit down with @EidJohann from @Chainlink to uncover why $LINK could become the backbone of global finance. Wall Street, CCIP, DTCC, AI and the future of crypto.",
-    "link": "https://cryptopanic.com/news/33557048/Join-us-as-we-sit-down-with-EidJohann-from-Chainlink-to-uncover-why-LINK-could-become-the-backbone-of-global-finance-Wall-Street-CCIP-DTCC-AI-and-the-future-of-crypto",
-    "source": "@realallincrypto",
-    "published": "Fri Oct 16 2026 17:57:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Anthropic says its Claude Mythos AI model designed highly efficient quantum circuits that could bring quantum computing \"within reach sooner.\"",
-    "link": "https://cryptopanic.com/news/33557055/JUST-IN-Anthropic-says-its-Claude-Mythos-AI-model-designed-highly-efficient-quantum-circuits-that-could-bring-quantum-computing-within-reach-sooner",
-    "source": "@watcherguru",
-    "published": "Fri Oct 16 2026 17:53:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEWS: $NIGHT to collaborate with $AZTEC? Charles Hoskinson shared Nightstream with Aztec Co-Founder Zac Williamson. Midnight says \"Nightstream will provide post-quantum ZK proving infrastructure to protect private computation as computing power and cryptographic threats evolve.\"",
-    "link": "https://cryptopanic.com/news/33557135/NEWS-NIGHT-to-collaborate-with-AZTEC-Charles-Hoskinson-shared-Nightstream-with-Aztec-Co-Founder-Zac-Williamson-Midnight-says-Nightstream-will-provide-post-quantum-ZK-proving-infrastructure-to-protect-private-computation-as-computing-power-and-cryptographic-threats-evolve",
-    "source": "@angrycryptoshow",
-    "published": "Fri Oct 16 2026 17:51:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ALERT: Bloomberg Intelligence strategist Mike McGlone warns Bitcoin could fall toward $10,000, particularly if the US stock market suffers a 20% drawdown.",
-    "link": "https://cryptopanic.com/news/33557166/ALERT-Bloomberg-Intelligence-strategist-Mike-McGlone-warns-Bitcoin-could-fall-toward-10000-particularly-if-the-US-stock-market-suffers-a-20-drawdown",
-    "source": "@cointelegraph",
-    "published": "Fri Oct 16 2026 17:50:16 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
