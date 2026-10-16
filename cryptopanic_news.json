@@ -1,9 +1,65 @@
 [
   {
+    "title": "Morgan Stanley Hasn’t Recorded a Single Day of ETH Outflows in 20 Days",
+    "link": "https://cryptopanic.com/news/33557679/Morgan-Stanley-Hasnt-Recorded-a-Single-Day-of-ETH-Outflows-in-20-Days",
+    "source": "techgaged.com",
+    "published": "Fri Oct 16 2026 21:14:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Where ICP goes when Internet Computer apps need fuel\n\nApps on @dfinity’s Internet Computer don’t pay for computing with $ICP directly. They run on cycles, a kind of prepaid credit. Developers swap ICP for cycles, and the ICP they swap is burned, permanently removed from supply.",
+    "link": "https://cryptopanic.com/news/33557676/Where-ICP-goes-when-Internet-Computer-apps-need-fuel-Apps-on-dfinitys-Internet-Computer-dont-pay-for-computing-with-ICP-directly-They-run-on-cycles-a-kind-of-prepaid-credit-Developers-swap-ICP-for-cycles-and-the-ICP-they-swap-is-burned-permanently-removed-from-supply",
+    "source": "@bscnews",
+    "published": "Fri Oct 16 2026 21:14:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "France Emerges as Crypto Crime Hotspot, With an Attack Nearly Every Two Days",
+    "link": "https://cryptopanic.com/news/33557680/France-Emerges-as-Crypto-Crime-Hotspot-With-an-Attack-Nearly-Every-Two-Days",
+    "source": "zycrypto.com",
+    "published": "Fri Oct 16 2026 21:10:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "PwC and Stellar outlined the FOUR major pillars of digital finance back in 2023! 🤯\n\nTheir joint report highlighted crypto for payments and investment, stablecoins for global transfers, CBDCs for digital money and tokenized securities for stocks, bonds and real estate!\n\nThis is",
+    "link": "https://cryptopanic.com/news/33557675/PwC-and-Stellar-outlined-the-FOUR-major-pillars-of-digital-finance-back-in-2023-Their-joint-report-highlighted-crypto-for-payments-and-investment-stablecoins-for-global-transfers-CBDCs-for-digital-money-and-tokenized-securities-for-stocks-bonds-and-real-estate-This-is",
+    "source": "@realallincrypto",
+    "published": "Fri Oct 16 2026 21:01:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Is SUI Really The Next Solana? [The Data]",
+    "link": "https://cryptopanic.com/news/33557633/Is-SUI-Really-The-Next-Solana-The-Data",
+    "source": "TheCryptoLark",
+    "published": "Fri Oct 16 2026 21:00:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Whales Defy Price Volatility as Mid-Sized Wallets Reach Record Levels",
+    "link": "https://cryptopanic.com/news/33557596/Bitcoin-Whales-Defy-Price-Volatility-as-Mid-Sized-Wallets-Reach-Record-Levels",
+    "source": "techgaged.com",
+    "published": "Fri Oct 16 2026 20:58:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "️ UPDATE: Stablecoin-funded remittances cost roughly 84% less than traditional transfers, with a median fee of $2 versus $12.72 for sending $200.",
+    "link": "https://cryptopanic.com/news/33557674/UPDATE-Stablecoin-funded-remittances-cost-roughly-84-less-than-traditional-transfers-with-a-median-fee-of-2-versus-1272-for-sending-200",
+    "source": "@cointelegraph",
+    "published": "Fri Oct 16 2026 20:50:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LayerZero research tackles a big quantum problem for blockchains\n\nBlockchains verify thousands of validator signatures by bundling them into a single proof, but today’s method could be broken by future quantum computers. Quantum-safe signatures exist, but bundling them quickly",
     "link": "https://cryptopanic.com/news/33557591/LayerZero-research-tackles-a-big-quantum-problem-for-blockchains-Blockchains-verify-thousands-of-validator-signatures-by-bundling-them-into-a-single-proof-but-todays-method-could-be-broken-by-future-quantum-computers-Quantum-safe-signatures-exist-but-bundling-them-quickly",
     "source": "@bscnews",
     "published": "Fri Oct 16 2026 20:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BREAKING: The US has recorded its 25th straight fiscal year in a row of operating at a deficit, per CNBC",
+    "link": "https://cryptopanic.com/news/33557673/BREAKING-The-US-has-recorded-its-25th-straight-fiscal-year-in-a-row-of-operating-at-a-deficit-per-CNBC",
+    "source": "@cryptonwsuk",
+    "published": "Fri Oct 16 2026 20:43:46 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -151,62 +207,6 @@
     "link": "https://cryptopanic.com/news/33557423/Pumpfun-Adds-Leveraged-Perps-via-Hyperliquid",
     "source": "bankless.com",
     "published": "Fri Oct 16 2026 19:45:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Russia’s finance minister joins A7 board weeks after US criminal designation",
-    "link": "https://cryptopanic.com/news/33557427/Russias-finance-minister-joins-A7-board-weeks-after-US-criminal-designation",
-    "source": "cryptopolitan.com",
-    "published": "Fri Oct 16 2026 19:40:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin may rally as oil prices spike on supply risks!\n\n• Fresh strikes hit Saudi Aramco.\n\n• Iranian attacks disrupt shipping lanes.\n\n• U.S. Strategic Reserve falls to 1982 low.",
-    "link": "https://cryptopanic.com/news/33557491/Bitcoin-may-rally-as-oil-prices-spike-on-supply-risks-Fresh-strikes-hit-Saudi-Aramco-Iranian-attacks-disrupt-shipping-lanes-US-Strategic-Reserve-falls-to-1982-low",
-    "source": "@btc_archive",
-    "published": "Fri Oct 16 2026 19:40:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
-    "link": "https://cryptopanic.com/news/33557385/Hackers-Jailbreak-iPhone-18-Pro-on-Stage-and-It-Survives-a-Reboot",
-    "source": "decrypt.co",
-    "published": "Fri Oct 16 2026 19:36:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 LATEST: Verizon, UnitedHealth and Broadcom are among US companies pushing back against tokenizing their shares under a new regulatory framework, per WSJ.",
-    "link": "https://cryptopanic.com/news/33557421/LATEST-Verizon-UnitedHealth-and-Broadcom-are-among-US-companies-pushing-back-against-tokenizing-their-shares-under-a-new-regulatory-framework-per-WSJ",
-    "source": "@cointelegraph",
-    "published": "Fri Oct 16 2026 19:30:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Deloitte Expects Enterprise AI Factory Adoption to Double by 2028",
-    "link": "https://cryptopanic.com/news/33557357/Deloitte-Expects-Enterprise-AI-Factory-Adoption-to-Double-by-2028",
-    "source": "catenaa.com",
-    "published": "Fri Oct 16 2026 19:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇯🇵 Japanese megabanks SMBC, Mizuho, and MUFG completed a proof-of-concept for jointly issuing a yen stablecoin and using it for cross-border payments.",
-    "link": "https://cryptopanic.com/news/33557419/LATEST-Japanese-megabanks-SMBC-Mizuho-and-MUFG-completed-a-proof-of-concept-for-jointly-issuing-a-yen-stablecoin-and-using-it-for-cross-border-payments",
-    "source": "@coinmarketcap",
-    "published": "Fri Oct 16 2026 19:25:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Brent crude oil is now the highest it has been since early May and is close to making a new high for the year after rising +84% ytd.\n\nThe global energy supply crisis continues to escalate.",
-    "link": "https://cryptopanic.com/news/33557382/Brent-crude-oil-is-now-the-highest-it-has-been-since-early-May-and-is-close-to-making-a-new-high-for-the-year-after-rising-84-ytd-The-global-energy-supply-crisis-continues-to-escalate",
-    "source": "@stackersatoshi",
-    "published": "Fri Oct 16 2026 19:24:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 TRUMP: Every U.S. adult will receive $5,000 if Republicans win, while Democrats would raise taxes and hurt the economy.",
-    "link": "https://cryptopanic.com/news/33557420/TRUMP-Every-US-adult-will-receive-5000-if-Republicans-win-while-Democrats-would-raise-taxes-and-hurt-the-economy",
-    "source": "@cointelegraph",
-    "published": "Fri Oct 16 2026 19:18:14 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
