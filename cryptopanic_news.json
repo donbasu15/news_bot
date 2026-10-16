@@ -1,5 +1,40 @@
 [
   {
+    "title": "XRP Draws $184M as Traders Bet Against the Crash — Is a Rebound Coming?",
+    "link": "https://cryptopanic.com/news/33557713/XRP-Draws-184M-as-Traders-Bet-Against-the-Crash-Is-a-Rebound-Coming",
+    "source": "techgaged.com",
+    "published": "Fri Oct 16 2026 21:31:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "TIA crypto climbs nearly 17%—Can Celestia reclaim $0.70?",
+    "link": "https://cryptopanic.com/news/33557716/TIA-crypto-climbs-nearly-17Can-Celestia-reclaim-070",
+    "source": "ambcrypto.com",
+    "published": "Fri Oct 16 2026 21:30:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Daily #Cardano News! ️\n\nCharles: \"LFG.\"\n\nSheldon Is Bullish $ADA!\n\n$NIGHT & $AZTEC To Collaborate?",
+    "link": "https://cryptopanic.com/news/33557748/Daily-Cardano-News-Charles-LFG-Sheldon-Is-Bullish-ADA-NIGHT-amp-AZTEC-To-Collaborate",
+    "source": "@angrycryptoshow",
+    "published": "Fri Oct 16 2026 21:26:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$20B AUM Siebert Analyst: $175K Bitcoin Price Target + MSTR “Buy” Rating Explained",
+    "link": "https://cryptopanic.com/news/33557717/20B-AUM-Siebert-Analyst-175K-Bitcoin-Price-Target-MSTR-Buy-Rating-Explained",
+    "source": "BitcoinMagazine",
+    "published": "Fri Oct 16 2026 21:21:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: ️ Circle CEO Jeremy Allaire says the company is pushing into about 40 emerging markets across Southeast Asia, Latin America, Africa and the Middle East, citing rising organic demand for stablecoins.",
+    "link": "https://cryptopanic.com/news/33557747/LATEST-Circle-CEO-Jeremy-Allaire-says-the-company-is-pushing-into-about-40-emerging-markets-across-Southeast-Asia-Latin-America-Africa-and-the-Middle-East-citing-rising-organic-demand-for-stablecoins",
+    "source": "@coinmarketcap",
+    "published": "Fri Oct 16 2026 21:17:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Morgan Stanley Hasn’t Recorded a Single Day of ETH Outflows in 20 Days",
     "link": "https://cryptopanic.com/news/33557679/Morgan-Stanley-Hasnt-Recorded-a-Single-Day-of-ETH-Outflows-in-20-Days",
     "source": "techgaged.com",
@@ -11,6 +46,13 @@
     "link": "https://cryptopanic.com/news/33557676/Where-ICP-goes-when-Internet-Computer-apps-need-fuel-Apps-on-dfinitys-Internet-Computer-dont-pay-for-computing-with-ICP-directly-They-run-on-cycles-a-kind-of-prepaid-credit-Developers-swap-ICP-for-cycles-and-the-ICP-they-swap-is-burned-permanently-removed-from-supply",
     "source": "@bscnews",
     "published": "Fri Oct 16 2026 21:14:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: El Salvador bought another BTC for its Strategic Bitcoin Reserve today 🇸🇻  \n\nThey now own 7807 BTC!",
+    "link": "https://cryptopanic.com/news/33557714/NEW-El-Salvador-bought-another-BTC-for-its-Strategic-Bitcoin-Reserve-today-They-now-own-7807-BTC",
+    "source": "@bitcoinmagazine",
+    "published": "Fri Oct 16 2026 21:13:09 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -84,10 +126,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Strategy surpasses JPMorgan in trading volume as MSTR neared 49M shares in August",
+    "link": "https://cryptopanic.com/news/33557687/Strategy-surpasses-JPMorgan-in-trading-volume-as-MSTR-neared-49M-shares-in-August",
+    "source": "en.cryptonomist.ch",
+    "published": "Fri Oct 16 2026 20:30:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: Strategy conditionally declared daily STRC dividends for November at a 12% annualized rate as shares trade below $100.",
     "link": "https://cryptopanic.com/news/33557545/JUST-IN-Strategy-conditionally-declared-daily-STRC-dividends-for-November-at-a-12-annualized-rate-as-shares-trade-below-100",
     "source": "@cointelegraph",
     "published": "Fri Oct 16 2026 20:30:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "AI generated viral genomes yield 16 viable phages, prompting safety concerns",
+    "link": "https://cryptopanic.com/news/33557686/AI-generated-viral-genomes-yield-16-viable-phages-prompting-safety-concerns",
+    "source": "en.cryptonomist.ch",
+    "published": "Fri Oct 16 2026 20:29:47 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -151,62 +207,6 @@
     "link": "https://cryptopanic.com/news/33557544/NEW-Claude-solved-the-decades-old-mystery-of-NIST-elliptic-curve-seeds-in-under-30-minutes-tracing-them-to-timestamps",
     "source": "@cointelegraph",
     "published": "Fri Oct 16 2026 20:10:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇺🇸 CFTC Chair Michael Selig says the agency has exclusive jurisdiction over prediction markets because they match bids and offers across state lines, with Congress equipping the CFTC to police fraud.",
-    "link": "https://cryptopanic.com/news/33557495/LATEST-CFTC-Chair-Michael-Selig-says-the-agency-has-exclusive-jurisdiction-over-prediction-markets-because-they-match-bids-and-offers-across-state-lines-with-Congress-equipping-the-CFTC-to-police-fraud",
-    "source": "@coinmarketcap",
-    "published": "Fri Oct 16 2026 20:05:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SAM ALTMAN: \"I'm excited about Bitcoin. \n\nThis idea that we have a global currency that is outside the control of any government is an important step.\" 🧠\n\nJune, 2024.",
-    "link": "https://cryptopanic.com/news/33557494/SAM-ALTMAN-Im-excited-about-Bitcoin-This-idea-that-we-have-a-global-currency-that-is-outside-the-control-of-any-government-is-an-important-step-June-2024",
-    "source": "@btc_archive",
-    "published": "Fri Oct 16 2026 20:02:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin price prediction — Relief reversal ahead or deeper $80K flush?",
-    "link": "https://cryptopanic.com/news/33557466/Bitcoin-price-prediction-Relief-reversal-ahead-or-deeper-80K-flush",
-    "source": "ambcrypto.com",
-    "published": "Fri Oct 16 2026 20:00:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana Shanghai Event Delay Draws Criticism from Binance Founder CZ",
-    "link": "https://cryptopanic.com/news/33557434/Solana-Shanghai-Event-Delay-Draws-Criticism-from-Binance-Founder-CZ",
-    "source": "thecoinrepublic.com",
-    "published": "Fri Oct 16 2026 19:52:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "USDC processed $36 trillion in H1 transactions, but Circle kept just 7 cents of every revenue dollar",
-    "link": "https://cryptopanic.com/news/33557426/USDC-processed-36-trillion-in-H1-transactions-but-Circle-kept-just-7-cents-of-every-revenue-dollar",
-    "source": "cryptoslate.com",
-    "published": "Fri Oct 16 2026 19:50:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Jim Cramer says oil and a possible major hedge fund blowup are making this “one of the worst days of the year.”",
-    "link": "https://cryptopanic.com/news/33557543/JUST-IN-Jim-Cramer-says-oil-and-a-possible-major-hedge-fund-blowup-are-making-this-one-of-the-worst-days-of-the-year",
-    "source": "@cointelegraph",
-    "published": "Fri Oct 16 2026 19:50:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "DTCC picks Canton for launch, Stellar and Arc for 2027\n\nDTCC (@The_DTCC) will launch its Tokenization Service this month on the @CantonNetwork and Besu, DTCC's private network. It starts with 25 stocks, ETFs, and US Treasuries, tokenized 1:1 with securities held at DTC and",
-    "link": "https://cryptopanic.com/news/33557440/DTCC-picks-Canton-for-launch-Stellar-and-Arc-for-2027-DTCC-The_DTCC-will-launch-its-Tokenization-Service-this-month-on-the-CantonNetwork-and-Besu-DTCCs-private-network-It-starts-with-25-stocks-ETFs-and-US-Treasuries-tokenized-11-with-securities-held-at-DTC-and",
-    "source": "@bscnews",
-    "published": "Fri Oct 16 2026 19:47:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Pump.fun Adds Leveraged Perps via Hyperliquid",
-    "link": "https://cryptopanic.com/news/33557423/Pumpfun-Adds-Leveraged-Perps-via-Hyperliquid",
-    "source": "bankless.com",
-    "published": "Fri Oct 16 2026 19:45:29 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
