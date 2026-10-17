@@ -1,5 +1,12 @@
 [
   {
+    "title": "QUESTION: Did you survive the weekly?",
+    "link": "https://cryptopanic.com/news/33558774/QUESTION-Did-you-survive-the-weekly",
+    "source": "@cointelegraph",
+    "published": "Sat Oct 17 2026 05:30:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST:  Circle CEO Jeremy Allaire says banks “are no longer in charge” of the payments landscape and “the innovators are having their day” as stablecoin adoption accelerates.",
     "link": "https://cryptopanic.com/news/33558753/LATEST-Circle-CEO-Jeremy-Allaire-says-banks-are-no-longer-in-charge-of-the-payments-landscape-and-the-innovators-are-having-their-day-as-stablecoin-adoption-accelerates",
     "source": "@coinmarketcap",
@@ -200,13 +207,6 @@
     "link": "https://cryptopanic.com/news/33558383/Microsoft-and-Partners-Disrupt-Phishing-Network-That-Accepted-USDT-and-Targeted-75000-Organizations",
     "source": "square.binance.com",
     "published": "Sat Oct 17 2026 01:34:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BNB Surpasses 720 USDT with a Narrowed 1.09% Decrease in 24 Hours",
-    "link": "https://cryptopanic.com/news/33558382/BNB-Surpasses-720-USDT-with-a-Narrowed-109-Decrease-in-24-Hours",
-    "source": "square.binance.com",
-    "published": "Sat Oct 17 2026 01:26:07 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
