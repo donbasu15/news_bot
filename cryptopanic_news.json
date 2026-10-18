@@ -1,5 +1,12 @@
 [
   {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33561027/Source",
+    "source": "@wublockchain",
+    "published": "Sun Oct 18 2026 01:51:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "BIG: Mt. Gox's Mark Karpelès says Ledger knew about advanced spy implants back in March and slams its response to what he calls \"a five-alarm fire in the making.\"",
     "link": "https://cryptopanic.com/news/33560981/BIG-Mt-Goxs-Mark-Karpeles-says-Ledger-knew-about-advanced-spy-implants-back-in-March-and-slams-its-response-to-what-he-calls-a-five-alarm-fire-in-the-making",
     "source": "@cointelegraph",
@@ -200,13 +207,6 @@
     "link": "https://cryptopanic.com/news/33560791/Schwab-Crypto-Research-Head-Speculative-Capital-Is-Moving-Away-as-Bitcoin-Volatility-Falls-Schwab-Head-of-Crypto-Research-Jim-Ferraioli-jimferraioli-said-in-an-October-6-interview-with-Coinage-that-Bitcoins-volatility-has-continued-to-decline-as-the-market-matures-with",
     "source": "@wublockchain",
     "published": "Sat Oct 17 2026 22:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Solana has gone more than two years without a major mainnet outage, and Fidelity's research arm says network health keeps improving even as stake concentration needs watching.",
-    "link": "https://cryptopanic.com/news/33560735/NEW-Solana-has-gone-more-than-two-years-without-a-major-mainnet-outage-and-Fidelitys-research-arm-says-network-health-keeps-improving-even-as-stake-concentration-needs-watching",
-    "source": "@cointelegraph",
-    "published": "Sat Oct 17 2026 21:30:16 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
