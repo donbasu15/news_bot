@@ -1,5 +1,26 @@
 [
   {
+    "title": "JUST IN: Bitcoin reclaims $83,000",
+    "link": "https://cryptopanic.com/news/33565232/JUST-IN-Bitcoin-reclaims-83000",
+    "source": "@watcherguru",
+    "published": "Mon Oct 19 2026 07:42:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Zcash Node Upgrade Targets Visa Level Throughput\n\nZakura (@ZakuraZcash) has launched P2Pv2, an experimental networking layer designed to improve block propagation on Zcash (@Zcash) $ZEC.\n\nIt works in parallel with the existing peer-to-peer network layer on the Testnet by default.",
+    "link": "https://cryptopanic.com/news/33565229/Zcash-Node-Upgrade-Targets-Visa-Level-Throughput-Zakura-ZakuraZcash-has-launched-P2Pv2-an-experimental-networking-layer-designed-to-improve-block-propagation-on-Zcash-Zcash-ZEC-It-works-in-parallel-with-the-existing-peer-to-peer-network-layer-on-the-Testnet-by-default",
+    "source": "@bscnews",
+    "published": "Mon Oct 19 2026 07:42:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JPM Coin’s Ethereum launch targets institutional payments and asset settlement",
+    "link": "https://cryptopanic.com/news/33565209/JPM-Coins-Ethereum-launch-targets-institutional-payments-and-asset-settlement",
+    "source": "en.cryptonomist.ch",
+    "published": "Mon Oct 19 2026 07:41:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Cysic attacker sold 7.2 million CYS before a 76-minute blacklist froze the rest",
     "link": "https://cryptopanic.com/news/33565203/Cysic-attacker-sold-72-million-CYS-before-a-76-minute-blacklist-froze-the-rest",
     "source": "cryptopolitan.com",
@@ -25,6 +46,13 @@
     "link": "https://cryptopanic.com/news/33565132/LATEST-Michael-Saylor-posted-We-found-room-for-more-orange-alongside-an-updated-Strategy-purchase-chart-hinting-the-firm-may-announce-a-5th-straight-week-of-Bitcoin-buys",
     "source": "@coinmarketcap",
     "published": "Mon Oct 19 2026 07:25:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Who actually runs Avalanche (@avax), and what separates Ava Labs from the Avalanche Foundation?\n\nHere's how the two work together to keep the Avalanche ecosystem running",
+    "link": "https://cryptopanic.com/news/33565228/Who-actually-runs-Avalanche-avax-and-what-separates-Ava-Labs-from-the-Avalanche-Foundation-Heres-how-the-two-work-together-to-keep-the-Avalanche-ecosystem-running",
+    "source": "@bscnews",
+    "published": "Mon Oct 19 2026 07:22:14 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -98,16 +126,16 @@
     "sentiment": "neutral"
   },
   {
-    "title": "XRP ETFs End 13-Week Inflow Streak as On-Chain Payments Flash a Warning",
-    "link": "https://cryptopanic.com/news/33565093/XRP-ETFs-End-13-Week-Inflow-Streak-as-On-Chain-Payments-Flash-a-Warning",
-    "source": "beincrypto.com",
+    "title": "Lagarde Lines Up 2027 Digital Euro Pilot as Euro Economy Holds Firm",
+    "link": "https://cryptopanic.com/news/33565002/Lagarde-Lines-Up-2027-Digital-Euro-Pilot-as-Euro-Economy-Holds-Firm",
+    "source": "coinpaprika.com",
     "published": "Mon Oct 19 2026 07:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Lagarde Lines Up 2027 Digital Euro Pilot as Euro Economy Holds Firm",
-    "link": "https://cryptopanic.com/news/33565002/Lagarde-Lines-Up-2027-Digital-Euro-Pilot-as-Euro-Economy-Holds-Firm",
-    "source": "coinpaprika.com",
+    "title": "XRP ETFs End 13-Week Inflow Streak as On-Chain Payments Flash a Warning",
+    "link": "https://cryptopanic.com/news/33565093/XRP-ETFs-End-13-Week-Inflow-Streak-as-On-Chain-Payments-Flash-a-Warning",
+    "source": "beincrypto.com",
     "published": "Mon Oct 19 2026 07:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33565204/Pepe-faces-0000004083-hourly-resistance-as-daily-bias-stays-neutral",
     "source": "en.cryptonomist.ch",
     "published": "Mon Oct 19 2026 06:48:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Aptos keeps a neutral daily bias as bearish hourly trend tests support",
-    "link": "https://cryptopanic.com/news/33565202/Aptos-keeps-a-neutral-daily-bias-as-bearish-hourly-trend-tests-support",
-    "source": "en.cryptonomist.ch",
-    "published": "Mon Oct 19 2026 06:45:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Arbitrum price holds at $0.1979 as short-term momentum overheats",
-    "link": "https://cryptopanic.com/news/33565200/Arbitrum-price-holds-at-01979-as-short-term-momentum-overheats",
-    "source": "en.cryptonomist.ch",
-    "published": "Mon Oct 19 2026 06:45:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why is gold rallying now after its two-week slump?",
-    "link": "https://cryptopanic.com/news/33564930/Why-is-gold-rallying-now-after-its-two-week-slump",
-    "source": "cryptopolitan.com",
-    "published": "Mon Oct 19 2026 06:40:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: ️ Bitget says it is discontinuing services for certain users, while the platform itself continues to operate, with affected users directed to check their notifications.",
-    "link": "https://cryptopanic.com/news/33564972/LATEST-Bitget-says-it-is-discontinuing-services-for-certain-users-while-the-platform-itself-continues-to-operate-with-affected-users-directed-to-check-their-notifications",
-    "source": "@coinmarketcap",
-    "published": "Mon Oct 19 2026 06:40:02 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
