@@ -1,5 +1,12 @@
 [
   {
+    "title": "CXMT Shares Fall 6.5% After US Selloff and Despite Profit Turnaround",
+    "link": "https://cryptopanic.com/news/33564091/CXMT-Shares-Fall-65-After-US-Selloff-and-Despite-Profit-Turnaround",
+    "source": "beincrypto.com",
+    "published": "Mon Oct 19 2026 02:53:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "CME Group Adds Bitcoin Cash and Uniswap Futures, Taking Its Single-Asset Crypto Lineup to 11",
     "link": "https://cryptopanic.com/news/33564031/CME-Group-Adds-Bitcoin-Cash-and-Uniswap-Futures-Taking-Its-Single-Asset-Crypto-Lineup-to-11",
     "source": "www.blockhead.co",
@@ -32,6 +39,13 @@
     "link": "https://cryptopanic.com/news/33564029/JUST-IN-Chinas-economy-beats-expectations-with-45-growth-in-Q3",
     "source": "@cointelegraph",
     "published": "Mon Oct 19 2026 02:30:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Fed Hike Before December? Ben Emons Says Data, Not Midterms, Decides",
+    "link": "https://cryptopanic.com/news/33564090/Fed-Hike-Before-December-Ben-Emons-Says-Data-Not-Midterms-Decides",
+    "source": "beincrypto.com",
+    "published": "Mon Oct 19 2026 02:28:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33563743/Soul-Labs-delays-mainnet-launch-We-know-this-is-another-delay-and-that-many-of-you-were-looking-forward-to-finally-using-Soul-0xSoulProtocol-has-pushed-back-its-mainnet-launch-date-from-October-19-2026-to-January-5-2027-The-platform-says-security-is-the-motivation",
     "source": "@bscnews",
     "published": "Sun Oct 18 2026 23:46:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 TODAY: President Trump says he struck a diesel export deal with Russia and held off on new sanctions to keep Putin at the Ukraine peace talks.",
-    "link": "https://cryptopanic.com/news/33563662/TODAY-President-Trump-says-he-struck-a-diesel-export-deal-with-Russia-and-held-off-on-new-sanctions-to-keep-Putin-at-the-Ukraine-peace-talks",
-    "source": "@cointelegraph",
-    "published": "Sun Oct 18 2026 23:33:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
-    "link": "https://cryptopanic.com/news/33563771/SEC-tokenized-stock-framework-faces-issuer-pushback-as-Broadcom-Verizon-object-to-OKX-ICE-listing",
-    "source": "coindesk.com",
-    "published": "Sun Oct 18 2026 23:28:06 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
