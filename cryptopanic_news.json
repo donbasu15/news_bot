@@ -1,5 +1,89 @@
 [
   {
+    "title": "France advances crypto-to-stablecoin tax proposal by just one vote",
+    "link": "https://cryptopanic.com/news/33568278/France-advances-crypto-to-stablecoin-tax-proposal-by-just-one-vote",
+    "source": "ambcrypto.com",
+    "published": "Mon Oct 19 2026 17:15:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: The U.S. Commodity Futures Trading Commission is seeking to cast doubt on CME Group's legal challenge to its new perps policy.\n\n@jesseahamilton reports.",
+    "link": "https://cryptopanic.com/news/33568282/LATEST-The-US-Commodity-Futures-Trading-Commission-is-seeking-to-cast-doubt-on-CME-Groups-legal-challenge-to-its-new-perps-policy-jesseahamilton-reports",
+    "source": "@coindesk",
+    "published": "Mon Oct 19 2026 17:13:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Circle, Hyperliquid Buck The Trend as Most Crypto IPO Stocks Plunge",
+    "link": "https://cryptopanic.com/news/33568294/Circle-Hyperliquid-Buck-The-Trend-as-Most-Crypto-IPO-Stocks-Plunge",
+    "source": "cryptoprowl.com",
+    "published": "Mon Oct 19 2026 17:12:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Price Downside Was Milder Than ETH and SOL in October",
+    "link": "https://cryptopanic.com/news/33568241/Bitcoin-Price-Downside-Was-Milder-Than-ETH-and-SOL-in-October",
+    "source": "btcusa.com",
+    "published": "Mon Oct 19 2026 17:10:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "What Happens to $10,000 When You Leave It Sitting in a Brokerage Account?",
+    "link": "https://cryptopanic.com/news/33568231/What-Happens-to-10000-When-You-Leave-It-Sitting-in-a-Brokerage-Account",
+    "source": "coinpaper.com",
+    "published": "Mon Oct 19 2026 17:06:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: ️ Visa has partnered with Mesh to let users spend crypto and stablecoin balances directly from their wallet apps at any of its 175M merchant locations.",
+    "link": "https://cryptopanic.com/news/33568280/LATEST-Visa-has-partnered-with-Mesh-to-let-users-spend-crypto-and-stablecoin-balances-directly-from-their-wallet-apps-at-any-of-its-175M-merchant-locations",
+    "source": "@coinmarketcap",
+    "published": "Mon Oct 19 2026 17:05:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Just In: CoinMarketCat just crashed out on stream. \n\nWhat do you think caused it?",
+    "link": "https://cryptopanic.com/news/33568277/Just-In-CoinMarketCat-just-crashed-out-on-stream-What-do-you-think-caused-it",
+    "source": "@coinmarketcap",
+    "published": "Mon Oct 19 2026 17:00:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "When Fiat Gets Debased, What's the Safest Investment?",
+    "link": "https://cryptopanic.com/news/33568236/When-Fiat-Gets-Debased-Whats-the-Safest-Investment",
+    "source": "BitcoinMagazine",
+    "published": "Mon Oct 19 2026 17:00:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "A Hidden Spy Chip Drained $90 Million From Ledger Wallets",
+    "link": "https://cryptopanic.com/news/33568301/A-Hidden-Spy-Chip-Drained-90-Million-From-Ledger-Wallets",
+    "source": "coinpaprika.com",
+    "published": "Mon Oct 19 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CoreWeave Rebound as Goldman Upgrade Despite Debt Concerns",
+    "link": "https://cryptopanic.com/news/33568202/CoreWeave-Rebound-as-Goldman-Upgrade-Despite-Debt-Concerns",
+    "source": "catenaa.com",
+    "published": "Mon Oct 19 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Dogecoin Flashes Buy Signal at $0.08 as Whales Accumulate: What’s Next?",
+    "link": "https://cryptopanic.com/news/33568240/Dogecoin-Flashes-Buy-Signal-at-008-as-Whales-Accumulate-Whats-Next",
+    "source": "feeds2.benzinga.com",
+    "published": "Mon Oct 19 2026 16:54:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Recovers From $80K & Solana Holds $100 Level, Easing Fears of a ‘Black Monday’",
+    "link": "https://cryptopanic.com/news/33567871/Bitcoin-Recovers-From-80K-Solana-Holds-100-Level-Easing-Fears-of-a-Black-Monday",
+    "source": "solanafloor.com",
+    "published": "Mon Oct 19 2026 16:53:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Stablecoin Development Corp goes boom then bust",
     "link": "https://cryptopanic.com/news/33568165/Stablecoin-Development-Corp-goes-boom-then-bust",
     "source": "protos.com",
@@ -14,10 +98,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Musk's Tesla jumps 32 spots on the Roundtable 100 after 'flying car' reveal",
+    "link": "https://cryptopanic.com/news/33568248/Musks-Tesla-jumps-32-spots-on-the-Roundtable-100-after-flying-car-reveal",
+    "source": "thestreet.com",
+    "published": "Mon Oct 19 2026 16:45:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Kaspa’s privacy push moves real test coins in a private payment\n\n#Kaspa Privacy Initiative developer Olaf Weller (@WellerOlaf) has run a full private payment test on the TN10 test network. A wallet holding 10 test $KAS privately sent 4 to a second wallet and kept 6 as change, and",
     "link": "https://cryptopanic.com/news/33568160/Kaspas-privacy-push-moves-real-test-coins-in-a-private-payment-Kaspa-Privacy-Initiative-developer-Olaf-Weller-WellerOlaf-has-run-a-full-private-payment-test-on-the-TN10-test-network-A-wallet-holding-10-test-KAS-privately-sent-4-to-a-second-wallet-and-kept-6-as-change-and",
     "source": "@bscnews",
     "published": "Mon Oct 19 2026 16:45:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Coinbase Wrapped $ADA ($cbADA) surpasses 3.7M transactions and 6,600 holders, highlighting rising demand in cross-chain #Cardano.",
+    "link": "https://cryptopanic.com/news/33568281/JUST-IN-Coinbase-Wrapped-ADA-cbADA-surpasses-37M-transactions-and-6600-holders-highlighting-rising-demand-in-cross-chain-Cardano",
+    "source": "@angrycryptoshow",
+    "published": "Mon Oct 19 2026 16:44:29 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -77,6 +175,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Nine Public Companies Object to OKX-ICE Tokenized Stock Plans",
+    "link": "https://cryptopanic.com/news/33568249/Nine-Public-Companies-Object-to-OKX-ICE-Tokenized-Stock-Plans",
+    "source": "cryptoprowl.com",
+    "published": "Mon Oct 19 2026 16:29:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "UPDATE: VirtualBacon highlights $NIGHT, says \"I really like the post-quantum narrative. It's such a small sector, it's so concentrated. People will want protection against Bitcoin potentially breaking. Eventually, it'll be a big story, and everyone will have to pick their bets.\"",
     "link": "https://cryptopanic.com/news/33568075/UPDATE-VirtualBacon-highlights-NIGHT-says-I-really-like-the-post-quantum-narrative-Its-such-a-small-sector-its-so-concentrated-People-will-want-protection-against-Bitcoin-potentially-breaking-Eventually-itll-be-a-big-story-and-everyone-will-have-to-pick-their-bets",
     "source": "@angrycryptoshow",
@@ -102,111 +207,6 @@
     "link": "https://cryptopanic.com/news/33568070/LATEST-Elon-Musk-says-he-will-give-one-SpaceX-share-to-every-child-in-America-next-year-calling-it-the-first-of-many",
     "source": "@coinmarketcap",
     "published": "Mon Oct 19 2026 16:25:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Mastercard $MA launches new risk intelligence tool to make crypto stablecoin payments safer.",
-    "link": "https://cryptopanic.com/news/33568184/JUST-IN-Mastercard-MA-launches-new-risk-intelligence-tool-to-make-crypto-stablecoin-payments-safer",
-    "source": "@watcherguru",
-    "published": "Mon Oct 19 2026 16:24:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇯🇵 Japan's Metaplanet to buy Super League for 2,100 BTC and $2.5 million \n\nThis will give the 2nd-largest corporate BTC holder a U.S. listed Bitcoin treasury platform!",
-    "link": "https://cryptopanic.com/news/33568182/JUST-IN-Japans-Metaplanet-to-buy-Super-League-for-2100-BTC-and-25-million-This-will-give-the-2nd-largest-corporate-BTC-holder-a-US-listed-Bitcoin-treasury-platform",
-    "source": "@bitcoinmagazine",
-    "published": "Mon Oct 19 2026 16:23:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "How does BlackRock compare with Ondo Finance? \n\n@Ondo's USDY has overtaken @BlackRock’s BUIDL by a slim margin in asset size, at roughly $2.33 billion vs. $2.2 billion, according to @rwaxyz.\n\nHowever, does the RWA giant really triumph over the Wall Street powerhouse? Not",
-    "link": "https://cryptopanic.com/news/33568157/How-does-BlackRock-compare-with-Ondo-Finance-Ondos-USDY-has-overtaken-BlackRocks-BUIDL-by-a-slim-margin-in-asset-size-at-roughly-233-billion-vs-22-billion-according-to-rwaxyz-However-does-the-RWA-giant-really-triumph-over-the-Wall-Street-powerhouse-Not",
-    "source": "@bscnews",
-    "published": "Mon Oct 19 2026 16:22:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Mastercard has launched Stablecoin Security, a new tool that helps banks detect fraud, scams and sanctions risks in stablecoin payments before funds move on-chain.\n\nThe service launches first in North America, with global availability expected in 2027.",
-    "link": "https://cryptopanic.com/news/33568150/NEW-Mastercard-has-launched-Stablecoin-Security-a-new-tool-that-helps-banks-detect-fraud-scams-and-sanctions-risks-in-stablecoin-payments-before-funds-move-on-chain-The-service-launches-first-in-North-America-with-global-availability-expected-in-2027",
-    "source": "@coindesk",
-    "published": "Mon Oct 19 2026 16:20:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INSIGHT: Over 4,300 agents are in queue to enter Midnight City, with 1,638 currently online. Active agents are steadily growing, with 101 added in 4 days.",
-    "link": "https://cryptopanic.com/news/33568073/INSIGHT-Over-4300-agents-are-in-queue-to-enter-Midnight-City-with-1638-currently-online-Active-agents-are-steadily-growing-with-101-added-in-4-days",
-    "source": "@angrycryptoshow",
-    "published": "Mon Oct 19 2026 16:19:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇩🇪 NEW: Germany’s Sparkassen network has launched crypto trading through its banking app at select banks, initially supporting Bitcoin, Ethereum, XRP, Solana and Polygon, with 30–40 more banks set to join each month.",
-    "link": "https://cryptopanic.com/news/33568152/NEW-Germanys-Sparkassen-network-has-launched-crypto-trading-through-its-banking-app-at-select-banks-initially-supporting-Bitcoin-Ethereum-XRP-Solana-and-Polygon-with-3040-more-banks-set-to-join-each-month",
-    "source": "@cointelegraph",
-    "published": "Mon Oct 19 2026 16:19:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AnchorWatch Launches Bitcoin Custody With $370 Million Insurance – Here Is What It Offers",
-    "link": "https://cryptopanic.com/news/33568006/AnchorWatch-Launches-Bitcoin-Custody-With-370-Million-Insurance-Here-Is-What-It-Offers",
-    "source": "blocknews.com",
-    "published": "Mon Oct 19 2026 16:18:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nearly half of Flare’s active FLR now sits in staking\n\nHolders have now staked 23.1 billion $FLR on @FlareNetworks, or 49.2% of the FLR taking part in the network. The rest is delegated.\n\nGovernance voters backed the FIP.16 overhaul in April with 98.06% support. It gives staked",
-    "link": "https://cryptopanic.com/news/33567994/Nearly-half-of-Flares-active-FLR-now-sits-in-staking-Holders-have-now-staked-231-billion-FLR-on-FlareNetworks-or-492-of-the-FLR-taking-part-in-the-network-The-rest-is-delegated-Governance-voters-backed-the-FIP16-overhaul-in-April-with-9806-support-It-gives-staked",
-    "source": "@bscnews",
-    "published": "Mon Oct 19 2026 16:15:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Mesh taps Visa to let users spend crypto without a separate card",
-    "link": "https://cryptopanic.com/news/33567956/Mesh-taps-Visa-to-let-users-spend-crypto-without-a-separate-card",
-    "source": "theblock.co",
-    "published": "Mon Oct 19 2026 16:10:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hedera’s AI Agents Spend Dollars While HBAR Collects Fees",
-    "link": "https://cryptopanic.com/news/33567955/Hederas-AI-Agents-Spend-Dollars-While-HBAR-Collects-Fees",
-    "source": "dailycoin.com",
-    "published": "Mon Oct 19 2026 16:10:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Mastercard expands its crypto team.\n\nHow long until they flip to Bitcoin only?",
-    "link": "https://cryptopanic.com/news/33568064/JUST-IN-Mastercard-expands-its-crypto-team-How-long-until-they-flip-to-Bitcoin-only",
-    "source": "@btc_archive",
-    "published": "Mon Oct 19 2026 16:07:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Tests Key Support as Oil and AI Fears Squeeze Markets",
-    "link": "https://cryptopanic.com/news/33567946/Bitcoin-Tests-Key-Support-as-Oil-and-AI-Fears-Squeeze-Markets",
-    "source": "decrypt.co",
-    "published": "Mon Oct 19 2026 16:05:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Goldman Sachs revises rating and target on beaten-down AI stock",
-    "link": "https://cryptopanic.com/news/33568017/Goldman-Sachs-revises-rating-and-target-on-beaten-down-AI-stock",
-    "source": "thestreet.com",
-    "published": "Mon Oct 19 2026 16:04:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Blackstone Raises $8.7B for Energy Infrastructure, 55% More Than Its Previous Fund",
-    "link": "https://cryptopanic.com/news/33567937/Blackstone-Raises-87B-for-Energy-Infrastructure-55-More-Than-Its-Previous-Fund",
-    "source": "coinpaper.com",
-    "published": "Mon Oct 19 2026 16:03:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stablecoins Turn MoneyGram Into More Than a Cash Counter",
-    "link": "https://cryptopanic.com/news/33567936/Stablecoins-Turn-MoneyGram-Into-More-Than-a-Cash-Counter",
-    "source": "coindoo.com",
-    "published": "Mon Oct 19 2026 16:02:27 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
