@@ -1,5 +1,40 @@
 [
   {
+    "title": "The CFTC Isn't Waiting on Congress",
+    "link": "https://cryptopanic.com/news/33568984/The-CFTC-Isnt-Waiting-on-Congress",
+    "source": "bankless.com",
+    "published": "Mon Oct 19 2026 20:50:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Sam Callahan: Bitcoin Doesn't Need Rate Cuts to Succeed",
+    "link": "https://cryptopanic.com/news/33568989/Sam-Callahan-Bitcoin-Doesnt-Need-Rate-Cuts-to-Succeed",
+    "source": "BitcoinMagazine",
+    "published": "Mon Oct 19 2026 20:48:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live",
+    "link": "https://cryptopanic.com/news/33568982/XRP-Ledger-Repairs-Its-Lending-Protocol-Before-It-Goes-Live",
+    "source": "decrypt.co",
+    "published": "Mon Oct 19 2026 20:46:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "What it costs to lose a vote on the Internet Computer\n\nThe Internet Computer, built by the DFINITY Foundation (@dfinity), is governed by a voting system called the NNS. ICP holders lock tokens in “neurons” to vote on network changes, and a neuron that takes at least 6 months to",
+    "link": "https://cryptopanic.com/news/33568993/What-it-costs-to-lose-a-vote-on-the-Internet-Computer-The-Internet-Computer-built-by-the-DFINITY-Foundation-dfinity-is-governed-by-a-voting-system-called-the-NNS-ICP-holders-lock-tokens-in-neurons-to-vote-on-network-changes-and-a-neuron-that-takes-at-least-6-months-to",
+    "source": "@bscnews",
+    "published": "Mon Oct 19 2026 20:46:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: Tether CEO Paulo Ardoino posted on X that his company is often way ahead of government sanctions when it freezes suspicious transactions — a point he contends a recent report from Senate Democrats ignored.",
+    "link": "https://cryptopanic.com/news/33568978/LATEST-Tether-CEO-Paulo-Ardoino-posted-on-X-that-his-company-is-often-way-ahead-of-government-sanctions-when-it-freezes-suspicious-transactions-a-point-he-contends-a-recent-report-from-Senate-Democrats-ignored",
+    "source": "@coindesk",
+    "published": "Mon Oct 19 2026 20:44:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST: 🤖 Michael Saylor says automation and robots will drive the value of goods to zero, so investors should “buy something a robot can’t make,” like Bitcoin.",
     "link": "https://cryptopanic.com/news/33568976/LATEST-Michael-Saylor-says-automation-and-robots-will-drive-the-value-of-goods-to-zero-so-investors-should-buy-something-a-robot-cant-make-like-Bitcoin",
     "source": "@coinmarketcap",
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33568907/A-weekend-of-looting-and-violence-between-some-protesters-and-police-followed-weeks-of-student-demonstrations-rocking-France-and-leaving-many-small-businesses-in-tatters-ahead-of-its-next-presidential-election-More-here",
     "source": "@reutersbiz",
     "published": "Mon Oct 19 2026 19:45:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why Algorand payments don’t wait for extra blocks\n\nOn Bitcoin, two miners can find a block at the same time, and the chain briefly splits in two, which is called a fork. Payments on the dropped side are undone, so waiting six blocks, about an hour, is the common rule before a",
-    "link": "https://cryptopanic.com/news/33568909/Why-Algorand-payments-dont-wait-for-extra-blocks-On-Bitcoin-two-miners-can-find-a-block-at-the-same-time-and-the-chain-briefly-splits-in-two-which-is-called-a-fork-Payments-on-the-dropped-side-are-undone-so-waiting-six-blocks-about-an-hour-is-the-common-rule-before-a",
-    "source": "@bscnews",
-    "published": "Mon Oct 19 2026 19:43:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Circle Made $1.4 Billion From USDC but Paid $819 Million to Partners and Costs. Who Got the Money?",
-    "link": "https://cryptopanic.com/news/33568775/Circle-Made-14-Billion-From-USDC-but-Paid-819-Million-to-Partners-and-Costs-Who-Got-the-Money",
-    "source": "coinpaper.com",
-    "published": "Mon Oct 19 2026 19:42:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "One concern unites Americans before midterms",
-    "link": "https://cryptopanic.com/news/33568839/One-concern-unites-Americans-before-midterms",
-    "source": "thestreet.com",
-    "published": "Mon Oct 19 2026 19:41:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Argentina to hand Bitcoin & crypto user data to foreign tax authorities.\n\nAdopts CARF rules in 2029.\n\nAligns with Brazil, UK, and Japan.",
-    "link": "https://cryptopanic.com/news/33568818/JUST-IN-Argentina-to-hand-Bitcoin-amp-crypto-user-data-to-foreign-tax-authorities-Adopts-CARF-rules-in-2029-Aligns-with-Brazil-UK-and-Japan",
-    "source": "@btc_archive",
-    "published": "Mon Oct 19 2026 19:40:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ INSIGHT: Eric Balchunas says most of America’s richest billionaires’ wealth is tied to stock ownership, arguing stock donations could help narrow the wealth gap.",
-    "link": "https://cryptopanic.com/news/33568902/INSIGHT-Eric-Balchunas-says-most-of-Americas-richest-billionaires-wealth-is-tied-to-stock-ownership-arguing-stock-donations-could-help-narrow-the-wealth-gap",
-    "source": "@cointelegraph",
-    "published": "Mon Oct 19 2026 19:40:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
