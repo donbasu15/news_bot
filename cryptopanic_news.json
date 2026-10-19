@@ -1,5 +1,19 @@
 [
   {
+    "title": "AI predicts XRP price for November 1, 2026",
+    "link": "https://cryptopanic.com/news/33565589/AI-predicts-XRP-price-for-November-1-2026",
+    "source": "finbold.com",
+    "published": "Mon Oct 19 2026 08:44:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: ️ Crypto.​com and Novig are suing Missouri in federal court, arguing the CFTC has exclusive jurisdiction over their sports event contracts.",
+    "link": "https://cryptopanic.com/news/33565614/LATEST-Cryptocom-and-Novig-are-suing-Missouri-in-federal-court-arguing-the-CFTC-has-exclusive-jurisdiction-over-their-sports-event-contracts",
+    "source": "@coinmarketcap",
+    "published": "Mon Oct 19 2026 08:41:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Mt. Gox creditors face another year of waiting as repayment deadline slips to 2027",
     "link": "https://cryptopanic.com/news/33565520/Mt-Gox-creditors-face-another-year-of-waiting-as-repayment-deadline-slips-to-2027",
     "source": "cryptoslate.com",
@@ -126,6 +140,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "MARA Sends $82.8 Million in Bitcoin to Exchanges During a Shaky October",
+    "link": "https://cryptopanic.com/news/33565595/MARA-Sends-828-Million-in-Bitcoin-to-Exchanges-During-a-Shaky-October",
+    "source": "beincrypto.com",
+    "published": "Mon Oct 19 2026 08:00:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Ethereum ETFs shed $1B in 3 weeks – Can ETH buyers prevent breakdown?",
     "link": "https://cryptopanic.com/news/33565280/Ethereum-ETFs-shed-1B-in-3-weeks-Can-ETH-buyers-prevent-breakdown",
     "source": "ambcrypto.com",
@@ -186,27 +207,6 @@
     "link": "https://cryptopanic.com/news/33565418/Volcano-Engine-Launches-Seedance-AI-Drama-Incentive-Program-Offering-Up-to-200000-Yuan-per-Series",
     "source": "square.binance.com",
     "published": "Mon Oct 19 2026 07:45:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AI TRENDS | Wall Street Financing May Decide the Next Stage of the AI Race",
-    "link": "https://cryptopanic.com/news/33565417/AI-TRENDS-Wall-Street-Financing-May-Decide-the-Next-Stage-of-the-AI-Race",
-    "source": "square.binance.com",
-    "published": "Mon Oct 19 2026 07:44:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Bitcoin reclaims $83,000",
-    "link": "https://cryptopanic.com/news/33565232/JUST-IN-Bitcoin-reclaims-83000",
-    "source": "@watcherguru",
-    "published": "Mon Oct 19 2026 07:42:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Zcash Node Upgrade Targets Visa Level Throughput\n\nZakura (@ZakuraZcash) has launched P2Pv2, an experimental networking layer designed to improve block propagation on Zcash (@Zcash) $ZEC.\n\nIt works in parallel with the existing peer-to-peer network layer on the Testnet by default.",
-    "link": "https://cryptopanic.com/news/33565229/Zcash-Node-Upgrade-Targets-Visa-Level-Throughput-Zakura-ZakuraZcash-has-launched-P2Pv2-an-experimental-networking-layer-designed-to-improve-block-propagation-on-Zcash-Zcash-ZEC-It-works-in-parallel-with-the-existing-peer-to-peer-network-layer-on-the-Testnet-by-default",
-    "source": "@bscnews",
-    "published": "Mon Oct 19 2026 07:42:24 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
