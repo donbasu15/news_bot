@@ -1,5 +1,40 @@
 [
   {
+    "title": "🇺🇸 UPDATE: The CFTC urged a federal court to dismiss CME’s lawsuit challenging its approval of crypto perpetual futures, arguing the exchange has shown no concrete financial harm.",
+    "link": "https://cryptopanic.com/news/33568598/UPDATE-The-CFTC-urged-a-federal-court-to-dismiss-CMEs-lawsuit-challenging-its-approval-of-crypto-perpetual-futures-arguing-the-exchange-has-shown-no-concrete-financial-harm",
+    "source": "@cointelegraph",
+    "published": "Mon Oct 19 2026 18:40:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Vitalik Pushes EIP-8288 Over New Precompiles",
+    "link": "https://cryptopanic.com/news/33568524/Vitalik-Pushes-EIP-8288-Over-New-Precompiles",
+    "source": "bankless.com",
+    "published": "Mon Oct 19 2026 18:25:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Strategy: Why Saylor’s 1,007% Return Matters",
+    "link": "https://cryptopanic.com/news/33568578/Bitcoin-Strategy-Why-Saylors-1007-Return-Matters",
+    "source": "SimplyBitcoin",
+    "published": "Mon Oct 19 2026 18:25:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 INSIGHT: Peter Schiff warns the U.S. faces its “worst housing market” in history, citing soaring construction costs and rising mortgage rates.",
+    "link": "https://cryptopanic.com/news/33568597/INSIGHT-Peter-Schiff-warns-the-US-faces-its-worst-housing-market-in-history-citing-soaring-construction-costs-and-rising-mortgage-rates",
+    "source": "@cointelegraph",
+    "published": "Mon Oct 19 2026 18:20:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Glassnode says Bitcoin's heavy selling has eased near $82K, but neither spot nor ETF buyers have returned, leaving the market without fresh demand.",
+    "link": "https://cryptopanic.com/news/33568566/LATEST-Glassnode-says-Bitcoins-heavy-selling-has-eased-near-82K-but-neither-spot-nor-ETF-buyers-have-returned-leaving-the-market-without-fresh-demand",
+    "source": "@coinmarketcap",
+    "published": "Mon Oct 19 2026 18:17:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "US Orders Civilian Agencies to Rip DeepSeek Out of Government Systems",
     "link": "https://cryptopanic.com/news/33568520/US-Orders-Civilian-Agencies-to-Rip-DeepSeek-Out-of-Government-Systems",
     "source": "decrypt.co",
@@ -14,10 +49,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Europe EV sales rose 70% in September, around 30% of market share",
+    "link": "https://cryptopanic.com/news/33568599/Europe-EV-sales-rose-70-in-September-around-30-of-market-share",
+    "source": "@reutersbiz",
+    "published": "Mon Oct 19 2026 18:15:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Binance AI Pro turns a simple chat into a trading bot\n\n@binance has rolled out Binance AI Pro, an AI agent that builds automated trading strategies from plain-language instructions. Users can test each strategy with virtual funds first, and going live requires separate approval.",
     "link": "https://cryptopanic.com/news/33568511/Binance-AI-Pro-turns-a-simple-chat-into-a-trading-bot-binance-has-rolled-out-Binance-AI-Pro-an-AI-agent-that-builds-automated-trading-strategies-from-plain-language-instructions-Users-can-test-each-strategy-with-virtual-funds-first-and-going-live-requires-separate-approval",
     "source": "@bscnews",
     "published": "Mon Oct 19 2026 18:14:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Market here",
+    "link": "https://cryptopanic.com/news/33568565/Market-here",
+    "source": "@bitcoinmagazine",
+    "published": "Mon Oct 19 2026 18:13:53 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -35,10 +84,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "JUST IN: There's now a 56% chance Bitcoin will be above $90,000 this year, according to Polymarket⁠.com",
+    "link": "https://cryptopanic.com/news/33568564/JUST-IN-Theres-now-a-56-chance-Bitcoin-will-be-above-90000-this-year-according-to-Polymarketcom",
+    "source": "@bitcoinmagazine",
+    "published": "Mon Oct 19 2026 18:00:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JPMorgan Launches JPM Coin on Ethereum – Here Is What It Offers",
     "link": "https://cryptopanic.com/news/33568419/JPMorgan-Launches-JPM-Coin-on-Ethereum-Here-Is-What-It-Offers",
     "source": "blocknews.com",
     "published": "Mon Oct 19 2026 18:00:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇨🇦 UPDATE: Stablecoins led Canadian dollar crypto order book volume at 44% in June 2026, up from 30% a year earlier, with USDC dominating the category, Chainalysis reports.",
+    "link": "https://cryptopanic.com/news/33568595/UPDATE-Stablecoins-led-Canadian-dollar-crypto-order-book-volume-at-44-in-June-2026-up-from-30-a-year-earlier-with-USDC-dominating-the-category-Chainalysis-reports",
+    "source": "@cointelegraph",
+    "published": "Mon Oct 19 2026 18:00:24 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -144,69 +207,6 @@
     "link": "https://cryptopanic.com/news/33568354/Solana-Treasury-Firm-Dumps-All-SOL-as-SkyAI-Plans-201M-Buyback-and-Holds-224M-Cash",
     "source": "coinpaper.com",
     "published": "Mon Oct 19 2026 17:36:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "If This HBAR Macro Fractal Plays Out, a 1,206% Rally’s Next",
-    "link": "https://cryptopanic.com/news/33568356/If-This-HBAR-Macro-Fractal-Plays-Out-a-1206-Rallys-Next",
-    "source": "dailycoin.com",
-    "published": "Mon Oct 19 2026 17:35:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",
-    "link": "https://cryptopanic.com/news/33568353/JPMorgans-JPM-Coin-Arrives-on-Ethereum-Putting-Bank-Dollars-on-a-Public-Blockchain",
-    "source": "decrypt.co",
-    "published": "Mon Oct 19 2026 17:31:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ JUST IN: $XRP launches an official X account managed by Ripple and the XRP Ledger Foundation.",
-    "link": "https://cryptopanic.com/news/33568346/JUST-IN-XRP-launches-an-official-X-account-managed-by-Ripple-and-the-XRP-Ledger-Foundation",
-    "source": "@cointelegraph",
-    "published": "Mon Oct 19 2026 17:30:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HOT TOPIC: JPMorgan has a token, and it's on Ethereum \n\nJPM Coin is backed by real bank deposits, runs on a $7B a day platform, and only institutions can hold it. ethereum:native still sits near $2,400.\n\nBullish for ethereum:native or not",
-    "link": "https://cryptopanic.com/news/33568409/HOT-TOPIC-JPMorgan-has-a-token-and-its-on-Ethereum-JPM-Coin-is-backed-by-real-bank-deposits-runs-on-a-7B-a-day-platform-and-only-institutions-can-hold-it-ethereumnative-still-sits-near-2400-Bullish-for-ethereumnative-or-not",
-    "source": "@coinmarketcap",
-    "published": "Mon Oct 19 2026 17:25:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 175M Visa merchants to accept Bitcoin and stablecoins.\n\n• Powered by $200M PayPal, Paradigm, and SBI-backed startup.\n\n• Allows users to spend crypto balances directly from partner apps.",
-    "link": "https://cryptopanic.com/news/33568393/JUST-IN-175M-Visa-merchants-to-accept-Bitcoin-and-stablecoins-Powered-by-200M-PayPal-Paradigm-and-SBI-backed-startup-Allows-users-to-spend-crypto-balances-directly-from-partner-apps",
-    "source": "@btc_archive",
-    "published": "Mon Oct 19 2026 17:24:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Strike's liquidity vault surpasses $1,000,000 in TVL, with $200,000 deployed via RealFi in just 72h.",
-    "link": "https://cryptopanic.com/news/33568411/JUST-IN-Strikes-liquidity-vault-surpasses-1000000-in-TVL-with-200000-deployed-via-RealFi-in-just-72h",
-    "source": "@angrycryptoshow",
-    "published": "Mon Oct 19 2026 17:21:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BULLISH: Bitcoin’s sustained recovery hinges on positive spot demand, buyers absorbing $BTC returning to exchanges and broader accumulation across holder groups, according to CryptoQuant.",
-    "link": "https://cryptopanic.com/news/33568345/BULLISH-Bitcoins-sustained-recovery-hinges-on-positive-spot-demand-buyers-absorbing-BTC-returning-to-exchanges-and-broader-accumulation-across-holder-groups-according-to-CryptoQuant",
-    "source": "@cointelegraph",
-    "published": "Mon Oct 19 2026 17:20:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "DeFi Lending Surges 150% to $10B as SEC and European Regulators Examine Crypto Vault Risks",
-    "link": "https://cryptopanic.com/news/33568296/DeFi-Lending-Surges-150-to-10B-as-SEC-and-European-Regulators-Examine-Crypto-Vault-Risks",
-    "source": "coinpaper.com",
-    "published": "Mon Oct 19 2026 17:18:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "France advances crypto-to-stablecoin tax proposal by just one vote",
-    "link": "https://cryptopanic.com/news/33568278/France-advances-crypto-to-stablecoin-tax-proposal-by-just-one-vote",
-    "source": "ambcrypto.com",
-    "published": "Mon Oct 19 2026 17:15:14 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
