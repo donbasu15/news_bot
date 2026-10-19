@@ -1,5 +1,82 @@
 [
   {
+    "title": "JUST IN: 🇺🇸🇪🇺 US threatens \"devastating\" retaliation against European companies if EU restricts Elon Musk's Starlink.",
+    "link": "https://cryptopanic.com/news/33563190/JUST-IN-US-threatens-devastating-retaliation-against-European-companies-if-EU-restricts-Elon-Musks-Starlink",
+    "source": "@watcherguru",
+    "published": "Sun Oct 18 2026 18:43:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
+    "link": "https://cryptopanic.com/news/33562671/Bitcoin-ETFs-Shed-Nearly-1-Billion-in-Two-Weeks-as-Uptober-Stays-Red",
+    "source": "decrypt.co",
+    "published": "Sun Oct 18 2026 15:01:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Billionaire Ray Dalio Warns AI Borrowing Boom Is Colliding With $4,400,000,000,000 US Debt Wave",
+    "link": "https://cryptopanic.com/news/33562636/Billionaire-Ray-Dalio-Warns-AI-Borrowing-Boom-Is-Colliding-With-4400000000000-US-Debt-Wave",
+    "source": "dailyhodl.com",
+    "published": "Sun Oct 18 2026 14:30:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Strategy Stock Selling Pressure: What MSCI’s Index Decision Means",
+    "link": "https://cryptopanic.com/news/33562640/Strategy-Stock-Selling-Pressure-What-MSCIs-Index-Decision-Means",
+    "source": "SimplyBitcoin",
+    "published": "Sun Oct 18 2026 14:30:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Strategy Is Buying Back Stock Faster Than It Buys Bitcoin",
+    "link": "https://cryptopanic.com/news/33562540/Strategy-Is-Buying-Back-Stock-Faster-Than-It-Buys-Bitcoin",
+    "source": "coindoo.com",
+    "published": "Sun Oct 18 2026 14:09:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "America's $10 Trillion AI Boom: What Happens When Data Centers Never Get Built?",
+    "link": "https://cryptopanic.com/news/33562531/Americas-10-Trillion-AI-Boom-What-Happens-When-Data-Centers-Never-Get-Built",
+    "source": "coinpaper.com",
+    "published": "Sun Oct 18 2026 14:02:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Anthropic Proposes $1B Loss or 50-Casualty Threshold for Government AI Intervention \n\nAccording to POLITICO, Anthropic has been pitching U.S. lawmakers on an unpublished draft bill for frontier AI safety. The proposal would allow the government to seek restrictions on a model’s",
+    "link": "https://cryptopanic.com/news/33562494/Anthropic-Proposes-1B-Loss-or-50-Casualty-Threshold-for-Government-AI-Intervention-According-to-POLITICO-Anthropic-has-been-pitching-US-lawmakers-on-an-unpublished-draft-bill-for-frontier-AI-safety-The-proposal-would-allow-the-government-to-seek-restrictions-on-a-models",
+    "source": "@wublockchain",
+    "published": "Sun Oct 18 2026 13:36:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "World launches World ID suite for banks, makes Zoom deepfake check generally available",
+    "link": "https://cryptopanic.com/news/33563821/World-launches-World-ID-suite-for-banks-makes-Zoom-deepfake-check-generally-available",
+    "source": "theblock.co",
+    "published": "Mon Oct 19 2026 01:10:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin’s Biggest Buyer Right Now Isn’t Treasury Companies",
+    "link": "https://cryptopanic.com/news/33563818/Bitcoins-Biggest-Buyer-Right-Now-Isnt-Treasury-Companies",
+    "source": "BitcoinMagazine",
+    "published": "Mon Oct 19 2026 01:00:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "French National Assembly narrowly votes to tax crypto-to-stablecoin swaps from 2027",
+    "link": "https://cryptopanic.com/news/33563841/French-National-Assembly-narrowly-votes-to-tax-crypto-to-stablecoin-swaps-from-2027",
+    "source": "cryptodnes.bg",
+    "published": "Mon Oct 19 2026 00:56:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Chainlink buys another $1.1M worth of $LINK for its reserve.\n\n@Chainlink, as has become typical, has added another big purchase to its official reserve.\n\nWith the purchase, the reserve's holdings now stand at 6.29M $LINK, worth $75.5M at time of writing.\n\nSince launching the",
+    "link": "https://cryptopanic.com/news/33563803/Chainlink-buys-another-11M-worth-of-LINK-for-its-reserve-Chainlink-as-has-become-typical-has-added-another-big-purchase-to-its-official-reserve-With-the-purchase-the-reserves-holdings-now-stand-at-629M-LINK-worth-755M-at-time-of-writing-Since-launching-the",
+    "source": "@bscnews",
+    "published": "Mon Oct 19 2026 00:56:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "BIG: Anthropic is putting 5% of its shares into a new Public Benefit Fund, with up to roughly 20% eventually committed to “the public good.”",
     "link": "https://cryptopanic.com/news/33563792/BIG-Anthropic-is-putting-5-of-its-shares-into-a-new-Public-Benefit-Fund-with-up-to-roughly-20-eventually-committed-to-the-public-good",
     "source": "@cointelegraph",
@@ -130,83 +207,6 @@
     "link": "https://cryptopanic.com/news/33563484/Bitcoin-2026-Price-Prediction-Why-Traders-Expect-100K",
     "source": "SimplyBitcoin",
     "published": "Sun Oct 18 2026 22:00:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Analysts Pick One Altcoin Above Bitcoin and Solana, But It's Falling Anyway",
-    "link": "https://cryptopanic.com/news/33563511/Analysts-Pick-One-Altcoin-Above-Bitcoin-and-Solana-But-Its-Falling-Anyway",
-    "source": "beincrypto.com",
-    "published": "Sun Oct 18 2026 22:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Nasdaq 100 fell -5.5% last week as inflation data came in hot and concerns increased around a potential slowdown in AI demand/growth.\n\nUS futures markets will open for the week in 20 minutes and we will see if the selloff continues.\n\nPrepare for volatility.",
-    "link": "https://cryptopanic.com/news/33563460/The-Nasdaq-100-fell-55-last-week-as-inflation-data-came-in-hot-and-concerns-increased-around-a-potential-slowdown-in-AI-demandgrowth-US-futures-markets-will-open-for-the-week-in-20-minutes-and-we-will-see-if-the-selloff-continues-Prepare-for-volatility",
-    "source": "@stackersatoshi",
-    "published": "Sun Oct 18 2026 21:41:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Banks Can Compete With Stablecoins by Paying Savers More",
-    "link": "https://cryptopanic.com/news/33563446/Banks-Can-Compete-With-Stablecoins-by-Paying-Savers-More",
-    "source": "coindoo.com",
-    "published": "Sun Oct 18 2026 21:30:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Bitcoin holders who bought 6 to 12 months ago have almost stopped sending coins to exchanges, dropping from 40.4% of their transfers in June to just 4.4%, per CryptoQuant.",
-    "link": "https://cryptopanic.com/news/33563462/NEW-Bitcoin-holders-who-bought-6-to-12-months-ago-have-almost-stopped-sending-coins-to-exchanges-dropping-from-404-of-their-transfers-in-June-to-just-44-per-CryptoQuant",
-    "source": "@cointelegraph",
-    "published": "Sun Oct 18 2026 21:30:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Legal risks are piling up for AI companies after agents hacked into governments and companies around the world without their developers' knowledge. What legal recourse do we have? Elena Casas explains",
-    "link": "https://cryptopanic.com/news/33563463/Legal-risks-are-piling-up-for-AI-companies-after-agents-hacked-into-governments-and-companies-around-the-world-without-their-developers-knowledge-What-legal-recourse-do-we-have-Elena-Casas-explains",
-    "source": "@reutersbiz",
-    "published": "Sun Oct 18 2026 21:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "So @injective is looking to become a dominant force in the RWA sub-sector - But how to tokenised stocks on $INJ actually work...? ⬇️",
-    "link": "https://cryptopanic.com/news/33563444/So-injective-is-looking-to-become-a-dominant-force-in-the-RWA-sub-sector-But-how-to-tokenised-stocks-on-INJ-actually-work",
-    "source": "@bscnews",
-    "published": "Sun Oct 18 2026 21:27:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cardano Eyes Insanely Bullish Cup-And-Handle Breakout As Hoskinson Teases New Programming Language For ADA",
-    "link": "https://cryptopanic.com/news/33563432/Cardano-Eyes-Insanely-Bullish-Cup-And-Handle-Breakout-As-Hoskinson-Teases-New-Programming-Language-For-ADA",
-    "source": "zycrypto.com",
-    "published": "Sun Oct 18 2026 21:15:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "PwC reveals the EXPLOSIVE growth happening across tokenised assets and stablecoins! 🤯\n\nIn its latest report, the global consulting giant highlights:\n\n 822,000 holders of tokenised assets, up 10X since the end of 2024!\n\n 259 MILLION stablecoin holders, an 83% increase!",
-    "link": "https://cryptopanic.com/news/33563443/PwC-reveals-the-EXPLOSIVE-growth-happening-across-tokenised-assets-and-stablecoins-In-its-latest-report-the-global-consulting-giant-highlights-822000-holders-of-tokenised-assets-up-10X-since-the-end-of-2024-259-MILLION-stablecoin-holders-an-83-increase",
-    "source": "@realallincrypto",
-    "published": "Sun Oct 18 2026 21:00:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why a Valid Bitcoin Address Can Still Be the Wrong Destination",
-    "link": "https://cryptopanic.com/news/33563363/Why-a-Valid-Bitcoin-Address-Can-Still-Be-the-Wrong-Destination",
-    "source": "btcusa.com",
-    "published": "Sun Oct 18 2026 20:48:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: Trump says “Zelenskyy is using Diesel Refineries in Russia as a target, knowing that these attacks are seriously hurting the world diesel markets, including those in the United States.”",
-    "link": "https://cryptopanic.com/news/33563368/INTEL-Trump-says-Zelenskyy-is-using-Diesel-Refineries-in-Russia-as-a-target-knowing-that-these-attacks-are-seriously-hurting-the-world-diesel-markets-including-those-in-the-United-States",
-    "source": "@solidintel_x",
-    "published": "Sun Oct 18 2026 20:47:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BIG: At least 47 major US data center projects have been delayed, scrapped or blocked this year, and Bernstein says only about 35% of the planned pipeline is even credible. Is the AI buildout cracking?",
-    "link": "https://cryptopanic.com/news/33563357/BIG-At-least-47-major-US-data-center-projects-have-been-delayed-scrapped-or-blocked-this-year-and-Bernstein-says-only-about-35-of-the-planned-pipeline-is-even-credible-Is-the-AI-buildout-cracking",
-    "source": "@cointelegraph",
-    "published": "Sun Oct 18 2026 20:30:18 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
