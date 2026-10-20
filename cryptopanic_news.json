@@ -1,5 +1,96 @@
 [
   {
+    "title": "Solana Treasury Gone – SkyAI Bids for 95% of Its Stock",
+    "link": "https://cryptopanic.com/news/33571817/Solana-Treasury-Gone-SkyAI-Bids-for-95-of-Its-Stock",
+    "source": "coindoo.com",
+    "published": "Tue Oct 20 2026 10:15:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Strategy is no longer the top BTC buyer, but whales and stakeholders keep accumulating",
+    "link": "https://cryptopanic.com/news/33571838/Strategy-is-no-longer-the-top-BTC-buyer-but-whales-and-stakeholders-keep-accumulating",
+    "source": "cryptopolitan.com",
+    "published": "Tue Oct 20 2026 10:15:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Altman describes three AI endgames: inspector, merger or melted GPUs",
+    "link": "https://cryptopanic.com/news/33571837/Altman-describes-three-AI-endgames-inspector-merger-or-melted-GPUs",
+    "source": "cryptopolitan.com",
+    "published": "Tue Oct 20 2026 10:12:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BlackRock doubles down on Bitcoin exposure with new BTC ETF",
+    "link": "https://cryptopanic.com/news/33571788/BlackRock-doubles-down-on-Bitcoin-exposure-with-new-BTC-ETF",
+    "source": "finbold.com",
+    "published": "Tue Oct 20 2026 10:09:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Sam Altman’s World Launches New Banking Tools to Fight Deepfakes and AI Fraud",
+    "link": "https://cryptopanic.com/news/33571780/Sam-Altmans-World-Launches-New-Banking-Tools-to-Fight-Deepfakes-and-AI-Fraud",
+    "source": "dailycoin.com",
+    "published": "Tue Oct 20 2026 10:05:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Mt. Gox extends Bitcoin repayment deadline to this date in 2027",
+    "link": "https://cryptopanic.com/news/33571723/Mt-Gox-extends-Bitcoin-repayment-deadline-to-this-date-in-2027",
+    "source": "finbold.com",
+    "published": "Tue Oct 20 2026 10:00:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "AI Job Losses and the Bubble That Could Shake Cities",
+    "link": "https://cryptopanic.com/news/33571791/AI-Job-Losses-and-the-Bubble-That-Could-Shake-Cities",
+    "source": "SimplyBitcoin",
+    "published": "Tue Oct 20 2026 10:00:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Germany's Sparkassen Start Crypto Trading in App With Bitcoin and XRP",
+    "link": "https://cryptopanic.com/news/33571745/Germanys-Sparkassen-Start-Crypto-Trading-in-App-With-Bitcoin-and-XRP",
+    "source": "coinpaprika.com",
+    "published": "Tue Oct 20 2026 10:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "FOMO HOUR ft @Tyler_Did_It and @farokh\n- \n- \n-",
+    "link": "https://cryptopanic.com/news/33571710/FOMO-HOUR-ft-Tyler_Did_It-and-farokh-",
+    "source": "@decryptmedia",
+    "published": "Tue Oct 20 2026 10:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Reports suggest Putin, Trump and Xi could hold a three-way summit.",
+    "link": "https://cryptopanic.com/news/33571711/Reports-suggest-Putin-Trump-and-Xi-could-hold-a-three-way-summit",
+    "source": "@decryptmedia",
+    "published": "Tue Oct 20 2026 10:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Shiba Inu (SHIB) Loses Most Importnat Support For Now",
+    "link": "https://cryptopanic.com/news/33571792/Shiba-Inu-SHIB-Loses-Most-Importnat-Support-For-Now",
+    "source": "u.today",
+    "published": "Tue Oct 20 2026 10:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitget acquires GMO-Z.com Cryptonomics in Thailand expansion push",
+    "link": "https://cryptopanic.com/news/33571786/Bitget-acquires-GMO-Zcom-Cryptonomics-in-Thailand-expansion-push",
+    "source": "cryptopolitan.com",
+    "published": "Tue Oct 20 2026 10:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "German chancellor urges AI adoption as Berlin signs Nvidia deal",
+    "link": "https://cryptopanic.com/news/33571718/German-chancellor-urges-AI-adoption-as-Berlin-signs-Nvidia-deal",
+    "source": "cryptopolitan.com",
+    "published": "Tue Oct 20 2026 09:56:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Sea stock closes 5.65% lower at $88.47 with daily RSI at 28.91",
     "link": "https://cryptopanic.com/news/33571722/Sea-stock-closes-565-lower-at-8847-with-daily-RSI-at-2891",
     "source": "en.cryptonomist.ch",
@@ -49,10 +140,31 @@
     "sentiment": "neutral"
   },
   {
+    "title": "3M stock closes down 1.66% and below all three daily EMAs",
+    "link": "https://cryptopanic.com/news/33571719/3M-stock-closes-down-166-and-below-all-three-daily-EMAs",
+    "source": "en.cryptonomist.ch",
+    "published": "Tue Oct 20 2026 09:42:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Amazon.com stock gains 4.98%, but 15-minute MACD histogram is -0.35",
+    "link": "https://cryptopanic.com/news/33571717/Amazoncom-stock-gains-498-but-15-minute-MACD-histogram-is-035",
+    "source": "en.cryptonomist.ch",
+    "published": "Tue Oct 20 2026 09:42:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "XRP News: Lending Awaits Votes, Cleanup Nears Activation",
     "link": "https://cryptopanic.com/news/33571614/XRP-News-Lending-Awaits-Votes-Cleanup-Nears-Activation",
     "source": "cryptonews.com",
     "published": "Tue Oct 20 2026 09:39:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Meme Coin Named After Charles Hoskinson’s Quinelings Crashes 90%+ Within Hours",
+    "link": "https://cryptopanic.com/news/33571828/Meme-Coin-Named-After-Charles-Hoskinsons-Quinelings-Crashes-90-Within-Hours",
+    "source": "beincrypto.com",
+    "published": "Tue Oct 20 2026 09:38:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -95,118 +207,6 @@
     "link": "https://cryptopanic.com/news/33571513/Netflix-Stock-Plunges-23-as-Layoffs-Raise-Stakes-for-Q3-Earnings",
     "source": "coinpaper.com",
     "published": "Tue Oct 20 2026 09:23:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Oracle and AstraZeneca sign AI deal to speed up clinical trials",
-    "link": "https://cryptopanic.com/news/33571520/Oracle-and-AstraZeneca-sign-AI-deal-to-speed-up-clinical-trials",
-    "source": "cryptopolitan.com",
-    "published": "Tue Oct 20 2026 09:20:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JPMorgan Gives Bitcoin 10% a Year – Then Keeps It Apart",
-    "link": "https://cryptopanic.com/news/33571502/JPMorgan-Gives-Bitcoin-10-a-Year-Then-Keeps-It-Apart",
-    "source": "coindoo.com",
-    "published": "Tue Oct 20 2026 09:18:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple CLO Ends Speculation over What's Next for Stablecoin Regulation",
-    "link": "https://cryptopanic.com/news/33571598/Ripple-CLO-Ends-Speculation-over-Whats-Next-for-Stablecoin-Regulation",
-    "source": "u.today",
-    "published": "Tue Oct 20 2026 09:18:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ICYMI: 🇪🇺 ECB president Christine Lagarde says the digital euro will \"further stimulate innovation and competition in retail payments\" while complementing cash for day-to-day spending.",
-    "link": "https://cryptopanic.com/news/33571675/ICYMI-ECB-president-Christine-Lagarde-says-the-digital-euro-will-further-stimulate-innovation-and-competition-in-retail-payments-while-complementing-cash-for-day-to-day-spending",
-    "source": "@coinmarketcap",
-    "published": "Tue Oct 20 2026 09:17:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "71% of Americans Say Country Is on the Wrong Track as Trump Approval Sinks to Second-Term Low: Poll",
-    "link": "https://cryptopanic.com/news/33571508/71-of-Americans-Say-Country-Is-on-the-Wrong-Track-as-Trump-Approval-Sinks-to-Second-Term-Low-Poll",
-    "source": "dailyhodl.com",
-    "published": "Tue Oct 20 2026 09:15:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "TikTok is driving a GLP-1 supplement boom as influencers promote dietary supplements to users of weight-loss drugs. Here's why doctors and regulators are taking a close look at the supplement industry in the US",
-    "link": "https://cryptopanic.com/news/33571488/TikTok-is-driving-a-GLP-1-supplement-boom-as-influencers-promote-dietary-supplements-to-users-of-weight-loss-drugs-Heres-why-doctors-and-regulators-are-taking-a-close-look-at-the-supplement-industry-in-the-US",
-    "source": "@reutersbiz",
-    "published": "Tue Oct 20 2026 09:15:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Memecoins or $ETH ...?\n\nWe used @ElanInsights professional back-testing tool to compare the performance of @Ethereum against the industry's top-10 memecoins.\n\nThe results were shocking.\n\nTry now: \n\nOver the past six months, the memecoin basket, which",
-    "link": "https://cryptopanic.com/news/33571494/Memecoins-or-ETH-We-used-ElanInsights-professional-back-testing-tool-to-compare-the-performance-of-Ethereum-against-the-industrys-top-10-memecoins-The-results-were-shocking-Try-now-Over-the-past-six-months-the-memecoin-basket-which",
-    "source": "@bscnews",
-    "published": "Tue Oct 20 2026 09:14:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BlackRock Files for 'Buffer' Bitcoin ETF as IBIT Draws $665M in a Day",
-    "link": "https://cryptopanic.com/news/33571496/BlackRock-Files-for-Buffer-Bitcoin-ETF-as-IBIT-Draws-665M-in-a-Day",
-    "source": "decrypt.co",
-    "published": "Tue Oct 20 2026 09:13:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin’s October Swings Netted Only a 2% Loss",
-    "link": "https://cryptopanic.com/news/33571458/Bitcoins-October-Swings-Netted-Only-a-2-Loss",
-    "source": "btcusa.com",
-    "published": "Tue Oct 20 2026 09:09:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto could swallow an entire lending market.\n\nTens of trillions in assets could move onchain. And according to @syrupsid, CEO of @maplefinance we're still early...\n\nIs Wall Street ready for what's coming?\n\n Full interview TODAY at 6:30 PM UK!",
-    "link": "https://cryptopanic.com/news/33571491/Crypto-could-swallow-an-entire-lending-market-Tens-of-trillions-in-assets-could-move-onchain-And-according-to-syrupsid-CEO-of-maplefinance-were-still-early-Is-Wall-Street-ready-for-whats-coming-Full-interview-TODAY-at-630-PM-UK",
-    "source": "@realallincrypto",
-    "published": "Tue Oct 20 2026 09:05:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Giveaway Link",
-    "link": "https://cryptopanic.com/news/33571595/Giveaway-Link",
-    "source": "@cryptokingkeyur",
-    "published": "Tue Oct 20 2026 09:05:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Big Giveaway Announcement for the Community ️",
-    "link": "https://cryptopanic.com/news/33571594/Big-Giveaway-Announcement-for-the-Community",
-    "source": "@cryptokingkeyur",
-    "published": "Tue Oct 20 2026 09:05:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: Revolut reports service disruption affecting multiple services, says customer funds and data are safe",
-    "link": "https://cryptopanic.com/news/33571597/INTEL-Revolut-reports-service-disruption-affecting-multiple-services-says-customer-funds-and-data-are-safe",
-    "source": "@solidintel_x",
-    "published": "Tue Oct 20 2026 09:04:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Digital gold could reach $170B by 2031, up from $45B today, per the World Gold Council.",
-    "link": "https://cryptopanic.com/news/33571487/NEW-Digital-gold-could-reach-170B-by-2031-up-from-45B-today-per-the-World-Gold-Council",
-    "source": "@cointelegraph",
-    "published": "Tue Oct 20 2026 09:02:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The IMF revealed something MASSIVE about tokenised stocks!\n\nOver 87% of overnight price movements on blockchain are reflected in traditional markets when they reopen!\n\nThis is HUGE, tokenised stocks on platforms like @Ondo and @solana are turning blockchain into a 24/7",
-    "link": "https://cryptopanic.com/news/33571490/The-IMF-revealed-something-MASSIVE-about-tokenised-stocks-Over-87-of-overnight-price-movements-on-blockchain-are-reflected-in-traditional-markets-when-they-reopen-This-is-HUGE-tokenised-stocks-on-platforms-like-Ondo-and-solana-are-turning-blockchain-into-a-247",
-    "source": "@realallincrypto",
-    "published": "Tue Oct 20 2026 09:01:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "InterLink Livestreams Are Now Live\n\nInterLink (@inter_link) has launched livestreaming directly inside its app. \n\nThis feature lets users connect with streamers by participating in conversations and sending virtual gifts.\n\nThe streams may consist of anything from ecosystem news,",
-    "link": "https://cryptopanic.com/news/33571493/InterLink-Livestreams-Are-Now-Live-InterLink-inter_link-has-launched-livestreaming-directly-inside-its-app-This-feature-lets-users-connect-with-streamers-by-participating-in-conversations-and-sending-virtual-gifts-The-streams-may-consist-of-anything-from-ecosystem-news",
-    "source": "@bscnews",
-    "published": "Tue Oct 20 2026 09:00:03 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
