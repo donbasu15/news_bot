@@ -1,9 +1,79 @@
 [
   {
+    "title": "Google Cloud outage takes down Revolut, Lloyds, and HSBC",
+    "link": "https://cryptopanic.com/news/33572282/Google-Cloud-outage-takes-down-Revolut-Lloyds-and-HSBC",
+    "source": "protos.com",
+    "published": "Tue Oct 20 2026 11:38:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Solana Alpenglow upgrade to cut finality to 150 milliseconds",
+    "link": "https://cryptopanic.com/news/33572269/Solana-Alpenglow-upgrade-to-cut-finality-to-150-milliseconds",
+    "source": "cryptovalleyjournal.com",
+    "published": "Tue Oct 20 2026 11:32:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Russia cracks down on Tether for cash trading",
+    "link": "https://cryptopanic.com/news/33572295/Russia-cracks-down-on-Tether-for-cash-trading",
+    "source": "cryptopolitan.com",
+    "published": "Tue Oct 20 2026 11:32:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "France's parliament approves vote to hit stablecoin trades with 31% capital gains tax",
+    "link": "https://cryptopanic.com/news/33572291/Frances-parliament-approves-vote-to-hit-stablecoin-trades-with-31-capital-gains-tax",
+    "source": "coindesk.com",
+    "published": "Tue Oct 20 2026 11:25:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Solana validators still aren't ready for the Alpenglow upgrade!\n\nStatistics from @pumpkinspool show that 151 validators hold 20.3% of the network stake, worth 88.9M $SOL, and are not prepared for Solana’s Alpenglow hard upgrade, set for epoch 1064.\n\nDevelopers at @anza_xyz and",
+    "link": "https://cryptopanic.com/news/33572260/Solana-validators-still-arent-ready-for-the-Alpenglow-upgrade-Statistics-from-pumpkinspool-show-that-151-validators-hold-203-of-the-network-stake-worth-889M-SOL-and-are-not-prepared-for-Solanas-Alpenglow-hard-upgrade-set-for-epoch-1064-Developers-at-anza_xyz-and",
+    "source": "@bscnews",
+    "published": "Tue Oct 20 2026 11:21:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: The largest bank in the U.S. JPMorgan is forecasting Bitcoin to outperform every major asset over the next decade.\n\nYou are not bullish enough",
+    "link": "https://cryptopanic.com/news/33572262/JUST-IN-The-largest-bank-in-the-US-JPMorgan-is-forecasting-Bitcoin-to-outperform-every-major-asset-over-the-next-decade-You-are-not-bullish-enough",
+    "source": "@bitcoinmagazine",
+    "published": "Tue Oct 20 2026 11:20:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Visa and Mesh: Spend Crypto at 175M Merchants Without a Dedicated Card",
+    "link": "https://cryptopanic.com/news/33572182/Visa-and-Mesh-Spend-Crypto-at-175M-Merchants-Without-a-Dedicated-Card",
+    "source": "spaziocrypto.com",
+    "published": "Tue Oct 20 2026 11:19:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Analyst says Bitcoin has flashed an ‘extremely rare’ breakout signal",
+    "link": "https://cryptopanic.com/news/33572177/Analyst-says-Bitcoin-has-flashed-an-extremely-rare-breakout-signal",
+    "source": "finbold.com",
+    "published": "Tue Oct 20 2026 11:18:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "FTSE 100 slips as banks weigh; defensive stocks limit decline",
     "link": "https://cryptopanic.com/news/33572161/FTSE-100-slips-as-banks-weigh-defensive-stocks-limit-decline",
     "source": "@reutersbiz",
     "published": "Tue Oct 20 2026 11:15:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Left IBIT's $665M on Read\n\nCrypto ETFs drew $416.7M on Monday after last week's $602M outflow, and all of it came from one fund.\n\n IBIT took in $665.2M, its biggest inflow in over a year, while other BTC ETFs lost $138.5M combined.\n BTC failed to hold $83K,",
+    "link": "https://cryptopanic.com/news/33572373/Bitcoin-Left-IBITs-665M-on-Read-Crypto-ETFs-drew-4167M-on-Monday-after-last-weeks-602M-outflow-and-all-of-it-came-from-one-fund-IBIT-took-in-6652M-its-biggest-inflow-in-over-a-year-while-other-BTC-ETFs-lost-1385M-combined-BTC-failed-to-hold-83K",
+    "source": "@coinmarketcap",
+    "published": "Tue Oct 20 2026 11:15:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Equity weakness could damp demand for bitcoin after biggest ETF inflows in a month",
+    "link": "https://cryptopanic.com/news/33572290/Equity-weakness-could-damp-demand-for-bitcoin-after-biggest-ETF-inflows-in-a-month",
+    "source": "coindesk.com",
+    "published": "Tue Oct 20 2026 11:14:21 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -14,6 +84,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "JUST IN: 🇺🇸 GTA 6 could cost the US economy $1 billion in a single day as up to 1.5 million Americans are expected to take the day off to play.",
+    "link": "https://cryptopanic.com/news/33572263/JUST-IN-GTA-6-could-cost-the-US-economy-1-billion-in-a-single-day-as-up-to-15-million-Americans-are-expected-to-take-the-day-off-to-play",
+    "source": "@watcherguru",
+    "published": "Tue Oct 20 2026 11:11:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "MARKETS: Goldman Sachs’ risk-appetite indicator turns negative for the first time since April as investors sell AI stocks and move into Treasurys, WSJ reports.\n\nWhat could this shift mean for crypto market?",
     "link": "https://cryptopanic.com/news/33572159/MARKETS-Goldman-Sachs-risk-appetite-indicator-turns-negative-for-the-first-time-since-April-as-investors-sell-AI-stocks-and-move-into-Treasurys-WSJ-reports-What-could-this-shift-mean-for-crypto-market",
     "source": "@cointelegraph",
@@ -21,10 +98,45 @@
     "sentiment": "neutral"
   },
   {
+    "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
+    "link": "https://cryptopanic.com/news/33572207/JPMorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade",
+    "source": "coindesk.com",
+    "published": "Tue Oct 20 2026 11:10:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Mastercard Introduces Fraud Screening Before Stablecoin Payments Go On-Chain",
     "link": "https://cryptopanic.com/news/33572120/Mastercard-Introduces-Fraud-Screening-Before-Stablecoin-Payments-Go-On-Chain",
     "source": "newsbtc.com",
     "published": "Tue Oct 20 2026 11:10:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Chinese Stocks Post Record 10-Week Losing Streak Despite 4.5% GDP Growth",
+    "link": "https://cryptopanic.com/news/33572287/Chinese-Stocks-Post-Record-10-Week-Losing-Streak-Despite-45-GDP-Growth",
+    "source": "beincrypto.com",
+    "published": "Tue Oct 20 2026 11:05:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: ️ Bitdeer says it mined 1,355 Bitcoin in September, up 200% YoY, as its self-mining hash rate reached 82.3 EH/s from 35 EH/s a year earlier and co-mining added 28.7 EH/s.",
+    "link": "https://cryptopanic.com/news/33572372/LATEST-Bitdeer-says-it-mined-1355-Bitcoin-in-September-up-200-YoY-as-its-self-mining-hash-rate-reached-823-EHs-from-35-EHs-a-year-earlier-and-co-mining-added-287-EHs",
+    "source": "@coinmarketcap",
+    "published": "Tue Oct 20 2026 11:05:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "PwC and Stellar developed a GLOBAL framework to measure how blockchain can transform financial inclusion! $XLM 🤯\n\nTheir 2023 research assessed financial solutions across Argentina, Colombia, Kenya and the Philippines, finding that blockchain-powered services showed the",
+    "link": "https://cryptopanic.com/news/33572258/PwC-and-Stellar-developed-a-GLOBAL-framework-to-measure-how-blockchain-can-transform-financial-inclusion-XLM-Their-2023-research-assessed-financial-solutions-across-Argentina-Colombia-Kenya-and-the-Philippines-finding-that-blockchain-powered-services-showed-the",
+    "source": "@realallincrypto",
+    "published": "Tue Oct 20 2026 11:02:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Sui is fast becoming the cheapest Layer 1 Blockchain \n\n@SuiNetwork average execution costs fell 23.47% to a new execution fee of $0.0000187 on Monday. \n\nThe protocol hit its lowest execution-cost baseline on the Layer-1 platform in the past seven days.\n\nAccording to @Chainspect",
+    "link": "https://cryptopanic.com/news/33572259/Sui-is-fast-becoming-the-cheapest-Layer-1-Blockchain-SuiNetwork-average-execution-costs-fell-2347-to-a-new-execution-fee-of-00000187-on-Monday-The-protocol-hit-its-lowest-execution-cost-baseline-on-the-Layer-1-platform-in-the-past-seven-days-According-to-Chainspect",
+    "source": "@bscnews",
+    "published": "Tue Oct 20 2026 11:02:41 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -42,10 +154,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Goldman Names 23 Defensive Stocks for Investors Worried About the AI Trade",
+    "link": "https://cryptopanic.com/news/33572286/Goldman-Names-23-Defensive-Stocks-for-Investors-Worried-About-the-AI-Trade",
+    "source": "beincrypto.com",
+    "published": "Tue Oct 20 2026 11:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Mt. Gox Pushes Repayment Deadline to 2027 With $2.8B in Bitcoin Still to Distribute",
     "link": "https://cryptopanic.com/news/33572030/Mt-Gox-Pushes-Repayment-Deadline-to-2027-With-28B-in-Bitcoin-Still-to-Distribute",
     "source": "decrypt.co",
     "published": "Tue Oct 20 2026 10:55:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MoneyGram Makes Another Big Blockchain Move With XDC Network",
+    "link": "https://cryptopanic.com/news/33572285/MoneyGram-Makes-Another-Big-Blockchain-Move-With-XDC-Network",
+    "source": "beincrypto.com",
+    "published": "Tue Oct 20 2026 10:53:23 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -81,132 +207,6 @@
     "link": "https://cryptopanic.com/news/33572011/BlackRock-Drives-527M-Bitcoin-ETF-Rebound-as-Rivals-Lose-Funds",
     "source": "bitcoinalmanack.com",
     "published": "Tue Oct 20 2026 10:40:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SAYLOR: We're definitely moving back to six figures in the next 12 months.",
-    "link": "https://cryptopanic.com/news/33572158/SAYLOR-Were-definitely-moving-back-to-six-figures-in-the-next-12-months",
-    "source": "@cointelegraph",
-    "published": "Tue Oct 20 2026 10:38:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: @Revolut suffers a major Europe-wide outage with 30 services including card payments, crypto, transfers and stock trading partially unavailable, affecting millions of customers across the UK, Ireland, France and Spain.",
-    "link": "https://cryptopanic.com/news/33572153/JUST-IN-Revolut-suffers-a-major-Europe-wide-outage-with-30-services-including-card-payments-crypto-transfers-and-stock-trading-partially-unavailable-affecting-millions-of-customers-across-the-UK-Ireland-France-and-Spain",
-    "source": "@coindesk",
-    "published": "Tue Oct 20 2026 10:32:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Complete breakdown ⤵️",
-    "link": "https://cryptopanic.com/news/33571906/Complete-breakdown",
-    "source": "@cryptoquant_com",
-    "published": "Tue Oct 20 2026 10:30:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP whale outflows hit a 5-year low\n\n“From a long-term perspective, this suggests XRP could lack buying volume without whale support.” – By @Darkfost_Coc",
-    "link": "https://cryptopanic.com/news/33571905/XRP-whale-outflows-hit-a-5-year-low-From-a-long-term-perspective-this-suggests-XRP-could-lack-buying-volume-without-whale-support-By-Darkfost_Coc",
-    "source": "@cryptoquant_com",
-    "published": "Tue Oct 20 2026 10:30:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: ️ Microsoft dropped a planned 50 MW AI data center run by Bitcoin mining spinoff Nscale in Essex after the local grid operator said power may not be available until the 2030s.",
-    "link": "https://cryptopanic.com/news/33571904/LATEST-Microsoft-dropped-a-planned-50-MW-AI-data-center-run-by-Bitcoin-mining-spinoff-Nscale-in-Essex-after-the-local-grid-operator-said-power-may-not-be-available-until-the-2030s",
-    "source": "@coinmarketcap",
-    "published": "Tue Oct 20 2026 10:25:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin drops to $81,400 as Asian chip stocks tumble, options traders seek downside protection",
-    "link": "https://cryptopanic.com/news/33571933/Bitcoin-drops-to-81400-as-Asian-chip-stocks-tumble-options-traders-seek-downside-protection",
-    "source": "coindesk.com",
-    "published": "Tue Oct 20 2026 10:22:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BlackRock Bitcoin ETF Pulls In $665 Million While Rivals Lose Money",
-    "link": "https://cryptopanic.com/news/33571832/BlackRock-Bitcoin-ETF-Pulls-In-665-Million-While-Rivals-Lose-Money",
-    "source": "newsbtc.com",
-    "published": "Tue Oct 20 2026 10:20:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Michael Saylor says Bitcoin is \"definitely\" moving back into \"six figures.\"",
-    "link": "https://cryptopanic.com/news/33572040/JUST-IN-Michael-Saylor-says-Bitcoin-is-definitely-moving-back-into-six-figures",
-    "source": "@watcherguru",
-    "published": "Tue Oct 20 2026 10:17:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Revolut is currently down... \n\nAccording to @Revolut, an ongoing infrastructure outage is preventing payments, balance updates, and digital asset transactions.\n\nThe UK-based digital banking platform issued an official statement confirming that customer funds and personal data are",
-    "link": "https://cryptopanic.com/news/33572008/Revolut-is-currently-down-According-to-Revolut-an-ongoing-infrastructure-outage-is-preventing-payments-balance-updates-and-digital-asset-transactions-The-UK-based-digital-banking-platform-issued-an-official-statement-confirming-that-customer-funds-and-personal-data-are",
-    "source": "@bscnews",
-    "published": "Tue Oct 20 2026 10:17:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana Treasury Gone – SkyAI Bids for 95% of Its Stock",
-    "link": "https://cryptopanic.com/news/33571817/Solana-Treasury-Gone-SkyAI-Bids-for-95-of-Its-Stock",
-    "source": "coindoo.com",
-    "published": "Tue Oct 20 2026 10:15:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Europe's earnings boom widens beyond energy and AI",
-    "link": "https://cryptopanic.com/news/33571911/Europes-earnings-boom-widens-beyond-energy-and-AI",
-    "source": "@reutersbiz",
-    "published": "Tue Oct 20 2026 10:15:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Strategy is no longer the top BTC buyer, but whales and stakeholders keep accumulating",
-    "link": "https://cryptopanic.com/news/33571838/Strategy-is-no-longer-the-top-BTC-buyer-but-whales-and-stakeholders-keep-accumulating",
-    "source": "cryptopolitan.com",
-    "published": "Tue Oct 20 2026 10:15:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "WATCH: OpenAI is racing to secure investor commitments before rival Anthropic's expected public market debut in mid-November, in an unusually fast fundraising that could value the ChatGPT maker at over $1.4 trillion, according to sources",
-    "link": "https://cryptopanic.com/news/33571910/WATCH-OpenAI-is-racing-to-secure-investor-commitments-before-rival-Anthropics-expected-public-market-debut-in-mid-November-in-an-unusually-fast-fundraising-that-could-value-the-ChatGPT-maker-at-over-14-trillion-according-to-sources",
-    "source": "@reutersbiz",
-    "published": "Tue Oct 20 2026 10:15:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Live updates: Market jitters persist as the AI selloff deepens",
-    "link": "https://cryptopanic.com/news/33571932/Live-updates-Market-jitters-persist-as-the-AI-selloff-deepens",
-    "source": "coindesk.com",
-    "published": "Tue Oct 20 2026 10:14:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stock Market Today:  Dow Jones Futures Rise, Nasdaq 100 Falls as Iran Threatens to Target Undersea Cables — SPCX, NFLX, STLD in Focus",
-    "link": "https://cryptopanic.com/news/33571861/Stock-Market-Today-Dow-Jones-Futures-Rise-Nasdaq-100-Falls-as-Iran-Threatens-to-Target-Undersea-Cables-SPCX-NFLX-STLD-in-Focus",
-    "source": "feeds2.benzinga.com",
-    "published": "Tue Oct 20 2026 10:13:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Altman describes three AI endgames: inspector, merger or melted GPUs",
-    "link": "https://cryptopanic.com/news/33571837/Altman-describes-three-AI-endgames-inspector-merger-or-melted-GPUs",
-    "source": "cryptopolitan.com",
-    "published": "Tue Oct 20 2026 10:12:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇹🇭 NEW: Bitget plans to acquire a licensed Thai crypto exchange weeks after a $388M hack.\n\nThe deal would expand its Southeast Asia footprint, subject to regulatory approval.",
-    "link": "https://cryptopanic.com/news/33571907/NEW-Bitget-plans-to-acquire-a-licensed-Thai-crypto-exchange-weeks-after-a-388M-hack-The-deal-would-expand-its-Southeast-Asia-footprint-subject-to-regulatory-approval",
-    "source": "@cointelegraph",
-    "published": "Tue Oct 20 2026 10:09:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BlackRock doubles down on Bitcoin exposure with new BTC ETF",
-    "link": "https://cryptopanic.com/news/33571788/BlackRock-doubles-down-on-Bitcoin-exposure-with-new-BTC-ETF",
-    "source": "finbold.com",
-    "published": "Tue Oct 20 2026 10:09:27 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
