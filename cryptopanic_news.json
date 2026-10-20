@@ -1,5 +1,33 @@
 [
   {
+    "title": "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work",
+    "link": "https://cryptopanic.com/news/33575147/OpenAI-Buys-Orchestra-Bio-to-Put-AI-Agents-in-Charge-of-Drug-Development-Grunt-Work",
+    "source": "@decryptmedia",
+    "published": "Tue Oct 20 2026 21:47:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work",
+    "link": "https://cryptopanic.com/news/33575153/OpenAI-Buys-Orchestra-Bio-to-Put-AI-Agents-in-Charge-of-Drug-Development-Grunt-Work",
+    "source": "decrypt.co",
+    "published": "Tue Oct 20 2026 21:46:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Wrapped ETH arrives on Canton Network as Temple lists BitSafe’s BETH\n\n@temple_ny, a trading platform on @CantonNetwork, has listed BETH, a wrapped version of ETH issued by BitSafe (@BitSafe_Finance). It’s Temple’s first wrapped ETH product, and its BETH-USDCx market lets",
+    "link": "https://cryptopanic.com/news/33575145/Wrapped-ETH-arrives-on-Canton-Network-as-Temple-lists-BitSafes-BETH-temple_ny-a-trading-platform-on-CantonNetwork-has-listed-BETH-a-wrapped-version-of-ETH-issued-by-BitSafe-BitSafe_Finance-Its-Temples-first-wrapped-ETH-product-and-its-BETH-USDCx-market-lets",
+    "source": "@bscnews",
+    "published": "Tue Oct 20 2026 21:44:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  OpenAI is reportedly looking to raise about $30B at a valuation above $1.4T, per Reuters, as it tries to close the round before Anthropic's expected mid-November IPO.",
+    "link": "https://cryptopanic.com/news/33575167/LATEST-OpenAI-is-reportedly-looking-to-raise-about-30B-at-a-valuation-above-14T-per-Reuters-as-it-tries-to-close-the-round-before-Anthropics-expected-mid-November-IPO",
+    "source": "@coinmarketcap",
+    "published": "Tue Oct 20 2026 21:41:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Drift hacker washes $63M through Tornado Cash, leaving recovery claims in limbo",
     "link": "https://cryptopanic.com/news/33575122/Drift-hacker-washes-63M-through-Tornado-Cash-leaving-recovery-claims-in-limbo",
     "source": "cryptoslate.com",
@@ -46,6 +74,13 @@
     "link": "https://cryptopanic.com/news/33575123/SpaceXs-latest-earnings-humble-the-rocket-industry",
     "source": "thestreet.com",
     "published": "Tue Oct 20 2026 21:25:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Elon Musk says SpaceX $SPCX could generate $1 trillion in annual revenue by the end of 2027.",
+    "link": "https://cryptopanic.com/news/33575166/JUST-IN-Elon-Musk-says-SpaceX-SPCX-could-generate-1-trillion-in-annual-revenue-by-the-end-of-2027",
+    "source": "@watcherguru",
+    "published": "Tue Oct 20 2026 21:23:47 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33575098/ANALYSIS-Bitcoin-holders-have-nearly-doubled-the-coins-pledged-to-Morphos-main-Base-lending-market-this-year-backing-a-record-16B-in-loans-without-selling-But-just-how-much-of-a-Bitcoin-drop-could-those-loans-withstand",
     "source": "@coinmarketcap",
     "published": "Tue Oct 20 2026 20:54:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: Arkansas law limiting foreign Bitcoin mining ownership is blocked as U.S. appeals court reviews it.",
-    "link": "https://cryptopanic.com/news/33575050/BREAKING-Arkansas-law-limiting-foreign-Bitcoin-mining-ownership-is-blocked-as-US-appeals-court-reviews-it",
-    "source": "@btc_archive",
-    "published": "Tue Oct 20 2026 20:49:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Unless we see a major surprise from the Fed next week, all eyes will be on Warsh looking for hints as to what the Fed will do at the December FOMC meeting.",
-    "link": "https://cryptopanic.com/news/33575051/Unless-we-see-a-major-surprise-from-the-Fed-next-week-all-eyes-will-be-on-Warsh-looking-for-hints-as-to-what-the-Fed-will-do-at-the-December-FOMC-meeting",
-    "source": "@stackersatoshi",
-    "published": "Tue Oct 20 2026 20:49:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Data: US Crypto Economy Shrinks as Canada’s Market Expands in 2026",
-    "link": "https://cryptopanic.com/news/33574962/Data-US-Crypto-Economy-Shrinks-as-Canadas-Market-Expands-in-2026",
-    "source": "cryptopotato.com",
-    "published": "Tue Oct 20 2026 20:48:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
-    "link": "https://cryptopanic.com/news/33574951/Wallet-Linked-to-Drift-Exploit-Sends-61-Million-in-Ethereum-to-Tornado-Cash",
-    "source": "decrypt.co",
-    "published": "Tue Oct 20 2026 20:46:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Avalanche runs three blockchains at once, and each one has a different job\n\nAvalanche (@avax) splits its main network, called the Primary Network, across the C-Chain, the P-Chain, and the X-Chain.\n\nThe C-Chain is EVM-compatible, so apps built for Ethereum can run there. Since",
-    "link": "https://cryptopanic.com/news/33574973/Avalanche-runs-three-blockchains-at-once-and-each-one-has-a-different-job-Avalanche-avax-splits-its-main-network-called-the-Primary-Network-across-the-C-Chain-the-P-Chain-and-the-X-Chain-The-C-Chain-is-EVM-compatible-so-apps-built-for-Ethereum-can-run-there-Since",
-    "source": "@bscnews",
-    "published": "Tue Oct 20 2026 20:44:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
