@@ -1,5 +1,47 @@
 [
   {
+    "title": "Chevron Earnings Preview: Why Wall Street Expects Profits to Surge 155%",
+    "link": "https://cryptopanic.com/news/33570612/Chevron-Earnings-Preview-Why-Wall-Street-Expects-Profits-to-Surge-155",
+    "source": "coinpaper.com",
+    "published": "Tue Oct 20 2026 05:38:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Short-term holder profit-taking that drove Bitcoin’s biggest exchange inflows in a year and pressured price has now cooled to its yearly average, per @glassnode.",
+    "link": "https://cryptopanic.com/news/33570654/UPDATE-Short-term-holder-profit-taking-that-drove-Bitcoins-biggest-exchange-inflows-in-a-year-and-pressured-price-has-now-cooled-to-its-yearly-average-per-glassnode",
+    "source": "@cointelegraph",
+    "published": "Tue Oct 20 2026 05:31:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Daiwa, Mizuho clear final hurdles to launch China securities units, Bloomberg says",
+    "link": "https://cryptopanic.com/news/33570656/Daiwa-Mizuho-clear-final-hurdles-to-launch-China-securities-units-Bloomberg-says",
+    "source": "@reutersbiz",
+    "published": "Tue Oct 20 2026 05:30:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33570650/Source",
+    "source": "@wublockchain",
+    "published": "Tue Oct 20 2026 05:23:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JPMorgan Sees Bitcoin Outperforming U.S. Stocks and Gold Over Next Decade\n\nJ.P. Morgan Asset Management, the investment arm of U.S. banking giant JPMorgan Chase, included Bitcoin in its long-term return forecasts for the first time, projecting a 10% compound annual return over",
+    "link": "https://cryptopanic.com/news/33570649/JPMorgan-Sees-Bitcoin-Outperforming-US-Stocks-and-Gold-Over-Next-Decade-JP-Morgan-Asset-Management-the-investment-arm-of-US-banking-giant-JPMorgan-Chase-included-Bitcoin-in-its-long-term-return-forecasts-for-the-first-time-projecting-a-10-compound-annual-return-over",
+    "source": "@wublockchain",
+    "published": "Tue Oct 20 2026 05:22:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Volkswagen turned to EV maker Xpeng to help fix its flailing China business. The alliance's first product is selling far below the German automaker's forecasts. More here",
+    "link": "https://cryptopanic.com/news/33570655/Volkswagen-turned-to-EV-maker-Xpeng-to-help-fix-its-flailing-China-business-The-alliances-first-product-is-selling-far-below-the-German-automakers-forecasts-More-here",
+    "source": "@reutersbiz",
+    "published": "Tue Oct 20 2026 05:20:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Elice shares fall 28% in KOSDAQ debut despite heavy IPO demand",
     "link": "https://cryptopanic.com/news/33570474/Elice-shares-fall-28-in-KOSDAQ-debut-despite-heavy-IPO-demand",
     "source": "cryptopolitan.com",
@@ -7,10 +49,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "LATEST:  Zcash developer Zakura has proposed one-time viewing keys so a quantum computer that breaks one posted swap address can't link it to a user's other shielded Zcash payments.",
+    "link": "https://cryptopanic.com/news/33570597/LATEST-Zcash-developer-Zakura-has-proposed-one-time-viewing-keys-so-a-quantum-computer-that-breaks-one-posted-swap-address-cant-link-it-to-a-users-other-shielded-Zcash-payments",
+    "source": "@coinmarketcap",
+    "published": "Tue Oct 20 2026 05:05:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "BlackRock Files For a Bitcoin ETF With Downside Protection\n\nBlackRock (@BlackRock) has filed for the iShares Bitcoin $BTC Managed Protect ETF with the SEC.\n\nThe fund seeks limited upside exposure to IBIT while offering downside protection.\n\nIts flagship IBIT ETF holds more than",
     "link": "https://cryptopanic.com/news/33570554/BlackRock-Files-For-a-Bitcoin-ETF-With-Downside-Protection-BlackRock-BlackRock-has-filed-for-the-iShares-Bitcoin-BTC-Managed-Protect-ETF-with-the-SEC-The-fund-seeks-limited-upside-exposure-to-IBIT-while-offering-downside-protection-Its-flagship-IBIT-ETF-holds-more-than",
     "source": "@bscnews",
     "published": "Tue Oct 20 2026 05:04:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 NOW: Fed officials see the AI boom fueling inflation, but further rate hikes are expected to hit small businesses and consumers harder than deep-pocketed AI giants, per Reuters.",
+    "link": "https://cryptopanic.com/news/33570653/NOW-Fed-officials-see-the-AI-boom-fueling-inflation-but-further-rate-hikes-are-expected-to-hit-small-businesses-and-consumers-harder-than-deep-pocketed-AI-giants-per-Reuters",
+    "source": "@cointelegraph",
+    "published": "Tue Oct 20 2026 05:01:04 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -151,62 +207,6 @@
     "link": "https://cryptopanic.com/news/33570428/Will-You-Retire-With-Dignityor-Get-Replaced-by-Robots",
     "source": "TheCryptoLark",
     "published": "Tue Oct 20 2026 04:00:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Justin Sun: AI and Quantum Risks Make Me More Bearish on Bitcoin Than Before\n\nOn October 16, 2026, Justin Sun @justinsuntron said in an interview with William Joy that advances in AI algorithms and quantum computing risks had made him more bearish on Bitcoin than before. He",
-    "link": "https://cryptopanic.com/news/33570315/Justin-Sun-AI-and-Quantum-Risks-Make-Me-More-Bearish-on-Bitcoin-Than-Before-On-October-16-2026-Justin-Sun-justinsuntron-said-in-an-interview-with-William-Joy-that-advances-in-AI-algorithms-and-quantum-computing-risks-had-made-him-more-bearish-on-Bitcoin-than-before-He",
-    "source": "@wublockchain",
-    "published": "Tue Oct 20 2026 04:00:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Iran Escalates Threat to Target Undersea Cables in Hormuz Strait: ‘All of the World’s Internet and Commercial Data Depend on Them’",
-    "link": "https://cryptopanic.com/news/33570286/Iran-Escalates-Threat-to-Target-Undersea-Cables-in-Hormuz-Strait-All-of-the-Worlds-Internet-and-Commercial-Data-Depend-on-Them",
-    "source": "feeds2.benzinga.com",
-    "published": "Tue Oct 20 2026 03:54:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ UPDATE: Ethereum’s Glamsterdam upgrade will go live on the Hoodi testnet on October 26 alongside a gas limit increase to 200M, with no mainnet date set yet.",
-    "link": "https://cryptopanic.com/news/33570229/UPDATE-Ethereums-Glamsterdam-upgrade-will-go-live-on-the-Hoodi-testnet-on-October-26-alongside-a-gas-limit-increase-to-200M-with-no-mainnet-date-set-yet",
-    "source": "@cointelegraph",
-    "published": "Tue Oct 20 2026 03:45:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum's Glamsterdam Test Has a New Date\n\nEthereum (@ethereum) ethereum:native developers have scheduled the Glamsterdam upgrade for the Hoodi testnet on October 26.\n\nThe activation is set for 17:42:48 UTC. The test will raise Hoodi’s gas limit to 200 million.\n\nGlamsterdam",
-    "link": "https://cryptopanic.com/news/33570230/Ethereums-Glamsterdam-Test-Has-a-New-Date-Ethereum-ethereum-ethereumnative-developers-have-scheduled-the-Glamsterdam-upgrade-for-the-Hoodi-testnet-on-October-26-The-activation-is-set-for-174248-UTC-The-test-will-raise-Hoodis-gas-limit-to-200-million-Glamsterdam",
-    "source": "@bscnews",
-    "published": "Tue Oct 20 2026 03:44:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ICYMI: ️ Mt. Gox's trustee has pushed the creditor repayment deadline back a year to Oct. 31, 2027, with court approval, as many creditors still haven't completed the steps needed to get paid.",
-    "link": "https://cryptopanic.com/news/33570314/ICYMI-Mt-Goxs-trustee-has-pushed-the-creditor-repayment-deadline-back-a-year-to-Oct-31-2027-with-court-approval-as-many-creditors-still-havent-completed-the-steps-needed-to-get-paid",
-    "source": "@coinmarketcap",
-    "published": "Tue Oct 20 2026 03:35:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "OpenAI recorder case tests confidence in US-Saudi AI partnerships",
-    "link": "https://cryptopanic.com/news/33570198/OpenAI-recorder-case-tests-confidence-in-US-Saudi-AI-partnerships",
-    "source": "cryptopolitan.com",
-    "published": "Tue Oct 20 2026 03:33:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Former Google CEO Eric Schmidt reportedly owns about 1% of Anthropic, setting him up for a huge IPO windfall, per Bloomberg.",
-    "link": "https://cryptopanic.com/news/33570228/NEW-Former-Google-CEO-Eric-Schmidt-reportedly-owns-about-1-of-Anthropic-setting-him-up-for-a-huge-IPO-windfall-per-Bloomberg",
-    "source": "@cointelegraph",
-    "published": "Tue Oct 20 2026 03:31:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tron crypto tops Ethereum and Solana combined with $23.41M in revenue",
-    "link": "https://cryptopanic.com/news/33570188/Tron-crypto-tops-Ethereum-and-Solana-combined-with-2341M-in-revenue",
-    "source": "ambcrypto.com",
-    "published": "Tue Oct 20 2026 03:30:36 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
