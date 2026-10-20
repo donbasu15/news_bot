@@ -1,5 +1,33 @@
 [
   {
+    "title": "CoinMarketCap | Market Data \n\nScraping macro market metrics is unstable.\nOne layout change breaks the whole feed.\n\nEvery number on our homepage is an endpoint.\n\n Read total market cap and asset dominances\n Pull Fear and Greed scores for past cycles\n Track the official",
+    "link": "https://cryptopanic.com/news/33573102/CoinMarketCap-Market-Data-Scraping-macro-market-metrics-is-unstable-One-layout-change-breaks-the-whole-feed-Every-number-on-our-homepage-is-an-endpoint-Read-total-market-cap-and-asset-dominances-Pull-Fear-and-Greed-scores-for-past-cycles-Track-the-official",
+    "source": "@coinmarketcap",
+    "published": "Tue Oct 20 2026 13:48:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "️ CoinMarketCap | Privacy Tokens ️\n \n$XMR is up 14.28% in seven days, while 6 of the 8 largest privacy tokens fell.\n \n $ZEC, the largest, fell 5.84%\n $CC fell 14.98% over the same week\n $INJ rose 8.08% the same week\n \nSee every privacy token ranked",
+    "link": "https://cryptopanic.com/news/33573101/CoinMarketCap-Privacy-Tokens-XMR-is-up-1428-in-seven-days-while-6-of-the-8-largest-privacy-tokens-fell-ZEC-the-largest-fell-584-CC-fell-1498-over-the-same-week-INJ-rose-808-the-same-week-See-every-privacy-token-ranked",
+    "source": "@coinmarketcap",
+    "published": "Tue Oct 20 2026 13:45:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "WATCH: From Japan's ambitious space journey to a moon of Mars to Tesla's Roadster taking flight, Francis Maguire rounds up the week's hottest stories in tech",
+    "link": "https://cryptopanic.com/news/33573122/WATCH-From-Japans-ambitious-space-journey-to-a-moon-of-Mars-to-Teslas-Roadster-taking-flight-Francis-Maguire-rounds-up-the-weeks-hottest-stories-in-tech",
+    "source": "@reutersbiz",
+    "published": "Tue Oct 20 2026 13:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "WLFI Price Falls 6% as Trump-Linked USD1 Stablecoin Sees $401M in Redemptions",
+    "link": "https://cryptopanic.com/news/33573091/WLFI-Price-Falls-6-as-Trump-Linked-USD1-Stablecoin-Sees-401M-in-Redemptions",
+    "source": "coinpaper.com",
+    "published": "Tue Oct 20 2026 13:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "AnchorWatch Opens Bitcoin Custody Service With Lloyd’s-Backed Insurance Option",
     "link": "https://cryptopanic.com/news/33573052/AnchorWatch-Opens-Bitcoin-Custody-Service-With-Lloyds-Backed-Insurance-Option",
     "source": "newsbtc.com",
@@ -21,6 +49,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
+    "link": "https://cryptopanic.com/news/33573123/Kazakhstan-court-bars-Coinbase-five-others-from-unlicensed-crypto-services-in-Astana-International-Financial-Centre",
+    "source": "coindesk.com",
+    "published": "Tue Oct 20 2026 13:35:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "AI lists 2 cryptocurrencies to turn $10 into $1,000",
     "link": "https://cryptopanic.com/news/33573035/AI-lists-2-cryptocurrencies-to-turn-10-into-1000",
     "source": "finbold.com",
@@ -39,6 +74,27 @@
     "link": "https://cryptopanic.com/news/33573032/Hyperliquid-Policy-Center-asks-SEC-to-tighten-crypto-rules-on-airdrops-and-buybacks",
     "source": "cryptopolitan.com",
     "published": "Tue Oct 20 2026 13:32:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇨🇭 JUST IN: Switzerland approves its first spot Bitcoin ETF for retail investors, allowing direct $BTC investment under Swiss fund rules.",
+    "link": "https://cryptopanic.com/news/33573121/JUST-IN-Switzerland-approves-its-first-spot-Bitcoin-ETF-for-retail-investors-allowing-direct-BTC-investment-under-Swiss-fund-rules",
+    "source": "@cointelegraph",
+    "published": "Tue Oct 20 2026 13:31:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "12 editions. One place to follow Zcash. Exclusive to CoinDesk.\n\nStart at the new Zcash Hub, home to Zcash Monthly and our long-form research",
+    "link": "https://cryptopanic.com/news/33573120/12-editions-One-place-to-follow-Zcash-Exclusive-to-CoinDesk-Start-at-the-new-Zcash-Hub-home-to-Zcash-Monthly-and-our-long-form-research",
+    "source": "@coindesk",
+    "published": "Tue Oct 20 2026 13:31:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Introducing Zcash Monthly: a new series from CoinDesk Research, in collaboration with GenZcash.\n\nEvery month we’ll cover what just happened across governance, development, privacy usage and markets, with expert input from @GenZcash and the wider @Zcash developer community.",
+    "link": "https://cryptopanic.com/news/33573119/Introducing-Zcash-Monthly-a-new-series-from-CoinDesk-Research-in-collaboration-with-GenZcash-Every-month-well-cover-what-just-happened-across-governance-development-privacy-usage-and-markets-with-expert-input-from-GenZcash-and-the-wider-Zcash-developer-community",
+    "source": "@coindesk",
+    "published": "Tue Oct 20 2026 13:31:01 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -98,6 +154,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33573118/Source",
+    "source": "@wublockchain",
+    "published": "Tue Oct 20 2026 13:26:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST:  The digital gold market could unlock $700B in latent demand, with nearly 9 in 10 investors saying they’d consider it under the right conditions, per a World Gold Council and BCG report.",
     "link": "https://cryptopanic.com/news/33573100/LATEST-The-digital-gold-market-could-unlock-700B-in-latent-demand-with-nearly-9-in-10-investors-saying-theyd-consider-it-under-the-right-conditions-per-a-World-Gold-Council-and-BCG-report",
     "source": "@coinmarketcap",
@@ -109,6 +172,13 @@
     "link": "https://cryptopanic.com/news/33573031/FINMA-approves-Switzerlands-first-retail-BTC-ETF-waiving-diversification-rules-for-Bitcoin-only",
     "source": "cryptopolitan.com",
     "published": "Tue Oct 20 2026 13:25:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitwise: Ethereum Staking Hits Record 43.8M ETH, Accounting for 35.9% of Total Supply, Up for Sixth Consecutive Quarter\n\nBitwise's Q4 2026 Staking Report shows that Ethereum staking reached an all-time high of 43.8 million ETH, representing 35.9% of total supply and marking six",
+    "link": "https://cryptopanic.com/news/33573117/Bitwise-Ethereum-Staking-Hits-Record-438M-ETH-Accounting-for-359-of-Total-Supply-Up-for-Sixth-Consecutive-Quarter-Bitwises-Q4-2026-Staking-Report-shows-that-Ethereum-staking-reached-an-all-time-high-of-438-million-ETH-representing-359-of-total-supply-and-marking-six",
+    "source": "@wublockchain",
+    "published": "Tue Oct 20 2026 13:22:32 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/33572811/Bitcoin-ETFs-Post-Best-Day-In-A-Month",
     "source": "cryptoprowl.com",
     "published": "Tue Oct 20 2026 13:06:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The IMF identified INTEROPERABILITY as a key barrier to global tokenisation!\n\nThis is such a common theme and we know and cover EXACTLY who has been building the solution for YEARS?\n\n$LINK and $QNT!\n\nConnecting fragmented blockchains and traditional financial systems is",
-    "link": "https://cryptopanic.com/news/33573020/The-IMF-identified-INTEROPERABILITY-as-a-key-barrier-to-global-tokenisation-This-is-such-a-common-theme-and-we-know-and-cover-EXACTLY-who-has-been-building-the-solution-for-YEARS-LINK-and-QNT-Connecting-fragmented-blockchains-and-traditional-financial-systems-is",
-    "source": "@realallincrypto",
-    "published": "Tue Oct 20 2026 13:04:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Google Cloud London Outage Knocks Out Revolut, Bank Services",
-    "link": "https://cryptopanic.com/news/33572802/Google-Cloud-London-Outage-Knocks-Out-Revolut-Bank-Services",
-    "source": "dailycoin.com",
-    "published": "Tue Oct 20 2026 13:01:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Joe Lubin sells SharpLink after 94% stock collapse",
-    "link": "https://cryptopanic.com/news/33572799/Joe-Lubin-sells-SharpLink-after-94-stock-collapse",
-    "source": "protos.com",
-    "published": "Tue Oct 20 2026 13:01:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 UPDATE: Trump announces an $8B Harvest Fuel Relief program to help farmers offset rising costs amid global supply disruptions.",
-    "link": "https://cryptopanic.com/news/33572923/UPDATE-Trump-announces-an-8B-Harvest-Fuel-Relief-program-to-help-farmers-offset-rising-costs-amid-global-supply-disruptions",
-    "source": "@cointelegraph",
-    "published": "Tue Oct 20 2026 13:01:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Loses $61B in Market Value Over One Year While Ripple-Backed Evernorth Begins Nasdaq Trading",
-    "link": "https://cryptopanic.com/news/33572795/XRP-Loses-61B-in-Market-Value-Over-One-Year-While-Ripple-Backed-Evernorth-Begins-Nasdaq-Trading",
-    "source": "coinpaper.com",
-    "published": "Tue Oct 20 2026 13:01:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Planning the week? Set Timeframe to Next 7 days to keep the calendar focused.\n\nTry it out",
-    "link": "https://cryptopanic.com/news/33573019/Planning-the-week-Set-Timeframe-to-Next-7-days-to-keep-the-calendar-focused-Try-it-out",
-    "source": "@coinmarketcal",
-    "published": "Tue Oct 20 2026 13:00:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Michael Howell: Governments Will Print Instead of Cutting Spending",
-    "link": "https://cryptopanic.com/news/33572803/Michael-Howell-Governments-Will-Print-Instead-of-Cutting-Spending",
-    "source": "BitcoinMagazine",
-    "published": "Tue Oct 20 2026 13:00:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "How Mastercard and Coinbase target 2 major barriers to stablecoin adoption",
-    "link": "https://cryptopanic.com/news/33572788/How-Mastercard-and-Coinbase-target-2-major-barriers-to-stablecoin-adoption",
-    "source": "ambcrypto.com",
-    "published": "Tue Oct 20 2026 13:00:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Daily Market Overview #CMCAgentHub\n\n🧭 Regime: Headwind Tightening · 58/100\n Defensive research · full coverage, high confidence\n\n CPI heating to 3.72% (Sep) · Fear & Greed 49\n BTC ETF: -$82.4M latest, -$338.7M 3-session\n CMC100 +1.37% 24h on volume $70.50B\n On the",
-    "link": "https://cryptopanic.com/news/33572915/Daily-Market-Overview-CMCAgentHub-Regime-Headwind-Tightening-58100-Defensive-research-full-coverage-high-confidence-CPI-heating-to-372-Sep-Fear-amp-Greed-49-BTC-ETF-824M-latest-3387M-3-session-CMC100-137-24h-on-volume-7050B-On-the",
-    "source": "@coinmarketcap",
-    "published": "Tue Oct 20 2026 13:00:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Blockchain Association Warns GENIUS Act Rules Could Sweep In DeFi Infrastructure",
-    "link": "https://cryptopanic.com/news/33572810/Blockchain-Association-Warns-GENIUS-Act-Rules-Could-Sweep-In-DeFi-Infrastructure",
-    "source": "coinpaprika.com",
-    "published": "Tue Oct 20 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
