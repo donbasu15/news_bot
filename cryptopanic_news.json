@@ -1,5 +1,54 @@
 [
   {
+    "title": "Sea stock closes 5.65% lower at $88.47 with daily RSI at 28.91",
+    "link": "https://cryptopanic.com/news/33571722/Sea-stock-closes-565-lower-at-8847-with-daily-RSI-at-2891",
+    "source": "en.cryptonomist.ch",
+    "published": "Tue Oct 20 2026 09:48:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Transocean stock jumps 4.8% to $5.89, above its upper Bollinger band",
+    "link": "https://cryptopanic.com/news/33571721/Transocean-stock-jumps-48-to-589-above-its-upper-Bollinger-band",
+    "source": "en.cryptonomist.ch",
+    "published": "Tue Oct 20 2026 09:45:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trump Media & Technology Group stock drops 8.01% to $6.43 despite oversold RSI",
+    "link": "https://cryptopanic.com/news/33571720/Trump-Media-Technology-Group-stock-drops-801-to-643-despite-oversold-RSI",
+    "source": "en.cryptonomist.ch",
+    "published": "Tue Oct 20 2026 09:45:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JPMorgan brings JPM Coin to Ethereum",
+    "link": "https://cryptopanic.com/news/33571678/JPMorgan-brings-JPM-Coin-to-Ethereum",
+    "source": "cryptovalleyjournal.com",
+    "published": "Tue Oct 20 2026 09:45:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Daiwa, Mizuho clear final hurdles to launch China securities units, Bloomberg says",
+    "link": "https://cryptopanic.com/news/33571697/Daiwa-Mizuho-clear-final-hurdles-to-launch-China-securities-units-Bloomberg-says",
+    "source": "@reutersbiz",
+    "published": "Tue Oct 20 2026 09:45:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Uniswap Makes History With CME Futures Listing\n\nCME Group began trading Uniswap (@Uniswap) $UNI futures on October 19, making UNI the first DeFi token with futures on the exchange. \n\nThe launch gives traders a regulated way to gain price exposure without holding UNI directly.",
+    "link": "https://cryptopanic.com/news/33571708/Uniswap-Makes-History-With-CME-Futures-Listing-CME-Group-began-trading-Uniswap-Uniswap-UNI-futures-on-October-19-making-UNI-the-first-DeFi-token-with-futures-on-the-exchange-The-launch-gives-traders-a-regulated-way-to-gain-price-exposure-without-holding-UNI-directly",
+    "source": "@bscnews",
+    "published": "Tue Oct 20 2026 09:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEAR slips below $5 despite $5.42m ETF inflow",
+    "link": "https://cryptopanic.com/news/33571694/NEAR-slips-below-5-despite-542m-ETF-inflow",
+    "source": "coinjournal.net",
+    "published": "Tue Oct 20 2026 09:42:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "XRP News: Lending Awaits Votes, Cleanup Nears Activation",
     "link": "https://cryptopanic.com/news/33571614/XRP-News-Lending-Awaits-Votes-Cleanup-Nears-Activation",
     "source": "cryptonews.com",
@@ -18,6 +67,13 @@
     "link": "https://cryptopanic.com/news/33571608/Can-You-Buy-Bitcoin-With-American-Express-Amex",
     "source": "btcusa.com",
     "published": "Tue Oct 20 2026 09:35:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "South Korean IPO plunge deepens AI market jitters as brent tops $111",
+    "link": "https://cryptopanic.com/news/33571686/South-Korean-IPO-plunge-deepens-AI-market-jitters-as-brent-tops-111",
+    "source": "coindesk.com",
+    "published": "Tue Oct 20 2026 09:32:24 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -151,62 +207,6 @@
     "link": "https://cryptopanic.com/news/33571493/InterLink-Livestreams-Are-Now-Live-InterLink-inter_link-has-launched-livestreaming-directly-inside-its-app-This-feature-lets-users-connect-with-streamers-by-participating-in-conversations-and-sending-virtual-gifts-The-streams-may-consist-of-anything-from-ecosystem-news",
     "source": "@bscnews",
     "published": "Tue Oct 20 2026 09:00:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JPMorgan Puts Its Dollar Deposit Token on Ethereum, Beyond Just Base",
-    "link": "https://cryptopanic.com/news/33571408/JPMorgan-Puts-Its-Dollar-Deposit-Token-on-Ethereum-Beyond-Just-Base",
-    "source": "coinpaprika.com",
-    "published": "Tue Oct 20 2026 09:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why Shark Tank's Kevin O'Leary Says Women Entrepreneurs Make Him the Most Money",
-    "link": "https://cryptopanic.com/news/33571607/Why-Shark-Tanks-Kevin-OLeary-Says-Women-Entrepreneurs-Make-Him-the-Most-Money",
-    "source": "beincrypto.com",
-    "published": "Tue Oct 20 2026 09:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tether Iran Dispute: Ardoino Pushes Back Against Senate",
-    "link": "https://cryptopanic.com/news/33571400/Tether-Iran-Dispute-Ardoino-Pushes-Back-Against-Senate",
-    "source": "cryptonews.com",
-    "published": "Tue Oct 20 2026 08:55:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: @Meshpay partners with @Visa to let consumers spend crypto and stablecoin balances at 175M+ merchant locations worldwide.",
-    "link": "https://cryptopanic.com/news/33571485/NEW-Meshpay-partners-with-Visa-to-let-consumers-spend-crypto-and-stablecoin-balances-at-175M-merchant-locations-worldwide",
-    "source": "@coindesk",
-    "published": "Tue Oct 20 2026 08:51:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "It's hard to deny that @NEARProtocol, and @near_intents, have been one of the standout winners of 2026 so far.\n\nThe progress the platform has made in fundamentals has been reflecting in the performance of @Bitwise's spot $NEAR ETF, which has seen net inflows nearly every day",
-    "link": "https://cryptopanic.com/news/33571492/Its-hard-to-deny-that-NEARProtocol-and-near_intents-have-been-one-of-the-standout-winners-of-2026-so-far-The-progress-the-platform-has-made-in-fundamentals-has-been-reflecting-in-the-performance-of-Bitwises-spot-NEAR-ETF-which-has-seen-net-inflows-nearly-every-day",
-    "source": "@bscnews",
-    "published": "Tue Oct 20 2026 08:51:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Rainbow Chart is warning BTC could crash below $60,000 in November",
-    "link": "https://cryptopanic.com/news/33571379/Bitcoin-Rainbow-Chart-is-warning-BTC-could-crash-below-60000-in-November",
-    "source": "finbold.com",
-    "published": "Tue Oct 20 2026 08:47:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  StoneX kept its Buy rating and $57 target on Galaxy Digital, saying the market undervalues its Helios AI data center and gives its crypto operations no value.",
-    "link": "https://cryptopanic.com/news/33571397/LATEST-StoneX-kept-its-Buy-rating-and-57-target-on-Galaxy-Digital-saying-the-market-undervalues-its-Helios-AI-data-center-and-gives-its-crypto-operations-no-value",
-    "source": "@coinmarketcap",
-    "published": "Tue Oct 20 2026 08:41:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Some $SOL ecosystem tokens at interesting levels.\n\nsolana:JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN is one of them, good confluence here around this area, clear invalidation.\n\n$PUMP saw one of the strongest bounces yesterday.\n\nI think if SOL were to start moving, these coins",
-    "link": "https://cryptopanic.com/news/33571489/Some-SOL-ecosystem-tokens-at-interesting-levels-solanaJUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN-is-one-of-them-good-confluence-here-around-this-area-clear-invalidation-PUMP-saw-one-of-the-strongest-bounces-yesterday-I-think-if-SOL-were-to-start-moving-these-coins",
-    "source": "@daancrypto",
-    "published": "Tue Oct 20 2026 08:40:42 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
