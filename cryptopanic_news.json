@@ -1,5 +1,89 @@
 [
   {
+    "title": "Bitcoin Would Be Up Without Its Two Worst October Sessions",
+    "link": "https://cryptopanic.com/news/33570016/Bitcoin-Would-Be-Up-Without-Its-Two-Worst-October-Sessions",
+    "source": "btcusa.com",
+    "published": "Tue Oct 20 2026 02:13:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33570015/Source",
+    "source": "@wublockchain",
+    "published": "Tue Oct 20 2026 02:06:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇩🇪 Germany’s 50M customer Sparkassen network began rolling out crypto trading through its banking app, letting customers buy Bitcoin, Ethereum, XRP, Solana and Polygon.",
+    "link": "https://cryptopanic.com/news/33570014/LATEST-Germanys-50M-customer-Sparkassen-network-began-rolling-out-crypto-trading-through-its-banking-app-letting-customers-buy-Bitcoin-Ethereum-XRP-Solana-and-Polygon",
+    "source": "@coinmarketcap",
+    "published": "Tue Oct 20 2026 02:05:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Nscale and Anthropic looking at second $45 billion compute deal",
+    "link": "https://cryptopanic.com/news/33570023/Nscale-and-Anthropic-looking-at-second-45-billion-compute-deal",
+    "source": "cryptopolitan.com",
+    "published": "Tue Oct 20 2026 02:04:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: Citi Research says Aave could become the go-to layer for financing tokenized assets once they move onchain, calling collateral mobility one of tokenization’s most important use cases.",
+    "link": "https://cryptopanic.com/news/33570018/LATEST-Citi-Research-says-Aave-could-become-the-go-to-layer-for-financing-tokenized-assets-once-they-move-onchain-calling-collateral-mobility-one-of-tokenizations-most-important-use-cases",
+    "source": "@cointelegraph",
+    "published": "Tue Oct 20 2026 02:01:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "China leaves loan rates steady for 17th consecutive month",
+    "link": "https://cryptopanic.com/news/33570019/China-leaves-loan-rates-steady-for-17th-consecutive-month",
+    "source": "@reutersbiz",
+    "published": "Tue Oct 20 2026 02:00:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "AI, Bitcoin, and the Coming Crisis in Big Cities",
+    "link": "https://cryptopanic.com/news/33569997/AI-Bitcoin-and-the-Coming-Crisis-in-Big-Cities",
+    "source": "SimplyBitcoin",
+    "published": "Tue Oct 20 2026 02:00:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SkyAI Abandons Solana Treasury Strategy, Holds $223.8 Million in Cash for Buyback",
+    "link": "https://cryptopanic.com/news/33569984/SkyAI-Abandons-Solana-Treasury-Strategy-Holds-2238-Million-in-Cash-for-Buyback",
+    "source": "cryptoprowl.com",
+    "published": "Tue Oct 20 2026 02:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Banking giant Citi says $AAVE represents one of the most important real-world use cases for tokenized finance.",
+    "link": "https://cryptopanic.com/news/33569953/JUST-IN-Banking-giant-Citi-says-AAVE-represents-one-of-the-most-important-real-world-use-cases-for-tokenized-finance",
+    "source": "@watcherguru",
+    "published": "Tue Oct 20 2026 01:59:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Smart trader 0x35b2 has now made a total profit of $1.04M on @papertrade_xyz!\n\nHe traded only on the first day of launch, generating $10.1B in trading volume and losing $979K, but earned 252M $PAPER tokens.\n\nSince then, he's done nothing but stake his $PAPER, earning enough",
+    "link": "https://cryptopanic.com/news/33569951/Smart-trader-0x35b2-has-now-made-a-total-profit-of-104M-on-papertrade_xyz-He-traded-only-on-the-first-day-of-launch-generating-101B-in-trading-volume-and-losing-979K-but-earned-252M-PAPER-tokens-Since-then-hes-done-nothing-but-stake-his-PAPER-earning-enough",
+    "source": "@lookonchain",
+    "published": "Tue Oct 20 2026 01:57:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "South Korea Meets Top Crypto Exchanges as Ruling-Party Bill Seeks to Push 22% Tax to 2029",
+    "link": "https://cryptopanic.com/news/33569950/South-Korea-Meets-Top-Crypto-Exchanges-as-Ruling-Party-Bill-Seeks-to-Push-22-Tax-to-2029",
+    "source": "www.blockhead.co",
+    "published": "Tue Oct 20 2026 01:57:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tether Says Iran-Linked Stablecoin Volumes Fell 94% as It Rebuts Senate Report",
+    "link": "https://cryptopanic.com/news/33569949/Tether-Says-Iran-Linked-Stablecoin-Volumes-Fell-94-as-It-Rebuts-Senate-Report",
+    "source": "www.blockhead.co",
+    "published": "Tue Oct 20 2026 01:54:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Visa Moves Stablecoin Prefunding for Visa Direct Into Production, With Inyo Global as First Partner",
     "link": "https://cryptopanic.com/news/33569932/Visa-Moves-Stablecoin-Prefunding-for-Visa-Direct-Into-Production-With-Inyo-Global-as-First-Partner",
     "source": "www.blockhead.co",
@@ -18,6 +102,13 @@
     "link": "https://cryptopanic.com/news/33569931/Trump-Hits-31-Lowest-Across-Both-Terms-as-Democrats-Widen-Lead-Over-Republicans-Poll",
     "source": "feeds2.benzinga.com",
     "published": "Tue Oct 20 2026 01:36:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Paying Your Taxes in Crypto: Latvia’s 2027 Plan Explained",
+    "link": "https://cryptopanic.com/news/33569983/Paying-Your-Taxes-in-Crypto-Latvias-2027-Plan-Explained",
+    "source": "cryptodnes.bg",
+    "published": "Tue Oct 20 2026 01:35:53 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -46,6 +137,20 @@
     "link": "https://cryptopanic.com/news/33569925/A-disruptive-new-DEX-just-went-live-The-metricxyz-DEX-launched-in-full-only-days-ago-across-BNBChain-Ethereum-and-RobinhoodCrypto-Chain-Rather-than-adopting-the-traditional-AMM-model-Metric-is-integrated-with-chainlink-data-streams-to-provide-traders-a-better",
     "source": "@bscnews",
     "published": "Tue Oct 20 2026 01:22:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Why Citi Thinks Microsoft Beats Neoclouds in the AI Debt Squeeze",
+    "link": "https://cryptopanic.com/news/33569979/Why-Citi-Thinks-Microsoft-Beats-Neoclouds-in-the-AI-Debt-Squeeze",
+    "source": "beincrypto.com",
+    "published": "Tue Oct 20 2026 01:20:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "KOSPI Falls 3.5% at Open as 2026 Gain Shrinks From 116% to 31%",
+    "link": "https://cryptopanic.com/news/33569978/KOSPI-Falls-35-at-Open-as-2026-Gain-Shrinks-From-116-to-31",
+    "source": "beincrypto.com",
+    "published": "Tue Oct 20 2026 01:13:37 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -102,111 +207,6 @@
     "link": "https://cryptopanic.com/news/33569814/Citi-Australia-CEO-US-Treasuries-Appeal-as-a-Portfolio-Hedge-Is-Fading",
     "source": "square.binance.com",
     "published": "Tue Oct 20 2026 00:54:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AI TRENDS | S&P: Big Tech’s AI-Related Liabilities May Exceed Known Levels, Ratings Unchanged for Now",
-    "link": "https://cryptopanic.com/news/33569813/AI-TRENDS-SP-Big-Techs-AI-Related-Liabilities-May-Exceed-Known-Levels-Ratings-Unchanged-for-Now",
-    "source": "square.binance.com",
-    "published": "Tue Oct 20 2026 00:53:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Robinhood Chain ecosystem is primed to EXPLODE.\n\nPseudonymous crypto trader @CryptoKaleo has highlighted just how well @RobinhoodCrypto's. new chain has performed despite bearish conditions.\n\nFor context, Robinhood Chain's TVL and stablecoin supply are both already above $1B, and",
-    "link": "https://cryptopanic.com/news/33569588/Robinhood-Chain-ecosystem-is-primed-to-EXPLODE-Pseudonymous-crypto-trader-CryptoKaleo-has-highlighted-just-how-well-RobinhoodCryptos-new-chain-has-performed-despite-bearish-conditions-For-context-Robinhood-Chains-TVL-and-stablecoin-supply-are-both-already-above-1B-and",
-    "source": "@bscnews",
-    "published": "Tue Oct 20 2026 00:51:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crude Prices Hold Steady Near Five-Month High as Traders Weigh Iran Threats and Rising Strait Flows",
-    "link": "https://cryptopanic.com/news/33569812/Crude-Prices-Hold-Steady-Near-Five-Month-High-as-Traders-Weigh-Iran-Threats-and-Rising-Strait-Flows",
-    "source": "square.binance.com",
-    "published": "Tue Oct 20 2026 00:47:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The tech-heavy Nasdaq led Wall Street gains as investors returned to the chip sector and other AI-related stocks following recent bruising selloff, while investors waited for key corporate earnings reports. Read more",
-    "link": "https://cryptopanic.com/news/33569587/The-tech-heavy-Nasdaq-led-Wall-Street-gains-as-investors-returned-to-the-chip-sector-and-other-AI-related-stocks-following-recent-bruising-selloff-while-investors-waited-for-key-corporate-earnings-reports-Read-more",
-    "source": "@reutersbiz",
-    "published": "Tue Oct 20 2026 00:45:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Amazon Launches Open-Source TorchNeuron Tool to Ease Shift to Its AI Chips",
-    "link": "https://cryptopanic.com/news/33569811/Amazon-Launches-Open-Source-TorchNeuron-Tool-to-Ease-Shift-to-Its-AI-Chips",
-    "source": "square.binance.com",
-    "published": "Tue Oct 20 2026 00:45:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AI Data API Startup Raises $9 Million in Round Led by General Catalyst",
-    "link": "https://cryptopanic.com/news/33569810/AI-Data-API-Startup-Raises-9-Million-in-Round-Led-by-General-Catalyst",
-    "source": "square.binance.com",
-    "published": "Tue Oct 20 2026 00:44:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Whale Who Bought ETH at $1,647 Sells 12,468 Tokens for $8.99 Million Profit and Turns to Crude Oil Longs",
-    "link": "https://cryptopanic.com/news/33569809/Whale-Who-Bought-ETH-at-1647-Sells-12468-Tokens-for-899-Million-Profit-and-Turns-to-Crude-Oil-Longs",
-    "source": "square.binance.com",
-    "published": "Tue Oct 20 2026 00:43:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  BlackRock has filed with the SEC for the iShares Bitcoin Managed Protect ETF, a fund that would pair upside exposure to IBIT with a level of downside protection for investors.",
-    "link": "https://cryptopanic.com/news/33569576/LATEST-BlackRock-has-filed-with-the-SEC-for-the-iShares-Bitcoin-Managed-Protect-ETF-a-fund-that-would-pair-upside-exposure-to-IBIT-with-a-level-of-downside-protection-for-investors",
-    "source": "@coinmarketcap",
-    "published": "Tue Oct 20 2026 00:39:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Katie Stockton Names 3 Warning Signs That Could Deepen the Stock Selloff",
-    "link": "https://cryptopanic.com/news/33569808/Katie-Stockton-Names-3-Warning-Signs-That-Could-Deepen-the-Stock-Selloff",
-    "source": "square.binance.com",
-    "published": "Tue Oct 20 2026 00:38:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Samsung Electro-Mechanics Signs 360.5 Billion Won Packaging Substrate Supply Contract",
-    "link": "https://cryptopanic.com/news/33569807/Samsung-Electro-Mechanics-Signs-3605-Billion-Won-Packaging-Substrate-Supply-Contract",
-    "source": "square.binance.com",
-    "published": "Tue Oct 20 2026 00:36:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "STOCKS | BHP Copper Output Falls Nearly One-Fifth as Chilean Mine Production Declines",
-    "link": "https://cryptopanic.com/news/33569806/STOCKS-BHP-Copper-Output-Falls-Nearly-One-Fifth-as-Chilean-Mine-Production-Declines",
-    "source": "square.binance.com",
-    "published": "Tue Oct 20 2026 00:35:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Whale Withdraws 774.77 BTC From Robinhood in $63.36 Million Transfer",
-    "link": "https://cryptopanic.com/news/33569805/Whale-Withdraws-77477-BTC-From-Robinhood-in-6336-Million-Transfer",
-    "source": "square.binance.com",
-    "published": "Tue Oct 20 2026 00:34:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ NEW: OpenAI CEO Sam Altman reportedly outlined three possible endgames for safe AI development to employees last week, including one where a single company wipes out its rivals’ GPUs, per The Information.",
-    "link": "https://cryptopanic.com/news/33569585/NEW-OpenAI-CEO-Sam-Altman-reportedly-outlined-three-possible-endgames-for-safe-AI-development-to-employees-last-week-including-one-where-a-single-company-wipes-out-its-rivals-GPUs-per-The-Information",
-    "source": "@cointelegraph",
-    "published": "Tue Oct 20 2026 00:31:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JPMorgan brings JPM Coin to Ethereum to test bank-money settlement",
-    "link": "https://cryptopanic.com/news/33569550/JPMorgan-brings-JPM-Coin-to-Ethereum-to-test-bank-money-settlement",
-    "source": "cryptopolitan.com",
-    "published": "Tue Oct 20 2026 00:30:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "U.S. Blockchain Association Submits GENIUS Act Comments, Seeks Clearer Stablecoin Responsibilities",
-    "link": "https://cryptopanic.com/news/33569804/US-Blockchain-Association-Submits-GENIUS-Act-Comments-Seeks-Clearer-Stablecoin-Responsibilities",
-    "source": "square.binance.com",
-    "published": "Tue Oct 20 2026 00:25:01 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
