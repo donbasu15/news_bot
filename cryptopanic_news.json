@@ -1,5 +1,33 @@
 [
   {
+    "title": "BitGo’s stablecoin service offers regulated issuance, but firms keep review duties",
+    "link": "https://cryptopanic.com/news/33575205/BitGos-stablecoin-service-offers-regulated-issuance-but-firms-keep-review-duties",
+    "source": "en.cryptonomist.ch",
+    "published": "Tue Oct 20 2026 22:03:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Saylor Says Bitcoin Bull Market Is Here, Banks Set to Unlock New Demand",
+    "link": "https://cryptopanic.com/news/33575206/Saylor-Says-Bitcoin-Bull-Market-Is-Here-Banks-Set-to-Unlock-New-Demand",
+    "source": "zycrypto.com",
+    "published": "Tue Oct 20 2026 22:01:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Would you trust an AI agent to trade with your money?",
+    "link": "https://cryptopanic.com/news/33575234/Would-you-trust-an-AI-agent-to-trade-with-your-money",
+    "source": "@cointelegraph",
+    "published": "Tue Oct 20 2026 22:01:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin to beat stocks and gold? JPMorgan’s 10% forecast has a catch",
+    "link": "https://cryptopanic.com/news/33575198/Bitcoin-to-beat-stocks-and-gold-JPMorgans-10-forecast-has-a-catch",
+    "source": "ambcrypto.com",
+    "published": "Tue Oct 20 2026 22:00:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work",
     "link": "https://cryptopanic.com/news/33575147/OpenAI-Buys-Orchestra-Bio-to-Put-AI-Agents-in-Charge-of-Drug-Development-Grunt-Work",
     "source": "@decryptmedia",
@@ -25,6 +53,13 @@
     "link": "https://cryptopanic.com/news/33575167/LATEST-OpenAI-is-reportedly-looking-to-raise-about-30B-at-a-valuation-above-14T-per-Reuters-as-it-tries-to-close-the-round-before-Anthropics-expected-mid-November-IPO",
     "source": "@coinmarketcap",
     "published": "Tue Oct 20 2026 21:41:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ALERT: At least 82 crypto projects have reportedly shut down in 2026 as weak demand, depleted funding, falling revenues and security breaches force closures.",
+    "link": "https://cryptopanic.com/news/33575233/ALERT-At-least-82-crypto-projects-have-reportedly-shut-down-in-2026-as-weak-demand-depleted-funding-falling-revenues-and-security-breaches-force-closures",
+    "source": "@cointelegraph",
+    "published": "Tue Oct 20 2026 21:41:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -105,6 +140,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Aave V4 captures over 53% of DeFi deposits for Coinbase tokenized stocks",
+    "link": "https://cryptopanic.com/news/33575203/Aave-V4-captures-over-53-of-DeFi-deposits-for-Coinbase-tokenized-stocks",
+    "source": "en.cryptonomist.ch",
+    "published": "Tue Oct 20 2026 21:13:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
     "link": "https://cryptopanic.com/news/33575081/US-CFTC-sets-agenda-for-AI-forum-exploring-trading-and-agentic-finance",
     "source": "coindesk.com",
@@ -133,6 +175,20 @@
     "sentiment": "neutral"
   },
   {
+    "title": "J.P. Morgan’s long-term capital assumptions raise 60/40 return forecast to 7.0%",
+    "link": "https://cryptopanic.com/news/33575202/JP-Morgans-long-term-capital-assumptions-raise-6040-return-forecast-to-70",
+    "source": "en.cryptonomist.ch",
+    "published": "Tue Oct 20 2026 21:08:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Mastercard’s agent payments enter early access after nine-payment demo",
+    "link": "https://cryptopanic.com/news/33575200/Mastercards-agent-payments-enter-early-access-after-nine-payment-demo",
+    "source": "en.cryptonomist.ch",
+    "published": "Tue Oct 20 2026 21:08:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "NEW: Michael Saylor tells Charles Schwab the Bitcoin bull market has started \n\n\"It bounced off the week 200 week moving average...we rallied about $20,000 beyond that, so we think we're at the beginning of the next bull run now.\"",
     "link": "https://cryptopanic.com/news/33575049/NEW-Michael-Saylor-tells-Charles-Schwab-the-Bitcoin-bull-market-has-started-It-bounced-off-the-week-200-week-moving-averagewe-rallied-about-20000-beyond-that-so-we-think-were-at-the-beginning-of-the-next-bull-run-now",
     "source": "@bitcoinmagazine",
@@ -151,62 +207,6 @@
     "link": "https://cryptopanic.com/news/33575070/Did-JPMorgan-Just-Signal-Bitcoins-Biggest-Bull-Run",
     "source": "SimplyBitcoin",
     "published": "Tue Oct 20 2026 21:03:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "PwC reveals that a blockchain based repo platform processed nearly $8 TRILLION in transactions in just ONE MONTH! 🤯\n\nIn its latest tokenization report, PwC highlights how major financial institutions are moving beyond experiments into REAL blockchain adoption!\n\nWe're talking",
-    "link": "https://cryptopanic.com/news/33575143/PwC-reveals-that-a-blockchain-based-repo-platform-processed-nearly-8-TRILLION-in-transactions-in-just-ONE-MONTH-In-its-latest-tokenization-report-PwC-highlights-how-major-financial-institutions-are-moving-beyond-experiments-into-REAL-blockchain-adoption-Were-talking",
-    "source": "@realallincrypto",
-    "published": "Tue Oct 20 2026 21:01:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BIG: Ethereum staking hit a record 43.8M $ETH, locking up 35.9% of supply, while 69% of SOL was staked by the end of Q3, Bitwise reports.",
-    "link": "https://cryptopanic.com/news/33575102/BIG-Ethereum-staking-hit-a-record-438M-ETH-locking-up-359-of-supply-while-69-of-SOL-was-staked-by-the-end-of-Q3-Bitwise-reports",
-    "source": "@cointelegraph",
-    "published": "Tue Oct 20 2026 21:01:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "France’s Debt Crisis: Why Currency Devaluation May Follow",
-    "link": "https://cryptopanic.com/news/33575069/Frances-Debt-Crisis-Why-Currency-Devaluation-May-Follow",
-    "source": "SimplyBitcoin",
-    "published": "Tue Oct 20 2026 21:00:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Smart Money That Called Zcash Is Now Buying NEAR",
-    "link": "https://cryptopanic.com/news/33575021/The-Smart-Money-That-Called-Zcash-Is-Now-Buying-NEAR",
-    "source": "TheCryptoLark",
-    "published": "Tue Oct 20 2026 21:00:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Is Just Getting Started, Says Billion Dollar Investor",
-    "link": "https://cryptopanic.com/news/33575026/Bitcoin-Is-Just-Getting-Started-Says-Billion-Dollar-Investor",
-    "source": "AnthonyPompliano",
-    "published": "Tue Oct 20 2026 21:00:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INSIGHT: @Citi expects a negative bitcoin yield for @Strategy in 2026 after it built a cash reserve and sold $BTC at unfavorable prices.\n\nThe key question now is how $MSTR restarts yield generation in 2027.",
-    "link": "https://cryptopanic.com/news/33575101/INSIGHT-Citi-expects-a-negative-bitcoin-yield-for-Strategy-in-2026-after-it-built-a-cash-reserve-and-sold-BTC-at-unfavorable-prices-The-key-question-now-is-how-MSTR-restarts-yield-generation-in-2027",
-    "source": "@coindesk",
-    "published": "Tue Oct 20 2026 20:59:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Daily #Cardano $ADA News! ️\n\nStrike: \"Building A Behemoth.\"\n\nCharles: \"Pogun—1,000x More Efficient Than BitVM.\"",
-    "link": "https://cryptopanic.com/news/33575100/Daily-Cardano-ADA-News-Strike-Building-A-Behemoth-Charles-Pogun1000x-More-Efficient-Than-BitVM",
-    "source": "@angrycryptoshow",
-    "published": "Tue Oct 20 2026 20:56:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ANALYSIS:  Bitcoin holders have nearly doubled the coins pledged to Morpho’s main Base lending market this year, backing a record $1.6B in loans without selling.\n\nBut just how much of a Bitcoin drop could those loans withstand?",
-    "link": "https://cryptopanic.com/news/33575098/ANALYSIS-Bitcoin-holders-have-nearly-doubled-the-coins-pledged-to-Morphos-main-Base-lending-market-this-year-backing-a-record-16B-in-loans-without-selling-But-just-how-much-of-a-Bitcoin-drop-could-those-loans-withstand",
-    "source": "@coinmarketcap",
-    "published": "Tue Oct 20 2026 20:54:01 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
