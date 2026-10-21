@@ -1,5 +1,40 @@
 [
   {
+    "title": "Fearless Wallet extension leaked Polkadot users’ private keys for 20 months",
+    "link": "https://cryptopanic.com/news/33581361/Fearless-Wallet-extension-leaked-Polkadot-users-private-keys-for-20-months",
+    "source": "cryptopolitan.com",
+    "published": "Wed Oct 21 2026 21:49:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Glassnode says Bitcoin's $87,700 level is acting as resistance because investors who bought in late 2025 are underwater and selling at breakeven.",
+    "link": "https://cryptopanic.com/news/33581358/LATEST-Glassnode-says-Bitcoins-87700-level-is-acting-as-resistance-because-investors-who-bought-in-late-2025-are-underwater-and-selling-at-breakeven",
+    "source": "@coinmarketcap",
+    "published": "Wed Oct 21 2026 21:47:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INSIGHT: Grok says #Cardano $ADA Founder Charles Hoskinson's ideas are \"a few light-years ahead.\"",
+    "link": "https://cryptopanic.com/news/33581359/INSIGHT-Grok-says-Cardano-ADA-Founder-Charles-Hoskinsons-ideas-are-a-few-light-years-ahead",
+    "source": "@angrycryptoshow",
+    "published": "Wed Oct 21 2026 21:45:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Breakingviews - COMMENTARY: GSK is two shots away from clean bill of health",
+    "link": "https://cryptopanic.com/news/33581366/Breakingviews-COMMENTARY-GSK-is-two-shots-away-from-clean-bill-of-health",
+    "source": "@reutersbiz",
+    "published": "Wed Oct 21 2026 21:45:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Solana switches on Alpenglow, built to settle trades in a blink\n\nAlpenglow, a new consensus protocol built by Anza (@anza_xyz), went live on @solana mainnet today, replacing the TowerBFT system the $SOL network has run since launch. Anza says it is designed to cut finality from",
+    "link": "https://cryptopanic.com/news/33581368/Solana-switches-on-Alpenglow-built-to-settle-trades-in-a-blink-Alpenglow-a-new-consensus-protocol-built-by-Anza-anza_xyz-went-live-on-solana-mainnet-today-replacing-the-TowerBFT-system-the-SOL-network-has-run-since-launch-Anza-says-it-is-designed-to-cut-finality-from",
+    "source": "@bscnews",
+    "published": "Wed Oct 21 2026 21:44:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Ken Griffin Says AI Is 'Almost Certainly' in a Bubble—And Compares GPUs to Airline Seats",
     "link": "https://cryptopanic.com/news/33581320/Ken-Griffin-Says-AI-Is-Almost-Certainly-in-a-BubbleAnd-Compares-GPUs-to-Airline-Seats",
     "source": "decrypt.co",
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33581261/EARNINGS-Tesla-reports-mixed-third-quarter-results-with-revenue-of-2805-billion-missing-expectations-while-earnings-per-share-of-048-beat-forecasts-The-company-continues-to-hold-11509-BTC-worth-roughly-1-billion-TSLA-shares-are-up-15-in-after-hours-trading",
     "source": "@coindesk",
     "published": "Wed Oct 21 2026 20:36:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "PHP Critical Flaws CVE-2026-109618 and CVE-2026-109619: Patch Now",
-    "link": "https://cryptopanic.com/news/33581102/PHP-Critical-Flaws-CVE-2026-109618-and-CVE-2026-109619-Patch-Now",
-    "source": "spaziocrypto.com",
-    "published": "Wed Oct 21 2026 20:35:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Elon Musk says SpaceX could reach a $500B to $1T annual recurring revenue run rate by 2027.",
-    "link": "https://cryptopanic.com/news/33581175/LATEST-Elon-Musk-says-SpaceX-could-reach-a-500B-to-1T-annual-recurring-revenue-run-rate-by-2027",
-    "source": "@coinmarketcap",
-    "published": "Wed Oct 21 2026 20:35:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Judge cuts Meta’s $219 billion Cambridge Analytica penalty to $25 billion",
-    "link": "https://cryptopanic.com/news/33581111/Judge-cuts-Metas-219-billion-Cambridge-Analytica-penalty-to-25-billion",
-    "source": "cryptopolitan.com",
-    "published": "Wed Oct 21 2026 20:35:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Sank After the Past Two Midterms. Here's Why This Time May Be Different",
-    "link": "https://cryptopanic.com/news/33581163/Bitcoin-Sank-After-the-Past-Two-Midterms-Heres-Why-This-Time-May-Be-Different",
-    "source": "feeds2.benzinga.com",
-    "published": "Wed Oct 21 2026 20:33:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "If you could only pick one for the next 10yrs, which would it be: $BTC or $NVDA?",
-    "link": "https://cryptopanic.com/news/33581104/If-you-could-only-pick-one-for-the-next-10yrs-which-would-it-be-BTC-or-NVDA",
-    "source": "MilkRoadYoutube",
-    "published": "Wed Oct 21 2026 20:30:34 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
