@@ -1,5 +1,19 @@
 [
   {
+    "title": "PHP rushes fix for 14-year-old bug a day early after leak",
+    "link": "https://cryptopanic.com/news/33581516/PHP-rushes-fix-for-14-year-old-bug-a-day-early-after-leak",
+    "source": "cryptopolitan.com",
+    "published": "Wed Oct 21 2026 22:48:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trump targets overseas crypto scams as Americans lose billions",
+    "link": "https://cryptopanic.com/news/33581515/Trump-targets-overseas-crypto-scams-as-Americans-lose-billions",
+    "source": "cryptopolitan.com",
+    "published": "Wed Oct 21 2026 22:47:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin Breaks $84K as ETFs Pull In $550M in Two Days",
     "link": "https://cryptopanic.com/news/33581008/Bitcoin-Breaks-84K-as-ETFs-Pull-In-550M-in-Two-Days",
     "source": "BTCSessions",
@@ -11,6 +25,13 @@
     "link": "https://cryptopanic.com/news/33581479/Daily-Cardano-ADA-News-Midnight-To-Unlock-Private-TRON-Grok-CharlesLight-Years-Ahead",
     "source": "@angrycryptoshow",
     "published": "Wed Oct 21 2026 22:24:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  CertiK warns crypto bots and exchange apps may stay exposed to the eMudhra certificate flaw, as Google, Apple, and Microsoft's blocks don't always reach software outside browsers.",
+    "link": "https://cryptopanic.com/news/33581523/LATEST-CertiK-warns-crypto-bots-and-exchange-apps-may-stay-exposed-to-the-eMudhra-certificate-flaw-as-Google-Apple-and-Microsofts-blocks-dont-always-reach-software-outside-browsers",
+    "source": "@coinmarketcap",
+    "published": "Wed Oct 21 2026 22:23:02 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -186,27 +207,6 @@
     "link": "https://cryptopanic.com/news/33581357/LATEST-UK-bank-customers-filed-10092-complaints-in-90-days-over-blocked-or-restricted-transfers-to-crypto-exchanges-according-to-a-new-report-from-advocacy-group-Stand-With-Crypto",
     "source": "@coinmarketcap",
     "published": "Wed Oct 21 2026 21:11:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BULLISH: $META beats Q3 2026 revenue forecasts with $64.6 billion.",
-    "link": "https://cryptopanic.com/news/33581266/BULLISH-META-beats-Q3-2026-revenue-forecasts-with-646-billion",
-    "source": "@cointelegraph",
-    "published": "Wed Oct 21 2026 21:10:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto.com’s stock trading gives eligible EEA users 24/7 access to META and SpaceX",
-    "link": "https://cryptopanic.com/news/33581402/Cryptocoms-stock-trading-gives-eligible-EEA-users-247-access-to-META-and-SpaceX",
-    "source": "en.cryptonomist.ch",
-    "published": "Wed Oct 21 2026 21:10:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tesla’s Optimus production starts as quarterly profit falls 43%",
-    "link": "https://cryptopanic.com/news/33581401/Teslas-Optimus-production-starts-as-quarterly-profit-falls-43",
-    "source": "en.cryptonomist.ch",
-    "published": "Wed Oct 21 2026 21:09:21 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
