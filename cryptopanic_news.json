@@ -1,5 +1,82 @@
 [
   {
+    "title": "Ethereum Price Disappoints: Bitmine Fails to Offset ETF Exodus",
+    "link": "https://cryptopanic.com/news/33578693/Ethereum-Price-Disappoints-Bitmine-Fails-to-Offset-ETF-Exodus",
+    "source": "cryptonews.com",
+    "published": "Wed Oct 21 2026 12:01:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Dogecoin Labs Launches to Expand DOGE Payments, DeFi, Real-World Adoption",
+    "link": "https://cryptopanic.com/news/33578754/Dogecoin-Labs-Launches-to-Expand-DOGE-Payments-DeFi-Real-World-Adoption",
+    "source": "feeds2.benzinga.com",
+    "published": "Wed Oct 21 2026 12:00:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ondo Tokenized Instruments has grown by 100%\n\nOn-chain data shows that @Ondo Finance tokenized instruments reached 166,723 active addresses over the last 30-day period, a 100.16% increase from 83,295 active addresses three months ago. \n\nFast network penetration ensures Ondo’s",
+    "link": "https://cryptopanic.com/news/33578752/Ondo-Tokenized-Instruments-has-grown-by-100-On-chain-data-shows-that-Ondo-Finance-tokenized-instruments-reached-166723-active-addresses-over-the-last-30-day-period-a-10016-increase-from-83295-active-addresses-three-months-ago-Fast-network-penetration-ensures-Ondos",
+    "source": "@bscnews",
+    "published": "Wed Oct 21 2026 12:00:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Jeff Walton on Where Bitcoin’s Next Wave of Capital Is Coming From",
+    "link": "https://cryptopanic.com/news/33578698/Jeff-Walton-on-Where-Bitcoins-Next-Wave-of-Capital-Is-Coming-From",
+    "source": "BitcoinMagazine",
+    "published": "Wed Oct 21 2026 12:00:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Dogecoin Labs launches as DOGE ecosystem seeks growth beyond meme-driven demand",
+    "link": "https://cryptopanic.com/news/33578652/Dogecoin-Labs-launches-as-DOGE-ecosystem-seeks-growth-beyond-meme-driven-demand",
+    "source": "theblock.co",
+    "published": "Wed Oct 21 2026 12:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Dogecoin wallet, app teams unite in push to give DOGE more everyday uses",
+    "link": "https://cryptopanic.com/news/33578756/Dogecoin-wallet-app-teams-unite-in-push-to-give-DOGE-more-everyday-uses",
+    "source": "coindesk.com",
+    "published": "Wed Oct 21 2026 12:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Anthropic’s Amodei answers critic’s nine charges with nine costly safety decisions",
+    "link": "https://cryptopanic.com/news/33578700/Anthropics-Amodei-answers-critics-nine-charges-with-nine-costly-safety-decisions",
+    "source": "cryptopolitan.com",
+    "published": "Wed Oct 21 2026 11:59:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: BSCN has received an on-chain payout through @JoobEscrow, demonstrating how Web3 deals can be settled without either party having to trust the other.\n\nThe campaign payment was secured in an audited smart contract on BNB Chain before work began, then released upon",
+    "link": "https://cryptopanic.com/news/33578750/JUST-IN-BSCN-has-received-an-on-chain-payout-through-JoobEscrow-demonstrating-how-Web3-deals-can-be-settled-without-either-party-having-to-trust-the-other-The-campaign-payment-was-secured-in-an-audited-smart-contract-on-BNB-Chain-before-work-began-then-released-upon",
+    "source": "@bscnews",
+    "published": "Wed Oct 21 2026 11:55:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin volatility nears 2026 lows as traders brace for Fed decision and US midterms",
+    "link": "https://cryptopanic.com/news/33578637/Bitcoin-volatility-nears-2026-lows-as-traders-brace-for-Fed-decision-and-US-midterms",
+    "source": "theblock.co",
+    "published": "Wed Oct 21 2026 11:55:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "OCC Finalizes GENIUS Act Stablecoin Rules Ahead of January Deadline",
+    "link": "https://cryptopanic.com/news/33578632/OCC-Finalizes-GENIUS-Act-Stablecoin-Rules-Ahead-of-January-Deadline",
+    "source": "decrypt.co",
+    "published": "Wed Oct 21 2026 11:52:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trending Privacy Coins XMR, VVV, and PHA on the Run: Can They Keep Pumping?",
+    "link": "https://cryptopanic.com/news/33578636/Trending-Privacy-Coins-XMR-VVV-and-PHA-on-the-Run-Can-They-Keep-Pumping",
+    "source": "cryptopotato.com",
+    "published": "Wed Oct 21 2026 11:51:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "PUMP vs FOMO: Can Signing $40M TRUMP Trader Kimchi Help Pump.fun Win the Launchpad War?",
     "link": "https://cryptopanic.com/news/33578646/PUMP-vs-FOMO-Can-Signing-40M-TRUMP-Trader-Kimchi-Help-Pumpfun-Win-the-Launchpad-War",
     "source": "coinspeaker.com",
@@ -11,6 +88,13 @@
     "link": "https://cryptopanic.com/news/33578634/Ether-ETFs-lose-108B-in-October-2026s-biggest-monthly-outflow",
     "source": "cryptopolitan.com",
     "published": "Wed Oct 21 2026 11:50:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "US OCC Finalizes GENIUS Act Standards, Abandoning Proposed Ban On Stablecoin Yield Rewards\n\nThe Office of the Comptroller of the Currency (@USOCC) has finalized its statutory rulebook under the GENIUS Act. \n\nThe USOCC has dropped its previously drafted prohibition on stablecoin",
+    "link": "https://cryptopanic.com/news/33578749/US-OCC-Finalizes-GENIUS-Act-Standards-Abandoning-Proposed-Ban-On-Stablecoin-Yield-Rewards-The-Office-of-the-Comptroller-of-the-Currency-USOCC-has-finalized-its-statutory-rulebook-under-the-GENIUS-Act-The-USOCC-has-dropped-its-previously-drafted-prohibition-on-stablecoin",
+    "source": "@bscnews",
+    "published": "Wed Oct 21 2026 11:46:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -123,90 +207,6 @@
     "link": "https://cryptopanic.com/news/33578438/ICYMI-BNB-Chain-completed-the-37th-quarterly-BNB-burn-this-week-removing-165M-BNB-worth-about-12B-and-leaving-the-total-supply-at-roughly-1315M-BNB-getting-closer-to-its-100M-target",
     "source": "@coinmarketcap",
     "published": "Wed Oct 21 2026 11:05:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: @evernorthxrp's SEC filing reveals $XRP fell 40% between its merger signing and closing, eliminating adjustment share bonuses for early investors, while clearing the company to raise up to $132M through warrant exercises.",
-    "link": "https://cryptopanic.com/news/33578440/NEW-evernorthxrps-SEC-filing-reveals-XRP-fell-40-between-its-merger-signing-and-closing-eliminating-adjustment-share-bonuses-for-early-investors-while-clearing-the-company-to-raise-up-to-132M-through-warrant-exercises",
-    "source": "@coindesk",
-    "published": "Wed Oct 21 2026 11:04:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ZachXBT: FreedomXMR on Hyperliquid is the new exploit laundering venue",
-    "link": "https://cryptopanic.com/news/33578390/ZachXBT-FreedomXMR-on-Hyperliquid-is-the-new-exploit-laundering-venue",
-    "source": "cryptopolitan.com",
-    "published": "Wed Oct 21 2026 11:04:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$SOL Held up well all things considered and looks good to me.\n\nWant to see this slowly grind back to the local highs, from there it should accelerate.\n\nHigh timeframe invalidation remains clear below the green zone so I like the R/R.\n\nvs ETH it has been roughly stable over the",
-    "link": "https://cryptopanic.com/news/33578524/SOL-Held-up-well-all-things-considered-and-looks-good-to-me-Want-to-see-this-slowly-grind-back-to-the-local-highs-from-there-it-should-accelerate-High-timeframe-invalidation-remains-clear-below-the-green-zone-so-I-like-the-RR-vs-ETH-it-has-been-roughly-stable-over-the",
-    "source": "@daancrypto",
-    "published": "Wed Oct 21 2026 11:03:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "A major European think tank highlights the ECB’s Project Pontes as a key initiative connecting TOKENISED financial markets to central bank money! $QNT\n\nAnd remember, @quantnetwork was selected as a pioneer partner in the ECB’s Digital Euro project!\n\nThe report highlights",
-    "link": "https://cryptopanic.com/news/33578527/A-major-European-think-tank-highlights-the-ECBs-Project-Pontes-as-a-key-initiative-connecting-TOKENISED-financial-markets-to-central-bank-money-QNT-And-remember-quantnetwork-was-selected-as-a-pioneer-partner-in-the-ECBs-Digital-Euro-project-The-report-highlights",
-    "source": "@realallincrypto",
-    "published": "Wed Oct 21 2026 11:02:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "TODAY: Solana’s Alpenglow upgrade is scheduled to activate at 13:20 UTC, targeting 150ms finality, down from 12.8 seconds.",
-    "link": "https://cryptopanic.com/news/33578441/TODAY-Solanas-Alpenglow-upgrade-is-scheduled-to-activate-at-1320-UTC-targeting-150ms-finality-down-from-128-seconds",
-    "source": "@cointelegraph",
-    "published": "Wed Oct 21 2026 11:01:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "First out the gate: OCC debuts final rule implementing Trump-signed GENIUS Act",
-    "link": "https://cryptopanic.com/news/33578364/First-out-the-gate-OCC-debuts-final-rule-implementing-Trump-signed-GENIUS-Act",
-    "source": "theblock.co",
-    "published": "Wed Oct 21 2026 11:01:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Zcash has one shot at $1,350 as ETF inflows return – Or it’s back to $1,040",
-    "link": "https://cryptopanic.com/news/33578358/Zcash-has-one-shot-at-1350-as-ETF-inflows-return-Or-its-back-to-1040",
-    "source": "ambcrypto.com",
-    "published": "Wed Oct 21 2026 11:00:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stellar Advances Quantum Plans With Bell Upgrade: Potential Scenarios for XLM Price",
-    "link": "https://cryptopanic.com/news/33578482/Stellar-Advances-Quantum-Plans-With-Bell-Upgrade-Potential-Scenarios-for-XLM-Price",
-    "source": "u.today",
-    "published": "Wed Oct 21 2026 11:00:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BlackRock Alone Lifted Bitcoin ETFs to Their Biggest Day in a Month",
-    "link": "https://cryptopanic.com/news/33578387/BlackRock-Alone-Lifted-Bitcoin-ETFs-to-Their-Biggest-Day-in-a-Month",
-    "source": "coinpaprika.com",
-    "published": "Wed Oct 21 2026 11:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Switzerland Approves First Spot Bitcoin ETF for Retail Investors After Bending Its Rules",
-    "link": "https://cryptopanic.com/news/33578466/Switzerland-Approves-First-Spot-Bitcoin-ETF-for-Retail-Investors-After-Bending-Its-Rules",
-    "source": "beincrypto.com",
-    "published": "Wed Oct 21 2026 11:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban",
-    "link": "https://cryptopanic.com/news/33578443/OCCs-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-GENIUS-Act-ban",
-    "source": "coindesk.com",
-    "published": "Wed Oct 21 2026 11:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BitGo launches innovation unit to design crypto’s next breakout application",
-    "link": "https://cryptopanic.com/news/33578322/BitGo-launches-innovation-unit-to-design-cryptos-next-breakout-application",
-    "source": "theblock.co",
-    "published": "Wed Oct 21 2026 11:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
