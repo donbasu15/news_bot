@@ -1,9 +1,114 @@
 [
   {
+    "title": "Stock market investors are now more nervous than crypto investors, data shows",
+    "link": "https://cryptopanic.com/news/33578381/Stock-market-investors-are-now-more-nervous-than-crypto-investors-data-shows",
+    "source": "finbold.com",
+    "published": "Wed Oct 21 2026 11:08:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cardano Whales Stay Quiet as ADA’s Chart Flashes a Sell Signal",
+    "link": "https://cryptopanic.com/news/33578392/Cardano-Whales-Stay-Quiet-as-ADAs-Chart-Flashes-a-Sell-Signal",
+    "source": "cryptopotato.com",
+    "published": "Wed Oct 21 2026 11:05:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ICYMI:  BNB Chain completed the 37th quarterly BNB burn this week, removing 1.65M BNB worth about $1.2B and leaving the total supply at roughly 131.5M BNB, getting closer to its 100M target.",
+    "link": "https://cryptopanic.com/news/33578438/ICYMI-BNB-Chain-completed-the-37th-quarterly-BNB-burn-this-week-removing-165M-BNB-worth-about-12B-and-leaving-the-total-supply-at-roughly-1315M-BNB-getting-closer-to-its-100M-target",
+    "source": "@coinmarketcap",
+    "published": "Wed Oct 21 2026 11:05:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: @evernorthxrp's SEC filing reveals $XRP fell 40% between its merger signing and closing, eliminating adjustment share bonuses for early investors, while clearing the company to raise up to $132M through warrant exercises.",
+    "link": "https://cryptopanic.com/news/33578440/NEW-evernorthxrps-SEC-filing-reveals-XRP-fell-40-between-its-merger-signing-and-closing-eliminating-adjustment-share-bonuses-for-early-investors-while-clearing-the-company-to-raise-up-to-132M-through-warrant-exercises",
+    "source": "@coindesk",
+    "published": "Wed Oct 21 2026 11:04:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ZachXBT: FreedomXMR on Hyperliquid is the new exploit laundering venue",
+    "link": "https://cryptopanic.com/news/33578390/ZachXBT-FreedomXMR-on-Hyperliquid-is-the-new-exploit-laundering-venue",
+    "source": "cryptopolitan.com",
+    "published": "Wed Oct 21 2026 11:04:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "TODAY: Solana’s Alpenglow upgrade is scheduled to activate at 13:20 UTC, targeting 150ms finality, down from 12.8 seconds.",
+    "link": "https://cryptopanic.com/news/33578441/TODAY-Solanas-Alpenglow-upgrade-is-scheduled-to-activate-at-1320-UTC-targeting-150ms-finality-down-from-128-seconds",
+    "source": "@cointelegraph",
+    "published": "Wed Oct 21 2026 11:01:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "First out the gate: OCC debuts final rule implementing Trump-signed GENIUS Act",
+    "link": "https://cryptopanic.com/news/33578364/First-out-the-gate-OCC-debuts-final-rule-implementing-Trump-signed-GENIUS-Act",
+    "source": "theblock.co",
+    "published": "Wed Oct 21 2026 11:01:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Zcash has one shot at $1,350 as ETF inflows return – Or it’s back to $1,040",
+    "link": "https://cryptopanic.com/news/33578358/Zcash-has-one-shot-at-1350-as-ETF-inflows-return-Or-its-back-to-1040",
+    "source": "ambcrypto.com",
+    "published": "Wed Oct 21 2026 11:00:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BlackRock Alone Lifted Bitcoin ETFs to Their Biggest Day in a Month",
+    "link": "https://cryptopanic.com/news/33578387/BlackRock-Alone-Lifted-Bitcoin-ETFs-to-Their-Biggest-Day-in-a-Month",
+    "source": "coinpaprika.com",
+    "published": "Wed Oct 21 2026 11:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban",
+    "link": "https://cryptopanic.com/news/33578443/OCCs-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-GENIUS-Act-ban",
+    "source": "coindesk.com",
+    "published": "Wed Oct 21 2026 11:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Switzerland Approves First Spot Bitcoin ETF for Retail Investors After Bending Its Rules",
+    "link": "https://cryptopanic.com/news/33578466/Switzerland-Approves-First-Spot-Bitcoin-ETF-for-Retail-Investors-After-Bending-Its-Rules",
+    "source": "beincrypto.com",
+    "published": "Wed Oct 21 2026 11:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BitGo launches innovation unit to design crypto’s next breakout application",
+    "link": "https://cryptopanic.com/news/33578322/BitGo-launches-innovation-unit-to-design-cryptos-next-breakout-application",
+    "source": "theblock.co",
+    "published": "Wed Oct 21 2026 11:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Gate Releases Latest Proof of Reserves Report: Total Reserves Rise to $8.688B, Overall Reserve Ratio Reaches 118.49%",
+    "link": "https://cryptopanic.com/news/33578464/Gate-Releases-Latest-Proof-of-Reserves-Report-Total-Reserves-Rise-to-8688B-Overall-Reserve-Ratio-Reaches-11849",
+    "source": "beincrypto.com",
+    "published": "Wed Oct 21 2026 10:59:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Inside AMD and Anthropic’s ‘chips for shares’ deal",
+    "link": "https://cryptopanic.com/news/33578293/Inside-AMD-and-Anthropics-chips-for-shares-deal",
+    "source": "protos.com",
+    "published": "Wed Oct 21 2026 10:52:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Binance will reprice stock-token collateral even when Wall Street is closed",
     "link": "https://cryptopanic.com/news/33578292/Binance-will-reprice-stock-token-collateral-even-when-Wall-Street-is-closed",
     "source": "cryptoslate.com",
     "published": "Wed Oct 21 2026 10:50:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Is the AI Agent Economy Really Booming? 6.4M Payments Tell a Different Story",
+    "link": "https://cryptopanic.com/news/33578461/Is-the-AI-Agent-Economy-Really-Booming-64M-Payments-Tell-a-Different-Story",
+    "source": "beincrypto.com",
+    "published": "Wed Oct 21 2026 10:47:45 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -102,111 +207,6 @@
     "link": "https://cryptopanic.com/news/33578178/LATEST-SpaceX-reported-Q3-revenue-of-146-billion-up-161-YoY-and-net-income-of-44-billion-led-by-its-Super-Intelligence-segment",
     "source": "@coinmarketcap",
     "published": "Wed Oct 21 2026 10:25:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Meta AI Predicts Wild PI Network Binance Price for 2027",
-    "link": "https://cryptopanic.com/news/33578232/Meta-AI-Predicts-Wild-PI-Network-Binance-Price-for-2027",
-    "source": "99bitcoins.com",
-    "published": "Wed Oct 21 2026 10:20:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 President Trump to announce crackdown on crypto scams targeting Americans.",
-    "link": "https://cryptopanic.com/news/33578313/JUST-IN-President-Trump-to-announce-crackdown-on-crypto-scams-targeting-Americans",
-    "source": "@watcherguru",
-    "published": "Wed Oct 21 2026 10:18:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "THORChain has now made over $50 MILLION for its partners.\n\nIt certainly pays to integrate @THORChain's cross-chain functionality.\n\nMultiple DeFi platforms have now earned an incredible $50+ million combined from THORChain's partner integration program, which shares revenue with",
-    "link": "https://cryptopanic.com/news/33578280/THORChain-has-now-made-over-50-MILLION-for-its-partners-It-certainly-pays-to-integrate-THORChains-cross-chain-functionality-Multiple-DeFi-platforms-have-now-earned-an-incredible-50-million-combined-from-THORChains-partner-integration-program-which-shares-revenue-with",
-    "source": "@bscnews",
-    "published": "Wed Oct 21 2026 10:17:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: NVIDIA’s Jensen Huang unveils OpenShell architecture to set limits on AI agents and stop them from crossing boundaries.",
-    "link": "https://cryptopanic.com/news/33578276/JUST-IN-NVIDIAs-Jensen-Huang-unveils-OpenShell-architecture-to-set-limits-on-AI-agents-and-stop-them-from-crossing-boundaries",
-    "source": "@cointelegraph",
-    "published": "Wed Oct 21 2026 10:11:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Doctor Profit Warns of a Very Big Monero (XMR) Liquidation Event",
-    "link": "https://cryptopanic.com/news/33578213/Doctor-Profit-Warns-of-a-Very-Big-Monero-XMR-Liquidation-Event",
-    "source": "beincrypto.com",
-    "published": "Wed Oct 21 2026 10:11:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Zcash Enters Top 10 as BTC and ETH Lag",
-    "link": "https://cryptopanic.com/news/33578050/Zcash-Enters-Top-10-as-BTC-and-ETH-Lag",
-    "source": "dailycoin.com",
-    "published": "Wed Oct 21 2026 10:08:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Pearl Crypto Price Explodes: Coinbase Buzz Fuels Mystery Rally",
-    "link": "https://cryptopanic.com/news/33578046/Pearl-Crypto-Price-Explodes-Coinbase-Buzz-Fuels-Mystery-Rally",
-    "source": "cryptonews.com",
-    "published": "Wed Oct 21 2026 10:06:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Goldman Sachs is now the largest holder of Solana ETFs as confidence grows",
-    "link": "https://cryptopanic.com/news/33578047/Goldman-Sachs-is-now-the-largest-holder-of-Solana-ETFs-as-confidence-grows",
-    "source": "en.cryptonomist.ch",
-    "published": "Wed Oct 21 2026 10:03:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stock Market Today: S&P 500, Nasdaq 100 Futures Gains as Iran Prolongs US Talks Ahead of Midterms — NFLX, SPCX, SMCI in Focus",
-    "link": "https://cryptopanic.com/news/33578104/Stock-Market-Today-SP-500-Nasdaq-100-Futures-Gains-as-Iran-Prolongs-US-Talks-Ahead-of-Midterms-NFLX-SPCX-SMCI-in-Focus",
-    "source": "feeds2.benzinga.com",
-    "published": "Wed Oct 21 2026 10:03:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Irish Drug Dealer Bitcoin Fortune Moves Again After a Decade\n\nA Bitcoin wallet linked to convicted Irish drug dealer Clifton Collins has reportedly sent 500 $BTC to Coinbase Prime (@coinbase), after nearly a decade.\n\nLookonchain valued the transfer at $41.52 million. Collins",
-    "link": "https://cryptopanic.com/news/33578279/Irish-Drug-Dealer-Bitcoin-Fortune-Moves-Again-After-a-Decade-A-Bitcoin-wallet-linked-to-convicted-Irish-drug-dealer-Clifton-Collins-has-reportedly-sent-500-BTC-to-Coinbase-Prime-coinbase-after-nearly-a-decade-Lookonchain-valued-the-transfer-at-4152-million-Collins",
-    "source": "@bscnews",
-    "published": "Wed Oct 21 2026 10:01:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "my watchlist just got longer. again.",
-    "link": "https://cryptopanic.com/news/33578176/my-watchlist-just-got-longer-again",
-    "source": "@coinmarketcap",
-    "published": "Wed Oct 21 2026 10:00:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitget Advances Institutional RWA Strategy Super Match Liquidity Framework",
-    "link": "https://cryptopanic.com/news/33578212/Bitget-Advances-Institutional-RWA-Strategy-Super-Match-Liquidity-Framework",
-    "source": "beincrypto.com",
-    "published": "Wed Oct 21 2026 10:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitget opens brokerage stock transfers into rTokens as it builds Super Match liquidity layer",
-    "link": "https://cryptopanic.com/news/33577974/Bitget-opens-brokerage-stock-transfers-into-rTokens-as-it-builds-Super-Match-liquidity-layer",
-    "source": "cryptopolitan.com",
-    "published": "Wed Oct 21 2026 10:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Is Bitcoin on the Verge of a Deeper Correction? The S&P 500 May Hold the Answer",
-    "link": "https://cryptopanic.com/news/33578211/Is-Bitcoin-on-the-Verge-of-a-Deeper-Correction-The-SP-500-May-Hold-the-Answer",
-    "source": "beincrypto.com",
-    "published": "Wed Oct 21 2026 10:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Drift Protocol exploiter, who stole over $270M, deposited another 24,885 $ETH($61.3M) into #TornadoCash and still holds 56,569 $ETH ($139.3M).",
-    "link": "https://cryptopanic.com/news/33578094/The-Drift-Protocol-exploiter-who-stole-over-270M-deposited-another-24885-ETH613M-into-TornadoCash-and-still-holds-56569-ETH-1393M",
-    "source": "@lookonchain",
-    "published": "Wed Oct 21 2026 09:57:59 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
