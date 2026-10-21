@@ -1,5 +1,82 @@
 [
   {
+    "title": "Stock Market Today: Nasdaq Rises as SpaceX Gains 11%, Super Micro Jumps 12% and Netflix Falls",
+    "link": "https://cryptopanic.com/news/33579743/Stock-Market-Today-Nasdaq-Rises-as-SpaceX-Gains-11-Super-Micro-Jumps-12-and-Netflix-Falls",
+    "source": "coinpaper.com",
+    "published": "Wed Oct 21 2026 15:14:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: $2,500 $ETH",
+    "link": "https://cryptopanic.com/news/33579741/JUST-IN-2500-ETH",
+    "source": "@watcherguru",
+    "published": "Wed Oct 21 2026 15:13:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Grayscale expands in-kind subscriptions to 10 crypto ETFs and trusts",
+    "link": "https://cryptopanic.com/news/33579684/Grayscale-expands-in-kind-subscriptions-to-10-crypto-ETFs-and-trusts",
+    "source": "theblock.co",
+    "published": "Wed Oct 21 2026 15:12:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Zebec Buybacks hit a new milestone\n\n@Zebec_HQ Network completes the automated buyback of 40,536,539 $ZBCN in Q3 2026, using roughly $100,000 in cash flow to remove tokens from circulation.\n\nOnchain data shows the purchased tokens have been put away for good and will no longer",
+    "link": "https://cryptopanic.com/news/33579739/Zebec-Buybacks-hit-a-new-milestone-Zebec_HQ-Network-completes-the-automated-buyback-of-40536539-ZBCN-in-Q3-2026-using-roughly-100000-in-cash-flow-to-remove-tokens-from-circulation-Onchain-data-shows-the-purchased-tokens-have-been-put-away-for-good-and-will-no-longer",
+    "source": "@bscnews",
+    "published": "Wed Oct 21 2026 15:11:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Saudi Oil Exports Reach Five-Month High Even as Production Falls to 6.24M Barrels Daily",
+    "link": "https://cryptopanic.com/news/33579682/Saudi-Oil-Exports-Reach-Five-Month-High-Even-as-Production-Falls-to-624M-Barrels-Daily",
+    "source": "coinpaper.com",
+    "published": "Wed Oct 21 2026 15:10:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
+    "link": "https://cryptopanic.com/news/33579745/Crypto-Long-Short-Why-real-world-assets-need-fixed-rate-loans-onchain",
+    "source": "coindesk.com",
+    "published": "Wed Oct 21 2026 15:00:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "PENDLE jumps 15% after a record daily trading volume of $158M: Is $2.8 next?",
+    "link": "https://cryptopanic.com/news/33579658/PENDLE-jumps-15-after-a-record-daily-trading-volume-of-158M-Is-28-next",
+    "source": "ambcrypto.com",
+    "published": "Wed Oct 21 2026 15:00:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JPMorgan, Long a Bitcoin Skeptic, Forecasts It Will Top Stocks and Gold",
+    "link": "https://cryptopanic.com/news/33579620/JPMorgan-Long-a-Bitcoin-Skeptic-Forecasts-It-Will-Top-Stocks-and-Gold",
+    "source": "coinpaprika.com",
+    "published": "Wed Oct 21 2026 15:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Mysterious traders buy millions ahead of Trump's White House event",
+    "link": "https://cryptopanic.com/news/33579685/Mysterious-traders-buy-millions-ahead-of-Trumps-White-House-event",
+    "source": "thestreet.com",
+    "published": "Wed Oct 21 2026 14:54:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoins Bottomed. Stick to the plan bitcoin:native",
+    "link": "https://cryptopanic.com/news/33579599/Bitcoins-Bottomed-Stick-to-the-plan-bitcoinnative",
+    "source": "@realallincrypto",
+    "published": "Wed Oct 21 2026 14:53:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The BTC 60-day cycle low aka Loukas cycle low is in / confirmed on a day 73 low. This puts us on day 6 of a new 60-day cycle.\n\nNow is the lowest risk buy time for crypto in Q4. FYI. Just make sure to have stops on, especially the riskier the altcoin is or the less time you want",
+    "link": "https://cryptopanic.com/news/33579742/The-BTC-60-day-cycle-low-aka-Loukas-cycle-low-is-in-confirmed-on-a-day-73-low-This-puts-us-on-day-6-of-a-new-60-day-cycle-Now-is-the-lowest-risk-buy-time-for-crypto-in-Q4-FYI-Just-make-sure-to-have-stops-on-especially-the-riskier-the-altcoin-is-or-the-less-time-you-want",
+    "source": "@cultivatecrypto",
+    "published": "Wed Oct 21 2026 14:53:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Thyssenkrupp to spin off materials trading division on October 28",
     "link": "https://cryptopanic.com/news/33579598/Thyssenkrupp-to-spin-off-materials-trading-division-on-October-28",
     "source": "@reutersbiz",
@@ -21,6 +98,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Polkadot reveals security breach across Wallet Extension\n\n@Polkadot Technical Fellowship raised a security alert for its community.\n\nThe team stated that the third-party Fearless Wallet browser extension was compromised and has been leaking users' private keys since February",
+    "link": "https://cryptopanic.com/news/33579738/Polkadot-reveals-security-breach-across-Wallet-Extension-Polkadot-Technical-Fellowship-raised-a-security-alert-for-its-community-The-team-stated-that-the-third-party-Fearless-Wallet-browser-extension-was-compromised-and-has-been-leaking-users-private-keys-since-February",
+    "source": "@bscnews",
+    "published": "Wed Oct 21 2026 14:43:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "ALERT: PHP developers patch two critical vulnerabilities in software used by roughly 75% of websites with identifiable programming languages.\n\nWebsite operators advised to update as soon as possible.",
     "link": "https://cryptopanic.com/news/33579597/ALERT-PHP-developers-patch-two-critical-vulnerabilities-in-software-used-by-roughly-75-of-websites-with-identifiable-programming-languages-Website-operators-advised-to-update-as-soon-as-possible",
     "source": "@cointelegraph",
@@ -39,6 +123,13 @@
     "link": "https://cryptopanic.com/news/33579583/Bitcoin-Taps-84000-but-Its-MSTR-Thats-Massively-Undervalued-Samson-Mow-Argues",
     "source": "feeds2.benzinga.com",
     "published": "Wed Oct 21 2026 14:38:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Oct 21 Update:\n\n#Bitcoin ETFs:\n1D NetFlow: -403 $BTC(-$33.88M)\n7D NetFlow: +2,528 $BTC(+$212.31M)🟢\n\n#Ethereum ETFs:\n1D NetFlow: -12,688 $ETH(-$31.42M)\n7D NetFlow: -155,122 $ETH(-$384.13M)",
+    "link": "https://cryptopanic.com/news/33579740/Oct-21-Update-Bitcoin-ETFs-1D-NetFlow-403-BTC-3388M-7D-NetFlow-2528-BTC21231M-Ethereum-ETFs-1D-NetFlow-12688-ETH-3142M-7D-NetFlow-155122-ETH-38413M",
+    "source": "@lookonchain",
+    "published": "Wed Oct 21 2026 14:37:43 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -116,97 +207,6 @@
     "link": "https://cryptopanic.com/news/33579433/Ethereum-Staking-Hits-Record-High",
     "source": "cryptoprowl.com",
     "published": "Wed Oct 21 2026 14:27:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Zcash Upgrade Will Triple Payment Speeds",
-    "link": "https://cryptopanic.com/news/33579432/Zcash-Upgrade-Will-Triple-Payment-Speeds",
-    "source": "cryptoprowl.com",
-    "published": "Wed Oct 21 2026 14:26:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: JPMorgan more than doubles its SpaceX $SPCX price target from $240 to $500.",
-    "link": "https://cryptopanic.com/news/33579564/JUST-IN-JPMorgan-more-than-doubles-its-SpaceX-SPCX-price-target-from-240-to-500",
-    "source": "@watcherguru",
-    "published": "Wed Oct 21 2026 14:24:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Anza’s Alpenglow goes live on Solana, cutting finality to 150 milliseconds",
-    "link": "https://cryptopanic.com/news/33579430/Anzas-Alpenglow-goes-live-on-Solana-cutting-finality-to-150-milliseconds",
-    "source": "theblock.co",
-    "published": "Wed Oct 21 2026 14:24:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
-    "link": "https://cryptopanic.com/news/33579423/Solana-Alpenglow-Goes-Live-in-Most-Ambitious-Upgrade-Since-Ethereums-Merge",
-    "source": "decrypt.co",
-    "published": "Wed Oct 21 2026 14:24:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "A SpaceX And Tesla Merger Would Consolidate 30,000 Bitcoin",
-    "link": "https://cryptopanic.com/news/33579431/A-SpaceX-And-Tesla-Merger-Would-Consolidate-30000-Bitcoin",
-    "source": "cryptoprowl.com",
-    "published": "Wed Oct 21 2026 14:24:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Bitcoin positive returns have been driven by Asia trading hours. — Galaxy Digital.",
-    "link": "https://cryptopanic.com/news/33579566/JUST-IN-Bitcoin-positive-returns-have-been-driven-by-Asia-trading-hours-Galaxy-Digital",
-    "source": "@btc_archive",
-    "published": "Wed Oct 21 2026 14:23:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana’s new engine settles payments in 150 milliseconds",
-    "link": "https://cryptopanic.com/news/33579519/Solanas-new-engine-settles-payments-in-150-milliseconds",
-    "source": "thestreet.com",
-    "published": "Wed Oct 21 2026 14:17:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SEC to Resume French Asset-Manager Application Reviews After AMF Deal",
-    "link": "https://cryptopanic.com/news/33579403/SEC-to-Resume-French-Asset-Manager-Application-Reviews-After-AMF-Deal",
-    "source": "btcusa.com",
-    "published": "Wed Oct 21 2026 14:17:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Supply of assets is not the constraint as private credit alone runs to roughly $2 trillion, before the far larger Treasury, money-market, and investment-grade universes the reserve also uses. \n\nEven the bull case is well under 1% of private credit. Stablecoin adoption is the",
-    "link": "https://cryptopanic.com/news/33579392/Supply-of-assets-is-not-the-constraint-as-private-credit-alone-runs-to-roughly-2-trillion-before-the-far-larger-Treasury-money-market-and-investment-grade-universes-the-reserve-also-uses-Even-the-bull-case-is-well-under-1-of-private-credit-Stablecoin-adoption-is-the",
-    "source": "@coindesk",
-    "published": "Wed Oct 21 2026 14:14:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "On those inputs the bucket reaches roughly $1.2B, $4.0B, or $10.8B over three years in the bear, base, and bull cases. \n\nTwo rotations compound in its favour at once, so even holding the total market flat nearly doubles it. The downside is slower growth, not contraction.",
-    "link": "https://cryptopanic.com/news/33579393/On-those-inputs-the-bucket-reaches-roughly-12B-40B-or-108B-over-three-years-in-the-bear-base-and-bull-cases-Two-rotations-compound-in-its-favour-at-once-so-even-holding-the-total-market-flat-nearly-doubles-it-The-downside-is-slower-growth-not-contraction",
-    "source": "@coindesk",
-    "published": "Wed Oct 21 2026 14:14:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CoinDesk Research set every assumption below what the market has already done. Total supply growth is modeled below its ~37% two-year CAGR. \n\nThe productive share, which nearly quadrupled to 2.6%, is assumed to keep rising but more slowly. No case relies on growth",
-    "link": "https://cryptopanic.com/news/33579391/CoinDesk-Research-set-every-assumption-below-what-the-market-has-already-done-Total-supply-growth-is-modeled-below-its-37-two-year-CAGR-The-productive-share-which-nearly-quadrupled-to-26-is-assumed-to-keep-rising-but-more-slowly-No-case-relies-on-growth",
-    "source": "@coindesk",
-    "published": "Wed Oct 21 2026 14:14:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "RESEARCH: The addressable market for diversified real-world-yield stablecoins, the segment @realfi_co is building $USDrf in, sits at roughly $654M today. \n\nIts size is a function of three variables: total stablecoin supply, the productive share of that supply, and the diversified",
-    "link": "https://cryptopanic.com/news/33579390/RESEARCH-The-addressable-market-for-diversified-real-world-yield-stablecoins-the-segment-realfi_co-is-building-USDrf-in-sits-at-roughly-654M-today-Its-size-is-a-function-of-three-variables-total-stablecoin-supply-the-productive-share-of-that-supply-and-the-diversified",
-    "source": "@coindesk",
-    "published": "Wed Oct 21 2026 14:14:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Fed decision make-or-break for Bitcoin’s Q4, Nexo data suggests",
-    "link": "https://cryptopanic.com/news/33579396/Fed-decision-make-or-break-for-Bitcoins-Q4-Nexo-data-suggests",
-    "source": "finbold.com",
-    "published": "Wed Oct 21 2026 14:14:25 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
