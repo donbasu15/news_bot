@@ -1,9 +1,58 @@
 [
   {
+    "title": "Thyssenkrupp to spin off materials trading division on October 28",
+    "link": "https://cryptopanic.com/news/33579598/Thyssenkrupp-to-spin-off-materials-trading-division-on-October-28",
+    "source": "@reutersbiz",
+    "published": "Wed Oct 21 2026 14:45:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  US spot Bitcoin ETFs logged a second straight day of inflows on Tuesday with $23.2M, bringing their two-day haul to $549.8M.",
+    "link": "https://cryptopanic.com/news/33579572/LATEST-US-spot-Bitcoin-ETFs-logged-a-second-straight-day-of-inflows-on-Tuesday-with-232M-bringing-their-two-day-haul-to-5498M",
+    "source": "@coinmarketcap",
+    "published": "Wed Oct 21 2026 14:45:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SpaceX Stock Surges 15% Toward $163 as JPMorgan Doubles Price Target to $500",
+    "link": "https://cryptopanic.com/news/33579525/SpaceX-Stock-Surges-15-Toward-163-as-JPMorgan-Doubles-Price-Target-to-500",
+    "source": "coinpaper.com",
+    "published": "Wed Oct 21 2026 14:43:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ALERT: PHP developers patch two critical vulnerabilities in software used by roughly 75% of websites with identifiable programming languages.\n\nWebsite operators advised to update as soon as possible.",
+    "link": "https://cryptopanic.com/news/33579597/ALERT-PHP-developers-patch-two-critical-vulnerabilities-in-software-used-by-roughly-75-of-websites-with-identifiable-programming-languages-Website-operators-advised-to-update-as-soon-as-possible",
+    "source": "@cointelegraph",
+    "published": "Wed Oct 21 2026 14:42:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INSIGHT: The Ledger and Coldcard thefts show you can do everything right and still lose your Bitcoin. \n\nHere are five hardware wallet alternatives to consider, along with their drawbacks.",
+    "link": "https://cryptopanic.com/news/33579596/INSIGHT-The-Ledger-and-Coldcard-thefts-show-you-can-do-everything-right-and-still-lose-your-Bitcoin-Here-are-five-hardware-wallet-alternatives-to-consider-along-with-their-drawbacks",
+    "source": "@cointelegraph",
+    "published": "Wed Oct 21 2026 14:38:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Taps $84,000 but It's MSTR That's 'Massively Undervalued,' Samson Mow Argues",
+    "link": "https://cryptopanic.com/news/33579583/Bitcoin-Taps-84000-but-Its-MSTR-Thats-Massively-Undervalued-Samson-Mow-Argues",
+    "source": "feeds2.benzinga.com",
+    "published": "Wed Oct 21 2026 14:38:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "BITCOIN JUMPS ABOVE $84,000 \n\n$50M LEVERAGE SHORTS LIQUIDATED IN 24H",
     "link": "https://cryptopanic.com/news/33579568/BITCOIN-JUMPS-ABOVE-84000-50M-LEVERAGE-SHORTS-LIQUIDATED-IN-24H",
     "source": "@btc_archive",
     "published": "Wed Oct 21 2026 14:36:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "DefiLlama report: nearly 90% of FXRP supply is locked in DeFi",
+    "link": "https://cryptopanic.com/news/33579582/DefiLlama-report-nearly-90-of-FXRP-supply-is-locked-in-DeFi",
+    "source": "coinjournal.net",
+    "published": "Wed Oct 21 2026 14:36:34 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -158,55 +207,6 @@
     "link": "https://cryptopanic.com/news/33579396/Fed-decision-make-or-break-for-Bitcoins-Q4-Nexo-data-suggests",
     "source": "finbold.com",
     "published": "Wed Oct 21 2026 14:14:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum Price Prediction: $1.08B Leaves ETH ETFs as Bulls Defend Critical $2,400 Suppor",
-    "link": "https://cryptopanic.com/news/33579349/Ethereum-Price-Prediction-108B-Leaves-ETH-ETFs-as-Bulls-Defend-Critical-2400-Suppor",
-    "source": "coinpaper.com",
-    "published": "Wed Oct 21 2026 14:13:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Grayscale now lets you deliver Bitcoin to get its spot ETF.\n\nStandard practice elsewhere, but still good to see.",
-    "link": "https://cryptopanic.com/news/33579565/JUST-IN-Grayscale-now-lets-you-deliver-Bitcoin-to-get-its-spot-ETF-Standard-practice-elsewhere-but-still-good-to-see",
-    "source": "@btc_archive",
-    "published": "Wed Oct 21 2026 14:11:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum (@ethereum) started as a 2013 whitepaper and became the foundation for smart contracts, DeFi, and much more. \n\nHere's how Ethereum got here and what's next for $ETH",
-    "link": "https://cryptopanic.com/news/33579482/Ethereum-ethereum-started-as-a-2013-whitepaper-and-became-the-foundation-for-smart-contracts-DeFi-and-much-more-Heres-how-Ethereum-got-here-and-whats-next-for-ETH",
-    "source": "@bscnews",
-    "published": "Wed Oct 21 2026 14:10:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BlackRock Expands into Robotics...\n\n@BlackRock has created the iShares Future Robotics and Related Technologies Active ETF, trading under the ticker $RBTX on NYSE Arca. \n\nIt uses an actively managed approach to invest in the shift of artificial intelligence from software programs",
-    "link": "https://cryptopanic.com/news/33579481/BlackRock-Expands-into-Robotics-BlackRock-has-created-the-iShares-Future-Robotics-and-Related-Technologies-Active-ETF-trading-under-the-ticker-RBTX-on-NYSE-Arca-It-uses-an-actively-managed-approach-to-invest-in-the-shift-of-artificial-intelligence-from-software-programs",
-    "source": "@bscnews",
-    "published": "Wed Oct 21 2026 14:10:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 Cardano Foundation says \"earlier this year, the SEC classified $ADA as a digital commodity, not a security.\" The joint letter co-signed by Cardano, Chainlink, Hedera, Stellar, Aptos, and Avalanche urges the SEC to codify this classification for regulatory certainty.",
-    "link": "https://cryptopanic.com/news/33579388/JUST-IN-Cardano-Foundation-says-earlier-this-year-the-SEC-classified-ADA-as-a-digital-commodity-not-a-security-The-joint-letter-co-signed-by-Cardano-Chainlink-Hedera-Stellar-Aptos-and-Avalanche-urges-the-SEC-to-codify-this-classification-for-regulatory-certainty",
-    "source": "@angrycryptoshow",
-    "published": "Wed Oct 21 2026 14:06:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 The OCC has officially finalized GENIUS Act stablecoin rules for implementation next January",
-    "link": "https://cryptopanic.com/news/33579487/JUST-IN-The-OCC-has-officially-finalized-GENIUS-Act-stablecoin-rules-for-implementation-next-January",
-    "source": "@bitcoinmagazine",
-    "published": "Wed Oct 21 2026 14:06:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum Will Benefit Most From $3 Trillion Stablecoin Boom, Spark CEO Predicts",
-    "link": "https://cryptopanic.com/news/33579415/Ethereum-Will-Benefit-Most-From-3-Trillion-Stablecoin-Boom-Spark-CEO-Predicts",
-    "source": "feeds2.benzinga.com",
-    "published": "Wed Oct 21 2026 14:06:33 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
