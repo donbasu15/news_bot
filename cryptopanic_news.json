@@ -1,9 +1,65 @@
 [
   {
+    "title": "Chinese hackers target hundreds of organizations in AI-powered ConnectWise breach",
+    "link": "https://cryptopanic.com/news/33582724/Chinese-hackers-target-hundreds-of-organizations-in-AI-powered-ConnectWise-breach",
+    "source": "cryptopolitan.com",
+    "published": "Thu Oct 22 2026 05:10:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tesla begins Optimus production while quarterly profit drops 43%",
+    "link": "https://cryptopanic.com/news/33582629/Tesla-begins-Optimus-production-while-quarterly-profit-drops-43",
+    "source": "cryptopolitan.com",
+    "published": "Thu Oct 22 2026 04:54:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Anthropic may publicly file for IPO as soon as Friday.\n\nThe next stage of the AI trade is unfolding.",
+    "link": "https://cryptopanic.com/news/33582717/Anthropic-may-publicly-file-for-IPO-as-soon-as-Friday-The-next-stage-of-the-AI-trade-is-unfolding",
+    "source": "@stackersatoshi",
+    "published": "Thu Oct 22 2026 04:52:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Cardano Warns EU Against Widening MiCA's Reach\n\nThe Cardano (@Cardano) Foundation wants the EU to keep DeFi and staking outside new standalone rules under MiCA.\n\nThe foundation argues regulation should target actual risks and services, not the technology itself.\n\nThe Cardano",
     "link": "https://cryptopanic.com/news/33582639/Cardano-Warns-EU-Against-Widening-MiCAs-Reach-The-Cardano-Cardano-Foundation-wants-the-EU-to-keep-DeFi-and-staking-outside-new-standalone-rules-under-MiCA-The-foundation-argues-regulation-should-target-actual-risks-and-services-not-the-technology-itself-The-Cardano",
     "source": "@bscnews",
     "published": "Thu Oct 22 2026 04:49:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "We’ve reviewed our systems following this week’s critical PHP vulnerabilities. CoinMarketCap’s platform and API do not run on PHP, and user accounts and data are not affected. No further action is needed from users, stay safe!",
+    "link": "https://cryptopanic.com/news/33582718/Weve-reviewed-our-systems-following-this-weeks-critical-PHP-vulnerabilities-CoinMarketCaps-platform-and-API-do-not-run-on-PHP-and-user-accounts-and-data-are-not-affected-No-further-action-is-needed-from-users-stay-safe",
+    "source": "@coinmarketcap",
+    "published": "Thu Oct 22 2026 04:47:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
+    "link": "https://cryptopanic.com/news/33582667/Bitcoin-ETFs-attract-108-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
+    "source": "coindesk.com",
+    "published": "Thu Oct 22 2026 04:41:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Meta Found a Way to Raise Money Without Handing Out More Votes",
+    "link": "https://cryptopanic.com/news/33582736/Meta-Found-a-Way-to-Raise-Money-Without-Handing-Out-More-Votes",
+    "source": "beincrypto.com",
+    "published": "Thu Oct 22 2026 04:40:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Spot $BTC ETFs saw another day of large inflows with +$524.8M on Wednesday, bringing the week to +$1.07B so far.",
+    "link": "https://cryptopanic.com/news/33582716/Spot-BTC-ETFs-saw-another-day-of-large-inflows-with-5248M-on-Wednesday-bringing-the-week-to-107B-so-far",
+    "source": "@stackersatoshi",
+    "published": "Thu Oct 22 2026 04:39:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
+    "link": "https://cryptopanic.com/news/33582666/XRP-Ledger-bug-fix-moved-to-November-after-validator-support-dipped-for-two-hours",
+    "source": "coindesk.com",
+    "published": "Thu Oct 22 2026 04:36:20 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -18,6 +74,13 @@
     "link": "https://cryptopanic.com/news/33582554/NEAR-sees-major-gains-after-new-governance-proposal-Can-it-stay-above-5",
     "source": "ambcrypto.com",
     "published": "Thu Oct 22 2026 04:30:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "1% of AI Users Drive 80% of Spending Leaving the Boom Very Fragile",
+    "link": "https://cryptopanic.com/news/33582735/1-of-AI-Users-Drive-80-of-Spending-Leaving-the-Boom-Very-Fragile",
+    "source": "beincrypto.com",
+    "published": "Thu Oct 22 2026 04:28:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -144,69 +207,6 @@
     "link": "https://cryptopanic.com/news/33582404/LATEST-Microsoft-warns-a-China-aligned-hacking-group-used-an-AI-powered-pentesting-tool-to-breach-IT-firm-ConnectWise-in-a-campaign-targeting-hundreds-of-organizations-worldwide",
     "source": "@cointelegraph",
     "published": "Thu Oct 22 2026 03:30:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ Need to catch up on the news? Here's our top 10 from today:\n\n Lighter CEO Vladimir Novakovski says the company will apply for a US derivatives license next month and integrate into Robinhood’s US offering once approved.\n\n Railway says hackers may have accessed customer",
-    "link": "https://cryptopanic.com/news/33582327/Need-to-catch-up-on-the-news-Heres-our-top-10-from-today-Lighter-CEO-Vladimir-Novakovski-says-the-company-will-apply-for-a-US-derivatives-license-next-month-and-integrate-into-Robinhoods-US-offering-once-approved-Railway-says-hackers-may-have-accessed-customer",
-    "source": "@cointelegraph",
-    "published": "Thu Oct 22 2026 03:15:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33582325/Source",
-    "source": "@wublockchain",
-    "published": "Thu Oct 22 2026 03:14:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SSV Labs Proposes Major Development Cutbacks Amid DAO Funding Strains\n\nSSV Labs, a core developer of SSV Network, an Ethereum staking protocol built on distributed validator technology (DVT), submitted governance proposal DIP-59 on October 21, seeking to sharply scale back its",
-    "link": "https://cryptopanic.com/news/33582324/SSV-Labs-Proposes-Major-Development-Cutbacks-Amid-DAO-Funding-Strains-SSV-Labs-a-core-developer-of-SSV-Network-an-Ethereum-staking-protocol-built-on-distributed-validator-technology-DVT-submitted-governance-proposal-DIP-59-on-October-21-seeking-to-sharply-scale-back-its",
-    "source": "@wublockchain",
-    "published": "Thu Oct 22 2026 03:14:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Circle CEO Shrugs Off Bitcoin's Slump and Pitches Digital Dollars for the AI Era",
-    "link": "https://cryptopanic.com/news/33582403/Circle-CEO-Shrugs-Off-Bitcoins-Slump-and-Pitches-Digital-Dollars-for-the-AI-Era",
-    "source": "beincrypto.com",
-    "published": "Thu Oct 22 2026 03:13:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Marjorie Taylor Greene Says Democrat Abdul El-Sayed Will Win Michigan if Trump Attacks Iran Before the Midterms: 'It's a Stupid Senseless War'",
-    "link": "https://cryptopanic.com/news/33582335/Marjorie-Taylor-Greene-Says-Democrat-Abdul-El-Sayed-Will-Win-Michigan-if-Trump-Attacks-Iran-Before-the-Midterms-Its-a-Stupid-Senseless-War",
-    "source": "feeds2.benzinga.com",
-    "published": "Thu Oct 22 2026 03:10:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tesla is aiming to start selling its Cybercab robotaxis to the public by the end of this year, its engineering chief said, even as the US auto safety agency probes the vehicles that come without manual controls which federal regulations typically require",
-    "link": "https://cryptopanic.com/news/33582354/Tesla-is-aiming-to-start-selling-its-Cybercab-robotaxis-to-the-public-by-the-end-of-this-year-its-engineering-chief-said-even-as-the-US-auto-safety-agency-probes-the-vehicles-that-come-without-manual-controls-which-federal-regulations-typically-require",
-    "source": "@reutersbiz",
-    "published": "Thu Oct 22 2026 03:02:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Claude Duet can shop and pay, but it won’t share card numbers",
-    "link": "https://cryptopanic.com/news/33582307/Claude-Duet-can-shop-and-pay-but-it-wont-share-card-numbers",
-    "source": "cryptopolitan.com",
-    "published": "Thu Oct 22 2026 03:00:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇨🇳 JUST IN: China’s DeepSeek raises about $15B in one of the country’s biggest funding rounds ever, as it gears up to take on Anthropic and OpenAI, per Bloomberg.",
-    "link": "https://cryptopanic.com/news/33582326/JUST-IN-Chinas-DeepSeek-raises-about-15B-in-one-of-the-countrys-biggest-funding-rounds-ever-as-it-gears-up-to-take-on-Anthropic-and-OpenAI-per-Bloomberg",
-    "source": "@cointelegraph",
-    "published": "Thu Oct 22 2026 03:00:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin ETFs attract $663M as Switzerland opens retail access – Can BTC break $84,300?",
-    "link": "https://cryptopanic.com/news/33582302/Bitcoin-ETFs-attract-663M-as-Switzerland-opens-retail-access-Can-BTC-break-84300",
-    "source": "ambcrypto.com",
-    "published": "Thu Oct 22 2026 03:00:40 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
