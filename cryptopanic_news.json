@@ -1,9 +1,72 @@
 [
   {
+    "title": "NEAR’s Staking Ratio Survives Another Reward Cut\n\nNearly 46% of Near Protocol's (@NEARProtocol) $NEAR circulating supply remains staked, despite a reward cut last year.\n\nBitwise (@Bitwise) estimates 596 million NEAR tokens are staked, worth about $3 billion at current valuations.",
+    "link": "https://cryptopanic.com/news/33582925/NEARs-Staking-Ratio-Survives-Another-Reward-Cut-Nearly-46-of-Near-Protocols-NEARProtocol-NEAR-circulating-supply-remains-staked-despite-a-reward-cut-last-year-Bitwise-Bitwise-estimates-596-million-NEAR-tokens-are-staked-worth-about-3-billion-at-current-valuations",
+    "source": "@bscnews",
+    "published": "Thu Oct 22 2026 06:15:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum’s 16-Minute Settlement Wait Could Drop to Four",
+    "link": "https://cryptopanic.com/news/33582926/Ethereums-16-Minute-Settlement-Wait-Could-Drop-to-Four",
+    "source": "coindoo.com",
+    "published": "Thu Oct 22 2026 06:14:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "A probe into KPMG Australia has found it mishandled whistleblower allegations of client data leaks and let cultural and governance weaknesses persist for years, but stopped short of recommending a permanent ban on the firm from federal government work",
+    "link": "https://cryptopanic.com/news/33582923/A-probe-into-KPMG-Australia-has-found-it-mishandled-whistleblower-allegations-of-client-data-leaks-and-let-cultural-and-governance-weaknesses-persist-for-years-but-stopped-short-of-recommending-a-permanent-ban-on-the-firm-from-federal-government-work",
+    "source": "@reutersbiz",
+    "published": "Thu Oct 22 2026 06:13:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cypherpunks, Seated and Sponsored",
+    "link": "https://cryptopanic.com/news/33582932/Cypherpunks-Seated-and-Sponsored",
+    "source": "medium.com/pivx",
+    "published": "Thu Oct 22 2026 06:07:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MoonPay, Upbit Operator Dunamu Team Up on Stablecoin Payments, GIWA Expansion",
+    "link": "https://cryptopanic.com/news/33582879/MoonPay-Upbit-Operator-Dunamu-Team-Up-on-Stablecoin-Payments-GIWA-Expansion",
+    "source": "www.blockhead.co",
+    "published": "Thu Oct 22 2026 06:02:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cathie Wood Sets Stunning $4,400 Tesla Stock Target",
+    "link": "https://cryptopanic.com/news/33582880/Cathie-Wood-Sets-Stunning-4400-Tesla-Stock-Target",
+    "source": "coinpaper.com",
+    "published": "Thu Oct 22 2026 06:02:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "How did PYTH’s price fall for bears’ trap after latest surge?",
+    "link": "https://cryptopanic.com/news/33582878/How-did-PYTHs-price-fall-for-bears-trap-after-latest-surge",
+    "source": "ambcrypto.com",
+    "published": "Thu Oct 22 2026 06:00:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "TODAY: Pumpfun deposits another 129,798 solana:So11111111111111111111111111111111111111112 worth $14.07M to Kraken, bringing its total solana:So11111111111111111111111111111111111111112 sold to 5.48M, or about $875.5M, per Arkham data.",
+    "link": "https://cryptopanic.com/news/33582838/TODAY-Pumpfun-deposits-another-129798-solanaSo11111111111111111111111111111111111111112-worth-1407M-to-Kraken-bringing-its-total-solanaSo11111111111111111111111111111111111111112-sold-to-548M-or-about-8755M-per-Arkham-data",
+    "source": "@cointelegraph",
+    "published": "Thu Oct 22 2026 06:00:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "CZ Warns Users to Be Extra Cautious Online in Coming Days Amid PHP Exploits\n\nBinance founder Changpeng Zhao (CZ) warned users to exercise caution when visiting websites over the coming days, citing two critical PHP vulnerabilities (CVE-2026-109618 and CVE-2026-109619) affecting",
     "link": "https://cryptopanic.com/news/33582837/CZ-Warns-Users-to-Be-Extra-Cautious-Online-in-Coming-Days-Amid-PHP-Exploits-Binance-founder-Changpeng-Zhao-CZ-warned-users-to-exercise-caution-when-visiting-websites-over-the-coming-days-citing-two-critical-PHP-vulnerabilities-CVE-2026-109618-and-CVE-2026-109619-affecting",
     "source": "@wublockchain",
     "published": "Thu Oct 22 2026 05:48:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum And Arbitrum Get a New Privacy Tool\n\nFhenix (@fhenix) launched its CoFHE privacy coprocessor on Ethereum (@ethereum) $ETH and Arbitrum (@arbitrum) $ARB mainnet on October 21.\n\nThe technology enables smart contracts to perform computations using encrypted information",
+    "link": "https://cryptopanic.com/news/33582924/Ethereum-And-Arbitrum-Get-a-New-Privacy-Tool-Fhenix-fhenix-launched-its-CoFHE-privacy-coprocessor-on-Ethereum-ethereum-ETH-and-Arbitrum-arbitrum-ARB-mainnet-on-October-21-The-technology-enables-smart-contracts-to-perform-computations-using-encrypted-information",
+    "source": "@bscnews",
+    "published": "Thu Oct 22 2026 05:48:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -144,69 +207,6 @@
     "link": "https://cryptopanic.com/news/33582666/XRP-Ledger-bug-fix-moved-to-November-after-validator-support-dipped-for-two-hours",
     "source": "coindesk.com",
     "published": "Thu Oct 22 2026 04:36:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ TODAY: Elon Musk says SpaceX has “a shot at exceeding 10GW of compute next year.”",
-    "link": "https://cryptopanic.com/news/33582611/TODAY-Elon-Musk-says-SpaceX-has-a-shot-at-exceeding-10GW-of-compute-next-year",
-    "source": "@cointelegraph",
-    "published": "Thu Oct 22 2026 04:34:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEAR sees major gains after new governance proposal — Can it stay above $5?",
-    "link": "https://cryptopanic.com/news/33582554/NEAR-sees-major-gains-after-new-governance-proposal-Can-it-stay-above-5",
-    "source": "ambcrypto.com",
-    "published": "Thu Oct 22 2026 04:30:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "1% of AI Users Drive 80% of Spending Leaving the Boom Very Fragile",
-    "link": "https://cryptopanic.com/news/33582735/1-of-AI-Users-Drive-80-of-Spending-Leaving-the-Boom-Very-Fragile",
-    "source": "beincrypto.com",
-    "published": "Thu Oct 22 2026 04:28:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Binance Sets XRP Airdrops For RLUSD Holders\n\nBinance (@binance) will distribute 600,000 $XRP to eligible users holding $RLUSD on its platform.\n\nThis promotion will take place between October 23 and November 20, 2026.\n\nThe rewards will be airdropped into users' spot accounts on a",
-    "link": "https://cryptopanic.com/news/33582638/Binance-Sets-XRP-Airdrops-For-RLUSD-Holders-Binance-binance-will-distribute-600000-XRP-to-eligible-users-holding-RLUSD-on-its-platform-This-promotion-will-take-place-between-October-23-and-November-20-2026-The-rewards-will-be-airdropped-into-users-spot-accounts-on-a",
-    "source": "@bscnews",
-    "published": "Thu Oct 22 2026 04:20:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33582552/Source",
-    "source": "@wublockchain",
-    "published": "Thu Oct 22 2026 04:16:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "U.S. Bitcoin ETFs Draw $528 Million, Ether ETFs Add $15 Million\n\nAccording to SoSoValue, U.S. spot Bitcoin ETFs recorded $528 million in net inflows on October 21, led by BlackRock's IBIT with $235 million. Spot Ethereum ETFs attracted $14.96 million, with Grayscale's Ethereum",
-    "link": "https://cryptopanic.com/news/33582551/US-Bitcoin-ETFs-Draw-528-Million-Ether-ETFs-Add-15-Million-According-to-SoSoValue-US-spot-Bitcoin-ETFs-recorded-528-million-in-net-inflows-on-October-21-led-by-BlackRocks-IBIT-with-235-million-Spot-Ethereum-ETFs-attracted-1496-million-with-Grayscales-Ethereum",
-    "source": "@wublockchain",
-    "published": "Thu Oct 22 2026 04:16:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Whales are accumulating $ETH!\n\n0x4A85 withdrew 10,954 $ETH ($26.97M) from #Kraken and staked it after 4 months of inactivity.\n\n0xdeA6 withdrew 9,000 $ETH ($22.42M) from #Binance and deposited it into Aave.\n\n0xD338 withdrew 4,500 $ETH ($11.29M) from #Binance 10 hours ago.",
-    "link": "https://cryptopanic.com/news/33582484/Whales-are-accumulating-ETH-0x4A85-withdrew-10954-ETH-2697M-from-Kraken-and-staked-it-after-4-months-of-inactivity-0xdeA6-withdrew-9000-ETH-2242M-from-Binance-and-deposited-it-into-Aave-0xD338-withdrew-4500-ETH-1129M-from-Binance-10-hours-ago",
-    "source": "@lookonchain",
-    "published": "Thu Oct 22 2026 04:08:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BTC Market Data, On-Chain Intelligence, Bitcoin Infrastructure | BMTV Oct. 21, 2026",
-    "link": "https://cryptopanic.com/news/33573778/BTC-Market-Data-On-Chain-Intelligence-Bitcoin-Infrastructure-BMTV-Oct-21-2026",
-    "source": "BitcoinMagazine",
-    "published": "Thu Oct 22 2026 04:05:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇯🇵 South Korea's Shinhan Card is partnering with SBI VC Trade and SBI XDC Network APAC to pilot yen stablecoin payments for travelers and cross-border trade between South Korea and Japan.",
-    "link": "https://cryptopanic.com/news/33582550/LATEST-South-Koreas-Shinhan-Card-is-partnering-with-SBI-VC-Trade-and-SBI-XDC-Network-APAC-to-pilot-yen-stablecoin-payments-for-travelers-and-cross-border-trade-between-South-Korea-and-Japan",
-    "source": "@coinmarketcap",
-    "published": "Thu Oct 22 2026 04:05:03 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
