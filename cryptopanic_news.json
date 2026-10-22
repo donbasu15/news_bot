@@ -1,9 +1,30 @@
 [
   {
+    "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
+    "link": "https://cryptopanic.com/news/33587445/Senates-top-Democratic-investigator-looking-into-Tether-payments-to-Bo-Hines-firm",
+    "source": "coindesk.com",
+    "published": "Thu Oct 22 2026 22:43:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Cloudflare CEO Matthew Prince says there have been millions of exploit attempts targeting the critical PHP flaw since the bug was publicly disclosed.",
+    "link": "https://cryptopanic.com/news/33587443/LATEST-Cloudflare-CEO-Matthew-Prince-says-there-have-been-millions-of-exploit-attempts-targeting-the-critical-PHP-flaw-since-the-bug-was-publicly-disclosed",
+    "source": "@coinmarketcap",
+    "published": "Thu Oct 22 2026 22:41:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "French bond pain puts euro zone's weak links on notice",
     "link": "https://cryptopanic.com/news/33587429/French-bond-pain-puts-euro-zones-weak-links-on-notice",
     "source": "@reutersbiz",
     "published": "Thu Oct 22 2026 22:30:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Core speeds up fixes for AI-found bugs.\n\nThe team used to wait for the next big release but will now patch and ship them right away.\n\n They are definitely scared, which is good!",
+    "link": "https://cryptopanic.com/news/33587441/Bitcoin-Core-speeds-up-fixes-for-AI-found-bugs-The-team-used-to-wait-for-the-next-big-release-but-will-now-patch-and-ship-them-right-away-They-are-definitely-scared-which-is-good",
+    "source": "@btc_archive",
+    "published": "Thu Oct 22 2026 22:28:59 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -186,27 +207,6 @@
     "link": "https://cryptopanic.com/news/33587243/TSMC-Looks-to-Replace-Chinese-Rare-Earth-Components-in-Equipment-Used-to-Make-AI-Chips",
     "source": "coinpaper.com",
     "published": "Thu Oct 22 2026 21:20:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "OCC drops proposed affiliate rewards presumption, but stablecoin yield ban stays",
-    "link": "https://cryptopanic.com/news/33587244/OCC-drops-proposed-affiliate-rewards-presumption-but-stablecoin-yield-ban-stays",
-    "source": "cryptoslate.com",
-    "published": "Thu Oct 22 2026 21:20:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AI Is Breaking Into Everything! Is This the End of Bitcoin?",
-    "link": "https://cryptopanic.com/news/33587245/AI-Is-Breaking-Into-Everything-Is-This-the-End-of-Bitcoin",
-    "source": "SimplyBitcoin",
-    "published": "Thu Oct 22 2026 21:17:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Daily #Cardano News! ️\n\nCharles Welcomes TRON!\n\n$ADA Perps Volume Skyrockets!",
-    "link": "https://cryptopanic.com/news/33587211/Daily-Cardano-News-Charles-Welcomes-TRON-ADA-Perps-Volume-Skyrockets",
-    "source": "@angrycryptoshow",
-    "published": "Thu Oct 22 2026 21:15:55 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
