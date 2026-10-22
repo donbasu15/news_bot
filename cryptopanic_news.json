@@ -1,5 +1,54 @@
 [
   {
+    "title": "BlackRock Bitcoin ETF records biggest daily inflow since January 2026",
+    "link": "https://cryptopanic.com/news/33584210/BlackRock-Bitcoin-ETF-records-biggest-daily-inflow-since-January-2026",
+    "source": "finbold.com",
+    "published": "Thu Oct 22 2026 10:38:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33584268/Source",
+    "source": "@wublockchain",
+    "published": "Thu Oct 22 2026 10:37:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Over 93.5% of Starknet Voting Power Backs Research into Transitioning to Independent Quantum-Resistant Layer 1\n\nStarknet (STRK) tokenholders have approved a research proposal with over 93.5% of voting power supporting an exploration of transitioning Starknet from an Ethereum",
+    "link": "https://cryptopanic.com/news/33584267/Over-935-of-Starknet-Voting-Power-Backs-Research-into-Transitioning-to-Independent-Quantum-Resistant-Layer-1-Starknet-STRK-tokenholders-have-approved-a-research-proposal-with-over-935-of-voting-power-supporting-an-exploration-of-transitioning-Starknet-from-an-Ethereum",
+    "source": "@wublockchain",
+    "published": "Thu Oct 22 2026 10:37:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Robinhood wins Dubai license as Bybit eyes a US broker deal",
+    "link": "https://cryptopanic.com/news/33584130/Robinhood-wins-Dubai-license-as-Bybit-eyes-a-US-broker-deal",
+    "source": "cryptopolitan.com",
+    "published": "Thu Oct 22 2026 10:19:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
+    "link": "https://cryptopanic.com/news/33584195/Crypto-traders-price-India-telecoms-company-Reliance-Jios-IPO-at-about-110-billion",
+    "source": "coindesk.com",
+    "published": "Thu Oct 22 2026 10:18:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Mining Pool Payouts: FPPS vs. PPLNS Explained",
+    "link": "https://cryptopanic.com/news/33584102/Bitcoin-Mining-Pool-Payouts-FPPS-vs-PPLNS-Explained",
+    "source": "bitcoinalmanack.com",
+    "published": "Thu Oct 22 2026 10:16:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Starknet holders are all in on Layer 1 transition\n\nThe @StarkNet $STRK proposal for an independent post-quantum L1 has ended, and the results are mind-blowing. \n\nThe protocol's token holders voted decisively:\n\n- 93.5% voted in favor of conducting the research. \n- 4.57% voted",
+    "link": "https://cryptopanic.com/news/33584186/Starknet-holders-are-all-in-on-Layer-1-transition-The-StarkNet-STRK-proposal-for-an-independent-post-quantum-L1-has-ended-and-the-results-are-mind-blowing-The-protocols-token-holders-voted-decisively-935-voted-in-favor-of-conducting-the-research-457-voted",
+    "source": "@bscnews",
+    "published": "Thu Oct 22 2026 10:16:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Why Your Bitcoin Miner Earns Less Than Expected",
     "link": "https://cryptopanic.com/news/33584101/Why-Your-Bitcoin-Miner-Earns-Less-Than-Expected",
     "source": "bitcoinalmanack.com",
@@ -32,6 +81,13 @@
     "link": "https://cryptopanic.com/news/33584024/Chinese-Prosecutors-Seek-to-Confiscate-51B-in-Bitcoin-Seized-by-UK-in-Qian-Case",
     "source": "decrypt.co",
     "published": "Thu Oct 22 2026 10:09:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BNB Chain's Moolah Explodes as NVIDIA Enters The Picture\n\nBNB Chain (@BNBCHAIN) $BNB memecoin $MOOLAH has surged 14% in 24 hours and 35% over the last seven days, reaching a $50 million market cap, according to CoinGecko.\n\nThe project recently announced plans for a MOOLAH/NVDA",
+    "link": "https://cryptopanic.com/news/33584185/BNB-Chains-Moolah-Explodes-as-NVIDIA-Enters-The-Picture-BNB-Chain-BNBCHAIN-BNB-memecoin-MOOLAH-has-surged-14-in-24-hours-and-35-over-the-last-seven-days-reaching-a-50-million-market-cap-according-to-CoinGecko-The-project-recently-announced-plans-for-a-MOOLAHNVDA",
+    "source": "@bscnews",
+    "published": "Thu Oct 22 2026 10:07:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -151,62 +207,6 @@
     "link": "https://cryptopanic.com/news/33583851/Starknet-community-overwhelmingly-backs-research-into-becoming-an-independent-post-quantum-Layer-1",
     "source": "theblock.co",
     "published": "Thu Oct 22 2026 09:32:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Aero Takes on Seven Networks After Major DEX Merger\n\nAerodrome and Velodrome (@VelodromeFi) have merged their operations under Aero (@aeroxyz), a spot exchange launching across seven blockchain networks.\n\nThe platform covers Ethereum (@ethereum) $ETH, Base (@base), Robinhood",
-    "link": "https://cryptopanic.com/news/33583927/Aero-Takes-on-Seven-Networks-After-Major-DEX-Merger-Aerodrome-and-Velodrome-VelodromeFi-have-merged-their-operations-under-Aero-aeroxyz-a-spot-exchange-launching-across-seven-blockchain-networks-The-platform-covers-Ethereum-ethereum-ETH-Base-base-Robinhood",
-    "source": "@bscnews",
-    "published": "Thu Oct 22 2026 09:31:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Your favorite crypto company is listening. What should they announce before 2026 ends?\n\nTag them",
-    "link": "https://cryptopanic.com/news/33583852/Your-favorite-crypto-company-is-listening-What-should-they-announce-before-2026-ends-Tag-them",
-    "source": "@cointelegraph",
-    "published": "Thu Oct 22 2026 09:30:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "German fuel tax cut not fully reaching diesel drivers, Ifo says",
-    "link": "https://cryptopanic.com/news/33583853/German-fuel-tax-cut-not-fully-reaching-diesel-drivers-Ifo-says",
-    "source": "@reutersbiz",
-    "published": "Thu Oct 22 2026 09:30:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana’s Alpenglow upgrade goes live – Why SOL’s $100 support matters",
-    "link": "https://cryptopanic.com/news/33583856/Solanas-Alpenglow-upgrade-goes-live-Why-SOLs-100-support-matters",
-    "source": "ambcrypto.com",
-    "published": "Thu Oct 22 2026 09:30:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AI Stocks Could Crash in 2027: 3 Ways to Protect Your Money",
-    "link": "https://cryptopanic.com/news/33584017/AI-Stocks-Could-Crash-in-2027-3-Ways-to-Protect-Your-Money",
-    "source": "beincrypto.com",
-    "published": "Thu Oct 22 2026 09:26:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin ETFs Turn October Positive With $1 Billion in Three Days While ETH Funds Bleed $1 Billion",
-    "link": "https://cryptopanic.com/news/33583992/Bitcoin-ETFs-Turn-October-Positive-With-1-Billion-in-Three-Days-While-ETH-Funds-Bleed-1-Billion",
-    "source": "99bitcoins.com",
-    "published": "Thu Oct 22 2026 09:26:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "A whale just got liquidated for 121.33 $BTC ($9.91M) as the market dropped.",
-    "link": "https://cryptopanic.com/news/33583931/A-whale-just-got-liquidated-for-12133-BTC-991M-as-the-market-dropped",
-    "source": "@lookonchain",
-    "published": "Thu Oct 22 2026 09:23:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Plunges Over $3K After $85K Rejection, Altcoins Get Hit Harder: Market Watch",
-    "link": "https://cryptopanic.com/news/33583804/Bitcoin-Plunges-Over-3K-After-85K-Rejection-Altcoins-Get-Hit-Harder-Market-Watch",
-    "source": "cryptopotato.com",
-    "published": "Thu Oct 22 2026 09:21:15 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
