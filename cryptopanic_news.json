@@ -1,5 +1,19 @@
 [
   {
+    "title": "Read more",
+    "link": "https://cryptopanic.com/news/33585644/Read-more",
+    "source": "@cointelegraph",
+    "published": "Thu Oct 22 2026 14:48:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Gold Price Prediction: Central Banks Buy 79 Tonnes in One Month, but Prices Still Fall to $4,084",
+    "link": "https://cryptopanic.com/news/33585591/Gold-Price-Prediction-Central-Banks-Buy-79-Tonnes-in-One-Month-but-Prices-Still-Fall-to-4084",
+    "source": "coinpaper.com",
+    "published": "Thu Oct 22 2026 14:42:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "GET READY FOR A BITCOIN PUMP — FIDELITY DIGITAL \n\n“A move to $200K could happen faster than the time it takes to reach $100K.”\n\nWE ARE GOING MUCH HIGHER! 🟠",
     "link": "https://cryptopanic.com/news/33585609/GET-READY-FOR-A-BITCOIN-PUMP-FIDELITY-DIGITAL-A-move-to-200K-could-happen-faster-than-the-time-it-takes-to-reach-100K-WE-ARE-GOING-MUCH-HIGHER",
     "source": "@btc_archive",
@@ -14,10 +28,31 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa",
+    "link": "https://cryptopanic.com/news/33585646/Crypto-custody-specialist-Fireblocks-denies-its-in-talks-to-be-acquired-by-Visa",
+    "source": "coindesk.com",
+    "published": "Thu Oct 22 2026 14:37:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin’s share of the crypto market climbed to 60%, its highest level since May, as traders increasingly favored the largest cryptocurrency amid broader market uncertainty.\n\nGet the full picture in Crypto Daybook Americas, CoinDesk’s daily markets briefing presented by",
+    "link": "https://cryptopanic.com/news/33585636/Bitcoins-share-of-the-crypto-market-climbed-to-60-its-highest-level-since-May-as-traders-increasingly-favored-the-largest-cryptocurrency-amid-broader-market-uncertainty-Get-the-full-picture-in-Crypto-Daybook-Americas-CoinDesks-daily-markets-briefing-presented-by",
+    "source": "@coindesk",
+    "published": "Thu Oct 22 2026 14:33:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Visa To Acquire Fireblocks For $2.5 Billion: Reports",
     "link": "https://cryptopanic.com/news/33585524/Visa-To-Acquire-Fireblocks-For-25-Billion-Reports",
     "source": "cryptoprowl.com",
     "published": "Thu Oct 22 2026 14:33:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: CZ says no crypto wallet or software is 100% secure, urging users to stay informed and manage their risks.",
+    "link": "https://cryptopanic.com/news/33585643/UPDATE-CZ-says-no-crypto-wallet-or-software-is-100-secure-urging-users-to-stay-informed-and-manage-their-risks",
+    "source": "@cointelegraph",
+    "published": "Thu Oct 22 2026 14:30:47 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -42,6 +77,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "NEW: S&P Global Ratings has launched DeFi vault risk assessments, examining underlying assets, curator, operational, security and governance risks.\n\nAndrew O’Neill explains how the firm turns onchain transparency into insight on risks facing depositors.",
+    "link": "https://cryptopanic.com/news/33585642/NEW-SampP-Global-Ratings-has-launched-DeFi-vault-risk-assessments-examining-underlying-assets-curator-operational-security-and-governance-risks-Andrew-ONeill-explains-how-the-firm-turns-onchain-transparency-into-insight-on-risks-facing-depositors",
+    "source": "@cointelegraph",
+    "published": "Thu Oct 22 2026 14:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: 🇺🇸 Morgan Stanley, Bank of America, JPMorgan, and Wells Fargo detect unauthorized AI agents accessing customer accounts and attempting to act without user instructions.",
     "link": "https://cryptopanic.com/news/33585607/JUST-IN-Morgan-Stanley-Bank-of-America-JPMorgan-and-Wells-Fargo-detect-unauthorized-AI-agents-accessing-customer-accounts-and-attempting-to-act-without-user-instructions",
     "source": "@watcherguru",
@@ -60,6 +102,13 @@
     "link": "https://cryptopanic.com/news/33585519/Coldcard-victims-sue-Coinkite-founders-alleging-they-ignored-a-May-2025-warning",
     "source": "cryptopolitan.com",
     "published": "Thu Oct 22 2026 14:24:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Dogecoin Labs Wants to Build the Economy Behind the Meme Coin’s $1 Rallying Cry",
+    "link": "https://cryptopanic.com/news/33585641/Dogecoin-Labs-Wants-to-Build-the-Economy-Behind-the-Meme-Coins-1-Rallying-Cry",
+    "source": "beincrypto.com",
+    "published": "Thu Oct 22 2026 14:21:56 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -158,55 +207,6 @@
     "link": "https://cryptopanic.com/news/33585505/Oct-22-Update-Bitcoin-ETFs-1D-NetFlow-5766-BTC47015M-7D-NetFlow-11503-BTC93797M-Ethereum-ETFs-1D-NetFlow-4422-ETH-1063M-7D-NetFlow-120629-ETH-29003M",
     "source": "@lookonchain",
     "published": "Thu Oct 22 2026 14:12:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cypherium pitches GPU mining for AI data centers to monetize idle chips",
-    "link": "https://cryptopanic.com/news/33585369/Cypherium-pitches-GPU-mining-for-AI-data-centers-to-monetize-idle-chips",
-    "source": "cryptopolitan.com",
-    "published": "Thu Oct 22 2026 14:06:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Fireblocks disputes Axios’ report of $2.5B Visa acquisition talks.\n\n“This is news to us, and not true at present time,” the company told Cointelegraph.\n\nVisa declined to comment on rumors or speculation.",
-    "link": "https://cryptopanic.com/news/33585405/JUST-IN-Fireblocks-disputes-Axios-report-of-25B-Visa-acquisition-talks-This-is-news-to-us-and-not-true-at-present-time-the-company-told-Cointelegraph-Visa-declined-to-comment-on-rumors-or-speculation",
-    "source": "@cointelegraph",
-    "published": "Thu Oct 22 2026 14:06:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why Is Meta Stock Down Nearly 6% Despite $64.6 Billion in Revenue?",
-    "link": "https://cryptopanic.com/news/33585351/Why-Is-Meta-Stock-Down-Nearly-6-Despite-646-Billion-in-Revenue",
-    "source": "coinpaper.com",
-    "published": "Thu Oct 22 2026 14:06:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trust Wallet Shuts Down Speculation Over PHP Exploit Fallout",
-    "link": "https://cryptopanic.com/news/33585438/Trust-Wallet-Shuts-Down-Speculation-Over-PHP-Exploit-Fallout",
-    "source": "u.today",
-    "published": "Thu Oct 22 2026 14:05:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cypherium Unveils COLOSSUS-X to Monetize Idle AI GPUs via PoW",
-    "link": "https://cryptopanic.com/news/33585361/Cypherium-Unveils-COLOSSUS-X-to-Monetize-Idle-AI-GPUs-via-PoW",
-    "source": "dailycoin.com",
-    "published": "Thu Oct 22 2026 14:05:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trade Where You Read: Decrypt Brings Jupiter-Powered Trading to The Information Exchange",
-    "link": "https://cryptopanic.com/news/33585353/Trade-Where-You-Read-Decrypt-Brings-Jupiter-Powered-Trading-to-The-Information-Exchange",
-    "source": "decrypt.co",
-    "published": "Thu Oct 22 2026 14:04:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Coinbase Ireland fined $3.6 million over customer fund segregation, oversight failures",
-    "link": "https://cryptopanic.com/news/33585347/Coinbase-Ireland-fined-36-million-over-customer-fund-segregation-oversight-failures",
-    "source": "theblock.co",
-    "published": "Thu Oct 22 2026 14:03:40 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
