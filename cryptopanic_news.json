@@ -1,5 +1,19 @@
 [
   {
+    "title": "GENIUS Act Rules Are Reshaping the USDC vs. USDT Battle",
+    "link": "https://cryptopanic.com/news/33583280/GENIUS-Act-Rules-Are-Reshaping-the-USDC-vs-USDT-Battle",
+    "source": "cryptonews.com",
+    "published": "Thu Oct 22 2026 07:45:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  Robinhood Chain tokenized stock volume surged from $526M in July to $11.31B in September, per Bitwise's latest quarterly staking report.",
+    "link": "https://cryptopanic.com/news/33583294/LATEST-Robinhood-Chain-tokenized-stock-volume-surged-from-526M-in-July-to-1131B-in-September-per-Bitwises-latest-quarterly-staking-report",
+    "source": "@coinmarketcap",
+    "published": "Thu Oct 22 2026 07:45:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "CZ Sounds Alarm Over New Website Security Threat\n\nBinance (@binance) co-founder Changpeng Zhao (@cz_binance) has urged users to exercise caution when visiting websites over the next few days.\n\nTwo PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, reportedly affect popular",
     "link": "https://cryptopanic.com/news/33583277/CZ-Sounds-Alarm-Over-New-Website-Security-Threat-Binance-binance-co-founder-Changpeng-Zhao-cz_binance-has-urged-users-to-exercise-caution-when-visiting-websites-over-the-next-few-days-Two-PHP-vulnerabilities-CVE-2026-109618-and-CVE-2026-109619-reportedly-affect-popular",
     "source": "@bscnews",
@@ -39,6 +53,13 @@
     "link": "https://cryptopanic.com/news/33583192/Bitcoin-Rose-Overall-but-12-of-15-Seven-Day-Holds-Lost-Money",
     "source": "btcusa.com",
     "published": "Thu Oct 22 2026 07:21:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "We don't use PHP.",
+    "link": "https://cryptopanic.com/news/33583295/We-dont-use-PHP",
+    "source": "@cryptoquant_com",
+    "published": "Thu Oct 22 2026 07:19:44 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -186,27 +207,6 @@
     "link": "https://cryptopanic.com/news/33583050/Nestle-reported-better-than-expected-organic-sales-growth-for-the-third-quarter-and-said-it-had-deconsolidated-its-Russian-business-after-Moscow-seized-control-of-Nestles-Russian-assets-last-month-More-here",
     "source": "@reutersbiz",
     "published": "Thu Oct 22 2026 06:25:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
-    "link": "https://cryptopanic.com/news/33583057/China-seeks-to-seize-61800-BTC-tied-to-57-billion-fraud-scheme",
-    "source": "coindesk.com",
-    "published": "Thu Oct 22 2026 06:24:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "China’s Stocks Enter Bear Market as Selling Spreads Across Asia",
-    "link": "https://cryptopanic.com/news/33583049/Chinas-Stocks-Enter-Bear-Market-as-Selling-Spreads-Across-Asia",
-    "source": "beincrypto.com",
-    "published": "Thu Oct 22 2026 06:24:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Grayscale now lets eligible investors swap tokens directly for shares in 10 crypto ETFs and trusts, including Bitcoin, Solana, and XRP products, without selling for cash first.",
-    "link": "https://cryptopanic.com/news/33582986/LATEST-Grayscale-now-lets-eligible-investors-swap-tokens-directly-for-shares-in-10-crypto-ETFs-and-trusts-including-Bitcoin-Solana-and-XRP-products-without-selling-for-cash-first",
-    "source": "@coinmarketcap",
-    "published": "Thu Oct 22 2026 06:22:02 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
