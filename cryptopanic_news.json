@@ -1,51 +1,100 @@
 [
   {
-    "title": "Daily Bitcoin, Ethereum and Solana Rebalancing Finished Slightly Behind Holding",
-    "link": "https://cryptopanic.com/news/33581687/Daily-Bitcoin-Ethereum-and-Solana-Rebalancing-Finished-Slightly-Behind-Holding",
-    "source": "btcusa.com",
-    "published": "Thu Oct 22 2026 00:11:30 GMT+0000 (Coordinated Universal Time)",
+    "title": "Why Your Bitcoin Miner Earns Less Than Expected",
+    "link": "https://cryptopanic.com/news/33584101/Why-Your-Bitcoin-Miner-Earns-Less-Than-Expected",
+    "source": "bitcoinalmanack.com",
+    "published": "Thu Oct 22 2026 10:14:09 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Aerodrome and Velodrome merge to launch Aero across seven blockchain networks",
-    "link": "https://cryptopanic.com/news/33581666/Aerodrome-and-Velodrome-merge-to-launch-Aero-across-seven-blockchain-networks",
+    "title": "MEXC tokenized stock trading outpaced other markets with 81% growth",
+    "link": "https://cryptopanic.com/news/33584115/MEXC-tokenized-stock-trading-outpaced-other-markets-with-81-growth",
+    "source": "en.cryptonomist.ch",
+    "published": "Thu Oct 22 2026 10:10:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Base’s daily active addresses hit 629,142, a 30-day high",
+    "link": "https://cryptopanic.com/news/33584113/Bases-daily-active-addresses-hit-629142-a-30-day-high",
+    "source": "en.cryptonomist.ch",
+    "published": "Thu Oct 22 2026 10:10:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trump cites over $20B in cybercrime losses at the White House cybercrime roundtable",
+    "link": "https://cryptopanic.com/news/33584111/Trump-cites-over-20B-in-cybercrime-losses-at-the-White-House-cybercrime-roundtable",
+    "source": "en.cryptonomist.ch",
+    "published": "Thu Oct 22 2026 10:10:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Chinese Prosecutors Seek to Confiscate $5.1B in Bitcoin Seized by UK in Qian Case",
+    "link": "https://cryptopanic.com/news/33584024/Chinese-Prosecutors-Seek-to-Confiscate-51B-in-Bitcoin-Seized-by-UK-in-Qian-Case",
+    "source": "decrypt.co",
+    "published": "Thu Oct 22 2026 10:09:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Kalshi Launches Bitcoin-Backed Loans Amid Scrutiny Over Partner’s China Ties",
+    "link": "https://cryptopanic.com/news/33584010/Kalshi-Launches-Bitcoin-Backed-Loans-Amid-Scrutiny-Over-Partners-China-Ties",
+    "source": "dailycoin.com",
+    "published": "Thu Oct 22 2026 10:05:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Solana says it records $5 trillion in stablecoin volume this year, with more than two months left in the year.\n\nWhere do you expect the total to end 2026?",
+    "link": "https://cryptopanic.com/news/33584080/UPDATE-Solana-says-it-records-5-trillion-in-stablecoin-volume-this-year-with-more-than-two-months-left-in-the-year-Where-do-you-expect-the-total-to-end-2026",
+    "source": "@cointelegraph",
+    "published": "Thu Oct 22 2026 10:01:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "HUGE NEWS FOR THE CRYPTO INDUSTRY! \n\nThe US OCC has reportedly finalised GENIUS Act rules covering stablecoin reserves, redemptions and custody, effective January 2027!\n\nThis could be a MASSIVE step towards institutional adoption as clearer rules mean greater confidence for",
+    "link": "https://cryptopanic.com/news/33584083/HUGE-NEWS-FOR-THE-CRYPTO-INDUSTRY-The-US-OCC-has-reportedly-finalised-GENIUS-Act-rules-covering-stablecoin-reserves-redemptions-and-custody-effective-January-2027-This-could-be-a-MASSIVE-step-towards-institutional-adoption-as-clearer-rules-mean-greater-confidence-for",
+    "source": "@realallincrypto",
+    "published": "Thu Oct 22 2026 10:00:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "this is your sign.",
+    "link": "https://cryptopanic.com/news/33583953/this-is-your-sign",
+    "source": "@coinmarketcap",
+    "published": "Thu Oct 22 2026 10:00:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Pepe (PEPE), Uniswap (UNI), Ethena (ENA) and Others: Whales Are Buying Smaller Altcoins, but Why?",
+    "link": "https://cryptopanic.com/news/33584034/Pepe-PEPE-Uniswap-UNI-Ethena-ENA-and-Others-Whales-Are-Buying-Smaller-Altcoins-but-Why",
+    "source": "u.today",
+    "published": "Thu Oct 22 2026 10:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: @Grayscale expands in-kind crypto transfers across 10 investment products, letting eligible investors contribute $BTC, $ETH, $SOL, $XRP, $ZEC and five others directly for fund shares without selling to cash first, with minimums starting at $80,300.",
+    "link": "https://cryptopanic.com/news/33584079/NEW-Grayscale-expands-in-kind-crypto-transfers-across-10-investment-products-letting-eligible-investors-contribute-BTC-ETH-SOL-XRP-ZEC-and-five-others-directly-for-fund-shares-without-selling-to-cash-first-with-minimums-starting-at-80300",
+    "source": "@coindesk",
+    "published": "Thu Oct 22 2026 09:58:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin ETFs draw $528 million as ether funds snap five-day outflow streak",
+    "link": "https://cryptopanic.com/news/33583959/Bitcoin-ETFs-draw-528-million-as-ether-funds-snap-five-day-outflow-streak",
     "source": "theblock.co",
-    "published": "Thu Oct 22 2026 00:00:00 GMT+0000 (Coordinated Universal Time)",
+    "published": "Thu Oct 22 2026 09:56:16 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "France’s National Assembly Votes 38 to 37 to Tax Crypto-to-Stablecoin Swaps From 2027",
-    "link": "https://cryptopanic.com/news/33577396/Frances-National-Assembly-Votes-38-to-37-to-Tax-Crypto-to-Stablecoin-Swaps-From-2027",
-    "source": "cryptopotato.com",
-    "published": "Wed Oct 21 2026 07:41:40 GMT+0000 (Coordinated Universal Time)",
+    "title": "Live updates: Bitcoin’s round trip to $85,000 burns traders on both sides",
+    "link": "https://cryptopanic.com/news/33584022/Live-updates-Bitcoins-round-trip-to-85000-burns-traders-on-both-sides",
+    "source": "coindesk.com",
+    "published": "Thu Oct 22 2026 09:54:26 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "SpaceX Becoming a Bitcoin Hodler? Elon Musk-Led  Rocket Company Keeps All BTC, Now Worth $1.57 Billion",
-    "link": "https://cryptopanic.com/news/33577400/SpaceX-Becoming-a-Bitcoin-Hodler-Elon-Musk-Led-Rocket-Company-Keeps-All-BTC-Now-Worth-157-Billion",
-    "source": "feeds2.benzinga.com",
-    "published": "Wed Oct 21 2026 07:32:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin holds near $83k as easing bearish momentum puts $89,337 in focus",
-    "link": "https://cryptopanic.com/news/33577255/Bitcoin-holds-near-83k-as-easing-bearish-momentum-puts-89337-in-focus",
-    "source": "coinjournal.net",
-    "published": "Wed Oct 21 2026 07:09:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Elon Musk and Anthropic unveil AI wealth-sharing plans that could reach over $110 billion",
-    "link": "https://cryptopanic.com/news/33574356/Elon-Musk-and-Anthropic-unveil-AI-wealth-sharing-plans-that-could-reach-over-110-billion",
-    "source": "cryptoslate.com",
-    "published": "Tue Oct 20 2026 18:00:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: JPMorgan launches crypto stablecoin 'JPM Coin' on Ethereum, allowing institutional clients to transfer money 24/7.",
-    "link": "https://cryptopanic.com/news/33566006/JUST-IN-JPMorgan-launches-crypto-stablecoin-JPM-Coin-on-Ethereum-allowing-institutional-clients-to-transfer-money-247",
-    "source": "@watcherguru",
-    "published": "Mon Oct 19 2026 10:12:29 GMT+0000 (Coordinated Universal Time)",
+    "title": "In response to reports of suspicious outflows, CoinDCX and co-founder Sumit Gupta issued statements assuring users that funds remain safe, asserting that flagged transactions originated from legacy addresses compromised during its July 2025 exploit and abandoned since. Gupta",
+    "link": "https://cryptopanic.com/news/33583956/In-response-to-reports-of-suspicious-outflows-CoinDCX-and-co-founder-Sumit-Gupta-issued-statements-assuring-users-that-funds-remain-safe-asserting-that-flagged-transactions-originated-from-legacy-addresses-compromised-during-its-July-2025-exploit-and-abandoned-since-Gupta",
+    "source": "@wublockchain",
+    "published": "Thu Oct 22 2026 09:51:58 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -56,10 +105,38 @@
     "sentiment": "neutral"
   },
   {
+    "title": "OCC GENIUS Act Rules Could Reshape the US Stablecoin Market",
+    "link": "https://cryptopanic.com/news/33583993/OCC-GENIUS-Act-Rules-Could-Reshape-the-US-Stablecoin-Market",
+    "source": "99bitcoins.com",
+    "published": "Thu Oct 22 2026 09:45:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "China made a move on 61,800 seized Bitcoin – But a UK court got there first",
     "link": "https://cryptopanic.com/news/33583918/China-made-a-move-on-61800-seized-Bitcoin-But-a-UK-court-got-there-first",
     "source": "ambcrypto.com",
     "published": "Thu Oct 22 2026 09:45:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "German regulator revokes license of Bank Saderat Iran in Hamburg",
+    "link": "https://cryptopanic.com/news/33584082/German-regulator-revokes-license-of-Bank-Saderat-Iran-in-Hamburg",
+    "source": "@reutersbiz",
+    "published": "Thu Oct 22 2026 09:45:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Stock Market Today: S&P 500, Dow Futures Drop Following Asian Market Sell-off, Middle East Tensions — NFLX, SPCX, SMCI in Focus",
+    "link": "https://cryptopanic.com/news/33583955/Stock-Market-Today-SP-500-Dow-Futures-Drop-Following-Asian-Market-Sell-off-Middle-East-Tensions-NFLX-SPCX-SMCI-in-Focus",
+    "source": "feeds2.benzinga.com",
+    "published": "Thu Oct 22 2026 09:43:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇺🇸 President Trump says federal law enforcement has “frozen nearly $1 billion” in crypto tied to foreign scammers and “prevented $1.6 billion in losses at least this year,” referring to it as “cybercurrency.”",
+    "link": "https://cryptopanic.com/news/33583950/LATEST-President-Trump-says-federal-law-enforcement-has-frozen-nearly-1-billion-in-crypto-tied-to-foreign-scammers-and-prevented-16-billion-in-losses-at-least-this-year-referring-to-it-as-cybercurrency",
+    "source": "@coinmarketcap",
+    "published": "Thu Oct 22 2026 09:35:02 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -105,6 +182,20 @@
     "sentiment": "neutral"
   },
   {
+    "title": "AI Stocks Could Crash in 2027: 3 Ways to Protect Your Money",
+    "link": "https://cryptopanic.com/news/33584017/AI-Stocks-Could-Crash-in-2027-3-Ways-to-Protect-Your-Money",
+    "source": "beincrypto.com",
+    "published": "Thu Oct 22 2026 09:26:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin ETFs Turn October Positive With $1 Billion in Three Days While ETH Funds Bleed $1 Billion",
+    "link": "https://cryptopanic.com/news/33583992/Bitcoin-ETFs-Turn-October-Positive-With-1-Billion-in-Three-Days-While-ETH-Funds-Bleed-1-Billion",
+    "source": "99bitcoins.com",
+    "published": "Thu Oct 22 2026 09:26:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "A whale just got liquidated for 121.33 $BTC ($9.91M) as the market dropped.",
     "link": "https://cryptopanic.com/news/33583931/A-whale-just-got-liquidated-for-12133-BTC-991M-as-the-market-dropped",
     "source": "@lookonchain",
@@ -116,97 +207,6 @@
     "link": "https://cryptopanic.com/news/33583804/Bitcoin-Plunges-Over-3K-After-85K-Rejection-Altcoins-Get-Hit-Harder-Market-Watch",
     "source": "cryptopotato.com",
     "published": "Thu Oct 22 2026 09:21:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "MAGMA has surged over 70% today!\n\n2 wallets opened 2x longs on 1.5M $MAGMA ($775K) on @Aster_DEX and are now sitting on $340K in unrealized profit, with returns as high as 105.84%.",
-    "link": "https://cryptopanic.com/news/33583930/MAGMA-has-surged-over-70-today-2-wallets-opened-2x-longs-on-15M-MAGMA-775K-on-Aster_DEX-and-are-now-sitting-on-340K-in-unrealized-profit-with-returns-as-high-as-10584",
-    "source": "@lookonchain",
-    "published": "Thu Oct 22 2026 09:20:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Live charts ⤵️\n\nTesla: \n\nSpaceX",
-    "link": "https://cryptopanic.com/news/33583846/Live-charts-Tesla-SpaceX",
-    "source": "@cryptoquant_com",
-    "published": "Thu Oct 22 2026 09:16:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Layer 2 Scaling Solutions",
-    "link": "https://cryptopanic.com/news/33583759/Layer-2-Scaling-Solutions",
-    "source": "theblock.co",
-    "published": "Thu Oct 22 2026 09:15:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SpaceX and Tesla are exploring a merger.\n\nQ3 quarterly revenue:\nSpaceX: $14.58B\nTesla: $28.05B\n\nBut here's what's more interesting for crypto:\n\nSpaceX holds 18,712 bitcoin:native.\nTesla holds 11,509 BTC.\n\nCombined, that's 30,221 BTC on one balance sheet if the merger happens.",
-    "link": "https://cryptopanic.com/news/33583845/SpaceX-and-Tesla-are-exploring-a-merger-Q3-quarterly-revenue-SpaceX-1458B-Tesla-2805B-But-heres-whats-more-interesting-for-crypto-SpaceX-holds-18712-bitcoinnative-Tesla-holds-11509-BTC-Combined-thats-30221-BTC-on-one-balance-sheet-if-the-merger-happens",
-    "source": "@cryptoquant_com",
-    "published": "Thu Oct 22 2026 09:15:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Florida Woman Drains $152,000 in Social Security Benefits From Deceased Relative, Faces Multiple Years Behind Bars",
-    "link": "https://cryptopanic.com/news/33583800/Florida-Woman-Drains-152000-in-Social-Security-Benefits-From-Deceased-Relative-Faces-Multiple-Years-Behind-Bars",
-    "source": "dailyhodl.com",
-    "published": "Thu Oct 22 2026 09:15:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Chamath Says BTC To Zero - ETFs Disagree! Gold Is F*CKED, PUMP FUN BULL CASE & Hashdex Interview",
-    "link": "https://cryptopanic.com/news/33583794/Chamath-Says-BTC-To-Zero-ETFs-Disagree-Gold-Is-FCKED-PUMP-FUN-BULL-CASE-Hashdex-Interview",
-    "source": "TheCryptoLark",
-    "published": "Thu Oct 22 2026 09:15:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "OpenAI on Google Cloud: Private Preview Launches, GA Weeks Away",
-    "link": "https://cryptopanic.com/news/33583770/OpenAI-on-Google-Cloud-Private-Preview-Launches-GA-Weeks-Away",
-    "source": "spaziocrypto.com",
-    "published": "Thu Oct 22 2026 09:12:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "South Korea’s crypto bill nears completion while tax debate intensifies: reports",
-    "link": "https://cryptopanic.com/news/33583649/South-Koreas-crypto-bill-nears-completion-while-tax-debate-intensifies-reports",
-    "source": "theblock.co",
-    "published": "Thu Oct 22 2026 09:11:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ETH to XMR: How to Swap Ethereum to Monero Without an Account as XMR Outpaces Ether",
-    "link": "https://cryptopanic.com/news/33583643/ETH-to-XMR-How-to-Swap-Ethereum-to-Monero-Without-an-Account-as-XMR-Outpaces-Ether",
-    "source": "cryptonews.com",
-    "published": "Thu Oct 22 2026 09:11:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Sei Network Enters The MiCA Spotlight in Europe\n\nSEI’s (@SeiNetwork) $SEI MiCA white paper has been filed for public record in Europe by OKX (@okx) Europe Limited.\n\nThe document covers 30 EEA countries and supports SEI’s admission to trading on OKX’s platform. It outlines the",
-    "link": "https://cryptopanic.com/news/33583926/Sei-Network-Enters-The-MiCA-Spotlight-in-Europe-SEIs-SeiNetwork-SEI-MiCA-white-paper-has-been-filed-for-public-record-in-Europe-by-OKX-okx-Europe-Limited-The-document-covers-30-EEA-countries-and-supports-SEIs-admission-to-trading-on-OKXs-platform-It-outlines-the",
-    "source": "@bscnews",
-    "published": "Thu Oct 22 2026 09:11:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin ETFs Pull In $1.07B as Irish Drug Trafficker-Linked Wallet Moves $41M",
-    "link": "https://cryptopanic.com/news/33583642/Bitcoin-ETFs-Pull-In-107B-as-Irish-Drug-Trafficker-Linked-Wallet-Moves-41M",
-    "source": "cryptonews.com",
-    "published": "Thu Oct 22 2026 09:10:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "This mysterious whale sold another 246.25 $BTC ($20.64M) and then bought 8,286 $ETH ($20.64M) today.\n\nOver the past 11 days, the whale has sold a total of 1,917.7 $BTC ($159M) and bought 64,545 $ETH ($155M).",
-    "link": "https://cryptopanic.com/news/33583929/This-mysterious-whale-sold-another-24625-BTC-2064M-and-then-bought-8286-ETH-2064M-today-Over-the-past-11-days-the-whale-has-sold-a-total-of-19177-BTC-159M-and-bought-64545-ETH-155M",
-    "source": "@lookonchain",
-    "published": "Thu Oct 22 2026 09:09:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana’s TPS Fell With Alpenglow – Votes Left the Count",
-    "link": "https://cryptopanic.com/news/33583638/Solanas-TPS-Fell-With-Alpenglow-Votes-Left-the-Count",
-    "source": "coindoo.com",
-    "published": "Thu Oct 22 2026 09:09:23 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
