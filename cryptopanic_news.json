@@ -1,5 +1,54 @@
 [
   {
+    "title": "NEW: Uniswap launches Aggregator Hooks on Ethereum, Base and Robinhood Chain, integrating external liquidity into v4 pools with protocol fees contributing to UNI burns.",
+    "link": "https://cryptopanic.com/news/33586253/NEW-Uniswap-launches-Aggregator-Hooks-on-Ethereum-Base-and-Robinhood-Chain-integrating-external-liquidity-into-v4-pools-with-protocol-fees-contributing-to-UNI-burns",
+    "source": "@cointelegraph",
+    "published": "Thu Oct 22 2026 16:50:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Charles Hoskinson says \"it's a golden age for building, and I love solving hard problems, there's a reason I studied mathematics—I love this idea of a puzzle, and pulling it apart and solving the whole thing. Markets are puzzles, systems are puzzles, AI's a puzzle.\"",
+    "link": "https://cryptopanic.com/news/33586251/UPDATE-Charles-Hoskinson-says-its-a-golden-age-for-building-and-I-love-solving-hard-problems-theres-a-reason-I-studied-mathematicsI-love-this-idea-of-a-puzzle-and-pulling-it-apart-and-solving-the-whole-thing-Markets-are-puzzles-systems-are-puzzles-AIs-a-puzzle",
+    "source": "@angrycryptoshow",
+    "published": "Thu Oct 22 2026 16:49:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Charles Hoskinson says \"I'm happiest when I have something to build, that's why I love the AI revolution—it made everybody a builder. Every time I talked to somebody, I said don't bring me an idea, bring me a product—then we can work together and engage with each other.\"",
+    "link": "https://cryptopanic.com/news/33586249/UPDATE-Charles-Hoskinson-says-Im-happiest-when-I-have-something-to-build-thats-why-I-love-the-AI-revolutionit-made-everybody-a-builder-Every-time-I-talked-to-somebody-I-said-dont-bring-me-an-idea-bring-me-a-productthen-we-can-work-together-and-engage-with-each-other",
+    "source": "@angrycryptoshow",
+    "published": "Thu Oct 22 2026 16:49:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Charles Hoskinson on regenerative medicine, says \"I want to make it a lot cheaper for people to get personalized stem cells to the masses, and then all these innovations as they come, everyday people get to enjoy them instead of millionaires and billionaires.\"",
+    "link": "https://cryptopanic.com/news/33586248/UPDATE-Charles-Hoskinson-on-regenerative-medicine-says-I-want-to-make-it-a-lot-cheaper-for-people-to-get-personalized-stem-cells-to-the-masses-and-then-all-these-innovations-as-they-come-everyday-people-get-to-enjoy-them-instead-of-millionaires-and-billionaires",
+    "source": "@angrycryptoshow",
+    "published": "Thu Oct 22 2026 16:48:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: Charles Hoskinson says \"agents give a level of intelligence for processing smart contracts that we've never enjoyed before. Our Long-term view for Midnight, in addition to the VPN for DeFi, make it the preferred place to add true intelligence and abstraction to all crypto.\"",
+    "link": "https://cryptopanic.com/news/33586246/NEW-Charles-Hoskinson-says-agents-give-a-level-of-intelligence-for-processing-smart-contracts-that-weve-never-enjoyed-before-Our-Long-term-view-for-Midnight-in-addition-to-the-VPN-for-DeFi-make-it-the-preferred-place-to-add-true-intelligence-and-abstraction-to-all-crypto",
+    "source": "@angrycryptoshow",
+    "published": "Thu Oct 22 2026 16:47:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Barclays to Cut 5,000 Jobs Despite 12% Profit Growth, With Tech Roles Among the Hardest Hit",
+    "link": "https://cryptopanic.com/news/33586221/Barclays-to-Cut-5000-Jobs-Despite-12-Profit-Growth-With-Tech-Roles-Among-the-Hardest-Hit",
+    "source": "coinpaper.com",
+    "published": "Thu Oct 22 2026 16:47:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 Nvidia $NVDA CEO Jensen Huang supports California's proposed billionaire tax, despite potentially having to pay $8,000,000,000\n\n\"I don't mind paying taxes. The more you make, the more taxes you pay. I'm okay with that.\"",
+    "link": "https://cryptopanic.com/news/33586219/JUST-IN-Nvidia-NVDA-CEO-Jensen-Huang-supports-Californias-proposed-billionaire-tax-despite-potentially-having-to-pay-8000000000-I-dont-mind-paying-taxes-The-more-you-make-the-more-taxes-you-pay-Im-okay-with-that",
+    "source": "@watcherguru",
+    "published": "Thu Oct 22 2026 16:41:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "BITCOIN BULLS SAVING AMMO FOR THE WEEKEND?\n\nBuyers stacking bids at $80,000, unwilling to budge.\n\nSellers spread between $82,000 and $85,500.",
     "link": "https://cryptopanic.com/news/33586220/BITCOIN-BULLS-SAVING-AMMO-FOR-THE-WEEKEND-Buyers-stacking-bids-at-80000-unwilling-to-budge-Sellers-spread-between-82000-and-85500",
     "source": "@btc_archive",
@@ -25,6 +74,20 @@
     "link": "https://cryptopanic.com/news/33586161/JUST-IN-Robinhood-secures-Dubai-regulatory-approval-for-its-Middle-East-expansion-choosing-DIFC-as-its-regional-headquarters-ahead-of-a-planned-2027-launch",
     "source": "@cointelegraph",
     "published": "Thu Oct 22 2026 16:30:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🤖 CoinMarketCap | Agentic Charts 🤖\n \nWe’ve added around 7,800 TradFi assets to CoinMarketCap’s Agentic Charts, including stocks and ETFs.\n \n Search any ticker in the TradFi tab\n Ask the agent to draw key levels\n Compare stocks with crypto majors\n \nStart reading stock",
+    "link": "https://cryptopanic.com/news/33586243/CoinMarketCap-Agentic-Charts-Weve-added-around-7800-TradFi-assets-to-CoinMarketCaps-Agentic-Charts-including-stocks-and-ETFs-Search-any-ticker-in-the-TradFi-tab-Ask-the-agent-to-draw-key-levels-Compare-stocks-with-crypto-majors-Start-reading-stock",
+    "source": "@coinmarketcap",
+    "published": "Thu Oct 22 2026 16:30:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CoinMarketCap | RWA Stocks \n \nMeta · $META\n \nMeta beat Q3 estimates with $64.6B in revenue, up 26% and well above the $63.3B forecast. The stock jumped on the news, then gave the gains back.\n \n Q4 revenue outlook: $73B to $76B\n A 2-for-1 stock split is on the way",
+    "link": "https://cryptopanic.com/news/33586241/CoinMarketCap-RWA-Stocks-Meta-META-Meta-beat-Q3-estimates-with-646B-in-revenue-up-26-and-well-above-the-633B-forecast-The-stock-jumped-on-the-news-then-gave-the-gains-back-Q4-revenue-outlook-73B-to-76B-A-2-for-1-stock-split-is-on-the-way",
+    "source": "@coinmarketcap",
+    "published": "Thu Oct 22 2026 16:30:08 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -67,6 +130,13 @@
     "link": "https://cryptopanic.com/news/33586097/Crypto-Users-Get-44-Interest-Bearing-Deposits-From-SoFi",
     "source": "coindoo.com",
     "published": "Thu Oct 22 2026 16:18:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: ️ CryptoQuant CEO Ki Young Ju says rising Bitcoin hashrate is an \"indirect bullish signal\" from institutions, since public miners are largely backed by TradFi firms.",
+    "link": "https://cryptopanic.com/news/33586240/LATEST-CryptoQuant-CEO-Ki-Young-Ju-says-rising-Bitcoin-hashrate-is-an-indirect-bullish-signal-from-institutions-since-public-miners-are-largely-backed-by-TradFi-firms",
+    "source": "@coinmarketcap",
+    "published": "Thu Oct 22 2026 16:17:03 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/33586046/Justin-Sun-Turns-Bearish-on-Bitcoin-Over-AI-and-Quantum-Computing-Risks",
     "source": "zycrypto.com",
     "published": "Thu Oct 22 2026 16:06:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: @FireblocksHQ denies it is in talks to be acquired by @Visa, calling reports of a $2.5B deal “news to us, and not true at present time,” while @Coinbase also denies involvement in a potential transaction.",
-    "link": "https://cryptopanic.com/news/33586157/NEW-FireblocksHQ-denies-it-is-in-talks-to-be-acquired-by-Visa-calling-reports-of-a-25B-deal-news-to-us-and-not-true-at-present-time-while-Coinbase-also-denies-involvement-in-a-potential-transaction",
-    "source": "@coindesk",
-    "published": "Thu Oct 22 2026 16:05:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$ETH Very indecisive against $BTC. Now sitting right at its Daily 200MA which it has traded at for some time.\n\nETH's relative weakness has also made it so most alts underperformed BTC during this sideways chop.\n\nAlways one of the main indicators of altcoin strength relative to",
-    "link": "https://cryptopanic.com/news/33586162/ETH-Very-indecisive-against-BTC-Now-sitting-right-at-its-Daily-200MA-which-it-has-traded-at-for-some-time-ETHs-relative-weakness-has-also-made-it-so-most-alts-underperformed-BTC-during-this-sideways-chop-Always-one-of-the-main-indicators-of-altcoin-strength-relative-to",
-    "source": "@daancrypto",
-    "published": "Thu Oct 22 2026 16:02:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HUGE: @StellarOrg is preparing for a MASSIVE upgrade on November! \n\nProtocol 30 will make it easier for businesses to manage digital assets at scale, while laying the foundations for protection against future quantum computers!\n\n$XLM is building infrastructure for the NEXT",
-    "link": "https://cryptopanic.com/news/33586163/HUGE-StellarOrg-is-preparing-for-a-MASSIVE-upgrade-on-November-Protocol-30-will-make-it-easier-for-businesses-to-manage-digital-assets-at-scale-while-laying-the-foundations-for-protection-against-future-quantum-computers-XLM-is-building-infrastructure-for-the-NEXT",
-    "source": "@realallincrypto",
-    "published": "Thu Oct 22 2026 16:00:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "FOMO HOUR ft @Tyler_Did_It and @farokh\n- \n- \n-",
-    "link": "https://cryptopanic.com/news/33585961/FOMO-HOUR-ft-Tyler_Did_It-and-farokh-",
-    "source": "@decryptmedia",
-    "published": "Thu Oct 22 2026 16:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Andreessen Horowitz to Drop ‘Crypto’ From ‘a16z Crypto’ Name",
-    "link": "https://cryptopanic.com/news/33586048/Andreessen-Horowitz-to-Drop-Crypto-From-a16z-Crypto-Name",
-    "source": "cryptoprowl.com",
-    "published": "Thu Oct 22 2026 16:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Pumpfun and Hyperliquid are once again closely matched in monthly revenue.",
-    "link": "https://cryptopanic.com/news/33585962/Pumpfun-and-Hyperliquid-are-once-again-closely-matched-in-monthly-revenue",
-    "source": "@decryptmedia",
-    "published": "Thu Oct 22 2026 16:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JPMorgan Chase, Wells Fargo and Bank of America Detect Unauthorized AI Agents Accessing Customer Accounts: Report",
-    "link": "https://cryptopanic.com/news/33586027/JPMorgan-Chase-Wells-Fargo-and-Bank-of-America-Detect-Unauthorized-AI-Agents-Accessing-Customer-Accounts-Report",
-    "source": "dailyhodl.com",
-    "published": "Thu Oct 22 2026 15:57:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum Researchers Propose Cutting Transaction Finality by 75%",
-    "link": "https://cryptopanic.com/news/33585978/Ethereum-Researchers-Propose-Cutting-Transaction-Finality-by-75",
-    "source": "cryptoprowl.com",
-    "published": "Thu Oct 22 2026 15:57:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇹🇭 NEW: Thailand’s SEC says several asset managers are exploring spot $BTC and $ETH ETFs, but none has submitted an application.",
-    "link": "https://cryptopanic.com/news/33586158/NEW-Thailands-SEC-says-several-asset-managers-are-exploring-spot-BTC-and-ETH-ETFs-but-none-has-submitted-an-application",
-    "source": "@cointelegraph",
-    "published": "Thu Oct 22 2026 15:55:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LIVE: Why US stocks are crashing today",
-    "link": "https://cryptopanic.com/news/33586010/LIVE-Why-US-stocks-are-crashing-today",
-    "source": "cryptopolitan.com",
-    "published": "Thu Oct 22 2026 15:55:26 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
