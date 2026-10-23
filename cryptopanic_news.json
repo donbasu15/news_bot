@@ -1,5 +1,33 @@
 [
   {
+    "title": "XRP Wallets Hit 8.24 Million as Network Growth Accelerates",
+    "link": "https://cryptopanic.com/news/33591701/XRP-Wallets-Hit-824-Million-as-Network-Growth-Accelerates",
+    "source": "techgaged.com",
+    "published": "Fri Oct 23 2026 16:49:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇰🇷 South Korea's government and Bank of Korea plan to revise the Foreign Exchange Transactions Act this year to treat stablecoins as payment instruments, per Digital Asset.",
+    "link": "https://cryptopanic.com/news/33591713/LATEST-South-Koreas-government-and-Bank-of-Korea-plan-to-revise-the-Foreign-Exchange-Transactions-Act-this-year-to-treat-stablecoins-as-payment-instruments-per-Digital-Asset",
+    "source": "@coinmarketcap",
+    "published": "Fri Oct 23 2026 16:47:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "“We are moving to 24/7 trading.” — TradFi\n\nREALITY: They can’t even handle regular trading hours.",
+    "link": "https://cryptopanic.com/news/33591711/We-are-moving-to-247-trading-TradFi-REALITY-They-cant-even-handle-regular-trading-hours",
+    "source": "@btc_archive",
+    "published": "Fri Oct 23 2026 16:43:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Coinbase Wrapped $ADA ($cbADA) surpasses 6,900 holders, highlighting rising demand in cross-chain #Cardano.",
+    "link": "https://cryptopanic.com/news/33591715/JUST-IN-Coinbase-Wrapped-ADA-cbADA-surpasses-6900-holders-highlighting-rising-demand-in-cross-chain-Cardano",
+    "source": "@angrycryptoshow",
+    "published": "Fri Oct 23 2026 16:42:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: 🇮🇱 Israeli Prime Minister Netanyahu calls for plan to use crypto and blockchain technology to counter potential financial sanctions.",
     "link": "https://cryptopanic.com/news/33591689/JUST-IN-Israeli-Prime-Minister-Netanyahu-calls-for-plan-to-use-crypto-and-blockchain-technology-to-counter-potential-financial-sanctions",
     "source": "@watcherguru",
@@ -11,6 +39,13 @@
     "link": "https://cryptopanic.com/news/33591652/Holding-the-Line-Ethereum-Tests-Critical-Support-Near-2350",
     "source": "techgaged.com",
     "published": "Fri Oct 23 2026 16:38:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Aptos exec: Wall Street still needs treasury stocks",
+    "link": "https://cryptopanic.com/news/33591702/Aptos-exec-Wall-Street-still-needs-treasury-stocks",
+    "source": "thestreet.com",
+    "published": "Fri Oct 23 2026 16:31:55 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -35,10 +70,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "CME Crypto Derivatives Trading Volume Reaches $469.5B in Q3",
+    "link": "https://cryptopanic.com/news/33591708/CME-Crypto-Derivatives-Trading-Volume-Reaches-4695B-in-Q3",
+    "source": "cryptoprowl.com",
+    "published": "Fri Oct 23 2026 16:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Pump Fun’s Kimchi partnership has turned into chaos",
     "link": "https://cryptopanic.com/news/33591627/Pump-Funs-Kimchi-partnership-has-turned-into-chaos",
     "source": "protos.com",
     "published": "Fri Oct 23 2026 16:29:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "“The most obvious thing for cryptographic hacks is to break SHA-256 and Satoshi’s wallet.” — Chamath Palihapitiya\n\nCan someone please tell him that’s not how it works?\n\na) If you break SHA, every bank, cloud service and government is cooked.\n\nb) Satoshi holds 20k+ wallets.",
+    "link": "https://cryptopanic.com/news/33591709/The-most-obvious-thing-for-cryptographic-hacks-is-to-break-SHA-256-and-Satoshis-wallet-Chamath-Palihapitiya-Can-someone-please-tell-him-thats-not-how-it-works-a-If-you-break-SHA-every-bank-cloud-service-and-government-is-cooked-b-Satoshi-holds-20k-wallets",
+    "source": "@btc_archive",
+    "published": "Fri Oct 23 2026 16:28:55 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -60,6 +109,13 @@
     "link": "https://cryptopanic.com/news/33591686/Hong-Kong-broker-Futu-now-lets-clients-move-BNB-in-and-out-Nasdaq-listed-futufriends-has-opened-BNB-deposits-and-withdrawals-for-eligible-professional-investors-in-Hong-Kong-Transfers-run-over-BNBCHAIN-between-self-custody-wallets-and-Futu-crypto-accounts-Futu-first-opened",
     "source": "@bscnews",
     "published": "Fri Oct 23 2026 16:20:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Initia Halts L1 and Rollups After Security Incident; Researcher Reports Unauthorized Token Minting \n\nInitia said its L1 and rollups were halted as of 15:41 UTC on October 23 following a security incident, with the team investigating the scope of the impact alongside validators,",
+    "link": "https://cryptopanic.com/news/33591714/Initia-Halts-L1-and-Rollups-After-Security-Incident-Researcher-Reports-Unauthorized-Token-Minting-Initia-said-its-L1-and-rollups-were-halted-as-of-1541-UTC-on-October-23-following-a-security-incident-with-the-team-investigating-the-scope-of-the-impact-alongside-validators",
+    "source": "@wublockchain",
+    "published": "Fri Oct 23 2026 16:19:55 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -151,62 +207,6 @@
     "link": "https://cryptopanic.com/news/33591509/Midnight-Plans-Private-DeFi-Trading-Against-Liquidity-on-Other-Chains",
     "source": "dailycoin.com",
     "published": "Fri Oct 23 2026 16:01:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Brazil Leads the World as Stablecoin Settlements Surge 70%",
-    "link": "https://cryptopanic.com/news/33591516/Brazil-Leads-the-World-as-Stablecoin-Settlements-Surge-70",
-    "source": "TheCryptoLark",
-    "published": "Fri Oct 23 2026 16:00:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Look at the FINANCIAL GIANTS @Ripple is working alongside in Singapore's BLOOM initiative! $XRP\n\nJPMorgan, Mastercard, Visa, DBS, Standard Chartered and MORE!\n\nEven the central banks of Singapore, Malaysia and Thailand are involved!\n\n$XRP is at the heart of a HUGE financial",
-    "link": "https://cryptopanic.com/news/33591455/Look-at-the-FINANCIAL-GIANTS-Ripple-is-working-alongside-in-Singapores-BLOOM-initiative-XRP-JPMorgan-Mastercard-Visa-DBS-Standard-Chartered-and-MORE-Even-the-central-banks-of-Singapore-Malaysia-and-Thailand-are-involved-XRP-is-at-the-heart-of-a-HUGE-financial",
-    "source": "@realallincrypto",
-    "published": "Fri Oct 23 2026 16:00:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Your Bank Can't Tell If It's You or an AI",
-    "link": "https://cryptopanic.com/news/33591512/Your-Bank-Cant-Tell-If-Its-You-or-an-AI",
-    "source": "CryptoTips",
-    "published": "Fri Oct 23 2026 16:00:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "100 days until Hong Kong 🇭🇰\n\nThe countdown is on for #ConsensusHK 2027!",
-    "link": "https://cryptopanic.com/news/33591625/100-days-until-Hong-Kong-The-countdown-is-on-for-ConsensusHK-2027",
-    "source": "@coindesk",
-    "published": "Fri Oct 23 2026 15:57:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin price stays neutral daily as short-term charts turn bearish",
-    "link": "https://cryptopanic.com/news/33591591/Bitcoin-price-stays-neutral-daily-as-short-term-charts-turn-bearish",
-    "source": "en.cryptonomist.ch",
-    "published": "Fri Oct 23 2026 15:56:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Zcash’s recovery stalls below the $1,240.13 daily EMA20 resistance",
-    "link": "https://cryptopanic.com/news/33591590/Zcashs-recovery-stalls-below-the-124013-daily-EMA20-resistance",
-    "source": "en.cryptonomist.ch",
-    "published": "Fri Oct 23 2026 15:56:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Pengu needs a daily close above $0.008092 for bullish confirmation",
-    "link": "https://cryptopanic.com/news/33591589/Pengu-needs-a-daily-close-above-0008092-for-bullish-confirmation",
-    "source": "en.cryptonomist.ch",
-    "published": "Fri Oct 23 2026 15:54:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Zebec and Stellar are driving corporate payrolls worldwide\n\n@Zebec_HQ leverages the @StellarOrg network to process corporate payrolls totaling more than $5 million across more than 20 active corporate wallets.\n\nThe technology automatically streams salaries and schedules payment",
-    "link": "https://cryptopanic.com/news/33591460/Zebec-and-Stellar-are-driving-corporate-payrolls-worldwide-Zebec_HQ-leverages-the-StellarOrg-network-to-process-corporate-payrolls-totaling-more-than-5-million-across-more-than-20-active-corporate-wallets-The-technology-automatically-streams-salaries-and-schedules-payment",
-    "source": "@bscnews",
-    "published": "Fri Oct 23 2026 15:52:45 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
