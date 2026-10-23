@@ -1,5 +1,40 @@
 [
   {
+    "title": "Israel Eyes Blockchain as a Sanctions Escape Hatch",
+    "link": "https://cryptopanic.com/news/33592359/Israel-Eyes-Blockchain-as-a-Sanctions-Escape-Hatch",
+    "source": "coindoo.com",
+    "published": "Fri Oct 23 2026 20:32:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Ethereum recorded net exchange outflows of roughly 169,770 $ETH, the largest in over four months, as traders watch the $2,400 level, according to Santiment.",
+    "link": "https://cryptopanic.com/news/33592358/UPDATE-Ethereum-recorded-net-exchange-outflows-of-roughly-169770-ETH-the-largest-in-over-four-months-as-traders-watch-the-2400-level-according-to-Santiment",
+    "source": "@cointelegraph",
+    "published": "Fri Oct 23 2026 20:30:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin, Ethereum, Solana Draw Uneven Corporate Bets—Which Is Gaining Ground?",
+    "link": "https://cryptopanic.com/news/33592388/Bitcoin-Ethereum-Solana-Draw-Uneven-Corporate-BetsWhich-Is-Gaining-Ground",
+    "source": "feeds2.benzinga.com",
+    "published": "Fri Oct 23 2026 20:30:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UK’s FCA says crypto apps may need licenses when algorithms choose trade routes",
+    "link": "https://cryptopanic.com/news/33592360/UKs-FCA-says-crypto-apps-may-need-licenses-when-algorithms-choose-trade-routes",
+    "source": "cryptoslate.com",
+    "published": "Fri Oct 23 2026 20:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Circle Shareholder Sues Trump Over UAE Deals Tied to World Liberty: Report",
+    "link": "https://cryptopanic.com/news/33592328/Circle-Shareholder-Sues-Trump-Over-UAE-Deals-Tied-to-World-Liberty-Report",
+    "source": "cryptopotato.com",
+    "published": "Fri Oct 23 2026 20:17:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm",
     "link": "https://cryptopanic.com/news/33592324/Senate-Democrat-Probes-Tether-Payments-to-Ex-White-House-Crypto-Advisers-Firm",
     "source": "decrypt.co",
@@ -7,10 +42,52 @@
     "sentiment": "neutral"
   },
   {
+    "title": "ChainPatrol shows where scammers hunt crypto users, using Zebec’s numbers\n\n@ChainPatrol finds and blocks fake accounts, scam websites, and fake crypto wallets that copy crypto brands, feeding its blocklist into more than 20 wallets, including MetaMask and Phantom. Its clients",
+    "link": "https://cryptopanic.com/news/33592393/ChainPatrol-shows-where-scammers-hunt-crypto-users-using-Zebecs-numbers-ChainPatrol-finds-and-blocks-fake-accounts-scam-websites-and-fake-crypto-wallets-that-copy-crypto-brands-feeding-its-blocklist-into-more-than-20-wallets-including-MetaMask-and-Phantom-Its-clients",
+    "source": "@bscnews",
+    "published": "Fri Oct 23 2026 20:16:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "WATCH: AI data platform developer Encord unveiled a new training program that combines camera vision with muscle sensors to produce higher quality data that can be used to better train robots",
+    "link": "https://cryptopanic.com/news/33592389/WATCH-AI-data-platform-developer-Encord-unveiled-a-new-training-program-that-combines-camera-vision-with-muscle-sensors-to-produce-higher-quality-data-that-can-be-used-to-better-train-robots",
+    "source": "@reutersbiz",
+    "published": "Fri Oct 23 2026 20:15:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin Struggles Below $82K as Solana ETFs Record Their Worst Month Since Launch",
     "link": "https://cryptopanic.com/news/33592161/Bitcoin-Struggles-Below-82K-as-Solana-ETFs-Record-Their-Worst-Month-Since-Launch",
     "source": "solanafloor.com",
     "published": "Fri Oct 23 2026 20:13:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Treasury Analyst: MSTR, ASST & Metaplanet Digital Credit Outlook",
+    "link": "https://cryptopanic.com/news/33592327/Bitcoin-Treasury-Analyst-MSTR-ASST-Metaplanet-Digital-Credit-Outlook",
+    "source": "BitcoinMagazine",
+    "published": "Fri Oct 23 2026 20:06:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$BTC Pretty much flat in Q4 so far.\n\nGenerally, Q4 sees big moves. It is the quarter where cycle tops and bottoms are set and where big breaks occur.\n\nVolatility will happen into the last two months of the year.",
+    "link": "https://cryptopanic.com/news/33592391/BTC-Pretty-much-flat-in-Q4-so-far-Generally-Q4-sees-big-moves-It-is-the-quarter-where-cycle-tops-and-bottoms-are-set-and-where-big-breaks-occur-Volatility-will-happen-into-the-last-two-months-of-the-year",
+    "source": "@daancrypto",
+    "published": "Fri Oct 23 2026 20:03:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ripple and $XRP has been transforming cross-border payments in Thailand for YEARS! \n\nOne of Thailand's OLDEST and LARGEST banks, Siam Commercial Bank, has already used @Ripple technology to deliver instant international payments!\n\nNow Thailand's central bank joins BLOOM",
+    "link": "https://cryptopanic.com/news/33592392/Ripple-and-XRP-has-been-transforming-cross-border-payments-in-Thailand-for-YEARS-One-of-Thailands-OLDEST-and-LARGEST-banks-Siam-Commercial-Bank-has-already-used-Ripple-technology-to-deliver-instant-international-payments-Now-Thailands-central-bank-joins-BLOOM",
+    "source": "@realallincrypto",
+    "published": "Fri Oct 23 2026 20:00:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BIG: QatarEnergy and Cheniere Energy announce a deal for Qatar to buy US natural gas as the Iran war redraws global energy markets.",
+    "link": "https://cryptopanic.com/news/33592357/BIG-QatarEnergy-and-Cheniere-Energy-announce-a-deal-for-Qatar-to-buy-US-natural-gas-as-the-Iran-war-redraws-global-energy-markets",
+    "source": "@cointelegraph",
+    "published": "Fri Oct 23 2026 20:00:35 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -56,6 +133,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "MSTR stock today trades at $146.675 as of 15:39 ET, below its $148.01 EMA",
+    "link": "https://cryptopanic.com/news/33592363/MSTR-stock-today-trades-at-146675-as-of-1539-ET-below-its-14801-EMA",
+    "source": "en.cryptonomist.ch",
+    "published": "Fri Oct 23 2026 19:47:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Why Ripple’s Backing SEC’s Proposed Crypto Regulations",
     "link": "https://cryptopanic.com/news/33592245/Why-Ripples-Backing-SECs-Proposed-Crypto-Regulations",
     "source": "dailycoin.com",
@@ -77,10 +161,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Solana price faces the $104.21 pivot as bearish pressure builds",
+    "link": "https://cryptopanic.com/news/33592362/Solana-price-faces-the-10421-pivot-as-bearish-pressure-builds",
+    "source": "en.cryptonomist.ch",
+    "published": "Fri Oct 23 2026 19:43:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "IRYS crypto jumps nearly 580% as traders betting against it lose $21M",
     "link": "https://cryptopanic.com/news/33592238/IRYS-crypto-jumps-nearly-580-as-traders-betting-against-it-lose-21M",
     "source": "ambcrypto.com",
     "published": "Fri Oct 23 2026 19:43:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tesla stock trades 0.37% lower as hourly resistance limits the bullish case",
+    "link": "https://cryptopanic.com/news/33592361/Tesla-stock-trades-037-lower-as-hourly-resistance-limits-the-bullish-case",
+    "source": "en.cryptonomist.ch",
+    "published": "Fri Oct 23 2026 19:42:58 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -109,104 +207,6 @@
     "link": "https://cryptopanic.com/news/33592178/US-Tower-Stocks-Rally-as-SpaceX-Eyes-Mobile-Expansion",
     "source": "catenaa.com",
     "published": "Fri Oct 23 2026 19:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$1.8T Franklin Templeton to launch two 95% stock / 5% Bitcoin ETFs.\n\n• Stock dividends go into Bitcoin.\n\n• One tracks S&P 500, the other Nasdaq 100.",
-    "link": "https://cryptopanic.com/news/33592241/18T-Franklin-Templeton-to-launch-two-95-stock-5-Bitcoin-ETFs-Stock-dividends-go-into-Bitcoin-One-tracks-SampP-500-the-other-Nasdaq-100",
-    "source": "@btc_archive",
-    "published": "Fri Oct 23 2026 19:26:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Irys rockets past its May record with an 800% day \n\nirys:native traded near $0.19, up more than 800% over 24 hours from a low near $0.02. Trading volume topped $1B, lifting its market cap to about $492M.\n\n@irys_xyz bills itself as a programmable datachain, a layer 1 that stores",
-    "link": "https://cryptopanic.com/news/33592194/Irys-rockets-past-its-May-record-with-an-800-day-irysnative-traded-near-019-up-more-than-800-over-24-hours-from-a-low-near-002-Trading-volume-topped-1B-lifting-its-market-cap-to-about-492M-irys_xyz-bills-itself-as-a-programmable-datachain-a-layer-1-that-stores",
-    "source": "@bscnews",
-    "published": "Fri Oct 23 2026 19:16:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "President Donald Trump said Canada is working hard to make a trade deal with the United States and added that the US holds ‘all the cards’. Read more here",
-    "link": "https://cryptopanic.com/news/33592155/President-Donald-Trump-said-Canada-is-working-hard-to-make-a-trade-deal-with-the-United-States-and-added-that-the-US-holds-all-the-cards-Read-more-here",
-    "source": "@reutersbiz",
-    "published": "Fri Oct 23 2026 19:15:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Billionaire Investor Chamath Palihapitiya Says Bitcoin Will Eventually Be Hacked by AI and Go to Zero",
-    "link": "https://cryptopanic.com/news/33592162/Billionaire-Investor-Chamath-Palihapitiya-Says-Bitcoin-Will-Eventually-Be-Hacked-by-AI-and-Go-to-Zero",
-    "source": "zycrypto.com",
-    "published": "Fri Oct 23 2026 19:13:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇿🇦 South Africa is sending its draft crypto capital controls back to the drawing board, with Finance Minister Enoch Godongwana saying thousands of comments showed “a different approach” is needed.\n\nGodongwana says the country will shift away from prior approval toward a",
-    "link": "https://cryptopanic.com/news/33592242/LATEST-South-Africa-is-sending-its-draft-crypto-capital-controls-back-to-the-drawing-board-with-Finance-Minister-Enoch-Godongwana-saying-thousands-of-comments-showed-a-different-approach-is-needed-Godongwana-says-the-country-will-shift-away-from-prior-approval-toward-a",
-    "source": "@coinmarketcap",
-    "published": "Fri Oct 23 2026 19:11:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SEC to prioritize “super intelligence” and tokenization in 2027",
-    "link": "https://cryptopanic.com/news/33592159/SEC-to-prioritize-super-intelligence-and-tokenization-in-2027",
-    "source": "cryptopolitan.com",
-    "published": "Fri Oct 23 2026 19:10:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BULLISH: CZ says past declarations that “Bitcoin is dead” marked “the best times to buy Bitcoin.”",
-    "link": "https://cryptopanic.com/news/33592154/BULLISH-CZ-says-past-declarations-that-Bitcoin-is-dead-marked-the-best-times-to-buy-Bitcoin",
-    "source": "@cointelegraph",
-    "published": "Fri Oct 23 2026 19:08:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "DOGE Launches Its Own Company, ‘Dogecoin Labs,’ to Build Beyond the Meme",
-    "link": "https://cryptopanic.com/news/33592116/DOGE-Launches-Its-Own-Company-Dogecoin-Labs-to-Build-Beyond-the-Meme",
-    "source": "zycrypto.com",
-    "published": "Fri Oct 23 2026 19:07:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INSIGHT: @JPMorgan says recent SEC and CFTC actions have partially offset the CLARITY Act’s failure, but warns crypto faces a patchwork of regulatory measures that could be reversed in two years if Democrats win the White House.",
-    "link": "https://cryptopanic.com/news/33592152/INSIGHT-JPMorgan-says-recent-SEC-and-CFTC-actions-have-partially-offset-the-CLARITY-Acts-failure-but-warns-crypto-faces-a-patchwork-of-regulatory-measures-that-could-be-reversed-in-two-years-if-Democrats-win-the-White-House",
-    "source": "@coindesk",
-    "published": "Fri Oct 23 2026 19:05:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Institutional demand for $HBAR ETF is EXPLODING! \n\nCanary's @hedera ETF now holds over 800 MILLION HBAR, up a MASSIVE 69% this year! \n\nThat's 1.82% of the circulating supply held in just ONE ETF!\n\nWall Street is quietly accumulating a serious chunk of Hedera!",
-    "link": "https://cryptopanic.com/news/33592156/Institutional-demand-for-HBAR-ETF-is-EXPLODING-Canarys-hedera-ETF-now-holds-over-800-MILLION-HBAR-up-a-MASSIVE-69-this-year-Thats-182-of-the-circulating-supply-held-in-just-ONE-ETF-Wall-Street-is-quietly-accumulating-a-serious-chunk-of-Hedera",
-    "source": "@realallincrypto",
-    "published": "Fri Oct 23 2026 19:01:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 LATEST: The CFTC is closely monitoring prediction markets for manipulation ahead of the US midterm elections, Mike Selig says, warning violators will be held accountable.",
-    "link": "https://cryptopanic.com/news/33592153/LATEST-The-CFTC-is-closely-monitoring-prediction-markets-for-manipulation-ahead-of-the-US-midterm-elections-Mike-Selig-says-warning-violators-will-be-held-accountable",
-    "source": "@cointelegraph",
-    "published": "Fri Oct 23 2026 19:00:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "PHP shipped its fix, attackers launched millions of attempts, and governments say no one has broken in yet.",
-    "link": "https://cryptopanic.com/news/33592197/PHP-shipped-its-fix-attackers-launched-millions-of-attempts-and-governments-say-no-one-has-broken-in-yet",
-    "source": "@decryptmedia",
-    "published": "Fri Oct 23 2026 19:00:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "FOMO HOUR ft @Tyler_Did_It and @farokh\n- \n- \n-",
-    "link": "https://cryptopanic.com/news/33592196/FOMO-HOUR-ft-Tyler_Did_It-and-farokh-",
-    "source": "@decryptmedia",
-    "published": "Fri Oct 23 2026 19:00:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HSBC Launches First Stablecoin RedCoin for 3.3 Million PayMe Users",
-    "link": "https://cryptopanic.com/news/33592092/HSBC-Launches-First-Stablecoin-RedCoin-for-33-Million-PayMe-Users",
-    "source": "coinpaprika.com",
-    "published": "Fri Oct 23 2026 19:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
