@@ -1,9 +1,44 @@
 [
   {
+    "title": "Bitcoin ETFs Bleed $636 Million as October Turns Red Again",
+    "link": "https://cryptopanic.com/news/33591446/Bitcoin-ETFs-Bleed-636-Million-as-October-Turns-Red-Again",
+    "source": "decrypt.co",
+    "published": "Fri Oct 23 2026 15:50:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "J.P. Morgan Brings $MONY and $JLTXX Tokenized Funds to Solana",
+    "link": "https://cryptopanic.com/news/33591214/JP-Morgan-Brings-MONY-and-JLTXX-Tokenized-Funds-to-Solana",
+    "source": "solanafloor.com",
+    "published": "Fri Oct 23 2026 15:48:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin’s Rally Hits 3 Roadblocks: Can Bulls Shake Off ‘Black October’?",
+    "link": "https://cryptopanic.com/news/33591459/Bitcoins-Rally-Hits-3-Roadblocks-Can-Bulls-Shake-Off-Black-October",
+    "source": "feeds2.benzinga.com",
+    "published": "Fri Oct 23 2026 15:44:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: Initia chain reportedly hacked in an infinite mint exploit, allowing attackers to create unlimited tokens, with $2.6 million allegedly cashed out so far",
+    "link": "https://cryptopanic.com/news/33591462/INTEL-Initia-chain-reportedly-hacked-in-an-infinite-mint-exploit-allowing-attackers-to-create-unlimited-tokens-with-26-million-allegedly-cashed-out-so-far",
+    "source": "@solidintel_x",
+    "published": "Fri Oct 23 2026 15:43:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "WATCH: What if you couldn’t send emails after 5 PM or on weekends?\n\n@StanChart's Geoff Kendrick explains traditional banking rails with a simple analogy.",
     "link": "https://cryptopanic.com/news/33591442/WATCH-What-if-you-couldnt-send-emails-after-5-PM-or-on-weekends-StanCharts-Geoff-Kendrick-explains-traditional-banking-rails-with-a-simple-analogy",
     "source": "@cointelegraph",
     "published": "Fri Oct 23 2026 15:40:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Polkadot's Leading DEX Is Going Big on Zcash\n\n@Hydration_net has launched @Zcash $ZEC swaps within its ecosystem. \n\nUsers can trade pairs in its liquidity layer, which features dollar-cost averaging (DCA), limit-order trade execution, and instant swapping for the privacy token.",
+    "link": "https://cryptopanic.com/news/33591458/Polkadots-Leading-DEX-Is-Going-Big-on-Zcash-Hydration_net-has-launched-Zcash-ZEC-swaps-within-its-ecosystem-Users-can-trade-pairs-in-its-liquidity-layer-which-features-dollar-cost-averaging-DCA-limit-order-trade-execution-and-instant-swapping-for-the-privacy-token",
+    "source": "@bscnews",
+    "published": "Fri Oct 23 2026 15:39:51 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -18,6 +53,20 @@
     "link": "https://cryptopanic.com/news/33591441/Is-the-AI-stock-boom-coming-to-an-end-Wall-Street-veteran-Jordi-Visser-believes-the-initial-surge-in-AI-stocks-is-over-and-crypto-now-offers-greater-upside-potential-Watch-his-full-argument-in-our-latest-interview-starting-at-0441",
     "source": "@cointelegraph",
     "published": "Fri Oct 23 2026 15:30:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Billionaire says AI fears around Bitcoin are overblown. Here's the real danger",
+    "link": "https://cryptopanic.com/news/33591448/Billionaire-says-AI-fears-around-Bitcoin-are-overblown-Heres-the-real-danger",
+    "source": "thestreet.com",
+    "published": "Fri Oct 23 2026 15:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MicroStrategy started the crypto treasury race. Now Pete Wylie says the door to new offerings has \"slammed shut.\"\n\nWhat comes next? @avax_one is betting on $AVAX, staking and businesses built around @avax.\n\n#AVAX #Crypto",
+    "link": "https://cryptopanic.com/news/33591454/MicroStrategy-started-the-crypto-treasury-race-Now-Pete-Wylie-says-the-door-to-new-offerings-has-slammed-shut-What-comes-next-avax_one-is-betting-on-AVAX-staking-and-businesses-built-around-avax-AVAX-Crypto",
+    "source": "@realallincrypto",
+    "published": "Fri Oct 23 2026 15:28:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -46,6 +95,13 @@
     "link": "https://cryptopanic.com/news/33591340/AI-Data-Centers-Could-Push-Fuel-Cell-Spending-to-30B-as-Bloom-Energy-Revenue-Surges-138",
     "source": "coinpaper.com",
     "published": "Fri Oct 23 2026 15:18:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Winters coming...",
+    "link": "https://cryptopanic.com/news/33591453/Winters-coming",
+    "source": "@realallincrypto",
+    "published": "Fri Oct 23 2026 15:17:08 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -151,62 +207,6 @@
     "link": "https://cryptopanic.com/news/33591325/WATCH-US-based-Lyft-unit-Freenow-and-Baidus-Apollo-Go-unveiled-the-Chinese-companys-RT6-autonomous-vehicle-in-London-and-said-they-hope-to-launch-a-driverless-robotaxi-service-in-the-city-in-2027",
     "source": "@reutersbiz",
     "published": "Fri Oct 23 2026 15:00:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "FOMO HOUR ft @Tyler_Did_It and @farokh\n- \n- \n-",
-    "link": "https://cryptopanic.com/news/33591333/FOMO-HOUR-ft-Tyler_Did_It-and-farokh-",
-    "source": "@decryptmedia",
-    "published": "Fri Oct 23 2026 15:00:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Is XMR about to go on a parabolic privacy run?",
-    "link": "https://cryptopanic.com/news/33591334/Is-XMR-about-to-go-on-a-parabolic-privacy-run",
-    "source": "@decryptmedia",
-    "published": "Fri Oct 23 2026 15:00:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Coinbase Ireland Fined €3.25M After Customer Funds Sat in the Wrong Accounts for Years",
-    "link": "https://cryptopanic.com/news/33591281/Coinbase-Ireland-Fined-325M-After-Customer-Funds-Sat-in-the-Wrong-Accounts-for-Years",
-    "source": "coinpaprika.com",
-    "published": "Fri Oct 23 2026 15:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Mace Ai founders warn of AI double agents amid banks detecting unauthorized AI agents",
-    "link": "https://cryptopanic.com/news/33591345/Mace-Ai-founders-warn-of-AI-double-agents-amid-banks-detecting-unauthorized-AI-agents",
-    "source": "thestreet.com",
-    "published": "Fri Oct 23 2026 15:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "FedEx’s Council Seat Anchors a Bullish Case For HBAR",
-    "link": "https://cryptopanic.com/news/33591237/FedExs-Council-Seat-Anchors-a-Bullish-Case-For-HBAR",
-    "source": "dailycoin.com",
-    "published": "Fri Oct 23 2026 15:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BTCC Exchange Q3 2026 Growth Report: 0-Barrier Trading Powers a $387B Quarter, With TradFi Volume Up 6x to $16.3B",
-    "link": "https://cryptopanic.com/news/33591438/BTCC-Exchange-Q3-2026-Growth-Report-0-Barrier-Trading-Powers-a-387B-Quarter-With-TradFi-Volume-Up-6x-to-163B",
-    "source": "beincrypto.com",
-    "published": "Fri Oct 23 2026 15:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LIVE: Oil inches dangerously close to its all-time high",
-    "link": "https://cryptopanic.com/news/33591279/LIVE-Oil-inches-dangerously-close-to-its-all-time-high",
-    "source": "cryptopolitan.com",
-    "published": "Fri Oct 23 2026 14:58:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Aave V4 Opens Institutional Lending Markets for Ripple's RLUSD and PayPal's PYUSD",
-    "link": "https://cryptopanic.com/news/33591227/Aave-V4-Opens-Institutional-Lending-Markets-for-Ripples-RLUSD-and-PayPals-PYUSD",
-    "source": "coinpaper.com",
-    "published": "Fri Oct 23 2026 14:56:55 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
