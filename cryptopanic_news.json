@@ -1,9 +1,65 @@
 [
   {
+    "title": "CME battles Kalshi on several fronts as Phantom adds new distribution",
+    "link": "https://cryptopanic.com/news/33592079/CME-battles-Kalshi-on-several-fronts-as-Phantom-adds-new-distribution",
+    "source": "cryptopolitan.com",
+    "published": "Fri Oct 23 2026 18:50:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Memecoins Search For a Floor; Sell Pressure Lingers",
+    "link": "https://cryptopanic.com/news/33592075/Memecoins-Search-For-a-Floor-Sell-Pressure-Lingers",
+    "source": "dailycoin.com",
+    "published": "Fri Oct 23 2026 18:49:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Dogecoin fans can tip any X account in DOGE, even one that never touched MyDoge\n\n@MyDoge lets users send $DOGE tips on X by tagging @MyDogeTip with the word “tip,” a handle, and an amount. The post only creates a request; nothing moves until the sender approves it in the wallet",
+    "link": "https://cryptopanic.com/news/33592071/Dogecoin-fans-can-tip-any-X-account-in-DOGE-even-one-that-never-touched-MyDoge-MyDoge-lets-users-send-DOGE-tips-on-X-by-tagging-MyDogeTip-with-the-word-tip-a-handle-and-an-amount-The-post-only-creates-a-request-nothing-moves-until-the-sender-approves-it-in-the-wallet",
+    "source": "@bscnews",
+    "published": "Fri Oct 23 2026 18:46:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "These 3 Altcoins Could EXPLODE as Wall Street Moves Onchain",
+    "link": "https://cryptopanic.com/news/33592080/These-3-Altcoins-Could-EXPLODE-as-Wall-Street-Moves-Onchain",
+    "source": "MilkRoadYoutube",
+    "published": "Fri Oct 23 2026 18:45:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Binance Founder CZ says every time people declared Bitcoin \"dead\" in the past, it was the best time to buy.",
+    "link": "https://cryptopanic.com/news/33592083/JUST-IN-Binance-Founder-CZ-says-every-time-people-declared-Bitcoin-dead-in-the-past-it-was-the-best-time-to-buy",
+    "source": "@watcherguru",
+    "published": "Fri Oct 23 2026 18:44:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Node2Shell Exploit Hits OpenAI Stack - Gold Drops as Iran War Fears Escalate",
+    "link": "https://cryptopanic.com/news/33592078/Node2Shell-Exploit-Hits-OpenAI-Stack-Gold-Drops-as-Iran-War-Fears-Escalate",
+    "source": "BTCSessions",
+    "published": "Fri Oct 23 2026 18:42:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: 🇺🇸 $1.8 trillion Franklin Templeton has received approval from Nasdaq to list two new Bitcoin ETFs with a DRIP strategy \n\nThe 'FBEQ' and 'FIBT' ETFs will reinvest dividends from US stocks into Bitcoin!",
     "link": "https://cryptopanic.com/news/33592072/JUST-IN-18-trillion-Franklin-Templeton-has-received-approval-from-Nasdaq-to-list-two-new-Bitcoin-ETFs-with-a-DRIP-strategy-The-FBEQ-and-FIBT-ETFs-will-reinvest-dividends-from-US-stocks-into-Bitcoin",
     "source": "@bitcoinmagazine",
     "published": "Fri Oct 23 2026 18:38:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇺🇸 Defense Secretary Pete Hegseth has banned Pentagon personnel from using nonpublic information to bet on US military operations, per CBS News.\n\nThe Oct. 20 memo names both Polymarket and Kalshi, with Hegseth warning \"our enemies watch movements in these markets.\"",
+    "link": "https://cryptopanic.com/news/33592085/LATEST-Defense-Secretary-Pete-Hegseth-has-banned-Pentagon-personnel-from-using-nonpublic-information-to-bet-on-US-military-operations-per-CBS-News-The-Oct-20-memo-names-both-Polymarket-and-Kalshi-with-Hegseth-warning-our-enemies-watch-movements-in-these-markets",
+    "source": "@coinmarketcap",
+    "published": "Fri Oct 23 2026 18:35:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "'Banker coin' defies oil shock as gold sinks",
+    "link": "https://cryptopanic.com/news/33592077/Banker-coin-defies-oil-shock-as-gold-sinks",
+    "source": "thestreet.com",
+    "published": "Fri Oct 23 2026 18:34:03 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -39,6 +95,13 @@
     "link": "https://cryptopanic.com/news/33592045/Bitcoin-Ethereum-XRP-Dogecoin-Steady-as-Traders-Brace-for-Potential-Weekend-Volatility",
     "source": "feeds2.benzinga.com",
     "published": "Fri Oct 23 2026 18:25:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Odds of a rate hike from the Fed next week have fallen to <10%.",
+    "link": "https://cryptopanic.com/news/33592084/Odds-of-a-rate-hike-from-the-Fed-next-week-have-fallen-to-lt10",
+    "source": "@stackersatoshi",
+    "published": "Fri Oct 23 2026 18:23:46 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -144,69 +207,6 @@
     "link": "https://cryptopanic.com/news/33591993/LATEST-Bitcoin-Core-has-changed-its-security-policy-to-patch-and-disclose-bugs-an-AI-could-easily-find-right-away-replacing-embargoes-that-previously-ran-for-months",
     "source": "@coinmarketcap",
     "published": "Fri Oct 23 2026 17:55:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Uniswap v4 Is Now an Aggregator",
-    "link": "https://cryptopanic.com/news/33591910/Uniswap-v4-Is-Now-an-Aggregator",
-    "source": "bankless.com",
-    "published": "Fri Oct 23 2026 17:53:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "How I Vibe Coded My Smart TV—And Claude Killed It",
-    "link": "https://cryptopanic.com/news/33591907/How-I-Vibe-Coded-My-Smart-TVAnd-Claude-Killed-It",
-    "source": "decrypt.co",
-    "published": "Fri Oct 23 2026 17:53:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CME-Backed Group Pushes Back on Kalshi as Phantom Rolls Out Prediction Markets",
-    "link": "https://cryptopanic.com/news/33591904/CME-Backed-Group-Pushes-Back-on-Kalshi-as-Phantom-Rolls-Out-Prediction-Markets",
-    "source": "bankless.com",
-    "published": "Fri Oct 23 2026 17:51:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Black Thursday: Is Bitcoin Next After the Market Shock?",
-    "link": "https://cryptopanic.com/news/33591955/Black-Thursday-Is-Bitcoin-Next-After-the-Market-Shock",
-    "source": "SimplyBitcoin",
-    "published": "Fri Oct 23 2026 17:48:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BlockHash Morning Brief | AI-Powered ConnectWise Breach, Bitcoin Drops Below $82K, HPE's AI Computer Heads to the Moon",
-    "link": "https://cryptopanic.com/news/33591897/BlockHash-Morning-Brief-AI-Powered-ConnectWise-Breach-Bitcoin-Drops-Below-82K-HPEs-AI-Computer-Heads-to-the-Moon",
-    "source": "Anchor",
-    "published": "Fri Oct 23 2026 17:47:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cosmos USDC is moving to Injective, and the first Noble deadline lands next week\n\n@circle stopped minting new USDC on Noble, the chain that issued the stablecoin for Cosmos. Starting October 31, Circle will begin reducing how much USDC can leave Noble through its older transfer",
-    "link": "https://cryptopanic.com/news/33591914/Cosmos-USDC-is-moving-to-Injective-and-the-first-Noble-deadline-lands-next-week-circle-stopped-minting-new-USDC-on-Noble-the-chain-that-issued-the-stablecoin-for-Cosmos-Starting-October-31-Circle-will-begin-reducing-how-much-USDC-can-leave-Noble-through-its-older-transfer",
-    "source": "@bscnews",
-    "published": "Fri Oct 23 2026 17:47:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser",
-    "link": "https://cryptopanic.com/news/33591898/Sen-Blumenthal-seeks-answers-from-Tether-over-payments-to-firm-founded-by-ex-White-House-crypto-adviser",
-    "source": "theblock.co",
-    "published": "Fri Oct 23 2026 17:46:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AmEx fires 5% of workers, raises profit forecast just 1%",
-    "link": "https://cryptopanic.com/news/33591877/AmEx-fires-5-of-workers-raises-profit-forecast-just-1",
-    "source": "protos.com",
-    "published": "Fri Oct 23 2026 17:40:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: Bitcoin ETFs lose $635M in one day, the worst day since June",
-    "link": "https://cryptopanic.com/news/33591989/INTEL-Bitcoin-ETFs-lose-635M-in-one-day-the-worst-day-since-June",
-    "source": "@solidintel_x",
-    "published": "Fri Oct 23 2026 17:34:03 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
