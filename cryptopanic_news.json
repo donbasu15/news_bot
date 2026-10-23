@@ -1,5 +1,96 @@
 [
   {
+    "title": "President Donald Trump said Canada is working hard to make a trade deal with the United States and added that the US holds ‘all the cards’. Read more here",
+    "link": "https://cryptopanic.com/news/33592155/President-Donald-Trump-said-Canada-is-working-hard-to-make-a-trade-deal-with-the-United-States-and-added-that-the-US-holds-all-the-cards-Read-more-here",
+    "source": "@reutersbiz",
+    "published": "Fri Oct 23 2026 19:15:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Billionaire Investor Chamath Palihapitiya Says Bitcoin Will Eventually Be Hacked by AI and Go to Zero",
+    "link": "https://cryptopanic.com/news/33592162/Billionaire-Investor-Chamath-Palihapitiya-Says-Bitcoin-Will-Eventually-Be-Hacked-by-AI-and-Go-to-Zero",
+    "source": "zycrypto.com",
+    "published": "Fri Oct 23 2026 19:13:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SEC to prioritize “super intelligence” and tokenization in 2027",
+    "link": "https://cryptopanic.com/news/33592159/SEC-to-prioritize-super-intelligence-and-tokenization-in-2027",
+    "source": "cryptopolitan.com",
+    "published": "Fri Oct 23 2026 19:10:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BULLISH: CZ says past declarations that “Bitcoin is dead” marked “the best times to buy Bitcoin.”",
+    "link": "https://cryptopanic.com/news/33592154/BULLISH-CZ-says-past-declarations-that-Bitcoin-is-dead-marked-the-best-times-to-buy-Bitcoin",
+    "source": "@cointelegraph",
+    "published": "Fri Oct 23 2026 19:08:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "DOGE Launches Its Own Company, ‘Dogecoin Labs,’ to Build Beyond the Meme",
+    "link": "https://cryptopanic.com/news/33592116/DOGE-Launches-Its-Own-Company-Dogecoin-Labs-to-Build-Beyond-the-Meme",
+    "source": "zycrypto.com",
+    "published": "Fri Oct 23 2026 19:07:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INSIGHT: @JPMorgan says recent SEC and CFTC actions have partially offset the CLARITY Act’s failure, but warns crypto faces a patchwork of regulatory measures that could be reversed in two years if Democrats win the White House.",
+    "link": "https://cryptopanic.com/news/33592152/INSIGHT-JPMorgan-says-recent-SEC-and-CFTC-actions-have-partially-offset-the-CLARITY-Acts-failure-but-warns-crypto-faces-a-patchwork-of-regulatory-measures-that-could-be-reversed-in-two-years-if-Democrats-win-the-White-House",
+    "source": "@coindesk",
+    "published": "Fri Oct 23 2026 19:05:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Institutional demand for $HBAR ETF is EXPLODING! \n\nCanary's @hedera ETF now holds over 800 MILLION HBAR, up a MASSIVE 69% this year! \n\nThat's 1.82% of the circulating supply held in just ONE ETF!\n\nWall Street is quietly accumulating a serious chunk of Hedera!",
+    "link": "https://cryptopanic.com/news/33592156/Institutional-demand-for-HBAR-ETF-is-EXPLODING-Canarys-hedera-ETF-now-holds-over-800-MILLION-HBAR-up-a-MASSIVE-69-this-year-Thats-182-of-the-circulating-supply-held-in-just-ONE-ETF-Wall-Street-is-quietly-accumulating-a-serious-chunk-of-Hedera",
+    "source": "@realallincrypto",
+    "published": "Fri Oct 23 2026 19:01:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "🇺🇸 LATEST: The CFTC is closely monitoring prediction markets for manipulation ahead of the US midterm elections, Mike Selig says, warning violators will be held accountable.",
+    "link": "https://cryptopanic.com/news/33592153/LATEST-The-CFTC-is-closely-monitoring-prediction-markets-for-manipulation-ahead-of-the-US-midterm-elections-Mike-Selig-says-warning-violators-will-be-held-accountable",
+    "source": "@cointelegraph",
+    "published": "Fri Oct 23 2026 19:00:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "HSBC Launches First Stablecoin RedCoin for 3.3 Million PayMe Users",
+    "link": "https://cryptopanic.com/news/33592092/HSBC-Launches-First-Stablecoin-RedCoin-for-33-Million-PayMe-Users",
+    "source": "coinpaprika.com",
+    "published": "Fri Oct 23 2026 19:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Stablecoin News: HSBC RedCoin Starts Rollout to 3.3M PayMe Users",
+    "link": "https://cryptopanic.com/news/33592093/Stablecoin-News-HSBC-RedCoin-Starts-Rollout-to-33M-PayMe-Users",
+    "source": "thecoinrepublic.com",
+    "published": "Fri Oct 23 2026 19:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: IOG says #Cardano $ADA's high assurance team has \"shared a first version of Hades, its High Assurance Developer Environment, bringing smart contract development and verification tools into a container to make them easier to use.\"",
+    "link": "https://cryptopanic.com/news/33592151/JUST-IN-IOG-says-Cardano-ADAs-high-assurance-team-has-shared-a-first-version-of-Hades-its-High-Assurance-Developer-Environment-bringing-smart-contract-development-and-verification-tools-into-a-container-to-make-them-easier-to-use",
+    "source": "@angrycryptoshow",
+    "published": "Fri Oct 23 2026 18:59:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: IOG says #Cardano $ADA's high assurance team has launched fixes and improved solve times for Blaster, Cardano's automated formal verification with mathematical security guarantees for smart contracts.",
+    "link": "https://cryptopanic.com/news/33592146/JUST-IN-IOG-says-Cardano-ADAs-high-assurance-team-has-launched-fixes-and-improved-solve-times-for-Blaster-Cardanos-automated-formal-verification-with-mathematical-security-guarantees-for-smart-contracts",
+    "source": "@angrycryptoshow",
+    "published": "Fri Oct 23 2026 18:58:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SEC Flags AI 'Super Intelligence' and Tokenization as Systemic Market Risks",
+    "link": "https://cryptopanic.com/news/33592082/SEC-Flags-AI-Super-Intelligence-and-Tokenization-as-Systemic-Market-Risks",
+    "source": "decrypt.co",
+    "published": "Fri Oct 23 2026 18:54:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "CME battles Kalshi on several fronts as Phantom adds new distribution",
     "link": "https://cryptopanic.com/news/33592079/CME-battles-Kalshi-on-several-fronts-as-Phantom-adds-new-distribution",
     "source": "cryptopolitan.com",
@@ -116,97 +207,6 @@
     "link": "https://cryptopanic.com/news/33592070/Nasdaqs-CEO-says-tokenized-collateral-is-the-nearest-win-pointing-to-a-Canton-Network-test-On-Nasdaqs-third-quarter-earnings-call-Thursday-CEO-adenatfriedman-named-collateral-as-the-clearest-near-term-business-in-tokenization-She-cited-a-test-with-Vanguard-and-Wellington",
     "source": "@bscnews",
     "published": "Fri Oct 23 2026 18:16:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Netanyahu seeking blockchain plan to prepare for possible sanctions",
-    "link": "https://cryptopanic.com/news/33591997/Netanyahu-seeking-blockchain-plan-to-prepare-for-possible-sanctions",
-    "source": "theblock.co",
-    "published": "Fri Oct 23 2026 18:15:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Beijing’s draft AI export rules clear DeepSeek and MiniMax for overseas use",
-    "link": "https://cryptopanic.com/news/33591999/Beijings-draft-AI-export-rules-clear-DeepSeek-and-MiniMax-for-overseas-use",
-    "source": "cryptopolitan.com",
-    "published": "Fri Oct 23 2026 18:15:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "There is no second best. \n\n#Bitcoin",
-    "link": "https://cryptopanic.com/news/33591992/There-is-no-second-best-Bitcoin",
-    "source": "@btc_archive",
-    "published": "Fri Oct 23 2026 18:10:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin ETFs shed $635 million as BTC tests their holdings’ estimated $81,500 cost basis",
-    "link": "https://cryptopanic.com/news/33591956/Bitcoin-ETFs-shed-635-million-as-BTC-tests-their-holdings-estimated-81500-cost-basis",
-    "source": "cryptoslate.com",
-    "published": "Fri Oct 23 2026 18:10:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Charles Hoskinson says \"escalating selective disclosure to meet suitability guidelines of assets is the next big thing, and once you do it, $10 trillion of assets enter the cryptocurrency space. Also, it allows us to do insurance.\"",
-    "link": "https://cryptopanic.com/news/33592031/JUST-IN-Charles-Hoskinson-says-escalating-selective-disclosure-to-meet-suitability-guidelines-of-assets-is-the-next-big-thing-and-once-you-do-it-10-trillion-of-assets-enter-the-cryptocurrency-space-Also-it-allows-us-to-do-insurance",
-    "source": "@angrycryptoshow",
-    "published": "Fri Oct 23 2026 18:08:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Charles Hoskinson on $TRX, says \"we love Justin, he's great.\" Midnight's Nightmode is unlocking compliant privacy for TRON and anyone doing payments on TRON in December.",
-    "link": "https://cryptopanic.com/news/33592030/JUST-IN-Charles-Hoskinson-on-TRX-says-we-love-Justin-hes-great-Midnights-Nightmode-is-unlocking-compliant-privacy-for-TRON-and-anyone-doing-payments-on-TRON-in-December",
-    "source": "@angrycryptoshow",
-    "published": "Fri Oct 23 2026 18:07:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Elizabeth Warren once said foreign-owned Bitcoin mines in the U.S. could be used to spy on military bases and bring down the power grid.\n\nSeriously, that’s the level of the top anti-Bitcoin senator.",
-    "link": "https://cryptopanic.com/news/33591990/Elizabeth-Warren-once-said-foreign-owned-Bitcoin-mines-in-the-US-could-be-used-to-spy-on-military-bases-and-bring-down-the-power-grid-Seriously-thats-the-level-of-the-top-anti-Bitcoin-senator",
-    "source": "@btc_archive",
-    "published": "Fri Oct 23 2026 18:05:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Charles Hoskinson says \"I'm writing code 24/7. Some of the innovations we have coming out are just unbelievable, and that's because of AI.\"",
-    "link": "https://cryptopanic.com/news/33592029/JUST-IN-Charles-Hoskinson-says-Im-writing-code-247-Some-of-the-innovations-we-have-coming-out-are-just-unbelievable-and-thats-because-of-AI",
-    "source": "@angrycryptoshow",
-    "published": "Fri Oct 23 2026 18:02:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why This Analyst Is Bullish on Altcoins Again in 2026",
-    "link": "https://cryptopanic.com/news/33591960/Why-This-Analyst-Is-Bullish-on-Altcoins-Again-in-2026",
-    "source": "cryptopotato.com",
-    "published": "Fri Oct 23 2026 18:01:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HUGE: The UK government is urging households to prepare for major disruptions, including CYBERATTACKS! \n\nImagine banks, ATMs and payment systems suddenly going offline, if this happens the impact on financial markets could be HUGE!\n\nCould this accelerate demand for more",
-    "link": "https://cryptopanic.com/news/33592069/HUGE-The-UK-government-is-urging-households-to-prepare-for-major-disruptions-including-CYBERATTACKS-Imagine-banks-ATMs-and-payment-systems-suddenly-going-offline-if-this-happens-the-impact-on-financial-markets-could-be-HUGE-Could-this-accelerate-demand-for-more",
-    "source": "@realallincrypto",
-    "published": "Fri Oct 23 2026 18:00:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Senator Richard Blumenthal is demanding Tether’s records over allegations it paid more than $6 million to a firm co-owned by Bo Hines while he shaped stablecoin legislation at the White House.",
-    "link": "https://cryptopanic.com/news/33592035/JUST-IN-Senator-Richard-Blumenthal-is-demanding-Tethers-records-over-allegations-it-paid-more-than-6-million-to-a-firm-co-owned-by-Bo-Hines-while-he-shaped-stablecoin-legislation-at-the-White-House",
-    "source": "@cointelegraph",
-    "published": "Fri Oct 23 2026 18:00:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JPMorgan Warns: Inflation Shocks May Hit Stock-Bond Mix",
-    "link": "https://cryptopanic.com/news/33591919/JPMorgan-Warns-Inflation-Shocks-May-Hit-Stock-Bond-Mix",
-    "source": "catenaa.com",
-    "published": "Fri Oct 23 2026 18:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Bitcoin Core has changed its security policy to patch and disclose bugs an AI could easily find right away, replacing embargoes that previously ran for months.",
-    "link": "https://cryptopanic.com/news/33591993/LATEST-Bitcoin-Core-has-changed-its-security-policy-to-patch-and-disclose-bugs-an-AI-could-easily-find-right-away-replacing-embargoes-that-previously-ran-for-months",
-    "source": "@coinmarketcap",
-    "published": "Fri Oct 23 2026 17:55:04 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
