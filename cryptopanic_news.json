@@ -1,9 +1,37 @@
 [
   {
+    "title": "LATEST:  An INTERPOL-coordinated operation saw 21 countries arrest 1,462 suspects and recover over $105M, including two illegal crypto mining centres in Angola and a $2.4M crypto laundering case in Nigeria.",
+    "link": "https://cryptopanic.com/news/33593233/LATEST-An-INTERPOL-coordinated-operation-saw-21-countries-arrest-1462-suspects-and-recover-over-105M-including-two-illegal-crypto-mining-centres-in-Angola-and-a-24M-crypto-laundering-case-in-Nigeria",
+    "source": "@coinmarketcap",
+    "published": "Sat Oct 24 2026 02:05:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin ETF outflows hit $635M as BTC price tests $81K support",
     "link": "https://cryptopanic.com/news/33593164/Bitcoin-ETF-outflows-hit-635M-as-BTC-price-tests-81K-support",
     "source": "ambcrypto.com",
     "published": "Sat Oct 24 2026 02:00:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "HUGE: Wells Fargo, Arm and Intuit just joined the \"please don't tokenize my stock\" club, taking OKXICE's rejection list to 22 of the 63 companies it wanted to list.",
+    "link": "https://cryptopanic.com/news/33593263/HUGE-Wells-Fargo-Arm-and-Intuit-just-joined-the-please-dont-tokenize-my-stock-club-taking-OKXICEs-rejection-list-to-22-of-the-63-companies-it-wanted-to-list",
+    "source": "@cointelegraph",
+    "published": "Sat Oct 24 2026 02:00:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JPMorgan Projects Bitcoin to Outperform Stocks and Gold",
+    "link": "https://cryptopanic.com/news/33593234/JPMorgan-Projects-Bitcoin-to-Outperform-Stocks-and-Gold",
+    "source": "SimplyBitcoin",
+    "published": "Sat Oct 24 2026 02:00:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Prediction market traders are biased bullish on $BTC through the end of the year with 52% odds for BTC to rise to $90k vs 36% odds that it falls to $70k.",
+    "link": "https://cryptopanic.com/news/33593232/Prediction-market-traders-are-biased-bullish-on-BTC-through-the-end-of-the-year-with-52-odds-for-BTC-to-rise-to-90k-vs-36-odds-that-it-falls-to-70k",
+    "source": "@stackersatoshi",
+    "published": "Sat Oct 24 2026 01:53:07 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33592764/Bitcoin-has-fallen-back-down-to-test-81k-as-support-once-again-but-crypto-sentiment-remains-neutral-I-guess-nobody-is-worried-about-a-potential-move-lower",
     "source": "@stackersatoshi",
     "published": "Fri Oct 23 2026 23:42:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "SEC Examiners Turn Their Eyes to Tokenization in 2027",
-    "link": "https://cryptopanic.com/news/33592756/SEC-Examiners-Turn-Their-Eyes-to-Tokenization-in-2027",
-    "source": "coindoo.com",
-    "published": "Fri Oct 23 2026 23:36:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Meta postpones AI content terms to November 20 under publisher pressure",
-    "link": "https://cryptopanic.com/news/33592755/Meta-postpones-AI-content-terms-to-November-20-under-publisher-pressure",
-    "source": "cryptopolitan.com",
-    "published": "Fri Oct 23 2026 23:35:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Pantera president: Fundamentals matter to large investors",
-    "link": "https://cryptopanic.com/news/33592765/Pantera-president-Fundamentals-matter-to-large-investors",
-    "source": "thestreet.com",
-    "published": "Fri Oct 23 2026 23:35:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "OpenAI Finds Unauthenticated Remote Code Execution Vulnerability in Brotli During Red-Team Testing",
-    "link": "https://cryptopanic.com/news/33593096/OpenAI-Finds-Unauthenticated-Remote-Code-Execution-Vulnerability-in-Brotli-During-Red-Team-Testing",
-    "source": "square.binance.com",
-    "published": "Fri Oct 23 2026 23:34:42 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
