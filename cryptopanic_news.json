@@ -1,5 +1,19 @@
 [
   {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33592852/Source",
+    "source": "@wublockchain",
+    "published": "Sat Oct 24 2026 00:28:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Stocks closed lower while technology shares steadied to end a turbulent week for the market-driving AI trade. Read more here",
+    "link": "https://cryptopanic.com/news/33592874/Stocks-closed-lower-while-technology-shares-steadied-to-end-a-turbulent-week-for-the-market-driving-AI-trade-Read-more-here",
+    "source": "@reutersbiz",
+    "published": "Sat Oct 24 2026 00:20:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Why is China’s stock market rapidly crashing?",
     "link": "https://cryptopanic.com/news/33592809/Why-is-Chinas-stock-market-rapidly-crashing",
     "source": "cryptopolitan.com",
@@ -14,6 +28,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "JUST IN: Jack Dorsey's Block just built an AI that learned to talk like a baby does, by listening, and it laughs mid-sentence when you're funny. \n\nCreepy or cool?",
+    "link": "https://cryptopanic.com/news/33592873/JUST-IN-Jack-Dorseys-Block-just-built-an-AI-that-learned-to-talk-like-a-baby-does-by-listening-and-it-laughs-mid-sentence-when-youre-funny-Creepy-or-cool",
+    "source": "@cointelegraph",
+    "published": "Sat Oct 24 2026 00:00:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "BlackRock’s Bitcoin ETF Caps Gains to Cushion Losses",
     "link": "https://cryptopanic.com/news/33592776/BlackRocks-Bitcoin-ETF-Caps-Gains-to-Cushion-Losses",
     "source": "SimplyBitcoin",
@@ -25,6 +46,13 @@
     "link": "https://cryptopanic.com/news/33592767/CME-Chairman-Hyperliquid-Will-Struggle-to-Enter-the-US-Market-Without-Addressing-KYC-Requirements-On-October-20-2026-CME-Group-CEO-Terry-Duffy-CMEGroup-said-on-Bloombergs-Odd-Lots-podcast-podcasts-that-Hyperliquid-cannot-shift-all-regulatory-responsibility-to-users-or",
     "source": "@wublockchain",
     "published": "Sat Oct 24 2026 00:00:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  SpaceX booked a $561M unrealized gain on its stake in Elon Musk's Boring Co., according to its latest quarterly filing.",
+    "link": "https://cryptopanic.com/news/33592851/LATEST-SpaceX-booked-a-561M-unrealized-gain-on-its-stake-in-Elon-Musks-Boring-Co-according-to-its-latest-quarterly-filing",
+    "source": "@coinmarketcap",
+    "published": "Fri Oct 23 2026 23:52:02 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33592649/BREAKING-62-of-banks-expect-BLOCKCHAIN-to-become-standard-in-their-business-within-just-TWO-YEARS-Its-already-standard-for-58-of-payment-firms-and-46-of-brokerages-surveyed-These-HUGE-findings-come-from-a-report-shared-by-avax-highlighting-the-future-AVAX-is",
     "source": "@realallincrypto",
     "published": "Fri Oct 23 2026 22:00:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Is Bitcoin Cooked? AI Tested Its Code—Here’s What Happened!",
-    "link": "https://cryptopanic.com/news/33592558/Is-Bitcoin-Cooked-AI-Tested-Its-CodeHeres-What-Happened",
-    "source": "SimplyBitcoin",
-    "published": "Fri Oct 23 2026 22:00:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇺🇸 The SEC has added tokenization to its fiscal 2027 exam priorities, listing it with quantum computing and extended trading hours as emerging trends under review.",
-    "link": "https://cryptopanic.com/news/33592614/LATEST-The-SEC-has-added-tokenization-to-its-fiscal-2027-exam-priorities-listing-it-with-quantum-computing-and-extended-trading-hours-as-emerging-trends-under-review",
-    "source": "@coinmarketcap",
-    "published": "Fri Oct 23 2026 21:50:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Institutional Demand, BTC Treasury Strategy, Bitcoin Q4 Outlook | BMTV Oct. 26, 2026",
-    "link": "https://cryptopanic.com/news/33592524/Institutional-Demand-BTC-Treasury-Strategy-Bitcoin-Q4-Outlook-BMTV-Oct-26-2026",
-    "source": "BitcoinMagazine",
-    "published": "Fri Oct 23 2026 21:49:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Pyth Network adds US Treasury yields to its paid data service\n\n@PythNetwork has added 14 US Treasury indices to Pyth Pro, its subscription market data service, covering seven terms from two to 30 years with a yield feed and a pricing feed for each. Pyth also widened its commodity",
-    "link": "https://cryptopanic.com/news/33592580/Pyth-Network-adds-US-Treasury-yields-to-its-paid-data-service-PythNetwork-has-added-14-US-Treasury-indices-to-Pyth-Pro-its-subscription-market-data-service-covering-seven-terms-from-two-to-30-years-with-a-yield-feed-and-a-pricing-feed-for-each-Pyth-also-widened-its-commodity",
-    "source": "@bscnews",
-    "published": "Fri Oct 23 2026 21:44:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
