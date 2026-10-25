@@ -1,5 +1,40 @@
 [
   {
+    "title": "the charts are flat all day until i take a nap.",
+    "link": "https://cryptopanic.com/news/33596583/the-charts-are-flat-all-day-until-i-take-a-nap",
+    "source": "@coinmarketcap",
+    "published": "Sun Oct 25 2026 10:00:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Volatility Is Falling—and It Beat Markets in October",
+    "link": "https://cryptopanic.com/news/33596592/Bitcoin-Volatility-Is-Fallingand-It-Beat-Markets-in-October",
+    "source": "SimplyBitcoin",
+    "published": "Sun Oct 25 2026 10:00:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP Death Cross Is Complete: Next Price Levels",
+    "link": "https://cryptopanic.com/news/33596588/XRP-Death-Cross-Is-Complete-Next-Price-Levels",
+    "source": "u.today",
+    "published": "Sun Oct 25 2026 10:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Kraken Co-CEO Admits Monero Checks Went Too Far, XMR Stays Listed",
+    "link": "https://cryptopanic.com/news/33596533/Kraken-Co-CEO-Admits-Monero-Checks-Went-Too-Far-XMR-Stays-Listed",
+    "source": "thecoinrepublic.com",
+    "published": "Sun Oct 25 2026 10:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Dogecoin Community Gets Crucial Warning as Hardware Wallet Reveals Security Incident",
+    "link": "https://cryptopanic.com/news/33596558/Dogecoin-Community-Gets-Crucial-Warning-as-Hardware-Wallet-Reveals-Security-Incident",
+    "source": "u.today",
+    "published": "Sun Oct 25 2026 09:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "MARKET: CryptoQuant's Axel Adler says $BTC closed at $80,500 yesterday, a new 30-day low, after bouncing off its 365-day moving average.\n\nHe says tight ranges like this usually end with a sharp move.",
     "link": "https://cryptopanic.com/news/33596521/MARKET-CryptoQuants-Axel-Adler-says-BTC-closed-at-80500-yesterday-a-new-30-day-low-after-bouncing-off-its-365-day-moving-average-He-says-tight-ranges-like-this-usually-end-with-a-sharp-move",
     "source": "@cointelegraph",
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33596209/Bitcoin-Fee-Bumps-Became-an-Attack-Route-Patch-Released",
     "source": "coindoo.com",
     "published": "Sun Oct 25 2026 06:34:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Nearly 60% of stock token trading on Robinhood Chain happens when Wall Street is closed, according to Entropy's Tom Wan.\n\n$532M of it traded on weekends alone, over just one month.",
-    "link": "https://cryptopanic.com/news/33596220/NEW-Nearly-60-of-stock-token-trading-on-Robinhood-Chain-happens-when-Wall-Street-is-closed-according-to-Entropys-Tom-Wan-532M-of-it-traded-on-weekends-alone-over-just-one-month",
-    "source": "@cointelegraph",
-    "published": "Sun Oct 25 2026 06:33:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Plume Vaults are EXPLODING.\n\nAccording to DefiLlama data, the TVL of @plumenetwork's Vaults products has surged by nearly $204 MILLION since late February of 2026.\n\nIt now stands at a total of nearly $229 million, the products having recently gone live on both @monad monad:native",
-    "link": "https://cryptopanic.com/news/33596207/Plume-Vaults-are-EXPLODING-According-to-DefiLlama-data-the-TVL-of-plumenetworks-Vaults-products-has-surged-by-nearly-204-MILLION-since-late-February-of-2026-It-now-stands-at-a-total-of-nearly-229-million-the-products-having-recently-gone-live-on-both-monad-monadnative",
-    "source": "@bscnews",
-    "published": "Sun Oct 25 2026 06:31:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UAE Closes Additional Beaches After Persian Gulf Oil Spill",
-    "link": "https://cryptopanic.com/news/33596201/UAE-Closes-Additional-Beaches-After-Persian-Gulf-Oil-Spill",
-    "source": "square.binance.com",
-    "published": "Sun Oct 25 2026 06:10:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Reclaims $80K Immediately After Peter Schiff Predicted a Crash to $75K",
-    "link": "https://cryptopanic.com/news/33596150/Bitcoin-Reclaims-80K-Immediately-After-Peter-Schiff-Predicted-a-Crash-to-75K",
-    "source": "cryptopotato.com",
-    "published": "Sun Oct 25 2026 06:00:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "‘I dumped it all’ – Arthur Hayes sells $22M in altcoins amid geopolitical fears",
-    "link": "https://cryptopanic.com/news/33596146/I-dumped-it-all-Arthur-Hayes-sells-22M-in-altcoins-amid-geopolitical-fears",
-    "source": "ambcrypto.com",
-    "published": "Sun Oct 25 2026 06:00:29 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
