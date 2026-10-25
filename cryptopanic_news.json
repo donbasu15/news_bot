@@ -1,9 +1,100 @@
 [
   {
+    "title": "Argentine judge clears Milei and 10 others in LIBRA case, finding no ‘criminally relevant deception’",
+    "link": "https://cryptopanic.com/news/33594928/Argentine-judge-clears-Milei-and-10-others-in-LIBRA-case-finding-no-criminally-relevant-deception",
+    "source": "theblock.co",
+    "published": "Sat Oct 24 2026 16:24:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin ETFs Record $773 Million in Two-Day Outflows as BTC Price Tests $80,000",
+    "link": "https://cryptopanic.com/news/33594228/Bitcoin-ETFs-Record-773-Million-in-Two-Day-Outflows-as-BTC-Price-Tests-80000",
+    "source": "u.today",
+    "published": "Sat Oct 24 2026 11:19:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ethereum Price Prediction: Is the Worst Over for ETH, or Could It Fall Below $2,000?",
+    "link": "https://cryptopanic.com/news/33590848/Ethereum-Price-Prediction-Is-the-Worst-Over-for-ETH-or-Could-It-Fall-Below-2000",
+    "source": "coinpaper.com",
+    "published": "Fri Oct 23 2026 13:31:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇮🇪 Central Bank of Ireland has fined Coinbase Ireland €3.25M for failing to properly safeguard customer funds and oversee outsourcing, with the penalty still needing High Court confirmation.",
+    "link": "https://cryptopanic.com/news/33586244/LATEST-Central-Bank-of-Ireland-has-fined-Coinbase-Ireland-325M-for-failing-to-properly-safeguard-customer-funds-and-oversee-outsourcing-with-the-penalty-still-needing-High-Court-confirmation",
+    "source": "@coinmarketcap",
+    "published": "Thu Oct 22 2026 16:53:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SpaceX Becoming a Bitcoin Hodler? Elon Musk-Led  Rocket Company Keeps All BTC, Now Worth $1.57 Billion",
+    "link": "https://cryptopanic.com/news/33577400/SpaceX-Becoming-a-Bitcoin-Hodler-Elon-Musk-Led-Rocket-Company-Keeps-All-BTC-Now-Worth-157-Billion",
+    "source": "feeds2.benzinga.com",
+    "published": "Wed Oct 21 2026 07:32:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Elon Musk and Anthropic unveil AI wealth-sharing plans that could reach over $110 billion",
+    "link": "https://cryptopanic.com/news/33574356/Elon-Musk-and-Anthropic-unveil-AI-wealth-sharing-plans-that-could-reach-over-110-billion",
+    "source": "cryptoslate.com",
+    "published": "Tue Oct 20 2026 18:00:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: JPMorgan launches crypto stablecoin 'JPM Coin' on Ethereum, allowing institutional clients to transfer money 24/7.",
+    "link": "https://cryptopanic.com/news/33566006/JUST-IN-JPMorgan-launches-crypto-stablecoin-JPM-Coin-on-Ethereum-allowing-institutional-clients-to-transfer-money-247",
+    "source": "@watcherguru",
+    "published": "Mon Oct 19 2026 10:12:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Injective the king of tokenised real estate.\n\nAccording to data shared by @MSBIntel, the @injective blockchain now hosts more than $1 billion in tokenised real estate assets.\n\nEven more incredibly, $INJ's figure no accounts for nearly 68% of the entire tokenised real estate",
+    "link": "https://cryptopanic.com/news/33596726/Injective-the-king-of-tokenised-real-estate-According-to-data-shared-by-MSBIntel-the-injective-blockchain-now-hosts-more-than-1-billion-in-tokenised-real-estate-assets-Even-more-incredibly-INJs-figure-no-accounts-for-nearly-68-of-the-entire-tokenised-real-estate",
+    "source": "@bscnews",
+    "published": "Sun Oct 25 2026 11:15:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "HUGE: $XRP and $XLM are gaining traction as the G20 pushes for faster, cheaper global payments!\n\nThe G20 wants 75% of cross-border payments completed within ONE HOUR by 2027.\n\n$XRP and $XLM are positioning themselves at the heart of this transformation.",
+    "link": "https://cryptopanic.com/news/33596724/HUGE-XRP-and-XLM-are-gaining-traction-as-the-G20-pushes-for-faster-cheaper-global-payments-The-G20-wants-75-of-cross-border-payments-completed-within-ONE-HOUR-by-2027-XRP-and-XLM-are-positioning-themselves-at-the-heart-of-this-transformation",
+    "source": "@realallincrypto",
+    "published": "Sun Oct 25 2026 11:00:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Core Ends Secret Bug Fixes Now That AI Finds Flaws in One Prompt",
+    "link": "https://cryptopanic.com/news/33596672/Bitcoin-Core-Ends-Secret-Bug-Fixes-Now-That-AI-Finds-Flaws-in-One-Prompt",
+    "source": "coinpaprika.com",
+    "published": "Sun Oct 25 2026 11:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BlackRock on a crypto buying spree with over $560 million Bitcoin haul in  5 days",
+    "link": "https://cryptopanic.com/news/33596669/BlackRock-on-a-crypto-buying-spree-with-over-560-million-Bitcoin-haul-in-5-days",
+    "source": "finbold.com",
+    "published": "Sun Oct 25 2026 10:59:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST\nTrump: I called Google Maps to change the name of the Atlantic Ocean to Trump Ocean. Sundar said, “No, no, no. This time I'm not doing it.” He said, “Oceans are different, sir. They cover a lot of countries. Please don't ask us to do that.” So we'll probably pass. Let's",
+    "link": "https://cryptopanic.com/news/33596664/LATEST-Trump-I-called-Google-Maps-to-change-the-name-of-the-Atlantic-Ocean-to-Trump-Ocean-Sundar-said-No-no-no-This-time-Im-not-doing-it-He-said-Oceans-are-different-sir-They-cover-a-lot-of-countries-Please-dont-ask-us-to-do-that-So-well-probably-pass-Lets",
+    "source": "@cryptonwsuk",
+    "published": "Sun Oct 25 2026 10:56:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Rogue Electrum servers swap real payments for zero-fee fakes",
     "link": "https://cryptopanic.com/news/33596656/Rogue-Electrum-servers-swap-real-payments-for-zero-fee-fakes",
     "source": "cryptopolitan.com",
     "published": "Sun Oct 25 2026 10:40:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Silver Price Hits 2026 Low. Will It Crash Further?",
+    "link": "https://cryptopanic.com/news/33596702/Silver-Price-Hits-2026-Low-Will-It-Crash-Further",
+    "source": "beincrypto.com",
+    "published": "Sun Oct 25 2026 10:31:25 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -116,97 +207,6 @@
     "link": "https://cryptopanic.com/news/33596459/Electrum-483-Fixes-Exploited-Bug-Bitcoin-at-Risk-When-Bumping-Fees",
     "source": "spaziocrypto.com",
     "published": "Sun Oct 25 2026 09:07:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "It is reported now over 40 countries now TAX cryptocurrency gains! \n\nSome rates reach an INSANE 55%, 52%, 45%, 42%, 37% and 30%!\n\nOthers charge just 10%, 8% or even 0%!\n\nSome also offer tax-free gains for long-term holders.\n\nThe difference in crypto taxation worldwide is",
-    "link": "https://cryptopanic.com/news/33596477/It-is-reported-now-over-40-countries-now-TAX-cryptocurrency-gains-Some-rates-reach-an-INSANE-55-52-45-42-37-and-30-Others-charge-just-10-8-or-even-0-Some-also-offer-tax-free-gains-for-long-term-holders-The-difference-in-crypto-taxation-worldwide-is",
-    "source": "@realallincrypto",
-    "published": "Sun Oct 25 2026 09:01:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Peter Schiff’s ‘$75K Bitcoin call’ meets a vital week: Fed, inflation, and ETF outflows loom",
-    "link": "https://cryptopanic.com/news/33596446/Peter-Schiffs-75K-Bitcoin-call-meets-a-vital-week-Fed-inflation-and-ETF-outflows-loom",
-    "source": "ambcrypto.com",
-    "published": "Sun Oct 25 2026 09:00:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "sunday reset ️",
-    "link": "https://cryptopanic.com/news/33596502/sunday-reset",
-    "source": "@coinmarketcap",
-    "published": "Sun Oct 25 2026 09:00:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "China Wants a National Blockchain Network by 2030 — Minus Crypto",
-    "link": "https://cryptopanic.com/news/33596449/China-Wants-a-National-Blockchain-Network-by-2030-Minus-Crypto",
-    "source": "coinpaprika.com",
-    "published": "Sun Oct 25 2026 09:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Argentina's President cleared of memecoin fraud?!\n\nPer Reuters reports, an Argentine federal judge has dropped the criminal investigation into Argentina's President Milei and his sister.\n\nThe investigation revolved around the scandalous launch of the $LIBRA memecoin, which was",
-    "link": "https://cryptopanic.com/news/33596478/Argentinas-President-cleared-of-memecoin-fraud-Per-Reuters-reports-an-Argentine-federal-judge-has-dropped-the-criminal-investigation-into-Argentinas-President-Milei-and-his-sister-The-investigation-revolved-around-the-scandalous-launch-of-the-LIBRA-memecoin-which-was",
-    "source": "@bscnews",
-    "published": "Sun Oct 25 2026 08:54:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ether loses 13% in a month, Bitcoin under 5%",
-    "link": "https://cryptopanic.com/news/33596426/Ether-loses-13-in-a-month-Bitcoin-under-5",
-    "source": "cryptopolitan.com",
-    "published": "Sun Oct 25 2026 08:46:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ARB’s 24% monthly slide nearly doubles ether’s",
-    "link": "https://cryptopanic.com/news/33596414/ARBs-24-monthly-slide-nearly-doubles-ethers",
-    "source": "cryptopolitan.com",
-    "published": "Sun Oct 25 2026 08:35:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: Peter Schiff says Bitcoin is \"finally breaking down\" and the next stop is $75K.\n\n$BTC is already back above $80K.",
-    "link": "https://cryptopanic.com/news/33596428/LATEST-Peter-Schiff-says-Bitcoin-is-finally-breaking-down-and-the-next-stop-is-75K-BTC-is-already-back-above-80K",
-    "source": "@cointelegraph",
-    "published": "Sun Oct 25 2026 08:33:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Most people only check their thesis when price goes against them.\n\nIf you’re not also questioning it when price goes your way, you’re not really reviewing anything. You’re just looking for reassurance.\n\nWhen price improved but fundamentals diminished (or are more in line), it",
-    "link": "https://cryptopanic.com/news/33596410/Most-people-only-check-their-thesis-when-price-goes-against-them-If-youre-not-also-questioning-it-when-price-goes-your-way-youre-not-really-reviewing-anything-Youre-just-looking-for-reassurance-When-price-improved-but-fundamentals-diminished-or-are-more-in-line-it",
-    "source": "@daancrypto",
-    "published": "Sun Oct 25 2026 08:01:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Aptos-based perps DEX smashes $8.5 BILLION in volume.\n\n@DecibelTrade, a dedicated perps DEX built on @Aptos $APT, has now processed more than 31 million trades, generating over $8.5 billion in total volume.\n\nThe milestones are all the more impressive given Decibel fully launched",
-    "link": "https://cryptopanic.com/news/33596331/Aptos-based-perps-DEX-smashes-85-BILLION-in-volume-DecibelTrade-a-dedicated-perps-DEX-built-on-Aptos-APT-has-now-processed-more-than-31-million-trades-generating-over-85-billion-in-total-volume-The-milestones-are-all-the-more-impressive-given-Decibel-fully-launched",
-    "source": "@bscnews",
-    "published": "Sun Oct 25 2026 07:43:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INSIGHT: Retail is about to front-run Wall Street into crypto.\n\nAccording to @jvisserlabs, VCs and institutions have barely touched the space because they've been obsessed with AI, while retail already knows crypto inside out.\n\nHe told @itsciaranlyons he's building an index to",
-    "link": "https://cryptopanic.com/news/33596330/INSIGHT-Retail-is-about-to-front-run-Wall-Street-into-crypto-According-to-jvisserlabs-VCs-and-institutions-have-barely-touched-the-space-because-theyve-been-obsessed-with-AI-while-retail-already-knows-crypto-inside-out-He-told-itsciaranlyons-hes-building-an-index-to",
-    "source": "@cointelegraph",
-    "published": "Sun Oct 25 2026 07:32:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: 🇺🇸 Schwab’s director of equity research Adam Lynch says a Democratic sweep in the midterms may not hit crypto “as much as people expect,” noting Schwab data suggests only “a modest relationship” that “hasn’t been very consistent.”\n\nHe adds that “gridlock tends to be a",
-    "link": "https://cryptopanic.com/news/33596306/LATEST-Schwabs-director-of-equity-research-Adam-Lynch-says-a-Democratic-sweep-in-the-midterms-may-not-hit-crypto-as-much-as-people-expect-noting-Schwab-data-suggests-only-a-modest-relationship-that-hasnt-been-very-consistent-He-adds-that-gridlock-tends-to-be-a",
-    "source": "@coinmarketcap",
-    "published": "Sun Oct 25 2026 07:19:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto Strategist Who Nailed 2025 Bitcoin Top Warns BTC Could Drop Below $70,000 – Here’s His Price Target",
-    "link": "https://cryptopanic.com/news/33596289/Crypto-Strategist-Who-Nailed-2025-Bitcoin-Top-Warns-BTC-Could-Drop-Below-70000-Heres-His-Price-Target",
-    "source": "dailyhodl.com",
-    "published": "Sun Oct 25 2026 07:04:06 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
