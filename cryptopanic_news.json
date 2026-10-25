@@ -1,5 +1,33 @@
 [
   {
+    "title": "QUESTION: Did you survive the fall?",
+    "link": "https://cryptopanic.com/news/33595945/QUESTION-Did-you-survive-the-fall",
+    "source": "@cointelegraph",
+    "published": "Sun Oct 25 2026 03:30:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33595944/Source",
+    "source": "@wublockchain",
+    "published": "Sun Oct 25 2026 03:03:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33595943/Source",
+    "source": "@wublockchain",
+    "published": "Sun Oct 25 2026 02:56:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bank of Israel Rejects Netanyahu’s Proposal to Use Crypto to Evade Potential International Financial Sanctions\n\nAccording to the Financial Times, the Bank of Israel publicly rejected Prime Minister Benjamin Netanyahu’s proposal to use cryptocurrencies to circumvent potential",
+    "link": "https://cryptopanic.com/news/33595942/Bank-of-Israel-Rejects-Netanyahus-Proposal-to-Use-Crypto-to-Evade-Potential-International-Financial-Sanctions-According-to-the-Financial-Times-the-Bank-of-Israel-publicly-rejected-Prime-Minister-Benjamin-Netanyahus-proposal-to-use-cryptocurrencies-to-circumvent-potential",
+    "source": "@wublockchain",
+    "published": "Sun Oct 25 2026 02:56:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "The whale with 93,184 $ETH ($214M) in longs added $5.67M USDC in margin to avoid liquidation.\n\nNew liquidation prices: $2,181.69 and $2,177.79.\n\nHe's down $18.62M in unrealized losses and has paid $2.68M in funding fees.",
     "link": "https://cryptopanic.com/news/33595905/The-whale-with-93184-ETH-214M-in-longs-added-567M-USDC-in-margin-to-avoid-liquidation-New-liquidation-prices-218169-and-217779-Hes-down-1862M-in-unrealized-losses-and-has-paid-268M-in-funding-fees",
     "source": "@lookonchain",
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33595564/JUST-IN-Hardware-wallet-maker-Keystone-says-hackers-got-into-its-website-and-walked-off-with-customer-names-contact-details-home-addresses-and-order-info-Seed-phrases-and-keys-werent-touched-but-expect-a-wave-of-fake-Keystone-support-scams",
     "source": "@cointelegraph",
     "published": "Sat Oct 24 2026 23:00:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Analyzing why Uniswap’s network growth hit a 4-year high despite UNI’s 5.4% drop",
-    "link": "https://cryptopanic.com/news/33595510/Analyzing-why-Uniswaps-network-growth-hit-a-4-year-high-despite-UNIs-54-drop",
-    "source": "ambcrypto.com",
-    "published": "Sat Oct 24 2026 23:00:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Grayscale Names 3 Cryptocurrencies That Could Benefit From AI Growth",
-    "link": "https://cryptopanic.com/news/33595822/Grayscale-Names-3-Cryptocurrencies-That-Could-Benefit-From-AI-Growth",
-    "source": "square.binance.com",
-    "published": "Sat Oct 24 2026 22:57:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: $5.3 billion Cardone Capital bought 16 BTC worth $1.28 million on this dip!",
-    "link": "https://cryptopanic.com/news/33595500/NEW-53-billion-Cardone-Capital-bought-16-BTC-worth-128-million-on-this-dip",
-    "source": "@bitcoinmagazine",
-    "published": "Sat Oct 24 2026 22:56:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Saudi Arabia Signals Riyadh Airport Could Reopen Sunday",
-    "link": "https://cryptopanic.com/news/33595821/Saudi-Arabia-Signals-Riyadh-Airport-Could-Reopen-Sunday",
-    "source": "square.binance.com",
-    "published": "Sat Oct 24 2026 22:52:49 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
