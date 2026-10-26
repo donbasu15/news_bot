@@ -1,9 +1,37 @@
 [
   {
+    "title": "Address",
+    "link": "https://cryptopanic.com/news/33598572/Address",
+    "source": "@lookonchain",
+    "published": "Mon Oct 26 2026 03:28:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Is the #EthereumFoundation dumping $ETH again?\n\nA wallet linked to the #EthereumFoundation sold 2,785 $ETH ($6.42M) at $2,304 over the past hour.\n\nThe last suspected #EthereumFoundation $ETH sale was 2 weeks ago, and $ETH has dropped 9% since then.",
+    "link": "https://cryptopanic.com/news/33598571/Is-the-EthereumFoundation-dumping-ETH-again-A-wallet-linked-to-the-EthereumFoundation-sold-2785-ETH-642M-at-2304-over-the-past-hour-The-last-suspected-EthereumFoundation-ETH-sale-was-2-weeks-ago-and-ETH-has-dropped-9-since-then",
+    "source": "@lookonchain",
+    "published": "Mon Oct 26 2026 03:28:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Big Tech Earnings Are a No-Win Test as Investors Punish Both Capex Cuts and Hikes",
+    "link": "https://cryptopanic.com/news/33598586/Big-Tech-Earnings-Are-a-No-Win-Test-as-Investors-Punish-Both-Capex-Cuts-and-Hikes",
+    "source": "beincrypto.com",
+    "published": "Mon Oct 26 2026 03:02:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "️ NOW: Vitalik Buterin backs Kimi 3.1 excluding offensive cyber capabilities from its training data, warning that mishandling AI risk could lead to locked-down models and KYC-gated access.",
     "link": "https://cryptopanic.com/news/33598554/NOW-Vitalik-Buterin-backs-Kimi-31-excluding-offensive-cyber-capabilities-from-its-training-data-warning-that-mishandling-AI-risk-could-lead-to-locked-down-models-and-KYC-gated-access",
     "source": "@cointelegraph",
     "published": "Mon Oct 26 2026 03:00:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Abraxas Capital's 2 hedging accounts on Hyperliquid have made over $353M in total profit!\n\nThey currently hold over $1.29B in short positions.",
+    "link": "https://cryptopanic.com/news/33598570/Abraxas-Capitals-2-hedging-accounts-on-Hyperliquid-have-made-over-353M-in-total-profit-They-currently-hold-over-129B-in-short-positions",
+    "source": "@lookonchain",
+    "published": "Mon Oct 26 2026 02:59:26 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33598437/Address-With-About-2256M-in-Cumulative-Gains-Closes-193M-ZEC-Long-Position",
     "source": "square.binance.com",
     "published": "Mon Oct 26 2026 01:23:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Elon Musk Says More Than 200 Neoclouds Could Face Failures as Debt Financing Tightens",
-    "link": "https://cryptopanic.com/news/33598436/Elon-Musk-Says-More-Than-200-Neoclouds-Could-Face-Failures-as-Debt-Financing-Tightens",
-    "source": "square.binance.com",
-    "published": "Mon Oct 26 2026 01:23:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Revolut in Talks With Philippine Central Bank to Obtain Digital Bank License",
-    "link": "https://cryptopanic.com/news/33598435/Revolut-in-Talks-With-Philippine-Central-Bank-to-Obtain-Digital-Bank-License",
-    "source": "square.binance.com",
-    "published": "Mon Oct 26 2026 01:14:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "WTI Crude Falls 2% to $100.73 per Barrel; Brent Drops 1.5%",
-    "link": "https://cryptopanic.com/news/33598434/WTI-Crude-Falls-2-to-10073-per-Barrel-Brent-Drops-15",
-    "source": "square.binance.com",
-    "published": "Mon Oct 26 2026 01:14:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "StandX Launches Airdrop Checker Portal",
-    "link": "https://cryptopanic.com/news/33598433/StandX-Launches-Airdrop-Checker-Portal",
-    "source": "square.binance.com",
-    "published": "Mon Oct 26 2026 01:14:07 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
