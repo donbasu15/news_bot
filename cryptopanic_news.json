@@ -1,9 +1,58 @@
 [
   {
+    "title": "Cardano Price Faces a $0.21 Test After a 27% Retreat",
+    "link": "https://cryptopanic.com/news/33602040/Cardano-Price-Faces-a-021-Test-After-a-27-Retreat",
+    "source": "coindoo.com",
+    "published": "Mon Oct 26 2026 16:46:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BlackRock reduced AI exposure.\n\nOthers will likely follow.\n\nThey will eventually need scarce independent assets.\n\nBitcoin is the answer!",
+    "link": "https://cryptopanic.com/news/33602033/BlackRock-reduced-AI-exposure-Others-will-likely-follow-They-will-eventually-need-scarce-independent-assets-Bitcoin-is-the-answer",
+    "source": "@btc_archive",
+    "published": "Mon Oct 26 2026 16:46:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: Canada opens a 60-day consultation on draft stablecoin regulations, banning yield payments and requiring non-bank issuers to hold reserves with Canadian financial institutions, with the framework expected to take effect in late 2027.",
+    "link": "https://cryptopanic.com/news/33602068/LATEST-Canada-opens-a-60-day-consultation-on-draft-stablecoin-regulations-banning-yield-payments-and-requiring-non-bank-issuers-to-hold-reserves-with-Canadian-financial-institutions-with-the-framework-expected-to-take-effect-in-late-2027",
+    "source": "@coindesk",
+    "published": "Mon Oct 26 2026 16:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Stablecoins & Central Banks, On-Chain Data, Bitcoin Sentiment  | BMTV Oct. 27, 2026",
+    "link": "https://cryptopanic.com/news/33602048/Stablecoins-Central-Banks-On-Chain-Data-Bitcoin-Sentiment-BMTV-Oct-27-2026",
+    "source": "BitcoinMagazine",
+    "published": "Mon Oct 26 2026 16:42:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Solada, the first-ever Cardano-to-Solana launchpad, has generated over 13,000,000 $ADA in trade volume, over 115,000 $ADA in rewards, and has applied to list $SOLADA on CoinGecko and CoinMarketCap.",
+    "link": "https://cryptopanic.com/news/33602039/JUST-IN-Solada-the-first-ever-Cardano-to-Solana-launchpad-has-generated-over-13000000-ADA-in-trade-volume-over-115000-ADA-in-rewards-and-has-applied-to-list-SOLADA-on-CoinGecko-and-CoinMarketCap",
+    "source": "@angrycryptoshow",
+    "published": "Mon Oct 26 2026 16:41:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Intel Bought His Startup and Databricks Bought His Next One: Now He's Building a $4.5 Billion AI Company",
+    "link": "https://cryptopanic.com/news/33602004/Intel-Bought-His-Startup-and-Databricks-Bought-His-Next-One-Now-Hes-Building-a-45-Billion-AI-Company",
+    "source": "coinpaper.com",
+    "published": "Mon Oct 26 2026 16:41:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Sony Plans Native Token For Entertainment Rights",
     "link": "https://cryptopanic.com/news/33602000/Sony-Plans-Native-Token-For-Entertainment-Rights",
     "source": "dailycoin.com",
     "published": "Mon Oct 26 2026 16:40:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Chainlink Just Gave Big Institutions a Safe Way Into DeFi Lending\n\n@Chainlink released a solution called CustodySync. \n\nWith this solution, eligible custodians will let institutional customers access the DeFi lending market while keeping assets in custody at all times.",
+    "link": "https://cryptopanic.com/news/33602074/Chainlink-Just-Gave-Big-Institutions-a-Safe-Way-Into-DeFi-Lending-Chainlink-released-a-solution-called-CustodySync-With-this-solution-eligible-custodians-will-let-institutional-customers-access-the-DeFi-lending-market-while-keeping-assets-in-custody-at-all-times",
+    "source": "@bscnews",
+    "published": "Mon Oct 26 2026 16:38:46 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -67,6 +116,20 @@
     "link": "https://cryptopanic.com/news/33601976/Microsofts-AI-job-cut-offer-makes-60000-workers-eligible-for-buyouts",
     "source": "en.cryptonomist.ch",
     "published": "Mon Oct 26 2026 16:32:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "AI agents hiring AI agents. But how will they pay each other?\n\nPete Wylie of @avax_one argues traditional payment rails weren't designed for a machine-to-machine economy and explains why @avax could fit.\n\n#AI #AVAX #Avalanche",
+    "link": "https://cryptopanic.com/news/33602073/AI-agents-hiring-AI-agents-But-how-will-they-pay-each-other-Pete-Wylie-of-avax_one-argues-traditional-payment-rails-werent-designed-for-a-machine-to-machine-economy-and-explains-why-avax-could-fit-AI-AVAX-Avalanche",
+    "source": "@realallincrypto",
+    "published": "Mon Oct 26 2026 16:32:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MARKET: BitMine only needs 63,519 $ETH to reach its goal of owning 5% of the supply.",
+    "link": "https://cryptopanic.com/news/33602069/MARKET-BitMine-only-needs-63519-ETH-to-reach-its-goal-of-owning-5-of-the-supply",
+    "source": "@cointelegraph",
+    "published": "Mon Oct 26 2026 16:30:53 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -144,69 +207,6 @@
     "link": "https://cryptopanic.com/news/33601897/Azitra-stock-jumps-1900-intraday-as-daily-RSI-stands-at-9639",
     "source": "en.cryptonomist.ch",
     "published": "Mon Oct 26 2026 16:17:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Flashes Bullish Signal Against NASDAQ: Is $100,000 in 2026 Possible?",
-    "link": "https://cryptopanic.com/news/33601973/Bitcoin-Flashes-Bullish-Signal-Against-NASDAQ-Is-100000-in-2026-Possible",
-    "source": "feeds2.benzinga.com",
-    "published": "Mon Oct 26 2026 16:15:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Breakingviews - COMMENTARY: Beware a boring UK budget that ages badly",
-    "link": "https://cryptopanic.com/news/33601883/Breakingviews-COMMENTARY-Beware-a-boring-UK-budget-that-ages-badly",
-    "source": "@reutersbiz",
-    "published": "Mon Oct 26 2026 16:15:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Vanguard’s small-cap ETF adds 4.5 million Metaplanet shares as Wall Street’s Bitcoin exposure expands",
-    "link": "https://cryptopanic.com/news/33601900/Vanguards-small-cap-ETF-adds-45-million-Metaplanet-shares-as-Wall-Streets-Bitcoin-exposure-expands",
-    "source": "cryptopolitan.com",
-    "published": "Mon Oct 26 2026 16:13:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Polymarket US sets a trading record with more than 74 million October trades",
-    "link": "https://cryptopanic.com/news/33601887/Polymarket-US-sets-a-trading-record-with-more-than-74-million-October-trades",
-    "source": "en.cryptonomist.ch",
-    "published": "Mon Oct 26 2026 16:13:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Braiin jumps 27.32%, but its daily chart still faces a $4.54 hurdle",
-    "link": "https://cryptopanic.com/news/33601886/Braiin-jumps-2732-but-its-daily-chart-still-faces-a-454-hurdle",
-    "source": "en.cryptonomist.ch",
-    "published": "Mon Oct 26 2026 16:12:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: @Ripple launches 24/7 AI-powered treasury management, letting enterprise clients earn returns on idle $RLUSD balances.",
-    "link": "https://cryptopanic.com/news/33601878/NEW-Ripple-launches-247-AI-powered-treasury-management-letting-enterprise-clients-earn-returns-on-idle-RLUSD-balances",
-    "source": "@coindesk",
-    "published": "Mon Oct 26 2026 16:11:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Strategy’s Bitcoin Pause Coincided With a $204.9M STRC Buyback",
-    "link": "https://cryptopanic.com/news/33601885/Strategys-Bitcoin-Pause-Coincided-With-a-2049M-STRC-Buyback",
-    "source": "en.cryptonomist.ch",
-    "published": "Mon Oct 26 2026 16:11:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Canada Proposes Stablecoin Rules Banning Yield Payments",
-    "link": "https://cryptopanic.com/news/33601895/Canada-Proposes-Stablecoin-Rules-Banning-Yield-Payments",
-    "source": "cryptoprowl.com",
-    "published": "Mon Oct 26 2026 16:10:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XT Exchange: From Following Hyperliquid Traders to Copying Their Strategies",
-    "link": "https://cryptopanic.com/news/33601993/XT-Exchange-From-Following-Hyperliquid-Traders-to-Copying-Their-Strategies",
-    "source": "beincrypto.com",
-    "published": "Mon Oct 26 2026 16:07:56 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
