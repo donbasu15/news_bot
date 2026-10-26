@@ -1,9 +1,65 @@
 [
   {
+    "title": "NBA Embraces the CFTC on Prediction Markets as the NFL Fights It in Court",
+    "link": "https://cryptopanic.com/news/33602915/NBA-Embraces-the-CFTC-on-Prediction-Markets-as-the-NFL-Fights-It-in-Court",
+    "source": "decrypt.co",
+    "published": "Mon Oct 26 2026 20:36:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "️ INSIGHT: Michael Saylor retweets Alex Thorn’s view that the bottom is in and selling pressure has diminished.\n\nDo you agree?",
+    "link": "https://cryptopanic.com/news/33602905/INSIGHT-Michael-Saylor-retweets-Alex-Thorns-view-that-the-bottom-is-in-and-selling-pressure-has-diminished-Do-you-agree",
+    "source": "@cointelegraph",
+    "published": "Mon Oct 26 2026 20:30:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin and the 30-Year Warning About Society’s Future",
+    "link": "https://cryptopanic.com/news/33602959/Bitcoin-and-the-30-Year-Warning-About-Societys-Future",
+    "source": "SimplyBitcoin",
+    "published": "Mon Oct 26 2026 20:30:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "WATCH: Latvia and Slovakia are the latest European countries to approve Tesla's assisted-driving software, to the delight of some local motorists who campaigned for it, though challenges remain as the rollout begins",
+    "link": "https://cryptopanic.com/news/33602906/WATCH-Latvia-and-Slovakia-are-the-latest-European-countries-to-approve-Teslas-assisted-driving-software-to-the-delight-of-some-local-motorists-who-campaigned-for-it-though-challenges-remain-as-the-rollout-begins",
+    "source": "@reutersbiz",
+    "published": "Mon Oct 26 2026 20:25:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "@randgroup Allocators, this one’s for you. @UTXOmgmt breaks down how a Bitcoin-native asset manager reads the ecosystem. New on Allocator’s Edge, exclusively on BMTV.",
+    "link": "https://cryptopanic.com/news/33602962/randgroup-Allocators-this-ones-for-you-UTXOmgmt-breaks-down-how-a-Bitcoin-native-asset-manager-reads-the-ecosystem-New-on-Allocators-Edge-exclusively-on-BMTV",
+    "source": "@bitcoinmagazine",
+    "published": "Mon Oct 26 2026 20:23:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Zcash gets a JavaScript toolkit for app makers\n\n@ZcashLabs has released Zcash JS, a free, open-source developer kit for building $ZEC apps in JavaScript and TypeScript. It lets developers read chain data, run lightweight wallets, and sign and send transactions from web browsers",
+    "link": "https://cryptopanic.com/news/33602909/Zcash-gets-a-JavaScript-toolkit-for-app-makers-ZcashLabs-has-released-Zcash-JS-a-free-open-source-developer-kit-for-building-ZEC-apps-in-JavaScript-and-TypeScript-It-lets-developers-read-chain-data-run-lightweight-wallets-and-sign-and-send-transactions-from-web-browsers",
+    "source": "@bscnews",
+    "published": "Mon Oct 26 2026 20:19:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Netanyahu's Crypto Plan Sparks Economic Fears Ahead of Israel Elections",
+    "link": "https://cryptopanic.com/news/33602969/Netanyahus-Crypto-Plan-Sparks-Economic-Fears-Ahead-of-Israel-Elections",
+    "source": "beincrypto.com",
+    "published": "Mon Oct 26 2026 20:17:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "South Korea Arrests Seven in First Big AI-Assisted Hacking Case",
     "link": "https://cryptopanic.com/news/33602825/South-Korea-Arrests-Seven-in-First-Big-AI-Assisted-Hacking-Case",
     "source": "decrypt.co",
     "published": "Mon Oct 26 2026 20:06:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: 🇬🇧 Publicly traded The Smarter Web Company disclosed the purchase of 20 Bitcoin, now worth $1.59 million. \n\nThis brings their total holdings to 2,850 BTC!",
+    "link": "https://cryptopanic.com/news/33602960/NEW-Publicly-traded-The-Smarter-Web-Company-disclosed-the-purchase-of-20-Bitcoin-now-worth-159-million-This-brings-their-total-holdings-to-2850-BTC",
+    "source": "@bitcoinmagazine",
+    "published": "Mon Oct 26 2026 20:03:50 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -14,6 +70,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "BIG: S&P Dow Jones Indices just partnered with Kalshi, making it a preferred platform for event contracts tied to S&P indexes.\n\nS&P DJI will also explore building new indexes from Kalshi's prediction market data.",
+    "link": "https://cryptopanic.com/news/33602904/BIG-SampP-Dow-Jones-Indices-just-partnered-with-Kalshi-making-it-a-preferred-platform-for-event-contracts-tied-to-SampP-indexes-SampP-DJI-will-also-explore-building-new-indexes-from-Kalshis-prediction-market-data",
+    "source": "@cointelegraph",
+    "published": "Mon Oct 26 2026 20:01:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin Security Expert Jameson Lopp: Cyberattacks on “Exponential” Path",
     "link": "https://cryptopanic.com/news/33602827/Bitcoin-Security-Expert-Jameson-Lopp-Cyberattacks-on-Exponential-Path",
     "source": "BitcoinMagazine",
@@ -21,10 +84,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "NEW ARTICLE: Ascend release article on theirs and M1X Global completing the FIRST institutional repo transaction on Stellar, using tokenised sovereign debt as collateral! \n\n72 automated hourly transactions, operating 24/7, even over the weekend, with near-zero network fees!",
+    "link": "https://cryptopanic.com/news/33602907/NEW-ARTICLE-Ascend-release-article-on-theirs-and-M1X-Global-completing-the-FIRST-institutional-repo-transaction-on-Stellar-using-tokenised-sovereign-debt-as-collateral-72-automated-hourly-transactions-operating-247-even-over-the-weekend-with-near-zero-network-fees",
+    "source": "@realallincrypto",
+    "published": "Mon Oct 26 2026 20:00:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "INSIGHT: $BTC bear market ended in June and accumulation is underway, with the 50-week moving average reclaimed for five straight weeks and macro sellers having cut exposure by more than half, per @GalaxyHQ Research.",
     "link": "https://cryptopanic.com/news/33602859/INSIGHT-BTC-bear-market-ended-in-June-and-accumulation-is-underway-with-the-50-week-moving-average-reclaimed-for-five-straight-weeks-and-macro-sellers-having-cut-exposure-by-more-than-half-per-GalaxyHQ-Research",
     "source": "@coindesk",
     "published": "Mon Oct 26 2026 20:00:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "AI Bubble Bursts in China, Wiping $480 Billion: Is America Next?",
+    "link": "https://cryptopanic.com/news/33602966/AI-Bubble-Bursts-in-China-Wiping-480-Billion-Is-America-Next",
+    "source": "beincrypto.com",
+    "published": "Mon Oct 26 2026 19:56:30 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -60,6 +137,13 @@
     "link": "https://cryptopanic.com/news/33602756/The-impact-of-USDC-stablecoin-minting-Could-250-million-tokens-sway-trading",
     "source": "en.cryptonomist.ch",
     "published": "Mon Oct 26 2026 19:51:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Pakistan and DFINITY are back at the table, this time over AI\n\nPakistan Digital Authority (@digitalauthpk) chair Dr. Sohail Munir (@sohailmunir) met in Dubai today with @dfinity founder Dominic Williams (@dominic_w) and business chief Pierre Samaties (@PierreSamaties). They",
+    "link": "https://cryptopanic.com/news/33602908/Pakistan-and-DFINITY-are-back-at-the-table-this-time-over-AI-Pakistan-Digital-Authority-digitalauthpk-chair-Dr-Sohail-Munir-sohailmunir-met-in-Dubai-today-with-dfinity-founder-Dominic-Williams-dominic_w-and-business-chief-Pierre-Samaties-PierreSamaties-They",
+    "source": "@bscnews",
+    "published": "Mon Oct 26 2026 19:50:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -123,90 +207,6 @@
     "link": "https://cryptopanic.com/news/33602746/Value-Investor-Bets-1M-That-Bitcoin-Will-Reach-100000-Before-60000",
     "source": "feeds2.benzinga.com",
     "published": "Mon Oct 26 2026 19:33:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UTXO's Duke Waldrop: Bank of Japan “Liquidity Shock” Could Impact Bitcoin",
-    "link": "https://cryptopanic.com/news/33602744/UTXOs-Duke-Waldrop-Bank-of-Japan-Liquidity-Shock-Could-Impact-Bitcoin",
-    "source": "BitcoinMagazine",
-    "published": "Mon Oct 26 2026 19:32:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AI Agents Found a Way Into Anthropic's Business Systems in Under 12 Hours",
-    "link": "https://cryptopanic.com/news/33602704/AI-Agents-Found-a-Way-Into-Anthropics-Business-Systems-in-Under-12-Hours",
-    "source": "decrypt.co",
-    "published": "Mon Oct 26 2026 19:31:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: The FTC wants Anthropic execs to testify in its consumer harm probe, on the same day Anthropic is pitching investors on one of the biggest IPOs ever.\n\nTalk about timing...",
-    "link": "https://cryptopanic.com/news/33602738/NEW-The-FTC-wants-Anthropic-execs-to-testify-in-its-consumer-harm-probe-on-the-same-day-Anthropic-is-pitching-investors-on-one-of-the-biggest-IPOs-ever-Talk-about-timing",
-    "source": "@cointelegraph",
-    "published": "Mon Oct 26 2026 19:30:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Microsoft Offers Voluntary Buyouts to 60,000 Employees",
-    "link": "https://cryptopanic.com/news/33602673/Microsoft-Offers-Voluntary-Buyouts-to-60000-Employees",
-    "source": "catenaa.com",
-    "published": "Mon Oct 26 2026 19:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Hardware wallet maker @KeystoneWallet discloses a security breach exposing personal data of 25,964 customers and a device authentication key, destroying 18,835 units in inventory and suspending shipments as a precaution, with no wallet credentials or recovery phrases",
-    "link": "https://cryptopanic.com/news/33602736/JUST-IN-Hardware-wallet-maker-KeystoneWallet-discloses-a-security-breach-exposing-personal-data-of-25964-customers-and-a-device-authentication-key-destroying-18835-units-in-inventory-and-suspending-shipments-as-a-precaution-with-no-wallet-credentials-or-recovery-phrases",
-    "source": "@coindesk",
-    "published": "Mon Oct 26 2026 19:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AI is eating the world’s hard drives, and Filecoin wants in\n\n@Seagate, the world’s largest hard drive maker, says most of its high-capacity data-center drive output is already allocated through 2028, and Western Digital is also sold out for this year. Prices have followed suit,",
-    "link": "https://cryptopanic.com/news/33602743/AI-is-eating-the-worlds-hard-drives-and-Filecoin-wants-in-Seagate-the-worlds-largest-hard-drive-maker-says-most-of-its-high-capacity-data-center-drive-output-is-already-allocated-through-2028-and-Western-Digital-is-also-sold-out-for-this-year-Prices-have-followed-suit",
-    "source": "@bscnews",
-    "published": "Mon Oct 26 2026 19:21:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BNB Standard rings Nasdaq bell under a YZi Labs CEO, ending months of board struggle",
-    "link": "https://cryptopanic.com/news/33602666/BNB-Standard-rings-Nasdaq-bell-under-a-YZi-Labs-CEO-ending-months-of-board-struggle",
-    "source": "cryptopolitan.com",
-    "published": "Mon Oct 26 2026 19:20:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Pump.fun TCG Packs Face Scrutiny Following Phygitals Pivot",
-    "link": "https://cryptopanic.com/news/33602440/Pumpfun-TCG-Packs-Face-Scrutiny-Following-Phygitals-Pivot",
-    "source": "solanafloor.com",
-    "published": "Mon Oct 26 2026 19:16:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "It really is that simple. \n\nDo not fade this Bitcoin bull run.",
-    "link": "https://cryptopanic.com/news/33602698/It-really-is-that-simple-Do-not-fade-this-Bitcoin-bull-run",
-    "source": "@btc_archive",
-    "published": "Mon Oct 26 2026 19:10:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Mark Cuban puts Bitcoin and Apple in the same bucket",
-    "link": "https://cryptopanic.com/news/33602661/Mark-Cuban-puts-Bitcoin-and-Apple-in-the-same-bucket",
-    "source": "thestreet.com",
-    "published": "Mon Oct 26 2026 19:05:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: Foundation Phishing Attack Hits Customers - Electrum Users Lose Coins",
-    "link": "https://cryptopanic.com/news/33602608/BREAKING-Foundation-Phishing-Attack-Hits-Customers-Electrum-Users-Lose-Coins",
-    "source": "BTCSessions",
-    "published": "Mon Oct 26 2026 19:04:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Miden Opens Its Invite-Only Partner Mainnet, Privacy Guardrails Included",
-    "link": "https://cryptopanic.com/news/33602604/Miden-Opens-Its-Invite-Only-Partner-Mainnet-Privacy-Guardrails-Included",
-    "source": "bankless.com",
-    "published": "Mon Oct 26 2026 19:03:05 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
