@@ -1,5 +1,54 @@
 [
   {
+    "title": "STEVE WOZNIAK: \n“Bitcoin is the most amazing mathematical miracle. It's better than gold.”\n\n— July, 2022.",
+    "link": "https://cryptopanic.com/news/33602342/STEVE-WOZNIAK-Bitcoin-is-the-most-amazing-mathematical-miracle-Its-better-than-gold-July-2022",
+    "source": "@btc_archive",
+    "published": "Mon Oct 26 2026 17:51:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "China's AI Stocks Just Lost $480 Billion as a 40% Crash Raises New Questions About Nvidia",
+    "link": "https://cryptopanic.com/news/33602322/Chinas-AI-Stocks-Just-Lost-480-Billion-as-a-40-Crash-Raises-New-Questions-About-Nvidia",
+    "source": "coinpaper.com",
+    "published": "Mon Oct 26 2026 17:50:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin, AI stocks and Elon Musk: Analyst makes 3 bold predictions investors can't ignore",
+    "link": "https://cryptopanic.com/news/33602351/Bitcoin-AI-stocks-and-Elon-Musk-Analyst-makes-3-bold-predictions-investors-cant-ignore",
+    "source": "thestreet.com",
+    "published": "Mon Oct 26 2026 17:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "WATCH: Audi faces a political storm in Germany after CEO Gernot Doellner joined President Trump at a campaign rally to announce a $4 billion US factory, as German jobs hang in the balance amid plant closures and political-neutrality rules get compromised",
+    "link": "https://cryptopanic.com/news/33602314/WATCH-Audi-faces-a-political-storm-in-Germany-after-CEO-Gernot-Doellner-joined-President-Trump-at-a-campaign-rally-to-announce-a-4-billion-US-factory-as-German-jobs-hang-in-the-balance-amid-plant-closures-and-political-neutrality-rules-get-compromised",
+    "source": "@reutersbiz",
+    "published": "Mon Oct 26 2026 17:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Wallet Fixes Critical Flaw That Redirected Funds to Attackers",
+    "link": "https://cryptopanic.com/news/33602272/Bitcoin-Wallet-Fixes-Critical-Flaw-That-Redirected-Funds-to-Attackers",
+    "source": "decrypt.co",
+    "published": "Mon Oct 26 2026 17:41:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Nvidia, AMD and Broadcom may buy $5 billion of Meta’s share sale",
+    "link": "https://cryptopanic.com/news/33602325/Nvidia-AMD-and-Broadcom-may-buy-5-billion-of-Metas-share-sale",
+    "source": "cryptopolitan.com",
+    "published": "Mon Oct 26 2026 17:40:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: Payward (Kraken) plans US perpetual futures on Hyperliquid HIP-3 via CFTC-regulated Bitnomial, subject to approval",
+    "link": "https://cryptopanic.com/news/33602340/INTEL-Payward-Kraken-plans-US-perpetual-futures-on-Hyperliquid-HIP-3-via-CFTC-regulated-Bitnomial-subject-to-approval",
+    "source": "@solidintel_x",
+    "published": "Mon Oct 26 2026 17:37:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "US Stablecoin Rules Move Forward as OCC Finalizes GENIUS Act Framework Ahead of 2027 Launch",
     "link": "https://cryptopanic.com/news/33602262/US-Stablecoin-Rules-Move-Forward-as-OCC-Finalizes-GENIUS-Act-Framework-Ahead-of-2027-Launch",
     "source": "coinpaper.com",
@@ -56,10 +105,31 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Is Something Huge Brewing for NEAR Protocol? Grok AI Predicts a Big Move",
+    "link": "https://cryptopanic.com/news/33602335/Is-Something-Huge-Brewing-for-NEAR-Protocol-Grok-AI-Predicts-a-Big-Move",
+    "source": "99bitcoins.com",
+    "published": "Mon Oct 26 2026 17:22:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Ripple launches 24/7 AI-powered finance platform that lets businesses earn returns on idle cash",
     "link": "https://cryptopanic.com/news/33602219/Ripple-launches-247-AI-powered-finance-platform-that-lets-businesses-earn-returns-on-idle-cash",
     "source": "cryptopolitan.com",
     "published": "Mon Oct 26 2026 17:20:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Iran’s security chief Mohsen Rezaei hosted the talks, which Pakistan proposed last week. Iran’s Foreign Ministry called the meeting a practical step toward regional security that could lead to further consultations. Saudi Arabia, Pakistan and Turkey share a joint defense pact",
+    "link": "https://cryptopanic.com/news/33602337/Irans-security-chief-Mohsen-Rezaei-hosted-the-talks-which-Pakistan-proposed-last-week-Irans-Foreign-Ministry-called-the-meeting-a-practical-step-toward-regional-security-that-could-lead-to-further-consultations-Saudi-Arabia-Pakistan-and-Turkey-share-a-joint-defense-pact",
+    "source": "@solidintel_x",
+    "published": "Mon Oct 26 2026 17:16:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: Saudi Defense Minister Khalid bin Salman, Pakistan army chief Munir and Turkish spy chief Kalin hold security talks with Iran in Tehran | Per Iranian Tasnim",
+    "link": "https://cryptopanic.com/news/33602334/INTEL-Saudi-Defense-Minister-Khalid-bin-Salman-Pakistan-army-chief-Munir-and-Turkish-spy-chief-Kalin-hold-security-talks-with-Iran-in-Tehran-Per-Iranian-Tasnim",
+    "source": "@solidintel_x",
+    "published": "Mon Oct 26 2026 17:16:41 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/33602315/BREAKING-Canada-has-unveiled-proposed-STABLECOIN-regulations-but-theres-a-major-catch-Stablecoins-must-be-backed-11-redeemable-within-3-business-days-with-fees-capped-at-1-However-Canada-is-maintaining-its-BAN-on-stablecoin-interest-and-yield-payments-Rules",
     "source": "@realallincrypto",
     "published": "Mon Oct 26 2026 17:00:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Everyone's Panicking About Bitcoin. I'm Not",
-    "link": "https://cryptopanic.com/news/33602155/Everyones-Panicking-About-Bitcoin-Im-Not",
-    "source": "CryptoTips",
-    "published": "Mon Oct 26 2026 17:00:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple Treasury SVP Unveils Always-On AI Treasury: What It Means for XRP Ecosystem",
-    "link": "https://cryptopanic.com/news/33602152/Ripple-Treasury-SVP-Unveils-Always-On-AI-Treasury-What-It-Means-for-XRP-Ecosystem",
-    "source": "u.today",
-    "published": "Mon Oct 26 2026 17:00:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CoinDCX Absorbs $16 Million Loss After Internal Sweeping Failure",
-    "link": "https://cryptopanic.com/news/33602136/CoinDCX-Absorbs-16-Million-Loss-After-Internal-Sweeping-Failure",
-    "source": "coinpaprika.com",
-    "published": "Mon Oct 26 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Anthropic Files IPO After $9 Billion AI Infrastructure Spending",
-    "link": "https://cryptopanic.com/news/33602082/Anthropic-Files-IPO-After-9-Billion-AI-Infrastructure-Spending",
-    "source": "catenaa.com",
-    "published": "Mon Oct 26 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Charles Hoskinson says \"Midnight City could tokenize (intelligence) and create decentralized compute, and build the largest data center in the world for hire, and with Nightframes, it's private.\"",
-    "link": "https://cryptopanic.com/news/33602257/UPDATE-Charles-Hoskinson-says-Midnight-City-could-tokenize-intelligence-and-create-decentralized-compute-and-build-the-largest-data-center-in-the-world-for-hire-and-with-Nightframes-its-private",
-    "source": "@angrycryptoshow",
-    "published": "Mon Oct 26 2026 16:56:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BNB Celebrates Landmark Moment As CZ Rang Bell At Nasdaq Floor\n\n@BNBStandard Corporation (NASDAQ: BNC) rang the opening bell at the @Nasdaq MarketSite in New York. \n\nThe event marked its rebranding and the appointment of Alex Odagiu as CEO.\n\nThe firm had been known as CEA",
-    "link": "https://cryptopanic.com/news/33602075/BNB-Celebrates-Landmark-Moment-As-CZ-Rang-Bell-At-Nasdaq-Floor-BNBStandard-Corporation-NASDAQ-BNC-rang-the-opening-bell-at-the-Nasdaq-MarketSite-in-New-York-The-event-marked-its-rebranding-and-the-appointment-of-Alex-Odagiu-as-CEO-The-firm-had-been-known-as-CEA",
-    "source": "@bscnews",
-    "published": "Mon Oct 26 2026 16:56:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Charles Hoskinson says \"proofs are the only way to fulfill Satoshi's vision. What Satoshi believed in, is this concept of inclusive accountability, it's why everything was a full node in the beginning. The transaction is gonna carry its own proof of correctness.\"",
-    "link": "https://cryptopanic.com/news/33602256/UPDATE-Charles-Hoskinson-says-proofs-are-the-only-way-to-fulfill-Satoshis-vision-What-Satoshi-believed-in-is-this-concept-of-inclusive-accountability-its-why-everything-was-a-full-node-in-the-beginning-The-transaction-is-gonna-carry-its-own-proof-of-correctness",
-    "source": "@angrycryptoshow",
-    "published": "Mon Oct 26 2026 16:54:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Splinterlands Collector Achievements Launch Oct 27: Rewards at Risk If Cards Leave",
-    "link": "https://cryptopanic.com/news/33602097/Splinterlands-Collector-Achievements-Launch-Oct-27-Rewards-at-Risk-If-Cards-Leave",
-    "source": "spaziocrypto.com",
-    "published": "Mon Oct 26 2026 16:54:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Charles Hoskinson says \"I like the Zcash team a lot. They're good people, they do good things.\"",
-    "link": "https://cryptopanic.com/news/33602255/UPDATE-Charles-Hoskinson-says-I-like-the-Zcash-team-a-lot-Theyre-good-people-they-do-good-things",
-    "source": "@angrycryptoshow",
-    "published": "Mon Oct 26 2026 16:54:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Charles Hoskinson says \"we can add a DeFi layer to Zcash. Zcash can't add a DeFi Layer to Midnight. Thus, Midnight is a superset of Zcash, it's not a subset.\"",
-    "link": "https://cryptopanic.com/news/33602254/UPDATE-Charles-Hoskinson-says-we-can-add-a-DeFi-layer-to-Zcash-Zcash-cant-add-a-DeFi-Layer-to-Midnight-Thus-Midnight-is-a-superset-of-Zcash-its-not-a-subset",
-    "source": "@angrycryptoshow",
-    "published": "Mon Oct 26 2026 16:53:57 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
