@@ -1,5 +1,96 @@
 [
   {
+    "title": "JUST IN: Lightning Labs has launched Wavelength, enabling AI agents to pay and get paid in Bitcoin! ️",
+    "link": "https://cryptopanic.com/news/33607229/JUST-IN-Lightning-Labs-has-launched-Wavelength-enabling-AI-agents-to-pay-and-get-paid-in-Bitcoin",
+    "source": "@bitcoinmagazine",
+    "published": "Tue Oct 27 2026 15:14:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Arthur Hayes Plans to Build Derivatives Around AI Compute",
+    "link": "https://cryptopanic.com/news/33607242/Arthur-Hayes-Plans-to-Build-Derivatives-Around-AI-Compute",
+    "source": "cryptopotato.com",
+    "published": "Tue Oct 27 2026 15:12:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ELON MUSK: AI can't crack Bitcoin hashing algorithms.\n\n\"AI can't can't defy fundamental math.\"\n\nApril, 2023.",
+    "link": "https://cryptopanic.com/news/33607230/ELON-MUSK-AI-cant-crack-Bitcoin-hashing-algorithms-AI-cant-cant-defy-fundamental-math-April-2023",
+    "source": "@btc_archive",
+    "published": "Tue Oct 27 2026 15:11:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SoFi Posts Record Third-Quarter Revenue of $1.4 Billion, Raises Full-Year Guidance",
+    "link": "https://cryptopanic.com/news/33607238/SoFi-Posts-Record-Third-Quarter-Revenue-of-14-Billion-Raises-Full-Year-Guidance",
+    "source": "cryptoprowl.com",
+    "published": "Tue Oct 27 2026 15:02:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ripple, BNY explore using the XRP Ledger to finance approved invoices",
+    "link": "https://cryptopanic.com/news/33607167/Ripple-BNY-explore-using-the-XRP-Ledger-to-finance-approved-invoices",
+    "source": "theblock.co",
+    "published": "Tue Oct 27 2026 15:01:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin’s next rally could trigger selling from holders of 874,000 BTC",
+    "link": "https://cryptopanic.com/news/33607164/Bitcoins-next-rally-could-trigger-selling-from-holders-of-874000-BTC",
+    "source": "cryptoslate.com",
+    "published": "Tue Oct 27 2026 15:00:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Decrypt was on-site in NYC last week for the @nextpredictio Summit, with @farokh at the event capturing all the action.",
+    "link": "https://cryptopanic.com/news/33607227/Decrypt-was-on-site-in-NYC-last-week-for-the-nextpredictio-Summit-with-farokh-at-the-event-capturing-all-the-action",
+    "source": "@decryptmedia",
+    "published": "Tue Oct 27 2026 15:00:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Chainlink Opens $700 Billion Custody Market to DeFi With Anchorage",
+    "link": "https://cryptopanic.com/news/33607181/Chainlink-Opens-700-Billion-Custody-Market-to-DeFi-With-Anchorage",
+    "source": "coinpaprika.com",
+    "published": "Tue Oct 27 2026 15:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Moody's sounds crypto crash alarm: Why Bitcoin investors should care",
+    "link": "https://cryptopanic.com/news/33607258/Moodys-sounds-crypto-crash-alarm-Why-Bitcoin-investors-should-care",
+    "source": "thestreet.com",
+    "published": "Tue Oct 27 2026 15:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Alphabet Stock Breaks Down Ahead of Q3 Earnings: Could GOOGL Fall 30%?",
+    "link": "https://cryptopanic.com/news/33607253/Alphabet-Stock-Breaks-Down-Ahead-of-Q3-Earnings-Could-GOOGL-Fall-30",
+    "source": "beincrypto.com",
+    "published": "Tue Oct 27 2026 15:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Galaxy Swings to $323 Million Third-Quarter Profit on Investment Gains and Data Center Growth",
+    "link": "https://cryptopanic.com/news/33607125/Galaxy-Swings-to-323-Million-Third-Quarter-Profit-on-Investment-Gains-and-Data-Center-Growth",
+    "source": "cryptoprowl.com",
+    "published": "Tue Oct 27 2026 14:53:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ripple, Robinhood Partner to Expand RLUSD Use for Institutional Settlement",
+    "link": "https://cryptopanic.com/news/33607183/Ripple-Robinhood-Partner-to-Expand-RLUSD-Use-for-Institutional-Settlement",
+    "source": "feeds2.benzinga.com",
+    "published": "Tue Oct 27 2026 14:52:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Investor Who Called the AI Boom Predicts a Bitcoin Crash",
+    "link": "https://cryptopanic.com/news/33607252/Investor-Who-Called-the-AI-Boom-Predicts-a-Bitcoin-Crash",
+    "source": "beincrypto.com",
+    "published": "Tue Oct 27 2026 14:48:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Injective Brings Onchain Options to AI Compute, Stocks and Commodities\n\n@Injective has successfully integrated its modular options protocol on testnet. This enables fully collateralized calls and puts across six primary markets.\n\nThese include decentralized AI computing via the",
     "link": "https://cryptopanic.com/news/33607109/Injective-Brings-Onchain-Options-to-AI-Compute-Stocks-and-Commodities-Injective-has-successfully-integrated-its-modular-options-protocol-on-testnet-This-enables-fully-collateralized-calls-and-puts-across-six-primary-markets-These-include-decentralized-AI-computing-via-the",
     "source": "@bscnews",
@@ -28,10 +119,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Live now with @Natan_benish, co-founder of @longdotxyz.",
+    "link": "https://cryptopanic.com/news/33607226/Live-now-with-Natan_benish-co-founder-of-longdotxyz",
+    "source": "@decryptmedia",
+    "published": "Tue Oct 27 2026 14:35:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST:  StoneX raised its price target on Strive (ASST) 34% to $43, keeping a Buy rating after its $630M SATS preferred stock offering.",
     "link": "https://cryptopanic.com/news/33607084/LATEST-StoneX-raised-its-price-target-on-Strive-ASST-34-to-43-keeping-a-Buy-rating-after-its-630M-SATS-preferred-stock-offering",
     "source": "@coinmarketcap",
     "published": "Tue Oct 27 2026 14:34:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Jim Cramer Says Nvidia Would Be Criticized for Broadcom’s Anthropic Deal. Here’s Why",
+    "link": "https://cryptopanic.com/news/33607251/Jim-Cramer-Says-Nvidia-Would-Be-Criticized-for-Broadcoms-Anthropic-Deal-Heres-Why",
+    "source": "beincrypto.com",
+    "published": "Tue Oct 27 2026 14:33:23 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -102,111 +207,6 @@
     "link": "https://cryptopanic.com/news/33606956/Bitcoin-Ether-and-Solana-Yesterdays-Leader-Usually-Changed",
     "source": "btcusa.com",
     "published": "Tue Oct 27 2026 14:22:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Genius Launches Mobile App Integrating Token Trading, Creation, and Social Features on BNB Chain\n\nOnchain trading platform Genius has launched its mobile app on Apple's App Store and Google Play. Built on BNB Chain, it combines token trading, social features, and token creation.",
-    "link": "https://cryptopanic.com/news/33607085/Genius-Launches-Mobile-App-Integrating-Token-Trading-Creation-and-Social-Features-on-BNB-Chain-Onchain-trading-platform-Genius-has-launched-its-mobile-app-on-Apples-App-Store-and-Google-Play-Built-on-BNB-Chain-it-combines-token-trading-social-features-and-token-creation",
-    "source": "@wublockchain",
-    "published": "Tue Oct 27 2026 14:18:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ETHGas protocol study examines institutional blockspace on Ethereum, not asset value",
-    "link": "https://cryptopanic.com/news/33606949/ETHGas-protocol-study-examines-institutional-blockspace-on-Ethereum-not-asset-value",
-    "source": "en.cryptonomist.ch",
-    "published": "Tue Oct 27 2026 14:17:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "bStocks’ tokenized stock growth hits $1B in AUM in just 125 days",
-    "link": "https://cryptopanic.com/news/33606948/bStocks-tokenized-stock-growth-hits-1B-in-AUM-in-just-125-days",
-    "source": "en.cryptonomist.ch",
-    "published": "Tue Oct 27 2026 14:17:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple and Robinhood Team Up to Bring RLUSD to Millions of Users\n\n@Ripple and @RobinhoodApp have entered into an enterprise infrastructure partnership. \n\nThe collaboration is to roll out $RLUSD, institutional prime brokerage, and back-office treasury management services for the",
-    "link": "https://cryptopanic.com/news/33607017/Ripple-and-Robinhood-Team-Up-to-Bring-RLUSD-to-Millions-of-Users-Ripple-and-RobinhoodApp-have-entered-into-an-enterprise-infrastructure-partnership-The-collaboration-is-to-roll-out-RLUSD-institutional-prime-brokerage-and-back-office-treasury-management-services-for-the",
-    "source": "@bscnews",
-    "published": "Tue Oct 27 2026 14:14:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Cathie Wood sells Bitcoin, buys $5.2 million of sinking stock",
-    "link": "https://cryptopanic.com/news/33606983/Cathie-Wood-sells-Bitcoin-buys-52-million-of-sinking-stock",
-    "source": "thestreet.com",
-    "published": "Tue Oct 27 2026 14:14:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "You are not late to Bitcoin. It’s still early.\n\n• Many big institutions still restrict access\n• Clarity Act still not law\n• Strategic Reserve hasn’t bought any\n• Most corporations and nations still out\n\nThe next 5 years will be wild!",
-    "link": "https://cryptopanic.com/news/33607081/You-are-not-late-to-Bitcoin-Its-still-early-Many-big-institutions-still-restrict-access-Clarity-Act-still-not-law-Strategic-Reserve-hasnt-bought-any-Most-corporations-and-nations-still-out-The-next-5-years-will-be-wild",
-    "source": "@btc_archive",
-    "published": "Tue Oct 27 2026 14:14:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto Market Structure Explained",
-    "link": "https://cryptopanic.com/news/33606944/Crypto-Market-Structure-Explained",
-    "source": "theblock.co",
-    "published": "Tue Oct 27 2026 14:14:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Michael Saylor says AI creates wealth while Bitcoin allows humanity to preserve it.",
-    "link": "https://cryptopanic.com/news/33607021/JUST-IN-Michael-Saylor-says-AI-creates-wealth-while-Bitcoin-allows-humanity-to-preserve-it",
-    "source": "@watcherguru",
-    "published": "Tue Oct 27 2026 14:12:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "IBM, Oracle and Intel join opt-out as 26 issuers block OKXICE tokenized stocks",
-    "link": "https://cryptopanic.com/news/33606950/IBM-Oracle-and-Intel-join-opt-out-as-26-issuers-block-OKXICE-tokenized-stocks",
-    "source": "cryptopolitan.com",
-    "published": "Tue Oct 27 2026 14:10:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: $200 billion VanEck includes Bitcoin exposure in their new Wealth Builder ETF \n\n\"This fund brings Bitcoin to investors who want one simple diversified holding\"",
-    "link": "https://cryptopanic.com/news/33607020/JUST-IN-200-billion-VanEck-includes-Bitcoin-exposure-in-their-new-Wealth-Builder-ETF-This-fund-brings-Bitcoin-to-investors-who-want-one-simple-diversified-holding",
-    "source": "@bitcoinmagazine",
-    "published": "Tue Oct 27 2026 14:09:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum Price Danger Zone: ETH Tests $2,300 Support as Outflows Surge",
-    "link": "https://cryptopanic.com/news/33606868/Ethereum-Price-Danger-Zone-ETH-Tests-2300-Support-as-Outflows-Surge",
-    "source": "dailycoin.com",
-    "published": "Tue Oct 27 2026 14:05:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Markets, Jason Calacanis' Bottom Signal, RH Q3 Earnings and LONG Ecosystem Founder Interview",
-    "link": "https://cryptopanic.com/news/33607019/Markets-Jason-Calacanis-Bottom-Signal-RH-Q3-Earnings-and-LONG-Ecosystem-Founder-Interview",
-    "source": "@decryptmedia",
-    "published": "Tue Oct 27 2026 14:02:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Strive CEO: AI abundance will make Bitcoin the most valuable scarce asset.\n\nLearn AI and stack sats — Matt Cole.\n\n🫡 @ColeMacro",
-    "link": "https://cryptopanic.com/news/33607080/Strive-CEO-AI-abundance-will-make-Bitcoin-the-most-valuable-scarce-asset-Learn-AI-and-stack-sats-Matt-Cole-ColeMacro",
-    "source": "@btc_archive",
-    "published": "Tue Oct 27 2026 14:02:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: An OpenAI model claims to refute the Exponential Time Hypothesis, prompting an independent review by researchers.\n\nThe Exponential Time Hypothesis (ETH) is a key conjecture that 3-SAT problems cannot be solved in subexponential time.",
-    "link": "https://cryptopanic.com/news/33606937/NEW-An-OpenAI-model-claims-to-refute-the-Exponential-Time-Hypothesis-prompting-an-independent-review-by-researchers-The-Exponential-Time-Hypothesis-ETH-is-a-key-conjecture-that-3-SAT-problems-cannot-be-solved-in-subexponential-time",
-    "source": "@cointelegraph",
-    "published": "Tue Oct 27 2026 14:01:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Ledger Scores Huge BNY Trade Finance Breakthrough",
-    "link": "https://cryptopanic.com/news/33606982/XRP-Ledger-Scores-Huge-BNY-Trade-Finance-Breakthrough",
-    "source": "u.today",
-    "published": "Tue Oct 27 2026 14:01:10 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
