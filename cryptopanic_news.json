@@ -1,9 +1,149 @@
 [
   {
+    "title": "U.S. XRP Spot ETFs Record $3.6101 Million in Daily Net Outflows",
+    "link": "https://cryptopanic.com/news/33604001/US-XRP-Spot-ETFs-Record-36101-Million-in-Daily-Net-Outflows",
+    "source": "square.binance.com",
+    "published": "Tue Oct 27 2026 02:04:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Binance to Suspend Ethereum Network Deposits and Withdrawals for Wallet Maintenance",
+    "link": "https://cryptopanic.com/news/33604000/Binance-to-Suspend-Ethereum-Network-Deposits-and-Withdrawals-for-Wallet-Maintenance",
+    "source": "square.binance.com",
+    "published": "Tue Oct 27 2026 02:01:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Exclusive: The United States and Canada are working on a deal to ease US tariffs on Canadian steel and autos, as the two governments try to repair relations that soured after trade talks broke down in August. More here -",
+    "link": "https://cryptopanic.com/news/33603739/Exclusive-The-United-States-and-Canada-are-working-on-a-deal-to-ease-US-tariffs-on-Canadian-steel-and-autos-as-the-two-governments-try-to-repair-relations-that-soured-after-trade-talks-broke-down-in-August-More-here-",
+    "source": "@reutersbiz",
+    "published": "Tue Oct 27 2026 02:00:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Anthropic IPO filing reveals training pause and four security incidents",
+    "link": "https://cryptopanic.com/news/33603764/Anthropic-IPO-filing-reveals-training-pause-and-four-security-incidents",
+    "source": "cryptopolitan.com",
+    "published": "Tue Oct 27 2026 01:59:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin, XRP, Dogecoin Gain, but Ethereum Slips Amid Signs of 'Local Bottom': Top Analyst Identifies 'Next Buying Opportunity'",
+    "link": "https://cryptopanic.com/news/33603763/Bitcoin-XRP-Dogecoin-Gain-but-Ethereum-Slips-Amid-Signs-of-Local-Bottom-Top-Analyst-Identifies-Next-Buying-Opportunity",
+    "source": "feeds2.benzinga.com",
+    "published": "Tue Oct 27 2026 01:55:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Microsoft said it is offering voluntary buyouts to about 60,000 employees, or more than a quarter of its global workforce, as the technology giant looks to contain costs and help fund its massive AI investments. More here",
+    "link": "https://cryptopanic.com/news/33603738/Microsoft-said-it-is-offering-voluntary-buyouts-to-about-60000-employees-or-more-than-a-quarter-of-its-global-workforce-as-the-technology-giant-looks-to-contain-costs-and-help-fund-its-massive-AI-investments-More-here",
+    "source": "@reutersbiz",
+    "published": "Tue Oct 27 2026 01:53:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Elon Musk Hires Snapchat’s First Product Manager to Lead Product at X",
+    "link": "https://cryptopanic.com/news/33603999/Elon-Musk-Hires-Snapchats-First-Product-Manager-to-Lead-Product-at-X",
+    "source": "square.binance.com",
+    "published": "Tue Oct 27 2026 01:51:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Jim Cramer Says Anthropic's IPO Makes Goldman Sachs a Buy",
+    "link": "https://cryptopanic.com/news/33603998/Jim-Cramer-Says-Anthropics-IPO-Makes-Goldman-Sachs-a-Buy",
+    "source": "square.binance.com",
+    "published": "Tue Oct 27 2026 01:50:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Sony-Backed Soneium Plans Token and AI Royalties Amid 95% DeFi Deposit Drop",
+    "link": "https://cryptopanic.com/news/33603997/Sony-Backed-Soneium-Plans-Token-and-AI-Royalties-Amid-95-DeFi-Deposit-Drop",
+    "source": "square.binance.com",
+    "published": "Tue Oct 27 2026 01:50:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "10,000 Bitcoin Simulations Say BTC's Median Path to $1M Comes in 2033",
+    "link": "https://cryptopanic.com/news/33604004/10000-Bitcoin-Simulations-Say-BTCs-Median-Path-to-1M-Comes-in-2033",
+    "source": "beincrypto.com",
+    "published": "Tue Oct 27 2026 01:50:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Three Wallets Transfer 482,200 SOL Worth $49.17 Million Over Three Days, Prepare to Sell",
+    "link": "https://cryptopanic.com/news/33603996/Three-Wallets-Transfer-482200-SOL-Worth-4917-Million-Over-Three-Days-Prepare-to-Sell",
+    "source": "square.binance.com",
+    "published": "Tue Oct 27 2026 01:46:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trader Earns $963,000 by Going Long Q on Aster",
+    "link": "https://cryptopanic.com/news/33603995/Trader-Earns-963000-by-Going-Long-Q-on-Aster",
+    "source": "square.binance.com",
+    "published": "Tue Oct 27 2026 01:44:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Chainlink Launches CustodySync to Connect Institutional Custody With DeFi Lending",
+    "link": "https://cryptopanic.com/news/33603994/Chainlink-Launches-CustodySync-to-Connect-Institutional-Custody-With-DeFi-Lending",
+    "source": "square.binance.com",
+    "published": "Tue Oct 27 2026 01:44:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "China Industrial Profits Rise 14.4%, Fastest Growth in Three Months",
+    "link": "https://cryptopanic.com/news/33603993/China-Industrial-Profits-Rise-144-Fastest-Growth-in-Three-Months",
+    "source": "square.binance.com",
+    "published": "Tue Oct 27 2026 01:43:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Whales are dumping $SOL!\n\n3 wallets, possibly belonging to the same whale, moved 482,228 $SOL ($49.17M) over the past 3 days to sell.\n\nSo far, they've deposited 171,430 $SOL ($17.3M) into exchanges.",
+    "link": "https://cryptopanic.com/news/33603797/Whales-are-dumping-SOL-3-wallets-possibly-belonging-to-the-same-whale-moved-482228-SOL-4917M-over-the-past-3-days-to-sell-So-far-theyve-deposited-171430-SOL-173M-into-exchanges",
+    "source": "@lookonchain",
+    "published": "Tue Oct 27 2026 01:41:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ASIA MARKET OPEN | KOSPI Opens 3.46% Higher and Triggers Buy-Side Sidecar; Nikkei, TAIEX Open Firmer",
+    "link": "https://cryptopanic.com/news/33603992/ASIA-MARKET-OPEN-KOSPI-Opens-346-Higher-and-Triggers-Buy-Side-Sidecar-Nikkei-TAIEX-Open-Firmer",
+    "source": "square.binance.com",
+    "published": "Tue Oct 27 2026 01:40:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "STOCKS | South Korea’s KOSPI Jumps 4.02% as SK Hynix and Samsung Rally",
+    "link": "https://cryptopanic.com/news/33603991/STOCKS-South-Koreas-KOSPI-Jumps-402-as-SK-Hynix-and-Samsung-Rally",
+    "source": "square.binance.com",
+    "published": "Tue Oct 27 2026 01:39:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "🇯🇵 BIG: BlackRock signs an MOU with SBI Holdings and Startale to explore linking tokenized money market funds with JPYSC, a yen-backed stablecoin, to push onchain finance in Japan.",
     "link": "https://cryptopanic.com/news/33603736/BIG-BlackRock-signs-an-MOU-with-SBI-Holdings-and-Startale-to-explore-linking-tokenized-money-market-funds-with-JPYSC-a-yen-backed-stablecoin-to-push-onchain-finance-in-Japan",
     "source": "@cointelegraph",
     "published": "Tue Oct 27 2026 01:39:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Q has surged 262% today!\n\nTrader 0xF1fE has made $963K on @Aster_DEX, mainly from going long on $Q.",
+    "link": "https://cryptopanic.com/news/33603796/Q-has-surged-262-today-Trader-0xF1fE-has-made-963K-on-Aster_DEX-mainly-from-going-long-on-Q",
+    "source": "@lookonchain",
+    "published": "Tue Oct 27 2026 01:35:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Dutch Crypto Industry Group Warns Proposed Tax Rules Could Spur Asset Sales",
+    "link": "https://cryptopanic.com/news/33603990/Dutch-Crypto-Industry-Group-Warns-Proposed-Tax-Rules-Could-Spur-Asset-Sales",
+    "source": "square.binance.com",
+    "published": "Tue Oct 27 2026 01:34:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Taiwan Micron Signs Labor Agreement, Line Workers' Annual Pay Rises to Over NT$2 Million",
+    "link": "https://cryptopanic.com/news/33603989/Taiwan-Micron-Signs-Labor-Agreement-Line-Workers-Annual-Pay-Rises-to-Over-NT2-Million",
+    "source": "square.binance.com",
+    "published": "Tue Oct 27 2026 01:34:20 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -28,6 +168,20 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Warriors’ Chance of Beating Nuggets Put at 30% on predict.fun After Three Straight Losses",
+    "link": "https://cryptopanic.com/news/33603988/Warriors-Chance-of-Beating-Nuggets-Put-at-30-on-predictfun-After-Three-Straight-Losses",
+    "source": "square.binance.com",
+    "published": "Tue Oct 27 2026 01:24:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Soul to Launch Loxinity AI Audio and Video Interaction Product",
+    "link": "https://cryptopanic.com/news/33603987/Soul-to-Launch-Loxinity-AI-Audio-and-Video-Interaction-Product",
+    "source": "square.binance.com",
+    "published": "Tue Oct 27 2026 01:24:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST:  Bernstein raised its Circle price target to $145 from $140 on Arc token presales and reserve yield outlook, expecting Q3 revenue of $770M even as USDC supply fell to about $73B from $77B.",
     "link": "https://cryptopanic.com/news/33603710/LATEST-Bernstein-raised-its-Circle-price-target-to-145-from-140-on-Arc-token-presales-and-reserve-yield-outlook-expecting-Q3-revenue-of-770M-even-as-USDC-supply-fell-to-about-73B-from-77B",
     "source": "@coinmarketcap",
@@ -35,178 +189,24 @@
     "sentiment": "neutral"
   },
   {
-    "title": "BITCOIN MINER MARA SENDS 1,000 BTC TO BITGO, WORTH $80M.\n\nArkham claims it was a sale.\n\nBusiness as usual, given they mine 800 BTC per month.\n\nNothing to worry about!",
-    "link": "https://cryptopanic.com/news/33603671/BITCOIN-MINER-MARA-SENDS-1000-BTC-TO-BITGO-WORTH-80M-Arkham-claims-it-was-a-sale-Business-as-usual-given-they-mine-800-BTC-per-month-Nothing-to-worry-about",
-    "source": "@btc_archive",
-    "published": "Tue Oct 27 2026 01:12:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Sony's Blockchain Plans New Token and AI Royalties. Will It Recover?",
-    "link": "https://cryptopanic.com/news/33603682/Sonys-Blockchain-Plans-New-Token-and-AI-Royalties-Will-It-Recover",
+    "title": "Cramer Says Anthropic's IPO Makes This Wall Street Bank a Buy",
+    "link": "https://cryptopanic.com/news/33604003/Cramer-Says-Anthropics-IPO-Makes-This-Wall-Street-Bank-a-Buy",
     "source": "beincrypto.com",
-    "published": "Tue Oct 27 2026 01:11:42 GMT+0000 (Coordinated Universal Time)",
+    "published": "Tue Oct 27 2026 01:21:42 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "LATEST: Intel agrees to acquire quantum software firm Classiq, aiming to build a full-stack quantum computing business.",
-    "link": "https://cryptopanic.com/news/33603641/LATEST-Intel-agrees-to-acquire-quantum-software-firm-Classiq-aiming-to-build-a-full-stack-quantum-computing-business",
-    "source": "@cointelegraph",
-    "published": "Tue Oct 27 2026 01:00:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "US stocks closed higher, with the S&P 500 and Nasdaq coming off consecutive weekly declines, as Anthropic's IPO filing helped boost sentiment in AI-related stocks in a week filled with a host of market catalysts",
-    "link": "https://cryptopanic.com/news/33603642/US-stocks-closed-higher-with-the-SampP-500-and-Nasdaq-coming-off-consecutive-weekly-declines-as-Anthropics-IPO-filing-helped-boost-sentiment-in-AI-related-stocks-in-a-week-filled-with-a-host-of-market-catalysts",
-    "source": "@reutersbiz",
-    "published": "Tue Oct 27 2026 01:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins",
-    "link": "https://cryptopanic.com/news/33603602/BlackRock-joins-SBI-and-Startale-to-link-tokenized-MMFs-with-Japanese-yen-stablecoins",
-    "source": "theblock.co",
-    "published": "Tue Oct 27 2026 01:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "PumpFun adds support for new chains, but doesn't announce TON ...\n\nThe @Pumpfun memecoin launchpad on @Solana has announced support for both @megaeth $MEGA and @Monad $MON in the past week.\n\nHowever, reports also flag that the platform has added support for the @ton_blockchain",
-    "link": "https://cryptopanic.com/news/33603644/PumpFun-adds-support-for-new-chains-but-doesnt-announce-TON-The-Pumpfun-memecoin-launchpad-on-Solana-has-announced-support-for-both-megaeth-MEGA-and-Monad-MON-in-the-past-week-However-reports-also-flag-that-the-platform-has-added-support-for-the-ton_blockchain",
-    "source": "@bscnews",
-    "published": "Tue Oct 27 2026 00:55:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Glassnode says Bitcoin's failed push toward $85K left leverage in place, with longs still paying funding above its high band and futures open interest near $37.5B.",
-    "link": "https://cryptopanic.com/news/33603599/LATEST-Glassnode-says-Bitcoins-failed-push-toward-85K-left-leverage-in-place-with-longs-still-paying-funding-above-its-high-band-and-futures-open-interest-near-375B",
-    "source": "@coinmarketcap",
-    "published": "Tue Oct 27 2026 00:53:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin term searches on Google down to a 6-year low.\n\nRetail traders have lost interest.\n\nIt means NOW is the time to accumulate.\n\nThey’ll surely be back at $120K.",
-    "link": "https://cryptopanic.com/news/33603598/Bitcoin-term-searches-on-Google-down-to-a-6-year-low-Retail-traders-have-lost-interest-It-means-NOW-is-the-time-to-accumulate-Theyll-surely-be-back-at-120K",
-    "source": "@btc_archive",
-    "published": "Tue Oct 27 2026 00:49:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "It seems that Bitcoin mining company MARA Holdings (@MARA) dumped 1,000 $BTC($80.19M) 6 hours ago.",
-    "link": "https://cryptopanic.com/news/33603670/It-seems-that-Bitcoin-mining-company-MARA-Holdings-MARA-dumped-1000-BTC8019M-6-hours-ago",
-    "source": "@lookonchain",
-    "published": "Tue Oct 27 2026 00:48:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Could $389M in US chip grants accelerate Bitcoin miners’ AI pivot?",
-    "link": "https://cryptopanic.com/news/33603593/Could-389M-in-US-chip-grants-accelerate-Bitcoin-miners-AI-pivot",
-    "source": "cryptopolitan.com",
-    "published": "Tue Oct 27 2026 00:47:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Gold Price Crashed 25%, But Investors are Still Buying",
-    "link": "https://cryptopanic.com/news/33603681/Gold-Price-Crashed-25-But-Investors-are-Still-Buying",
+    "title": "Elon Musk Hires Snapchat’s First Product Manager at X",
+    "link": "https://cryptopanic.com/news/33604002/Elon-Musk-Hires-Snapchats-First-Product-Manager-at-X",
     "source": "beincrypto.com",
-    "published": "Tue Oct 27 2026 00:46:42 GMT+0000 (Coordinated Universal Time)",
+    "published": "Tue Oct 27 2026 01:21:03 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "It's coming...",
-    "link": "https://cryptopanic.com/news/33603597/Its-coming",
-    "source": "@btc_archive",
-    "published": "Tue Oct 27 2026 00:41:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Aviva commits £50M to XRP Ledger tokenized sterling fund share class",
-    "link": "https://cryptopanic.com/news/33603570/Aviva-commits-50M-to-XRP-Ledger-tokenized-sterling-fund-share-class",
-    "source": "cryptopolitan.com",
-    "published": "Tue Oct 27 2026 00:41:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "TODAY: Coinbase CEO Brian Armstrong says that while lab-grown diamonds boom and alchemy-made gold nears reality, Bitcoin’s 21M cap stays untouchable.\n\n“You can’t invent anything that will increase Bitcoin supply.”",
-    "link": "https://cryptopanic.com/news/33603545/TODAY-Coinbase-CEO-Brian-Armstrong-says-that-while-lab-grown-diamonds-boom-and-alchemy-made-gold-nears-reality-Bitcoins-21M-cap-stays-untouchable-You-cant-invent-anything-that-will-increase-Bitcoin-supply",
-    "source": "@cointelegraph",
-    "published": "Tue Oct 27 2026 00:30:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The investigation found that personal information from historical WooCommerce orders remained in legacy database tables despite appearing redacted in the admin dashboard. Customer data from orders placed through Shopify since May may also have been exposed. Foundation said it has",
-    "link": "https://cryptopanic.com/news/33603543/The-investigation-found-that-personal-information-from-historical-WooCommerce-orders-remained-in-legacy-database-tables-despite-appearing-redacted-in-the-admin-dashboard-Customer-data-from-orders-placed-through-Shopify-since-May-may-also-have-been-exposed-Foundation-said-it-has",
-    "source": "@wublockchain",
-    "published": "Tue Oct 27 2026 00:26:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Foundation Identifies Over 23,000 Phishing Email Attempts in Passport Wallet Security Incident\n\nPassport hardware wallet maker Foundation said it has identified more than 23,000 phishing email attempts, including 19,057 messages delivered through Mailgun and 1,503 sent via Google",
-    "link": "https://cryptopanic.com/news/33603542/Foundation-Identifies-Over-23000-Phishing-Email-Attempts-in-Passport-Wallet-Security-Incident-Passport-hardware-wallet-maker-Foundation-said-it-has-identified-more-than-23000-phishing-email-attempts-including-19057-messages-delivered-through-Mailgun-and-1503-sent-via-Google",
-    "source": "@wublockchain",
-    "published": "Tue Oct 27 2026 00:26:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Satoshi emails from 2010 discussed quantum computers and SHA-256 potential break — Jack Mallers.\n\n\"None of this is new. None of this was missed or not considered.\n\nSatoshi even said some of this technology would need upgrades, and that's fine\".",
-    "link": "https://cryptopanic.com/news/33603596/Satoshi-emails-from-2010-discussed-quantum-computers-and-SHA-256-potential-break-Jack-Mallers-None-of-this-is-new-None-of-this-was-missed-or-not-considered-Satoshi-even-said-some-of-this-technology-would-need-upgrades-and-thats-fine",
-    "source": "@btc_archive",
-    "published": "Tue Oct 27 2026 00:22:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Ethereum Foundation selling $ETH ?!\n\nAccording to reports from the likes of @lookonchain and @OnchainLens, the @Ethereum Foundation has dumped some 2,785 $ETH worth around $6.42M.\n\nPer OnChain Lens, the tokens were sold in exchange for @SkyEcosystem's $USDS through @CoWSwap.",
-    "link": "https://cryptopanic.com/news/33603577/The-Ethereum-Foundation-selling-ETH-According-to-reports-from-the-likes-of-lookonchain-and-OnchainLens-the-Ethereum-Foundation-has-dumped-some-2785-ETH-worth-around-642M-Per-OnChain-Lens-the-tokens-were-sold-in-exchange-for-SkyEcosystems-USDS-through-CoWSwap",
-    "source": "@bscnews",
-    "published": "Tue Oct 27 2026 00:22:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "‘Bear Market Ended in June’: Galaxy Digital Says Bitcoin (BTC) Is in Accumulation Phase Before Price Surge",
-    "link": "https://cryptopanic.com/news/33603532/Bear-Market-Ended-in-June-Galaxy-Digital-Says-Bitcoin-BTC-Is-in-Accumulation-Phase-Before-Price-Surge",
-    "source": "dailyhodl.com",
-    "published": "Tue Oct 27 2026 00:21:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Treasury Firm Strive Makes Massive Bitcoin Purchase, Acquiring $511,000,000 Worth of BTC",
-    "link": "https://cryptopanic.com/news/33603531/Treasury-Firm-Strive-Makes-Massive-Bitcoin-Purchase-Acquiring-511000000-Worth-of-BTC",
-    "source": "dailyhodl.com",
-    "published": "Tue Oct 27 2026 00:20:17 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin’s Five-Day Slide Contrasts With Its Broader Down-Day Pattern",
-    "link": "https://cryptopanic.com/news/33603527/Bitcoins-Five-Day-Slide-Contrasts-With-Its-Broader-Down-Day-Pattern",
-    "source": "btcusa.com",
-    "published": "Tue Oct 27 2026 00:19:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: @Ripple recieves regulatory approval for Ripple National Trust Bank. \n\nripple:native is up on the news",
-    "link": "https://cryptopanic.com/news/33603576/BREAKING-Ripple-recieves-regulatory-approval-for-Ripple-National-Trust-Bank-ripplenative-is-up-on-the-news",
-    "source": "@bscnews",
-    "published": "Tue Oct 27 2026 00:19:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$7.5B in Safe Stablecoins Gets a Regulated Yield Pitch",
-    "link": "https://cryptopanic.com/news/33603520/75B-in-Safe-Stablecoins-Gets-a-Regulated-Yield-Pitch",
-    "source": "coindoo.com",
-    "published": "Tue Oct 27 2026 00:17:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Investor and Shark Tank presenter Kevin O'Leary gets completely debunked!\n\nClaims Bitcoin is unregulated, merely speculative and lacks institutional adoption. 🤯",
-    "link": "https://cryptopanic.com/news/33603514/Investor-and-Shark-Tank-presenter-Kevin-OLeary-gets-completely-debunked-Claims-Bitcoin-is-unregulated-merely-speculative-and-lacks-institutional-adoption",
-    "source": "@btc_archive",
-    "published": "Tue Oct 27 2026 00:12:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Can US community banks compete with crypto firms in stablecoins?",
-    "link": "https://cryptopanic.com/news/33603494/Can-US-community-banks-compete-with-crypto-firms-in-stablecoins",
-    "source": "cryptopolitan.com",
-    "published": "Tue Oct 27 2026 00:08:05 GMT+0000 (Coordinated Universal Time)",
+    "title": "STOCKS | Broadcom (AVGO.O) CEO Met Bank Executives, Agreed to Raise Rates for Anthropic Deal",
+    "link": "https://cryptopanic.com/news/33603986/STOCKS-Broadcom-AVGOO-CEO-Met-Bank-Executives-Agreed-to-Raise-Rates-for-Anthropic-Deal",
+    "source": "square.binance.com",
+    "published": "Tue Oct 27 2026 01:16:56 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
