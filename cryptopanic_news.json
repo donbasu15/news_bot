@@ -1,9 +1,135 @@
 [
   {
+    "title": "Bitcoin Wallet Maker Keystone Pulls Devices as Stolen Key Opens Door to Fakes",
+    "link": "https://cryptopanic.com/news/33608285/Bitcoin-Wallet-Maker-Keystone-Pulls-Devices-as-Stolen-Key-Opens-Door-to-Fakes",
+    "source": "decrypt.co",
+    "published": "Tue Oct 27 2026 18:16:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: @Ripple and @RobinhoodApp announce a strategic partnership, bringing $RLUSD to Robinhood’s retail and institutional platforms, integrating Ripple Treasury for Robinhood’s internal operations, and expanding Ripple Prime financing across Bitstamp.",
+    "link": "https://cryptopanic.com/news/33608282/NEW-Ripple-and-RobinhoodApp-announce-a-strategic-partnership-bringing-RLUSD-to-Robinhoods-retail-and-institutional-platforms-integrating-Ripple-Treasury-for-Robinhoods-internal-operations-and-expanding-Ripple-Prime-financing-across-Bitstamp",
+    "source": "@coindesk",
+    "published": "Tue Oct 27 2026 18:15:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP’s Rich-List Density Delivers a Rare Bullish Sign",
+    "link": "https://cryptopanic.com/news/33608283/XRPs-Rich-List-Density-Delivers-a-Rare-Bullish-Sign",
+    "source": "dailycoin.com",
+    "published": "Tue Oct 27 2026 18:13:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇯🇵 UTXO Management's Duke Waldrop says a surprise from the Bank of Japan would hit Bitcoin first, as macro funds with yen liabilities become forced sellers and turn to BTC's 24/7 liquidity to exit.",
+    "link": "https://cryptopanic.com/news/33608276/LATEST-UTXO-Managements-Duke-Waldrop-says-a-surprise-from-the-Bank-of-Japan-would-hit-Bitcoin-first-as-macro-funds-with-yen-liabilities-become-forced-sellers-and-turn-to-BTCs-247-liquidity-to-exit",
+    "source": "@coinmarketcap",
+    "published": "Tue Oct 27 2026 18:11:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INSIGHT: Zcash Co-Founder says \"prepare for quantum and AI. Your goal should be using the strongest cryptography.\" Charles Hoskinson has worked with NIST on post-quantum standards, and is \"working on Nightstream with people from Google, Linux Foundation, and Microsoft Research.\"",
+    "link": "https://cryptopanic.com/news/33608281/INSIGHT-Zcash-Co-Founder-says-prepare-for-quantum-and-AI-Your-goal-should-be-using-the-strongest-cryptography-Charles-Hoskinson-has-worked-with-NIST-on-post-quantum-standards-and-is-working-on-Nightstream-with-people-from-Google-Linux-Foundation-and-Microsoft-Research",
+    "source": "@angrycryptoshow",
+    "published": "Tue Oct 27 2026 18:09:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "PrimeXBT: AI is setting the mood for markets, and crypto is following",
+    "link": "https://cryptopanic.com/news/33608246/PrimeXBT-AI-is-setting-the-mood-for-markets-and-crypto-is-following",
+    "source": "cryptopotato.com",
+    "published": "Tue Oct 27 2026 18:05:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Holds $80K as Iran News Shakes Markets",
+    "link": "https://cryptopanic.com/news/33608243/Bitcoin-Holds-80K-as-Iran-News-Shakes-Markets",
+    "source": "SimplyBitcoin",
+    "published": "Tue Oct 27 2026 18:02:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Samara Asset Group CEO: Bitcoin Treasury Companies a “Disservice to Shareholders”",
+    "link": "https://cryptopanic.com/news/33608227/Samara-Asset-Group-CEO-Bitcoin-Treasury-Companies-a-Disservice-to-Shareholders",
+    "source": "BitcoinMagazine",
+    "published": "Tue Oct 27 2026 18:00:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BitMine adds $24M in ETH – Can macro risks derail its Ethereum strategy?",
+    "link": "https://cryptopanic.com/news/33608192/BitMine-adds-24M-in-ETH-Can-macro-risks-derail-its-Ethereum-strategy",
+    "source": "ambcrypto.com",
+    "published": "Tue Oct 27 2026 18:00:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CZ: Today Is the Best Day in History to Start a Business\n\nOn October 24, 2026, Binance founder CZ @cz_binance said in an interview with PIVOT @PIVOT_inc_ that today is a better time to start a business than any previous day in history, with clear opportunities in AI, blockchain",
+    "link": "https://cryptopanic.com/news/33608278/CZ-Today-Is-the-Best-Day-in-History-to-Start-a-Business-On-October-24-2026-Binance-founder-CZ-cz_binance-said-in-an-interview-with-PIVOT-PIVOT_inc_-that-today-is-a-better-time-to-start-a-business-than-any-previous-day-in-history-with-clear-opportunities-in-AI-blockchain",
+    "source": "@wublockchain",
+    "published": "Tue Oct 27 2026 18:00:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Coinbase CEO says gold's supply can change, Bitcoin's can't",
+    "link": "https://cryptopanic.com/news/33608290/Coinbase-CEO-says-golds-supply-can-change-Bitcoins-cant",
+    "source": "thestreet.com",
+    "published": "Tue Oct 27 2026 18:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ripple’s Alleged Fugger Family Link Still Has Gaps",
+    "link": "https://cryptopanic.com/news/33608189/Ripples-Alleged-Fugger-Family-Link-Still-Has-Gaps",
+    "source": "dailycoin.com",
+    "published": "Tue Oct 27 2026 17:57:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Michael Saylor's Strategy votes tomorrow on daily preferred dividends.\n\n • STRC, STRF, STRK and STRD prefs\n\n• STRC first payment lands Nov 2\n\n• Remaining ones begin Jan 4",
+    "link": "https://cryptopanic.com/news/33608194/Michael-Saylors-Strategy-votes-tomorrow-on-daily-preferred-dividends-STRC-STRF-STRK-and-STRD-prefs-STRC-first-payment-lands-Nov-2-Remaining-ones-begin-Jan-4",
+    "source": "@btc_archive",
+    "published": "Tue Oct 27 2026 17:56:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Why America's New Cyber Privateers Can't Go After North Korea",
+    "link": "https://cryptopanic.com/news/33608224/Why-Americas-New-Cyber-Privateers-Cant-Go-After-North-Korea",
+    "source": "Unchained",
+    "published": "Tue Oct 27 2026 17:56:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Three AI Suppliers Just Beat Earnings Expectations but Wall Street Is Worried About Who Pays the Bill",
+    "link": "https://cryptopanic.com/news/33608188/Three-AI-Suppliers-Just-Beat-Earnings-Expectations-but-Wall-Street-Is-Worried-About-Who-Pays-the-Bill",
+    "source": "coinpaper.com",
+    "published": "Tue Oct 27 2026 17:55:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Fed Meeting Preview: Drop to $76,000 or Reclaim $82,000?",
+    "link": "https://cryptopanic.com/news/33608235/Bitcoin-Fed-Meeting-Preview-Drop-to-76000-or-Reclaim-82000",
+    "source": "feeds2.benzinga.com",
+    "published": "Tue Oct 27 2026 17:50:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "ADQ-backed Further picks Chainlink to police tokenized trades in Abu Dhabi\n\nFurther Asset Management (@further), an Abu Dhabi firm backed by wealth fund ADQ, is plugging @chainlink into Anubis, a platform that turns financial rules into code. Before any tokenized asset trade goes",
     "link": "https://cryptopanic.com/news/33608183/ADQ-backed-Further-picks-Chainlink-to-police-tokenized-trades-in-Abu-Dhabi-Further-Asset-Management-further-an-Abu-Dhabi-firm-backed-by-wealth-fund-ADQ-is-plugging-chainlink-into-Anubis-a-platform-that-turns-financial-rules-into-code-Before-any-tokenized-asset-trade-goes",
     "source": "@bscnews",
     "published": "Tue Oct 27 2026 17:48:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ripple is absolutely crushing it",
+    "link": "https://cryptopanic.com/news/33608280/Ripple-is-absolutely-crushing-it",
+    "source": "@angrycryptoshow",
+    "published": "Tue Oct 27 2026 17:46:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Reuters: CFTC Again Probes Whether Polymarket Violated 2022 Settlement\n\nAccording to Reuters, citing two sources familiar with the matter, the CFTC is investigating whether Polymarket violated its 2022 settlement by failing to take sufficient steps to block U.S. users from its",
+    "link": "https://cryptopanic.com/news/33608277/Reuters-CFTC-Again-Probes-Whether-Polymarket-Violated-2022-Settlement-According-to-Reuters-citing-two-sources-familiar-with-the-matter-the-CFTC-is-investigating-whether-Polymarket-violated-its-2022-settlement-by-failing-to-take-sufficient-steps-to-block-US-users-from-its",
+    "source": "@wublockchain",
+    "published": "Tue Oct 27 2026 17:46:34 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -18,6 +144,13 @@
     "link": "https://cryptopanic.com/news/33608195/Cathie-Woods-Ark-Trims-Bitcoin-ETF-Holdings-as-BTC-Extends-October-Losses",
     "source": "feeds2.benzinga.com",
     "published": "Tue Oct 27 2026 17:43:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Lark Davis supports Charles Hoskinson welcoming TRON to Midnight, says \"Charles, less go man, boom.\" Midnight's Nightmode is set to bring privacy to $TRX in December.",
+    "link": "https://cryptopanic.com/news/33608279/UPDATE-Lark-Davis-supports-Charles-Hoskinson-welcoming-TRON-to-Midnight-says-Charles-less-go-man-boom-Midnights-Nightmode-is-set-to-bring-privacy-to-TRX-in-December",
+    "source": "@angrycryptoshow",
+    "published": "Tue Oct 27 2026 17:43:27 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -63,150 +196,17 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Meta Loses $400 Billion, Auctions More Stock, But Analysts Still See 1.4x Upside",
+    "link": "https://cryptopanic.com/news/33608244/Meta-Loses-400-Billion-Auctions-More-Stock-But-Analysts-Still-See-14x-Upside",
+    "source": "beincrypto.com",
+    "published": "Tue Oct 27 2026 17:21:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin Beta Model Beat the One-for-One Benchmark for Ether in October, but Not Solana",
     "link": "https://cryptopanic.com/news/33608078/Bitcoin-Beta-Model-Beat-the-One-for-One-Benchmark-for-Ether-in-October-but-Not-Solana",
     "source": "btcusa.com",
     "published": "Tue Oct 27 2026 17:21:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ondo Stocks go live on Robinhood Chain\n\n@Ondo, the issuer behind $ONDO and the largest tokenized stock platform by value, launched 15 tokenized stocks and ETFs on Robinhood Chain (@RobinhoodCrypto) today. Eleven of them now sit in new @Uniswap v4 StablePair pools, each pairing an",
-    "link": "https://cryptopanic.com/news/33608182/Ondo-Stocks-go-live-on-Robinhood-Chain-Ondo-the-issuer-behind-ONDO-and-the-largest-tokenized-stock-platform-by-value-launched-15-tokenized-stocks-and-ETFs-on-Robinhood-Chain-RobinhoodCrypto-today-Eleven-of-them-now-sit-in-new-Uniswap-v4-StablePair-pools-each-pairing-an",
-    "source": "@bscnews",
-    "published": "Tue Oct 27 2026 17:17:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Elon announced Optimus’ first autonomous demonstration video in 1-2 months. \n\nScott has been very spot on with Optimus predictions. He estimates V3 reveal to be in Q2 2027 and the capacity ramp to be:\n\n2026E: 10-20k / year\n2027E: ~100k / year\n2029: ~1M / year\n2030: Millions per",
-    "link": "https://cryptopanic.com/news/33608124/Elon-announced-Optimus-first-autonomous-demonstration-video-in-1-2-months-Scott-has-been-very-spot-on-with-Optimus-predictions-He-estimates-V3-reveal-to-be-in-Q2-2027-and-the-capacity-ramp-to-be-2026E-10-20k-year-2027E-100k-year-2029-1M-year-2030-Millions-per",
-    "source": "@rewkang",
-    "published": "Tue Oct 27 2026 17:17:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ NEW: Oracle is integrating ChatGPT and Codex into its applications and adding Google TPUs, OpenAI’s Jalapeño chip and Cerebras hardware to its cloud infrastructure.",
-    "link": "https://cryptopanic.com/news/33608178/NEW-Oracle-is-integrating-ChatGPT-and-Codex-into-its-applications-and-adding-Google-TPUs-OpenAIs-Jalapeno-chip-and-Cerebras-hardware-to-its-cloud-infrastructure",
-    "source": "@cointelegraph",
-    "published": "Tue Oct 27 2026 17:10:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Can stablecoins really drain bank deposits?\n\n@austincampbell says it's “mathematically not possible.” On The Policy Protocol, he explains why stablecoins move bank deposits rather than destroy them.",
-    "link": "https://cryptopanic.com/news/33608177/Can-stablecoins-really-drain-bank-deposits-austincampbell-says-its-mathematically-not-possible-On-The-Policy-Protocol-he-explains-why-stablecoins-move-bank-deposits-rather-than-destroy-them",
-    "source": "@coindesk",
-    "published": "Tue Oct 27 2026 17:09:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto.com and OG.com launch US crypto perps with up to 5x leverage",
-    "link": "https://cryptopanic.com/news/33607998/Cryptocom-and-OGcom-launch-US-crypto-perps-with-up-to-5x-leverage",
-    "source": "theblock.co",
-    "published": "Tue Oct 27 2026 17:07:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HUGE FOR $ICP: DFINITY is in HIGH-LEVEL talks with Pakistan's Digital Authority to build a sovereign AI Factory for government technology! \n\nInternet Computer and @dfinity founder Dominic Williams met with senior officials to discuss developing AI-powered government",
-    "link": "https://cryptopanic.com/news/33608046/HUGE-FOR-ICP-DFINITY-is-in-HIGH-LEVEL-talks-with-Pakistans-Digital-Authority-to-build-a-sovereign-AI-Factory-for-government-technology-Internet-Computer-and-dfinity-founder-Dominic-Williams-met-with-senior-officials-to-discuss-developing-AI-powered-government",
-    "source": "@realallincrypto",
-    "published": "Tue Oct 27 2026 17:05:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: #Cardano $ADA Founder Charles Hoskinson says Leios \"solves the blockchain trilemma. You have full decentralization, 50% byzantine resistance, a ton of scalability with the system, and safety. I feel pretty good about that—the protocol seems to be what it needs to be.\"",
-    "link": "https://cryptopanic.com/news/33608131/UPDATE-Cardano-ADA-Founder-Charles-Hoskinson-says-Leios-solves-the-blockchain-trilemma-You-have-full-decentralization-50-byzantine-resistance-a-ton-of-scalability-with-the-system-and-safety-I-feel-pretty-good-about-thatthe-protocol-seems-to-be-what-it-needs-to-be",
-    "source": "@angrycryptoshow",
-    "published": "Tue Oct 27 2026 17:05:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$BTC During this chop down here we've seen the cumulative volume delta on spot outpace futures.\n\nFutures have sold off -$1.6B during this time while spot has been roughly net equal as price remains at this $80k region.\n\nDefinitely much cleaner positioning than before, now it is",
-    "link": "https://cryptopanic.com/news/33608181/BTC-During-this-chop-down-here-weve-seen-the-cumulative-volume-delta-on-spot-outpace-futures-Futures-have-sold-off-16B-during-this-time-while-spot-has-been-roughly-net-equal-as-price-remains-at-this-80k-region-Definitely-much-cleaner-positioning-than-before-now-it-is",
-    "source": "@daancrypto",
-    "published": "Tue Oct 27 2026 17:05:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: #Cardano $ADA Founder Charles Hoskinson says when Leios \"first launches, we expect throughput to be 2-8x faster, but that's the beginning, and the protocol has a long tail, meaning you can keep turning it up. We think we can keep up with the (leading blockchains).\"",
-    "link": "https://cryptopanic.com/news/33608130/UPDATE-Cardano-ADA-Founder-Charles-Hoskinson-says-when-Leios-first-launches-we-expect-throughput-to-be-2-8x-faster-but-thats-the-beginning-and-the-protocol-has-a-long-tail-meaning-you-can-keep-turning-it-up-We-think-we-can-keep-up-with-the-leading-blockchains",
-    "source": "@angrycryptoshow",
-    "published": "Tue Oct 27 2026 17:05:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Charles Hoskinson says \"I shared with Vitalik, very early days of ETH—2 papers from Microsoft Research—showing the field of verified compute, pre-ZK. I said if we do UTXO, we have a real natural path to move into the proof layer and an easy time writing secure programs.\"",
-    "link": "https://cryptopanic.com/news/33608129/UPDATE-Charles-Hoskinson-says-I-shared-with-Vitalik-very-early-days-of-ETH2-papers-from-Microsoft-Researchshowing-the-field-of-verified-compute-pre-ZK-I-said-if-we-do-UTXO-we-have-a-real-natural-path-to-move-into-the-proof-layer-and-an-easy-time-writing-secure-programs",
-    "source": "@angrycryptoshow",
-    "published": "Tue Oct 27 2026 17:04:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: #Cardano $ADA Founder Charles Hoskinson is \"focused on the 4th generation. Everybody is moving in this direction. If you look at everything Vitalik and a16z are doing—ZK, ZK, ZK. They're saying abstraction, smart compliance to bring RWAs in, identity, and AI agents.\"",
-    "link": "https://cryptopanic.com/news/33608127/UPDATE-Cardano-ADA-Founder-Charles-Hoskinson-is-focused-on-the-4th-generation-Everybody-is-moving-in-this-direction-If-you-look-at-everything-Vitalik-and-a16z-are-doingZK-ZK-ZK-Theyre-saying-abstraction-smart-compliance-to-bring-RWAs-in-identity-and-AI-agents",
-    "source": "@angrycryptoshow",
-    "published": "Tue Oct 27 2026 17:04:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Charles Hoskinson says $SOL and $SUI \"are the 2 big fast ones. They're great protocols and they work really well. I spent quite a bit of time actually studying Narwhal, Tusk, and Mysticeti, and there's some great ideas there. It's more now the wholism of the ecosystem.\"",
-    "link": "https://cryptopanic.com/news/33608126/UPDATE-Charles-Hoskinson-says-SOL-and-SUI-are-the-2-big-fast-ones-Theyre-great-protocols-and-they-work-really-well-I-spent-quite-a-bit-of-time-actually-studying-Narwhal-Tusk-and-Mysticeti-and-theres-some-great-ideas-there-Its-more-now-the-wholism-of-the-ecosystem",
-    "source": "@angrycryptoshow",
-    "published": "Tue Oct 27 2026 17:04:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Kraken opens Bitcoin and Ethereum options to eligible European traders",
-    "link": "https://cryptopanic.com/news/33607986/Kraken-opens-Bitcoin-and-Ethereum-options-to-eligible-European-traders",
-    "source": "cryptoslate.com",
-    "published": "Tue Oct 27 2026 17:00:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Coca-Cola Raises 2026 Profit Forecast as Global Sales Volume Rises 5%",
-    "link": "https://cryptopanic.com/news/33607939/Coca-Cola-Raises-2026-Profit-Forecast-as-Global-Sales-Volume-Rises-5",
-    "source": "coinpaper.com",
-    "published": "Tue Oct 27 2026 17:00:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Isn't the Problem. Debt Is.",
-    "link": "https://cryptopanic.com/news/33607994/Bitcoin-Isnt-the-Problem-Debt-Is",
-    "source": "CryptoTips",
-    "published": "Tue Oct 27 2026 17:00:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple Wins the Charter That Brings RLUSD Under U.S. Federal Oversight",
-    "link": "https://cryptopanic.com/news/33607991/Ripple-Wins-the-Charter-That-Brings-RLUSD-Under-US-Federal-Oversight",
-    "source": "coinpaprika.com",
-    "published": "Tue Oct 27 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Popular crypto stock surges as Q3 earnings top estimates",
-    "link": "https://cryptopanic.com/news/33608066/Popular-crypto-stock-surges-as-Q3-earnings-top-estimates",
-    "source": "thestreet.com",
-    "published": "Tue Oct 27 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Meta’s $25 Billion Stock Offering Draws Fivefold Investor Demand",
-    "link": "https://cryptopanic.com/news/33607941/Metas-25-Billion-Stock-Offering-Draws-Fivefold-Investor-Demand",
-    "source": "catenaa.com",
-    "published": "Tue Oct 27 2026 17:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Canton-based trading platform Cancore raises $7.2 million at $60 million token valuation",
-    "link": "https://cryptopanic.com/news/33607950/Canton-based-trading-platform-Cancore-raises-72-million-at-60-million-token-valuation",
-    "source": "theblock.co",
-    "published": "Tue Oct 27 2026 16:59:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Kalshi and S&P Dow Jones plan an index of everything as gambling suits pile up",
-    "link": "https://cryptopanic.com/news/33607945/Kalshi-and-SP-Dow-Jones-plan-an-index-of-everything-as-gambling-suits-pile-up",
-    "source": "cryptopolitan.com",
-    "published": "Tue Oct 27 2026 16:56:50 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
