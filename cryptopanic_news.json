@@ -1,9 +1,23 @@
 [
   {
+    "title": "Ton, Stellar and Sui Network see shrinking stablecoin economies.\n\nAccording to DefiLlama data at time of writing, all three of @SuiNetwork , @StellarOrg and @ton_blockchain have seen their stablecoin market caps fall significantly in the past week...\n\n- SUI (-14%, $432M)\n- XLM",
+    "link": "https://cryptopanic.com/news/33603476/Ton-Stellar-and-Sui-Network-see-shrinking-stablecoin-economies-According-to-DefiLlama-data-at-time-of-writing-all-three-of-SuiNetwork-StellarOrg-and-ton_blockchain-have-seen-their-stablecoin-market-caps-fall-significantly-in-the-past-week-SUI-14-432M-XLM",
+    "source": "@bscnews",
+    "published": "Mon Oct 26 2026 23:49:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "OpenZeppelin officially becomes part of S&P Global",
     "link": "https://cryptopanic.com/news/33603443/OpenZeppelin-officially-becomes-part-of-SP-Global",
     "source": "cryptopolitan.com",
     "published": "Mon Oct 26 2026 23:33:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin and gold are 2026’s worst-performing assets, and history offers no precedent",
+    "link": "https://cryptopanic.com/news/33603474/Bitcoin-and-gold-are-2026s-worst-performing-assets-and-history-offers-no-precedent",
+    "source": "thestreet.com",
+    "published": "Mon Oct 26 2026 23:30:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33603255/Heavy-sell-pressure-in-US-markets-Bitcoin-on-Coinbase-traded-140-below-Binance-and-OKX-Weak-spot-demand-has-been-the-norm-for-6-months-Not-necessarily-a-local-bottom",
     "source": "@btc_archive",
     "published": "Mon Oct 26 2026 22:11:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Qwen’s Beijing upload attempt could raise open-weight AI’s cost",
-    "link": "https://cryptopanic.com/news/33603262/Qwens-Beijing-upload-attempt-could-raise-open-weight-AIs-cost",
-    "source": "cryptopolitan.com",
-    "published": "Mon Oct 26 2026 22:04:50 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BIG: Ex-DOGE staffers say they broke into Anthropic.\n\nTheir months-old startup Cathedral claims it got into the AI giant's sensitive internal data and messaging systems.",
-    "link": "https://cryptopanic.com/news/33603296/BIG-Ex-DOGE-staffers-say-they-broke-into-Anthropic-Their-months-old-startup-Cathedral-claims-it-got-into-the-AI-giants-sensitive-internal-data-and-messaging-systems",
-    "source": "@cointelegraph",
-    "published": "Mon Oct 26 2026 22:00:56 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
