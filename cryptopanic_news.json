@@ -1,5 +1,61 @@
 [
   {
+    "title": "Jupiter Dominates Solana Lending Across 5 Key Metrics and Continues Expanding Its DeFi Stack",
+    "link": "https://cryptopanic.com/news/33608539/Jupiter-Dominates-Solana-Lending-Across-5-Key-Metrics-and-Continues-Expanding-Its-DeFi-Stack",
+    "source": "solanafloor.com",
+    "published": "Tue Oct 27 2026 20:14:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  BNY now custodies XRP and Ripple’s RLUSD stablecoin for institutional clients, expanding its partnership with Ripple.",
+    "link": "https://cryptopanic.com/news/33608746/LATEST-BNY-now-custodies-XRP-and-Ripples-RLUSD-stablecoin-for-institutional-clients-expanding-its-partnership-with-Ripple",
+    "source": "@coinmarketcap",
+    "published": "Tue Oct 27 2026 20:07:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ANALYSIS:  Bitcoin holds near $80,000 as traders look past an expected Fed pause Wednesday to an 83% chance of a hike by December.\n\nWill Warsh’s December signal break Bitcoin’s range?",
+    "link": "https://cryptopanic.com/news/33608744/ANALYSIS-Bitcoin-holds-near-80000-as-traders-look-past-an-expected-Fed-pause-Wednesday-to-an-83-chance-of-a-hike-by-December-Will-Warshs-December-signal-break-Bitcoins-range",
+    "source": "@coinmarketcap",
+    "published": "Tue Oct 27 2026 20:03:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$2.7B in leveraged Bitcoin shorts face liquidation at $84,000 \n\nJust 4% above current levels!",
+    "link": "https://cryptopanic.com/news/33608743/27B-in-leveraged-Bitcoin-shorts-face-liquidation-at-84000-Just-4-above-current-levels",
+    "source": "@btc_archive",
+    "published": "Tue Oct 27 2026 20:02:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Foundation hit by 23,000 phishing emails – Legacy database may be exposed",
+    "link": "https://cryptopanic.com/news/33608704/Foundation-hit-by-23000-phishing-emails-Legacy-database-may-be-exposed",
+    "source": "ambcrypto.com",
+    "published": "Tue Oct 27 2026 20:00:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Back Above $80K, IBIT Breaks Outflow Spell",
+    "link": "https://cryptopanic.com/news/33608745/Bitcoin-Back-Above-80K-IBIT-Breaks-Outflow-Spell",
+    "source": "feeds2.benzinga.com",
+    "published": "Tue Oct 27 2026 19:59:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Predict.fun pledges full refunds after $400K wallet drain",
+    "link": "https://cryptopanic.com/news/33608710/Predictfun-pledges-full-refunds-after-400K-wallet-drain",
+    "source": "cryptopolitan.com",
+    "published": "Tue Oct 27 2026 19:55:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ripple's Countdown Lands as Swell Opens in New York, a Day After Its Trust Bank Won Final OCC Approval to Hold Reserves for the $2.6B RLUSD Stablecoin",
+    "link": "https://cryptopanic.com/news/33608670/Ripples-Countdown-Lands-as-Swell-Opens-in-New-York-a-Day-After-Its-Trust-Bank-Won-Final-OCC-Approval-to-Hold-Reserves-for-the-26B-RLUSD-Stablecoin",
+    "source": "@decryptmedia",
+    "published": "Tue Oct 27 2026 19:51:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Anchorage Positions Itself as Custody Backbone of US-Mexico Stablecoin Corridor",
     "link": "https://cryptopanic.com/news/33608654/Anchorage-Positions-Itself-as-Custody-Backbone-of-US-Mexico-Stablecoin-Corridor",
     "source": "decrypt.co",
@@ -32,6 +88,13 @@
     "link": "https://cryptopanic.com/news/33608598/Robinhood-Q3-earnings-beat-odds-hit-87-as-shares-fall-17",
     "source": "en.cryptonomist.ch",
     "published": "Tue Oct 27 2026 19:39:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Two solo Bitcoin miners defy the odds and hit jackpot blocks on consecutive days.\n\nOne ran a 16 TH/s setup: $500–$1.5k\n\nOne used FutureBit gear: $900-$2k\n\nBoth kept the full 3.125 BTC + fees\n\nCongrats to those lucky miners!",
+    "link": "https://cryptopanic.com/news/33608742/Two-solo-Bitcoin-miners-defy-the-odds-and-hit-jackpot-blocks-on-consecutive-days-One-ran-a-16-THs-setup-50015k-One-used-FutureBit-gear-900-2k-Both-kept-the-full-3125-BTC-fees-Congrats-to-those-lucky-miners",
+    "source": "@btc_archive",
+    "published": "Tue Oct 27 2026 19:35:51 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -144,69 +207,6 @@
     "link": "https://cryptopanic.com/news/33608587/Why-should-your-rate-depend-on-your-loan-size-With-SALT-it-doesnt-699-APR-at-30-LTV-Get-started-now",
     "source": "@bitcoinmagazine",
     "published": "Tue Oct 27 2026 19:09:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "US Cashed Out FTX-Linked Anthropic Stake for $627 Million. Who Got Paid?",
-    "link": "https://cryptopanic.com/news/33608561/US-Cashed-Out-FTX-Linked-Anthropic-Stake-for-627-Million-Who-Got-Paid",
-    "source": "beincrypto.com",
-    "published": "Tue Oct 27 2026 19:06:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "OSMO gets its v32 upgrade. CC gets the DTCC Tokenization Service. DASH gets the Evo Platform 5.0 release.\n\nWe check the price action for these catalysts in this week's Events Watchlist.\n\nRead the edition: \nSubscribe for free",
-    "link": "https://cryptopanic.com/news/33608524/OSMO-gets-its-v32-upgrade-CC-gets-the-DTCC-Tokenization-Service-DASH-gets-the-Evo-Platform-50-release-We-check-the-price-action-for-these-catalysts-in-this-weeks-Events-Watchlist-Read-the-edition-Subscribe-for-free",
-    "source": "@coinmarketcal",
-    "published": "Tue Oct 27 2026 19:05:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "THE $BTC / $GOLD ratio is testing a major level on the weekly timeframe.\n\nHistorically, bitcoin takes a while to test this level but when it breaks, it has led into the strongest periods of BTC outperformance vs gold.",
-    "link": "https://cryptopanic.com/news/33608589/THE-BTC-GOLD-ratio-is-testing-a-major-level-on-the-weekly-timeframe-Historically-bitcoin-takes-a-while-to-test-this-level-but-when-it-breaks-it-has-led-into-the-strongest-periods-of-BTC-outperformance-vs-gold",
-    "source": "@stackersatoshi",
-    "published": "Tue Oct 27 2026 19:04:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: @Ripple is expanding its partnership with Robinhood across THREE major financial services! \n\nRLUSD, Ripple Prime and Ripple Treasury will help power Robinhood's financial operations, from digital payments to trading and cash management.\n\nRather than just offering",
-    "link": "https://cryptopanic.com/news/33608525/BREAKING-Ripple-is-expanding-its-partnership-with-Robinhood-across-THREE-major-financial-services-RLUSD-Ripple-Prime-and-Ripple-Treasury-will-help-power-Robinhoods-financial-operations-from-digital-payments-to-trading-and-cash-management-Rather-than-just-offering",
-    "source": "@realallincrypto",
-    "published": "Tue Oct 27 2026 19:00:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "@Natan_benish @longdotxyz FOMO HOUR ft @Tyler_Did_It and @farokh\n- \n- \n-",
-    "link": "https://cryptopanic.com/news/33608532/Natan_benish-longdotxyz-FOMO-HOUR-ft-Tyler_Did_It-and-farokh-",
-    "source": "@decryptmedia",
-    "published": "Tue Oct 27 2026 19:00:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Coinbase, Ripple Pour Millions Into Elections: Could Crypto Voters Swing Tight Congressional Races?",
-    "link": "https://cryptopanic.com/news/33608527/Coinbase-Ripple-Pour-Millions-Into-Elections-Could-Crypto-Voters-Swing-Tight-Congressional-Races",
-    "source": "feeds2.benzinga.com",
-    "published": "Tue Oct 27 2026 19:00:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Economics Decline Is a Business Model | Frank Wright",
-    "link": "https://cryptopanic.com/news/33608449/Economics-Decline-Is-a-Business-Model-Frank-Wright",
-    "source": "whatbitcoindid",
-    "published": "Tue Oct 27 2026 19:00:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CFTC sues Utah as battle over prediction market regulation intensifies",
-    "link": "https://cryptopanic.com/news/33608381/CFTC-sues-Utah-as-battle-over-prediction-market-regulation-intensifies",
-    "source": "theblock.co",
-    "published": "Tue Oct 27 2026 18:51:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple set to dump 1 billion XRP this weekend",
-    "link": "https://cryptopanic.com/news/33608379/Ripple-set-to-dump-1-billion-XRP-this-weekend",
-    "source": "finbold.com",
-    "published": "Tue Oct 27 2026 18:50:53 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
