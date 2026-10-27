@@ -1,9 +1,30 @@
 [
   {
+    "title": "Cadence launches on-premises AI chip models, splitting from Synopsys-OpenAI",
+    "link": "https://cryptopanic.com/news/33604203/Cadence-launches-on-premises-AI-chip-models-splitting-from-Synopsys-OpenAI",
+    "source": "cryptopolitan.com",
+    "published": "Tue Oct 27 2026 03:51:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Chainlink Opens a New Cross Chain Route For Hong Kong Gold\n\nThe Hong Kong Gold Exchange backed $XGZ token is integrating Chainlink (@chainlink) $LINK CCIP through Goldzip (@goldzipxgz) and Midas Labs (@midaslabsxyz).\n\nThe integration will enable secure transfers across multiple",
+    "link": "https://cryptopanic.com/news/33604213/Chainlink-Opens-a-New-Cross-Chain-Route-For-Hong-Kong-Gold-The-Hong-Kong-Gold-Exchange-backed-XGZ-token-is-integrating-Chainlink-chainlink-LINK-CCIP-through-Goldzip-goldzipxgz-and-Midas-Labs-midaslabsxyz-The-integration-will-enable-secure-transfers-across-multiple",
+    "source": "@bscnews",
+    "published": "Tue Oct 27 2026 03:40:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST: ️ Chainlink has launched CustodySync, letting institutional custody clients tap DeFi lending while assets stay in custody, with Anchorage Digital as the launch partner.",
     "link": "https://cryptopanic.com/news/33604198/LATEST-Chainlink-has-launched-CustodySync-letting-institutional-custody-clients-tap-DeFi-lending-while-assets-stay-in-custody-with-Anchorage-Digital-as-the-launch-partner",
     "source": "@coinmarketcap",
     "published": "Tue Oct 27 2026 03:34:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "TODAY: OpenAI introduces GPT-6.1 Terra, a cheaper model built for fast computer use that can read your screen, act across apps, and handle a full workday’s tasks.",
+    "link": "https://cryptopanic.com/news/33604211/TODAY-OpenAI-introduces-GPT-61-Terra-a-cheaper-model-built-for-fast-computer-use-that-can-read-your-screen-act-across-apps-and-handle-a-full-workdays-tasks",
+    "source": "@cointelegraph",
+    "published": "Tue Oct 27 2026 03:30:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -186,27 +207,6 @@
     "link": "https://cryptopanic.com/news/33604084/The-non-USD-stablecoin-sector-is-growing-and-Solana-is-winning-it-In-the-past-week-the-Solana-blockchain-added-around-22M-worth-of-Euro-stablecoins-More-than-all-other-chains-tracked-by-tokenterminal-combined-The-only-other-chains-to-see-positive-Euro-stablecoin",
     "source": "@bscnews",
     "published": "Tue Oct 27 2026 02:01:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "TODAY: Anthropic’s IPO filing lists nearly 100 pages of risk factors, ranging from slowing revenue growth and regulation to potential existential risks to humanity.",
-    "link": "https://cryptopanic.com/news/33604033/TODAY-Anthropics-IPO-filing-lists-nearly-100-pages-of-risk-factors-ranging-from-slowing-revenue-growth-and-regulation-to-potential-existential-risks-to-humanity",
-    "source": "@cointelegraph",
-    "published": "Tue Oct 27 2026 02:00:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Exclusive: The United States and Canada are working on a deal to ease US tariffs on Canadian steel and autos, as the two governments try to repair relations that soured after trade talks broke down in August. More here -",
-    "link": "https://cryptopanic.com/news/33603739/Exclusive-The-United-States-and-Canada-are-working-on-a-deal-to-ease-US-tariffs-on-Canadian-steel-and-autos-as-the-two-governments-try-to-repair-relations-that-soured-after-trade-talks-broke-down-in-August-More-here-",
-    "source": "@reutersbiz",
-    "published": "Tue Oct 27 2026 02:00:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Anthropic IPO filing reveals training pause and four security incidents",
-    "link": "https://cryptopanic.com/news/33603764/Anthropic-IPO-filing-reveals-training-pause-and-four-security-incidents",
-    "source": "cryptopolitan.com",
-    "published": "Tue Oct 27 2026 01:59:07 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
