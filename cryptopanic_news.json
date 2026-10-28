@@ -1,9 +1,44 @@
 [
   {
+    "title": "Google begins private testing of its new institutional crypto custody system for 2027 launch.\n\n- Technically able to support Bitcoin.",
+    "link": "https://cryptopanic.com/news/33612560/Google-begins-private-testing-of-its-new-institutional-crypto-custody-system-for-2027-launch-Technically-able-to-support-Bitcoin",
+    "source": "@btc_archive",
+    "published": "Wed Oct 28 2026 12:47:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin ETFs shrink October outflows to $26M",
+    "link": "https://cryptopanic.com/news/33612569/Bitcoin-ETFs-shrink-October-outflows-to-26M",
+    "source": "cryptopolitan.com",
+    "published": "Wed Oct 28 2026 12:45:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Unionized workers in Nevada are benefiting from a data center construction boom but growing wary of AI’s longer-term threat to jobs around the Las Vegas Strip, exposing a fault line for organized labor as AI reshapes the economy",
+    "link": "https://cryptopanic.com/news/33612591/Unionized-workers-in-Nevada-are-benefiting-from-a-data-center-construction-boom-but-growing-wary-of-AIs-longer-term-threat-to-jobs-around-the-Las-Vegas-Strip-exposing-a-fault-line-for-organized-labor-as-AI-reshapes-the-economy",
+    "source": "@reutersbiz",
+    "published": "Wed Oct 28 2026 12:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Coinbase adds Ripple USD stablecoin for trading, custody and settlement",
+    "link": "https://cryptopanic.com/news/33612525/Coinbase-adds-Ripple-USD-stablecoin-for-trading-custody-and-settlement",
+    "source": "en.cryptonomist.ch",
+    "published": "Wed Oct 28 2026 12:43:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Robinhood Lost 55% of Its Crypto Revenue. Prediction Markets Became Its New Growth Engine",
     "link": "https://cryptopanic.com/news/33612524/Robinhood-Lost-55-of-Its-Crypto-Revenue-Prediction-Markets-Became-Its-New-Growth-Engine",
     "source": "coinpaper.com",
     "published": "Wed Oct 28 2026 12:41:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: Ripple partners with Coinbase to bring $RLUSD to its retail app, Prime and Exchange.",
+    "link": "https://cryptopanic.com/news/33612588/NEW-Ripple-partners-with-Coinbase-to-bring-RLUSD-to-its-retail-app-Prime-and-Exchange",
+    "source": "@cointelegraph",
+    "published": "Wed Oct 28 2026 12:40:13 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -172,41 +207,6 @@
     "link": "https://cryptopanic.com/news/33612317/Pengus-hourly-structure-is-bullish-but-the-daily-chart-stays-neutral",
     "source": "en.cryptonomist.ch",
     "published": "Wed Oct 28 2026 12:11:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: @Securitize adds @StellarOrg to its list of supported blockchains, expanding tokenized real-world asset infrastructure to Stellar’s network.",
-    "link": "https://cryptopanic.com/news/33612381/LATEST-Securitize-adds-StellarOrg-to-its-list-of-supported-blockchains-expanding-tokenized-real-world-asset-infrastructure-to-Stellars-network",
-    "source": "@coindesk",
-    "published": "Wed Oct 28 2026 12:10:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Source",
-    "link": "https://cryptopanic.com/news/33612376/Source",
-    "source": "@wublockchain",
-    "published": "Wed Oct 28 2026 12:09:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "DTCC Launches Securities Tokenization Service, Initially Supporting 34 Securities\n\nDTCC’s website shows that its Tokenization Service is now live, initially supporting 34 securities, including selected large-cap Russell 1000 constituents, ETFs and U.S. Treasuries. Tokens are",
-    "link": "https://cryptopanic.com/news/33612375/DTCC-Launches-Securities-Tokenization-Service-Initially-Supporting-34-Securities-DTCCs-website-shows-that-its-Tokenization-Service-is-now-live-initially-supporting-34-securities-including-selected-large-cap-Russell-1000-constituents-ETFs-and-US-Treasuries-Tokens-are",
-    "source": "@wublockchain",
-    "published": "Wed Oct 28 2026 12:09:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Euronext Suspends CoinShares’ Zcash ETP on Its Very First Day\n\n@Euronext has temporarily suspended trading of the recently launched @Zcash exchange-traded product, $ZCSH, on its first day of trading at Euronext Paris.\n\nThe stock market imposed an “until further notice” suspension",
-    "link": "https://cryptopanic.com/news/33612483/Euronext-Suspends-CoinShares-Zcash-ETP-on-Its-Very-First-Day-Euronext-has-temporarily-suspended-trading-of-the-recently-launched-Zcash-exchange-traded-product-ZCSH-on-its-first-day-of-trading-at-Euronext-Paris-The-stock-market-imposed-an-until-further-notice-suspension",
-    "source": "@bscnews",
-    "published": "Wed Oct 28 2026 12:09:09 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nuwellis stock surged 76.49%, but hourly RSI hit 90.46",
-    "link": "https://cryptopanic.com/news/33612316/Nuwellis-stock-surged-7649-but-hourly-RSI-hit-9046",
-    "source": "en.cryptonomist.ch",
-    "published": "Wed Oct 28 2026 12:08:48 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
