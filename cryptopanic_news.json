@@ -1,5 +1,47 @@
 [
   {
+    "title": "BIG: Ripple and Robinhood are expanding their partnership to bring RLUSD to Robinhood’s retail and institutional businesses, with integrations across treasury, lending and trading.",
+    "link": "https://cryptopanic.com/news/33609626/BIG-Ripple-and-Robinhood-are-expanding-their-partnership-to-bring-RLUSD-to-Robinhoods-retail-and-institutional-businesses-with-integrations-across-treasury-lending-and-trading",
+    "source": "@cointelegraph",
+    "published": "Wed Oct 28 2026 01:00:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST:  🇦🇪 UAE crypto activity rose 32% year-over-year to $104.8B, per Chainalysis, ranking second in the Middle East and North Africa behind Turkey.",
+    "link": "https://cryptopanic.com/news/33609578/LATEST-UAE-crypto-activity-rose-32-year-over-year-to-1048B-per-Chainalysis-ranking-second-in-the-Middle-East-and-North-Africa-behind-Turkey",
+    "source": "@coinmarketcap",
+    "published": "Wed Oct 28 2026 00:52:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: Robinhood's crypto revenue fell 55% from last year, but topped Street forecasts",
+    "link": "https://cryptopanic.com/news/33609624/LATEST-Robinhoods-crypto-revenue-fell-55-from-last-year-but-topped-Street-forecasts",
+    "source": "@coindesk",
+    "published": "Wed Oct 28 2026 00:51:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ALERT: Solflare’s validator has stopped producing SOL staking rewards after a security incident at its staking provider affected the validator keys, though the wallet says user funds are safe.",
+    "link": "https://cryptopanic.com/news/33609625/ALERT-Solflares-validator-has-stopped-producing-SOL-staking-rewards-after-a-security-incident-at-its-staking-provider-affected-the-validator-keys-though-the-wallet-says-user-funds-are-safe",
+    "source": "@cointelegraph",
+    "published": "Wed Oct 28 2026 00:45:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Join CoinDesk's @nikhileshde for a 2026 Midterm Election Preview with @JBSDC and @RonwHammond to discuss the upcoming elections and what they could mean for crypto policy.",
+    "link": "https://cryptopanic.com/news/33609623/Join-CoinDesks-nikhileshde-for-a-2026-Midterm-Election-Preview-with-JBSDC-and-RonwHammond-to-discuss-the-upcoming-elections-and-what-they-could-mean-for-crypto-policy",
+    "source": "@coindesk",
+    "published": "Wed Oct 28 2026 00:44:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JP Morgan's deposit token lives on Ethereum, but only the bank’s own customers can hold it. @austincampbell says it’s built to pay for tokenized stock trades, not for DeFi.",
+    "link": "https://cryptopanic.com/news/33609622/JP-Morgans-deposit-token-lives-on-Ethereum-but-only-the-banks-own-customers-can-hold-it-austincampbell-says-its-built-to-pay-for-tokenized-stock-trades-not-for-DeFi",
+    "source": "@coindesk",
+    "published": "Wed Oct 28 2026 00:43:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Anthropic Held More Cash Than Nvidia and Apple Combined Ahead of IPO",
     "link": "https://cryptopanic.com/news/33609577/Anthropic-Held-More-Cash-Than-Nvidia-and-Apple-Combined-Ahead-of-IPO",
     "source": "beincrypto.com",
@@ -105,15 +147,15 @@
     "sentiment": "neutral"
   },
   {
-    "title": "INTEL: SK Hynix third-quarter operating profit hits 83.33 trillion won against a 77.5 trillion estimate",
-    "link": "https://cryptopanic.com/news/33609373/INTEL-SK-Hynix-third-quarter-operating-profit-hits-8333-trillion-won-against-a-775-trillion-estimate",
+    "title": "Sales were 104.62 trillion won against a 98.96 trillion estimate. Net profit of 39.53 trillion won missed the 59.66 trillion estimate",
+    "link": "https://cryptopanic.com/news/33609372/Sales-were-10462-trillion-won-against-a-9896-trillion-estimate-Net-profit-of-3953-trillion-won-missed-the-5966-trillion-estimate",
     "source": "@solidintel_x",
     "published": "Tue Oct 27 2026 23:31:18 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Sales were 104.62 trillion won against a 98.96 trillion estimate. Net profit of 39.53 trillion won missed the 59.66 trillion estimate",
-    "link": "https://cryptopanic.com/news/33609372/Sales-were-10462-trillion-won-against-a-9896-trillion-estimate-Net-profit-of-3953-trillion-won-missed-the-5966-trillion-estimate",
+    "title": "INTEL: SK Hynix third-quarter operating profit hits 83.33 trillion won against a 77.5 trillion estimate",
+    "link": "https://cryptopanic.com/news/33609373/INTEL-SK-Hynix-third-quarter-operating-profit-hits-8333-trillion-won-against-a-775-trillion-estimate",
     "source": "@solidintel_x",
     "published": "Tue Oct 27 2026 23:31:18 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
@@ -165,48 +207,6 @@
     "link": "https://cryptopanic.com/news/33609374/Bitcoiners-at-the-Battle-of-82K",
     "source": "@btc_archive",
     "published": "Tue Oct 27 2026 23:09:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Robinhood has opened Earn to all eligible US users, letting them lend USDG on-chain through a Morpho vault on Robinhood Chain for an estimated 7% APY.",
-    "link": "https://cryptopanic.com/news/33609392/LATEST-Robinhood-has-opened-Earn-to-all-eligible-US-users-letting-them-lend-USDG-on-chain-through-a-Morpho-vault-on-Robinhood-Chain-for-an-estimated-7-APY",
-    "source": "@coinmarketcap",
-    "published": "Tue Oct 27 2026 23:09:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Last Time Wall Street Did This, Bitcoin Surged 8,200%",
-    "link": "https://cryptopanic.com/news/33609448/Last-Time-Wall-Street-Did-This-Bitcoin-Surged-8200",
-    "source": "SimplyBitcoin",
-    "published": "Tue Oct 27 2026 23:03:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HUGE: @Ripple and C2FO are bringing global trade finance onto the $XRP Ledger! \n\nBusinesses that traditionally wait 30–90 days for payment could now receive funds in SECONDS using RLUSD!\n\nThis connects XRPL to an established global financing marketplace, bringing real-world",
-    "link": "https://cryptopanic.com/news/33609352/HUGE-Ripple-and-C2FO-are-bringing-global-trade-finance-onto-the-XRP-Ledger-Businesses-that-traditionally-wait-3090-days-for-payment-could-now-receive-funds-in-SECONDS-using-RLUSD-This-connects-XRPL-to-an-established-global-financing-marketplace-bringing-real-world",
-    "source": "@realallincrypto",
-    "published": "Tue Oct 27 2026 23:00:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 BIG: The U.S. Department of Energy announced up to $5 billion in conditional loans to Constellation Energy to upgrade nuclear plants and add enough power for more than 930,000 homes.",
-    "link": "https://cryptopanic.com/news/33609350/BIG-The-US-Department-of-Energy-announced-up-to-5-billion-in-conditional-loans-to-Constellation-Energy-to-upgrade-nuclear-plants-and-add-enough-power-for-more-than-930000-homes",
-    "source": "@cointelegraph",
-    "published": "Tue Oct 27 2026 23:00:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Zcash gains 7% a day before its 10th birthday\n\n@Zcash's $ZEC rose 7% in the past 24 hours to about $1,307, pushing its market cap to $22.1B. That makes it the ninth-largest crypto, ahead of Hyperliquid and Dogecoin, per CoinMarketCap data.\n\nThe move comes as the network counts",
-    "link": "https://cryptopanic.com/news/33609353/Zcash-gains-7-a-day-before-its-10th-birthday-Zcashs-ZEC-rose-7-in-the-past-24-hours-to-about-1307-pushing-its-market-cap-to-221B-That-makes-it-the-ninth-largest-crypto-ahead-of-Hyperliquid-and-Dogecoin-per-CoinMarketCap-data-The-move-comes-as-the-network-counts",
-    "source": "@bscnews",
-    "published": "Tue Oct 27 2026 22:52:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: JAN3 CEO Samson Mow says Liquid’s 600 BTC shortfall will be fully covered \"in the coming days\".",
-    "link": "https://cryptopanic.com/news/33609293/BREAKING-JAN3-CEO-Samson-Mow-says-Liquids-600-BTC-shortfall-will-be-fully-covered-in-the-coming-days",
-    "source": "@btc_archive",
-    "published": "Tue Oct 27 2026 22:49:21 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
