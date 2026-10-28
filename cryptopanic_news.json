@@ -1,5 +1,33 @@
 [
   {
+    "title": "Fed Chair Kevin Warsh said the central bank will vote on interest rates at seven of its eight scheduled policy meetings in 2027, reducing that number to six in 2028. The remaining meetings will focus on broader monetary policy discussions.",
+    "link": "https://cryptopanic.com/news/33615141/Fed-Chair-Kevin-Warsh-said-the-central-bank-will-vote-on-interest-rates-at-seven-of-its-eight-scheduled-policy-meetings-in-2027-reducing-that-number-to-six-in-2028-The-remaining-meetings-will-focus-on-broader-monetary-policy-discussions",
+    "source": "@wublockchain",
+    "published": "Wed Oct 28 2026 20:47:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Flare earns a validator seat on the XRP Ledger’s trusted list\n\nThe @XRPLF added @FlareNetworks ($FLR) to its recommended validator list today. Many XRP Ledger servers use this list to decide which validators to trust, so Flare now helps confirm new ledgers and vote on amendments.",
+    "link": "https://cryptopanic.com/news/33615114/Flare-earns-a-validator-seat-on-the-XRP-Ledgers-trusted-list-The-XRPLF-added-FlareNetworks-FLR-to-its-recommended-validator-list-today-Many-XRP-Ledger-servers-use-this-list-to-decide-which-validators-to-trust-so-Flare-now-helps-confirm-new-ledgers-and-vote-on-amendments",
+    "source": "@bscnews",
+    "published": "Wed Oct 28 2026 20:47:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BREAKING: Alphabet shares $GOOGL drop more than 9% after hours as Q3 revenue falls short of estimates.\n\nRevenue rose 25% to $127.6 billion, below the $128.2 billion LSEG estimate. Google Cloud revenue jumped 103% to $30.7 billion.",
+    "link": "https://cryptopanic.com/news/33615119/BREAKING-Alphabet-shares-GOOGL-drop-more-than-9-after-hours-as-Q3-revenue-falls-short-of-estimates-Revenue-rose-25-to-1276-billion-below-the-1282-billion-LSEG-estimate-Google-Cloud-revenue-jumped-103-to-307-billion",
+    "source": "@decryptmedia",
+    "published": "Wed Oct 28 2026 20:43:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Daily #Cardano $ADA News! ️\n\nCharles Unveils \"Massive Project.\"\n\n\"Constructing A Supercomputer.\"",
+    "link": "https://cryptopanic.com/news/33615143/Daily-Cardano-ADA-News-Charles-Unveils-Massive-Project-Constructing-A-Supercomputer",
+    "source": "@angrycryptoshow",
+    "published": "Wed Oct 28 2026 20:40:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Coinbase CEO @brian_armstrong responds to Jason Calacanis's Bitcoin call. Calacanis said BTC will \"test the 57k low again in the next 12 months\" and \"never break its all-time high again.\"",
     "link": "https://cryptopanic.com/news/33615118/Coinbase-CEO-brian_armstrong-responds-to-Jason-Calacaniss-Bitcoin-call-Calacanis-said-BTC-will-test-the-57k-low-again-in-the-next-12-months-and-never-break-its-all-time-high-again",
     "source": "@decryptmedia",
@@ -25,6 +53,13 @@
     "link": "https://cryptopanic.com/news/33615062/Brad-Garlinghouse-says-at-Ripple-Swell-that-XRP-remains-the-companys-top-priority-despite-its-growing-focus-on-RLUSD-We-only-want-to-do-things-that-are-good-for-XRP",
     "source": "@coindesk",
     "published": "Wed Oct 28 2026 20:29:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Alphabet Stock Falls 8% Even as Cloud Sales Double: Is AI Spending the Problem?",
+    "link": "https://cryptopanic.com/news/33615135/Alphabet-Stock-Falls-8-Even-as-Cloud-Sales-Double-Is-AI-Spending-the-Problem",
+    "source": "beincrypto.com",
+    "published": "Wed Oct 28 2026 20:21:08 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -133,6 +168,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "MicroStrategy Approves Daily Dividends. Will Bitcoin Buying Return?",
+    "link": "https://cryptopanic.com/news/33615134/MicroStrategy-Approves-Daily-Dividends-Will-Bitcoin-Buying-Return",
+    "source": "beincrypto.com",
+    "published": "Wed Oct 28 2026 20:00:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "BREAKING: Movantis is integrating Stellar to power 24/7 cross-border payments between the US and El Salvador! \n\nComing out of Meridian 2026, the partnership will use USDC on $XLM to help businesses move money faster, including weekends and holidays!\n\nWhat an UNBELIEVABLE week",
     "link": "https://cryptopanic.com/news/33614908/BREAKING-Movantis-is-integrating-Stellar-to-power-247-cross-border-payments-between-the-US-and-El-Salvador-Coming-out-of-Meridian-2026-the-partnership-will-use-USDC-on-XLM-to-help-businesses-move-money-faster-including-weekends-and-holidays-What-an-UNBELIEVABLE-week",
     "source": "@realallincrypto",
@@ -165,48 +207,6 @@
     "link": "https://cryptopanic.com/news/33615060/NEW-The_DTCC-goes-live-with-its-tokenization-service-backing-34-securities-representing-30T-in-market-value-on-the-CantonNetwork-and-its-private-Besu-blockchain-covering-large-cap-stocks-ETFs-and-US-Treasuries",
     "source": "@coindesk",
     "published": "Wed Oct 28 2026 19:58:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Price Rebounds as Fed Chair Warsh Explains Rate-Hike Pause",
-    "link": "https://cryptopanic.com/news/33614940/Bitcoin-Price-Rebounds-as-Fed-Chair-Warsh-Explains-Rate-Hike-Pause",
-    "source": "cryptopotato.com",
-    "published": "Wed Oct 28 2026 19:57:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum’s Next Move Could Catch the Market Off Guard — Watch These Signals",
-    "link": "https://cryptopanic.com/news/33614906/Ethereums-Next-Move-Could-Catch-the-Market-Off-Guard-Watch-These-Signals",
-    "source": "techgaged.com",
-    "published": "Wed Oct 28 2026 19:56:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "US Government Sold Seized FTX Anthropic Shares for $627M. They’re Now Worth $3.94 Billion",
-    "link": "https://cryptopanic.com/news/33614944/US-Government-Sold-Seized-FTX-Anthropic-Shares-for-627M-Theyre-Now-Worth-394-Billion",
-    "source": "zycrypto.com",
-    "published": "Wed Oct 28 2026 19:56:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Total Altcoin Market Cap has come down to retest its previous support/resistance level and Weekly 200MA/EMA.\n\nThis is technically still a solid region for a higher low to be created. This upcoming week of events will likely show the direction from here on out.\n\nSet a higher",
-    "link": "https://cryptopanic.com/news/33614907/The-Total-Altcoin-Market-Cap-has-come-down-to-retest-its-previous-supportresistance-level-and-Weekly-200MAEMA-This-is-technically-still-a-solid-region-for-a-higher-low-to-be-created-This-upcoming-week-of-events-will-likely-show-the-direction-from-here-on-out-Set-a-higher",
-    "source": "@daancrypto",
-    "published": "Wed Oct 28 2026 19:51:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The proposal was reportedly passed to Washington through Pakistani mediators and also covers Iran's nuclear issue and bringing in international inspectors. An informed Iranian source says Iran has presented no new proposals to the Pakistani mediator",
-    "link": "https://cryptopanic.com/news/33614915/The-proposal-was-reportedly-passed-to-Washington-through-Pakistani-mediators-and-also-covers-Irans-nuclear-issue-and-bringing-in-international-inspectors-An-informed-Iranian-source-says-Iran-has-presented-no-new-proposals-to-the-Pakistani-mediator",
-    "source": "@solidintel_x",
-    "published": "Wed Oct 28 2026 19:48:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: Iran reportedly offers to reopen the Strait of Hormuz to the US if Washington lifts its blockade of Iranian ports",
-    "link": "https://cryptopanic.com/news/33614914/INTEL-Iran-reportedly-offers-to-reopen-the-Strait-of-Hormuz-to-the-US-if-Washington-lifts-its-blockade-of-Iranian-ports",
-    "source": "@solidintel_x",
-    "published": "Wed Oct 28 2026 19:47:59 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
