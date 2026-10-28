@@ -1,5 +1,12 @@
 [
   {
+    "title": "Algorand says the real quantum deadline comes before 2029\n\nAlgorand CPO Will Beaumont (@wj_beaumont) argues that delaying the upgrade to quantum-safe cryptography piles up security debt. Some estimates say quantum computers could break today’s encryption by 2029, though he calls",
+    "link": "https://cryptopanic.com/news/33615516/Algorand-says-the-real-quantum-deadline-comes-before-2029-Algorand-CPO-Will-Beaumont-wj_beaumont-argues-that-delaying-the-upgrade-to-quantum-safe-cryptography-piles-up-security-debt-Some-estimates-say-quantum-computers-could-break-todays-encryption-by-2029-though-he-calls",
+    "source": "@bscnews",
+    "published": "Wed Oct 28 2026 22:46:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Datavault AI Stock Plunges 50% as Bitcoin Withdrawal Stalls",
     "link": "https://cryptopanic.com/news/33615520/Datavault-AI-Stock-Plunges-50-as-Bitcoin-Withdrawal-Stalls",
     "source": "cryptopotato.com",
@@ -200,13 +207,6 @@
     "link": "https://cryptopanic.com/news/33615238/Chainlink-puts-SampP-Globals-DeFi-vault-risk-checks-onchain-chainlink-LINK-is-now-publishing-Vault-Risk-Assessments-from-SPGlobalRatings-onchain-starting-on-base-The-assessments-give-SampPs-view-of-a-lending-vaults-risk-for-depositors-covering-loan-quality-liquidity",
     "source": "@bscnews",
     "published": "Wed Oct 28 2026 21:15:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Core bug lets attackers remotely crash Windows and Mac nodes. \n\n• Malicious peer can exhaust memory.\n\n• Update to Bitcoin Core to patch it.",
-    "link": "https://cryptopanic.com/news/33615295/Bitcoin-Core-bug-lets-attackers-remotely-crash-Windows-and-Mac-nodes-Malicious-peer-can-exhaust-memory-Update-to-Bitcoin-Core-to-patch-it",
-    "source": "@btc_archive",
-    "published": "Wed Oct 28 2026 21:07:51 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
