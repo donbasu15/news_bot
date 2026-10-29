@@ -1,5 +1,75 @@
 [
   {
+    "title": "KuCoin ends services in Russia and Belarus, the latest step in its compliance overhaul",
+    "link": "https://cryptopanic.com/news/33621705/KuCoin-ends-services-in-Russia-and-Belarus-the-latest-step-in-its-compliance-overhaul",
+    "source": "cryptopolitan.com",
+    "published": "Thu Oct 29 2026 22:35:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Suspected Binance Hack: What US Users Should Do Now",
+    "link": "https://cryptopanic.com/news/33621687/Suspected-Binance-Hack-What-US-Users-Should-Do-Now",
+    "source": "btcusa.com",
+    "published": "Thu Oct 29 2026 22:35:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: \n\nIf confirmed, Binance's reported $5.7 billion hack would be the largest in crypto history, surpassing Bybit's $1.5 billion hack in 2025 and Ronin Network's $625 million hack in 2022.",
+    "link": "https://cryptopanic.com/news/33621733/UPDATE-If-confirmed-Binances-reported-57-billion-hack-would-be-the-largest-in-crypto-history-surpassing-Bybits-15-billion-hack-in-2025-and-Ronin-Networks-625-million-hack-in-2022",
+    "source": "@cointelegraph",
+    "published": "Thu Oct 29 2026 22:33:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tether Freezes More Than 1.5B USDT Tied to Potential Binance Hack.\n\nTether CEO Paolo Ardoino says the company froze more than 1.567B USDT linked to the incident. The exchange says its team is running security checks and that user funds \"remain safe.\"",
+    "link": "https://cryptopanic.com/news/33621736/Tether-Freezes-More-Than-15B-USDT-Tied-to-Potential-Binance-Hack-Tether-CEO-Paolo-Ardoino-says-the-company-froze-more-than-1567B-USDT-linked-to-the-incident-The-exchange-says-its-team-is-running-security-checks-and-that-user-funds-remain-safe",
+    "source": "@decryptmedia",
+    "published": "Thu Oct 29 2026 22:32:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST TODAY:\n\n• Polymarket: $2.7M reportedly stolen.\n• Binance: $5.7B reportedly drained in suspected hack.",
+    "link": "https://cryptopanic.com/news/33621732/JUST-TODAY-Polymarket-27M-reportedly-stolen-Binance-57B-reportedly-drained-in-suspected-hack",
+    "source": "@cointelegraph",
+    "published": "Thu Oct 29 2026 22:29:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NOW: Binance founder CZ said losses may exceed $1 billion but confirmed they will be covered.",
+    "link": "https://cryptopanic.com/news/33621731/NOW-Binance-founder-CZ-said-losses-may-exceed-1-billion-but-confirmed-they-will-be-covered",
+    "source": "@cointelegraph",
+    "published": "Thu Oct 29 2026 22:27:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Circle’s CCTP leads all crypto bridges by a wide margin\n\nCircle's Cross-Chain Transfer Protocol (CCTP), which moves $USDC between 17 blockchains, handled $3.33B over the past seven days, more than twice @LayerZero_Core's $1.52B. \n\n$USDT0, the cross-chain version of @Tether’s",
+    "link": "https://cryptopanic.com/news/33621735/Circles-CCTP-leads-all-crypto-bridges-by-a-wide-margin-Circles-Cross-Chain-Transfer-Protocol-CCTP-which-moves-USDC-between-17-blockchains-handled-333B-over-the-past-seven-days-more-than-twice-LayerZero_Cores-152B-USDT0-the-cross-chain-version-of-Tethers",
+    "source": "@bscnews",
+    "published": "Thu Oct 29 2026 22:22:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Binance co-founder Yi He thanked Ripple for promptly freezing approximately $200 million in funds, adding that user funds are SAFU.",
+    "link": "https://cryptopanic.com/news/33621730/JUST-IN-Binance-co-founder-Yi-He-thanked-Ripple-for-promptly-freezing-approximately-200-million-in-funds-adding-that-user-funds-are-SAFU",
+    "source": "@cointelegraph",
+    "published": "Thu Oct 29 2026 22:22:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Polymarket stolen funds: One account withdrew at least $2.7M across 710 wallets",
+    "link": "https://cryptopanic.com/news/33621622/Polymarket-stolen-funds-One-account-withdrew-at-least-27M-across-710-wallets",
+    "source": "en.cryptonomist.ch",
+    "published": "Thu Oct 29 2026 22:21:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin’s 2023 Playbook Is Repeating — Could Volatility Be Ready to Return?",
+    "link": "https://cryptopanic.com/news/33621619/Bitcoins-2023-Playbook-Is-Repeating-Could-Volatility-Be-Ready-to-Return",
+    "source": "techgaged.com",
+    "published": "Thu Oct 29 2026 22:19:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "$5,000,000,000 Abruptly Exits Binance Wallets As Founder Warns Exchange ‘May Have Been Hacked’",
     "link": "https://cryptopanic.com/news/33621628/5000000000-Abruptly-Exits-Binance-Wallets-As-Founder-Warns-Exchange-May-Have-Been-Hacked",
     "source": "dailyhodl.com",
@@ -28,6 +98,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Binance said it is actively investigating reports of a potential security issue and confirmed that user funds are completely safe. Its security team is urgently reviewing the situation and will provide updates through official channels once information is verified. Binance also",
+    "link": "https://cryptopanic.com/news/33621680/Binance-said-it-is-actively-investigating-reports-of-a-potential-security-issue-and-confirmed-that-user-funds-are-completely-safe-Its-security-team-is-urgently-reviewing-the-situation-and-will-provide-updates-through-official-channels-once-information-is-verified-Binance-also",
+    "source": "@wublockchain",
+    "published": "Thu Oct 29 2026 22:07:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Singapore Reports $3.5 Million in Losses From Tampered Ledger Crypto Wallets",
     "link": "https://cryptopanic.com/news/33621606/Singapore-Reports-35-Million-in-Losses-From-Tampered-Ledger-Crypto-Wallets",
     "source": "cryptopotato.com",
@@ -42,6 +119,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "The exploiter is now actively dumping their largest altcoin bags including $PEPE, $UNI, and $ENA.",
+    "link": "https://cryptopanic.com/news/33621678/The-exploiter-is-now-actively-dumping-their-largest-altcoin-bags-including-PEPE-UNI-and-ENA",
+    "source": "@stackersatoshi",
+    "published": "Thu Oct 29 2026 22:06:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "INTEL: Binance attacker is liquidating stolen altcoin holdings\n\n- 1.2M UNI sold through Uniswap\n- First PEPE sale reported\n- $116M in ENA and wBETH moved to new wallets\n- $88.5M in RLUSD transferred to new wallets\n\nThe attacker appears to be moving beyond wallet transfers and",
     "link": "https://cryptopanic.com/news/33621601/INTEL-Binance-attacker-is-liquidating-stolen-altcoin-holdings-12M-UNI-sold-through-Uniswap-First-PEPE-sale-reported-116M-in-ENA-and-wBETH-moved-to-new-wallets-885M-in-RLUSD-transferred-to-new-wallets-The-attacker-appears-to-be-moving-beyond-wallet-transfers-and",
     "source": "@solidintel_x",
@@ -53,6 +137,20 @@
     "link": "https://cryptopanic.com/news/33621600/200M-More-left-out-Binance-wallets",
     "source": "@solidintel_x",
     "published": "Thu Oct 29 2026 22:02:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "While $3.2B is a massive hack, it is only around 2.2% of the total assets held at Binance.",
+    "link": "https://cryptopanic.com/news/33621677/While-32B-is-a-massive-hack-it-is-only-around-22-of-the-total-assets-held-at-Binance",
+    "source": "@stackersatoshi",
+    "published": "Thu Oct 29 2026 22:01:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hedera is getting involved in conference season!\n\nAt Merge Madrid, @hedera's Hashgraph, joined Kraken, Generali Investments and Cecabank to discuss the future of tokenized asset trading.\n\nAnother major stage putting Hedera alongside some of the biggest names in institutional",
+    "link": "https://cryptopanic.com/news/33621734/Hedera-is-getting-involved-in-conference-season-At-Merge-Madrid-hederas-Hashgraph-joined-Kraken-Generali-Investments-and-Cecabank-to-discuss-the-future-of-tokenized-asset-trading-Another-major-stage-putting-Hedera-alongside-some-of-the-biggest-names-in-institutional",
+    "source": "@realallincrypto",
+    "published": "Thu Oct 29 2026 22:00:44 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -84,6 +182,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "MicroStrategy Posts Record $21B Operating Income on Bitcoin Gain, but BTC-Per-Share Falls",
+    "link": "https://cryptopanic.com/news/33621643/MicroStrategy-Posts-Record-21B-Operating-Income-on-Bitcoin-Gain-but-BTC-Per-Share-Falls",
+    "source": "beincrypto.com",
+    "published": "Thu Oct 29 2026 21:57:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: BinanceUS reports it is unaffected by the Binance security incident, with user funds safe and services operating normally.",
     "link": "https://cryptopanic.com/news/33621417/JUST-IN-BinanceUS-reports-it-is-unaffected-by-the-Binance-security-incident-with-user-funds-safe-and-services-operating-normally",
     "source": "@cointelegraph",
@@ -98,115 +203,10 @@
     "sentiment": "neutral"
   },
   {
-    "title": "JUST IN: $AAVE freezes lending markets on Avalanche to prevent Binance hacker from borrowing funds.",
-    "link": "https://cryptopanic.com/news/33621605/JUST-IN-AAVE-freezes-lending-markets-on-Avalanche-to-prevent-Binance-hacker-from-borrowing-funds",
-    "source": "@watcherguru",
-    "published": "Thu Oct 29 2026 21:52:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Binance major shareholder says user funds are safe after reported $2.5B hack",
-    "link": "https://cryptopanic.com/news/33621505/Binance-major-shareholder-says-user-funds-are-safe-after-reported-25B-hack",
-    "source": "thestreet.com",
-    "published": "Thu Oct 29 2026 21:52:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Binance co-founder Changpeng Zhao (CZ) says the exchange appears to have been hacked, with Tether freezing approximately $971 million in USDT and Circle freezing $823 million in USDC.\n\nCZ says he expects all user funds to be fully covered.",
-    "link": "https://cryptopanic.com/news/33621414/UPDATE-Binance-co-founder-Changpeng-Zhao-CZ-says-the-exchange-appears-to-have-been-hacked-with-Tether-freezing-approximately-971-million-in-USDT-and-Circle-freezing-823-million-in-USDC-CZ-says-he-expects-all-user-funds-to-be-fully-covered",
-    "source": "@coindesk",
-    "published": "Thu Oct 29 2026 21:49:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Binance investigating hack as suspicious outflows reach up to $5.8 billion",
-    "link": "https://cryptopanic.com/news/33621404/Binance-investigating-hack-as-suspicious-outflows-reach-up-to-58-billion",
-    "source": "theblock.co",
-    "published": "Thu Oct 29 2026 21:49:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Multi-billion Binance hack hitting crypto markets",
-    "link": "https://cryptopanic.com/news/33621413/NEW-Multi-billion-Binance-hack-hitting-crypto-markets",
-    "source": "@coindesk",
-    "published": "Thu Oct 29 2026 21:46:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Rough Binance hack numbers so far:\n$5.6B stolen across 40+ coins on several chains\n$2.4B of stables frozen by Tether/Circle\n\nSo ~$3.2B across a large number of coins remains stolen.",
-    "link": "https://cryptopanic.com/news/33621398/Rough-Binance-hack-numbers-so-far-56B-stolen-across-40-coins-on-several-chains-24B-of-stables-frozen-by-TetherCircle-So-32B-across-a-large-number-of-coins-remains-stolen",
-    "source": "@stackersatoshi",
-    "published": "Thu Oct 29 2026 21:43:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: World's largest crypto exchange Binance hacked with over $5.6 billion stolen:\n\n• $1.45 billion $BTC \n• $875 million $ETH\n• $234 million $TRX\n• $50 million $XAUT\n• $1.57 billion $USDT\n• $823 million $USDC\n• $75 million $WBETH \n• $88.5 million $RLUSD\n+ $447.5",
-    "link": "https://cryptopanic.com/news/33621604/BREAKING-Worlds-largest-crypto-exchange-Binance-hacked-with-over-56-billion-stolen-145-billion-BTC-875-million-ETH-234-million-TRX-50-million-XAUT-157-billion-USDT-823-million-USDC-75-million-WBETH-885-million-RLUSD-4475",
-    "source": "@watcherguru",
-    "published": "Thu Oct 29 2026 21:42:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stay ahead of the market with custom watchlists and real-time alerts on the CoinDesk app. \n\nDownload now: \n\nExclusively sponsored by @Grayscale.",
-    "link": "https://cryptopanic.com/news/33621412/Stay-ahead-of-the-market-with-custom-watchlists-and-real-time-alerts-on-the-CoinDesk-app-Download-now-Exclusively-sponsored-by-Grayscale",
-    "source": "@coindesk",
-    "published": "Thu Oct 29 2026 21:41:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion",
-    "link": "https://cryptopanic.com/news/33621337/Binance-Drained-of-55-Billion-in-Suspected-Hack-Tether-and-Circle-Freeze-18-Billion",
-    "source": "decrypt.co",
-    "published": "Thu Oct 29 2026 21:36:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Tether froze more than $1.567 billion in USDT linked to a potential Binance hack, according to Paolo Ardoino.",
-    "link": "https://cryptopanic.com/news/33621415/JUST-IN-Tether-froze-more-than-1567-billion-in-USDT-linked-to-a-potential-Binance-hack-according-to-Paolo-Ardoino",
-    "source": "@cointelegraph",
-    "published": "Thu Oct 29 2026 21:34:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Pyth Network now streams US Treasury yields in real time\n\n@PythNetwork has launched live feeds for US government bond yields across seven terms, 2 to 30 years, updated every 200 milliseconds and calculated from Pyth’s Treasury price data. The US Treasury publishes its official",
-    "link": "https://cryptopanic.com/news/33621300/Pyth-Network-now-streams-US-Treasury-yields-in-real-time-PythNetwork-has-launched-live-feeds-for-US-government-bond-yields-across-seven-terms-2-to-30-years-updated-every-200-milliseconds-and-calculated-from-Pyths-Treasury-price-data-The-US-Treasury-publishes-its-official",
-    "source": "@bscnews",
-    "published": "Thu Oct 29 2026 21:31:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stellar joins MetaMask: What the wallet update brings to XLM users",
-    "link": "https://cryptopanic.com/news/33621324/Stellar-joins-MetaMask-What-the-wallet-update-brings-to-XLM-users",
-    "source": "ambcrypto.com",
-    "published": "Thu Oct 29 2026 21:30:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Czech billionaire Strnad offers €30 billion for EssiLux shareholder Delfin, sources say",
-    "link": "https://cryptopanic.com/news/33621418/Czech-billionaire-Strnad-offers-30-billion-for-EssiLux-shareholder-Delfin-sources-say",
-    "source": "@reutersbiz",
-    "published": "Thu Oct 29 2026 21:30:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Tether has now frozen $1.5 billion in $USDT linked to suspected Binance hack.",
-    "link": "https://cryptopanic.com/news/33621322/JUST-IN-Tether-has-now-frozen-15-billion-in-USDT-linked-to-suspected-Binance-hack",
-    "source": "@watcherguru",
-    "published": "Thu Oct 29 2026 21:29:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Galaxy's Head of Firmwide Research says Bitcoin's case as digital gold is \"only getting stronger\" \n\n\"Fundamental look good, cyclical looks good, positioning is light...this looks like a great time for an entry or a hold from basically everything I can see.\"",
-    "link": "https://cryptopanic.com/news/33621315/JUST-IN-Galaxys-Head-of-Firmwide-Research-says-Bitcoins-case-as-digital-gold-is-only-getting-stronger-Fundamental-look-good-cyclical-looks-good-positioning-is-lightthis-looks-like-a-great-time-for-an-entry-or-a-hold-from-basically-everything-I-can-see",
-    "source": "@bitcoinmagazine",
-    "published": "Thu Oct 29 2026 21:28:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: CZ confirms the hack but states that user funds are safe",
-    "link": "https://cryptopanic.com/news/33621395/UPDATE-CZ-confirms-the-hack-but-states-that-user-funds-are-safe",
-    "source": "@stackersatoshi",
-    "published": "Thu Oct 29 2026 21:28:08 GMT+0000 (Coordinated Universal Time)",
+    "title": "CZ: Binance May Have Been Hacked as Tether and Circle Freeze Over $2.3B in Stablecoins\n\nBreaking: Binance co-founder Changpeng Zhao (CZ) said the exchange appeared to have been hacked but that user funds were safe. Tether CEO Paolo Ardoino said the company had frozen over 1.567",
+    "link": "https://cryptopanic.com/news/33621679/CZ-Binance-May-Have-Been-Hacked-as-Tether-and-Circle-Freeze-Over-23B-in-Stablecoins-Breaking-Binance-co-founder-Changpeng-Zhao-CZ-said-the-exchange-appeared-to-have-been-hacked-but-that-user-funds-were-safe-Tether-CEO-Paolo-Ardoino-said-the-company-had-frozen-over-1567",
+    "source": "@wublockchain",
+    "published": "Thu Oct 29 2026 21:54:18 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
