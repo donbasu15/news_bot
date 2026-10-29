@@ -1,5 +1,47 @@
 [
   {
+    "title": "Chainlink oracles break 20,000,000,000 verified messages.\n\n@Chainlink's oracles have now sent a staggering 20.33 billion verified messages across various smart contract-enabled blockchains.\n\nThe metric reflects $LINK's unchallenged dominance in the blockchain oracles sector, said",
+    "link": "https://cryptopanic.com/news/33616066/Chainlink-oracles-break-20000000000-verified-messages-Chainlinks-oracles-have-now-sent-a-staggering-2033-billion-verified-messages-across-various-smart-contract-enabled-blockchains-The-metric-reflects-LINKs-unchallenged-dominance-in-the-blockchain-oracles-sector-said",
+    "source": "@bscnews",
+    "published": "Thu Oct 29 2026 02:06:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ripple Adds 'Always-On' Returns as Its Trust Bank Wins Final OCC Approval",
+    "link": "https://cryptopanic.com/news/33616017/Ripple-Adds-Always-On-Returns-as-Its-Trust-Bank-Wins-Final-OCC-Approval",
+    "source": "www.blockhead.co",
+    "published": "Thu Oct 29 2026 02:04:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Fed Chair Warsh is changing the FOMC calendar.\n\n8 meetings a year stays, but in 2027 one will be strategy-only, with no rate vote or policy statement expected. In 2028, he expects 6 rate-setting meetings and 2 for strategy.",
+    "link": "https://cryptopanic.com/news/33616068/Fed-Chair-Warsh-is-changing-the-FOMC-calendar-8-meetings-a-year-stays-but-in-2027-one-will-be-strategy-only-with-no-rate-vote-or-policy-statement-expected-In-2028-he-expects-6-rate-setting-meetings-and-2-for-strategy",
+    "source": "@decryptmedia",
+    "published": "Thu Oct 29 2026 02:00:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin, Ethereum, Dogecoin Gain, but XRP Falls as Kevin Warsh-Led Fed Holds Rates Steady: Analyst Puts $95,000 Bitcoin on the Table for Q4",
+    "link": "https://cryptopanic.com/news/33616067/Bitcoin-Ethereum-Dogecoin-Gain-but-XRP-Falls-as-Kevin-Warsh-Led-Fed-Holds-Rates-Steady-Analyst-Puts-95000-Bitcoin-on-the-Table-for-Q4",
+    "source": "feeds2.benzinga.com",
+    "published": "Thu Oct 29 2026 01:58:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Many Ethereum OGs are waking up and dumping $ETH!\n\nAfter 3 years of inactivity, an Ethereum OG wallet (0x6D30) deposited all 2,119 $ETH ($4.99M) into #Coinbase 7 hours ago.",
+    "link": "https://cryptopanic.com/news/33616069/Many-Ethereum-OGs-are-waking-up-and-dumping-ETH-After-3-years-of-inactivity-an-Ethereum-OG-wallet-0x6D30-deposited-all-2119-ETH-499M-into-Coinbase-7-hours-ago",
+    "source": "@lookonchain",
+    "published": "Thu Oct 29 2026 01:57:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Lumen ties Volt Typhoon’s Silent Train network to four zero-day campaigns",
+    "link": "https://cryptopanic.com/news/33615986/Lumen-ties-Volt-Typhoons-Silent-Train-network-to-four-zero-day-campaigns",
+    "source": "cryptopolitan.com",
+    "published": "Thu Oct 29 2026 01:52:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Allium, Blockchain Data Provider Serving Visa, Stripe and Coinbase, Discloses Security Breach\n\nBlockchain data infrastructure provider Allium disclosed that it detected unauthorized access to certain systems on October 25. The company has notified affected customers and engaged",
     "link": "https://cryptopanic.com/news/33615990/Allium-Blockchain-Data-Provider-Serving-Visa-Stripe-and-Coinbase-Discloses-Security-Breach-Blockchain-data-infrastructure-provider-Allium-disclosed-that-it-detected-unauthorized-access-to-certain-systems-on-October-25-The-company-has-notified-affected-customers-and-engaged",
     "source": "@wublockchain",
@@ -11,6 +53,13 @@
     "link": "https://cryptopanic.com/news/33615989/Galaxy-Digital-swings-to-323-million-Q3-profit-launches-new-200-million-buyback",
     "source": "cryptodnes.bg",
     "published": "Thu Oct 29 2026 01:45:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Blackrock x Japan x Startale\n\n@BlackRock has signed an MOU with both SBI Holdings and @StartaleGroup to potentially connect the financial giants tokenised money market funds with a Japanese Yen stablecoin.\n\nThe move reflects growing crypto adoption in Japan, which is emerging as",
+    "link": "https://cryptopanic.com/news/33616063/Blackrock-x-Japan-x-Startale-BlackRock-has-signed-an-MOU-with-both-SBI-Holdings-and-StartaleGroup-to-potentially-connect-the-financial-giants-tokenised-money-market-funds-with-a-Japanese-Yen-stablecoin-The-move-reflects-growing-crypto-adoption-in-Japan-which-is-emerging-as",
+    "source": "@bscnews",
+    "published": "Thu Oct 29 2026 01:33:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -158,55 +207,6 @@
     "link": "https://cryptopanic.com/news/33615846/JUST-IN-Bloomberg-and-major-trading-firms-sign-deals-to-gain-faster-access-to-President-Trumps-social-media-posts",
     "source": "@watcherguru",
     "published": "Thu Oct 29 2026 00:26:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Core Discloses Two Memory Bugs; Linux Exemption Covers Only One",
-    "link": "https://cryptopanic.com/news/33615758/Bitcoin-Core-Discloses-Two-Memory-Bugs-Linux-Exemption-Covers-Only-One",
-    "source": "btcusa.com",
-    "published": "Thu Oct 29 2026 00:16:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "33 Wall Street Giants Block Tokenized Stocks, But Apple and Tesla Stay Silent",
-    "link": "https://cryptopanic.com/news/33615797/33-Wall-Street-Giants-Block-Tokenized-Stocks-But-Apple-and-Tesla-Stay-Silent",
-    "source": "beincrypto.com",
-    "published": "Thu Oct 29 2026 00:08:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin holding above the 50-week moving average.\n\nBullish times ahead!",
-    "link": "https://cryptopanic.com/news/33615746/Bitcoin-holding-above-the-50-week-moving-average-Bullish-times-ahead",
-    "source": "@btc_archive",
-    "published": "Thu Oct 29 2026 00:00:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JPMorgan, AMD, Coca-Cola and 30 other major companies have BLOCKED tokenised versions of their shares on OKXICE!\n\nSome are saying Wall Street are rejecting tokenisation but this is not necessarily true.\n\nUnder the SEC's framework, companies have 30 days to object to third-party",
-    "link": "https://cryptopanic.com/news/33615822/JPMorgan-AMD-Coca-Cola-and-30-other-major-companies-have-BLOCKED-tokenised-versions-of-their-shares-on-OKXICE-Some-are-saying-Wall-Street-are-rejecting-tokenisation-but-this-is-not-necessarily-true-Under-the-SECs-framework-companies-have-30-days-to-object-to-third-party",
-    "source": "@realallincrypto",
-    "published": "Thu Oct 29 2026 00:00:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ NOW: Coinbase CEO Brian Armstrong says, “With stablecoins and x402, businesses can accept usage-based micropayments, and reduce friction to checkout.”",
-    "link": "https://cryptopanic.com/news/33615820/NOW-Coinbase-CEO-Brian-Armstrong-says-With-stablecoins-and-x402-businesses-can-accept-usage-based-micropayments-and-reduce-friction-to-checkout",
-    "source": "@cointelegraph",
-    "published": "Thu Oct 29 2026 00:00:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Franklin Templeton’s Bitcoin ETFs Could Trigger MASSIVE Accumulation?",
-    "link": "https://cryptopanic.com/news/33615717/Franklin-Templetons-Bitcoin-ETFs-Could-Trigger-MASSIVE-Accumulation",
-    "source": "SimplyBitcoin",
-    "published": "Thu Oct 29 2026 00:00:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Qiao Wang: Why I Hold NVIDIA and TSMC but Won't Chase AI Giants' IPOs\n\nOn October 26, Alliance founder Qiao Wang @QwQiao said during a livestream that he never participates in IPOs and is particularly cautious about companies like OpenAI and Anthropic, which have yet to",
-    "link": "https://cryptopanic.com/news/33615790/Qiao-Wang-Why-I-Hold-NVIDIA-and-TSMC-but-Wont-Chase-AI-Giants-IPOs-On-October-26-Alliance-founder-Qiao-Wang-QwQiao-said-during-a-livestream-that-he-never-participates-in-IPOs-and-is-particularly-cautious-about-companies-like-OpenAI-and-Anthropic-which-have-yet-to",
-    "source": "@wublockchain",
-    "published": "Thu Oct 29 2026 00:00:01 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
