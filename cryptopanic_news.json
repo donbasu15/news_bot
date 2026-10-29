@@ -1,5 +1,19 @@
 [
   {
+    "title": "Canton Network and DTCC Bring $30T in Securities to Blockchain",
+    "link": "https://cryptopanic.com/news/33617451/Canton-Network-and-DTCC-Bring-30T-in-Securities-to-Blockchain",
+    "source": "cryptonews.com",
+    "published": "Thu Oct 29 2026 08:48:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "XRP dips below the $1.30 support amid bearish positioning",
+    "link": "https://cryptopanic.com/news/33617460/XRP-dips-below-the-130-support-amid-bearish-positioning",
+    "source": "coinjournal.net",
+    "published": "Thu Oct 29 2026 08:38:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Kalshi Hits $65 Billion in October Trading as Polymarket US Breaks Records Ahead of Midterm Elections",
     "link": "https://cryptopanic.com/news/33617411/Kalshi-Hits-65-Billion-in-October-Trading-as-Polymarket-US-Breaks-Records-Ahead-of-Midterm-Elections",
     "source": "coinpaper.com",
@@ -18,6 +32,20 @@
     "link": "https://cryptopanic.com/news/33617443/Bitcoin-exchange-netflow-turned-positive-for-the-first-time-since-September-21-Holders-stopped-withdrawing-but-sellers-arent-here-in-size-yet-By-IT_Tech_PL",
     "source": "@cryptoquant_com",
     "published": "Thu Oct 29 2026 08:31:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LONGITUDE: Post-quantum technology is ready, but users must migrate their keys while it’s still safe, @sgoldfed of @Offchain Labs explains.\n\nThe challenge is getting users to act before the last moment.",
+    "link": "https://cryptopanic.com/news/33617466/LONGITUDE-Post-quantum-technology-is-ready-but-users-must-migrate-their-keys-while-its-still-safe-sgoldfed-of-Offchain-Labs-explains-The-challenge-is-getting-users-to-act-before-the-last-moment",
+    "source": "@cointelegraph",
+    "published": "Thu Oct 29 2026 08:30:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "PumpFun is expanding beyond memecoin launches.\n\n@Pumpfun has announced that perps trading is now live on its platform, the new product leveraging @HyperliquidX's rails.\n\nUsers can now use their $USDC balances directly to trade perps contracts on assets spanning crypto, stocks,",
+    "link": "https://cryptopanic.com/news/33617467/PumpFun-is-expanding-beyond-memecoin-launches-Pumpfun-has-announced-that-perps-trading-is-now-live-on-its-platform-the-new-product-leveraging-HyperliquidXs-rails-Users-can-now-use-their-USDC-balances-directly-to-trade-perps-contracts-on-assets-spanning-crypto-stocks",
+    "source": "@bscnews",
+    "published": "Thu Oct 29 2026 08:30:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33617225/Robinhoods-Crypto-Revenue-Sinks-55-as-Wall-Street-Splits-on-Coinbase",
     "source": "coinpaprika.com",
     "published": "Thu Oct 29 2026 07:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Coinbase CEO Predicts End of Subscription Era",
-    "link": "https://cryptopanic.com/news/33617152/Coinbase-CEO-Predicts-End-of-Subscription-Era",
-    "source": "u.today",
-    "published": "Thu Oct 29 2026 06:57:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethena Pay debuts 12% US dollar yield...\n\n@Ethena's crypto neobanking app @ethena has announced a new program dubbed \"Earn+\".\n\nThe program is so far only available to Pro and VIP users of the platform, but offers said users as much as 12% APY on their dollar deposits.\n\nThe",
-    "link": "https://cryptopanic.com/news/33617045/Ethena-Pay-debuts-12-US-dollar-yield-Ethenas-crypto-neobanking-app-ethena-has-announced-a-new-program-dubbed-Earn-The-program-is-so-far-only-available-to-Pro-and-VIP-users-of-the-platform-but-offers-said-users-as-much-as-12-APY-on-their-dollar-deposits-The",
-    "source": "@bscnews",
-    "published": "Thu Oct 29 2026 06:54:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇬🇧 BIG: London Metal Exchange is reportedly planning to tokenize metal stored in its Hong Kong warehouses for use in financing, as part of the city’s push to become a commodities hub, per Reuters.",
-    "link": "https://cryptopanic.com/news/33617196/BIG-London-Metal-Exchange-is-reportedly-planning-to-tokenize-metal-stored-in-its-Hong-Kong-warehouses-for-use-in-financing-as-part-of-the-citys-push-to-become-a-commodities-hub-per-Reuters",
-    "source": "@cointelegraph",
-    "published": "Thu Oct 29 2026 06:52:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Chainlink Loses 21% in October Even as Tokens Keep Leaving Exchanges",
-    "link": "https://cryptopanic.com/news/33617156/Chainlink-Loses-21-in-October-Even-as-Tokens-Keep-Leaving-Exchanges",
-    "source": "beincrypto.com",
-    "published": "Thu Oct 29 2026 06:51:25 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
