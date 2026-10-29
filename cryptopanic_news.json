@@ -1,5 +1,82 @@
 [
   {
+    "title": "US PCE Inflation for September:\n\nPCE Inflation: +3.6% YoY as expected\n\nCore PCE Inflation: +3.1% YoY as expected",
+    "link": "https://cryptopanic.com/news/33618679/US-PCE-Inflation-for-September-PCE-Inflation-36-YoY-as-expected-Core-PCE-Inflation-31-YoY-as-expected",
+    "source": "@stackersatoshi",
+    "published": "Thu Oct 29 2026 12:35:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Arbitrum logs busiest day since July 2024 as active addresses more than triple",
+    "link": "https://cryptopanic.com/news/33618615/Arbitrum-logs-busiest-day-since-July-2024-as-active-addresses-more-than-triple",
+    "source": "cryptopolitan.com",
+    "published": "Thu Oct 29 2026 12:31:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Morning Minute: Hedge Funds Left the BTC ETF Trade and Sovereign Wealth Stepped In",
+    "link": "https://cryptopanic.com/news/33618571/Morning-Minute-Hedge-Funds-Left-the-BTC-ETF-Trade-and-Sovereign-Wealth-Stepped-In",
+    "source": "@decryptmedia",
+    "published": "Thu Oct 29 2026 12:31:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Core patches 3 node-crashing bugs, including one that hit Windows, macOS",
+    "link": "https://cryptopanic.com/news/33618580/Bitcoin-Core-patches-3-node-crashing-bugs-including-one-that-hit-Windows-macOS",
+    "source": "ambcrypto.com",
+    "published": "Thu Oct 29 2026 12:30:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "US economy grows 3.4% vs 3.2% expected",
+    "link": "https://cryptopanic.com/news/33618576/US-economy-grows-34-vs-32-expected",
+    "source": "@solidintel_x",
+    "published": "Thu Oct 29 2026 12:30:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: Jobless claims fall to 194,000 vs 200,000 expected",
+    "link": "https://cryptopanic.com/news/33618577/INTEL-Jobless-claims-fall-to-194000-vs-200000-expected",
+    "source": "@solidintel_x",
+    "published": "Thu Oct 29 2026 12:30:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Australia's Westpac Caps Crypto Exchange Payments at A$10,000 a Month.\n\nThe limit starts Dec 1. In-branch payments to exchanges will end, and no exemptions will be granted. Withdrawals aren't changing.",
+    "link": "https://cryptopanic.com/news/33618570/Australias-Westpac-Caps-Crypto-Exchange-Payments-at-A10000-a-Month-The-limit-starts-Dec-1-In-branch-payments-to-exchanges-will-end-and-no-exemptions-will-be-granted-Withdrawals-arent-changing",
+    "source": "@decryptmedia",
+    "published": "Thu Oct 29 2026 12:30:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "HYPE Token Rallies As NYSE Owner Brings Hyperliquid to America",
+    "link": "https://cryptopanic.com/news/33618675/HYPE-Token-Rallies-As-NYSE-Owner-Brings-Hyperliquid-to-America",
+    "source": "beincrypto.com",
+    "published": "Thu Oct 29 2026 12:26:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Proud to receive this recognition at The Blockchain 100, 2026 \n\nGrateful to be recognised among the leading voices in the blockchain industry ️\n\nThis is just the beginning",
+    "link": "https://cryptopanic.com/news/33618572/Proud-to-receive-this-recognition-at-The-Blockchain-100-2026-Grateful-to-be-recognised-among-the-leading-voices-in-the-blockchain-industry-This-is-just-the-beginning",
+    "source": "@cryptokingkeyur",
+    "published": "Thu Oct 29 2026 12:25:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: US inflation, GDP and jobless data in 5 minutes.\nMarkets expect inflation at 3.1%.\nThe result first, then all 3 numbers in one post",
+    "link": "https://cryptopanic.com/news/33618575/INTEL-US-inflation-GDP-and-jobless-data-in-5-minutes-Markets-expect-inflation-at-31-The-result-first-then-all-3-numbers-in-one-post",
+    "source": "@solidintel_x",
+    "published": "Thu Oct 29 2026 12:25:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Compact Filters: Privacy Gains and Verification Limits",
+    "link": "https://cryptopanic.com/news/33618498/Bitcoin-Compact-Filters-Privacy-Gains-and-Verification-Limits",
+    "source": "btcusa.com",
+    "published": "Thu Oct 29 2026 12:17:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "ASIC’s Court likens Polymarket to binary options banned until 2031",
     "link": "https://cryptopanic.com/news/33618499/ASICs-Court-likens-Polymarket-to-binary-options-banned-until-2031",
     "source": "cryptopolitan.com",
@@ -11,6 +88,20 @@
     "link": "https://cryptopanic.com/news/33618472/Bank-of-England-to-consult-on-tokenised-collateral",
     "source": "@reutersbiz",
     "published": "Thu Oct 29 2026 12:15:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Fidelity Digital Assets reports Bitcoin holders’ unrealized profits jumped from 0.09 to 0.36 last quarter \n\n“Historically, periods when BTC’s NUPL score hovered around 0.36 (±0.05) have coincided with a median one-year return of 93%.”",
+    "link": "https://cryptopanic.com/news/33618671/JUST-IN-Fidelity-Digital-Assets-reports-Bitcoin-holders-unrealized-profits-jumped-from-009-to-036-last-quarter-Historically-periods-when-BTCs-NUPL-score-hovered-around-036-005-have-coincided-with-a-median-one-year-return-of-93",
+    "source": "@bitcoinmagazine",
+    "published": "Thu Oct 29 2026 12:10:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "A Memory Shortage Until 2030? Why Semiconductor Stocks Are Rallying Again",
+    "link": "https://cryptopanic.com/news/33618674/A-Memory-Shortage-Until-2030-Why-Semiconductor-Stocks-Are-Rallying-Again",
+    "source": "beincrypto.com",
+    "published": "Thu Oct 29 2026 12:08:06 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -28,10 +119,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "$BTC The past year the Asia trading sessions have been the most bullish with only a slight negative return. This is while Bitcoin dropped about -28% during that time.\n\nMost downside came from the EU sessions followed by the US sessions.",
+    "link": "https://cryptopanic.com/news/33618567/BTC-The-past-year-the-Asia-trading-sessions-have-been-the-most-bullish-with-only-a-slight-negative-return-This-is-while-Bitcoin-dropped-about-28-during-that-time-Most-downside-came-from-the-EU-sessions-followed-by-the-US-sessions",
+    "source": "@daancrypto",
+    "published": "Thu Oct 29 2026 12:02:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "German industry groups urge Berlin to join defence bank initiative",
     "link": "https://cryptopanic.com/news/33618465/German-industry-groups-urge-Berlin-to-join-defence-bank-initiative",
     "source": "@reutersbiz",
     "published": "Thu Oct 29 2026 12:00:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "DFINITY took centre stage at the Dubai AI Festival, showcasing the Internet Computer's role in the future of AI! \n\n$ICP founder Dominic Williams presented “Sovereign Cloud for the AI Era”, while DFINITY also contributed to the festival's official *State of AI 2026* report!\n\nAs",
+    "link": "https://cryptopanic.com/news/33618568/DFINITY-took-centre-stage-at-the-Dubai-AI-Festival-showcasing-the-Internet-Computers-role-in-the-future-of-AI-ICP-founder-Dominic-Williams-presented-Sovereign-Cloud-for-the-AI-Era-while-DFINITY-also-contributed-to-the-festivals-official-State-of-AI-2026-report-As",
+    "source": "@realallincrypto",
+    "published": "Thu Oct 29 2026 12:00:42 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -63,6 +168,20 @@
     "sentiment": "neutral"
   },
   {
+    "title": "What 1,932 US Crypto Investors Revealed About Money, Respect and Secrecy",
+    "link": "https://cryptopanic.com/news/33618673/What-1932-US-Crypto-Investors-Revealed-About-Money-Respect-and-Secrecy",
+    "source": "beincrypto.com",
+    "published": "Thu Oct 29 2026 12:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "WalletConnect Just Plugged Stellar Into 900 Million Users\n\n@WalletConnect has added support for the @StellarOrg blockchain. It has also partnered with Penrose Partners to launch WalletConnect Pay for Bermuda merchants, helping the country become the world's first fully on-chain",
+    "link": "https://cryptopanic.com/news/33618569/WalletConnect-Just-Plugged-Stellar-Into-900-Million-Users-WalletConnect-has-added-support-for-the-StellarOrg-blockchain-It-has-also-partnered-with-Penrose-Partners-to-launch-WalletConnect-Pay-for-Bermuda-merchants-helping-the-country-become-the-worlds-first-fully-on-chain",
+    "source": "@bscnews",
+    "published": "Thu Oct 29 2026 11:56:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin Back to $80,000 but Technicals Signal Massive Move Ahead: Glassnode",
     "link": "https://cryptopanic.com/news/33618414/Bitcoin-Back-to-80000-but-Technicals-Signal-Massive-Move-Ahead-Glassnode",
     "source": "feeds2.benzinga.com",
@@ -88,125 +207,6 @@
     "link": "https://cryptopanic.com/news/33618334/Chinese-National-and-New-York-Resident-Plead-Guilty-in-65000000-Senior-Fraud-Ring-That-Conspired-With-India-Based-Call-Centers",
     "source": "dailyhodl.com",
     "published": "Thu Oct 29 2026 11:45:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Christine Lagarde: The outsider who led the ECB her way",
-    "link": "https://cryptopanic.com/news/33618311/Christine-Lagarde-The-outsider-who-led-the-ECB-her-way",
-    "source": "@reutersbiz",
-    "published": "Thu Oct 29 2026 11:45:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "What Is Fed Chair Kevin Warsh Sensitive To? BlackRock Executive Has an Answer",
-    "link": "https://cryptopanic.com/news/33618400/What-Is-Fed-Chair-Kevin-Warsh-Sensitive-To-BlackRock-Executive-Has-an-Answer",
-    "source": "beincrypto.com",
-    "published": "Thu Oct 29 2026 11:39:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ICE Wants to Bring 24/7 Perpetuals to US Brokers, and Hyperliquid Is the Engine\n\nIntercontinental Exchange (@ICE_Markets), which operates the @NYSE, has partnered with and invested in @TradeXYZ to form a federally regulated 24/7 perpetual futures exchange on @HyperliquidX.",
-    "link": "https://cryptopanic.com/news/33618314/ICE-Wants-to-Bring-247-Perpetuals-to-US-Brokers-and-Hyperliquid-Is-the-Engine-Intercontinental-Exchange-ICE_Markets-which-operates-the-NYSE-has-partnered-with-and-invested-in-TradeXYZ-to-form-a-federally-regulated-247-perpetual-futures-exchange-on-HyperliquidX",
-    "source": "@bscnews",
-    "published": "Thu Oct 29 2026 11:35:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Treasury Sanctions 11 Over North Korean IT Worker Scheme That Moved Millions in Crypto",
-    "link": "https://cryptopanic.com/news/33618260/Treasury-Sanctions-11-Over-North-Korean-IT-Worker-Scheme-That-Moved-Millions-in-Crypto",
-    "source": "decrypt.co",
-    "published": "Thu Oct 29 2026 11:32:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "GIVEAWAY ALERT \n\nI’m giving away 5 FREE PASSES to India Blockchain Week 2026 in Mumbai 🇮🇳\n\n How to win:\n  Follow @CryptoKingKeyur + @IBWofficial  Like & Repost  Comment “IBW” + tag a friend you’d bring!\n\n Fairmont, Mumbai  November 1–2, 2026\n\n⏳ Winners",
-    "link": "https://cryptopanic.com/news/33618318/GIVEAWAY-ALERT-Im-giving-away-5-FREE-PASSES-to-India-Blockchain-Week-2026-in-Mumbai-How-to-win-Follow-CryptoKingKeyur-IBWofficial-Like-amp-Repost-Comment-IBW-tag-a-friend-youd-bring-Fairmont-Mumbai-November-12-2026-Winners",
-    "source": "@cryptokingkeyur",
-    "published": "Thu Oct 29 2026 11:31:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Is XRP Losing Ground to RLUSD at Ripple? Ripple CEO Brad Garlinghouse Responds",
-    "link": "https://cryptopanic.com/news/33618262/Is-XRP-Losing-Ground-to-RLUSD-at-Ripple-Ripple-CEO-Brad-Garlinghouse-Responds",
-    "source": "cryptopotato.com",
-    "published": "Thu Oct 29 2026 11:31:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Singapore police report about S$3.5M in losses from tampered Ledger wallets bought at some local stores. At least 2 cases have been reported since Sept. 10.\n\nLedger has asked authorized resellers to suspend sales in Southeast Asia and Hong Kong.",
-    "link": "https://cryptopanic.com/news/33618315/Singapore-police-report-about-S35M-in-losses-from-tampered-Ledger-wallets-bought-at-some-local-stores-At-least-2-cases-have-been-reported-since-Sept-10-Ledger-has-asked-authorized-resellers-to-suspend-sales-in-Southeast-Asia-and-Hong-Kong",
-    "source": "@decryptmedia",
-    "published": "Thu Oct 29 2026 11:30:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: Crypto exchanges are expanding beyond trading into everyday payments.\n\n@Gate’s latest launch of Gate Money combines fiat transfers, digital assets, investment services and Visa-powered card payments, with availability varying by region.\n\nRead more",
-    "link": "https://cryptopanic.com/news/33618309/LATEST-Crypto-exchanges-are-expanding-beyond-trading-into-everyday-payments-Gates-latest-launch-of-Gate-Money-combines-fiat-transfers-digital-assets-investment-services-and-Visa-powered-card-payments-with-availability-varying-by-region-Read-more",
-    "source": "@cointelegraph",
-    "published": "Thu Oct 29 2026 11:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "From Anthropic's IPO to President Trump's call to ban the term artificial intelligence. Here are the latest stories from the AI revolution",
-    "link": "https://cryptopanic.com/news/33618310/From-Anthropics-IPO-to-President-Trumps-call-to-ban-the-term-artificial-intelligence-Here-are-the-latest-stories-from-the-AI-revolution",
-    "source": "@reutersbiz",
-    "published": "Thu Oct 29 2026 11:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Warsh Shakes Up Fed Meeting Schedule for 2027",
-    "link": "https://cryptopanic.com/news/33618423/Warsh-Shakes-Up-Fed-Meeting-Schedule-for-2027",
-    "source": "catenaa.com",
-    "published": "Thu Oct 29 2026 11:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ICE will take a stake in Trade xyz as regulated perpetual futures await US approval",
-    "link": "https://cryptopanic.com/news/33618177/ICE-will-take-a-stake-in-Trade-xyz-as-regulated-perpetual-futures-await-US-approval",
-    "source": "en.cryptonomist.ch",
-    "published": "Thu Oct 29 2026 11:24:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Lumentum Stock Jumps on Reports of Major Marvell Acquisition",
-    "link": "https://cryptopanic.com/news/33618166/Lumentum-Stock-Jumps-on-Reports-of-Major-Marvell-Acquisition",
-    "source": "coinpaper.com",
-    "published": "Thu Oct 29 2026 11:24:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Samsung shares slide 4% despite almost ninefold profit jump",
-    "link": "https://cryptopanic.com/news/33618159/Samsung-shares-slide-4-despite-almost-ninefold-profit-jump",
-    "source": "cryptopolitan.com",
-    "published": "Thu Oct 29 2026 11:18:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Is Sam Altman’s AI Bot Bearish on Solana? ChatGPT AI Predicts SOL Price",
-    "link": "https://cryptopanic.com/news/33618326/Is-Sam-Altmans-AI-Bot-Bearish-on-Solana-ChatGPT-AI-Predicts-SOL-Price",
-    "source": "99bitcoins.com",
-    "published": "Thu Oct 29 2026 11:13:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HYPE Gets a Wall Street Door as NYSE Owner Plans US Perps",
-    "link": "https://cryptopanic.com/news/33618146/HYPE-Gets-a-Wall-Street-Door-as-NYSE-Owner-Plans-US-Perps",
-    "source": "coindoo.com",
-    "published": "Thu Oct 29 2026 11:13:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto Chop, BTC Looks Good, The Big Bet, & The Man Who Talks To Suits",
-    "link": "https://cryptopanic.com/news/33618150/Crypto-Chop-BTC-Looks-Good-The-Big-Bet-The-Man-Who-Talks-To-Suits",
-    "source": "TheCryptoLark",
-    "published": "Thu Oct 29 2026 11:12:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Complete breakdown ⤵️",
-    "link": "https://cryptopanic.com/news/33618230/Complete-breakdown",
-    "source": "@cryptoquant_com",
-    "published": "Thu Oct 29 2026 11:08:59 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
