@@ -1,16 +1,100 @@
 [
   {
+    "title": "Coinbase's share of crypto trading volume doubled from a year ago to 10.7%",
+    "link": "https://cryptopanic.com/news/33620921/Coinbases-share-of-crypto-trading-volume-doubled-from-a-year-ago-to-107",
+    "source": "@solidintel_x",
+    "published": "Thu Oct 29 2026 20:14:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: Coinbase $COIN adjusted EBITDA hits $332.9M vs $282.9M expected",
+    "link": "https://cryptopanic.com/news/33620920/INTEL-Coinbase-COIN-adjusted-EBITDA-hits-3329M-vs-2829M-expected",
+    "source": "@solidintel_x",
+    "published": "Thu Oct 29 2026 20:14:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Intel $INTC crashes over 20% after missing Q3 2026 earnings.",
+    "link": "https://cryptopanic.com/news/33620923/JUST-IN-Intel-INTC-crashes-over-20-after-missing-Q3-2026-earnings",
+    "source": "@watcherguru",
+    "published": "Thu Oct 29 2026 20:13:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "$INTC JUST CRASHED -20% AFTER REPORTING WEAKER THAN EXPECTED Q4 GUIDANCE.",
+    "link": "https://cryptopanic.com/news/33620927/INTC-JUST-CRASHED-20-AFTER-REPORTING-WEAKER-THAN-EXPECTED-Q4-GUIDANCE",
+    "source": "@stackersatoshi",
+    "published": "Thu Oct 29 2026 20:12:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Michael Saylor's Strategy reports $21 billion operating income almost entirely from Bitcoin price gains.\n\n• $21.2B capital raised year to date.\n\n• Stronger cash reserves.\n\n• 848,517 BTC held, up 26% year to date.\n\n$MSTR",
+    "link": "https://cryptopanic.com/news/33620926/Michael-Saylors-Strategy-reports-21-billion-operating-income-almost-entirely-from-Bitcoin-price-gains-212B-capital-raised-year-to-date-Stronger-cash-reserves-848517-BTC-held-up-26-year-to-date-MSTR",
+    "source": "@btc_archive",
+    "published": "Thu Oct 29 2026 20:11:22 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: Strategy $MSTR posts $21 billion operating income in its largest quarter ever",
+    "link": "https://cryptopanic.com/news/33620918/INTEL-Strategy-MSTR-posts-21-billion-operating-income-in-its-largest-quarter-ever",
+    "source": "@solidintel_x",
+    "published": "Thu Oct 29 2026 20:06:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CFO Andrew Kang is resigning effective November 5 for personal reasons, with no disagreement with the company",
+    "link": "https://cryptopanic.com/news/33620917/CFO-Andrew-Kang-is-resigning-effective-November-5-for-personal-reasons-with-no-disagreement-with-the-company",
+    "source": "@solidintel_x",
+    "published": "Thu Oct 29 2026 20:06:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Amazon $AMZN crashes 11% after reporting $201.9 billion in revenue for Q3 2026, missing expectations.",
+    "link": "https://cryptopanic.com/news/33620922/JUST-IN-Amazon-AMZN-crashes-11-after-reporting-2019-billion-in-revenue-for-Q3-2026-missing-expectations",
+    "source": "@watcherguru",
+    "published": "Thu Oct 29 2026 20:05:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Fidelity Global Macro Director: “I continue to be impressed by Bitcoin’s resilience,” it should keep outperforming gold.\n\nGovernments may resort to desperate measures, so hold “real assets.”\n\n— Jurrien Timmer @TimmerFidelity",
+    "link": "https://cryptopanic.com/news/33620925/Fidelity-Global-Macro-Director-I-continue-to-be-impressed-by-Bitcoins-resilience-it-should-keep-outperforming-gold-Governments-may-resort-to-desperate-measures-so-hold-real-assets-Jurrien-Timmer-TimmerFidelity",
+    "source": "@btc_archive",
+    "published": "Thu Oct 29 2026 20:04:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: Intel $INTC crashes 13% after earnings",
+    "link": "https://cryptopanic.com/news/33620916/INTEL-Intel-INTC-crashes-13-after-earnings",
+    "source": "@solidintel_x",
+    "published": "Thu Oct 29 2026 20:03:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Finastra CTO Mike Stawchansky says some AI scams can’t be detected",
+    "link": "https://cryptopanic.com/news/33620937/Finastra-CTO-Mike-Stawchansky-says-some-AI-scams-cant-be-detected",
+    "source": "thestreet.com",
+    "published": "Thu Oct 29 2026 20:01:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ripple’s Futures volume hits $68B, yet XRP faces a liquidity test – Why?",
+    "link": "https://cryptopanic.com/news/33620872/Ripples-Futures-volume-hits-68B-yet-XRP-faces-a-liquidity-test-Why",
+    "source": "ambcrypto.com",
+    "published": "Thu Oct 29 2026 20:00:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "HUGE: Blockchain revenue is projected to reach roughly $100 billion in 2026 despite a 28% year-over-year decline, according to a new 1kx report.",
+    "link": "https://cryptopanic.com/news/33620840/HUGE-Blockchain-revenue-is-projected-to-reach-roughly-100-billion-in-2026-despite-a-28-year-over-year-decline-according-to-a-new-1kx-report",
+    "source": "@cointelegraph",
+    "published": "Thu Oct 29 2026 19:59:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Hyperliquid’s HYPE jumps 16% after ICE deal for US trading\n\n$HYPE rose 16.6% in 24 hours to about $94.43, lifting its market cap to $23.9B and putting it ninth among all cryptocurrencies. Trading volume more than tripled to $2.3B over the same period. Over the week, the token is",
     "link": "https://cryptopanic.com/news/33620843/Hyperliquids-HYPE-jumps-16-after-ICE-deal-for-US-trading-HYPE-rose-166-in-24-hours-to-about-9443-lifting-its-market-cap-to-239B-and-putting-it-ninth-among-all-cryptocurrencies-Trading-volume-more-than-tripled-to-23B-over-the-same-period-Over-the-week-the-token-is",
     "source": "@bscnews",
     "published": "Thu Oct 29 2026 19:48:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Chrome Can Now Pull Details From Your Gmail to Fill Out Web Forms",
-    "link": "https://cryptopanic.com/news/33620844/Chrome-Can-Now-Pull-Details-From-Your-Gmail-to-Fill-Out-Web-Forms",
-    "source": "@decryptmedia",
-    "published": "Thu Oct 29 2026 19:47:15 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -25,6 +109,13 @@
     "link": "https://cryptopanic.com/news/33620841/ECBs-Lagarde-resigns-early-so-she-can-speak-freely-on-topics-beyond-monetary-policy",
     "source": "@reutersbiz",
     "published": "Thu Oct 29 2026 19:45:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Deutsche Bank CEO: “I don’t quite grasp Bitcoin, and I’m not personally convinced by the asset class.\n\nWhere is the cash flow underneath it?”\n\nHe’ll eventually get it… by the time BTC crosses $400K.",
+    "link": "https://cryptopanic.com/news/33620924/Deutsche-Bank-CEO-I-dont-quite-grasp-Bitcoin-and-Im-not-personally-convinced-by-the-asset-class-Where-is-the-cash-flow-underneath-it-Hell-eventually-get-it-by-the-time-BTC-crosses-400K",
+    "source": "@btc_archive",
+    "published": "Thu Oct 29 2026 19:45:10 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -116,97 +207,6 @@
     "link": "https://cryptopanic.com/news/33620786/Bitcoin-Ethereum-XRP-Dogecoin-Trade-Sideways-After-Fed-Rate-Hold",
     "source": "feeds2.benzinga.com",
     "published": "Thu Oct 29 2026 19:24:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$BTC Holds $80,000 As Federal Reserve Keeps Rates Steady",
-    "link": "https://cryptopanic.com/news/33620499/BTC-Holds-80000-As-Federal-Reserve-Keeps-Rates-Steady",
-    "source": "solanafloor.com",
-    "published": "Thu Oct 29 2026 19:24:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: Top admiral briefs Trump in person on Iran attack options | Per WSJ",
-    "link": "https://cryptopanic.com/news/33620781/INTEL-Top-admiral-briefs-Trump-in-person-on-Iran-attack-options-Per-WSJ",
-    "source": "@solidintel_x",
-    "published": "Thu Oct 29 2026 19:21:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The US weighs resuming major combat operations against Iran",
-    "link": "https://cryptopanic.com/news/33620779/The-US-weighs-resuming-major-combat-operations-against-Iran",
-    "source": "@solidintel_x",
-    "published": "Thu Oct 29 2026 19:21:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "WARNING: Ledger hardware wallet supply chain in Singapore has also been compromised.",
-    "link": "https://cryptopanic.com/news/33620784/WARNING-Ledger-hardware-wallet-supply-chain-in-Singapore-has-also-been-compromised",
-    "source": "@btc_archive",
-    "published": "Thu Oct 29 2026 19:20:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ NEW: Ondo Finance launches seven tokenized portfolios on Solana, including three powered by BlackRock, spanning income, growth and thematic investments.",
-    "link": "https://cryptopanic.com/news/33620838/NEW-Ondo-Finance-launches-seven-tokenized-portfolios-on-Solana-including-three-powered-by-BlackRock-spanning-income-growth-and-thematic-investments",
-    "source": "@cointelegraph",
-    "published": "Thu Oct 29 2026 19:20:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Russia’s crypto exchanges now answer to a securities industry group\n\nThe Bank of Russia has named NAUFOR, the national association of securities market players, as the first self-regulatory body for crypto exchange operators and crypto custodians, per Interfax. \n\nNAUFOR was",
-    "link": "https://cryptopanic.com/news/33620842/Russias-crypto-exchanges-now-answer-to-a-securities-industry-group-The-Bank-of-Russia-has-named-NAUFOR-the-national-association-of-securities-market-players-as-the-first-self-regulatory-body-for-crypto-exchange-operators-and-crypto-custodians-per-Interfax-NAUFOR-was",
-    "source": "@bscnews",
-    "published": "Thu Oct 29 2026 19:19:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Ripple CEO Brad Garlinghouse told Bloomberg that “XRP is at the heart of everything Ripple does,” and that anyone who doesn’t think so “is kind of missing the big picture.”",
-    "link": "https://cryptopanic.com/news/33620813/LATEST-Ripple-CEO-Brad-Garlinghouse-told-Bloomberg-that-XRP-is-at-the-heart-of-everything-Ripple-does-and-that-anyone-who-doesnt-think-so-is-kind-of-missing-the-big-picture",
-    "source": "@coinmarketcap",
-    "published": "Thu Oct 29 2026 19:17:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple President Breaks Silence On New Partnership",
-    "link": "https://cryptopanic.com/news/33620714/Ripple-President-Breaks-Silence-On-New-Partnership",
-    "source": "dailycoin.com",
-    "published": "Thu Oct 29 2026 19:16:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Polymarket halts trading after provider compromise",
-    "link": "https://cryptopanic.com/news/33620744/Polymarket-halts-trading-after-provider-compromise",
-    "source": "thestreet.com",
-    "published": "Thu Oct 29 2026 19:12:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Strategy will report earnings today in around 1 hour after the US session ends.\n\nRecently, they have not been a significant buyer (or seller) of $BTC, but they have managed to get $STRC essentially back to par.\n\nLet's see if they have any surprise announcements today.",
-    "link": "https://cryptopanic.com/news/33620811/Strategy-will-report-earnings-today-in-around-1-hour-after-the-US-session-ends-Recently-they-have-not-been-a-significant-buyer-or-seller-of-BTC-but-they-have-managed-to-get-STRC-essentially-back-to-par-Lets-see-if-they-have-any-surprise-announcements-today",
-    "source": "@stackersatoshi",
-    "published": "Thu Oct 29 2026 19:11:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Full breakdown of pPOLY on-chain activity, holder concentration and the wider tokenized stocks market ⤵️",
-    "link": "https://cryptopanic.com/news/33620815/Full-breakdown-of-pPOLY-on-chain-activity-holder-concentration-and-the-wider-tokenized-stocks-market",
-    "source": "@cryptoquant_com",
-    "published": "Thu Oct 29 2026 19:10:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Polymarket hasn’t IPO’d, yet traders put $67M into it on-chain in 7 days.\n\npPOLY, a tokenized note tracking Polymarket’s Series B, traded about 12x its market value in its first week.\n\n174,892 swaps. The top 10 holders control 47.4% of supply.",
-    "link": "https://cryptopanic.com/news/33620814/Polymarket-hasnt-IPOd-yet-traders-put-67M-into-it-on-chain-in-7-days-pPOLY-a-tokenized-note-tracking-Polymarkets-Series-B-traded-about-12x-its-market-value-in-its-first-week-174892-swaps-The-top-10-holders-control-474-of-supply",
-    "source": "@cryptoquant_com",
-    "published": "Thu Oct 29 2026 19:09:43 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Check your registration, find your state's deadline, and see where your candidates in one place",
-    "link": "https://cryptopanic.com/news/33620782/Check-your-registration-find-your-states-deadline-and-see-where-your-candidates-in-one-place",
-    "source": "@bitcoinmagazine",
-    "published": "Thu Oct 29 2026 19:08:38 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
