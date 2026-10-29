@@ -1,5 +1,26 @@
 [
   {
+    "title": "Asian stocks and the Fed push Bitcoin below USD 80,000",
+    "link": "https://cryptopanic.com/news/33617938/Asian-stocks-and-the-Fed-push-Bitcoin-below-USD-80000",
+    "source": "cryptovalleyjournal.com",
+    "published": "Thu Oct 29 2026 10:41:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ripple faces 2 billion XRP supply question ahead of November unlock",
+    "link": "https://cryptopanic.com/news/33617856/Ripple-faces-2-billion-XRP-supply-question-ahead-of-November-unlock",
+    "source": "finbold.com",
+    "published": "Thu Oct 29 2026 10:20:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Kalshi faces 14 illegal gambling charges in Utah over sports bets",
+    "link": "https://cryptopanic.com/news/33617853/Kalshi-faces-14-illegal-gambling-charges-in-Utah-over-sports-bets",
+    "source": "en.cryptonomist.ch",
+    "published": "Thu Oct 29 2026 10:19:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "St James's Place reports lower Q3 net inflows amid uncertainty ahead of UK budget",
     "link": "https://cryptopanic.com/news/33617832/St-Jamess-Place-reports-lower-Q3-net-inflows-amid-uncertainty-ahead-of-UK-budget",
     "source": "@reutersbiz",
@@ -11,6 +32,13 @@
     "link": "https://cryptopanic.com/news/33617831/JUST-IN-Christine-Lagarde-to-step-down-as-ECB-president-on-February-7-2027",
     "source": "@cointelegraph",
     "published": "Thu Oct 29 2026 10:13:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇪🇺 European Central Bank President Christine Lagarde to step down on February 7th.",
+    "link": "https://cryptopanic.com/news/33617913/JUST-IN-European-Central-Bank-President-Christine-Lagarde-to-step-down-on-February-7th",
+    "source": "@watcherguru",
+    "published": "Thu Oct 29 2026 10:10:34 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -35,6 +63,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "WOW: Brad Garlinghouse just made it CRYSTAL CLEAR at @Ripple Swell: $XRP remains Ripple’s TOP PRIORITY! \n\nDespite Ripple’s massive expansion into stablecoins, custody, payments and institutional finance, Brad declared:\n\n“We only want to do things that are good for XRP.”\n\nAn",
+    "link": "https://cryptopanic.com/news/33617909/WOW-Brad-Garlinghouse-just-made-it-CRYSTAL-CLEAR-at-Ripple-Swell-XRP-remains-Ripples-TOP-PRIORITY-Despite-Ripples-massive-expansion-into-stablecoins-custody-payments-and-institutional-finance-Brad-declared-We-only-want-to-do-things-that-are-good-for-XRP-An",
+    "source": "@realallincrypto",
+    "published": "Thu Oct 29 2026 10:00:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin backed mortgages coming to Canada? APX opens waitlist, terms pending",
     "link": "https://cryptopanic.com/news/33617766/Bitcoin-backed-mortgages-coming-to-Canada-APX-opens-waitlist-terms-pending",
     "source": "ambcrypto.com",
@@ -49,6 +84,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "INTEL: ECB President Lagarde plans to step down on February 7, she told staff",
+    "link": "https://cryptopanic.com/news/33617912/INTEL-ECB-President-Lagarde-plans-to-step-down-on-February-7-she-told-staff",
+    "source": "@solidintel_x",
+    "published": "Thu Oct 29 2026 09:59:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Johnston gets 25 months for $13M crypto theft, below plea recommendation",
     "link": "https://cryptopanic.com/news/33617785/Johnston-gets-25-months-for-13M-crypto-theft-below-plea-recommendation",
     "source": "cryptopolitan.com",
@@ -56,10 +98,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "A mysterious whale dumped 694,310 $HYPE ($53.27M) over the past 5 days!",
+    "link": "https://cryptopanic.com/news/33617911/A-mysterious-whale-dumped-694310-HYPE-5327M-over-the-past-5-days",
+    "source": "@lookonchain",
+    "published": "Thu Oct 29 2026 09:58:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LIVE: day 2 of CoinDesk live from Meridian 2026, with @StellarOrg.\n\nStellar’s @DenelleDixon, @MetaMask's Alex Greinacher and @BVNKFinance’s Kimberly Mescal Julien talk wallets, payments and the global money layer, from Lisbon.",
     "link": "https://cryptopanic.com/news/33617828/LIVE-day-2-of-CoinDesk-live-from-Meridian-2026-with-StellarOrg-Stellars-DenelleDixon-MetaMasks-Alex-Greinacher-and-BVNKFinances-Kimberly-Mescal-Julien-talk-wallets-payments-and-the-global-money-layer-from-Lisbon",
     "source": "@coindesk",
     "published": "Thu Oct 29 2026 09:56:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "zkLink Nova confirms an ongoing exploit of its Arbitrator contract on Ethereum and Optimism. Blockaid flagged about $786K drained from its Ethereum bridge by 10:24 PM ET Wednesday (02:24 UTC Thursday).",
+    "link": "https://cryptopanic.com/news/33617910/zkLink-Nova-confirms-an-ongoing-exploit-of-its-Arbitrator-contract-on-Ethereum-and-Optimism-Blockaid-flagged-about-786K-drained-from-its-Ethereum-bridge-by-1024-PM-ET-Wednesday-0224-UTC-Thursday",
+    "source": "@decryptmedia",
+    "published": "Thu Oct 29 2026 09:55:42 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -147,66 +203,10 @@
     "sentiment": "neutral"
   },
   {
-    "title": "The breach hit Bithumb's internal mobile office system DaouOffice and involved 6,444 customers in total. Data for 5,600 of them was encrypted and unreadable. Stolen details include names, phone numbers, emails, resident registration numbers, driver's licence numbers, bank account",
-    "link": "https://cryptopanic.com/news/33617714/The-breach-hit-Bithumbs-internal-mobile-office-system-DaouOffice-and-involved-6444-customers-in-total-Data-for-5600-of-them-was-encrypted-and-unreadable-Stolen-details-include-names-phone-numbers-emails-resident-registration-numbers-drivers-licence-numbers-bank-account",
-    "source": "@solidintel_x",
-    "published": "Thu Oct 29 2026 09:31:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
     "title": "INTEL: Bithumb data breach exposes personal details of 844 customers and 715 employees and the exchange says it will cover all confirmed losses",
     "link": "https://cryptopanic.com/news/33617715/INTEL-Bithumb-data-breach-exposes-personal-details-of-844-customers-and-715-employees-and-the-exchange-says-it-will-cover-all-confirmed-losses",
     "source": "@solidintel_x",
     "published": "Thu Oct 29 2026 09:31:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "India bonds seen attracting buyers as 10-year yield nears 2022 levels",
-    "link": "https://cryptopanic.com/news/33617627/India-bonds-seen-attracting-buyers-as-10-year-yield-nears-2022-levels",
-    "source": "@reutersbiz",
-    "published": "Thu Oct 29 2026 09:30:21 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ledger wallets sold in Singapore stores carried malicious hardware, police say",
-    "link": "https://cryptopanic.com/news/33617638/Ledger-wallets-sold-in-Singapore-stores-carried-malicious-hardware-police-say",
-    "source": "cryptopolitan.com",
-    "published": "Thu Oct 29 2026 09:25:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Taurus brings live support for smart-contract assets on the Stellar network",
-    "link": "https://cryptopanic.com/news/33617593/Taurus-brings-live-support-for-smart-contract-assets-on-the-Stellar-network",
-    "source": "en.cryptonomist.ch",
-    "published": "Thu Oct 29 2026 09:25:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "TISG (Italian Sea Group) takeover bids in Italy leave Celi’s 90 jobs uncertain",
-    "link": "https://cryptopanic.com/news/33617592/TISG-Italian-Sea-Group-takeover-bids-in-Italy-leave-Celis-90-jobs-uncertain",
-    "source": "en.cryptonomist.ch",
-    "published": "Thu Oct 29 2026 09:25:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Aviva’s XRPL Bet: A £50 Million Signal That Tokenized Money Markets Are Leaving the Sandbox",
-    "link": "https://cryptopanic.com/news/33617586/Avivas-XRPL-Bet-A-50-Million-Signal-That-Tokenized-Money-Markets-Are-Leaving-the-Sandbox",
-    "source": "www.blockhead.co",
-    "published": "Thu Oct 29 2026 09:22:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Equal Dollars, Unequal Risk: Bitcoin, Ether and Solana’s Changing Shares",
-    "link": "https://cryptopanic.com/news/33617583/Equal-Dollars-Unequal-Risk-Bitcoin-Ether-and-Solanas-Changing-Shares",
-    "source": "btcusa.com",
-    "published": "Thu Oct 29 2026 09:21:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Vonovia stock closes at $9.14 below all three daily EMAs",
-    "link": "https://cryptopanic.com/news/33617577/Vonovia-stock-closes-at-914-below-all-three-daily-EMAs",
-    "source": "en.cryptonomist.ch",
-    "published": "Thu Oct 29 2026 09:20:09 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
