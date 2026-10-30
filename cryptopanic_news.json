@@ -1,9 +1,100 @@
 [
   {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33627540/Source",
+    "source": "@wublockchain",
+    "published": "Fri Oct 30 2026 19:40:16 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Reddit Stock Plunges 30% as Google's AI Search Hits Traffic and User Growth",
+    "link": "https://cryptopanic.com/news/33627517/Reddit-Stock-Plunges-30-as-Googles-AI-Search-Hits-Traffic-and-User-Growth",
+    "source": "decrypt.co",
+    "published": "Fri Oct 30 2026 19:31:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Mike Flaum: MSTR Performance \"Massively\" to the Upside During Next BTC Bull Run",
+    "link": "https://cryptopanic.com/news/33627515/Mike-Flaum-MSTR-Performance-Massively-to-the-Upside-During-Next-BTC-Bull-Run",
+    "source": "BitcoinMagazine",
+    "published": "Fri Oct 30 2026 19:30:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Exxon CEO Warns Global Fuel Shortages Could Persist Into 2027",
+    "link": "https://cryptopanic.com/news/33627484/Exxon-CEO-Warns-Global-Fuel-Shortages-Could-Persist-Into-2027",
+    "source": "catenaa.com",
+    "published": "Fri Oct 30 2026 19:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "FOMO HOUR ft @Tyler_Did_It and @farokh\n- \n- \n-",
+    "link": "https://cryptopanic.com/news/33627508/FOMO-HOUR-ft-Tyler_Did_It-and-farokh-",
+    "source": "@decryptmedia",
+    "published": "Fri Oct 30 2026 19:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "\"This actually seems more like a phishing attack.\" @Tyler_Did_It on early findings that Binance's roughly $6.3B hack may have started with a compromised DevOps engineer's laptop, rather than an AI-driven attack. Binance has since said it found additional points of breach.",
+    "link": "https://cryptopanic.com/news/33627509/This-actually-seems-more-like-a-phishing-attack-Tyler_Did_It-on-early-findings-that-Binances-roughly-63B-hack-may-have-started-with-a-compromised-DevOps-engineers-laptop-rather-than-an-AI-driven-attack-Binance-has-since-said-it-found-additional-points-of-breach",
+    "source": "@decryptmedia",
+    "published": "Fri Oct 30 2026 19:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Coinbase CEO Brian Armstrong and 2 Insiders File to Sell Up to $2B in Stock",
+    "link": "https://cryptopanic.com/news/33627518/Coinbase-CEO-Brian-Armstrong-and-2-Insiders-File-to-Sell-Up-to-2B-in-Stock",
+    "source": "cryptopotato.com",
+    "published": "Fri Oct 30 2026 19:25:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Standard Chartered-Backed Anchorpoint to Bring Hong Kong’s $HKDAP Stablecoin to Solana",
+    "link": "https://cryptopanic.com/news/33627305/Standard-Chartered-Backed-Anchorpoint-to-Bring-Hong-Kongs-HKDAP-Stablecoin-to-Solana",
+    "source": "solanafloor.com",
+    "published": "Fri Oct 30 2026 19:25:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Just Survived the Biggest Crypto Hack In History",
+    "link": "https://cryptopanic.com/news/33627485/Bitcoin-Just-Survived-the-Biggest-Crypto-Hack-In-History",
+    "source": "MilkRoadYoutube",
+    "published": "Fri Oct 30 2026 19:21:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Pyth Pro pushes deeper into Asian stocks and energy markets\n\n@PythNetwork, the oracle network behind $PYTH, added a new batch of price feeds to Pyth Pro, its paid market data service for trading firms and institutions. The update brings more Chinese stocks, including AI optics",
+    "link": "https://cryptopanic.com/news/33627506/Pyth-Pro-pushes-deeper-into-Asian-stocks-and-energy-markets-PythNetwork-the-oracle-network-behind-PYTH-added-a-new-batch-of-price-feeds-to-Pyth-Pro-its-paid-market-data-service-for-trading-firms-and-institutions-The-update-brings-more-Chinese-stocks-including-AI-optics",
+    "source": "@bscnews",
+    "published": "Fri Oct 30 2026 19:16:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: Alphabet falls 30%, Intel crashes 30% in a day, and IBM plunges 27%",
+    "link": "https://cryptopanic.com/news/33627512/INTEL-Alphabet-falls-30-Intel-crashes-30-in-a-day-and-IBM-plunges-27",
+    "source": "@solidintel_x",
+    "published": "Fri Oct 30 2026 19:09:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "️ Strive (@Strive) CEO Matt Cole (@ColeMacro) tells @itsciaranlyons that he is impressed with how Bitcoin's price has held up despite the major hack on Binance and his \"base case\" is that hacks are going to become more frequent in the coming years.\n\n\"AI gives a lot more power",
     "link": "https://cryptopanic.com/news/33627464/Strive-Strive-CEO-Matt-Cole-ColeMacro-tells-itsciaranlyons-that-he-is-impressed-with-how-Bitcoins-price-has-held-up-despite-the-major-hack-on-Binance-and-his-base-case-is-that-hacks-are-going-to-become-more-frequent-in-the-coming-years-AI-gives-a-lot-more-power",
     "source": "@cointelegraph",
     "published": "Fri Oct 30 2026 19:07:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🇺🇸 Senators Elizabeth Warren and John Curtis are demanding Kalshi and Polymarket explain how they prevent candidates and campaign insiders from trading on election markets using nonpublic information by Nov. 3.",
+    "link": "https://cryptopanic.com/news/33627539/LATEST-Senators-Elizabeth-Warren-and-John-Curtis-are-demanding-Kalshi-and-Polymarket-explain-how-they-prevent-candidates-and-campaign-insiders-from-trading-on-election-markets-using-nonpublic-information-by-Nov-3",
+    "source": "@coinmarketcap",
+    "published": "Fri Oct 30 2026 19:06:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 $1.8 trillion Franklin Templeton has launched two new Bitcoin ETFs, giving holders 95% exposure to stocks and 5% to Bitcoin. \n\nThe 'FBEQ' and 'FIBT' ETFs will reinvest stock dividends into Bitcoin!",
+    "link": "https://cryptopanic.com/news/33627513/JUST-IN-18-trillion-Franklin-Templeton-has-launched-two-new-Bitcoin-ETFs-giving-holders-95-exposure-to-stocks-and-5-to-Bitcoin-The-FBEQ-and-FIBT-ETFs-will-reinvest-stock-dividends-into-Bitcoin",
+    "source": "@bitcoinmagazine",
+    "published": "Fri Oct 30 2026 19:03:12 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -56,6 +147,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Isle Finance has already financed over $10 MILLION in real-world business loans using @hedera! \n\nIts technology allows suppliers to get paid in stablecoins almost instantly, rather than waiting 30–90 days!\n\nIsle's co-founder says Hedera's security, reliability and governance",
+    "link": "https://cryptopanic.com/news/33627505/Isle-Finance-has-already-financed-over-10-MILLION-in-real-world-business-loans-using-hedera-Its-technology-allows-suppliers-to-get-paid-in-stablecoins-almost-instantly-rather-than-waiting-3090-days-Isles-co-founder-says-Hederas-security-reliability-and-governance",
+    "source": "@realallincrypto",
+    "published": "Fri Oct 30 2026 19:00:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "A Neuroscientist's Warning About AI and Children | Baroness Susan Greenfield",
     "link": "https://cryptopanic.com/news/33627389/A-Neuroscientists-Warning-About-AI-and-Children-Baroness-Susan-Greenfield",
     "source": "whatbitcoindid",
@@ -67,6 +165,13 @@
     "link": "https://cryptopanic.com/news/33627410/Why-Celestia-cryptos-breakdown-below-047-could-trigger-more-TIA-losses",
     "source": "ambcrypto.com",
     "published": "Fri Oct 30 2026 19:00:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Fed's Musalem Says Another Rate Hike Is Needed 'Soon.'\n\nSt. Louis Fed President Alberto Musalem said Friday that \"additional firming of monetary policy will be necessary, and soon,\" warning inflation remains too high just days after the Fed held rates steady.",
+    "link": "https://cryptopanic.com/news/33627507/Feds-Musalem-Says-Another-Rate-Hike-Is-Needed-Soon-St-Louis-Fed-President-Alberto-Musalem-said-Friday-that-additional-firming-of-monetary-policy-will-be-necessary-and-soon-warning-inflation-remains-too-high-just-days-after-the-Fed-held-rates-steady",
+    "source": "@decryptmedia",
+    "published": "Fri Oct 30 2026 19:00:02 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -91,122 +196,17 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Bitcoin Gains Help Swell Tether’s Buffer to $8B",
-    "link": "https://cryptopanic.com/news/33627420/Bitcoin-Gains-Help-Swell-Tethers-Buffer-to-8B",
-    "source": "coindoo.com",
-    "published": "Fri Oct 30 2026 18:50:29 GMT+0000 (Coordinated Universal Time)",
+    "title": "Matt Cole says the biggest crypto hack ever does not change a Bitcoin investment case over a reasonable holding period, and expects Bitcoin to keep rising over the next 6 to 9 months",
+    "link": "https://cryptopanic.com/news/33627511/Matt-Cole-says-the-biggest-crypto-hack-ever-does-not-change-a-Bitcoin-investment-case-over-a-reasonable-holding-period-and-expects-Bitcoin-to-keep-rising-over-the-next-6-to-9-months",
+    "source": "@solidintel_x",
+    "published": "Fri Oct 30 2026 18:53:04 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "NEW: Internet Computer $ICP is now available as a connector in Claude, allowing users to build on the network directly through AI prompts.",
-    "link": "https://cryptopanic.com/news/33627462/NEW-Internet-Computer-ICP-is-now-available-as-a-connector-in-Claude-allowing-users-to-build-on-the-network-directly-through-AI-prompts",
-    "source": "@cointelegraph",
-    "published": "Fri Oct 30 2026 18:50:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 US stock market turned into a crypto memecoin market today.\n\n• Intel $INTC: -31%\n• Reddit $RDDT: -30%\n• Roblox $RBLX: -20%\n• Illumina $ILMN: -19%\n• SanDisk $SNDK: -15%\n• Arm $ARM: -12.7%\n• Dell $DELL: -12.5%",
-    "link": "https://cryptopanic.com/news/33627381/JUST-IN-US-stock-market-turned-into-a-crypto-memecoin-market-today-Intel-INTC-31-Reddit-RDDT-30-Roblox-RBLX-20-Illumina-ILMN-19-SanDisk-SNDK-15-Arm-ARM-127-Dell-DELL-125",
-    "source": "@watcherguru",
-    "published": "Fri Oct 30 2026 18:47:20 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Aero starts taxing the bots that pay to jump the line\n\n@aeroxyz began rolling out an MEV tax today on select OP Mainnet pools. The more a trade pays to cut ahead, the higher its extra fee, up to a set limit. That money goes to liquidity providers and staked $AERO holders.\n\nAero",
-    "link": "https://cryptopanic.com/news/33627362/Aero-starts-taxing-the-bots-that-pay-to-jump-the-line-aeroxyz-began-rolling-out-an-MEV-tax-today-on-select-OP-Mainnet-pools-The-more-a-trade-pays-to-cut-ahead-the-higher-its-extra-fee-up-to-a-set-limit-That-money-goes-to-liquidity-providers-and-staked-AERO-holders-Aero",
-    "source": "@bscnews",
-    "published": "Fri Oct 30 2026 18:47:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Binance Hack: Why Bitcoin Didn't Crash Like It Did in 2018",
-    "link": "https://cryptopanic.com/news/33627358/Binance-Hack-Why-Bitcoin-Didnt-Crash-Like-It-Did-in-2018",
-    "source": "decrypt.co",
-    "published": "Fri Oct 30 2026 18:45:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Binance's Record Hack",
-    "link": "https://cryptopanic.com/news/33627336/Binances-Record-Hack",
-    "source": "bankless.com",
-    "published": "Fri Oct 30 2026 18:42:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LLM-BRIDGE Seeks One Incubator for 30 AI Startups: Up to €60,000",
-    "link": "https://cryptopanic.com/news/33627325/LLM-BRIDGE-Seeks-One-Incubator-for-30-AI-Startups-Up-to-60000",
-    "source": "spaziocrypto.com",
-    "published": "Fri Oct 30 2026 18:32:18 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ethereum wallet permission used in Binance attack, Blockaid says",
-    "link": "https://cryptopanic.com/news/33627310/Ethereum-wallet-permission-used-in-Binance-attack-Blockaid-says",
-    "source": "ambcrypto.com",
-    "published": "Fri Oct 30 2026 18:30:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ TODAY: CZ urges Elon Musk to stop trolling and show support, noting that Binance’s $500 million investment in his Twitter takeover is now worth more than $1 billion.",
-    "link": "https://cryptopanic.com/news/33627306/TODAY-CZ-urges-Elon-Musk-to-stop-trolling-and-show-support-noting-that-Binances-500-million-investment-in-his-Twitter-takeover-is-now-worth-more-than-1-billion",
-    "source": "@cointelegraph",
-    "published": "Fri Oct 30 2026 18:30:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Strategy insiders sold millions, then the CFO resigned",
-    "link": "https://cryptopanic.com/news/33627307/Strategy-insiders-sold-millions-then-the-CFO-resigned",
-    "source": "protos.com",
-    "published": "Fri Oct 30 2026 18:30:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Central Banks Hoard GOLD—Why BITCOIN Is Impossible to Ignore",
-    "link": "https://cryptopanic.com/news/33627332/Central-Banks-Hoard-GOLDWhy-BITCOIN-Is-Impossible-to-Ignore",
-    "source": "SimplyBitcoin",
-    "published": "Fri Oct 30 2026 18:30:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Tags Lower Channel Support After a Soft Stretch",
-    "link": "https://cryptopanic.com/news/33627281/XRP-Tags-Lower-Channel-Support-After-a-Soft-Stretch",
-    "source": "dailycoin.com",
-    "published": "Fri Oct 30 2026 18:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Claude's $200 Max 20x Plan Becomes Ultra, Drops 5-Hour Limit for Verified Accounts.\n\nClaude's pricing page says Ultra gives 10x Pro's weekly usage and $200 a month in API credits, while the renamed $100 Max plan offers 5x Pro usage and $100 in monthly credits.",
-    "link": "https://cryptopanic.com/news/33627366/Claudes-200-Max-20x-Plan-Becomes-Ultra-Drops-5-Hour-Limit-for-Verified-Accounts-Claudes-pricing-page-says-Ultra-gives-10x-Pros-weekly-usage-and-200-a-month-in-API-credits-while-the-renamed-100-Max-plan-offers-5x-Pro-usage-and-100-in-monthly-credits",
-    "source": "@decryptmedia",
-    "published": "Fri Oct 30 2026 18:28:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Wall Street analyst recommends buying opportunity after Binance hack",
-    "link": "https://cryptopanic.com/news/33627372/Wall-Street-analyst-recommends-buying-opportunity-after-Binance-hack",
-    "source": "thestreet.com",
-    "published": "Fri Oct 30 2026 18:27:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nvidia Stock Falls Despite 106% Revenue Growth as Wall Street Turns Against the AI Trade",
-    "link": "https://cryptopanic.com/news/33627272/Nvidia-Stock-Falls-Despite-106-Revenue-Growth-as-Wall-Street-Turns-Against-the-AI-Trade",
-    "source": "coinpaper.com",
-    "published": "Fri Oct 30 2026 18:24:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "WATCH: BMTV Hosts @realseanhagan and @GraceRemiTV - What to Know About the $6.3 Billion Binance Hack \n\nFrom @watchbmtv",
-    "link": "https://cryptopanic.com/news/33627379/WATCH-BMTV-Hosts-realseanhagan-and-GraceRemiTV-What-to-Know-About-the-63-Billion-Binance-Hack-From-watchbmtv",
-    "source": "@bitcoinmagazine",
-    "published": "Fri Oct 30 2026 18:21:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: Reddit \n\n$RDDT has crashed -30% in a day after having already dropped -20% leading into this move.\n\nThis comes as Reddit has seen a sharp drop in referred traffic from google searches and the company is considering requiring all users to log in to access the site.",
-    "link": "https://cryptopanic.com/news/33627383/BREAKING-Reddit-RDDT-has-crashed-30-in-a-day-after-having-already-dropped-20-leading-into-this-move-This-comes-as-Reddit-has-seen-a-sharp-drop-in-referred-traffic-from-google-searches-and-the-company-is-considering-requiring-all-users-to-log-in-to-access-the-site",
-    "source": "@stackersatoshi",
-    "published": "Fri Oct 30 2026 18:21:29 GMT+0000 (Coordinated Universal Time)",
+    "title": "INTEL: Strive $ASST CEO says Bitcoin held up remarkably well after the Binance hack",
+    "link": "https://cryptopanic.com/news/33627510/INTEL-Strive-ASST-CEO-says-Bitcoin-held-up-remarkably-well-after-the-Binance-hack",
+    "source": "@solidintel_x",
+    "published": "Fri Oct 30 2026 18:53:03 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
