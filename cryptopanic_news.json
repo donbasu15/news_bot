@@ -1,16 +1,58 @@
 [
   {
+    "title": "Intel Closes Down 28.6% in Its Worst Day Since the 1970s.\n\nIntel shares ended Friday at $65.76, down from Thursday's $92.07 close, after the chipmaker forecast fourth-quarter revenue of just $15 billion to $16 billion.",
+    "link": "https://cryptopanic.com/news/33627769/Intel-Closes-Down-286-in-Its-Worst-Day-Since-the-1970s-Intel-shares-ended-Friday-at-6576-down-from-Thursdays-9207-close-after-the-chipmaker-forecast-fourth-quarter-revenue-of-just-15-billion-to-16-billion",
+    "source": "@decryptmedia",
+    "published": "Fri Oct 30 2026 20:45:59 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Polymarket and Chainlink bring gold and silver to fast markets\n\n@Polymarket launched 15-minute up-or-down markets on gold and silver, with @chainlink, the oracle network behind $LINK, supplying the prices that settle each one. \n\nThe two expanded the deal at Link:NYC today, where",
+    "link": "https://cryptopanic.com/news/33627767/Polymarket-and-Chainlink-bring-gold-and-silver-to-fast-markets-Polymarket-launched-15-minute-up-or-down-markets-on-gold-and-silver-with-chainlink-the-oracle-network-behind-LINK-supplying-the-prices-that-settle-each-one-The-two-expanded-the-deal-at-LinkNYC-today-where",
+    "source": "@bscnews",
+    "published": "Fri Oct 30 2026 20:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "TRUMP: We’re looking into the Binance hack. They say it’s fully covered and under control.",
+    "link": "https://cryptopanic.com/news/33627785/TRUMP-Were-looking-into-the-Binance-hack-They-say-its-fully-covered-and-under-control",
+    "source": "@btc_archive",
+    "published": "Fri Oct 30 2026 20:44:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "All eyes now turn to the October jobs report",
+    "link": "https://cryptopanic.com/news/33627781/All-eyes-now-turn-to-the-October-jobs-report",
+    "source": "@solidintel_x",
+    "published": "Fri Oct 30 2026 20:41:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: Crude oil hits multi-year highs",
+    "link": "https://cryptopanic.com/news/33627780/INTEL-Crude-oil-hits-multi-year-highs",
+    "source": "@solidintel_x",
+    "published": "Fri Oct 30 2026 20:41:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Why Bitcoin shrugged off the largest crypto hack ever",
+    "link": "https://cryptopanic.com/news/33627777/Why-Bitcoin-shrugged-off-the-largest-crypto-hack-ever",
+    "source": "thestreet.com",
+    "published": "Fri Oct 30 2026 20:36:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Apple officially surpasses Nvidia to become the world's most valuable company by market cap.\n\n$AAPL: $5.0 trillion \n$NVDA: $4.9 trillion",
+    "link": "https://cryptopanic.com/news/33627784/JUST-IN-Apple-officially-surpasses-Nvidia-to-become-the-worlds-most-valuable-company-by-market-cap-AAPL-50-trillion-NVDA-49-trillion",
+    "source": "@watcherguru",
+    "published": "Fri Oct 30 2026 20:36:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "LATEST: Strive (@Strive) CEO Matt Cole (@ColeMacro) answers when will Bitcoin reach $250,000 on #CHAINREACTION.",
     "link": "https://cryptopanic.com/news/33627763/LATEST-Strive-Strive-CEO-Matt-Cole-ColeMacro-answers-when-will-Bitcoin-reach-250000-on-CHAINREACTION",
     "source": "@cointelegraph",
     "published": "Fri Oct 30 2026 20:31:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The Money Printer Is Turning Back On—Gradually, Then Suddenly",
-    "link": "https://cryptopanic.com/news/33627727/The-Money-Printer-Is-Turning-Back-OnGradually-Then-Suddenly",
-    "source": "SimplyBitcoin",
-    "published": "Fri Oct 30 2026 20:30:08 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -21,10 +63,10 @@
     "sentiment": "neutral"
   },
   {
-    "title": "Chainlink 24/7 Prices Tokenized Stocks on Weekends",
-    "link": "https://cryptopanic.com/news/33627657/Chainlink-247-Prices-Tokenized-Stocks-on-Weekends",
-    "source": "catenaa.com",
-    "published": "Fri Oct 30 2026 20:30:00 GMT+0000 (Coordinated Universal Time)",
+    "title": "The Money Printer Is Turning Back On—Gradually, Then Suddenly",
+    "link": "https://cryptopanic.com/news/33627727/The-Money-Printer-Is-Turning-Back-OnGradually-Then-Suddenly",
+    "source": "SimplyBitcoin",
+    "published": "Fri Oct 30 2026 20:30:08 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -32,6 +74,34 @@
     "link": "https://cryptopanic.com/news/33627658/18-Trillion-Giant-Hooks-XLM-XRP-Into-On-Chain-Market",
     "source": "dailycoin.com",
     "published": "Fri Oct 30 2026 20:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Chainlink 24/7 Prices Tokenized Stocks on Weekends",
+    "link": "https://cryptopanic.com/news/33627657/Chainlink-247-Prices-Tokenized-Stocks-on-Weekends",
+    "source": "catenaa.com",
+    "published": "Fri Oct 30 2026 20:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸 CFTC proposes new regulations for crypto exchanges to strengthen security against cyberattacks.",
+    "link": "https://cryptopanic.com/news/33627783/JUST-IN-CFTC-proposes-new-regulations-for-crypto-exchanges-to-strengthen-security-against-cyberattacks",
+    "source": "@watcherguru",
+    "published": "Fri Oct 30 2026 20:27:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Selig says the rules would bring the same safeguards that have protected US derivatives markets from cyber and other risks for decades",
+    "link": "https://cryptopanic.com/news/33627778/Selig-says-the-rules-would-bring-the-same-safeguards-that-have-protected-US-derivatives-markets-from-cyber-and-other-risks-for-decades",
+    "source": "@solidintel_x",
+    "published": "Fri Oct 30 2026 20:26:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: CFTC proposes federal registration option for crypto exchanges, Chairman Selig says",
+    "link": "https://cryptopanic.com/news/33627779/INTEL-CFTC-proposes-federal-registration-option-for-crypto-exchanges-Chairman-Selig-says",
+    "source": "@solidintel_x",
+    "published": "Fri Oct 30 2026 20:26:10 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/33627764/Canadian-dollar-extends-monthly-gain-as-higher-oil-prices-raise-inflation-risk",
     "source": "@reutersbiz",
     "published": "Fri Oct 30 2026 20:00:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "PYTH crypto sees $179M drop in secured value – Can prices recover?",
-    "link": "https://cryptopanic.com/news/33627582/PYTH-crypto-sees-179M-drop-in-secured-value-Can-prices-recover",
-    "source": "ambcrypto.com",
-    "published": "Fri Oct 30 2026 20:00:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Nearly 89% of Reported Crypto Hack Losses This Year Came From Suspected North Korea-Linked Hacks, Chainalysis Says.\n\nChainalysis, which attributes this week's roughly $6.4 billion Binance hack to North Korean group TraderTraitor, says the suspected North Korea-linked share of",
-    "link": "https://cryptopanic.com/news/33627629/Nearly-89-of-Reported-Crypto-Hack-Losses-This-Year-Came-From-Suspected-North-Korea-Linked-Hacks-Chainalysis-Says-Chainalysis-which-attributes-this-weeks-roughly-64-billion-Binance-hack-to-North-Korean-group-TraderTraitor-says-the-suspected-North-Korea-linked-share-of",
-    "source": "@decryptmedia",
-    "published": "Fri Oct 30 2026 20:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Join CoinDesk's @nikhileshde alongside @JBSDC, @RoniHammond and @Jessi_inDC for a 2026 Midterm Election Preview on Nov. 2 at 12 PM ET.\n\nHear what the upcoming elections could mean for the future of crypto policy.",
-    "link": "https://cryptopanic.com/news/33627552/Join-CoinDesks-nikhileshde-alongside-JBSDC-RoniHammond-and-Jessi_inDC-for-a-2026-Midterm-Election-Preview-on-Nov-2-at-12-PM-ET-Hear-what-the-upcoming-elections-could-mean-for-the-future-of-crypto-policy",
-    "source": "@coindesk",
-    "published": "Fri Oct 30 2026 19:58:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: Crypto hack tracker Chainalysis reportedly hacked, exposing customer names and emails",
-    "link": "https://cryptopanic.com/news/33627632/INTEL-Crypto-hack-tracker-Chainalysis-reportedly-hacked-exposing-customer-names-and-emails",
-    "source": "@solidintel_x",
-    "published": "Fri Oct 30 2026 19:57:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Chainalysis told customers the attacker used \"offensive agentic techniques\" and that the breach has nothing to do with the $6.3B Binance heist",
-    "link": "https://cryptopanic.com/news/33627631/Chainalysis-told-customers-the-attacker-used-offensive-agentic-techniques-and-that-the-breach-has-nothing-to-do-with-the-63B-Binance-heist",
-    "source": "@solidintel_x",
-    "published": "Fri Oct 30 2026 19:57:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Winning in the humanoid space is not going to be easy. Some companies in the space will become absolute giants while many others will fail. The dispersion in returns over the next year will be massive as the wheat separates from the chaff.\n\nOutperforming as an investor in this",
-    "link": "https://cryptopanic.com/news/33627711/Winning-in-the-humanoid-space-is-not-going-to-be-easy-Some-companies-in-the-space-will-become-absolute-giants-while-many-others-will-fail-The-dispersion-in-returns-over-the-next-year-will-be-massive-as-the-wheat-separates-from-the-chaff-Outperforming-as-an-investor-in-this",
-    "source": "@rewkang",
-    "published": "Fri Oct 30 2026 19:57:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why should your rate depend on your loan size? With SALT, it doesn't.  \n\n6.99% APR at 30% LTV. \n\nGet started now",
-    "link": "https://cryptopanic.com/news/33627634/Why-should-your-rate-depend-on-your-loan-size-With-SALT-it-doesnt-699-APR-at-30-LTV-Get-started-now",
-    "source": "@bitcoinmagazine",
-    "published": "Fri Oct 30 2026 19:56:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Gold Price Just Hit a Yearly Low. What Are Analysts Saying?",
-    "link": "https://cryptopanic.com/news/33627719/Gold-Price-Just-Hit-a-Yearly-Low-What-Are-Analysts-Saying",
-    "source": "beincrypto.com",
-    "published": "Fri Oct 30 2026 19:54:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "How Binance Got Hit By The BIGGEST HEIST In Human History",
-    "link": "https://cryptopanic.com/news/33627583/How-Binance-Got-Hit-By-The-BIGGEST-HEIST-In-Human-History",
-    "source": "BTCSessions",
-    "published": "Fri Oct 30 2026 19:49:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana Is Flashing a Signal Last Seen at the $60 Bottom",
-    "link": "https://cryptopanic.com/news/33627542/Solana-Is-Flashing-a-Signal-Last-Seen-at-the-60-Bottom",
-    "source": "coindoo.com",
-    "published": "Fri Oct 30 2026 19:48:29 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
