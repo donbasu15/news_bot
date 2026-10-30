@@ -1,5 +1,40 @@
 [
   {
+    "title": "Polymarket probes Israel election bets, exposing the limits of on-chain forensics",
+    "link": "https://cryptopanic.com/news/33621969/Polymarket-probes-Israel-election-bets-exposing-the-limits-of-on-chain-forensics",
+    "source": "cryptopolitan.com",
+    "published": "Thu Oct 29 2026 23:51:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trump’s crypto firm joins Tether, Circle, and Ripple in $2.6 billion stablecoin freeze as Binance hack outflows near $6 billion",
+    "link": "https://cryptopanic.com/news/33621968/Trumps-crypto-firm-joins-Tether-Circle-and-Ripple-in-26-billion-stablecoin-freeze-as-Binance-hack-outflows-near-6-billion",
+    "source": "cryptoslate.com",
+    "published": "Thu Oct 29 2026 23:50:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Cryptodotcom says it remains unaffected by the Binance attack and is blocking addresses linked to the incident.",
+    "link": "https://cryptopanic.com/news/33621981/UPDATE-Cryptodotcom-says-it-remains-unaffected-by-the-Binance-attack-and-is-blocking-addresses-linked-to-the-incident",
+    "source": "@cointelegraph",
+    "published": "Thu Oct 29 2026 23:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Binance says total frozen is $2.54 billion.\n\nOut of the supposed $5.8 billion hack.\n\nStill leaves $3.26 billion to be covered.",
+    "link": "https://cryptopanic.com/news/33621954/UPDATE-Binance-says-total-frozen-is-254-billion-Out-of-the-supposed-58-billion-hack-Still-leaves-326-billion-to-be-covered",
+    "source": "@btc_archive",
+    "published": "Thu Oct 29 2026 23:43:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: World Liberty Financial has frozen $27M in USD1 and $2M in WLFI tied to the Binance hack, working with BitGo to lock down the stolen funds.\n\nFollow our live coverage for the latest developments",
+    "link": "https://cryptopanic.com/news/33621980/UPDATE-World-Liberty-Financial-has-frozen-27M-in-USD1-and-2M-in-WLFI-tied-to-the-Binance-hack-working-with-BitGo-to-lock-down-the-stolen-funds-Follow-our-live-coverage-for-the-latest-developments",
+    "source": "@cointelegraph",
+    "published": "Thu Oct 29 2026 23:35:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Binance confirms $2.54 billion frozen after suspected record hack",
     "link": "https://cryptopanic.com/news/33621921/Binance-confirms-254-billion-frozen-after-suspected-record-hack",
     "source": "finbold.com",
@@ -21,10 +56,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Binance said the current verified total of frozen assets stands at $2.54 billion, clarifying conflicting figures circulating publicly, including reports of $1.8 billion. The amount may increase as Binance works with law enforcement, asset issuers, blockchain intelligence firms,",
+    "link": "https://cryptopanic.com/news/33621974/Binance-said-the-current-verified-total-of-frozen-assets-stands-at-254-billion-clarifying-conflicting-figures-circulating-publicly-including-reports-of-18-billion-The-amount-may-increase-as-Binance-works-with-law-enforcement-asset-issuers-blockchain-intelligence-firms",
+    "source": "@wublockchain",
+    "published": "Thu Oct 29 2026 23:30:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "INTEL: The total stolen from Binance is currently ~$5.8B - making it the largest crypto hack ever",
     "link": "https://cryptopanic.com/news/33621918/INTEL-The-total-stolen-from-Binance-is-currently-58B-making-it-the-largest-crypto-hack-ever",
     "source": "@solidintel_x",
     "published": "Thu Oct 29 2026 23:29:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Binance officially confirms $2.54B in assets frozen so far, with the total potentially rising as efforts to trace funds continue.",
+    "link": "https://cryptopanic.com/news/33621979/JUST-IN-Binance-officially-confirms-254B-in-assets-frozen-so-far-with-the-total-potentially-rising-as-efforts-to-trace-funds-continue",
+    "source": "@cointelegraph",
+    "published": "Thu Oct 29 2026 23:29:38 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -74,6 +123,13 @@
     "link": "https://cryptopanic.com/news/33621866/Coinbase-Posts-719-Million-Profit-on-715-Million-Crypto-Gain-With-Revenue-Down-35",
     "source": "cryptoprowl.com",
     "published": "Thu Oct 29 2026 23:19:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Dozens of smaller tokens also saw sharp outflows from Binance, with one altcoin completely drained, per Glassnode.",
+    "link": "https://cryptopanic.com/news/33621977/UPDATE-Dozens-of-smaller-tokens-also-saw-sharp-outflows-from-Binance-with-one-altcoin-completely-drained-per-Glassnode",
+    "source": "@cointelegraph",
+    "published": "Thu Oct 29 2026 23:18:20 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -151,62 +207,6 @@
     "link": "https://cryptopanic.com/news/33621909/Ripple-is-taking-over-the-streets-of-NEW-YORK-XRP-A-fleet-of-bright-blue-taxis-promoting-Ripple-has-been-spotted-across-the-city-during-Ripple-Swell-2026-From-Wall-Street-boardrooms-to-the-streets-of-New-York-Ripple-is-making-its-presence-impossible-to-ignore",
     "source": "@realallincrypto",
     "published": "Thu Oct 29 2026 23:00:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets",
-    "link": "https://cryptopanic.com/news/33621771/Binance-Hacker-Hunts-for-Exit-Ramps-as-DeFi-Exchanges-Pause-Markets",
-    "source": "decrypt.co",
-    "published": "Thu Oct 29 2026 22:57:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Polymarket said trading has fully resumed and the compromised third-party vendor has been removed from its website. Affected wallets have been identified on-chain. Users who lost less than $10,000 will receive automatic refunds by October 30, while those who lost $10,000 or more",
-    "link": "https://cryptopanic.com/news/33621845/Polymarket-said-trading-has-fully-resumed-and-the-compromised-third-party-vendor-has-been-removed-from-its-website-Affected-wallets-have-been-identified-on-chain-Users-who-lost-less-than-10000-will-receive-automatic-refunds-by-October-30-while-those-who-lost-10000-or-more",
-    "source": "@wublockchain",
-    "published": "Thu Oct 29 2026 22:57:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Binance has been hacked for $5.8B.\n\nAmong those, 17,985 Bitcoin drained, worth $1.42B\n\n$2.41B in USDT and USDC have been frozen — Lookonchain.\n\nExchange claims users will be made whole.\n\n Total loss $3.4B, biggest hack ever!",
-    "link": "https://cryptopanic.com/news/33621769/Binance-has-been-hacked-for-58B-Among-those-17985-Bitcoin-drained-worth-142B-241B-in-USDT-and-USDC-have-been-frozen-Lookonchain-Exchange-claims-users-will-be-made-whole-Total-loss-34B-biggest-hack-ever",
-    "source": "@btc_archive",
-    "published": "Thu Oct 29 2026 22:57:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "KuCoin ends Russia and Belarus services as exchanges retreat under sanctions",
-    "link": "https://cryptopanic.com/news/33621859/KuCoin-ends-Russia-and-Belarus-services-as-exchanges-retreat-under-sanctions",
-    "source": "cryptopolitan.com",
-    "published": "Thu Oct 29 2026 22:56:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Tether, Circle and World Liberty Financial have frozen more than $2.39 billion in stablecoins linked to the suspected Binance hack.\n\nTether CEO Paolo Ardoino confirmed $1.567 billion in USDT frozen.\n\nCircle CEO Jeremy Allaire reported more than $800 million in USDC.",
-    "link": "https://cryptopanic.com/news/33621850/UPDATE-Tether-Circle-and-World-Liberty-Financial-have-frozen-more-than-239-billion-in-stablecoins-linked-to-the-suspected-Binance-hack-Tether-CEO-Paolo-Ardoino-confirmed-1567-billion-in-USDT-frozen-Circle-CEO-Jeremy-Allaire-reported-more-than-800-million-in-USDC",
-    "source": "@coindesk",
-    "published": "Thu Oct 29 2026 22:54:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Who’s exposed to the Binance hack so far\n\nLimited exposure:\n- Wintermute: exposure is under 20% of net equity. CEO Evgeny Gaevoy sees no disruption to operations in any scenario.\n- GSR: exposure is under 5% of net equity, with no material disruption to business as",
-    "link": "https://cryptopanic.com/news/33621851/UPDATE-Whos-exposed-to-the-Binance-hack-so-far-Limited-exposure-Wintermute-exposure-is-under-20-of-net-equity-CEO-Evgeny-Gaevoy-sees-no-disruption-to-operations-in-any-scenario-GSR-exposure-is-under-5-of-net-equity-with-no-material-disruption-to-business-as",
-    "source": "@cointelegraph",
-    "published": "Thu Oct 29 2026 22:54:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: Binance exploiter continues dumping altcoins for ETH, selling 96.94 WBTC ($7.6M) for 3,210 ETH\n\nIn what is becoming the largest crypto hack in history, the attacker still holds millions of dollars in altcoins that could face massive selling pressure:\n\nENA: $39.51M\nPEPE",
-    "link": "https://cryptopanic.com/news/33621764/INTEL-Binance-exploiter-continues-dumping-altcoins-for-ETH-selling-9694-WBTC-76M-for-3210-ETH-In-what-is-becoming-the-largest-crypto-hack-in-history-the-attacker-still-holds-millions-of-dollars-in-altcoins-that-could-face-massive-selling-pressure-ENA-3951M-PEPE",
-    "source": "@solidintel_x",
-    "published": "Thu Oct 29 2026 22:51:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple and World Liberty step in after Binance’s possible hack\n\nWorld Liberty co-founder @ZachWitkoff said @worldlibertyfi froze $27M of its $USD1 stablecoin tied to what he called the @binance hack. Binance co-founder @heyibinance separately thanked @Ripple for “promptly",
-    "link": "https://cryptopanic.com/news/33621910/Ripple-and-World-Liberty-step-in-after-Binances-possible-hack-World-Liberty-co-founder-ZachWitkoff-said-worldlibertyfi-froze-27M-of-its-USD1-stablecoin-tied-to-what-he-called-the-binance-hack-Binance-co-founder-heyibinance-separately-thanked-Ripple-for-promptly",
-    "source": "@bscnews",
-    "published": "Thu Oct 29 2026 22:51:41 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
