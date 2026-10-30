@@ -1,9 +1,72 @@
 [
   {
+    "title": "After the Binance hacker finished dumping all 217.5M $ENA ($33.93M), someone started going long on $ENA.\n\nA newly created wallet, 0xedc0, deposited 2M $USDC into Hyperliquid and opened a 3x long on 22.78M $ENA ($4.09M).",
+    "link": "https://cryptopanic.com/news/33622380/After-the-Binance-hacker-finished-dumping-all-2175M-ENA-3393M-someone-started-going-long-on-ENA-A-newly-created-wallet-0xedc0-deposited-2M-USDC-into-Hyperliquid-and-opened-a-3x-long-on-2278M-ENA-409M",
+    "source": "@lookonchain",
+    "published": "Fri Oct 30 2026 01:38:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The whale holding a 93,184 $ETH ($214M) long closed 36,517 $ETH ($80.56M) to avoid liquidation and still holds 56,667 $ETH ($125M).\n\nNew liquidation prices: $2,122.44 and $2,129.72.\n\nThe whale has lost over $38M in total.",
+    "link": "https://cryptopanic.com/news/33622379/The-whale-holding-a-93184-ETH-214M-long-closed-36517-ETH-8056M-to-avoid-liquidation-and-still-holds-56667-ETH-125M-New-liquidation-prices-212244-and-212972-The-whale-has-lost-over-38M-in-total",
+    "source": "@lookonchain",
+    "published": "Fri Oct 30 2026 01:33:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "️ NOW: Coinbase CEO Brian Armstrong says Coinbase has blocked transfers to compromised wallets and offered help to Binance.\n\n“Moments like this call for the industry to work together.”",
+    "link": "https://cryptopanic.com/news/33622320/NOW-Coinbase-CEO-Brian-Armstrong-says-Coinbase-has-blocked-transfers-to-compromised-wallets-and-offered-help-to-Binance-Moments-like-this-call-for-the-industry-to-work-together",
+    "source": "@cointelegraph",
+    "published": "Fri Oct 30 2026 01:27:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Coinbase CEO Brain Armstrong says his team is doing everything they can to help following Binance hack.\n\n\"Crypto has been through many tough times, and has always come out stronger on the other side. This won't be any different.\"",
+    "link": "https://cryptopanic.com/news/33622382/JUST-IN-Coinbase-CEO-Brain-Armstrong-says-his-team-is-doing-everything-they-can-to-help-following-Binance-hack-Crypto-has-been-through-many-tough-times-and-has-always-come-out-stronger-on-the-other-side-This-wont-be-any-different",
+    "source": "@watcherguru",
+    "published": "Fri Oct 30 2026 01:26:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Pyth Network now secures more than $3 BILLION in assets.\n\n@PythNetwork's oracle solutions now secure around $3.124 billion in assets, according to DefiLlama data.\n\nThe vast majority of this value ($1.928B) is on the @Solana blockchain, but",
+    "link": "https://cryptopanic.com/news/33622323/Pyth-Network-now-secures-more-than-3-BILLION-in-assets-PythNetworks-oracle-solutions-now-secure-around-3124-billion-in-assets-according-to-DefiLlama-data-The-vast-majority-of-this-value-1928B-is-on-the-Solana-blockchain-but",
+    "source": "@bscnews",
+    "published": "Fri Oct 30 2026 01:22:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Over $1.3 billion in leveraged crypto longs have been liquidated in the past 5 hours.\n\nThis comes after Binance was hacked, with an estimated $5.7 billion in cryptocurrency stolen, making it the largest hack in crypto history.\n\nBitcoin, Ethereum, and other",
+    "link": "https://cryptopanic.com/news/33622381/JUST-IN-Over-13-billion-in-leveraged-crypto-longs-have-been-liquidated-in-the-past-5-hours-This-comes-after-Binance-was-hacked-with-an-estimated-57-billion-in-cryptocurrency-stolen-making-it-the-largest-hack-in-crypto-history-Bitcoin-Ethereum-and-other",
+    "source": "@watcherguru",
+    "published": "Fri Oct 30 2026 01:20:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Right after the Binance hack, trader 0x8add went short 22,047 $ETH ($48.89M) and 620.7 $BTC ($47.89M) with max leverage.\n\nHe's now sitting on $2.29M in unrealized profit.",
+    "link": "https://cryptopanic.com/news/33622378/Right-after-the-Binance-hack-trader-0x8add-went-short-22047-ETH-4889M-and-6207-BTC-4789M-with-max-leverage-Hes-now-sitting-on-229M-in-unrealized-profit",
+    "source": "@lookonchain",
+    "published": "Fri Oct 30 2026 01:18:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Chainalysis estimates about $5.91B was stolen in the Binance hack, nearly 4x the 2025 Bybit heist, while Binance has so far confirmed $3B frozen.\n\nCan Binance recover the rest?",
+    "link": "https://cryptopanic.com/news/33622319/UPDATE-Chainalysis-estimates-about-591B-was-stolen-in-the-Binance-hack-nearly-4x-the-2025-Bybit-heist-while-Binance-has-so-far-confirmed-3B-frozen-Can-Binance-recover-the-rest",
+    "source": "@cointelegraph",
+    "published": "Fri Oct 30 2026 01:15:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "UPDATE:  Binance says around $3B in assets have now been frozen, pledging to cover all user losses as it works with law enforcement and industry partners to trace and freeze additional assets.\n\nThe exchange reminds users to rely only on official Binance channels for updates.",
     "link": "https://cryptopanic.com/news/33622265/UPDATE-Binance-says-around-3B-in-assets-have-now-been-frozen-pledging-to-cover-all-user-losses-as-it-works-with-law-enforcement-and-industry-partners-to-trace-and-freeze-additional-assets-The-exchange-reminds-users-to-rely-only-on-official-Binance-channels-for-updates",
     "source": "@coinmarketcap",
     "published": "Fri Oct 30 2026 01:09:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Machi(@machibigbrother) was liquidated 8 times over the past 6 hours, wiping out all his positions.\n\nMachi woke up to find just $1.50 left in his Hyperliquid account.",
+    "link": "https://cryptopanic.com/news/33622377/Machimachibigbrother-was-liquidated-8-times-over-the-past-6-hours-wiping-out-all-his-positions-Machi-woke-up-to-find-just-150-left-in-his-Hyperliquid-account",
+    "source": "@lookonchain",
+    "published": "Fri Oct 30 2026 01:08:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -35,6 +98,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "The Binance hacker has finished dumping $UNI, $ENA, $PEPE, $LINK, $AAVE, $ONDO, and $WLD, swapping them for a total of 70,480 $ETH ($158.25M).\n\nSold 7.02M $UNI($39.63M) at $5.65.\n\nSold 217.5M $ENA($33.93M) at $0.16.\n\nSold 7.77T $PEPE($31.66M) at $0.0000041.\n\nSold 2.57M",
+    "link": "https://cryptopanic.com/news/33622376/The-Binance-hacker-has-finished-dumping-UNI-ENA-PEPE-LINK-AAVE-ONDO-and-WLD-swapping-them-for-a-total-of-70480-ETH-15825M-Sold-702M-UNI3963M-at-565-Sold-2175M-ENA3393M-at-016-Sold-777T-PEPE3166M-at-00000041-Sold-257M",
+    "source": "@lookonchain",
+    "published": "Fri Oct 30 2026 01:01:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "NEW: @chainalysis estimates approximately $5.912 billion was stolen in the suspected @binance  hack, making it nearly four times larger than the 2025 Bybit hack.",
     "link": "https://cryptopanic.com/news/33622269/NEW-chainalysis-estimates-approximately-5912-billion-was-stolen-in-the-suspected-binance-hack-making-it-nearly-four-times-larger-than-the-2025-Bybit-hack",
     "source": "@coindesk",
@@ -49,10 +119,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "US stocks slid, with investors reassessing big tech's massive AI spending spree as they digested high-profile ‌earnings and crucial inflation data the day after the Federal Reserve held US interest rates steady",
+    "link": "https://cryptopanic.com/news/33622321/US-stocks-slid-with-investors-reassessing-big-techs-massive-AI-spending-spree-as-they-digested-high-profile-earnings-and-crucial-inflation-data-the-day-after-the-Federal-Reserve-held-US-interest-rates-steady",
+    "source": "@reutersbiz",
+    "published": "Fri Oct 30 2026 01:00:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "FINANCE: Binance hack drained wallets backing customer assets, reserve data shows\n\n@OKnightCrypto reports",
     "link": "https://cryptopanic.com/news/33622268/FINANCE-Binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows-OKnightCrypto-reports",
     "source": "@coindesk",
     "published": "Fri Oct 30 2026 00:58:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Binance says the verified frozen amount from the hack has climbed to about $3B, up from $2.54B earlier.",
+    "link": "https://cryptopanic.com/news/33622318/UPDATE-Binance-says-the-verified-frozen-amount-from-the-hack-has-climbed-to-about-3B-up-from-254B-earlier",
+    "source": "@cointelegraph",
+    "published": "Fri Oct 30 2026 00:58:13 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -84,6 +168,20 @@
     "sentiment": "neutral"
   },
   {
+    "title": "UPDATE: Arbitrum Security Council freezes $30.5M linked to the Binance hack, per ZachXBT.",
+    "link": "https://cryptopanic.com/news/33622317/UPDATE-Arbitrum-Security-Council-freezes-305M-linked-to-the-Binance-hack-per-ZachXBT",
+    "source": "@cointelegraph",
+    "published": "Fri Oct 30 2026 00:50:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Quant Network activity exploded +1,242% after key partnership announcement.\n\nIn late September, @quantnetwork announced a major partnership with @TCHtweets. The news sent the $QNT token surging, but that wasn't the only increase...\n\nBetween September 22 and September 28, daily",
+    "link": "https://cryptopanic.com/news/33622322/Quant-Network-activity-exploded-1242-after-key-partnership-announcement-In-late-September-quantnetwork-announced-a-major-partnership-with-TCHtweets-The-news-sent-the-QNT-token-surging-but-that-wasnt-the-only-increase-Between-September-22-and-September-28-daily",
+    "source": "@bscnews",
+    "published": "Fri Oct 30 2026 00:50:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Leverage is being shaken out of the market with nearly $1.5B of positions liquidated over the past 24 hours.\n\nSometimes we get a year's worth of events in a single day in crypto.",
     "link": "https://cryptopanic.com/news/33622261/Leverage-is-being-shaken-out-of-the-market-with-nearly-15B-of-positions-liquidated-over-the-past-24-hours-Sometimes-we-get-a-years-worth-of-events-in-a-single-day-in-crypto",
     "source": "@stackersatoshi",
@@ -109,104 +207,6 @@
     "link": "https://cryptopanic.com/news/33622154/JUST-IN-Binance-co-founder-Yi-He-says-the-exchange-will-cover-all-losses-from-the-hack-and-user-funds-remain-safe-with-deposits-and-withdrawals-paused-for-security-checks",
     "source": "@cointelegraph",
     "published": "Fri Oct 30 2026 00:40:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Binance says it will cover all losses from the hack.",
-    "link": "https://cryptopanic.com/news/33622183/JUST-IN-Binance-says-it-will-cover-all-losses-from-the-hack",
-    "source": "@watcherguru",
-    "published": "Fri Oct 30 2026 00:39:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Arbitrum Security Council Takes Emergency Action to Transfer Binance-Related Stolen Funds to an Intermediary Frozen Wallet\n\nThe Arbitrum Security Council announced that it has taken emergency action to rescue 74,559,805 ARB and 8,425 ETH held in an address on Arbitrum One",
-    "link": "https://cryptopanic.com/news/33622111/Arbitrum-Security-Council-Takes-Emergency-Action-to-Transfer-Binance-Related-Stolen-Funds-to-an-Intermediary-Frozen-Wallet-The-Arbitrum-Security-Council-announced-that-it-has-taken-emergency-action-to-rescue-74559805-ARB-and-8425-ETH-held-in-an-address-on-Arbitrum-One",
-    "source": "@wublockchain",
-    "published": "Fri Oct 30 2026 00:30:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "OpenAI says human intent at center of updated AI model guidelines",
-    "link": "https://cryptopanic.com/news/33622155/OpenAI-says-human-intent-at-center-of-updated-AI-model-guidelines",
-    "source": "@reutersbiz",
-    "published": "Fri Oct 30 2026 00:30:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Binance’s $2.5B hack may stem from a compromised signature system, not stolen private keys, says Blockaid CEO Ido Ben-Natan. \n\nThe attacker reportedly bundled 50 EIP-7702 authorizations into one transaction to hijack a Binance wallet. \n\nBinance has yet to confirm",
-    "link": "https://cryptopanic.com/news/33622153/JUST-IN-Binances-25B-hack-may-stem-from-a-compromised-signature-system-not-stolen-private-keys-says-Blockaid-CEO-Ido-Ben-Natan-The-attacker-reportedly-bundled-50-EIP-7702-authorizations-into-one-transaction-to-hijack-a-Binance-wallet-Binance-has-yet-to-confirm",
-    "source": "@cointelegraph",
-    "published": "Fri Oct 30 2026 00:28:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Privy adds full support for XRP Ledger wallets.\n\nEarlier this month, @privy_io announced it was partnering with @Ripple to bring its robust wallet infrastructure to the @XRP Ledger.\n\nFollowing on from this, the @XRPLF has just announced that its ecosystem's wallets are now live",
-    "link": "https://cryptopanic.com/news/33622156/Privy-adds-full-support-for-XRP-Ledger-wallets-Earlier-this-month-privy_io-announced-it-was-partnering-with-Ripple-to-bring-its-robust-wallet-infrastructure-to-the-XRP-Ledger-Following-on-from-this-the-XRPLF-has-just-announced-that-its-ecosystems-wallets-are-now-live",
-    "source": "@bscnews",
-    "published": "Fri Oct 30 2026 00:18:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Touched a 2% Below-Open Discount on 8 of 29 October Days",
-    "link": "https://cryptopanic.com/news/33622065/Bitcoin-Touched-a-2-Below-Open-Discount-on-8-of-29-October-Days",
-    "source": "btcusa.com",
-    "published": "Fri Oct 30 2026 00:17:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NOW: Over $1 billion liquidated in the past 24 hours, with longs taking $958M of the hit, as bitcoin:native plunged below $78,000.",
-    "link": "https://cryptopanic.com/news/33622152/NOW-Over-1-billion-liquidated-in-the-past-24-hours-with-longs-taking-958M-of-the-hit-as-bitcoinnative-plunged-below-78000",
-    "source": "@cointelegraph",
-    "published": "Fri Oct 30 2026 00:16:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "He Yi: Binance will cover all hacking losses, deposits and withdrawals are temporarily suspended \n\nBinance co-founder Yi He stated that user funds are safe. Binance will cover all hacking losses. Deposits and withdrawals have been temporarily suspended while the team conducts",
-    "link": "https://cryptopanic.com/news/33622110/He-Yi-Binance-will-cover-all-hacking-losses-deposits-and-withdrawals-are-temporarily-suspended-Binance-co-founder-Yi-He-stated-that-user-funds-are-safe-Binance-will-cover-all-hacking-losses-Deposits-and-withdrawals-have-been-temporarily-suspended-while-the-team-conducts",
-    "source": "@wublockchain",
-    "published": "Fri Oct 30 2026 00:16:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: Arbitrum Security Council has executed a transaction to freeze ~$30.5M from the Binance Hack ethereum:0xb50721bcf8d664c30412cfbc6cf7a15145234ad1",
-    "link": "https://cryptopanic.com/news/33622182/INTEL-Arbitrum-Security-Council-has-executed-a-transaction-to-freeze-305M-from-the-Binance-Hack-ethereum0xb50721bcf8d664c30412cfbc6cf7a15145234ad1",
-    "source": "@solidintel_x",
-    "published": "Fri Oct 30 2026 00:16:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Binance hack is horrific and inexcusable, yes.\n\nBut Binance has $150B+ in assets\n\n+$1.2B in the insurance fund\n\n+$5B yearly revenue\n\n CZ should be able to manage this. Funds SAFU!",
-    "link": "https://cryptopanic.com/news/33622107/Binance-hack-is-horrific-and-inexcusable-yes-But-Binance-has-150B-in-assets-12B-in-the-insurance-fund-5B-yearly-revenue-CZ-should-be-able-to-manage-this-Funds-SAFU",
-    "source": "@btc_archive",
-    "published": "Fri Oct 30 2026 00:13:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: If you have any solid information regarding the Binance hack (or any other) that you’d like to share - DM us",
-    "link": "https://cryptopanic.com/news/33622054/INTEL-If-you-have-any-solid-information-regarding-the-Binance-hack-or-any-other-that-youd-like-to-share-DM-us",
-    "source": "@solidintel_x",
-    "published": "Fri Oct 30 2026 00:06:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NOW: Binance has temporarily suspended Binance Alpha trading and certain CEX token purchase features as a security precaution, saying user funds remain safe.",
-    "link": "https://cryptopanic.com/news/33622151/NOW-Binance-has-temporarily-suspended-Binance-Alpha-trading-and-certain-CEX-token-purchase-features-as-a-security-precaution-saying-user-funds-remain-safe",
-    "source": "@cointelegraph",
-    "published": "Fri Oct 30 2026 00:05:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "WOW: Google’s parent company Alphabet is now securing its OWN digital assets on Solana!\n\nGoogle has unveiled Multi-Party Compute, a new institutional custody system already being tested by major financial institutions!\n\nWith a commercial launch planned for early 2027, Google is",
-    "link": "https://cryptopanic.com/news/33622050/WOW-Googles-parent-company-Alphabet-is-now-securing-its-OWN-digital-assets-on-Solana-Google-has-unveiled-Multi-Party-Compute-a-new-institutional-custody-system-already-being-tested-by-major-financial-institutions-With-a-commercial-launch-planned-for-early-2027-Google-is",
-    "source": "@realallincrypto",
-    "published": "Fri Oct 30 2026 00:00:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stan Cifka: Web3 Games Must Match the Quality of Web2 Games \n\nOn October 14, 2026, Showdown founder Stan Cifka @StanCifka said in an interview on The Good Wood Show @the_mindfolk that the only reason to use crypto technology is to improve the user experience. Blockchain games",
-    "link": "https://cryptopanic.com/news/33621976/Stan-Cifka-Web3-Games-Must-Match-the-Quality-of-Web2-Games-On-October-14-2026-Showdown-founder-Stan-Cifka-StanCifka-said-in-an-interview-on-The-Good-Wood-Show-the_mindfolk-that-the-only-reason-to-use-crypto-technology-is-to-improve-the-user-experience-Blockchain-games",
-    "source": "@wublockchain",
-    "published": "Fri Oct 30 2026 00:00:01 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
