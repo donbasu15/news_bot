@@ -1,5 +1,68 @@
 [
   {
+    "title": "XRP Price Rebounds From $1.20 Into a Wall of Broken Support",
+    "link": "https://cryptopanic.com/news/33624289/XRP-Price-Rebounds-From-120-Into-a-Wall-of-Broken-Support",
+    "source": "coindoo.com",
+    "published": "Fri Oct 30 2026 09:15:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Walmart, Microsoft and JPMorgan block NYSE-backed venture from tokenizing their shares",
+    "link": "https://cryptopanic.com/news/33624246/Walmart-Microsoft-and-JPMorgan-block-NYSE-backed-venture-from-tokenizing-their-shares",
+    "source": "cryptoslate.com",
+    "published": "Fri Oct 30 2026 09:10:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Price Faces Another Test as $10.9B Deribit Options Expire Today",
+    "link": "https://cryptopanic.com/news/33624250/Bitcoin-Price-Faces-Another-Test-as-109B-Deribit-Options-Expire-Today",
+    "source": "cryptopotato.com",
+    "published": "Fri Oct 30 2026 09:07:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Polymarket security breach halts trading as DeFi Llama estimates $2.7M loss",
+    "link": "https://cryptopanic.com/news/33624234/Polymarket-security-breach-halts-trading-as-DeFi-Llama-estimates-27M-loss",
+    "source": "en.cryptonomist.ch",
+    "published": "Fri Oct 30 2026 09:02:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "HTX Agrees to Leave UK in Settlement With FCA Over Illegal Promotions",
+    "link": "https://cryptopanic.com/news/33624253/HTX-Agrees-to-Leave-UK-in-Settlement-With-FCA-Over-Illegal-Promotions",
+    "source": "coinpaprika.com",
+    "published": "Fri Oct 30 2026 09:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Coinbase Q3 net income jumps 66% as prediction markets gain traction",
+    "link": "https://cryptopanic.com/news/33624132/Coinbase-Q3-net-income-jumps-66-as-prediction-markets-gain-traction",
+    "source": "theblock.co",
+    "published": "Fri Oct 30 2026 08:57:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trezor reports suspected hardware implant in Safe 5 sold by CryptoBilis",
+    "link": "https://cryptopanic.com/news/33624116/Trezor-reports-suspected-hardware-implant-in-Safe-5-sold-by-CryptoBilis",
+    "source": "theblock.co",
+    "published": "Fri Oct 30 2026 08:55:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bank Reserve Drain Broadens Beyond the Treasury Account",
+    "link": "https://cryptopanic.com/news/33624120/Bank-Reserve-Drain-Broadens-Beyond-the-Treasury-Account",
+    "source": "btcusa.com",
+    "published": "Fri Oct 30 2026 08:54:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: Binance discovers additional security breaches in $6.3B hack investigation\n\nBinance initially suspected a compromised laptop but says its investigation has now uncovered additional points of breach.\n\n- Binance will cover all user losses using SAFU and company funds.\n-",
+    "link": "https://cryptopanic.com/news/33624286/INTEL-Binance-discovers-additional-security-breaches-in-63B-hack-investigation-Binance-initially-suspected-a-compromised-laptop-but-says-its-investigation-has-now-uncovered-additional-points-of-breach-Binance-will-cover-all-user-losses-using-SAFU-and-company-funds-",
+    "source": "@solidintel_x",
+    "published": "Fri Oct 30 2026 08:52:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Why Is Reddit Stock Falling After Beating Earnings Expectations?",
     "link": "https://cryptopanic.com/news/33623899/Why-Is-Reddit-Stock-Falling-After-Beating-Earnings-Expectations",
     "source": "coinpaper.com",
@@ -144,69 +207,6 @@
     "link": "https://cryptopanic.com/news/33624102/Oil-Risks-Constrain-Rate-Declines-as-Dollars-Relative-Advantage-Weakens",
     "source": "square.binance.com",
     "published": "Fri Oct 30 2026 08:30:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "A big number. A small share.\n\nBinance's proof of reserves (Oct 1): $151.5B held for users in its 8 largest assets, all backed 1:1 or more.\n\n- Drained: $6.3B (4.2%)\n- After freezes: $3.3B (2.2%)\n- After SAFU: $2.1B (1.4%)",
-    "link": "https://cryptopanic.com/news/33623889/A-big-number-A-small-share-Binances-proof-of-reserves-Oct-1-1515B-held-for-users-in-its-8-largest-assets-all-backed-11-or-more-Drained-63B-42-After-freezes-33B-22-After-SAFU-21B-14",
-    "source": "@cryptoquant_com",
-    "published": "Fri Oct 30 2026 08:30:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "French economy unexpectedly contracts as exports slump in third quarter",
-    "link": "https://cryptopanic.com/news/33624128/French-economy-unexpectedly-contracts-as-exports-slump-in-third-quarter",
-    "source": "@reutersbiz",
-    "published": "Fri Oct 30 2026 08:30:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The rest? Binance pays.\n\nSAFU, its emergency fund, holds 15,000 BTC (~$1.18B). It was built for exactly this.\n\nBinance's own funds cover the remaining ~$2.1B.",
-    "link": "https://cryptopanic.com/news/33623888/The-rest-Binance-pays-SAFU-its-emergency-fund-holds-15000-BTC-118B-It-was-built-for-exactly-this-Binances-own-funds-cover-the-remaining-21B",
-    "source": "@cryptoquant_com",
-    "published": "Fri Oct 30 2026 08:29:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "OpenTrade appoints former SWIFT CEO Lázaro Campos as Chair to scale stablecoin yield",
-    "link": "https://cryptopanic.com/news/33623833/OpenTrade-appoints-former-SWIFT-CEO-Lazaro-Campos-as-Chair-to-scale-stablecoin-yield",
-    "source": "cryptopolitan.com",
-    "published": "Fri Oct 30 2026 08:29:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "STOCKS | Rivian (RIVN.O) Rises 7.3% Premarket as Revenue Beats Estimates and 2026 Delivery Forecast Is Raised",
-    "link": "https://cryptopanic.com/news/33624101/STOCKS-Rivian-RIVNO-Rises-73-Premarket-as-Revenue-Beats-Estimates-and-2026-Delivery-Forecast-Is-Raised",
-    "source": "square.binance.com",
-    "published": "Fri Oct 30 2026 08:29:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Then the industry stepped in.\n\n- Tether froze 1.567B USDT.\n- Circle froze 800M+ USDC.\n- Arbitrum's Security Council locked 74.6M ARB and 8,425 ETH.\n\nBinance now counts ~$3B frozen. Nearly half the loss is already stopped.",
-    "link": "https://cryptopanic.com/news/33623887/Then-the-industry-stepped-in-Tether-froze-1567B-USDT-Circle-froze-800M-USDC-Arbitrums-Security-Council-locked-746M-ARB-and-8425-ETH-Binance-now-counts-3B-frozen-Nearly-half-the-loss-is-already-stopped",
-    "source": "@cryptoquant_com",
-    "published": "Fri Oct 30 2026 08:29:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana stablecoins can now pay out to US banks via Polygon",
-    "link": "https://cryptopanic.com/news/33623832/Solana-stablecoins-can-now-pay-out-to-US-banks-via-Polygon",
-    "source": "cryptopolitan.com",
-    "published": "Fri Oct 30 2026 08:28:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "STOCKS | Amazon and Intel Results Raise AI Cost Concerns as Coreweav, Nebius and Iren Fall Premarket",
-    "link": "https://cryptopanic.com/news/33624100/STOCKS-Amazon-and-Intel-Results-Raise-AI-Cost-Concerns-as-Coreweav-Nebius-and-Iren-Fall-Premarket",
-    "source": "square.binance.com",
-    "published": "Fri Oct 30 2026 08:28:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Binance hit by record USD 6.3 billion hack",
-    "link": "https://cryptopanic.com/news/33623769/Binance-hit-by-record-USD-63-billion-hack",
-    "source": "cryptovalleyjournal.com",
-    "published": "Fri Oct 30 2026 08:26:41 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
