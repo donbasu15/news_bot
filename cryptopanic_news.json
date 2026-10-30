@@ -1,5 +1,19 @@
 [
   {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33622913/Source",
+    "source": "@wublockchain",
+    "published": "Fri Oct 30 2026 04:45:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Spot Bitcoin ETFs Record $17.07 Million in Net Inflows; Spot Ethereum ETFs See $105 Million in Net Outflows\n\nOn October 29 (ET), spot Bitcoin ETFs recorded total net inflows of $17.0719 million, their fourth consecutive day of net inflows. Spot Ethereum ETFs recorded total net",
+    "link": "https://cryptopanic.com/news/33622912/Spot-Bitcoin-ETFs-Record-1707-Million-in-Net-Inflows-Spot-Ethereum-ETFs-See-105-Million-in-Net-Outflows-On-October-29-ET-spot-Bitcoin-ETFs-recorded-total-net-inflows-of-170719-million-their-fourth-consecutive-day-of-net-inflows-Spot-Ethereum-ETFs-recorded-total-net",
+    "source": "@wublockchain",
+    "published": "Fri Oct 30 2026 04:45:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin Crashes to $76K, $1.5B Liquidated After Crypto’s Biggest Hack",
     "link": "https://cryptopanic.com/news/33622880/Bitcoin-Crashes-to-76K-15B-Liquidated-After-Cryptos-Biggest-Hack",
     "source": "cryptopotato.com",
@@ -11,6 +25,13 @@
     "link": "https://cryptopanic.com/news/33622916/NOW-Binance-co-founder-Yi-He-says-deposits-operate-as-normal-and-withdrawals-should-resume-within-the-next-48-hours-after-upgrades-to-the-withdrawal-service",
     "source": "@cointelegraph",
     "published": "Fri Oct 30 2026 04:34:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The making of a legend...\n\nHow many of you remember that @VitalikButerin himself played a key role in making @Shibtoken $SHIB the memecoin giant that it is today...? ⬇️",
+    "link": "https://cryptopanic.com/news/33622942/The-making-of-a-legend-How-many-of-you-remember-that-VitalikButerin-himself-played-a-key-role-in-making-Shibtoken-SHIB-the-memecoin-giant-that-it-is-today",
+    "source": "@bscnews",
+    "published": "Fri Oct 30 2026 04:34:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -186,27 +207,6 @@
     "link": "https://cryptopanic.com/news/33622673/LATEST-Strategy-CFO-Andrew-Kang-will-step-down-on-Nov-5-CEO-Phong-Le-will-assume-interim-CFO-duties-until-Senior-VP-Reza-Virasteh-takes-over-on-Jan-1-2027",
     "source": "@cointelegraph",
     "published": "Fri Oct 30 2026 03:00:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Will most stocks be tokenized within a decade? @econoar thinks so, even as a growing list of companies push back on tokenized versions of their shares.",
-    "link": "https://cryptopanic.com/news/33622582/Will-most-stocks-be-tokenized-within-a-decade-econoar-thinks-so-even-as-a-growing-list-of-companies-push-back-on-tokenized-versions-of-their-shares",
-    "source": "@decryptmedia",
-    "published": "Fri Oct 30 2026 03:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "FOMO HOUR ft @Tyler_Did_It and @farokh\n- \n- \n-",
-    "link": "https://cryptopanic.com/news/33622581/FOMO-HOUR-ft-Tyler_Did_It-and-farokh-",
-    "source": "@decryptmedia",
-    "published": "Fri Oct 30 2026 03:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Roughly half of all $INJ tokens are now staked...\n\nAccording to data from @Coinbase, a staggering 47% of @injective's current $INJ supply is now staked on the network and earning rewards.\n\nWith a current market cap of ~$805M, this means that nearly $380M worth of $INJ is staked.",
-    "link": "https://cryptopanic.com/news/33622580/Roughly-half-of-all-INJ-tokens-are-now-staked-According-to-data-from-Coinbase-a-staggering-47-of-injectives-current-INJ-supply-is-now-staked-on-the-network-and-earning-rewards-With-a-current-market-cap-of-805M-this-means-that-nearly-380M-worth-of-INJ-is-staked",
-    "source": "@bscnews",
-    "published": "Fri Oct 30 2026 02:58:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
