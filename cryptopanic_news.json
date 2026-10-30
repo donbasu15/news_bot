@@ -1,5 +1,26 @@
 [
   {
+    "title": "Solana Is Flashing a Signal Last Seen at the $60 Bottom",
+    "link": "https://cryptopanic.com/news/33627542/Solana-Is-Flashing-a-Signal-Last-Seen-at-the-60-Bottom",
+    "source": "coindoo.com",
+    "published": "Fri Oct 30 2026 19:48:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Canton token issuers will soon prove their numbers with math instead of audits\n\n@CantonFdn approved a grant this week for @Ligero_inc, a zero-knowledge proof firm, to build an open-source tool for @CantonNetwork, the network behind $CC. The tool will let token issuers prove their",
+    "link": "https://cryptopanic.com/news/33627554/Canton-token-issuers-will-soon-prove-their-numbers-with-math-instead-of-audits-CantonFdn-approved-a-grant-this-week-for-Ligero_inc-a-zero-knowledge-proof-firm-to-build-an-open-source-tool-for-CantonNetwork-the-network-behind-CC-The-tool-will-let-token-issuers-prove-their",
+    "source": "@bscnews",
+    "published": "Fri Oct 30 2026 19:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Michael Saylor’s Strategy traded $3.3B in volume so far today.\n\nDell ($270B cap) — $3.1B\nASML ($600B cap) — $2.3B\nNetflix ($250B cap) — $2.1B\nVisa ($410B cap) — $1.8B \n\n$MSTR has officially earned its seat at the table.",
+    "link": "https://cryptopanic.com/news/33627538/Michael-Saylors-Strategy-traded-33B-in-volume-so-far-today-Dell-270B-cap-31B-ASML-600B-cap-23B-Netflix-250B-cap-21B-Visa-410B-cap-18B-MSTR-has-officially-earned-its-seat-at-the-table",
+    "source": "@btc_archive",
+    "published": "Fri Oct 30 2026 19:42:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Source",
     "link": "https://cryptopanic.com/news/33627540/Source",
     "source": "@wublockchain",
@@ -11,6 +32,13 @@
     "link": "https://cryptopanic.com/news/33627517/Reddit-Stock-Plunges-30-as-Googles-AI-Search-Hits-Traffic-and-User-Growth",
     "source": "decrypt.co",
     "published": "Fri Oct 30 2026 19:31:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Binance identified additional breach points in the $6.3 billion hack, with attackers using an EIP-7702 delegation to bypass normal hot-wallet approval controls. \n\nCo-CEO Richard Teng clarified that the attack went beyond one engineer’s permissions and that",
+    "link": "https://cryptopanic.com/news/33627553/UPDATE-Binance-identified-additional-breach-points-in-the-63-billion-hack-with-attackers-using-an-EIP-7702-delegation-to-bypass-normal-hot-wallet-approval-controls-Co-CEO-Richard-Teng-clarified-that-the-attack-went-beyond-one-engineers-permissions-and-that",
+    "source": "@cointelegraph",
+    "published": "Fri Oct 30 2026 19:30:24 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -28,15 +56,15 @@
     "sentiment": "neutral"
   },
   {
-    "title": "FOMO HOUR ft @Tyler_Did_It and @farokh\n- \n- \n-",
-    "link": "https://cryptopanic.com/news/33627508/FOMO-HOUR-ft-Tyler_Did_It-and-farokh-",
+    "title": "\"This actually seems more like a phishing attack.\" @Tyler_Did_It on early findings that Binance's roughly $6.3B hack may have started with a compromised DevOps engineer's laptop, rather than an AI-driven attack. Binance has since said it found additional points of breach.",
+    "link": "https://cryptopanic.com/news/33627509/This-actually-seems-more-like-a-phishing-attack-Tyler_Did_It-on-early-findings-that-Binances-roughly-63B-hack-may-have-started-with-a-compromised-DevOps-engineers-laptop-rather-than-an-AI-driven-attack-Binance-has-since-said-it-found-additional-points-of-breach",
     "source": "@decryptmedia",
     "published": "Fri Oct 30 2026 19:30:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "\"This actually seems more like a phishing attack.\" @Tyler_Did_It on early findings that Binance's roughly $6.3B hack may have started with a compromised DevOps engineer's laptop, rather than an AI-driven attack. Binance has since said it found additional points of breach.",
-    "link": "https://cryptopanic.com/news/33627509/This-actually-seems-more-like-a-phishing-attack-Tyler_Did_It-on-early-findings-that-Binances-roughly-63B-hack-may-have-started-with-a-compromised-DevOps-engineers-laptop-rather-than-an-AI-driven-attack-Binance-has-since-said-it-found-additional-points-of-breach",
+    "title": "FOMO HOUR ft @Tyler_Did_It and @farokh\n- \n- \n-",
+    "link": "https://cryptopanic.com/news/33627508/FOMO-HOUR-ft-Tyler_Did_It-and-farokh-",
     "source": "@decryptmedia",
     "published": "Fri Oct 30 2026 19:30:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33627455/Cryptos-Biggest-Ever-Hack-How-63-Billion-Was-Stolen-From-Binance-On-October-30-Binance-binance-suffered-an-estimated-63-billion-hack-the-largest-crypto-theft-on-record-Attackers-drained-hot-wallets-across-multiple-blockchains-in-under-four-suspects-its",
     "source": "@wublockchain",
     "published": "Fri Oct 30 2026 19:00:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tether held 100K Bitcoin in Q3, worth $7.7B\n\n​Excess reserves jumped to $7.9B, up from $4.1B in Q2",
-    "link": "https://cryptopanic.com/news/33627382/Tether-held-100K-Bitcoin-in-Q3-worth-77B-Excess-reserves-jumped-to-79B-up-from-41B-in-Q2",
-    "source": "@btc_archive",
-    "published": "Fri Oct 30 2026 18:55:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Daily $ADA News! ️\n\nCardano Joins Tokenization Group!\n\nBinance: \"User Funds Are SAFU.\"",
-    "link": "https://cryptopanic.com/news/33627456/Daily-ADA-News-Cardano-Joins-Tokenization-Group-Binance-User-Funds-Are-SAFU",
-    "source": "@angrycryptoshow",
-    "published": "Fri Oct 30 2026 18:53:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Matt Cole says the biggest crypto hack ever does not change a Bitcoin investment case over a reasonable holding period, and expects Bitcoin to keep rising over the next 6 to 9 months",
-    "link": "https://cryptopanic.com/news/33627511/Matt-Cole-says-the-biggest-crypto-hack-ever-does-not-change-a-Bitcoin-investment-case-over-a-reasonable-holding-period-and-expects-Bitcoin-to-keep-rising-over-the-next-6-to-9-months",
-    "source": "@solidintel_x",
-    "published": "Fri Oct 30 2026 18:53:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: Strive $ASST CEO says Bitcoin held up remarkably well after the Binance hack",
-    "link": "https://cryptopanic.com/news/33627510/INTEL-Strive-ASST-CEO-says-Bitcoin-held-up-remarkably-well-after-the-Binance-hack",
-    "source": "@solidintel_x",
-    "published": "Fri Oct 30 2026 18:53:03 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
