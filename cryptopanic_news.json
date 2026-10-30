@@ -1,5 +1,26 @@
 [
   {
+    "title": "JUST IN: Binance says $6,300,000,000 worth of crypto was impacted following major hack.",
+    "link": "https://cryptopanic.com/news/33622583/JUST-IN-Binance-says-6300000000-worth-of-crypto-was-impacted-following-major-hack",
+    "source": "@watcherguru",
+    "published": "Fri Oct 30 2026 02:49:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Blockaid Reveals How Hacker Took Control of Binance Wallet: One of 50 EIP-7702 Authorizations Succeeded\n\nAccording to analysis by blockchain security firm Blockaid, the attacker used Ethereum’s EIP-7702 authorization mechanism to attack Binance’s Binance 14 hot wallet. Because",
+    "link": "https://cryptopanic.com/news/33622556/Blockaid-Reveals-How-Hacker-Took-Control-of-Binance-Wallet-One-of-50-EIP-7702-Authorizations-Succeeded-According-to-analysis-by-blockchain-security-firm-Blockaid-the-attacker-used-Ethereums-EIP-7702-authorization-mechanism-to-attack-Binances-Binance-14-hot-wallet-Because",
+    "source": "@wublockchain",
+    "published": "Fri Oct 30 2026 02:47:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "EVEN MORE $XLM NEWS: Stellar just gained access to WalletConnect's network of 900 MILLION users!\n\nWith 700+ wallets and thousands of institutions connected, this is a MASSIVE expansion of @StellarOrg's global reach.\n\nLaunching alongside Fireblocks, Utila, Arculus and LOBSTR!",
+    "link": "https://cryptopanic.com/news/33622577/EVEN-MORE-XLM-NEWS-Stellar-just-gained-access-to-WalletConnects-network-of-900-MILLION-users-With-700-wallets-and-thousands-of-institutions-connected-this-is-a-MASSIVE-expansion-of-StellarOrgs-global-reach-Launching-alongside-Fireblocks-Utila-Arculus-and-LOBSTR",
+    "source": "@realallincrypto",
+    "published": "Fri Oct 30 2026 02:45:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Allium restores 18 major chains, but only specific platforms are safe",
     "link": "https://cryptopanic.com/news/33622532/Allium-restores-18-major-chains-but-only-specific-platforms-are-safe",
     "source": "cryptoslate.com",
@@ -42,10 +63,38 @@
     "sentiment": "neutral"
   },
   {
+    "title": "If the hackers used defi those defi protocols now have a nightmare on their hands",
+    "link": "https://cryptopanic.com/news/33622576/If-the-hackers-used-defi-those-defi-protocols-now-have-a-nightmare-on-their-hands",
+    "source": "@realallincrypto",
+    "published": "Fri Oct 30 2026 02:28:24 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "You can now borrow against your $BTC directly in your Ledger wallet.\n\nThrough an integration with @morpho and @yield_xyz, users of @Ledger's hardware wallets can now take out Bitcoin-backed loans from inside their wallets.\n\nFor now, users can borrow stablecoin against their",
+    "link": "https://cryptopanic.com/news/33622579/You-can-now-borrow-against-your-BTC-directly-in-your-Ledger-wallet-Through-an-integration-with-morpho-and-yield_xyz-users-of-Ledgers-hardware-wallets-can-now-take-out-Bitcoin-backed-loans-from-inside-their-wallets-For-now-users-can-borrow-stablecoin-against-their",
+    "source": "@bscnews",
+    "published": "Fri Oct 30 2026 02:26:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin slides below $77,000, BNB drops amid Binance hack",
     "link": "https://cryptopanic.com/news/33622496/Bitcoin-slides-below-77000-BNB-drops-amid-Binance-hack",
     "source": "theblock.co",
     "published": "Fri Oct 30 2026 02:22:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Such a bad look for the entire crypto industry",
+    "link": "https://cryptopanic.com/news/33622575/Such-a-bad-look-for-the-entire-crypto-industry",
+    "source": "@realallincrypto",
+    "published": "Fri Oct 30 2026 02:21:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Polymarket halts trading after third-party provider compromise drains over $2.5 million",
+    "link": "https://cryptopanic.com/news/33622594/Polymarket-halts-trading-after-third-party-provider-compromise-drains-over-25-million",
+    "source": "cryptodnes.bg",
+    "published": "Fri Oct 30 2026 02:15:23 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -158,55 +207,6 @@
     "link": "https://cryptopanic.com/news/33622383/Its-official-Binance-will-cover-all-losses-as-reported-by-their-official-X-account-As-a-precaution-all-deposits-and-withdrawals-are-temporarily-suspended-Given-how-large-the-hack-was-this-is-a-relief",
     "source": "@btc_archive",
     "published": "Fri Oct 30 2026 01:41:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "After the Binance hacker finished dumping all 217.5M $ENA ($33.93M), someone started going long on $ENA.\n\nA newly created wallet, 0xedc0, deposited 2M $USDC into Hyperliquid and opened a 3x long on 22.78M $ENA ($4.09M).",
-    "link": "https://cryptopanic.com/news/33622380/After-the-Binance-hacker-finished-dumping-all-2175M-ENA-3393M-someone-started-going-long-on-ENA-A-newly-created-wallet-0xedc0-deposited-2M-USDC-into-Hyperliquid-and-opened-a-3x-long-on-2278M-ENA-409M",
-    "source": "@lookonchain",
-    "published": "Fri Oct 30 2026 01:38:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Binance, the world's largest cryptocurrency exchange, said that $2.54 billion in crypto assets had been frozen as it investigated a potential security breach, with stablecoin issuers Circle and Tether freezing related assets. More here",
-    "link": "https://cryptopanic.com/news/33622404/Binance-the-worlds-largest-cryptocurrency-exchange-said-that-254-billion-in-crypto-assets-had-been-frozen-as-it-investigated-a-potential-security-breach-with-stablecoin-issuers-Circle-and-Tether-freezing-related-assets-More-here",
-    "source": "@reutersbiz",
-    "published": "Fri Oct 30 2026 01:34:46 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The whale holding a 93,184 $ETH ($214M) long closed 36,517 $ETH ($80.56M) to avoid liquidation and still holds 56,667 $ETH ($125M).\n\nNew liquidation prices: $2,122.44 and $2,129.72.\n\nThe whale has lost over $38M in total.",
-    "link": "https://cryptopanic.com/news/33622379/The-whale-holding-a-93184-ETH-214M-long-closed-36517-ETH-8056M-to-avoid-liquidation-and-still-holds-56667-ETH-125M-New-liquidation-prices-212244-and-212972-The-whale-has-lost-over-38M-in-total",
-    "source": "@lookonchain",
-    "published": "Fri Oct 30 2026 01:33:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CMC Asset Watch: SpaceX Faced a New Share-Supply Test\n\n Most megacaps moved far less than SpaceX over the period.\n\n Its sharpest drop came October 22, when a Q3-linked lockup provision made more shares eligible for sale.\n\n That created potential supply. Eligibility is not",
-    "link": "https://cryptopanic.com/news/33622401/CMC-Asset-Watch-SpaceX-Faced-a-New-Share-Supply-Test-Most-megacaps-moved-far-less-than-SpaceX-over-the-period-Its-sharpest-drop-came-October-22-when-a-Q3-linked-lockup-provision-made-more-shares-eligible-for-sale-That-created-potential-supply-Eligibility-is-not",
-    "source": "@coinmarketcap",
-    "published": "Fri Oct 30 2026 01:30:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ NOW: Coinbase CEO Brian Armstrong says Coinbase has blocked transfers to compromised wallets and offered help to Binance.\n\n“Moments like this call for the industry to work together.”",
-    "link": "https://cryptopanic.com/news/33622320/NOW-Coinbase-CEO-Brian-Armstrong-says-Coinbase-has-blocked-transfers-to-compromised-wallets-and-offered-help-to-Binance-Moments-like-this-call-for-the-industry-to-work-together",
-    "source": "@cointelegraph",
-    "published": "Fri Oct 30 2026 01:27:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LIVE: Strategy (MSTR) Q3: 2026 Earnings Call",
-    "link": "https://cryptopanic.com/news/33620671/LIVE-Strategy-MSTR-Q3-2026-Earnings-Call",
-    "source": "BitcoinMagazine",
-    "published": "Fri Oct 30 2026 01:26:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Coinbase CEO Brain Armstrong says his team is doing everything they can to help following Binance hack.\n\n\"Crypto has been through many tough times, and has always come out stronger on the other side. This won't be any different.\"",
-    "link": "https://cryptopanic.com/news/33622382/JUST-IN-Coinbase-CEO-Brain-Armstrong-says-his-team-is-doing-everything-they-can-to-help-following-Binance-hack-Crypto-has-been-through-many-tough-times-and-has-always-come-out-stronger-on-the-other-side-This-wont-be-any-different",
-    "source": "@watcherguru",
-    "published": "Fri Oct 30 2026 01:26:52 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
