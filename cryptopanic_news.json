@@ -1,5 +1,103 @@
 [
   {
+    "title": "INTEL: Trump backs Bukele's deployment of up to 2,000 Salvadoran troops to Haiti | Per Axios",
+    "link": "https://cryptopanic.com/news/33626361/INTEL-Trump-backs-Bukeles-deployment-of-up-to-2000-Salvadoran-troops-to-Haiti-Per-Axios",
+    "source": "@solidintel_x",
+    "published": "Fri Oct 30 2026 15:30:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The move follows the capture of four Salvadoran military personnel by Haitian gangs. Sources say the force could eventually reach 6,000 troops",
+    "link": "https://cryptopanic.com/news/33626359/The-move-follows-the-capture-of-four-Salvadoran-military-personnel-by-Haitian-gangs-Sources-say-the-force-could-eventually-reach-6000-troops",
+    "source": "@solidintel_x",
+    "published": "Fri Oct 30 2026 15:30:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ALERT: Bitcoin Core discloses a low-severity bug that could let miners corrupt other nodes’ undo data and trigger shutdowns under extreme conditions.",
+    "link": "https://cryptopanic.com/news/33626440/ALERT-Bitcoin-Core-discloses-a-low-severity-bug-that-could-let-miners-corrupt-other-nodes-undo-data-and-trigger-shutdowns-under-extreme-conditions",
+    "source": "@cointelegraph",
+    "published": "Fri Oct 30 2026 15:30:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Breakingviews - COMMENTARY: Italy’s deal magician hits limit of M&A escapology",
+    "link": "https://cryptopanic.com/news/33626443/Breakingviews-COMMENTARY-Italys-deal-magician-hits-limit-of-MampA-escapology",
+    "source": "@reutersbiz",
+    "published": "Fri Oct 30 2026 15:30:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trezor reveals Malaysian reseller sold wallet with spyware",
+    "link": "https://cryptopanic.com/news/33626303/Trezor-reveals-Malaysian-reseller-sold-wallet-with-spyware",
+    "source": "protos.com",
+    "published": "Fri Oct 30 2026 15:27:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "WATCH: From a $6.3 billion Binance hack to Amazon's huge cash burn, Fiona Jones rounds up the big business and finance stories of the week",
+    "link": "https://cryptopanic.com/news/33626442/WATCH-From-a-63-billion-Binance-hack-to-Amazons-huge-cash-burn-Fiona-Jones-rounds-up-the-big-business-and-finance-stories-of-the-week",
+    "source": "@reutersbiz",
+    "published": "Fri Oct 30 2026 15:25:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Binance Hacked For $6.3 Billion: Everything You Need To Know",
+    "link": "https://cryptopanic.com/news/33626022/Binance-Hacked-For-63-Billion-Everything-You-Need-To-Know",
+    "source": "solanafloor.com",
+    "published": "Fri Oct 30 2026 15:22:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Follow us on IG for more daily content",
+    "link": "https://cryptopanic.com/news/33626364/Follow-us-on-IG-for-more-daily-content",
+    "source": "@watcherguru",
+    "published": "Fri Oct 30 2026 15:21:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Midnight City surpasses 4,500 active agents, a surge of over 2,700 agents added in just 4 days.",
+    "link": "https://cryptopanic.com/news/33626434/JUST-IN-Midnight-City-surpasses-4500-active-agents-a-surge-of-over-2700-agents-added-in-just-4-days",
+    "source": "@angrycryptoshow",
+    "published": "Fri Oct 30 2026 15:20:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Major DeFi lender Aave reopens after Binance hack",
+    "link": "https://cryptopanic.com/news/33626390/Major-DeFi-lender-Aave-reopens-after-Binance-hack",
+    "source": "thestreet.com",
+    "published": "Fri Oct 30 2026 15:18:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Digital Assets Week to Launch in Dubai With VARA as Host Partner",
+    "link": "https://cryptopanic.com/news/33626427/Digital-Assets-Week-to-Launch-in-Dubai-With-VARA-as-Host-Partner",
+    "source": "beincrypto.com",
+    "published": "Fri Oct 30 2026 15:17:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Everything Is Getting Hacked",
+    "link": "https://cryptopanic.com/news/33626372/Everything-Is-Getting-Hacked",
+    "source": "CryptoTips",
+    "published": "Fri Oct 30 2026 15:15:47 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇯🇵 Japan asks OpenAI and Anthropic for access to their most advanced AI models.",
+    "link": "https://cryptopanic.com/news/33626363/JUST-IN-Japan-asks-OpenAI-and-Anthropic-for-access-to-their-most-advanced-AI-models",
+    "source": "@watcherguru",
+    "published": "Fri Oct 30 2026 15:15:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Breaking: Largest Theft In History Hits Worlds Largest Exchange!!! | Ep 1624",
+    "link": "https://cryptopanic.com/news/33626365/BREAKING-LARGEST-THEFT-IN-HISTORY-HITS-WORLDS-LARGEST-EXCHANGE-EP-1624",
+    "source": "SimplyBitcoin",
+    "published": "Fri Oct 30 2026 15:15:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "How the Binance hack happened on-chain on Ethereum",
     "link": "https://cryptopanic.com/news/33626279/How-the-Binance-hack-happened-on-chain-on-Ethereum",
     "source": "protos.com",
@@ -11,6 +109,20 @@
     "link": "https://cryptopanic.com/news/33626229/Strategy-Stock-Falls-Nearly-10-Despite-Bullish-Wall-Street-Outlook-Here-Is-What-Comes-Next",
     "source": "blocknews.com",
     "published": "Fri Oct 30 2026 15:12:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "MARKETS: Three Wall Street firms say the $6.3B Binance hack won’t derail crypto markets, with Cantor, TD Cowen and Compass Point all calling the selloff a buying opportunity.",
+    "link": "https://cryptopanic.com/news/33626435/MARKETS-Three-Wall-Street-firms-say-the-63B-Binance-hack-wont-derail-crypto-markets-with-Cantor-TD-Cowen-and-Compass-Point-all-calling-the-selloff-a-buying-opportunity",
+    "source": "@coindesk",
+    "published": "Fri Oct 30 2026 15:12:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Start every day with gratitude",
+    "link": "https://cryptopanic.com/news/33626433/Start-every-day-with-gratitude",
+    "source": "@angrycryptoshow",
+    "published": "Fri Oct 30 2026 15:11:13 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -32,6 +144,20 @@
     "link": "https://cryptopanic.com/news/33626222/Ripples-Bank-Approval-Leaves-XRP-On-The-Sidelines",
     "source": "dailycoin.com",
     "published": "Fri Oct 30 2026 15:08:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: #Cardano $ADA's Ouroboros Leios advances closer to mainnet, with nearly 6,900 total updates and 5% completion of the hard fork. Charles Hoskinson on Leios, said \"the core ledger goes from tens to hundreds to thousands of TPS as Leios revs up.\"",
+    "link": "https://cryptopanic.com/news/33626432/JUST-IN-Cardano-ADAs-Ouroboros-Leios-advances-closer-to-mainnet-with-nearly-6900-total-updates-and-5-completion-of-the-hard-fork-Charles-Hoskinson-on-Leios-said-the-core-ledger-goes-from-tens-to-hundreds-to-thousands-of-TPS-as-Leios-revs-up",
+    "source": "@angrycryptoshow",
+    "published": "Fri Oct 30 2026 15:05:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BTCC Exchange Supports Red Eagle Foundation’s 2026 Charity Golf Season Finale, Featuring Ashley Cole as Headline Guest",
+    "link": "https://cryptopanic.com/news/33626426/BTCC-Exchange-Supports-Red-Eagle-Foundations-2026-Charity-Golf-Season-Finale-Featuring-Ashley-Cole-as-Headline-Guest",
+    "source": "beincrypto.com",
+    "published": "Fri Oct 30 2026 15:05:05 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -81,132 +207,6 @@
     "link": "https://cryptopanic.com/news/33626272/WATCH-BP-posted-a-record-quarterly-net-profit-beating-expectations-as-the-Iran-war-boosted-energy-prices-and-refining-margins-and-said-it-would-use-the-windfall-to-settle-its-remaining-Deepwater-Horizon-liabilities",
     "source": "@reutersbiz",
     "published": "Fri Oct 30 2026 14:55:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Aave Reopens Its Markets Following Binance Hack\n\n@Aave has unfrozen all lending pools in V3 and V4 after a risk assessment triggered by the security breach at @Binance.\n\nAccording to the protocol, its smart contracts remained untouched. \n\nPositions remained completely",
-    "link": "https://cryptopanic.com/news/33626276/Aave-Reopens-Its-Markets-Following-Binance-Hack-Aave-has-unfrozen-all-lending-pools-in-V3-and-V4-after-a-risk-assessment-triggered-by-the-security-breach-at-Binance-According-to-the-protocol-its-smart-contracts-remained-untouched-Positions-remained-completely",
-    "source": "@bscnews",
-    "published": "Fri Oct 30 2026 14:55:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Saylor Says Strategy Could Create Up to $30 Billion of Digital Credit to Fund More Bitcoin",
-    "link": "https://cryptopanic.com/news/33626218/Saylor-Says-Strategy-Could-Create-Up-to-30-Billion-of-Digital-Credit-to-Fund-More-Bitcoin",
-    "source": "cryptoprowl.com",
-    "published": "Fri Oct 30 2026 14:53:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Midnight surpasses 1.1M transactions on mainnet according to Midnight Explorer, adding over 500,000 transactions in less than two weeks.",
-    "link": "https://cryptopanic.com/news/33626179/JUST-IN-Midnight-surpasses-11M-transactions-on-mainnet-according-to-Midnight-Explorer-adding-over-500000-transactions-in-less-than-two-weeks",
-    "source": "@angrycryptoshow",
-    "published": "Fri Oct 30 2026 14:51:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Reddit Sinks 25% as Google's AI Search Squeezes Its Traffic.\n\nReddit fell about 25% to near $97 early Friday after guiding fourth-quarter revenue to $1 billion to $1.03 billion. CEO Steve Huffman told CNBC search referral traffic is \"down meaningfully\" due to Google's \"shift to",
-    "link": "https://cryptopanic.com/news/33626277/Reddit-Sinks-25-as-Googles-AI-Search-Squeezes-Its-Traffic-Reddit-fell-about-25-to-near-97-early-Friday-after-guiding-fourth-quarter-revenue-to-1-billion-to-103-billion-CEO-Steve-Huffman-told-CNBC-search-referral-traffic-is-down-meaningfully-due-to-Googles-shift-to",
-    "source": "@decryptmedia",
-    "published": "Fri Oct 30 2026 14:48:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XRP Ledger Ranks Third in Stablecoin Expansion, But Who Is First?",
-    "link": "https://cryptopanic.com/news/33626162/XRP-Ledger-Ranks-Third-in-Stablecoin-Expansion-But-Who-Is-First",
-    "source": "u.today",
-    "published": "Fri Oct 30 2026 14:44:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Cardano $ADA's Strike Finance has surpassed $1.9B in total volume, 3M total trades, and 7,000 unique traders.",
-    "link": "https://cryptopanic.com/news/33626178/JUST-IN-Cardano-ADAs-Strike-Finance-has-surpassed-19B-in-total-volume-3M-total-trades-and-7000-unique-traders",
-    "source": "@angrycryptoshow",
-    "published": "Fri Oct 30 2026 14:44:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "XT Exchange: A Prediction Market Starts With a Question That Can Be Settled",
-    "link": "https://cryptopanic.com/news/33626217/XT-Exchange-A-Prediction-Market-Starts-With-a-Question-That-Can-Be-Settled",
-    "source": "beincrypto.com",
-    "published": "Fri Oct 30 2026 14:40:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Jim Cramer says \"buy.\"",
-    "link": "https://cryptopanic.com/news/33626145/JUST-IN-Jim-Cramer-says-buy",
-    "source": "@watcherguru",
-    "published": "Fri Oct 30 2026 14:39:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Sitting below $50 as we speak. Big level",
-    "link": "https://cryptopanic.com/news/33626274/Sitting-below-50-as-we-speak-Big-level",
-    "source": "@daancrypto",
-    "published": "Fri Oct 30 2026 14:39:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$SILVER With the 1980 & 2011 retest after a -58% drop from last year's highs.\n\n$BTC has now retaken almost half of what was lost relative to Silver again.\n\nThe volatility on this one has been insane. But this is a good level to watch on Silver especially.\n\nOf course being a long",
-    "link": "https://cryptopanic.com/news/33626273/SILVER-With-the-1980-amp-2011-retest-after-a-58-drop-from-last-years-highs-BTC-has-now-retaken-almost-half-of-what-was-lost-relative-to-Silver-again-The-volatility-on-this-one-has-been-insane-But-this-is-a-good-level-to-watch-on-Silver-especially-Of-course-being-a-long",
-    "source": "@daancrypto",
-    "published": "Fri Oct 30 2026 14:39:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Credit: @LeonidasNFT",
-    "link": "https://cryptopanic.com/news/33626176/Credit-LeonidasNFT",
-    "source": "@angrycryptoshow",
-    "published": "Fri Oct 30 2026 14:34:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: $ADA and $NIGHT are completely unaffected by the Binance hack, according to a list of the hacker's current balances.",
-    "link": "https://cryptopanic.com/news/33626174/JUST-IN-ADA-and-NIGHT-are-completely-unaffected-by-the-Binance-hack-according-to-a-list-of-the-hackers-current-balances",
-    "source": "@angrycryptoshow",
-    "published": "Fri Oct 30 2026 14:34:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Strategy’s preferred-stock fix sets up renewed bitcoin buying, analysts say",
-    "link": "https://cryptopanic.com/news/33626082/Strategys-preferred-stock-fix-sets-up-renewed-bitcoin-buying-analysts-say",
-    "source": "theblock.co",
-    "published": "Fri Oct 30 2026 14:30:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ LATEST: THORChain’s RUNE jumps 13% following Binance’s $6.3B hack.",
-    "link": "https://cryptopanic.com/news/33626077/LATEST-THORChains-RUNE-jumps-13-following-Binances-63B-hack",
-    "source": "@cointelegraph",
-    "published": "Fri Oct 30 2026 14:30:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "CZ asks Musk to stop trolling, saying ‘our’ SpaceX shares top $1 billion",
-    "link": "https://cryptopanic.com/news/33626092/CZ-asks-Musk-to-stop-trolling-saying-our-SpaceX-shares-top-1-billion",
-    "source": "cryptoslate.com",
-    "published": "Fri Oct 30 2026 14:30:37 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AI-Powered Bank Scam Drains $423,114 From 170 Victims in Just Three Weeks: Report",
-    "link": "https://cryptopanic.com/news/33626103/AI-Powered-Bank-Scam-Drains-423114-From-170-Victims-in-Just-Three-Weeks-Report",
-    "source": "dailyhodl.com",
-    "published": "Fri Oct 30 2026 14:30:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stop Trusting Forecasters Who Won’t Show Their Track Record",
-    "link": "https://cryptopanic.com/news/33626107/Stop-Trusting-Forecasters-Who-Wont-Show-Their-Track-Record",
-    "source": "SimplyBitcoin",
-    "published": "Fri Oct 30 2026 14:30:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇰🇵 North Korea's $6,300,000,000 Binance crypto hack is the largest heist in human history.",
-    "link": "https://cryptopanic.com/news/33626144/JUST-IN-North-Koreas-6300000000-Binance-crypto-hack-is-the-largest-heist-in-human-history",
-    "source": "@watcherguru",
-    "published": "Fri Oct 30 2026 14:28:23 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
