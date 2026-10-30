@@ -1,5 +1,40 @@
 [
   {
+    "title": "Why Is Reddit Stock Falling After Beating Earnings Expectations?",
+    "link": "https://cryptopanic.com/news/33623899/Why-Is-Reddit-Stock-Falling-After-Beating-Earnings-Expectations",
+    "source": "coinpaper.com",
+    "published": "Fri Oct 30 2026 08:49:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Olli Rehn: Growth and Inflation Outlooks Remain Highly Uncertain",
+    "link": "https://cryptopanic.com/news/33624115/Olli-Rehn-Growth-and-Inflation-Outlooks-Remain-Highly-Uncertain",
+    "source": "square.binance.com",
+    "published": "Fri Oct 30 2026 08:48:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Meta’s AI-distilled model detector catches 79% at a 0.1% false-positive rate",
+    "link": "https://cryptopanic.com/news/33623894/Metas-AI-distilled-model-detector-catches-79-at-a-01-false-positive-rate",
+    "source": "en.cryptonomist.ch",
+    "published": "Fri Oct 30 2026 08:47:06 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Anthropic security breach exposed salaries and messages, not model weights",
+    "link": "https://cryptopanic.com/news/33623893/Anthropic-security-breach-exposed-salaries-and-messages-not-model-weights",
+    "source": "en.cryptonomist.ch",
+    "published": "Fri Oct 30 2026 08:46:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Crypto Developers Using Claude Via VS Code May Have Been Compromised: This Version Has a Backdoor",
+    "link": "https://cryptopanic.com/news/33624138/Crypto-Developers-Using-Claude-Via-VS-Code-May-Have-Been-Compromised-This-Version-Has-a-Backdoor",
+    "source": "u.today",
+    "published": "Fri Oct 30 2026 08:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Diamond-Handed Whale Books $17.78M Profit, Closes BTC and ETH Longs, Shorts 20,000 ETH",
     "link": "https://cryptopanic.com/news/33624114/Diamond-Handed-Whale-Books-1778M-Profit-Closes-BTC-and-ETH-Longs-Shorts-20000-ETH",
     "source": "square.binance.com",
@@ -49,6 +84,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Why is Stellar's TVL falling...?\n\n@StellarOrg's TVL hit an all-time high of $273M at the start of the month, but that figure has dropped by some $48M since then.\n\nThe fall is (at least in some part) driven by a significant -23% reduction in the TVL of @blend_capital - The largest",
+    "link": "https://cryptopanic.com/news/33624130/Why-is-Stellars-TVL-falling-StellarOrgs-TVL-hit-an-all-time-high-of-273M-at-the-start-of-the-month-but-that-figure-has-dropped-by-some-48M-since-then-The-fall-is-at-least-in-some-part-driven-by-a-significant-23-reduction-in-the-TVL-of-blend_capital-The-largest",
+    "source": "@bscnews",
+    "published": "Fri Oct 30 2026 08:37:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Daiwa Securities to Issue $190 Million Tokyo Office Digital Securities for Retail Investors",
     "link": "https://cryptopanic.com/news/33624108/Daiwa-Securities-to-Issue-190-Million-Tokyo-Office-Digital-Securities-for-Retail-Investors",
     "source": "square.binance.com",
@@ -77,6 +119,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "INSIGHT: Diederik van Wersch ASEAN Regional Director at @chainalysis joins Cointelegraph to explain how North Korea's Lazarus Group exploits human trust, moves stolen funds across blockchains, and uses artificial intelligence to make crypto crime harder to trace.",
+    "link": "https://cryptopanic.com/news/33624124/INSIGHT-Diederik-van-Wersch-ASEAN-Regional-Director-at-chainalysis-joins-Cointelegraph-to-explain-how-North-Koreas-Lazarus-Group-exploits-human-trust-moves-stolen-funds-across-blockchains-and-uses-artificial-intelligence-to-make-crypto-crime-harder-to-trace",
+    "source": "@cointelegraph",
+    "published": "Fri Oct 30 2026 08:31:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Binance: \"Binance will cover all losses from the SAFU fund and the company's funds. User funds are safe.\"\n\nCo-CEO Yi He expects withdrawals back within 48 hours.",
     "link": "https://cryptopanic.com/news/33623890/Binance-Binance-will-cover-all-losses-from-the-SAFU-fund-and-the-companys-funds-User-funds-are-safe-Co-CEO-Yi-He-expects-withdrawals-back-within-48-hours",
     "source": "@cryptoquant_com",
@@ -102,6 +151,13 @@
     "link": "https://cryptopanic.com/news/33623889/A-big-number-A-small-share-Binances-proof-of-reserves-Oct-1-1515B-held-for-users-in-its-8-largest-assets-all-backed-11-or-more-Drained-63B-42-After-freezes-33B-22-After-SAFU-21B-14",
     "source": "@cryptoquant_com",
     "published": "Fri Oct 30 2026 08:30:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "French economy unexpectedly contracts as exports slump in third quarter",
+    "link": "https://cryptopanic.com/news/33624128/French-economy-unexpectedly-contracts-as-exports-slump-in-third-quarter",
+    "source": "@reutersbiz",
+    "published": "Fri Oct 30 2026 08:30:16 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -151,62 +207,6 @@
     "link": "https://cryptopanic.com/news/33623769/Binance-hit-by-record-USD-63-billion-hack",
     "source": "cryptovalleyjournal.com",
     "published": "Fri Oct 30 2026 08:26:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AI TRENDS | Cursor Reports Security Incident Involving Claude Code Extension, Up to 5,000 Users Affected",
-    "link": "https://cryptopanic.com/news/33624099/AI-TRENDS-Cursor-Reports-Security-Incident-Involving-Claude-Code-Extension-Up-to-5000-Users-Affected",
-    "source": "square.binance.com",
-    "published": "Fri Oct 30 2026 08:26:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "South Korea FIU Seeks to Block Domestic Access to TetherMax and SuperTrust",
-    "link": "https://cryptopanic.com/news/33624098/South-Korea-FIU-Seeks-to-Block-Domestic-Access-to-TetherMax-and-SuperTrust",
-    "source": "square.binance.com",
-    "published": "Fri Oct 30 2026 08:25:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Oil Gains and U.S. Inflation Data Pressure Gold as Rate-Hike Bets Strengthen",
-    "link": "https://cryptopanic.com/news/33624097/Oil-Gains-and-US-Inflation-Data-Pressure-Gold-as-Rate-Hike-Bets-Strengthen",
-    "source": "square.binance.com",
-    "published": "Fri Oct 30 2026 08:25:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "STOCKS | Illumina Shares Fall 11% Premarket After Third-Quarter Revenue Misses Estimates",
-    "link": "https://cryptopanic.com/news/33624096/STOCKS-Illumina-Shares-Fall-11-Premarket-After-Third-Quarter-Revenue-Misses-Estimates",
-    "source": "square.binance.com",
-    "published": "Fri Oct 30 2026 08:24:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AI | Taiwan’s Double-Digit Growth Streak Reaches Longest Run Since 1987",
-    "link": "https://cryptopanic.com/news/33624095/AI-Taiwans-Double-Digit-Growth-Streak-Reaches-Longest-Run-Since-1987",
-    "source": "square.binance.com",
-    "published": "Fri Oct 30 2026 08:23:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "STOCKS | Audi Cuts Full-Year Earnings Outlook as China Slump Deepens",
-    "link": "https://cryptopanic.com/news/33624094/STOCKS-Audi-Cuts-Full-Year-Earnings-Outlook-as-China-Slump-Deepens",
-    "source": "square.binance.com",
-    "published": "Fri Oct 30 2026 08:19:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Kenya Inflation Hits Three-Year High as Gasoline Prices Set Record",
-    "link": "https://cryptopanic.com/news/33624093/Kenya-Inflation-Hits-Three-Year-High-as-Gasoline-Prices-Set-Record",
-    "source": "square.binance.com",
-    "published": "Fri Oct 30 2026 08:18:08 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BlackRock Says Bonds Offer Income Opportunity With Yields at Generational Highs",
-    "link": "https://cryptopanic.com/news/33624092/BlackRock-Says-Bonds-Offer-Income-Opportunity-With-Yields-at-Generational-Highs",
-    "source": "square.binance.com",
-    "published": "Fri Oct 30 2026 08:16:36 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
