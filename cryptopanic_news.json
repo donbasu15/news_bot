@@ -1,5 +1,26 @@
 [
   {
+    "title": "Cursor marketplace backdoor tests trust in AI coding assistants",
+    "link": "https://cryptopanic.com/news/33628363/Cursor-marketplace-backdoor-tests-trust-in-AI-coding-assistants",
+    "source": "cryptopolitan.com",
+    "published": "Sat Oct 31 2026 01:09:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "18 years of Bitcoin.\n\nThank you, Satoshi — what an incredible journey.",
+    "link": "https://cryptopanic.com/news/33628360/18-years-of-Bitcoin-Thank-you-Satoshi-what-an-incredible-journey",
+    "source": "@btc_archive",
+    "published": "Sat Oct 31 2026 01:07:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "\"This hack has not changed anything about the long-term direction of Bitcoin. \n\nI think in a week you'll see price has recovered.\"\n— Bitwise CIO Matt Hougan",
+    "link": "https://cryptopanic.com/news/33628359/This-hack-has-not-changed-anything-about-the-long-term-direction-of-Bitcoin-I-think-in-a-week-youll-see-price-has-recovered-Bitwise-CIO-Matt-Hougan",
+    "source": "@btc_archive",
+    "published": "Sat Oct 31 2026 00:52:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Coinbase and Kraken Ramp Up Security After Massive Binance Hack",
     "link": "https://cryptopanic.com/news/33628310/Coinbase-and-Kraken-Ramp-Up-Security-After-Massive-Binance-Hack",
     "source": "cryptoprowl.com",
@@ -11,6 +32,13 @@
     "link": "https://cryptopanic.com/news/33628294/US-stocks-tumbled-with-the-Nasdaq-suffering-its-largest-one-day-percentage-drop-since-June-5-as-AI-cash-burn-fears-sparked-a-tech-selloff",
     "source": "@reutersbiz",
     "published": "Sat Oct 31 2026 00:45:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "7 Banks Change Their Coinbase Stock Price Targets After Q3 Earnings",
+    "link": "https://cryptopanic.com/news/33628367/7-Banks-Change-Their-Coinbase-Stock-Price-Targets-After-Q3-Earnings",
+    "source": "beincrypto.com",
+    "published": "Sat Oct 31 2026 00:44:55 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -179,34 +207,6 @@
     "link": "https://cryptopanic.com/news/33628005/Bitcoin-ETFs-Turn-Negative-for-the-First-Time-Since-July-Is-the-Trend-Shifting",
     "source": "techgaged.com",
     "published": "Fri Oct 30 2026 22:34:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The $6.3 Billion Hack That Exposed Crypto's Biggest Flaw",
-    "link": "https://cryptopanic.com/news/33628017/The-63-Billion-Hack-That-Exposed-Cryptos-Biggest-Flaw",
-    "source": "SimplyBitcoin",
-    "published": "Fri Oct 30 2026 22:32:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ALERT: Recall Foundation announces wind-down and plans to burn approximately 358.6 million RECALL tokens, or 35.86% of total supply, with no payouts to token holders.",
-    "link": "https://cryptopanic.com/news/33628035/ALERT-Recall-Foundation-announces-wind-down-and-plans-to-burn-approximately-3586-million-RECALL-tokens-or-3586-of-total-supply-with-no-payouts-to-token-holders",
-    "source": "@cointelegraph",
-    "published": "Fri Oct 30 2026 22:30:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ETH and SOL’s September Gains Against Bitcoin Reversed in October",
-    "link": "https://cryptopanic.com/news/33627977/ETH-and-SOLs-September-Gains-Against-Bitcoin-Reversed-in-October",
-    "source": "btcusa.com",
-    "published": "Fri Oct 30 2026 22:24:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana’s RWA market growth puts tokenized real-world assets at a record $5.19B",
-    "link": "https://cryptopanic.com/news/33627970/Solanas-RWA-market-growth-puts-tokenized-real-world-assets-at-a-record-519B",
-    "source": "en.cryptonomist.ch",
-    "published": "Fri Oct 30 2026 22:21:55 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
