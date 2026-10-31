@@ -1,5 +1,82 @@
 [
   {
+    "title": "Illinois Tool Works stock falls 1.01% while its daily trend stays bullish",
+    "link": "https://cryptopanic.com/news/33630386/Illinois-Tool-Works-stock-falls-101-while-its-daily-trend-stays-bullish",
+    "source": "en.cryptonomist.ch",
+    "published": "Sat Oct 31 2026 15:12:12 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Lisk’s hourly RSI hits 82.5 as the daily trend stays neutral",
+    "link": "https://cryptopanic.com/news/33630385/Lisks-hourly-RSI-hits-825-as-the-daily-trend-stays-neutral",
+    "source": "en.cryptonomist.ch",
+    "published": "Sat Oct 31 2026 15:11:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Expert predicts Bitcoin’s price after $6 billion Binance hack",
+    "link": "https://cryptopanic.com/news/33630343/Expert-predicts-Bitcoins-price-after-6-billion-Binance-hack",
+    "source": "finbold.com",
+    "published": "Sat Oct 31 2026 15:10:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "85 Trillion Shiba Inu Threshold Back in Play: How Long Till SHIB Removes a Zero?",
+    "link": "https://cryptopanic.com/news/33630402/85-Trillion-Shiba-Inu-Threshold-Back-in-Play-How-Long-Till-SHIB-Removes-a-Zero",
+    "source": "u.today",
+    "published": "Sat Oct 31 2026 15:08:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin Proof of Reserves: What It Proves After the Binance Hack",
+    "link": "https://cryptopanic.com/news/33630345/Bitcoin-Proof-of-Reserves-What-It-Proves-After-the-Binance-Hack",
+    "source": "bitcoinalmanack.com",
+    "published": "Sat Oct 31 2026 15:02:55 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "READ THIS: Anthropic's IPO could create a STAGGERING 4,257 MILLIONAIRES! \n\nAccording to private markets platform Hill, the wealth creation could be INSANE:\n\n 50 employees worth $100M+\n 1,200 worth $10M–$99M\n 3,000 worth $1M–$9M\n 7 billionaire co-founders potentially",
+    "link": "https://cryptopanic.com/news/33630382/READ-THIS-Anthropics-IPO-could-create-a-STAGGERING-4257-MILLIONAIRES-According-to-private-markets-platform-Hill-the-wealth-creation-could-be-INSANE-50-employees-worth-100M-1200-worth-10M99M-3000-worth-1M9M-7-billionaire-co-founders-potentially",
+    "source": "@realallincrypto",
+    "published": "Sat Oct 31 2026 15:02:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
+    "link": "https://cryptopanic.com/news/33630333/Binance-Hack-Everything-You-Need-to-Know-About-the-Biggest-Crypto-Heist-in-History",
+    "source": "decrypt.co",
+    "published": "Sat Oct 31 2026 15:01:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trezor Urges CryptoBilis Buyers to Move Funds Over Suspected Spy Implant",
+    "link": "https://cryptopanic.com/news/33630336/Trezor-Urges-CryptoBilis-Buyers-to-Move-Funds-Over-Suspected-Spy-Implant",
+    "source": "coinpaprika.com",
+    "published": "Sat Oct 31 2026 15:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Binance just moved 7,500 $BTC from their SAFU fund.",
+    "link": "https://cryptopanic.com/news/33630298/Binance-just-moved-7500-BTC-from-their-SAFU-fund",
+    "source": "@stackersatoshi",
+    "published": "Sat Oct 31 2026 14:54:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Understanding the organisations behind a blockchain is key to understanding the blockchain itself. \n\nHere's what you need to know about the centralised parties that play a key role in the development of the @Avax $AVAX ecosystem ⬇️",
+    "link": "https://cryptopanic.com/news/33630383/Understanding-the-organisations-behind-a-blockchain-is-key-to-understanding-the-blockchain-itself-Heres-what-you-need-to-know-about-the-centralised-parties-that-play-a-key-role-in-the-development-of-the-Avax-AVAX-ecosystem",
+    "source": "@bscnews",
+    "published": "Sat Oct 31 2026 14:50:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Nasdaq-listed Next Technology Holding says its board just greenlit selling or pledging all 5,833 $BTC it holds, citing the Binance hack and quantum computing risk.",
+    "link": "https://cryptopanic.com/news/33630380/JUST-IN-Nasdaq-listed-Next-Technology-Holding-says-its-board-just-greenlit-selling-or-pledging-all-5833-BTC-it-holds-citing-the-Binance-hack-and-quantum-computing-risk",
+    "source": "@cointelegraph",
+    "published": "Sat Oct 31 2026 14:49:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Binance claims 90% of the shortfall following the hack has been covered.\n\n• CEO commits to fulfilling remaining 10%\n\n • Proof of Reserves updated after exploit \n\n• Wallet balance shows 692,489 BTC",
     "link": "https://cryptopanic.com/news/33630296/Binance-claims-90-of-the-shortfall-following-the-hack-has-been-covered-CEO-commits-to-fulfilling-remaining-10-Proof-of-Reserves-updated-after-exploit-Wallet-balance-shows-692489-BTC",
     "source": "@btc_archive",
@@ -130,83 +207,6 @@
     "link": "https://cryptopanic.com/news/33630194/Gold-and-Bitcoin-Are-Now-2026s-Worst-Major-Assets-What-Went-Wrong",
     "source": "cryptopotato.com",
     "published": "Sat Oct 31 2026 13:56:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: Crypto industry spending on US midterms tops $200 million | Per CNBC",
-    "link": "https://cryptopanic.com/news/33630179/INTEL-Crypto-industry-spending-on-US-midterms-tops-200-million-Per-CNBC",
-    "source": "@solidintel_x",
-    "published": "Sat Oct 31 2026 13:54:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Fairshake has backed 58 candidates in primaries or special elections, and 53 of them won",
-    "link": "https://cryptopanic.com/news/33630178/Fairshake-has-backed-58-candidates-in-primaries-or-special-elections-and-53-of-them-won",
-    "source": "@solidintel_x",
-    "published": "Sat Oct 31 2026 13:54:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Intel Lost Nearly 29% in One Day. Why Can a Chipmaker Collapse While AI Demand Is Booming?",
-    "link": "https://cryptopanic.com/news/33630142/Intel-Lost-Nearly-29-in-One-Day-Why-Can-a-Chipmaker-Collapse-While-AI-Demand-Is-Booming",
-    "source": "coinpaper.com",
-    "published": "Sat Oct 31 2026 13:40:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Chainlink's $LINK Reserve crosses $70M.\n\n@Chainlink is now sitting on a staggering 6.48M unsold $LINK tokens.\n\nIts latest official Reserve purchase, has pushed the reserve's total to above $70M.\n\nThe project has now made regular weekly purchases since August 2025, and is showing",
-    "link": "https://cryptopanic.com/news/33630176/Chainlinks-LINK-Reserve-crosses-70M-Chainlink-is-now-sitting-on-a-staggering-648M-unsold-LINK-tokens-Its-latest-official-Reserve-purchase-has-pushed-the-reserves-total-to-above-70M-The-project-has-now-made-regular-weekly-purchases-since-August-2025-and-is-showing",
-    "source": "@bscnews",
-    "published": "Sat Oct 31 2026 13:40:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "RedStone’s bug bounty offers up to $250,000 for smart contract flaws",
-    "link": "https://cryptopanic.com/news/33630135/RedStones-bug-bounty-offers-up-to-250000-for-smart-contract-flaws",
-    "source": "en.cryptonomist.ch",
-    "published": "Sat Oct 31 2026 13:37:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trezor Warns Hardware Wallet Buyers After Suspected Cellular Implant Found Inside Safe 5",
-    "link": "https://cryptopanic.com/news/33630132/Trezor-Warns-Hardware-Wallet-Buyers-After-Suspected-Cellular-Implant-Found-Inside-Safe-5",
-    "source": "coinpaper.com",
-    "published": "Sat Oct 31 2026 13:33:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tom Lee Thinks One Investor Might Be Behind Nasdaq’s Stock Crash",
-    "link": "https://cryptopanic.com/news/33630235/Tom-Lee-Thinks-One-Investor-Might-Be-Behind-Nasdaqs-Stock-Crash",
-    "source": "beincrypto.com",
-    "published": "Sat Oct 31 2026 13:31:23 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Chainalysis, the firm that tracks crypto hackers, just got hit by a cybersecurity incident of its own, but says it's unrelated to the Binance hack.",
-    "link": "https://cryptopanic.com/news/33630161/JUST-IN-Chainalysis-the-firm-that-tracks-crypto-hackers-just-got-hit-by-a-cybersecurity-incident-of-its-own-but-says-its-unrelated-to-the-Binance-hack",
-    "source": "@cointelegraph",
-    "published": "Sat Oct 31 2026 13:30:49 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Price on Halloween  \n\n2010: $0.20\n2011: $3.27\n2012: $11\n2013: $201\n2014: $337\n2015: $312\n2016: $699\n2017: $6,369\n2018: $6,330\n2019: $9,170\n2020: $13,540\n2021: $61,840\n2022: $20,625\n2023: $34,495\n2024: $72,250\n2025: $110,000\n2026: $77,400",
-    "link": "https://cryptopanic.com/news/33630131/Bitcoin-Price-on-Halloween-2010-020-2011-327-2012-11-2013-201-2014-337-2015-312-2016-699-2017-6369-2018-6330-2019-9170-2020-13540-2021-61840-2022-20625-2023-34495-2024-72250-2025-110000-2026-77400",
-    "source": "@watcherguru",
-    "published": "Sat Oct 31 2026 13:29:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Reddit Stock Crashes 29% as Google's AI Search Cuts More Than 1 Million Weekly Referrals",
-    "link": "https://cryptopanic.com/news/33630111/Reddit-Stock-Crashes-29-as-Googles-AI-Search-Cuts-More-Than-1-Million-Weekly-Referrals",
-    "source": "coinpaper.com",
-    "published": "Sat Oct 31 2026 13:29:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Chainalysis says hacker using ‘offensive agentic techniques’ accessed its customers’ names and emails",
-    "link": "https://cryptopanic.com/news/33630098/Chainalysis-says-hacker-using-offensive-agentic-techniques-accessed-its-customers-names-and-emails",
-    "source": "theblock.co",
-    "published": "Sat Oct 31 2026 13:27:17 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
