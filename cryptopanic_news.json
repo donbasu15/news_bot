@@ -1,5 +1,19 @@
 [
   {
+    "title": "I love this app",
+    "link": "https://cryptopanic.com/news/33628598/I-love-this-app",
+    "source": "@realallincrypto",
+    "published": "Sat Oct 31 2026 03:44:13 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ICYMI:  Strategy posted a record $21B operating income in Q3, driven by a $20.9B gain on its Bitcoin holdings.",
+    "link": "https://cryptopanic.com/news/33628606/ICYMI-Strategy-posted-a-record-21B-operating-income-in-Q3-driven-by-a-209B-gain-on-its-Bitcoin-holdings",
+    "source": "@coinmarketcap",
+    "published": "Sat Oct 31 2026 03:43:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Binance is buying back the stolen assets through market channels and OTC deals.\n\nOver the past 8 hours, Ethena(@ethena) has deposited 128.63M $ENA ($24M) into #Binance.",
     "link": "https://cryptopanic.com/news/33628600/Binance-is-buying-back-the-stolen-assets-through-market-channels-and-OTC-deals-Over-the-past-8-hours-Ethenaethena-has-deposited-12863M-ENA-24M-into-Binance",
     "source": "@lookonchain",
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33628243/Michael-Saylor-expects-Binance-to-repay-customers-following-the-WORLDS-LARGEST-63-BILLION-hack-Binance-has-pledged-to-use-its-own-balance-sheet-to-cover-losses-while-Saylor-calls-the-incident-a-major-lesson-for-the-ENTIRE-crypto-industry",
     "source": "@realallincrypto",
     "published": "Sat Oct 31 2026 00:00:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Institutions Are Buying Bitcoin as Traders Exit: Here’s Why!",
-    "link": "https://cryptopanic.com/news/33628449/Institutions-Are-Buying-Bitcoin-as-Traders-Exit-Heres-Why",
-    "source": "SimplyBitcoin",
-    "published": "Sat Oct 31 2026 00:00:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: ️ Tether generated $1.5B in Q3 net operating profit, matching Q2, as its reserve buffer nearly doubled to $7.95B.",
-    "link": "https://cryptopanic.com/news/33628204/LATEST-Tether-generated-15B-in-Q3-net-operating-profit-matching-Q2-as-its-reserve-buffer-nearly-doubled-to-795B",
-    "source": "@coinmarketcap",
-    "published": "Fri Oct 30 2026 23:42:02 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
