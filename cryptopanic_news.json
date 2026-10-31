@@ -1,5 +1,47 @@
 [
   {
+    "title": "Authorities in Malaysia have blocked Binance's website and apps",
+    "link": "https://cryptopanic.com/news/33629836/Authorities-in-Malaysia-have-blocked-Binances-website-and-apps",
+    "source": "@solidintel_x",
+    "published": "Sat Oct 31 2026 11:47:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: Binance in talks with Malaysian regulators for a license after five years out of the market | Per Bloomberg",
+    "link": "https://cryptopanic.com/news/33629837/INTEL-Binance-in-talks-with-Malaysian-regulators-for-a-license-after-five-years-out-of-the-market-Per-Bloomberg",
+    "source": "@solidintel_x",
+    "published": "Sat Oct 31 2026 11:47:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tether Q3 profit holds at $1.5B as its reserve buffer nearly doubles",
+    "link": "https://cryptopanic.com/news/33629823/Tether-Q3-profit-holds-at-15B-as-its-reserve-buffer-nearly-doubles",
+    "source": "en.cryptonomist.ch",
+    "published": "Sat Oct 31 2026 11:46:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "California-Based Heart Monitor Maker Breached, Affecting 8,179,772 People – Names, Insurance Numbers, Birth Dates and More at Risk",
+    "link": "https://cryptopanic.com/news/33629830/California-Based-Heart-Monitor-Maker-Breached-Affecting-8179772-People-Names-Insurance-Numbers-Birth-Dates-and-More-at-Risk",
+    "source": "dailyhodl.com",
+    "published": "Sat Oct 31 2026 11:45:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Ripple Froze Stolen RLUSD After Binance Hack: Why Couldn't It Freeze XRP?",
+    "link": "https://cryptopanic.com/news/33629807/Ripple-Froze-Stolen-RLUSD-After-Binance-Hack-Why-Couldnt-It-Freeze-XRP",
+    "source": "coinpaper.com",
+    "published": "Sat Oct 31 2026 11:41:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "US Treasury Says Iran Has Loaded No Oil Onto Vessels Since August 25.\n\nTreasury's \"Operation Economic Outcast\" report cited a roughly 25% fall in the rial and inflation of about 90%, and highlighted sanctions on Iranian crypto exchanges including Nobitex.",
+    "link": "https://cryptopanic.com/news/33629832/US-Treasury-Says-Iran-Has-Loaded-No-Oil-Onto-Vessels-Since-August-25-Treasurys-Operation-Economic-Outcast-report-cited-a-roughly-25-fall-in-the-rial-and-inflation-of-about-90-and-highlighted-sanctions-on-Iranian-crypto-exchanges-including-Nobitex",
+    "source": "@decryptmedia",
+    "published": "Sat Oct 31 2026 11:30:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "TODAY: The Bitcoin whitepaper officially turns 18 today.\n\nSatoshi built peer-to-peer cash to get around the banks, and now Wall Street is one of the biggest holders of $BTC.\n\nHappy Birthday Bitcoin.",
     "link": "https://cryptopanic.com/news/33629821/TODAY-The-Bitcoin-whitepaper-officially-turns-18-today-Satoshi-built-peer-to-peer-cash-to-get-around-the-banks-and-now-Wall-Street-is-one-of-the-biggest-holders-of-BTC-Happy-Birthday-Bitcoin",
     "source": "@cointelegraph",
@@ -18,6 +60,13 @@
     "link": "https://cryptopanic.com/news/33629808/The-Stealth-Bear-Market-Is-Getting-Worse-60-of-SP-500-Stocks-Are-Now-Down-20",
     "source": "cryptopotato.com",
     "published": "Sat Oct 31 2026 11:19:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LOBSTR Wallet the first to go live on Stellar through WalletConnect Pay.\n\n@StellarOrg and @XRP Ledger focused wallet, @lobstr, is now live through @WalletConnect Pay.\n\nUsers of the wallet can now pay merchants directly from their wallet.\n\nFor some time, both the Stellar and $XRP",
+    "link": "https://cryptopanic.com/news/33629831/LOBSTR-Wallet-the-first-to-go-live-on-Stellar-through-WalletConnect-Pay-StellarOrg-and-XRP-Ledger-focused-wallet-lobstr-is-now-live-through-WalletConnect-Pay-Users-of-the-wallet-can-now-pay-merchants-directly-from-their-wallet-For-some-time-both-the-Stellar-and-XRP",
+    "source": "@bscnews",
+    "published": "Sat Oct 31 2026 11:18:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -158,55 +207,6 @@
     "link": "https://cryptopanic.com/news/33629563/Binance-Co-CEO-Attackers-Used-Self-Destruct-Mechanisms-Making-the-Hack-Harder-to-Trace-Binance-Co-CEO-Richard-Teng-_RichardTeng-updated-the-investigation-into-the-roughly-63-billion-hack-on-October-30-saying-multiple-people-were-involved-Investigators-initially-suspected",
     "source": "@wublockchain",
     "published": "Sat Oct 31 2026 10:00:02 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Binance founder CZ says he has no interest in fighting Elon Musk.\n\n\"Let's fight the North Korean hackers.\"",
-    "link": "https://cryptopanic.com/news/33629502/JUST-IN-Binance-founder-CZ-says-he-has-no-interest-in-fighting-Elon-Musk-Lets-fight-the-North-Korean-hackers",
-    "source": "@watcherguru",
-    "published": "Sat Oct 31 2026 09:55:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Anthropic Says Claude Agents Taught a Model Misalignment While Evading a Production-Style Monitor.\n\nAnthropic said Claude agents, given enough attempts, wrote training data that made a small research model misaligned while passing a monitor \"similar to those we use in",
-    "link": "https://cryptopanic.com/news/33629500/Anthropic-Says-Claude-Agents-Taught-a-Model-Misalignment-While-Evading-a-Production-Style-Monitor-Anthropic-said-Claude-agents-given-enough-attempts-wrote-training-data-that-made-a-small-research-model-misaligned-while-passing-a-monitor-similar-to-those-we-use-in",
-    "source": "@decryptmedia",
-    "published": "Sat Oct 31 2026 09:54:40 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple on schedule to dump 1 billion XRP tomorrow",
-    "link": "https://cryptopanic.com/news/33629489/Ripple-on-schedule-to-dump-1-billion-XRP-tomorrow",
-    "source": "finbold.com",
-    "published": "Sat Oct 31 2026 09:45:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stacks Price Climbs 7% Toward Where Its Last Rally Began",
-    "link": "https://cryptopanic.com/news/33629469/Stacks-Price-Climbs-7-Toward-Where-Its-Last-Rally-Began",
-    "source": "coindoo.com",
-    "published": "Sat Oct 31 2026 09:36:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 ETFS: The US $BTC ETFs saw their largest single day outflows since June with over $643M flowing out in a single day.",
-    "link": "https://cryptopanic.com/news/33629488/ETFS-The-US-BTC-ETFs-saw-their-largest-single-day-outflows-since-June-with-over-643M-flowing-out-in-a-single-day",
-    "source": "@cointelegraph",
-    "published": "Sat Oct 31 2026 09:30:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Steve Eisman Warns AI Has a Fatal Flaw: the Cost Is Unsustainable",
-    "link": "https://cryptopanic.com/news/33629465/Steve-Eisman-Warns-AI-Has-a-Fatal-Flaw-the-Cost-Is-Unsustainable",
-    "source": "spaziocrypto.com",
-    "published": "Sat Oct 31 2026 09:29:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Weekly review: The Binance hack shakes the industry",
-    "link": "https://cryptopanic.com/news/33629440/Weekly-review-The-Binance-hack-shakes-the-industry",
-    "source": "cryptovalleyjournal.com",
-    "published": "Sat Oct 31 2026 09:27:22 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
