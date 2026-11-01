@@ -1,9 +1,23 @@
 [
   {
+    "title": "PumpFun adds support for Polygon.\n\n@Pumpfun has been aggressive in adding support for a growing swathe of alternative blockchains, and @0xPolygon is the latest to make the cut. \n\nOther recent additions include... \n\n- @arbitrum $ARB \n- @megaeth $MEGA \n- @ton_blockchain\n- @Monad",
+    "link": "https://cryptopanic.com/news/33631780/PumpFun-adds-support-for-Polygon-Pumpfun-has-been-aggressive-in-adding-support-for-a-growing-swathe-of-alternative-blockchains-and-0xPolygon-is-the-latest-to-make-the-cut-Other-recent-additions-include-arbitrum-ARB-megaeth-MEGA-ton_blockchain-Monad",
+    "source": "@bscnews",
+    "published": "Sun Nov 01 2026 03:48:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "🤖 JUST IN: AI token spending has surged 122%–160% since May despite prices falling 67%, according to a16z.",
     "link": "https://cryptopanic.com/news/33631746/JUST-IN-AI-token-spending-has-surged-122160-since-May-despite-prices-falling-67-according-to-a16z",
     "source": "@cointelegraph",
     "published": "Sun Nov 01 2026 03:30:41 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Inside Binance’s war chest: how a $6.3B hack gets absorbed without touching user balances",
+    "link": "https://cryptopanic.com/news/33631782/Inside-Binances-war-chest-how-a-63B-hack-gets-absorbed-without-touching-user-balances",
+    "source": "cryptodnes.bg",
+    "published": "Sun Nov 01 2026 03:25:14 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -193,20 +207,6 @@
     "link": "https://cryptopanic.com/news/33631457/FBI-names-who-took-6B-from-Binance",
     "source": "thestreet.com",
     "published": "Sun Nov 01 2026 00:47:57 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Gulf States Push to Ease U.S.-Iran Tensions as Senior U.S. Officials Split",
-    "link": "https://cryptopanic.com/news/33631721/Gulf-States-Push-to-Ease-US-Iran-Tensions-as-Senior-US-Officials-Split",
-    "source": "square.binance.com",
-    "published": "Sun Nov 01 2026 00:43:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "U.S. Spot Ethereum ETFs Hit Record 23-Day Net Outflow Streak Since Launch\n\nOn-chain analytics firm Glassnode reported that U.S. spot Ethereum ETFs have recorded 23 consecutive trading days of net outflows, marking their longest streak since launch. Glassnode said the sustained",
-    "link": "https://cryptopanic.com/news/33631431/US-Spot-Ethereum-ETFs-Hit-Record-23-Day-Net-Outflow-Streak-Since-Launch-On-chain-analytics-firm-Glassnode-reported-that-US-spot-Ethereum-ETFs-have-recorded-23-consecutive-trading-days-of-net-outflows-marking-their-longest-streak-since-launch-Glassnode-said-the-sustained",
-    "source": "@wublockchain",
-    "published": "Sun Nov 01 2026 00:38:21 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
