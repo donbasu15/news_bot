@@ -1,9 +1,65 @@
 [
   {
+    "title": "Can Prediction Markets Survive Without Retail Traders?",
+    "link": "https://cryptopanic.com/news/33634583/Can-Prediction-Markets-Survive-Without-Retail-Traders",
+    "source": "www.blockhead.co",
+    "published": "Mon Nov 02 2026 01:34:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "INTEL: THORChain vault solvent again after a user voluntarily returns the 10 ETH",
+    "link": "https://cryptopanic.com/news/33634606/INTEL-THORChain-vault-solvent-again-after-a-user-voluntarily-returns-the-10-ETH",
+    "source": "@solidintel_x",
+    "published": "Mon Nov 02 2026 01:31:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Trading on BTC, ETH, SOL, BSC, DOGE and 6 other chains is still halted. AVAX, BASE, RUNE and XRPL remain live, and node operators will re-enable the rest once they confirm it is safe",
+    "link": "https://cryptopanic.com/news/33634605/Trading-on-BTC-ETH-SOL-BSC-DOGE-and-6-other-chains-is-still-halted-AVAX-BASE-RUNE-and-XRPL-remain-live-and-node-operators-will-re-enable-the-rest-once-they-confirm-it-is-safe",
+    "source": "@solidintel_x",
+    "published": "Mon Nov 02 2026 01:31:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Avalanche a go-to chain for institutional RWAs.\n\nAccording to The @RWAFoundation_, the average wallet holdings RWAs on @Avax holds a staggering $149,739 worth of assets.\n\nThat's the AVERAGE.\n\nThe high average holding is driven by $AVAX' focus on institutions when it comes to",
+    "link": "https://cryptopanic.com/news/33634603/Avalanche-a-go-to-chain-for-institutional-RWAs-According-to-The-RWAFoundation_-the-average-wallet-holdings-RWAs-on-Avax-holds-a-staggering-149739-worth-of-assets-Thats-the-AVERAGE-The-high-average-holding-is-driven-by-AVAX-focus-on-institutions-when-it-comes-to",
+    "source": "@bscnews",
+    "published": "Mon Nov 02 2026 01:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ON THIS DAY: Nov 2, 2008, Bitcoin got its first public reply, two days after Satoshi shared the whitepaper.\n\n\"We very, very much need such a system… it does not seem to scale to the required size.\"\n\nThis was the first time anyone publicly pushed back on Bitcoin, and it was",
+    "link": "https://cryptopanic.com/news/33634579/ON-THIS-DAY-Nov-2-2008-Bitcoin-got-its-first-public-reply-two-days-after-Satoshi-shared-the-whitepaper-We-very-very-much-need-such-a-system-it-does-not-seem-to-scale-to-the-required-size-This-was-the-first-time-anyone-publicly-pushed-back-on-Bitcoin-and-it-was",
+    "source": "@cointelegraph",
+    "published": "Mon Nov 02 2026 01:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Whales are buying $ETH like crazy on-chain!\n\nOver the past 2 hours, whale 0x9EcA spent 37.96M $USDC to buy 16,658 $ETH at an average price of $2,279.\n\nThe whale is still buying!",
+    "link": "https://cryptopanic.com/news/33634604/Whales-are-buying-ETH-like-crazy-on-chain-Over-the-past-2-hours-whale-0x9EcA-spent-3796M-USDC-to-buy-16658-ETH-at-an-average-price-of-2279-The-whale-is-still-buying",
+    "source": "@lookonchain",
+    "published": "Mon Nov 02 2026 01:17:27 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: THORChain halts 10 blockchains after an Ethereum block reorg caused a 10 ethereum:native payout from a vault that never got the deposit, though the user has since returned the funds.",
+    "link": "https://cryptopanic.com/news/33634578/NEW-THORChain-halts-10-blockchains-after-an-Ethereum-block-reorg-caused-a-10-ethereumnative-payout-from-a-vault-that-never-got-the-deposit-though-the-user-has-since-returned-the-funds",
+    "source": "@cointelegraph",
+    "published": "Mon Nov 02 2026 01:15:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "RightNow Founder Jaber: NVIDIA B300 Hourly Rental Offers Drop to $4.60 From $7.90",
     "link": "https://cryptopanic.com/news/33634534/RightNow-Founder-Jaber-NVIDIA-B300-Hourly-Rental-Offers-Drop-to-460-From-790",
     "source": "square.binance.com",
     "published": "Mon Nov 02 2026 01:11:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: Solana’s Seeker says a malicious “SKR Claim” app that asked for user seed phrases went live on its dApp Store for an hour after a breach of its developer portal. \n\nThe team has since pulled the app and patched the bug.",
+    "link": "https://cryptopanic.com/news/33634577/LATEST-Solanas-Seeker-says-a-malicious-SKR-Claim-app-that-asked-for-user-seed-phrases-went-live-on-its-dApp-Store-for-an-hour-after-a-breach-of-its-developer-portal-The-team-has-since-pulled-the-app-and-patched-the-bug",
+    "source": "@cointelegraph",
+    "published": "Mon Nov 02 2026 01:00:33 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -151,62 +207,6 @@
     "link": "https://cryptopanic.com/news/33634356/INTEL-Binance-sees-454B-in-net-outflows-within-12-hours-of-reopening-withdrawals-Users-have-withdrawn-billions-since-the-exchange-resumed-withdrawals-following-the-63B-hack",
     "source": "@solidintel_x",
     "published": "Mon Nov 02 2026 00:11:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Closes Above 50-Week Moving Average for 7th Straight Week Amid $6 Billion-Plus Exchange Hack",
-    "link": "https://cryptopanic.com/news/33634519/Bitcoin-Closes-Above-50-Week-Moving-Average-for-7th-Straight-Week-Amid-6-Billion-Plus-Exchange-Hack",
-    "source": "square.binance.com",
-    "published": "Mon Nov 02 2026 00:07:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "STOCKS | Berkshire's Alphabet Stake Shrinks by More Than $10 Billion as Coca-Cola Rises to No. 3",
-    "link": "https://cryptopanic.com/news/33634518/STOCKS-Berkshires-Alphabet-Stake-Shrinks-by-More-Than-10-Billion-as-Coca-Cola-Rises-to-No-3",
-    "source": "square.binance.com",
-    "published": "Mon Nov 02 2026 00:06:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Music Industry Faces $20 Billion Public-Market Challenge",
-    "link": "https://cryptopanic.com/news/33634517/Music-Industry-Faces-20-Billion-Public-Market-Challenge",
-    "source": "square.binance.com",
-    "published": "Mon Nov 02 2026 00:04:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Australia TD-MI Inflation Index Posts 0.5% Monthly Rate in October",
-    "link": "https://cryptopanic.com/news/33634516/Australia-TD-MI-Inflation-Index-Posts-05-Monthly-Rate-in-October",
-    "source": "square.binance.com",
-    "published": "Mon Nov 02 2026 00:03:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "STOCKS | Nikkei 225 Opens Down 349.41 Points to 62,940.70",
-    "link": "https://cryptopanic.com/news/33634515/STOCKS-Nikkei-225-Opens-Down-34941-Points-to-6294070",
-    "source": "square.binance.com",
-    "published": "Mon Nov 02 2026 00:03:42 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Apple Shares Turn Negatively Correlated With QQQ for First Time, Paradis Says",
-    "link": "https://cryptopanic.com/news/33634514/Apple-Shares-Turn-Negatively-Correlated-With-QQQ-for-First-Time-Paradis-Says",
-    "source": "square.binance.com",
-    "published": "Mon Nov 02 2026 00:02:31 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇺🇸 TODAY: The US Secret Service says it continues to investigate the theft of over $6 billion in crypto from Binance Global, with a large portion of the stolen funds already frozen.",
-    "link": "https://cryptopanic.com/news/33634313/TODAY-The-US-Secret-Service-says-it-continues-to-investigate-the-theft-of-over-6-billion-in-crypto-from-Binance-Global-with-a-large-portion-of-the-stolen-funds-already-frozen",
-    "source": "@cointelegraph",
-    "published": "Mon Nov 02 2026 00:00:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: Iran says the Strait of Hormuz could REOPEN within 48 HOURS!\n\nThe proposal, reportedly mediated by Qatar, depends on the US agreeing to sanctions relief, reduced military presence, release of frozen funds and an end to regional fighting.\n\nMeanwhile, Brent crude",
-    "link": "https://cryptopanic.com/news/33634314/BREAKING-Iran-says-the-Strait-of-Hormuz-could-REOPEN-within-48-HOURS-The-proposal-reportedly-mediated-by-Qatar-depends-on-the-US-agreeing-to-sanctions-relief-reduced-military-presence-release-of-frozen-funds-and-an-end-to-regional-fighting-Meanwhile-Brent-crude",
-    "source": "@realallincrypto",
-    "published": "Mon Nov 02 2026 00:00:23 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
