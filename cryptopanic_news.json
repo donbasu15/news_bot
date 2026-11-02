@@ -1,9 +1,58 @@
 [
   {
+    "title": "Ethereum Delays Glamsterdam Test on Hoodi as Developers Review Gas-Rule Interactions",
+    "link": "https://cryptopanic.com/news/33639871/Ethereum-Delays-Glamsterdam-Test-on-Hoodi-as-Developers-Review-Gas-Rule-Interactions",
+    "source": "techgaged.com",
+    "published": "Mon Nov 02 2026 22:50:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Prediction Markets See \"Wild\" Election Arbitrage Opportunity",
+    "link": "https://cryptopanic.com/news/33639881/Prediction-Markets-See-Wild-Election-Arbitrage-Opportunity",
+    "source": "BitcoinMagazine",
+    "published": "Mon Nov 02 2026 22:45:39 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Consensys wants banks to trade across separate blockchains without bridges\n\n@Consensys unveiled Sovereign Network Interoperability today at Devcon in Mumbai, a product that lets banks, custodians, and fund managers settle deals with partners on other ledgers. Assets never leave",
+    "link": "https://cryptopanic.com/news/33639885/Consensys-wants-banks-to-trade-across-separate-blockchains-without-bridges-Consensys-unveiled-Sovereign-Network-Interoperability-today-at-Devcon-in-Mumbai-a-product-that-lets-banks-custodians-and-fund-managers-settle-deals-with-partners-on-other-ledgers-Assets-never-leave",
+    "source": "@bscnews",
+    "published": "Mon Nov 02 2026 22:42:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Palantir Says US Commercial Revenue Topped Government Sales for the First Time.\n\nPalantir's third-quarter revenue rose 96% to $2.31 billion, beating the $2.18 billion LSEG estimate, as US commercial revenue jumped 148% to $984 million, passing $953 million from the US government.",
+    "link": "https://cryptopanic.com/news/33639886/Palantir-Says-US-Commercial-Revenue-Topped-Government-Sales-for-the-First-Time-Palantirs-third-quarter-revenue-rose-96-to-231-billion-beating-the-218-billion-LSEG-estimate-as-US-commercial-revenue-jumped-148-to-984-million-passing-953-million-from-the-US-government",
+    "source": "@decryptmedia",
+    "published": "Mon Nov 02 2026 22:40:32 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BIG: Oracle files to raise $20B through stock and bonds as investors demand high rates for its new bonds.",
+    "link": "https://cryptopanic.com/news/33639884/BIG-Oracle-files-to-raise-20B-through-stock-and-bonds-as-investors-demand-high-rates-for-its-new-bonds",
+    "source": "@cointelegraph",
+    "published": "Mon Nov 02 2026 22:40:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Aave V4 Passes $1.5B in Deposits as External Curated Markets Expand",
     "link": "https://cryptopanic.com/news/33639855/Aave-V4-Passes-15B-in-Deposits-as-External-Curated-Markets-Expand",
     "source": "techgaged.com",
     "published": "Mon Nov 02 2026 22:40:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "If North Korea didn't hack Binance… who did? 🤔",
+    "link": "https://cryptopanic.com/news/33639883/If-North-Korea-didnt-hack-Binance-who-did",
+    "source": "@cointelegraph",
+    "published": "Mon Nov 02 2026 22:35:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Bill Ackman's Pershing Square says Big Tech's AI spending is 'offensive rather than defensive,' but expects capex cuts if revenue doesn't follow.\n\nHyperscaler capex has gone from ~$140B in 2023 to ~$740B in 2026, and consensus sees \"over $1 trillion\" next year.",
+    "link": "https://cryptopanic.com/news/33639880/JUST-IN-Bill-Ackmans-Pershing-Square-says-Big-Techs-AI-spending-is-offensive-rather-than-defensive-but-expects-capex-cuts-if-revenue-doesnt-follow-Hyperscaler-capex-has-gone-from-140B-in-2023-to-740B-in-2026-and-consensus-sees-over-1-trillion-next-year",
+    "source": "@cointelegraph",
+    "published": "Mon Nov 02 2026 22:30:30 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -39,6 +88,13 @@
     "link": "https://cryptopanic.com/news/33639870/TRMLabs-ARedbord-This-isnt-the-largest-hack-in-crypto-history-its-the-largest-bank-robbery-in-human-history",
     "source": "@coindesk",
     "published": "Mon Nov 02 2026 22:21:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "️ INSIGHT: Bitwise’s Matt Hougan says the median top-20 crypto asset is down 15% this year, while winners like $HYPE and $ZEC push the average up 14%.",
+    "link": "https://cryptopanic.com/news/33639879/INSIGHT-Bitwises-Matt-Hougan-says-the-median-top-20-crypto-asset-is-down-15-this-year-while-winners-like-HYPE-and-ZEC-push-the-average-up-14",
+    "source": "@cointelegraph",
+    "published": "Mon Nov 02 2026 22:20:28 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -151,62 +207,6 @@
     "link": "https://cryptopanic.com/news/33639730/Is-a-Cyber-Pandemic-Coming-Bitcoin-Just-Passed-the-Test",
     "source": "SimplyBitcoin",
     "published": "Mon Nov 02 2026 22:00:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Circle Wants Qualifying Stablecoins Treated as Cash Under SEC Proposal",
-    "link": "https://cryptopanic.com/news/33639696/Circle-Wants-Qualifying-Stablecoins-Treated-as-Cash-Under-SEC-Proposal",
-    "source": "techgaged.com",
-    "published": "Mon Nov 02 2026 22:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Coinbase Says New Jersey Has Dropped Its Staking Lawsuit After More Than Three Years.\n\nCoinbase said Monday that New Jersey formally dropped its staking lawsuit and lifted its June 2023 cease-and-desist order, with CEO Brian Armstrong saying users there will \"very soon\" be able",
-    "link": "https://cryptopanic.com/news/33639835/Coinbase-Says-New-Jersey-Has-Dropped-Its-Staking-Lawsuit-After-More-Than-Three-Years-Coinbase-said-Monday-that-New-Jersey-formally-dropped-its-staking-lawsuit-and-lifted-its-June-2023-cease-and-desist-order-with-CEO-Brian-Armstrong-saying-users-there-will-very-soon-be-able",
-    "source": "@decryptmedia",
-    "published": "Mon Nov 02 2026 22:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: Apple beat Q4 revenue estimates with $114.48B vs. $113.39B expected, helped by stronger iPhone sales.",
-    "link": "https://cryptopanic.com/news/33639773/LATEST-Apple-beat-Q4-revenue-estimates-with-11448B-vs-11339B-expected-helped-by-stronger-iPhone-sales",
-    "source": "@cointelegraph",
-    "published": "Mon Nov 02 2026 21:56:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$BTC Has never closed 2 consecutive yearly candles in the red.\n\n2026's yearly open sits at $87.5K.\n\nAre we breaking the streak this year? Wouldn't be the first after the 4 year cycle has likely mostly broken in terms of performance & timing too at this point.",
-    "link": "https://cryptopanic.com/news/33639777/BTC-Has-never-closed-2-consecutive-yearly-candles-in-the-red-2026s-yearly-open-sits-at-875K-Are-we-breaking-the-streak-this-year-Wouldnt-be-the-first-after-the-4-year-cycle-has-likely-mostly-broken-in-terms-of-performance-amp-timing-too-at-this-point",
-    "source": "@daancrypto",
-    "published": "Mon Nov 02 2026 21:56:19 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  HSBC's RedCoin HKD stablecoin has attracted 50,000 users in just over a week since launching, with CEO Georges Elhedery saying the target is \"multimillion users.\"",
-    "link": "https://cryptopanic.com/news/33639691/LATEST-HSBCs-RedCoin-HKD-stablecoin-has-attracted-50000-users-in-just-over-a-week-since-launching-with-CEO-Georges-Elhedery-saying-the-target-is-multimillion-users",
-    "source": "@coinmarketcap",
-    "published": "Mon Nov 02 2026 21:51:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "North Korean state media KCNA earlier called the accusations 'fabricated' after the FBI blamed Pyongyang for the $6.3B theft. Kim says Pyongyang is 'closely watching'",
-    "link": "https://cryptopanic.com/news/33639837/North-Korean-state-media-KCNA-earlier-called-the-accusations-fabricated-after-the-FBI-blamed-Pyongyang-for-the-63B-theft-Kim-says-Pyongyang-is-closely-watching",
-    "source": "@solidintel_x",
-    "published": "Mon Nov 02 2026 21:50:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: North Korea's Kim Yo Jong calls FBI's Binance hack probe a 'political provocation'",
-    "link": "https://cryptopanic.com/news/33639838/INTEL-North-Koreas-Kim-Yo-Jong-calls-FBIs-Binance-hack-probe-a-political-provocation",
-    "source": "@solidintel_x",
-    "published": "Mon Nov 02 2026 21:50:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Your keys. Your Bitcoin.\n\nPut your Bitcoin to work without giving up self-custody.\n\nSee what’s possible with @VFXBlockchain.\n\nLearn more",
-    "link": "https://cryptopanic.com/news/33639839/Your-keys-Your-Bitcoin-Put-your-Bitcoin-to-work-without-giving-up-self-custody-See-whats-possible-with-VFXBlockchain-Learn-more",
-    "source": "@bitcoinmagazine",
-    "published": "Mon Nov 02 2026 21:50:15 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
