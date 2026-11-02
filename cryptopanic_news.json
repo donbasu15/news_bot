@@ -1,5 +1,75 @@
 [
   {
+    "title": "BitMine’s Ether hits 6.06M as Strive buys 6,182 bitcoin in a week",
+    "link": "https://cryptopanic.com/news/33638898/BitMines-Ether-hits-606M-as-Strive-buys-6182-bitcoin-in-a-week",
+    "source": "cryptopolitan.com",
+    "published": "Mon Nov 02 2026 18:15:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Solana Validator Hack Exposes Five Operators as $135,000 in Crypto Flows Into Tornado Cash",
+    "link": "https://cryptopanic.com/news/33638852/Solana-Validator-Hack-Exposes-Five-Operators-as-135000-in-Crypto-Flows-Into-Tornado-Cash",
+    "source": "coinpaper.com",
+    "published": "Mon Nov 02 2026 18:06:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Mercado Bitcoin Halts Withdrawals After Security Incident as Hypernative Flags $40M Outflows",
+    "link": "https://cryptopanic.com/news/33638848/Mercado-Bitcoin-Halts-Withdrawals-After-Security-Incident-as-Hypernative-Flags-40M-Outflows",
+    "source": "cryptopotato.com",
+    "published": "Mon Nov 02 2026 18:01:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "China’s Biggest Banks Report Strongest Profit Growth Since 2022",
+    "link": "https://cryptopanic.com/news/33638838/Chinas-Biggest-Banks-Report-Strongest-Profit-Growth-Since-2022",
+    "source": "catenaa.com",
+    "published": "Mon Nov 02 2026 18:01:51 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tomorrow:\n\n$CC: Universal Burn Discussion (impact 6/10)\n\nEvent details",
+    "link": "https://cryptopanic.com/news/33638879/Tomorrow-CC-Universal-Burn-Discussion-impact-610-Event-details",
+    "source": "@coinmarketcal",
+    "published": "Mon Nov 02 2026 18:00:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "HUGE: Polymarket is EXPANDING its partnership with Chainlink into traditional markets!\n\nGold and silver are LIVE, with stocks, FX and more commodities next.\n\nRemember, Polymarket's explosive growth in short-term markets followed its initial @chainlink integration, with over $11",
+    "link": "https://cryptopanic.com/news/33638880/HUGE-Polymarket-is-EXPANDING-its-partnership-with-Chainlink-into-traditional-markets-Gold-and-silver-are-LIVE-with-stocks-FX-and-more-commodities-next-Remember-Polymarkets-explosive-growth-in-short-term-markets-followed-its-initial-chainlink-integration-with-over-11",
+    "source": "@realallincrypto",
+    "published": "Mon Nov 02 2026 18:00:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Marvell to Acquire Lumentum in $115 Billion All-Stock AI Connectivity Deal.\n\nLumentum stockholders will receive 4.5 Marvell shares for each share they own, giving them about 33% of the combined company, with the deal expected to close in the first half of 2028.",
+    "link": "https://cryptopanic.com/news/33638884/Marvell-to-Acquire-Lumentum-in-115-Billion-All-Stock-AI-Connectivity-Deal-Lumentum-stockholders-will-receive-45-Marvell-shares-for-each-share-they-own-giving-them-about-33-of-the-combined-company-with-the-deal-expected-to-close-in-the-first-half-of-2028",
+    "source": "@decryptmedia",
+    "published": "Mon Nov 02 2026 18:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "AI Infrastructure Debt Surpasses $400 Billion as Bond Markets Reassess Technology Risk",
+    "link": "https://cryptopanic.com/news/33638788/AI-Infrastructure-Debt-Surpasses-400-Billion-as-Bond-Markets-Reassess-Technology-Risk",
+    "source": "coinpaper.com",
+    "published": "Mon Nov 02 2026 17:53:52 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Solana RWA value tops $5 billion after 18% monthly gain",
+    "link": "https://cryptopanic.com/news/33638855/Solana-RWA-value-tops-5-billion-after-18-monthly-gain",
+    "source": "thestreet.com",
+    "published": "Mon Nov 02 2026 17:47:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Paradigm-backed RIFT brings one-click swaps and bridging to Polygon\n\n@RIFTHQ, a trading tool backed by crypto investment firm @paradigm, went live on Polygon today. Users can now bridge funds in or trade tokens like ethereum:0x455e53cbb86018ac2b8092fdcd39d8444affc3f6 in a single",
+    "link": "https://cryptopanic.com/news/33638881/Paradigm-backed-RIFT-brings-one-click-swaps-and-bridging-to-Polygon-RIFTHQ-a-trading-tool-backed-by-crypto-investment-firm-paradigm-went-live-on-Polygon-today-Users-can-now-bridge-funds-in-or-trade-tokens-like-ethereum0x455e53cbb86018ac2b8092fdcd39d8444affc3f6-in-a-single",
+    "source": "@bscnews",
+    "published": "Mon Nov 02 2026 17:46:29 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "XRP Ledger Races to Shut Its Own Token-Minting Back Door",
     "link": "https://cryptopanic.com/news/33638762/XRP-Ledger-Races-to-Shut-Its-Own-Token-Minting-Back-Door",
     "source": "coindoo.com",
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/33638770/CZ-says-the-distinction-matters-the-exchange-says-it-funded-the-recovery-directly-from-its-corporate-resources-rather-than-relying-on-external-financing-or-asset-sales",
     "source": "@solidintel_x",
     "published": "Mon Nov 02 2026 17:12:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: Binance covered the $6.3B hack losses using its own balance sheet, without borrowing, selling assets or raising capital.",
-    "link": "https://cryptopanic.com/news/33638769/INTEL-Binance-covered-the-63B-hack-losses-using-its-own-balance-sheet-without-borrowing-selling-assets-or-raising-capital",
-    "source": "@solidintel_x",
-    "published": "Mon Nov 02 2026 17:12:25 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Elon Musk Mocks Sam Altman Over Claim Home PCs Are Wasting RAM",
-    "link": "https://cryptopanic.com/news/33638568/Elon-Musk-Mocks-Sam-Altman-Over-Claim-Home-PCs-Are-Wasting-RAM",
-    "source": "decrypt.co",
-    "published": "Mon Nov 02 2026 17:07:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: #Cardano $ADA's WingRiders launches a complete redesign for a seamless user experience featuring 70% faster load times.",
-    "link": "https://cryptopanic.com/news/33638610/JUST-IN-Cardano-ADAs-WingRiders-launches-a-complete-redesign-for-a-seamless-user-experience-featuring-70-faster-load-times",
-    "source": "@angrycryptoshow",
-    "published": "Mon Nov 02 2026 17:06:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "'Since the Strait of Hormuz was disrupted, nearly one billion barrels have been drained from global inventories,' the CEO of Abu Dhabi's state-owned oil company ADNOC said",
-    "link": "https://cryptopanic.com/news/33638689/Since-the-Strait-of-Hormuz-was-disrupted-nearly-one-billion-barrels-have-been-drained-from-global-inventories-the-CEO-of-Abu-Dhabis-state-owned-oil-company-ADNOC-said",
-    "source": "@reutersbiz",
-    "published": "Mon Nov 02 2026 17:05:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Minswap is set to advance $ADA's institutional adoption, actively auditing a DEX integration for CIP-113, Cardano's tokenization standard for regulated assets—recognized by the Capital Markets and Technology Association: \"Issuers can use it to tokenize certifiable shares.\"",
-    "link": "https://cryptopanic.com/news/33638608/NEW-Minswap-is-set-to-advance-ADAs-institutional-adoption-actively-auditing-a-DEX-integration-for-CIP-113-Cardanos-tokenization-standard-for-regulated-assetsrecognized-by-the-Capital-Markets-and-Technology-Association-Issuers-can-use-it-to-tokenize-certifiable-shares",
-    "source": "@angrycryptoshow",
-    "published": "Mon Nov 02 2026 17:04:47 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Stock Market Today: S&P 500 Rallies 1% as US Manufacturing Hits 55.5",
-    "link": "https://cryptopanic.com/news/33638555/Stock-Market-Today-SP-500-Rallies-1-as-US-Manufacturing-Hits-555",
-    "source": "coinpaper.com",
-    "published": "Mon Nov 02 2026 17:04:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: $ADA's Minswap is preparing to take #Cardano DeFi to the next level, with its Concentrated Liquidity Market Maker now on testnet. Grok says \"CLMM is the same model that made Uniswap V3 dominant.\"",
-    "link": "https://cryptopanic.com/news/33638607/JUST-IN-ADAs-Minswap-is-preparing-to-take-Cardano-DeFi-to-the-next-level-with-its-Concentrated-Liquidity-Market-Maker-now-on-testnet-Grok-says-CLMM-is-the-same-model-that-made-Uniswap-V3-dominant",
-    "source": "@angrycryptoshow",
-    "published": "Mon Nov 02 2026 17:02:41 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Securitize launches trading for 13 new tokenized stocks on Solana.\n\nThe 13 stocks added by Securitize are:\n\n• Flex $FLEX\n• Salesforce $CRM\n• Lumentum $LITE\n• GameStop $GME\n• Exxon Mobil $XOM\n• Merck & Co. $MRK\n• Lockheed Martin $LMT\n• Arista Networks $ANET\n•",
-    "link": "https://cryptopanic.com/news/33638774/JUST-IN-Securitize-launches-trading-for-13-new-tokenized-stocks-on-Solana-The-13-stocks-added-by-Securitize-are-Flex-FLEX-Salesforce-CRM-Lumentum-LITE-GameStop-GME-Exxon-Mobil-XOM-Merck-amp-Co-MRK-Lockheed-Martin-LMT-Arista-Networks-ANET",
-    "source": "@watcherguru",
-    "published": "Mon Nov 02 2026 17:02:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "️ LIVE NOW",
-    "link": "https://cryptopanic.com/news/33638612/LIVE-NOW",
-    "source": "@coindesk",
-    "published": "Mon Nov 02 2026 17:02:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING EVEN MORE HACK NEWS: European supermarkets have reportedly been hit by CYBERATTACKS causing freezers to overheat to 55°C! \n\nStores in Sweden and Belgium have been forced to destroy large quantities of food, with ICA, Coop, Carrefour and Delhaize affected.\n\nSimilar",
-    "link": "https://cryptopanic.com/news/33638691/BREAKING-EVEN-MORE-HACK-NEWS-European-supermarkets-have-reportedly-been-hit-by-CYBERATTACKS-causing-freezers-to-overheat-to-55C-Stores-in-Sweden-and-Belgium-have-been-forced-to-destroy-large-quantities-of-food-with-ICA-Coop-Carrefour-and-Delhaize-affected-Similar",
-    "source": "@realallincrypto",
-    "published": "Mon Nov 02 2026 17:01:55 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
