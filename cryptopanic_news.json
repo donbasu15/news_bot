@@ -1,9 +1,51 @@
 [
   {
+    "title": "European supermarket fridges hacked again",
+    "link": "https://cryptopanic.com/news/33638143/European-supermarket-fridges-hacked-again",
+    "source": "protos.com",
+    "published": "Mon Nov 02 2026 15:50:17 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: The XRP Ledger is set to activate a fix on Wednesday closing a loophole that lets authorized token-burners also create new tokens, a security patch affecting stablecoin issuers, with 33 of 35 trusted validators already in support.",
+    "link": "https://cryptopanic.com/news/33638159/UPDATE-The-XRP-Ledger-is-set-to-activate-a-fix-on-Wednesday-closing-a-loophole-that-lets-authorized-token-burners-also-create-new-tokens-a-security-patch-affecting-stablecoin-issuers-with-33-of-35-trusted-validators-already-in-support",
+    "source": "@coindesk",
+    "published": "Mon Nov 02 2026 15:48:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "India Petronet in talks with Qatar for delivery of delayed LNG cargoes",
+    "link": "https://cryptopanic.com/news/33638167/India-Petronet-in-talks-with-Qatar-for-delivery-of-delayed-LNG-cargoes",
+    "source": "@reutersbiz",
+    "published": "Mon Nov 02 2026 15:45:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "️ JUST IN: Tether has burned $2 billion worth of USDT on Ethereum.",
+    "link": "https://cryptopanic.com/news/33638164/JUST-IN-Tether-has-burned-2-billion-worth-of-USDT-on-Ethereum",
+    "source": "@cointelegraph",
+    "published": "Mon Nov 02 2026 15:40:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Core Lightning nodes can keep crashing after an upgrade until a stored trigger is removed",
     "link": "https://cryptopanic.com/news/33638096/Core-Lightning-nodes-can-keep-crashing-after-an-upgrade-until-a-stored-trigger-is-removed",
     "source": "cryptoslate.com",
     "published": "Mon Nov 02 2026 15:40:25 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: restored its GitBook documentation following unauthorized activity but warned users to avoid clicking links while the investigation continues.",
+    "link": "https://cryptopanic.com/news/33638163/NEW-restored-its-GitBook-documentation-following-unauthorized-activity-but-warned-users-to-avoid-clicking-links-while-the-investigation-continues",
+    "source": "@cointelegraph",
+    "published": "Mon Nov 02 2026 15:38:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Midnight Foundation CTO on shielding block producers and holders from the wave of AI attacks, says $ADA has \"decent privacy-preservation in this regard. In Cardano, you can't know which pool will generate a block ahead of time.\"",
+    "link": "https://cryptopanic.com/news/33638153/UPDATE-Midnight-Foundation-CTO-on-shielding-block-producers-and-holders-from-the-wave-of-AI-attacks-says-ADA-has-decent-privacy-preservation-in-this-regard-In-Cardano-you-cant-know-which-pool-will-generate-a-block-ahead-of-time",
+    "source": "@angrycryptoshow",
+    "published": "Mon Nov 02 2026 15:34:43 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -14,6 +56,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Bitpanda (@Bitpanda_global) CEO Christian Trummer answers the question on #CHAINREACTION: Who stands to gain the most from crypto’s AI boom — and who risks losing out?",
+    "link": "https://cryptopanic.com/news/33638162/Bitpanda-Bitpanda_global-CEO-Christian-Trummer-answers-the-question-on-CHAINREACTION-Who-stands-to-gain-the-most-from-cryptos-AI-boom-and-who-risks-losing-out",
+    "source": "@cointelegraph",
+    "published": "Mon Nov 02 2026 15:31:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Binance’s $6.3 Billion Crypto Theft: What Happened?",
     "link": "https://cryptopanic.com/news/33638090/Binances-63-Billion-Crypto-Theft-What-Happened",
     "source": "SimplyBitcoin",
@@ -21,10 +70,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "TSX opens higher as oil tumbles on hopes of easing Middle East tensions",
+    "link": "https://cryptopanic.com/news/33638166/TSX-opens-higher-as-oil-tumbles-on-hopes-of-easing-Middle-East-tensions",
+    "source": "@reutersbiz",
+    "published": "Mon Nov 02 2026 15:30:28 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Tether Freezes Over 4.5M USDT Tied to Mercado Bitcoin Security Incident.\n\nTether CEO Paolo Ardoino announced the freeze after the Brazilian exchange said it had contained an overnight security incident with no customer losses or data leak and temporarily suspended deposits and",
     "link": "https://cryptopanic.com/news/33638078/Tether-Freezes-Over-45M-USDT-Tied-to-Mercado-Bitcoin-Security-Incident-Tether-CEO-Paolo-Ardoino-announced-the-freeze-after-the-Brazilian-exchange-said-it-had-contained-an-overnight-security-incident-with-no-customer-losses-or-data-leak-and-temporarily-suspended-deposits-and",
     "source": "@decryptmedia",
     "published": "Mon Nov 02 2026 15:25:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: 🇺🇸🇮🇷 Brent Crude Oil crashes 5% after reports of US and Iran nearing a deal.",
+    "link": "https://cryptopanic.com/news/33638158/JUST-IN-Brent-Crude-Oil-crashes-5-after-reports-of-US-and-Iran-nearing-a-deal",
+    "source": "@cryptonwsuk",
+    "published": "Mon Nov 02 2026 15:24:21 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -63,15 +126,15 @@
     "sentiment": "neutral"
   },
   {
-    "title": "INTEL: Tether freezes over 4.5 million USDT tied to Brazilian exchange Mercado Bitcoin security incident",
-    "link": "https://cryptopanic.com/news/33638081/INTEL-Tether-freezes-over-45-million-USDT-tied-to-Brazilian-exchange-Mercado-Bitcoin-security-incident",
+    "title": "Mercado Bitcoin says the incident is identified and contained, with no customer losses or data leak. Deposits and withdrawals are suspended as a precaution while it investigates and traces the assets",
+    "link": "https://cryptopanic.com/news/33638080/Mercado-Bitcoin-says-the-incident-is-identified-and-contained-with-no-customer-losses-or-data-leak-Deposits-and-withdrawals-are-suspended-as-a-precaution-while-it-investigates-and-traces-the-assets",
     "source": "@solidintel_x",
     "published": "Mon Nov 02 2026 15:16:43 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
-    "title": "Mercado Bitcoin says the incident is identified and contained, with no customer losses or data leak. Deposits and withdrawals are suspended as a precaution while it investigates and traces the assets",
-    "link": "https://cryptopanic.com/news/33638080/Mercado-Bitcoin-says-the-incident-is-identified-and-contained-with-no-customer-losses-or-data-leak-Deposits-and-withdrawals-are-suspended-as-a-precaution-while-it-investigates-and-traces-the-assets",
+    "title": "INTEL: Tether freezes over 4.5 million USDT tied to Brazilian exchange Mercado Bitcoin security incident",
+    "link": "https://cryptopanic.com/news/33638081/INTEL-Tether-freezes-over-45-million-USDT-tied-to-Brazilian-exchange-Mercado-Bitcoin-security-incident",
     "source": "@solidintel_x",
     "published": "Mon Nov 02 2026 15:16:43 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
@@ -126,6 +189,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "The “Whale” Buying 27,553 ETH Overnight Was a Thief: ZachXBT Ties It to a Suspected $106 Million Crypto Hack",
+    "link": "https://cryptopanic.com/news/33638139/The-Whale-Buying-27553-ETH-Overnight-Was-a-Thief-ZachXBT-Ties-It-to-a-Suspected-106-Million-Crypto-Hack",
+    "source": "99bitcoins.com",
+    "published": "Mon Nov 02 2026 15:11:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Morning Bid podcast host Mike Dolan explains last week's heist on Binance, as customers yanked $3.64 billion from the world's largest crypto exchange after it was partially reopened. Listen to the full episode",
     "link": "https://cryptopanic.com/news/33637969/Morning-Bid-podcast-host-Mike-Dolan-explains-last-weeks-heist-on-Binance-as-customers-yanked-364-billion-from-the-worlds-largest-crypto-exchange-after-it-was-partially-reopened-Listen-to-the-full-episode",
     "source": "@reutersbiz",
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/33638131/JUST-IN-Elon-Musks-SpaceX-SPCX-in-talks-to-acquire-Boost-Mobile-to-enter-the-mobile-phone-service-market-WaPo-reports",
     "source": "@watcherguru",
     "published": "Mon Nov 02 2026 15:08:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Lace v2.5 is now live on desktop, featuring enhanced clarity, smoother transactions, and new features, including smarter $ADA sends using eligible staking rewards, clearer dApp signing errors, account-specific wallet sync resets, and DUST generation from $NIGHT on Cardano.",
-    "link": "https://cryptopanic.com/news/33637957/NEW-Lace-v25-is-now-live-on-desktop-featuring-enhanced-clarity-smoother-transactions-and-new-features-including-smarter-ADA-sends-using-eligible-staking-rewards-clearer-dApp-signing-errors-account-specific-wallet-sync-resets-and-DUST-generation-from-NIGHT-on-Cardano",
-    "source": "@angrycryptoshow",
-    "published": "Mon Nov 02 2026 15:06:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "How Bitcoin Looks Heading Into a High-Stakes US Midterm Election Week",
-    "link": "https://cryptopanic.com/news/33638015/How-Bitcoin-Looks-Heading-Into-a-High-Stakes-US-Midterm-Election-Week",
-    "source": "beincrypto.com",
-    "published": "Mon Nov 02 2026 15:05:56 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Iran offers to reopen the Strait of Hormuz within 48 hours if U.S. meets its demands.",
-    "link": "https://cryptopanic.com/news/33637962/JUST-IN-Iran-offers-to-reopen-the-Strait-of-Hormuz-within-48-hours-if-US-meets-its-demands",
-    "source": "@cryptonwsuk",
-    "published": "Mon Nov 02 2026 15:05:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BREAKING: Trump said he would be willing to offer protective pardons to Elon Musk and close aides if Democrats take control of Congress after the midterm elections",
-    "link": "https://cryptopanic.com/news/33637961/BREAKING-Trump-said-he-would-be-willing-to-offer-protective-pardons-to-Elon-Musk-and-close-aides-if-Democrats-take-control-of-Congress-after-the-midterm-elections",
-    "source": "@cryptonwsuk",
-    "published": "Mon Nov 02 2026 15:04:44 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: GitBook documentation compromised, users warned against clicking links",
-    "link": "https://cryptopanic.com/news/33638079/INTEL-GitBook-documentation-compromised-users-warned-against-clicking-links",
-    "source": "@solidintel_x",
-    "published": "Mon Nov 02 2026 15:03:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Internet Computer has just hit a NEW ALL-TIME HIGH of 1.17 MILLION smart contracts running on its network! \n\nThat's over 540 new additions EVERY SINGLE DAY and a 20% increase in just one year!\n\nThese smart contracts are the building blocks that power apps, websites and services",
-    "link": "https://cryptopanic.com/news/33638073/Internet-Computer-has-just-hit-a-NEW-ALL-TIME-HIGH-of-117-MILLION-smart-contracts-running-on-its-network-Thats-over-540-new-additions-EVERY-SINGLE-DAY-and-a-20-increase-in-just-one-year-These-smart-contracts-are-the-building-blocks-that-power-apps-websites-and-services",
-    "source": "@realallincrypto",
-    "published": "Mon Nov 02 2026 15:01:39 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Strive inches closer to becoming second-largest public bitcoin holder after latest $10 million buy",
-    "link": "https://cryptopanic.com/news/33637899/Strive-inches-closer-to-becoming-second-largest-public-bitcoin-holder-after-latest-10-million-buy",
-    "source": "theblock.co",
-    "published": "Mon Nov 02 2026 15:01:36 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto Rebounds in Binance Hack Aftermath, Markets and News.",
-    "link": "https://cryptopanic.com/news/33638076/Crypto-Rebounds-in-Binance-Hack-Aftermath-Markets-and-News",
-    "source": "@decryptmedia",
-    "published": "Mon Nov 02 2026 15:01:16 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "How T7X Is Building the Infrastructure for a New Era of Capital Markets",
-    "link": "https://cryptopanic.com/news/33637895/How-T7X-Is-Building-the-Infrastructure-for-a-New-Era-of-Capital-Markets",
-    "source": "decrypt.co",
-    "published": "Mon Nov 02 2026 15:01:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Breakingviews - COMMENTARY: Alstom crunch derails funky-debt gravy train",
-    "link": "https://cryptopanic.com/news/33637967/Breakingviews-COMMENTARY-Alstom-crunch-derails-funky-debt-gravy-train",
-    "source": "@reutersbiz",
-    "published": "Mon Nov 02 2026 15:00:50 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
