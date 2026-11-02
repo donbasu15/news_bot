@@ -1,5 +1,75 @@
 [
   {
+    "title": "DTCC’s tokenization launch could accelerate adoption and boost Securitize, StoneX says",
+    "link": "https://cryptopanic.com/news/33639158/DTCCs-tokenization-launch-could-accelerate-adoption-and-boost-Securitize-StoneX-says",
+    "source": "theblock.co",
+    "published": "Mon Nov 02 2026 19:15:48 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Solada has generated over 20.5M $ADA in trade volume, over 143,000 $ADA in rewards, and just launched a new transparency page showcasing real-time metrics for rewards, fees, token burns, liquidity added, and more.",
+    "link": "https://cryptopanic.com/news/33639154/JUST-IN-Solada-has-generated-over-205M-ADA-in-trade-volume-over-143000-ADA-in-rewards-and-just-launched-a-new-transparency-page-showcasing-real-time-metrics-for-rewards-fees-token-burns-liquidity-added-and-more",
+    "source": "@angrycryptoshow",
+    "published": "Mon Nov 02 2026 19:05:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Top Neuroscientist: \"We Have Paused Human Development\" | Karl Friston",
+    "link": "https://cryptopanic.com/news/33639121/Top-Neuroscientist-We-Have-Paused-Human-Development-Karl-Friston",
+    "source": "whatbitcoindid",
+    "published": "Mon Nov 02 2026 19:00:35 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Peter Schiff Says Trump Is Toying With Oil Markets: ‘Expect Another Reversal’",
+    "link": "https://cryptopanic.com/news/33639155/Peter-Schiff-Says-Trump-Is-Toying-With-Oil-Markets-Expect-Another-Reversal",
+    "source": "feeds2.benzinga.com",
+    "published": "Mon Nov 02 2026 19:00:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "FOMO HOUR ft @Tyler_Did_It and @farokh\n- \n-",
+    "link": "https://cryptopanic.com/news/33639070/FOMO-HOUR-ft-Tyler_Did_It-and-farokh-",
+    "source": "@decryptmedia",
+    "published": "Mon Nov 02 2026 19:00:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Who was behind Binance's $6.3B hack? @Tyler_Did_It breaks down the FBI's TraderTraitor attribution, how the hot wallet was drained, and the $1.5B+ Tether and $823M Circle freezes.",
+    "link": "https://cryptopanic.com/news/33639071/Who-was-behind-Binances-63B-hack-Tyler_Did_It-breaks-down-the-FBIs-TraderTraitor-attribution-how-the-hot-wallet-was-drained-and-the-15B-Tether-and-823M-Circle-freezes",
+    "source": "@decryptmedia",
+    "published": "Mon Nov 02 2026 19:00:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "THORChain Bug Stalls Binance Hackers in an Accidental Emergency Pause",
+    "link": "https://cryptopanic.com/news/33639120/THORChain-Bug-Stalls-Binance-Hackers-in-an-Accidental-Emergency-Pause",
+    "source": "coinpaprika.com",
+    "published": "Mon Nov 02 2026 19:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Linux earns ‘worst bug in the history of the internet’ status",
+    "link": "https://cryptopanic.com/news/33639063/Linux-earns-worst-bug-in-the-history-of-the-internet-status",
+    "source": "protos.com",
+    "published": "Mon Nov 02 2026 18:58:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "FATF to review crypto hubs for AML failures, first results due June 2027",
+    "link": "https://cryptopanic.com/news/33639117/FATF-to-review-crypto-hubs-for-AML-failures-first-results-due-June-2027",
+    "source": "cryptopolitan.com",
+    "published": "Mon Nov 02 2026 18:55:58 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Tether freezes Binance hack funds, immobilizing over $1.5B in 30 minutes",
+    "link": "https://cryptopanic.com/news/33639060/Tether-freezes-Binance-hack-funds-immobilizing-over-15B-in-30-minutes",
+    "source": "en.cryptonomist.ch",
+    "published": "Mon Nov 02 2026 18:54:46 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "JUST IN: 🇰🇵 North Korean hackers have stolen $12,800,000,000 in crypto since 2017, equivalent to 45% of the country's GDP.",
     "link": "https://cryptopanic.com/news/33639074/JUST-IN-North-Korean-hackers-have-stolen-12800000000-in-crypto-since-2017-equivalent-to-45-of-the-countrys-GDP",
     "source": "@watcherguru",
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/33639045/NEW-Nvidia-Costco-Nike-and-Micron-are-among-12-additional-companies-objecting-to-OKXICEs-tokenized-stock-trading-plans-bringing-the-tally-to-50-firms-pushing-back-against-listing-on-the-venue",
     "source": "@coindesk",
     "published": "Mon Nov 02 2026 18:11:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Fidelity Digital says custody requires a layered approach to minimize single points of failure and support institutional-scale participation.\n\nFair point, but they don't handle 100,000+ daily active client deposits and withdrawals 24/7 across 10+ networks.",
-    "link": "https://cryptopanic.com/news/33638944/Fidelity-Digital-says-custody-requires-a-layered-approach-to-minimize-single-points-of-failure-and-support-institutional-scale-participation-Fair-point-but-they-dont-handle-100000-daily-active-client-deposits-and-withdrawals-247-across-10-networks",
-    "source": "@btc_archive",
-    "published": "Mon Nov 02 2026 18:07:54 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Solana Validator Hack Exposes Five Operators as $135,000 in Crypto Flows Into Tornado Cash",
-    "link": "https://cryptopanic.com/news/33638852/Solana-Validator-Hack-Exposes-Five-Operators-as-135000-in-Crypto-Flows-Into-Tornado-Cash",
-    "source": "coinpaper.com",
-    "published": "Mon Nov 02 2026 18:06:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Mercado Bitcoin Halts Withdrawals After Security Incident as Hypernative Flags $40M Outflows",
-    "link": "https://cryptopanic.com/news/33638848/Mercado-Bitcoin-Halts-Withdrawals-After-Security-Incident-as-Hypernative-Flags-40M-Outflows",
-    "source": "cryptopotato.com",
-    "published": "Mon Nov 02 2026 18:01:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "China’s Biggest Banks Report Strongest Profit Growth Since 2022",
-    "link": "https://cryptopanic.com/news/33638838/Chinas-Biggest-Banks-Report-Strongest-Profit-Growth-Since-2022",
-    "source": "catenaa.com",
-    "published": "Mon Nov 02 2026 18:01:51 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST: Morgan Stanley downgraded Coinbase ($COIN) to Underweight from Equal-weight and slashed its price target to $120 from $258, citing downside risks to earnings and a weaker recovery outlook.",
-    "link": "https://cryptopanic.com/news/33639046/LATEST-Morgan-Stanley-downgraded-Coinbase-COIN-to-Underweight-from-Equal-weight-and-slashed-its-price-target-to-120-from-258-citing-downside-risks-to-earnings-and-a-weaker-recovery-outlook",
-    "source": "@cointelegraph",
-    "published": "Mon Nov 02 2026 18:00:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "British Columbia First Nation files court challenge over Pacific Link oil pipeline consultations",
-    "link": "https://cryptopanic.com/news/33639049/British-Columbia-First-Nation-files-court-challenge-over-Pacific-Link-oil-pipeline-consultations",
-    "source": "@reutersbiz",
-    "published": "Mon Nov 02 2026 18:00:55 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Surprising US-Iran Peace Talks: Gold and Silver Surge, Oil Prices Fall",
-    "link": "https://cryptopanic.com/news/33639059/Surprising-US-Iran-Peace-Talks-Gold-and-Silver-Surge-Oil-Prices-Fall",
-    "source": "beincrypto.com",
-    "published": "Mon Nov 02 2026 18:00:45 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Tomorrow:\n\n$CC: Universal Burn Discussion (impact 6/10)\n\nEvent details",
-    "link": "https://cryptopanic.com/news/33638879/Tomorrow-CC-Universal-Burn-Discussion-impact-610-Event-details",
-    "source": "@coinmarketcal",
-    "published": "Mon Nov 02 2026 18:00:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "HUGE: Polymarket is EXPANDING its partnership with Chainlink into traditional markets!\n\nGold and silver are LIVE, with stocks, FX and more commodities next.\n\nRemember, Polymarket's explosive growth in short-term markets followed its initial @chainlink integration, with over $11",
-    "link": "https://cryptopanic.com/news/33638880/HUGE-Polymarket-is-EXPANDING-its-partnership-with-Chainlink-into-traditional-markets-Gold-and-silver-are-LIVE-with-stocks-FX-and-more-commodities-next-Remember-Polymarkets-explosive-growth-in-short-term-markets-followed-its-initial-chainlink-integration-with-over-11",
-    "source": "@realallincrypto",
-    "published": "Mon Nov 02 2026 18:00:07 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Marvell to Acquire Lumentum in $115 Billion All-Stock AI Connectivity Deal.\n\nLumentum stockholders will receive 4.5 Marvell shares for each share they own, giving them about 33% of the combined company, with the deal expected to close in the first half of 2028.",
-    "link": "https://cryptopanic.com/news/33638884/Marvell-to-Acquire-Lumentum-in-115-Billion-All-Stock-AI-Connectivity-Deal-Lumentum-stockholders-will-receive-45-Marvell-shares-for-each-share-they-own-giving-them-about-33-of-the-combined-company-with-the-deal-expected-to-close-in-the-first-half-of-2028",
-    "source": "@decryptmedia",
-    "published": "Mon Nov 02 2026 18:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
