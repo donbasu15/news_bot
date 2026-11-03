@@ -1,5 +1,75 @@
 [
   {
+    "title": "NEAR stakers face 3.37% yield after issuance cut vote",
+    "link": "https://cryptopanic.com/news/33642403/NEAR-stakers-face-337-yield-after-issuance-cut-vote",
+    "source": "cryptopolitan.com",
+    "published": "Tue Nov 03 2026 10:14:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Celestia’s hourly RSI hits 28.8, but daily trend stays weak",
+    "link": "https://cryptopanic.com/news/33642402/Celestias-hourly-RSI-hits-288-but-daily-trend-stays-weak",
+    "source": "en.cryptonomist.ch",
+    "published": "Tue Nov 03 2026 10:13:20 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cardano’s $0.1882 bounce has not reversed its bearish trend",
+    "link": "https://cryptopanic.com/news/33642401/Cardanos-01882-bounce-has-not-reversed-its-bearish-trend",
+    "source": "en.cryptonomist.ch",
+    "published": "Tue Nov 03 2026 10:12:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "SpaceX Stock Price Predictions for 2027 Show Huge Upside",
+    "link": "https://cryptopanic.com/news/33642343/SpaceX-Stock-Price-Predictions-for-2027-Show-Huge-Upside",
+    "source": "coinpaper.com",
+    "published": "Tue Nov 03 2026 10:08:19 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Stock Market Today: Dow, S&P 500 Futures Mixed as Trump Touts Iran Settlement Hopes — AAPL, PLTR, AMD in Focus",
+    "link": "https://cryptopanic.com/news/33642416/Stock-Market-Today-Dow-SP-500-Futures-Mixed-as-Trump-Touts-Iran-Settlement-Hopes-AAPL-PLTR-AMD-in-Focus",
+    "source": "feeds2.benzinga.com",
+    "published": "Tue Nov 03 2026 10:06:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "ZEC and NEAR Tank Again, BTC Dives Ahead of US Midterm Elections: Market Watch",
+    "link": "https://cryptopanic.com/news/33642346/ZEC-and-NEAR-Tank-Again-BTC-Dives-Ahead-of-US-Midterm-Elections-Market-Watch",
+    "source": "cryptopotato.com",
+    "published": "Tue Nov 03 2026 10:05:53 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Oracle stock falls 8.76% to $119.22 as bearish daily signals dominate",
+    "link": "https://cryptopanic.com/news/33642330/Oracle-stock-falls-876-to-11922-as-bearish-daily-signals-dominate",
+    "source": "en.cryptonomist.ch",
+    "published": "Tue Nov 03 2026 10:01:21 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Vitalik Buterin Warns AI Could Put The World Under One Powerful Player\n\nEthereum (@ethereum) $ETH co-founder Vitalik Buterin (@VitalikButerin) says the world is heading toward a dangerous model of AI security.\n\nHe believes slowing AI development is no longer a realistic option.",
+    "link": "https://cryptopanic.com/news/33642280/Vitalik-Buterin-Warns-AI-Could-Put-The-World-Under-One-Powerful-Player-Ethereum-ethereum-ETH-co-founder-Vitalik-Buterin-VitalikButerin-says-the-world-is-heading-toward-a-dangerous-model-of-AI-security-He-believes-slowing-AI-development-is-no-longer-a-realistic-option",
+    "source": "@bscnews",
+    "published": "Tue Nov 03 2026 10:00:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "NEW: Tom Lee declares the stock market has BOTTOMED!\n\nHe's doubling down on his S&P 500 target of 8,200+ by the end of the year, arguing AI demand remains strong despite spending constraints.\n\nWith solid Q3 earnings and historically favourable post-midterm trends, Lee expects",
+    "link": "https://cryptopanic.com/news/33642278/NEW-Tom-Lee-declares-the-stock-market-has-BOTTOMED-Hes-doubling-down-on-his-SampP-500-target-of-8200-by-the-end-of-the-year-arguing-AI-demand-remains-strong-despite-spending-constraints-With-solid-Q3-earnings-and-historically-favourable-post-midterm-trends-Lee-expects",
+    "source": "@realallincrypto",
+    "published": "Tue Nov 03 2026 10:00:08 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The Midterm Elections are today.\n\nThe S&P 500 has consistently traded higher 1 year after election day since 1946. 20 out of 20 times \n\n19 out of 20 after 6 months\n18 out of 20 after 3 months\n15 out of 20 after 1 month\n\nThe ones marked blue on the left are republican presidents",
+    "link": "https://cryptopanic.com/news/33642276/The-Midterm-Elections-are-today-The-SampP-500-has-consistently-traded-higher-1-year-after-election-day-since-1946-20-out-of-20-times-19-out-of-20-after-6-months-18-out-of-20-after-3-months-15-out-of-20-after-1-month-The-ones-marked-blue-on-the-left-are-republican-presidents",
+    "source": "@daancrypto",
+    "published": "Tue Nov 03 2026 09:57:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "XRP Ledger Price Oracle Supports RLUSD and Euro Stablecoin Data as Institutional Features Expand",
     "link": "https://cryptopanic.com/news/33642256/XRP-Ledger-Price-Oracle-Supports-RLUSD-and-Euro-Stablecoin-Data-as-Institutional-Features-Expand",
     "source": "coinpaper.com",
@@ -137,76 +207,6 @@
     "link": "https://cryptopanic.com/news/33642253/BTC-USD-Slides-to-76500-as-America-Votes-and-the-US-Strikes-Iran-Again-Is-the-Midterm-Dip-a-Trap-or-a-Buy",
     "source": "99bitcoins.com",
     "published": "Tue Nov 03 2026 09:18:04 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto Withdrawals: Why October’s Account Loss Was Not the Asset Return",
-    "link": "https://cryptopanic.com/news/33642145/Crypto-Withdrawals-Why-Octobers-Account-Loss-Was-Not-the-Asset-Return",
-    "source": "btcusa.com",
-    "published": "Tue Nov 03 2026 09:16:24 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "AguilaTrades (@AguilaTrades) is back after losing over $38M and getting liquidated again and again!\n\nHe's now shorting 93.67 $BTC ($7.19M) with 40x leverage, with a liquidation price of $77,435.21.",
-    "link": "https://cryptopanic.com/news/33642197/AguilaTrades-AguilaTrades-is-back-after-losing-over-38M-and-getting-liquidated-again-and-again-Hes-now-shorting-9367-BTC-719M-with-40x-leverage-with-a-liquidation-price-of-7743521",
-    "source": "@lookonchain",
-    "published": "Tue Nov 03 2026 09:13:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "🇦🇺 TODAY: Australia raises interest rates by 25 basis points to 4.85%, an 18-year high, as AI investment and higher energy costs fuel inflation.",
-    "link": "https://cryptopanic.com/news/33642135/TODAY-Australia-raises-interest-rates-by-25-basis-points-to-485-an-18-year-high-as-AI-investment-and-higher-energy-costs-fuel-inflation",
-    "source": "@cointelegraph",
-    "published": "Tue Nov 03 2026 09:10:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEAR Intents Recorded its Biggest Revenue Month Ever\n\nNEAR Intents (@near_intents) generated more revenue in October than any previous month, according to NEAR Protocol (@NEARProtocol) $NEAR.\n\nThe platform recorded $3.9 billion in 30-day volume and $2.4 million in revenue.\n\nIts",
-    "link": "https://cryptopanic.com/news/33642137/NEAR-Intents-Recorded-its-Biggest-Revenue-Month-Ever-NEAR-Intents-near_intents-generated-more-revenue-in-October-than-any-previous-month-according-to-NEAR-Protocol-NEARProtocol-NEAR-The-platform-recorded-39-billion-in-30-day-volume-and-24-million-in-revenue-Its",
-    "source": "@bscnews",
-    "published": "Tue Nov 03 2026 09:03:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Standard Chartered Launches Tokenised Deposits in Hong Kong as HKMA Opens EnsembleTX to 24/7 Settlement",
-    "link": "https://cryptopanic.com/news/33642085/Standard-Chartered-Launches-Tokenised-Deposits-in-Hong-Kong-as-HKMA-Opens-EnsembleTX-to-247-Settlement",
-    "source": "www.blockhead.co",
-    "published": "Tue Nov 03 2026 09:01:48 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: Standard Chartered has officially launched TOKENISED BANK DEPOSITS in Hong Kong! \n\nPartnering with Ant International, the banking giant is enabling businesses to move Hong Kong dollars, Chinese yuan and US dollars 24/7 using blockchain technology!\n\nWe know they have worked",
-    "link": "https://cryptopanic.com/news/33642136/NEW-Standard-Chartered-has-officially-launched-TOKENISED-BANK-DEPOSITS-in-Hong-Kong-Partnering-with-Ant-International-the-banking-giant-is-enabling-businesses-to-move-Hong-Kong-dollars-Chinese-yuan-and-US-dollars-247-using-blockchain-technology-We-know-they-have-worked",
-    "source": "@realallincrypto",
-    "published": "Tue Nov 03 2026 09:00:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "In case nobody told you this today \n\n        posture check🪑",
-    "link": "https://cryptopanic.com/news/33642040/In-case-nobody-told-you-this-today-posture-check",
-    "source": "@coinmarketcap",
-    "published": "Tue Nov 03 2026 09:00:06 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hong Kong Pushes Tokenised Settlement to 24/7, Stablecoin Trials Next",
-    "link": "https://cryptopanic.com/news/33642110/Hong-Kong-Pushes-Tokenised-Settlement-to-247-Stablecoin-Trials-Next",
-    "source": "coinpaprika.com",
-    "published": "Tue Nov 03 2026 09:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Disney Layoffs Could Hit Thousands, With Some Managers Told to Cut 20%",
-    "link": "https://cryptopanic.com/news/33642150/Disney-Layoffs-Could-Hit-Thousands-With-Some-Managers-Told-to-Cut-20",
-    "source": "beincrypto.com",
-    "published": "Tue Nov 03 2026 09:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin’s Rebound Fades: Weak Demand and Long Liquidations Push BTC to $76,800\n\n“Some spot buying persists, but it has not absorbed futures selling and liquidations.” – By @xwinfinance",
-    "link": "https://cryptopanic.com/news/33642041/Bitcoins-Rebound-Fades-Weak-Demand-and-Long-Liquidations-Push-BTC-to-76800-Some-spot-buying-persists-but-it-has-not-absorbed-futures-selling-and-liquidations-By-xwinfinance",
-    "source": "@cryptoquant_com",
-    "published": "Tue Nov 03 2026 08:59:24 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
