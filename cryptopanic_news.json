@@ -1,5 +1,47 @@
 [
   {
+    "title": "Evernorth’s Warrants Could Raise $135 Million.. Or Not",
+    "link": "https://cryptopanic.com/news/33640380/Evernorths-Warrants-Could-Raise-135-Million-Or-Not",
+    "source": "dailycoin.com",
+    "published": "Tue Nov 03 2026 01:40:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "BNY Adds XRP and RLUSD Custody as Ripple Targets Tokenized Trade Finance",
+    "link": "https://cryptopanic.com/news/33640378/BNY-Adds-XRP-and-RLUSD-Custody-as-Ripple-Targets-Tokenized-Trade-Finance",
+    "source": "techgaged.com",
+    "published": "Tue Nov 03 2026 01:40:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UPDATE: Mercado Bitcoin says about $38M was affected in today’s security incident, with $11M already blocked with help from Tether, Circle and others.\n\nThe exchange says users will not lose any assets.",
+    "link": "https://cryptopanic.com/news/33640395/UPDATE-Mercado-Bitcoin-says-about-38M-was-affected-in-todays-security-incident-with-11M-already-blocked-with-help-from-Tether-Circle-and-others-The-exchange-says-users-will-not-lose-any-assets",
+    "source": "@cointelegraph",
+    "published": "Tue Nov 03 2026 01:30:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Coinbase Says Smaller AI Model Beat Frontier LLMs at Fraud Detection in Internal Tests",
+    "link": "https://cryptopanic.com/news/33640368/Coinbase-Says-Smaller-AI-Model-Beat-Frontier-LLMs-at-Fraud-Detection-in-Internal-Tests",
+    "source": "techgaged.com",
+    "published": "Tue Nov 03 2026 01:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Mysterious whale is dumping vast amounts of $SOL ...\n\nAccording to @lookonchain data, an unknown whale is viciously selling off @Solana tokens.\n\nIn the past 10 days alone, they sent a staggering 1.49M $SOL, worth $148.77M, to various centralised exchanges.\n\nSomeone is very",
+    "link": "https://cryptopanic.com/news/33640397/Mysterious-whale-is-dumping-vast-amounts-of-SOL-According-to-lookonchain-data-an-unknown-whale-is-viciously-selling-off-Solana-tokens-In-the-past-10-days-alone-they-sent-a-staggering-149M-SOL-worth-14877M-to-various-centralised-exchanges-Someone-is-very",
+    "source": "@bscnews",
+    "published": "Tue Nov 03 2026 01:27:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "S&P Global Ratings Brings DeFi Vault Risk Assessments Onchain Through Chainlink",
+    "link": "https://cryptopanic.com/news/33640356/SP-Global-Ratings-Brings-DeFi-Vault-Risk-Assessments-Onchain-Through-Chainlink",
+    "source": "techgaged.com",
+    "published": "Tue Nov 03 2026 01:20:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Polygon Open Money Stack Adds Solana for Full Bank-to-Stablecoin Payments",
     "link": "https://cryptopanic.com/news/33640323/Polygon-Open-Money-Stack-Adds-Solana-for-Full-Bank-to-Stablecoin-Payments",
     "source": "techgaged.com",
@@ -14,6 +56,20 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Tether CEO Says Company Owns Approximately 150,000 Bitcoin\n\nTether CEO Paolo Ardoino said during his keynote at the Plan ₿ Forum in Lugano that the company owns approximately 150,000 BTC. He also claimed that Tether serves more than 730 million users globally, adding around 30",
+    "link": "https://cryptopanic.com/news/33640367/Tether-CEO-Says-Company-Owns-Approximately-150000-Bitcoin-Tether-CEO-Paolo-Ardoino-said-during-his-keynote-at-the-Plan-Forum-in-Lugano-that-the-company-owns-approximately-150000-BTC-He-also-claimed-that-Tether-serves-more-than-730-million-users-globally-adding-around-30",
+    "source": "@wublockchain",
+    "published": "Tue Nov 03 2026 01:08:26 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "TODAY: NYSE adds Broadridge, Computershare, Equiniti and Superstate as transfer agent partners for its new tokenized securities venue, joining Securitize and tZERO.",
+    "link": "https://cryptopanic.com/news/33640394/TODAY-NYSE-adds-Broadridge-Computershare-Equiniti-and-Superstate-as-transfer-agent-partners-for-its-new-tokenized-securities-venue-joining-Securitize-and-tZERO",
+    "source": "@cointelegraph",
+    "published": "Tue Nov 03 2026 01:00:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Aviva Tokenizes a £22B Money Market Fund’s Sterling Share Class on XRP Ledger",
     "link": "https://cryptopanic.com/news/33640254/Aviva-Tokenizes-a-22B-Money-Market-Funds-Sterling-Share-Class-on-XRP-Ledger",
     "source": "techgaged.com",
@@ -21,10 +77,24 @@
     "sentiment": "neutral"
   },
   {
+    "title": "3 Altcoins to Watch in the First Week of November 2026",
+    "link": "https://cryptopanic.com/news/33640396/3-Altcoins-to-Watch-in-the-First-Week-of-November-2026",
+    "source": "beincrypto.com",
+    "published": "Tue Nov 03 2026 00:57:54 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "34.9 MILLION $ASTER tokens burned forever...\n\nThe industry-leading perps platform @Aster_DEX has now burned a total of some 34,912,404 $ASTER tokens, worth around $24.4M at time of writing, since implementing its new tokenomics in June 2026.\n\nEven more impressively, the project",
     "link": "https://cryptopanic.com/news/33640248/349-MILLION-ASTER-tokens-burned-forever-The-industry-leading-perps-platform-Aster_DEX-has-now-burned-a-total-of-some-34912404-ASTER-tokens-worth-around-244M-at-time-of-writing-since-implementing-its-new-tokenomics-in-June-2026-Even-more-impressively-the-project",
     "source": "@bscnews",
     "published": "Tue Nov 03 2026 00:55:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Binance Hacked for $6.3 Billion. Who’s Responsible?",
+    "link": "https://cryptopanic.com/news/33640377/Binance-Hacked-for-63-Billion-Whos-Responsible",
+    "source": "SimplyBitcoin",
+    "published": "Tue Nov 03 2026 00:54:11 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -53,6 +123,13 @@
     "link": "https://cryptopanic.com/news/33640315/SEC-Just-Made-Regulation-Easier-For-Governance-Tokens-Like-Uniswap",
     "source": "beincrypto.com",
     "published": "Tue Nov 03 2026 00:37:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Morgan Stanley Turns Bearish on Coinbase, Cutting Price Target by More Than Half",
+    "link": "https://cryptopanic.com/news/33640401/Morgan-Stanley-Turns-Bearish-on-Coinbase-Cutting-Price-Target-by-More-Than-Half",
+    "source": "cryptoprowl.com",
+    "published": "Tue Nov 03 2026 00:35:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -130,83 +207,6 @@
     "link": "https://cryptopanic.com/news/33640172/LATEST-Binance-has-raised-rebates-for-smaller-market-makers-to-boost-liquidity-after-last-weeks-record-63B-hack-per-Bloomberg",
     "source": "@cointelegraph",
     "published": "Tue Nov 03 2026 00:00:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Lido Opens 0x02 Community Staking for Higher-Balance Ethereum Validators",
-    "link": "https://cryptopanic.com/news/33640094/Lido-Opens-0x02-Community-Staking-for-Higher-Balance-Ethereum-Validators",
-    "source": "techgaged.com",
-    "published": "Tue Nov 03 2026 00:00:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Anthropic's Q3 revenue hit about $17B, roughly 12x a year earlier, against $17.5B in operating expenses. @Tyler_Did_It on what the numbers mean ahead of its IPO.",
-    "link": "https://cryptopanic.com/news/33640206/Anthropics-Q3-revenue-hit-about-17B-roughly-12x-a-year-earlier-against-175B-in-operating-expenses-Tyler_Did_It-on-what-the-numbers-mean-ahead-of-its-IPO",
-    "source": "@decryptmedia",
-    "published": "Mon Nov 02 2026 23:59:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "FOMO HOUR ft @Tyler_Did_It and @farokh\n- \n-",
-    "link": "https://cryptopanic.com/news/33640205/FOMO-HOUR-ft-Tyler_Did_It-and-farokh-",
-    "source": "@decryptmedia",
-    "published": "Mon Nov 02 2026 23:59:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LATEST:  Standard Chartered has launched tokenized deposits for corporate clients in Hong Kong, its first market for the product, with 24/7 interbank settlement.",
-    "link": "https://cryptopanic.com/news/33640090/LATEST-Standard-Chartered-has-launched-tokenized-deposits-for-corporate-clients-in-Hong-Kong-its-first-market-for-the-product-with-247-interbank-settlement",
-    "source": "@coinmarketcap",
-    "published": "Mon Nov 02 2026 23:51:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BABYDOGE inching closer to 2 million holders.\n\n@BabyDoge has added more than 12,000 holders on @BNBCHAIN to its ecosystem in the past two weeks, putting its current $BNB holder count at some 1,964,543 at time of writing.\n\nAt current pace, it will reach 2 million holders on the",
-    "link": "https://cryptopanic.com/news/33640200/BABYDOGE-inching-closer-to-2-million-holders-BabyDoge-has-added-more-than-12000-holders-on-BNBCHAIN-to-its-ecosystem-in-the-past-two-weeks-putting-its-current-BNB-holder-count-at-some-1964543-at-time-of-writing-At-current-pace-it-will-reach-2-million-holders-on-the",
-    "source": "@bscnews",
-    "published": "Mon Nov 02 2026 23:51:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Hanwha Selects Chainlink for Global Tokenized Assets Ahead of Korea’s 2027 Rules",
-    "link": "https://cryptopanic.com/news/33640073/Hanwha-Selects-Chainlink-for-Global-Tokenized-Assets-Ahead-of-Koreas-2027-Rules",
-    "source": "techgaged.com",
-    "published": "Mon Nov 02 2026 23:50:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "North Korea Dismisses FBI's Binance Hack Attribution as \"Absurd Rhetoric.\"\n\nKim Yo Jong, sister of leader Kim Jong Un, said in a statement carried by state media KCNA that the FBI is trying to \"brand the DPRK as a 'cyber criminal state'\" over the Binance theft.",
-    "link": "https://cryptopanic.com/news/33640066/North-Korea-Dismisses-FBIs-Binance-Hack-Attribution-as-Absurd-Rhetoric-Kim-Yo-Jong-sister-of-leader-Kim-Jong-Un-said-in-a-statement-carried-by-state-media-KCNA-that-the-FBI-is-trying-to-brand-the-DPRK-as-a-cyber-criminal-state-over-the-Binance-theft",
-    "source": "@decryptmedia",
-    "published": "Mon Nov 02 2026 23:45:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ripple Wins Final US Trust Bank Approval, but RLUSD Issuer Remains Unchanged",
-    "link": "https://cryptopanic.com/news/33640037/Ripple-Wins-Final-US-Trust-Bank-Approval-but-RLUSD-Issuer-Remains-Unchanged",
-    "source": "techgaged.com",
-    "published": "Mon Nov 02 2026 23:40:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "@MercadoBitcoin Brazilian crypto exchange Mercado Bitcoin said approximately $38 million in assets were involved in the security incident. Working with Tether, Circle, Paxos, BRL1, and Chainalysis, the exchange has blocked approximately $11 million and identified additional assets that may be",
-    "link": "https://cryptopanic.com/news/33640170/MercadoBitcoin-Brazilian-crypto-exchange-Mercado-Bitcoin-said-approximately-38-million-in-assets-were-involved-in-the-security-incident-Working-with-Tether-Circle-Paxos-BRL1-and-Chainalysis-the-exchange-has-blocked-approximately-11-million-and-identified-additional-assets-that-may-be",
-    "source": "@wublockchain",
-    "published": "Mon Nov 02 2026 23:33:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Chainlink Launches 24/7 Pricing for Tokenized Stocks as Aave Addresses Weekend Risk",
-    "link": "https://cryptopanic.com/news/33640013/Chainlink-Launches-247-Pricing-for-Tokenized-Stocks-as-Aave-Addresses-Weekend-Risk",
-    "source": "techgaged.com",
-    "published": "Mon Nov 02 2026 23:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "ALERT: An unidentified EU entity may have lost over $106M from multiple crypto exchange accounts on Sunday, according to ZachXBT. \n\nHe said the funds were moved into Monero and don’t appear linked to North Korea’s Lazarus Group. \n\nSeparately, a wallet tied to Solana arbitrage",
-    "link": "https://cryptopanic.com/news/33640016/ALERT-An-unidentified-EU-entity-may-have-lost-over-106M-from-multiple-crypto-exchange-accounts-on-Sunday-according-to-ZachXBT-He-said-the-funds-were-moved-into-Monero-and-dont-appear-linked-to-North-Koreas-Lazarus-Group-Separately-a-wallet-tied-to-Solana-arbitrage",
-    "source": "@cointelegraph",
-    "published": "Mon Nov 02 2026 23:20:27 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
