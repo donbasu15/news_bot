@@ -1,5 +1,89 @@
 [
   {
+    "title": "Justin Sun Accuses Trump-Backed World Liberty of Using UAE Ties to Escape Federal Court",
+    "link": "https://cryptopanic.com/news/33645496/Justin-Sun-Accuses-Trump-Backed-World-Liberty-of-Using-UAE-Ties-to-Escape-Federal-Court",
+    "source": "decrypt.co",
+    "published": "Tue Nov 03 2026 20:36:02 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Dive into all the data ⤵️",
+    "link": "https://cryptopanic.com/news/33645542/Dive-into-all-the-data",
+    "source": "@cryptoquant_com",
+    "published": "Tue Nov 03 2026 20:30:56 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Cory Klippsten: Why I'd Sell $100K of Stocks for $65K of Bitcoin",
+    "link": "https://cryptopanic.com/news/33645499/Cory-Klippsten-Why-Id-Sell-100K-of-Stocks-for-65K-of-Bitcoin",
+    "source": "BitcoinMagazine",
+    "published": "Tue Nov 03 2026 20:30:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Anthropic's FlashProve Uses Zero-Knowledge Proofs to Verify Which AI Model Answered You.\n\nThe open-source research prototype uses zkSNARKs, a cryptographic technique widely used in blockchain scaling, to prove a response came from a committed model without revealing the model's",
+    "link": "https://cryptopanic.com/news/33645491/Anthropics-FlashProve-Uses-Zero-Knowledge-Proofs-to-Verify-Which-AI-Model-Answered-You-The-open-source-research-prototype-uses-zkSNARKs-a-cryptographic-technique-widely-used-in-blockchain-scaling-to-prove-a-response-came-from-a-committed-model-without-revealing-the-models",
+    "source": "@decryptmedia",
+    "published": "Tue Nov 03 2026 20:30:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "2026 sits at the same spot: ~17 months before the next halving.\n\nBut BTC rose +20.4% in the 3 months into this vote. Before 2014, 2018 and 2022 it fell (−44%, −8.3%, −16.5%).\n\nIf the 4-year cycle fades, so does this pattern.",
+    "link": "https://cryptopanic.com/news/33645541/2026-sits-at-the-same-spot-17-months-before-the-next-halving-But-BTC-rose-204-in-the-3-months-into-this-vote-Before-2014-2018-and-2022-it-fell-44-83-165-If-the-4-year-cycle-fades-so-does-this-pattern",
+    "source": "@cryptoquant_com",
+    "published": "Tue Nov 03 2026 20:29:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "What a Taproot Spend Reveals About a Wallet’s Policy",
+    "link": "https://cryptopanic.com/news/33645465/What-a-Taproot-Spend-Reveals-About-a-Wallets-Policy",
+    "source": "btcusa.com",
+    "published": "Tue Nov 03 2026 20:28:49 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Which party won didn't matter.\n\n2014: House held R, Senate D→R → +36.8%\n2018: House R→D, Senate held R → +45.8%\n2022: House D→R, Senate held D → +80.8%\n\nAnd n=4 is tiny. BTC was higher a year later on most days, election or not. 4 of 4 can easily be luck.",
+    "link": "https://cryptopanic.com/news/33645540/Which-party-won-didnt-matter-2014-House-held-R-Senate-DR-368-2018-House-RD-Senate-held-R-458-2022-House-DR-Senate-held-D-808-And-n4-is-tiny-BTC-was-higher-a-year-later-on-most-days-election-or-not-4-of-4-can-easily-be-luck",
+    "source": "@cryptoquant_com",
+    "published": "Tue Nov 03 2026 20:28:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin was $614 when Warren Buffett deemed it worthless.\n\nThat's a 124x honest mistake!",
+    "link": "https://cryptopanic.com/news/33645495/Bitcoin-was-614-when-Warren-Buffett-deemed-it-worthless-Thats-a-124x-honest-mistake",
+    "source": "@btc_archive",
+    "published": "Tue Nov 03 2026 20:27:50 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "The recovery wasn't smooth.\n\nDeepest drop after each vote:\n\n• 2018: −49.7% within ~6 weeks\n• 2014: −39.8% within ~10 weeks\n• 2022: −18.5% within 2 weeks (FTX week)\n\nYet 2018 still ended +45.8% a year later.",
+    "link": "https://cryptopanic.com/news/33645539/The-recovery-wasnt-smooth-Deepest-drop-after-each-vote-2018-497-within-6-weeks-2014-398-within-10-weeks-2022-185-within-2-weeks-FTX-week-Yet-2018-still-ended-458-a-year-later",
+    "source": "@cryptoquant_com",
+    "published": "Tue Nov 03 2026 20:27:10 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Every midterm fell 17–25 months before a halving, just after the post-peak crash.\n\n2014, 2018 and 2022 all came after a bear market. That stretch has tended to recover, election or not.\n\nSo \"after midterms\" really means \"this phase of the cycle.\"",
+    "link": "https://cryptopanic.com/news/33645538/Every-midterm-fell-1725-months-before-a-halving-just-after-the-post-peak-crash-2014-2018-and-2022-all-came-after-a-bear-market-That-stretch-has-tended-to-recover-election-or-not-So-after-midterms-really-means-this-phase-of-the-cycle",
+    "source": "@cryptoquant_com",
+    "published": "Tue Nov 03 2026 20:25:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "North Korea denies involvement in the $6.4 billion Binance hack despite FBI allegations, Tether reveals it holds roughly 150,000 bitcoin, and Brazilian crypto exchange Mercado Bitcoin pledges to cover $40 million in losses from a hack.\n\n@jennsanasie has what you need to know.",
+    "link": "https://cryptopanic.com/news/33645546/North-Korea-denies-involvement-in-the-64-billion-Binance-hack-despite-FBI-allegations-Tether-reveals-it-holds-roughly-150000-bitcoin-and-Brazilian-crypto-exchange-Mercado-Bitcoin-pledges-to-cover-40-million-in-losses-from-a-hack-jennsanasie-has-what-you-need-to-know",
+    "source": "@coindesk",
+    "published": "Tue Nov 03 2026 20:24:30 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bullish picks Aptos for its tokenized stock rollout\n\n@Bullish will bring @Aptos ($APT) and @ethereum into its equity tokenization service, which already runs on @solana. Companies will be able to choose which chain their tokenized shares sit on, while the transfer agent keeps the",
+    "link": "https://cryptopanic.com/news/33645444/Bullish-picks-Aptos-for-its-tokenized-stock-rollout-Bullish-will-bring-Aptos-APT-and-ethereum-into-its-equity-tokenization-service-which-already-runs-on-solana-Companies-will-be-able-to-choose-which-chain-their-tokenized-shares-sit-on-while-the-transfer-agent-keeps-the",
+    "source": "@bscnews",
+    "published": "Tue Nov 03 2026 20:16:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Crypto's Midterm Stakes",
     "link": "https://cryptopanic.com/news/33645446/Cryptos-Midterm-Stakes",
     "source": "bankless.com",
@@ -7,10 +91,73 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Source",
+    "link": "https://cryptopanic.com/news/33645543/Source",
+    "source": "@wublockchain",
+    "published": "Tue Nov 03 2026 20:13:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoiners, it’s Election Day. ️\n\nOur BMTV Lead Market Analyst @realseanhagan joins @standwithcrypto’s @masonlynaugh, @thatgerald, and @scottmelker LIVE at 4 PM ET to break down the midterms and what’s at stake for Bitcoin.",
+    "link": "https://cryptopanic.com/news/33645493/Bitcoiners-its-Election-Day-Our-BMTV-Lead-Market-Analyst-realseanhagan-joins-standwithcryptos-masonlynaugh-thatgerald-and-scottmelker-LIVE-at-4-PM-ET-to-break-down-the-midterms-and-whats-at-stake-for-Bitcoin",
+    "source": "@bitcoinmagazine",
+    "published": "Tue Nov 03 2026 20:11:07 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "CFTC opens U.S. stocks to crypto-style futures that never expire",
+    "link": "https://cryptopanic.com/news/33645471/CFTC-opens-US-stocks-to-crypto-style-futures-that-never-expire",
+    "source": "thestreet.com",
+    "published": "Tue Nov 03 2026 20:10:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: $ADA ETFs have surpassed $850,000,000 in cumulative trade volume according to Blockworks.",
+    "link": "https://cryptopanic.com/news/33645545/JUST-IN-ADA-ETFs-have-surpassed-850000000-in-cumulative-trade-volume-according-to-Blockworks",
+    "source": "@angrycryptoshow",
+    "published": "Tue Nov 03 2026 20:10:36 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "LATEST: 🤖 Vitalik Buterin says AI has created “new and more powerful monsters that we just have to deal with.” \n\n\"It's a crazy game, and unfortunately, it's also a compulsory game.”",
+    "link": "https://cryptopanic.com/news/33645537/LATEST-Vitalik-Buterin-says-AI-has-created-new-and-more-powerful-monsters-that-we-just-have-to-deal-with-Its-a-crazy-game-and-unfortunately-its-also-a-compulsory-game",
+    "source": "@coinmarketcap",
+    "published": "Tue Nov 03 2026 20:10:03 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Altcoin Daily ranks Midnight $NIGHT among the top 6 privacy coins to watch going into 2027.",
+    "link": "https://cryptopanic.com/news/33645544/JUST-IN-Altcoin-Daily-ranks-Midnight-NIGHT-among-the-top-6-privacy-coins-to-watch-going-into-2027",
+    "source": "@angrycryptoshow",
+    "published": "Tue Nov 03 2026 20:07:23 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bill Ackman Rules Out a US Stock Bubble, Blames Leveraged Bets for Wild Swings",
+    "link": "https://cryptopanic.com/news/33645462/Bill-Ackman-Rules-Out-a-US-Stock-Bubble-Blames-Leveraged-Bets-for-Wild-Swings",
+    "source": "beincrypto.com",
+    "published": "Tue Nov 03 2026 20:04:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Jason Lowery argues AI agents controlling Bitcoin may mute emotional volatility.\n\n• U.S. Space Force major, 'Softwar' author\n• MIT fellow on Bitcoin’s national security role\n\nDo you agree with him?",
+    "link": "https://cryptopanic.com/news/33645494/Jason-Lowery-argues-AI-agents-controlling-Bitcoin-may-mute-emotional-volatility-US-Space-Force-major-Softwar-author-MIT-fellow-on-Bitcoins-national-security-role-Do-you-agree-with-him",
+    "source": "@btc_archive",
+    "published": "Tue Nov 03 2026 20:01:42 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "WOW: Hedera is helping solve a problem that leaves up to 40% of travel reseller commissions UNPAID!\n\nA new $HBAR case study reveals impressive adoption by travel platform Xeni:\n\n 30M+ mainnet transactions\n 12M bookings\n 400K+ Hedera wallets created\n\nUsing @hedera, Xeni",
     "link": "https://cryptopanic.com/news/33645443/WOW-Hedera-is-helping-solve-a-problem-that-leaves-up-to-40-of-travel-reseller-commissions-UNPAID-A-new-HBAR-case-study-reveals-impressive-adoption-by-travel-platform-Xeni-30M-mainnet-transactions-12M-bookings-400K-Hedera-wallets-created-Using-hedera-Xeni",
     "source": "@realallincrypto",
     "published": "Tue Nov 03 2026 20:00:43 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "GitBook Says Attacker Used AI Agents to Access Some of Its Infrastructure Credentials.\n\nThe documentation platform said the attacker gained access at 1 PM EST (18:00 UTC) Monday and may have reached API tokens, Git Sync secrets and integration tokens, urging users to rotate them.",
+    "link": "https://cryptopanic.com/news/33645490/GitBook-Says-Attacker-Used-AI-Agents-to-Access-Some-of-Its-Infrastructure-Credentials-The-documentation-platform-said-the-attacker-gained-access-at-1-PM-EST-1800-UTC-Monday-and-may-have-reached-API-tokens-Git-Sync-secrets-and-integration-tokens-urging-users-to-rotate-them",
+    "source": "@decryptmedia",
+    "published": "Tue Nov 03 2026 20:00:01 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -49,164 +196,17 @@
     "sentiment": "neutral"
   },
   {
+    "title": "NEW: Bitcoin is experiencing its shallowest bear market in its history \n\nBMTV Analyst Sean Hagan says \"As we enter the end of this month, there's also a strong argument that we have served our time in terms of time-based capitulation\"",
+    "link": "https://cryptopanic.com/news/33645492/NEW-Bitcoin-is-experiencing-its-shallowest-bear-market-in-its-history-BMTV-Analyst-Sean-Hagan-says-As-we-enter-the-end-of-this-month-theres-also-a-strong-argument-that-we-have-served-our-time-in-terms-of-time-based-capitulation",
+    "source": "@bitcoinmagazine",
+    "published": "Tue Nov 03 2026 19:53:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Crypto Docs Host GitBook Hit by AI Agent Security Breach, Urges Users to Rotate Keys",
     "link": "https://cryptopanic.com/news/33645349/Crypto-Docs-Host-GitBook-Hit-by-AI-Agent-Security-Breach-Urges-Users-to-Rotate-Keys",
     "source": "@decryptmedia",
     "published": "Tue Nov 03 2026 19:47:15 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Midnight Network has had a busy few weeks since opening its mainnet to developers.\n\n@MidnightNtwrk, the privacy chain backed by @IOGroup, has stacked up several milestones over the last 30 days.\n\nHere are some key developments:\n\n[Oct 5] Anyone can now deploy smart contracts on",
-    "link": "https://cryptopanic.com/news/33645345/Midnight-Network-has-had-a-busy-few-weeks-since-opening-its-mainnet-to-developers-MidnightNtwrk-the-privacy-chain-backed-by-IOGroup-has-stacked-up-several-milestones-over-the-last-30-days-Here-are-some-key-developments-Oct-5-Anyone-can-now-deploy-smart-contracts-on",
-    "source": "@bscnews",
-    "published": "Tue Nov 03 2026 19:47:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Crypto Docs Host GitBook Hit by AI Agent Security Breach, Urges Users to Rotate Keys",
-    "link": "https://cryptopanic.com/news/33645350/Crypto-Docs-Host-GitBook-Hit-by-AI-Agent-Security-Breach-Urges-Users-to-Rotate-Keys",
-    "source": "decrypt.co",
-    "published": "Tue Nov 03 2026 19:46:03 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Wall Street Won't Touch DeFi Until This Happens",
-    "link": "https://cryptopanic.com/news/33645341/Wall-Street-Wont-Touch-DeFi-Until-This-Happens",
-    "source": "MilkRoadYoutube",
-    "published": "Tue Nov 03 2026 19:45:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin, Ethereum, XRP, Dogecoin Steady Ahead of Midterm Results",
-    "link": "https://cryptopanic.com/news/33645362/Bitcoin-Ethereum-XRP-Dogecoin-Steady-Ahead-of-Midterm-Results",
-    "source": "feeds2.benzinga.com",
-    "published": "Tue Nov 03 2026 19:45:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Major Developer Documentation Platform GitBook Hit by AI Agent-Driven Attack, Crypto Projects' Docs Affected\n\nGitBook reported that attackers used AI agents to gain unauthorized access to some of its infrastructure credentials at 1:00 p.m. EST on November 2. The company detected",
-    "link": "https://cryptopanic.com/news/33645361/Major-Developer-Documentation-Platform-GitBook-Hit-by-AI-Agent-Driven-Attack-Crypto-Projects-Docs-Affected-GitBook-reported-that-attackers-used-AI-agents-to-gain-unauthorized-access-to-some-of-its-infrastructure-credentials-at-100-pm-EST-on-November-2-The-company-detected",
-    "source": "@wublockchain",
-    "published": "Tue Nov 03 2026 19:44:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "BIG: trondao reports TRON leads stablecoin growth with $256.5M added over seven days, more than double the next closest network.",
-    "link": "https://cryptopanic.com/news/33645441/BIG-trondao-reports-TRON-leads-stablecoin-growth-with-2565M-added-over-seven-days-more-than-double-the-next-closest-network",
-    "source": "@cointelegraph",
-    "published": "Tue Nov 03 2026 19:40:29 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Blockworks ranks #Cardano as the 4th highest mindshare at 3.55%, up from 3.18% in the past week. $ADA's social dominance closely follows Ethereum.",
-    "link": "https://cryptopanic.com/news/33645365/JUST-IN-Blockworks-ranks-Cardano-as-the-4th-highest-mindshare-at-355-up-from-318-in-the-past-week-ADAs-social-dominance-closely-follows-Ethereum",
-    "source": "@angrycryptoshow",
-    "published": "Tue Nov 03 2026 19:39:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Why the Crypto Vote Could be the X Factor for the Mid-Term Elections",
-    "link": "https://cryptopanic.com/news/33645334/Why-the-Crypto-Vote-Could-be-the-X-Factor-for-the-Mid-Term-Elections",
-    "source": "BitcoinMagazine",
-    "published": "Tue Nov 03 2026 19:31:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Blockchain’s institutional adoption problem isn’t the technology.\n\n@konstantin11, Founder/CEO of @blockdaemonhq, at @stellarorg’s Meridian 2026 says it’s regulatory framing first. Second, providers need to understand how to work with institutions.",
-    "link": "https://cryptopanic.com/news/33645293/Blockchains-institutional-adoption-problem-isnt-the-technology-konstantin11-FounderCEO-of-blockdaemonhq-at-stellarorgs-Meridian-2026-says-its-regulatory-framing-first-Second-providers-need-to-understand-how-to-work-with-institutions",
-    "source": "@coindesk",
-    "published": "Tue Nov 03 2026 19:30:13 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "REMINDER: The IMF was discussing Stellar's role in global finance back in 2023! $XLM\n\nIn a dedicated section of its research, the IMF explored how @StellarOrg enables digital currencies backed by real-world assets and connects traditional money with blockchain technology.\n\nThis",
-    "link": "https://cryptopanic.com/news/33645343/REMINDER-The-IMF-was-discussing-Stellars-role-in-global-finance-back-in-2023-XLM-In-a-dedicated-section-of-its-research-the-IMF-explored-how-StellarOrg-enables-digital-currencies-backed-by-real-world-assets-and-connects-traditional-money-with-blockchain-technology-This",
-    "source": "@realallincrypto",
-    "published": "Tue Nov 03 2026 19:30:12 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Binance Hack: Why Bitcoin Custody Matters More Than Ever",
-    "link": "https://cryptopanic.com/news/33645307/Binance-Hack-Why-Bitcoin-Custody-Matters-More-Than-Ever",
-    "source": "SimplyBitcoin",
-    "published": "Tue Nov 03 2026 19:30:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "FOMO HOUR ft @Tyler_Did_It and @farokh\n- \n-",
-    "link": "https://cryptopanic.com/news/33645348/FOMO-HOUR-ft-Tyler_Did_It-and-farokh-",
-    "source": "@decryptmedia",
-    "published": "Tue Nov 03 2026 19:30:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Could a gridlocked Congress be good for crypto? \"Two years of gridlock in Congress means that markets can just go off on their own.\" @Tyler_Did_It on the midterms as Americans head to the polls.",
-    "link": "https://cryptopanic.com/news/33645347/Could-a-gridlocked-Congress-be-good-for-crypto-Two-years-of-gridlock-in-Congress-means-that-markets-can-just-go-off-on-their-own-Tyler_Did_It-on-the-midterms-as-Americans-head-to-the-polls",
-    "source": "@decryptmedia",
-    "published": "Tue Nov 03 2026 19:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Sig Network CEO on private chains says \"I think Midnight is one of the least opinionated solutions. It's one of the fastest and most principled solutions. As a result, we have the ability to shape what private transactions look like in the future if you participate now.\"",
-    "link": "https://cryptopanic.com/news/33645291/UPDATE-Sig-Network-CEO-on-private-chains-says-I-think-Midnight-is-one-of-the-least-opinionated-solutions-Its-one-of-the-fastest-and-most-principled-solutions-As-a-result-we-have-the-ability-to-shape-what-private-transactions-look-like-in-the-future-if-you-participate-now",
-    "source": "@angrycryptoshow",
-    "published": "Tue Nov 03 2026 19:25:35 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇪🇺 European Union urges citizens to prepare emergency survival kits with enough supplies to last 72 hours.",
-    "link": "https://cryptopanic.com/news/33645292/JUST-IN-European-Union-urges-citizens-to-prepare-emergency-survival-kits-with-enough-supplies-to-last-72-hours",
-    "source": "@cryptonwsuk",
-    "published": "Tue Nov 03 2026 19:20:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Israeli claims of Iranian chemical weapons have divided U.S. officials, with some accusing Netanyahu of trying to draw Trump back into military action, per NY Times.",
-    "link": "https://cryptopanic.com/news/33645295/JUST-IN-Israeli-claims-of-Iranian-chemical-weapons-have-divided-US-officials-with-some-accusing-Netanyahu-of-trying-to-draw-Trump-back-into-military-action-per-NY-Times",
-    "source": "@cointelegraph",
-    "published": "Tue Nov 03 2026 19:20:27 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Sig Network CEO says the focus is \"making Midnight the way which you do private stuff among public chains, and to get the biggest anonymity set we possibly can—the layer between chains. You're not leaking proprietary data, your competitors can't see what you're doing.\"",
-    "link": "https://cryptopanic.com/news/33645290/UPDATE-Sig-Network-CEO-says-the-focus-is-making-Midnight-the-way-which-you-do-private-stuff-among-public-chains-and-to-get-the-biggest-anonymity-set-we-possibly-canthe-layer-between-chains-Youre-not-leaking-proprietary-data-your-competitors-cant-see-what-youre-doing",
-    "source": "@angrycryptoshow",
-    "published": "Tue Nov 03 2026 19:20:22 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Sig Network CEO on Nightmode, says \"TRON is a blockchain for payments. We're bringing Midnight's technology to TRON. This will make TRON a much more viable place to do serious business. We think it'll make TRON and Midnight better,\" set to launch on mainnet in December.",
-    "link": "https://cryptopanic.com/news/33645289/UPDATE-Sig-Network-CEO-on-Nightmode-says-TRON-is-a-blockchain-for-payments-Were-bringing-Midnights-technology-to-TRON-This-will-make-TRON-a-much-more-viable-place-to-do-serious-business-We-think-itll-make-TRON-and-Midnight-better-set-to-launch-on-mainnet-in-December",
-    "source": "@angrycryptoshow",
-    "published": "Tue Nov 03 2026 19:19:59 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "3 Cryptocurrencies to Invest $1,000 in This November: Popular AIs Name the Top Contenders",
-    "link": "https://cryptopanic.com/news/33645254/3-Cryptocurrencies-to-Invest-1000-in-This-November-Popular-AIs-Name-the-Top-Contenders",
-    "source": "cryptopotato.com",
-    "published": "Tue Nov 03 2026 19:19:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Nightmode supports \"MetaMask wallet, people won't even realize they're using Midnight.\"",
-    "link": "https://cryptopanic.com/news/33645288/UPDATE-Nightmode-supports-MetaMask-wallet-people-wont-even-realize-theyre-using-Midnight",
-    "source": "@angrycryptoshow",
-    "published": "Tue Nov 03 2026 19:18:58 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Sei Network puts its Giga speed upgrade to a holder vote\n\n$SEI holders are voting on SIP-6, a proposal to move @SeiNetwork to Autobahn, the new consensus system behind its Giga upgrade. Every vote cast so far is a yes, and turnout has already cleared the bar needed to pass.",
-    "link": "https://cryptopanic.com/news/33645344/Sei-Network-puts-its-Giga-speed-upgrade-to-a-holder-vote-SEI-holders-are-voting-on-SIP-6-a-proposal-to-move-SeiNetwork-to-Autobahn-the-new-consensus-system-behind-its-Giga-upgrade-Every-vote-cast-so-far-is-a-yes-and-turnout-has-already-cleared-the-bar-needed-to-pass",
-    "source": "@bscnews",
-    "published": "Tue Nov 03 2026 19:18:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "UPDATE: Midnight's Nightmode allows users to \"deposit funds like you would in a CEX, and use DeFi protocols in an entirely permissionless way. There's no KYC, no heavy regulatory burden of starting an exchange. You just get going and everyone's assets and trades become private.\"",
-    "link": "https://cryptopanic.com/news/33645287/UPDATE-Midnights-Nightmode-allows-users-to-deposit-funds-like-you-would-in-a-CEX-and-use-DeFi-protocols-in-an-entirely-permissionless-way-Theres-no-KYC-no-heavy-regulatory-burden-of-starting-an-exchange-You-just-get-going-and-everyones-assets-and-trades-become-private",
-    "source": "@angrycryptoshow",
-    "published": "Tue Nov 03 2026 19:17:28 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
