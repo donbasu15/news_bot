@@ -1,5 +1,103 @@
 [
   {
+    "title": "Nobody Handed the PIVX Community Its Tone",
+    "link": "https://cryptopanic.com/news/33650019/Nobody-Handed-the-PIVX-Community-Its-Tone",
+    "source": "medium.com/pivx",
+    "published": "Wed Nov 04 2026 13:39:05 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Riot Platforms’ Bitcoin sales hit 10,599 as reserves fell nearly 79%",
+    "link": "https://cryptopanic.com/news/33649962/Riot-Platforms-Bitcoin-sales-hit-10599-as-reserves-fell-nearly-79",
+    "source": "en.cryptonomist.ch",
+    "published": "Wed Nov 04 2026 13:33:57 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Selling pressure on Bitcoin in U.S. markets continues despite a bounce to $78,000.\n\nBitcoin on Coinbase traded at a $100 discount compared to Binance and OKX.",
+    "link": "https://cryptopanic.com/news/33650022/Selling-pressure-on-Bitcoin-in-US-markets-continues-despite-a-bounce-to-78000-Bitcoin-on-Coinbase-traded-at-a-100-discount-compared-to-Binance-and-OKX",
+    "source": "@btc_archive",
+    "published": "Wed Nov 04 2026 13:32:34 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Etoro’s Latin America expansion targets Argentina in LB Finanzas app deal",
+    "link": "https://cryptopanic.com/news/33649946/Etoros-Latin-America-expansion-targets-Argentina-in-LB-Finanzas-app-deal",
+    "source": "en.cryptonomist.ch",
+    "published": "Wed Nov 04 2026 13:31:44 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Another MASSIVE crypto theft in the EU, with losses reportedly exceeding $133 MILLION!\n\nBlockchain investigator @zachxbt has identified French banking giant Crédit Mutuel Arkéa, with $235 BILLION in assets, as the alleged victim.\n\nThe attacker reportedly moved stolen",
+    "link": "https://cryptopanic.com/news/33649938/Another-MASSIVE-crypto-theft-in-the-EU-with-losses-reportedly-exceeding-133-MILLION-Blockchain-investigator-zachxbt-has-identified-French-banking-giant-Credit-Mutuel-Arkea-with-235-BILLION-in-assets-as-the-alleged-victim-The-attacker-reportedly-moved-stolen",
+    "source": "@realallincrypto",
+    "published": "Wed Nov 04 2026 13:30:14 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Circle beats Q3 estimates as ARC token sale cushions reserve yield drop",
+    "link": "https://cryptopanic.com/news/33649906/Circle-beats-Q3-estimates-as-ARC-token-sale-cushions-reserve-yield-drop",
+    "source": "cryptopolitan.com",
+    "published": "Wed Nov 04 2026 13:28:18 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Morning Minute: CFTC Clears Stock Perps, Gets Sued the Same Day",
+    "link": "https://cryptopanic.com/news/33649898/Morning-Minute-CFTC-Clears-Stock-Perps-Gets-Sued-the-Same-Day",
+    "source": "decrypt.co",
+    "published": "Wed Nov 04 2026 13:25:01 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: Michael Saylor says \"Florida elected a Republican governor who backed a U.S. Bitcoin reserve. Texas elected a Democratic senator who voted to create one for his state.\" 🇺🇸\n\n\"The case for holding Bitcoin crosses party lines.\"",
+    "link": "https://cryptopanic.com/news/33650020/JUST-IN-Michael-Saylor-says-Florida-elected-a-Republican-governor-who-backed-a-US-Bitcoin-reserve-Texas-elected-a-Democratic-senator-who-voted-to-create-one-for-his-state-The-case-for-holding-Bitcoin-crosses-party-lines",
+    "source": "@bitcoinmagazine",
+    "published": "Wed Nov 04 2026 13:23:38 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Dfinity Founder wants Exchanges to use ICP... \n\n@Dfinity Founder Dominic Williams (@dominic_w) is unhappy about the current attacks on exchanges. \n\n$ICP is trying to provide a tamper-proof custody service for institutions using its threshold cryptography technology built on the",
+    "link": "https://cryptopanic.com/news/33649940/Dfinity-Founder-wants-Exchanges-to-use-ICP-Dfinity-Founder-Dominic-Williams-dominic_w-is-unhappy-about-the-current-attacks-on-exchanges-ICP-is-trying-to-provide-a-tamper-proof-custody-service-for-institutions-using-its-threshold-cryptography-technology-built-on-the",
+    "source": "@bscnews",
+    "published": "Wed Nov 04 2026 13:21:04 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "JUST IN: The US Office of the Comptroller of the Currency has issued a regulatory framework for banks’ use of Super Intelligence.",
+    "link": "https://cryptopanic.com/news/33649936/JUST-IN-The-US-Office-of-the-Comptroller-of-the-Currency-has-issued-a-regulatory-framework-for-banks-use-of-Super-Intelligence",
+    "source": "@cointelegraph",
+    "published": "Wed Nov 04 2026 13:20:45 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hoskinson’s Midnight Tease Raises a Hard Question for ADA Holders",
+    "link": "https://cryptopanic.com/news/33649881/Hoskinsons-Midnight-Tease-Raises-a-Hard-Question-for-ADA-Holders",
+    "source": "dailycoin.com",
+    "published": "Wed Nov 04 2026 13:18:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Circle reports $865 million in Q3 revenue and reserve income, discloses 5% workforce reduction",
+    "link": "https://cryptopanic.com/news/33649887/Circle-reports-865-million-in-Q3-revenue-and-reserve-income-discloses-5-workforce-reduction",
+    "source": "theblock.co",
+    "published": "Wed Nov 04 2026 13:17:31 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Bitcoin ETFs sold $115M yesterday, totaling $1.15B outflows in 3 days.\n\nBTC price held above $76,000. \n\nBullish!",
+    "link": "https://cryptopanic.com/news/33650021/Bitcoin-ETFs-sold-115M-yesterday-totaling-115B-outflows-in-3-days-BTC-price-held-above-76000-Bullish",
+    "source": "@btc_archive",
+    "published": "Wed Nov 04 2026 13:16:09 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Hong Kong Passes a New Crypto Tax Law: What Changes for Investors in 2027",
+    "link": "https://cryptopanic.com/news/33649956/Hong-Kong-Passes-a-New-Crypto-Tax-Law-What-Changes-for-Investors-in-2027",
+    "source": "beincrypto.com",
+    "published": "Wed Nov 04 2026 13:14:33 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin Shrugs Off Midterms as Experts Say Democratic Sweep Was 'Priced In'",
     "link": "https://cryptopanic.com/news/33649840/Bitcoin-Shrugs-Off-Midterms-as-Experts-Say-Democratic-Sweep-Was-Priced-In",
     "source": "decrypt.co",
@@ -11,6 +109,13 @@
     "link": "https://cryptopanic.com/news/33649875/59-companies-reject-OKXICE-as-Apple-becomes-latest-Big-Tech-opt-out",
     "source": "cryptopolitan.com",
     "published": "Wed Nov 04 2026 13:08:40 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Swan Bitcoin CEO @CorySwan tells @itsciaranlyons there is a \"two-thirds chance\" that Bitcoin will set a new all-time high by June 30, 2027.\n\nCory also talks about the Binance hack, quantum computing threats to Bitcoin and broader adoption in the latest episode of #CHAINREACTION.",
+    "link": "https://cryptopanic.com/news/33649935/Swan-Bitcoin-CEO-CorySwan-tells-itsciaranlyons-there-is-a-two-thirds-chance-that-Bitcoin-will-set-a-new-all-time-high-by-June-30-2027-Cory-also-talks-about-the-Binance-hack-quantum-computing-threats-to-Bitcoin-and-broader-adoption-in-the-latest-episode-of-CHAINREACTION",
+    "source": "@cointelegraph",
+    "published": "Wed Nov 04 2026 13:06:40 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
   {
@@ -28,9 +133,30 @@
     "sentiment": "neutral"
   },
   {
+    "title": "7 Things Democrats Could Mean for Bitcoin and Crypto",
+    "link": "https://cryptopanic.com/news/33649954/7-Things-Democrats-Could-Mean-for-Bitcoin-and-Crypto",
+    "source": "beincrypto.com",
+    "published": "Wed Nov 04 2026 13:02:15 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Quant has released a new whitepaper with thier new partner and financial software GIANT Murex, whose technology serves 60,000+ daily users across 65 countries!\n\nMurex's MX.3 platform powers trading, risk management and settlement for major financial institutions.\n\nNow, Quant's",
+    "link": "https://cryptopanic.com/news/33649937/Quant-has-released-a-new-whitepaper-with-thier-new-partner-and-financial-software-GIANT-Murex-whose-technology-serves-60000-daily-users-across-65-countries-Murexs-MX3-platform-powers-trading-risk-management-and-settlement-for-major-financial-institutions-Now-Quants",
+    "source": "@realallincrypto",
+    "published": "Wed Nov 04 2026 13:01:11 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Consensys Wants Banks to Settle Across Ledgers Without Bridges",
     "link": "https://cryptopanic.com/news/33649821/Consensys-Wants-Banks-to-Settle-Across-Ledgers-Without-Bridges",
     "source": "coinpaprika.com",
+    "published": "Wed Nov 04 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Can Shiba Inu Reach $1? Its Own Team Just Revived the Debate",
+    "link": "https://cryptopanic.com/news/33649953/Can-Shiba-Inu-Reach-1-Its-Own-Team-Just-Revived-the-Debate",
+    "source": "beincrypto.com",
     "published": "Wed Nov 04 2026 13:00:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   },
@@ -63,6 +189,13 @@
     "sentiment": "neutral"
   },
   {
+    "title": "Sei is leaning into its speed and low-cost edge\n\nNetwork fees on @SeiNetwork have fallen to a 30-day low of $0.00213 for every transaction. A single dollar worth $0.25 can process 117 transactions.\n\nThe reduced fee suits $Sei's parallel EVM. This enables high-frequency",
+    "link": "https://cryptopanic.com/news/33649939/Sei-is-leaning-into-its-speed-and-low-cost-edge-Network-fees-on-SeiNetwork-have-fallen-to-a-30-day-low-of-000213-for-every-transaction-A-single-dollar-worth-025-can-process-117-transactions-The-reduced-fee-suits-Seis-parallel-EVM-This-enables-high-frequency",
+    "source": "@bscnews",
+    "published": "Wed Nov 04 2026 12:53:37 GMT+0000 (Coordinated Universal Time)",
+    "sentiment": "neutral"
+  },
+  {
     "title": "Bitcoin Rallies 2%: Could Tightening Supply Spark a Bigger Rally?",
     "link": "https://cryptopanic.com/news/33649815/Bitcoin-Rallies-2-Could-Tightening-Supply-Spark-a-Bigger-Rally",
     "source": "feeds2.benzinga.com",
@@ -74,139 +207,6 @@
     "link": "https://cryptopanic.com/news/33649737/Hong-Kong-to-share-crypto-trade-data-with-global-tax-agencies-in-2028-including-user-identity",
     "source": "@btc_archive",
     "published": "Wed Nov 04 2026 12:52:01 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Trump Says \"Iran Was a Piece of It\" in Explaining Republican Midterm Losses.\n\nExplaining the Republican losses, President Trump told The Wall Street Journal on Tuesday night that \"Iran was a piece of it\" and \"the biggest issue is that I wasn't on the ballot.\"",
-    "link": "https://cryptopanic.com/news/33649731/Trump-Says-Iran-Was-a-Piece-of-It-in-Explaining-Republican-Midterm-Losses-Explaining-the-Republican-losses-President-Trump-told-The-Wall-Street-Journal-on-Tuesday-night-that-Iran-was-a-piece-of-it-and-the-biggest-issue-is-that-I-wasnt-on-the-ballot",
-    "source": "@decryptmedia",
-    "published": "Wed Nov 04 2026 12:51:38 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "NEW: @Circle reports Q3 net income of $226M, up 5% year-over-year with revenue of $778M beating estimates by 11%, as $USDC onchain transaction volume surges 49% to $13.9T.",
-    "link": "https://cryptopanic.com/news/33649835/NEW-Circle-reports-Q3-net-income-of-226M-up-5-year-over-year-with-revenue-of-778M-beating-estimates-by-11-as-USDC-onchain-transaction-volume-surges-49-to-139T",
-    "source": "@coindesk",
-    "published": "Wed Nov 04 2026 12:51:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "The company signs 15-year lease for all 910MW of its Corsicana site worth about $28 billion",
-    "link": "https://cryptopanic.com/news/33649732/The-company-signs-15-year-lease-for-all-910MW-of-its-Corsicana-site-worth-about-28-billion",
-    "source": "@solidintel_x",
-    "published": "Wed Nov 04 2026 12:49:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "INTEL: Riot sold about 20,264 BTC this year for roughly $1.5 billion to fund data center buildout, and fully repaid its $200 million Coinbase credit line",
-    "link": "https://cryptopanic.com/news/33649733/INTEL-Riot-sold-about-20264-BTC-this-year-for-roughly-15-billion-to-fund-data-center-buildout-and-fully-repaid-its-200-million-Coinbase-credit-line",
-    "source": "@solidintel_x",
-    "published": "Wed Nov 04 2026 12:49:05 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "$UNI Hit its largest volume day since 10/10 after the Binance hack.\n\nNot entirely surprising, of course as it was a massive volume day in general.\n\nBut overall the volumes have been quite strong since August, especially after Robinhood chain joined in.\n\nOverall holders revenue",
-    "link": "https://cryptopanic.com/news/33649695/UNI-Hit-its-largest-volume-day-since-1010-after-the-Binance-hack-Not-entirely-surprising-of-course-as-it-was-a-massive-volume-day-in-general-But-overall-the-volumes-have-been-quite-strong-since-August-especially-after-Robinhood-chain-joined-in-Overall-holders-revenue",
-    "source": "@daancrypto",
-    "published": "Wed Nov 04 2026 12:47:52 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "US Midterm Election Results: Musk Spent $474 Million, Crypto $176 Million — But Democrats Won Congress",
-    "link": "https://cryptopanic.com/news/33649675/US-Midterm-Election-Results-Musk-Spent-474-Million-Crypto-176-Million-But-Democrats-Won-Congress",
-    "source": "coinpaper.com",
-    "published": "Wed Nov 04 2026 12:46:10 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Ivy League University Breach Exposes Data Tied to 851,000 Accounts – Names, Addresses and Donation Details Leaked",
-    "link": "https://cryptopanic.com/news/33649746/Ivy-League-University-Breach-Exposes-Data-Tied-to-851000-Accounts-Names-Addresses-and-Donation-Details-Leaked",
-    "source": "dailyhodl.com",
-    "published": "Wed Nov 04 2026 12:45:30 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "USDC Issuer Circle Quietly Cuts 5% of Staff in Profitable Quarter",
-    "link": "https://cryptopanic.com/news/33649677/USDC-Issuer-Circle-Quietly-Cuts-5-of-Staff-in-Profitable-Quarter",
-    "source": "decrypt.co",
-    "published": "Wed Nov 04 2026 12:44:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Apex Group’s on-chain compliance framework carries bond rules across blockchains",
-    "link": "https://cryptopanic.com/news/33649614/Apex-Groups-on-chain-compliance-framework-carries-bond-rules-across-blockchains",
-    "source": "en.cryptonomist.ch",
-    "published": "Wed Nov 04 2026 12:37:26 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: 🇺🇸 Michael Saylor says support for Bitcoin reserves is growing across both Republican and Democratic parties.",
-    "link": "https://cryptopanic.com/news/33649736/JUST-IN-Michael-Saylor-says-support-for-Bitcoin-reserves-is-growing-across-both-Republican-and-Democratic-parties",
-    "source": "@watcherguru",
-    "published": "Wed Nov 04 2026 12:35:34 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "@UBS Join us at the next LONGITUDE",
-    "link": "https://cryptopanic.com/news/33649693/UBS-Join-us-at-the-next-LONGITUDE",
-    "source": "@cointelegraph",
-    "published": "Wed Nov 04 2026 12:33:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "LONGITUDE: Tokenization doesn't automatically create liquidity.\n\nKa Yan Chan of @UBS explains why liquidity depends on asset demand, market makers and market depth, while tokenization can help expand market access and participation.",
-    "link": "https://cryptopanic.com/news/33649692/LONGITUDE-Tokenization-doesnt-automatically-create-liquidity-Ka-Yan-Chan-of-UBS-explains-why-liquidity-depends-on-asset-demand-market-makers-and-market-depth-while-tokenization-can-help-expand-market-access-and-participation",
-    "source": "@cointelegraph",
-    "published": "Wed Nov 04 2026 12:33:32 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "JUST IN: Netanyahu loses majority in Israel election",
-    "link": "https://cryptopanic.com/news/33649684/JUST-IN-Netanyahu-loses-majority-in-Israel-election",
-    "source": "@cryptonwsuk",
-    "published": "Wed Nov 04 2026 12:31:33 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "WOW: Hedera is developing technology that could allow AI agents to spend money on your behalf WITHOUT giving them access to your wallet!\n\nImagine AI paying bills, buying services or completing transactions automatically, while YOU control exactly how much it can spend and who",
-    "link": "https://cryptopanic.com/news/33649696/WOW-Hedera-is-developing-technology-that-could-allow-AI-agents-to-spend-money-on-your-behalf-WITHOUT-giving-them-access-to-your-wallet-Imagine-AI-paying-bills-buying-services-or-completing-transactions-automatically-while-YOU-control-exactly-how-much-it-can-spend-and-who",
-    "source": "@realallincrypto",
-    "published": "Wed Nov 04 2026 12:30:11 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "220 Billion Shiba Inu (SHIB): Result of the Biggest Outflow Streak in 2026",
-    "link": "https://cryptopanic.com/news/33649698/220-Billion-Shiba-Inu-SHIB-Result-of-the-Biggest-Outflow-Streak-in-2026",
-    "source": "u.today",
-    "published": "Wed Nov 04 2026 12:30:00 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Aftermath is transforming Sui's Perps market\n\nThe @SuiNetwork ecosystem is buzzing with protocols, and @AftermathFi is standing out.\n\nAccording to DeFillama, $SUI has seen a notable surge in the perps market. \n\nThe blockchain has seen a 30+% increase in the past 7 days, with",
-    "link": "https://cryptopanic.com/news/33649697/Aftermath-is-transforming-Suis-Perps-market-The-SuiNetwork-ecosystem-is-buzzing-with-protocols-and-AftermathFi-is-standing-out-According-to-DeFillama-SUI-has-seen-a-notable-surge-in-the-perps-market-The-blockchain-has-seen-a-30-increase-in-the-past-7-days-with",
-    "source": "@bscnews",
-    "published": "Wed Nov 04 2026 12:28:28 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Zcash Price Prediction: ZEC Jumps 10% Ahead of Major Network Upgrade",
-    "link": "https://cryptopanic.com/news/33649551/Zcash-Price-Prediction-ZEC-Jumps-10-Ahead-of-Major-Network-Upgrade",
-    "source": "coinpaper.com",
-    "published": "Wed Nov 04 2026 12:27:53 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Bitcoin Fear Spikes on Democrat Sweep but $79,000 Could Flip the Script",
-    "link": "https://cryptopanic.com/news/33649613/Bitcoin-Fear-Spikes-on-Democrat-Sweep-but-79000-Could-Flip-the-Script",
-    "source": "feeds2.benzinga.com",
-    "published": "Wed Nov 04 2026 12:22:14 GMT+0000 (Coordinated Universal Time)",
-    "sentiment": "neutral"
-  },
-  {
-    "title": "Evernorth Filing To Unlock 12 Million Shares For Resale",
-    "link": "https://cryptopanic.com/news/33649532/Evernorth-Filing-To-Unlock-12-Million-Shares-For-Resale",
-    "source": "dailycoin.com",
-    "published": "Wed Nov 04 2026 12:17:00 GMT+0000 (Coordinated Universal Time)",
     "sentiment": "neutral"
   }
 ]
